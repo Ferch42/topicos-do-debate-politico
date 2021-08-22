@@ -1,8 +1,8 @@
 import requests
 from tqdm import tqdm
+import json
 
 # funções auxiliares
-formata_texto = lambda texto: texto.replace('null', 'None')
 
 def seleciona_link(links, chave):
 
@@ -21,7 +21,7 @@ def captura_discursos(deputado):
 		f"https://dadosabertos.camara.leg.br/api/v2/deputados/{deputado['id']}/discursos",
 		params = {'idLegislatura': deputado['idLegislatura']}
 	)
-	dados_requisicao = eval(formata_texto(requisicao_inicial.text))
+	dados_requisicao = json.loads(requisicao_inicial.text)
 
 	# link atual
 	link_atual = seleciona_link(dados_requisicao['links'], 'self')
@@ -33,7 +33,7 @@ def captura_discursos(deputado):
 	link_final = seleciona_link(dados_requisicao['links'], 'last')
 
 	# função auxiliar para adicionar o nome do deputado aos dicursos
-	adiciona_nome_deputado = lambda disc: disc.update({'nomeDeputado': deputado['nome']})
+	adiciona_nome_deputado = lambda disc: dict({'nomeDeputado': deputado['nome']}, **disc)
 	
 	discursos = [adiciona_nome_deputado(disc) for disc in dados_requisicao['dados']]
 	
@@ -45,10 +45,15 @@ def captura_discursos(deputado):
 		proxima_requisicao = requests.get(proximo_link)
 		link_atual = proximo_link
 
-		dados_requisicao = eval(formata_texto(proxima_requisicao.text))
+		dados_requisicao = json.loads(proxima_requisicao.text)
 		discursos += [adiciona_nome_deputado(disc) for disc in dados_requisicao['dados']]
 
 		proximo_link = seleciona_link(dados_requisicao['links'], 'next')
+
+	# Salva em disco os discursos
+	with open(f"./discursos/{deputado['nome'].replace(' ', '_')}.txt", 'wt') as out:
+   		out.write(json.dumps(discursos, indent=4, sort_keys=True))
+
 
 	return discursos
 
@@ -57,7 +62,7 @@ def main():
 
 	# Faz a requisição dos deputados
 	requisicao_deputados = requests.get("https://dadosabertos.camara.leg.br/api/v2/deputados")
-	dados_deputados = eval(requisicao_deputados.text)
+	dados_deputados = json.loads(requisicao_deputados.text)
 
 	deputados = dados_deputados['dados']
 	# por padrão todos os deputados estão na mesma Legislatura
