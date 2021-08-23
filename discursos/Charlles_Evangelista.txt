@@ -1,0 +1,848 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CHARLLES EVANGELISTA, DEPUTADO FEDERAL, DESFILIA\u00c7\u00c3O PARTID\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "N\u00e3o expuls\u00e3o do orador dos quadros do PSL.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, circula nas grandes m\u00eddias informa\u00e7\u00e3o a respeito da minha expuls\u00e3o do PSL, com rela\u00e7\u00e3o \u00e0 elei\u00e7\u00e3o do 2\u00ba Vice-Presidente da Casa, ocasi\u00e3o em que coloquei meu nome nessa disputa de forma avulsa.\r\nGostaria de tranquilizar o povo mineiro que de forma alguma fui comunicado do fato. Fiquei sabendo da not\u00edcia pela imprensa. N\u00e3o chegou ao meu conhecimento nenhuma carta de expuls\u00e3o, nenhum pedido oficial do partido. A candidatura avulsa \u00e9 totalmente legal, n\u00e3o h\u00e1 motivo algum para que o partido possa me expulsar. N\u00e3o foi deliberado no partido o assunto de quem seria o candidato. E n\u00f3s estamos aqui n\u00e3o somente pensando em partido, mas em trabalhar por Minas Gerais e tamb\u00e9m por todo o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=20&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "CHARLLES EVANGELISTA, DEPUTADO FEDERAL, ORADOR, PARTIDO SOCIAL LIBERAL (PSL), PLATAFORMA POL\u00cdTICA, ESCLARECIMENTO.\r\nCRIMINALIDADE, DEPEND\u00caNCIA QU\u00cdMICA, VINCULA\u00c7\u00c3O.\r\nENTORPECENTE, TR\u00c1FICO DE DROGA, COMBATE.\r\nREFORMA PREVIDENCI\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Veicula\u00e7\u00e3o de not\u00edcias na imprensa sobre a expuls\u00e3o do orador do PSL. Vincula\u00e7\u00e3o entre o consumo de drogas e a criminalidade. Compromisso de luta do orador contra o uso e o tr\u00e1fico de drogas. Apoio ao Presidente Jair Bolsonaro e \u00e0 realiza\u00e7\u00e3o da reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Com revis\u00e3o do orador.) - Boa tarde, Sr. Presidente Isnaldo Bulh\u00f5es Jr., Sras. e Srs. Deputados, telespectadores da TV C\u00e2mara que nos veem, esta \u00e9 a primeira vez que subo a esta tribuna para me apresentar e agradecer ao povo mineiro por ter me dado a honra de estar nesta Casa para represent\u00e1-lo.\r\nAnteriormente, subi aqui com apenas 1 minuto e pude expor rapidamente algumas not\u00edcias que estavam sendo veiculadas na grande imprensa falando da minha expuls\u00e3o do PSL.\r\nA \u00fanica coisa que sei em rela\u00e7\u00e3o a isso \u00e9 o que li nesses canais. At\u00e9 agora, n\u00e3o recebi qualquer notifica\u00e7\u00e3o em rela\u00e7\u00e3o ao assunto. Tenho total interesse em permanecer no PSL. A candidatura que lancei \u00e0 2\u00aa Presid\u00eancia foi totalmente regular, permitida pelo Regimento. Portanto, n\u00e3o h\u00e1 qualquer motivo para o partido querer a minha expuls\u00e3o.\r\nFui Vereador na cidade de Juiz de Fora. Minha profiss\u00e3o \u00e9 a de oficial de Justi\u00e7a. E venho agradecer a cada juiz-forano, a cada morador da Zona da Mata mineira, ao povo mineiro, essa honra de estar aqui lhes representando.\r\nVenho a esta Casa com a responsabilidade de ampliar o trabalho que j\u00e1 desenvolvia como Vereador na cidade de Juiz de Fora, principalmente em rela\u00e7\u00e3o \u00e0 minha bandeira principal, que \u00e9 o enfrentamento \u00e0s drogas.\r\nHoje, na Zona da Mata mineira, o consumo de drogas tem rela\u00e7\u00e3o direta com 90% dos crimes de homic\u00eddio praticados e com 80% dos demais crimes.\r\nEnt\u00e3o, n\u00f3s n\u00e3o temos mais como falar em redu\u00e7\u00e3o de criminalidade e aumento da seguran\u00e7a p\u00fablica sem combater o maior problema que assola todo o nosso Pa\u00eds.\r\nVenho a esta Casa tamb\u00e9m dar apoio integral ao Presidente Jair Bolsonaro para defender propostas como a reforma da Previd\u00eancia. N\u00e3o h\u00e1 como tratarmos de nenhum outro assunto sem tratarmos antes dessa reforma. O Pa\u00eds est\u00e1 doente, e precisamos fazer com que os Parlamentares votem a reforma, para que n\u00f3s possamos reativar a economia do Pa\u00eds e fazer as privatiza\u00e7\u00f5es necess\u00e1rias, para que n\u00f3s possamos reativar e fomentar novamente a economia do nosso Estado.\r\nFinalizo, dizendo que coragem nesta Casa n\u00e3o ir\u00e1 faltar. O que me trouxe \u00e0 campanha \u00e9 que o meu partido \u00e9 o Brasil, e estaremos representando aqui o povo mineiro com muita firmeza, muita coragem e muita honestidade, que n\u00e3o \u00e9 para ser um diferencial, mas, sim, uma obriga\u00e7\u00e3o do pol\u00edtico e do servidor do povo.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, ROMPIMENTO, BARRAGEM DE REJEITO, DESASTRE AMBIENTAL,  BRUMADINHO (MG), \r\nJOICE HASSELMANN,  AL\u00ca SILVA, DEPUTADO FEDERAL, CONGRATULA\u00c7\u00c3O, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Apoio \u00e0 cria\u00e7\u00e3o de CPMI para investiga\u00e7\u00e3o das circunst\u00e2ncias e responsabilidades pelo rompimento da barragem da Mina do C\u00f3rrego do Feij\u00e3o, da empresa Vale, no Munic\u00edpio de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG) - Presidente, rapidamente, gostaria de parabenizar as duas Deputadas que me antecederam: Joice Hasselmann e Al\u00ea Silva, do meu partido.\r\nQuero tranquilizar o povo mineiro, porque com certeza essas duas mulheres guerreiras v\u00e3o dar uma resposta para a comunidade de Brumadinho e para o povo mineiro. A Deputada Joice foi a primeira Parlamentar que me procurou para que eu assinasse com ela um requerimento propondo uma CPI. Quero dizer que ela tem o nosso apoio tamb\u00e9m. E tenho certeza de que vai agregar muito \u00e0 bancada mineira e para dar essa resposta a todos os mineiros.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=40&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "COMISS\u00c3O GERAL, ROMBIMENTO, BARRAGEM DE REJEITO, BRUMADINHO (MG), CONGRATULA\u00c7\u00c3O, BANCADA PARLAMENTAR, MINAS GERAIS, ATUA\u00c7\u00c3O.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, SAUDA\u00c7\u00c3O, TRATAMENTO DE SA\u00daDE.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Transforma\u00e7\u00e3o de sess\u00e3o plen\u00e1ria da Casa em Comiss\u00e3o Geral para debate das causas e responsabilidades pelo rompimento de barragem da empresa Vale no Munic\u00edpio de Brumadinho, Estado de Minas Gerais. Empenho da bancada federal na puni\u00e7\u00e3o dos respons\u00e1veis pela trag\u00e9dia socioambiental ocorrida em Brumadinho. Manifesta\u00e7\u00e3o de boas-vindas ao Presidente Jair Bolsonaro, ao ensejo do retorno \u00e0 Capital Federal ap\u00f3s interna\u00e7\u00e3o para tratamento da sa\u00fade em S\u00e3o Paulo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, hoje realizamos uma Comiss\u00e3o Geral para discutir a situa\u00e7\u00e3o das v\u00edtimas do rompimento da barragem em Brumadinho.\r\nEu gostaria de parabenizar toda a bancada mineira pela uni\u00e3o nessa situa\u00e7\u00e3o. A uni\u00e3o faz a for\u00e7a! Os Deputados mineiros est\u00e3o empenhados em resolver essa situa\u00e7\u00e3o. N\u00f3s n\u00e3o deixaremos isso barato. Vamos cobrar e responsabilizar os culpados pelo crime ocorrido em Minas Gerais, especificamente na cidade de Brumadinho.\r\nEu gostaria tamb\u00e9m, Sra. Presidente, de dar as boas-vindas ao Presidente Bolsonaro, que acaba de receber alta em S\u00e3o Paulo e est\u00e1 chegando a Bras\u00edlia. O nosso capit\u00e3o est\u00e1 chegando para colocar ordem na casa, principalmente em algumas pessoas que querem tumultuar e atrasar o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T11:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PDC 379/2016, PROJETO DE DECRETO LEGISLATIVO, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.\r\nPARTIDO POL\u00cdTICO, ESQUERDA POL\u00cdTICA, OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Protesto contra a obstru\u00e7\u00e3o das vota\u00e7\u00f5es pela Oposi\u00e7\u00e3o. Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 379-B, de 2016.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, s\u00e3o 11h25min. Estamos aqui na sess\u00e3o desde as 9 horas, e nunca vi tamanha improdutividade. Vemos a Oposi\u00e7\u00e3o, totalmente irrespons\u00e1vel, obstruir mat\u00e9rias simples que ir\u00e3o favorecer o Brasil. Precisam fazer oposi\u00e7\u00e3o? Sim, mas uma oposi\u00e7\u00e3o respons\u00e1vel, e n\u00e3o uma oposi\u00e7\u00e3o que atrasa o Pa\u00eds a todo custo. \r\nO PSL vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "MERCEDES-BENZ, EMPRESA, F\u00c1BRICA, FECHAMENTO, ROMEU ZEMA, GOVERNADOR, MINAS GERAIS, ANT\u00d4NIO ALMAS, PREFEITO, JUIZ DE FORA (MG), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Solicita\u00e7\u00e3o ao Governador do Estado de Minas Gerais, Romeu Zema, e ao Prefeito do Munic\u00edpio de Juiz de Fora, Ant\u00f4nio Almas, de ado\u00e7\u00e3o de medidas contra o fechamento da f\u00e1brica da Mercedes-Benz na municipalidade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde a todos. Boa tarde, Sr. Presidente Pablo, Delegado da Pol\u00edcia Federal, que conduz esta sess\u00e3o de forma magn\u00edfica.\r\nSr. Presidente, subo a esta tribuna para trazer uma not\u00edcia triste para a cidade de Juiz de Fora, para a regi\u00e3o da Zona da Mata. Acabei de receber a not\u00edcia de que est\u00e1 sendo cogitado o fechamento da f\u00e1brica Mercedes-Benz. Ela est\u00e1 sendo transferida para outro Estado. Eu venho de uma regi\u00e3o, a regi\u00e3o da Zona da Mata mineira, muito prejudicada nos \u00faltimos tempos pela guerra fiscal entre os Estados. Estamos perdendo n\u00e3o apenas na nossa regi\u00e3o da Zona da Mata, em Juiz de Fora, mas tamb\u00e9m em toda a regi\u00e3o diversas empresas importantes que geram empregos e fomentam a economia. Estamos perdendo essas empresas para outros Estados, principalmente para o Rio de Janeiro e o Esp\u00edrito Santo.\r\nSr. Presidente, a Mercedes-Benz gera na cidade de Juiz de Fora e na regi\u00e3o mais de mil empregos para aquela popula\u00e7\u00e3o. O fechamento das portas da Mercedes-Benz vai impactar diretamente na vida de mais de mil fam\u00edlias. Todos n\u00f3s sabemos que a gera\u00e7\u00e3o de emprego tem o pontap\u00e9 inicial na economia. Essas pessoas, perdendo o emprego, com toda certeza, v\u00e3o fazer a roda-gigante da crise come\u00e7a a girar. S\u00e3o pessoas que muitas vezes pagavam plano de sa\u00fade e agora v\u00e3o ter que se utilizar dos servi\u00e7os do SUS; s\u00e3o pessoas que pagavam escolas para os seus filhos e agora v\u00e3o ter que se utilizar da escola p\u00fablica. E sabemos que diversas outras coisas v\u00eam acontecendo, e da pior forma, como o aumento da criminalidade, o aumento da viol\u00eancia e o aumento do consumo de drogas.\r\nFui Vereador em Juiz de Fora e vim para esta Casa com o lema de defender o Munic\u00edpio de Juiz de Fora, a regi\u00e3o da Zona da Mata e o Estado de Minas Gerais. Tenho o dever de cobrar um posicionamento mais en\u00e9rgico da Prefeitura, que ela entre na negocia\u00e7\u00e3o, para que n\u00e3o deixe a f\u00e1brica da Mercedes-Benz ir para outro Estado. E tenho o compromisso de cobrar do Governador do Estado, Romeu Zema, que se posicione e n\u00e3o deixe essa empresa ir embora da regi\u00e3o da Zona da Mata.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=207&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MOVIMENTO DOS TRABALHADORES RURAIS SEM-TERRA (MST), ACAMPAMENTO, MANUTEN\u00c7\u00c3O, CAMPO DO MEIO (MG), FERNANDO PIMENTEL, EX-GOVERNADOR, MINAS GERAIS, DECRETO, REVOGA\u00c7\u00c3O.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Expectativa de revoga\u00e7\u00e3o do decreto do ex-Governador do Estado de Minas Gerais, Fernando Pimentel, a respeito da manuten\u00e7\u00e3o de acampamento do Movimento dos Trabalhadores Rurais Sem Terra - MST no Munic\u00edpio de Campo do Meio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero s\u00f3 mandar um recado \u00e0 popula\u00e7\u00e3o do sul de Minas, para tranquiliz\u00e1-la. Hoje, eu recebi o Prefeito do Munic\u00edpio de Campo do Meio, em Belo Horizonte, e o encaminhei at\u00e9 o Secret\u00e1rio de Governo.\r\nO Secret\u00e1rio de Governo atendeu o Prefeito e provavelmente ir\u00e1 revogar um decreto do antigo Governador Fernando Pimentel, para tirar grande parte do MST daquela regi\u00e3o - esse bando de aproveitadores que s\u00f3 querem ganhar as coisas na m\u00e3o grande.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=109&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OPOSI\u00c7\u00c3O POL\u00cdTICA, CR\u00cdTICA, REDU\u00c7\u00c3O, POPULARIDADE, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, DEFESA, GOVERNO.\r\nRESTRI\u00c7\u00c3O, ENTRADA, ASSESSOR PARLAMENTAR, PLEN\u00c1RIO DA C\u00c2MARA DOS DEPUTADOS, CONGRATULA\u00c7\u00c3O, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela decis\u00e3o de restri\u00e7\u00e3o do acesso ao plen\u00e1rio. Cr\u00edticas \u00e0 Oposi\u00e7\u00e3o por comemora\u00e7\u00e3o da queda de popularidade do Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, quero parabenizar V.Exa. pela atitude de restringir a entrada aqui. Acho que a regra tem que ser para todos, e n\u00f3s, como homens p\u00fablicos, temos que dar exemplo.\r\nSr. Presidente, fa\u00e7o coro \u00e0 minha colega de partido. \u00c9 impressionante como a oposi\u00e7\u00e3o pode comemorar a queda de popularidade do Presidente Bolsonaro. Temos que deixar claro para eles que a campanha acabou. N\u00f3s n\u00e3o estamos em campanha eleitoral, n\u00f3s estamos focados em trabalhar pelo Brasil. Eles acabaram com o Pa\u00eds, deixaram o Pa\u00eds doente, e, infelizmente, n\u00f3s temos que aplicar alguns rem\u00e9dios que s\u00e3o amargos, mas que v\u00e3o curar a ferida que eles deixaram.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO , PL 1712/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL) VOTO FAVORAVEL.\r\nPAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC).",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Elogio ao Ministro da Economia, Paulo Guedes, pela participa\u00e7\u00e3o em debate na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pela Relatora da Comiss\u00e3o de Defesa dos Direitos das Pessoas com Defici\u00eancia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, usando este 1 minuto para orienta\u00e7\u00e3o, eu gostaria de tamb\u00e9m fazer um registro.\r\nAcabei de vir da CCJ, onde o Ministro Paulo Guedes est\u00e1 fazendo uma explana\u00e7\u00e3o da reforma para os demais Parlamentares. A Oposi\u00e7\u00e3o est\u00e1 tendo uma aula de sabedoria, de conhecimento e principalmente de educa\u00e7\u00e3o, coisa que eles n\u00e3o est\u00e3o tendo em seu comportamento naquela Comiss\u00e3o.\r\nSra. Presidente, na semana passada, saiu uma reportagem na Folha de S.Paulo, na qual pergunto a este plen\u00e1rio - provavelmente foi feita uma leitura labial - como o PT estaria se posicionando. Se eles estivessem se posicionando \"sim\", eu estaria me posicionando \"n\u00e3o\". Voto normalmente contra eles, porque eles s\u00e3o contra o Brasil. E com isso n\u00f3s n\u00e3o vamos pactuar.\r\nO PSL vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=238&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ARMA DE FOGO, POSSE DE ARMA, PORTE DE ARMA, FLEXIBILIZA\u00c7\u00c3O, SISTEMA NACIONAL DE ARMAS (SINARM), LEI, REGULAMENTA\u00c7\u00c3O, DECRETO PRESIDENCIAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ASSINATURA, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Aplausos ao Presidente Jair Bolsonaro pela assinatura de decreto sobre a flexibiliza\u00e7\u00e3o do porte e posse de armas de fogo no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, quero parabenizar o Presidente Bolsonaro pela assinatura do decreto assinado ontem. Muitas classes tiveram legitimado o direito de portar uma arma. Os atiradores e colecionadores t\u00eam, assim, o direito de defender suas fam\u00edlias. \r\nPortanto, em nome dos oficiais de justi\u00e7a, que tamb\u00e9m constam no decreto, quero parabenizar o Presidente Bolsonaro. Temos a certeza de que vamos utilizar as armas da melhor forma poss\u00edvel, para nossa defesa e a defesa das nossas fam\u00edlias.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=132&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-28T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MANIFESTA\u00c7\u00c3O, DEFESA, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "\u00caxito das manifesta\u00e7\u00f5es de rua em apoio ao Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, nesse domingo, milhares de pessoas foram \u00e0s ruas para fazer uma manifesta\u00e7\u00e3o democr\u00e1tica.\r\nLembro, Sra. Presidente, que esse movimento veio das ruas, um movimento de apoio ao Governo. Nunca na hist\u00f3ria deste Pa\u00eds se fez uma manifesta\u00e7\u00e3o a favor do Governo, buscando incentiv\u00e1-lo e apoiar as reformas necess\u00e1rias.\r\nDeixo claro que foi uma manifesta\u00e7\u00e3o sem partidos pol\u00edticos, sem mortadela, sem depreda\u00e7\u00e3o, sem vandalismo, sem \"Lula livre!\". A manifesta\u00e7\u00e3o foi a favor das reformas estruturantes.\r\nEu fui para a rua em busca de um novo Brasil e, tenho certeza, aquelas pessoas tamb\u00e9m.\r\nBrasil acima de tudo, Deus acima de todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DIA INTERNACIONAL DO COMBATE AO USO E TR\u00c1FICO DE DROGAS, HOMENAGEM.\r\nHOMIC\u00cdDIO, ENTORPECENTE, VINCULA\u00c7\u00c3O.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Transcurso do Dia Internacional de Combate \u00e0s Drogas. Vincula\u00e7\u00e3o entre o crime de homic\u00eddio e o consumo de drogas.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente \u00c9 uma honra v\u00ea-lo nessa cadeira.\r\nSr. Presidente, esta semana talvez seja uma das mais importantes para as fam\u00edlias brasileiras. Dia 26 de junho \u00e9 o Dia Internacional de Combate \u00e0s Drogas. Sempre carreguei esse tema como uma bandeira minha de campanha. Enquanto Vereador na cidade de Juiz de Fora, fui o proponente da Comiss\u00e3o Especial de Enfrentamento \u00e0s Drogas e, durante todo esse per\u00edodo, o Presidente.\r\nPortanto, n\u00f3s conclamamos todos os Deputados para que possam chamar aten\u00e7\u00e3o para essa data nos seus Estados e possamos salvar o m\u00e1ximo de jovens poss\u00edvel, para que n\u00e3o entrem nesse mundo, muitas vezes, sem volta.\r\nSr. Presidente, fizemos um estudo e verificamos que 90% dos crimes de homic\u00eddio cometidos em Minas Gerais, bem como 80% dos outros tipos de crime, t\u00eam rela\u00e7\u00e3o direta com o consumo de drogas, ou seja, hoje n\u00e3o podemos mais falar em aumento de criminalidade, em seguran\u00e7a p\u00fablica, em viol\u00eancia, sem tocarmos no maior problema que assola toda a sociedade brasileira.\r\nNo dia 26 de junho se comemora o Dia Internacional de Combate \u00e0s Drogas. Em Minas Gerais, por meio de minha parceria com a Delegada Sheila, est\u00e3o acontecendo diversas atividades, como palestras em escolas e blitze educativas. Na sexta-feira retornarei \u00e0 Minas Gerais, onde farei palestras na cidade de Cataguases e entrevista a r\u00e1dios. No s\u00e1bado, faremos movimentos junto com algumas a\u00e7\u00f5es sociais para chamar a aten\u00e7\u00e3o dos jovens e de seus pais para que fiquem alertas com rela\u00e7\u00e3o a esse assunto. Se para n\u00f3s pais que tomamos conta dos nossos filhos, ficando em cima deles, j\u00e1 \u00e9 dif\u00edcil, imaginem para alguns pais que deixam seus filhos soltos.\r\nVamos juntos combater esse mal que assola todo o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-02T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SEGURAN\u00c7A P\u00daBLICA, CATEGORIA PROFISSIONAL, POL\u00cdCIA, PARA\u00cdBA, MINAS GERAIS, HOMENAGEM.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Homenagem aos policiais dos Estados da Para\u00edba e de Minas Gerais. Compromisso de atua\u00e7\u00e3o em defesa dos profissionais da seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, boa tarde a todos.\r\nPasso somente para registrar, Sra. Presidente, uma homenagem aos policiais da Para\u00edba. Numa persegui\u00e7\u00e3o cinematogr\u00e1fica, conseguiram \u00eaxito e mataram oito bandidos, tirando esses vagabundos do meio de homens e mulheres de bem. E a\u00ed, quando me perguntam se eu sou a favor da pena de morte, a resposta \u00e9 aquela tradicional: n\u00f3s nunca vimos um bandido, um criminoso, depois de morto, voltar para cometer crime. Eu deixo e rendo as minhas homenagens e a minha gratid\u00e3o a esses policiais da Para\u00edba, que obtiveram \u00eaxito nessa opera\u00e7\u00e3o.\r\nTemos orgulho n\u00e3o s\u00f3 dos policiais da Para\u00edba, mas tamb\u00e9m de todas as for\u00e7as de seguran\u00e7a p\u00fablica. Um dos nossos discursos de campanha foi defender e valorizar a categoria da seguran\u00e7a p\u00fablica. N\u00f3s n\u00e3o podemos desfazer esse discurso. Estaremos aqui na C\u00e2mara dos Deputados buscando essa valoriza\u00e7\u00e3o a cada minuto, a cada segundo, para que a popula\u00e7\u00e3o possa ter seguran\u00e7a de fato.\r\nRendo tamb\u00e9m as minhas homenagens aos policiais militares e aos policiais civis de Minas Gerais que atuaram em um assalto que houve em Uberaba. V\u00e1rios desses criminosos j\u00e1 foram presos, j\u00e1 est\u00e3o na cadeia, cumprindo pena pelo terror que colocaram naquela regi\u00e3o. Alguns v\u00eddeos que n\u00f3s temos recebido nos causam muita estranheza. Na hora da negocia\u00e7\u00e3o com a pol\u00edcia, para que os bandidos se entregassem, eles pediram que fosse filmada aquela negocia\u00e7\u00e3o e que avisassem os Deputados. Que situa\u00e7\u00e3o \u00e9 essa? Que Deputado \u00e9 esse que tem de ser avisado que o bandido vai se entregar? Que Deputado \u00e9 esse que defende os bandidos, que est\u00e1 nesta Casa defendendo os bandidos em vez de, na verdade, defender os homens de bem?\r\nN\u00f3s estamos nesta Casa atentos, defendendo homens e mulheres de bem. Para isso, precisamos defender e valorizar, a cada minuto, a classe de seguran\u00e7a p\u00fablica, que leva mais seguran\u00e7a para essa popula\u00e7\u00e3o.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F7%2F2019&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-02T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL.\r\nESQUERDA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Protesto contra a veicula\u00e7\u00e3o de not\u00edcias falsas sobre o posicionamento do PSL em rela\u00e7\u00e3o \u00e0 reforma previdenci\u00e1ria. Cr\u00edticas \u00e0 atua\u00e7\u00e3o da Esquerda brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje eu vi v\u00e1rias not\u00edcias, em redes sociais, inclusive veiculadas por alguns Parlamentares desta Casa, infelizmente, em que Parlamentares do PSL s\u00e3o acusados de se manifestarem, talvez, contra a reforma da Previd\u00eancia Social. Quero registrar que isso \u00e9 mentira, que isso \u00e9 fake news, que isso \u00e9 uma canalhice sem tamanho. Infelizmente, essas pessoas s\u00f3 querem causar divis\u00e3o.\r\nCostumo dizer, Sr. Presidente, que existem tr\u00eas tipos de pessoas: as pessoas da Esquerda, que n\u00f3s sabemos que fizeram e fazem mal a qualquer pa\u00eds; as pessoas da Direita, que querem o progresso do nosso Pa\u00eds, que trabalham alinhadas ao Governo Bolsonaro, que querem que o Pa\u00eds progrida cada vez mais; e, infelizmente, as pessoas que se dizem de Direita - essas, sim, perigosas; na verdade, \u00e9 o PSOL ao contr\u00e1rio -, mas que pregam o \"quanto pior, melhor\".\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F7%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T12:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 2999/2019, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 2.999, de 2019, sobre a antecipa\u00e7\u00e3o do pagamento dos honor\u00e1rios periciais em a\u00e7\u00f5es do Instituto Nacional do Seguro Social - INSS.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados. Eu quero falar rapidamente sobre o Projeto de Lei n\u00ba 2.999, de 2019. \r\nFui o autor do requerimento de urg\u00eancia para o projeto, estive em algumas reuni\u00f5es com o Governo e com o Secret\u00e1rio Rog\u00e9rio Marinho e fui procurado, em meu gabinete, por m\u00e9dicos peritos desesperados com a situa\u00e7\u00e3o que v\u00eam passando.\r\nAproveito para parabenizar o Governo por ter mandado este projeto de lei para o Congresso, a fim de que n\u00f3s possamos aprov\u00e1-lo aqui.\r\nOs m\u00e9dicos peritos, na verdade, realizam a reavalia\u00e7\u00e3o do segurado do INSS determinada por um juiz. Quando um segurado do INSS que est\u00e1 encostado por tempo determinado em virtude de doen\u00e7a ou coisa do tipo se sente lesado por ter sido considerado apto a voltar ao trabalho, ap\u00f3s reavalia\u00e7\u00e3o pelo m\u00e9dico perito administrativo, ele pode ir \u00e0 Justi\u00e7a e entrar com uma a\u00e7\u00e3o para ter o direito de ser avaliado por outro profissional tamb\u00e9m capacitado. Nesse caso, o juiz determina que um m\u00e9dico pericial judicial fa\u00e7a essa reavalia\u00e7\u00e3o. Isso \u00e9 mais do que justo. \r\nN\u00f3s somos totalmente favor\u00e1veis ao projeto. Os m\u00e9dicos peritos judiciais est\u00e3o em completo desespero, porque h\u00e1 alguns meses n\u00e3o v\u00eam recebendo pagamento pelos servi\u00e7os que est\u00e3o prestando. N\u00f3s estamos do lado dos m\u00e9dicos judiciais. N\u00f3s estamos perdendo diversos profissionais qualificados por essa falta de recursos, e n\u00e3o podemos deixar isso acontecer de forma nenhuma. E vou al\u00e9m: diversos m\u00e9dicos peritos est\u00e3o passando por dificuldades por conta do atraso nos pagamentos.\r\nN\u00f3s estamos muito felizes, porque temos certeza de que vamos aprovar este projeto, por meio do qual ser\u00e1 regularizado e antecipado o repasse dessas verbas para o Judici\u00e1rio. Assim, os m\u00e9dicos poder\u00e3o voltar a realizar o seu servi\u00e7o e receber por ele, nada mais justo. E os usu\u00e1rios ter\u00e3o tamb\u00e9m garantido o direito de recorrer de decis\u00f5es que n\u00e3o aceitem.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-15T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "ENTORPECENTE, COMBATE, DIA INTERNACIONAL DE COMBATE \u00c0S DROGAS, SESS\u00c3O SOLENE, HOMENAGEM, CANCELAMENTO, ESCLARECIMENTO.\r\nESQUERDA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Raz\u00f5es do cancelamento pela Casa da sess\u00e3o solene convocada ao ensejo do transcurso do Dia do Combate \u00e0s Drogas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Presidente Luiz Lima, Deputado Diego Garcia, Deputado Boca Aberta, demais Deputados que est\u00e3o na Casa e funcion\u00e1rios.\r\nSr. Presidente, muito obrigado pelo tempo concedido para que eu possa fazer uso da tribuna. Serei breve.\r\nAntes de mais nada, gostaria de explicar para toda a popula\u00e7\u00e3o brasileira que na sexta-feira passada n\u00f3s ter\u00edamos neste plen\u00e1rio uma sess\u00e3o solene pelo transcurso do Dia do Combate \u00e0s Drogas. O combate \u00e0s drogas \u00e9 a principal bandeira que eu carrego no meu mandato e pela qual fui eleito. Enquanto Vereador na cidade de Juiz de Fora, fui o proponente e o Presidente da Comiss\u00e3o de Enfrentamento \u00e0s Drogas e agora posso ampliar meu trabalho nesse importante tema que assola toda a popula\u00e7\u00e3o brasileira e, infelizmente, tem tirado a vida de jovens que est\u00e3o nesse caminho, muitas vezes, sem volta.\r\nEnt\u00e3o, na sexta passada, n\u00f3s ter\u00edamos essa sess\u00e3o solene, \u00e0s 15 horas, da qual eu e a Deputada Chris Tonietto, do Rio de Janeiro, fomos os proponentes. O Presidente Rodrigo Maia, por um motivo n\u00e3o menos importante - important\u00edssimo, eu diria -, teve que cancelar essa sess\u00e3o solene, devido \u00e0 vota\u00e7\u00e3o da nova Previd\u00eancia nesta Casa.\r\nAlguns convidados sa\u00edram de seus Estados para estar aqui. Gostaria de citar esses convidados e agradecer a eles a presen\u00e7a: a Deputada Estadual Delegada Sheila, de Minas Gerais, e o Vereador Noel da SOS, da cidade de Itagua\u00ed, Rio de Janeiro, Presidente da Comiss\u00e3o de Educa\u00e7\u00e3o da C\u00e2mara Municipal de Itagua\u00ed.\r\nAgrade\u00e7o a eles e a todos os convidados que se deslocaram at\u00e9 esta Casa, mas entenderam a raz\u00e3o do cancelamento da sess\u00e3o solene naquele momento por conta de um assunto important\u00edssimo, o primeiro passo para que n\u00f3s possamos salvar o Brasil: a aprova\u00e7\u00e3o da reforma da Previd\u00eancia.\r\nCom toda a certeza, n\u00f3s estivemos nesta Casa, aprovamos a reforma e salvamos n\u00e3o s\u00f3 os segurados atuais, mas tamb\u00e9m, e principalmente, as gera\u00e7\u00f5es futuras deste Pa\u00eds. N\u00e3o adianta nada falar e brigar por uma aposentadoria alt\u00edssima, se, na verdade, daqui a uns dias, n\u00e3o ter\u00edamos como pagar essas aposentadorias para toda a popula\u00e7\u00e3o brasileira.\r\nEnt\u00e3o, explicamos aqui rapidamente o motivo do cancelamento dessa sess\u00e3o solene. Tenho certeza de que, se Deus quiser, em agosto, n\u00f3s aprovaremos a reforma tamb\u00e9m em segundo turno, remetendo-a ao Senado e, em breve, matando esse tema que, como eu disse, \u00e9 o primeiro passo, a primeira reforma para que o Brasil possa voltar a se desenvolver e realmente entrar nos eixos.\r\nSr. Presidente, com a aprova\u00e7\u00e3o da reforma - talvez eu v\u00e1 precisar de mais 2 minutinhos, com a toler\u00e2ncia de V.Exa. -, n\u00f3s estamos, infelizmente, levando, como se diz por a\u00ed, algumas pancadas nas redes sociais, principalmente e quase na sua totalidade, da Esquerda, que discorda e faz da aprova\u00e7\u00e3o desta reforma uma pauta eleitoral.\r\nSe n\u00f3s analisarmos os \u00faltimos Governos, veremos que o Governo Lula era a favor da reforma da Previd\u00eancia, o Governo Dilma era a favor da reforma da Previd\u00eancia, o Governo Temer era a favor da reforma da Previd\u00eancia. Agora que Bolsonaro ganhou a elei\u00e7\u00e3o com um discurso de campanha honesto, sincero e transparente, dizendo que iria realizar a reforma da Previd\u00eancia, se ganhasse as elei\u00e7\u00f5es, e realmente est\u00e1 fazendo isso, vem esse povo da Esquerda, mal-intencionado, querer fazer disso uma pauta eleitoreira, um palanque eleitoral, querendo colocar a popula\u00e7\u00e3o contra os Deputados que, responsavelmente, conseguiram aprovar a reforma aqui com 379 votos.\r\nSr. Presidente, eu recebi pelas redes sociais e trouxe aqui uma compara\u00e7\u00e3o do que seria a Esquerda neste momento, para que n\u00f3s possamos mostrar para toda a popula\u00e7\u00e3o brasileira e ter um pouco de toler\u00e2ncia com eles, porque, um dia, todos n\u00f3s j\u00e1 fomos da Esquerda. E eu explico: fomos da Esquerda quando nascemos, quando \u00e9ramos nen\u00e9ns, rec\u00e9m-nascidos.\r\nTenha mais paci\u00eancia com a Esquerda, porque voc\u00ea tamb\u00e9m j\u00e1 foi da Esquerda ao nascer. Afinal, ao nascer, voc\u00ea:\r\n1. Era incapaz de raciocinar e nada produzia. Ou seja, podemos compar\u00e1-lo exatamente \u00e0 turma do MST, que \u00e9 praticamente incapaz de raciocinar e nada produz, s\u00f3 quer levar as coisas na m\u00e3o grande, tomando terras e por a\u00ed vai.\r\n2. Nasceu pelado, esperando que algu\u00e9m o vestisse. Ou seja, n\u00e3o tinha capacidade de realizar as suas coisas, assim como os que s\u00f3 querem bolsas e mais bolsas para ficar \u00e0 custa do Governo. Infelizmente, isso ningu\u00e9m aguenta.\r\n3. Era dependente de todos para tudo. At\u00e9 para ir a algum lugar algu\u00e9m tinha que lev\u00e1-lo no colo.\r\nEu vou acelerar, Presidente, porque eu estou vendo que estou ultrapassando o meu tempo.\r\n4. A primeira coisa que fez, depois que saiu da barriga, foi berrar - e s\u00f3 berrar - para conseguir o que queria. \u00c9 como essas manifesta\u00e7\u00f5es que t\u00eam sido feitas, manifesta\u00e7\u00f5es totalmente desordeiras, de quem s\u00f3 vai para a rua berrar e, na verdade, n\u00e3o sabe o que quer, n\u00e3o sabe por que est\u00e1 realizando a manifesta\u00e7\u00e3o, mas quer colocar tudo na cabe\u00e7a da popula\u00e7\u00e3o e fazer palanque eleitoral.\r\n5. N\u00e3o tinha educa\u00e7\u00e3o nem senso cr\u00edtico. Quem se manifesta n\u00e3o deve quebrar nada, parar o tr\u00e2nsito ou entupir as ruas de sujeira, como eles fazem.\r\n6. Era incapaz, n\u00e3o fazia nada e s\u00f3 ficava no ber\u00e7o deitado, enquanto os outros faziam tudo.\r\n7. Tirava o sono dos outros. \u00c9 justamente o que querem fazer tamb\u00e9m com o decreto das armas. Ficam tirando o sono dos outros. H\u00e1 Deputado aqui que \u00e9 contra uma pessoa de bem andar armada, mas, quando a coisa fica feia para ele, a primeira coisa que faz \u00e9 entrar com um requerimento de escolta armada, de seguran\u00e7a armada. \u00c9 um verdadeiro absurdo! Pimenta nos olhos dos outros \u00e9 refresco.\r\n8. Era uma cagada atr\u00e1s da outra, e os outros tinham que vir limpar.\r\n9. N\u00e3o enxergava um palmo \u00e0 frente e tinha dificuldade de abrir os olhos.\r\n10. N\u00e3o podia ver uma teta que logo queria mamar.\r\nEssa \u00e9 a toler\u00e2ncia que eu pe\u00e7o que todas as senhoras e todos os senhores tenham com a Esquerda, porque n\u00f3s, rec\u00e9m-nascidos, \u00e9ramos bem parecidos com eles. Gra\u00e7as a Deus, n\u00f3s crescemos, ganhamos maturidade e queremos um Brasil mais pr\u00f3spero. Vamos adiante.\r\nMuito obrigado, Sr. Presidente, pela toler\u00e2ncia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2019&txPagina=64&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "FILIPE BARROS, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Compet\u00eancia do Deputado Filipe Barros.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, assim como o meu amigo Deputado Guiga Peixoto, eu gostaria de parabenizar o nosso amigo Deputado Filipe Barros.\r\nAo tempo em que ele ocupava a tribuna, fazendo uso dos seus 25 minutos, eu estava vendo o pai dele aqui debaixo olhando com orgulho para seu filho. Eu acho que o Sr. Wesley devia estar pensando - domingo passado foi Dia dos Pais - que o maior presente que um pai pode ter \u00e9 um filho do naipe do nosso amigo Filipe Barros, uma das grandes revela\u00e7\u00f5es desta Casa. Ele vem a cada dia mostrando que se pode fazer pol\u00edtica com \u00e9tica, com determina\u00e7\u00e3o, com honestidade, a cada dia vem se destacando mais, tanto no partido quanto aqui nesta Casa.\r\nTenho muito orgulho de ser amigo do nosso Deputado Filipe Barros e tenho certeza de que o povo do Paran\u00e1 tamb\u00e9m est\u00e1 a cada dia mais orgulhoso desse representante.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), APROVA\u00c7\u00c3O, SEGUNDO TURNO, AVALIA\u00c7\u00c3O POSITIVA.\r\nREFORMA TRIBUT\u00c1RIA, NECESSIDADE.\r\nCORRUP\u00c7\u00c3O, COMBATE.\r\nPRIVATIZA\u00c7\u00c3O, DESESTATIZA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Acerto da aprova\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social. de reforma previdenci\u00e1ria. Expectativa quanto \u00e0 aprecia\u00e7\u00e3o das proposi\u00e7\u00f5es relativas \u00e0 reforma tribut\u00e1ria, \u00e0 liberdade econ\u00f4mica e ao combate \u00e0 corrup\u00e7\u00e3o. Posicionamento do orador favor\u00e1vel \u00e0 privatiza\u00e7\u00e3o de empresas estatais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Presidente. \r\nA honra com certeza \u00e9 minha, por ter V.Exa. sentado nessa cadeira, podendo presidir a sess\u00e3o de hoje. V.Exa. j\u00e1 veio com v\u00e1rios t\u00edtulos da carreira como esportista, e nesta Casa tamb\u00e9m se torna um grande campe\u00e3o, defendendo pautas important\u00edssimas para o Pa\u00eds. \r\nSr. Presidente, eu subo pouco a esta tribuna, mas eu vou fazer uma r\u00e1pida an\u00e1lise do que tem acontecido aqui nos \u00faltimos tempos. N\u00f3s aprovamos nesta Casa, em primeiro e segundo turno, a t\u00e3o sonhada nova Previd\u00eancia. Com toda certeza, esse vai ser o primeiro passo para que o Brasil volte realmente a entrar nos trilhos, a entrar nos eixos. Eu sempre falo que o princ\u00edpio b\u00e1sico da administra\u00e7\u00e3o \u00e9 n\u00e3o gastar mais do que se arrecada. \u00c9 como acontece na vida financeira pessoal de qualquer um ou de qualquer empresa: se gastarmos mais do que arrecadamos, com certeza n\u00f3s iremos quebrar. Ent\u00e3o, foi um grande ganho para esta Casa, um grande ganho para o Pa\u00eds aprovar a nova Previd\u00eancia. Tenho certeza de que vai ser sucesso tamb\u00e9m no Senado, retornar\u00e1 para esta Casa, e vai ser o primeiro passo para o Pa\u00eds voltar a entrar nos eixos.\r\nFora essa, sabemos que h\u00e1 outras pautas tamb\u00e9m important\u00edssimas: reforma tribut\u00e1ria, liberdade econ\u00f4mica, a luta incans\u00e1vel de combate \u00e0 corrup\u00e7\u00e3o. Todas essas s\u00e3o pautas tanto do Governo quanto de grande parte deste Parlamento, para que possamos resgatar novamente a confian\u00e7a dos investidores e cada brasileiro volte a bater no peito e a ter orgulho realmente de dizer que \u00e9 brasileiro.\r\nAl\u00e9m disso tudo, n\u00e3o podemos, Sr. Presidente, deixar de falar nas privatiza\u00e7\u00f5es. Foi uma promessa de campanha do novo Governo, do Governo Bolsonaro, a privatiza\u00e7\u00e3o, que \u00e9 de extrema import\u00e2ncia, e n\u00e3o menos importante do que as outras pautas para o Pa\u00eds. N\u00e3o tenha d\u00favida de que, com a concorr\u00eancia, quem tem mais a ganhar \u00e9 a popula\u00e7\u00e3o. Temos os melhores pre\u00e7os e as melhores qualidades, e a popula\u00e7\u00e3o com toda certeza \u00e9 a maior beneficiada.\r\nQuando se fala em privatiza\u00e7\u00e3o, um grande exemplo de empresa estatal que n\u00f3s podemos citar, em rela\u00e7\u00e3o a como a privatiza\u00e7\u00e3o vai ser importante para o Pa\u00eds, s\u00e3o os Correios. S\u00f3 para se ter ideia, ano ap\u00f3s ano, os Correios v\u00eam mostrando a forma ineficiente como tem sido gerido, e j\u00e1 passou por diversos esc\u00e2ndalos, algumas CPIs, Mala Direta, Lava-Jato, Pausare, Custo Brasil, mensal\u00e3o. Nos Correios, Sr. Presidente, nos \u00faltimos tempos, segundo as \u00faltimas reportagens, dos 25 cargos de dire\u00e7\u00e3o, todos eles s\u00e3o ocupados por indica\u00e7\u00f5es pol\u00edticas. N\u00f3s temos oito vice-presid\u00eancias, e as oito vice-presid\u00eancias tamb\u00e9m s\u00e3o ocupadas \u00fanica e exclusivamente por indica\u00e7\u00f5es pol\u00edticas. Nos \u00faltimos 6 anos, nos Correios, n\u00f3s tivemos um aumento de mais de 1.000% de roubos, de extravios, somente com a perda de encomendas, ou seja, \u00e9 claro e not\u00f3rio que n\u00f3s precisamos tamb\u00e9m trazer essa pauta para o Parlamento urgentemente.\r\nRecentemente, o Presidente Bolsonaro deu uma entrevista - se n\u00e3o me engano, ontem -, falando que \u00e9 a favor da privatiza\u00e7\u00e3o dos Correios, mas que essa privatiza\u00e7\u00e3o n\u00e3o depende s\u00f3 dele, mas deste Parlamento.\r\nPortanto, deixo aqui o meu posicionamento a favor das privatiza\u00e7\u00f5es, porque, no que depender deste Parlamentar, para que elas possam ser feitas, e n\u00e3o s\u00f3 a dos Correios, mas principalmente das empresas que est\u00e3o dando preju\u00edzo e utilizadas como cabide de emprego, eu serei a favor da privatiza\u00e7\u00e3o. \r\nConcluo com uma frase de Roberto Campos \"No Brasil, empresa privada \u00e9 aquela que \u00e9 controlada pelo governo, e empresa p\u00fablica \u00e9 aquela que ningu\u00e9m controla\".\r\nVamos trabalhar por um Brasil melhor. Obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1685/2011, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.685, de 2011, sobre a autoriza\u00e7\u00e3o da transfer\u00eancia, a t\u00edtulo de contribui\u00e7\u00e3o de capital, mediante celebra\u00e7\u00e3o de conv\u00eanios entre a Uni\u00e3o e as Associa\u00e7\u00f5es de Prote\u00e7\u00e3o e Assist\u00eancia aos Condenados - APACs, em aten\u00e7\u00e3o ao disposto no \u00a7 6\u00ba do art. 12 da Lei n\u00ba 4.320, de 1964.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSL orienta \"sim\" e j\u00e1 aproveita a oportunidade para parabenizar o Deputado Eros Biondini, Presidente da Frente Parlamentar Mista em Defesa das Comunidades Terap\u00eauticas e das APACs, da qual sou Vice-Presidente.\r\nN\u00f3s temos aqui os n\u00fameros expostos pelo Deputado Eros Biondini, os quais n\u00e3o mentem: 4 mil reais s\u00e3o gastos por m\u00eas no sistema comum e cerca de mil reais, nas APACs. No sistema comum h\u00e1 85% de reincid\u00eancia, enquanto nas APACs, 15% de reincid\u00eancia. \u00c9 claro que o trabalho das APACs permite devolver a dignidade aos condenados e tamb\u00e9m reinseri-los no mercado de trabalho e na sociedade.\r\nParab\u00e9ns, Deputado Eros! Conte com o meu apoio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CHARLLES EVANGELISTA, EX-VEREADOR, JUIZ DE FORA (MG), COMBATE, ENTORPECENTE, DEPEND\u00caNCIA QU\u00cdMICA, FRENTE PARLAMENTAR DE ENFRENTAMENTO \u00c0S DROGAS, FRENTE PARLAMENTAR MISTA EM DEFESA DAS COMUNIDADES TERAP\u00caUTICAS E APAC'S, MACONHA, USO MEDICINAL, JULGAMENTO, SUPREMO TRIBUNAL FEDERAL (STF), DESCRIMINALIZA\u00c7\u00c3O.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, CONFLITO, PARTIDO SOCIAL LIBERAL (PSL), ELEI\u00c7\u00d5ES, GOVERNO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Enfrentamento \u00e0s drogas como a bandeira principal da atua\u00e7\u00e3o parlamentar do orador. Contrariedade ao uso de maconha para fins medicinais. Alerta aos Ministros do Supremo Tribunal Federal sobre a import\u00e2ncia de rejei\u00e7\u00e3o da proposta de descrimina\u00e7\u00e3o da Cannabis para fins medicinais. Apoio ao Presidente Jair Bolsonaro. Continuidade da atua\u00e7\u00e3o em defesa do PSL.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, falarei de umas das bandeiras que me trouxeram a esta Casa.\r\nQuando fui Vereador na cidade de Juiz de Fora, a minha bandeira principal foi o enfrentamento \u00e0s drogas. Desde que cheguei a esta Casa, tenho trabalhado diuturnamente para trazer esse tema para c\u00e1. Trata-se de um tema de extrema relev\u00e2ncia. Infelizmente, quase todas as pessoas no nosso Pa\u00eds conhecem algu\u00e9m, t\u00eam algu\u00e9m na fam\u00edlia ou t\u00eam algum amigo que se envolveu com drogas, tornou-se um dependente qu\u00edmico e acabou se perdendo nesse mundo - \u00e9 um caminho muitas vezes sem volta.\r\nQuando fui Vereador na cidade de Juiz de Fora, n\u00f3s j\u00e1 faz\u00edamos diversas palestras em igrejas, em escolas, em institui\u00e7\u00f5es, buscando de todas as maneiras conscientizar e alertar os jovens para n\u00e3o irem para esse caminho que, muitas vezes, n\u00e3o tem volta. Vamos seguir fortes nesse prop\u00f3sito, caminhando e buscando uma solu\u00e7\u00e3o melhor para este Pa\u00eds.\r\nHoje eu tive uma reuni\u00e3o muito importante e muito boa com o Ministro da Cidadania, Osmar Terra, que tem na m\u00e3o a Pasta que cuida desse tema. Na condi\u00e7\u00e3o de Presidente da Frente Parlamentar de Enfrentamento \u00e0s Drogas e Vice-Presidente da Frente Parlamentar Mista em Defesa das Comunidades Terap\u00eauticas e APACs, presidida com muita excel\u00eancia pelo Deputado Federal Eros Biondini, de Minas Gerais, n\u00f3s muito nos preocupamos com o absurdo que querem fazer em rela\u00e7\u00e3o ao uso da maconha para fins medicinais. Querem mesmo \u00e9 se utilizar dessa situa\u00e7\u00e3o para liberar o uso das drogas. J\u00e1 h\u00e1 diversas empresas, inclusive de fora, do Canad\u00e1, dos Estados Unidos, batendo de porta em porta nos gabinetes dos Deputados, tentando alert\u00e1-los para a import\u00e2ncia da libera\u00e7\u00e3o das drogas, mas o \u00fanico prop\u00f3sito \u00e9 econ\u00f4mico. N\u00f3s n\u00e3o podemos deixar que isso aconte\u00e7a de maneira nenhuma. Somos at\u00e9 a favor do uso do canabidiol para fins medicinais. No entanto, essa conversa, essa balela de que a maconha ser\u00e1 utilizada para fins medicinais tem o \u00fanico intuito de liberar as drogas, infelizmente. Isso n\u00f3s n\u00e3o podemos aceitar de forma nenhuma. \r\nParece-me que, no dia 5, o STF vai julgar o tema no Plen\u00e1rio.\r\nEnt\u00e3o, temos que unir diversos Deputados e buscar alertar os Ministros do STF sobre a import\u00e2ncia do tema. A \u00fanica inten\u00e7\u00e3o \u00e9 fazer a libera\u00e7\u00e3o das drogas. E isso n\u00e3o podemos deixar acontecer de forma nenhuma. \r\nSra. Presidente, vamos continuar agindo nesta Casa da mesma forma que ag\u00edamos quando entramos. Todos sabem que o partido vem passando por um problema interno, mas atire a primeira pedra o partido que n\u00e3o tem problema interno. Estamos trabalhando incansavelmente para superar esse problema e tentar construir uma harmonia.\r\nEu, pessoalmente, apoio na integralidade o nosso Presidente Bolsonaro, mas j\u00e1 manifestei v\u00e1rias vezes na imprensa que tamb\u00e9m n\u00e3o tenho motivo nenhum para deixar o nosso PSL, partido que constru\u00edmos com muita luta nessas elei\u00e7\u00f5es. Precisamos simplesmente que o nosso Presidente da Rep\u00fablica e o Presidente do PSL reconhe\u00e7am a import\u00e2ncia que ambos tiveram nas elei\u00e7\u00f5es. Precisamos que o Presidente da Rep\u00fablica reconhe\u00e7a que, se n\u00e3o fosse o PSL ter aberto as portas para que ele pudesse ser candidato, hoje ele n\u00e3o seria Presidente. N\u00f3s do PSL reconhecemos que, se n\u00e3o fosse o Presidente Bolsonaro, o partido n\u00e3o teria a for\u00e7a que tem hoje e n\u00e3o se tornaria uma das maiores bancadas desta Casa.\r\nPortanto, independentemente do que acontecer, n\u00f3s faremos o poss\u00edvel e o imposs\u00edvel para continuar defendendo o Governo. Temos que deixar muito claro que o partido tem uma hist\u00f3ria. O partido sempre foi conhecido como um partido pequeno, mas cresceu. Por isso, temos que fazer essa defesa. Vamos seguir firmes e fortes. Tenho conhecimento de diversas coisas que t\u00eam acontecido, mas n\u00e3o h\u00e1 necessidade de expor o partido. N\u00e3o fui, nem sequer uma vez, dar entrevista na m\u00eddia ou fazer algo que pudesse prejudicar as conversas. Tentei, algumas vezes, tamb\u00e9m fazer uma conversa para que n\u00f3s pud\u00e9ssemos chegar a um consenso, mas infelizmente essa disputa foi muito al\u00e9m do campo intrapartid\u00e1rio - n\u00e3o sei se o motivo \u00e9 o poder econ\u00f4mico, se \u00e9 o poder no partido ou o que \u00e9. \r\nVamos continuar defendendo o nosso PSL nesta Casa, independentemente do que acontecer no partido. N\u00e3o tenho cargo no partido e quase n\u00e3o tenho indica\u00e7\u00e3o para compor Comiss\u00e3o. Participei de uma elei\u00e7\u00e3o para a 2\u00aa Vice-Presid\u00eancia e, mesmo cometendo o erro de ser candidato, eu fui amparado pelo partido. Com di\u00e1logo e com boa pol\u00edtica, n\u00f3s conseguimos conquistar e construir essa rela\u00e7\u00e3o para que todos pudessem ganhar.\r\nVamos seguir em frente, com toda a certeza. O meu patr\u00e3o \u00e9, \u00fanica e exclusivamente, o cidad\u00e3o mineiro, o cidad\u00e3o brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=300&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O, ALEXANDRE LEITE, RELATOR, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA,  CRIT\u00c9RIO, PORTE DE ARMA, POSSE DE ARMA, ARMA DE FOGO, CA\u00c7ADOR, COLECIONADOR, ATIRADOR, AGENTE P\u00daBLICO, SEGURAN\u00c7A P\u00daBLICA. \r\nPORTE DE ARMA, POSSE DE ARMA, ARMA DE FOGO, INCLUS\u00c3O, AGENTE P\u00daBLICO, CATEGORIA PROFISSIONAL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Elogio ao Deputado Alexandre Leite, Relator do Projeto de Lei 3.723, de 2019, acerca do registro, posse e comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; do Sistema Nacional de Armas - SINARM e da defini\u00e7\u00e3o de crimes. Compromisso do L\u00edder do Governo na Casa, Deputado Vitor Hugo, de apresenta\u00e7\u00e3o de projeto de lei sobre a permiss\u00e3o do porte de armas  de fogo a outras categorias.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Muito obrigado, Sra. Presidente.\r\nEu n\u00e3o poderia deixar de fazer esta manifesta\u00e7\u00e3o. Antes de mais nada, quero agradecer ao meu partido por ter me concedido este tempo de Lideran\u00e7a para, em primeiro lugar, parabenizar o Deputado Alexandre Leite pela conquista que n\u00f3s obtivemos hoje neste plen\u00e1rio. N\u00f3s sab\u00edamos que a sua relatoria abrangia muito mais, mas sab\u00edamos tamb\u00e9m que nem tudo que chega ao Legislativo n\u00f3s conseguimos aprovar, 100% das coisas que n\u00f3s queremos. O Governo mandou para c\u00e1 o projeto de lei, e o Deputado Alexandre Leite debru\u00e7ou-se sobre ele e conseguiu abranger v\u00e1rias categorias, entre elas os CACs.\r\nEm rela\u00e7\u00e3o aos CACs, n\u00f3s tivemos, sim, uma grande vit\u00f3ria, mas, ao mesmo tempo, criamos certa dificuldade, por conta de um acordo.\r\nSabemos que no Legislativo h\u00e1 v\u00e1rias cabe\u00e7as, e as propostas apresentadas aqui n\u00e3o agradam a todos os Deputados. Aprovamos agora o aumento de calibre de armas para os CACs, mas dificultamos um pouco o porte - agora, eles s\u00f3 podem ter porte depois de 5 anos da obten\u00e7\u00e3o de registro como CAC. Eu tamb\u00e9m sou atirador, por isso, vou continuar trabalhando fortemente com rela\u00e7\u00e3o a isso.\r\nFico um pouco aborrecido, um pouco frustrado pela mudan\u00e7a com rela\u00e7\u00e3o \u00e0s demais categorias que estavam contempladas no relat\u00f3rio do Deputado Alexandre Leite. Sabemos - e j\u00e1 disse isso aqui - que, \u00e0s vezes, queremos aprovar um projeto de uma forma, mas temos que ceder em alguma coisa, para que ele n\u00e3o seja totalmente rejeitado.\r\nQuando fui Vereador na cidade de Juiz de Fora, desde o dia em que tomei posse - e fa\u00e7o o mesmo como Deputado -, sempre defendi com muita veem\u00eancia os agentes de seguran\u00e7a p\u00fablica: guardas municipais, oficiais de justi\u00e7a, agentes socioeducativos.\r\nQuero falar rapidamente sobre os guardas municipais. Quando eu era Vereador, via a grande dificuldade desses profissionais, que, mesmo desarmados, tinham que enfrentar bandidos armados. Muitas vezes, guardas municipais s\u00e3o humilhados por vagabundos, por bandidos, nas ruas. Est\u00e1 faltando ali uma arma na cintura para impor mais respeito e colocar esses bandidos no seu devido lugar.\r\nA profiss\u00e3o que escolhi para o resto da vida \u00e9 a de oficial de justi\u00e7a. Estou como Deputado, mas vim para esta Casa representar, al\u00e9m de todo o povo mineiro e de todo o povo brasileiro, essa classe de profissionais que trabalha com muita dificuldade, subindo e descendo morro, debaixo de sol, enfrentando, sem armas, bandidos muitas vezes armados. \u00c9 um verdadeiro absurdo essa precariedade que esses profissionais enfrentam em todas as cidades deste nosso Brasil.\r\nAlgumas pessoas, quando escutam falar em oficial de justi\u00e7a, acham que ele faz somente cita\u00e7\u00e3o e intima\u00e7\u00e3o. Mas o trabalho desses profissionais vai muito al\u00e9m. Eles fazem tamb\u00e9m pris\u00e3o, muitas vezes por falta de pagamento de pens\u00e3o aliment\u00edcia. Como podem fazer uma pris\u00e3o? \u00c0s vezes, encontram pessoas drogadas, dependentes qu\u00edmicos, pessoas totalmente fora de si, e t\u00eam que prend\u00ea-las, levando-as \u00e0s vezes no pr\u00f3prio carro.\r\nMuitas vezes, solicitam ajuda da Pol\u00edcia Militar, mas sabemos que a falta de efetivo n\u00e3o condiz com a nossa necessidade. N\u00f3s oficiais de justi\u00e7a costumamos esperar 1 hora, 2 horas, quando a Pol\u00edcia aparece. E n\u00e3o \u00e9 culpa da Pol\u00edcia. Sabemos da grande for\u00e7a que ela faz, tentando se desdobrar para atender tamb\u00e9m \u00e0 nossa classe e fazer com que a justi\u00e7a seja feita.\r\nEnt\u00e3o, fazemos pris\u00f5es, fazemos tamb\u00e9m buscas e apreens\u00f5es, arrestos, separa\u00e7\u00e3o de corpos. Como tirar uma pessoa totalmente alterada de sua pr\u00f3pria casa, para dar maior seguran\u00e7a a mulher, muitas vezes, agredida? Como tirar esse agressor de casa? Muitas vezes, o sujeito est\u00e1 com uma arma, e n\u00f3s temos que enfrentar aquilo usando somente a psicologia, uma caneta, a conversa. \u00c9 um verdadeiro absurdo. Eu j\u00e1 fa\u00e7o aqui o meu compromisso de continuar defendendo todas as categorias da seguran\u00e7a p\u00fablica.\r\nCidad\u00e3os de Minas Gerais e de todo o Brasil, fiquem tranquilos! Voc\u00eas t\u00eam aqui um Deputado que estar\u00e1 do lado de voc\u00eas e sabe da necessidade dos oficiais de justi\u00e7a, dos agentes socioeducativos, dos guardas municipais e de outras categorias que fazem a seguran\u00e7a dos tribunais e dos servidores do Minist\u00e9rio P\u00fablico. Vamos continuar nessa luta, com toda a certeza.\r\nSabendo desse acordo que estava sendo realizado no Plen\u00e1rio, comecei a percorrer o gabinete de alguns L\u00edderes aqui, solicitando uma provid\u00eancia e uma garantia para que eu pudesse subir a esta tribuna e passar uma mensagem de tranquilidade, n\u00e3o s\u00f3 para essas categorias, mas tamb\u00e9m para toda a popula\u00e7\u00e3o brasileira. Eu tive aqui a palavra e o compromisso do L\u00edder do Governo, o Deputado Vitor Hugo, de que o Governo se compromete a enviar um novo projeto, contemplando todas essas categorias. E n\u00f3s vamos poder, com toda a certeza, aprovar esse projeto e dar o direito a essas pessoas de se defenderem.\r\nN\u00e3o \u00e9 justo, de forma nenhuma, somente criminosos terem acesso a armas. As pessoas de bem, principalmente as pessoas que trabalham com seguran\u00e7a p\u00fablica, que colocam a vidas em risco, t\u00eam que ter o direito de se defender, t\u00eam que ter o direito de portar uma arma e fazer realmente a lei valer para quem precisa.\r\nPortanto, mais uma vez, comprometo-me a lutar aqui com toda a minha for\u00e7a, durante todo o meu mandato, por toda a seguran\u00e7a p\u00fablica, n\u00e3o s\u00f3 pelo policial militar, pelo policial civil, pelo policial federal, mas tamb\u00e9m pelos oficiais de justi\u00e7a, pelos agentes penitenci\u00e1rios, pelos agentes socioeducativos e pelos guardas municipais.\r\nContem com este Deputado!\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=290&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T13:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FUTEBOL, JUIZ DE FORA (MG), REALIZA\u00c7\u00c3O.\r\nJ\u00daLIA HORTA, MULHER, CONCURSO DE BELEZA, JUIZ DE FORA (MG), CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Promo\u00e7\u00e3o de jogo solid\u00e1rio por estrelas do futebol brasileiro, no Est\u00e1dio Municipal de Juiz de Fora, Estado de Minas Gerais. Congratula\u00e7\u00f5es \u00e0 Miss Brasil 2019, J\u00falia Horta, natural da municipalidade.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, quero rapidamente fazer o registro de que, no dia 14, agora neste s\u00e1bado, vai ocorrer em Juiz de Fora um jogo solid\u00e1rio com estrelas do futebol promovido pelo \u00eddolo do Flamengo, o jogador Athirson. Ser\u00e1 no dia 14 de dezembro, s\u00e1bado, no Est\u00e1dio M\u00e1rio Hel\u00eanio, conhecido como Est\u00e1dio Municipal, \u00e0s 17 horas.\r\nSr. Presidente, eu gostaria de aproveitar a oportunidade e parabenizar a nossa Miss Brasil, J\u00falia Horta, que esteve representando o nosso Pa\u00eds no concurso Miss Universo. Ela representou com muita grandeza o Brasil e ficou entre as 20 semifinalistas. Quero parabenizar a nossa Miss Brasil, J\u00falia Horta, que tamb\u00e9m \u00e9 da cidade de Juiz de Fora.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-06T13:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCHENTE, INUNDA\u00c7\u00c3O, ALAGAMENTO, MINAS GERAIS, BELO HORIZONTE (MG), BANCADA ESTADUAL, MG-133, RODOVIA ESTADUAL, ALEXANDRE LUCAS, SECRET\u00c1RIO, SECRETARIA NACIONAL DE DEFESA CIVIL, JUIZ DE FORA (MG), \r\nCHARLLES EVANGELISTA, DEPUTADO FEDERAL, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, ATUA\u00c7\u00c3O PARLAMENTAR, RECURSOS OR\u00c7AMENT\u00c1RIOS, SA\u00daDE P\u00daBLICA, PAVIMENTA\u00c7\u00c3O ASF\u00c1LTICA, EMENDA PARTICIPATIVA, DELEGADA SHEILA, DEPUTADA ESTADUAL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Participa\u00e7\u00e3o do orador em reuni\u00e3o com o Secret\u00e1rio Nacional de Prote\u00e7\u00e3o e Defesa Civil, Alexandre Lucas, e o Coordenador da Defesa Civil do Estado de Minas Gerais, tenente-coronel Fl\u00e1vio Godinho, para debate de medidas destinadas \u00e0 mitiga\u00e7\u00e3o dos efeitos das enchentes em Munic\u00edpios mineiros, especialmente no tocante \u00e0 recupera\u00e7\u00e3o de rodovias. Destina\u00e7\u00e3o de recursos de emendas or\u00e7ament\u00e1rias para a \u00e1rea da sa\u00fade de Munic\u00edpios da Zona da Mata mineira e para o Munic\u00edpio de Juiz de Fora.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente; boa tarde a todos os que nos acompanham pela TV C\u00e2mara. \r\nHoje subo a esta tribuna para falar das enchentes que ocorreram em Minas Gerais, na nossa Capital, Belo Horizonte, especialmente nos Munic\u00edpios da Zona da Mata atingidos. Ontem tivemos uma reuni\u00e3o da bancada federal mineira, \u00e0 qual foram convidados o Secret\u00e1rio Nacional de Defesa Civil, Alexandre Lucas, e o Coronel Godinho, Coordenador da Defesa Civil de Minas Gerais, a quem cobrei uma interven\u00e7\u00e3o urgente, para ajudar, principalmente, as cidades e para recuperar as estradas que infelizmente est\u00e3o totalmente interditadas. A MG-133, que liga Juiz de Fora, Coronel Pacheco, Rio Pomba e Ub\u00e1, est\u00e1 totalmente interditada. As \u00e1guas carregaram grande parte das estradas, abrindo uma gigantesca cratera, na qual ca\u00edram dois carros e uma carreta. A mo\u00e7a Suziane, do Munic\u00edpio de Lima Duarte, faleceu. Ela era nossa conhecida.\r\nAs estradas est\u00e3o totalmente danificadas, numa situa\u00e7\u00e3o prec\u00e1ria. Al\u00e9m das vidas perdidas, \u00e9 claro, o mais importante, os comerciantes da regi\u00e3o est\u00e3o totalmente desesperados, porque precisam do movimento de carros e de pessoas nas estradas, para terem seus com\u00e9rcios rent\u00e1veis e, assim, poderem sustentar suas fam\u00edlias.\r\nSra. Presidente, quero dizer que sou do Munic\u00edpio de Juiz de Fora. N\u00f3s estamos muito atentos. J\u00e1 manifesto que grande parte da popula\u00e7\u00e3o vem reclamando muito dos buracos que est\u00e3o por toda a cidade e do asfalto todo danificado.\r\nFa\u00e7o um alerta \u00e0 popula\u00e7\u00e3o. N\u00e3o estou dizendo que o Prefeito de Juiz de Fora faria isto, mas observamos que, em v\u00e1rias cidades, alguns Prefeitos v\u00eam se aproveitando dos buracos. Trata-se de um problema aparente. As pessoas postam nas redes sociais e se aproveitam disso. A sa\u00fade, a seguran\u00e7a, a educa\u00e7\u00e3o e o saneamento, no entanto, acabam em segundo plano, tampados por estes problemas. \r\nLembro a todos que estamos atentos. Enviamos recursos para v\u00e1rias cidades de Minas Gerais, para que estas recuperem e recapeiem o asfalto. Estamos mais atentos: estamos mandando recursos para a sa\u00fade, pois pessoas est\u00e3o morrendo nas filas dos hospitais. Por conta destes problemas, parece que tudo est\u00e1 \u00e0s mil maravilhas, mas a seguran\u00e7a e a educa\u00e7\u00e3o est\u00e3o totalmente prec\u00e1rias.\r\nDando especial aten\u00e7\u00e3o \u00e0 sa\u00fade, mandamos para a Zona da Mata mais de 5 milh\u00f5es, oriundos de emendas parlamentares, para serem utilizados em cirurgias eletivas, exames, atendimento prim\u00e1rio \u00e0 sa\u00fade, entre outras a\u00e7\u00f5es. \r\nAproveito o momento para anunciar a toda a popula\u00e7\u00e3o de Juiz de Fora que realizamos nosso mandato em conjunto com o da Deputada Estadual Delegada Sheila. Produzimos emendas participativas, em que foram destinados 3 milh\u00f5es das nossas emendas impositivas, para que a popula\u00e7\u00e3o participe. V\u00e1rias cidades mobilizaram as pessoas a votar. Assim se deu. Elas estavam muito ansiosas para saber quando o recurso chegaria. \r\nFechamos nossas indica\u00e7\u00f5es, nosso or\u00e7amento, no dia 4. Aviso a essas pessoas que em breve os recursos chegar\u00e3o. Todas as cidades que ganharam foram contempladas. Podem ter a certeza de que nosso compromisso ser\u00e1 cumprido.\r\nSra. Presidente, solicito que este registro seja divulgado pelo programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2020&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-23T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO FINANCIAMENTO ESTUDANTIL, SUSPENS\u00c3O, CAR\u00c1TER TEMPOR\u00c1RIO, PAGAMENTO, BENEFICI\u00c1RIO, FUNDO DE FINANCIAMENTO ESTUDANTIL (FIES), PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, CONGRATULA\u00c7\u00c3O.\r\nAUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, PROVID\u00caNCIAS.\r\nMICROEMPRESA, PEQUENA EMPRESA, RECURSOS, CORONAV\u00cdRUS, PANDEMIA, CALAMIDADE P\u00daBLICA, COMBATE, PROVID\u00caNCIAS.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Congratula\u00e7\u00f5es ao autor e ao relator do Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica. Aprova\u00e7\u00e3o pela Casa de propostas de amparo \u00e0s pequenas e microempesas e de transfer\u00eancia de fundos da assist\u00eancia social. Apelo ao Governo Federal e \u00e0 Caixa Econ\u00f4mica Federal, por aprova\u00e7\u00e3o de cadastros e presta\u00e7\u00e3o de informa\u00e7\u00f5es coesas e simplificadas aos benefici\u00e1rios do aux\u00edlio financeiro emergencial concedido a fam\u00edlias carentes, trabalhadores informais e aut\u00f4nomos.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, boa noite. Boa noite a todos os colegas Parlamentares, boa noite a todos que assistem \u00e0 sess\u00e3o pela TV C\u00e2mara.\r\n\u00c9 important\u00edssimo parabenizar o autor e parabenizar tamb\u00e9m o Relator. Eu acho que, neste momento que o Pa\u00eds vem passando, essas pessoas que j\u00e1 tem financiamento estudantil s\u00e3o as pessoas mais atingidas, pois n\u00e3o t\u00eam renda, n\u00e3o t\u00eam como efetuar esses pagamentos. Ent\u00e3o, eu acho que mais uma vez o Parlamento demonstra uma atitude em rela\u00e7\u00e3o a essas pessoas mais vulner\u00e1veis. \r\nTemos feito algumas a\u00e7\u00f5es e aprovado alguns projetos de leis important\u00edssimos. Ontem, inclusive...\r\nO SR. PRESIDENTE (Marcos Pereira. REPUBLICANOS - SP) - Prorrogo a sess\u00e3o.\r\nPode continuar, Deputado.\r\nO SR. CHARLLES EVANGELISTA (PSL - MG. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Presidente, ontem, inclusive, n\u00f3s aprovamos tamb\u00e9m o projeto de incentivo, de ajuda, na verdade, a micro e pequenas empresas, que vai deix\u00e1-las em uma situa\u00e7\u00e3o pouco melhor, para que elas possam manter os empregos. Ser\u00e3o oferecidos empr\u00e9stimos a uma taxa de juros adequada, a taxa SELIC mais 1,25, e ser\u00e3o dados diversos benef\u00edcios a essa classe tamb\u00e9m, que \u00e9 a maior geradora de empregos que n\u00f3s temos. A nossa Relatora foi a nossa L\u00edder, a Deputada Joice Hasselmann. \r\nHoje, costumo dizer que \u00e9 um grande desafio termos empres\u00e1rios no nosso Pa\u00eds. A impress\u00e3o que temos \u00e9 de que estamos, a todo momento, remando contra a correnteza em raz\u00e3o das alt\u00edssimas cargas tribut\u00e1rias, alt\u00edssimas cargas trabalhistas. Parece que tudo vem contra o empres\u00e1rio.\r\nUma coisa que sempre falo \u00e9 que, em um pa\u00eds desenvolvido, a \u00faltima op\u00e7\u00e3o de um jovem \u00e9 ser funcion\u00e1rio p\u00fablico. No Brasil, infelizmente, o jovem v\u00ea isso como a primeira op\u00e7\u00e3o, at\u00e9 pela falta de incentivo para poder empreender.\r\nEssa \u00e9 mais uma vit\u00f3ria para o povo brasileiro, que tem diretamente ligado o empregador e o trabalhador. Sabemos que precisamos incentivar o empregador, o empres\u00e1rio, para que ele possa gerar riqueza e renda e dar emprego para as pessoas que tamb\u00e9m precisam.\r\nAprovamos hoje tamb\u00e9m a transfer\u00eancia dos fundos de assist\u00eancia social. Uma das coisas que defendemos na campanha, o Governo Federal, inclusive defendeu tamb\u00e9m, \u00e9 o \"Mais Brasil e menos Bras\u00edlia\".\r\nEnt\u00e3o, n\u00f3s temos esse dever de poder dar credibilidade aos Governadores, aos Prefeitos e, n\u00f3s, enquanto Parlamentares, Deputados Estaduais, Deputados Federais, Vereadores fazermos o papel de fiscaliza\u00e7\u00e3o, o que \u00e9 important\u00edssimo. As coisas acontecem nos Munic\u00edpios, as pessoas residem nos Munic\u00edpios, quem est\u00e1 perto da popula\u00e7\u00e3o s\u00e3o os Vereadores, os Prefeitos. Essas pessoas t\u00eam uma vis\u00e3o totalmente diferente da vis\u00e3o dessas autoridades, muitas vezes, e nos inclu\u00edmos tamb\u00e9m, que estamos em Bras\u00edlia, dedicados e debru\u00e7ados em projetos t\u00e3o importantes. \r\nSr. Presidente, n\u00e3o poderia deixar, de forma nenhuma tamb\u00e9m, de falar sobre o aux\u00edlio emergencial.\r\nQuero fazer um desabafo e levar para toda a popula\u00e7\u00e3o e na TV C\u00e2mara deixar claro que n\u00f3s temos uma rede social muito ativa e estamos sempre \u00e0 disposi\u00e7\u00e3o, trabalhando com muita transpar\u00eancia. As pessoas t\u00eam-nos procurado muito para poder interagir e poder trazer as suas afli\u00e7\u00f5es, trazer as suas demandas. As pessoas est\u00e3o completamente desesperadas, muitas delas com fome, com as latas realmente vazias, precisando desse aux\u00edlio emergencial e, infelizmente, n\u00f3s estamos tendo um desencontro de informa\u00e7\u00e3o muito grande.\r\nHoje, eu dediquei a maior parte do meu tempo participando de reuni\u00f5es na Caixa Econ\u00f4mica Federal. Estava agora participando tamb\u00e9m remotamente de reuni\u00e3o da Comiss\u00e3o do Coronav\u00edrus, presidida de forma excepcional pelo Deputado Luizinho, com a participa\u00e7\u00e3o de representantes da DATAPREV, do INSS e da Caixa Econ\u00f4mica Federal. N\u00e3o podemos deixar que essas pessoas fiquem sem o m\u00ednimo de informa\u00e7\u00e3o para saber o que est\u00e1 acontecendo realmente com esses cadastros. Pessoas fizeram o cadastro no dia 7 de abril, no primeiro dia que eles teriam para fazer o cadastro. A Caixa teria 5 dias para poder aprovar o cadastro e mais 3 dias para efetuar o pagamento. Hoje, dia 23 de abril, a maioria dessas pessoas que n\u00f3s temos recebido infelizmente n\u00e3o tiveram sequer a resposta do cadastro. Claro, a grande maioria recebeu o benef\u00edcio. E a\u00ed ficam completamente desesperadas e sabem que est\u00e3o dentro dos crit\u00e9rios para poder receber. Algumas pessoas que fizeram o cadastro agora receberam uma resposta de que houve diverg\u00eancia no cadastro, mas n\u00e3o conseguem entrar tamb\u00e9m para fazer essas altera\u00e7\u00f5es. E a\u00ed um problema vai-se somando em cima do outro. Parece que tivemos uma declara\u00e7\u00e3o de alguns representantes da Caixa informando que o dinheiro havia acabado, deixando essas pessoas completamente desesperadas, sem nenhum tipo de informa\u00e7\u00e3o.\r\nEnt\u00e3o, pe\u00e7o ao Governo Federal, \u00e0 Caixa, principalmente \u00e0 DATAPREV que possamos deixar bem coesas e simplificadas essas informa\u00e7\u00f5es para que as pessoas possam ter acesso a elas e possam se planejar. \r\n H\u00e1 pessoas que n\u00e3o sabem o que v\u00e3o fazer com os seus filhos, com seus parentes. Algumas pessoas est\u00e3o com uma dificuldade gigantesca, principalmente as mais vulner\u00e1veis, de poder fazer o cadastro, pois t\u00eam que arrumar um vizinho, um amigo ou um parente que tenha mais facilidade para fazer o cadastro. Fizeram o cadastro, mas est\u00e3o nessa situa\u00e7\u00e3o de extrema dificuldade.\r\nDeixo o nosso apelo mais uma vez para que os representantes dessas institui\u00e7\u00f5es possam esclarecer o m\u00e1ximo poss\u00edvel as pessoas atrav\u00e9s das m\u00eddias, atrav\u00e9s de informa\u00e7\u00f5es aos Parlamentares que t\u00eam redes sociais muito ativas, atrav\u00e9s das m\u00eddias nacionais e atrav\u00e9s de coletivas esclarecendo a cabe\u00e7a dessas pessoas para que possam ter um pouco mais de tranquilidade.\r\nChegaram inclusive, Sr. Presidente, a anunciar a segunda parcela de pagamento do aux\u00edlio emergencial, sendo que v\u00e1rias pessoas ainda n\u00e3o receberam a primeira parcela e sequer conseguiram ter a resposta se o cadastro ser\u00e1 aprovado ou n\u00e3o. Mesmo que o cadastro n\u00e3o seja aprovado, acho que a DATAPREV tem que dar uma resposta para a popula\u00e7\u00e3o.\r\nEspero que quem tem o cadastro aprovado n\u00e3o tenha de forma nenhuma chance de n\u00e3o receber o benef\u00edcio. Vamos estar muito atentos. Enquanto ainda tivermos voz no Parlamento, vamos brigar para que cada pessoa possa receber o benef\u00edcio.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2020&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.\r\nMINISTRO DE ESTADO DO TURISMO, ELOGIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991. Congratula\u00e7\u00f5es ao Relator da mat\u00e9ria, Deputado Newton Cardoso Jr.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, inicialmente, quero cumprimentar o Relator, o Deputado Newton Cardoso Jr, pelo excelente relat\u00f3rio. Fui testemunha do quanto ele se debru\u00e7ou sobre a mat\u00e9ria e, em 2019, quando ele foi Presidente da Comiss\u00e3o de Turismo, acompanhei tamb\u00e9m sua dedica\u00e7\u00e3o e seu desempenho.\r\nQuero parabenizar tamb\u00e9m o Ministro do Turismo. Pelos n\u00fameros do ano passado, em 2019, o turismo movimentou 238 bilh\u00f5es de reais no nosso Pa\u00eds, tendo um aumento de 163% com rela\u00e7\u00e3o a vagas de emprego, comparado ao ano de 2018. Os n\u00fameros s\u00e3o consider\u00e1veis, o setor do turismo \u00e9 um dos maiores fomentadores da economia em nosso Pa\u00eds. J\u00e1 foi dito aqui tamb\u00e9m pelo Relator que hoje o Brasil, que tem um potencial tur\u00edstico gigantesco, recebe em torno de 6 milh\u00f5es de turistas por ano, ao passo que pa\u00edses com potencial tur\u00edstico menor costumam receber de oito a dez vezes mais turistas. \r\nSempre digo que o turismo \u00e9 de extrema import\u00e2ncia, porque traz dinheiro de fora para ser gasto dentro do Pa\u00eds. Esse dinheiro circula dentro do Pa\u00eds, fomentando a renda e o emprego. O setor do turismo \u00e9 um dos maiores geradores de emprego.\r\nParabenizo o Relator, que fez um esfor\u00e7o gigantesco e retirou recursos que estavam parados em fundos e que podem realmente fomentar muito o turismo.\r\nNossa posi\u00e7\u00e3o \u00e9 favor\u00e1vel \u00e0 mat\u00e9ria. \r\nE, mais uma vez, parabenizo o Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 1, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL \u00e9 a favor da diminui\u00e7\u00e3o de impostos, mas com responsabilidade.\r\nPortanto, o PSL orienta \"n\u00e3o\", fazendo o papel de uma Direita racional.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 17, apresentada \u00e0  Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o intuito do destaque \u00e9 \u00fanica e exclusivamente trazer transpar\u00eancia para o processo de escolha. Eu acho que nada mais justo do que poder indicar um funcion\u00e1rio que j\u00e1 est\u00e1 no ramo, porque o Presidente vai fazer a escolha do mesmo jeito. O intuito \u00e9 dar transpar\u00eancia, para se evitar atendimentos a interesses pol\u00edtico-partid\u00e1rios. Hoje, o Presidente Bolsonaro est\u00e1 conduzindo o nosso Pa\u00eds. Amanh\u00e3 n\u00e3o saberemos quem ser\u00e1.\r\nO PSL orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE, INCLUS\u00c3O, DISPOSITIVO LEGAL, EMENDA DE PLENARIO, PL 1O79/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTRARIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para inclus\u00e3o, onde couber, do art. 12 da Emenda n\u00ba 22, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, neste per\u00edodo de coronav\u00edrus, n\u00f3s temos tratado as coisas com muita serenidade, com muita tranquilidade e muita responsabilidade. O m\u00e9rito do destaque \u00e9 muito bom e, com certeza, atenderia a v\u00e1rias pessoas, mas n\u00e3o podemos comprometer o fundo estudantil.\r\nPortanto, o PSL orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 1O79/2020, PROJETO DE LEI ORDIN\u00c1RIA,PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTRARIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 16, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, assim como no destaque anterior, a nossa preocupa\u00e7\u00e3o \u00e9 tratar o tema com serenidade, tranquilidade e responsabilidade. Sabemos que o Fundo tem que estar saud\u00e1vel, para que os outros estudantes possam dele se beneficiar. \r\nPortanto, o PSL orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, como j\u00e1 disse, n\u00e3o adianta ajudarmos os estudantes de hoje e prejudicarmos os do futuro. \r\nO PSL orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-04T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, DISPOSITIVO LEGAL, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, dos artigos 1\u00ba, 2\u00ba, 3\u00ba, 5\u00ba, 6\u00ba, 7\u00ba, 8\u00ba e seus incisos I e II, 9\u00ba, 10, 11 e 12, com parecer favor\u00e1vel, constantes da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente de pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, n\u00e3o poderia ser diferente. Acho que, neste momento por que o Pa\u00eds vem passando, n\u00f3s temos que dar algumas condi\u00e7\u00f5es de o Governo Federal poder ter mais agilidade. Quero parabenizar as duas Casas.\r\nTodo partido respons\u00e1vel eu acho que n\u00e3o tem como votar contra o m\u00e9rito dessa mat\u00e9ria.\r\nO PSL vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2020&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo da express\u00e3odesde que diretamente envolvidos no combate \u00e0 pandemia da COVID-19,  constante do \u00a7 6\u00ba, art. 8\u00ba, do Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus. Registro de voto do orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL libera a bancada na vota\u00e7\u00e3o desse destaque, porque n\u00f3s n\u00e3o chegamos a um consenso.\r\nV\u00e1rios Parlamentares e eu achamos muito dif\u00edcil que se possa fazer essa diferencia\u00e7\u00e3o. Um delegado de pol\u00edcia ou um policial, por exemplo, podem permanecer dentro da delegacia, podem n\u00e3o sair \u00e0s ruas, podem n\u00e3o ter que lidar diretamente com o combate ao coronav\u00edrus, mas certamente ter\u00e3o contato com os policiais que trabalham nas ruas. O mesmo acontece com os policiais militares.\r\nPortanto, n\u00f3s estamos liberando a bancada.\r\nSr. Presidente, na vota\u00e7\u00e3o da Emenda n\u00ba 115, que acrescentou diversas categorias - agentes de limpeza urbana, agentes socioeducativos, For\u00e7as Armadas -, o painel ficou aberto por 3 minutos. Eu votei, mas meu voto n\u00e3o est\u00e1 aparecendo no painel. Registro que meu voto \u00e9 \"sim\", para que se acrescentem tamb\u00e9m essas categorias.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=314&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T23:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, EMENDA DE PLEN\u00c1RIO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o III - servidores da Defesa Agropecu\u00e1ria, constante da Emenda n\u00ba 44, de 2020, apresentada ao Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL j\u00e1 cedeu o m\u00e1ximo poss\u00edvel. O PSL vota \"n\u00e3o\".\r\nEu basicamente concordo com alguns Deputados: se n\u00f3s tiv\u00e9ssemos retirado o art. 8\u00ba, talvez tivesse ficado mais f\u00e1cil, considerando a quantidade de outras categorias que j\u00e1 foram inclu\u00eddas.\r\nVotei a favor dos professores, votei a favor de se retirar o art. 8\u00ba, mas temos que respeitar a bancada. O PSL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=326&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T23:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 69, apresentada ao Projeto de Lei Complementar n\u00b0 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL orienta o voto \"sim\" \u00e0 emenda. Vemos com muito bons olhos a suspens\u00e3o do prazo dos concursos. V\u00e1rios outros prazos est\u00e3o suspensos. Em muitos Estados, os prazos do DETRAN est\u00e3o suspensos. \r\nSabemos que concurso n\u00e3o \u00e9 brincadeira. No meu caso, sou concursado. Muitas pessoas se preparam a vida inteira e, \u00e0s vezes, na hora de serem chamadas, vence o prazo do concurso. Ent\u00e3o, nada mais justo do que suspender o prazo. Ap\u00f3s a pandemia, volta-se a contar o prazo, e as Prefeituras, os Estados, os Munic\u00edpios e o Governo podem chamar essas pessoas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=333&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "\u00d5RIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.\r\nCONGRATULA\u00c7\u00c3O, F\u00c1BIO RAMALHO, DEPUTADO FEDERAL, BANCADA PARLAMENTAR, ATUA\u00c7\u00c3O, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, TRIBUNAL REGIONAL FEDERAL DA SEXTA REGI\u00c3O, SEDE, BELO HORIZONTE (MG), JURISDI\u00c7\u00c3O, MINAS GERAIS.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 23, apresentada ao Projeto de Lei n\u00ba 1.562, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus. Congratula\u00e7\u00f5es ao Deputado F\u00e1bio Ramalho e \u00e0 bancada federal mineira, pelo empenho na cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, no Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL orienta \"n\u00e3o\".\r\nMas quero aproveitar este tempo aqui tamb\u00e9m para parabenizar o nosso colega Deputado Federal Fabinho. Acompanhei de perto, na bancada mineira, o grande esfor\u00e7o que ele fez para poder unir os 53 Deputados. Fizemos uma grande diferen\u00e7a e trabalhamos junto \u00e0s outras bancadas.\r\nO Deputado Fabinho deu o exemplo aqui de um senhor de 86 anos, praticamente no final da sua vida, buscando justi\u00e7a.\r\nIsso \u00e9 por todos os cantos de Minas Gerais. Disse aqui tamb\u00e9m que hoje estamos vendo as pessoas morrerem por conta da pandemia, mas no tocante ao Judici\u00e1rio, na Justi\u00e7a de Minas Gerais principalmente, vemos as pessoas constantemente morrerem antes de encontrar espa\u00e7o.\r\nParab\u00e9ns, Deputado Fabinho. Parab\u00e9ns, Deputado Diego. Parab\u00e9ns a toda a bancada por ter cumprido a palavra.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER DE COMISS\u00c3O, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.\r\nZ\u00c9 VITOR, DEPUTADO FEDERAL, RELATOR, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS, LINHA DE CR\u00c9DITO, FINANCIAMENTO, PAGAMENTO DA FOLHA SALARIAL, PESSOA JUR\u00cdDICA, PEQUENA EMPRESA, M\u00c9DIA EMPRESA, DEFESA, EMPRES\u00c1RIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao n\u00e3o atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL orienta \"sim\" e aproveita o momento para saudar o Relator Z\u00e9 Vitor, meu conterr\u00e2neo de Minas Gerais. Gostaria de parabeniz\u00e1-lo pelo relat\u00f3rio e de dizer que n\u00f3s sabemos da grande dificuldade de ser empres\u00e1rio no nosso Pa\u00eds, principalmente num momento como este que vivemos. Em tempos normais, a impress\u00e3o que temos \u00e9 a de que n\u00f3s estamos remando contra a correnteza a todo o momento, com alta carga tribut\u00e1ria, com altos encargos trabalhistas, com todo o tipo de burocracia poss\u00edvel. Ent\u00e3o, temos que estar muito atentos para poder ajudar os empres\u00e1rios, principalmente nesta \u00e9poca.\r\nO PSL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=125&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-14T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 926/2020, MEDIDA PROVIS\u00d3RIA, CRIT\u00c9RIO, DISPENSA DE LICITA\u00c7\u00c3O, AQUISI\u00c7\u00c3O, BENS, SERVI\u00c7OS, PANDEMIA, CORONAV\u00cdRUS, DEFESA.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Declara\u00e7\u00e3o de voto pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 926, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisi\u00e7\u00e3o de bens, servi\u00e7os e insumos destinados ao enfrentamento da emerg\u00eancia de sa\u00fade p\u00fablica decorrente do coronav\u00edrus. Imediata vota\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 3.150, de 2020, acerca da inser\u00e7\u00e3o do \u00a7 5\u00ba no art. 24 da Lei n\u00ba 8.666, de 1993, com vista ao estabelecimento de crit\u00e9rios de transpar\u00eancia e publicidade nas contrata\u00e7\u00f5es realizadas pelo poder p\u00fablico, em casos de guerra, grave perturba\u00e7\u00e3o da ordem, emerg\u00eancia ou calamidade p\u00fablica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa noite, Sr. Presidente, colegas Deputados e telespectadores da TV C\u00e2mara.\r\nQuero s\u00f3 falar, Sr. Presidente, de um projeto que tem muito a ver com esta MP 926/20 e que \u00e9 de minha autoria: o Projeto de Lei n\u00ba 3.150, de 2020, que acrescenta o \u00a7 5\u00ba ao art. 24 da Lei n\u00ba 8.666, de 1993, para estabelecer crit\u00e9rios de publicidade nas contrata\u00e7\u00f5es realizadas em casos de guerra, perturba\u00e7\u00e3o da ordem e calamidade p\u00fablica. Portanto, esse projeto tem muito a ver com a medida provis\u00f3ria.\r\nEu tenho visto muitos gestores, principalmente estaduais e municipais, aproveitando-se da dispensa de algumas licita\u00e7\u00f5es por conta da calamidade p\u00fablica para benef\u00edcio pr\u00f3prio, deixando a popula\u00e7\u00e3o, infelizmente, sem transpar\u00eancia e publicidade nas contrata\u00e7\u00f5es. N\u00f3s sabemos que, hoje, com o mundo globalizado, com as redes sociais, o maior fiscalizador do poder p\u00fablico \u00e9 o cidad\u00e3o.\r\nEnt\u00e3o, ele tem o direito de poder ter acesso a essas publica\u00e7\u00f5es, \u00e0 transpar\u00eancia, mesmo em caso de dispensa de licita\u00e7\u00e3o.\r\nLembro que votei favor\u00e1vel \u00e0 MP 926. Acredito que, em tempo de pandemia, neste momento at\u00edpico que o nosso Pa\u00eds est\u00e1 vivendo, n\u00f3s n\u00e3o temos a m\u00ednima condi\u00e7\u00e3o de burocratizar qualquer tipo de compra. As pessoas que est\u00e3o contaminadas, as pessoas que est\u00e3o sofrendo precisam realmente da agilidade do poder p\u00fablico para que os insumos e os medicamentos possam chegar com mais rapidez. Ent\u00e3o, votei favor\u00e1vel \u00e0 MP e pe\u00e7o que o nosso Projeto de Lei 3.150 seja colocado em vota\u00e7\u00e3o o mais r\u00e1pido poss\u00edvel.\r\nEu, aqui em Minas Gerais, tenho recebido muitas reclama\u00e7\u00f5es de cidad\u00e3os, muitas den\u00fancias, diretamente ou atrav\u00e9s das redes sociais, relacionadas principalmente a gestores municipais.\r\nOutro dia eu recebi uma den\u00fancia sobre uma empresa que foi contratada pela Prefeitura de Juiz de Fora. No contrato social constava o objetivo dessa empresa, que era o de fornecimento de materiais de inform\u00e1tica. Fui verificar a situa\u00e7\u00e3o in loco. Fui at\u00e9 uma cidade vizinha, localizada no Estado do Rio de Janeiro, e encontrei uma situa\u00e7\u00e3o totalmente at\u00edpica. Essa empresa, com loja num bairro at\u00edpico, sem a m\u00ednima condi\u00e7\u00e3o, n\u00e3o tinha possibilidade nenhuma de fornecer produtos para qualquer tipo de Prefeitura, infelizmente. N\u00f3s oficiamos ao Minist\u00e9rio P\u00fablico para que pudessem ser tomadas as provid\u00eancias a respeito dessa den\u00fancia, fora as outras que n\u00f3s estamos tamb\u00e9m recebendo.\r\nPortanto, Presidente, como disse, votei favor\u00e1vel \u00e0 MP 926, mas tenho receio de que alguns gestores se aproveitem deste momento para fazer a farra do boi, querendo se aproveitar dessa situa\u00e7\u00e3o em benef\u00edcio pr\u00f3prio.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2020&txPagina=162&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-14T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 25/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 926/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 2\u00ba, art. 4\u00ba-E, da Lei n\u00ba 13.979, de 2020, na reda\u00e7\u00e3o dada pelo art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2020, da Medida Provis\u00f3ria n\u00ba 926, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisi\u00e7\u00e3o de bens, servi\u00e7os e insumos destinados ao enfrentamento da emerg\u00eancia de sa\u00fade p\u00fablica decorrente do coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer uma observa\u00e7\u00e3o a respeito do coment\u00e1rio da Oposi\u00e7\u00e3o. N\u00f3s temos que fazer uma oposi\u00e7\u00e3o respons\u00e1vel, e n\u00e3o uma oposi\u00e7\u00e3o ao Brasil. Precisamos desburocratizar este processo. O nosso objetivo agora \u00e9 salvar vidas, e n\u00e3o temos outro meio para isso a n\u00e3o ser acelerar as aquisi\u00e7\u00f5es.\r\nReitero o meu pedido: precisamos tamb\u00e9m acompanhar as aquisi\u00e7\u00f5es e dar condi\u00e7\u00f5es ao cidad\u00e3o de acompanh\u00e1-las com transpar\u00eancia e publicidade.\r\nO PSL orienta voto \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2020&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-21T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, MPV 980/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, da Medida Provis\u00f3ria n\u00ba 980, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.884, de 2019, para a cria\u00e7\u00e3o do Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00f5es e do Minist\u00e9rio das Comunica\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, parabenizo aqui a fala do Deputado Reinhold, do PSD. Assino embaixo das palavras dele e quero dizer que n\u00f3s temos que ficar muito atentos com rela\u00e7\u00e3o \u00e0 posi\u00e7\u00e3o do \"quanto pior, melhor\".\r\nO PSL vota \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F9%2F2020&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-02T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "TARIFA DE ENERGIA EL\u00c9TRICA, REAJUSTE DE TARIFAS, AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), CR\u00cdTICA.\r\nREQUERIMENTO DE URG\u00caNCIA, PL 863/2020, PROJETO DE LEI ORDIN\u00c1RIA, SUSPENS\u00c3O, BANDEIRA TARIF\u00c1RIA, CONTA DE ENERGIA EL\u00c9TRICA, CALAMIDADE P\u00daBLICA, PANDEMIA, EMERG\u00caNCIA SOCIAL, VOTA\u00c7\u00c3O, SOLICITA\u00c7\u00c3O.\r\nMINAS GERAIS, AUTONOMIA ADMINISTRATIVA, AUTONOMIA POL\u00cdTICA, ANIVERS\u00c1RIO.\r\nSEGURAN\u00c7A P\u00daBLICA, MINAS GERAIS, FAVOR\u00c1VEL, BANCADA PARLAMENTAR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Protesto contra o reajuste nas tarifas de energia el\u00e9trica, autorizado pela Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL. Apelo \u00e0 Casa de vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia no Projeto de Lei n\u00ba 863, de 2020, acerca da suspens\u00e3o de bandeiras tarif\u00e1rias nas contas de energia el\u00e9trica durante pandemia ou estado de calamidade p\u00fablica.Transcurso do terceiro centen\u00e1rio da autonomia pol\u00edtico-administrativa do Estado de Minas Gerais. Atua\u00e7\u00e3o da bancada federal mineira pelo fortalecimento da \u00e1rea de seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados.\r\nSr. Presidente, subo a esta tribuna para fazer aqui uma manifesta\u00e7\u00e3o contra a decis\u00e3o da ANEEL com rela\u00e7\u00e3o \u00e0 reuni\u00e3o de segunda-feira, dia 30.\r\nN\u00f3s sabemos o momento pelo qual o Pa\u00eds est\u00e1 passando. O momento de pandemia \u00e9 seri\u00edssimo. H\u00e1 pessoas morrendo nos hospitais, comerciantes fechando as suas portas. Gera-se um grande n\u00famero de desempregados. Estamos com quase 15 milh\u00f5es de desempregados no nosso Pa\u00eds.\r\nInfelizmente, a ANEEL toma uma decis\u00e3o de colocar bandeira vermelha patamar 2 neste momento de pandemia, aumentando a conta de energia el\u00e9trica de todos os brasileiros.\r\nDesde o dia 26 de mar\u00e7o, n\u00f3s colocamos nesta Casa o Projeto de Lei n\u00ba 863, de 2020, que pro\u00edbe a ANEEL de mudar os patamares, de mudar as bandeiras para cima, obviamente, e prejudicar toda a popula\u00e7\u00e3o brasileira.\r\nN\u00e3o tivemos ainda o apoio. Estou solicitando desta tribuna aos L\u00edderes partid\u00e1rios que possam nos apoiar nessa urg\u00eancia, para votarmos nesta Casa esse projeto proibindo o reajuste das bandeiras da energia el\u00e9trica. N\u00e3o temos a m\u00ednima condi\u00e7\u00e3o, neste momento de pandemia, de aumentar a conta de energia da popula\u00e7\u00e3o.\r\nAs pessoas j\u00e1 est\u00e3o completamente aterrorizadas com o aux\u00edlio emergencial chegando ao fim, e, infelizmente, decis\u00f5es como essas as prejudicam ainda mais.\r\nSr. Presidente, hoje meu Estado de Minas Gerais completa 300 anos. Eu n\u00e3o poderia deixar, de forma nenhuma, de apresentar aqui os meus parab\u00e9ns ao Estado de Minas Gerais e de manifestar meu orgulho de l\u00e1 poder residir e de ter recebido a confian\u00e7a das quase 52 mil pessoas que me trouxeram a esta Casa para represent\u00e1-las.\r\nNeste anivers\u00e1rio, Minas Gerais recebe tamb\u00e9m um grande presente: o t\u00edtulo de Estado mais seguro do Brasil. Quando fui eleito Deputado, minha bandeira era a seguran\u00e7a p\u00fablica. N\u00f3s estamos trabalhando muito para dar seguran\u00e7a a toda a popula\u00e7\u00e3o de Minas Gerais, e, a cada dia, vem sendo reduzida a viol\u00eancia e a criminalidade.\r\nA bancada mineira federal tem feito um grande trabalho e dedicado muito tempo e muitos recursos para equipar a Pol\u00edcia Civil, a Pol\u00edcia Militar, o Corpo de Bombeiros Civil e a Guardas Municipais. Eu tamb\u00e9m, atrav\u00e9s do meu gabinete, tenho dedicado grande parte das emendas a fazer com que aquele Estado se torne realmente seguro.\r\nSr. Presidente, deixo aqui minha manifesta\u00e7\u00e3o e gostaria de dividir o tempo de Lideran\u00e7a com meu amigo Deputado Delegado Marcelo Freitas, para que ele possa conclui-lo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2020&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T11:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 2474/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL, CONGRATULA\u00c7\u00c3O, LUCAS REDECKER, FRANCO CARTAFINA, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), DANIEL TRZECIAK, RELATOR.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Minas e Energia ao Projeto de Lei n\u00ba 2.474, de 2020, referente \u00e0 cess\u00e3o de cr\u00e9ditos obtidos em sistema de compensa\u00e7\u00e3o de energia el\u00e9trica, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, quero cumprimentar os autores do projeto tamb\u00e9m, o Deputado Lucas Redecker e o Deputado Franco Cartafina, nosso conterr\u00e2neo de Minas Gerais, parabeniz\u00e1-los pela iniciativa e dizer que o povo brasileiro, com toda certeza, \u00e9 um povo solid\u00e1rio.\r\nNa verdade, o projeto vai poder distribuir aquilo que sobrou da gera\u00e7\u00e3o de energia. Nesta fase t\u00e3o dif\u00edcil que o Pa\u00eds tem vivido e est\u00e1 vivendo, principalmente os hospitais, com rela\u00e7\u00e3o \u00e0 alta demanda, com pessoas realmente passando dificuldade, com os m\u00e9dicos trabalhando de forma excessiva, dando o seu melhor, eu tenho certeza de que a ajuda para os hospitais ser\u00e1 de extrema import\u00e2ncia, e n\u00e3o vai faltar ajuda por conta dessa solidariedade do povo brasileiro.\r\nParab\u00e9ns, Deputado Franco, Deputado Lucas e tamb\u00e9m nosso Deputado Relator Daniel!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO,  ADMISSIBILIDADE, REQUERIMENTO DE DESTAQUE, PLP 10/2021, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVORAVEL.\r\nOFICIAL DE JUSTI\u00c7A, GRUPO PRIORITARIO,  VACINA\u00c7\u00c3O, VACINA, CORONAVIRUS.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em globo da admissibilidade dos requerimentos de destaques simples, apresentados ao Projeto de Lei Complementar n\u00ba 10, de 2021, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 172, de 2020, e da Lei n\u00ba 14.029, de 2020, com vista \u00e0 concess\u00e3o de prazo aos Estados, ao Distrito Federal e aos Munic\u00edpios para execu\u00e7\u00e3o de atos de transposi\u00e7\u00e3o e transfer\u00eancia e de atos de transposi\u00e7\u00e3o e reprograma\u00e7\u00e3o; e sobre a altera\u00e7\u00e3o de outros diplomas legais. Apelo ao Minist\u00e9rio da Sa\u00fade por inclus\u00e3o de Oficiais de Justi\u00e7a no grupo priorit\u00e1rio de imuniza\u00e7\u00e3o contra a Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSL orienta \"sim\".\r\nQuero aproveitar e utilizar este 1 minuto que temos de orienta\u00e7\u00e3o, primeiro, para parabenizar o Governo, por meio do Minist\u00e9rio da Sa\u00fade, por ter colocado os agentes da seguran\u00e7a p\u00fablica tamb\u00e9m na prioridade de vacina\u00e7\u00e3o.\r\nSabemos da import\u00e2ncia desses profissionais e como eles t\u00eam atuado junto ao combate \u00e0 pandemia, dando seguran\u00e7a para toda a popula\u00e7\u00e3o brasileira, que tanto precisa.\r\nEu queria aproveitar, Presidente, e fazer um apelo ao Minist\u00e9rio da Sa\u00fade e ao Governo Federal para que coloquem tamb\u00e9m nessa prioridade os oficiais de justi\u00e7a. Os oficiais de justi\u00e7a t\u00eam desempenhado um grande trabalho, levando a Justi\u00e7a at\u00e9 o cidad\u00e3o e cumprindo as ordens judiciais neste momento cr\u00edtico pelo qual o nosso Pa\u00eds tem passado. Portanto, fa\u00e7o este apelo para que o Minist\u00e9rio da Sa\u00fade priorize tamb\u00e9m os oficiais de justi\u00e7a nessa...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 2466/2019, PROJETO DE LEI ORDIN\u00c1RIA, MAIORIA PARLAMENTAR, VOTO FAVOR\u00c1VEL, DIA NACIONAL DE COMBATE AO ABUSO E \u00c0 EXPLORA\u00c7\u00c3O SEXUAL DE CRIAN\u00c7AS E ADOLESCENTES.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 2.466, de 2019, sobre a institui\u00e7\u00e3o da campanha Maio Laranja, destinada \u00e0 implementa\u00e7\u00e3o de a\u00e7\u00f5es efetivas de combate ao abuso e \u00e0 explora\u00e7\u00e3o sexual de crian\u00e7as e adolescentes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, a Maioria orienta \"sim\". Aproveito para chamar a aten\u00e7\u00e3o para o momento oportuno de votarmos este requerimento de urg\u00eancia. Dia 18 de maio foi o Dia Nacional de Combate ao Abuso e \u00e0 Explora\u00e7\u00e3o Sexual contra Crian\u00e7as e Adolescentes. Ent\u00e3o, este \u00e9 um momento importante e oportuno para aprovarmos este requerimento. \r\nA Maioria orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "POL\u00cdCIA MILITAR, MINAS GERAIS, ANIVERS\u00c1RIO, HOMENAGEM.\r\nSEGURAN\u00c7A P\u00daBLICA, CHARLLES EVANGELISTA, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Transcurso do 246\u00ba anivers\u00e1rio de cria\u00e7\u00e3o da Pol\u00edcia Militar do Estado de Minas Gerais. Comprometimento do orador com a \u00e1rea de seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, hoje eu subo a esta tribuna com o peito recheado de felicidade e de orgulho. Subo a esta tribuna para falar da melhor Pol\u00edcia Militar do Brasil, a Pol\u00edcia Militar de Minas Gerais, para parabeniz\u00e1-la pelos seus 246 anos.\r\nA Pol\u00edcia Militar de Minas Gerais \u00e9 uma das institui\u00e7\u00f5es mais respeitadas do Pa\u00eds. N\u00e3o \u00e9 \u00e0 toa que a Pol\u00edcia Militar de Minas Gerais, em conjunto com as outras for\u00e7as de seguran\u00e7a mineiras, a Pol\u00edcia Civil, a Pol\u00edcia Penal, e os agentes socioeducativos, transformaram o Estado de Minas Gerais no Estado mais seguro do Pa\u00eds.\r\nEnt\u00e3o, Pol\u00edcia Militar de Minas Gerais, meus parab\u00e9ns por esses 246 anos! \u00c9 um grande orgulho para n\u00f3s, mineiros. Por onde andamos falamos da Pol\u00edcia Militar, que \u00e9 totalmente respeitada.\r\nQuero parabenizar os homens e as mulheres policiais militares que fizeram com que a pol\u00edcia se tornasse respeitada, que fizeram com que a pol\u00edcia se tornasse um orgulho dos mineiros. Parabenizo todos esses agentes de seguran\u00e7a p\u00fablica, desde soldados, cabos, sargentos, subtenentes, tenentes, capit\u00e3es, majores, tenentes-coron\u00e9is e coron\u00e9is at\u00e9 o comandante da Pol\u00edcia Militar. Eles s\u00e3o um grande orgulho para n\u00f3s.\r\nDesde 2018, quando fui eleito Deputado para representar Minas Gerais e o Brasil nesta Casa, carrego a seguran\u00e7a p\u00fablica como minha bandeira principal. N\u00e3o adianta falar somente em sa\u00fade, n\u00e3o adianta falar somente em educa\u00e7\u00e3o. Se n\u00e3o fossem esses homens e mulheres, n\u00f3s n\u00e3o ter\u00edamos tranquilidade em Minas Gerais, para nossos filhos poderem ir \u00e0 escola estudar, para os nossos familiares poderem ir a um posto de sa\u00fade ou a um hospital.\r\nEu falo, para que todos possam escutar, para as pessoas que criticam a Pol\u00edcia Militar ou qualquer outra for\u00e7a de seguran\u00e7a, que n\u00f3s temos dado grande contribui\u00e7\u00e3o nesta Casa, temos destinado grandes investimentos, para que eles possam fazer o seu trabalho de forma muito mais eficaz.\r\nSer policial, Sr. Presidente, \u00e9 conviver com a morte e n\u00e3o se abalar, \u00e9 estar triste e n\u00e3o poder chorar, \u00e9 estar acordado para que todos durmam tranquilos, \u00e9 dar o seu melhor e n\u00e3o ser reconhecido, \u00e9 passar datas especiais longe da fam\u00edlia, \u00e9 dar adeus todos os dias para a fam\u00edlia, \u00e9 colocar a pr\u00f3pria vida em risco por pessoas que n\u00e3o conhece. Ser policial \u00e9 passar por tudo isso com orgulho e amar o que faz.\r\nParab\u00e9ns \u00e0 Pol\u00edcia Militar de Minas Gerais!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-24T12:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE URGENCIA, PL 301/2021, PROJETO DE LEI ORDINARIA, AUMENTO DA PENA, CRIME CONTRA A HONRA, AMEA\u00c7A, PR\u00c1TICA, CONTEXTO, VIOL\u00caNCIA DOM\u00c9STICA, VIOLENCIA CONTRA A MULHER, DEFESA.\r\nMARIANA FERRER, VITIMA, ESTUPRO, VIOL\u00caNCIA INSTITUCIONAL, REUNI\u00c3O, CHALLES EVANGELISTA, DEPUTADO FEDERAL, DELEGADA SHEILA, DEPUTADA ESTADUAL, DAMARES ALVES, MINISTRA DE ESTADO DA MULHER, DA FAM\u00cdLIA E DOS DIREITOS HUMANOS.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Aplausos \u00e0 Deputada Celina Le\u00e3o pela apresenta\u00e7\u00e3o do Requerimento n\u00ba 433, de 2021, de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 301, de 2021, sobre a amplia\u00e7\u00e3o da pena dos crimes contra a honra (cal\u00fania, difama\u00e7\u00e3o e inj\u00faria), e amea\u00e7a cometidos no contexto de viol\u00eancia dom\u00e9stica e familiar contra mulher. Reuni\u00e3o do orador com a Deputada Estadual Delegada Sheila e com a Ministra da Mulher, da Fam\u00edlia e dos Direitos Humanos, Damares Regina Alves, para discuss\u00e3o do caso Mariana Ferrer, v\u00edtima de estupro e viol\u00eancia institucional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, primeiro, ao parabenizar o Deputado autor do requerimento, quero aproveitar aqui o tempo de orienta\u00e7\u00e3o da Maioria para parabenizar a Deputada Celina Le\u00e3o pelo Requerimento n\u00ba 433, de 2021, requerimento de urg\u00eancia anteriormente aprovado aqui, para um projeto que aumenta a pena para os praticantes de viol\u00eancia contra as mulheres.\r\nOntem, eu estive com a Deputada Estadual Delegada Sheila e com a Ministra Damares, tratando do caso Mariana Ferrer. Realmente, a Ministra tamb\u00e9m est\u00e1 muito preocupada com o caso, buscando, inclusive, por sugest\u00e3o nossa, a federaliza\u00e7\u00e3o, para que possamos punir os respons\u00e1veis e tamb\u00e9m punir os autores, os operadores do Direito, que infelizmente a fizeram passar por toda essa humilha\u00e7\u00e3o, causando traumas para o resto da vida.\r\nEnt\u00e3o, quero parabenizar tamb\u00e9m a Deputada Celina Le\u00e3o pelo Requerimento n\u00ba 433, de 2021.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-24T13:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MINAS GERAIS, VALE DO RIO DOCE, ROMPIMENTO, BARRAGEM DE REJEITO, BRUMADINHO (MG), DESASTRE AMBIENTAL, MINERA\u00c7\u00c3O, ACORDO, SOLIDARIEDADE, V\u00cdTIMA, INDENIZA\u00c7\u00c3O.\r\nJUIZ DE FORA (MG), HOSPITAL REGIONAL, CORRUP\u00c7\u00c3O, PARALISA\u00c7\u00c3O, OBRA P\u00daBLICA, ZONA DA MATA, MINAS GERAIS, CHARLLES EVANGELISTA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, FRENTE PARLAMENTAR, ROMEU ZEMA, GOVERNADOR, ACORDO, COMPANHIA VALE DO RIO DOCE (VALE), INDENIZA\u00c7\u00c3O.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Luta do orador e da Deputada Estadual Delegada Sheila pela constru\u00e7\u00e3o do Hospital Regional de Juiz de Fora, no Estado de Minas Gerais. Inclus\u00e3o das obras da unidade hospitalar no acordo firmado entre o Governo Estadual e a empresa Vale, para ressarcimento de danos materiais, ambientais e humanos provocados pelo rompimento de barragem de rejeitos de minera\u00e7\u00e3o no Munic\u00edpio de Brumadinho.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, boa tarde.\r\nQuero aproveitar este tempo da Lideran\u00e7a da Maioria para falar das minhas Minas Gerais, principalmente com rela\u00e7\u00e3o ao acordo que vem acontecendo entre o Estado de Minas Gerais e a Vale do Rio Doce quanto \u00e0quele epis\u00f3dio do rompimento da barragem de Brumadinho. \r\nJ\u00e1 me solidarizo com todas as v\u00edtimas que, infelizmente, ainda est\u00e3o tendo grandes dificuldades para ser indenizadas naquilo que lhes \u00e9 de direito. Na verdade, nada ir\u00e1 suprimir o sofrimento daquelas fam\u00edlias e daquelas pessoas que perderam seus entes queridos e v\u00e1rias coisas. \r\nPresidente, eu fui criado no Bairro Cer\u00e2mica, da Zona Norte de Juiz de Fora. Na verdade, eu comecei a participar da vida pol\u00edtica a partir de 2010 e acompanhei, com muita frequ\u00eancia, a t\u00e3o sonhada constru\u00e7\u00e3o do Hospital Regional na Zona Norte, pr\u00f3ximo \u00e0 minha casa. Na \u00e9poca, eu acompanhei aquela t\u00e3o sonhada constru\u00e7\u00e3o, com outros moradores tamb\u00e9m de Juiz de Fora e moradores da Zona da Mata mineira. O hospital atenderia a 94 Munic\u00edpios com quase 2 milh\u00f5es de habitantes. \r\nInfelizmente, ao acompanhar as obras, no dia 29 de mar\u00e7o de 2010, percebi que nosso dinheiro, o dinheiro dos contribuintes do Munic\u00edpio e de toda a regi\u00e3o, come\u00e7ou a ir para o ralo. A obra foi iniciada, grandes investimentos foram feitos para a constru\u00e7\u00e3o do Hospital Regional. Houve den\u00fancias de corrup\u00e7\u00e3o, e a obra foi totalmente paralisada, por problemas na presta\u00e7\u00e3o de contas. Infelizmente, a coisa n\u00e3o andava. Este foi um dos motivos que nos fez despertar para a vida p\u00fablica e defender tanto a popula\u00e7\u00e3o de Juiz de Fora, como a da Zona da Mata e os mineiros. Assim foi feito.\r\nAntes de me eleger Vereador na cidade de Juiz de Fora em 2016, eu j\u00e1 carregava a bandeira da constru\u00e7\u00e3o do Hospital Regional, fazendo v\u00eddeos e mobilizando a popula\u00e7\u00e3o. Eu carreguei esta bandeira para poder ser eleito Vereador em 2016. Muitos diziam que n\u00f3s \u00e9ramos doidos e que n\u00e3o haveria a menor possibilidade de aquelas obras serem retomadas. Eu fui eleito Vereador, assumi em 2017, defendendo a mesma bandeira. \r\nN\u00f3s conseguimos, com v\u00e1rios outros colegas vereadores, comprar essa briga.\r\nN\u00f3s fizemos v\u00eddeos, reuni\u00f5es com o Secret\u00e1rio de Sa\u00fade, audi\u00eancias p\u00fablicas, v\u00e1rias movimenta\u00e7\u00f5es. Conseguimos aprovar, meu caro Deputado General Peternelli, uma representa\u00e7\u00e3o na C\u00e2mara Municipal de Juiz de Fora na \u00e9poca, em que solicitamos ao Governador uma aten\u00e7\u00e3o especial, para que fosse feita alguma medida para que as obras fossem retomadas. Ali\u00e1s, n\u00f3s aprovamos uma representa\u00e7\u00e3o para autorizar o Governo do Estado a fazer uma parceira p\u00fablico-privada. Infelizmente, como vereadores, n\u00f3s n\u00e3o tivemos for\u00e7a suficiente para que as obras fossem retomadas.\r\nAssim, fomos eleitos com a mesma bandeira - eu, como Deputado Federal -, para representar toda a popula\u00e7\u00e3o de Minas Gerais. N\u00f3s continuamos a luta. Eu e a Deputada Estadual Delegada Sheila, que tamb\u00e9m era Vereadora e lutava pela constru\u00e7\u00e3o do Hospital Regional para atender toda a popula\u00e7\u00e3o de quase 2 milh\u00f5es de habitantes, fomos eleitos: eu, Deputado Federal; ela, Deputada Estadual. Ela criou a Frente Parlamentar em Defesa do Hospital Regional de Juiz de Fora, e n\u00f3s, com uma for\u00e7a maior de dois Deputados e com a for\u00e7a tamb\u00e9m dos colegas Vereadores da C\u00e2mara Municipal, conseguimos fazer uma grande mobiliza\u00e7\u00e3o. Fizemos v\u00e1rias reuni\u00f5es com o Secret\u00e1rio e o Ministro da Sa\u00fade, por meio da frente parlamentar, com o Cons\u00f3rcio Intermunicipal de Sa\u00fade da Regi\u00e3o Sudeste - CISDESTE. Fizemos v\u00eddeos, den\u00fancias.\r\nN\u00f3s tamb\u00e9m tivemos uma grande dificuldade, mas insistimos. Alguns nos puxaram para tr\u00e1s, alguns pol\u00edticos diziam que n\u00f3s n\u00e3o ir\u00edamos conseguir, que aquilo era papo furado, promessa de pol\u00edtico, que v\u00e1rios j\u00e1 haviam feito aquilo. Mas n\u00f3s n\u00e3o desistimos, em momento nenhum. \r\nAgora, n\u00f3s temos a grande oportunidade, com esse acordo com a Vale, de receber a indeniza\u00e7\u00e3o. Minas Gerais vai receber indeniza\u00e7\u00f5es de 37 bilh\u00f5es de reais, e foi anunciado o retorno das obras de v\u00e1rios hospitais regionais, por\u00e9m, inicialmente, Juiz de Fora ficaria com suas obras ainda paralisadas. No entanto, com toda a minha articula\u00e7\u00e3o pol\u00edtica e da Deputada Estadual Delegada Sheila, com a participa\u00e7\u00e3o dos demais Deputados da regi\u00e3o - posso citar, sem sombra de d\u00favida, todos os pol\u00edticos -, n\u00f3s conseguimos mobilizar, sensibilizar e tamb\u00e9m exigir do Governador Romeu Zema a inclus\u00e3o da obra do Hospital Regional de Juiz de Fora neste acordo com a Vale. Agora, est\u00e1 no acordo que Juiz de Fora ir\u00e1 receber 167 milh\u00f5es de reais para a retomada das obras do hospital.\r\nN\u00f3s temos a certeza de que iremos entregar n\u00e3o s\u00f3 a promessa de campanha, mas tamb\u00e9m um hospital \u00e0 altura, um hospital que toda a popula\u00e7\u00e3o da Zona da Mata merece.\r\nAlguns cr\u00edticos, que pregam, talvez, o \"quanto pior, melhor\", ficam nos questionando com rela\u00e7\u00e3o ao custeio do hospital: \"N\u00e3o adianta entregar o hospital. Como \u00e9 que n\u00f3s vamos fazer com o custeio?\" A estes eu digo que n\u00f3s vamos resolver um problema de cada vez. \r\nPrimeiro, n\u00f3s vamos entregar \u00e0 popula\u00e7\u00e3o a retomada das obras do Hospital Regional. Vamos entregar \u00e0 popula\u00e7\u00e3o a conclus\u00e3o do Hospital Regional e, depois, vamos dar continuidade \u00e0 participa\u00e7\u00e3o dos pol\u00edticos da regi\u00e3o, da for\u00e7a pol\u00edtica, para podermos mobilizar a todos e, assim, custear o hospital e, o principal, entregar uma sa\u00fade de qualidade e uma sa\u00fade com mais seguran\u00e7a a todos os mineiros da regi\u00e3o da Zona da Mata. Eles v\u00e3o poder dar entrada no hospital e ter uma vida muito mais digna. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, FRED COSTA, DEPUTADO FEDERAL, RELATOR, PL 5516/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, REGULAMENTA\u00c7\u00c3O, SOCIEDADE AN\u00d4NIMA DO FUTEBOL.\r\nIVIS, DJ (DISC JOCKEY), VIOL\u00caNCIA CONTRA A MULHER, VIOL\u00caNCIA DOM\u00c9STICA, AGRESS\u00c3O, V\u00cdTIMA, PAMELLA HOLANDA, ESPOSA, PRIS\u00c3O, POL\u00cdCIA CIVIL, PODER JUDICI\u00c1RIO, CEAR\u00c1.\r\nCHARLLES EVANGELISTA, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 2525/2021, PROJETO DE LEI ORDIN\u00c1RIA, OBRIGATORIEDADE, PLATAFORMA DE STREAMING, RETEN\u00c7\u00c3O, PAGAMENTO, MONETIZA\u00c7\u00c3O, CONTE\u00daDO DIGITAL, ARTISTA, PRODUTOR CULTURAL, PR\u00c1TICA, CRIME, VIOL\u00caNCIA DOM\u00c9STICA, ABUSO SEXUAL, EXPLORA\u00c7\u00c3O SEXUAL, CRIAN\u00c7A, ADOLESCENTE, TR\u00c2NSITO EM JULGADO, APOIO POL\u00cdTICO, BANCADA FEMININA, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Charlles Evangelista",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Fred Costa pelo parecer apresentado ao Projeto de Lei n\u00ba 5.516, de 2019, sobre a institui\u00e7\u00e3o da Sociedade An\u00f4nima do Futebol; das normas de constitui\u00e7\u00e3o, governan\u00e7a, controle e transpar\u00eancia, meios de financiamento da atividade futebol\u00edstica, tratamento dos passivos das entidades de pr\u00e1ticas desportivas e regime tribut\u00e1rio espec\u00edfico; e a altera\u00e7\u00e3o das Leis de n\u00bas 9.615, de 1998; e 10.406, de 2002, (C\u00f3digo Civil). Indigna\u00e7\u00e3o com as agress\u00f5es f\u00edsicas praticadas pelo DJ Ivis contra a sua esposa, Pamella Holanda. Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 2.525, de 2021, sobre a obrigatoriedade de reten\u00e7\u00e3o, pelas plataformas de streaming , do pagamento referente \u00e0 monetiza\u00e7\u00e3o de conte\u00fados de artistas e produtores, autores de crimes relacionados \u00e0 viol\u00eancia dom\u00e9stica e/ou ao abuso e explora\u00e7\u00e3o sexual de crian\u00e7as e adolescentes, at\u00e9 o tr\u00e2nsito em julgado do processo criminal. Pedido aos Parlamentares de apoiamento \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHARLLES EVANGELISTA (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, o projeto a respeito da Sociedade An\u00f4nima do Futebol foi muito bem relatado pelo meu amigo Deputado Fred Costa, a quem parabenizo.\r\nSubo a esta tribuna para falar sobre um tema importante e manifestar a minha revolta quanto \u00e0quele caso lament\u00e1vel, o das agress\u00f5es do DJ Ivis \u00e0 sua esposa, Pamella Holanda. Acho que essa revolta \u00e9 tamb\u00e9m a de todas as brasileiras e de brasileiros, dos homens dignos que t\u00eam filhas, esposa, m\u00e3e.\r\nEle \u00e9 um vagabundo, um criminoso, um salafr\u00e1rio. Todos os adjetivos ruins que usarmos contra ele ainda ser\u00e3o poucos, pelas agress\u00f5es que cometeu de maneira covarde, mostradas em todas as redes sociais e tamb\u00e9m pela grande m\u00eddia.\r\nH\u00e1 2 dias, fiz postagens pedindo que ele fosse preso, devido a essas agress\u00f5es. Muitos diziam que n\u00e3o havia elementos, que n\u00e3o era poss\u00edvel a pris\u00e3o preventiva. Mas hoje, gra\u00e7as a Deus, a nossa revolta se transformou em um pouco de al\u00edvio. Acabo de receber a not\u00edcia de que esse vagabundo, de que esse criminoso foi preso por autoridades do Cear\u00e1 em Fortaleza. Quero parabenizar a Pol\u00edcia Civil e o Judici\u00e1rio pelo trabalho.\r\nPe\u00e7o a Deus que seja dado o troco, dentro da cadeia, em rela\u00e7\u00e3o ao que ele fez com aquela mulher, numa atitude covarde, na frente do filho, na frente da m\u00e3e e na frente tamb\u00e9m de outro sujeito, que nada fez, foi c\u00famplice daquela agress\u00e3o covarde e absurda.\r\nSr. Presidente, apresentei ontem nesta Casa o Projeto de Lei n\u00ba 2.525, de 2021, que disp\u00f5e sobre a obrigatoriedade de as plataformas de streaming reterem o pagamento referente \u00e0 monetiza\u00e7\u00e3o de conte\u00fados de artistas que sejam acusados de cometer ato de viol\u00eancia dom\u00e9stica ou abuso de crian\u00e7as e adolescentes.\r\nPor qu\u00ea? De modo pr\u00e1tico, posso explicar. Quando foi divulgado o caso desse criminoso, o DJ Ivis, pessoas ficaram curiosas, naturalmente, e foram \u00e0s plataformas para saber do caso. Assim, acabaram assistindo a conte\u00fado art\u00edstico dele. A cada vez que uma pessoa acessa esse tipo de conte\u00fado, a cada view, esses artistas s\u00e3o remunerados. O DJ tem algum conte\u00fado no Youtube, por exemplo. Pessoas ficam curiosas em rela\u00e7\u00e3o ao que aconteceu, v\u00e3o assistir a v\u00eddeos seus, e ele \u00e9 remunerado por causa disso. Houve, no caso, um aumento de remunera\u00e7\u00e3o gigantesco, por conta dessa curiosidade das pessoas.\r\nO Projeto de Lei n\u00ba 2.525 tem o objetivo de punir desta forma esses agressores, seja de mulheres, seja de crian\u00e7as e adolescentes: n\u00e3o ser\u00e3o remunerados pela barb\u00e1rie que cometerem. N\u00e3o se far\u00e1 a monetiza\u00e7\u00e3o da barb\u00e1rie. Esse projeto obriga as plataformas a reterem o recurso at\u00e9 que a senten\u00e7a transite em julgado. Se o acusado de agress\u00e3o for considerado culpado, o recurso ir\u00e1 para institui\u00e7\u00f5es de combate a viol\u00eancia contra a mulher e tamb\u00e9m para institui\u00e7\u00f5es de combate \u00e0 pedofilia, e a remunera\u00e7\u00e3o ser\u00e1 repassada a ele se for inocentado. Jamais ser\u00e1 esse o caso desse criminoso, desse vagabundo. Mostrou-se a toda a sociedade o grande absurdo que ele fez contra aquela mulher, na frente dos filhos, na frente da m\u00e3e dela, na frente tamb\u00e9m de outro covarde, de um c\u00famplice, pois acompanhou tudo aquilo.\r\nHaver\u00e1 multa de mil reais para as plataformas se n\u00e3o retiverem o valor correspondente a essa monetiza\u00e7\u00e3o. Havendo reincid\u00eancia, a multa ser\u00e1 de 9 mil reais, acrescida de mil reais por dia. Essa \u00e9 mais uma forma de puni\u00e7\u00e3o a esses agressores.\r\nInfelizmente, em rela\u00e7\u00e3o a esse epis\u00f3dio, vi poucas manifesta\u00e7\u00f5es nesta Casa, onde pe\u00e7o \u00e0 bancada feminina, que tem conseguido grandes avan\u00e7os para as mulheres brasileiras, muito bem representada pelas Deputadas, apoie esse projeto para que possamos estabelecer mais uma forma de puni\u00e7\u00e3o a esses agressores. Com toda certeza, isso \u00e9 o m\u00ednimo do que eles merecem.\r\nPresidente, fa\u00e7o essa solicita\u00e7\u00e3o n\u00e3o s\u00f3 \u00e0 bancada feminina mas tamb\u00e9m a todos os Deputados, que t\u00eam filhas, esposa ou m\u00e3e, para que possamos punir esses vagabundos, esses criminosos e n\u00e3o haja mais espa\u00e7o para esse tipo de agress\u00e3o no nosso Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,578 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REFORMA PREVIDENCI\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Consci\u00eancia da sociedade brasileira sobre a necessidade de realiza\u00e7\u00e3o da reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nN\u00e3o falei hoje, o dia inteiro, porque eu queria ficar ouvindo exatamente essa Esquerda falar toda essa baboseira de Bolsonaro, de filho do Bolsonaro, da reforma da Previd\u00eancia. Eles acham que v\u00e3o colocar as nossas caras nos outdoors novamente para jogar a popula\u00e7\u00e3o contra a gente, quando o povo j\u00e1 sabe que a reforma da Previd\u00eancia \u00e9 necess\u00e1ria. \r\nAgora, \u00e9 engra\u00e7ado Deputadas da Esquerda virem falar de moral e de tanta coisa aqui nesta tribuna quando sabemos que existe projeto para que crian\u00e7a troque de sexo. Deveriam, sim, fazer como Jean Wyllys, que foi muito macho ao dizer que sairia do Pa\u00eds caso Bolsonaro ganhasse a elei\u00e7\u00e3o para Presidente da Rep\u00fablica. Isso, sim, \u00e9 que \u00e9 um Deputado macho!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=253&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CR\u00cdTICA, PRONUNCIAMENTO, DEPUTADO FEDERAL, PARTIDO POL\u00cdTICO, OPOSI\u00c7\u00c3O POL\u00cdTICA, CONTESTA\u00c7\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019).",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Incoer\u00eancia do discurso da Esquerda, contr\u00e1rio \u00e0 realiza\u00e7\u00e3o da reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu acho engra\u00e7ado ver as Deputadas e os Deputados da esquerda que chegam aqui ao microfone criticar a reforma da Previd\u00eancia sem olhar para tr\u00e1s para ver que quem destruiu o Pa\u00eds foram eles. Foram eles que deixaram mais de 13 milh\u00f5es de desempregados, que saquearam o BNDES, que saquearam a PETROBRAS. E querem falar do nosso l\u00edder.\r\nO nosso l\u00edder, o l\u00edder do povo brasileiro, n\u00f3s sabemos onde est\u00e1: na Presid\u00eancia da Rep\u00fablica. O l\u00edder de V.Exas. o povo brasileiro sabe onde est\u00e1: na cadeia \u00e9 onde est\u00e1 o bandido do Lula.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RICARDO V\u00c9LEZ RODRIGUEZ, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO, PATRIOTISMO, EDUCA\u00c7\u00c3O MILITAR, ESCOLA, DEFESA, ESQUERDA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Elogio ao Ministro da Educa\u00e7\u00e3o. Defesa de militariza\u00e7\u00e3o das escolas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, fa\u00e7o quest\u00e3o de fazer esta fala porque passei um tempo ouvindo Deputadas e Deputados da Esquerda falarem do Ministro da Educa\u00e7\u00e3o, a quem quero parabenizar.\r\nOuvi a pr\u00f3pria Deputada Maria do Ros\u00e1rio dizer que est\u00e3o implantando na escola o patriotismo. Gra\u00e7as a Deus ouvi uma coisa boa da Deputada Maria do Ros\u00e1rio!\r\nPior ainda \u00e9 quererem falar da quest\u00e3o do militarismo nas escolas. Goi\u00e2nia est\u00e1 dando um exemplo \u00fanico no Brasil todo relativamente \u00e0 participa\u00e7\u00e3o de militares nas escolas. L\u00e1 pelo menos n\u00e3o se aprende ideologia de g\u00eanero, n\u00e3o existe o afastamento de aluno e de professor, como se v\u00ea no notici\u00e1rio quando professor apanha de aluno. L\u00e1, com certeza, n\u00e3o h\u00e1 envolvimento com drogas, como muito se v\u00ea em outras escolas por a\u00ed. Escolas em que h\u00e1 participa\u00e7\u00e3o militar resgatam o patriotismo, resgatam os valores corretos de vida!\r\nIsso, sim, voc\u00eas v\u00e3o ter que engolir agora, com o Governo de Bolsonaro!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DESARMAMENTO, POL\u00cdCIA, AERONAVE, CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Posicionamento do orador contr\u00e1rio \u00e0 proposta de desarmamento de policiais em aeronaves.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, vejo alguns Deputados se posicionarem em rela\u00e7\u00e3o \u00e0 quest\u00e3o do armamento e j\u00e1 vi Deputado dizer que n\u00e3o s\u00e3o as armas que matam, que \u00e9 o homem que mata. Agora querem falar na quest\u00e3o do armamento do policial, que n\u00e3o \u00e9 qualquer pessoa. N\u00f3s temos que tirar a arma dos bandido, e n\u00e3o dos policiais! Policial armado, onde quer que esteja, est\u00e1 protegendo cidad\u00e3o de bem. Daqui a pouco, v\u00e3o querer proibir o policial de andar armado dentro do \u00f4nibus, do trem, do navio. Isso \u00e9 um absurdo! Policial \u00e9 sin\u00f4nimo de seguran\u00e7a para qualquer cidad\u00e3o de bem. N\u00f3s n\u00e3o devemos embarcar nesta de que policial \u00e9 bandido, gente! N\u00f3s devemos dar ao cidad\u00e3o de bem o direito de se sentir seguro com o policial armado do lado dele.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=220&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-02T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, FOR\u00c7AS ARMADAS, COMEMORA\u00c7\u00c3O, GOLPE DE ESTADO (1964), DITADURA MILITAR.\r\nESQUERDA POLITICA, DESEMPREGO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Contesta\u00e7\u00e3o ao discurso de Deputado a respeito da comemora\u00e7\u00e3o da ditadura militar. Responsabilidade do governo esquerdista pelo quadro de desemprego reinante no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, serei breve.\r\nQuero apenas contestar o Deputado que ainda h\u00e1 pouco falou da quest\u00e3o da comemora\u00e7\u00e3o, agora, no final do m\u00eas de mar\u00e7o, daquilo que eles chamam de ditadura e eu chamo de interven\u00e7\u00e3o militar. Foi, inclusive, o pr\u00f3prio povo brasileiro que muito pediu a interven\u00e7\u00e3o militar naquela \u00e9poca por causa da anarquia que foi implantada neste Pa\u00eds, por causa dos sequestros que eram feitos, por causa dos roubos a bancos para patrocinar aquela anarquia.\r\n\u00c9 engra\u00e7ado que, quando ele fala na quest\u00e3o dos 13 milh\u00f5es de desempregados, ele n\u00e3o fala que quem deixou esses desempregados foi o Governo dele, n\u00e3o foi o do Bolsonaro.\r\nE vou dizer mais, companheiro: o povo brasileiro n\u00e3o comemorou a interven\u00e7\u00e3o agora, no final do m\u00eas, n\u00e3o. Comemorou em outubro, quando elegeu um militar para a Presid\u00eancia da Rep\u00fablica. N\u00e3o foi preciso chegar o dia para comemorar.\r\nEra esse o registro que eu queria fazer.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F4%2F2019&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMS 4/2019, EMENDA, SENADO FEDERAL, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), APROVA\u00c7\u00c3O, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), DEFESA.\r\nCR\u00cdTICA, ESQUERDA POL\u00cdTICA, CORRUP\u00c7\u00c3O, GOVERNO, LUIZ IN\u00c1CIO LULA DA SILVA, EX-PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Contesta\u00e7\u00e3o ao discurso da Esquerda sobre o recebimento, por Deputados, de recursos pecuni\u00e1rios para aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda n\u00ba 4, do Senado Federal, com parecer favor\u00e1vel, ao Projeto de Lei n\u00ba 1.321-B, de 2019, sobre a autonomia dos partidos pol\u00edticos, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de aproveitar este momento para falar do pessoal da Esquerda que tem vindo a este plen\u00e1rio, depois da derrota esmagadora ontem na CCJ, para falar de 40 milh\u00f5es. V\u00e3o falar de 40 milh\u00f5es, de 500 milh\u00f5es, de 1 milh\u00e3o, de 200 milh\u00f5es, mas o certo \u00e9 que foram derrotados e agora v\u00e3o ser derrotados sempre nesta Casa.\r\nQuem roubou este Pa\u00eds foram voc\u00eas, com os cargos que receberam durante todos esses anos no Governo Lula, onde roubavam direto o povo paraense, o povo brasileiro! Agora \u00e9 Bolsonaro que est\u00e1 aqui! E Bolsonaro n\u00e3o precisa dar 1 centavo para ningu\u00e9m, porque todos os Deputados est\u00e3o comprometidos com o povo brasileiro! E n\u00f3s vamos estar vigilantes! Podem botar as nossas caras nos outdoors, isso n\u00e3o vai adiantar!\r\nO PSD vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  INCISO I, INCISO (TEXTO LEGISLATIVO), ART 2\u00ba, ARTIGO (TEXTO LEGISLATIVO), MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado, para fins de supress\u00e3o, do art. 2\u00ba, inciso I, da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD vai votar \"sim\".\r\nQueremos falar da quest\u00e3o das passagens a\u00e9reas. As empresas a\u00e9reas t\u00eam um verdadeiro monop\u00f3lio dentro do nosso Pa\u00eds. E a Esquerda quer defend\u00ea-las, alegando quest\u00e3o de capital estrangeiro, de se querer vender o Brasil, quando eles s\u00e3o os primeiros a passar o que todos n\u00f3s brasileiros passamos, com passagens a\u00e9reas car\u00edssimas, porque o monop\u00f3lio est\u00e1 fazendo isso com todos n\u00f3s. \r\nInclusive n\u00f3s Deputados, quando queremos trocar hor\u00e1rio da viagem, pagamos valores correspondentes a outra passagem para conseguir a troca. Isso tem que acabar! Outras empresas t\u00eam que entrar para que haja melhores condi\u00e7\u00f5es na via\u00e7\u00e3o a\u00e9rea neste Pa\u00eds e para todo o povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=362&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD vota \"sim\". \r\nEu queria dizer que n\u00e3o entendo qual \u00e9 o receio de alguns Deputados de esquerda, que, certamente orientados por seus L\u00edderes e por aqueles que inclusive est\u00e3o na pris\u00e3o, n\u00e3o querem o COAF no Minist\u00e9rio da Justi\u00e7a. N\u00e3o entendo qual \u00e9 o receio desse pessoal. \u00c9 important\u00edssimo que o COAF continue no Minist\u00e9rio da Justi\u00e7a, para que possam ser colocados na cadeia todos aqueles que roubaram este Pa\u00eds. Isso \u00e9 importante.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=109&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, ESCLARECIMENTO, CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENTARIOS, EDUCA\u00c7\u00c3O,  OFENSA, PROFESSORA MARCIVANIA, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Cr\u00edtica \u00e0 postura de Deputada da Casa durante audi\u00eancia p\u00fablica com a presen\u00e7a do Ministro da Educa\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu quero me manifestar em rela\u00e7\u00e3o \u00e0 Deputada que ainda h\u00e1 pouco falou e ao Deputado.\r\nPrimeiro, quero falar da Comiss\u00e3o onde esteve hoje o Ministro. Ela disse que o Ministro foi mentiroso, s\u00f3 n\u00e3o teve coragem de falar isso, \u00e9 claro, na presen\u00e7a do Ministro. O posicionamento dela, querendo tirar a palavra de Deputados - foi para os Deputados que o Ministro veio falar -, para falarem grupinhos de bandidinhos, que n\u00e3o representam os estudantes brasileiros, n\u00f3s n\u00e3o vamos aceitar. N\u00e3o vamos aceitar de jeito nenhum! \r\n(Texto escoimado de express\u00f5es, conforme arts. 17, inciso V, al\u00ednea \"b\", 73, inciso XII, e 98, \u00a7 6\u00ba, do Regimento Interno.)\r\nO SR. CARLOS ZARATTINI (PT - SP) - Sr. Presidente, n\u00e3o \u00e9 poss\u00edvel isso. Isso \u00e9 provoca\u00e7\u00e3o.\r\nO SR. DELEGADO \u00c9DER MAURO (PSD - PA) - Agora o Lula j\u00e1 arranjou uma namorada na cadeia. Espero que ele n\u00e3o arrume um namorado.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=137&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEN\u00daNCIA, AMEA\u00c7A, PROFESSOR, GEOGRAFIA, ESCOLA P\u00daBLICA, BEL\u00c9M (PA), ALUNO, PARTICIPA\u00c7\u00c3O, MANIFESTA\u00c7\u00c3O P\u00daBLICA, MOVIMENTO DE PROTESTO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Gravidade de den\u00fancia sobre imposi\u00e7\u00e3o por professor de Geografia a alunos do Col\u00e9gio Orlando Bittar, em Bel\u00e9m, Estado do Par\u00e1, para participa\u00e7\u00e3o em manifesta\u00e7\u00e3o de rua.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, quero aqui fazer uma den\u00fancia grave e chamar a aten\u00e7\u00e3o de todos os pais do Brasil - pais de pr\u00e9-adolescentes e de adolescentes. Isto est\u00e1 acontecendo em todas as escolas do Pa\u00eds: os estudantes est\u00e3o sendo convocados e amea\u00e7ados em sala de aula, como no Col\u00e9gio Orlando Bittar, no meu Estado do Par\u00e1, na Grande Bel\u00e9m, em que o professor de Geografia disse que o aluno que n\u00e3o for para as ruas amanh\u00e3 vai perder dois pontos e os que forem v\u00e3o ganhar dois pontos; que as aulas v\u00e3o ser nas ruas; que eles prestem aten\u00e7\u00e3o aos cartazes, no que as pessoas falam.\r\nIsso \u00e9 um crime! Isso \u00e9 um absurdo com a educa\u00e7\u00e3o brasileira! Isso precisa ser denunciado e os pais devem impedir que aconte\u00e7a.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "IGREJA EVANG\u00c9LICA, ASSEMBLEIA DE DEUS NO BRASIL, BEL\u00c9M (PA), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Transcurso do 108\u00ba anivers\u00e1rio de funda\u00e7\u00e3o Igreja Assembleia de Deus no Brasil, em Bel\u00e9m, Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu quero aproveitar a oportunidade para parabenizar a Igreja Assembleia de Deus pelos seus 108 anos. Quero falar da import\u00e2ncia da Igreja em todo o nosso Pa\u00eds, da import\u00e2ncia da Igreja no meu Estado do Par\u00e1. Ela leva a religiosidade, leva a Palavra de Deus, leva conforto para nossas fam\u00edlias, leva os valores de vida corretos.\r\nQuero dizer que, no dia 13 deste m\u00eas, nosso Presidente Bolsonaro ser\u00e1 recebido na Igreja Assembleia de Deus para grande festa.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=239&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, ATUA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nESQUERDA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Falta de moral de Deputada oposicionista para acusa\u00e7\u00e3o contra o Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, e a Opera\u00e7\u00e3o Lava-Jato.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente.\r\nEstou aqui ouvindo, pasmo, depoimentos e pronunciamentos de alguns Deputados da Esquerda, em espec\u00edfico o de uma Deputada que vem falar de moral, que vem falar de coisa certa, quando todo o Brasil sabe que \u00e9 uma Deputada que responde a v\u00e1rios processos por corrup\u00e7\u00e3o. O marido dela tamb\u00e9m responde a v\u00e1rios processos por corrup\u00e7\u00e3o, e ela vem falar de Sergio Moro. Isso \u00e9 brincadeira? \r\nEu quero dizer para essa Deputada, que tem muito a responder na Justi\u00e7a, que a Opera\u00e7\u00e3o Lava-Jato, que colocou bandidos na cadeia e que ainda vai colocar muitos bandidos na cadeia, junto com Sergio Moro, \u00e9 patrim\u00f4nio nacional.\r\nO povo brasileiro vai estar de olho, e os \u00f3rg\u00e3os deste Pa\u00eds v\u00e3o estar de prontid\u00e3o para tomar as decis\u00f5es na hora certa.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=227&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO, GEST\u00c3O, LIBERA\u00c7\u00c3O, ARMAMENTO, ARMA DE FOGO, PORTE DE ARMA, POSSE DE ARMA, APOIO POL\u00cdTICO, DEFESA.\r\nESQUERDA POL\u00cdTICA, DESEMPREGO, ESTATUTO DO DESARMAMENTO, CR\u00cdTICA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Jair Bolsonaro pela exonera\u00e7\u00e3o de auxiliares n\u00e3o alinhados com o Governo Federal. Defesa da flexibiliza\u00e7\u00e3o da posse e do porte de armas de fogo no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, primeiro, eu quero parabenizar o Presidente Bolsonaro pelas decis\u00f5es de pulso e certeiras com rela\u00e7\u00e3o \u00e0queles que n\u00e3o querem seguir o que deseja a maioria da popula\u00e7\u00e3o, que fez com que ele estivesse l\u00e1. N\u00e3o se alinhou, tem que sair! Se n\u00e3o est\u00e1 alinhado com o que o povo brasileiro quis, tem que sair!\r\nSegundo, falo aqui da quest\u00e3o das armas, referindo-me \u00e0queles que s\u00e3o contra o armamento. A Esquerda sempre \u00e9 contra. Mas, engra\u00e7ado, nos \u00faltimos anos, foi a Esquerda que fez o Pa\u00eds miser\u00e1vel e fez com que todos os nossos brasileiros n\u00e3o tivessem oportunidade de emprego, porque s\u00f3 deu esmola, foi a Esquerda que fez com que a nossa juventude n\u00e3o tivesse cursos t\u00e9cnicos e fosse para a viol\u00eancia por causa das drogas. E agora a Esquerda vem falar das armas? \r\nEles criaram um estatuto que tirou as armas dos cidad\u00e3os de bem e simplesmente deixou os bandidos armados. Hoje o cidad\u00e3o de bem vive trancado atr\u00e1s das grades e desarmado, e o bandido vive \u00e0 solta. Portanto, n\u00f3s somos a favor sim das armas. \r\nEu finalizo com uma frase que vi hoje, na Internet: \"O Coringa quer ser solto porque descobriu que o Batman conversa com o Gordon\". Isso \u00e9 um absurdo, minha gente! E V.Exas. ter\u00e3o que engolir.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=196&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BATALH\u00c3O DE POL\u00cdCIA, POL\u00cdCIA MILITAR, PAR\u00c1, EXPRESS\u00c3O TEXTUAL, MANIFESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Apoio \u00e0 express\u00e3o Arranca a cabe\u00e7a e deixa pendurada, adotada pelo Batalh\u00e3o de Pol\u00edcia T\u00e1tica - PBOT, conhecido como ROTAM, da Pol\u00edcia Militar do Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu quero aqui fazer uma manifesta\u00e7\u00e3o em rela\u00e7\u00e3o aos ingressantes na ROTAM no Estado do Par\u00e1. Quero parabenizar os ingressantes, quero parabenizar a palavra de ordem \"Arranca a cabe\u00e7a e deixa pendurada\", que foi criticada pela Deputado Edmilson Rodrigues aqui neste Plen\u00e1rio. Quero dizer que muitas palavras de ordem de destrui\u00e7\u00e3o foram feitas pela Esquerda, e em nenhum momento o Deputado veio aqui critic\u00e1-las.\r\nA pol\u00edcia do Estado do Par\u00e1 est\u00e1 de parab\u00e9ns, a ROTAM est\u00e1 de parab\u00e9ns. E est\u00e3o com o apoio do povo paraense e do Governo do Estado do Par\u00e1. \r\nN\u00f3s estamos juntos! Sou \u00c9der Mauro!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=160&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.\r\nGOVERNADOR, POL\u00cdCIA, RIO DE JANEIRO (RJ), ATIRADOR, FALECIMENTO, CRIMINOSO, SEQUESTRO, \u00d4NIBUS, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.715, de 2019, a respeito da posse de arma de fogo na \u00e1rea rural. Aplausos \u00e0 pol\u00edcia do Estado do Rio de Janeiro por a\u00e7\u00e3o adotada contra sequestrador. Congratula\u00e7\u00f5es ao Governador fluminense pelo apoiamento \u00e0 atividade policial.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD vota \"sim\", Sra. Presidente, em apoio a todos os pequenos e m\u00e9dios produtores rurais deste Pa\u00eds, n\u00e3o s\u00f3 contra bandidos comuns, que assaltam, mas principalmente contra organiza\u00e7\u00f5es criminosas, como \u00e9 caso do MST, que invade, quebra, p\u00f5e fogo e tudo mais.\r\nEu quero aproveitar a oportunidade para parabenizar a pol\u00edcia do Rio de Janeiro na pessoa do sniper que, de forma cir\u00fargica, cancelou um CPF hoje no Rio de Janeiro, ao atirar em um bandido que sequestrou um \u00f4nibus e manteve como ref\u00e9ns pessoas de bem.\r\nParabenizo tamb\u00e9m o Governador do Rio de Janeiro, que d\u00e1 apoio jur\u00eddico e pol\u00edtico para as pol\u00edcias e as fam\u00edlias do Rio de Janeiro. \r\nParab\u00e9ns, Governador! Estamos juntos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=262&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEPUTADO FEDERAL, ESQUERDA POL\u00cdTICA, DESARMAMENTO, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA,  CRIT\u00c9RIO, EXTENS\u00c3O, RESID\u00caNCIA, \u00c1REA RURAL, PORTE DE ARMA, ARMA DE FOGO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.715, de 2019, acerca da regulamenta\u00e7\u00e3o da posse de arma de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu fico abismado ao ver Deputados da Esquerda pegando o microfone para falar da vida, falar das armas. Que engra\u00e7ado: eles desarmaram o cidad\u00e3o de bem deste Pa\u00eds, nessas d\u00e9cadas que se passaram, e deixaram armados os bandidos, privilegiaram as organiza\u00e7\u00f5es criminosas, criaram at\u00e9 uma organiza\u00e7\u00e3o aqui em Bras\u00edlia, que \u00e9 o \"Primeiro Comando de Bras\u00edlia\", chefiado pelo Sr. Luiz In\u00e1cio Lula da Silva; a\u00ed n\u00e3o querem que o cidad\u00e3o de bem, no campo e na cidade, possa se defender?\r\nEu tive uma not\u00edcia, no ano passado, de que um casal de idosos foi assaltado numa fazenda. Os ladr\u00f5es fizeram e aconteceram l\u00e1 dentro. O velhinho tinha uma arma guardada debaixo do colch\u00e3o. Numa das deixas dos bandidos, a velhinha pegou a arma, passou o sal num dos bandidos e botou o outro para correr.\r\nVoc\u00eas ainda querem defender bandido? Tem, sim, que liberar...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=204&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DESEMPREGO, COMBATE, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, FAVOR\u00c1VEL.\r\nCRIMINALIDADE, COMBATE, JACUND\u00c1 (PA).",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Redu\u00e7\u00e3o dos \u00edndices de desemprego no Governo Jair Bolsonaro. Excel\u00eancia das a\u00e7\u00f5es de combate \u00e0 criminalidade no Munic\u00edpio de Jacund\u00e1, realizadas pelo Capit\u00e3o Rog\u00e9rio da Pol\u00edcia Militar do Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nSempre que eu estou aqui e ou\u00e7o algu\u00e9m falar do Governo Bolsonaro, n\u00e3o posso deixar de retrucar. Dizer que o Presidente Bolsonaro n\u00e3o est\u00e1 tratando do desemprego, deixado pela Esquerda, a Esquerda que deixou quase 15 milh\u00f5es de desempregados neste Pa\u00eds, e o pr\u00f3prio Presidente Bolsonaro j\u00e1 reduziu para 12 milh\u00f5es e pouco, e vai reduzir cada vez mais?\r\nMas como n\u00e3o foi esse exatamente o objetivo da minha fala hoje, eu quero apenas trazer aqui o Capit\u00e3o Rog\u00e9rio, que muito fez no Munic\u00edpio de Jacund\u00e1, no Par\u00e1, diminuindo acentuadamente a criminalidade, mandando bandido, sim, para o espa\u00e7o, e colocando bandido na cadeia. Tenho certeza de que far\u00e1 muito mais por Jacund\u00e1. \u00c9 uma grande esperan\u00e7a nesse Munic\u00edpio do Estado do Par\u00e1, que tanto clama, e que hoje vive, inclusive, um tumulto na quest\u00e3o de gest\u00e3o municipal.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-23T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ESQUERDA POL\u00cdTICA, GOVERNO FEDERAL, REFORMA PREVIDENCI\u00c1RIA (2019), SENADO FEDERAL, DESASTRE AMBIENTAL, VAZAMENTO, PETR\u00d3LEO, REGI\u00c3O NORDESTE, LITORAL, PRAIA, CONTESTA\u00c7\u00c3O, DISCURSO PARLAMENTAR, DEPUTADO FEDERAL, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987).",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Rep\u00fadio ao discurso da Esquerda contra a reforma da Previd\u00eancia Social. Inconsist\u00eancia do pronunciamento oposicionista a respeito da omiss\u00e3o do Governo Federal sobre o vazamento de petr\u00f3leo no litoral brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Para discursar. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu vou tentar fazer um s\u00f3 pacote para falar sobre os dois temas que a Esquerda colocou ainda h\u00e1 pouco, que foram a quest\u00e3o do \u00f3leo e a quest\u00e3o da Previd\u00eancia.\r\n\u00c9 impressionante que Deputados ainda tenham coragem de subir naquela tribuna para falar contra a reforma da Previd\u00eancia, que foi aprovada hoje no Senado. O engra\u00e7ado \u00e9 que parece que eles n\u00e3o ouvem as ruas. As ruas aprovam a Previd\u00eancia! \u00c9 o contr\u00e1rio do que eles faziam antigamente, quando colocavam as nossas caras nos outdoors e pensavam que nos colocariam contra o povo. Eles n\u00e3o tiveram essa coragem agora, porque sabiam que o povo estava com o Presidente e que a reforma precisava acontecer. Eles queriam que a nossa juventude, que vai entrar no mercado de trabalho, n\u00e3o pudesse, l\u00e1 na frente, receber uma aposentadoria ou que aqueles que est\u00e3o no mercado de trabalho n\u00e3o pudessem mais receber a aposentadoria? Eles deixaram uma Previd\u00eancia quebrada. Isso n\u00f3s n\u00e3o podemos mais aceitar. \r\nA\u00ed sobe \u00e0 tribuna um outro Deputado - pe\u00e7o-lhe desculpa, porque n\u00e3o sei nem o nome dele -, querendo ganhar flores no Nordeste, e diz que o Governo brasileiro n\u00e3o est\u00e1 fazendo nada a respeito do acidente com o \u00f3leo derramado. Ainda n\u00e3o sabemos se foi um ato criminoso. O \u00f3leo est\u00e1 vindo por baixo e s\u00f3 aparece nas praias do Nordeste. J\u00e1 chegou ao Maranh\u00e3o e pode chegar ao meu Estado.\r\nO Governo est\u00e1 fazendo tudo para descobrir o que aconteceu, para saber se isso foi feito de forma criminosa ou n\u00e3o. Inclusive, como j\u00e1 foi dito pelo Deputado Silvio, cinco Ministros est\u00e3o percorrendo todo o Nordeste para tomar as provid\u00eancias devidas. A\u00ed vem falar isso um Deputado de um partido que \u00e9 fundo de quintal do PT, que \u00e9 o PSB, que s\u00f3 anda na contram\u00e3o, contra o povo brasileiro, ou como um caranguejo, para tr\u00e1s, e certamente nada contribui para este Pa\u00eds.\r\nO Governo brasileiro est\u00e1 certo nas provid\u00eancias que est\u00e3o sendo tomadas.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F10%2F2019&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS (CPRM) (1969-2004), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, PAR\u00c1 (ESTADO), AMAZ\u00d4NIA LEGAL, GOVERNO FEDERAL.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Transcurso do cinquenten\u00e1rio da Companhia de Pesquisa de Recursos Minerais - CPRM.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nQuero usar este microfone, desta tribuna, para parabenizar a Companhia de Pesquisa de Recursos Minerais - CPRM pelos seus 50 anos.\r\nEssa companhia \u00e9 importante exatamente pelas pesquisas h\u00eddricas e minerais. Ressalto a imensid\u00e3o da nossa Amaz\u00f4nia, a grande diversidade de recursos naturais que n\u00f3s temos na nossa Amaz\u00f4nia, especificamente no nosso Estado do Par\u00e1. Eu queria dizer que defendemos uma Amaz\u00f4nia verdadeiramente nossa. O trabalho que a CPRM desempenha tem uma fun\u00e7\u00e3o primordial e acarreta a pol\u00edtica de desenvolvimento. A CPRM tem \u00e0 frente, como Presidente, o Dr. Esteves Colnago; como Superintendente Estadual, o Dr. J\u00e2nio Nascimento; e como Ministro, o Almirante Bento Albuquerque.\r\nParab\u00e9ns, CPRM! Parab\u00e9ns, Presidente Bolsonaro, pelo trabalho que desenvolve a companhia com efic\u00e1cia e seriedade!\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=63&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSTIVO LEGAL, PLV 29/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 889/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.\r\nCONSTETA\u00c7\u00c3O, HENRIQUE FONTANA, DEPUTADO FEDERAL, PRONUNCIAMENTO, POL\u00cdCIA FEDERAL, PRIS\u00c3O, DILMA ROUSSEFF, EX-PRESIDENTE DA REP\u00daBLICA, S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, ABUSO DE AUTORIDADE.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba, do art. 20-D da Lei 8.036, de 1990, alterado pelo art. 2\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 889, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975, com vista \u00e0 possibilidade de movimenta\u00e7\u00e3o das contas do PIS/PASEP, e da Lei n\u00ba 8.036, de 1990, para institui\u00e7\u00e3o da modalidade de saque-anivers\u00e1rio do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, e sobre a devolu\u00e7\u00e3o de recursos ao Fundo de Amparo ao Trabalhador - FAT; a altera\u00e7\u00e3o de disposi\u00e7\u00f5es relativas \u00e0s d\u00edvidas do Fundo de Compensa\u00e7\u00e3o de Varia\u00e7\u00f5es Salariais - FCV, e a extin\u00e7\u00e3o da cobran\u00e7a da contribui\u00e7\u00e3o de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa. Contesta\u00e7\u00e3o ao pronunciamento do Deputado Henrique Fontana, a respeito de pr\u00e1tica de abuso de autoridade pelo Ministro da Justi\u00e7a e de Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, demonstrada na tentativa de pris\u00e3o da ex-Presidenta Dilma Rousseff.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, n\u00f3s votamos \"sim\" com o texto original, mantendo o texto original.\r\nMas eu queria aproveitar para falar que eu estava ouvindo atentamente as palavras do Deputado Fontana, que estava indignado com o prov\u00e1vel pedido de pris\u00e3o da ex-Presidente Dilma Rousseff, inclusive dizendo que ela era uma senhora honrada e tudo mais.\r\n\u00c9 engra\u00e7ado, porque ele acha que o povo na rua se esqueceu de que Dilma se reuniu, numa passagem de Governo, com Lula e Odebrecht para que fosse mantido tudo e que Lula continuasse a receber 300 milh\u00f5es de reais disfar\u00e7ados de palestra.(Apupos.)\r\nAinda vem me dizer o Deputado Fontana que Dilma era uma grande debatedora de pol\u00edtica! Parece que ele n\u00e3o sabe ou se esqueceu do ensacamento de vento e se esqueceu do elogio \u00e0 macaxeira. Pelo amor de Deus, Deputado Fontana!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=351&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RACISMO, COMBATE, DIA NACIONAL DA CONSCI\u00caNCIA NEGRA, EXPOSI\u00c7\u00c3O (EVENTO), PREJU\u00cdZO, CORONEL TADEU, DEPUTADO FEDERAL, POL\u00cdCIA MILITAR, SOLIDARIEDADE.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Solidariedade ao Deputado Coronel Tadeu diante da rea\u00e7\u00e3o contra a exposi\u00e7\u00e3o, nas depend\u00eancias da Casa, de cartaz ofensivo \u00e0 Pol\u00edcia Militar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado.\r\nCom todo o respeito ao seu posicionamento - concordo com V.Exa. em rela\u00e7\u00e3o ao Dia da Consci\u00eancia Negra -, se a autoriza\u00e7\u00e3o para colocar os temas no corredor \u00e9 da Presid\u00eancia da Casa, n\u00f3s temos que ter o cuidado de homenagear o Dia da Consci\u00eancia Negra e n\u00e3o atacar outra categoria ou outra profiss\u00e3o, como os policiais, que tamb\u00e9m s\u00e3o negros, s\u00e3o brancos, perdem a vida e n\u00e3o podem estar expostos, como se fossem eles que matassem os negros neste Pa\u00eds.\r\nN\u00f3s n\u00e3o podemos concordar com isso! Por isso eu sou solid\u00e1rio ao Deputado Coronel Tadeu.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=147&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CONTESTA\u00c7\u00c3O, DISCURSO PARLAMENTAR, DEPUTADA FEDERAL, ESQUERDA POL\u00cdTICA, COMUNISMO, PETR\u00d3LEO BRASILEIRO (PETROBRAS), CORRUP\u00c7\u00c3O, GOVERNO, PARTIDO DOS TRABALHADORES (PT), DESEMPREGO.\r\nDEFESA, GOVERNO FEDERAL, ECONOMIA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Contesta\u00e7\u00e3o ao pronunciamento de Deputada esquerdista, a respeito da pol\u00edtica econ\u00f4mica adotada pelo Governo Jair Bolsonaro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Sem revis\u00e3o do orador.) - Sr. Presidente, eu acho que um cachorro pit bull mordeu a cabe\u00e7a dessa Deputada da Esquerda comunista que hoje se pronunciou aqui. \r\nFalam da PETROBRAS, a estatal de que eles falam tanto em soberania, mas \u00e9 engra\u00e7ado que, em 2015, nos Governos ladr\u00f5es de Dilma e Lula, eles conseguiram dar um preju\u00edzo de 30 bilh\u00f5es \u00e0 PETROBRAS. E s\u00f3 em 2019 essas empresas estatais j\u00e1 tiveram 70 bilh\u00f5es de lucro, simplesmente porque n\u00e3o existiu corrup\u00e7\u00e3o nenhuma. A\u00ed vem agora a Deputada falar que a economia vai mal. Puta merda, meu irm\u00e3o! Como \u00e9 que a economia vai mal se eles entregaram esse Governo com 15 milh\u00f5es de desempregados, e o Governo Bolsonaro j\u00e1 jogou para 12 milh\u00f5es?\r\nSe a economia vai mal, meu amigo, eu sinto muito! Eu acho que o pit bull a mordeu mesmo, e V.Exa. tem que ser vacinada...\r\nO SR. PRESIDENTE (Charles Fernandes. PSD - BA) - Concedo a palavra ao Deputado Rog\u00e9rio Correia.\r\nA SRA. BENEDITA DA SILVA (PT - RJ) - Sr. Presidente, V.Exa. poderia determinar a retirada dessas palavras de baixo cal\u00e3o do pronunciamento do Deputado Delegado \u00c9der Mauro? Acho que elas n\u00e3o combinam com o decoro da Casa.\r\nO SR. PRESIDENTE (Charles Fernandes. PSD - BA) - Se o Deputado Delegado \u00c9der Mauro quiser retificar...\r\nO SR. DELEGADO \u00c9DER MAURO (PSD - PA) - Eu falei alguma coisa contra o Regimento? O que foi que falei que est\u00e1 ferindo o Regimento?\r\nA SRA. FERNANDA MELCHIONNA (PSOL - RS) - Sr. Presidente, minha m\u00e3e sempre dizia o seguinte: \"O que vem de baixo n\u00e3o me atinge\". E o que vem de um mentecapto, lun\u00e1tico, bolsonarista da extrema-direita n\u00e3o atinge nem o meu ded\u00e3o.\r\nO SR. DELEGADO \u00c9DER MAURO (PSD - PA) - Ainda nem come\u00e7ou o ano.\r\nO que eu falei que est\u00e1 contra o Regimento, Sr. Presidente? Eu n\u00e3o falei nada que esteja contra o Regimento. Maior asneira do que as que eles falam...",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=157&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-13T11:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DEPUTADO FEDERAL, ESQUERDA POL\u00cdTICA, S\u00c9RGIO NASCIMENTO DE CAMARGO, PRESIDENTE, FUNDA\u00c7\u00c3O CULTURAL PALMARES (FCP), S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, CR\u00cdTICA. \r\nPEC 199/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, TRANSFORMA\u00c7\u00c3O, RECURSO EXTRAORDIN\u00c1RIO, A\u00c7\u00c3O REVISIONAL EXTRAORDIN\u00c1RIA, COMPET\u00caNCIA ORIGIN\u00c1RIA, SUPREMO TRIBUNAL FEDERAL (STF), RECURSO ESPECIAL, A\u00c7\u00c3O REVISIONAL ESPECIAL, SUPERIOR TRIBUNAL DE JUSTI\u00c7A (STJ), DEFESA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Solidariedade ao Presidente da Funda\u00e7\u00e3o Cultural Palmares, S\u00e9rgio Nascimento de Camargo, e ao Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, diante de acusa\u00e7\u00f5es de Deputados esquerdistas. Natureza esp\u00faria de movimento contra a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 199, de 2019, sobre a transforma\u00e7\u00e3o dos recursos extraordin\u00e1rio e especial em a\u00e7\u00f5es revisionais de compet\u00eancia origin\u00e1ria do Supremo Tribunal Federal e do Superior Tribunal de Justi\u00e7a.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, nesta quinta-feira, ouvi o pronunciamento de v\u00e1rios Deputados, inclusive de alguns Deputados da Esquerda. Eles questionaram inclusive a escolha do Sr. S\u00e9rgio Nascimento para a Funda\u00e7\u00e3o Cultural Palmares, questionaram os seus posicionamentos. Mas \u00e9 interessante. Pelo que j\u00e1 vi e todo o Brasil viu, ele \u00e9 negro. Ou ser\u00e1 que pintaram o corpo do S\u00e9rgio, para ele se passar por negro e se pronunciar como se pronunciou? Ele \u00e9 apenas um negro que n\u00e3o se vitimiza, e n\u00e3o deixa que alguns nesta Casa dividam este Pa\u00eds. Acabou a era de dividir o povo brasileiro. Ele \u00e9 uma pessoa como qualquer outra neste Pa\u00eds.\r\nOu\u00e7o alguns Deputados falarem do Ministro Sergio Moro como se ele n\u00e3o fosse um verdadeiro patrim\u00f4nio desta Na\u00e7\u00e3o. Ainda ontem alguns questionaram a sua biografia, chamaram-no de \"ladr\u00e3o\", chamaram-no de \"protetor de miliciano\". Alguns disseram que ele n\u00e3o deveria se intitular \"dono do combate \u00e0 corrup\u00e7\u00e3o\". Com certeza ele n\u00e3o \u00e9 o dono do combate \u00e0 corrup\u00e7\u00e3o, mas a corrup\u00e7\u00e3o tem dono, sim: \u00e9 a Esquerda, que, nos \u00faltimos 16 anos, roubou este Pa\u00eds. Com certeza, Sergio Moro foi o homem, o juiz que teve a coragem de enfrentar os colarinhos-brancos aqui de Bras\u00edlia. \r\nSem d\u00favida nenhuma, existe um movimento obscuro em Bras\u00edlia, simplesmente para que a pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia n\u00e3o ocorra.\r\nDo pr\u00f3prio projeto encaminhado pelo Ministro tiraram a pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia. Hoje, a PEC 199 \u00e9 uma realidade, e eu tenho certeza de que, nestas Casas, muitos, chefiados por alguns caciques envolvidos na Lava-Jato, n\u00e3o deixar\u00e3o a PEC 199 prosperar.\r\nO Ministro Sergio Moro \u00e9 um homem de bem, \u00e9 um homem que teve coragem. E a pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia, minha gente, veio para atingir n\u00e3o o ladr\u00e3o pobre de galinha, mas, sim, aqueles que roubaram este Pa\u00eds, cometeram atrocidades muito s\u00e9rias contra o nosso povo brasileiro, deixaram as nossas crian\u00e7as bebendo \u00e1gua com farinha nas escolas e as pessoas jogadas nos corredores dos hospitais, porque o dinheiro vazava para os cofres desses bandidos. E muitos deles ainda est\u00e3o aqui em Bras\u00edlia.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2020&txPagina=51&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-13T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "ESQUERDA POLITICA, COMPORTAMENTO, CRITICA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Rep\u00fadio aos ataques da Esquerda contra o Presidente Jair Bolsonaro e o Ministro da Justi\u00e7a e da Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente.\r\nEu quero aqui me dirigir ao Deputado Boca Aberta e ao seu filho - parab\u00e9ns pelo filho, que \u00e9 Deputado Estadual. J\u00e1 que o assunto nesta tarde de quinta-feira \u00e9 exatamente a Esquerda, que sobe pela manh\u00e3 \u00e0 tribuna e s\u00f3 sabe criticar, falar e pensar em desestabilizar um governo que est\u00e1 dando muito certo neste Pa\u00eds, quero dizer, s\u00f3 para come\u00e7ar, que as roubalheiras que existiam zeraram.\r\nEu cito sempre como exemplo que as nossas estatais no Governo passado deram preju\u00edzo de 35 bilh\u00f5es de reais aos cofres do povo brasileiro. Esse \u00e9 simplesmente o dinheiro que era roubado das estatais por muitos, inclusive por alguns que ainda se encontram nesta C\u00e2mara Federal e no Senado Federal. Hoje, com pouco mais de 1 ano de governo, o Presidente Bolsonaro j\u00e1 deu um lucro de mais de 70 bilh\u00f5es de reais \u00e0s estatais, por um \u00fanico motivo: zerou a corrup\u00e7\u00e3o e a roubalheira nas estatais.\r\nMinha gente, quando um governo est\u00e1 dando certo, a Esquerda - e eu estou aqui na tribuna da esquerda falando - se organiza. Todo santo dia eles pensam numa forma de bater no Governo Federal, como aconteceu no dia de ontem, quando o Ministro Moro veio falar da PEC 199, relativa \u00e0 pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia. Meu amigo Deputado Boca Aberta, eu quero lhe dizer que existe um movimento obscuro e secreto em Bras\u00edlia para que isso n\u00e3o aconte\u00e7a. Sabe por qu\u00ea, meu amigo? Porque a quest\u00e3o da pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia, na verdade, embora seja geral, nunca atinge um ladr\u00e3o de galinha. O ladr\u00e3o de galinha n\u00e3o passa da primeira inst\u00e2ncia. Ele \u00e9 condenado em primeira inst\u00e2ncia e vai puxar cadeia.\r\nA pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia, que deveria estar ocorrendo, mas deixou de estar, quando colocaram o maior bandido deste Pa\u00eds na rua, que foi o Sr. Luiz In\u00e1cio Lula da Silva, perdeu o sentido. Como se sabe, eles sempre a quiseram, mas v\u00e3o fazer lobby para que ela n\u00e3o aconte\u00e7a, porque eles n\u00e3o querem que ela os alcance. Refiro-me \u00e0queles que participam da maior organiza\u00e7\u00e3o criminosa que se instalou no Brasil, e n\u00e3o foi nas cadeias do Rio de Janeiro, n\u00e3o foi em S\u00e3o Paulo, com o PCC, mas foi aqui, em Bras\u00edlia, com o \"Primeiro Comando de Bras\u00edlia\", que tem como maior chefe e organizador o Sr. Lula, que, junto com os seus aliados, roubou este Pa\u00eds.\r\nQuando o Ministro Moro mandou o pacote anticrime, todos n\u00f3s j\u00e1 sab\u00edamos que a pris\u00e3o em segunda inst\u00e2ncia n\u00e3o iria passar. A PEC 199 veio para fazer com que volte essa discuss\u00e3o e seja estabelecida a pris\u00e3o em segunda inst\u00e2ncia. A\u00ed a Esquerda corre para l\u00e1, a mando dos seus caciques - n\u00e3o s\u00f3 a Esquerda, pois h\u00e1 muitos outros nesse ninho de roubalheira -, para que essa medida n\u00e3o vingue, porque ela vai alcan\u00e7\u00e1-los.\r\nAqui em Bras\u00edlia, senhoras e senhores brasileiros, eles estavam acostumados a roubar, a se aliar com JBS e companhia, a fazer sangrar estatais e bancos brasileiros, para ficarem milion\u00e1rios, comprar fazendas, colocar dinheiro em im\u00f3veis e mandar dinheiro para fora do Pa\u00eds. Quando aparecia qualquer coisa, o esquema n\u00e3o deixava que eles respondessem, porque come\u00e7avam na primeira inst\u00e2ncia, iam para a segunda inst\u00e2ncia, recorriam para a terceira inst\u00e2ncia, iam para o Supremo, apresentavam embargos daqui, embargos dali, e se passavam 30 anos. O bandido pol\u00edtico, bandido que realmente rouba este Pa\u00eds, nunca seria alcan\u00e7ado, como at\u00e9 hoje n\u00e3o \u00e9.\r\nA\u00ed Deputados de esquerda que n\u00e3o t\u00eam sequer moral para falar de um juiz que \u00e9 respeitado e considerado pela maioria esmagadora deste Pa\u00eds tentam ferir a dignidade dele e falam que ele n\u00e3o \u00e9 o dono do combate \u00e0 corru\u00e7\u00e3o. Certamente ele n\u00e3o \u00e9 o dono do combate \u00e0 corrup\u00e7\u00e3o, mas foi o homem que teve a coragem de colocar na cadeia os bandidos deste Pa\u00eds que verdadeiramente roubam os brasileiros, que cometem as maiores atrocidades quando deixam nossas crian\u00e7as jogadas nas escolas sem professores de qualidade; quando deixam nossas crian\u00e7as bebendo \u00e1gua com farinha como merenda, como acontece em Munic\u00edpios do meu Estado; quando deixam, nesses \u00faltimos 16 anos, Deputado Boca Aberta e jovem Deputado Estadual, pessoas jogadas em corredores de hospitais, sem um atendimento humano e b\u00e1sico. O dinheiro estava dentro de apartamentos, como o dinheiro daquele bandido que foi encontrado. E o povo passando fome, passando necessidade, correndo atr\u00e1s de emprego.\r\nEsses bandidos deixaram o Pa\u00eds arrasado, Sra. Presidente, com mais de 15 milh\u00f5es de desempregados. Ent\u00e3o, um homem colocado n\u00e3o s\u00f3 pelo povo brasileiro, mas por Deus - n\u00e3o tenho d\u00favida - come\u00e7a a mudar essa hist\u00f3ria. Simplesmente, em 1 ano de Governo, ele j\u00e1 jogou para 12 milh\u00f5es e vai fazer muito mais.\r\nMinha gente, n\u00e3o adianta atacar o Presidente Bolsonaro, n\u00e3o adianta atacar o Ministro Moro. Eu pe\u00e7o a cada brasileiro e a cada brasileira que n\u00e3o deixem este Pa\u00eds novamente na m\u00e3o dessa Esquerda comunista, bandida, que roubou, que tirou da boca do seu filho, que tirou a sua chance de ter sonhos, de almejar objetivos e n\u00e3o receber esmolas. Lutem e n\u00e3o deixem que essa Esquerda volte, porque ela foi o c\u00e2ncer que destruiu o nosso Brasil, que est\u00e1 sendo reerguido hoje pelo Bolsonaro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2020&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEPUTADO FEDERAL, ESQUERDA POL\u00cdTICA, CR\u00cdTICA, PETR\u00d3LEO BRASILEIRO (PETROBRAS), PRE\u00c7O, COMBUST\u00cdVEL. \r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNADOR, ESTADO (ENTE FEDERADO), ISEN\u00c7\u00c3O, IMPOSTO SOBRE OPERA\u00c7\u00d5ES RELATIVAS \u00c0 CIRCULA\u00c7\u00c3O DE MERCADORIAS E SOBRE PRESTA\u00c7\u00d5ES DE SERVI\u00c7OS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICA\u00c7\u00c3O (ICMS), COMBUST\u00cdVEL.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Cr\u00edticas ao posicionamento de Deputadas da Esquerda em rela\u00e7\u00e3o \u00e0 empresa Petr\u00f3leo Brasileiro S/A - PETROBRAS e \u00e0 pol\u00edtica de pre\u00e7os de combust\u00edveis praticada no Pa\u00eds. Desafio lan\u00e7ado pelo Presidente Jair Bolsonaro aos Governadores Estaduais para isen\u00e7\u00e3o do ICMS incidente sobre o setor.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nOu\u00e7o Deputadas da esquerda falarem sobre a PETROBRAS e o aumento no pre\u00e7o dos combust\u00edveis e reclamarem do Presidente da Rep\u00fablica. Todo o Brasil viu que o Presidente desafiou muitos Governadores a baixarem o ICMS para que ele pudesse tamb\u00e9m baixar o pre\u00e7o do combust\u00edvel. O que n\u00e3o pode \u00e9 o Presidente ter baixado por tr\u00eas vezes o pre\u00e7o combust\u00edvel, mas esse pre\u00e7o n\u00e3o ter chegado \u00e0s bombas.\r\nAgora, quero chamar a aten\u00e7\u00e3o dessas Deputadas que est\u00e3o com a farda da PETROBRAS para o fato de que a \u00faltima vez que eu vi algu\u00e9m da esquerda com a farda da PETROBRAS foi o Lula e a Dilma, e eles afundaram a PETROBRAS.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=143&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-19T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "ATENTADO, CID GOMES, SENADOR, CEARA, GREVE, POLICIAL MILITAR.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Divulga\u00e7\u00e3o de not\u00edcia sobre a ocorr\u00eancia de atentado contra a vida do Senador Cid Gomes durante manifesta\u00e7\u00e3o no Estado do Cear\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu estava saindo deste plen\u00e1rio quando recebi uma not\u00edcia, por v\u00eddeo, que tenho esperan\u00e7a de que seja mentirosa, porque o que me mostraram \u00e9 o absurdo dos absurdos. Ouvimos neste plen\u00e1rio o pessoal da Esquerda criticar Bolsonaro, falar que Bolsonaro \u00e9 mau, que Bolsonaro \u00e9 isso e aquilo, mas eu recebi agora a not\u00edcia, Deputado Bibo Nunes, de que o Senador Cid Gomes, numa manifesta\u00e7\u00e3o no Cear\u00e1, usou um trator para tentar invadir o quartel onde estavam alguns militares. Parece-me que os militares, para se defenderem, atiraram e atingiram o Senador.\r\nEu quero deixar clara a situa\u00e7\u00e3o, que espero at\u00e9 que seja mentira, que seja fake news. Se for verdade, a\u00ed sim, mostrar\u00e1 quem s\u00e3o os ditadores de esquerda e o que eles fazem para conseguir o que querem.\r\nParab\u00e9ns \u00e0 pol\u00edcia!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2020&txPagina=244&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-17T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 927/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO. \r\nH\u00c9LDER BARBALHO, GOVERNADOR, PAR\u00c1, COMPROMETIMENTO, IRREGULARIDADE,  COMPRA, VENTILADOR PULMONAR, CORRUP\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 384, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 927, de 2020, a respeito das medidas trabalhistas de enfrentamento do estado de calamidade p\u00fablica decorrente da pandemia de coronav\u00edrus (Decreto Legislativo n\u00ba 6, de 2020). Den\u00fancia de envolvimento do Governador do Estado do Par\u00e1, H\u00e9lder Barbalho, em irregularidades no processo de aquisi\u00e7\u00e3o de respiradores pulmonares.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD vota \"n\u00e3o\".\r\nEu quero aproveitar esta oportunidade para denunciar o que est\u00e1 acontecendo no Estado do Par\u00e1, onde o Governador H\u00e9lder Barbalho est\u00e1 envolvido em esc\u00e2ndalos, como o caso dos respiradores. A Pol\u00edcia Federal invadiu a casa dele, o Pal\u00e1cio, a casa do Secret\u00e1rio de Sa\u00fade, onde foi encontrada grande quantidade de dinheiro. \r\nO Governador H\u00e9lder, que, hoje, mant\u00e9m nas suas m\u00e3os parte da m\u00eddia, pagando publicidade, agora quer calar o povo paraense, os blogueiros e pessoas comuns que o criticam nas redes sociais. Se qualquer pessoa do povo paraense criticar o Governador ou denunciar as corrup\u00e7\u00f5es que acontecem no Estado do Par\u00e1, ele usa a Pol\u00edcia Civil e a Pol\u00edcia Militar, como pol\u00edcia particular, para invadir a casa das pessoas e calar os paraenses. Isso n\u00e3o vai acontecer. O povo paraense n\u00e3o vai mais aceitar Governador corrupto no Estado do Par\u00e1.\r\nEstamos juntos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2020&txPagina=231&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.\r\nARQUIVAMENTO, ASSEMBLEIA LEGISLATIVA, PAR\u00c1, IMPEACHMENT, HELDER BARBALHO, GOVERNADOR, CORRUP\u00c7\u00c3O, REP\u00daDIO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba-B, da Lei n\u00ba 10.260, de 2001, alterado pelo art. 1\u00ba, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079, de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, para suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, com vista \u00e0 sua rejei\u00e7\u00e3o e consequente restabelecimento do dispositivo equivalente no texto aprovado pela C\u00e2mara dos Deputados. Inadmissibilidade de arquivamento, pela Assembleia Legislativa do Estado do Par\u00e1, do pedido de impeachment  do Governador Helder Barbalho, denunciado por pr\u00e1tica de crime de corrup\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Deputado Darci.\r\nO PSD vota pela manuten\u00e7\u00e3o do texto.\r\nQuero aproveitar para dizer que, no Estado do Par\u00e1, estamos vivendo uma pandemia de corrup\u00e7\u00e3o no Governo Helder Barbalho. Hoje, a Pol\u00edcia Federal, cumprindo mandado judicial da Justi\u00e7a Federal, invadiu a Secretaria de Educa\u00e7\u00e3o, que fez compras superfaturadas, de quase 74 milh\u00f5es de reais, de cestas de alimenta\u00e7\u00e3o escolar, usando empresas como testas de ferro. Sr. Presidente, a\u00ed temos os crimes de forma\u00e7\u00e3o de organiza\u00e7\u00e3o criminosa, corrup\u00e7\u00e3o ativa e corrup\u00e7\u00e3o passiva.\r\nEu quero me dirigir neste momento ao Presidente da ALEPA, Deputado Daniel Santos, e a todos os Deputados: os senhores ter\u00e3o coragem de arquivar o impeachment desse Governo corrupto?\r\nEu quero aqui pedir desculpas ao povo do Estado do Par\u00e1.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HELDER BARBALHO, GOVERNADOR, PARA, IMPROBIDADE ADMINISTRATIVA, AFASTAMENTO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Questionamento, pela popula\u00e7\u00e3o do Estado do Par\u00e1, sobre as raz\u00f5es do n\u00e3o afastamento do Governador Helder Barbalho, denunciado por pr\u00e1tica de improbidade administrativa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. Pedi a palavra exatamente para falar do Par\u00e1.\r\nO Governo do Rio de Janeiro foi afastado pelo Superior Tribunal de Justi\u00e7a, Sr. Presidente, porque o escrit\u00f3rio da esposa do Governador tinha liga\u00e7\u00f5es com coisas escusas. O de Santa Catarina foi afastado porque deu aumento para categorias que n\u00e3o deveriam receber aumento. \r\nO interessante \u00e9 que a Pol\u00edcia Federal invadiu a casa do desgovernador Barbalho no Par\u00e1, invadiu o pal\u00e1cio, invadiu secretarias, prendeu alguns secret\u00e1rios e apreendeu um monte de dinheiro por um rombo de 1,3 bilh\u00e3o de reais, e at\u00e9 agora o povo do Par\u00e1 n\u00e3o teve resposta: por que esse desgovernador n\u00e3o foi afastado? O povo do Par\u00e1 aguarda a resposta da Justi\u00e7a e da Assembleia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 5638/2020, PROJETO DE LEI ORDINARIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTRARIO.\r\nDELEGADO \u00c9DER MAURO, DEPUTADO FEDERAL, EMENDA, RECURSOS OR\u00c7AMENT\u00c1RIOS, EMPRESA, EVENTO.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 5.638, de 2020, sobre a cria\u00e7\u00e3o do Programa Emergencial de Retomada do Setor de Eventos - PERSE. Defesa de retirada do art. 9\u00ba da proposi\u00e7\u00e3o, em prol dos agentes lot\u00e9ricos. Pedido aos Deputados para destina\u00e7\u00e3o de recursos de emendas or\u00e7ament\u00e1rias ao setor de eventos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o voto do PSD vota \"n\u00e3o\" ao destaque.\r\nEu quero aproveitar para chamar a aten\u00e7\u00e3o de todos os colegas que est\u00e3o analisando esse projeto para o seguinte: n\u00f3s estamos descobrindo um santo para cobrir o outro. Quero chamar a aten\u00e7\u00e3o para que, por exemplo, no meu Estado, n\u00f3s estamos socorrendo inclusive o setor de eventos e os m\u00fasicos com emenda parlamentar pessoal e impositiva nossa. E eu gostaria que todos os colegas fizessem isso. \r\nAgora, n\u00f3s n\u00e3o podemos arranjar recursos, como est\u00e1 descrito no art. 9\u00ba do projeto, tirando o \u00ednfimo que os lot\u00e9ricos j\u00e1 ganham, porque, no momento em que voc\u00ea diminuir o ganho do pr\u00eamio, voc\u00ea vai afugentar todos os apostadores, e os lot\u00e9ricos simplesmente v\u00e3o ter que demitir pessoas, v\u00e3o ter que arcar com custos altos e n\u00e3o v\u00e3o ter condi\u00e7\u00f5es para isso. N\u00f3s temos que achar outra alternativa.\r\nPor isso, eu gostaria que l\u00e1 atr\u00e1s pud\u00e9ssemos ter um destaque para retirada do art. 9\u00ba, para n\u00f3s n\u00e3o termos que sacrificar os lot\u00e9ricos nesse projeto.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=190&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONTESTA\u00c7\u00c3O, DISCURSO PARLAMENTAR, DEPUTADA FEDERAL, ESQUERDA POL\u00cdTICA, MULHER, OFENSA.",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Contesta\u00e7\u00e3o aos discursos de Deputadas contra o orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Esse \u00e9 um grande problema, Sr. Presidente, tanto aqui quanto nas Comiss\u00f5es, porque nas Comiss\u00f5es eles tentam dominar tudo. \u00c9 interessante que eles conseguem chamar a mim e a outros Deputados de assassinos, torturadores, fascistas, genocidas e o (express\u00e3o retirada por determina\u00e7\u00e3o da Presid\u00eancia), e temos que aceitar. \r\nSimplesmente eu disse \"gra\u00e7as a Deus\", porque a fala dela estava chata para (express\u00e3o retirada por determina\u00e7\u00e3o da Presid\u00eancia). Eu disse \"gra\u00e7as a Deus\", no momento em que caiu a Internet.(Manifesta\u00e7\u00e3o no plen\u00e1rio.)\r\nO SR. ORLANDO SILVA (PCdoB - SP) - O que \u00e9 isso, Presidente?\r\nO SR. DELEGADO \u00c9DER MAURO (Bloco/PSD - PA) - Eu disse \u00fanica e exclusivamente isso. Agora, diga-me, Sr. Presidente, o que \u00e9 mais s\u00e9rio: eu ter dito \"gra\u00e7as a Deus\" ou eles me chamarem de fascista, de torturador, de assassino?\r\nEnt\u00e3o, o choro das Deputadas da Esquerda... Eu n\u00e3o tenho nada contra as mulheres, j\u00e1 disse que sou casado com uma mulher - e uma mulher, n\u00e3o uma barata. E sou filho de uma m\u00e3e, e n\u00e3o de uma chocadeira. Portanto, n\u00e3o tenho medo de nenhuma de V.Exas., Sras. Deputadas.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-04T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ALEXANDRE DE MORAES, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, INCLUS\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, INQU\u00c9RITO, CONTESTA\u00c7\u00c3O. \r\nMANIFESTA\u00c7\u00c3O P\u00daBLICA, POPULA\u00c7\u00c3O, FAVOR\u00c1VEL, VOTO IMPRESSO, ELEI\u00c7\u00d5ES, AUDITORIA, URNA ELETR\u00d4NICA",
+        "nomeDeputado": "Delegado \u00c9der Mauro",
+        "sumario": "Discord\u00e2ncia com decis\u00e3o do Ministro Alexandre de Moraes, do Supremo Tribunal Federal, a respeito do Presidente Jair Bolsonaro. Defesa de retomada do voto impresso nas elei\u00e7\u00f5es brasileiras.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO \u00c9DER MAURO (PSD - PA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nOuvi atentamente a fala dos dois \u00faltimos Parlamentares acerca da decis\u00e3o do Ministro Alexandre de Moraes. Um deles citou in\u00fameros artigos. Respeito a decis\u00e3o do Ministro, embora n\u00e3o concorde. Mas, gra\u00e7as a Deus, n\u00e3o h\u00e1 nenhum artigo ali de corrup\u00e7\u00e3o. H\u00e1 artigos pelo Presidente ter falado a verdade o tempo todo.\r\nOuvi um colega falando da quest\u00e3o do voto impresso.\r\nEu n\u00e3o quero saber por que esse pessoal ainda n\u00e3o entendeu o recado que as ruas est\u00e3o mandando. Eu n\u00e3o sei, colega, qual \u00e9 o medo ou qual \u00e9 a inten\u00e7\u00e3o de quem \u00e9 contra o voto impresso e audit\u00e1vel. Ouvi o colega dizer agora que o voto da urna eletr\u00f4nica \u00e9 audit\u00e1vel. N\u00e3o sei como \u00e9 audit\u00e1vel. Se n\u00e3o h\u00e1 um comprovante f\u00edsico para poder auditar, como \u00e9 que se vai auditar? Na pr\u00f3pria urna? No pr\u00f3prio sistema que j\u00e1 est\u00e1 l\u00e1 decidido? N\u00e3o h\u00e1 como auditar.\r\nO povo foi \u00e0s ruas dar o recado e vai novamente quantas vezes forem necess\u00e1rias, porque sabemos que a inten\u00e7\u00e3o \u00e9 outra.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

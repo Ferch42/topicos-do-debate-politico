@@ -1,0 +1,560 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PEDRO LUCAS FERNANDES, L\u00cdDER DO PARTIDO, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980).\r\nPL 245/2019, PROJETO DE LEI ORDIN\u00c1RIA, FUNDO DE DESENVOLVIMENTO DAS COMUNIDADES QUILOMBOLAS DE ALC\u00c2NTARA (FDCQA).",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Escolha do orador para o cargo de L\u00edder do PTB na Casa. Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 245, de 2019, sobre a cria\u00e7\u00e3o do Fundo de Desenvolvimento das Comunidades Carentes e Quilombolas de Alc\u00e2ntara.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - As minhas palavras s\u00e3o r\u00e1pidas. Eu quero me apresentar a toda a Na\u00e7\u00e3o brasileira como o novo L\u00edder do partido, o partido de dez novos Deputados, no qual apenas um j\u00e1 passou por esta Casa. Somos dez Parlamentares e temos a Deputada mais nova do Pa\u00eds, Luisa Canziani. Quero dizer que \u00e9 uma grande satisfa\u00e7\u00e3o estar aqui neste momento \u00fanico para o Brasil.\r\nSr. Presidente, j\u00e1 apresentamos uma proposta bastante interessante que cria um fundo de amparo aos quilombolas localizados em Alc\u00e2ntara, onde est\u00e1 a base do CLA - Centro de Lan\u00e7amento de Alc\u00e2ntara. O CLA, agora com o novo Governo Bolsonaro, vai ter uma perspectiva muito grande de acordos com os Estados Unidos e outras na\u00e7\u00f5es, e n\u00f3s temos que criar esse fundo para proteger os quilombolas que ali est\u00e3o.\r\nAlc\u00e2ntara \u00e9 formada por uma popula\u00e7\u00e3o basicamente rural - 70% da sua popula\u00e7\u00e3o \u00e9 rural -, e n\u00f3s apresentamos o Projeto de Lei n\u00ba 245, de 2019. Tenho certeza de que, com o avan\u00e7o dos acordos com o CLA, n\u00f3s vamos aprovar esse projeto.\r\nS\u00e3o essas as minhas palavras. Eu desejo que neste Parlamento n\u00f3s possamos ter a vontade brasileira em muitas propostas e em muitas decis\u00f5es. O nosso nome \u00e9 Pedro Lucas Fernandes.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), SAUDA\u00c7\u00c3O, PREFEITO, MUNIC\u00cdPIO, MARANH\u00c3O, CONFER\u00caNCIA, BRAS\u00cdLIA (DF),",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas aos Prefeitos Municipais participantes em confer\u00eancia, em nome da Lideran\u00e7a do PTB, especialmente aos do Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, boa tarde.\r\nQuero dar as boas-vindas a todos os Prefeitos do Brasil que se encontram na confer\u00eancia e dizer que a Lideran\u00e7a do PTB abra\u00e7a todos. \u00c9 uma pauta muito positiva que traz \u00e0 confer\u00eancia os Prefeitos, que s\u00e3o o ente que mais sofre neste Pa\u00eds.\r\nEnt\u00e3o, em nome da Lideran\u00e7a do PTB, quero dar boas-vindas, em especial, aos Prefeitos do Maranh\u00e3o, \u00e9 claro; ao Presidente Federa\u00e7\u00e3o dos Munic\u00edpios do Maranh\u00e3o - FAMEM, Sr. Erl\u00e2nio; e dizer que o PTB est\u00e1 de portas abertas para trabalharmos junto com os Prefeitos deste Pa\u00eds.\r\nEra isso.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=151&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DECRETO, PODER  EXECUTIVO, REGULAMENTA\u00c7\u00c3O, CRIT\u00c9RIO, IDONEIDADE, OCUPA\u00c7\u00c3O, CARGO EM COMISS\u00c3O , CARGO DE DIRE\u00c7\u00c3O E ASSESSORAMENTO SUPERIOR (DAS) , FUN\u00c7\u00c3O COMISSIONADA DO PODER EXECUTIVO (FCPE), DATA RETROATIVA, DEFESA.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta do Projeto de Lei n\u00b0 2.724-A, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - O PTB, Sr. Presidente, quer se somar ao L\u00edder do PPS sobre o Decreto n\u00ba 9.727.\r\nEsse decreto n\u00e3o condiz com a realidade do Ficha Limpa. N\u00e3o existe Governo metade ficha limpa, metade ficha suja. Ent\u00e3o pedimos ao Governo Federal que fa\u00e7a valer esse decreto a partir do dia 1\u00ba de janeiro, dia da posse do Presidente Bolsonaro.\r\nEssa \u00e9 a posi\u00e7\u00e3o da bancada do PTB.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=148&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLENARIO, MPV 858/2018, MEDIDA PROVISORIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTRARIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 5, com parecer contr\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - O PTB rejeita as emendas.\r\nO acordo com os Estados Unidos tem que ser quebrado para podermos avan\u00e7ar. A Base A\u00e9rea de Alc\u00e2ntara espera, o Maranh\u00e3o espera, o Brasil espera.\r\nVotamos pela rejei\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-11T10:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARQUE NACIONAL DOS LEN\u00c7\u00d3IS MARANHENSES, HOMICIDO, ANIMAL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de encaminhamento, ao Minist\u00e9rio do Meio Ambiente, de requerimento de informa\u00e7\u00f5es sobre o registro de mortes de animais no Parque Nacional dos Len\u00e7\u00f3is Maranhenses.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 s\u00f3 para pedir agilidade \u00e0 Mesa para que encaminhe o Requerimento de Informa\u00e7\u00e3o n\u00ba 387, de 2019. Esse requerimento \u00e9 importante porque o Parque Nacional dos Len\u00e7\u00f3is Maranhenses tem registrado a morte de v\u00e1rias esp\u00e9cies, como tartarugas - mais de 280. Ao apresentar esse requerimento de informa\u00e7\u00e3o, pedimos ao Ministro do Meio Ambiente que tome alguma atitude. Lixo de 19 pa\u00edses se encontram naquela regi\u00e3o.\r\nPedimos agilidade a esta Mesa para que encaminhe esse pedido de informa\u00e7\u00e3o ao Minist\u00e9rio do Meio Ambiente.\r\nEra isso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T09:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), HOMENAGEM, LEITURA, PRONUNCIAMENTO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Leitura do discurso encaminhado pelo Presidente Rodrigo Maia em homenagem ao PTB, ao ensejo do transcurso do 74\u00ba anivers\u00e1rio de sua funda\u00e7\u00e3o.",
+        "tipoDiscurso": "FALA DO PRESIDENTE OU NO EXERC\u00cdCIO DA PRESID\u00caNCIA",
+        "transcricao": "O SR. PRESIDENTE (Pedro Lucas Fernandes. Bloco/PTB - MA) - Bom dia a todos novamente. Irei ler a mensagem do Presidente Rodrigo Maia ao nosso partido, o PTB, pelos 74 anos de exist\u00eancia e de muita luta em defesa do trabalhador brasileiro.\r\nO Sr. Presidente pronuncia o seguinte discurso: \r\n\"Senhoras e senhores, \u00e9 com muita satisfa\u00e7\u00e3o que falo, em nome da C\u00e2mara dos Deputados, nesta justa sess\u00e3o solene que homenageia os 74 anos de cria\u00e7\u00e3o do Partido Trabalhista Brasileiro, por iniciativa do nobre Deputado Pedro Lucas Fernandes. \r\nDesde que foi fundado, em 15 de maio de 1945, o PTB participou de todos os grandes momentos hist\u00f3ricos brasileiros. \u00c0quela \u00e9poca, a Na\u00e7\u00e3o vivia um processo de redemocratiza\u00e7\u00e3o, e a funda\u00e7\u00e3o do partido foi um dos mais importantes legados do trabalhismo consolidado por Get\u00falio Vargas.\r\nMenos de duas d\u00e9cadas ap\u00f3s o seu surgimento, no ano de 1961, o PTB chegava ao comando do Pa\u00eds, com a posse do ent\u00e3o Vice-Presidente Jo\u00e3o Goulart na Presid\u00eancia da Rep\u00fablica. Nas elei\u00e7\u00f5es realizadas no ano seguinte, o partido aumentou significativamente sua bancada, passando de 66 para 104 Deputados, 10 Senadores e 4 Governadores. \r\nCom a extin\u00e7\u00e3o do PTB e demais partidos da \u00e9poca, em 1966, os Parlamentares petebistas ingressaram, em sua grande maioria, no Movimento Democr\u00e1tico Brasileiro - MDB. T\u00e3o logo, no entanto, restabeleceu-se o pluripartidarismo, o partido foi rearticulado pela ex-Deputada petebista Ivete Vargas, sobrinha-neta de Get\u00falio Vargas. \r\nO PTB participou intensamente da campanha pelas Diretas e teve destacada presen\u00e7a na Assembleia Nacional Constituinte, sendo um dos principais defensores da inclus\u00e3o dos direitos sociais e do trabalho na Carta de 1988, ao lado de outros partidos de esquerda. \r\n\tSintonizado com as mudan\u00e7as na conjuntura pol\u00edtica nacional e internacional, o partido sempre soube se reinventar. A globaliza\u00e7\u00e3o levou ao alinhamento natural do PTB com o liberalismo econ\u00f4mico, mas o partido, repito aqui, o partido nunca traiu os compromissos com os direitos e o bem-estar do trabalhador brasileiro, princ\u00edpios que inspiraram sua funda\u00e7\u00e3o.\r\nSenhoras e senhores, poucas siglas no nosso Pa\u00eds podem exibir, no seu hist\u00f3rico, uma participa\u00e7\u00e3o t\u00e3o antiga e t\u00e3o marcante na pol\u00edtica nacional. O PTB n\u00e3o \u00e9 apenas um patrim\u00f4nio do trabalhador; ele \u00e9 refer\u00eancia na nossa hist\u00f3ria partid\u00e1ria como atento defensor de todos os brasileiros. \u00c9 uma agremia\u00e7\u00e3o que tem longa folha de servi\u00e7os prestados \u00e0 Na\u00e7\u00e3o, tanto no Legislativo quanto no Executivo.\r\nHoje, pois, quando realizamos t\u00e3o significativa homenagem ao PTB, quero saudar a bancada do PTB nesta Casa, bem como reverenciar a mem\u00f3ria de petebistas not\u00e1veis, como Get\u00falio Vargas e Alberto Pasqualini.\r\nQue o Partido Trabalhista Brasileiro atravesse as d\u00e9cadas na vanguarda da luta em defesa dos trabalhadores brasileiros e pelo fortalecimento da nossa democracia s\u00e3o os meus votos, em nome da C\u00e2mara dos Deputados.\r\nObrigado, PTB.\r\nPresidente Rodrigo Maia.\"",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-18T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "SUSPENS\u00c3O,  LEI MUNICIPAL, S\u00c3O LU\u00cdS (MA), GRATUIDADE, ESTACIONAMENTO, SHOPPING.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Apelo ao Plen\u00e1rio do Supremo Tribunal Federal de reexame da decis\u00e3o monocr\u00e1tica do Ministro Ricardo Lewandowski, pela suspens\u00e3o da lei municipal de S\u00e3o Lu\u00eds, Estado do Maranh\u00e3o, concessiva da gratuidade, por 30 minutos, do estacionamento em shopping centers  e locais privados.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, o que me traz aqui, no dia de hoje, \u00e9 um apelo que quero fazer ao Plen\u00e1rio do Supremo Tribunal Federal. \r\nO Ministro Ricardo Lewandowski, por decis\u00e3o monocr\u00e1tica, suspendeu uma lei municipal de S\u00e3o Lu\u00eds que contemplava os consumidores com at\u00e9 30 minutos gratuitos nos estacionamentos de shoppings e locais privados.\r\nO Ministro fez um desfavor ao Munic\u00edpio de S\u00e3o Lu\u00eds, acatando um recurso da associa\u00e7\u00e3o dos lojistas dos shoppings. Agora, junto com a Prefeitura de S\u00e3o Lu\u00eds, com a C\u00e2mara Municipal e com o apoio da bancada maranhense, vamos questionar essa decis\u00e3o monocr\u00e1tica do Ministro Ricardo Lewandowski.\r\nEra isso, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CENTRO DE LAN\u00c7AMENTO DE ALC\u00c2NTARA (CLA), ACORDO DE SALVAGUARDAS TECNOL\u00d3GICAS, BRASIL, ESTADOS UNIDOS, PROPOSI\u00c7\u00c3O LEGISLATIVA, REQUERIMENTO DE URG\u00caNCIA.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Apresenta\u00e7\u00e3o, pelo PTB, de requerimento para aprecia\u00e7\u00e3o em regime de urg\u00eancia de proposi\u00e7\u00e3o relativa ao Acordo de Salvaguardas Tecnol\u00f3gicas - AST sobre o Centro de Lan\u00e7amento de Alc\u00e2ntara, Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Marcos Pereira, o Deputado Eduardo Bolsonaro j\u00e1 citou aqui, nas palavras dele, a import\u00e2ncia de n\u00f3s avan\u00e7armos no Acordo de Salvaguardas Tecnol\u00f3gicas - AST. N\u00e3o \u00e9 s\u00f3 o Maranh\u00e3o que vai ganhar, \u00e9 o Brasil. A Guiana Francesa, com a Base de Kourou, gera mais de 10 mil empregos diretos. O Brasil est\u00e1 perdendo tempo em entrar num mercado t\u00e3o importante, que \u00e9 o mercado aeroespacial. \r\nN\u00f3s, do PTB, apresentamos um requerimento de urg\u00eancia que se encontra em pauta e tem o apoiamento de v\u00e1rios L\u00edderes, como o L\u00edder do DEM, do PL, do pr\u00f3prio bloco, do PRB, enfim, \u00e9 um tema suprapartid\u00e1rio. S\u00f3 aqueles que n\u00e3o conhecem o potencial de Alc\u00e2ntara, preservando, \u00e9 claro, as comunidades quilombolas, n\u00e3o querem esse acordo. \r\nEnt\u00e3o, n\u00f3s precisamos avan\u00e7ar. Pe\u00e7o aos L\u00edderes partid\u00e1rios da esquerda e da direita que n\u00f3s possamos aprovar esse requerimento de urg\u00eancia e que possamos vot\u00e1-lo neste plen\u00e1rio. \u00c9 um acordo que j\u00e1 vem sendo reformulado h\u00e1 mais de 20 anos e que agora est\u00e1 h\u00e1 5 meses nesta Casa. Foi aprovado pelo PSB, pelo PDT, pelo PCdoB na CREDN e por toda a base do Governo. \r\nEu pe\u00e7o aqui a compreens\u00e3o de todos para que n\u00f3s possamos avan\u00e7ar no Acordo de Salvaguardas Tecnol\u00f3gicas. \r\nEra o que tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-05T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "S\u00c3O LU\u00cdS (MA), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Transcurso do 407\u00ba anivers\u00e1rio de funda\u00e7\u00e3o de S\u00e3o Lu\u00eds, Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, se o Deputado Boca Aberta permitir, eu gostaria somente de fazer um registro. A cidade de S\u00e3o Lu\u00eds, em 8 de setembro, completar\u00e1 407 anos. Sou ludovicense, da capital fundada pelos franceses. Fa\u00e7o, nesta Casa, o registro de que S\u00e3o Lu\u00eds \u00e9 bela e alegre, e convido todos os brasileiros a conhecerem essa grande capital!\r\nViva S\u00e3o Lu\u00eds do Maranh\u00e3o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F9%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, BLOCO PARLAMENTAR, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Bloco orienta \"n\u00e3o\", pelo bem do Brasil.\r\nO Pa\u00eds est\u00e1 perdendo emprego. O Brasil j\u00e1 deveria ter entrado no mercado aeroespacial. Kourou, na Guiana Francesa, se transformou, gera mais de 10 mil empregos diretos. Alc\u00e2ntara est\u00e1 esperando. O gasto anual de Alc\u00e2ntara s\u00e3o 50 milh\u00f5es de reais. Precisamos avan\u00e7ar, para entrarmos no mercado bilion\u00e1rio.\r\nOrientamos \"n\u00e3o\" ao requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=251&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BLOCO PARLAMENTAR, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), ACORDO, VOTA\u00c7\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTO A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Apoio do Bloco PP/MDB/PTB \u00e0 proposta de acordo para vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Bloco PP/MDB/PTB concorda com o acordo. Vamos avan\u00e7ar na ter\u00e7a-feira.\r\nTrata-se de um acordo importante. Quero agradecer aqui ao PDT, ao PT e a todos os partidos de esquerda que est\u00e3o dando a palavra para que possamos votar na pr\u00f3xima ter\u00e7a-feira o AST.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=286&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ORDEM DO DIA, IN\u00cdCIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de in\u00edcio da Ordem do Dia. Solicita\u00e7\u00e3o aos Parlamentares de comparecimento ao plen\u00e1rio.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a palavra pela Lideran\u00e7a do Bloco PP/MDB/PTB.\r\nEu gostaria de fazer a convoca\u00e7\u00e3o de todos os Parlamentares e pedir a V.Exa. que comece a Ordem do Dia. J\u00e1 temos 279 Deputados presentes. Hoje ficou acordado no Col\u00e9gio de L\u00edderes que come\u00e7ar\u00edamos a Ordem do Dia \u00e0s 16 horas, e j\u00e1 s\u00e3o 16h52min.\r\nO Acordo de Salvaguardas Tecnol\u00f3gicas \u00e9 o primeiro item da pauta. Foi feito um grande acordo aqui na semana passada, e precisamos avan\u00e7ar.\r\nEu pe\u00e7o gentilmente a V.Exa. que comece a Ordem do Dia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, EMENDA DE PLENARIO, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTRARIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o ressalvado o par\u00e1grafo 1.B do art. III (dispositivos gerais), contida na Emenda de Plen\u00e1rio n\u00ba 1, oferecida ao Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, a respeito da aprova\u00e7\u00e3o do texto do Acordo sobre Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Vou pedir licen\u00e7a ao L\u00edder Arthur Lira para orientar.\r\nA orienta\u00e7\u00e3o \u00e9 n\u00e3o, Sr. Presidente. \r\nQuero fazer alguns agradecimentos. Quero agradecer ao Presidente Rodrigo Maia, que nos deu a possibilidade de apresentar o requerimento de urg\u00eancia e colocou a mat\u00e9ria em pauta. Quero agradecer tamb\u00e9m a todos os L\u00edderes. Naquele momento de debate profundo, tamb\u00e9m conseguimos pautar o acordo de salvaguardas. Aqui fica o agradecimento a todos aqueles que entendem que o acordo de salvaguardas \u00e9 muito importante para o Brasil e para o Maranh\u00e3o.\r\nO voto \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=303&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1615/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.615, de 2019, sobre a classifica\u00e7\u00e3o da vis\u00e3o monocular como defici\u00eancia sensorial do tipo visual.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, este requerimento \u00e9 de suma import\u00e2ncia. S\u00e3o 400 mil os portadores de vis\u00e3o monocular, que precisam ter o benef\u00edcio de pessoas com defici\u00eancia. O pr\u00f3prio Supremo Tribunal Federal j\u00e1 tem jurisprud\u00eancia a respeito de dar benef\u00edcios a essas pessoas.\r\nEste requerimento de urg\u00eancia, relativo ao PL 1.615/19, do Senado, vai garantir que os portadores de vis\u00e3o monocular sejam classificados como pessoas com defici\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "\u00cdNDIO, POPULA\u00c7\u00c3O IND\u00cdGENA, V\u00cdTIMA, VIOL\u00caNCIA, PROTE\u00c7\u00c3O, POL\u00cdCIA FEDERAL, FUNDA\u00c7\u00c3O NACIONAL DO \u00cdNDIO (FUNAI), GOVERNO FEDERAL, PROVID\u00caNCIAS, MOIS\u00c9S, PREFEITO, JENIPAPO DOS VIEIRAS (MA), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Assassinato de ind\u00edgenas no Munic\u00edpio de Jenipapo dos Vieiras, Estado do Maranh\u00e3o. Necessidade de ado\u00e7\u00e3o, pelo Governo Federal, de medidas para conten\u00e7\u00e3o da viol\u00eancia contra lideran\u00e7as ind\u00edgenas nos Munic\u00edpios de Jenipapo dos Vieiras, Itaipava do Graja\u00fa e Arame, no Estado.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a palavra por 1 minuto, por favor.\r\nEu queria me somar a todos os Parlamentares que j\u00e1 fizeram apelos relacionados \u00e0 morte dos caciques no Munic\u00edpio de Jenipapo dos Vieiras, no Maranh\u00e3o.\r\n\u00c9 grave a situa\u00e7\u00e3o na BR-226. O Prefeito Mois\u00e9s tem feito apelos diuturnamente aqui na FUNAI. N\u00e3o adianta a Pol\u00edcia Federal e a FUNAI dizerem que solucionaram os problemas com os \u00edndios naquela regi\u00e3o sem que realmente tenham feito isso.\r\nOs Munic\u00edpios de Jenipapo dos Vieiras, de Itaipava do Graja\u00fa e de Arame sofrem muito com a viol\u00eancia ind\u00edgena e precisam do apoio do Governo Federal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=127&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 786/2020, PROJETO DE LEI ORDINARIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 786, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.947, de 2009, com vista \u00e0 autoriza\u00e7\u00e3o, em car\u00e1ter excepcional, da distribui\u00e7\u00e3o de g\u00eaneros aliment\u00edcios adquiridos com recursos do Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE aos pais ou respons\u00e1veis de estudantes das escolas p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica. Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia e aos L\u00edderes partid\u00e1rios pela elabora\u00e7\u00e3o de pauta de relevante interesse da popula\u00e7\u00e3o brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, eu quero declarar o voto do PTB, favor\u00e1vel ao projeto.\r\nMas antes eu quero parabenizar V.Exa., que conseguiu organizar toda esta pauta, que n\u00e3o \u00e9 uma pauta de governo, \u00e9 uma pauta da popula\u00e7\u00e3o brasileira. \r\nO PTB vota favoravelmente, parabenizando a todos os L\u00edderes, que conseguiram e se dedicaram a fazer uma pauta t\u00e3o relevante para o Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-03T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.\r\nC\u00c2MARA DOS DEPUTADOS, PARLAMENTO, ATUA\u00c7\u00c3O PARLAMENTAR, PANDEMIA, CORONAV\u00cdRUS, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o de regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es, para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus, ressalvados os destaques. Elogio ao Presidente Rodrigo Maia pela condu\u00e7\u00e3o dos trabalhos da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa noite a todos. Boa noite, Presidente.\r\nO PTB acredita que, assim como o m\u00e9dico n\u00e3o abandona o paciente, este Parlamento tamb\u00e9m n\u00e3o tem abandonado o povo brasileiro. Assim o fez no projeto de calamidade, assim fez no aumento do voucher do coronav\u00edrus, e agora, aprovando essa PEC, que vai fazer com que o Governo gaste at\u00e9 10% do PIB, dando maior flexibilidade, maior dinamismo para o combate ao coronav\u00edrus.\r\nEnt\u00e3o, o PTB vota \"sim\" \u00e0 PEC, por entender que \u00e9 melhor para o Brasil e que d\u00e1 seguran\u00e7a aos gastos p\u00fablicos.\r\nQuero parabenizar aqui, Presidente, rapidamente, V.Exa. por essa condu\u00e7\u00e3o, porque tem ouvido, de forma plural, todos os Deputados, todos os L\u00edderes, e tem feito com que este Parlamento cres\u00e7a diante das dificuldades.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2020&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980),VOTO FAVOR\u00c1VEL, CONGRATULA\u00c7\u00c3O, KIM KATAGUIRI, DEPUTADO FEDERAL, AUTOR.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 848, de 2020,sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, quero parabenizar o Deputado Kim Kataguiri. O projeto \u00e9 excelente e vai facilitar a vida de muitos brasileiros.\r\nAproveito a oportunidade para parabenizar tamb\u00e9m V.Exa., Sr. Presidente, pelo corte, por estar fazendo o dever de casa, n\u00e3o s\u00f3 apresentando proposi\u00e7\u00f5es, mas tamb\u00e9m fazendo esse corte de 150 milh\u00f5es de reais no or\u00e7amento da Casa. \u00c9 assim que n\u00f3s vamos nos conduzindo a um Brasil melhor.\r\nO PTB orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "APOIO POL\u00cdTICO, EMENDA, PATR\u00cdCIA FERRAZ, FELIPE, DEPUTADO FEDERAL, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, CONTROLE SANIT\u00c1RIO, COM\u00c9RCIO, MEDICAMENTO, INSUMO, PRODUTO FARMAC\u00caUTICO, RECEITA M\u00c9DICA, PRAZO INDETERMINADO, PANDEMIA, CORONAV\u00cdRUS, SA\u00daDE P\u00daBLICA.\r\nAUMENTO, ADICIONAL DE INSALUBRIDADE, PROFISSIONAL DE SA\u00daDE, ENFERMEIRO, COMBATE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Apoio \u00e0 emenda oferecida pela Deputada Patricia Ferraz ao Projeto de Lei n\u00ba 848, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos, ressalvados os destaques. Defesa de aumento do valor da gratifica\u00e7\u00e3o de insalubridade concedida aos profissionais da sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de manifestar meu apoio \u00e0 emenda da Deputada Patricia Ferraz e do Deputado Felipe, mas aproveito para fazer uma proposta a esta Casa para que aumentemos o valor da gratifica\u00e7\u00e3o de insalubridade paga aos profissionais de sa\u00fade. Trata-se de uma categoria que est\u00e1 \u00e0 frente no combate ao coronav\u00edrus, formada por enfermeiros e t\u00e9cnicos de enfermagem que precisam deste aux\u00edlio. N\u00f3s precisamos estender a m\u00e3o a estes profissionais que tanto t\u00eam lutado para combater o coronav\u00edrus.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T10:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO FINANCEIRO, UNI\u00c3O, SANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ENFRENTAMENTO, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, REQUERIMENTO DE URG\u00caNCIA, FAVOR\u00c1VEL, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980).\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1088/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Declara\u00e7\u00e3o de voto do PTB favor\u00e1vel \u00e0 aprova\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.088, de 2020, sobre a suspens\u00e3o retroativa e o impedimento de novas inscri\u00e7\u00f5es nos cadastros de empresas de an\u00e1lises e informa\u00e7\u00f5es para decis\u00f5es de cr\u00e9dito, durante o estado de calamidade p\u00fablica decretado em decorr\u00eancia da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de dizer que o PTB votou a favor tanto no requerimento anterior quanto neste requerimento de urg\u00eancia.\r\nParabenizo o Senador Jos\u00e9 Serra, que apoia as Santas Casas. Esse projeto \u00e9 muito importante. As Santas Casas, em todo o Brasil, desempenham um papel fundamental, principalmente neste momento.\r\nO projeto da Deputada Joice Hasselmann \u00e9 muito importante tamb\u00e9m, porque preserva os nomes dos consumidores e das pessoas que movem o Brasil: os trabalhadores.\r\nO PTB vota \"sim\" ao requerimento de urg\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, boa noite. Boa noite a todos os Deputados.\r\nO PTB vota contra a retirada de pauta, porque acredita que o texto melhorou muito. Quero parabenizar o Relator e dizer que esse texto \u00e9 uma ferramenta para que possamos impulsionar novos empregos no futuro, j\u00e1 que enfrentamos essa grande crise.\r\nO PTB vota contra.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=157&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-22T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1389/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.389, de 2020, sobre a transposi\u00e7\u00e3o e a transfer\u00eancia de saldos financeiros constantes dos Fundos de Assist\u00eancia Social dos Estados, do Distrito Federal e dos Munic\u00edpios, provenientes de repasses federais, apurados at\u00e9 dezembro de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PTB vota \"sim\" e parabeniza a Deputada Fl\u00e1via Arruda pelo projeto. J\u00e1 fizemos isso com os fundos de sa\u00fade e agora estamos tendo essa preocupa\u00e7\u00e3o com os fundos da assist\u00eancia social.\r\nO PTB vota \"sim\" ao requerimento de urg\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2020&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, ADEQUA\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, Sras. e Srs. Deputados, primeiro, parabenizo o Deputado Newton Cardoso Jr pelo excelente relat\u00f3rio. Essa nova roupagem que daremos \u00e0 EMBRATUR vai possibilitar que avancemos no turismo no Brasil.\r\nO PTB vota \"sim\", acreditando que o Relator fez um papel excelente. Quanto \u00e0 parte do ECAD, n\u00f3s podemos discuti-la em um segundo momento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 8/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente Marcelo, \u00e9 uma honra declarar o voto do PTB sob sua presid\u00eancia.\r\nO PTB vota \"sim\" ao texto do Relator. Essa nova roupagem que a EMBRATUR vai ter ser\u00e1 o primeiro passo para impulsionarmos o turismo no Brasil. Isso vai gerar muitos empregos ap\u00f3s a pandemia. Acreditamos, sim, que esse texto que o Relator fez \u00e9 essencial para que se desenvolva o turismo.\r\nEnt\u00e3o, votamos \"n\u00e3o\" ao destaque e \"sim\" ao texto do Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE, INCLUS\u00c3O, DISPOSITIVO LEGAL, EMENDA DE PLENARIO, PL 1O79/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTRARIO",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para inclus\u00e3o, onde couber, do art. 12 da Emenda n\u00ba 22, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o destaque \u00e9 muito bom, mas, no momento, n\u00e3o temos como arcar com ele e comprometer o fundo estudantil para o futuro.\r\nEnt\u00e3o o PTB vota \"n\u00e3o\" ao destaque e \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EXPRESS\u00c3O TEXTUAL, EMENDA DE PLEN\u00c1RIO, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o Fica o Poder Executivo autorizado a suspender por 6 meses a cobran\u00e7a das parcelas de amortiza\u00e7\u00e3o das d\u00edvidas provenientes do programa FIES, no per\u00edodo de restri\u00e7\u00e3o \u00e0 locomo\u00e7\u00e3o, emerg\u00eancia e/ou calamidade provocados pela pandemia da Covid-19, contida na Emenda n\u00ba 5, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente Juscelino, \u00e9 uma honra orientar o PTB sob a Presid\u00eancia de V.Exa., um Deputado do Maranh\u00e3o.\r\nO PTB vota \"n\u00e3o\" ao destaque, Presidente. O Deputado Moses Rodrigues, do MDB, foi muito feliz ao trazer dados concretos. N\u00f3s estamos comprometendo o FIES do pr\u00f3ximo ano. S\u00e3o 100 mil os alunos que t\u00eam esse direito, e, se o destaque fosse aprovado, n\u00f3s estar\u00edamos prorrogando o prazo por 6 meses, prejudicando esse futuro.\r\nEnt\u00e3o, o PTB vota \"n\u00e3o\" ao destaque e \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-04T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, ADMISSIBILIDADE CONSTITUCIONAL, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania sobre a admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, referente ao estabelecimento do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, boa tarde. Boa tarde, todos os L\u00edderes e todos os Deputados.\r\nO PTB vota \"sim\", pela admissibilidade, ressaltando o trabalho do Relator Hugo Motta. Esta Casa j\u00e1 fez esse papel de aprovar a PEC do Or\u00e7amento de Guerra, que dever\u00edamos ter aprovado no Senado.\r\nEnfim, o PTB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2020&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-12T13:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, MPV 909/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.\r\nDIA DO ENFERMEIRO, ENFERMEIRO, HOMENAGEM.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 909, de 2019, sobre a extin\u00e7\u00e3o do fundo formado pelas reservas monet\u00e1rias constante no art. 12 da  Lei n\u00ba 5.143, de 1966, bem como a destina\u00e7\u00e3o dos recursos remanescentes e a revoga\u00e7\u00e3o do dispositivo mencionado. Sauda\u00e7\u00f5es aos profissionais da enfermagem.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PTB vota \"sim\" e parabeniza o Relator, o Deputado Luis Miranda.\r\nQuero aproveitar a oportunidade e tamb\u00e9m homenagear os enfermeiros, que s\u00e3o os grandes her\u00f3is deste Brasil, no dia de hoje.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2020&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTR\u00c1RIO.\r\nPEDRO LUCAS FERNANDES, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), GIL CUTRIM, RELATOR, ELOGIO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 1.562, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus. Elogio ao Relator da mat\u00e9ria, Deputado Gil Cutrim.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Presidente. Boa tarde a todos os Deputados e Deputadas.\r\n\u00c9 uma satisfa\u00e7\u00e3o enorme estar liderando o PTB neste momento e como autor desse projeto, que n\u00e3o \u00e9 da Esquerda, n\u00e3o \u00e9 da Direita, mas \u00e9, sim, a favor dos brasileiros. O uso das m\u00e1scaras j\u00e1 \u00e9 adotado no mundo inteiro. \u00c9 claro que n\u00f3s n\u00e3o quer\u00edamos trazer uma obrigatoriedade, mas isso tem um car\u00e1ter educativo muito grande, Presidente.\r\nQuero agradecer de p\u00fablico a V.Exa. pela ideia de ter trazido a mat\u00e9ria ao plen\u00e1rio, de ter pautado o projeto e de ter pautado os nobres projetos que muitos apensaram.\r\nQuero aqui fazer um registro especial ao Relator, o Deputado Gil Cutrim, que aperfei\u00e7oou, sim, o texto. O texto foi melhorado junto com os apensados. Creio que a obrigatoriedade das m\u00e1scaras vai contribuir, sim, para o combate a essa pandemia, que tanto est\u00e1 nos preocupando. \r\nEnt\u00e3o, o PTB vota a favor do relat\u00f3rio do Deputado Gil Cutrim e contra o destaque, agradecendo mais uma vez aos Deputados e \u00e0s Deputadas e ao Presidente da C\u00e2mara dos Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-27T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PLP 9/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL. \r\nPARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), REP\u00daDIO, INVESTIGA\u00c7\u00c3O CRIMINAL, MANDATO DE  BUSCA E APREENS\u00c3O, RESID\u00caNCIA, ROBERTO JEFFERSON, PRESIDENTE, PARTIDO POL\u00cdTICO.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva oferecida pelo Relator da Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os, ao Projeto de Lei Complementar n\u00ba 9, de 2020, a respeito da ades\u00e3o de empresas enquadradas no regime SIMPLES Nacional \u00e0 transa\u00e7\u00e3o tribut\u00e1ria tratada em Lei Federal, ressalvados os destaques. Nota do PTB em rep\u00fadio \u00e0 opera\u00e7\u00e3o de busca e apreens\u00e3o realizada na resid\u00eancia do presidente do partido, Sr. Roberto Jefferson.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Como L\u00edder. Sem revis\u00e3o do orador.) - A orienta\u00e7\u00e3o \u00e9 \"sim\", Presidente.\r\nQuero aproveitar para me solidarizar com o Presidente Roberto Jefferson, que foi alvo de uma opera\u00e7\u00e3o de busca e apreens\u00e3o em sua casa no dia de hoje.\r\nDestaco parte da nota do PTB \u00e0 Na\u00e7\u00e3o brasileira:\r\nO PTB repudia veementemente o dissimulado inqu\u00e9rito, tendo em vista que o mesmo n\u00e3o encontra respaldo nem na Constitui\u00e7\u00e3o Federal, nem no Regimento Interno da Suprema Corte, nem de seus membros e demais juristas, nem do Minist\u00e9rio P\u00fablico Federal - \u00f3rg\u00e3o que deveria fazer parte das investiga\u00e7\u00f5es, mas que vem sendo ignorado pelo relator, ministro Alexandre de Moraes.\r\nEra isso, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F5%2F2020&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-04T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1985/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Lucas Fernandes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.985, de 2019, a respeito da perman\u00eancia de fisioterapeuta em Centros de Terapia Intensiva - CTIs adultos, pedi\u00e1tricos e neonatais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO LUCAS FERNANDES (Bloco/PTB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Marcos, \u00e9 uma satisfa\u00e7\u00e3o falar com V.Exa. na Presid\u00eancia.\r\nO PTB vota \"sim\", ressaltando o trabalho da Relatora e parabenizando a autora, a Deputada Margarete.\r\nOs profissionais de fisioterapia s\u00e3o t\u00e3o importantes quanto os m\u00e9dicos. \r\nCiente da import\u00e2ncia profissional dos fisioterapeutas, o PTB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2020&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

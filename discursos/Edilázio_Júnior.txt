@@ -1,0 +1,524 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "EDIL\u00c1ZIO J\u00daNIOR, DEPUTADO FEDERAL, ORADOR, ELEI\u00c7\u00c3O, MARANH\u00c3O, AGRADECIMENTO.\r\nPERSEGUI\u00c7\u00c3O POL\u00cdTICA, GOVERNO ESTADUAL, MARANH\u00c3O, CR\u00cdTICA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Agradecimento ao povo maranhense pela elei\u00e7\u00e3o do orador. Persegui\u00e7\u00e3o de advers\u00e1rios pol\u00edticos pelo Governador do Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente e caros colegas Parlamentares.\r\nPrimeiramente, desta tribuna, quero agradecer ao meu Estado do Maranh\u00e3o, que me concedeu a oportunidade de represent\u00e1-lo aqui na C\u00e2mara Federal, com mais de 106 mil votos. Da mesma forma como trabalhei na Assembleia Legislativa no \u00faltimo ano, trabalharei aqui nesta Casa, fiscalizando as a\u00e7\u00f5es e fazendo cobran\u00e7as ao Governo do Estado.\r\nInfelizmente, Sr. Presidente, n\u00f3s temos no nosso Estado o desprazer de ter o \u00fanico Governador comunista da hist\u00f3ria do Pa\u00eds. Governador este que, para falar de hipocrisia, \u00e9 o campe\u00e3o nacional. No \u00faltimo final de semana, em suas redes sociais, ele falou a respeito de uma suposta espionagem ou investiga\u00e7\u00e3o que poderia estar ocorrendo da Igreja Cat\u00f3lica e dos bispos da Amaz\u00f4nia. \r\nPor\u00e9m, \u00e9 muito f\u00e1cil saber o que aconteceu no Estado do Maranh\u00e3o no \u00faltimo ano, basta procurar no Google. De forma oficiosa, com memorandos, o Governador determinou \u00e0 Pol\u00edcia Militar que investigasse e fichasse todos aqueles pol\u00edticos que pudessem causar algum embara\u00e7o nas elei\u00e7\u00f5es de 2018. Esse Governador tem como grande \u00eddolo Nicol\u00e1s Maduro. Imaginem o que vem enfrentando e passando o povo sofrido do nosso Maranh\u00e3o, com esse estado de absolutismo e de censura. Hoje o Governador comanda praticamente todas as institui\u00e7\u00f5es, perseguindo e coagindo os advers\u00e1rios das formas mais truculentas poss\u00edveis.\r\nSr. Presidente, pe\u00e7o que meu pronunciamento seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, REABERTURA, HOSPITAL P\u00daBLICO, MAT\u00d5ES DO NORTE (MA).",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Apelo ao Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino, de reabertura do Hospital Regional de Mat\u00f5es do Norte.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero s\u00f3 fazer o registro da situa\u00e7\u00e3o ca\u00f3tica que vem enfrentando a sa\u00fade do Estado do Maranh\u00e3o, que vem sendo alvo de diversas a\u00e7\u00f5es da Pol\u00edcia Federal.\r\nNo come\u00e7o do m\u00eas, o Governador Fl\u00e1vio Dino fechou o hospital do Munic\u00edpio de Mat\u00f5es do Norte, que atendia 14 Munic\u00edpios. Agora, os moradores, os mun\u00edcipes desses 14 Munic\u00edpios t\u00eam que se deslocar quase 200 quil\u00f4metros para poder ter atendimento de urg\u00eancia e emerg\u00eancia no Maranh\u00e3o. No Estado, est\u00e1 havendo diversos conflitos por conta do encerramento desse hospital.\r\nN\u00f3s pedimos que o Governador tenha bom senso e reabra o hospital de Mat\u00f5es do Norte, pois aquela popula\u00e7\u00e3o vem sofrendo muito com isso, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=218&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "EDIL\u00c1ZIO J\u00daNIOR, DEPUTADO FEDERAL, MARANH\u00c3O, ATUA\u00c7\u00c3O PARLAMENTAR, OPOSI\u00c7\u00c3O POL\u00cdTICA, CR\u00cdTICA, GEST\u00c3O, FL\u00c1VIO DINO, GOVERNADOR, PARTIDO COMUNISTA DO BRASIL (PC DO B), COMUNISMO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, QUANTIDADE, SECRETARIA DE ESTADO, AUMENTO, IMPOSTO SOBRE OPERA\u00c7\u00d5ES RELATIVAS \u00c0 CIRCULA\u00c7\u00c3O DE MERCADORIAS E SOBRE PRESTA\u00c7\u00d5ES DE SERVI\u00c7OS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICA\u00c7\u00c3O (ICMS), FOLHA DE PAGAMENTO, DESPESA P\u00daBLICA, COMUNICA\u00c7\u00c3O, M\u00cdDIA, DECRETO ESTADUAL, POL\u00cdCIA MILITAR, DESCUMPRIMENTO, DECIS\u00c3O JUDICIAL, REINTEGRA\u00c7\u00c3O DE POSSE, MOVIMENTO DOS TRABALHADORES RURAIS SEM-TERRA (MST), ATRASO, PAGAMENTO, PRECAT\u00d3RIO, PORTO DE ITAQUI, VIOLA\u00c7\u00c3O, CONV\u00caNIO, PREVID\u00caNCIA SOCIAL, FUNDO ESTADUAL, PENS\u00c3O POR MORTE, APOSENTADORIA, DESVIO, RECURSOS P\u00daBLICOS.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Sauda\u00e7\u00e3o ao Presidente em exerc\u00edcio dos trabalhos. Rep\u00fadio \u00e0 gest\u00e3o do Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino.",
+        "tipoDiscurso": "GRANDE EXPEDIENTE",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente.\r\nEu come\u00e7o saudando V.Exa. pelo excelente trabalho que vem realizando na Presid\u00eancia dos nossos trabalhos, diariamente, e os colegas Parlamentares.\r\nEu venho do Estado do Maranh\u00e3o, onde fui eleito para Deputado Federal. Fui o mais votado candidato da Oposi\u00e7\u00e3o. Trago comigo uma grande responsabilidade. Sou oriundo da Assembleia Legislativa daquele Estado, fiz diuturnamente um trabalho de combate ao Governo comunista que l\u00e1 se encontra e consegui obter mais de 106 mil votos.\r\nVou utilizar este espa\u00e7o, no per\u00edodo do Grande Expediente, para tratar de quatro pontos apenas da desordem em que vive o Estado do Maranh\u00e3o. Poderia falar da seguran\u00e7a p\u00fablica, que apresenta \u00edndices alt\u00edssimos - de 2014 a 2018, aumentou em 79% a letalidade policial em nosso Estado; poderia falar da sa\u00fade, que vive um verdadeiro caos, haja vista o atraso no pagamento a fornecedores, a m\u00e9dicos e a funcion\u00e1rios, a falta de insumos nos hospitais e - pasmem - o fechamento de hospitais, o que ocorreu no Munic\u00edpio de Mat\u00f5es do Norte e no Munic\u00edpio de Chapadinha. Mas vou me ater, neste Grande Expediente, a quatro pontos, que s\u00e3o o incha\u00e7o da m\u00e1quina p\u00fablica do Estado, a inseguran\u00e7a jur\u00eddica que atravessa hoje, a situa\u00e7\u00e3o do nosso Porto do Itaqui e a Previd\u00eancia.\r\nCome\u00e7o pelo incha\u00e7o da m\u00e1quina p\u00fablica. Enquanto todo o Pa\u00eds, enquanto todo o mundo adota medidas de austeridade com rela\u00e7\u00e3o aos gastos p\u00fablicos, para economizar ao m\u00e1ximo os recursos dos Estados e do Pa\u00eds, a administra\u00e7\u00e3o do nosso Estado vai pelo avesso, vai de encontro ao que um bom gestor faz. Pasmem, caros colegas: hoje, o Governo do Maranh\u00e3o conta com 37 Secretarias de Estado. Foi isso mesmo o que V.Exas. ouviram: s\u00e3o 37 Secretarias de Estado. O Governo de Goi\u00e1s, no entanto, um Estado que tem popula\u00e7\u00e3o semelhante \u00e0 do Estado do Maranh\u00e3o, tem apenas 10 Secretarias, e o Governo do nosso vizinho Piau\u00ed - e est\u00e1 aqui o Deputado J\u00falio Cesar, do nosso partido - tem 21 Secretarias.\r\nO Governo do maior Estado da nossa Federa\u00e7\u00e3o, o Estado de S\u00e3o Paulo, conta com 24 Secretarias de Estado. Enquanto isso, o Governador Fl\u00e1vio Dino, depois de reformar a sua administra\u00e7\u00e3o, o que fez foi aumentar o n\u00famero de Secretarias, criar puxadinhos para todos os partidos pol\u00edticos e para todos os conluios firmados no per\u00edodo eleitoral.\r\nComo ele consegue suportar 37 Secretarias no Governo do Estado do Maranh\u00e3o? Com o aumento de impostos, como o ICMS. Quem sente isso na pr\u00f3pria pele \u00e9 aquele que mais precisa. Nos \u00faltimos 2 anos, o Governador Fl\u00e1vio Dino aumentou tr\u00eas vezes a al\u00edquota do ICMS no Estado do Maranh\u00e3o: aumentou a al\u00edquota do ICMS da energia el\u00e9trica, aumentou a al\u00edquota do ICMS do combust\u00edvel e aumentou a al\u00edquota do ICMS do g\u00e1s. E quem sofre \u00e9 aquele l\u00e1 da ponta, o mais humilde. Ele tem o discurso, para a m\u00eddia nacional, da taxa\u00e7\u00e3o das grandes fortunas, mas l\u00e1 no Maranh\u00e3o \u00e9 bem diferente, porque ele taxa aqueles que mais precisam.\r\nO Maranh\u00e3o vem empobrecendo ano a ano desde que o regime comunista chegou ao nosso Estado. Hoje, a folha de pagamentos do Estado consome 47% das suas receitas, e n\u00e3o existem investimentos em nosso Estado.\r\nEnquanto Deputado Estadual, eu desafiei os colegas do Parlamento a me mostrarem uma \u00fanica obra estruturante feita no nosso Estado nos 4 anos do Governo Fl\u00e1vio Dino e at\u00e9 hoje aguardo a resposta. N\u00e3o houve uma \u00fanica obra que come\u00e7asse e findasse ao longo de 4 anos. E assim continua nesses 2 meses de mandato. Pasmem: com apenas 1 m\u00eas de mandato, ap\u00f3s a sua reelei\u00e7\u00e3o, ele j\u00e1 se lan\u00e7ou pr\u00e9-candidato a Presidente da Rep\u00fablica. Por isso precisamos desmascarar o Governador que n\u00f3s temos e a maneira p\u00edfia como governa.\r\nComo falei h\u00e1 pouco, no Estado n\u00e3o existem investimentos, mas sobram recursos p\u00fablicos para comunica\u00e7\u00e3o, como bem sabe fazer o comunismo, como bem sabe fazer a esquerda. Para V.Exas. terem uma ideia, enquanto o PIB do Estado diminuiu 5,6%, e a renda per capita do Maranh\u00e3o \u00e9 a menor do Pa\u00eds - 50% da popula\u00e7\u00e3o vive com 400 reais mensais -, o or\u00e7amento da Secretaria de Comunica\u00e7\u00e3o do Estado pulou de 4 milh\u00f5es de reais para 19 milh\u00f5es de reais, a serem executados no ano de 2019. Pasmem: 7 milh\u00f5es de reais desses recursos que foram para a Secretaria de Comunica\u00e7\u00e3o do Estado do Maranh\u00e3o s\u00e3o para a m\u00eddia nacional, para a empresa Informe Comunica\u00e7\u00e3o, que vem a ser da esposa do jornalista Noblat. Sete milh\u00f5es de reais!\r\nPor isso o Governador vem aparecendo na m\u00eddia nacional com mentiras. Eu farei o meu papel, como Oposi\u00e7\u00e3o, de desmentir em \u00e2mbito nacional o que o Governador Fl\u00e1vio Dino tem levado para todo o Pa\u00eds. \r\nVou falar da inseguran\u00e7a jur\u00eddica que vive o nosso Estado. O Governo, o Poder Executivo viola a independ\u00eancia e a harmonia entre os Poderes. \u00c9 uma tristeza o que o nosso Estado vivencia hoje. Para que V.Exas. tenham uma ideia, o Governador Fl\u00e1vio Dino baixou decreto para n\u00e3o cumprir decis\u00e3o judicial com rela\u00e7\u00e3o a reintegra\u00e7\u00e3o de posse. Ou\u00e7am V.Exas.: existe um decreto no Estado do Maranh\u00e3o que pro\u00edbe  a Pol\u00edcia Militar de efetivar decis\u00f5es de reintegra\u00e7\u00e3o de posse. Ou seja, o juiz, o desembargador decide pela reintegra\u00e7\u00e3o de posse, e o oficial de justi\u00e7a n\u00e3o consegue cumpri-la porque n\u00e3o tem o apoio da Pol\u00edcia Militar. Ent\u00e3o, hoje, o nosso Estado do Maranh\u00e3o \u00e9 a \"Disney do MST\", \u00e9 o local para aonde os sem-terra e os sem-teto tem ido. Para V.Exas. terem uma ideia, h\u00e1 poucos dias, o Governador Fl\u00e1vio Dino bateu uma foto junto com Guilherme Boulos, l\u00e1 no Estado da Bahia. \r\nEu pergunto a voc\u00eas investidores - e aqui est\u00e3o representantes da frente do agroneg\u00f3cio, aqui h\u00e1 v\u00e1rios fazendeiros e criadores de gado: embora o nosso Estado seja prop\u00edcio para investimentos, para planta\u00e7\u00e3o de soja, para cria\u00e7\u00e3o de gado, voc\u00eas teriam coragem de comprar terras em um Estado cujo Governador \u00e9 parceiro do MST?\r\nOutro decreto que o Governador Fl\u00e1vio Dino teve a coragem de baixar, tamb\u00e9m para n\u00e3o cumprimento de ordem judicial, era no sentido de que n\u00e3o fosse cumprida decis\u00e3o favor\u00e1vel a qualquer a\u00e7\u00e3o judicial em que um servidor p\u00fablico tivesse obtido \u00eaxito, se aumentasse, por exemplo, o valor de alguma vantagem em seus vencimentos. Imaginem V.Exas.! Vou citar um exemplo: um professor que conseguisse na Justi\u00e7a um aumento na sua gratifica\u00e7\u00e3o ou um policial que tivesse sido afastado e conseguisse, na Justi\u00e7a, voltar...\r\nO Sr. M\u00e1rcio Jerry - Deputado Edil\u00e1zio J\u00fanior, V.Exa. me permite um aparte?\r\nO SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA) - Quando eu concluir, Deputado.\r\nO policial n\u00e3o conseguiria ser reintegrado ao cargo, por causa do decreto do Governador. \r\nA Ordem dos Advogados do Brasil entrou com uma A\u00e7\u00e3o Direta de Inconstitucionalidade no Tribunal de Justi\u00e7a do Estado do Maranh\u00e3o. O Governador, com um trabalho de futurologia, \u00e0s v\u00e9speras do julgamento da ADI, desfez o decreto, uma vez que imaginou que iria perder. \u00c9 totalmente inconstitucional um decreto em que diz que n\u00e3o vai cumprir ordem judicial.\r\nVamos mais adiante, para falar dos precat\u00f3rios do Estado do Maranh\u00e3o. O Estado do Maranh\u00e3o est\u00e1 pagando agora os precat\u00f3rios do ano de 2014. \u00c9 importante que V.Exas. e o Brasil saibam da realidade do nosso Estado. O Maranh\u00e3o hoje est\u00e1 pagando precat\u00f3rios do ano de 2014. Na verdade, n\u00e3o est\u00e1 pagando, porque, desde julho de 2018, o Governador n\u00e3o cumpre a emenda constitucional que obriga que 1/12 da receita do Estado seja destinado para o pagamento de precat\u00f3rios. Ou seja, 22 milh\u00f5es de reais por m\u00eas, que seriam usados para pagamento de precat\u00f3rios, n\u00e3o est\u00e3o sendo repassados para o Tribunal de Justi\u00e7a do Estado do Maranh\u00e3o. A conta j\u00e1 \u00e9 de quase 150 milh\u00f5es de reais. O que causa espanto \u00e9 que o Tribunal de Justi\u00e7a do Estado n\u00e3o toma atitude.\r\nH\u00e1 aqui v\u00e1rios ex-Prefeitos. Ouvi agora h\u00e1 pouco o pronunciamento de um ex-Prefeito e creio que n\u00e3o seja diferente em outros lugares do Pa\u00eds. Os Prefeitos v\u00eam sofrendo sequestros mensais no repasse do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios para pagamento de precat\u00f3rios. No Maranh\u00e3o n\u00e3o \u00e9 diferente.\r\nO Sr. M\u00e1rcio Jerry - Deputado, V.Exa. me permite um aparte?\r\nO SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA) - Os Munic\u00edpios hipossuficientes, paup\u00e9rrimos, mensalmente tem bloqueado o seu repasse do Fundo de Participa\u00e7\u00e3o, para pagamento de precat\u00f3rios. Enquanto isso, o Governo do Estado segue no c\u00e9u de brigadeiro, dando calote naqueles a quem deve.\r\nO Corregedor Nacional de Justi\u00e7a, o Ministro Humberto Martins, estar\u00e1 semana que vem no Maranh\u00e3o. J\u00e1 oficiei ao CNJ e solicitei provid\u00eancias ao Ministro, ou seja, que pe\u00e7a informa\u00e7\u00f5es sobre o pagamento de precat\u00f3rios naquele Estado.\r\nAgora vamos chegar \u00e0 cereja do bolo do nosso Estado: o Porto do Itaqui. O Porto do Itaqui tem o segundo maior calado do mundo, perde apenas para o Porto de Roterd\u00e3, na Holanda. Por esse porto passa toda a pujan\u00e7a, toda a riqueza dos gr\u00e3os do nosso Pa\u00eds, em dire\u00e7\u00e3o \u00e0 Europa e \u00e0 Am\u00e9rica do Norte. O Governo do Estado do Maranh\u00e3o est\u00e1 prestes a perder a administra\u00e7\u00e3o do Porto do Itaqui. V.Exas. v\u00e3o me perguntar por qu\u00ea. O Porto do Itaqui \u00e9 administrado pela EMAP, a Empresa Maranhense de Administra\u00e7\u00e3o Portu\u00e1ria, por meio de um conv\u00eanio feito no ano 2000. Como disse, esse conv\u00eanio foi feito apenas para a administra\u00e7\u00e3o do porto. Existe uma cl\u00e1usula nesse conv\u00eanio, que tem que ser cumprida, que tem que ser respeitada, segundo a qual todos os recursos oriundos dos lucros do porto t\u00eam que ser reinvestidos no porto. O Governo Fl\u00e1vio Dino, devido \u00e0 sua inefici\u00eancia, devido ao incha\u00e7o da m\u00e1quina p\u00fablica, o que fez com os recursos oriundos dos lucros do Porto do Itaqui?\r\nSacou 144 milh\u00f5es de reais. Vou repetir: o Governador comunista sacou 144 milh\u00f5es de reais. E utilizou esses recursos como? Em obra eleitoreira, para fazer o \"asfalto sonrisal\" que foi determinante para a sua reelei\u00e7\u00e3o.\r\nO Sr. M\u00e1rcio Jerry - Deputado Edil\u00e1zio J\u00fanior, V.Exa. me concede um aparte?\r\nO SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA) - Deputado, eu estou fazendo uso da palavra. Assim que terminar, eu passo...\r\nO Sr. M\u00e1rcio Jerry - Estou lhe pedindo um aparte. V.Exa. concede ou n\u00e3o. \u00c9 s\u00f3 dizer que n\u00e3o concede. \r\nO SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA) - N\u00e3o concedo.\r\nO Sr. M\u00e1rcio Jerry - Pois n\u00e3o.\r\nO SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA) - Foram sacados 144 milh\u00f5es dos cofres do Porto do Itaqui. \r\nPasmem: embora a ANTAQ - Ag\u00eancia Nacional de Transportes Aquavi\u00e1rios tenha feito uma recomenda\u00e7\u00e3o \u00e0 EMAP, de que n\u00e3o fa\u00e7a mais isso, de que n\u00e3o utilize mais os recursos do Porto do Itaqui para outros fins que n\u00e3o sejam o de investir no Porto do Itaqui, o que faz o Governo do Estado? Vejam V.Exas. a situa\u00e7\u00e3o do Estado do Maranh\u00e3o: o Governo do Estado entrou na Justi\u00e7a Federal para pedir que o Governo Jair Bolsonaro n\u00e3o tome o Porto do Itaqui, que n\u00e3o desfa\u00e7a o conv\u00eanio existente. Pe\u00e7o v\u00eania para dizer que o juiz federal tomou a decis\u00e3o por \"ouvir dizer\". Ele \"ouviu dizer\" que o Governo Bolsonaro poderia cancelar o contrato de administra\u00e7\u00e3o do Porto do Itaqui com a EMAP. Por \"ouvir dizer\", concedeu liminar para impedir que o Governo Bolsonaro fa\u00e7a isso. \r\nHouve um debate com o Ministro Tarc\u00edsio Gomes de Freitas, que esteve no Maranh\u00e3o. Eu solicitei \u00e0 Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle desta Casa que v\u00e1 ao Estado do Maranh\u00e3o e ao Porto do Itaqui e veja a situa\u00e7\u00e3o, veja como vem sendo administrada a cereja do nosso bolo. \r\nChegamos agora a nossa Previd\u00eancia. O Governador Fl\u00e1vio Dino \u00e9 useiro e vezeiro em fazer uso das redes sociais, da m\u00eddia nacional, que ele bem paga, para atacar a reforma da Previd\u00eancia proposta pelo Governo Jair Bolsonaro. Com qual autoridade o Governo do Estado fala de Previd\u00eancia? Com qual autoridade o Governador Fl\u00e1vio Dino fala de Previd\u00eancia? Vou agora externar a V.Exas., para registro no programa A Voz do Brasil, a realidade da Previd\u00eancia do Estado do Maranh\u00e3o. \r\nO Governador Fl\u00e1vio Dino quebrou o FEPA. O que \u00e9 o FEPA? \u00c9 o Fundo Estadual de Pens\u00e3o e Aposentadoria do Estado do Maranh\u00e3o. O Governador Fl\u00e1vio Dino retirou, de forma irregular, de forma criminosa, 1 bilh\u00e3o e meio de reais desse fundo.\r\nVou repetir: retirou 1,5 bilh\u00e3o de reais desse fundo, durante 3 anos e meio de mandato.\r\nSabem quanto hoje existe de reserva para pagar os aposentados do Estado do Maranh\u00e3o? Cento e vinte milh\u00f5es de reais. Isso quem est\u00e1 falando n\u00e3o \u00e9 o Deputado Edil\u00e1zio. Houve um encontro dos sindicatos de funcion\u00e1rios p\u00fablicos do Estado do Maranh\u00e3o com o Procurador do Tribunal de Contas do Estado do Maranh\u00e3o. Na ocasi\u00e3o, o Procurador do Estado foi bem claro, quando disse que o Estado do Maranh\u00e3o n\u00e3o tem mais sa\u00fade financeira para pagar as aposentadorias at\u00e9 o final do ano. Ele ainda fez o seguinte diagn\u00f3stico: com os recursos de que disp\u00f5e hoje, o Estado vai conseguir honrar o pagamento dos aposentados e pensionistas apenas at\u00e9 o m\u00eas de outubro.\r\nEssa \u00e9 uma realidade. Hoje o servidor p\u00fablico do Estado que d\u00e1 entrada em sua aposentadoria precisa aguardar at\u00e9 120 dias para ter o seu pedido deferido, isso com todos os documentos juntados. Eles protelam o que podem, empurram para frente, justamente porque n\u00e3o t\u00eam mais recursos para honrar o pagamento dos aposentados do Estado do Maranh\u00e3o.\r\nE aqui, senhoras e senhores, trago um documento que uma pessoa l\u00e1 de dentro da Secretaria de Administra\u00e7\u00e3o e Previd\u00eancia Social do Estado do Maranh\u00e3o fez que chegasse \u00e0s minhas m\u00e3os. J\u00e1 vou encaminh\u00e1-lo ao Minist\u00e9rio P\u00fablico Federal e tamb\u00e9m ao Minist\u00e9rio P\u00fablico Estadual, e espero n\u00e3o contar com a leni\u00eancia desse Minist\u00e9rio P\u00fablico. Trata-se de um saque. Est\u00e1 aqui em minhas m\u00e3os - e posso passar \u00e0s m\u00e3os do colega Deputado M\u00e1rcio Jerry tamb\u00e9m - a c\u00f3pia do cheque e do comprovante de dep\u00f3sito em conta corrente no valor de 150 milh\u00f5es de reais, que foram sacados no dia 16 de julho de 2018, \u00e0s v\u00e9speras das elei\u00e7\u00f5es estaduais.\r\nForam sacados 150 milh\u00f5es do FUNBEN. O que \u00e9 o FUNBEN, Edil\u00e1zio? \u00c9 o Fundo de Benef\u00edcios dos Servidores do Estado do Maranh\u00e3o, que serve para que os servidores tenham acesso \u00e0 sa\u00fade, uma vez que nossa sa\u00fade p\u00fablica \u00e9 prec\u00e1ria. Servidores t\u00eam descontados mensalmente de 3% a 4% de seus sal\u00e1rios. Quatro por cento dos sal\u00e1rios dos servidores do Maranh\u00e3o s\u00e3o descontados para esse fundo, e o Governador do Estado do Maranh\u00e3o, de forma criminosa, no dia 16 de julho de 2018, faz um saque de 150 milh\u00f5es de reais para a SEPLAN - Secretaria de Planejamento e Or\u00e7amento. E para onde foi remanejado esse dinheiro? Foi remanejado para a Casa Civil e para a Secretaria de Infraestrutura, para fazer um asfalto de p\u00e9ssima qualidade.\r\nPe\u00e7o aos \u00f3rg\u00e3os de controle e fiscaliza\u00e7\u00e3o que cuidem dessa situa\u00e7\u00e3o. O Governador do Estado hoje j\u00e1 tem os seus direitos pol\u00edticos cassados na Justi\u00e7a de Primeiro Grau, por conta do abuso de poder pol\u00edtico e econ\u00f4mico que cometeu no Munic\u00edpio de Coroat\u00e1, \u00e0 \u00e9poca das elei\u00e7\u00f5es municipais. Ele continua acreditando que est\u00e1 acima do bem e do mal e, por ser um ex-juiz, a\u00ed \u00e9 que se sente ainda mais confort\u00e1vel para descumprir a ordem, para descumprir a nossa Constitui\u00e7\u00e3o.\r\nEsse \u00e9 o retrato do Estado do Maranh\u00e3o, que empobreceu nos \u00faltimos anos, que n\u00e3o tem investimentos, que n\u00e3o tem uma obra estruturante. O maior \u00eddolo do nosso Governador, aquele a quem ele idolatra, chama-se Nicol\u00e1s Maduro. O Governador, inclusive, desfilou no carnaval com um martelo e uma foice. Pois \u00e9, que tristeza para o nosso Estado do Maranh\u00e3o!\r\nPensem nos investidores fazendo propaganda do nosso Brasil l\u00e1 fora, tentando trazer investimentos para c\u00e1, e o Governador do Estado do Maranh\u00e3o desfilando no carnaval, com um martelo de um lado e uma foice de outro, fazendo alus\u00e3o \u00e0 Venezuela. Triste do nosso Estado do Maranh\u00e3o! E eu estou aqui para desmascarar esse Governador. \r\nMuito obrigada, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FAKE NEWS, PREJU\u00cdZO, GUERREIRO J\u00daNIOR, FR\u00d3S SOBRINHO, NELMA SARNEY, TYRONE SILVA, DESEMBARGADOR, INVESTIGA\u00c7\u00c3O, JEFFERSON PORTELA, SECRET\u00c1RIO, SEGURAN\u00c7A P\u00daBLICA, PROVID\u00caNCIAS, JOS\u00c9 JOAQUIM, DESEMBARGADOR, PRESIDENTE, TRIBUNAL DE JUSTI\u00c7A ESTADUAL, ASSEMBLEIA LEGISLATIVA, MARANH\u00c3O, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Apelo ao Presidente do Tribunal de Justi\u00e7a do Estado do Maranh\u00e3o, Desembargador Jos\u00e9 Joaquim, e \u00e0 Assembleia Legislativa do Estado de ado\u00e7\u00e3o das provid\u00eancias cab\u00edveis a respeito do pedido do Secret\u00e1rio de Seguran\u00e7a P\u00fablica, Jefferson Portela, de investiga\u00e7\u00e3o dos Desembargadores Guerreiro J\u00fanior, Fr\u00f3s Sobrinho, Nelma Sarney e Tyrone Silva.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, venho a esta tribuna hoje, quando est\u00e1 prestando depoimento o ex-Superintendente de Investiga\u00e7\u00f5es Criminais do Maranh\u00e3o, Delegado Thiago Bardal, que foi preso, e, na frente do Juiz do Estado do Maranh\u00e3o, disse que o Secret\u00e1rio de Seguran\u00e7a, o Sr. Jefferson Portela, pediu-lhe que investigasse quatro desembargadores.\r\nQuero aqui me solidarizar com os Desembargadores Guerreiro J\u00fanior, Fr\u00f3z Sobrinho, Nelma Sarney e Tyrone Silva.\r\nSr. Presidente, pe\u00e7o ao Tribunal de Justi\u00e7a que tome uma decis\u00e3o en\u00e9rgica, assim como fez o Supremo Tribunal Federal, por meio do Ministro Toffoli, que pediu uma investiga\u00e7\u00e3o sobre fake news relacionadas aos Ministros. Solicito ao Presidente do Tribunal de Justi\u00e7a do Estado do Maranh\u00e3o, Desembargador Jos\u00e9 Joaquim, que pe\u00e7a ao Minist\u00e9rio P\u00fablico, por meio do Procurador-Geral de Justi\u00e7a do Estado do Maranh\u00e3o, Sr. Luiz Gonzaga, que investigue essa situa\u00e7\u00e3o. Al\u00e9m disso, pe\u00e7o \u00e0 Assembleia Legislativa do Estado que, por meio da Comiss\u00e3o de Seguran\u00e7a P\u00fablica e da Comiss\u00e3o de Constitui\u00e7\u00e3o, Justi\u00e7a e Cidadania, convoque esse Secret\u00e1rio, porque n\u00f3s n\u00e3o podemos admitir que a Pol\u00edcia Civil do Estado do Maranh\u00e3o seja usada para investigar aqueles que n\u00e3o rezam a cartilha do comunismo.\r\nEu j\u00e1 tive a oportunidade de denunciar, nesta Casa, um fato envolvendo a Pol\u00edcia Militar: o Comandante Geral da Pol\u00edcia Militar do Estado do Maranh\u00e3o, por meio de um memorando, pediu aos quart\u00e9is dos interiores que aqueles pol\u00edticos que n\u00e3o rezassem a cartilha do Governador Fl\u00e1vio Dino fossem fichados, porque poderiam causar algum embara\u00e7o durante as elei\u00e7\u00f5es de 2018.\r\nPortanto, eu me solidarizo com esses Desembargadores, pe\u00e7o \u00e0 Assembleia Legislativa do Estado que tome as medidas cab\u00edveis e, principalmente, pe\u00e7o ao Tribunal de Justi\u00e7a do Estado do Maranh\u00e3o que vista a camisa dos seus pares, dos seus colegas, para que isso n\u00e3o ocorra mais.\r\nN\u00f3s Deputados de oposi\u00e7\u00e3o ao Governo do Estado sab\u00edamos que est\u00e1vamos sendo investigados - isso corria \u00e0 boca mi\u00fada. Agora isso vem \u00e0 tona por meio do ex-Superintendente de Investiga\u00e7\u00f5es Criminais Tiago Bardal, que disse, em alto e bom som, que o Secret\u00e1rio de Seguran\u00e7a pediu que investigassem os Desembargadores.\r\nFa\u00e7o este apelo ao Presidente do Tribunal de Justi\u00e7a e ao Procurador-Geral de Justi\u00e7a do Estado do Maranh\u00e3o, para que tomem as medidas poss\u00edveis.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "M\u00c1RCIO JERRY, DEPUTADO FEDERAL, PRONUNCIAMENTO PARLAMENTAR, CR\u00cdTICA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Contradita ao pronunciamento do Deputado M\u00e1rcio Jerry.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Eu fui citado h\u00e1 pouco pelo colega Deputado M\u00e1rcio Jerry.\r\nQuero esclarecer que, em momento algum, entrei no m\u00e9rito com rela\u00e7\u00e3o \u00e0 pris\u00e3o do Delegado Tiago Bardal. Eu apenas externei o que ele falou em depoimento a um juiz de Direito, dizendo que o seu chefe, o Secret\u00e1rio de Seguran\u00e7a P\u00fablica do Estado do Maranh\u00e3o, pediu-lhe que investigasse quatro desembargadores. N\u00e3o entrei no m\u00e9rito: se a pris\u00e3o dele \u00e9 justa ou injusta, se deve ficar preso ou deve ser solto. Estou apenas externando o depoimento que ele fez hoje, na frente de um juiz de Direito, dizendo que o seu chefe, o Secret\u00e1rio de Seguran\u00e7a filiado ao PCdoB, pediu-lhe que investigasse quatro desembargadores.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=169&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-09T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "MARANH\u00c3O, ENCHENTE, MUNIC\u00cdPIO, CR\u00cdTICA, GOVERNADOR, VIAGEM, ESTADOS UNIDOS.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Descaso do Governador do Estado do Maranh\u00e3o com as popula\u00e7\u00f5es atingidas por chuvas torrenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Maranh\u00e3o vem enfrentando os piores invernos da sua hist\u00f3ria. S\u00e3o mais de 71 Munic\u00edpios debaixo d'\u00e1gua, aproximadamente 1.500 desabrigados e mais de seis mortes. Enquanto isso, o Governador do Estado do Maranh\u00e3o est\u00e1 nos Estados Unidos vendendo um Maranh\u00e3o de fantasia, dando de ombros para essa situa\u00e7\u00e3o ca\u00f3tica que os maranhenses est\u00e3o enfrentando, fazendo turismo l\u00e1 nos Estados Unidos com seus pupilos.\r\nDeixo aqui o nosso rep\u00fadio e a nossa tristeza. S\u00f3 temos a lamentar pelo povo do Maranh\u00e3o, que vem sofrendo com essas enchentes, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2019&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "ASSIS RAMOS, PREFEITO, IMPERATRIZ (MA), SOLICITA\u00c7\u00c3O, PAVIMENTA\u00c7\u00c3O ASF\u00c1LTICA, RUA, GOVERNADOR, MARANH\u00c3O, SOLIDARIEDADE.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Solidariedade ao Prefeito Assis Ramos, do Munic\u00edpio de Imperatriz, Estado do Maranh\u00e3o, diante de ataques de correligion\u00e1rios do Governador Fl\u00e1vio Dino.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu queria me solidarizar com o Prefeito da segunda maior cidade do Estado do Maranh\u00e3o, o Prefeito Assis Ramos, do Munic\u00edpio de Imperatriz, que foi atacado covardemente por aqueles que cercam o Governador do Estado do Maranh\u00e3o por um \u00fanico motivo, vejam s\u00f3: o Prefeito de Imperatriz teve a petul\u00e2ncia de pedir ajuda ao Governador do Estado do Maranh\u00e3o. Estamos falando de um Prefeito que \u00e9 de um partido da base aliada do Governo do Governador comunista do Estado do Maranh\u00e3o, e ele foi covardemente atacado por isso. Sabem por qu\u00ea? Porque ele pediu ajuda para asfaltar uma rua, e o nome da rua \u00e9 o nome do pai do Governador. E o Governador n\u00e3o ficou feliz com isso, quando o Brasil todo passou a saber que, l\u00e1 no Maranh\u00e3o, tamb\u00e9m existem ruas, avenidas e monumentos com nomes de familiares do Governador comunista.\r\nSra. Presidente, pe\u00e7o que este discurso seja divulgado no programa A Voz do Brasil.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PREFEITO, PA\u00c7O DO LUMIAR (MA), POL\u00cdCIA CIVIL, MINIST\u00c9RIO P\u00daBLICO, MARANH\u00c3O, TERCEIRIZA\u00c7\u00c3O, LAVAGEM DE DINHEIRO, CR\u00cdTICA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Averigua\u00e7\u00e3o, pelo Minist\u00e9rio P\u00fablico do Estado do Maranh\u00e3o, de contrata\u00e7\u00f5es fantasmas de empresas terceirizadas pelo Prefeito Municipal de Pa\u00e7o do Lumiar.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero apenas fazer o registro da opera\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Estado do Maranh\u00e3o, por meio do GAECO, \u00f3rg\u00e3o especial do Minist\u00e9rio P\u00fablico, hoje em Pa\u00e7o do Lumiar, Munic\u00edpio que \u00e9 governado por um Prefeito comunista que atualmente responde a mais de cem inqu\u00e9ritos na Pol\u00edcia Civil do Estado do Maranh\u00e3o. O Prefeito foi visitado pela Pol\u00edcia Civil e pelo Minist\u00e9rio P\u00fablico, por conta de contrata\u00e7\u00f5es fantasmas de terceirizadas. Estava lavando dinheiro.\r\nHoje, o Munic\u00edpio de Pa\u00e7o do Lumiar est\u00e1 jogado \u00e0s tra\u00e7as, desolado, por falta de Prefeito.\r\nEnt\u00e3o, eu queria registrar essa a\u00e7\u00e3o do Minist\u00e9rio P\u00fablico Estadual, que hoje foi \u00e0 resid\u00eancia do Prefeito. E vamos esperar o desenrolar de mais de cem inqu\u00e9ritos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PRECAT\u00d3RIO, PAGAMENTO, EMPR\u00c9STIMO, REALIZA\u00c7\u00c3O, GOVERNO ESTADUAL, AUTORIZA\u00c7\u00c3O, ASSEMBLEIA LEGISLATIVA, MARANH\u00c3O, APROVA\u00c7\u00c3O, CR\u00cdTICA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Solidariedade aos credores de precat\u00f3rios no Estado do Maranh\u00e3o diante da inocuidade da aprova\u00e7\u00e3o, pela Assembleia Legislativa, de projeto de lei sobre a permiss\u00e3o ao Governo Estadual da realiza\u00e7\u00e3o de empr\u00e9stimo para a regulariza\u00e7\u00e3o do pagamento junto aos credores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu venho aqui me solidarizar com todos os credores de precat\u00f3rios do Estado do Maranh\u00e3o. Hoje a Assembleia Legislativa maranhense aprovou um projeto de lei que permite empr\u00e9stimo de 623 milh\u00f5es de reais ao Governo do Estado para que pague precat\u00f3rios. \u00c9 mais um empr\u00e9stimo para ingl\u00eas ver, uma vez que no Brasil n\u00e3o existe uma institui\u00e7\u00e3o banc\u00e1ria que tenha cr\u00e9dito para esse tipo de opera\u00e7\u00e3o.\r\nEnt\u00e3o, o Governador comunista do Estado do Maranh\u00e3o joga para a plateia, tenta ludibriar esses credores, uma vez que ele est\u00e1 inadimplente desde o m\u00eas de setembro do ano passado. Est\u00e1 devendo mais de 200 milh\u00f5es de reais aos credores de precat\u00f3rios do Estado do Maranh\u00e3o.\r\nE aqui fica a nossa solidariedade...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=246&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FEIRA AGR\u00cdCOLA AGROBALSAS (2019, BALSAS (MA)).\r\nRECUPERA\u00c7\u00c3O, RODOVIA ESTADUAL, ALTO PARNA\u00cdBA (MA).",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Realiza\u00e7\u00e3o da feira agr\u00edcola Agrobalsas, no Munic\u00edpio de Balsas, Estado do Maranh\u00e3o. Solicita\u00e7\u00e3o ao Governador Fl\u00e1vio Dino de recupera\u00e7\u00e3o da Rodovia MA-006, entre os Munic\u00edpios de Alto Parna\u00edba e Balsas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero registrar a abertura ontem da Agrobalsas, a maior feira agr\u00edcola do Estado do Maranh\u00e3o - est\u00e1 entre as dez maiores feiras do Pa\u00eds. Quero parabenizar aquela regi\u00e3o produtora do nosso Estado, o Munic\u00edpio de Balsas, que \u00e9 polo do agroneg\u00f3cio daquele Estado. \r\nAproveito ainda a oportunidade para pedir clem\u00eancia ao Governador Fl\u00e1vio Dino, a fim de que seja recuperada a rodovia MA-006, no trecho que liga o Munic\u00edpio de Alto Parna\u00edba a Balsas. Esse \u00e9 o grande clamor daqueles produtores que est\u00e3o sentindo na pele o alto custo do frete dos caminh\u00f5es e da manuten\u00e7\u00e3o desses ve\u00edculos.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=180&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CANDIDATO APROVADO, CONCURSO P\u00daBLICO, POLICIA MILITAR, MARANH\u00c3O, ORDEM DOS ADVOGADOS DO BRASIL (OAB).",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente da Ordem dos Advogados do Brasil - Seccional Maranh\u00e3o ,Thiago Diaz, pelo apoio aos aprovados em concurso p\u00fablico da Pol\u00edcia Militar maranhense.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria parabenizar a Seccional da OAB do Maranh\u00e3o, na pessoa do seu Presidente, Thiago Diaz, que abra\u00e7ou a causa dos concursados da Pol\u00edcia Militar do Estado do Maranh\u00e3o.\r\nMais de 1.700 soldados j\u00e1 fizeram o curso de forma\u00e7\u00e3o e pedem clem\u00eancia ao Governador comunista do Estado do Maranh\u00e3o, para que nomeie esses pais e m\u00e3es de fam\u00edlia. Muitos tiveram que deixar seus empregos, muitos vieram de outros Estados e todos aguardam ansiosamente para serem nomeados.\r\nA OAB deu 15 dias para que o Governo do Estado nomeie esses guerreiros. Caso isso n\u00e3o ocorra, ela vai entrar com uma a\u00e7\u00e3o civil pedindo a nomea\u00e7\u00e3o dos concursados da Pol\u00edcia Militar do Estado do Maranh\u00e3o.\r\nPe\u00e7o que este pronunciamento seja divulgado no programa A Voz do Brasil, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=409&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SA\u00daDE P\u00daBLICA, CRISE, FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Crise dos servi\u00e7os m\u00e9dico-hospitalares no Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, com muita tristeza, eu venho aqui externar o que vem ocorrendo na sa\u00fade p\u00fablica do Estado do Maranh\u00e3o, tendo como Governador o Sr. Fl\u00e1vio Dino.\r\nS\u00f3 neste m\u00eas de julho, encerrou-se o atendimento no Hospital Dr. Juv\u00eancio Mattos para crian\u00e7as com microcefalia; no Hospital de Pinheiro, foi encerrado o atendimento de ortopedia, de urologia e de tomografia; no Hospital de Coroat\u00e1, foi encerrado tamb\u00e9m o atendimento de neurocirurgias; no Hospital de Santa In\u00eas, o atendimento de pediatria; e corre o rumor de que vai ser fechada aquela Unidade Hospitalar de grande porte no Munic\u00edpio de Santa In\u00eas.\r\n\u00c9 com muita tristeza que eu trago essa situa\u00e7\u00e3o que ocorreu neste \u00faltimo m\u00eas no Estado do Maranh\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "TRECHO RODOVI\u00c1RIO, BR 402, RODOVIA FEDERAL,  BARREIRINHAS (MA), RECUPERA\u00c7\u00c3O.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "In\u00edcio das obras de recupera\u00e7\u00e3o de trecho da BR-402, no Estado do Maranh\u00e3o. Pedido ao Governo Federal de apoio ao Prefeito do Munic\u00edpio de Barreirinhas.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Sem revis\u00e3o do orador.) - Eu \u00e9 que agrade\u00e7o, Sr. Presidente, pela generosidade e compreens\u00e3o.\r\nQuero registrar aqui o in\u00edcio da recupera\u00e7\u00e3o da BR-402, que leva a nossa Capital aos Len\u00e7\u00f3is Maranhenses e que estava totalmente deteriorada. Fa\u00e7o um agradecimento ao Ministro Tarc\u00edsio, da Infraestrutura, e em especial ao Presidente Bolsonaro. \r\nE pe\u00e7o ao Ministro do Meio Ambiente, ao Ministro do Turismo, a todo o Governo, enfim, que olhe com muito bons olhos para a cidade de Barreirinhas, administrada por um dos poucos Prefeitos que fazem oposi\u00e7\u00e3o ao Governo comunista do Estado do Maranh\u00e3o, e que \u00e9 perseguido. Imaginem que o advers\u00e1rio pol\u00edtico desse Prefeito \u00e9 o ex-s\u00f3cio do escrit\u00f3rio do Governador do Estado do Maranh\u00e3o. O que n\u00f3s pudermos levar para o Munic\u00edpio de Barreirinhas, que \u00e9 uma cidade de belezas naturais tremendas, ser\u00e1 muito bem-vindo. Talvez Barreirinhas seja uma das cidades de belezas naturais mais ricas do mundo, e hoje o mundo a est\u00e1 conhecendo, em especial o Brasil.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "APOIO POL\u00cdTICO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, CR\u00cdTICA, FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, DECIS\u00c3O JUDICIAL, REINTEGRA\u00c7\u00c3O DE POSSE, S\u00c3O LU\u00cdS (MA), POL\u00cdCIA, REPRESS\u00c3O, MOVIMENTO SOCIAL, DIREITO \u00c0 MORADIA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Descumprimento de decis\u00f5es judiciais pelo Governador do Estado do Maranh\u00e3o. Rep\u00fadio \u00e0 viol\u00eancia policial praticada contra os moradores do Distrito de Cajueiro, a mando do gestor estadual.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa noite, Sra. Presidente e caros colegas Parlamentares.\r\nSra. Presidente, venho falar do que vem acontecendo no Estado do Maranh\u00e3o, em especial no dia de ontem e na madrugada de hoje.\r\nAt\u00e9 discordo, em parte, de algumas declara\u00e7\u00f5es do Presidente Jair Bolsonaro, mas com outras eu tenho que concordar em g\u00eanero, n\u00famero e grau, como aquela por meio da qual ele chamou o Governador do Estado do Maranh\u00e3o de pior Governador do Brasil. \r\nN\u00f3s maranhenses sabemos como o Governador do Estado se comporta l\u00e1 e como ele \u00e9 vendido a peso de ouro para a m\u00eddia nacional como um Governador que tem grandes virtudes na pol\u00edtica. L\u00e1 no Maranh\u00e3o existe um ditado que diz: \"Quem n\u00e3o te conhece que te compre.\" Esse ditado cai como uma luva no Governador do Estado do Maranh\u00e3o.\r\nO Governador do Estado do Maranh\u00e3o \u00e9 useiro e vezeiro em n\u00e3o cumprir decis\u00f5es judiciais. Ele tem raiva de quem inventou a obriga\u00e7\u00e3o de se cumprirem decis\u00f5es judiciais, apesar de ser um ex-magistrado federal. Baixou um decreto determinando que qualquer reintegra\u00e7\u00e3o de posse, para ser cumprida, precisa passar pelo seu aval. Isso quer dizer que a decis\u00e3o de um juiz ou de um desembargador para que seja cumprida uma reintegra\u00e7\u00e3o de posse e nada s\u00e3o a mesma coisa.\r\nMas ontem ele mandou todo um aparato policial para um povoado na zona rural de S\u00e3o Lu\u00eds, um distrito conhecido como Cajueiro, e l\u00e1 os policiais, com toda a for\u00e7a que p\u00f4de ser empregada ali, tiram aqueles moradores e derrubaram as suas moradias. Esses moradores tiveram a aud\u00e1cia - vejam s\u00f3 - de ir para a porta do Pal\u00e1cio dos Le\u00f5es pedir clem\u00eancia, ajuda ao Governador, e ali ficaram acampados, de forma pac\u00edfica, sem gritaria, sem nada. Eles n\u00e3o estavam nem incomodando o sono do Governador, estavam apenas sentados com faixas e cartazes de cartolina em frente ao Pal\u00e1cio dos Le\u00f5es. \r\nE qual foi a ordem do Governador? Esse Governador, volto a dizer, \u00e9 amigo do Boulos, levou o Boulos ao Pal\u00e1cio dos Le\u00f5es para conhecer as obras de arte que l\u00e1 existem, anda com o bon\u00e9 do MST. Mas, ontem, quando se sentiu incomodado com a presen\u00e7a dos sem-teto na sua porta, o couro comeu, a bordoada comeu com esses que pediam clem\u00eancia ao Governador do Estado. Foi usada a tropa de choque do Estado, com spray de pimenta, bomba de g\u00e1s lacrimog\u00eanio, balas de borracha, para dispersar ali meia d\u00fazia de pessoas que pediam ajuda ao Governo. N\u00e3o \u00e9 a primeira vez que algo assim acontece; j\u00e1 aconteceu em 2015, com a comunidade da Vila Nestor.\r\nO que eu venho trazer para o conhecimento de todo o Brasil e de V.Exas. \u00e9 que o Governador do Estado do Maranh\u00e3o n\u00e3o \u00e9 esse da capa da CartaCapital, n\u00e3o \u00e9 esse da Globo News. O Governador do Estado do Maranh\u00e3o tomou essa medida de cumprir uma decis\u00e3o judicial - como falei h\u00e1 pouco, ele tem raiva de cumprir decis\u00e3o - porque a empresa com interesse nessa desocupa\u00e7\u00e3o foi doadora da campanha dele em 2014. Vou repetir: o arauto da moralidade do Estado do Maranh\u00e3o cumpriu mais que depressa uma ordem judicial de uma empresa que foi doadora de sua campanha.\r\nO Estado do Maranh\u00e3o \u00e9 conhecido em todo o Brasil como uma Disney para os sem-terra. Mais de 3 mil decis\u00f5es de desapropria\u00e7\u00e3o de terras est\u00e3o paradas, sem cumprimento, porque o Governador n\u00e3o coloca a pol\u00edcia para cumpri-las. Mas aquela que diz respeito a um doador da sua campanha ele cumpriu, e ontem spray de pimenta e bala de borracha comeram em cima desses desalentados.\r\nTalvez essa seja a forma de conseguir o apoio do Governador para Alc\u00e2ntara, para o acordo de salvaguardas. Vamos pedir \u00e0 NASA que doe um dinheirinho \u00e0 campanha dele, que rapidamente ele come\u00e7a a apoiar tamb\u00e9m a base de Alc\u00e2ntara.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T12:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "FLORESTA AMAZ\u00d4NICA, PRESERVA\u00c7\u00c3O AMBIENTAL, QUEIMADA, DESMATAMENTO, \u00cdNDICE DE DESENVOLVIMENTO HUMANO (IDH), BIODIVERSIDADE, DEBATE, COMISS\u00c3O GERAL.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Debate acerca da preserva\u00e7\u00e3o e conserva\u00e7\u00e3o da Amaz\u00f4nia.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA) - Bom dia, Sr. Presidente, caros colegas Parlamentares, sociedade civil aqui representada por v\u00e1rias institui\u00e7\u00f5es. Primeiramente, quero parabenizar os Deputados que provocaram esta Comiss\u00e3o Geral com o tema de preserva\u00e7\u00e3o e prote\u00e7\u00e3o da Amaz\u00f4nia. Eu gostaria, se me permitem, de come\u00e7ar com uma antiga hist\u00f3ria.\r\nQuando os expedicion\u00e1rios ib\u00e9ricos avan\u00e7avam rumo \u00e0s nascentes do Rio Amazonas, n\u00e3o o faziam apenas para capturar e escravizar os \u00edndios. Faziam-no tamb\u00e9m na esperan\u00e7a de encontrar o Eldorado, a m\u00edtica cidade no cora\u00e7\u00e3o da selva toda feita de ouro maci\u00e7o. T\u00e3o forte era a cren\u00e7a, que sobreviveu at\u00e9 o s\u00e9culo 20, como mostrou a famosa expedi\u00e7\u00e3o do Coronel Percy Fawcett, que em 1925 adentrou as selvas de Rond\u00f4nia e Mato Grosso para nunca mais ser visto.\r\nO tesouro da Amaz\u00f4nia que os exploradores n\u00e3o descobriram estava, por\u00e9m, bem diante dos seus olhos. N\u00e3o era o ouro da lenda, ou qualquer outro min\u00e9rio. Era a maior reserva de \u00e1gua doce do mundo, com 12% da \u00e1gua superficial do planeta, para n\u00e3o falar do Sistema Aqu\u00edfero Grande Amaz\u00f4nia, capaz de abastecer o planeta por 250 anos. Era a sua biodiversidade incompar\u00e1vel, abrigando um d\u00e9cimo de todas as esp\u00e9cies do planeta - 2,5 milh\u00f5es de esp\u00e9cies de insetos, 40 mil esp\u00e9cies de plantas, 3 mil de peixes, mais de 2 mil de aves e mam\u00edferos -, cuja explora\u00e7\u00e3o sustent\u00e1vel poderia render ao Pa\u00eds mais de 100 bilh\u00f5es de d\u00f3lares por ano. Eram as suas culturas tradicionais, cujos vest\u00edgios ainda vemos nas belas cer\u00e2micas marajoaras, nos Parintins e no C\u00edrio de Nazar\u00e9, na farmacopeia popular das comunidades.\r\nHoje, como ontem, esses tesouros ainda s\u00e3o alvo de usurpadores, de dentro e de fora das nossas fronteiras. Usurpadores de dentro das fronteiras, como os grileiros que, segundo a for\u00e7a-tarefa da Amaz\u00f4nia, do Minist\u00e9rio P\u00fablico Federal, promovem cortes de at\u00e9 mil hectares por vez, a um custo que chega a 2 mil reais por hectare. Usurpadores de fora, como aqueles que nos amea\u00e7am, de modo cada vez mais expl\u00edcito, com a viola\u00e7\u00e3o da nossa soberania nacional.\r\n\u00c9 da prote\u00e7\u00e3o daqueles tesouros contra esses usurpadores que quero lhes falar hoje - mas n\u00e3o s\u00f3. Proteger a Amaz\u00f4nia \u00e9 tamb\u00e9m proteger o seu povo. O povo humildemente heroico, que manteve mais de 80% da floresta de p\u00e9, \u00e9 o mesmo que vive nas cidades com os mais baixos \u00cdndices de Desenvolvimento Humano do Brasil.\r\nPrecisamos proteger a Amaz\u00f4nia, que \u00e9 dos brasileiros - proteg\u00ea-la pelos brasileiros e para os brasileiros.\r\nTenho a honra de, neste ano, trabalhar como Relator da Comiss\u00e3o Mista Permanente de Mudan\u00e7as Clim\u00e1ticas. Neste papel, proponho a este Congresso iniciativas que, espero, contribuir\u00e3o para cortar pela raiz a explora\u00e7\u00e3o predat\u00f3ria da Amaz\u00f4nia.\r\nCome\u00e7aremos pelas propostas para melhorar a fiscaliza\u00e7\u00e3o do desmatamento e das queimadas. De acordo com dados oficiais do Programa Queimadas do Instituto Nacional de Pesquisas Espaciais - INPE, as queimadas no bioma Amaz\u00f4nia aumentaram 196% em agosto de 2019, chegando a 30 mil focos ativos, contra 10 mil no mesmo m\u00eas ano passado. \u00c9 o maior n\u00famero observado para o m\u00eas desde 2010. \u00c9 um caso de pol\u00edcia, e a fiscaliza\u00e7\u00e3o precisa ser implac\u00e1vel.\r\nContudo, fiscaliza\u00e7\u00e3o n\u00e3o basta. \u00c9 preciso discutir, planejar e fazer acontecer um novo modelo de desenvolvimento para a regi\u00e3o, baseado na bioeconomia, no turismo sustent\u00e1vel e na agricultura de alta produtividade, avessa ao desmatamento: uma \"Amaz\u00f4nia 4.0\", nas palavras do pesquisador Carlos Nobre.\r\nMas a transi\u00e7\u00e3o para esse novo modelo exigir\u00e1 tecnologia e investimentos. Tecnologia e investimentos que n\u00e3o poderemos prover sozinhos. No Acordo de Paris, os pa\u00edses desenvolvidos comprometeram-se a mobilizar, at\u00e9 o ano que vem, 100 bilh\u00f5es de d\u00f3lares por ano para o combate \u00e0s mudan\u00e7as clim\u00e1ticas nos pa\u00edses em desenvolvimento. Vamos aperfei\u00e7oar os mecanismos de financiamento no que for preciso - e cobrar o que nos \u00e9 devido. \u00c9 o justo e o acordado. A Amaz\u00f4nia beneficia o mundo. O mundo deve contribuir para mant\u00ea-la.\r\nA crise das queimadas pode dar-nos o sentido de urg\u00eancia que nos faltava. \"A Amaz\u00f4nia\", j\u00e1 disse Euclides da Cunha: \"\u00e9 a \u00faltima p\u00e1gina, ainda sendo escrita, do G\u00eanesis\". Vamos, com o nosso trabalho, transform\u00e1-la na primeira p\u00e1gina de uma nova hist\u00f3ria, que contar\u00e1 ao mundo como oferecer uma vida digna a milh\u00f5es de pessoas, sem dilapidar o patrim\u00f4nio sagrado que nos foi confiado.\r\nEra o que tinha a dizer.\r\nMuito obrigado, Sr. Presidente, pela generosidade no tempo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=239&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, APROVA\u00c7\u00c3O, ATO INTERNACIONAL, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTO A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Apelo aos Deputados para aprova\u00e7\u00e3o do requerimento para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica Sobre Salvaguardas Tecnol\u00f3gicas Relacionadas \u00e0 Participa\u00e7\u00e3o dos Estados Unidos da Am\u00e9rica em Lan\u00e7amentos a partir do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 de extrema valia que votemos agora a urg\u00eancia desse acordo de salvaguardas, um anseio de n\u00f3s maranhenses, algo de que n\u00f3s precisamos.\r\nVi colegas do PT ir \u00e0 tribuna e falar sobre a situa\u00e7\u00e3o dos quilombolas, que n\u00e3o teriam sido ouvidos. Dizem isso sem conhecimento de causa, uma vez que esse acordo n\u00e3o vai mudar em nada o que j\u00e1 existe da \u00e1rea territorial da Base de Alc\u00e2ntara. N\u00e3o vai haver remanejamento de nenhuma fam\u00edlia, de nenhuma casa. Nada vai mudar, nenhum quilombola vai sofrer por causa desse acordo. Pelo contr\u00e1rio, n\u00f3s vamos levar para l\u00e1 as melhorias de que a cidade tanto precisa.\r\nN\u00f3s tivemos a oportunidade de ir \u00e0 Guiana Francesa e de conhecer a Base de Kourou. Como bem falou o Deputado Eduardo Bolsonaro, o pa\u00eds tem hoje a maior renda per capita da Am\u00e9rica Latina. Ser\u00e1 que n\u00e3o \u00e9 justo n\u00f3s querermos isso para o Maranh\u00e3o e para o Brasil, por pura persegui\u00e7\u00e3o pol\u00edtica a A ou a B? Vamos pensar de forma maior! Vamos pensar no Pa\u00eds! Hoje temos uma estrutura que s\u00f3 est\u00e1 dando preju\u00edzos \u00e0 Na\u00e7\u00e3o. Se podemos ter lucro com ela, se o Maranh\u00e3o foi privilegiado por Deus em sua localiza\u00e7\u00e3o geogr\u00e1fica, n\u00f3s vamos penalizar o Estado, impedi-lo de crescer e desenvolver-se por conta de querelas pol\u00edticas? Vamos colocar em primeiro lugar o desenvolvimento do Pa\u00eds, o crescimento do Estado do Maranh\u00e3o! Nada o Maranh\u00e3o vai perder com este acordo. Nada os quilombolas v\u00e3o perder com este acordo. Pelo contr\u00e1rio, todos s\u00f3 vamos ganhar.\r\nDeixo aos colegas meu apelo para que aprovemos o quanto antes este acordo, para que o Maranh\u00e3o e o Brasil possam crescer. Alc\u00e2ntara vai agradecer a n\u00f3s Parlamentares por este acordo, que tantos benef\u00edcios levar\u00e1 ao Estado. \r\nVamos votar \"sim\", pelo acordo de salvaguardas!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=331&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA,  PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica Sobre Salvaguardas Tecnol\u00f3gicas Relacionadas \u00e0 Participa\u00e7\u00e3o dos Estados Unidos da Am\u00e9rica em Lan\u00e7amentos a partir do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD vota \"sim\", porque o Maranh\u00e3o precisa, Alc\u00e2ntara precisa, o Brasil precisa que esse acordo saia do papel o quanto antes.\r\nAqueles que s\u00e3o contr\u00e1rios a essa vota\u00e7\u00e3o de regime de urg\u00eancia n\u00e3o conhecem a realidade de Alc\u00e2ntara.\r\nVotamos \"sim\" e pedimos o apoio de todos, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=336&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, BLOCO PARLAMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa noite, Sra. Presidente, Srs. Parlamentares.\r\nSra. Presidente, o Maranh\u00e3o est\u00e1 ansioso por esta vota\u00e7\u00e3o, que vem se alongando por diversos meses. N\u00e3o \u00e9 justo usarem fal\u00e1cias aqui aqueles que n\u00e3o conhecem a realidade de Alc\u00e2ntara e este acordo de salvaguardas.\r\nN\u00f3s temos o desprazer de ter o primeiro e \u00fanico Governador comunista do Pa\u00eds - espero que seja o \u00faltimo tamb\u00e9m -, que \u00e9 um \u00edcone para a Esquerda e \u00e9 um pr\u00e9-candidato a Presidente pela Esquerda. E ele est\u00e1 apoiando o acordo de salvaguardas. Ser\u00e1 que ele seria a favor se esse acordo ferisse a soberania do nosso Pa\u00eds? Ser\u00e1 que o Governador comunista seria a favor se o acordo mexesse com os quilombolas? Ent\u00e3o esse discurso de V.Exas. vai por \u00e1gua abaixo.\r\nN\u00f3s que tivemos oportunidade de conhecer a base de Kourou, na Guiana Francesa, vimos a realidade. Essa base levou renda, \u00e0 \u00e9poca, para aquela col\u00f4nia da Fran\u00e7a. Hoje ela tem a maior renda per capita da Am\u00e9rica Latina.\r\n\u00c9 tamb\u00e9m fal\u00e1cia, mentira, dizer que v\u00e3o mexer com quilombolas. Este acordo de salvaguardas que vai ser aprovado hoje n\u00e3o vai remanejar nenhuma fam\u00edlia quilombola, n\u00e3o vai mexer com nenhum cidad\u00e3o de Alc\u00e2ntara. Mexer\u00e1 se porventura tiver sucesso e for haver uma expans\u00e3o.\r\nO que consta agora nesse acordo \u00e9 apenas o que j\u00e1 existe.\r\nN\u00e3o \u00e9 justo com o Maranh\u00e3o, que Deus aben\u00e7oou dando-lhe a melhor localiza\u00e7\u00e3o geogr\u00e1fica do mundo para o lan\u00e7amento de foguetes, meia d\u00fazia aqui ser contr\u00e1ria sem ter argumentos, usando argumentos fracos. N\u00f3s maranhenses sabemos da import\u00e2ncia de gerar emprego e renda.\r\nPor isso, hoje os 18 Deputados Federais do Maranh\u00e3o est\u00e3o de m\u00e3os dadas, irmanados por este projeto. Os tr\u00eas Senadores do Estado do Maranh\u00e3o est\u00e3o juntos, e todos t\u00eam suas diferen\u00e7as, suas ideologias. Quem \u00e9 do Estado do Maranh\u00e3o \u00e9 favor\u00e1vel.\r\nO Deputado do PT do Maranh\u00e3o \u00e9 favor\u00e1vel. O Deputado do PCdoB do Maranh\u00e3o \u00e9 favor\u00e1vel. O Deputado do PSB do Maranh\u00e3o \u00e9 favor\u00e1vel. Eu quero dizer que todas as vertentes que conhecem a nossa realidade s\u00e3o favor\u00e1veis.\r\nN\u00e3o \u00e9 justo chegarem aqui e quererem julgar, de forma mentirosa, um acordo que vai trazer melhorias para o nosso Pa\u00eds e para o nosso Estado. Outra mentira \u00e9 dizer que apenas os Estados Unidos v\u00e3o tomar conta da base. Qualquer pa\u00eds pode fazer uso da base de Alc\u00e2ntara, desde que pague, para fins comerciais. Assim ser\u00e1! Se houver tecnologia americana, s\u00f3 vai poder lan\u00e7ar sat\u00e9lite se esse acordo sair do papel; sen\u00e3o, n\u00e3o vai lan\u00e7ar.\r\nN\u00e3o entra na cabe\u00e7a de ningu\u00e9m ter algo t\u00e3o precioso, que hoje s\u00f3 d\u00e1 preju\u00edzo para a Uni\u00e3o e para o Pa\u00eds manter, e n\u00e3o querer que venha lucro para o Brasil. Esperamos que ela possa trazer recurso e gerar emprego.\r\nEu pe\u00e7o aos meus colegas que aprovem essa mat\u00e9ria. O Maranh\u00e3o e o Brasil est\u00e3o unidos para que este momento seja hist\u00f3rico para o nosso Estado, para o Munic\u00edpio de Alc\u00e2ntara, para as comunidades quilombolas, porque s\u00f3 quem vai ganhar com esse acordo \u00e9 o Pa\u00eds. N\u00f3s j\u00e1 perdemos muito tempo com essa discuss\u00e3o. Isso j\u00e1 deveria ter sa\u00eddo do papel h\u00e1 muito mais tempo.\r\nO PSD orienta \"n\u00e3o\". Somos pela n\u00e3o retirada de pauta dessa mat\u00e9ria. Espero que possamos aprovar ainda hoje esse acordo, porque todos n\u00f3s maranhenses estamos ansiosos por uma nova realidade para o nosso Pa\u00eds, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=253&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, ADMISSIBILIDADE, REQUERIMENTO DE DESTAQUE, DISPOSITIVO LEGAL, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (1987), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da admissibilidade do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 2\u00ba do Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, a respeito da aprova\u00e7\u00e3o do texto do Acordo sobre Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Maranh\u00e3o est\u00e1 ansioso pela aprova\u00e7\u00e3o deste acordo de salvaguardas. Este assunto j\u00e1 foi debatido, j\u00e1 est\u00e1 cansativo. Inclusive, com rela\u00e7\u00e3o aos quilombolas, houve diversas audi\u00eancias p\u00fablicas.\r\nPara quem n\u00e3o sabe, v\u00e1rios s\u00e3o os filhos de quilombolas que estudam em escolas que s\u00e3o bancadas, financiadas, pela Aeron\u00e1utica, que as mant\u00e9m no Munic\u00edpio de Alc\u00e2ntara, para a forma\u00e7\u00e3o de cidad\u00e3os.\r\nEu n\u00e3o tenho d\u00favida de que os pr\u00f3prios quilombolas s\u00e3o os maiores interessados na aprova\u00e7\u00e3o desta mat\u00e9ria, uma vez que nenhum deles vai ser remanejado neste primeiro momento.\r\nEnt\u00e3o, o PSD vota \"n\u00e3o\", contra este destaque, para que n\u00f3s possamos votar com celeridade, porque o Maranh\u00e3o est\u00e1 ansioso pela aprova\u00e7\u00e3o, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-20T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 4067/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.\r\nREFORMA PREVIDENCI\u00c1RIA, MARANH\u00c3O, GOVERNO ESTADUAL, CR\u00cdTICA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 4.067, de 2015, sobre a institui\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Universidades Estrangeiras - REVALIDA. Protesto contra a aprova\u00e7\u00e3o da reforma previdenci\u00e1ria no Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PSD encaminha \"sim\", mas quero registrar que hoje, na Assembleia Legislativa do Estado do Maranh\u00e3o, foi aprovada a reforma da previd\u00eancia estadual e se mostrou a forma sorrateira como o Governo do Estado trabalha.\r\n\u00c9 um Governador demagogo o que n\u00f3s temos, uma vez que ele criticou todos os dias o Presidente Jair Bolsonaro e os colegas nesta Casa que eram favor\u00e1veis \u00e0 reforma da Previd\u00eancia.\r\nEla chegou ontem \u00e0 Assembleia Legislativa, foi votada em regime de urg\u00eancia, sem nenhuma discuss\u00e3o. Nem mesmo os Parlamentares Estaduais sabiam o que estavam votando. Aumentou-se a al\u00edquota em 3% para mais de 70 mil maranhenses que s\u00e3o funcion\u00e1rios p\u00fablicos do Estado do Maranh\u00e3o.\r\nAqui fica o rep\u00fadio \u00e0 falta de di\u00e1logo do Governo do Estado do Maranh\u00e3o, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F11%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOMENAGEM P\u00d3STUMA, LENILDA COSTA, EX-VEREADORA, A\u00c7AIL\u00c2NDIA (MA).",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Falecimento da ex-Vereadora e Secret\u00e1ria de Assist\u00eancia Social de A\u00e7ail\u00e2ndia, Estado do Maranh\u00e3o, Lenilda Leandro Rocha da Costa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero externar os meus mais sinceros sentimentos com a perda precoce, no \u00faltimo s\u00e1bado, da ex-Presidente da C\u00e2mara, ex-Vereadora de A\u00e7ail\u00e2ndia, D. Lenilda, que estava ocupando o cargo de Secret\u00e1ria de Assist\u00eancia Social daquele Munic\u00edpio. Ela me acompanhou nas minhas tr\u00eas campanhas: na primeira elei\u00e7\u00e3o em 2010 para Deputado Estadual, votou na minha reelei\u00e7\u00e3o e votou agora para Deputado Federal. Com imensa tristeza, recebemos essa not\u00edcia. Ela deixa um grande legado ao Munic\u00edpio, deixa a sua hist\u00f3ria ao lado do irm\u00e3o Carlos.\r\nQue Deus a tenha em um bom lugar e conforte os seus familiares, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-19T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, GEST\u00c3O. \r\nFL\u00c1VIO DINO, GOVERNADOR, RECUPERA\u00c7\u00c3O, RODOVIA ESTADUAL.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Fracasso da gest\u00e3o do Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino. Apelo ao Governador para a realiza\u00e7\u00e3o de investimentos em obras de recupera\u00e7\u00e3o das rodovias maranhenses.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente. Boa tarde a todos.\r\nNa \u00faltima semana, o jornal Valor Econ\u00f4mico come\u00e7ou a trazer manchetes sobre a balela que \u00e9 essa pr\u00e9-candidatura \u00e0 Presid\u00eancia do Governador comunista do Maranh\u00e3o, mostrando a precariedade da administra\u00e7\u00e3o desse Governo comunista. Esta semana, a Veja tamb\u00e9m acompanhou os acontecimentos, apagando o brilho da estrela da Esquerda do Brasil.\r\nAt\u00e9 o site The Intercept, que \u00e9 ligado \u00e0 Esquerda extrema, ao PSOL, tamb\u00e9m veio mostrar a verdadeira face do Governador do Maranh\u00e3o. Vejam s\u00f3!\r\nEm poucas palavras, segundo a revista Veja, nesses 5 anos de governo comunista, o aumento do desemprego tomou conta do nosso Estado. A Veja at\u00e9 brinca dizendo que o Governador conseguiu fazer aquilo que era praticamente imposs\u00edvel: ele conseguiu, no Estado mais miser\u00e1vel do Pa\u00eds, aumentar o n\u00famero de miser\u00e1veis, as desigualdades e a concentra\u00e7\u00e3o de riqueza nos 5 anos de mandato. Al\u00e9m disso, conseguiu endividar nosso Estado e quebrar a nossa Presid\u00eancia. Ali\u00e1s, o Maranh\u00e3o hoje caiu no quesito bons pagadores \u00e0 Uni\u00e3o. Hoje ele \u00e9 impedido de assumir novos empr\u00e9stimos, por conta do d\u00e9ficit e do incha\u00e7o da folha de pagamento dos apaziguados do PCdoB.\r\nN\u00f3s somos maranhenses e sabemos a verdade de como ele administra nosso Estado. N\u00e3o bastasse tudo isso, ainda ontem ele grava um v\u00eddeo querendo dar dinheiro ao Governo Federal para recuperar nossas BRs, que realmente se encontram num estado de calamidade. Aqui temos o Deputado M\u00e1rcio Jerry, que ontem acompanhou uma comitiva de Deputados e Senadores ao DNIT, ocasi\u00e3o em que nos foi garantida a recupera\u00e7\u00e3o das nossas BRs.\r\nEu fa\u00e7o um apelo ao Governador do Estado do Maranh\u00e3o, diante do cinismo dele: que ele pegue o dinheiro que ia doar ao Governo Federal e recupere a MA-006, Deputado M\u00e1rcio Jerry. V.Exa. conhece a regi\u00e3o, que \u00e9 o ber\u00e7o do nosso agroneg\u00f3cio. De l\u00e1, escoam gr\u00e3os para o Porto de Itaqui. No entanto, a MA-006 encontra-se intrafeg\u00e1vel. \r\nPortanto, Governador, recupere as estradas estaduais, que s\u00e3o de sua responsabilidade! Recupere a MA-014, onde foi feito um servi\u00e7o porco, e todo o asfalto j\u00e1 foi embora, de Vit\u00f3ria do Mearim a Pinheiro. Recupere a MA-322. Fa\u00e7a seu dever de casa, Governador, para que voc\u00ea possa sair da sua casinha e pensar em algo maior. Primeiro, mostre que voc\u00ea consegue fazer uma boa administra\u00e7\u00e3o em nosso Estado. A m\u00eddia nacional est\u00e1 mostrando a sua fal\u00eancia como gestor p\u00fablico.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2020&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 1.562, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, caros colegas Parlamentares.\r\nPrimeiramente, quero cumprimentar o autor do projeto. Houve muitos projetos apensados, mas o projeto principal, do Deputado Pedro Lucas Fernandes, sem sombra de d\u00favida, neste momento de grande pandemia, \u00e9 extremamente necess\u00e1rio para o nosso Pa\u00eds, uma verticaliza\u00e7\u00e3o dessa lei. O Deputado Gil Cutrim foi muito feliz ao conseguir chegar a um denominador comum e extrair de cada projeto o que tinha de melhor.\r\nEnt\u00e3o, o PSB orienta \"sim\", \u00e9 favor\u00e1vel tamb\u00e9m a essa distribui\u00e7\u00e3o das m\u00e1scaras para os menos favorecidos.\r\nQuero dizer que o Parlamento est\u00e1 de parab\u00e9ns, pelas medidas que v\u00eam sendo adotadas e pelo trabalho que vem sendo feito.\r\nV.Exa., Deputado Rodrigo Maia, est\u00e1 trabalhando este tema com muita responsabilidade neste momento, para que tenhamos \u00eaxito no combate ao coronav\u00edrus.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, EMENDA DE PLENARIO, SUBSTITUTIVO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011),  VOTO CONTRARIO.\r\nAUTORITARISMO, FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, CRITICA.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o em qualidade e quantidade adequadas ao uso durante o per\u00edodo das atividades laborais, e para o percurso da resid\u00eancia ao local de trabalho ou deste para aquela, contida na Emenda de Plen\u00e1rio n\u00ba 11, com vista \u00e0 inclus\u00e3o no art. 3\u00ba-B, da Lei 13.979, de 2020, modificada pelo art. 1\u00ba, do substitutivo apresentado ao Projeto de Lei n\u00ba 1.562, 2020, referente \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus. Autoritarismo do Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD tamb\u00e9m vota \"n\u00e3o\" \u00e0 emenda, pela manuten\u00e7\u00e3o do texto do Relator.\r\nAproveito para responder \u00e0 Deputada Jandira: o ditado que diz \"quem n\u00e3o te conhece que te compre\" se aplica perfeitamente ao Governador Fl\u00e1vio Dino, aqui do Estado do Maranh\u00e3o.\r\nFl\u00e1vio Dino talvez seja o Governador que mais perseguiu gente na hist\u00f3ria do Pa\u00eds. Para citar um exemplo, ontem nove pessoas foram depor na Superintend\u00eancia Estadual de Investiga\u00e7\u00f5es Criminais - SEIC do Maranh\u00e3o porque tiveram a aud\u00e1cia de tentar montar, por meio de um grupo de WhatsApp, uma carreata em protesto ao Governo do Estado. As nove pessoas foram intimadas a comparecer ontem \u00e0 delegacia, e assim tem sido com blogueiros, jornalistas e pol\u00edticos que n\u00e3o rezam pela cartilha do Governador comunista.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "\u00d5RIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011),VODTO CONTR\u00c1RIO. \r\nGOVERNO, MARANH\u00c3O, ATUA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Registro de voto do PSD em vota\u00e7\u00e3o anterior. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 26, apresentada ao Projeto de Lei n\u00ba 1.562, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus. Atribui\u00e7\u00e3o ao Governo Fl\u00e1vio Dino da responsabilidade pelo colapso da sa\u00fade p\u00fablica no Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer o registro tamb\u00e9m de que, na vota\u00e7\u00e3o passada, n\u00e3o consegui abrir o microfone, mas o PSD votou com o Governo, \"n\u00e3o\" \u00e0 emenda, pela manuten\u00e7\u00e3o do texto do Relator. Assim como agora tamb\u00e9m, n\u00f3s entendemos que devemos manter o texto do Relator Gil Cutrim. Ficamos com aquela inveja branca quando vemos o colega Giovani Cherini falando da situa\u00e7\u00e3o do Rio Grande do Sul, enquanto n\u00f3s, aqui do Maranh\u00e3o, estamos com a sa\u00fade colapsada por uma omiss\u00e3o do Governo do Estado, uma vez que o Maranh\u00e3o foi o \u00faltimo Estado a registrar um caso de coronav\u00edrus, e s\u00f3 ontem que foi entregar o primeiro hospital de campanha, ainda que de forma prec\u00e1ria e sem os leitos necess\u00e1rios para a popula\u00e7\u00e3o, que vem sofrendo e morrendo.\r\nEnt\u00e3o, sentimos aqui o descaso do Governo comunista do Estado do Maranh\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-02T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ELEI\u00c7\u00c3O MUNICIPAL, PARTIDO COMUNISTA DO BRASIL (PC DO B), CR\u00cdTICA, FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, MAURA JORGE, PREFEITA, LAGO DA PEDRA (MA), S\u00c3O PEDRO DOS CRENTES (MA).",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Derrota do Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino, do PCdoB, nas elei\u00e7\u00f5es municipais de 2020.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente e caros colegas.\r\nVenho aqui, Sra. Presidente, destacar as derrotas do Partido Comunista do Brasil no Estado do Maranh\u00e3o e como o Governo Fl\u00e1vio Dino saiu pequeno das elei\u00e7\u00f5es deste m\u00eas de novembro.\r\nO Governador Fl\u00e1vio Dino apoiou candidatos nas cinco maiores cidades do Estado do Maranh\u00e3o e perdeu em quatro delas. Perdeu em S\u00e3o Lu\u00eds, onde, no primeiro turno, seu candidato obteve m\u00edseros 10% dos votos. No segundo turno, o Governador Fl\u00e1vio Dino apareceu na televis\u00e3o mais do que o pr\u00f3prio candidato que ele apoiou. Coagiu funcion\u00e1rios e secret\u00e1rios a trabalharem para ele, rachou seu grupo e, ainda assim, entrou na taca, quando a Ilha Rebelde mostrou mais uma vez que n\u00e3o aceita cabresto. Ele tamb\u00e9m perdeu em Imperatriz, em Caxias, e em S\u00e3o Jos\u00e9 de Ribamar. A \u00fanica cidade, entre os cinco maiores polos do Estado de Maranh\u00e3o, em que saiu vitorioso foi Timon, onde seu candidato obteve apenas 40% dos votos, ou seja, 60% dos mun\u00edcipes de Timon tamb\u00e9m disseram \"n\u00e3o\" \u00e0 gest\u00e3o comunista e aos aliados do Governo comunista. \r\nHouve ainda, Presidente, duas outras derrotas que doeram na alma desses comunistas, se \u00e9 que eles t\u00eam alma: a derrota no Munic\u00edpio de Lago da Pedra, onde foi eleita a Prefeita Maura Jorge, que tamb\u00e9m combate o comunismo com muito vigor no Estado do Maranh\u00e3o e ganhou do candidato apoiado pelo Governador; e a outra derrota muito sentida pelo grupo do Governador foi em S\u00e3o Pedro dos Crentes, cidade onde o Prefeito eleito teve a maior vota\u00e7\u00e3o proporcional do nosso Estado, tamb\u00e9m calando o Governador comunista que tanto o persegue.\r\nEm 2020, o Maranh\u00e3o mostrou que n\u00e3o quer mais esse tipo de governo que coage, que persegue, que usa a pol\u00edcia de forma opressiva. N\u00f3s n\u00e3o aceitamos esse tipo de coisa.\r\nO Governador sai dessa elei\u00e7\u00e3o pequeno, vende-se como grande l\u00edder nacional, mas, no seu quintal, pegou taca de cabo a rabo no Estado do Maranh\u00e3o.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-09T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FLAVIO DINO, GOVERNADOR,  MARANH\u00c3O, CRITICA, COMPRA, VACINA, DESVIO, RECURSOS, SEGURAN\u00c7A P\u00daBLICA, PROPAGANDA INSTITUCIONAL.\r\nCANDIDATO N\u00c3O ELEITO, PREFEITO, PORTO ALEGRE (RS), COMUNISMO.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Inadimpl\u00eancia do Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino, no pagamento a fornecedores, servidores e de empr\u00e9stimo contra\u00eddo junto ao Bank of America. Questionamento sobre o pagamento da anunciada compra de vacinas pelo Governador maranhense. Transfer\u00eancia, por Fl\u00e1vio Dino, de recursos da seguran\u00e7a p\u00fablica para a \u00e1rea de publicidade. Congratula\u00e7\u00f5es ao eleitorado porto-alegrense pela rejei\u00e7\u00e3o de candidatura comunista \u00e0 Prefeitura Municipal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente e caros colegas.\r\nSr. Presidente, venho aqui falar mais uma vez do Governador midi\u00e1tico, do Governador fanfarr\u00e3o do Estado do Maranh\u00e3o, Fl\u00e1vio Dino. Ele preza muito a comunica\u00e7\u00e3o e a publicidade. Assim ele se fez vender Brasil afora como uma grande lideran\u00e7a. Mas, na \u00faltima vez que discursei aqui, pude dizer que ele perdeu a elei\u00e7\u00e3o nos principais Munic\u00edpios do Estado do Maranh\u00e3o. Agora, ele vai para a m\u00eddia dizer que quer comprar, a todo custo, a vacina contra o coronav\u00edrus. Louv\u00e1vel! Parab\u00e9ns ao Governador!\r\nMas, primeiro, \u00e9 importante que ele compre e pague, porque ele \u00e9 conhecido no Estado do Maranh\u00e3o como n\u00e3o cumpridor de compromissos, e seu Governo n\u00e3o paga fornecedores. No auge da pandemia, funcion\u00e1rios da sa\u00fade estavam sem receber seus sal\u00e1rios por inadimpl\u00eancia do Governador do Estado do Maranh\u00e3o. Ent\u00e3o, que ele procure comprar, pagar e honrar os compromissos, uma vez que agora, no m\u00eas de novembro, a Uni\u00e3o teve que pagar cerca de 50 milh\u00f5es de d\u00f3lares para o Bank of America por um empr\u00e9stimo que o Governo do Maranh\u00e3o fez e n\u00e3o pagou. A Uni\u00e3o teve que arcar com esses 50 milh\u00f5es de d\u00f3lares. Que ele compre a vacina, mas n\u00e3o fa\u00e7a como fez com os respiradores: pagou cerca de 5 milh\u00f5es de reais nos respiradores, numa a\u00e7\u00e3o em conjunto com o Cons\u00f3rcio Nordeste da turma do PT, e at\u00e9 hoje eles chegaram ao Maranh\u00e3o. Os respiradores nunca chegaram ao Estado do Maranh\u00e3o!\r\n\u00c9 importante que o Brasil conhe\u00e7a a verdadeira face do Governador do Estado do Maranh\u00e3o, que est\u00e1 tirando agora 74 milh\u00f5es de reais da \u00e1rea de seguran\u00e7a, que j\u00e1 \u00e9 ca\u00f3tica em nosso Estado, e colocando na \u00e1rea de comunica\u00e7\u00e3o. S\u00e3o 74 milh\u00f5es de reais que sair\u00e3o de uma \u00e1rea deficit\u00e1ria - e n\u00f3s precisamos valorizar os nossos policiais, os nossos agentes de seguran\u00e7a - para serem colocados na publicidade, para venderem o Governo como um bambamb\u00e3. Mas n\u00f3s o conhecemos e sabemos que ele n\u00e3o \u00e9 isso. Quem est\u00e1 no Maranh\u00e3o conhece a realidade e a fraqueza desse Governador.\r\nAproveito tamb\u00e9m para deixar o meu abra\u00e7o aos ga\u00fachos, em especial aos porto-alegrenses, que n\u00e3o se deixaram ser induzidos a serem governados por uma comunista. Parab\u00e9ns, Porto Alegre, por n\u00e3o ter dado chance de ser massacrada por um governo totalit\u00e1rio, como \u00e9 o governo comunista que o \u00eddolo da candidata a Prefeita em Porto Alegre vem fazendo no Estado do Maranh\u00e3o. Mas 2022 est\u00e1 chegando, e isso vai logo passar.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-24T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "KASSSIO NUNES, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, MEDIDA CAUTELAR, A\u00c7\u00c3O DIRETA DE INCONSTITUCIONALIDADE, GOVERNO ESTADUAL, MARANH\u00c3O, CRIA\u00c7\u00c3O, CARGO (DIREITO DO TRABALHO), CAPEL\u00c3O CIVIL. \r\nA\u00c7\u00c3O DE INVESTIGA\u00c7\u00c3O JUDICIAL ELEITORAL (AIJE), TRIBUNAL SUPERIOR ELEITORAL (TSE), FLAVIO DINO GOVERNADOR, MARANH\u00c3O., PERDA DE MANDATO ELETIVO, INELEGIBILIDADE.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Concess\u00e3o pelo Ministro do Supremo Tribunal Federal, Kassio Nunes, de medida cautelar na A\u00e7\u00e3o Direta de Inconstitucionalidade n\u00ba 6.669, de 2021, das Leis Estaduais de n\u00bas 8.449, de 2006; 8.950, de 2009; 10.654, de 2017; e 10.824, de 2018, a respeito da cria\u00e7\u00e3o de cargos de capel\u00e3es religiosos no Estado do Maranh\u00e3o, ajuizada pelo Procurador-Geral da Rep\u00fablica, Augusto Aras. Congratula\u00e7\u00f5es \u00e0 advogada Anna Graziella Neiva pelo ajuizamento de a\u00e7\u00e3o junto ao Tribunal Superior Eleitoral, para decreta\u00e7\u00e3o da perda do mandato e inelegibilidade do Governador Fl\u00e1vio Dino.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (PSD - MA. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, caros colegas. \r\nVenho aqui destacar a acertada decis\u00e3o do Ministro Kassio Nunes, na \u00faltima segunda-feira, que considerou inconstitucional uma lei do Governador comunista do nosso Estado que cria 36 vagas de capel\u00e3es. Isso ficou conhecido em nosso Estado como a \"farra dos capel\u00e3es\". Para V.Exas. terem uma ideia do que eu estou falando, o segundo Estado do Pa\u00eds com o maior n\u00famero de capel\u00e3es \u00e9 Alagoas, com 5 capel\u00e3es. O Maranh\u00e3o tem 50! E, no per\u00edodo da campanha de 2018, ele ainda prometeu mais 10. J\u00e1 havia criado 36 e ainda prometeu mais 10. \r\nDepois dessa decis\u00e3o no STF nesta semana - j\u00e1 existe uma AIJE no TSE assinada pela competente advogada do Estado do Maranh\u00e3o Dra. Anna Graziella Neiva, que vem militando e acreditando nessa causa -, eu n\u00e3o tenho d\u00favida de que haver\u00e1 um julgamento de vanguarda no TSE, que dever\u00e1 deixar o Governador Fl\u00e1vio Dino sem mandato e tamb\u00e9m ineleg\u00edvel.\r\n Para V.Exas. terem uma ideia, caros colegas, segundo o Portal da Transpar\u00eancia, de 2018 a 2021, o Estado do Maranh\u00e3o perdeu, com essa lei inconstitucional, cerca de 15 milh\u00f5es de reais, que sa\u00edram dos cofres p\u00fablicos. Vou repetir: 15 milh\u00f5es de reais! Imaginem s\u00f3 esse recurso em caixa neste momento de pandemia! O Governador Fl\u00e1vio Dino n\u00e3o se solidarizou em momento algum e n\u00e3o tentou criar um aux\u00edlio emergencial. Esse recurso daria tranquilamente para atender cerca de 30 mil fam\u00edlias com um aux\u00edlio emergencial de 500 reais.\r\nO Minist\u00e9rio P\u00fablico Militar tamb\u00e9m adentrou nessa causa, uma vez que v\u00e1rios desses capel\u00e3es nomeados, fugindo dos princ\u00edpios da moralidade e da impessoalidade, tinham filia\u00e7\u00f5es partid\u00e1rias. Foram escolhidos a dedo aqueles que deveriam adentrar na Pol\u00edcia Militar e na Pol\u00edcia Civil do Estado do Maranh\u00e3o.\r\nO Governador, sem sombra de d\u00favida, conseguiu o apoio de v\u00e1rias de Igrejas, o que lhe deu sustenta\u00e7\u00e3o. Isso foi not\u00f3rio nos discursos e nas caminhadas na elei\u00e7\u00e3o de 2018.\r\nSr. Presidente, quero parabenizar, mais uma vez, o Ministro Kassio Nunes. N\u00e3o tenho d\u00favida de que essa decis\u00e3o ser\u00e1 mantida pelo Plen\u00e1rio.\r\nQuero parabenizar tamb\u00e9m a Dra. Anna Graziella.\r\nEspero que, o quanto antes, isso chegue ao TSE. N\u00e3o tenho d\u00favida de que esse Governador dar\u00e1 tchau para o Estado do Maranh\u00e3o, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F2%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER FAVOR\u00c1VEL, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 1025/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL. \r\nJO\u00c3O PAULO, COMANDANTE, POL\u00cdCIA MILITAR, IMPERATRIZ (MA), AFASTAMENTO, PERSEGUI\u00c7\u00c3O POL\u00cdTICA, GOVERNO ESTADUAL, MARANH\u00c3O.",
+        "nomeDeputado": "Edil\u00e1zio J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 1.025, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.146, de 2015, (Lei Brasileira de Inclus\u00e3o da Pessoa com Defici\u00eancia) - Estatuto da Pessoa com Defici\u00eancia. Protesto contra o afastamento do Subtenente Jo\u00e3o Paulo do comando do Grupo de Opera\u00e7\u00f5es Especiais, no Munic\u00edpio de Imperatriz, Estado do Maranh\u00e3o, por persegui\u00e7\u00e3o do Governador Fl\u00e1vio Dino.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDIL\u00c1ZIO J\u00daNIOR (Bloco/PSD - MA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD vota \"sim\", Sr. Presidente.\r\nEu venho aqui tamb\u00e9m trazer a informa\u00e7\u00e3o de que, neste momento, a popula\u00e7\u00e3o de Imperatriz est\u00e1 muito sentida com o que aconteceu na data de hoje. O Comandante do GOE, o Subtenente Jo\u00e3o Paulo, que h\u00e1 21 anos comanda aquele Grupamento Especial, que h\u00e1 31 anos est\u00e1 na Pol\u00edcia Militar, hoje est\u00e1 deixando o Munic\u00edpio de Imperatriz, est\u00e1 deixando o Comando do GOE, por um \u00fanico motivo: a persegui\u00e7\u00e3o do Governo comunista do Estado do Maranh\u00e3o, que \u00e9 conhecida entre todos. Isso j\u00e1 aconteceu com delegados, com oficiais, com pra\u00e7as, e hoje a v\u00edtima foi o Subtenente Jo\u00e3o Paulo.\r\nPor qu\u00ea? Eu acompanhei e pude ver o que aconteceu no aeroporto de Imperatriz na \u00faltima sexta-feira, quando cinco a seis policiais militares estavam ali fazendo a escolta do Presidente Bolsonaro e quiseram fazer uma foto com o Chefe Maior do nosso Pa\u00eds, que \u00e9 o Presidente da Rep\u00fablica. Por conta disso, de uma foto, hoje ele perdeu a chefia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

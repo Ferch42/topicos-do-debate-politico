@@ -1,0 +1,344 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "ANEL RODOVI\u00c1RIO, BR-381, RODOVIA, MINAS GERAIS.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Acompanhamento pelo orador da execu\u00e7\u00e3o de obras da BR-381, no Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, colegas Deputados, boa tarde.\r\nL\u00e9o Motta, de Minas Gerais, investigador de pol\u00edcia, membro da Assembleia de Deus, nascido em Contagem, Deputado majorit\u00e1rio nessa cidade, falo aqui pelo meu Estado, Sra. Presidente, colegas Deputados, agradecendo a solidariedade de todo o Brasil ao nosso povo de Brumadinho.\r\nQuero tamb\u00e9m conclamar os colegas Deputados de Minas Gerais porque temos responsabilidade de, assim como acompanhar, fiscalizar as mineradoras, acompanhar a execu\u00e7\u00e3o da obra da BR-381, a chamada rodovia da morte, que ceifa vidas todos os dias. Assim como em Brumadinho e em Mariana, n\u00f3s, colegas Deputados mineiros, como sempre \u00e9 dito na nossa r\u00e1dio de Minas, a Itatiaia, temos a responsabilidade agora de estarmos unidos em um s\u00f3 prop\u00f3sito: discutir e acompanhar os avan\u00e7os das obras da BR-381. \r\nColegas Deputados Weliton Prado e Marcelo Freixo, n\u00f3s precisamos acompanhar especialmente, junto ao DNIT, as obras do Anel Rodovi\u00e1rio, que tamb\u00e9m mata dezenas e centenas de pessoas ao longo dos anos e nada se faz para amenizar isso. Repito, n\u00f3s temos essa responsabilidade.\r\nNo meu primeiro discurso, agrade\u00e7o ao povo de Minas Gerais, aos 653 Munic\u00edpios mineiros que me fizeram Deputado Federal. Quero neste primeiro momento convidar todos os Deputados de Minas Gerais para acompanharmos as obras da BR-381, onde h\u00e1 mortes todos os dias, especialmente no Anel Rodovi\u00e1rio da regi\u00e3o metropolitana. Na semana passada, uma carreta perdeu os freios na Nossa Senhora do Carmo, ocasionando um acidente grav\u00edssimo, como v\u00e1rios outros acidentes naquela rodovia e tamb\u00e9m no Anel Rodovi\u00e1rio.\r\nSra. Presidente, encerro minhas palavras agradecendo aos colegas a receptividade. Conto com a experi\u00eancia daqueles que aqui est\u00e3o e tamb\u00e9m com os novos colegas que est\u00e3o chegando para que juntos possamos fazer a mudan\u00e7a que o Brasil precisa. O Brasil precisa de n\u00f3s! O Brasil conta conosco e n\u00f3s n\u00e3o iremos nos furtar de qualquer discuss\u00e3o para melhorar a vida do cidad\u00e3o brasileiro. Agrade\u00e7o ainda ao povo contagense, povo que amo, da cidade onde nasci, que fez de mim o Deputado mais votado deste Munic\u00edpio.\r\nFica registrado o meu compromisso para com Minas Gerais.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10431/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVORAVEL.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento de Destaque n\u00ba 20 para vota\u00e7\u00e3o em separado do art. 6 do Projeto de Lei n\u00ba 10.431, de 2018, sobre o cumprimento de san\u00e7\u00f5es impostas por resolu\u00e7\u00f5es do Conselho de Seguran\u00e7a das Na\u00e7\u00f5es Unidas, inclu\u00edda a indisponibilidade de ativos de pessoas naturais e jur\u00eddicas e de entidades, e a designa\u00e7\u00e3o nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados; e revoga a Lei n\u00ba 13.170, de 2015.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero afirmar aqui que a bancado do PSL tem o direito, sim, de se reunir ali. O pessoal do outro lado est\u00e1 questionando por que a bancada do PSL est\u00e1 reunida. N\u00f3s temos esse direito, e n\u00f3s iremos atropelar o pessoal que est\u00e1 tentando, na base do argumento, cercear o nosso direito de discutir inclusive as pautas que s\u00e3o tratadas aqui.\r\nO PSL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=184&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, DESTAQUE, MPV 853/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL).",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do Requerimento de Destaque n\u00ba 1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em tempos em que falamos da reforma da Previd\u00eancia, n\u00f3s vemos neste plen\u00e1rio que h\u00e1 consenso. Quando de fato chegar aqui a reforma da Previd\u00eancia, n\u00f3s teremos que ficar atentos.\r\nSou funcion\u00e1rio de carreira da Pol\u00edcia Civil do Estado de Minas Gerais. Temos que tratar com igualdade os iguais e com desigualdade os desiguais.\r\nSr. Presidente, na fun\u00e7\u00e3o policial, eu fiquei 5 dias em coma, diferentemente do que acontece em outras carreiras.\r\nQuero chamar os colegas para que possamos ficar atentos.\r\nBem disse a Deputada Joice, esta \u00e9 uma reforma solid\u00e1ria: paga mais quem ganha mais; paga menos quem ganha menos. Ela trata com igualdade os iguais e com desigualdade os desiguais.\r\nEnt\u00e3o vamos exaurir toda a discuss\u00e3o e tratar com igualdade...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=305&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SEGURAN\u00c7A P\u00daBLICA, CATEGORIA PROFISSIONAL, BELO HORIZONTE (MG), MINAS GERAIS, DEFESA.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Conclama\u00e7\u00e3o aos profissionais da seguran\u00e7a p\u00fablica do Estado de Minas Gerais para participa\u00e7\u00e3o em ato p\u00fablico a favor da categoria, na Capital Belo Horizonte.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero aproveitar esse 1 minuto para saudar todos os colegas investigadores de Minas Gerais e convocar toda a base da Pol\u00edcia Civil e da Seguran\u00e7a P\u00fablica do Estado de Minas Gerais para um grande manifesto na sexta-feira, dia 22 de fevereiro, na Pra\u00e7a da Esta\u00e7\u00e3o, em Minas Gerais, em Belo Horizonte. Queremos lutar pelos direitos, pela recomposi\u00e7\u00e3o e pela estrutura\u00e7\u00e3o de toda a seguran\u00e7a p\u00fablica no Estado de Minas, sobretudo, para que seja colocado em dia o pagamento do 13\u00ba sal\u00e1rio, que est\u00e1 parcelado em 11 vezes.\r\nQuero aproveitar, sendo o \u00fanico investigador Deputado Federal em todo o Brasil, para colocar toda a nossa base, todas as fileiras da seguran\u00e7a p\u00fablica de Minas Gerais para esse grande movimento, para que possamos lutar em favor dos direitos da seguran\u00e7a p\u00fablica no Estado de Minas Gerais.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEPUTADO FEDERAL, PARTIDO SOCIAL LIBERAL (PSL), ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Uni\u00e3o da bancada do PSL em prol da aprova\u00e7\u00e3o de propostas de interesse do povo brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a bancada do PSL tem demonstrado muita uni\u00e3o. N\u00e3o existem ne\u00f3fitos aqui, mas sim pessoas qualificadas, com seus curr\u00edculos e com experi\u00eancias ao longo da vida, na pol\u00edtica, nos movimentos sociais.\r\nN\u00e3o estamos preocupados com a tentativa da bancada do lado de l\u00e1, do pessoal do lado de l\u00e1 de fazer lavagem cerebral nos nobres colegas da bancada do PSL. Eles v\u00e3o perder tempo. Podem dizer o que quiserem, mas o fato \u00e9 que o Brasil, em vota\u00e7\u00e3o maci\u00e7a, demonstrou que j\u00e1 cansou dessa ladainha, j\u00e1 cansou desses discursos demag\u00f3gicos.\r\n N\u00f3s temos certeza de que, em breve, em todas as vota\u00e7\u00f5es, daremos o recado de que temos consci\u00eancia daquilo que o Pa\u00eds quer. O Brasil escolheu um novo modelo para o Pa\u00eds. A bancada do PSL est\u00e1 consciente do seu papel nesta Casa.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, BASE DE APOIO POLITICO, GOVERNO, VOTO FAVORAVEL.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 1\u00ba do Substitutivo apresentado ao Projeto de Lei Complementar n\u00ba 441, de 2017, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Governo orienta \"sim\" ao texto original, mas quer deixar bem claro que quem aparelhou o BNDES n\u00e3o pode aqui, de forma demag\u00f3gica, julgar os Deputados novos, que t\u00eam suas qualifica\u00e7\u00f5es.\r\nHoje n\u00f3s exaustivamente discutimos com os t\u00e9cnicos do Banco Central e entendemos, sim, que devemos votar \"sim\" ao texto original.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=205&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, para a permiss\u00e3o de renova\u00e7\u00e3o, pelo prazo de 15 anos, de conv\u00eanios espec\u00edficos destinados a associa\u00e7\u00f5es beneficentes e entidades religiosas de qualquer culto.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a palavra para orienta\u00e7\u00e3o do PSL.\r\n\u00c9 oportuno estarmos aqui discutindo sobre o PLP n\u00ba 55. N\u00f3s votamos aqui o requerimento de urg\u00eancia. Eu quero tamb\u00e9m conclamar este Plen\u00e1rio para que possamos, un\u00edssonos, fazer justi\u00e7a pelos grandes e relevantes servi\u00e7os que as institui\u00e7\u00f5es religiosas fazem pelo nosso Brasil, em especial, tamb\u00e9m, as entidades sociais, que prestam relevantes servi\u00e7os nos nossos Estados.\r\nEu quero conclamar os nobres Deputados para que possamos, sim, votar a favor da desburocratiza\u00e7\u00e3o, para que possamos facilitar a vida das institui\u00e7\u00f5es religiosas, que prestam diuturnamente um bom servi\u00e7o \u00e0 nossa popula\u00e7\u00e3o brasileira.\r\nO PSL vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GOVERNO, ESTUDO T\u00c9CNICO, TRIBUTA\u00c7\u00c3O, IGREJA, MAJOR VITOR HUGO, L\u00cdDER DO GOVERNO, ESCLARECIMENTO.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Confian\u00e7a do orador na decis\u00e3o do Presidente Jair Bolsonaro, contr\u00e1ria \u00e0 taxa\u00e7\u00e3o de receitas de templos religiosos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, nobres colegas Deputados, imprensa, eu venho a este microfone com muita preocupa\u00e7\u00e3o. Eu li not\u00edcia veiculada pelos meios de comunica\u00e7\u00e3o, pela imprensa, dizendo que o nosso Presidente assumiu, de certa forma, a possibilidade de um estudo para a taxa\u00e7\u00e3o de igrejas evang\u00e9licas, cat\u00f3licas, enfim, igrejas em geral no Brasil.\r\nEu conversei agora com o L\u00edder do Governo, o Deputado Major Vitor Hugo, que se comprometeu a dar, amanh\u00e3, uma resposta ao Brasil e \u00e0s igrejas. Os ve\u00edculos de informa\u00e7\u00e3o divulgam essa not\u00edcia de forma surpreendente, mas eu tenho certeza da sensibilidade, do compromisso e do reconhecimento do nosso Presidente aos relevantes servi\u00e7os das igrejas no Brasil.\r\nFicam...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=289&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "TRIBUTA\u00c7\u00c3O, D\u00cdZIMO, OFERTA, IGREJA, REP\u00daDIO.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, COMPROMISSO, TRABALHO SOCIAL, IGREJA, DEFESA.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Confian\u00e7a na decis\u00e3o do Presidente Jair Bolsonaro, contr\u00e1ria \u00e0 taxa\u00e7\u00e3o de receitas de templos religiosos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, como eu disse na fala anterior, n\u00e3o se mexe no que as igrejas representam para o Brasil no trabalho social.\r\nQuem n\u00e3o conhece algu\u00e9m que foi recuperado pelos trabalhos das igrejas no Brasil, independentemente da nomenclatura e da placa denominacional? N\u00e3o se mexe em nada do servi\u00e7o que \u00e9 prestado pelas igrejas no Brasil hoje! N\u00e3o \u00e0 taxa\u00e7\u00e3o!\r\nE tenho certeza de que o nosso Presidente Jair Messias Bolsonaro n\u00e3o concorda com isso, porque foi feito um compromisso, e esse compromisso ser\u00e1 restabelecido, de acordo com as mat\u00e9rias colocadas. O Brasil n\u00e3o permitir\u00e1 isso. N\u00f3s defenderemos a continuidade do trabalho prestado pelas igrejas e nenhum centavo de taxa\u00e7\u00e3o, porque prestam um servi\u00e7o relevante ao Brasil e aos brasileiros.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=303&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-28T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MANIFESTA\u00c7\u00c3O, DEFESA, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, RETOMADA, CRESCIMENTO ECONOMICO.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "\u00caxito de manifesta\u00e7\u00f5es de rua ocorridas no Brasil em defesa do Governo Jair Bolsonaro. Apoio da popula\u00e7\u00e3o brasileira \u00e0s reformas destinadas \u00e0 retomada do crescimento econ\u00f4mico. Cr\u00edtica \u00e0 Oposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados, quero rapidamente fazer um registro sobre o ato do \u00faltimo dia 26, em que pudemos ver em todo o Brasil o interesse da popula\u00e7\u00e3o brasileira pelo Pa\u00eds, a torcida da popula\u00e7\u00e3o brasileira para que o Brasil d\u00ea certo. Por outro lado, n\u00f3s percebemos aqui a tentativa insistente de se deslegitimar o ato de domingo passado. \r\nAs fotos que circulam nas redes sociais por si s\u00f3 notificam e deixam claro, Sr. Presidente, o quanto os brasileiros est\u00e3o interessados na retomada do crescimento do Brasil e nas reformas. As fotos por si s\u00f3 contradizem o que a Oposi\u00e7\u00e3o tenta afirmar aqui. Os brasileiros j\u00e1 entenderam que n\u00f3s precisamos estar irmanados, unidos em um s\u00f3 prop\u00f3sito, apoiando o Governo para que o Brasil seja retirado do atoleiro em que foi colocado pelas \u00faltimas gest\u00f5es, inclusive pela gest\u00e3o do PT.\r\nSr. Presidente, n\u00f3s temos responsabilidade para com o Brasil e cada vez mais temos que ouvir os brasileiros e apoiar o Governo em suas reformas para a retomada do crescimento do Pa\u00eds. \r\nPodem, sim, fazer o seu papel de oposi\u00e7\u00e3o, mas quero ressaltar, Sr. Presidente, que est\u00e3o fazendo uma oposi\u00e7\u00e3o s\u00f3 por oposi\u00e7\u00e3o, porque se o Brasil est\u00e1 na situa\u00e7\u00e3o em que est\u00e1 a culpa \u00e9 deles.\r\nSr. Presidente, n\u00f3s estamos no Governo e nesta Legislatura h\u00e1 cento e poucos dias. Se o Brasil est\u00e1 na situa\u00e7\u00e3o em que est\u00e1, a culpa \u00e9 deles. J\u00e1 estamos vendo os resultados da atual gest\u00e3o, da gest\u00e3o do Presidente Bolsonaro. A gera\u00e7\u00e3o de emprego j\u00e1 come\u00e7ou, j\u00e1 temos n\u00fameros positivos quanto \u00e0 gera\u00e7\u00e3o de empregos no Pa\u00eds. O Governo est\u00e1 resgatando a Na\u00e7\u00e3o do atoleiro em que a Oposi\u00e7\u00e3o a colocou.\r\nEu sou Presidente da CFFC, uma das principais Comiss\u00f5es desta Casa, sem tirar a relev\u00e2ncia das demais. N\u00f3s estamos apurando os abusos e o desperd\u00edcio de bilh\u00f5es e bilh\u00f5es de reais da nossa Na\u00e7\u00e3o, fruto da irresponsabilidade. Este Governo e os brasileiros temos que estar juntos para resgatarmos o Brasil e estabelecermos um novo tempo para nossa Na\u00e7\u00e3o. \r\nPodem fazer oposi\u00e7\u00e3o, \u00e9 o papel de voc\u00eas. Mas o Brasil \u00e9 dos brasileiros, que est\u00e3o comprometidos com o resgate do Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MANIFESTA\u00c7\u00c3O, CONTRA, CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENT\u00c1RIOS, EDUCA\u00c7\u00c3O, COA\u00c7\u00c3O, PROFESSOR,  PARTICIPA\u00c7\u00c3O, ESTUDANTE.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Den\u00fancias de coa\u00e7\u00e3o de crian\u00e7as nas escolas para a participa\u00e7\u00e3o em manifesta\u00e7\u00f5es de rua.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, s\u00f3 quero ressaltar aqui mais uma vez algo que nos preocupa muito. Estamos realmente recebendo den\u00fancias de amea\u00e7as referentes \u00e0 mobiliza\u00e7\u00e3o de amanh\u00e3. Como V.Exa. mesmo falou aos meios de imprensa, toda mobiliza\u00e7\u00e3o \u00e9 v\u00e1lida e leg\u00edtima. Em Minas Gerais, a mobiliza\u00e7\u00e3o foi um ato pac\u00edfico, ordeiro, com respeito \u00e0s institui\u00e7\u00f5es.\r\nN\u00f3s queremos chamar a aten\u00e7\u00e3o dos pais: Al\u00f4, pais! Al\u00f4, m\u00e3es! Fiquem atentos para que nossas crian\u00e7as n\u00e3o sejam usadas como bode expiat\u00f3rio amanh\u00e3 nessa mobiliza\u00e7\u00e3o, em plena quinta-feira. Lugar de crian\u00e7a \u00e9 na escola. E aqui n\u00f3s iremos defender as crian\u00e7as, para que n\u00e3o sejam utilizadas nessa mobiliza\u00e7\u00e3o, num dia de semana. Infelizmente, est\u00e3o amea\u00e7ando as crian\u00e7as nas escolas.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T23:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 11/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 871/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a74\u00ba do art. 68 da Lei 8.212, de 1991, alterado pelo art. 24 do projeto de Lei de Convers\u00e3o n\u00ba 11, de 2019, oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL vota \"n\u00e3o\", reafirmando o compromisso do Governo de mandar um projeto para ser discutido nesta Casa. Existe o compromisso do Governo, e \u00e9 em cima disso que hoje estamos abrindo m\u00e3o para discutir o assunto num segundo momento.\r\nO PSL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=676&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CR\u00cdTICA, DEPUTADO FEDERAL, COMPORTAMENTO, DEN\u00daNCIA, AMEA\u00c7A, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, PAULO HENRIQUE AMORIM, JORNALISTA, AUTOR.\r\nL\u00c9O MOTTA, DEPUTADO FEDERAL, AUS\u00caNCIA, ADES\u00c3O, PLANO DE SEGURIDADE SOCIAL DOS CONGRESSISTAS (PSSC).",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Indigna\u00e7\u00e3o do orador ante o comportamento ir\u00f4nico e sarc\u00e1stico de Deputados da Esquerda com rela\u00e7\u00e3o ao atentado praticado contra o Presidente Jair Bolsonaro. N\u00e3o ades\u00e3o do orador ao regime especial de aposentadoria parlamentar.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, colegas Deputados, \u00e9 estarrecedor ver a que ponto chegou esta Casa, colegas da Esquerda zombando e pedindo a morte do Presidente da Rep\u00fablica. N\u00f3s chegamos ao ponto, Sra. Presidente, de sentir o est\u00f4mago embrulhar dentro deste plen\u00e1rio, ao vermos a Esquerda, que fala tanto contra o \u00f3dio, que fala sobre o amor, sorrir sarcasticamente. Percebemos que \u00e9 s\u00f3 mais uma mentira, ao vermos o sorriso sarc\u00e1stico, ir\u00f4nico na cara de alguns Deputados da Esquerda, quando se citou aqui o atentado ao Presidente da Rep\u00fablica.\r\nFica registrada a minha indigna\u00e7\u00e3o, Sra. Presidente, e aproveito para declarar que n\u00e3o preciso de holofotes, n\u00e3o preciso fazer nenhum movimento, porque n\u00e3o aderi ao regime especial de aposentadoria desta Casa, em respeito \u00e0 popula\u00e7\u00e3o. Sou concursado no Estado de Minas Gerais, estou Parlamentar j\u00e1 pelo terceiro mandato, juntando o tempo em que atuei no Munic\u00edpio e agora, como Deputado Federal. E j\u00e1 abri m\u00e3o, n\u00e3o aderi. Eu s\u00f3 quero trazer a p\u00fablico - aos brasileiros, aos mineiros, aos contagenses - que n\u00e3o aderi ao regime especial de aposentadoria desta Casa em respeito \u00e0 maioria dos brasileiros.\r\nN\u00f3s temos que come\u00e7ar dando o exemplo por n\u00f3s. As reformas que n\u00f3s tanto pregamos t\u00eam que partir deste Parlamento, no corte de benef\u00edcios, para que possamos tamb\u00e9m cortar na carne, assim como cada cidad\u00e3o brasileiro ter\u00e1 que ceder um pouco.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SOLIDARIEDADE, EDUARDO BOLSONARO, DEPUTADO FEDERAL, ESQUERDA POL\u00cdTICA, COMPORTAMENTO, ATENTADO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA. \r\nMANIFESTA\u00c7\u00c3O P\u00daBLICA, PARTIDO DOS TRABALHADORES (PT), AVALIA\u00c7\u00c3O.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Solidariedade ao Deputado Eduardo Bolsonaro, diante da zombaria do Presidente Jair Bolsonaro pela Esquerda. Fracasso da manifesta\u00e7\u00e3o p\u00fablica promovida pelo PT e seus aliados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero aproveitar este 1 minuto para prestar solidariedade e companheirismo ao colega Deputado Eduardo Bolsonaro, que hoje p\u00f4de testemunhar aqui esse mesmo pessoal que fala contra o nosso Ministro Sergio Moro e o Dallagnol zombar do atentado ao nosso Presidente Jair Messias Bolsonaro. Na cara do Eduardo Bolsonaro, tentaram zombar do pai dele, desejando-lhe a morte. N\u00f3s queremos registrar, Sr. Presidente, o nosso rep\u00fadio a essa postura da Esquerda.\r\nAproveito para dizer que n\u00f3s estamos ouvindo muito pouco aqui sobre a marolinha do movimento que fizeram na sexta-feira, que foi um vexame! Ningu\u00e9m fala sobre aquela marolinha que a ala do PT e seus penduricalhos fizeram na sexta-feira passada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GREVE GERAL, ESQUERDA POL\u00cdTICA, FALECIMENTO, EDI ALVES GUIMAR\u00c3ES, TRABALHADORA, INC\u00caNDIO, PNEU, MOVIMENTO DE PROTESTO, BELO HORIZONTE (MG), CR\u00cdTICA.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Falecimento de trabalhadora em decorr\u00eancia da inala\u00e7\u00e3o de fuma\u00e7a t\u00f3xica proveniente da queima de pneus durante a greve promovida pela Esquerda, em Belo Horizonte, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Minas Gerais est\u00e1 em luto.\r\nRegistro o falecimento de uma senhora que estava indo para o trabalho na sexta-feira, ap\u00f3s inalar fuma\u00e7a t\u00f3xica proveniente da queima de pneus, na Avenida Ant\u00f4nio Carlos, por manifestantes em apoio \u00e0 greve frustrada, uma marolinha da Esquerda. \r\nHoje tivemos a not\u00edcia do falecimento dessa senhora. Seu corpo est\u00e1 sendo encaminhado ao Instituto M\u00e9dico Legal.\r\nEu acho muito engra\u00e7ado e interessante, Sra. Presidente, que ningu\u00e9m fala nada sobre isso nesta Casa. Est\u00e3o todos calados. Vidas est\u00e3o sendo ceifadas em fun\u00e7\u00e3o dessas manifesta\u00e7\u00f5es irrespons\u00e1veis, dessas greves que n\u00e3o deram em nada, a n\u00e3o ser numa marolinha.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=182&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL.\r\nESQUERDA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Car\u00e1ter demag\u00f3gico do discurso da Esquerda sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu fico a observar o \"Partido do Tomate\", mas \u00e9 o \"Partido do Tomate\" mais caro da hist\u00f3ria do Brasil. Nesse momento t\u00e3o importante para o nosso Pa\u00eds, em parte, eles reconhecem a necessidade da reforma da Previd\u00eancia. Mas, por fazer oposi\u00e7\u00e3o s\u00f3 por oposi\u00e7\u00e3o, muitas vezes, est\u00e3o aqui dando aula de demagogia, est\u00e3o aqui dando aula de como se mente e de como se trabalha contra o Brasil.\r\nEstou, Sra. Presidente, a observar como a Esquerda trabalha contra o Brasil. Entendem, reconhecem a necessidade, mas fazem oposi\u00e7\u00e3o contra a reforma s\u00f3 por oposi\u00e7\u00e3o. O \"Partido do Tomate\", do tomate mais caro da hist\u00f3ria do Brasil, trabalha contra o Brasil, que precisa retomar o crescimento, que precisa retomar o pleno emprego.\r\nN\u00f3s estamos aqui para votar em favor do Brasil, a favor da reforma!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CRIST\u00c3O, ATUA\u00c7\u00c3O, BRASIL. \r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, BLOCO PARLAMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Conclama\u00e7\u00e3o ao povo brasileiro, especialmente aos l\u00edderes religiosos e aos congressistas, para ora\u00e7\u00e3o e realiza\u00e7\u00e3o de jejum em prol do Pa\u00eds. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, oportunamente, na orienta\u00e7\u00e3o do PSL, quero aproveitar este momento de reflex\u00e3o para o Brasil. Quero conclamar as autoridades espirituais e mesmo os Congressistas para, al\u00e9m das a\u00e7\u00f5es que temos que ter aqui como representantes da popula\u00e7\u00e3o brasileira, orar pelo Brasil.\r\nEu quero convidar todos os brasileiros que creem que Deus \u00e9 a solu\u00e7\u00e3o para o Brasil e que Deus est\u00e1 acima de tudo e de todos para, no pr\u00f3ximo s\u00e1bado, fazermos um jejum em favor do Brasil.\r\nO Brasil passa por um momento de dificuldade na atmosfera pol\u00edtica, e eu tenho certeza de que, com jejum e ora\u00e7\u00e3o e com a\u00e7\u00f5es assertivas deste Parlamento e do Congresso, n\u00f3s faremos o Brasil do futuro. N\u00f3s contribuiremos, tanto no mundo espiritual quanto com as nossas a\u00e7\u00f5es, para o Brasil com que todos os brasileiros sonhamos.\r\nQue Deus aben\u00e7oe a todos!\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Como orienta o PSL?\r\nO SR. L\u00c9O MOTTA (PSL - MG) - O PSL orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=252&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, REP 2/2021, REPRESENTA\u00c7\u00c3O, PRC 57/2021, PROJETO DE RESOLU\u00c7\u00c3O DA CAMARA DOS DEPUTADOS, PERDA DE MANDATO PARLAMENTAR, FLORDELIS, DEPUTADA FEDERAL, ATO INCOMPAT\u00cdVEL COM O DECORO PARLAMENTAR, FAVORAVEL.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Discuss\u00e3o da Representa\u00e7\u00e3o n\u00ba 2, de 2021, apresentada contra a Deputada Flordelis por pr\u00e1tica de atos incompat\u00edveis com o decoro parlamentar.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, aqueles que nos assistem pela TV C\u00e2mara, quero deixar muito claro que sou autor do requerimento \u00e0 Mesa para aprecia\u00e7\u00e3o do caso Flordelis. E aqui est\u00e1 um evang\u00e9lico, declaradamente negro, policial, e sou de Minas Gerais. N\u00e3o sei qual \u00e9 a estrat\u00e9gia da defesa, mas n\u00e3o existe nenhuma correla\u00e7\u00e3o de cunho mis\u00f3gino. N\u00e3o h\u00e1 nenhuma correla\u00e7\u00e3o de cunho discriminat\u00f3rio, muito menos machista, de quem iniciou o pedido para que o caso fosse apreciado por essa Mesa, pedido que foi acatado. \r\nTodo o rito, com o direito do contradit\u00f3rio, de defesa e de apresenta\u00e7\u00e3o de provas foi dado \u00e0 Parlamentar, em um caso que trouxe constrangimento a esta Casa. \u00c9 nisto que eu quero ater-me. Houve, sim, quebra do decoro parlamentar. N\u00f3s temos que acreditar nas institui\u00e7\u00f5es. \r\nSr. Presidente, foi acintosa a estrat\u00e9gia de defesa do advogado da Deputada Flordelis. N\u00f3s nos sentimos constrangidos com a abordagem da defesa, a esta Casa, \u00e0 Presid\u00eancia desta Casa, \u00e0 institui\u00e7\u00e3o Pol\u00edcia Civil do Rio de Janeiro, \u00e0 Justi\u00e7a do Rio de Janeiro, ao Minist\u00e9rio do Rio de Janeiro. N\u00f3s estamos aqui para apreciar, sim, aquilo que foi apresentado pelas institui\u00e7\u00f5es, pelo Minist\u00e9rio P\u00fablico, pela Pol\u00edcia Civil, com quebra de sigilo telef\u00f4nico. N\u00f3s temos que acreditar nas institui\u00e7\u00f5es. Sobretudo, os fatos a\u00ed est\u00e3o. \r\nEu quero fazer um pedido ao Relator. S\u00e3o 30 tiros, Sr. Presidente! Houve uma trama, segundo os relat\u00f3rios, o parecer do Minist\u00e9rio P\u00fablico, as investiga\u00e7\u00f5es, a quebra de sigilo telef\u00f4nico, inclusive com mensagens ao celular da Deputada cujo processo por quebra de decoro parlamentar est\u00e1 sendo apreciado. N\u00f3s ou acreditamos nas institui\u00e7\u00f5es, ou n\u00e3o. \r\nAqui, eu quero me dirigir aos evang\u00e9licos de todo o Brasil. Acima de tudo, sou evang\u00e9lico tamb\u00e9m, Sr. Presidente. N\u00e3o existe nenhuma persegui\u00e7\u00e3o \u00e0 Parlamentar. Existe, sim, a aprecia\u00e7\u00e3o da quebra de decoro parlamentar. Falo da forma acintosa como a defesa se dirigiu a esta Casa. O rito, de forma justa, deu todos os direitos, os totais direitos de apresenta\u00e7\u00e3o de defesa. Inclusive, o Relator apresentou anteriormente ou antecipadamente \u00e0 defesa o que seria pautado na Comiss\u00e3o de \u00c9tica. N\u00e3o apresentaram provas que inocentasse ou de certa forma retirasse a suposta participa\u00e7\u00e3o da Deputada em toda essa trama.\r\nSr. Presidente, j\u00e1 encerrando, eu me dirijo a esta Casa com todo o respeito. Com isen\u00e7\u00e3o, eu apresentei o requerimento \u00e0 Mesa desta Casa, que culmina neste momento, em que poder\u00e1 ser cassado ou n\u00e3o o mandato. Que sejamos justos! Sobretudo, as provas que as institui\u00e7\u00f5es apresentaram s\u00e3o inequ\u00edvocas. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REP 2/2021, REPRESENTA\u00c7\u00c3O, PRC 57/2021, PROJETO DE RESOLU\u00c7\u00c3O DA CAMARA DOS DEPUTADOS, PERDA DE MANDATO PARLAMENTAR, FLORDELIS, DEPUTADA FEDERAL, ATO INCOMPAT\u00cdVEL COM O DECORO PARLAMENTAR.",
+        "nomeDeputado": "L\u00e9o Motta",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o da Representa\u00e7\u00e3o n\u00ba 2, de 2021, apresentada contra a Deputada Flordelis por pr\u00e1tica de atos incompat\u00edveis com o decoro parlamentar.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. L\u00c9O MOTTA (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, reitero as minhas convic\u00e7\u00f5es neste caso. N\u00f3s n\u00e3o estamos aqui julgando se a Deputada matou ou n\u00e3o matou o esposo. Estamos aqui apreciando a quebra de decoro, embasados nas investiga\u00e7\u00f5es, nas institui\u00e7\u00f5es, no Minist\u00e9rio P\u00fablico. \r\nAproveito, Sr. Presidente, para novamente dirigir-me aos evang\u00e9licos do Brasil, de forma muito respeitosa, que se sentiram constrangidos com este caso, em que existe robustez de informa\u00e7\u00f5es e provas que levam \u00e0 aprecia\u00e7\u00e3o deste Plen\u00e1rio. Mas, antes de tudo, como j\u00e1 foi dito aqui, at\u00e9 as m\u00eddias sociais da Deputada ca\u00edram vertiginosamente ap\u00f3s o falecimento do Pastor Anderson do Carmo, com 30 tiros, nessa trama que nos deixa constrangidos, que deixa esta Casa constrangida, que constrange os evang\u00e9licos do Brasil. E hoje pudemos ouvir nesta tribuna que houve conspira\u00e7\u00e3o dos evang\u00e9licos, os quais teriam interesses conflitantes com a Deputada, que houve persegui\u00e7\u00e3o, que \u00e9 discrimina\u00e7\u00e3o, que \u00e9 machismo, que foi um comportamento mis\u00f3gino.\r\nSr. Presidente, fui eu que fiz o requerimento para que fosse apresentado e apreciado pelo Conselho de \u00c9tica, atrav\u00e9s do direcionamento da Mesa Diretora desta Casa, todo o rito e todas as oportunidades de apresenta\u00e7\u00e3o de provas. Infelizmente - e n\u00e3o sou jurista, sou investigador de pol\u00edcia - todas as tentativas foram frustradas, sendo dada oportunidade para que a Deputada pudesse apresentar provas para eximir-se de qualquer participa\u00e7\u00e3o. Lamentavelmente, o que sobrou foi s\u00f3 a mem\u00f3ria do Pastor Anderson do Carmo. \r\nN\u00e3o quero aqui fazer nenhuma defesa, tinha relacionamento zero com o Pastor Anderson. Jamais me relacionei, jamais liguei para ele desta Casa. Mas n\u00e3o se justifica o que ocorreu, dentro do seio daquele lar, com um pai de fam\u00edlia, por quem quer que seja, mesmo se existirem essas condutas que hoje foram apresentadas, pois, possivelmente, houve v\u00e1rias oportunidades para que pudesse ser feita uma den\u00fancia. Quem est\u00e1 morto n\u00e3o se defende. \r\nEm nome dos evang\u00e9licos deste Pa\u00eds e desta Casa, eu quero pedir aos colegas que apreciem com justi\u00e7a e isen\u00e7\u00e3o, assim como foi o meu comportamento, em mais de 1 ano do tr\u00e2mite do caso da Deputada Flordelis nesta Casa. N\u00e3o tripudiei e n\u00e3o tripudio a Deputada, mas que seja feita justi\u00e7a. Em todo o escopo deste caso, infelizmente, houve, no m\u00ednimo, omiss\u00e3o por parte da Deputada. \r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

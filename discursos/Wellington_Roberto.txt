@@ -1,0 +1,308 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "WELLINGTON ROBERTO, DEPUTADO FEDERAL, L\u00cdDER DO PARTIDO, PARTIDO DA REP\u00daBLICA (PR), PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), CR\u00cdTICA.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Elei\u00e7\u00e3o do orador para a Lideran\u00e7a do PR na C\u00e2mara dos Deputados. Inadmissibilidade de altera\u00e7\u00e3o de aposentadorias de professores, magistrados e trabalhadores rurais, no processo de reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PR - PB. Pela ordem. Sem revis\u00e3o do orador.) - Agrade\u00e7o \u00e0 Presid\u00eancia.\r\nSra. Presidenta, eu quero comunicar aos colegas Parlamentares que assumo hoje \u00e0 tarde a Lideran\u00e7a do meu partido, o PR, que conta com 39 Deputados, o que para mim \u00e9 uma honra.  \r\nEu aproveito esta oportunidade para agradecer \u00e0 dire\u00e7\u00e3o do meu partido e a todos os que fazem a legenda, por terem apoiado e consagrado o meu nome para esta nova miss\u00e3o, e dizer que fecharemos quest\u00e3o em rela\u00e7\u00e3o \u00e0 proposta de reforma da Previd\u00eancia Social. N\u00e3o permitiremos que mexam na aposentadoria de professores, magistrados e trabalhadores rurais do nosso Pa\u00eds, que t\u00eam realmente sofrido muito em rela\u00e7\u00e3o a esse novo projeto de reforma previdenci\u00e1ria.\r\nEra isso o que eu tinha a comunicar nesta tarde.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SENADO FEDERAL, DECORO PARLAMENTAR, NECESSIDADE.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Rep\u00fadio \u00e0s acusa\u00e7\u00f5es de Senador da Rep\u00fablica contra o Presidente Rodrigo Maia e \u00e0 C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (PL - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, esta Casa tem a responsabilidade e tamb\u00e9m precisa se solidarizar. Sabe por qu\u00ea, Sr. Presidente? V.Exa. foi atingido tamb\u00e9m. N\u00f3s precisamos processar este Senadorzinho med\u00edocre que suja o nome do Senado Federal!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSTIVO LEGAL, PLV 29/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 889/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba, do art. 20-D da Lei 8.036, de 1990, alterado pelo art. 2\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 889, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975, com vista \u00e0 possibilidade de movimenta\u00e7\u00e3o das contas do PIS/PASEP, e da Lei n\u00ba 8.036, de 1990, para institui\u00e7\u00e3o da modalidade de saque-anivers\u00e1rio do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, e sobre a devolu\u00e7\u00e3o de recursos ao Fundo de Amparo ao Trabalhador - FAT; a altera\u00e7\u00e3o de disposi\u00e7\u00f5es relativas \u00e0s d\u00edvidas do Fundo de Compensa\u00e7\u00e3o de Varia\u00e7\u00f5es Salariais - FCV, e a extin\u00e7\u00e3o da cobran\u00e7a da contribui\u00e7\u00e3o de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (PL - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente Soraya, o PL, na mesma linha de racioc\u00ednio do L\u00edder Arthur Lira, acha que o assunto \u00e9 nebuloso. O Governo esteve aqui presente dando algumas informa\u00e7\u00f5es, mas n\u00e3o nos convenceu. O Relator disse uma coisa totalmente diferente da opini\u00e3o do Governo.\r\nPor esse motivo, vamos encaminhar \"n\u00e3o\" e tentar, no Senado, fazer alguma coisa para que esse assunto n\u00e3o prospere.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=349&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido ao Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (PL - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL parabeniza V.Exa. e o grupo de trabalho que elaborou o projeto hoje em vota\u00e7\u00e3o. Parab\u00e9ns a todos!\r\nO PL encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=314&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PAUTA (PROCESSO LEGISLATIVO), VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Defesa de vota\u00e7\u00e3o de projeto de decreto legislativo a respeito da cobran\u00e7a de bagagens pelas empresas a\u00e9reas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (PL - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, eu quero atestar as palavras da nobre Deputada Soraya Santos, porque fui testemunha tamb\u00e9m desse compromisso, que espero V.Exa. possa cumprir at\u00e9 o final do ano, votando o PDL nesta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 9236/2017, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), CAR\u00c1TER EXCEPCIONAL, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), TRABALHO INFORMAL, CORONAV\u00cdRUS,  FALTA, APROVA\u00c7\u00c3O, EMENDA, WELLINGTON ROBERTO, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Insatisfa\u00e7\u00e3o do orador com o n\u00e3o acolhimento da Emenda n\u00ba 20 pelo Relator do Projeto de Lei n\u00ba 9.236, de 2017, sobre a altera\u00e7\u00e3o do \u00a7 11 e a inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 no art. 20 da Lei n\u00ba 8.742, de 1993, com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, agrade\u00e7o a gentileza de V.Exa. me conceder a palavra agora, praticamente depois do encerramento do relat\u00f3rio do Relator Marcelo Aro, que j\u00e1 deve t\u00ea-lo enviado para todos os L\u00edderes. \r\nEu queria ter feito uma defesa pr\u00e9via do nosso querido Deputado Raimundo Costa, do PL da Bahia, em defesa dos pescadores de todo o Pa\u00eds e dizer a todos que, numa tratativa horizontal, era para n\u00e3o deixar acontecer a suspens\u00e3o do seguro defeso, direito concedido \u00e0 classe dos pescadores. Dessa forma, era essa a minha interven\u00e7\u00e3o. Mas, infelizmente, a quest\u00e3o n\u00e3o foi motivo de acordo pr\u00e9vio. Deixo aqui a minha insatisfa\u00e7\u00e3o diante da n\u00e3o contribui\u00e7\u00e3o do Relator \u00e0 Emenda n\u00ba 20, do Deputado Raimundo Costa da Bahia. \r\nDesculpe-me, meu querido amigo Deputado Raimundo. Eu tentei, mas, infelizmente, o nosso querido Presidente s\u00f3 concedeu a palavra agora, praticamente depois do fechamento do relat\u00f3rio do nobre Deputado Federal de Minas Gerais, Marcelo Aro.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 864/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.\r\nHOMENAGEM P\u00d3STUMA, LUIZ FL\u00c1VIO GOMES, EX-DEPUTADO FEDERAL.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global apresentada pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei 864, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.360, de 1976, com vista \u00e0 libera\u00e7\u00e3o imediata do uso de materiais, medicamentos, equipamentos e insumos da \u00e1rea da sa\u00fade para aux\u00edlio no combate \u00e0 pandemia do Covid-19, ressalvados os destaques. Falecimento do Deputado Luiz Fl\u00e1vio Gomes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, quero me solidarizar com a fam\u00edlia do Deputado Luiz Fl\u00e1vio, grande amigo, que teve uma atua\u00e7\u00e3o brilhante aqui nesta Casa. Quero cumprimentar todos os companheiros que se encontram participando da sess\u00e3o, de forma especial o nosso querido Deputado Hiran, grande Relator, que fez um bel\u00edssimo trabalho.\r\nE quero dizer, Sr. Presidente, de uma forma r\u00e1pida, que o PL \u00e9 solid\u00e1rio a esta mat\u00e9ria. O Projeto de Lei n\u00ba 864 \u00e9 uma mat\u00e9ria importante para o nosso Pa\u00eds, que passa por um momento dif\u00edcil.\r\nEnt\u00e3o, parabenizo, mais uma vez, V.Exa. e todos os que est\u00e3o presentes nesta sess\u00e3o.\r\nUm abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 985/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL. \r\nPL 1161/2020, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL FINANCEIRO, ESTADOS (ENTE FEDERADO), MUNIC\u00cdPIO, DISTRITO FEDERAL (BRASIL), FUNDO DE PARTICIPA\u00c7\u00c3O DOS ESTADOS E DO DISTRITO FEDERAL (FPE), FUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), SUSPENS\u00c3O, OBRIGA\u00c7\u00c3O FINANCEIRA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, apresentada pelo Relator da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o ao Projeto de Lei n\u00ba 985, de 2020, sobre as medidas excepcionais adotadas em situa\u00e7\u00e3o de emerg\u00eancia p\u00fablica nos termos da Lei n\u00ba 13.979, de 2020, ressalvados os destaques. Apoio \u00e0 vota\u00e7\u00e3o de proposta de emenda \u00e0 Constitui\u00e7\u00e3o e ao projeto de lei relativo ao Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios - FPM.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Inicialmente, eu quero cumprimentar V.Exa., o Relator, Deputado Luis Miranda, e a autora do projeto, Deputada Perp\u00e9tua Almeida.\r\n\u00c9 um projeto de extrema import\u00e2ncia para o Pa\u00eds, que passa por um momento delicado. Os empres\u00e1rios e comerciantes t\u00eam sofrido muito com a queda da receita de que precisam para pagar as suas obriga\u00e7\u00f5es.\r\nDessa forma, Sr. Presidente, eu acredito que o Projeto de Lei n\u00ba 985, de 2020, \u00e9 de extrema import\u00e2ncia. O PL vai encaminhar \"sim\".\r\nAo mesmo tempo, eu pe\u00e7o a V.Exa. que j\u00e1 deixe consignado o meu encaminhamento para a PEC que ora vai ser discutida e submetida \u00e0 vota\u00e7\u00e3o e para o PL do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios e FPE. \r\nEu acredito que, dessa forma, V.Exa. tem avan\u00e7ado, dando uma contribui\u00e7\u00e3o muito importante para a situa\u00e7\u00e3o que passamos nesse momento.\r\nEncaminhamos \"sim\" para esses tr\u00eas projetos, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=140&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-03T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.\r\nPARTIDO NOVO (NOVO), EMENDA, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REGIME EXTRAORDIN\u00c1RIO FISCAL, FINANCEIRO E DE CONTRATA\u00c7\u00d5ES, SISTEMA TRIBUT\u00c1RIO, PANDEMIA, CORONAV\u00cdRUS,  CALAMIDADE P\u00daBLICA, COMIT\u00ca GESTOR, HUGO MOTTA, RELATOR, REJEI\u00c7\u00c3O.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o de regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es, para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus, ressalvados os destaques. Rep\u00fadio ao falso moralismo do partido NOVO.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) -  Sr. Presidente, Sras. e Srs. Deputados, hoje n\u00f3s estamos dando um passo importante ao aprovar a PEC 10/20, e V.Exa. foi o grande maestro na formata\u00e7\u00e3o dessa PEC, usando a sua sensibilidade humana, a sua sensibilidade pol\u00edtica e sua sensibilidade social.\r\nEu quero refor\u00e7ar o quanto essa PEC \u00e9 importante para o nosso Pa\u00eds e para o povo brasileiro. V.Exa., enxergando de forma r\u00e1pida a ina\u00e7\u00e3o do Governo, convocou todos os Deputados e Deputadas e seus respectivos L\u00edderes para agir de forma r\u00e1pida e votar essa PEC t\u00e3o importante para o nosso Pa\u00eds.\r\nAgora, Sr. Presidente, n\u00f3s n\u00e3o podemos aceitar que um partido como o Partido Novo, usando da sua prerrogativa de ser financiado por alguns milion\u00e1rios que t\u00eam participado ativamente das campanhas pol\u00edticas, use do mais falso moralismo para fazer pol\u00edtica. Fica aqui o meu rep\u00fadio.\r\nMais uma vez, eu quero parabenizar V.Exa. pela sua contribui\u00e7\u00e3o e tamb\u00e9m o Relator Hugo Motta, que inabilitou as emendas que tecnicamente n\u00e3o podiam ser acatadas no seu relat\u00f3rio.\r\nPara V.Exas. terem ideia, existiam emendas que estavam recheadas de \u00f3dio, recheadas de maldade e de perversidade: diminu\u00edam a condi\u00e7\u00e3o dos profissionais da sa\u00fade, dos m\u00e9dicos, dos enfermeiros, que d\u00e3o a sua vida hoje \u00e0s pessoas que procuram os hospitais.\r\n\u00c9 uma perversidade o que o Partido Novo tentou fazer, mas, de forma muito r\u00e1pida, o nosso Relator Hugo Motta inabilitou essas emendas.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 848, de 2020,sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL tamb\u00e9m encaminha o voto \"sim\". J\u00e1 que n\u00e3o houve acordo em rela\u00e7\u00e3o \u00e0s pautas que discutimos na reuni\u00e3o de L\u00edderes anteriormente, vamos dar urg\u00eancia a esse projeto que \u00e9 t\u00e3o importante. O PL encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=44&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.\r\nRODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, DEVOLU\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIOS, C\u00c2MARA DOS DEPUTADOS, TESOURO NACIONAL, COMBATE, PANDEMIA, CORONAV\u00cdRUS.\r\nMPV 944/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS, LINHA DE CR\u00c9DITO, FINANCIAMENTO, PAGAMENTO DA FOLHA SALARIAL, PESSOA JUR\u00cdDICA, PEQUENA EMPRESA, M\u00c9DIA EMPRESA, UNI\u00c3O, AGENTE FINANCEIRO, CRISE ECON\u00d4MICA, MERCADO DE TRABALHO, PANDEMIA, CORONAV\u00cdRUS, CR\u00cdTICA.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Aplausos \u00e0 Presid\u00eancia pela destina\u00e7\u00e3o de recursos da C\u00e2mara dos Deputados para combate \u00e0 crise gerada pela pandemia de coronav\u00edrus. Reexame do texto da Medida Provis\u00f3ria n\u00ba 944, de 2020, sobre a institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 848, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, este projeto \u00e9 t\u00e3o necess\u00e1rio e importante que n\u00f3s nem devemos discutir, e, sim, rapidamente votar, como V.Exa. tem feito.\r\nQuero aproveitar este instante para parabenizar V.Exa. pela sua atitude, pelo seu gesto de transferir o recurso da Casa para o combate ao coronav\u00edrus. Esse \u00e9 um exemplo a ser seguido pelos megaempres\u00e1rios deste Pa\u00eds, pelos banqueiros, que n\u00e3o t\u00eam feito absolutamente nada, Sr. Presidente, a n\u00e3o ser gerar emprego, o que \u00e9 necess\u00e1rio para que as empresas deles se desenvolvam.\r\nSr. Presidente, o que est\u00e1 me preocupando \u00e9 que est\u00e1 por vir a MP 944, que est\u00e1 mais destinada \u00e0s institui\u00e7\u00f5es banc\u00e1rias do que \u00e0 estabilidade do trabalhador e do empregador. Eu a discutirei nas futuras reuni\u00f5es dos L\u00edderes, capitaneadas, logicamente, por V.Exa., para que n\u00f3s possamos esclarecer o conte\u00fado dessa MP. Que a verdade seja dita e a popula\u00e7\u00e3o saiba que o trabalhador n\u00e3o vai ter estabilidade, muito menos o empregador.\r\nEnt\u00e3o, o PL orienta \"sim\".\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=87&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL vota \"sim\".\r\nQuero parabenizar V.Exa. e o nosso Relator Pedro Paulo, que n\u00e3o mediu esfor\u00e7os para se sentar com os L\u00edderes e com o Governo e tentar votar...\r\n(Falha na transmiss\u00e3o.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Desculpem-me, mas \u00e9 que travou o microfone. \r\nSr. Presidente, quero parabenizar V.Exa. pela condu\u00e7\u00e3o e tamb\u00e9m o nosso querido Relator, o Deputado Pedro Paulo, que n\u00e3o mediu esfor\u00e7os para sentar com os L\u00edderes e com o Governo. Tentamos, hoje, pela manh\u00e3, fazer uma mesa-redonda com o Governo, mas, infelizmente, n\u00e3o foi poss\u00edvel avan\u00e7ar. Ent\u00e3o, acho que o crit\u00e9rio que a C\u00e2mara dos Deputados usa \u00e9 justo, exclusivamente para recompor a diferen\u00e7a. O Governo n\u00e3o enxergou isso.\r\nAcho, Sr. Presidente, que j\u00e1 \u00e9 hora de votarmos o nosso PLP tamb\u00e9m do compuls\u00f3rio, que vai dar, mais ou menos, uma condi\u00e7\u00e3o para que o Governo possa levar para dentro dos seus cofres algo em torno de 80 a 100 bilh\u00f5es de reais do empr\u00e9stimo compuls\u00f3rio.\r\nEnt\u00e3o, dessa forma, Sr. Presidente, parabenizo mais uma vez V.Exa., por ter tomado a frente dessa situa\u00e7\u00e3o e estarmos votando hoje esta quest\u00e3o para beneficiar os Estados e os Munic\u00edpios para recompor o ICMS e o ISS.\r\nAgrade\u00e7o a todos os L\u00edderes que participaram desta luta. E vamos em frente fazendo a pauta justa, para que a sociedade brasileira possa ser compensada nesta hora t\u00e3o dif\u00edcil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, quero parabenizar V.Exa. pela condu\u00e7\u00e3o dos trabalhos, bem como o Relator Christino Aureo, e aproveito para dizer que esta medida provis\u00f3ria \u00e9 muito importante, principalmente neste momento que o Pa\u00eds atravessa. Ela vai dar mais condi\u00e7\u00f5es para que o trabalhador que est\u00e1 na informalidade consiga arranjar um emprego.\r\nPor este motivo, o PL orienta o voto \"n\u00e3o\" \u00e0 retirada de pauta da mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-22T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RETIRADA DE PROPOSI\u00c7\u00c3O EM TRAMITA\u00c7\u00c3O, REQUERIMENTO DE URG\u00caNCIA, PLP 34/2020, PROJETO DE LEI COMPLEMENTAR, EMPR\u00c9STIMO COMPULS\u00d3RIO, CALAMIDADE P\u00daBLICA, CORONAV\u00cdRUS, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de retirada de pauta do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei Complementar n\u00ba 34, de 2020, sobre a institui\u00e7\u00e3o de empr\u00e9stimo compuls\u00f3rio para atendimento, em car\u00e1ter de urg\u00eancia, as despesas relacionadas \u00e0 Covid-19.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria pedir a V.Exa. e a todos os L\u00edderes que me procuraram nos \u00faltimos dias que retirem de pauta a urg\u00eancia do nosso projeto. Farei o mesmo pedido tamb\u00e9m ao Deputado Arthur Lira, que \u00e9 o autor dessa urg\u00eancia.\r\nDiante de muitas not\u00edcias veiculadas nos \u00faltimos dias por setores da ind\u00fastria, do com\u00e9rcio, das institui\u00e7\u00f5es financeiras, os L\u00edderes ficaram com algumas d\u00favidas. Baseado nisso e diante do texto principal, pe\u00e7o a V.Exa. que retire a urg\u00eancia hoje para que possamos dirimir essas d\u00favidas com os L\u00edderes e, posteriormente, voltarmos a debater sobre esse tema t\u00e3o justo e saud\u00e1vel para o nosso Pa\u00eds.\r\nAproveito a oportunidade para agradecer a V.Exa. pelo cumprimento daquilo que foi combinado na sess\u00e3o da semana passada. E informo aos L\u00edderes que vamos conversar sobre esse projeto no dia de hoje e, talvez, no decorrer do resto da semana.\r\nEra o que eu tinha a pedir a V.Exa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2020&txPagina=44&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-10T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ACORDO, VOTA\u00c7\u00c3O, EMENDA, WELLINGTON ROBERTO, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), MPV 932/2020, MEDIDA PROVIS\u00d3RIA, REDU\u00c7\u00c3O, AL\u00cdQUOTA, CONTRIBUI\u00c7\u00c3O SOCIAL, SISTEMA S, EMPRESA, FINANCIAMENTO.",
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Exist\u00eancia de acordo para vota\u00e7\u00e3o de emenda apresentada pelo orador \u00e0 Medida Provis\u00f3ria n\u00ba 932, de 2020, sobre a altera\u00e7\u00e3o das al\u00edquotas de contribui\u00e7\u00e3o aos servi\u00e7os sociais aut\u00f4nomos especificados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (Bloco/PL - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, acho que o Deputado Marcelo Ramos foi infeliz nas suas coloca\u00e7\u00f5es porque n\u00e3o tinha a informa\u00e7\u00e3o de que essa emenda era de minha autoria. Acompanhei atentamente todas as negocia\u00e7\u00f5es, conversei com o Deputado Hugo Leal hoje, pela manh\u00e3, conversei com o L\u00edder do Governo, e apresentei essa emenda, de comum acordo, para tentar viabilizar a vota\u00e7\u00e3o dessa medida provis\u00f3ria, desse projeto.\r\nDessa forma, Sr. Presidente, queria ponderar a V.Exa. que n\u00e3o podemos atropelar a condi\u00e7\u00e3o regimental na qual estamos amparados ao apresentar uma emenda desse tipo. Acredito que n\u00e3o \u00e9 vi\u00e1vel fazer isso quando se tem acordo dentro desta Casa.\r\nEra isso que queria deixar bem claro, bem posto, para evitar problemas no futuro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F6%2F2020&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Wellington Roberto",
+        "sumario": "Similaridade de requerimentos de destaques do PP, do PL e do Republicanos. Proposta de retirada dos requerimentos do PP e do PL e perman\u00eancia do requerimento do Republicanos, oferecidos \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, sobre a inser\u00e7\u00e3o de dispositivo no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, e a altera\u00e7\u00e3o da Constitui\u00e7\u00e3o Federal para fins de reforma pol\u00edtico-eleitoral.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. WELLINGTON ROBERTO (PL - PB. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Arthur Lira, o PL, o Republicanos e o PP apresentaram destaques similares. Ent\u00e3o, propusemos ao L\u00edder Cac\u00e1 Le\u00e3o para retirar o destaque do Progressistas, o PL retira o dele tamb\u00e9m e permanece o destaque do Republicanos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

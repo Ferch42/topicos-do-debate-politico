@@ -1,0 +1,218 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "EMPRESA PRIVADA, OPERADOR DE PETR\u00d3LEO E G\u00c1S, RIO GRANDE DO NORTE, MOSSOR\u00d3 (RN), APOIO POL\u00cdTICO.\r\nBETO ROSADO, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), REGULAMENTA\u00c7\u00c3O, EXPLORA\u00c7\u00c3O, PETR\u00d3LEO, EMPRESA PRIVADA.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Regozijo do orador com o an\u00fancio de explora\u00e7\u00e3o, pela empresa PetroRec\u00f4ncavo S/A, de po\u00e7os maduros no Estado do Rio Grande do Norte.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Rio Grande do Norte tem recebido com muita alegria, com muita festa, a not\u00edcia de que a empresa privada PetroRec\u00f4ncavo vai explorar os po\u00e7os maduros da regi\u00e3o do Rio Grande do Norte. A cidade de Mossor\u00f3, onde nasci, \u00e9 a que vai ser mais beneficiada, com 34 campos. A empresa vai gerar, se Deus quiser, mais de 5 mil empregos onde antigamente a PETROBRAS atuava somente com seus funcion\u00e1rios.\r\nEstamos contentes com essa a\u00e7\u00e3o que foi fruto de um trabalho intenso que eu trouxe para esta Casa em 2015, com um projeto de lei que j\u00e1 foi aprovado em diversas Comiss\u00f5es e que vir\u00e1 a Plen\u00e1rio, para regulamentar a explora\u00e7\u00e3o feita por empresas privadas. N\u00f3s estamos felizes com a chegada da nova empresa. S\u00e3o novos tempos que n\u00f3s estamos vivendo.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Solicita\u00e7\u00e3o aos Deputados de apoio \u00e0 aprova\u00e7\u00e3o do projeto de lei sobre a regulamenta\u00e7\u00e3o da pr\u00e1tica de vaquejada no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, sou o Deputado Beto Rosado, do Rio Grande do Norte, e quero fazer um apelo aos nobres colegas Parlamentares para que n\u00f3s, mais uma vez, possamos dar uma vit\u00f3ria brilhante \u00e0 vaquejada, esporte genuinamente nordestino, cultura e orgulho da nossa regi\u00e3o. Tenho certeza de que o entendimento sobre ela j\u00e1 \u00e9 pac\u00edfico nesta Casa. N\u00f3s estamos agora regulamentando uma profiss\u00e3o que emprega milhares de nordestinos em todo o Brasil. A vaquejada \u00e9 uma manifesta\u00e7\u00e3o cultural que j\u00e1 virou febre nacional, e, assim como ela, rodeios e la\u00e7os.\r\nColegas, vamos dar hoje mais uma vit\u00f3ria aos esportes equestres!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=353&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), DEBATE, PARTICIPA\u00c7\u00c3O, GOVERNO ESTADUAL, RIO GRANDE DO NORTE, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "D\u00e9ficit financeiro do Estado do Rio Grande do Norte. Apelo \u00e0 Governadora Estadual de comparecimento a Bras\u00edlia para participa\u00e7\u00e3o nos debates da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de relatar para este Parlamento a situa\u00e7\u00e3o econ\u00f4mica que vive o Estado do Rio Grande do Norte. N\u00f3s temos l\u00e1 um d\u00e9ficit mensal de 130 milh\u00f5es. Em um dos menores Estados desta Na\u00e7\u00e3o, n\u00f3s temos um d\u00e9ficit antigo com os servidores estaduais de mais de 1 bilh\u00e3o de reais. E tamb\u00e9m temos com os prestadores de servi\u00e7o um d\u00e9ficit de mais de 1 bilh\u00e3o de reais. E o Governo do PT, que n\u00e3o causou esses problemas, nega-se a vir a Bras\u00edlia discutir quest\u00f5es da reforma da Previd\u00eancia. Esses 130 milh\u00f5es s\u00e3o inclusive d\u00e9ficits previdenci\u00e1rios.\r\nEnt\u00e3o, eu pe\u00e7o \u00e0 Governadora do Rio Grande do Norte que tenha sensibilidade para entender as discuss\u00f5es que o Brasil est\u00e1 tomando aqui na C\u00e2mara Federal e levar para o nosso Estado as mudan\u00e7as necess\u00e1rias, porque os Governos de esquerda do interior do Nordeste j\u00e1 tomaram as medidas deles, falta o Rio Grande do Norte.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=136&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RIO GRANDE DO NORTE, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Comemora\u00e7\u00e3o do 518\u00ba anivers\u00e1rio do Estado do Rio Grande do Norte.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer uma men\u00e7\u00e3o \u00e0 passagem do anivers\u00e1rio do meu Estado, o Rio Grande do Note, que hoje est\u00e1 completando 518 anos.\r\nDesde a instala\u00e7\u00e3o do Marco de Touros o Rio Grande do Norte tem tido participa\u00e7\u00e3o no Pa\u00eds, como, por exemplo, a maior produ\u00e7\u00e3o de energia e\u00f3lica: s\u00e3o mais de 4 gigas instalados. N\u00f3s entregamos energia para o Pa\u00eds, n\u00f3s temos a maior produ\u00e7\u00e3o de petr\u00f3leo em terra, n\u00f3s temos a maior produ\u00e7\u00e3o de sal - 98% do sal marinho do Pa\u00eds \u00e9 produzido no Rio Grande do Norte - e tamb\u00e9m temos a maior produ\u00e7\u00e3o de mel\u00e3o.\r\nO Rio Grande do Norte tem, ainda, algumas das praias mais bonitas, entre elas a Praia de Pipa, a Praia de Galinhos, a Praia de Touros, a Praia de Tibau.\r\nNossos colegas Parlamentares est\u00e3o todos convidados a conhecer a beleza que \u00e9 o Rio Grande do Norte.\r\nParab\u00e9ns, Rio Grande do Norte, pelos seus 508 anos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=315&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-28T09:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, FESTA JUNINA, MOSSOR\u00d3 (RN), MOSSOR\u00d3 CIDADE JUNINA 2019 (2019, MOSSOR\u00d3 (RN)), ESPET\u00c1CULO, EVENTO CULTURAL, RIO GRANDE DO NORTE.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Leitura do discurso encaminhado pelo Presidente Rodrigo Maia em homenagem ao evento Mossor\u00f3 Cidade Junina e ao espet\u00e1culo Chuva de Bala no Pa\u00eds de Mossor\u00f3.",
+        "tipoDiscurso": "FALA DO PRESIDENTE OU NO EXERC\u00cdCIO DA PRESID\u00caNCIA",
+        "transcricao": "O SR. PRESIDENTE (Beto Rosado. Bloco/PP - RN) - Muito bem.(Palmas.)\r\nEu vou ler agora o discurso do Sr. Presidente da C\u00e2mara dos Deputados, o Deputado Rodrigo Maia.\r\nO discurso dele \u00e9 maior do que o meu. Prometo que o meu ser\u00e1 mais breve.\r\n\"Senhoras e senhores, \u00e9 com muita alegria que, em atendimento \u00e0 solicita\u00e7\u00e3o do nobre colega Deputado Beto Rosado, do PP do Rio Grande do Norte, damos in\u00edcio a esta sess\u00e3o solene em homenagem \u00e0s festividades juninas da cidade de Mossor\u00f3, que est\u00e3o entre as mais tradicionais do Nordeste e diferenciam-se pela magnitude e repercuss\u00e3o. O evento intitulado Mossor\u00f3 Cidade Junina re\u00fane mais de 1 milh\u00e3o de pessoas todos os anos e \u00e9 hoje o terceiro maior do g\u00eanero no Pa\u00eds.\r\nA antiga esta\u00e7\u00e3o ferrovi\u00e1ria, hoje Esta\u00e7\u00e3o das Artes Elizeu Ventania, abriga em seus quase 50 mil metros quadrados um complexo de palcos, arenas e camarotes, al\u00e9m de barracas, bares e restaurantes e do famoso Circo do Forr\u00f3. Sucedem-se shows musicais e eventos de humor, todos gratuitos para a popula\u00e7\u00e3o, que se delicia com a fartura de iguarias t\u00edpicas das festas juninas. O destaque fica por conta dos concursos de quadrilhas, que atraem grupos de todo o Brasil, em especial o Concurso de Quadrilhas Estilizadas, que premia a criatividade dentro da tradi\u00e7\u00e3o.\r\nComo se pode imaginar, as festas de Mossor\u00f3 representam uma grande oportunidade para a economia da cidade, por mobilizar setores cruciais do turismo - com\u00e9rcio, hotelaria, gastronomia. Trabalhadores informais, sobretudo, s\u00e3o beneficiados com o incremento da procura por servi\u00e7os diversos em torno das festividades.\r\nPara al\u00e9m do incentivo ao turismo e do incremento econ\u00f4mico, devemos destacar o grande significado hist\u00f3rico e cultural da festa de Mossor\u00f3. A cada ano, renova-se uma tradi\u00e7\u00e3o fundamental vinculada \u00e0 vida no campo, profundamente imbricada com a identidade do povo do Nordeste. Ali, a despeito do acesso a tecnologias e da avalanche de informa\u00e7\u00f5es viabilizada pelas novas m\u00eddias, preserva-se uma potente vis\u00e3o do mundo, que insere as pessoas na trama de saberes e fazeres tradicionais, fortalece o v\u00ednculo com a terra natal e confere ao povo a mais saud\u00e1vel sensa\u00e7\u00e3o de perten\u00e7a, comunidade e - por que n\u00e3o dizer? - cidadania.\r\nN\u00e3o se pode deixar de mencionar, a prop\u00f3sito, o epis\u00f3dio que ficou conhecido como Chuva de Bala, que se reporta a 13 de junho de 1927, quando a popula\u00e7\u00e3o de Mossor\u00f3 expulsou da cidade o bando de cangaceiros de Lampi\u00e3o.\r\nO feito hist\u00f3rico \u00e9 sempre relembrado por representa\u00e7\u00f5es teatrais que revivem um momento de resist\u00eancia e glorificam o sentimento de uni\u00e3o em torno do bem comum. \r\n\u00c9 por tudo isso que as festas juninas de Mossor\u00f3 s\u00e3o t\u00e3o significativas para o Rio Grande do Norte, para o Nordeste e para o Brasil, expressando a mais aut\u00eantica identidade regional, preservando a mem\u00f3ria hist\u00f3rica, valorizando um conjunto de tradi\u00e7\u00f5es e materializando o apego \u00e0 terra natal. A\u00ed se manifestam os mecanismos ancestrais que consolidam, ao longo do tempo, nossa ideia de povo e Na\u00e7\u00e3o. \r\nComungando, pois, da alegria do povo de Mossor\u00f3, cumprimentamos a todos os que participam da organiza\u00e7\u00e3o das festas, nas esferas p\u00fablica e privada, desejando que, a cada ano, todo esse sucesso se repita, atraindo cada vez mais turistas e amantes das festas juninas de todo o Pa\u00eds.\r\nObrigado.\"(Palmas.)\r\nEu agrade\u00e7o muito ao nobre Presidente da C\u00e2mara o discurso que enviou. Est\u00e1 muito parecido com o meu.\r\nEu gostaria de mencionar a presen\u00e7a das seguintes autoridades: o Prefeito Ciro Bezerra, de Ita\u00fa; o Prefeito Cl\u00e9cio Azevedo, de Bom Jesus; o nobre Deputado Benes Leoc\u00e1dio; o Prefeito Marcelo Porto, de Bod\u00f3; o Prefeito Fernando Teixeira, de Esp\u00edrito Santo; os Vereadores Z\u00e9 Peixeiro, Alex Moacir e Em\u00edlio, de Mossor\u00f3.\r\nEu gostaria de convidar a nobre Senadora Zenaide Maia para participar da Mesa conosco. A senhora est\u00e1 convidada, Senadora.\r\nConvido a todos a acompanhar a apresenta\u00e7\u00e3o teatral do grupo composto por dez pessoas, acompanhado do sanfoneiro Giannini Alencar, e a demonstra\u00e7\u00e3o de pintura pelo artista Marcelo Amarelo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F8%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-28T09:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, FESTA JUNINA, MOSSOR\u00d3 (RN), MOSSOR\u00d3 CIDADE JUNINA 2019 (2019, MOSSOR\u00d3 (RN)), ESPET\u00c1CULO, EVENTO CULTURAL.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Homenagem ao evento Mossor\u00f3 Cidade Junina e ao espet\u00e1culo Chuva de Bala no Pa\u00eds de Mossor\u00f3.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Sem revis\u00e3o do orador.) - Bom dia a todos, mais uma vez! Gostaria de cumprimentar todos os amigos que vieram no dia de hoje. Gostaria de cumprimentar os colegas que comp\u00f5em a Mesa: a Profa. Isaura Am\u00e9lia; a Prefeita Rosalba Ciarlini; o nosso Deputado Benes Leoc\u00e1dio; Isabel Montenegro, nossa Presidente da C\u00e2mara Municipal de Mossor\u00f3; Eduardo Falc\u00e3o, nosso Secret\u00e1rio de Cultura de Mossor\u00f3; e a nossa Senadora Zenaide Maia.\r\nHoje \u00e9 um dia muito especial para todo o Rio Grande do Norte, principalmente para n\u00f3s mossoroenses, pois \u00e9 um marco do reconhecimento nacional do Mossor\u00f3 Cidade Junina, j\u00e1 considerado o terceiro maior S\u00e3o Jo\u00e3o do Brasil, como tamb\u00e9m deste aut\u00eantico e magn\u00edfico espet\u00e1culo intitulado Chuva de Bala no Pa\u00eds de Mossor\u00f3, que voc\u00eas tiveram um gostinho de conhecer no dia de hoje, apresentado pelos nossos nobres artistas.\r\nTodo mossoroense carrega em seu DNA a heran\u00e7a do pioneirismo e da valoriza\u00e7\u00e3o cultural. Somos reconhecidos como a terra da liberdade, pois foi Mossor\u00f3 uma das primeiras cidades a libertar os escravos, 5 anos antes da Lei \u00c1urea. A primeira mulher a ter o direito de votar no Brasil foi Celina Guimar\u00e3es Viana, que votou em Mossor\u00f3 nas elei\u00e7\u00f5es de 5 de abril de 1928.\r\nTamb\u00e9m somos a terra da resist\u00eancia. Como voc\u00eas viram aqui, em 1927, do alto da Capela S\u00e3o Vicente, o povo de Mossor\u00f3 resistiu \u00e0 invas\u00e3o do bando de Lampi\u00e3o, fato que h\u00e1 18 anos \u00e9 rememorado no espet\u00e1culo Chuva de Bala, no pa\u00eds de Mossor\u00f3. E aqui cito o escritor potiguar Tarc\u00edsio Gurgel, a quem parabenizo. Ele foi autor do texto original da pe\u00e7a. \r\nO espet\u00e1culo \u00e9 um dos principais palcos para os nossos artistas locais, atores, dan\u00e7arinos e produtores. Temos um verdadeiro celeiro de talentos. E a todos os artistas manifesto a minha admira\u00e7\u00e3o e agradecimento, que hoje aqui est\u00e3o representados pelos seguintes: Abra\u00e3o de Morais, core\u00f3grafo dan\u00e7arino; Jeyson Leonardo, ator Lampi\u00e3o, do Chuva de Bala; Raimundo Dam\u00e1sio, ator, Prefeito Rodolfo Fernandes, no Chuva de Bala; Giannini Alencar, cantor e compositor; Marcelo Amarelo, artista pl\u00e1stico. E quero agradecer tamb\u00e9m \u00e0 quadrilha Lume da Fogueira, por ter disponibilizado os integrantes Deilson Pereira, Luana Silva, Francisco Adriano da Silva e Jocilene Real. \r\nO Mossor\u00f3 Cidade Junina - MCJ \u00e9 a uni\u00e3o de diversos polos de cultura em um s\u00f3 evento: Pingo da Mei Dia, Cidadela, Esta\u00e7\u00e3o das Artes, Festival de Quadrilhas e encerrando com o Boca da Noite. Em 2019, mais de 1 milh\u00e3o de visitantes participaram dos festejos, e isso representou 90 milh\u00f5es de reais injetados na economia s\u00f3 no m\u00eas de junho. \r\nE, para finalizar, gostaria de citar algumas personalidades que foram importantes para que o Mossor\u00f3 Cidade Junina se tornasse este evento grandioso: a Prefeita Rosalba Ciarlini, que h\u00e1 23 anos idealizou este evento, e a todos os demais gestores que aprimoraram e engrandeceram o MCJ ao longo dos anos: o saudoso Gonzaga Chimbinho, ex-Secret\u00e1rio de Cultura, Isaura Am\u00e9lia Rosado Maia, professora e doutora e uma das principais incentivadoras da cultura popular potiguar, al\u00e9m de todos os servidores que contribu\u00edram em todos os eventos ao longo desses anos. \r\nQue continuemos com dedica\u00e7\u00e3o, valorizando a nossa cultura. S\u00f3 assim poderemos garantir que as gera\u00e7\u00f5es futuras perpetuem esse fabuloso evento, pois a cultura \u00e9 a identidade de um povo. \r\nMuito obrigado. (Palmas.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F8%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FESTA DO BOI (2019, RIO GRANDE DO NORTE).",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Convide aos Parlamentares para participa\u00e7\u00e3o na Exposi\u00e7\u00e3o de Animais e M\u00e1quinas Agr\u00edcolas do Rio Grande do Norte, conhecida como Festa do Boi.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente F\u00e1bio Faria, muito nos orgulha aos potiguares ver V.Exa. sentado na cadeira da Presid\u00eancia, presidindo os trabalhos desta Casa.\r\nEu venho aqui para fazer um convite aos nobres colegas Parlamentares para conhecerem a nossa Festa do Boi, que est\u00e1 acontecendo durante esta semana - vai at\u00e9 o dia 19. N\u00f3s teremos tamb\u00e9m uma reuni\u00e3o da Frente Parlamentar da Agricultura durante o evento, no dia 18, \u00e0s 10 horas da manh\u00e3.\r\nEnt\u00e3o, o Rio Grande do Norte, que tem uma participa\u00e7\u00e3o muito importante na agricultura do Brasil, est\u00e1 fazendo esse convite para que o Pa\u00eds conhe\u00e7a nosso Estado e nossas realiza\u00e7\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "GOVERNO FEDERAL, PAGAMENTO, ATRASADO, SISTEMA \u00daNICO DE ASSIST\u00caNCIA SOCIAL (SUAS).",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Apelo ao Governo Federal de regulariza\u00e7\u00e3o do pagamento de parcelas atrasadas do Sistema \u00danico de Assist\u00eancia Social - SUAS.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Sem revis\u00e3o do orador.) - Sr. Presidente, obrigado pela oportunidade.\r\nQuero fazer um alerta ao Governo Federal sobre o SUAS - Sistema \u00danico de Assist\u00eancia Social. J\u00e1 s\u00e3o quase 6 meses de atraso. O Rio Grande do Norte \u00e9 um Estado que j\u00e1 contabiliza 30 milh\u00f5es de reais de parcelas em atraso. Isso tem afetado diretamente o funcionamento dos nossos CRAS - Centros de Refer\u00eancia da Assist\u00eancia Social.\r\nEu fa\u00e7o este apelo para que possamos refor\u00e7ar, dar continuidade aos diversos programas de amparo a nossa sociedade de mais baixa renda, para que o Governo fa\u00e7a esse pagamento, para que o nosso Ministro da Cidadania, Osmar Terra, fa\u00e7a esse gesto nobre de atendimento e pagamento ao SUAS.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ROG\u00c9RIO MARINHO, EX-DEPUTADO FEDERAL, NOMEA\u00c7\u00c3O, MINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Acerto da nomea\u00e7\u00e3o do ex-Deputado Rog\u00e9rio Marinho para o cargo de  Ministro do Desenvolvimento Regional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO ROSADO (Bloco/PP - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de parabenizar o colega Rog\u00e9rio Marinho, meu conterr\u00e2neo, pela indica\u00e7\u00e3o do seu nome para o Minist\u00e9rio do Desenvolvimento Regional.\r\nGrande ser\u00e1 sua miss\u00e3o, pela for\u00e7a do Minist\u00e9rio, pela capilaridade que tem em todo o Brasil, mas eu tenho certeza de que o Minist\u00e9rio est\u00e1 nas m\u00e3os de um grande trabalhador, que vai fazer uma grande a\u00e7\u00e3o pelo nosso Brasil.\r\nParab\u00e9ns, Rog\u00e9rio!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=183&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-02T09:22",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, PAIX\u00c3O DE CRISTO (CELEBRA\u00c7\u00c3O), PO\u00c7O BRANCO (RN), OBRA DE TEATRO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, DISCURSO PARLAMENTAR, PRONUNCIAMENTO PARLAMENTAR, LEITURA, ABERTURA.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Leitura do discurso encaminhado pelo Presidente Rodrigo Maia em homenagem ao espet\u00e1culo Paix\u00e3o de Cristo, realizado no Munic\u00edpio de Po\u00e7o Branco, Estado do Rio Grande do Norte, Polo Cultural da Regi\u00e3o de Mato Grande. Discurso do orador sobre o assunto. Congratula\u00e7\u00f5es ao Grupo Teatral \u00c1guia.",
+        "tipoDiscurso": "FALA DO PRESIDENTE OU NO EXERC\u00cdCIO DA PRESID\u00caNCIA",
+        "transcricao": "O SR. PRESIDENTE (Beto Rosado. Bloco/PP - RN) - Sras. e Srs. Deputados, senhores convidados, passo a ler pronunciamento que me foi encaminhado pelo Exmo. Sr. Presidente da C\u00e2mara dos Deputados, nos seguintes termos:\r\n\"Senhoras e senhores, quero, antes de mais nada, saudar, em nome da Mesa da Casa, a iniciativa do nobre Deputado Beto Rosado, autor do requerimento para a realiza\u00e7\u00e3o desta justa homenagem ao espet\u00e1culo teatral em que a comunidade do Munic\u00edpio de Po\u00e7o Branco, no Rio Grande do Norte, encena a Paix\u00e3o de Cristo.\r\nEsta \u00e9 uma tradi\u00e7\u00e3o que remonta a meados da d\u00e9cada de 70 do s\u00e9culo passado, quando surgiu em Po\u00e7o Branco o Grupo Teatral \u00c1guia, fundado pela Irm\u00e3 Ondina. A religiosa visava o fortalecimento da cultura e da religiosidade locais, objetivos que foram plenamente alcan\u00e7ados. Desde o in\u00edcio, o grupo aglutinou moradores de variadas faixas et\u00e1rias, que se re\u00fanem ao longo de todo o ano para a produ\u00e7\u00e3o do espet\u00e1culo.\r\nMas a trajet\u00f3ria da companhia teatral de Po\u00e7o Branco n\u00e3o esteve livre de percal\u00e7os. Chegou o dia em que a sua fundadora foi obrigada a deixar o Munic\u00edpio, e o grupo passou a ser liderado pelo Sr. Ant\u00f4nio Guedes de Miranda, que por v\u00e1rios anos permaneceu \u00e0 frente das atividades. Em 2007, uma s\u00e9rie de adversidades levou \u00e0 interrup\u00e7\u00e3o do trabalho do Grupo \u00c1guia, que s\u00f3 voltou a se reunir em 2018.\r\nSenhoras e senhores, a exist\u00eancia, no Brasil inteiro, de companhias teatrais amadoras dedicadas a encenar a Paix\u00e3o de Cristo atesta a for\u00e7a da nossa religiosidade popular. Tais iniciativas devem ser sempre valorizadas e apoiadas, como o fizeram os representantes do povo de Po\u00e7o Branco. No ano passado, foi aprovado pela C\u00e2mara de Vereadores projeto de lei que declara o espet\u00e1culo do Grupo \u00c1guia patrim\u00f4nio cultural municipal, iniciativa merecedora dos nossos aplausos.\r\nAl\u00e9m de ser um valioso testemunho da f\u00e9 da comunidade de Po\u00e7o Branco, a realiza\u00e7\u00e3o desse espet\u00e1culo atrai, a cada ano, n\u00famero cada vez maior de visitantes, promovendo o desenvolvimento econ\u00f4mico e cultural de toda a regi\u00e3o do Mato Grande.\r\nHoje, pois, quando esta Casa realiza t\u00e3o merecida homenagem ao espet\u00e1culo encenado na Semana Santa pelo Grupo Teatral \u00c1guia, quero saudar, em nome da C\u00e2mara dos Deputados, os seus componentes, que t\u00eam \u00e0 frente o diretor art\u00edstico Adriano Duarte. Parabenizo ainda a comunidade de Po\u00e7o Branco, na pessoa do seu Prefeito Waldemar de Gois, um grande incentivador da cultura local.\r\nQuero aproveitar a oportunidade para reiterar o compromisso do Parlamento com todas as iniciativas que visam o fortalecimento da cultura e o apoio \u00e0s manifesta\u00e7\u00f5es da religiosidade popular.\"\r\nObrigado.(Palmas.)\r\nAqui conosco est\u00e3o tamb\u00e9m alguns familiares: Ricardo Bezerra, Maria Luciene Bezerra e Isabele de Souza.\r\nAgora eu vou falar como autor do requerimento.\r\nSras. e Srs. Deputados, quero inicialmente saudar o Waldemar de Gois, Prefeito do Munic\u00edpio de Po\u00e7o Branco; a Ana Cristina Galdino, Vice-Prefeita e Secret\u00e1ria de Assist\u00eancia Social; o Vereador Jo\u00e3o Horacio de Gois, Presidente da C\u00e2mara Municipal de Po\u00e7o Branco; a Aretuza Miranda, Secret\u00e1ria Municipal de Educa\u00e7\u00e3o; o Adriano Duarte, Coordenador Cultural do Munic\u00edpio; a \u00c9rica Fernandes, Primeira-Dama do Munic\u00edpio; e toda a popula\u00e7\u00e3o po\u00e7o-branquense em nome dos quatro integrantes mais antigos do Grupo Teatral \u00c1guia, Vicente de Paula, Paulo Epaminondas, Junior Agulha e Glebson Santos.\r\n\u00c9 com muita alegria e orgulho que realizo nesta Casa Sess\u00e3o Solene em homenagem ao espet\u00e1culo Paix\u00e3o de Cristo, que vem, ano a ano, somando-se a outras manifesta\u00e7\u00f5es culturais, transformando o Munic\u00edpio de Po\u00e7o Branco em Polo Cultural da Regi\u00e3o do Mato Grande, no nosso Rio Grande do Norte.\r\nNosso mandato entende que a cultura, assim como a educa\u00e7\u00e3o, s\u00e3o instrumentos de forma\u00e7\u00e3o do cidad\u00e3o, e seu crescimento implica diretamente no desenvolvimento econ\u00f4mico do Munic\u00edpio. Por isso, temos apoiado e incentivado a valoriza\u00e7\u00e3o e a difus\u00e3o das manifesta\u00e7\u00f5es culturais no nosso Estado.\r\nO carnaval no Rio de Janeiro, o C\u00edrio de Nazar\u00e9, em Bel\u00e9m, os Bois de Parintins, na Amaz\u00f4nia, s\u00e3o exemplos grandiosos.\r\nNo Nordeste, as festas do ciclo junino t\u00eam se consolidado em Caruaru, em Campina Grande e em Mossor\u00f3 com o poder de desenvolver o turismo, aquecer a economia, fomentar o com\u00e9rcio e gerar empregos tempor\u00e1rios. E s\u00e3o a cada ano mais concorridas e fortalecidas.\r\nH\u00e1 pouco tempo, est\u00e1vamos aqui nesta Casa homenageando o Mossor\u00f3 Cidade Junina e o espet\u00e1culo Chuva de Bala no Pa\u00eds de Mossor\u00f3.\r\nAproveito a oportunidade para convidar amigos brasileiros a conhecer o S\u00e3o Jo\u00e3o mais cultural do Brasil.\r\nMas voltemos a nosso Po\u00e7o Branco, que, com apenas 57 anos de funda\u00e7\u00e3o e pouco mais de 15 mil habitantes, tem agrad\u00e1veis ruas largas e longas e \u00e9 uma cidade projetada, assim como Bras\u00edlia.\r\nO Grupo Teatral \u00c1guia foi criado pela nossa Irm\u00e3 Ondina Gonzatto, na d\u00e9cada de 70, visando o fortalecimento da religiosidade. Ao lado de Ant\u00f4nio Miranda, Ondina criou o espet\u00e1culo Paix\u00e3o de Cristo. Hoje s\u00e3o mais de 150 pessoas envolvidas, entre crian\u00e7as, jovens e idosos, que, de forma volunt\u00e1ria, contribuem para a realiza\u00e7\u00e3o do espet\u00e1culo, que transmite uma mensagem da f\u00e9 e da renova\u00e7\u00e3o ao longo dos \u00faltimos 40 anos.\r\nO espet\u00e1culo n\u00e3o s\u00f3 se tornou um evento de f\u00e9, mas tamb\u00e9m um marco cultural no calend\u00e1rio do Munic\u00edpio. E mais: expandiu-se para toda a regi\u00e3o do Mato Grande, alavancando o desenvolvimento cultural e econ\u00f4mico de toda a regi\u00e3o.\r\nA Paix\u00e3o de Cristo foi s\u00f3 o come\u00e7o. Outras celebra\u00e7\u00f5es vieram no rastro do sucesso, transformando Po\u00e7o Branco e elevando a cidade ao posto de Polo Cultural da Regi\u00e3o do Mato Grande. A nossa hist\u00f3ria Po\u00e7o Branco traz de forma l\u00fadica o surgimento do Munic\u00edpio. O Auto de Natal ilumina a cidade e o nosso esp\u00edrito ao contar a hist\u00f3ria do nascimento. E o \u00c9 carnaval, \u00e9 folia faz a alegria das crian\u00e7as.\r\nTodos n\u00f3s nos identificamos nos espet\u00e1culos produzidos pela popula\u00e7\u00e3o de Po\u00e7o Branco. \u00c9 a cultura que nos diz quem somos. \u00c9 na cria\u00e7\u00e3o art\u00edstica e cultural que nos reconhecemos.\r\nEnt\u00e3o, amigos e amigas, quero deixar registrado que a hist\u00f3ria cultural do Munic\u00edpio de Po\u00e7o Branco \u00e9 um orgulho para n\u00f3s. E \u00e9 com imensa satisfa\u00e7\u00e3o e alegria no cora\u00e7\u00e3o que eu ofere\u00e7o essa homenagem como forma de reafirmar o nosso compromisso pela cultura de Po\u00e7o Branco.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-02T10:10",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, PAIX\u00c3O DE CRISTO (CELEBRA\u00c7\u00c3O), PO\u00c7O BRANCO (RN), OBRA DE TEATRO, PROJETO DE LEI ORDIN\u00c1RIA, PATRIM\u00d4NIO CULTURAL, MUNIC\u00cdPIO, C\u00c2MARA MUNICIPAL.\r\nBETO ROSADO, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 427/2020, PROJETO DE LEI ORDIN\u00c1RIA, RECONHECIMENTO, ESPET\u00c1CULO, PAIX\u00c3O DE CRISTO (CELEBRA\u00c7\u00c3O), PO\u00c7O BRANCO (RN), RIO GRANDE DO NORTE, MANIFESTA\u00c7\u00c3O CULTURAL, CULTURA NACIONAL.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Agradecimento pela apresenta\u00e7\u00e3o do Grupo Teatral \u00c1guia. Encaminhamento, pela C\u00e2mara Municipal de Po\u00e7o Branco, Estado do Rio Grande do Norte, de projeto de lei sobre o reconhecimento do espet\u00e1culo teatral Paix\u00e3o de Cristo, realizado na municipalidade, como manifesta\u00e7\u00e3o de cultural nacional.",
+        "tipoDiscurso": "FALA DO PRESIDENTE OU NO EXERC\u00cdCIO DA PRESID\u00caNCIA",
+        "transcricao": "O SR. PRESIDENTE (Beto Rosado. Bloco/PP - RN) - Gostaria de agradecer a apresenta\u00e7\u00e3o ao Grupo Teatral \u00c1guia, que nos honrou e nos permitiu acompanhar essa brilhante execu\u00e7\u00e3o, feita, acredito, num curto espa\u00e7o de tempo, sendo remontados os tr\u00eas principais espet\u00e1culos do Munic\u00edpio.\r\nQuero agradecer ao Prefeito Waldemar de Gois o esfor\u00e7o em colocar o Poder Executivo em prol da cultura, para valorizar essa arte genu\u00edna, nordestina, da terra.\r\nGostaria de saudar toda a sociedade po\u00e7o-branquense que nos acompanha hoje atrav\u00e9s das m\u00eddias sociais e da TV C\u00e2mara.\r\nGostaria ainda de saudar os nobres Vereadores J\u00fanior Agulha e Rodrigo Lucas, que tamb\u00e9m comp\u00f5em o elenco, e a Chefe de Gabinete da C\u00e2mara Municipal, Jailma Bezerra.\r\nA C\u00e2mara Municipal de Po\u00e7o Branco deu entrada a projeto de lei que declarou esse espet\u00e1culo patrim\u00f4nio cultural municipal, uma iniciativa que \u00e9 merecedora de aplausos. E n\u00f3s, aqui na C\u00e2mara Federal, tamb\u00e9m estamos ingressando com um projeto para transformar Po\u00e7o Branco em polo cultural do Mato Grande.\r\nO reconhecimento est\u00e1 nesta placa, cujo teor passo a ler:\r\nHomenagem a Po\u00e7o Branco, cidade polo cultural do Mato Grande.\r\nO Deputado Federal Beto Rosado vem a p\u00fablico nesta data t\u00e3o significativa honrar e reconhecer o Munic\u00edpio de Po\u00e7o Branco como cidade polo cultural do Mato Grande.\r\nO povo po\u00e7o-branquense orgulha o Rio Grande do Norte pela realiza\u00e7\u00e3o do espet\u00e1culo teatral Paix\u00e3o de Cristo, que \u00e9 patrim\u00f4nio cultural do Munic\u00edpio. \r\nBras\u00edlia, 2 de mar\u00e7o de 2020.\r\nPrefeito, este \u00e9 o projeto de lei que estou ingressando na Casa:\r\nO Congresso Nacional decreta:\r\nArt. 1\u00ba Fica reconhecido o espet\u00e1culo teatral \"Paix\u00e3o de Cristo\", realizado no Munic\u00edpio de Po\u00e7o Branco, localizado no Estado do Rio Grande do Norte, como manifesta\u00e7\u00e3o da cultura nacional.\r\nArt. 2\u00ba Esta lei entra em vigor na data de sua publica\u00e7\u00e3o.\r\nAgrade\u00e7o, Prefeito, o esfor\u00e7o feito para trazer todos esses artistas hoje a Bras\u00edlia. Eu tenho certeza de que foi uma viagem dif\u00edcil, dura. Mas voc\u00eas foram muito bem acolhidos na cidade. Bras\u00edlia est\u00e1 orgulhosa da presen\u00e7a de voc\u00eas. Eu tenho certeza de que engrandeceu muito a C\u00e2mara dos Deputados esta sess\u00e3o solene.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-13T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AGRADECIMENTO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ORDEM DE SERVI\u00c7O, RIO GRANDE DO NORTE, RIO APODI, ROG\u00c9RIO MARINHO, MINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL, F\u00c1BIO FARIA, MINISTRO DE ESTADO DAS COMUNICA\u00c7\u00d5ES, TRANSPOSI\u00c7\u00c3O DE \u00c1GUAS DO RIO S\u00c3O FRANCISCO, RESERVAT\u00d3RIO ARTIFICIAL, SANTA CRUZ (RN), PAU DOS FERROS (RN), MOSSOR\u00d3 (RN), REGI\u00c3O NORDESTE, CEAR\u00c1.",
+        "nomeDeputado": "Beto Rosado",
+        "sumario": "Assinatura pelo Presidente Jair Bolsonaro da ordem de servi\u00e7o para as obras do Ramal Apodi, por ocasi\u00e3o de sua visita ao Estado do Rio Grande do Norte. Transposi\u00e7\u00e3o de \u00e1guas do Rio S\u00e3o Francisco ao Estado por meio do Ramal Apodi ao Reservat\u00f3rio de Santa Cruz. Agradecimento ao Ministro do Desenvolvimento Regional, Rog\u00e9rio Marinho, pela inser\u00e7\u00e3o da regi\u00e3o oeste do Rio Grande do Norte no Projeto de Transposi\u00e7\u00e3o de \u00c1guas do Rio S\u00e3o Francisco.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BETO ROSADO (PP - RN. Sem revis\u00e3o do orador.) - Presidente, obrigado pela oportunidade.\r\nQuero, nesta Casa, registrar a presen\u00e7a do Presidente da Rep\u00fablica, Jair Bolsonaro, no Rio Grande do Norte, onde, junto com o Ministro Rog\u00e9rio Marinho e com o Ministro F\u00e1bio Faria, assinou a ordem de servi\u00e7o para a t\u00e3o sonhada obra do Ramal Apodi.\r\nN\u00f3s sabemos a import\u00e2ncia que a transposi\u00e7\u00e3o do Rio S\u00e3o Francisco tem para todo o Nordeste brasileiro. E, com certeza, essa obra do Ramal Apodi, que insere o nosso Rio Grande do Norte, que insere o nosso povo potiguar dentro das obras da transposi\u00e7\u00e3o, \u00e9 de fundamental import\u00e2ncia. Mais de 700 mil potiguares v\u00e3o ter acesso a essa \u00e1gua, atrav\u00e9s da pereniza\u00e7\u00e3o do Rio Apodi-Mossor\u00f3.\r\nO Presidente Jair Bolsonaro pousou no aeroporto de Mossor\u00f3 e seguiu para Pau dos Ferros, que \u00e9 onde fica nosso Reservat\u00f3rio de Santa Cruz. Esse reservat\u00f3rio receber\u00e1 as \u00e1guas do S\u00e3o Francisco e, com certeza, vai ser a reden\u00e7\u00e3o desse povo nordestino, que tem muita for\u00e7a de trabalho e muita vontade de produzir. A regi\u00e3o de Mossor\u00f3, l\u00e1 no Rio Grande do Norte, j\u00e1 \u00e9 a maior exportadora de frutas, de cucurbit\u00e1ceas, de mel\u00e3o do Brasil. Eu tenho certeza de que agora, al\u00e9m de termos \u00e1gua para matar a sede do povo, n\u00f3s vamos ter \u00e1gua para produzir, para tirar o nordestino da mis\u00e9ria, das dificuldades, das intemp\u00e9ries que n\u00f3s vivemos.\r\nO nosso Cear\u00e1, do nosso colega Deputado Bismarck, vai receber tamb\u00e9m um gancho para o seu Reservat\u00f3rio do Castanh\u00e3o. Assim, vamos ter \u00e1gua para toda a regi\u00e3o.\r\nJ\u00e1 est\u00e1vamos contemplados, sim, com a obra da transposi\u00e7\u00e3o, a partir do Reservat\u00f3rio de Cai\u00e7ara, com a chegada das \u00e1guas ao leito do rio natural Piranhas, ao nosso Reservat\u00f3rio Armando Ribeiro. Mas, somente agora, com essa chegada da transposi\u00e7\u00e3o ao Reservat\u00f3rio de Santa Cruz, atrav\u00e9s de canais, n\u00f3s vamos ter \u00e1gua em quantidade e qualidade suficientes para o desenvolvimento da regi\u00e3o.\r\nAgrade\u00e7o ao Presidente Jair Bolsonaro. E agrade\u00e7o ao nosso Ministro Rog\u00e9rio Marinho, porque foi a sua gest\u00e3o \u00e0 frente do Minist\u00e9rio do Desenvolvimento Regional que inseriu a regi\u00e3o oeste do nosso Rio Grande do Norte nas obras da transposi\u00e7\u00e3o.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

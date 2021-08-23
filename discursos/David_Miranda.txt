@@ -1,0 +1,1082 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JEAN WYLLYS, EX-DEPUTADO FEDERAL, CONTRA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, IMPROCED\u00caNCIA, DECIS\u00c3O JUDICIAL.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Decis\u00e3o judicial pela improced\u00eancia de a\u00e7\u00e3o movida pelo Presidente Jair Bolsonaro contra o ex-Deputado Jean Wyllys.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, estou aqui para falar pelo nosso companheiro que est\u00e1 exilado, Jean Wyllys. \r\nA Justi\u00e7a acabou de julgar improcedente a a\u00e7\u00e3o que Bolsonaro moveu contra ele, quando Jean Wyllys, como Deputado, chamou-o de racista, fascista, desqualificado, desonesto, corrupto, canalha, nepotista e boquirroto.\r\nEnt\u00e3o, estou aqui para falar, um, pela democracia, e um, pelo Jean e pelos LGBTs que j\u00e1 sofreram nesta Casa, mas que ainda encontram resist\u00eancia na democracia!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=107&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GUSTAVO BEBIANNO, EX-MINISTRO-CHEFE, SECRETARIA-GERAL DA PRESID\u00caNCIA DA REP\u00daBLICA, REQUERIMENTO DE CONVOCA\u00c7\u00c3O, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Consulta \u00e0 Presid\u00eancia sobre a vota\u00e7\u00e3o de requerimento de convoca\u00e7\u00e3o do ex-Ministro-Chefe da Secretaria Geral da Presid\u00eancia da Rep\u00fablica, Gustavo Bebianno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na semana passada, o PSOL apresentou um requerimento chamando o antigo Ministro Bebianno para vir a esta Casa para responder quest\u00f5es.\r\nEsse requerimento precisa ser apreciado pela Mesa e ser votado. Lembrando que ele n\u00e3o tem mais foro privilegiado e que s\u00e3o de extrema import\u00e2ncia as entrevistas que o antigo Ministro deu, falando que o Presidente era um perigo para o Pa\u00eds.\r\nN\u00f3s do PSOL quer\u00edamos saber quando esse requerimento vai ser apreciado pela Mesa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO POLITICO, ESQUERDA POLITICA, CONTRA, PARTIDO SOCIAL LIBERAL (PSL), CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Contesta\u00e7\u00e3o ao discurso proferido pelo Deputado Alexandre Frota contra o PSOL e o PT.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o nosso partido foi citado.\r\nO nosso partido est\u00e1 aqui. Eu sou do PSOL, eleito pela cidade do Rio de Janeiro para representar a popula\u00e7\u00e3o. N\u00e3o \u00e9 poss\u00edvel querer atacar o PT e PSOL por n\u00e3o conseguir responder por que o partido dele colocou tantos laranjas, por que o filho do Presidente n\u00e3o responde por haver pessoas envolvidas com o escrit\u00f3rio do crime. Ent\u00e3o, por que o nobre Deputado Federal Alexandre Frota n\u00e3o fala do pr\u00f3prio partido, que est\u00e1 envolvido em esquemas de corrup\u00e7\u00e3o, em vez de ficar citando partidos que n\u00e3o t\u00eam ningu\u00e9m envolvido com corrup\u00e7\u00e3o?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIALISMO E LIBERDADE (PSOL),  VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso III, do art. 3\u00ba do Projeto de Lei Complementar n\u00ba 441, de 2017, sobre os cadastros positivos de cr\u00e9dito e regulamenta\u00e7\u00e3o da responsabilidade civil dos operadores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - A bancada do PSOL encaminha o voto \"n\u00e3o\".\r\nMas eu queria afirmar aqui que hoje \u00e9 um dia hist\u00f3rico. Hoje, no STF, o Ministro Celso de Mello votou a favor da criminaliza\u00e7\u00e3o da LGBTfobia. N\u00f3s sabemos que o Brasil \u00e9 o pa\u00eds que mais mata LGBTs no mundo.\r\nO Jean saiu do Pa\u00eds em raz\u00e3o do que ele sofria dentro desta Casa. Ele est\u00e1 asilado. Marielle era uma LGBT que tamb\u00e9m foi assassinada nesse sistema que criminaliza todos n\u00f3s.\r\nEnt\u00e3o, hoje \u00e9 um dia hist\u00f3rico. Espero que todos os outros Ministros continuem votando, porque a mat\u00e9ria seria de responsabilidade desta Casa, cuja configura\u00e7\u00e3o atual \u00e9 superconservadora. Por isso, precisamos do Judici\u00e1rio para votar essas pautas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=339&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DAVID MIRANDA, DEPUTADO FEDERAL, FAVELA DO JACAREZINHO, NEGROS, MOVIMENTO LGBT, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nDEFESA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), ESQUERDA POL\u00cdTICA, COMBATE, MIL\u00cdCIA PRIVADA.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, FL\u00c1VIO BOLSONARO, SENADOR, S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, CAIXA DOIS, GOVERNO, CORRUP\u00c7\u00c3O, ILEGALIDADE, FUNDO PARTID\u00c1RIO, FUNDO DE FINANCIAMENTO DE CAMPANHAS ELEITORAIS, REFORMA PREVIDENCI\u00c1RIA, POL\u00cdTICA EXTERNA, VENEZUELA, CR\u00cdTICA.\r\nA\u00c9CIO NEVES, DEPUTADO FEDERAL, CORRUP\u00c7\u00c3O, CR\u00cdTICA.\r\nCHINA, INVESTIMENTO, INFRAESTRUTURA, ELOGIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Origem e condi\u00e7\u00e3o social e pol\u00edtica do orador. In\u00e9rcia do Governo Jair Bolsonaro no combate \u00e0 corrup\u00e7\u00e3o. Esclarecimento sobre a atua\u00e7\u00e3o do PSOL como partido de Esquerda e oposicionista. Car\u00e1ter demag\u00f3gico de discursos proferidos no plen\u00e1rio sobre a situa\u00e7\u00e3o do Pa\u00eds. Contrariedade \u00e0 aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sra. Presidenta, todos e todas presentes aqui no plen\u00e1rio, eu sou um jovem que vem da favela do Jacarezinho, sou negro, sou LGBT, e esse \u00e9 o meu primeiro pronunciamento aqui nesta Casa. Nesta Casa, formatamos leis para proteger e dar norte \u00e0 popula\u00e7\u00e3o do nosso Pa\u00eds. Nesse lugar aqui, eu tenho que sentar com pessoas que quebraram a placa da minha companheira que foi assassinada, Marielle Franco; nesse lugar, eu tenho que sentar com Parlamentares envolvidos em esc\u00e2ndalos e esc\u00e2ndalos de corrup\u00e7\u00e3o, como A\u00e9cio Neves; nesse lugar, h\u00e1 muitos que foram eleitos por uma onda que se chama Bolsonaro, que chegaram aqui e n\u00e3o conseguem utilizar esses microfones para falar dos laranjas, para falar da situa\u00e7\u00e3o do Queiroz e que o Fl\u00e1vio desapareceu da m\u00eddia. Desapareceu, n\u00e3o aparece nos eventos.\r\nEu venho aqui tamb\u00e9m para fazer uma den\u00fancia. Esse Governo chegou ao poder dizendo que ia combater a corrup\u00e7\u00e3o, mas utilizou laranjas no seu partido para chegar ao poder, utilizando o mesmo sistema. Temos o superministro Moro, que agora fala que caixa dois n\u00e3o \u00e9 mais corrup\u00e7\u00e3o, contradizendo a sua pr\u00f3pria fala de anos atr\u00e1s, antes de chegar ao poder. Aqueles que chegam ao poder e se corrompem j\u00e1 est\u00e3o no poder, est\u00e3o na Presid\u00eancia deste Pa\u00eds, est\u00e3o no Senado, est\u00e3o nesta Casa aqui. Eu tenho vergonha de muitos aqui, mas eu tamb\u00e9m tenho muito orgulho de muitos companheiros que chegaram aqui que foram moldados na luta. H\u00e1 muitas mulheres aqui, mulheres negras, que sa\u00edram da periferia e chegaram aqui como eu.\r\nVou concluir, dizendo a esses Parlamentares que querem falar da Esquerda: prestem aten\u00e7\u00e3o, porque a Esquerda tem partidos, e o PSOL foi um partido de oposi\u00e7\u00e3o ao Governo PT, enquanto Bolsonaro era da sua base. Esse partido do qual tenho muito orgulho de fazer parte \u00e9 o partido que combate as mil\u00edcias no Estado do Rio de Janeiro, \u00e9 o partido que mais combateu aqui e apresenta projetos.\r\nEu fui um jovem Vereador na cidade do Rio de Janeiro. Nos 2 anos em que estive l\u00e1, passei mais de 15 projetos naquela casa, o que Bolsonaro n\u00e3o fez em 30 anos, nesta Casa.\r\nMuitos Parlamentares v\u00eam aqui para fazer discurso demag\u00f3gico sobre a situa\u00e7\u00e3o do Pa\u00eds. Mas querem o qu\u00ea? Querem fazer um confronto com a Venezuela, sem pensar na popula\u00e7\u00e3o de rua que temos, sem pensar em saneamento b\u00e1sico para a popula\u00e7\u00e3o brasileira, sem fazer investimento em infraestrutura. Todo o Governo deveria ter pensado nisso. O Governo da China, em 2010, quando seu pa\u00eds estava passando por uma das maiores crises, foi refazer a infraestrutura do pa\u00eds inteiro. Isso gera trabalho, gera renda e faz com que as pessoas consigam se habituar.\r\nEm vez disso, n\u00f3s temos o qu\u00ea? Uma reforma da previd\u00eancia que vai pegar os mais pobres. \u00c9 sempre assim. S\u00e3o eles que v\u00e3o pagar a conta.\r\nN\u00f3s j\u00e1 sabe que as m\u00e1scaras dessa galera que chegou aqui dizendo que n\u00e3o era da corrup\u00e7\u00e3o j\u00e1 est\u00e3o caindo.\r\nVoc\u00eas v\u00e3o receber o pagamentozinho l\u00e1 para votar a reforma da previd\u00eancia, mas n\u00f3s vamos estar aqui resistindo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CR\u00cdTICA, RESPOSTA, RIC 274/2019, REQUERIMENTO DE INFORMA\u00c7\u00c3O, ERNESTO ARA\u00daJO, MINISTRO DE ESTADO DAS RELA\u00c7\u00d5ES EXTERIORES,  JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, VISITA, AG\u00caNCIA CENTRAL DE INTELIG\u00caNCIA (CIA) (ESTADOS UNIDOS),",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Insatisfa\u00e7\u00e3o com a resposta do Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores ao requerimento de informa\u00e7\u00f5es sobre a omiss\u00e3o, na agenda oficial nos Estados Unidos da Am\u00e9rica, da visita do Presidente Jair Bolsonaro e do Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rio Moro, \u00e0 sede da Ag\u00eancia Central de Intelig\u00eancia - CIA.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sra. Presidenta, hoje eu recebi a resposta de um requerimento de informa\u00e7\u00e3o que protocolei no Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores. Neste requerimento, eu perguntava por que a visita que o Presidente do nosso Pa\u00eds, o Ministro Moro e outros compatriotas fizeram \u00e0 CIA n\u00e3o estava na agenda oficial brasileira. Para meu espanto, a resposta que veio do Minist\u00e9rio foi a de que simplesmente se tratava de uma agenda feita de \u00faltima hora.\r\nOra, n\u00f3s sabemos qual foi o papel que o sistema de intelig\u00eancia norte-americano teve no golpe de 64. Sabemos como a CIA atua com a sua intelig\u00eancia em outros pa\u00edses. Ent\u00e3o, como o nosso l\u00edder de Estado vai para a CIA simplesmente numa agenda de \u00faltima hora?\r\nN\u00f3s precisamos saber se eles realmente fizeram uma agenda de \u00faltima hora, se a Presid\u00eancia est\u00e1 mentindo, se o Minist\u00e9rio de Rela\u00e7\u00f5es Exteriores est\u00e1 mentindo, ou se realmente o Presidente e o Ministro sa\u00edram de l\u00e1 para o Brasil cheios de grampos.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMS 1/2019, EMENDA, SENADO FEDERAL, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nRECLAMA\u00c7\u00c3O, PRESIDENTE, COMISS\u00c3O DE RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL (CREDN), INDEFERIMENTO, REQUERIMENTO DE CONVOCA\u00c7\u00c3O, S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, AG\u00caNCIA CENTRAL DE INTELIG\u00caNCIA (CIA) (ESTADOS UNIDOS).",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 1, do Senado Federal, ao Projeto de Lei n\u00ba 1.321, de 2019, sobre a autonomia dos partidos pol\u00edticos. Posicionamento da Presid\u00eancia da Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional, contr\u00e1ria \u00e0 convoca\u00e7\u00e3o de Ministros de Estado pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL vota \"sim\".\r\nEu queria utilizar o espa\u00e7o para fazer a den\u00fancia de que a CREDN est\u00e1 utilizando a sua presid\u00eancia para blindar Ministros de virem \u00e0 Casa: o Deputado Glauber Braga apresentou requerimento para chamar o Ministro Moro para a Casa, que foi rejeitado sem mesmo chegar \u00e0 vota\u00e7\u00e3o, porque se disse que n\u00e3o era daquela parte da Casa, a Comiss\u00e3o especializada.\r\nEu recebi uma resposta ao requerimento da Comiss\u00e3o de Rela\u00e7\u00f5es Internacionais hoje que diz que a visita de Moro e do Presidente \u00e0 CIA foi pol\u00edtica, para entender a intelig\u00eancia entre os dois pa\u00edses.\r\nEnt\u00e3o, compete \u00e0 CREDN... E pe\u00e7o a ajuda da Presid\u00eancia para eu poder entender o que est\u00e1 acontecendo na CREDN sobre essa blindagem de Ministros.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, MPV 861/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR. \r\nCORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENT\u00c1RIOS, EDUCA\u00c7\u00c3O.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo da admissibilidade dos destaques simples (Medida Provis\u00f3ria n\u00ba 861, de 2018, sobre a transfer\u00eancia, da Uni\u00e3o para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro p\u00fablico de empresas mercantis e atividades afins no Distrito Federal e sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.934, de 1994, relativa ao Registro P\u00fablico de Empresas Mercantis e Atividades Afins). Protesto contra o corte de recursos or\u00e7ament\u00e1rios destinados \u00e0 educa\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nPresidenta, quero falar sobre o que o Ministro da Educa\u00e7\u00e3o anda falando sobre os cortes. N\u00f3s j\u00e1 sabemos que a PEC que congela por 20 anos os investimentos em educa\u00e7\u00e3o e em sa\u00fade passou por este Plen\u00e1rio. S\u00e3o um absurdo esses cortes.\r\nFalam que h\u00e1 uma balb\u00fardia dentro das faculdades. Neste Pa\u00eds, h\u00e1 um pensamento cr\u00edtico formado. Temos um tremendo orgulho de algumas institui\u00e7\u00f5es que t\u00eam profissionais da \u00e1rea de ci\u00eancias que fazem a tecnologia do nosso Pa\u00eds evoluir cada vez mais.\r\nAlguns Ministros n\u00e3o sabem nem um pouco sobre educa\u00e7\u00e3o, nem um pouco sobre o sistema das universidades e das escolas deste Pa\u00eds. Cortar investimento da educa\u00e7\u00e3o \u00e9 cortar o futuro da popula\u00e7\u00e3o brasileira. Balb\u00fardia \u00e9 o que este Governo anda fazendo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=216&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 861/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nGOVERNADOR, RIO DE JANEIRO (ESTADO), HELIC\u00d3PTERO, ATIRADOR, POL\u00cdCIA, DISPARO DE ARMA DE FOGO, FAVELA, CRIAN\u00c7A, ESCOLA, CR\u00cdTICA.\r\nPARTIDO SOCIALISMO E LIBERDADE (PSOL), DEFESA, DIREITOS HUMANOS.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 861, de 2018, sobre a transfer\u00eancia, da Uni\u00e3o para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro p\u00fablico de empresas mercantis e atividades afins no Distrito Federal, e a altera\u00e7\u00e3o da Lei n\u00ba 8.934, de 1994, acerca do Registro P\u00fablico de Empresas Mercantis e Atividades Afins. Rep\u00fadio aos ataques a\u00e9reos perpetrados pela for\u00e7a policial em favelas no Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o, Sra. Presidenta. Mas eu queria dizer que mencionaram o PSOL e falaram que estamos, mais uma vez, na defesa de bandidos, quando o Governador pega um helic\u00f3ptero para ficar atirando nas favelas. S\u00f3 n\u00f3s, o povo da favela, sabemos o que acontece quando esse helic\u00f3ptero est\u00e1 passando. \r\nNessa semana, no hor\u00e1rio escolar, com tiros comendo soltos, v\u00e1rias crian\u00e7as tiveram que correr para ir para a escola. Muitos trabalhadores e trabalhadoras da cidade do Rio de Janeiro, do Estado do Rio de Janeiro, n\u00e3o conseguem sair de suas casas. T\u00eam suas casas cheias de buracos de tiros, de tiros que agora v\u00eam diretamente do Estado, que nem tem a dec\u00eancia de saber se aquelas vidas ali embaixo importam. \r\nEu quero fazer uma pergunta a esta C\u00e2mara agora: se falam que n\u00f3s s\u00f3 somos defensores de direitos humanos, agora, pena de morte no Brasil...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=306&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 5/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 861/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nPRESIDENTE DA REP\u00daBLICA, DECRETO FEDERAL, PROJETO DE LEI ORDIN\u00c1RIA, PORTE DE ARMA, COLECIONADOR, ATIRADOR, CA\u00c7ADOR, A\u00c7\u00d5ES, LOBBY,  EMPRESA, ARMA DE FOGO, CR\u00cdTICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do par\u00e1grafo \u00fanico, do art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 5, de 2019, da Medida Provis\u00f3ria n\u00ba 861, de 2018, sobre a transfer\u00eancia, da Uni\u00e3o para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro p\u00fablico de empresas mercantis e atividades afins no Distrito Federal, e a altera\u00e7\u00e3o da Lei n\u00ba 8.934, de 1994, acerca do Registro P\u00fablico de Empresas Mercantis e Atividades Afins. Eleva\u00e7\u00e3o das a\u00e7\u00f5es da empresa Taurus ap\u00f3s a edi\u00e7\u00e3o do decreto presidencial sobre a libera\u00e7\u00e3o do porte de armas de fogo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nEu queria falar, Sra. Presidenta, sobre os decretos que o Presidente editou hoje, com rela\u00e7\u00e3o a porte de arma para colecionador, atirador desportivo e ca\u00e7ador, queria falar sobre a facilidade que ele colocou nesse decreto. Hoje tamb\u00e9m vemos o projeto de lei sobre porte de armas.\r\nQueria falar tamb\u00e9m sobre como o mercado se comporta exatamente hoje. As a\u00e7\u00f5es da Taurus, que vende armas aqui e \u00e9 uma empresa conhecida mundialmente, est\u00e3o l\u00e1 nas alturas.\r\nSabemos muito bem por que as a\u00e7\u00f5es est\u00e3o l\u00e1 nas alturas. Houve um lobby para esse projeto ser votado aqui, exatamente porque esse decreto do Presidente do Pa\u00eds foi editado hoje. As a\u00e7\u00f5es subiram por uma coisa.\r\nPrecisamos investigar de onde est\u00e1 vindo esse dinheiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=351&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIOS, CONTINGENCIAMENTO, CORTE, CONTRA, MOVIMENTO ESTUDANTIL.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "An\u00fancio da realiza\u00e7\u00e3o de atos p\u00fablicos por estudantes universit\u00e1rios contra o corte, pelo Governo Federal, de recursos or\u00e7ament\u00e1rios destinados \u00e0 educa\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, estou aqui para falar sobre o dia 15 de maio, quando se dar\u00e1 o movimento dos estudantes no Pa\u00eds. Estudantes estes que, em 2015, ocuparam as escolas e falaram que bastava esse modelo de educa\u00e7\u00e3o repressora, em que falta caderno, papel higi\u00eanico, estrutura nas escolas e os sal\u00e1rios dos professores serem pagos em dia.\r\nCom esses novos cortes nas nossas faculdades, o movimento estudantil mostra, mais uma vez, a sua cara e a sua for\u00e7a. Esse movimento levantou-se quando foi necess\u00e1rio: em 1964, quando ocorreu uma das grandes manifesta\u00e7\u00f5es, bem como em 1968 e em 2013, com o levante da juventude.\r\nEnt\u00e3o, eu consagro aqui neste plen\u00e1rio a luta estudantil que est\u00e1 agora se levantando e mostrando \u00e0 popula\u00e7\u00e3o brasileira que os estudantes dar\u00e3o o caminho e ser\u00e3o a resist\u00eancia para todas as lutas que vir\u00e3o.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T13:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3 SOLENE, ANIVERS\u00c1RIO,  LEI \u00c1UREA, ABOLI\u00c7\u00c3O DA ESCRAVID\u00c3O (1888).\r\nMARIELLE FRANCO, VEREADORA,  RIO DE JANEIRO (RJ), COR NEGRA, HOMIC\u00cdDIO.\r\nPOPULA\u00c7\u00c3O, COR NEGRA, ATUA\u00c7\u00c3O, REPRESENTA\u00c7\u00c3O POL\u00cdTICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Transcurso dos 14 meses do assassinato da Vereadora Marielle Franco, no Rio de Janeiro, Estado do Rio de Janeiro. Perman\u00eancia do sistema escravista no Brasil.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Boa tarde a todos e todas.\r\nDesculpem-me pela minha voz. Este \u00e9 sempre um dia dif\u00edcil de falar, mas tem que ser falado.\r\nHoje, faz 14 meses que a nossa companheira Marielle Franco foi retirada de n\u00f3s, assassinada brutalmente em um crime pol\u00edtico. Isso precisa ser lembrado neste lugar aqui, onde se faz pol\u00edtica no Pa\u00eds. Lembrem-se de que Marielle era uma mulher negra e perif\u00e9rica. Marielle era uma mulher negra e perif\u00e9rica, e, por isso, foi assassinada, por isso!\r\nHoje, eles falam do outro lado, que foram os brancos, que foram eles, que foi o cristianismo que libertou o nosso povo, os nossos ancestrais. Nossos ancestrais lutaram, quebraram suas pr\u00f3prias correntes. Nossos ancestrais eram de ax\u00e9! Nosso povo era de terra!(Palmas.)\r\nVieram todos escravizados para esta terra aqui, e n\u00e3o foram voc\u00eas que libertaram o nosso povo, que at\u00e9 hoje est\u00e1 preso!(Palmas.)\r\nAt\u00e9 hoje est\u00e1 preso, s\u00f3 que em lugares diferentes: nas delegacias, nos pres\u00eddios que h\u00e1 neste Pa\u00eds. Voc\u00eas ainda nos acorrentam nos lugares e nos colocam como servi\u00e7ais em todos os locais, mas n\u00f3s j\u00e1 existimos e chegamos a esses lugares aqui.\r\nFinalmente, hoje, temos vozes como a da Deputada \u00c1urea, como a da Deputada Tal\u00edria, como a minha, como a da Deputada Benedita, que esteve aqui durante muito tempo, e como a de outros que passaram aqui. Negros v\u00e3o pisar neste lugar aqui.(Palmas.)\r\nNegros v\u00e3o fazer pol\u00edtica neste lugar aqui! Negros v\u00e3o revolucionar ainda mais este Pa\u00eds. Voc\u00eas ainda n\u00e3o viram a capacidade do povo negro. Come\u00e7aram a descobrir agora todas as coisas que fizeram na nossa \u00c1frica, todas as coisas que fizeram l\u00e1, mas, neste Pa\u00eds aqui, estamos modificando e vamos resistir \u00e0s balas, \u00e0s 80 balas que matam a fam\u00edlia.\r\n N\u00f3s devemos nos levantar por todos aqueles que caem. Quando um irm\u00e3o negro ou uma irm\u00e3 negra cai, e o sangue escorre nos asfaltos das ruelas deste Pa\u00eds, todos n\u00f3s sofremos e morremos junto, porque n\u00f3s somos um povo s\u00f3, um povo que sofre com a escravid\u00e3o, que ainda persiste neste Pa\u00eds, que nos subjuga, que subjuga a nossa intelig\u00eancia, porque n\u00e3o nos querem nas faculdades, porque n\u00e3o nos querem nos lugares de poder deste Pa\u00eds, mas n\u00f3s resistimos e mostramos com esse movimento unificado com as mulheres, com os ind\u00edgenas, com os LGBTs, com a classe trabalhadora, que \u00e9 a maior parte da popula\u00e7\u00e3o massacrada neste Pa\u00eds.\r\nN\u00f3s fomos moldados na resist\u00eancia. Hoje, gritamos a resist\u00eancia. A escravid\u00e3o n\u00e3o acabou, mas vamos continuar quebrando as correntes neste Pa\u00eds, porque n\u00f3s somos o povo que sempre resistiu e sempre resistir\u00e1.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "UNIVERSIDADE FEDERAL, INSTITUTO FEDERAL DE EDUCA\u00c7\u00c3O, CI\u00caNCIA E TECNOLOGIA (INSTITUTO FEDERAL), CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENTARIOS, EDUCA\u00c7\u00c3O, REAVALIA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Recuo, do Governo Jair Bolsonaro, no corte de recursos or\u00e7ament\u00e1rios destinados \u00e0 educa\u00e7\u00e3o p\u00fablica. An\u00fancio da realiza\u00e7\u00e3o de mobiliza\u00e7\u00e3o popular a favor do setor educacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, venho aqui falar que estou muito feliz com esta vit\u00f3ria da popula\u00e7\u00e3o brasileira: o recuo do Governo Bolsonaro. Isso mostra a organiza\u00e7\u00e3o da juventude brasileira, que saiu \u00e0s ruas, que lutou pela educa\u00e7\u00e3o, que pode e vai botar milhares de pessoas amanh\u00e3 nas ruas. Isso mostra mais uma vez que o povo \u00e9 que cont\u00e9m a democracia neste Pa\u00eds. O povo, mais uma vez unido, mostra o caminho para esta Casa.\r\nO Ministro da Educa\u00e7\u00e3o e o Bolsonaro v\u00e3o ter que responder \u00e0 demanda de quem vai estar na rua amanh\u00e3, que n\u00e3o quer saber desses cortes, que n\u00e3o quer saber de desmonte da educa\u00e7\u00e3o, que quer saber de emprego, que n\u00e3o quer saber dessa desreforma da Previd\u00eancia. O povo vai para as ruas. E haver\u00e1 greve geral amanh\u00e3 e depois, no dia 14 de junho.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=235&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, DECRETO, POSSE DE ARMAR, PORTE DE ARMAS, ARMA DE FOGO, COMPROMETIMENTO, EMPRES\u00c1RIO, IND\u00daSTRIA, ARMAMENTO, CRIT\u00cdCA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Cr\u00edticas ao Presidente Jair Bolsonaro pela libera\u00e7\u00e3o da compra de fuzis.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, venho \u00e0 tribuna para levantar, mais uma vez, a minha voz e questionar o Presidente do Pa\u00eds, que abriu uma brecha no decreto de armas para compra de fuzil M4. \r\nLembramos que, em 2017, ele estava fazendo um videozinho para a Taurus. Sabemos muito bem que ele tem uma rela\u00e7\u00e3o longa com essa empresa. H\u00e1 v\u00eddeos na Internet demonstrando isso. Ele \u00e9 o Presidente do Pa\u00eds ou \u00e9 um lobista que est\u00e1 trabalhando para essas grandes empresas? As a\u00e7\u00f5es da empresa j\u00e1 come\u00e7aram a subir. J\u00e1 h\u00e1 mais de 2 mil pedidos para a compra de fuzis. \r\nEm vez de estar prestando aten\u00e7\u00e3o ao Pa\u00eds, que est\u00e1 precisando, porque est\u00e1 com quase 13 milh\u00f5es de desempregados e com a sa\u00fade sucateada, o Presidente s\u00f3 pensa em armas. Ele n\u00e3o pensa em educa\u00e7\u00e3o; ele n\u00e3o pensa em sa\u00fade; ele n\u00e3o pensa em trabalho para a popula\u00e7\u00e3o, que est\u00e1 t\u00e3o desesperada, morrendo de fome e sendo v\u00edtima desses fuzis.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nCHACINA, GUAM\u00c1, BAIRRO, BEL\u00c9M (PA), PROGRAMA TERRIT\u00d3RIOS DE PACIFICA\u00c7\u00c3O, POL\u00cdTICA P\u00daBLICA, CRIA\u00c7\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento para vota\u00e7\u00e3o da mat\u00e9ria artigo por artigo, apresentado \u00e0 Medida Provis\u00f3ria n\u00b0 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro. Chacina ocorrida em bar localizado no Bairro de Guam\u00e1, Munic\u00edpio de Bel\u00e9m, Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL encaminha \"obstru\u00e7\u00e3o\" e aqui deixa registrado que, no \u00faltimo domingo \u00e0 tarde, pessoas encapuzadas chegaram a um bar na periferia de Bel\u00e9m, no Bairro Guam\u00e1, e mataram 11 pessoas, a maioria delas com tiros na cabe\u00e7a. Infelizmente, isso j\u00e1 est\u00e1 virando uma rotina naquela regi\u00e3o de Bel\u00e9m.\r\nO Governo do Helder, aliado do PT e do PCB, criou pol\u00edticas p\u00fablicas para o Programa Territ\u00f3rios de Pacifica\u00e7\u00e3o, o que n\u00e3o vai resolver os problemas, pois se baseia exclusivamente no aumento ostensivo da pol\u00edcia. N\u00f3s j\u00e1 vimos isso l\u00e1 no Rio de Janeiro e sabemos qual \u00e9 a popula\u00e7\u00e3o que est\u00e1 sofrendo e que sempre vai sofrer. L\u00e1, em 2014, quando tivemos uma chacina internacionalmente conhecida, a Assembleia Legislativa do Par\u00e1 fez, sob protesto do Deputado Edmilson Rodrigues, a CPI das Mil\u00edcias, que levou \u00e0 apreens\u00e3o de v\u00e1rios... \r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=222&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T12:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 867/2018, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o de requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Bom dia a todos e a todas. \r\n\u00c9 imprescind\u00edvel que retiremos essa mat\u00e9ria de pauta, porque antes \u00e9 preciso haver di\u00e1logo. Caso ela seja votada, representar\u00e1 um grande retrocesso em rela\u00e7\u00e3o \u00e0s mat\u00e9rias que j\u00e1 foram votadas nesta Casa. Essa medida provis\u00f3ria vai fazer com que acabe todo o nosso meio ambiente. Isso \u00e9 muito complicado. N\u00e3o podemos deixar que essa mat\u00e9ria continue na pauta; precisamos retir\u00e1-la de imediato, at\u00e9 que possamos ter, no m\u00ednimo, um consenso nesta Casa, com di\u00e1logo e a realiza\u00e7\u00e3o de audi\u00eancias p\u00fablicas. \r\nO Governo Bolsonaro, realmente, tem feito muito isto com a edi\u00e7\u00e3o de v\u00e1rias medidas: passa o trator, usa o serrote diretamente. Ele n\u00e3o est\u00e1 respeitando o tempo plaus\u00edvel desta Casa. Como os Deputados e as Deputadas v\u00e3o poder estudar, planejar, entender, votar as emendas e transformar essa medida provis\u00f3ria que chega \u00e0 Casa? Qual o tempo h\u00e1bil para isso? Temos vivenciado muito isso no Governo Bolsonaro. H\u00e1 um bate cabe\u00e7a, um corte; querem passar o serrote em todos sentidos. E essa medida provis\u00f3ria \u00e9 mais uma delas. \r\nN\u00f3s n\u00e3o podemos admitir que o Governo Bolsonaro continue agindo dessa forma com a C\u00e2mara dos Deputados, com o meio ambiente, com a educa\u00e7\u00e3o e, agora, tamb\u00e9m com a sa\u00fade. \r\nN\u00f3s precisamos estar aqui preparados, a postos, para podermos retirar de pauta essa mat\u00e9ria, porque \u00e9 preciso respeitar esta Casa e os Deputados. N\u00f3s precisamos de di\u00e1logo aqui.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ADVOGADO-GERAL DA UNI\u00c3O, SOLICITA\u00c7\u00c3O, SUPREMO TRIBUNAL FEDERAL (STF), POL\u00cdCIA MILITAR, CAMPUS UNIVERSIT\u00c1RIO, UNIVERSIDADE FEDERAL. \r\nMANIFESTA\u00c7\u00c3O P\u00daBLICA, MOVIMEMTO DE PROTESTO, GOVERNO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GEST\u00c3O, EDUCA\u00c7\u00c3O.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Rep\u00fadio ao ajuizamento de a\u00e7\u00e3o pela Advocacia-Geral da Uni\u00e3o junto ao Supremo Tribunal Federal para o ingresso de policiais nas Universidades Federais. Expectativa quanto a manifesta\u00e7\u00f5es de rua contra a pol\u00edtica educacional do Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, venho aqui, mais uma vez, falar sobre o Governo Bolsonaro, que agora, com o seu Advogado-Geral da Uni\u00e3o, entra com uma a\u00e7\u00e3o no Supremo Tribunal Federal para que policiais atuem nas faculdades p\u00fablicas. J\u00e1 n\u00e3o bastam os cortes, os ataques \u00e0 educa\u00e7\u00e3o e \u00e0 classe trabalhadora deste Pa\u00eds. Agora querem tamb\u00e9m atingir o pensamento cr\u00edtico. N\u00e3o podemos permitir que isso aconte\u00e7a nas nossas faculdades, lugar onde h\u00e1 tanto conhecimento, a cria\u00e7\u00e3o do pensamento cr\u00edtico. O Governo vai contra a mar\u00e9 o tempo todo. \r\nIsso \u00e9 um absurdo! E deixo aqui o meu rep\u00fadio. \r\nAmanh\u00e3 a movimenta\u00e7\u00e3o nas ruas vai ser muito maior. A resposta vem pela educa\u00e7\u00e3o, porque o povo desse Governo do Presidente Bolsonaro n\u00e3o sabe o que \u00e9 educa\u00e7\u00e3o. Ele vai saber amanh\u00e3 nas ruas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nEu quero deixar registrado aqui que esse Governo est\u00e1 fazendo uma das priores pol\u00edticas ambientais dos \u00faltimos 30 anos, n\u00e3o s\u00f3 em rela\u00e7\u00e3o aos profissionais da \u00e1rea, com a retirada da promessa que o Presidente fez de acabar com as multas que o IBAMA aplicava - e isso porque ele mesmo tomou multa -, mas tamb\u00e9m em rela\u00e7\u00e3o ao desmonte de todo aparato que cuida do nosso processo ambiental.\r\nQuero tamb\u00e9m deixar registrado que, nos \u00faltimos 5 meses, n\u00f3s tivemos, devido a decretos como esse, devido a a\u00e7\u00f5es como essas do Governo, o maior desmatamento dos \u00faltimos 10 anos.\r\nEnt\u00e3o, \u00e9 um absurdo estarmos votando isso aqui, sem que a popula\u00e7\u00e3o esteja presente nesse debate. N\u00e3o a essa...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=335&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), CONTRA, MANIFESTA\u00c7\u00c3O P\u00daBLICA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "An\u00fancio da realiza\u00e7\u00e3o de mobiliza\u00e7\u00e3o popular contra o Governo Jair Bolsonaro e a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sra. Presidenta.\r\nVenho aqui falar que no dia 14, sexta-feira, a popula\u00e7\u00e3o brasileira vai \u00e0s ruas contra esse Governo; contra a reforma da Previd\u00eancia; contra os esc\u00e2ndalos que envolvem o filho do Presidente Jair Bolsonaro, com ind\u00edcios de lavagem de dinheiro e corrup\u00e7\u00e3o; contra o PSL, que teve suas candidaturas laranjas esse ano, utilizando as mulheres na sua luta hist\u00f3rica; contra os cortes que fizeram na educa\u00e7\u00e3o e nas nossas faculdades. N\u00f3s vamos \u00e0s ruas porque \u00e9 necess\u00e1rio, n\u00f3s vamos \u00e0s ruas porque \u00e9 o lugar democr\u00e1tico de luta, lembrando que l\u00e1 \u00e9 onde as pessoas se encontram. \u00c9 nas ruas que n\u00f3s vamos fazer, no dia 14, uma greve geral, paralisando o Pa\u00eds inteiro, para que eles saibam como \u00e9 pesar no bolso da burguesia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DAVID MIRANDA, DEPUTADO FEDERAL, V\u00cdTIMA, AMEA\u00c7A, ACUSA\u00c7\u00c3O, COMPRA DE VOTO,  PERDA DE MANDATO ELETIVO, CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Contesta\u00e7\u00e3o \u00e0s suspeitas de compra do mandato parlamentar pelo orador.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sra. Presidenta, infelizmente eu venho a este microfone para falar de colegas, pessoas, companheiros com os quais dever\u00edamos ter uma afinidade para pensar como colocar o Brasil nos trilhos, trabalhar e outras coisas. Em vez disso, n\u00f3s nos deparamos com colegas com suspeitas sobre como eu cheguei aqui, demonstrando obviamente o seu elitismo, o seu racismo estrutural, dizendo que o meu marido comprou o meu assento para eu poder estar nesta Casa. Eu fui eleito. O Jean Wyllys teve que sair do Pa\u00eds por causa de v\u00e1rias amea\u00e7as de morte, que agora eu tamb\u00e9m recebo por causa das den\u00fancias recentes que o meu marido fez no seu site no \u00faltimo final de semana. Agora est\u00e3o pedindo para cassar o meu mandado e ver se realmente o meu mandato foi comprado. \u00c9 uma piada, \u00e9 um absurdo estarmos aqui sentados nesse mesmo lugar e achar que essas pessoas s\u00e3o democr\u00e1ticas!\r\nEm primeiro lugar, eu n\u00e3o fa\u00e7o pl\u00e1gio, eu n\u00e3o preciso comprar nada de ningu\u00e9m.(Palmas.)\r\nEu n\u00e3o precisei nunca comprar, como certas pessoas que se sentam aqui. Eu cheguei aqui eleito pela popula\u00e7\u00e3o carioca e fluminense.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=190&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.\r\nMANIFESTA\u00c7\u00c3O P\u00daBLICA, COMPORTAMENTO HUMANO, HOMOSSEXUAL, DEFESA.\r\nHOMOFOBIA, DEPUTADO FEDERAL, CR\u00cdTICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso I, do \u00a7 1\u00ba, do art. 3\u00ba-A da Lei n\u00ba 11.909, de 2009, constante do art. 3\u00ba do Projeto de Lei de n\u00ba 10.985, de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, com vistas \u00e0 sua supress\u00e3o. Preocupa\u00e7\u00e3o de Deputados com a sexualidade alheia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PSOL orienta o voto \"n\u00e3o\" porque n\u00e3o queremos tirar dinheiro nem da sa\u00fade nem da educa\u00e7\u00e3o. \r\nEspanta-me ver figuras virem aqui falar de um beijo, uma coisa t\u00e3o simples que acontece entre um casal, um casal gay, l\u00e9sbico, intersexual ou trans. N\u00e3o importa a sexualidade! O amor deve estar acima de tudo. As figuras deste plen\u00e1rio que ficam espantadas com um beijo entre um casal devem ter muitos problemas com sua sexualidade, com seu relacionamento. \r\nEspanta-me muito que a sexualidade das outras pessoas tenha que ser sempre motivo de argumenta\u00e7\u00e3o. Acho que essas pessoas t\u00eam que procurar um psic\u00f3logo. (Palmas.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=271&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-02T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DAVID MIRANDA, DEPUTADO FEDERAL, HOMOSSEXUAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR, CONTRA, AMEA\u00c7A, DEN\u00daNCIA.\r\nTHE INTERCEPT BRASIL, S\u00cdTIO (INTERNET), OPERA\u00c7\u00c3O LAVA A JATO, VAZAMENTO, MENSAGEM,  SERGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, EX-JUIZ FEDERAL, DELTAN DALLAGNOL, PROCURADOR DA REP\u00daBLICA, CONTRA, GLENN GREENWALD, JORNALISTA, DEN\u00daNCIA.\r\nNOT\u00cdCIA FALSA (FAKE NEWS), COMBATE.\r\nDIVERSIDADE SEXUAL, PRECONCEITO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, DISCURSO DE \u00d3DIO, REP\u00daDIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Credibilidade do jornalista Glenn Greenwald, respons\u00e1vel pela publica\u00e7\u00e3o de di\u00e1logos entre o ent\u00e3o Juiz Federal, S\u00e9rgio Moro, e Procuradores da Rep\u00fablica no \u00e2mbito da Opera\u00e7\u00e3o Lava-Jato. Den\u00fancia de amea\u00e7as recebidas pelo orador. Relato da trajet\u00f3ria de vida e da atua\u00e7\u00e3o pol\u00edtica do Parlamentar. Rep\u00fadio aos ataques do Presidente Jair Bolsonaro \u00e0 comunidade LGBT.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidenta Benedita da Silva.\r\nBoa tarde a todos os presentes nesta Casa e \u00e0queles que est\u00e3o nos assistindo.\r\nNas \u00faltimas semanas, o meu marido, Glenn Greenwald, tem publicado nos sites que ele criou, The Intercept Brasil e The Intercept, nos Estados Unidos, publica\u00e7\u00f5es envolvendo o atual Ministro da Justi\u00e7a Sergio Moro e os procuradores da Opera\u00e7\u00e3o Lava-Jato. Esse \u00e9 um processo que ele vem fazendo.\r\nEle \u00e9 um jornalista renomado no mundo inteiro, ganhou o Pr\u00eamio Pulitzer, ganhou o Oscar, ganhou o Pr\u00eamio Esso de Jornalismo. \u00c9 uma lista longa para poder falar sobre a credibilidade que o meu marido tem.\r\nO mais incr\u00edvel nesse processo todo \u00e9 que vivemos um momento aqui nesta Casa, nas redes sociais e nas ruas, em que eu comecei a sofrer muitos ataques, amea\u00e7as de morte e principalmente fake news.\r\nEssas fake news t\u00eam em sua raiz a descredibilidade de um Parlamentar eleito pelo Estado do Rio de Janeiro. Falam que meu marido comprou este assento aqui para mim.\r\nEu passo 4 dias, \u00e0s vezes, 5 dias aqui. Eu passei 2 semanas sem poder voltar para casa, meus filhos est\u00e3o crescendo. Eu sou um servidor p\u00fablico, tenho orgulho imenso de poder estar aqui representando aqueles e aquelas que n\u00e3o t\u00eam voz, que n\u00e3o tiveram voz, que podem ter voz por mim, comigo, neste local aqui! \u00c9 por isso que eu entrei para a pol\u00edtica.\r\nEu sou um jovem que vem da favela do Jacarezinho. Eles querem me descreditar. N\u00e3o querem falar sobre o trabalho que eu fiz em mais de 47 pa\u00edses. Eu tive publica\u00e7\u00f5es na Rolling Stones, The Guardian, Folha de S.Paulo, O Globo. Eu fiz trabalhos inacredit\u00e1veis!\r\nEm 2 anos - 2 anos! - na verean\u00e7a, na cidade do Rio de Janeiro, passei quase duas dezenas de projetos para a cidade; n\u00e3o de nomes de rua, mas projetos que protegeram os trabalhadores e trabalhadoras da cidade, que t\u00eam hoje o seu sal\u00e1rio garantido, em dia.\r\nEu sou um jovem que sofre com essas fake news que eles publicam a meu respeito, para me descreditar. Eles fazem isso porque eu sou um jovem negro, porque eu sou um jovem LGBT, porque eu sou casado com um homem, porque eu amo um homem. \u00c9 por isso que eles utilizam essas fake news; \u00e9 por isso que eles falam isso de mim. N\u00e3o falariam de outros jornalistas que s\u00e3o casados com pol\u00edticos, n\u00e3o falariam de outras pessoas. Falam de mim por causa das minhas origens. Mas eu sou um s\u00edmbolo de resist\u00eancia a andar por esses corredores. Eu sou um s\u00edmbolo de resist\u00eancia nesta Na\u00e7\u00e3o que mata os meus a todo tempo. Eu e meu marido somos um s\u00edmbolo de resist\u00eancia neste momento em que a democracia \u00e9 atacada. Somos, sim, um s\u00edmbolo de resist\u00eancia contra um Presidente abertamente LGBTf\u00f3bico. E vamos continuar sendo, porque a popula\u00e7\u00e3o est\u00e1 do nosso lado, acredita na informa\u00e7\u00e3o que est\u00e1 sendo dada.\r\nOs caminhos para esse Governo, principalmente para esse Ministro e para os procuradores que est\u00e3o envolvidos nesses esc\u00e2ndalos, v\u00e3o se encurtando a cada minuto, v\u00e3o se encurtando cada vez mais. A verdade do que aconteceu com a democracia, que foi raptada nesses \u00faltimos anos, agredida, vai ser demonstrada. E aqui, neste solo, uma vez eu vi uma vota\u00e7\u00e3o que tirou uma Presidente eleita do seu cargo pol\u00edtico com uma farsa!\r\nHoje eu fa\u00e7o parte disto aqui e luto para que a democracia volte para as m\u00e3os da popula\u00e7\u00e3o, de todos e todas. Eu n\u00e3o vou deixar que a minha hist\u00f3ria, que vem de ser faxineiro, que vem de ser vendedor de telemarketing, de limpador de ch\u00e3o, de ser engraxate, que me fez chegar aqui como trabalhador... Eu trabalho nesta Casa - trabalho muito, trabalho durante semanas nesta Casa, trabalho quando volto para a cidade do Rio de Janeiro -, para que ela n\u00e3o seja manchada pela voz de um Presidente que foi eleito por meio de fake news, para que n\u00e3o seja manchada pela voz dos seus filhos, que sobem em palanques e utilizam a carreira pol\u00edtica da fam\u00edlia inteira como neg\u00f3cio.\r\nEu n\u00e3o vou deixar meu nome nunca ser sujo na hist\u00f3ria da pol\u00edtica, porque eu sei - tenho certeza disso -, dentro do meu cora\u00e7\u00e3o e do cora\u00e7\u00e3o de v\u00e1rios brasileiros, que n\u00f3s, que estamos do lado da democracia, que lutamos por ela acima de tudo, estamos do lado certo e sempre estivemos! E \u00e9 desse lugar que estaremos fazendo a nossa luta, aqui, na imprensa, em todos os locais, nas ruas, devolvendo ao povo a voz que lhe foi tomada nesse \u00faltimo per\u00edodo democr\u00e1tico de direito, em que temos um Presidente que n\u00e3o nos representa.\r\nA luta continua contra as fake news e contra esse Presidente LGBTf\u00f3bico!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F7%2F2019&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AG\u00caNCIA CENTRAL DE INTELIG\u00caNCIA (CIA) (ESTADOS UNIDOS), ESTADOS UNIDOS, VIAGEM, ESCLARECIMENTO, S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, CONVOCA\u00c7\u00c3O, EDUARDO BOLSONARO, PRESIDENTE DE COMISS\u00c3O, COMISS\u00c3O DE RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL (CREDN), DECIS\u00c3O, CONTRA, RECURSO (PROPOSI\u00c7\u00c3O LEGISLATIVA).",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Apresenta\u00e7\u00e3o \u00e0 Mesa Diretora de recurso contra a decis\u00e3o do Presidente da Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional, Deputado Eduardo Bolsonaro, de n\u00e3o aprecia\u00e7\u00e3o do requerimento de convoca\u00e7\u00e3o do Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, para esclarecimento ao \u00f3rg\u00e3o do motivo de visitas \u00e0  Ag\u00eancia Central de Intelig\u00eancia - CIA, nos Estados Unidos da Am\u00e9rica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sr. Presidente, venho fazer uma den\u00fancia do que tem acontecido na CREDN, Comiss\u00e3o muito respeitada nesta Casa, que vem sendo presidida por Eduardo Bolsonaro. V\u00e1rias vezes, eu, o Deputado Glauber Braga e outros Deputados da Oposi\u00e7\u00e3o chamamos o Ministro Moro para vir aqui dar explica\u00e7\u00f5es sobre suas visitas \u00e0 CIA, nos Estados Unidos, mas o requerimento sequer \u00e9 apreciado pelos pares da Comiss\u00e3o. Isso vem ocorrendo e temos reclamado a esse respeito. A resposta que recebemos do Presidente \u00e9 que temos que recorrer \u00e0 Mesa da C\u00e2mara.\r\nEnt\u00e3o, apresentamos requerimento para recorrer \u00e0 Mesa, porque \u00e9 imposs\u00edvel, quando existe um..\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, votei conforme a orienta\u00e7\u00e3o do partido.\r\nO SR. DAVID MIRANDA (PSOL - RJ) - Quando um Ministro da Justi\u00e7a participa de reuni\u00f5es sobre seguran\u00e7a nacional e intelig\u00eancia, isso passa pela CREDN. N\u00e3o \u00e9 o Presidente da CREDN, como diz o art. 219, que tem o m\u00e9rito para decidir sobre o que vai ser apreciado ou n\u00e3o. \u00c9 preciso que o requerimento seja votado pelos pares, o que pode ser recusado. Ent\u00e3o, acredito que isso est\u00e1 sendo uma burla. Ele est\u00e1 blindando o Ministro, e isso est\u00e1 sendo recorrente na CREDN.\r\nEnt\u00e3o, deixo aqui o meu comunicado de que a Comiss\u00e3o est\u00e1 sendo utilizada de forma err\u00f4nea.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=222&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OPERA\u00c7\u00c3O LAVA A JATO, COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), INSTALA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Defesa de instala\u00e7\u00e3o da CPI da Lava-Jato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, os \u00e1udios agora comprovam aquilo de que todos aqui j\u00e1 vinham desconfiando quanto \u00e0 posi\u00e7\u00e3o dos procuradores e do Ministro, que falavam, n\u00e3o com tanta certeza, que podia ser e que n\u00e3o podia ser... Agora, chegou o momento da verdade. Foram desmascarados.\r\nEu quero saber agora deste Plen\u00e1rio se instalaremos uma CPI para poder investigar isso a fundo. O objetivo n\u00e3o \u00e9 paralisar a Lava-Jato, porque a Lava-Jato fez um trabalho importante, prendendo o Cunha, prendendo o Cabral, prendendo outros pol\u00edticos corruptos. A Lava-Jato teve o seu papel. Mas, em raz\u00e3o daqueles que est\u00e3o envolvidos nessas conversas e demonstram um desvio de car\u00e1ter, um desvio \u00e9tico, n\u00f3s precisamos tocar essa CPI aqui.\r\nEnt\u00e3o, eu pe\u00e7o a nossos pares que assinem o requerimento para essa CPI e que...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=243&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo da admissibilidade dos destaques simples oferecidos ao Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o. \u00c9 incr\u00edvel que tenhamos que falar aqui! S\u00e3o 32 modalidades que vamos colocar, especialmente o la\u00e7o. Sabe o que acontece quando eles la\u00e7am o rabo do touro? Eles podem quebrar a coluna. Logo depois, esse animal precisa continuar correndo ali naquela arena sendo torturado. Depois, h\u00e1 o la\u00e7o em volta do pesco\u00e7o, que pode acabar sufocando e ainda torturando o animal.\r\nEu entendo que a cultura se modifica de acordo com o tempo. Mas n\u00f3s querermos colocar a tortura de animais, que t\u00eam vida, como patrim\u00f4nio nacional \u00e9 um absurdo nos dias de hoje! \u00c9 um absurdo n\u00f3s termos que votar isso no plen\u00e1rio! \u00c9 um absurdo botar todas essas modalidades como patrim\u00f4nio da cultura nacional, porque n\u00f3s estamos falando aqui da vida de animais que v\u00e3o ser torturados at\u00e9 o \u00faltimo segundo das suas vidas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=291&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ALTERA\u00c7\u00c3O, PASSAPORTE, REGISTRO, PAI, M\u00c3E, HOMOFOBIA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Rep\u00fadio \u00e0 persegui\u00e7\u00e3o do Presidente Jair Bolsonaro contra a comunidade LGBT.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidenta, eu venho aqui para fazer uma den\u00fancia contra o Presidente Jair Bolsonaro e o Itamaraty. Ontem, em uma entrevista, o Presidente afirmou que vai tirar dos passaportes \"genitor 1\" e \"genitor 2\" para colocar \"pai\" e \"m\u00e3e\". Eu sou pai de dois garotos. Tirei o passaporte deles recentemente, e eles t\u00eam muito orgulho de ver o nome dos pais ali como genitores.\r\nA criminaliza\u00e7\u00e3o da \"LGBTfobia\" j\u00e1 passou no STF. O Presidente continua cometendo atos \"LGBTf\u00f3bicos\" contra essa popula\u00e7\u00e3o. O Brasil n\u00e3o precisa que ele preste aten\u00e7\u00e3o na sexualidade dos outros. O Brasil precisa de trabalho. O Brasil precisa que ele preste aten\u00e7\u00e3o na seguran\u00e7a p\u00fablica, na educa\u00e7\u00e3o, na sa\u00fade. Enquanto isso, o Jair Bolsonaro n\u00e3o preside para ningu\u00e9m, s\u00f3 fica prestando aten\u00e7\u00e3o na sexualidade alheia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL vota \"n\u00e3o\". Acreditamos que precisamos votar isto aqui hoje, principalmente no momento em que vivemos agora no nosso Pa\u00eds. H\u00e1 pessoas de partidos que dizem que representam o novo, mas n\u00e3o querem que aqueles que est\u00e3o no poder e que abusam do poder estejam indo \u00e0 contabilidade. Ficam protegendo aqueles que t\u00eam colarinho branco, dentro deste Pa\u00eds. N\u00f3s queremos justi\u00e7a, sim, mas uma justi\u00e7a sem corrup\u00e7\u00e3o.\r\nPor isso, o PSOL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=255&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, MPV 879/2019, MEDIDA PROVISORIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nFL\u00c1VIO BOLSONARO, SENADOR, CORRUP\u00c7\u00c3O, INTERFERENCIA, INVESTIGA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, CRITICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, da Medida Provis\u00f3ria n\u00ba 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia el\u00e9trica. Prote\u00e7\u00e3o do Senador Fl\u00e1vio Bolsonaro pelo Governo Jair Bolsonaro, com rela\u00e7\u00e3o as investiga\u00e7\u00f5es sobre o envolvimento do Parlamentar em esquema de corrup\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nEu venho aqui fazer uma den\u00fancia sobre o Governo Bolsonaro, que vem fazendo movimenta\u00e7\u00f5es para encobrir seu filho Fl\u00e1vio Bolsonaro. Ele movimenta o COAF agora para indicar cargos, movimenta a Pol\u00edcia Federal, tirando o Superintendente que fazia uma investiga\u00e7\u00e3o l\u00e1 no Rio de Janeiro sobre o envolvimento e a proximidade da fam\u00edlia Bolsonaro com a mil\u00edcia.\r\nVemos que o Presidente, que veio com a bandeira anticorrup\u00e7\u00e3o, que ia salvar o Brasil e que n\u00e3o faz nada para o sofredor e trabalhador povo brasileiro, cada vez mais se utiliza do poder p\u00fablico para blindar a sua fam\u00edlia, para blindar o seu filho, para blindar o Queiroz, que era seu amigo, e para blindar a sua esposa. H\u00e1 corrup\u00e7\u00e3o na fam\u00edlia Bolsonaro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=24&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o e esportivas, constante do art. 1\u00ba da Lei 13.364, de 2016, na reda\u00e7\u00e3o dada ao art. 2\u00ba do Projeto de Lei n\u00ba 8.240, de 2017, acerca da inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL vota \"n\u00e3o\", porque entende que n\u00e3o foi debatida essa express\u00e3o \"esportiva\". Mais de 32 modalidades diferentes est\u00e3o inclu\u00eddas ali. E n\u00f3s n\u00e3o podemos falar para a sociedade que uma pr\u00e1tica de viol\u00eancia contra animais \u00e9 alguma coisa cultural, que est\u00e1 como patrim\u00f4nio cultural brasileiro. \u00c9 preciso que isso seja discutido com a popula\u00e7\u00e3o brasileira.\r\nA pr\u00e1tica da escravid\u00e3o foi comum no Pa\u00eds, a mulheres n\u00e3o votarem foi uma pr\u00e1tica comum no Pa\u00eds. Agora eles querem colocar que os animais serem puxados por um la\u00e7o no rabo, quebrando a coluna, e depois serem enforcados \u00e9 uma atividade simplesmente de m\u00e1xima cultura brasileira. Isso nunca pode entrar, porque isso \u00e9 um desrespeito a toda a qualidade de vida humana.\r\nO PSOL est\u00e1 em obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=266&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "QUEIMADA, INC\u00caNDIO FLORESTAL, FLORESTA AMAZ\u00d4NICA, CR\u00cdTICA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, BANCADA RURALISTA, AGRONEG\u00d3CIO, ORGANIZA\u00c7\u00c3O N\u00c3O GOVERNAMENTAL (ONG), FUNDO AMAZ\u00d4NIA, CONFLITO, ALEMANHA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Responsabilidade do Presidente Jair Bolsonaro pelo agravamento das queimadas na Amaz\u00f4nia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 com muito pesar no cora\u00e7\u00e3o que venho falar sobre o que acontece na Amaz\u00f4nia hoje em dia. Essas queimadas s\u00e3o um an\u00fancio do que \u00e9 o Governo Bolsonaro. A aproxima\u00e7\u00e3o com a bancada do agroneg\u00f3cio causou toda essa situa\u00e7\u00e3o que ocorre hoje no Brasil: queimadas enormes, mudan\u00e7a de clima em v\u00e1rias cidades, voos impedidos de serem realizados, enfim, um caos. E o principal: essas queimadas est\u00e3o matando animais e tirando \u00edndios e outras pessoas de suas pr\u00f3prias casas.\r\nNum pronunciamento covarde - n\u00e3o h\u00e1 outra palavra para descrever -, o Presidente Jair Bolsonaro quis culpar ONGs, dizendo que foram as ONGs que colocaram fogo e causaram as queimadas, tirando de si a responsabilidade de Presidente deste Pa\u00eds.\r\nAs queimadas est\u00e3o maiores durante a Presid\u00eancia dele. Perdemos os recursos da Alemanha que iriam para o Fundo Amaz\u00f4nia durante a Presid\u00eancia dele. Portanto, a culpa das queimadas na Amaz\u00f4nia \u00e9 do Bolsonaro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=15&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, CRIAN\u00c7A, JOVEM, ADOLESCENTE, DIVERSIDADE SEXUAL, G\u00caNERO, MINIST\u00c9RIO DA EDUCA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GEST\u00c3O, CR\u00cdTICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Inconsist\u00eancia de pedido do Presidente Jair Bolsonaro ao Minist\u00e9rio da Educa\u00e7\u00e3o para o envio ao Congresso Nacional de projetos de lei \u00e0 proibi\u00e7\u00e3o da aplica\u00e7\u00e3o da ideologia de g\u00eanero. Inexist\u00eancia da ideologia de g\u00eanero.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, venho a esta tribuna falar sobre uma mensagem que eu recebi dizendo que o Presidente Bolsonaro pede ao MEC projetos de lei para proibir a ideologia de g\u00eanero.\r\nPrimeiro, ideologia de g\u00eanero nem existe, j\u00e1 que n\u00e3o est\u00e1 catalogada em nenhum lugar. A ala conservadora extrema utiliza este termo para falar de identidade de g\u00eanero e sexualidades diversas.\r\nBolsonaro tem fixa\u00e7\u00e3o pela sexualidade alheia, coisa que me preocupa. No momento em que vivemos uma crise econ\u00f4mica, pol\u00edtica e estrutural t\u00e3o profunda, no momento em que a escalada da viol\u00eancia s\u00f3 aumenta em v\u00e1rios locais, o Presidente do nosso Pa\u00eds s\u00f3 sabe falar da sexualidade dos outros.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CENTRO DE LAN\u00c7AMENTO DE ALC\u00c2NTARA (CLA), ACORDO DE SALVAGUARDAS TECNOL\u00d3GICAS, BRASIL, ESTADOS UNIDOS, PROPOSI\u00c7\u00c3O LEGISLATIVA, VOTA\u00c7\u00c3O, CONTR\u00c1RIO, QUILOMBOLAS, DEFESA.\r\nORGANIZA\u00c7\u00c3O DO TRATADO DO ATL\u00c2NTICO NORTE (OTAN), AN\u00c1LISE.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Posicionamento contr\u00e1rio \u00e0 vota\u00e7\u00e3o de proposi\u00e7\u00e3o relativa ao Acordo de Salvaguardas Tecnol\u00f3gicas entre o Brasil e os Estados Unidos da Am\u00e9rica, sobre o Centro de Lan\u00e7amento de Alc\u00e2ntara, no Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Espanta-me muito a pressa em querer votar o acordo de salvaguarda de Alc\u00e2ntara aqui, no plen\u00e1rio. Por qu\u00ea? Porque ao Eduardo Bolsonaro foi prometida a Embaixada dos Estados Unidos, e o pai dele, em suas redes sociais, afirmou que seu filho tinha que entregar Alc\u00e2ntara, para poder ir para l\u00e1. Eu queria que o Eduardo entendesse que s\u00e3o mais de 300 fam\u00edlias quilombolas que moram ali. N\u00f3s temos que respeitar as leis da Organiza\u00e7\u00e3o do Tratado do Atl\u00e2ntico Norte - OTAN. N\u00f3s fazemos parte de uma assinatura que n\u00e3o est\u00e1 sendo respeitada.\r\nEu fui \u00e0 Base de Alc\u00e2ntara, fiz uma visita, e todos os debates que l\u00e1 fizemos n\u00e3o foram suficientes para sustar... Aquilo ali \u00e9 o entreguismo de uma base que \u00e9 important\u00edssima para nossa democracia.\r\nEm 2013, eu denunciei junto com meu marido que os Estados Unidos estavam espionando o nosso Pa\u00eds, utilizando uma base em Bras\u00edlia. Agora, queremos dar uma base em Alc\u00e2ntara, sem estudo econ\u00f4mico, sem estudo do que vai acontecer com a popula\u00e7\u00e3o que est\u00e1 l\u00e1 e sem saber quanto de investimento vai ser preciso, quando estamos passando por uma crise econ\u00f4mica enorme, s\u00f3 porque o filho do Presidente quer fazer a entrega, porque ele quer ir para Embaixada dos Estados Unidos. Isso \u00e9 um absurdo!\r\nTem que passar pelas Comiss\u00f5es. Tem que seguir os tr\u00e2mites. Principalmente, temos que ouvir a popula\u00e7\u00e3o quilombola que l\u00e1 vive e que n\u00e3o foi escutada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T14:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "FLORESTA AMAZ\u00d4NICA, PRESERVA\u00c7\u00c3O AMBIENTAL, DEBATE, COMISS\u00c3O GERAL.\r\nQUEIMADA, INC\u00caNDIO FLORESTAL, FLORESTA AMAZ\u00d4NICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Debate acerca da preserva\u00e7\u00e3o e conserva\u00e7\u00e3o da Amaz\u00f4nia.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ) - Boa tarde a todos e a todas. \r\nPresidente Alessandro Molon, \u00e9 ca\u00f3tico o momento que a popula\u00e7\u00e3o brasileira vive. A crise com as queimadas na Amaz\u00f4nia tem nomes, nomes que precisam ser mencionados: Bolsonaro, Presidente que na campanha disse que n\u00e3o haveria nenhum cent\u00edmetro demarcado para quilombola ou ind\u00edgena; e Ricardo Salles, Ministro que faz piadas e est\u00e1 junto de grandes empresas e grandes grupos de ruralistas e do agroneg\u00f3cio. \r\nEstes s\u00e3o os grandes culpados pelo que acontece com a Amaz\u00f4nia, o pulm\u00e3o do mundo. N\u00f3s temos a responsabilidade compartilhada de dispor de 20% do oxig\u00eanio do mundo. Nossa biodiversidade e tudo o que se encontra na Amaz\u00f4nia, todas as tribos ind\u00edgenas, deveriam ser objeto de prote\u00e7\u00e3o sagrada do Governo brasileiro. Deveriam ser, mas n\u00e3o o s\u00e3o. A pol\u00edtica do Governo Bolsonaro \u00e9 desmatar, dilacerar, queimar e matar os povos ind\u00edgenas.\r\nHoje o mundo inteiro para e presta aten\u00e7\u00e3o ao Brasil, \u00e0s queimadas. As queimadas tiveram um aumento de mais de 40 mil focos - s\u00e3o mais de 40 mil focos de queimadas! No mesmo per\u00edodo deste ano, se compararmos com as queimadas que aconteceram no ano passado, houve um aumento de 80%. Isso quer dizer muito sobre a Presid\u00eancia que temos. Isso quer dizer muito sobre a pol\u00edtica que est\u00e1 sendo feita para a Amaz\u00f4nia neste Pa\u00eds.\r\nEsta Casa, onde temos que votar leis, Casa que representa o povo brasileiro, deveria dar uma resposta \u00e0 altura ao Governo Bolsonaro, ao Ministro Ricardo Salles, que, como tem medo de vir aqui, manda seus representantes, mas senta a bunda e fica conversando com os protofascistas norte-americanos. Para a supremacia branca dos Estados Unidos ele tem tempo. Para fazer conversa ele tem tempo. Mas n\u00e3o tem tempo para responder ao povo brasileiro, que necessita de uma resposta agora. O povo brasileiro quer saber que programas ser\u00e3o feitos para acabar com as queimadas.\r\nEste \u00e9 o grande problema que n\u00f3s temos. \u00c9 assim que a pol\u00edtica acontece. Nesta semana, esta Casa passou um projetinho. Esta Casa devia ter sido fechada. Esta Casa deveria abrir uma semana verde, para que todo mundo tivesse consci\u00eancia e todos os projetos para proteger a Amaz\u00f4nia fossem votados aqui. \r\nN\u00f3s dever\u00edamos estar debatendo o que est\u00e1 acontecendo na Amaz\u00f4nia agora. N\u00e3o \u00e9 admiss\u00edvel! Os culpados t\u00eam nome: Bolsonaro e Ricardo Salles. \r\nN\u00f3s n\u00e3o podemos ficar parados. Temos que pedir ao Presidente Rodrigo Maia que, na semana que vem, abra uma semana verde, com todos os projetos. Todos os \u00f3rg\u00e3os e ONGs t\u00eam que pedir, com a popula\u00e7\u00e3o: semana verde!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=277&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCELO CRIVELLA, PREFEITO, RIO DE JANEIRO (RJ), CENSURA, BIENAL INTERNACIONAL DO LIVRO RIO (19:2019, RIO DE JANEIRO (RJ)), DIVERSIDADE SEXUAL, HOMOSSEXUALIDADE, REPRESENTA\u00c7\u00c3O JUDICIAL, HOMOFOBIA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Ajuizamento de representa\u00e7\u00e3o judicial contra o Prefeito Marcelo Crivella, do Rio de Janeiro, Estado do Rio de Janeiro,  pela pr\u00e1tica do crime de LGBTfobia demonstrada no recolhimento de material com conte\u00fado homossexual exposto na XIX Bienal Internacional do Livro Rio 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, neste \u00faltimo final de semana, n\u00f3s passamos uma grande vergonha, para n\u00e3o dizer outra coisa, na cidade do Rio de Janeiro. Foi a grande censura que sofremos na Bienal, que aconteceu no final de semana, por parte do Prefeito Crivella.\r\nA LGBTfobia exposta pelo Prefeito, inclusive com a a\u00e7\u00e3o que fez de mover at\u00e9 ju\u00edzes no domingo - ju\u00edzes trabalhando no domingo -, para fazer censura n\u00e3o foi o suficiente. A popula\u00e7\u00e3o carioca se levantou, foi \u00e0s ruas, foi \u00e0 Bienal. Felipe Neto comprou 14 mil livros e os distribuiu numa a\u00e7\u00e3o hist\u00f3rica, demonstrando que a for\u00e7a da popula\u00e7\u00e3o LGBT est\u00e1 muito forte, mas deixando um recado muito grande para a censura e para a LGBTfobia.\r\nEntrei com uma representa\u00e7\u00e3o contra o Prefeito Crivella e vamos continuar acompanhando-a.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - A presente sess\u00e3o est\u00e1 prorrogada por 1 hora.\r\nDeputado David, finalize.\r\nO SR. DAVID MIRANDA (PSOL - RJ) - Apresentei uma representa\u00e7\u00e3o contra o Prefeito, e ele vai ter que responder, na Justi\u00e7a, por essa LGBTfobia. N\u00e3o vou descansar at\u00e9 ver as a\u00e7\u00f5es que o Prefeito fez...\r\nEmbora haja muitas coisas acontecendo na cidade, o Prefeito quer cuidar de um beijo inocente, um beijo entre um casal, como qualquer outro casal. S\u00f3 porque era um casal gay, a LGBTfobia dele aparece, transparece cada vez mais, mas vamos lutar cada vez mais. Nosso Pa\u00eds j\u00e1 criminalizou a LGBTfobia, e agora o Prefeito vai sentir no bolso dele, principalmente com a lei que j\u00e1 temos em nosso Pa\u00eds. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nCOMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), INVESTIGA\u00c7\u00c3O, OPERA\u00c7\u00c3O LAVA JATO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 171 da Subemenda Substitutiva Global apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, relativa \u00e0s normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica, com vista \u00e0 sua supress\u00e3o. Import\u00e2ncia de instala\u00e7\u00e3o da CPI da Lava-Jato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL vota \"sim\".\r\nEu queria falar aos Parlamentares que est\u00e3o aqui, principalmente aos que assinaram a CPI da \"Vaza-Jato\", que \u00e9 de extrema import\u00e2ncia. Precisamos debater aqui os crimes de corrup\u00e7\u00e3o em que estiveram envolvidos o Ministro Sergio Moro e os Procuradores da Lava-Jato.\r\n\u00c9 de extrema import\u00e2ncia frisar que essa CPI n\u00e3o \u00e9 contra a Lava-Jato. Ela simplesmente pega as pessoas que foram citadas nas publica\u00e7\u00f5es do Intercept e que estavam envolvidas nesse sistema de corrup\u00e7\u00e3o...\r\nO SR. JOS\u00c9 MEDEIROS (PODE - MT) - O cara acusado de \"rachadinha\" falando de Moro.\r\nO SR. DAVID MIRANDA (PSOL - RJ) - ... que foi fraudulento, que tirou um dos concorrentes \u00e0 elei\u00e7\u00e3o e colocou o Bolsonaro como candidato principal.\r\nO SR. JOS\u00c9 MEDEIROS (PODE - MT) - Vai explicar sua \"rachadinha\", rapaz!\r\nO SR. DAVID MIRANDA (PSOL - RJ) - Precisamos ir a fundo, para que isso tudo seja investigado, porque n\u00e3o est\u00e1 sendo investigado pela Procuradoria...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ESCOLA, FAVELA, JUVENTUDE, NEGROS, V\u00cdTIMA, VIOL\u00caNCIA, HELIC\u00d3PTERO, UTILIZA\u00c7\u00c3O, WILSON WITZEL,, GOVERNADOR, RIO DE JANEIRO (ESTADO), CONTRA, DEN\u00daNCIA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Apresenta\u00e7\u00e3o de den\u00fancia contra o Governador do Estado do Rio de Janeiro, Wilson Witzel, por ataque a\u00e9reo a estabelecimento escolar.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sr. Presidente, eu venho aqui fazer uma den\u00fancia contra o Governador do Estado do Rio de Janeiro, Wilson Witzel, que mais uma vez se utiliza da viol\u00eancia do Estado, agora com o uso de helic\u00f3pteros, e atira em cima de uma escola, onde havia estudantes e profissionais de educa\u00e7\u00e3o.\r\nMais uma vez a viol\u00eancia do Estado, que \u00e9 genocida, est\u00e1 atacando a favela, est\u00e1 atacando a juventude negra que vive ali, est\u00e1 atacando a periferia.\r\nN\u00e3o \u00e9 poss\u00edvel que nesta Casa consigamos admitir algo como isto: em pleno s\u00e9culo XXI, em 2019, o Estado utilizar helic\u00f3pteros e atirar em cima de escolas com crian\u00e7as. No ano passado, as crian\u00e7as nas favelas n\u00e3o tiveram aula por mais de 155 dias. \u00c9 uma absurdo a viol\u00eancia do Estado contra a favela.\r\nWitzel \u00e9 assassino e tem sangue nas m\u00e3os.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=70&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DAVID MIRANDA, DEPUTADO FEDERAL, TRANSPAR\u00caNCIA, INVESTIGA\u00c7\u00c3O, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), S\u00cdTIO (INTERNET), JORNALISMO, DEN\u00daNCIA, CAMPANHA ELEITORAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA.\r\nPARTIDO SOCIAL LIBERAL (PSL), DESVIO, RECURSOS P\u00daBLICOS, CAMPANHA ELEITORAL, CANDIDATA, ELEI\u00c7\u00d5ES, MINAS GERAIS.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "An\u00fancio da abertura das contas do orador, diante da instala\u00e7\u00e3o de processo judicial ap\u00f3s publica\u00e7\u00f5es do site The Intercept Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, ao contr\u00e1rio do Fl\u00e1vio Bolsonaro, da Michelle Bolsonaro, do Carlos Bolsonaro, que acabou de pedir 4 meses de afastamento, eu n\u00e3o tenho nada a esconder. Eu cheguei diretamente e j\u00e1 anunciei que as minhas contas v\u00e3o estar abertas. Eu falo a mesma coisa, porque o processo come\u00e7a 2 dias depois que o Intercept come\u00e7a a fazer as publica\u00e7\u00f5es, mostrando o sistema de corrup\u00e7\u00e3o que colocou Bolsonaro no poder. Eu n\u00e3o tenho medo nenhum da Justi\u00e7a e estou apresentando toda a documenta\u00e7\u00e3o.\r\nEu quero deixar claro para o PSL, que tem os laranjais, que sabemos muito bem da luta hist\u00f3rica das mulheres, mas ele utilizou isso para coloc\u00e1-las em Minas Gerais. Estou aqui aberto e quero saber se a fam\u00edlia Bolsonaro vai fazer o mesmo.\r\nIsso \u00e9 s\u00f3 uma retalia\u00e7\u00e3o. N\u00f3s vamos continuar lutando.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=323&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "POL\u00cdTICA EXTERNA, DIPLOMACIA, ORGANIZA\u00c7\u00c3O DAS NA\u00c7\u00d5ES UNIDAS (ONU), ASSEMBLEIA GERAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O, AVALIA\u00c7\u00c3O NEGATIVA.\r\nCORRUP\u00c7\u00c3O, COMBATE, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O, AVALIA\u00c7\u00c3O NEGATIVA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Perplexidade ante os discursos proferidos no plen\u00e1rio em apoio o pronunciamento do Presidente Jair Bolsonaro na abertura da Assembleia Geral da Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas - ONU. Inconsist\u00eancia de afirma\u00e7\u00f5es sobre o combate \u00e0 corrup\u00e7\u00e3o pelo Presidente da Rep\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 um absurdo que Parlamentares venham aqui defender o indefens\u00e1vel: o discurso do Presidente Jair Bolsonaro, que n\u00e3o nos representa, na ONU.\r\nAinda falam que o Presidente est\u00e1 acabando com a corrup\u00e7\u00e3o, quando, em sua pr\u00f3pria fam\u00edlia, o Queiroz, o Fl\u00e1vio e agora o Carlos Bolsonaro est\u00e3o sendo investigados. Lembro, ainda, que ele acabou colocando l\u00e1 o primo do Carlos Bolsonaro, que conhecemos bem, al\u00e9m de oferecer v\u00e1rios cargos comissionados para a fam\u00edlia, fazendo toda a mamata que ele disse que ia acabar no seu Governo.\r\nO Governo Bolsonaro \u00e9 governado simplesmente pela pr\u00f3pria fam\u00edlia. Ele n\u00e3o acabou com o sistema de corrup\u00e7\u00e3o. Ele instaura cada vez mais a defesa em todos os sentidos. N\u00f3s sabemos que ele est\u00e1 querendo proteger ao m\u00e1ximo o seu filho, que est\u00e1...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=247&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-08T21:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LEN\u00cdN MORENO, PRESIDENTE DA REP\u00daBLICA, EQUADOR, REPRESS\u00c3O, DITADURA, CR\u00cdTICA.\r\nDEMOCRACIA, DEFESA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Ocorr\u00eancia de revolta popular no Equador contra o regime ditatorial de Len\u00edn Moreno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Para discursar. Sem revis\u00e3o do orador.) - Presidente, eu venho falar sobre a situa\u00e7\u00e3o do Equador, que \u00e9 de extrema import\u00e2ncia. Devemos prestar aten\u00e7\u00e3o. Hoje, os movimentos sociais e a popula\u00e7\u00e3o se levantam contra um Presidente completamente ditador, que est\u00e1 jogando estudantes de pontes, fazendo uma repress\u00e3o alt\u00edssima \u00e0 popula\u00e7\u00e3o.\r\nVenho pedir a esta Casa uma aten\u00e7\u00e3o a esse pa\u00eds, que tem sofrido muito com o Governo do Moreno.\r\nEstamos prestando a nossa solidariedade a toda a popula\u00e7\u00e3o.\r\nQue esse conflito se resolva o mais r\u00e1pido poss\u00edvel e que a popula\u00e7\u00e3o saia ganhando!\r\nDemocracia acima de tudo!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=10%2F10%2F2019&txPagina=154&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEPUTADO FEDERAL, ESQUERDA POL\u00cdTICA, VOTO FAVOR\u00c1VEL, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTOS A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA (2019), CENTRO DE LAN\u00c7AMENTO DE ALC\u00c2NTARA (CLA).",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Cr\u00edticas \u00e0 participa\u00e7\u00e3o de partidos de Esquerda no acordo de L\u00edderes para vota\u00e7\u00e3o de proposta de utiliza\u00e7\u00e3o, pelos Estados Unidos da Am\u00e9rica, do Centro de Lan\u00e7amento de Alc\u00e2ntara, no Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, falo ao microfone para chamar a aten\u00e7\u00e3o dos meus pares. Hoje, mais cedo, houve uma reuni\u00e3o do corpo de L\u00edderes. Eu acho que \u00e9 meio complicado entender que existem partidos da Esquerda, da Oposi\u00e7\u00e3o, que t\u00eam posicionamentos aqui que falam a favor do povo brasileiro, que falam a favor dos quilombolas, e que agora est\u00e3o fechando para poder votar a urg\u00eancia e votar aqui neste plen\u00e1rio a entrega da base de Alc\u00e2ntara.\r\nEu acho um absurdo qualquer partido que se denomine de esquerda entrar nessa furada de entregar a base de Alc\u00e2ntara. S\u00e3o 350 fam\u00edlias e mais de 3 mil quilombolas que v\u00e3o ser removidos. N\u00f3s vamos dar nomes.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=148&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Discuss\u00e3o do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Boa noite a todas e a todos.\r\nO assunto da Base de Alc\u00e2ntara \u00e9 de extrema import\u00e2ncia para a popula\u00e7\u00e3o brasileira. Trata-se da soberania nacional, de um assunto sobre os quilombolas da d\u00e9cada de 1980. Mexeram num acordo, e os quilombolas at\u00e9 hoje n\u00e3o t\u00eam suas terras demarcadas: foram lesados no Governo da \u00e9poca. \r\nEste acordo n\u00e3o tem, at\u00e9 o momento, nenhum vi\u00e9s econ\u00f4mico comprovado. De todos os requerimentos que passaram por todas as Comiss\u00f5es e por todos os Minist\u00e9rios, nenhum voltou. \r\nOnde est\u00e3o comprovados os 80% de tecnologia dos Estados Unidos? N\u00e3o existe comprova\u00e7\u00e3o. Onde consta a fala mentirosa do Ministro da Ci\u00eancia e Tecnologia, Marcos Pontes, de que vamos lucrar 4 bilh\u00f5es com este mercado? Este mercado teve, mundialmente, um ganho no ano passado de 4,8 bilh\u00f5es. O Brasil vai tomar todo o mercado de lan\u00e7amento? Ele fala do mercado que vai estar a 1 trilh\u00e3o da d\u00e9cada de 1940, esquecendo-se de dizer que o Brasil s\u00f3 vai estar na parte do mercado de lan\u00e7amento.\r\nH\u00e1 outras coisas que me preocupam, como o tipo de combust\u00edvel que ser\u00e1 utilizado no Brasil. Os Estados Unidos n\u00e3o podem utilizar v\u00e1rios combust\u00edveis. O pa\u00eds n\u00e3o est\u00e1 nos acordos nem neste tratado. Nem mesmo energia nuclear pode ser utilizada na Base de Alc\u00e2ntara.\r\nN\u00f3s n\u00e3o estamos aqui s\u00f3 para falar dos ganhos econ\u00f4micos, que n\u00e3o t\u00eam nenhum par\u00e2metro, ou de quantos lan\u00e7amentos ser\u00e3o feitos, al\u00e9m de tudo o que ser\u00e1 feito. A realidade \u00e9 esta: trata-se, sim, de um presente do Deputado Eduardo Bolsonaro para os Estados Unidos, j\u00e1 que seu pai lhe prometeu a Embaixada dos Estados Unidos. \r\nRessalte-se que 350 fam\u00edlias quilombolas e mais de 3 mil pessoas ser\u00e3o removidas da regi\u00e3o, segundo a Folha de S.Paulo. \r\n\u00c9 um absurdo que partidos que se intitulam de esquerda estejam aqui hoje votando a favor da entrega da Base de Alc\u00e2ntara aos Estados Unidos!\r\nVamos ficar contra Bolsonaro!\r\nVamos lutar pela soberania nacional e pelo povo quilombola!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=284&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL,  PL 8833/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nHOMOFOBIA, BULLYING, JUVENTUDE, ESCOLA, SUIC\u00cdDIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica ao Projeto de Lei n\u00ba 8.833, de 2017, a respeito da tipifica\u00e7\u00e3o como crime a indu\u00e7\u00e3o de crian\u00e7as e adolescentes ao suic\u00eddio e \u00e0 automutila\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL orienta \"sim\".\r\nEsse projeto \u00e9 muito importante para a popula\u00e7\u00e3o jovem brasileira. Eu acho que finalmente o Parlamento est\u00e1 dando uma voz aos jovens.\r\nMas aqui eu quero lembrar: os jovens LGBTI+ do Pa\u00eds sofrem com a LGBTfobia, com o bullying, o que aumenta a chance de se suicidarem. Eles sofrem com isso dentro das escolas. Ent\u00e3o, aqui eu pe\u00e7o aos Parlamentares que neste momento pensam nessa legisla\u00e7\u00e3o que pensem numa legisla\u00e7\u00e3o futura, numa legisla\u00e7\u00e3o que leve mais conhecimento \u00e0s escolas e faculdades, que leve mais conhecimento sobre o que esses jovens LGBTI+ passam. Que todos entendam que a identidade de g\u00eanero e a orienta\u00e7\u00e3o sexual n\u00e3o \u00e9 uma doen\u00e7a, n\u00e3o \u00e9 nada fora do livro. Esses jovens sofrem com isso todo o tempo no seu habitat, na sua escola ou em qualquer lugar.\r\nEnt\u00e3o, eu abra\u00e7o este projeto, e que pensemos num para o futuro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=239&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, OBSTRU\u00c7\u00c3O DA JUSTI\u00c7A, INVESTIGA\u00c7\u00c3O CRIMINAL, HOMIC\u00cdDIO, V\u00cdTIMA, MARIELLE FRANCO, EX-VEREADORA, RIO DE JANEIRO (RJ), S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, DEPOIMENTO, PORTEIRO, REPORTAGEM.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Protesto contra a obstru\u00e7\u00e3o da Justi\u00e7a, pelo Presidente Jair Bolsonaro, no tocante \u00e0s investiga\u00e7\u00f5es do assassinato da Vereadora Marielle Franco e do motorista Anderson Pedro Gomes, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu venho aqui hoje com um descontentamento enorme com a a\u00e7\u00e3o do Presidente da Rep\u00fablica de mais uma vez utilizar o aparato do Estado para colocar a defesa dele \u00e0 frente. Ele utilizou o Ministro da Justi\u00e7a, Sergio Moro, para correr atr\u00e1s dos investigadores e de uma suposta testemunha, da qual tomamos conhecimento pela mat\u00e9ria de ontem. O Procurador-Geral de Justi\u00e7a j\u00e1 est\u00e1 dando o seu aval, dizendo que o Presidente est\u00e1 sendo acusado por falsas den\u00fancias, sem que tenha havido uma investiga\u00e7\u00e3o pr\u00e9via, sem nada disso.\r\nIsso j\u00e1 \u00e9 grave por si s\u00f3. \u00c9 grave tamb\u00e9m que Bolsonaro nunca tenha se pronunciado sobre o assassinato da Marielle Franco e do Anderson. Mas mais grave ainda \u00e9 ele agora interferir nas investiga\u00e7\u00f5es em curso.\r\nN\u00f3s queremos que as investiga\u00e7\u00f5es v\u00e3o adiante sem obstru\u00e7\u00e3o da Justi\u00e7a.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=175&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, FL\u00c1VIO BOLSONARO, SENADOR, INTERFER\u00caNCIA, INVESTIGA\u00c7\u00c3O CRIMINAL, HOMIC\u00cdDIO, V\u00cdTIMA, MARIELLE FRANCO, EX-VEREADORA, RIO DE JANEIRO (RJ), AUTOR INTELECTUAL.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Exig\u00eancia de identifica\u00e7\u00e3o dos mandantes do assassinato da Vereadora Marielle Franco. Cr\u00edticas ao posicionamento do Presidente Jair Bolsonaro diante da den\u00fancia sobre o envolvimento do seu nome nas investiga\u00e7\u00f5es do homic\u00eddio da Edil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em primeiro lugar, n\u00f3s \u00e9 que n\u00e3o vamos descansar enquanto n\u00e3o conseguirmos saber quem foram os mandantes do crime que tirou a vida da nossa companheira e amiga Marielle Franco.\r\nEm segundo lugar, eu leio, sim, jornais. Em momento algum eu citei jornal. Eu disse que as investiga\u00e7\u00f5es s\u00e3o grav\u00edssimas e precisam continuar. Se dissessem que algu\u00e9m na minha casa falou em meu nome que podiam entrar, eu seria a primeira pessoa a querer que a investiga\u00e7\u00e3o fosse adiante, mas eu n\u00e3o iria utilizar o aparato do Estado, assim como o Presidente j\u00e1 fez antes, para salvar seu filho Fl\u00e1vio Bolsonaro, que est\u00e1 \u00e0s voltas com esquemas de corrup\u00e7\u00e3o com...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-07T12:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REDE GLOBO DE TELEVIS\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, MARIELLE FRANCO, VEREADORA, RIO DE JANEIRO (RJ), HOMIC\u00cdDIO, OBSTRU\u00c7\u00c3O DA JUSTI\u00c7A.\r\nEDUARDO BOLSONARO, DEPUTADO FEDERAL, L\u00cdDER DO PARTIDO, PARTIDO SOCIAL LIBERAL (PSL), PERDA DE MANDATO ELETIVO, DECLARA\u00c7\u00c3O, DITADURA MILITAR.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Veicula\u00e7\u00e3o, pela Rede Globo de Televis\u00e3o, de mat\u00e9ria acerca de ind\u00edcios do envolvimento da fam\u00edlia Bolsonaro com supostos assassinos da Vereadora Marielle Franco. Ajuizamento, por partidos oposicionistas, de queixa-crime contra o Presidente Jair Bolsonaro por obstru\u00e7\u00e3o da justi\u00e7a nas investiga\u00e7\u00f5es do homic\u00eddio da Edil. Indaga\u00e7\u00e3o sobre os mandantes do assassinato da Vereadora e do motorista Anderson Pedro Gomes. Rep\u00fadio ao Governo Jair Bolsonaro. Defesa de cassa\u00e7\u00e3o do mandato do Deputado Eduardo Bolsonaro, em face do seu posicionamento favor\u00e1vel \u00e0 reedi\u00e7\u00e3o do Ato Institucional n\u00ba 5, o AI5, marco do per\u00edodo sombrio da ditadura militar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidenta.\r\nEu venho a esta tribuna falar sobre os fatos que ocorreram na semana passada. A Globo mostrou poss\u00edveis ind\u00edcios de que a fam\u00edlia Bolsonaro tenha recebido liga\u00e7\u00f5es, no seu condom\u00ednio, onde Carlos Bolsonaro e Jair Bolsonaro na \u00e9poca moravam, dos poss\u00edveis assassinos de Marielle Franco. Naquela mesma semana, n\u00f3s vimos o Minist\u00e9rio P\u00fablico do Rio de Janeiro fazer uma per\u00edcia muito r\u00e1pida, de 2 horas, e concluir que os prov\u00e1veis assassinos de Marielle Franco, que, segundo o porteiro que deu o depoimento, ligaram para a casa de Jair Bolsonaro, na verdade foram para outra casa. De imediato, vimos que Jair Bolsonaro acionou o seu Ministro da Justi\u00e7a, Sergio Moro, para que ele investigasse o porteiro, fazendo uma clara obstru\u00e7\u00e3o da Justi\u00e7a, j\u00e1 ali. Al\u00e9m disso, ele falou abertamente que obteve os \u00e1udios para que n\u00e3o fossem adulterados. Logo ele, Jair Bolsonaro, que deveria ter o maior interesse em que todos esses fatos fossem revelados e investigados, para que n\u00e3o houvesse nada que incriminasse sua fam\u00edlia, faz uma clara obstru\u00e7\u00e3o da Justi\u00e7a, junto com Carlos Bolsonaro e Sergio Moro.\r\nO PSOL, o PT e v\u00e1rios outros partidos de oposi\u00e7\u00e3o entraram com uma queixa no STF nesta semana e pediram uma resposta sobre essa situa\u00e7\u00e3o e sobre a clara obstru\u00e7\u00e3o da Justi\u00e7a.\r\nVamos continuar investigando o assassinato pol\u00edtico de Marielle Franco e Anderson Gomes. Nesta semana, continuamos lutando. Ontem veio a not\u00edcia de que a Pol\u00edcia Federal est\u00e1 investigando o porteiro.\r\nH\u00e1 v\u00e1rios ind\u00edcios de que o material n\u00e3o foi coletado da forma adequada. Tivemos 20 dias de sil\u00eancio por parte do STF. O Presidente do STF n\u00e3o fala nada, n\u00e3o se posiciona. O povo brasileiro clama por justi\u00e7a em rela\u00e7\u00e3o a esse assassinato pol\u00edtico. O povo brasileiro foi \u00e0s ruas, o povo brasileiro est\u00e1 nas redes sociais, o povo brasileiro quer, com a sua mente e o seu cora\u00e7\u00e3o, uma resposta para a pergunta que n\u00e3o quer calar: quem foram os mandantes intelectuais do assassinato b\u00e1rbaro de Marielle Franco e Anderson Gomes?\r\nNeste momento, n\u00f3s precisamos nos unir. Eu pergunto \u00e0 popula\u00e7\u00e3o brasileira: o n\u00f3s vamos fazer quando este Presidente...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nA SRA. PRESIDENTE (Aline Sleutjes. PSL - PR) - Pe\u00e7o que conclua, Deputado.\r\nO SR. DAVID MIRANDA (PSOL - RJ) - Sra. Presidente, a popula\u00e7\u00e3o brasileira se pergunta: quantos mais absurdos n\u00f3s vamos conseguir aturar deste Governo? Falar de \"ponta de praia\" para servidor p\u00fablico, com o pacote horr\u00edvel que apresentou para servidores p\u00fablicos do Pa\u00eds? Falar da volta do AI-5, como o Deputado Eduardo Bolsonaro falou? Sobre isso n\u00f3s tamb\u00e9m fizemos uma queixa. Vamos tentar cassar o mandato dele.\r\nAl\u00e9m disso, este Governo n\u00e3o est\u00e1 fazendo nada para a classe trabalhadora brasileira, est\u00e1 acabando com a Amaz\u00f4nia, e o Nordeste est\u00e1 cheio de \u00f3leo. Ele vive criando fantasmas, coisas que n\u00e3o existem, n\u00e3o trabalha e s\u00f3 faz passar uma agenda econ\u00f4mica da grande burguesia, que est\u00e1 acabando com a classe trabalhadora deste Pa\u00eds.\r\nN\u00f3s estamos em agonia. A popula\u00e7\u00e3o precisa acordar, este Parlamento precisa acordar para a grande amea\u00e7a que \u00e9 a fam\u00edlia Bolsonaro e o seu envolvimento no Rio de Janeiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2019&txPagina=59&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA NACIONAL DA CONSCI\u00caNCIA NEGRA, HOMENAGEM.\r\nCORONEL TADEU, DEPUTADO FEDERAL, RACISMO, POLICIA, HOMICIDIO, NEGROS, EXPOSI\u00c7\u00c3O DE ARTE, CAMARA DOS DEPUTADOS, PROTESTO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Realiza\u00e7\u00e3o, pela Casa, de sess\u00e3o solene ao ensejo do transcurso do Dia Nacional da Consci\u00eancia Negra. Protesto contra a iniciativa de Deputado de destrui\u00e7\u00e3o de placa com imagem de jovem negro assassinado por policial militar, em exibi\u00e7\u00e3o nas depend\u00eancias da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, \u00e9 um absurdo o que aconteceu hoje. Tivemos uma bel\u00edssima Sess\u00e3o Solene em que comemoramos a negritude, as nossas conquistas, lembrando o povo negro assassinado e encarcerado neste Pa\u00eds e o racismo institucional. \u00c0s 16 horas, estava reunida a bancada negra para fazer a abertura de uma exposi\u00e7\u00e3o. Uma das placas da exposi\u00e7\u00e3o fala, na sua ess\u00eancia, da viol\u00eancia do Estado, com n\u00fameros, com estat\u00edsticas, mostrando exatamente como a popula\u00e7\u00e3o jovem e negra deste Pa\u00eds \u00e9 assassinada, \u00e9 escorra\u00e7ada pelo Estado. A\u00ed, pelas m\u00e3os do Estado, de um representante do Estado, quebra-se uma placa numa exposi\u00e7\u00e3o, num ato de racismo - racismo institucional!\r\nIsso \u00e9 um absurdo. A C\u00e2mara dos Deputados n\u00e3o pode admitir isso. N\u00e3o podemos admitir racismo aqui.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RACISMO, COMBATE, EXPOSI\u00c7\u00c3O (EVENTO), PREJU\u00cdZO, VANDALISMO, CORONEL TADEU, DEPUTADO FEDERAL, RETRATA\u00c7\u00c3O, DECORO PARLAMENTAR, NECESSIDADE.\r\nDIA NACIONAL DA CONSCI\u00caNCIA NEGRA, HOMENAGEM.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Rep\u00fadio ao ato de vandalismo praticado por Deputado contra exposi\u00e7\u00e3o sobre o racismo, realizada nas depend\u00eancias da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - \u00c9 um absurdo que, ainda no dia de hoje, quando tivemos uma sess\u00e3o solene lind\u00edssima pela manh\u00e3, tenha acontecido esse ato, no momento em que est\u00e1vamos come\u00e7ando a exposi\u00e7\u00e3o. Foi um ato de vandalismo, de racismo, de quebra de patrim\u00f4nio e alguns ainda se vangloriaram dele. E se vangloriaram aqui, por alguns momentos, outros racistas. \r\nV.Exas. n\u00e3o t\u00eam no\u00e7\u00e3o do que \u00e9 a trajet\u00f3ria de um negro para chegar a este lugar. Negros que lutam, negros e negras que precisam se esquivar das balas do Estado que chicoteiam nossos corpos e que precisam dos sal\u00e1rios que n\u00e3o recebem. Em todos os lugares os senhores querem se colocar e nos colocar por baixo.\r\nE quando finalmente, na semana do orgulho - porque n\u00f3s temos que ter orgulho de chegar ao lugar a que chegamos -, podemos falar, representando aqueles que est\u00e3o nas periferias, que est\u00e3o nas cadeias, que est\u00e3o morrendo, que n\u00e3o recebem atendimento, que n\u00e3o t\u00eam acesso \u00e0 educa\u00e7\u00e3o, que n\u00e3o conseguem um trabalho neste Pa\u00eds - esses s\u00e3o os negros, que s\u00e3o maioria e cujo trabalho \u00e9 precarizado -, por meio de uma exposi\u00e7\u00e3o para reafirmar a nossa hist\u00f3ria, para mostrar os nossos, mostrar aqueles que est\u00e3o na linha de frente, vem um racista desses que ri da nossa cara; que se senta ali e olha para mim neste momento; que insulta a nossa presen\u00e7a; que insulta o Parlamento brasileiro; que insulta todos os brasileiros negros e negras.(Palmas.)\r\nV.Exa. \u00e9 uma vergonha, uma vergonha e um racista! V.Exa. vai para o Conselho de \u00c9tica. E, no Conselho de \u00c9tica, V.Exa. n\u00e3o vai ser perdoado, porque o racismo foi abolido no Brasil. Mas o seu chicote batendo nas nossas costas vai ser parado com a nossa luta, porque o nosso povo \u00e9 de resist\u00eancia; sempre foi; sempre foi da raiz.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=142&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCELO CRIVELLA, PREFEITO, RIO DE JANEIRO (RJ), GEST\u00c3O, D\u00c9CIMO TERCEIRO SAL\u00c1RIO, SERVIDOR P\u00daBLICO CIVIL MUNICIPAL, ATRASO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Fracasso da gest\u00e3o do Prefeito Marcelo Crivella, do Rio de Janeiro, Estado do Rio de Janeiro. Indigna\u00e7\u00e3o com o n\u00e3o pagamento do 13\u00ba sal\u00e1rio aos servidores p\u00fablicos municipais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s estamos vivendo uma crise enorme na cidade do Rio de Janeiro, mas essa crise n\u00e3o \u00e9 de hoje.\r\nO respons\u00e1vel por essa crise se chama Governo Crivella. O Crivella fez ataques \u00e0 economia da cidade do Rio de Janeiro, uma cidade que produz cultura, uma cidade cultural, uma cidade do turismo, uma cidade que recebe muitas pessoas. No primeiro ano de Governo Crivella, o carnaval foi um dos pontos mais atacados. Ele tirou verba do carnaval, que traz tanta renda e tanta coisa para a cidade do Rio de Janeiro. Al\u00e9m disso, ele trocou secret\u00e1rios e secret\u00e1rias, e alguns escolhidos tiveram envolvimento com corrup\u00e7\u00e3o, tiveram envolvimento com a ditadura, participaram do DOI-CODI. Todos esses esc\u00e2ndalos est\u00e3o beirando o Governo Crivella.\r\nO Prefeito Crivella n\u00e3o conseguiu dar uma solu\u00e7\u00e3o para a cidade. Ele n\u00e3o estava - e ainda n\u00e3o est\u00e1 - preparado para ser Prefeito da cidade do Rio de Janeiro. J\u00e1 houve duas tentativas de impeachment contra ele.\r\nA popula\u00e7\u00e3o \u00e9 que vai pagar o pre\u00e7o agora: n\u00e3o vai receber o 13\u00ba sal\u00e1rio, n\u00e3o vai poder alimentar sua fam\u00edlia, n\u00e3o vai poder passar a ceia de Natal comemorando com a sua fam\u00edlia, n\u00e3o vai poder comemorar o r\u00e9veillon. Ainda por cima, al\u00e9m de as pessoas n\u00e3o estarem recebendo o seu devido de sal\u00e1rio e seu 13\u00ba sal\u00e1rio, o Prefeito ainda quer entrar na Justi\u00e7a contra quem est\u00e1 fazendo greve.\r\nEssa \u00e9 a cara do Governo Crivella, um governo autorit\u00e1rio, um governo de censura, um governo que s\u00f3 governa para os dele.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T22:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, MPV 893/2019, MEDIDA PROVISORIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTRARIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0  Medida Provis\u00f3ria n\u00ba 893, de 2019, sobre a transforma\u00e7\u00e3o do Conselho de Controle de Atividades Financeiras - COAF na Unidade de Intelig\u00eancia Financeira, vinculada ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL vota \"n\u00e3o\". Sabemos como o COAF foi utilizado. Agora modificaram as pr\u00f3prias estruturas do COAF. Acreditamos que essa \u00e9 uma manobra pol\u00edtica que pode afetar o Banco Central. \r\nVamos votar \"n\u00e3o\", para que o COAF n\u00e3o seja utilizado mais uma vez para uma jogada pol\u00edtica, o que o Governo tem feito o tempo todo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=515&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MINIST\u00c9RIO P\u00daBLICO FEDERAL (MPF), INVESTIGA\u00c7\u00c3O, GLENN GREENWALD, JORNALISTA, THE INTERCEPT BRASIL, S\u00cdTIO (INTERNET).",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Protesto contra a abertura, pelo Minist\u00e9rio P\u00fablico Federal, de inqu\u00e9rito contra o jornalista Glenn Greenwald, do portal The Intercept Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, venho aqui falar mais uma vez sobre como a pol\u00edtica acaba se tornando um meio de absorver os \u00f3rg\u00e3os no Pa\u00eds. \r\nO MPF abriu um inqu\u00e9rito contra o meu marido, o jornalista Glenn Greenwald, por ter feito publica\u00e7\u00f5es no The Intercept mostrando a \"Vaza-Jato\" e o que aconteceu no sistema de corrup\u00e7\u00e3o dentro da Lava-Jato. \u00c9 um absurdo, \u00e9 um esc\u00e1rnio que hoje no Brasil jornalistas sejam perseguidos. Querem mand\u00e1-los para a cadeia simplesmente por fazerem um trabalho jornal\u00edstico, como foi comprovado pela PF. E o STF falou que ele n\u00e3o podia ser investigado. \r\nEssa \u00e9 mais uma tentativa do Estado de intimidar a nossa fam\u00edlia, o The Intercept e a liberdade de imprensa no nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "GOVERNO ESTADUAL, RIO DE JANEIRO (ESTADO), ALTERA\u00c7\u00c3O, PASSE ESTUDANTIL, ALUNO UNIVERSIT\u00c1RIO, CR\u00cdTICA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Protesto contra a suspens\u00e3o do passe livre concedido aos estudantes universit\u00e1rios no transporte coletivo urbano, no Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu venho falar sobre o Riocard, que modificou no Estado do Rio de Janeiro o passe universit\u00e1rio. Os universit\u00e1rios que precisam do passe livre agora devem comprovar que estudaram em escolas p\u00fablicas e ganharam 100% de bolsa. Isso, mais uma vez, \u00e9 um ataque aos estudantes que precisam se deslocar de casa para as universidades, muitas vezes localizadas muito longe de suas resid\u00eancias.\r\nN\u00e3o \u00e9 poss\u00edvel que o Governo retire benef\u00edcios dos nossos estudantes. N\u00e3o \u00e9 poss\u00edvel essa pol\u00edtica de corte do acesso aos estudantes universit\u00e1rios \u00e0s universidades. Precisamos firmar uma pol\u00edtica de livre acesso aos universit\u00e1rios.\r\nEstamos ao lado dos universit\u00e1rios, dos estudantes do Estado do Rio de Janeiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "BOLSA FAM\u00cdLIA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, AVALIA\u00c7\u00c3O NEGATIVA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Indigna\u00e7\u00e3o do orador com a decis\u00e3o do Presidente Jair Bolsonaro de congelamento do Programa Bolsa Fam\u00edlia em Munic\u00edpios de baixa renda.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu venho falar em nome de mais de 1 milh\u00e3o de brasileiros, de mais de 200 cidades, que dependem do Programa Bolsa Fam\u00edlia para poder comer. S\u00e3o 41 reais que fazem a diferen\u00e7a na compra de arroz para uma crian\u00e7a.\r\nO Presidente Jair Bolsonaro congelou o Bolsa Fam\u00edlia h\u00e1 mais de 5 meses em mais de 200 cidades de baixa renda, em locais prec\u00e1rios no nosso Pa\u00eds. Isso \u00e9 um absurdo! Enquanto isso, ele gasta, somente com pneus para os carros dele e dos seus Ministros, os supercarros, mais de 340 mil reais. Isso \u00e9 um absurdo!\r\nN\u00f3s estamos falando de pessoas, de crian\u00e7as, de fome do povo brasileiro - mais de 1 milh\u00e3o de pessoas. N\u00e3o venha com essa de dar o 13\u00ba do Bolsa Fam\u00edlia e agora tirar da popula\u00e7\u00e3o que mais precisa!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "V\u00cdRUS HIV, PACIENTE, PRECONCEITO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, REP\u00daDIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Rep\u00fadio \u00e0 declara\u00e7\u00e3o preconceituosa do Presidente Jair Bolsonaro contra os portadores do v\u00edrus HIV.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, \u00e9 um absurdo a fala do Presidente Bolsonaro dizendo que as pessoas com HIV s\u00e3o uma despesa para todos. \u00c9 um absurdo o Presidente do Pa\u00eds fazer um ataque direto a essas pessoas que j\u00e1 vivem com o estigma da sociedade. Muitas vezes, essas pessoas ficam com depress\u00e3o, com medo de relacionar-se com outras pessoas exatamente por causa de discursos como esse que o Presidente fez. \u00c9 um ataque direto a uma popula\u00e7\u00e3o que vive com uma doen\u00e7a cr\u00f4nica normal. \u00c9 uma popula\u00e7\u00e3o brasileira que precisa ser cuidada pelo SUS.\r\nFaltam medicamentos. J\u00e1 fizemos den\u00fancias aqui. \u00c9 inadmiss\u00edvel termos um Presidente que faz um ataque direto a uma popula\u00e7\u00e3o que vive com um estigma como esse.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 78/2019, EMENDA DE COMISS\u00c3O, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 78, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca da institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9lula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas. Necessidade de provid\u00eancias da Casa a respeito de a\u00e7\u00f5es do Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL est\u00e1 em obstru\u00e7\u00e3o, Sr. Presidente. \r\nEu queria falar, mais uma vez, sobre os absurdos que vivemos todos os dias neste Pa\u00eds. Ministros, Presidente, entre outros, est\u00e3o fazendo cada coisa! S\u00e3o ataques \u00e0 imprensa, \u00e0 educa\u00e7\u00e3o, \u00e0 sa\u00fade. \r\n\u00c9 inacredit\u00e1vel, mas querem fazer parecer que as coisas est\u00e3o normais neste Pa\u00eds. Est\u00e3o relativizando cada tipo de coisa! Antes, com uma pedalada fiscal, tiraram uma Presidenta eleita. \u00c9 absurdo o que vivemos todos os dias! N\u00f3s n\u00e3o estamos, como Parlamentares, tomando uma a\u00e7\u00e3o concreta contra esse Presidente, que cada vez mais envergonha a cadeira em que ele senta. E os ataques \u00e0 imprensa?! N\u00f3s n\u00e3o podemos mais relativizar estes ataques que v\u00eam acontecendo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=173&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LIBERA\u00c7\u00c3O, CRUZEIRO MAR\u00cdTIMO, FERNANDO DE NORONHA (PE), FIM, BIODIVERSIDADE, CONTRARIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Inevit\u00e1vel destrui\u00e7\u00e3o da biodiversidade do arquip\u00e9lago de Fernando de Noronha, no caso da libera\u00e7\u00e3o do acesso de cruzeiros mar\u00edtimos \u00e0 localidade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Para discursar. Sem revis\u00e3o do orador.) - Sr. Presidente, venho aqui fazer uma den\u00fancia.\r\nO Senador Fl\u00e1vio Bolsonaro, junto com o Presidente da EMBRATUR, Gilson Machado, foi ao Arquip\u00e9lago de Fernando de Noronha para anunciar que eles decidiram \"desatar n\u00f3s\", para que Noronha vire um local de turismo predat\u00f3rio. Nas 21 ilhas que formam o arquip\u00e9lago h\u00e1 uma biodiversidade que n\u00e3o pode ser tocada. O local \u00e9 preservado. Esse ataque a Noronha agora, com a inten\u00e7\u00e3o de permitir que transatl\u00e2nticos com mais de 600 pessoas entrem em Noronha, vai acabar com o Parque Nacional Marinho.\r\nFl\u00e1vio Bolsonaro devia estar respondendo \u00e0 pergunta \"onde est\u00e1 o Queiroz?\", e n\u00e3o querendo acabar com Noronha.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=171&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-03T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MOVIMENTO SOCIAL, MANIFESTA\u00c7\u00c3O P\u00daBLICA, COMBATE, RACISMO ESTRUTURAL, ESTADOS UNIDOS, BRASIL, PANDEMIA, CORONAV\u00cdRUS, POL\u00cdCIA, HOMIC\u00cdDIO, NEGROS, PUNI\u00c7\u00c3O, JO\u00c3O PEDRO, CRIAN\u00c7A, V\u00cdTIMA, MOVIMENTO DE PROTESTO, AUTORITARISMO, DITADURA, FASCISMO, ISOLAMENTO (SA\u00daDE), RENDA B\u00c1SICA, CRISE ECON\u00d4MICA, \r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, EDUARDO BOLSONARO, DEPUTADO FEDERAL, FL\u00c1VIO BOLSONARO, SENADOR, CR\u00cdTICA.\r\nCONGRESSO NACIONAL, ATUA\u00c7\u00c3O PARLAMENTAR, DI\u00c1LOGO POL\u00cdTICO, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, DEFESA, DEMOCRACIA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Revolta do povo norte-americano contra o assassinato de cidad\u00e3o negro durante abordagem policial. Defesa do julgamento e condena\u00e7\u00e3o de policiais acusados por homic\u00eddio de pessoas negras. Rea\u00e7\u00e3o de popula\u00e7\u00f5es mundiais contra o autoritarismo, o fascismo e o racismo. Necessidade de rea\u00e7\u00e3o do Parlamento brasileiro contra declara\u00e7\u00f5es do cl\u00e3 Bolsonaro a favor da ruptura constitucional.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa tarde a todos e a todas.\r\nSr. Presidente, este momento que vive o mundo e o Brasil \u00e9 muito ca\u00f3tico. A experi\u00eancia que vivenciam agora os Estados Unidos mostra que, mesmo em meio \u00e0 pandemia, as pessoas est\u00e3o saindo \u00e0s ruas por causa de mais um assassinato de homem negro numa sociedade altamente racista, como \u00e9 a norte-americana. Isso faz com que as pessoas tenham que sair \u00e0s ruas, em meio a uma pandemia, para protestar pelo direito de viver.\r\nOs Estados Unidos levantam e gritam muito fortemente, como fizeram h\u00e1 muito tempo quando assassinaram Martin Luther King, ocasi\u00e3o em que o levante de negros e negras mostrou que uma camada da elite burguesa branca n\u00e3o pode mais massacrar os negros.\r\nOs policiais que cometem assassinatos nos Estados Unidos e aqui no Brasil precisam ser julgados pela Justi\u00e7a, precisam pagar pelos seus crimes, pelos seus assassinatos.\r\nO levante da popula\u00e7\u00e3o norte-americana que est\u00e1 indo para as ruas em mais de 40 cidades que est\u00e3o em lockdown, que est\u00e3o fechadas, que est\u00e3o com toque de recolher \u00e9 impressionante. Mesmo assim, as pessoas v\u00e3o \u00e0s ruas. E por qu\u00ea? Porque elas est\u00e3o lutando pelo direito de sobreviv\u00eancia, pelo direito de continuarem vivas.\r\nVidas negras importam, como a do Jo\u00e3o Pedro, aqui no Brasil, que foi assassinado dentro de casa.\r\nEst\u00e3o criticando os negros e negras e a comunidade latina por neste momento sa\u00edrem de casa e irem aos protestos. Usam como argumento o fato de n\u00f3s criticarmos o campo fascista, que sai para pregar o fascismo, para pregar a ditadura, para pregar a morte daqueles que s\u00e3o a minoria em nossa sociedade. No entanto, s\u00e3o eles que saem o tempo todo quebrando e furando o distanciamento social. \r\nA popula\u00e7\u00e3o que sai \u00e0s ruas hoje \u00e9 porque ou vai morrer dentro de casa, como o Jo\u00e3o Pedro, ou vai morrer por uma abordagem policial, como o George Floyd, ou vai morrer de fome com as pol\u00edticas do Governo Trump e do Governo Bolsonaro. A popula\u00e7\u00e3o sai num desespero e tamb\u00e9m numa marcha contra o autoritarismo, contra o fascismo crescente, contra o racismo estrutural, contra tudo isso, mas claramente respeitando o distanciamento social, claramente respeitando as regras da Organiza\u00e7\u00e3o Mundial da Sa\u00fade e sem dar um passo atr\u00e1s. N\u00e3o tem como ficar parado, n\u00e3o tem como ver o que acontece na Fran\u00e7a, na Austr\u00e1lia e em v\u00e1rios pa\u00edses do mundo e ficar parado. \r\nDevemos ter responsabilidade social com aquilo que pregamos. Precisamos pensar em como passaremos pela grande crise econ\u00f4mica que vai vir \u00e0 frente. Precisamos entender que as nossas reservas de d\u00f3lares e as nossas reservas no Banco Central ser\u00e3o o caminho para destinar uma renda universal \u00e0 popula\u00e7\u00e3o que dela vai precisar para passar por este momento. Enquanto isso, Bolsonaro e sua fam\u00edlia fazem a popula\u00e7\u00e3o brasileira de ref\u00e9m. Daremos uma resposta concreta nas ruas, daremos uma resposta na pol\u00edtica, e o Parlamento burgu\u00eas n\u00e3o pode continuar se mantendo da forma que se mant\u00e9m. Todas as organiza\u00e7\u00f5es est\u00e3o votando, falando, fazendo discursos, mas n\u00e3o est\u00e3o entendendo o perigo real do discurso que Eduardo Bolsonaro faz, que Fl\u00e1vio Bolsonaro faz, que o pr\u00f3prio Bolsonaro faz. \r\nEsses 30, que n\u00e3o s\u00e3o 300, que est\u00e3o ao lado do Congresso, ficam fazendo alus\u00e3o ao fascismo com ataques \u00e0s institui\u00e7\u00f5es, e as institui\u00e7\u00f5es ficam paradas. Precisamos dar uma resposta \u00e0 altura, precisamos mostrar que as institui\u00e7\u00f5es s\u00e3o s\u00e9rias. O Presidente Maia precisa dar uma resposta. O Ministro Dias Toffoli precisa dar uma resposta. O Senador Davi Alcolumbre precisa dar uma resposta. Os tr\u00eas Poderes precisam dar uma resposta a este Governo fascista que cada vez mais mostra que quer fechar o regime, que faz protesto aos domingos falando que quer fechar o Congresso, que quer fechar o regime, que namora a ditadura cada vez mais e que manda sinaliza\u00e7\u00f5es nesse sentido. Precisamos mandar uma resposta firme.\r\nE, nesse per\u00edodo, o Congresso tem a responsabilidade muito grande de se manter aberto, dialogando com o povo, votando propostas para o povo e do povo, e n\u00e3o propostas do Executivo. S\u00f3 assim vamos acabar com tudo isso que est\u00e1 acontecendo com a popula\u00e7\u00e3o brasileira. \r\nEnt\u00e3o, vamos lutar contra o fascismo. Somos antirracistas tamb\u00e9m e vamos continuar lutando, segurando firme e forte a nossa Na\u00e7\u00e3o brasileira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F6%2F2020&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.\r\nSEXUALIDADE, LIBERTA\u00c7\u00c3O, ANIVERS\u00c1RIO, HOMENAGEM.\r\nPOPULA\u00c7\u00c3O LGBT, V\u00cdTIMA, VIOL\u00caNCIA F\u00cdSICA, VIOL\u00caNCIA PSICOL\u00d3GICA.\r\nCORONAV\u00cdRUS, PANDEMIA, HOMOSSEXUAL, TRANSEXUAL, POPULA\u00c7\u00c3O LGBT, PREOCUPA\u00c7\u00c3O.\r\nLGBTC\u00cdDIO, CRIME CONTRA HOMOSSEXUAL E TRANSG\u00caNERO, REP\u00daDIO.\r\nHOMOSSEXUALIDADE, DEFESA.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos. Transcurso do 51\u00ba anivers\u00e1rio da revolta de Stonewall, marco do movimento de liberta\u00e7\u00e3o sexual. Viol\u00eancia f\u00edsica e psicol\u00f3gica praticada contra a comunidade LGBTI no Pa\u00eds. Dificuldades enfrentadas por gays, l\u00e9sbicas homossexuais e transexuais em decorr\u00eancia da pandemia de coronav\u00edrus. Vit\u00f3rias alcan\u00e7adas pelo homossexualismo no Brasil.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Como L\u00edder. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nO PSOL recomenda \"n\u00e3o\" \u00e0 emenda.\r\nGostaria de falar que, neste domingo, dia 28, comemoramos 51 anos de uma luta que come\u00e7ou com a batalha de Stonewall, pelos direitos dos LGBTI+ dentro da sociedade.\r\nN\u00f3s vivemos em um Pa\u00eds em que existe um massacre contra a popula\u00e7\u00e3o LGBTI. O Brasil \u00e9 o pa\u00eds no mundo que mais mata essa popula\u00e7\u00e3o. Vivemos viol\u00eancias psicol\u00f3gicas e f\u00edsicas. Somos retirados das nossas casas; os nossos casamentos, os nossos relacionamentos, n\u00e3o s\u00e3o aceitos; as nossas fam\u00edlias tentam nos invisibilizar.\r\nE, com esta pandemia, cada vez mais, vai se demonstrando como a raiz da sociedade \u00e9 cruel. Muitos LGBTI+ que antes haviam sa\u00eddo de casa e tinham seus trabalhos perderam seus empregos e, agora, precisaram voltar para a casa de familiares, que muitas vezes n\u00e3o aceitam a sua sexualidade, a sua identidade de g\u00eanero. Essas pessoas, para poderem sobreviver neste per\u00edodo de pandemia, precisam voltar para o arm\u00e1rio, um arm\u00e1rio que tinha sido quebrado, porque temos orgulho da nossa sexualidade, temos orgulho da nossa identidade de g\u00eanero, temos orgulho de ser hoje LGBTI+ em nosso Pa\u00eds. \u00c9 uma coisa incr\u00edvel: existe uma comunidade inteira que est\u00e1 se levantando.\r\nAno passado, em S\u00e3o Paulo, n\u00f3s alcan\u00e7amos uma marca hist\u00f3rica em todo o mundo: apesar da LGBTfobia crescente, que \u00e9 expl\u00edcita nos discursos do Presidente, n\u00f3s conseguimos colocar quase 4 milh\u00f5es de pessoas em S\u00e3o Paulo, na maior parada LGBTI do mundo.\r\nPara aqueles e aquelas que hoje vivem um momento de tristeza, que t\u00eam que ficar no arm\u00e1rio, eu tenho uma mensagem: n\u00f3s, como comunidade, como sociedade, lutaremos para que, quando esta pandemia passar, possamos ser aceitos com a nossa sexualidade, com os nossos corpos, com a nossa identidade de g\u00eanero.\r\nVoc\u00eas que estiverem numa situa\u00e7\u00e3o ruim com familiares lembrem que t\u00eam uma comunidade, lembrem que t\u00eam um n\u00famero de amigos. N\u00e3o se esque\u00e7am jamais que existe uma comunidade que est\u00e1 aqui e que luta, todos os dias, para que n\u00f3s continuemos vivos, para que n\u00f3s possamos construir as nossas fam\u00edlias.\r\nMesmo com o Governo do Bolsonaro, n\u00f3s tivemos grandes vit\u00f3rias hist\u00f3ricas. Pela primeira vez, n\u00f3s conseguimos a criminaliza\u00e7\u00e3o da LGBTfobia. N\u00f3s conseguimos tamb\u00e9m que homens gays ou homens bissexuais pudessem fazer doa\u00e7\u00e3o de sangue.\r\nA luta continua, companheiros. Mesmo que n\u00f3s estejamos no meio de uma pandemia, vamos olhar para a popula\u00e7\u00e3o de travestis, de transg\u00eaneros, que hoje, muita das vezes, est\u00e3o em uma situa\u00e7\u00e3o em que precisam recorrer \u00e0 prostitui\u00e7\u00e3o, em que n\u00e3o t\u00eam onde ficar, n\u00e3o t\u00eam onde morar, n\u00e3o t\u00eam onde comer e, \u00e0s vezes, n\u00e3o t\u00eam nem documento.\r\nEnt\u00e3o, sejamos uma comunidade acolhedora, sejamos uma comunidade que lute para que tenhamos um futuro completamente diferente do passado que vivemos. Lembremos que h\u00e1 milhares de crian\u00e7as LGBTI+ que v\u00e3o ser inspiradas pela nossa luta, crian\u00e7as que sofrem LGBTfobia nas escolas, dentro de casa e em v\u00e1rios outros ambientes. Por elas, por essas crian\u00e7as e por muitas outras pessoas da nossa comunidade, devemos sempre nos levantar.\r\nO dia 28 \u00e9 um dia de orgulho, \u00e9 um dia de bater no peito e de lembrar que estamos vivos e que muitos que vieram antes de n\u00f3s lutaram para que pud\u00e9ssemos estar aqui. Hoje, pe\u00e7o para que todos ponham as m\u00e3os nos seus cora\u00e7\u00f5es e lembrem que este momento vai passar, a pandemia vai passar, Bolsonaro vai passar, e n\u00f3s LGBTI+ conseguiremos, com certeza, celebrar, domingo, o nosso dia, que \u00e9 o dia do orgulho, porque n\u00f3s temos de ter orgulho de quem somos.\r\nUm abra\u00e7o a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=154&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-06T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, ADMISSIBILIDADE LEGISLATIVA, REQUERIMENTO DE DESTAQUE, DESTAQUE SIMPLES, PL 3292/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR. \r\nOPERA\u00c7\u00c3O POLICIAL, FAVELA DO JACAREZINHO, RIO DE JANEIRO (RJ), POLICIA CIVIL, RIO DE JANEIRO (ESTADO), HOMIC\u00cdDIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da admissibilidade dos requerimentos de destaque simples apresentados ao Projeto de Lei n\u00ba 3.292, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.947, de 2009, com vista ao estabelecimento de percentual m\u00ednimo para a aquisi\u00e7\u00e3o de leite sob a forma fluida com recursos do Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE. Den\u00fancia de chacina praticada pela pol\u00edcia durante opera\u00e7\u00e3o no Bairro do Jacarezinho, Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente e Deputada Fernanda.\r\nO PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nPresidente, eu estou aqui para fazer uma den\u00fancia sobre o que acontece hoje na favela do Jacarezinho. Desde cedo, est\u00e1 ocorrendo uma opera\u00e7\u00e3o policial. Contamos mais de 25 mortos e v\u00e1rias pessoas feridas. Sabemos que opera\u00e7\u00f5es policiais nas favelas n\u00e3o podem acontecer no per\u00edodo da pandemia. As pessoas est\u00e3o aterrorizadas. Jacarezinho \u00e9 a favela onde nasci e fui criado. Minha m\u00e3e est\u00e1 l\u00e1. Hoje de manh\u00e3, eu tive que olhar o WhatsApp, os grupos do Telegram e do Facebook para saber quem s\u00e3o os mortos.\r\nAs opera\u00e7\u00f5es policiais no Estado do Rio de Janeiro, quando h\u00e1 policiais mortos, viram chacina. H\u00e1 2 anos, eu trabalhei com a Pol\u00edcia Civil do Rio de Janeiro para obter uma emenda para que a Pol\u00edcia Civil conseguisse mais espa\u00e7o na cidade do Rio de Janeiro, para haver mais intelig\u00eancia e menos viol\u00eancia nas opera\u00e7\u00f5es realizadas nas favelas do Rio de Janeiro.\r\nO crime se combate com intelig\u00eancia, n\u00e3o com viol\u00eancia. Os moradores e moradoras do Jacarezinho est\u00e3o aterrorizados neste momento. N\u00e3o podem voltar para casa, n\u00e3o podem sair de casa.\r\nEu e alguns Parlamentares estamos enviando of\u00edcio ao Governador do Estado, que \u00e9 o respons\u00e1vel por todas essas mortes e tamb\u00e9m pelo terrorismo que acontece nas favelas do Rio de Janeiro. N\u00f3s precisamos parar esse tipo de opera\u00e7\u00e3o. Precisamos utilizar a intelig\u00eancia, sim, para acabar com a criminalidade, mas opera\u00e7\u00f5es que s\u00f3 chegam para fazer chacina n\u00f3s precisamos paralisar agora.\r\nPrecisamos prestar aten\u00e7\u00e3o no que acontece na favela do Jacarezinho e em todas as outras favelas. O povo da favela n\u00e3o est\u00e1 sozinho. O povo da favela tem representantes no Congresso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2021&txPagina=191&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-04T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUCAS SANTOS, ADOLESCENTE, SUIC\u00cdDIO, INTOLER\u00c2NCIA, REDE SOCIAL DIGITAL.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, COMPORTAMENTO, DISCURSO DE \u00d3DIO, RACISMO, HOMOFOBIA.\r\nSETEMBRO AMARELO, PREVEN\u00c7\u00c3O, SUIC\u00cdDIO, ATUA\u00c7\u00c3O, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Liga\u00e7\u00e3o entre o suic\u00eddio do jovem Lucas Santos e mensagens de \u00f3dio e intoler\u00e2ncia veiculadas nas redes sociais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\n\u00c9 com muito pesar que eu venho hoje a esta tribuna para dizer que o menino Lucas Santos, de 16 anos, tirou sua vida por causa de coment\u00e1rios nas redes sociais.\r\nEu tenho um filho de 17 anos, um de 13 anos e um de 12 anos. Eu n\u00e3o sei o que a m\u00e3e do Lucas, a Walkyria, est\u00e1 passando, mas venho aqui fazer um alerta, porque setembro est\u00e1 chegando e todos os Parlamentares v\u00e3o falar aqui do Setembro Amarelo, mas n\u00e3o v\u00e3o continuar prestando aten\u00e7\u00e3o no que acontece, nas mensagens que s\u00e3o postas, na educa\u00e7\u00e3o que est\u00e1 sendo passada e, principalmente, nas leis que passam nesta Casa. \r\nO Presidente destila seu \u00f3dio, o seu racismo, a LGBTfobia, o machismo contra a sociedade. Isso \u00e9 replicado nas redes sociais pelos seus seguidores. Isso \u00e9 replicado pelas pessoas que n\u00e3o sabem a dor que se passa. Uma pastora, na semana passada, disse que n\u00e3o podemos levantar bandeiras. S\u00e3o bandeiras de vida, quando falamos sobre racismo, contra a LGBTfobia, contra o machismo, contra todas essas coisas que acontecem nesta sociedade. N\u00f3s passamos por muitas e muitas situa\u00e7\u00f5es para nos fortalecer.\r\nEsse jovem, infelizmente, com todo o \u00f3dio que recebeu na Internet, tirou sua vida. A m\u00e3e est\u00e1 desolada. Um garoto de 16 anos tirou a pr\u00f3pria vida! Que sociedade n\u00f3s estamos criando? Qual \u00e9 a responsabilidade que pais t\u00eam que ter? Qual \u00e9 a responsabilidade que pessoas com plataformas t\u00eam que ter? Qual \u00e9 a mensagem que levamos para essa gera\u00e7\u00e3o? Qual \u00e9 a mensagem que o Presidente e esta Casa v\u00e3o mandar para a popula\u00e7\u00e3o? Qual \u00e9 a resposta para isso? \r\nA resposta \u00e9 o di\u00e1logo; \u00e9 o amor; \u00e9 o eterno conhecimento de saber que todos os seres humanos s\u00e3o diferentes, em todas as suas ess\u00eancias; \u00e9 o respeito a isso, a cada um como \u00fanico dentro da sociedade. \u00c9 isso que tem que ser passado \u00e0 frente. \u00c9 isso que essa pastora devia ter falado. Era esse o ensinamento de Jesus Cristo, n\u00e3o era a intoler\u00e2ncia, n\u00e3o eram esses discursos de \u00f3dio que vemos nesta tribuna, que vemos na Presid\u00eancia, que vemos nas redes sociais, que vemos em todos os lugares deste Pa\u00eds. Este Pa\u00eds, que era de alegria, agora \u00e9 um pa\u00eds de sofrimento o tempo todo.\r\nO SR. PRESIDENTE (Gilberto Nascimento. Bloco/PSC - SP) - Pe\u00e7o que conclua, Sr. Deputado.\r\nO SR. DAVID MIRANDA (PSOL - RJ) - Viramos um pa\u00eds de sofrimento o tempo todo. Vamos lembrar do povo brasileiro, que era alegre, que cultivava a alegria, que curtia e continuava tendo alegria.\r\nPrecisamos lutar para voltar a esse lugar de esperan\u00e7a para as nossas crian\u00e7as, para o futuro.\r\nLucas presente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-05T14:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O,  PL 591/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "David Miranda",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 591, de 2021, sobre o marco regulat\u00f3rio, a organiza\u00e7\u00e3o e manuten\u00e7\u00e3o do Sistema Nacional de Servi\u00e7os Postais (privatiza\u00e7\u00e3o dos correios).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID MIRANDA (PSOL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL \u00e9 contra encerrarmos a discuss\u00e3o. \r\nNa verdade, nem dever\u00edamos estar aqui votando a privatiza\u00e7\u00e3o dos Correios hoje, n\u00e3o dever\u00edamos estar aqui tendo este debate, porque ele nem passou pelas Comiss\u00f5es. Uma coisa que \u00e9 t\u00e3o importante para a sociedade brasileira \u00e9 passada assim, como um trator, como tem acontecido durante todo o per\u00edodo desta Presid\u00eancia da Casa. N\u00e3o escuta a popula\u00e7\u00e3o e quer acabar com tudo que temos, privatizando a ELETROBRAS, privatizando agora os Correios e sucateando cada vez mais a popula\u00e7\u00e3o brasileira.\r\nQuem vai perder com isso s\u00e3o os pequenos e m\u00e9dios empres\u00e1rios. A realidade que est\u00e1 dada \u00e9 que esses pequenos e m\u00e9dios empres\u00e1rios v\u00e3o ter que se ajoelhar para as grandes empresas, como a Amazon, que est\u00e1 fazendo lobby para poder prestar o servi\u00e7o no Brasil. A realidade \u00e9 essa.\r\nSugiro aos Deputados que est\u00e3o a favor disso que coloquem suas caras na vota\u00e7\u00e3o e...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

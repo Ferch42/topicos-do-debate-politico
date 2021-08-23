@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T11:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FERNANDO COELHO FILHO, EX-MINISTRO DE ESTADO, LIBERA\u00c7\u00c3O, RECURSOS P\u00daBLICOS, PESQUISA E DESENVOLVIMENTO, COMPANHIA HIDROEL\u00c9TRICA DO S\u00c3O FRANCISCO (CHESF), INAUGURA\u00c7\u00c3O, USINA SOLAR, RESERVAT\u00d3RIO ARTIFICIAL, USINA HIDREL\u00c9TRICA, SOBRADINHO (BA).\r\nRODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, APROVA\u00c7\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Fernando Coelho Filho",
+        "sumario": "Import\u00e2ncia da inaugura\u00e7\u00e3o, pelo Presidente Jair Bolsonaro e pelo Ministro de Minas e Energia, Bento Albuquerque, de usina solar flutuante no reservat\u00f3rio de Sobradinho, Estado da Bahia. Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela condu\u00e7\u00e3o das vota\u00e7\u00f5es, em segundo turno, da proposta de reforma previdenci\u00e1ria. Import\u00e2ncia da mat\u00e9ria para o crescimento econ\u00f4mico do Pa\u00eds.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FERNANDO COELHO FILHO (DEM - PE. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria aproveitar a oportunidade para registrar que, na segunda-feira, houve inaugura\u00e7\u00e3o da usina solar flutuante no reservat\u00f3rio de Sobradinho, na Bahia, evento que contou com a presen\u00e7a do Presidente Bolsonaro e do Ministro Almirante Bento. \r\nO programa de P&amp;D foi autorizado pela Ag\u00eancia Nacional de Energia El\u00e9trica, e n\u00f3s tivemos a alegria, ainda no ano de 2017, enquanto Ministro de Estado, de autorizar a libera\u00e7\u00e3o dos recursos pela CHESF. Agora, esse empreendimento ficou completamente pronto e foi entregue pelo Presidente na segunda-feira passada.\r\nIsso \u00e9 important\u00edssimo para o Vale do Subm\u00e9dio S\u00e3o Francisco, que \u00e9 famoso pela sua irriga\u00e7\u00e3o e pelo potencial agr\u00edcola que tem, porque, quanto mais energia gerada do vendo, energia gerada do sol, mais \u00e1gua sobra para que possamos irrigar e continuar desenvolvendo o Semin\u00e1rio brasileiro.\r\nEnt\u00e3o, eu queria fazer o registro na C\u00e2mara dos Deputados desse evento importante. Mesmo sabendo que \u00e9 um programa de pesquisa e desenvolvimento com um investimento ainda pequeno, apenas 1 megawatt, eu n\u00e3o tenho a menor d\u00favida de que isso vai possibilitar que outros experimentos como esse possam ser desenvolvidos Brasil afora para que o nosso Pa\u00eds possa liderar essa gera\u00e7\u00e3o de energia renov\u00e1vel. Queria aproveitar esta oportunidade nesta manh\u00e3 de hoje para fazer esse registro.\r\nQuero tamb\u00e9m parabenizar V.Exa. pela condu\u00e7\u00e3o ontem da vota\u00e7\u00e3o em segundo turno da reforma da Previd\u00eancia, aumentando a vota\u00e7\u00e3o que n\u00f3s tivemos, que j\u00e1 era expressiva, para que o Brasil, a partir dessa aprova\u00e7\u00e3o, possa se reencontrar com o crescimento econ\u00f4mico, porque \u00e9 disto que n\u00f3s precisamos: gerar emprego, gerar renda, gerar oportunidade de trabalho a todos os brasileiros.\r\nParab\u00e9ns a V.Exa. pela condu\u00e7\u00e3o dos trabalhos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=33&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

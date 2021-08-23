@@ -1,0 +1,992 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 10431/2018, PROJETO DE LEI ORDIN\u00c1RIA, BLOCO PARLAMENTAR, PARTIDO SOCIAL LIBERAL (PSL), PARTIDO PROGRESSISTA (PP) (2003), PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), PARTIDO DA REP\u00daBLICA (PR), PARTIDO REPUBLICANO BRASILEIRO (PRB), PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), DEMOCRATAS (DEM), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), PARTIDO SOCIAL CRIST\u00c3O (PSC), PARTIDO DA MOBILIZA\u00c7\u00c3O NACIONAL (PMN), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento da discuss\u00e3o, por duas sess\u00f5es, do Projeto de Lei n\u00ba10.431, de 2018, sobre o cumprimento de san\u00e7\u00f5es impostas por resolu\u00e7\u00f5es do Conselho de Seguran\u00e7a das Na\u00e7\u00f5es Unidas, inclu\u00edda a indisponibilidade de ativos de pessoas naturais e jur\u00eddicas e de entidades, e a designa\u00e7\u00e3o nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados; e revoga\u00e7\u00e3o da Lei n\u00ba 13.170, de 2015.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero justificar a aus\u00eancia da maioria dos Deputados no MDB na \u00faltima vota\u00e7\u00e3o. Ap\u00f3s a reuni\u00e3o de L\u00edderes, eu, como L\u00edder, fiz uma reuni\u00e3o da minha bancada para discutirmos exatamente a pauta de hoje, as duas medidas provis\u00f3rias e este projeto que estamos discutindo.\r\nPortanto, deixo registrado que grande parte da bancada do MDB, na primeira vota\u00e7\u00e3o, n\u00e3o votou por esse motivo. Agora estamos presentes e o nosso encaminhamento \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DANIELA DO WAGUINHO, DEPUTADA FEDERAL, V\u00cdTIMA, TENTATIVA (CRIME), HOMIC\u00cdDIO, RIO DE JANEIRO (ESTADO).",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Solidariedade \u00e0 Deputada Daniela do Waguinho, v\u00edtima de tentativa de homic\u00eddio. Solicita\u00e7\u00e3o ao Presidente da Casa para acompanhamento das investiga\u00e7\u00f5es do caso.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em nome da bancada do MDB, eu queria me solidarizar com a Deputada Daniela do Waguinho. Ela fez um depoimento grav\u00edssimo h\u00e1 pouco relatando que foi v\u00edtima de uma tentativa de homic\u00eddio. Daniela do Waguinho, Deputada Federal do MDB do Rio de Janeiro, estava com o seu esposo, o Prefeito Waguinho, de Belford Roxo, inaugurando uma creche num bairro da cidade, quando, ao sair dessa inaugura\u00e7\u00e3o, teve o seu carro foi alvejado com tiros de fuzil. Um atentado contra uma Deputada \u00e9 um atentado contra o Parlamento, principalmente neste momento em que n\u00f3s vamos votar medidas duras contra a criminalidade.\r\nPortanto, ao me solidarizar em nome de toda a nossa bancada do MDB, queria pedir a V.Exa., como Presidente da Casa, para acompanhar as investiga\u00e7\u00f5es e, se poss\u00edvel, a Pol\u00edcia Legislativa tamb\u00e9m, para que isso n\u00e3o intimide a Deputada Daniela do Waguinho, o que eu tenho certeza que n\u00e3o vai ocorrer, nem que haja nenhum tipo de intimida\u00e7\u00e3o ao Parlamento brasileiro.\r\nEra o que eu tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=182&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "NOTA OFICIAL, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), SOLIDARIEDADE, VILLAS B\u00d4AS, GENERAL DE EX\u00c9RCITO, ATUA\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Nota da bancada do MDB na C\u00e2mara dos Deputados em solidariedade ao General Eduardo Dias da Costa Villas B\u00f4as.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, na tarde de hoje nossa bancada do MDB se reuniu, e eu gostaria de externar uma nota oficial que soltamos: \r\nA bancada do Movimento Democr\u00e1tico Brasileiro na C\u00e2mara dos Deputados manifesta solidariedade ao General Eduardo Dias da Costa Villas B\u00f4as. Comandante do Ex\u00e9rcito Brasileiro entre fevereiro de 2015 e janeiro de 2019, Villas B\u00f4as tem enormes per\u00edodos prestados \u00e0 Na\u00e7\u00e3o. Durante esse per\u00edodo, destacou-se por sua serenidade e compromisso com os valores democr\u00e1ticos, em meio \u00e0 dif\u00edcil crise econ\u00f4mica e pol\u00edtica pela qual o Pa\u00eds passou.\r\nCom o Ex\u00e9rcito sob o comando do General Villas B\u00f4as, o Brasil realizou uma elei\u00e7\u00e3o geral pac\u00edfica em 2018, apesar do clima recrudescido pela disputa pol\u00edtica.\r\n\u00c9 por este motivo que devemos, sempre que poss\u00edvel, ouvir a voz dele. Ela \u00e9 indubitavelmente a voz de um democrata. \r\nBancada do MDB na C\u00e2mara Federal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=175&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T23:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE DA VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, G\u00caNERO, DISPOSITIVO LEGAL, PLV 11/2019, PROJETO DE LEI DE CONVERS\u00c3O,  MPV 871/2019, MEDIDA PROVIS\u00d3RIA, BLOCO PARLAMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o o g\u00eanero, constante do \u00a72\u00ba, e , por conseguinte, da express\u00e3o g\u00eanero, tamb\u00e9m constante do \u00a72\u00ba do art. 68 da Lei 8.212, de 1991, com a reda\u00e7\u00e3o dada pelo art. 24 do projeto de lei de convers\u00e3o apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP) - Eu entendo que \u00e9 melhor, pelo painel agora... N\u00f3s tirar\u00edamos a palavra \"g\u00eanero\" e n\u00e3o colocar\u00edamos nada. Eu acho que faltar essa informa\u00e7\u00e3o n\u00e3o \u00e9 bom.\r\nPortanto, eu vou mudar o encaminhamento do MDB, PP e PTB para \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=670&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-11T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, SUBSTITUTIVO, PLN 4/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, BLOCO PARLAMENTAR, PARTIDO PROGRESSISTA (PP) (2003), MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 4, de 2019, sobre a abertura dos Or\u00e7amentos Fiscal e da Seguridade Social da Uni\u00e3o, em favor dos Minist\u00e9rios da Economia e da Cidadania, de Encargos Financeiros da Uni\u00e3o e de Opera\u00e7\u00f5es Oficiais de Cr\u00e9dito, cr\u00e9dito suplementar para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Para encaminhar. Sem revis\u00e3o do orador.) - Sr. Presidente, o Bloco PP/MDB/PTB encaminha \"sim\".\r\nEu queria cumprimentar o Deputado Hildo Rocha, que foi o Relator desta mat\u00e9ria, que mostra que o Congresso Nacional tem responsabilidade com a estabilidade econ\u00f4mica e com o nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=13%2F6%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, RECURSO (PROPOSI\u00c7\u00c3O LEGISLATIVA), REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O,  REFORMA PREVIDENCI\u00c1RIA (2019), BLOCO PARLAMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), PARTIDO PROGRESSISTA (PP) (2003), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CONTRARIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do recurso contra o indeferimento do requerimento de discuss\u00e3o artigo por artigo da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu encaminho o voto \"n\u00e3o\" pelo Bloco PP/MDB/PTB.\r\nQueria agora tornar p\u00fablica uma decis\u00e3o da nossa bancada e do nosso partido, o Movimento Democr\u00e1tico Brasileiro. Em reuni\u00e3o, decidimos fechar quest\u00e3o a favor da vota\u00e7\u00e3o da reforma da Previd\u00eancia.\r\nEssa \u00e9 uma pauta vital para o Pa\u00eds, \u00e9 uma pauta hist\u00f3rica do nosso MDB, que est\u00e1 sendo votada agora gra\u00e7as \u00e0 coragem e \u00e0 responsabilidade que tivemos de debater esse tema nos \u00faltimos 2 anos.\r\nTenho certeza de que \u00e9 uma pauta que vai fazer com que a nossa economia deslanche e crie os empregos t\u00e3o necess\u00e1rios para a nossa popula\u00e7\u00e3o.\r\nPortanto, a bancada do MDB fecha quest\u00e3o a favor da vota\u00e7\u00e3o da Nova Previd\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=446&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo adotado pela Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio,  em primeiro turno, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, Sras. e Srs. Deputados, hoje \u00e9 um dia hist\u00f3rico para o nosso Parlamento. Eu tenho a honra de, como L\u00edder do Movimento Democr\u00e1tico Brasileiro, fazer o encaminhamento de voto da nossa bancada. \r\nEsse \u00e9 um projeto vital para o nosso Brasil. Como n\u00e3o \u00e9 um projeto apenas de Governo, mas \u00e9 um projeto do Brasil, a nossa bancada definiu, junto com o nosso partido, o MDB, fechar quest\u00e3o a favor da nova Previd\u00eancia. \r\nN\u00f3s estamos votando para garantir que os aposentados atuais possam receber as suas aposentadorias. Estamos votando para garantir que as futuras gera\u00e7\u00f5es tenham o direito \u00e0 aposentadoria, porque hoje n\u00f3s temos um Estado quebrado, um d\u00e9ficit p\u00fablico gigante, que vai fazer, se nada for votado com responsabilidade por este Parlamento, com que as contas p\u00fablicas n\u00e3o deem conta de pagar os aposentados atuais e os futuros.\r\nPortanto, com muita tranquilidade, fa\u00e7o esse encaminhamento, porque o MDB tem a nova Previd\u00eancia como pauta de debate nos dois \u00faltimos anos com este Parlamento. \r\nQuero cumprimentar, de maneira muito especial, o Presidente Rodrigo Maia, que \u00e9 o condutor dessa agenda econ\u00f4mica. O Presidente Bolsonaro enviou ao Congresso a proposta da nova Previd\u00eancia; o Deputado Marcelo Ramos foi Presidente da Comiss\u00e3o Especial, e o Deputado Samuel Moreira, Relator. Mas, gra\u00e7as \u00e0 compreens\u00e3o da import\u00e2ncia dessa mat\u00e9ria por parte do Presidente Rodrigo Maia, hoje, vamos fazer hist\u00f3ria, devolvendo a esperan\u00e7a de um Brasil melhor para o povo brasileiro. Por isso, encaminho favoravelmente. \r\nTemos a oportunidade \u00fanica de, no ano de 2019, superar duas das reformas mais importantes para o nosso Pa\u00eds: hoje, a reforma da Previd\u00eancia; mas, amanh\u00e3, a reforma tribut\u00e1ria. Juntas elas v\u00e3o dar condi\u00e7\u00f5es para a nossa economia se recuperar. Temos 13 milh\u00f5es de brasileiros desempregados, mais 7 milh\u00f5es de brasileiros que nem estudam, nem trabalham. S\u00e3o 20 milh\u00f5es de brasileiros aptos a trabalhar que n\u00e3o t\u00eam ocupa\u00e7\u00e3o. N\u00f3s vamos criar o ambiente necess\u00e1rio para a gera\u00e7\u00e3o dos empregos de que os brasileiros tanto precisam. \r\nVamos votar \"sim\", pela nova Previd\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=269&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T23:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, BLOCO PARLAMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), PARTIDO PROGRESSISTA (PP) (2003), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Bloco MDB/PP/PTB tem compromisso com o futuro do Pa\u00eds, com o fim do d\u00e9ficit p\u00fablico, com a responsabilidade da gastan\u00e7a dos recursos p\u00fablicos. Por isso, n\u00f3s encaminhamos o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=451&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T14:06",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, JORNALISMO, REDE GLOBO DE TELEVIS\u00c3O,  JORNAL, CINQUENTEN\u00c1RIO, HOMENAGEM.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Transcurso do cinquenten\u00e1rio do Jornal Nacional,  da Rede Globo de Televis\u00e3o.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Boa tarde a todos.\r\nCumprimento o Deputado Hildo Rocha, que prop\u00f4s a realiza\u00e7\u00e3o desta sess\u00e3o em homenagem aos 50 anos do Jornal Nacional. \r\nCumprimento o Presidente Rodrigo Maia, que n\u00e3o s\u00f3 aceitou a sugest\u00e3o, mas tamb\u00e9m fez quest\u00e3o de estar presente nesta homenagem, que demonstra que o nosso Parlamento realmente entende a import\u00e2ncia do Jornal Nacional, da Rede Globo de Televis\u00e3o, para o nosso Pa\u00eds.\r\nCumprimento o Tonet e, na sua pessoa, cumprimento todos os dirigentes da emissora.\r\nCumprimento o Heraldo Pereira, que \u00e9 da minha cidade, Ribeir\u00e3o Preto, o Gerson Camarotti e, por meio deles, todos os jornalistas que diariamente fazem a diferen\u00e7a para o Pa\u00eds, informando a popula\u00e7\u00e3o.\r\nCumprimento, por fim, todos os funcion\u00e1rios que no dia a dia garantem o sucesso do Jornal Nacional.\r\nFalo aqui em nome do Movimento Democr\u00e1tico Brasileiro - MDB, um partido que, nesses \u00faltimos 50 anos, sempre esteve presente neste Parlamento, lutando pela democracia, pela liberdade de imprensa, em favor da nossa popula\u00e7\u00e3o.\r\nAo ver o v\u00eddeo que foi passado aqui, percebemos que o Jornal Nacional esteve presente em todos os momentos importantes da vida recente do nosso Pa\u00eds, noticiando, criticando, informando. Por isso esta Casa hoje comemora esses 50 anos.\r\nUma ideia de um jornalista vision\u00e1rio, Roberto Marinho, integrou o Pa\u00eds. Como disse o Presidente Rodrigo Maia, o Rio Grande do Sul passou a conhecer os problemas do Par\u00e1; S\u00e3o Paulo, os do Amap\u00e1; e vice-versa. Os brasileiros passaram a se conhecer melhor nas suas caracter\u00edsticas, nas suas quest\u00f5es regionais. Isso, com absoluta certeza, uniu o nosso Pa\u00eds e, mais do que isso, abriu os olhos da nossa popula\u00e7\u00e3o para o mundo.\r\nComo foi relatado aqui, houve cobertura extraordin\u00e1ria da Guerra do Golfo, dos atentados de 11 de setembro, da morte de Ayrton Senna, dos t\u00edtulos da nossa sele\u00e7\u00e3o. Enfim, o Jornal Nacional tem a marca de informar a popula\u00e7\u00e3o brasileira daquilo que acontece no nosso Pa\u00eds, mas tamb\u00e9m integra a nossa popula\u00e7\u00e3o com o mundo.\r\nParab\u00e9ns \u00e0 C\u00e2mara dos Deputados, que faz esta justa homenagem ao Jornal Nacional, que sempre lutou pela liberdade de imprensa e sempre abriu espa\u00e7o para o bom debate, para a perman\u00eancia da nossa democracia, algo muito caro a este Parlamento.\r\nParab\u00e9ns, Deputado Hildo Rocha! Parab\u00e9ns, Presidente Rodrigo Maia!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE URG\u00caNCIA, PL 2944/2019, PROJETO DE LEI ORDIN\u00c1RIA, DISCIPLINAMENTO, PROCEDIMENTO, INCID\u00caNCIA, CUSTAS, EMOLUMENTO, SERVI\u00c7O NOTARIAL, REGISTRO P\u00daBLICO, DISTRITO FEDERAL, TERRIT\u00d3RIO FEDERAL, ENCERRAMENTO, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Conveni\u00eancia de encerramento da vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 2.944, de 2019, sobre os emolumentos dos servi\u00e7os notariais e de registros p\u00fablicos, no \u00e2mbito do Distrito Federal e dos Territ\u00f3rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente Soraya Santos, eu quero s\u00f3 ressaltar que esse pedido \u00e9 um pedido de urg\u00eancia, n\u00e3o \u00e9 a discuss\u00e3o do m\u00e9rito da quest\u00e3o.\r\nEsse \u00e9 um projeto que diz respeito ao Distrito Federal unicamente, n\u00e3o repercute nos outros Estados do Pa\u00eds, mas, como o qu\u00f3rum est\u00e1 baixo e os L\u00edderes partid\u00e1rios est\u00e3o com muitas d\u00favidas - tanto \u00e9 que o placar est\u00e1 demonstrando muitos L\u00edderes liberando a bancada, outros encaminhando \"n\u00e3o\" -, como \u00e9 apenas um requerimento de urg\u00eancia, acho que n\u00f3s podemos finalizar a vota\u00e7\u00e3o. N\u00f3s apresentaremos novamente o pedido de urg\u00eancia. Vamos encaminhar as informa\u00e7\u00f5es pertinentes e importantes para todas as Lideran\u00e7as.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5478/2019, PROJETO DE LEI ORDINARIA. RECURSOS FINANCEIROS, LEIL\u00c3O, REGIME DE CESS\u00c3O ONEROSA, CAMADA PR\u00c9-SAL, OBRIGATORIEDADE, MUNIC\u00cdPIO, ESTADO (ENTE FEDERADO), PAGAMENTO, DIVIDA, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela celebra\u00e7\u00e3o de acordo para a vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.478, de 2019, sobre o estabelecimento de crit\u00e9rios de distribui\u00e7\u00e3o dos valores arrecadados com os leil\u00f5es dos volumes excedentes ao limite referido no \u00a7 2\u00ba do art. 1\u00ba da Lei n\u00ba 12.276, de 2010 (cess\u00e3o onerosa).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quero s\u00f3 fazer um encaminhamento em nome do Movimento Democr\u00e1tico Brasileiro.\r\nPrimeiro, quero cumpriment\u00e1-lo pelo acordo. Acho que esse projeto referente \u00e0 cess\u00e3o onerosa tem grande import\u00e2ncia. N\u00f3s conseguimos, num amplo acordo, incluir Estados e Munic\u00edpios, o que vai garantir recursos para os Estados que passam por grandes dificuldades financeiras e tamb\u00e9m para os Munic\u00edpios.\r\nQuero cumprimentar tamb\u00e9m o Presidente da Confedera\u00e7\u00e3o Nacional de Munic\u00edpios, Aroldi, que trabalhou muito, junto com os Prefeitos.\r\nCom esta vota\u00e7\u00e3o na noite de hoje e com o compromisso do Senado de fazer a mesma vota\u00e7\u00e3o, vamos garantir, j\u00e1 no m\u00eas de dezembro deste ano, um recurso importante para investimentos em cada um dos 5.570 Munic\u00edpios do Brasil. Essa \u00e9 uma contribui\u00e7\u00e3o da C\u00e2mara dos Deputados, do Congresso Nacional, para o desenvolvimento de todos os Munic\u00edpios do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T23:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o al\u00e9m de outras atribui\u00e7\u00f5es definidas em lei espec\u00edfica de iniciativa do Poder Executivo, constante no \u00a7 5\u00ba-A, do art. 144, introduzido pelo art. 3\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital, \r\ncom vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Bloco PP/MDB/PTB encaminha \"n\u00e3o\", de acordo com o que foi consenso nesta Casa, j\u00e1 afirmando o nosso compromisso de votar \"sim\" \u00e0 PEC, como j\u00e1 foi uma vota\u00e7\u00e3o vitoriosa, porque entendemos que \u00e9 uma categoria que ainda n\u00e3o foi valorizada, que trabalha sob alto grau de periculosidade e insalubridade. Colocando na Constitui\u00e7\u00e3o a Pol\u00edcia Penal, n\u00f3s estamos valorizando uma categoria importante para a seguran\u00e7a do nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=420&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido ao Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero cumprimentar V.Exa. por ter pautado este projeto e registrar que ele foi oriundo de uma ideia do Ministro Alexandre de Moraes, que teve um amplo debate com a sociedade jur\u00eddica, com este Parlamento, e depois teve a contribui\u00e7\u00e3o do Ministro Moro.\r\nQuero cumprimentar a Deputada Margarete, que teve um debate grande com a nossa bancada do MDB na tarde de ontem, e registrar tamb\u00e9m o empenho do Deputado Hildo Rocha, do nosso partido, que participou do grupo de trabalho.\r\nQue esse conjunto de leis seja um duro golpe contra a criminalidade, contra a impunidade no nosso Pa\u00eds!\r\nDessa forma, como L\u00edder do MDB, encaminho \"sim\" ao pacote anticrime.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=319&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RICARDO SILVA, DEPUTADO FEDERAL, ASSUN\u00c7\u00c3O, MANDATO PARLAMENTAR.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas ao Deputado Ricardo Silva, ao ensejo da assun\u00e7\u00e3o do mandato parlamentar.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, obrigado pela oportunidade de estar falando nesta sess\u00e3o presidida por V.Exa., para dar as boas-vindas ao querido Ricardo Silva, que assume hoje, como Deputado Federal e honra a nossa Ribeir\u00e3o Preto. N\u00f3s temos uma amizade bastante longa que j\u00e1 vem da \u00e9poca do Deputado Estadual Rafael Silva, que faz um bel\u00edssimo trabalho em Ribeir\u00e3o Preto e em toda a nossa regi\u00e3o, honrando o Estado de S\u00e3o Paulo.\r\nHoje, Deputado Ricardo, com certeza, Ribeir\u00e3o Preto e a nossa regi\u00e3o ficam melhor representadas, mais fortes e com mais for\u00e7a pol\u00edtica para fazermos a diferen\u00e7a.\r\nQuero desejar-lhe do fundo do meu cora\u00e7\u00e3o boa sorte. Sei que V.Exa., al\u00e9m de preparado, tem garra e vontade.\r\nV.Exa. est\u00e1 assumindo um mandato porque teve voto para isso, a popula\u00e7\u00e3o o escolheu para ser Deputado Federal. Eu tenho certeza de que juntos n\u00f3s vamos fazer muito mais por Ribeir\u00e3o Preto e pelo nosso Brasil.\r\nBoa sorte no seu mandato.\r\nQue Deus o aben\u00e7oe!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "C\u00c2MARA DOS DEPUTADOS, SISTEMA DE DELIBERA\u00c7\u00c3O REMOTA (SDR), ATUA\u00c7\u00c3O PARLAMENTAR, PANDEMIA, CORONAV\u00cdRUS, CONGRATULA\u00c7\u00c3O.\r\nDISCUSS\u00c3O, PL 696/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.\r\nHILDO ROCHA, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PROFESSORA DORINHA, DEPUTADA FEDERAL, PL 786/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALIMENTA\u00c7\u00c3O ESCOLAR, PROGRAMA DINHEIRO DIRETO NA ESCOLA (PDDE), MERENDA ESCOLAR, SA\u00daDE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS, CALAMIDADE P\u00daBLICA, EDUCA\u00c7\u00c3O B\u00c1SICA, PROGRAMA NACIONAL DE ALIMENTA\u00c7\u00c3O ESCOLAR (PNAE), DISTRIBUI\u00c7\u00c3O, ALIMENTO, ALUNO, APROVA\u00c7\u00c3O.\r\nGOVERNO FEDERAL, ECONOMIA, DESEMPREGO, COOPERA\u00c7\u00c3O POL\u00cdTICA, PARLAMENTO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Hildo Rocha e \u00e0 Deputada Professora Dorinha Seabra pela apresenta\u00e7\u00e3o de projeto de lei sobre o fornecimento de merenda escolar ao alunato carente durante a pandemia do coronav\u00edrus. Discuss\u00e3o do Projeto de Lei n\u00ba 696, de 2020, sobre o uso da telemedicina durante a crise causada pelo coronav\u00edrus (SARS-CoV-2). Expectativa quanto \u00e0 apresenta\u00e7\u00e3o, pelo Governo Federal, de medidas econ\u00f4micas \r\ndestinadas ao combate ao desemprego e \u00e0 crise financeira gerada pelo SARS-CoV-2.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa noite a todos.\r\nQuero, primeiro, cumpriment\u00e1-lo, Presidente, pela seriedade com que est\u00e1 conduzindo os trabalhos da C\u00e2mara dos Deputados. Hoje \u00e9 um dia hist\u00f3rico: estamos fazendo vota\u00e7\u00f5es virtuais, remotamente, vota\u00e7\u00f5es importantes para o Pa\u00eds. Mat\u00e9rias importantes est\u00e3o sendo deliberadas por este Plen\u00e1rio.\r\nQuero cumprimentar o Deputado Parlamentar Hildo Rocha, grande Parlamentar do MDB. S.Exa., ao lado da Deputada Professora Dorinha, fez o projeto que garante a entrega de merenda escolar na casa de todos os estudantes, garantindo uma refei\u00e7\u00e3o importante para muitas crian\u00e7as.\r\nAgora estamos votando o emprego da telemedicina. O Parlamento est\u00e1 pronto para ajudar o Pa\u00eds neste momento de grande dificuldade. O Parlamento n\u00e3o faltar\u00e1 \u00e0 popula\u00e7\u00e3o, que hoje est\u00e1 em casa, cumprindo o que determina o Minist\u00e9rio da Sa\u00fade e a Organiza\u00e7\u00e3o Mundial da Sa\u00fade.\r\nEstamos aguardando as medidas econ\u00f4micas do Governo para garantir empregos. Preocupa-nos a possibilidade de desemprego em massa. Precisamos garantir que as empresas possam ficar abertas e sobreviver a esta crise. Estamos prevendo fortes efeitos econ\u00f4micos e n\u00e3o queremos uma quebradeira.\r\nNesse sentido, vamos votar medidas sociais importantes. O Parlamento n\u00e3o faltar\u00e1 com as vota\u00e7\u00f5es de todas as medidas econ\u00f4micas propostas pelo Minist\u00e9rio da Economia - pelo Presidente Bolsonaro e pelo Ministro Paulo Guedes.\r\nN\u00f3s entendemos que este \u00e9 um momento de uni\u00e3o nacional e estamos prontos para votar todas as mat\u00e9rias importantes para o Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 9236/2017, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), CAR\u00c1TER EXCEPCIONAL, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), TRABALHO INFORMAL, CORONAV\u00cdRUS,  APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nCORONAV\u00cdRUS, PANDEMIA, COMBATE.\r\nEMPRESA, RECURSOS, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, LIBERA\u00c7\u00c3O, NECESSIDADE.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia e aos L\u00edderes partid\u00e1rios pelo aumento do valor do benef\u00edcio concedido \u00e0s fam\u00edlias carentes durante a pandemia de coronav\u00edrus, preconizado no texto do Projeto de Lei n\u00ba 9.236, de 2017, sobre altera\u00e7\u00e3o do \u00a7 11 e inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 ao art. 20 da Lei n\u00ba 8.742, de 1993, com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa. Apoio \u00e0 aprova\u00e7\u00e3o da propositura. Import\u00e2ncia de cumprimento das determina\u00e7\u00f5es das autoridades da \u00e1rea de sa\u00fade para combate \u00e0 dissemina\u00e7\u00e3o do coronav\u00edrus. Necessidade de libera\u00e7\u00e3o, pelo Governo Federal, de recursos para as m\u00e9dias, pequenas e microempresas.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, esta \u00e9 uma mat\u00e9ria de suma import\u00e2ncia para o povo brasileiro. Por isso eu queria cumpriment\u00e1-lo, Sr. Presidente, Deputado Rodrigo Maia, bem como os L\u00edderes, porque tiveram a sensibilidade, depois de v\u00e1rias reuni\u00f5es, de propor o aumento desse suporte para as fam\u00edlias que hoje n\u00e3o podem trabalhar no Brasil.\r\nEra algo em torno de 200 reais, inicialmente, para cada pessoa. Depois, eram 300 reais. Hoje, n\u00f3s conseguimos avan\u00e7ar para 500 reais por pessoa, podendo chegar a mil reais por fam\u00edlia, e a mil reais, quando a mulher for a trabalhadora da casa, a que sustenta a fam\u00edlia, para a garantia do m\u00ednimo de dignidade para essas fam\u00edlias. S\u00e3o os informais, que hoje n\u00e3o est\u00e3o trabalhando, que hoje n\u00e3o t\u00eam renda, que hoje n\u00e3o t\u00eam a m\u00ednima esperan\u00e7a de chegar ao final do m\u00eas e ter o seu dinheiro para comprar as necessidades mais b\u00e1sicas da sua fam\u00edlia. Por isso o nosso apoio total a esse projeto.\r\nHoje n\u00f3s ouvimos a fala do Ministro Luiz Henrique Mandetta: houve mais mortes por coronav\u00edrus. \u00c9 uma preocupa\u00e7\u00e3o, porque a tend\u00eancia \u00e9 a de que isso se agrave. Isso preocupa a todos, principalmente aqueles que est\u00e3o seguindo as orienta\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade e da Organiza\u00e7\u00e3o Mundial da Sa\u00fade, de ficar em casa, de evitar aglomera\u00e7\u00f5es, de evitar contatos com outras pessoas, para evitar o cont\u00e1gio. Setenta e sete mortes houve at\u00e9 agora no Brasil. Infelizmente, houve a primeira morte na cidade onde eu moro, Ribeir\u00e3o Preto. Um jovem de 36 anos de idade veio a \u00f3bito, o que, \u00e9 claro, preocupa a todos.\r\nN\u00f3s temos outras provid\u00eancias a tomar. Esta primeira, que o Congresso Nacional toma hoje - a C\u00e2mara dos Deputados e depois o Senado -, vai atender quase 20 milh\u00f5es de fam\u00edlias, ou mais, de trabalhadores informais. N\u00f3s aguardamos agora cr\u00e9dito para as pequenas e m\u00e9dias empresas, porque sabemos que tamb\u00e9m elas est\u00e3o paradas, e n\u00e3o t\u00eam como se sustentar. \u00c9 preciso que o Governo olhe para as pequenas e m\u00e9dias empresas e libere cr\u00e9dito barato, extraordin\u00e1rio, para essa finalidade, bem como edite medida provis\u00f3ria sobre a garantia do emprego e do seguro-desemprego para os trabalhadores.\r\nAcho que com essa somat\u00f3ria de provid\u00eancias a C\u00e2mara dos Deputados cumpre o seu papel, e o Governo Federal, da mesma forma - o Minist\u00e9rio da Economia, o Minist\u00e9rio da Sa\u00fade. N\u00f3s temos que trabalhar unidos. N\u00e3o pode haver briga pol\u00edtica. N\u00e3o d\u00e1 para a Direita ficar contra a Esquerda, contra o Centro, n\u00e3o d\u00e1 para partidarizar. Temos agora que unir esfor\u00e7os para buscar solu\u00e7\u00e3o. O que a popula\u00e7\u00e3o espera de todos n\u00f3s? Solu\u00e7\u00f5es, para que esta crise passe o mais rapidamente poss\u00edvel e com o menor preju\u00edzo poss\u00edvel para todos. Acho que essa \u00e9 a nossa fun\u00e7\u00e3o.\r\nParabenizo o Presidente Rodrigo Maia, todos os L\u00edderes e a bancada do MDB, porque esta foi uma das sugest\u00f5es inclu\u00eddas no documento que o Movimento Democr\u00e1tico Brasileiro fez e tornou p\u00fablico esta semana.\r\nVamos trabalhar juntos, com seriedade, para amenizar os problemas da nossa popula\u00e7\u00e3o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=73&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-31T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, SENADO FEDERAL, PL 668/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 668, de 2020, proibitivo da exporta\u00e7\u00e3o de produtos m\u00e9dicos, hospitalares e de higiene essenciais ao combate \u00e0 epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, demais L\u00edderes, Sras. e Srs. Deputados, eu entendo que, neste momento de pandemia, a C\u00e2mara dos Deputados agiu bem ao restringir a exporta\u00e7\u00e3o desses bens, que v\u00e3o ser fundamentais para salvar vidas no Brasil. Sabemos que essa \u00e9 uma pandemia mundial, mas tamb\u00e9m sabemos da nossa responsabilidade.\r\nO MDB encaminha \"n\u00e3o\" \u00e0 emenda do Senado e \"sim\" ao texto da C\u00e2mara, para que, neste per\u00edodo, esses produtos que s\u00e3o vitais n\u00e3o sejam exportados. \r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Est\u00e1 ruim o sinal do Deputado Baleia.\r\nN\u00e3o est\u00e1 dando para ouvir. Est\u00e1 mudo, Deputado Baleia.\r\nO SR. BALEIA ROSSI (Bloco/MDB - SP. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Presidente, est\u00e1 escutando agora?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Estou.\r\nV.Exa. vota \"sim\" ou \"n\u00e3o\"?\r\nO SR. BALEIA ROSSI (Bloco/MDB - SP. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Presidente, o MDB encaminha o voto \"n\u00e3o\" ao texto do Senado e \"sim\" ao texto da C\u00e2mara, que foi constru\u00eddo com todos os L\u00edderes para evitar que, neste momento de pandemia, produtos fundamentais para salvar vidas de brasileiros possam ser exportados. N\u00f3s sabemos que essa pandemia \u00e9 mundial, mas a nossa responsabilidade \u00e9 com o povo brasileiro.\r\nPortanto, a nossa produ\u00e7\u00e3o precisa ser utilizada para salvar vidas no Brasil, neste momento de grande preocupa\u00e7\u00e3o de toda a popula\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2020&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ FL\u00c1VIO GOMES, EX-DEPUTADO FEDERAL, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Homenagem p\u00f3stuma ao Deputado Federal Luiz Fl\u00e1vio Gomes.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, quero, em nome do Movimento Democr\u00e1tico Brasileiro, externar as nossas condol\u00eancias aos familiares, aos amigos, aos alunos e a todos aqueles que conviveram com o Dr. Luiz Fl\u00e1vio Gomes como jurista, como pai de fam\u00edlia e como ser humano.\r\nO Parlamento perde um grande Parlamentar e o Brasil perde um grande brasileiro.\r\nRegistro nossa especial solidariedade o irm\u00e3o de Luiz Fl\u00e1vio Gomes, Juli\u00e3o, Prefeito, por nosso partido, de Sud Mennucci, cidade da querida regi\u00e3o de S\u00e3o Jos\u00e9 do Rio Preto enlutada pela passagem do Parlamentar.\r\nLuiz Fl\u00e1vio Gomes deixa a todo o povo brasileiro um legado de combate \u00e0 corrup\u00e7\u00e3o e de defesa da democracia, acima de tudo.\r\nNossos sinceros sentimentos em nome do MDB.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-03T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o de regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es, para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, p\u00fablico que nos acompanha, o MDB vota \"sim\" a esta PEC, que a imprensa est\u00e1 chamando de PEC do Or\u00e7amento de Guerra, que \u00e9 muito importante para o enfrentamento do coronav\u00edrus.\r\nN\u00f3s sabemos hoje que a popula\u00e7\u00e3o est\u00e1 cumprindo o seu papel, seguindo as orienta\u00e7\u00f5es da Organiza\u00e7\u00e3o Mundial da Sa\u00fade e do Minist\u00e9rio da Sa\u00fade, evitando aglomera\u00e7\u00f5es, evitando contato pessoal, que \u00e9 o que todos os especialistas recomendam, mas espera resposta por parte do Governo Federal. Primeiro, h\u00e1 preocupa\u00e7\u00e3o com a vida, e, depois, com o emprego, com as empresas, com a nossa economia.\r\nA aprova\u00e7\u00e3o desta PEC do Or\u00e7amento de Guerra vai garantir que o Governo Federal n\u00e3o tenha travas, n\u00e3o tenha dificuldades para disponibilizar recursos para o enfrentamento desta crise, fazendo com que o emprego esteja seguro, gra\u00e7as \u00e0 medida provis\u00f3ria do emprego, fazendo com que cheguem aos trabalhadores informais, bem como aos benefici\u00e1rios do BPC e do Bolsa Fam\u00edlia, os 600 reais - no caso das mulheres, 1.200 reais, e 1.200 reais para as fam\u00edlias que v\u00e3o ser atendidas - e tamb\u00e9m \u00e0s pequenas e m\u00e9dias empresas os empr\u00e9stimos, t\u00e3o necess\u00e1rios para cumprir a folha de pagamento.\r\nPortanto, n\u00f3s temos a responsabilidade de dar condi\u00e7\u00f5es para que o Governo Federal possa agir atrav\u00e9s do Minist\u00e9rio da Economia, atrav\u00e9s do Minist\u00e9rio da Sa\u00fade, atrav\u00e9s das decis\u00f5es presidenciais.\r\nPresidente Rodrigo Maia, parabenizo V.Exa. pela articula\u00e7\u00e3o junto a todos os L\u00edderes para tornar vi\u00e1vel esta PEC que, tenho certeza, vai dar todas as condi\u00e7\u00f5es para que o Governo d\u00ea as respostas que a popula\u00e7\u00e3o tanto espera.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL. \r\nMPV 905/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, CONTRATO DE TRABALHO VERDE E AMARELO.\r\nPLP 149/2019, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PROGRAMA DE ACOMPANHAMENTO E TRANSPAR\u00caNCIA FISCAL, POL\u00cdTICA FISCAL, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL (BRASIL), MUNIC\u00cdPIO, TRANSPAR\u00caNCIA P\u00daBLICA.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Expectativa de vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, acerca da institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e da altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira, bem como do Projeto de Lei Complementar n\u00ba 149, de 2019 (Plano Mansueto) sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 848, de 2020,sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, demais Parlamentares, na mesma linha, eu queria pedir aten\u00e7\u00e3o a todo o Parlamento aten\u00e7\u00e3o especial para que possamos avan\u00e7ar no texto do Plano Mansueto, que vai ser extremamente importante para os Estados, para que possam superar este momento de crise do coronav\u00edrus; e tamb\u00e9m \u00e0 MP 905/19, medida provis\u00f3ria que fala exatamente daquilo de que precisamos: garantir emprego e renda para a popula\u00e7\u00e3o.\r\nO MDB nesta mat\u00e9ria, nesta urg\u00eancia, encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 848, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, este \u00e9 um projeto que facilita a vida dos brasileiros durante este per\u00edodo de pandemia.\r\nPortanto, o Movimento Democr\u00e1tico Brasileiro encaminha o voto \"sim\", para aprovar o projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T11:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO FINANCEIRO, UNI\u00c3O, SANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ENFRENTAMENTO, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, FAVOR\u00c1VEL, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), LEITURA.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Para proferir parecer. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 com muita honra que eu apresento o parecer a este projeto de lei, que, na verdade, oferece uma ajuda emergencial \u00e0s Santas Casas e aos hospitais filantr\u00f3picos. A grande dificuldade que n\u00f3s temos neste momento de pandemia, em que a popula\u00e7\u00e3o est\u00e1 em casa, est\u00e1 angustiada, est\u00e1 preocupada, \u00e9 fazer com que as a\u00e7\u00f5es do Governo Federal e as que estamos votando aqui na C\u00e2mara dos Deputados e no Senado cheguem at\u00e9 \u00e0 popula\u00e7\u00e3o.\r\nE esta \u00e9 uma medida efetiva, \u00e9 uma medida de entrega, porque, se n\u00f3s precisamos homenagear todos os profissionais da sa\u00fade, m\u00e9dicos, enfermeiros, auxiliares, todos aqueles que est\u00e3o nas Santas Casas, nos hospitais, na limpeza, na recep\u00e7\u00e3o, enfim, n\u00f3s precisamos dar condi\u00e7\u00f5es para que as Santas Casas e os hospitais filantr\u00f3picos tenham recursos para melhorar o atendimento. Este projeto garante, emergencialmente, 2 bilh\u00f5es de reais para as santas casas e os hospitais filantr\u00f3picos do nosso Pa\u00eds.\r\nPor isso, o meu parecer \u00e9 favor\u00e1vel, para que possamos inclusive manter o texto do Senado. Apesar de termos v\u00e1rias boas emendas e boas contribui\u00e7\u00f5es dos Deputados Federais acerca deste assunto, n\u00f3s preferimos manter o texto do Senado para que possa ir ainda hoje \u00e0 san\u00e7\u00e3o do Presidente Jair Bolsonaro, a fim de que esse recurso chegue o mais r\u00e1pido poss\u00edvel \u00e0s cidades, \u00e0s Santas Casas, aos hospitais filantr\u00f3picos.\r\nPasso, ent\u00e3o, a ler o voto:\r\n\"Voto:\r\nNosso parecer, pela Comiss\u00e3o de Seguridade Social e Fam\u00edlia, \u00e9 pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.006, de 2020, na sua forma original;\r\nPela Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, \u00e9 por sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria e, no m\u00e9rito, pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.006, de 2020, na sua forma original;\r\nPela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, \u00e9 pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 1.006, de 2020.\"\r\nPortanto, o parecer que eu apresento, em nome da bancada do Movimento Democr\u00e1tico Brasileiro e em nome de todos os Parlamentares que nos procuraram para fazer com que este projeto pudesse ter urg\u00eancia para ser votado hoje, \u00e9 pela aprova\u00e7\u00e3o, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T11:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO FINANCEIRO, UNI\u00c3O, SANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ENFRENTAMENTO, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, EMENDA DE PLEN\u00c1RIO, REJEI\u00c7\u00c3O, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), EMISS\u00c3O.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 4 apresentadas ao Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Para proferir parecer. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, este projeto garante o envio de 2 bilh\u00f5es de reais para santas casas e hospitais filantr\u00f3picos de todo o Pa\u00eds.\r\nSabemos que quando uma pessoa precisa de atendimento \u00e0 sa\u00fade e n\u00e3o tem plano de sa\u00fade, como as pessoas mais simples, o hospital que est\u00e1 de portas abertas \u00e9 a santa casa, \u00e9 o hospital filantr\u00f3pico. Por isso, a urg\u00eancia, a emerg\u00eancia e a oportunidade desta vota\u00e7\u00e3o.\r\nO projeto \u00e9 de autoria do Senador Jos\u00e9 Serra e j\u00e1 tem o nosso parecer favor\u00e1vel. A ideia \u00e9 mantermos o texto do Senado, que foi fruto de um entendimento com todos os partidos e, inclusive, com o Governo, atendendo emenda para encaminhar esse recurso para os fundos estaduais ou municipais, quando a santa casa ou o hospital filantr\u00f3pico estiver a ele vinculado.\r\nO nosso parecer, pela Comiss\u00e3o de Seguridade Social e Fam\u00edlia, \u00e9 pela rejei\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00bas 1, 2 e 3; pela Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, \u00e9 pela n\u00e3o implica\u00e7\u00e3o da mat\u00e9ria em aumento ou diminui\u00e7\u00e3o da receita ou da despesa p\u00fablica e, no m\u00e9rito, pela rejei\u00e7\u00e3o de todas as emendas; pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, \u00e9 pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa das Emendas de Plen\u00e1rio n\u00bas 1, 2 e 3.\r\nApesar de serem merit\u00f3rias, entendo que retornar este texto para o Senado atrasaria a chegada desse recurso \u00e0s cidades, \u00e0s santas casas, aos hospitais filantr\u00f3picos.\r\nPor isso, o nosso parecer \u00e9 pela rejei\u00e7\u00e3o das emendas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T12:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Posicionamento do MDB contr\u00e1rio \u00e0 aprova\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 4, com parecer contr\u00e1rio, oferecidas ao Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, como j\u00e1 disse aqui, na apresenta\u00e7\u00e3o do parecer, o encaminhamento do MDB \u00e9 \"n\u00e3o\", mesmo entendendo que as emendas s\u00e3o merit\u00f3rias, porque elas podem ser acolhidas por um decreto do pr\u00f3prio Minist\u00e9rio da Sa\u00fade.\r\nPortanto, neste momento, o voto \u00e9 \"n\u00e3o\", para que possamos dar celeridade \u00e0 chegada desses recursos \u00e0s santas casas e aos hospitais filantr\u00f3picos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE,  DESTAQUE, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em globo  da admissibilidade dos destaques simples, apresentados ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Exatamente, Presidente.\r\nO MDB, neste ponto, encaminha \"sim\", entendendo que esse \u00e9 um texto muito importante para todos os Estados e Munic\u00edpios.\r\nDepois, no encaminhamento do m\u00e9rito da quest\u00e3o, eu passarei o encaminhamento da bancada ao Deputado Isnaldo Bulh\u00f5es Jr., de Alagoas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 94, apresentada ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, s\u00f3 quero deixar claro que n\u00f3s n\u00e3o participamos de nenhum acordo para n\u00e3o apresenta\u00e7\u00e3o de destaque. O que houve foi um di\u00e1logo com o Relator, o Deputado Pedro Paulo, que fez um bel\u00edssimo trabalho. Quero cumpriment\u00e1-lo, assim como quero cumprimentar V.Exa., Sr. Presidente, Deputado Rodrigo Maia.\r\nAcho que essa ajuda emergencial para Estados e Munic\u00edpios vem em boa hora, com muita responsabilidade.\r\nEu acho que, passada esta pandemia, n\u00f3s temos que voltar com a agenda de recupera\u00e7\u00e3o do nosso Pa\u00eds, com reforma tribut\u00e1ria, com reforma administrativa, mas neste momento essas ajudas emergenciais s\u00e3o fundamentais para salvar vidas e para garantir a dignidade do povo brasileiro.\r\nNeste caso n\u00f3s votamos \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=142&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 111, apresentada ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, apesar de alguns partidos terem retirado os seus destaques, o que \u00e9 importante para que possamos finalizar esta vota\u00e7\u00e3o na noite de hoje, eu reitero que n\u00e3o houve um acordo para que todos os partidos o fizessem.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - \u00c9 verdade.\r\nO SR. BALEIA ROSSI (Bloco/MDB - SP. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Se houvesse esse acordo, o MDB n\u00e3o manteria um destaque, porque n\u00f3s nunca deixamos de cumprir um acordo nesta Casa. \r\nFoi o Deputado Hildo Rocha, do nosso partido, o MDB, que apresentou esse destaque. O Deputado j\u00e1 teve assegurada no texto do Deputado Pedro Paulo sua emenda que garante a ida dos recursos destinados ao Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios diretamente para o caixa do Munic\u00edpio, por uma conta do Banco do Brasil, o que ajudou muito o projeto original.\r\nN\u00f3s orientamos, em solidariedade ao Deputado Hildo, um grande estudioso dessas mat\u00e9rias, o voto \"sim\" a esse destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-16T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 873/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, ao Projeto de Lei n\u00ba 873, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista \u00e0 mudan\u00e7a nas regras do aux\u00edlio emergencial; \u00e0 veda\u00e7\u00e3o da suspens\u00e3o de benef\u00edcios previdenci\u00e1rios e assistenciais concedidos aos idosos, \u00e0s pessoas com defici\u00eancia ou com enfermidade grave, durante a pandemia da Covid-19, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, quero cumprimentar o Relator e dizer que a bancada do MDB, tanto no Senado quanto na C\u00e2mara, apoiou essa ajuda emergencial, trabalhou muito pela sua aprova\u00e7\u00e3o, para que possa dar o m\u00ednimo de condi\u00e7\u00e3o para milh\u00f5es de brasileiros que est\u00e3o parados, que n\u00e3o podem trabalhar, que seguem as orienta\u00e7\u00f5es da Organiza\u00e7\u00e3o Mundial da Sa\u00fade e evitam aglomera\u00e7\u00f5es, contato com outras pessoas para prevenir quest\u00f5es de sa\u00fade.\r\nVejo aqui caminhoneiros, taxistas, motoristas e entregadores de aplicativos, motoristas em geral, agricultores, trabalhadores da cultura, em todas as \u00e1reas, m\u00fasicos, artistas, agentes de turismo, diaristas, ministros de confiss\u00e3o religiosa e assemelhados, feirantes, gar\u00e7ons, profissionais da beleza, profissionais do esporte, entre outros. Portanto, a C\u00e2mara amplia essa ajuda emergencial para ajudar a popula\u00e7\u00e3o vulner\u00e1vel, que est\u00e1 sem trabalho e que precisa minimamente atender \u00e0s suas condi\u00e7\u00f5es b\u00e1sicas.\r\nPor esse motivo, o Movimento Democr\u00e1tico Brasileiro encaminha favoravelmente ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-04T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, ADMISSIBILIDADE CONSTITUCIONAL, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania sobre a admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, referente ao estabelecimento do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, vou encaminhar pela admissibilidade desta PEC. Temos preocupa\u00e7\u00f5es grandes com a disponibilidade de recursos para o enfrentamento da COVID-19. Entendemos que esta PEC vai dar ao Governo Federal todas as condi\u00e7\u00f5es para o enfrentamento e o combate \u00e0 COVID, para salvar vidas e tamb\u00e9m, ato cont\u00ednuo, para salvar as nossas empresas e os nossos empregos, que \u00e9 outra grande preocupa\u00e7\u00e3o que n\u00f3s temos.\r\nPortanto, a C\u00e2mara dos Deputados, junto com o Senado e em conversa com o Governo Federal, chega a um texto que vai dar totais condi\u00e7\u00f5es ao Governo de fazer o que for preciso para que o Pa\u00eds saia desta crise.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2020&txPagina=64&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-04T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, DISPOSITIVO LEGAL, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, do art. 4\u00ba, e das al\u00edneas a a f do inciso II, do art. 8\u00ba, com parecer contr\u00e1rio, constantes da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, referente ao estabelecimento do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB encaminha \"n\u00e3o\", para manter o texto.\r\nEntendemos que a manuten\u00e7\u00e3o dos empregos \u00e9 fundamental, mas existem outras mat\u00e9rias que versam sobre este assunto, outras medidas provis\u00f3rias que n\u00f3s estamos aprovando para garantir os empregos no nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2020&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-04T22:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PAUTA (PROCESSO LEGISLATIVO), VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, AGENDA LEGISLATIVA, C\u00c2MARA DOS DEPUTADOS.\r\nPEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REGIME EXTRAORDIN\u00c1RIO FISCAL, FINANCEIRO E DE CONTRATA\u00c7\u00d5ES, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de informa\u00e7\u00f5es sobre a continua\u00e7\u00e3o das vota\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, para que possamos deixar as bancadas motivadas e preparadas para a vota\u00e7\u00e3o, quero fazer-lhe uma indaga\u00e7\u00e3o. N\u00f3s come\u00e7amos hoje com a expectativa de votarmos a PEC 10, que \u00e9 a PEC do Or\u00e7amento de Guerra, devido a sua import\u00e2ncia; j\u00e1 s\u00e3o 22h53min; qual \u00e9 a expectativa de continua\u00e7\u00e3o dos trabalhos hoje? \r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - A expectativa \u00e9 que n\u00f3s terminemos o primeiro turno da PEC 10; amanh\u00e3, \u00e0s 11 horas da manh\u00e3, votemos o projeto dos Estados e Munic\u00edpios; logo em seguida, o segundo turno da PEC 10; e, tendo tempo - espero que tenhamos -, n\u00f3s possamos voltar \u00e0 Medida Provis\u00f3ria n\u00ba 915, com seus destaques.\r\nNa quarta-feira, n\u00f3s pretendemos votar alguns projetos. Amanh\u00e3 eu vou anunci\u00e1-los. H\u00e1 projetos que j\u00e1 t\u00eam urg\u00eancia. Sobre outras urg\u00eancias, vamos deliberar ainda hoje, pois existe acordo entre a maioria dos partidos para que possamos votar o projeto dos profissionais de sa\u00fade, o projeto das comunidades ind\u00edgenas, entre outros. Tamb\u00e9m h\u00e1 algumas medidas provis\u00f3rias, como a MP 909, cujo texto parece que o Relator j\u00e1 encaminhou a todos os L\u00edderes - pelo menos foi o que ele me disse.\r\nMas amanh\u00e3 seriam primeiro o projeto dos Governadores, o segundo turno, e os destaques da MP 915, come\u00e7ando \u00e0s 11 horas da manh\u00e3, para ver se n\u00f3s conseguimos terminar por volta de 20 horas a sess\u00e3o de amanh\u00e3.\r\nO SR. BALEIA ROSSI (Bloco/MDB - SP. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Maravilha!\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2020&txPagina=206&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo,   do Projeto de Lei Complementar n\u00ba 39, de 2020, acerca da institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, da mesma forma, entendemos que este projeto \u00e9 extremamente importante para dar aux\u00edlio aos Estados e Munic\u00edpios. \u00c9 um projeto que nasceu na C\u00e2mara dos Deputados, que teve a contribui\u00e7\u00e3o dos Senadores e a conversa com a equipe econ\u00f4mica do Governo Federal.\r\nN\u00f3s entendemos que precisamos vot\u00e1-lo com urg\u00eancia. Por isso, votamos \"n\u00e3o\" ao requerimento, porque queremos finalizar esta vota\u00e7\u00e3o ainda hoje, para que esse recurso possa chegar aos Estados e Munic\u00edpios, para o combate ao coronav\u00edrus.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR,  MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTRARIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das emendas de plen\u00e1rio, com parecer contr\u00e1rio, oferecidas ao Projeto de Lei Complementar n\u00ba 39, de 2020, acerca da institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB encaminha \"n\u00e3o\" \u00e0s emendas. \r\nTamb\u00e9m tivemos v\u00e1rias sugest\u00f5es dos Parlamentares do Movimento Democr\u00e1tico Brasileiro que foram acolhidas pelo Relator, deixando claro que os servidores da \u00e1rea da sa\u00fade, da seguran\u00e7a, da limpeza p\u00fablica, da \u00e1rea social, aqueles que est\u00e3o na linha de frente do combate ao coronav\u00edrus, nos Munic\u00edpios, nos Estados ou na Uni\u00e3o, est\u00e3o fora dessas limita\u00e7\u00f5es.\r\nPortanto, o MDB encaminha \"n\u00e3o\" a essas emendas, lembrando que esse projeto que nasceu na C\u00e2mara dos Deputados vai dar condi\u00e7\u00f5es aos Munic\u00edpios e aos Estados de pagarem seus funcion\u00e1rios e custearem a m\u00e1quina p\u00fablica, de modo que a a\u00e7\u00e3o de sa\u00fade chegue at\u00e9 a popula\u00e7\u00e3o. \u00c9 importante que se diga que, sem esse projeto, os funcion\u00e1rios mal receberiam seus sal\u00e1rios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR,  MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB tamb\u00e9m encaminha \"sim\" ao texto, cumprimentando o Relator Pedro Paulo, que conversou com os L\u00edderes, com os Parlamentares e melhorou o texto.\r\nQuero fazer uma constata\u00e7\u00e3o aqui, Presidente. Eu tenho recebido pelo WhatsApp uma s\u00e9rie de mensagens de prefeitos pedindo a vota\u00e7\u00e3o deste texto que foi para o Senado, mesmo entendendo que o texto original da C\u00e2mara fazia maior justi\u00e7a.\r\nNa realidade, os Munic\u00edpios est\u00e3o entrando em colapso. N\u00f3s tivemos queda de arrecada\u00e7\u00e3o de 20%, 30%, 40%, 50%, n\u00e3o s\u00f3 nos Munic\u00edpios, mas tamb\u00e9m nos Estados.\r\nA celeridade desta vota\u00e7\u00e3o, a san\u00e7\u00e3o por parte do Presidente Jair Bolsonaro e o envio desses recursos v\u00e3o garantir que os Estados e os Munic\u00edpios possam continuar o enfrentamento \u00e0 pandemia e o custeio das suas m\u00e1quinas.\r\nPortanto, o MDB, como um partido municipalista, que sabe que o problema est\u00e1 no Munic\u00edpio, apoia o texto do Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=196&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo do art. 8\u00ba do Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente; Srs. Deputados; Sras. Deputadas; Sr. Relator, Deputado Pedro Paulo, a quem cumprimento por ter conseguido alguns avan\u00e7os no pr\u00f3prio texto, liberando todos os profissionais da sa\u00fade que est\u00e3o no enfrentamento da pandemia, assim como os profissionais da seguran\u00e7a, de limpeza p\u00fablica, da \u00e1rea social, n\u00f3s entendemos que este foi um pedido do Minist\u00e9rio da Economia. Este \u00e9 um texto que tem um impacto econ\u00f4mico muito grande e vai, sim, salvar as finan\u00e7as p\u00fablicas dos Munic\u00edpios e dos Estados.\r\nPortanto, n\u00f3s encaminhamos pela manuten\u00e7\u00e3o do texto que veio do Senado com essa gest\u00e3o do Ministro Paulo Guedes e do Minist\u00e9rio da Economia. N\u00f3s fizemos um debate profundo na bancada do MDB, alguns Parlamentares colocaram uma posi\u00e7\u00e3o diferente da orienta\u00e7\u00e3o da Lideran\u00e7a, e n\u00f3s vamos respeitar isso, porque entendemos que cada um tem a sua caracter\u00edstica, tem as suas convic\u00e7\u00f5es, mas o nosso encaminhamento \u00e9 pela manuten\u00e7\u00e3o do texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=262&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-06T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SAN\u00c7\u00c3O PRESIDENCIAL, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO FINANCEIRO, UNI\u00c3O, SANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ENFRENTAMENTO, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Import\u00e2ncia da san\u00e7\u00e3o do projeto de lei, de autoria do ex-Senador Jos\u00e9 Serra, sobre a destina\u00e7\u00e3o de recursos financeiros \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, eu queria fazer um registro importante, nesta tarde, sobre a san\u00e7\u00e3o, por parte do Presidente Jair Bolsonaro, do projeto do Senador Jos\u00e9 Serra, que eu tive a honra de relatar, na C\u00e2mara dos Deputados, que destinar\u00e1 2 bilh\u00f5es de reais para as Santas Casas e hospitais filantr\u00f3picos de todo o Brasil. Isso \u00e9 verdadeiramente significativo.\r\nN\u00f3s sabemos que centenas de cidades t\u00eam, nas suas Santas Casas, o \u00fanico local para atendimento \u00e0 sa\u00fade da popula\u00e7\u00e3o mais pobre, principalmente daqueles que n\u00e3o t\u00eam plano de sa\u00fade. Este \u00e9 o pacto nacional de que n\u00f3s precisamos.\r\nTivemos a sensibilidade de o Presidente Rodrigo Maia pautar a mat\u00e9ria. Tivemos o apoio de todos os L\u00edderes partid\u00e1rios e a aprova\u00e7\u00e3o un\u00e2nime por parte de todos os Deputados Federais do Brasil. Fizemos um apelo para que o Presidente Bolsonaro pudesse sancionar, e hoje isso \u00e9 realidade. N\u00f3s teremos 2 bilh\u00f5es de reais para ajudar no atendimento \u00e0 sa\u00fade da popula\u00e7\u00e3o brasileira. \u00c9 assim que se trabalha: com uni\u00e3o, com perspectivas de que as Santas Casas v\u00e3o ter recursos e condi\u00e7\u00f5es de atender a popula\u00e7\u00e3o no combate ao coronav\u00edrus. \r\nPor isso, eu queria cumprimentar o Senado Federal, a C\u00e2mara Federal, o Governo Federal por este trabalho, em conjunto, que vai dar condi\u00e7\u00f5es para que a popula\u00e7\u00e3o mais simples do Brasil tenha um melhor atendimento \u00e0 sa\u00fade p\u00fablica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2020&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-12T13:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 909/2019, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.\r\nPL 2294/2020, PROJETO DE LEI ORDIN\u00c1RIA, FLEXIBILIZA\u00c7\u00c3O, NORMA T\u00c9CNICA, NORMATIZA\u00c7\u00c3O, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), FABRICA\u00c7\u00c3O, COMERCIALIZA\u00c7\u00c3O, CERTIFICA\u00c7\u00c3O,VENTILADOR PULMONAR, PANDEMIA, CORONAV\u00cdRUS, DESBUROCRATIZA\u00c7\u00c3O, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 909, de 2019, sobre a extin\u00e7\u00e3o do fundo formado pelas reservas monet\u00e1rias constante no art. 12 da  Lei n\u00ba 5.143, de 1966, bem como a destina\u00e7\u00e3o dos recursos remanescentes e a revoga\u00e7\u00e3o do dispositivo mencionado. Imediata vota\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 2.331, de 2020, a respeito da altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 flexibiliza\u00e7\u00e3o de exig\u00eancias t\u00e9cnico-sanit\u00e1rias previstas para o registro de ventiladores e respiradores pulmonares durante a pandemia de Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, encaminhamos o voto favor\u00e1vel \u00e0 MP 909 e cumprimentamos o Deputado Luis Miranda pela relatoria.\r\nQueria fazer um apelo aos demais L\u00edderes para que possamos votar ainda hoje ou, no mais tardar, amanh\u00e3 projeto que desburocratiza a autoriza\u00e7\u00e3o de fabrica\u00e7\u00e3o de respiradores por parte da nossa ind\u00fastria nacional.\r\nN\u00f3s estamos vendo v\u00e1rios casos de importa\u00e7\u00e3o de respiradores de m\u00e1 qualidade, fora das especifica\u00e7\u00f5es. O Deputado Carlos Chiodini, de Santa Catarina, fez um projeto sobre isso, que foi melhorado pelo Relator, o Deputado Lafayette de Andrada. Gostaria que esse projeto, que \u00e9 urgente, fosse pautado porque n\u00f3s sabemos que a presen\u00e7a de um bom respirador numa UTI salva vidas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2020&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-12T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, Z\u00c9 SILVA, DEPUTADO FEDERAL, RELATOR, RELAT\u00d3RIO (PROCESSO LEGISLATIVO), PROJETO DE LEI DE CONVERS\u00c3O, MPV 910/2019, MEDIDA PROVIS\u00d3RIA, REQUISITO, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA, \u00c1REA RURAL, AUMENTO, M\u00d3DULO FISCAL, IM\u00d3VEL RURAL.\r\nPROPOSTA DE ACORDO, DI\u00c1LOGO POL\u00cdTICO, PROJETO DE LEI ORDIN\u00c1RIA, ADIAMENTO, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Sugest\u00e3o \u00e0 Presid\u00eancia de adiamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 910, de 2019, relativa \u00e0 altera\u00e7\u00e3o das Leis de n\u00bas 11.952, de 2009, a respeito da regulariza\u00e7\u00e3o fundi\u00e1ria de ocupa\u00e7\u00f5es em terras da Uni\u00e3o; 8.666, de 1993, acerca da institui\u00e7\u00e3o de normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica; e 6.015, de 1973, referente a registros p\u00fablicos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, ouvi atentamente todos os L\u00edderes que me antecederam e queria fazer uma sugest\u00e3o para que haja um entendimento sobre essa mat\u00e9ria.\r\nAcho que o Deputado Marcelo Ramos foi muito feliz ao dizer que existem muitos preconceitos sobre esta medida provis\u00f3ria, sobre o que ela representa exatamente.\r\nH\u00e1 muita desinforma\u00e7\u00e3o sobre o relat\u00f3rio do Deputado Z\u00e9 Silva, que, nos \u00faltimos 10 dias, debru\u00e7ou-se sobre esse texto, dialogou com todas as correntes pol\u00edticas e ideol\u00f3gicas desta Casa. S.Exa. ouviu ambientalistas e a bancada do agroneg\u00f3cio, enfim fez um trabalho que modificou para melhor a medida provis\u00f3ria.\r\nTodos n\u00f3s defendemos a Amaz\u00f4nia, defendemos os nossos \u00edndios. Todos temos preocupa\u00e7\u00f5es com o desmatamento e com as queimadas. Acredito que precisamos de um pouco mais de tempo para esclarecer todas essas quest\u00f5es levantadas.\r\nQuero dizer que conhe\u00e7o o relat\u00f3rio do Deputado Z\u00e9 Silva. S.Exa. trabalhou muito, colocou no relat\u00f3rio toda a preocupa\u00e7\u00e3o que chegou at\u00e9 ele, ouviu todos os L\u00edderes. Acho que seria importante fazermos uma rodada de di\u00e1logo com os L\u00edderes para que pud\u00e9ssemos, talvez, transformar essa medida provis\u00f3ria, o relat\u00f3rio do Deputado Z\u00e9 Silva, num projeto de lei. Assim ganhar\u00edamos pelo menos mais 1 semana - com o compromisso do Presidente Rodrigo Maia e de todos n\u00f3s L\u00edderes de pautarmos essa mat\u00e9ria na pr\u00f3xima quarta-feira, j\u00e1 com o entendimento do Presidente do Senado de que essa mat\u00e9ria tem relev\u00e2ncia e que o Senado tamb\u00e9m vai sobre ela deliberar - para tirarmos essas d\u00favidas.\r\nEu estou vendo que h\u00e1, em todas as bancadas e com os Parlamentares que tenho conversado, muitas d\u00favidas, muita desinforma\u00e7\u00e3o sobre o relat\u00f3rio apresentado.\r\nEnt\u00e3o, eu queria fazer essa sugest\u00e3o. Na minha bancada, temos o Deputado Alceu Moreira, Presidente da Frente Parlamentar da Agropecu\u00e1ria; o Deputado Sergio Souza, Vice-Presidente dessa Frente; o Deputado Lucio Mosquini, que \u00e9 muito atuante e foi o Presidente da Comiss\u00e3o Especial que estudou essa mat\u00e9ria.\r\nS\u00e3o Parlamentares comprometidos com o tema. Mas entendo que nesse momento seria bom para o Parlamento, para termos o resultado positivo do que pode ser a vota\u00e7\u00e3o dessa medida provis\u00f3ria ou de um projeto de lei, termos 1 semana de debate, de conversa, com o compromisso de votar o conte\u00fado do relat\u00f3rio do Deputado Z\u00e9 Silva na semana que vem.\r\nDeixo essa sugest\u00e3o para os demais L\u00edderes discutirem.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2020&txPagina=161&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-21T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 1826/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da subemenda substitutiva, oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.826, de 2020, sobre o pagamento, pela Uni\u00e3o, de compensa\u00e7\u00e3o financeira aos profissionais da sa\u00fade incapacitados permanentemente para o trabalho, em face da contamina\u00e7\u00e3o por coronav\u00edrus durante as a\u00e7\u00f5es de combate \u00e0 doen\u00e7a, bem como aos seus c\u00f4njuges ou companheiros, aos seus dependentes e herdeiros, em caso de \u00f3bito; e sobre a altera\u00e7\u00e3o da  Lei n\u00ba 605, de 1949, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, vou encaminhar favoravelmente a este projeto.\r\nQuero registrar que a Deputada Daniela do Waguinho e a Deputada Elcione Barbalho tamb\u00e9m s\u00e3o coautoras deste projeto de valoriza\u00e7\u00e3o dos profissionais de sa\u00fade que est\u00e3o na ponta, que est\u00e3o na base, nas cidades, oferecendo a sua vida para salvar a vida dos brasileiros.\r\nPortanto, o MDB encaminha \"sim\" ao projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2020&txPagina=70&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-21T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 2294/2020, PROJETO DE LEI ORDIN\u00c1RIA, FLEXIBILIZA\u00c7\u00c3O, NORMA T\u00c9CNICA, NORMATIZA\u00c7\u00c3O, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), FABRICA\u00c7\u00c3O, COMERCIALIZA\u00c7\u00c3O, CERTIFICA\u00c7\u00c3O,VENTILADOR PULMONAR, PANDEMIA, CORONAV\u00cdRUS, DESBUROCRATIZA\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O, CARLOS CHIODINI, AUTOR, LAFAYETTE DE ANDRADA, RELATOR.\r\nTADEU FILIPPELLI, REASSUN\u00c7\u00c3O, MANDATO PARLAMENTAR, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 2.294, de 2020, acerca do regime extraordin\u00e1rio e tempor\u00e1rio de autoriza\u00e7\u00e3o de regras, normas t\u00e9cnicas e operacionais simplificadas da Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria - ANVISA, com vista \u00e0 fabrica\u00e7\u00e3o e com\u00e9rcio de ventiladores pulmonares e equipamentos de suporte respirat\u00f3rio emergencial durante a pandemia da Covid-19; e do procedimento simplificado de certifica\u00e7\u00e3o pela ANVISA. Congratula\u00e7\u00f5es aos Deputados Carlos Chiodini e Lafayette de Andrada, respectivamente, autor e relator da proposi\u00e7\u00e3o. Sauda\u00e7\u00e3o ao Deputado Tadeu Filipelli, ao ensejo da assun\u00e7\u00e3o do mandato parlamentar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, vou utilizar apenas 30 segundos.\r\nPrimeiro, quero cumprimentar o Deputado Carlos Chiodini, da bancada do MDB, pela apresenta\u00e7\u00e3o desse projeto, que vai facilitar que a ind\u00fastria nacional possa fabricar de respiradores.\r\nQuero cumprimentar, tamb\u00e9m, o Deputado Lafayette de Andrada, que ajudou muito, com seu parecer, para que esse projeto pudesse avan\u00e7ar, assim como cumprimento todos os L\u00edderes, que entenderam a necessidade e urg\u00eancia dessa vota\u00e7\u00e3o.\r\nPor fim, quero saudar a volta do Deputado Tadeu Filippelli, ex-Governador do Distrito Federal, \u00e0 nossa bancada do MDB. Tenho certeza de que vai valorizar muito o debate na C\u00e2mara dos Deputados.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2020&txPagina=148&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-26T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, PRONUNCIAMENTO PARLAMENTAR, PANDEMIA, CORONAV\u00cdRUS, ATUA\u00c7\u00c3O PARLAMENTAR, DEFESA, DEMOCRACIA, PRINC\u00cdPIO DA HARMONIA ENTRE OS PODERES, SOLIDARIEDADE, FAM\u00cdLIA, LUTO, PROFISSIONAL DE SA\u00daDE, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, ECONOMIA, DESEMPREGO, REFORMA TRIBUT\u00c1RIA, REFORMA ADMINISTRATIVA, GOVERNO FEDERAL, BANCO, EMPRESA.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Congratula\u00e7\u00e3o ao Presidente Rodrigo Maia pelo discurso proferido sobre o papel da C\u00e2mara dos Deputados diante da pandemia de coronav\u00edrus.  Import\u00e2ncia de manuten\u00e7\u00e3o da harmonia e da independ\u00eancia entre os Poderes da Rep\u00fablica. Defesa de inclus\u00e3o das reformas administrativa e tribut\u00e1ria na pauta de vota\u00e7\u00f5es p\u00f3s-pandemia. Urgente necessidade de implementa\u00e7\u00e3o das medidas aprovadas pelo Congresso Nacional em prol das empresas, dos Estados e Munic\u00edpios brasileiros.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em nome do Movimento Democr\u00e1tico Brasileiro, da mesma forma, quero cumpriment\u00e1-lo pelo pronunciamento que fez no in\u00edcio desta sess\u00e3o. \r\nAcho que a C\u00e2mara Federal est\u00e1 dando um exemplo de equil\u00edbrio na busca de uma uni\u00e3o nacional para enfrentarmos o \u00fanico inimigo que n\u00f3s temos hoje, o coronav\u00edrus, esta pandemia. Somos os guardi\u00f5es da nossa Constitui\u00e7\u00e3o, somos os defensores da nossa democracia e precisamos sempre dizer que \u00e9 fundamental que tenhamos harmonia e independ\u00eancia entre os Poderes: Legislativo, Executivo e Judici\u00e1rio. \r\nEntendo que a C\u00e2mara Federal tem dado respostas: primeiro, na quest\u00e3o humana, na sua palavra se solidarizando com quase 25 mil fam\u00edlias enlutadas, uma trag\u00e9dia que marcar\u00e1 a nossa hist\u00f3ria com muita tristeza; depois, na homenagem a todos os profissionais da sa\u00fade. Enquanto todos est\u00e3o buscando se proteger atrav\u00e9s do isolamento, evitando aglomera\u00e7\u00f5es, os profissionais da sa\u00fade n\u00e3o t\u00eam essa alternativa e precisam estar na base, no front, enfrentando todos os riscos para salvar vidas.\r\nA C\u00e2mara Federal votou todas as medidas importantes para o enfrentamento da COVID: a ajuda emergencial para as pessoas terem o m\u00ednimo de dignidade; o apoio emergencial aos Estados e aos Munic\u00edpios, para que os servi\u00e7os permanentes possam continuar no amparo \u00e0 popula\u00e7\u00e3o; projetos importantes e relevantes e medidas provis\u00f3rias.\r\nEntendo que n\u00f3s precisamos depois come\u00e7ar uma discuss\u00e3o sobre uma pauta p\u00f3s-pandemia - reforma tribut\u00e1ria, reforma administrativa -, porque n\u00f3s sabemos que o primeiro efeito dessa pandemia \u00e9 com a sa\u00fade, com a perda de vidas, o que \u00e9 muito preocupante, mas, p\u00f3s-pandemia, n\u00f3s teremos tamb\u00e9m infelizmente os efeitos na nossa economia, com o desemprego.\r\nN\u00f3s precisamos voltar a discutir aquilo que pode devolver ao Brasil a credibilidade, para que os investimentos venham, e n\u00f3s possamos gerar os empregos, que s\u00e3o t\u00e3o importantes.\r\nParab\u00e9ns, Presidente, pelo posicionamento. Espero que o Governo Federal possa fazer com que os bancos fa\u00e7am chegar o recurso que est\u00e1 disponibilizado, para que n\u00e3o haja uma quebradeira geral das nossas empresas, e os empregos possam ser seguros.\r\nEsse \u00e9 o apelo final que eu faria, porque as medidas n\u00f3s votamos, o dinheiro o Governo Federal disponibilizou, s\u00f3 que, como V.Exa. falou, n\u00e3o chegou \u00e0 base, e isso preocupa demais todos os trabalhadores brasileiros.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2020&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-26T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 1075/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.075, de 2020, acerca das a\u00e7\u00f5es emergenciais para o setor cultural, adotadas durante o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, queria cumprimentar a Relatora, a Deputada Jandira Feghali, e todos os Parlamentares que se envolveram no debate deste projeto emergencial para a cultura, um setor important\u00edssimo da nossa sociedade que precisa de apoio, que precisa de ajuda, porque \u00e9 um setor que foi altamente afetado pela pandemia, pelo isolamento.\r\nPortanto, o MDB vota \"sim\" a este projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2020&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba-B, da Lei n\u00ba 10.260, de 2001, alterado pelo art. 1\u00ba, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079, de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, para suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, com vista \u00e0 sua rejei\u00e7\u00e3o e consequente restabelecimento do dispositivo equivalente no texto aprovado pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB encaminha \"n\u00e3o\" e cumprimenta o Deputado Moses Rodrigues pelo relat\u00f3rio. Como j\u00e1 foi falado, este projeto valoriza o estudante neste momento de dificuldade, de pandemia. N\u00f3s sabemos os reflexos da pandemia na vida das pessoas e precisamos preservar a educa\u00e7\u00e3o.\r\nEu queria cumpriment\u00e1-lo pelo desempenho na Presid\u00eancia desta sess\u00e3o, Sr. Presidente, e pedir que nos pr\u00f3ximos encaminhamentos chame o Deputado Moses, para a orienta\u00e7\u00e3o do nosso MDB.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, da mesma forma, entendemos que o setor do turismo foi muito prejudicado com esta pandemia. Foi o primeiro a entrar, acredito que ser\u00e1 o segundo ou o \u00faltimo a se recuperar, devido \u00e0 caracter\u00edstica do setor. Por isso, encaminhamos \"sim\" \u00e0 emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=65&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-01T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PRIMEIRO TURNO, PEC 18/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, a respeito do adiamento das elei\u00e7\u00f5es municipais de 2020, em decorr\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus, declarada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a bancada do MDB se reuniu na semana passada, tanto no Senado quanto na C\u00e2mara Federal, e acabamos por fechar quest\u00e3o em torno dessa mat\u00e9ria.\r\nMajoritariamente, a bancada de Deputados Federais do MDB apoia o adiamento da elei\u00e7\u00e3o para dia 15 de novembro. No Senado, a maioria manifestou-se tamb\u00e9m pelo adiamento. O MDB respeita os Deputados que pensam de maneira diferente ou que j\u00e1 assumiram compromissos conflitantes com o adiamento, mas encaminha o voto \"sim\", pelo adiamento da elei\u00e7\u00e3o para o dia 15 de novembro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2020&txPagina=76&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-09T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA,  PRESSUPOSTO CONSTITUCIONAL, MPV 975/2020, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 975, de 2020, sobre a institui\u00e7\u00e3o do Programa Emergencial de Acesso a Cr\u00e9dito; e a altera\u00e7\u00e3o das Leis de n\u00bas 12.087, de 2009, e 13.999, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria encaminhar favoravelmente a esta medida provis\u00f3ria e cumprimentar o Deputado Efraim Filho pelo relat\u00f3rio.\r\nA realidade hoje \u00e9 que o cr\u00e9dito n\u00e3o chegou \u00e0 ponta. N\u00f3s temos muitas reclama\u00e7\u00f5es de micro, pequenos e m\u00e9dios empres\u00e1rios que est\u00e3o passando um sufoco muito grande durante a pandemia. A nossa preocupa\u00e7\u00e3o \u00e9 com a manuten\u00e7\u00e3o dos empregos. Espero que esta vota\u00e7\u00e3o facilite a chegada do cr\u00e9dito \u00e0 ponta, para salvar os empregos.\r\nPortanto, o MDB encaminha \"sim\" .\r\nNas pr\u00f3ximas vota\u00e7\u00f5es, eu gostaria de pedir ao Deputado Hildo Rocha que fizesse o encaminhamento pela bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2020&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-20T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA,  VOTA\u00c7\u00c3O POR ARTIGO, PL 4731/2019, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei n\u00ba 4.731, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.088, de 1974, com vista \u00e0 inclus\u00e3o da Bacia do Rio Araguari e das demais bacias dos Estados do Amap\u00e1, do Amazonas e do Par\u00e1 na \u00e1rea de abrang\u00eancia da Companhia de Desenvolvimento dos Vales do S\u00e3o Francisco e do Parna\u00edba - CODEVASF.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB orienta o voto \"n\u00e3o\", entendendo as pondera\u00e7\u00f5es do Deputado Hildo Rocha, que \u00e9 um grande conhecedor dessa mat\u00e9ria. \r\nO intuito sempre \u00e9 fortalecer as a\u00e7\u00f5es da CODEVASF, mas entendemos que, neste momento, o melhor \u00e9 votar \"n\u00e3o\". Compreendemos aqueles que pensam diferentemente, os quais est\u00e3o liberados para votar de acordo com as suas convic\u00e7\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F7%2F2020&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REFORMA TRIBUT\u00c1RIA, PODER EXECUTIVO, ENCAMINHAMENTO.\r\nPEC 45/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), ALTERA\u00c7\u00c3O, SISTEMA TRIBUT\u00c1RIO NACIONAL, REFORMA TRIBUT\u00c1RIA, CORRELA\u00c7\u00c3O, PEC 110/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, SENADO FEDERAL, AN\u00c1LISE.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Encaminhamento \u00e0 Casa, pelo Poder Executivo, da proposta governamental de reforma tribut\u00e1ria. Defesa de aprecia\u00e7\u00e3o da proposta do Poder Executivo em conjunto com a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 45, de 2019, da C\u00e2mara dos Deputados, e a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 110, de 2019, do Senado Federal, relativas ao tema. Regozijo com a anunciada realiza\u00e7\u00e3o da reforma tribut\u00e1ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Rodrigo Maia, Sras. e Srs. Deputados, eu queria falar nesta tarde sobre um evento que acabou de acontecer no Congresso Nacional, no qual o Ministro da Economia, o Sr. Paulo Guedes, entregou formalmente parte da sua reforma tribut\u00e1ria. \r\nL\u00e1 estava o Presidente do Congresso Nacional, Senador Davi Alcolumbre, autor da PEC n\u00ba 110, de 2019; o Senador Roberto Rocha, Presidente da Comiss\u00e3o Mista, que vai voltar a debater a nossa reforma tribut\u00e1ria; o Deputado Aguinaldo Ribeiro, Relator da Comiss\u00e3o Mista; o Deputado Hildo Rocha, Vice-Presidente da Comiss\u00e3o Mista e Presidente da Comiss\u00e3o da Reforma Tribut\u00e1ria, nesta C\u00e2mara dos Deputados.\r\nSenadores e Deputados, hoje \u00e9 um dia hist\u00f3rico para o Brasil, porque, enfim, vamos unir for\u00e7as da C\u00e2mara dos Deputados, do Senado Federal e do Governo Federal e vamos conseguir ajustar um texto para entregar uma reforma tribut\u00e1ria que simplifique o nosso sistema, que desburocratize essa maluquice que \u00e9 o sistema tribut\u00e1rio no Brasil, que melhore o ambiente de neg\u00f3cios e passe para todos a credibilidade necess\u00e1ria para que venham novos investimentos, a fim de gerar emprego e renda para a popula\u00e7\u00e3o. \r\nQuero saudar n\u00e3o s\u00f3 o Ministro Paulo Guedes mas tamb\u00e9m o Ministro Ramos, da articula\u00e7\u00e3o pol\u00edtica, que estiveram presentes, ao lado dos Congressistas, para tratar do p\u00f3s-pandemia. N\u00f3s vivemos agora um momento muito dif\u00edcil no Pa\u00eds e no mundo. O Brasil ultrapassa 80 mil mortos, ou seja, 80 mil fam\u00edlias est\u00e3o enlutadas com esta pandemia, que al\u00e9m de causar essa trag\u00e9dia humana vai repercutir na nossa economia, com a gera\u00e7\u00e3o de desemprego e desigualdade social. \r\nEste Parlamento precisa dar uma resposta \u00e0 popula\u00e7\u00e3o brasileira, e a resposta ser\u00e1 trabalho. A resposta ser\u00e1 o ajuste do texto da PEC n\u00ba 45, de 2019, da reforma tribut\u00e1ria, de minha autoria, junto com a PEC n\u00ba 110, de 2019, de autoria do Presidente Davi Alcolumbre, e com o projeto do Ministro Paulo Guedes, para fazermos um projeto que possa efetivamente dar bons resultados. \r\nH\u00e1 estudos de economistas renomados que dizem que, com a vota\u00e7\u00e3o da reforma tribut\u00e1ria, teremos uma inje\u00e7\u00e3o de \u00e2nimo na nossa economia, um aumento de pelo menos 20 pontos do PIB, nos pr\u00f3ximos anos. Quando falamos em aumento do PIB, referimo-nos a investimento. Quando falamos em aumento do PIB, referimo-nos \u00e0 gera\u00e7\u00e3o de emprego e renda para a popula\u00e7\u00e3o. \r\nNesta tarde, vamos fazer hist\u00f3ria, n\u00e3o pela C\u00e2mara dos Deputados, n\u00e3o pelo Senado Federal, n\u00e3o pelo Governo Federal, mas pelo Brasil.\r\nEu queria deixar registrada nossa alegria por trabalharmos juntos para, depois de 30 anos de discuss\u00e3o, podermos votar e aprovar uma reforma tribut\u00e1ria para o nosso Pa\u00eds.\r\nSa\u00fado o Presidente Rodrigo Maia, que \u00e9 um grande patrocinador deste tema, um patrocinador pol\u00edtico da reforma tribut\u00e1ria, e todos os Deputados Federais e todos os Senadores, que v\u00e3o contribuir para melhorar o texto, para ajustar o que tiver que ser ajustado, para podermos mostrar no segundo semestre, numa rea\u00e7\u00e3o p\u00f3s-pandemia, que o Congresso Nacional tem responsabilidade, tem compromisso com o nosso Brasil!\r\nBoa tarde a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA, SENADO FEDERAL, PARECER FAVOR\u00c1VEL, PLV 20/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas do Senado Federal de n\u00bas 1, 3, 4, 5, 6 e 8, com parecer favor\u00e1vel, ao Projeto de Lei de Convers\u00e3o n\u00ba 20, de 2020, da Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos; e \u00e0 altera\u00e7\u00e3o das Leis de n\u00bas 9.430, de 1996, e 13.999, de 2020, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente desta sess\u00e3o, Deputado Hildo Rocha, parab\u00e9ns pelo trabalho sempre desenvolvido em nome do MDB e da nossa bancada!\r\nTemos essa preocupa\u00e7\u00e3o da manuten\u00e7\u00e3o dos empregos, n\u00f3s sabemos que vivemos um momento triste do nosso Pa\u00eds. Mais de 88 mil vidas foram perdidas devido \u00e0 COVID, e precisamos de todo o esfor\u00e7o para o enfrentamento da pandemia e tamb\u00e9m do aspecto de como a pandemia vai prejudicar a nossa economia.\r\nA nossa preocupa\u00e7\u00e3o com o emprego \u00e9 muito grande, e n\u00f3s encaminhamos favoravelmente a esta medida provis\u00f3ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=87&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-04T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, EMENDA, SENADO FEDERAL, PLV 31/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 946/2020, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o do requerimento de retirada de pauta da Emenda do Senado Federal ao Projeto de Lei de Convers\u00e3o n\u00ba 31, de 2020, da Medida Provis\u00f3ria n\u00ba 946, de 2020, sobre a extin\u00e7\u00e3o do Fundo do Programa de Integra\u00e7\u00e3o Social e do Programa de Forma\u00e7\u00e3o do Patrim\u00f4nio do Servidor P\u00fablico - Fundo PIS-PASEP, institu\u00eddo pela Lei Complementar n\u00ba 26, de 1975; a transfer\u00eancia do seu patrim\u00f4nio para o Fundo de Garantia do Tempo de Servi\u00e7o - FGTS; a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975; e a revoga\u00e7\u00e3o da Lei Complementar n\u00ba 19, de 1974.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB encaminha \"sim\" \u00e0 retirada de pauta.\r\nCumprimento o Deputado Marcel pelo relat\u00f3rio e pelo esfor\u00e7o da semana passada de votar esta mat\u00e9ria. Mas as mudan\u00e7as ocorridas no Senado acabaram tendo impacto muito significativo.\r\nPortanto, entendemos que a melhor sa\u00edda seria a retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2020&txPagina=38&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-05T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 2068/2020, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 2.068, de 2020, sobre a altera\u00e7\u00e3o do art.171 do Decreto-Lei n\u00b0 2.848, de 1940 - C\u00f3digo Penal, com vista ao estabelecimento de novas hip\u00f3teses de estelionato majorado, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente desta sess\u00e3o, Deputado Isnaldo Bulh\u00f5es, eu encaminho favoravelmente a esta mat\u00e9ria.\r\nQuero cumprimentar o Deputado Marcos Aur\u00e9lio Sampaio, do Piau\u00ed, um jovem Deputado que \u00e9 um advogado brilhante, um grande jurista, que trouxe este tema para a C\u00e2mara dos Deputados.\r\nEntendo que aumentar a pena para crimes virtuais, para o estelionato majorado, \u00e9 um avan\u00e7o para proteger a popula\u00e7\u00e3o, principalmente neste momento de pandemia. Recebemos in\u00fameras reclama\u00e7\u00f5es do aumento desse tipo de crime cometido por pessoas que se aproveitam da tecnologia existente para enganar a popula\u00e7\u00e3o.\r\nPortanto, o MDB, cumprimentando o Autor do projeto e o Relator, que muito colaborou para melhorar o texto, encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F8%2F2020&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-20T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, VETO 17/2020, VETO PARCIAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do Veto Parcial n\u00ba 17, de 2020, aposto ao Projeto de Lei Complementar n\u00ba 39, de 2020, sobre o estabelecimento do Programa Federativo de Enfrentamento ao Coronav\u00edrus, e a altera\u00e7\u00e3o da Lei Complementar n\u00ba 101, de 2000, (progress\u00e3o funcional e reajuste salarial de servidores p\u00fablicos).",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. BALEIA ROSSI (MDB - SP. Para encaminhar. Sem revis\u00e3o do orador.) - Sra. Presidente, o MDB tem responsabilidade com o futuro do Pa\u00eds. N\u00f3s estamos no meio de uma pandemia que preocupa a todos, uma pandemia que assusta a popula\u00e7\u00e3o. J\u00e1 houve mais de 110 mil mortes, fruto da COVID-19, um problema seri\u00edssimo de sa\u00fade p\u00fablica que, com absoluta certeza, vai afetar tamb\u00e9m nossa economia.\r\nPortanto, n\u00f3s temos que ter uma agenda para a recupera\u00e7\u00e3o da nossa economia no p\u00f3s-pandemia: a reforma tribut\u00e1ria, a reforma administrativa e outras leis que possam fazer com que o Brasil se recupere o mais r\u00e1pido poss\u00edvel dos efeitos da pandemia na nossa economia, para gerar emprego e renda.\r\nPela responsabilidade fiscal, o MDB encaminha pelo acolhimento do veto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=21%2F8%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-09T11:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DIAS TOFFOLI, PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL , SA\u00cdDA. ATUA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Sauda\u00e7\u00f5es ao Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli; ao Presidente do Congresso Nacional, Senador Davi Alcolumbre; ao Presidente da C\u00e2mara dos Deputados, Deputado Rodrigo Maia; e \u00e0s demais autoridades presentes. Homenagem ao Ministro Dias Toffoli ao ensejo de sua despedida da Presid\u00eancia do Supremo Tribunal Federal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BALEIA ROSSI (MDB - SP. Sem revis\u00e3o do orador.) - Bom dia a todos.\r\nQuero saudar o Presidente Rodrigo Maia e cumpriment\u00e1-lo por esta homenagem; o Senador Davi Alcolumbre, Presidente do Congresso Nacional; o Ministro Dias Toffoli, Presidente do Supremo Tribunal Federal, hoje homenageado nesta sess\u00e3o solene; o Ministro Alexandre de Moraes, do Supremo Tribunal Federal; o Ministro Humberto Martins, Presidente do Superior Tribunal de Justi\u00e7a; o Ministro Cueva. Meus cumprimentos a todas as senhoras e a todos os senhores.\r\nFico feliz em ver a presen\u00e7a de tantos l\u00edderes e de tantos Parlamentares, mesmo nesta \u00e9poca de pandemia, em que todos est\u00e3o com m\u00e1scara, respeitam o distanciamento social e se somam ao Presidente Rodrigo Maia e a todos n\u00f3s nesta homenagem \u00e0 presid\u00eancia do Ministro Dias Toffoli.\r\nA obriga\u00e7\u00e3o de todos n\u00f3s que ocupamos cargo p\u00fablico \u00e9 seguir e respeitar a Constitui\u00e7\u00e3o brasileira. Afront\u00e1-la jamais, como diria Ulysses Guimar\u00e3es, que empresta seu nome a este plen\u00e1rio. Traidor da Constitui\u00e7\u00e3o \u00e9 traidor da P\u00e1tria. O STF \u00e9 o guardi\u00e3o da Constitui\u00e7\u00e3o e garante o Estado Democr\u00e1tico de Direito a toda a nossa popula\u00e7\u00e3o, a todos os brasileiros.\r\nA presid\u00eancia do Ministro Dias Toffoli foi muito importante para o nosso Pa\u00eds, na medida em que pacificou o Brasil.\r\nAo assumir a Presid\u00eancia da Corte, \u00e0s v\u00e9speras da elei\u00e7\u00e3o de 2018, um momento de grandes embates pol\u00edticos, de embates nas redes sociais, de embates nas ruas, o Ministro sempre teve, por meio da sua caracter\u00edstica de di\u00e1logo, de um conciliador, presen\u00e7a muito importante para a pacifica\u00e7\u00e3o do nosso Pa\u00eds. Naquele momento conturbado, o Ministro e Presidente do Supremo Tribunal Federal teve participa\u00e7\u00e3o fundamental para a manuten\u00e7\u00e3o da harmonia e da independ\u00eancia dos nossos Poderes, como reza nossa Constitui\u00e7\u00e3o.\r\nPortanto, Ministro Toffoli, receba aqui nossa homenagem e nosso reconhecimento do seu trabalho como Presidente do Supremo Tribunal Federal. Em nome do Movimento Democr\u00e1tico Brasileiro, em nome de Ulysses Guimar\u00e3es e em nome de tantos outros que lutaram pela nossa democracia, receba nossos aplausos. Parab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F9%2F2020&txPagina=32&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-01T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Abertura"
+        },
+        "keywords": "BALEIA ROSSI, DEPUTADO FEDERAL, ORADOR, CANDIDATURA, PRESID\u00caNCIA DA C\u00c2MARA DOS DEPUTADOS, AGRADECIMENTO.\r\nPRINC\u00cdPIO DA HARMONIA ENTRE OS PODERES, C\u00c2MARA DOS DEPUTADOS, DEFESA.\r\nPEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, OR\u00c7AMENTO FEDERAL, SEPARA\u00c7\u00c3O, DESPESA P\u00daBLICA, COMBATE, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nPL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nAUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, AN\u00c1LISE.\r\nOR\u00c7AMENTO IMPOSITIVO, REGULAMENTA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nREFORMA TRIBUT\u00c1RIA, FAVOR\u00c1VEL.\r\nCORONAV\u00cdRUS, PANDEMIA, COMBATE, C\u00c2MARA DOS DEPUTADOS, PAUTA (PROCESSO LEGISLATIVO).",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Agradecimento aos Deputados e segmentos da sociedade pelo apoiamento \u00e0 candidatura do orador \u00e0 Presid\u00eancia da Casa. Import\u00e2ncia da independ\u00eancia e da harmonia da C\u00e2mara dos Deputados com os demais poderes. Import\u00e2ncia da aprova\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, a chamada PEC do Or\u00e7amento de Guerra, sobre a institui\u00e7\u00e3o do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente da epidemia de coronav\u00edrus; do Projeto de Lei n\u00ba 4.372, de 2020, acerca da regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB; e da proposta de concess\u00e3o do aux\u00edlio emergencial de 600 reais a trabalhadores e fam\u00edlias carentes, para enfrentamento da crise gerada pelo coronav\u00edrus. Retomada do debate da agenda social. Defesa da distribui\u00e7\u00e3o de recursos or\u00e7ament\u00e1rios de forma igualit\u00e1ria. Compromisso do orador de regulamenta\u00e7\u00e3o do or\u00e7amento impositivo, no caso de sua elei\u00e7\u00e3o \u00e0 Presid\u00eancia da Casa. Compromisso do Parlamentar com a implementa\u00e7\u00e3o da pauta positiva do Brasil. Prioridade na realiza\u00e7\u00e3o da reforma tribut\u00e1ria. Vota\u00e7\u00e3o, pela C\u00e2mara dos Deputados, de proposi\u00e7\u00f5es destinadas ao enfrentamento da epidemia de coronav\u00edrus. Agradecimento a partidos pol\u00edticos pela forma\u00e7\u00e3o de frente ampla em apoio \u00e0 candidatura do orador \u00e0 Presid\u00eancia da Casa.",
+        "tipoDiscurso": "OUTROS",
+        "transcricao": "O SR. BALEIA ROSSI (MDB - SP. Sem revis\u00e3o do orador.) - Boa noite a todas e a todos.\r\nAgrade\u00e7o a Deus a oportunidade de ocupar esta tribuna para poder apresentar a minha candidatura \u00e0 Presid\u00eancia da C\u00e2mara dos Deputados.\r\nQuero agradecer a cada Deputada e a cada Deputado que me recebeu no seu Estado, que ouviu as nossas propostas; a cada Deputado e Deputada que compartilhou as propostas e esteve conosco nas redes sociais, que atendeu ao nosso telefonema nesse per\u00edodo de pandemia. Os contatos, \u00e0s vezes, s\u00e3o por telefone e n\u00e3o presenciais, e isso faz muita falta. Agrade\u00e7o a todos os que n\u00e3o puderam declarar o voto em nossa candidatura, porque foram coagidos e amea\u00e7ados pelo Governo. Agrade\u00e7o de cora\u00e7\u00e3o a oportunidade de apresentar a nossa candidatura.\r\nNos \u00faltimos 30 dias, vimos a sociedade debater esta disputa aqui na C\u00e2mara Federal. N\u00e3o \u00e9 qualquer disputa. N\u00f3s vamos definir hoje qual Brasil teremos nos pr\u00f3ximos 2 anos. Agrade\u00e7o as manifesta\u00e7\u00f5es de artistas e de pessoas da sociedade que se envolveram, que est\u00e3o preocupados com o nosso Pa\u00eds, e manifestaram n\u00e3o o seu apoio a minha pessoa, mas \u00e0 causa que n\u00f3s representamos.\r\nPor que a C\u00e2mara independente assusta tanto? N\u00f3s unimos partidos que s\u00e3o diferentes, que t\u00eam ideologias diferentes; partidos que pensam economia, que pensam a sociedade de forma diferente. Mas a diferen\u00e7a nos fortaleceu, porque n\u00f3s n\u00e3o podemos abrir m\u00e3o da defesa da nossa democracia!(Palmas.)\r\nN\u00f3s n\u00e3o podemos abrir m\u00e3o da defesa das nossas institui\u00e7\u00f5es.\r\nEsta semana, o mesmo delinquente que soltou fogos de artif\u00edcio em cima do Supremo e agrediu uma enfermeira nas manifesta\u00e7\u00f5es estava depredando nosso material de campanha. Onde est\u00e1 a democracia nesses atos extremistas e radicais? Eu n\u00e3o flerto com esse tipo de gente, nem a nossa candidatura!(Palmas.)\r\nA C\u00e2mara independente \u00e9 para que possamos fazer diferen\u00e7a - independente e harm\u00f4nica com os demais poderes, independente com o di\u00e1logo. Mas a C\u00e2mara independente, nesses \u00faltimos 2 anos, sob a presid\u00eancia do Presidente Rodrigo Maia, a quem quero fazer uma sauda\u00e7\u00e3o e agradecer o apoio, foi fundamental para debater assuntos que interessam a nossa popula\u00e7\u00e3o. Vou citar apenas tr\u00eas.\r\nPrimeiro, a PEC do Or\u00e7amento de Guerra, que possibilitou a ajuda a todos os Estados e a todos os Munic\u00edpios - e est\u00e1 aqui o Prefeito Duarte Nogueira, da minha cidade, Ribeir\u00e3o Preto. Se n\u00e3o fossem a participa\u00e7\u00e3o e a atua\u00e7\u00e3o da C\u00e2mara independente, os Munic\u00edpios e os Estados estariam em situa\u00e7\u00e3o de calamidade. Nem recursos para pagar os funcion\u00e1rios n\u00f3s ter\u00edamos, muito menos para assistir \u00e0 popula\u00e7\u00e3o nas suas necessidades mais urgentes agora, principalmente na \u00e1rea da sa\u00fade. Foi a C\u00e2mara independente que conseguiu avan\u00e7ar nesse tema.\r\nA C\u00e2mara independente votou o FUNDEB. Quando muitos partidos queriam obstruir e n\u00e3o desejavam destinar mais recursos para a educa\u00e7\u00e3o, a C\u00e2mara independente deixou o discurso e foi para a pr\u00e1tica, fazendo com que a educa\u00e7\u00e3o b\u00e1sica tenha mais recursos. A C\u00e2mara independente fez o aux\u00edlio emergencial passar de 200 reais para 600 reais! E isso fez toda a diferen\u00e7a para a popula\u00e7\u00e3o mais simples!(Palmas.)\r\nPrecisamos voltar a debater uma agenda social para acolher as pessoas que est\u00e3o passando extrema dificuldade com esta pandemia, que ainda n\u00e3o acabou. Por isso, n\u00f3s queremos uma C\u00e2mara independente, que mantenha sempre o di\u00e1logo. Esta \u00e9 a Casa do Povo, a Casa dos iguais. Fala-se muito em dar voz aos Deputados, mas, quando n\u00f3s temos o Or\u00e7amento, ele n\u00e3o \u00e9 dividido igualmente. Assim, acabamos tendo Deputados de primeira, de segunda e de terceira categorias.(Palmas.)\r\nO Estad\u00e3o publicou mat\u00e9ria nesta semana em que detalha que o Relator do Or\u00e7amento colocou para uma cidade 160 milh\u00f5es de reais. Outro L\u00edder enviou 80 milh\u00f5es de reais para atender \u00e0 base; outro, 78 milh\u00f5es; mais um, 50 milh\u00f5es. Enquanto isso, Parlamentares lutam, com o pires na m\u00e3o, por recursos para as APAEs, para as Santas Casas, para o desenvolvimento dos seus Munic\u00edpios. \r\nN\u00f3s queremos um Parlamento igual. Por que n\u00e3o votamos o PLN 4, que trata da regulamenta\u00e7\u00e3o do or\u00e7amento impositivo? Isso, sim, daria igualdade aos 513 Deputados Federais.(Palmas.)\r\nEu assumo o compromisso, se Deus me der a oportunidade de ser Presidente da C\u00e2mara dos Deputados, de regulamentar o or\u00e7amento impositivo. N\u00f3s precisamos n\u00e3o s\u00f3 de voz, mas tamb\u00e9m de mais recursos no Or\u00e7amento, recursos leg\u00edtimos, republicanos, para que todos possam exercer seus mandatos em plenitude.\r\nQuero dizer que n\u00f3s temos um compromisso com a pauta do Brasil. N\u00f3s precisamos avan\u00e7ar nas reformas. Por que ainda n\u00e3o votamos a reforma tribut\u00e1ria, se o Brasil precisa gerar emprego e renda, melhorar o ambiente de neg\u00f3cio e destravar nossa economia? N\u00e3o \u00e9 briga pol\u00edtica que vai fazer com que n\u00e3o consigamos isso. Ali\u00e1s, uma das prioridades da nossa administra\u00e7\u00e3o ser\u00e1 votar a reforma tribut\u00e1ria, para o Brasil ter novamente a esperan\u00e7a de crescer e gerar emprego e renda.\r\nVamos votar a pauta social e continuar enfrentando a pandemia! Que Pa\u00eds \u00e9 este que n\u00e3o se sensibiliza com 220 mil mortes?!(Palmas.)\r\nEsta Casa votou todos os projetos para o enfrentamento da pandemia. Houve uma uni\u00e3o entre a Esquerda, a Direita, o Centro - entre todos. Eu aproveito para agradecer o apoio dos partidos que formam a \"frente ampla\". S\u00e3o dez partidos: o PSDB, o Cidadania, o PV, o Solidariedade, o MDB, o PDT, o PT, o PSB, o PCdoB e a REDE. Obrigado de cora\u00e7\u00e3o por esse apoio!\r\nPara ser Presidente da C\u00e2mara dos Deputados, \u00e9 preciso ter esp\u00edrito p\u00fablico e pensar no Brasil, n\u00e3o em pequenos grupos. Para que todos os Parlamentares tenham condi\u00e7\u00f5es de exercer em sua plenitude seus mandatos, \u00e9 preciso que este Parlamento seja respeitado. \r\nEste \u00e9 o Parlamento de Ulysses Guimar\u00e3es, um Parlamento que n\u00e3o se ajoelha diante de ningu\u00e9m, muito menos diante do Poder Executivo. Este Parlamento \u00e9 colaborativo, \u00e9 um local de di\u00e1logo e de conversa, mas nunca vai ficar de joelhos.\r\nPor isso, eu pe\u00e7o o voto de confian\u00e7a das Deputadas e dos Deputados. Por isso, eu pe\u00e7o que analisem e reflitam sobre o que estamos vivendo. Esta elei\u00e7\u00e3o faz toda a diferen\u00e7a para o Brasil.\r\nHouve, na vota\u00e7\u00e3o de determinada mat\u00e9ria, um pedido do Governo para que o Deputado gravasse seu voto. Pelo amor de Deus! Que Parlamento \u00e9 este? N\u00f3s temos que respeitar os 513 Deputados e confiar na palavra de cada um!\r\nGra\u00e7as a Deus, eu sempre honrei a palavra na minha vida p\u00fablica! Pe\u00e7o a todos que reflitam. \r\nVamos para o segundo turno e para a vit\u00f3ria, se Deus quiser!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F2%2F2021&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T22:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Baleia Rossi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, a respeito da inser\u00e7\u00e3o de dispositivo no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, e da altera\u00e7\u00e3o da Constitui\u00e7\u00e3o Federal, para fins de reforma pol\u00edtico-eleitoral, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BALEIA ROSSI (MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria registrar que, mais uma vez, a democracia se fortalece neste plen\u00e1rio, com o enterro simb\u00f3lico do distrit\u00e3o, que \u00e9 o pior sistema para o nosso Pa\u00eds.\r\nEle fragiliza a democracia, porque personaliza a atividade pol\u00edtica, tira a oportunidade de renova\u00e7\u00e3o e de participa\u00e7\u00e3o das minorias no Parlamento, cuja pluralidade \u00e9 t\u00e3o importante. Portanto, o MDB comemora a queda do distrit\u00e3o. \r\nVamos liberar a bancada na quest\u00e3o da coliga\u00e7\u00e3o, para que possamos participar desse entendimento. Eu, particularmente, defendo o sistema atual, mas \u00e9 menos ruim para o Pa\u00eds a volta da coliga\u00e7\u00e3o do que o distrit\u00e3o, que \u00e9 um golpe na nossa democracia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

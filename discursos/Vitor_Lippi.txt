@@ -1,0 +1,704 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LEI DE LICITA\u00c7\u00c3O, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Expectativa de aprova\u00e7\u00e3o da nova Lei de Licita\u00e7\u00f5es e Contratos pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania, eu queria chamar a aten\u00e7\u00e3o de todos os Deputados e Deputadas aqui presentes para essa Lei de Licita\u00e7\u00f5es, porque, assim como eu, muitos j\u00e1 foram Prefeitos, diretores de hospitais, trabalharam em universidades, trabalharam no servi\u00e7o p\u00fablico em todas as \u00e1reas no Brasil.\r\nOs bons gestores s\u00e3o un\u00e2nimes em dizer que h\u00e1 dificuldade para aplica\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es no Brasil. N\u00f3s criamos tantos mecanismos de controle e fiscaliza\u00e7\u00e3o que hoje temos muitas dificuldades de aplic\u00e1-los, mesmo com recursos. Portanto, estamos propondo uma s\u00e9rie de simplifica\u00e7\u00f5es para garantir a total transpar\u00eancia dos servi\u00e7os. \u00c9 fundamental buscar a efici\u00eancia. N\u00f3s estamos apresentando mais de cem mudan\u00e7as na lei, que, sem sombra de d\u00favida, vai ajudar a melhorar o servi\u00e7o p\u00fablico, a qualidade das compras p\u00fablicas, a efici\u00eancia, a melhor aplica\u00e7\u00e3o dos recursos.\r\nEntendemos que esse \u00e9 um novo marco, fundamental, uma contribui\u00e7\u00e3o de quase 1 ano de trabalho nesta Casa, feito de forma democr\u00e1tica, participativa. Esperamos ter o apoio de todos os Deputados, entendendo que isso vai trazer grande simplifica\u00e7\u00e3o e uma grande redu\u00e7\u00e3o do tempo das compras p\u00fablicas e dos projetos. Isso vai valorizar a qualidade e n\u00e3o apenas o pre\u00e7o, para que efetivamente possam ter servi\u00e7os de melhor qualidade os brasileiros.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=183&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-11T09:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, ANIVERS\u00c1RIO, IMIGRA\u00c7\u00c3O, JAP\u00c3O, HOMENAGEM, AKIRA YAMADA, EMBAIXADOR, GRUPO PARLAMENTAR BRASIL-JAP\u00c3O.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Leitura do conte\u00fado de placa de men\u00e7\u00e3o honrosa ao Sr. Akira Yamada pelos relevantes servi\u00e7os prestados em prol da rela\u00e7\u00e3o bilateral e diplom\u00e1tica entre o Brasil e o Jap\u00e3o.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP) - Leio o conte\u00fado da placa de men\u00e7\u00e3o honrosa:\r\nC\u00e2mara dos Deputados\r\nMen\u00e7\u00e3o honrosa ao Sr. Akira Yamada\r\nHomenagem, gratid\u00e3o e reconhecimento pela dedica\u00e7\u00e3o, pelo trabalho e pelos relevantes servi\u00e7os prestados em prol da rela\u00e7\u00e3o bilateral e diplom\u00e1tica entre o Brasil e o Jap\u00e3o e por toda a colabora\u00e7\u00e3o e o interc\u00e2mbio, que t\u00eam promovido desenvolvimento e crescimento para as duas na\u00e7\u00f5es.\r\nGrupo Parlamentar Brasil/Jap\u00e3o\r\nDeputado Federal Luiz Nishimori. (Palmas.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F6%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-11T10:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, ANIVERS\u00c1RIO, IMIGRA\u00c7\u00c3O, JAP\u00c3O.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Transcurso dos 111 anos da imigra\u00e7\u00e3o japonesa no Brasil.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Sem revis\u00e3o do orador.) - Cumprimento e dou boas-vindas ao Embaixador Akira Yamada. \u00c9 uma honra receb\u00ea-lo! Agrade\u00e7o-lhe a aten\u00e7\u00e3o, o carinho, o respeito, a defer\u00eancia. Agrade\u00e7o-lhe ainda pelo programa em que, juntos, Senadores e Deputados, pudemos ter o privil\u00e9gio de conhecer esse pa\u00eds que tanto admiramos. Eu pe\u00e7o uma salva de palmas ao embaixador e a toda a equipe, que t\u00eam realmente feito a diferen\u00e7a.(Palmas.)\r\nCumprimento o Presidente da Mesa, tamb\u00e9m Presidente do Grupo Parlamentar, Deputado Luiz Nishimori, que tem feito um trabalho maravilhoso. \u00c9 uma pessoa muito querida e admirada no Congresso Nacional. \u00c9 aquela pessoa que faz a ponte, que une, que integra, que harmoniza. Com muito respeito, S.Exa. tem conseguido mostrar a import\u00e2ncia e a relev\u00e2ncia dos representantes e dos herdeiros japoneses no Brasil. Muito obrigado, Deputado Luiz Nishimori! Parab\u00e9ns por V.Exa. e sua equipe terem organizado este evento. Sem sombra de d\u00favida, V.Exa. tamb\u00e9m merece os nossos calorosos aplausos!(Palmas.)\r\nCumprimento o Deputado Kim Kataguiri, esse jovem t\u00e3o brilhante; a Deputada Julia Lucy, do Distrito Federal, a quem agrade\u00e7o muito a colabora\u00e7\u00e3o e a presen\u00e7a; todos os Parlamentares e os representantes da col\u00f4nia japonesa. Agrade\u00e7o, em especial, ao Coordenador da Japan International Cooperation Agency, Sr. Hiroshi Sato. A JICA tem sido uma importante parceira de investimentos do Brasil. Cumprimento tamb\u00e9m o Sr. Toshifumi Murata, o Sr. Renato Ishikawa e o Sr. Eduardo Suzuki. Na pessoa deles, eu cumprimento todos os descendentes de japoneses aqui presentes. Sa\u00fado ainda esse coral t\u00e3o bonito, que cantou o Hino do Jap\u00e3o e emocionou a todos. Cumprimento tamb\u00e9m o representante do Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores do Brasil.\r\nQuero dizer, em breves palavras, que n\u00f3s tivemos o privil\u00e9gio de, h\u00e1 111 anos, uma \u00e9poca em que n\u00e3o existiam telecomunica\u00e7\u00f5es, n\u00e3o existia absolutamente nada, ter chegado aqui um grupo de fam\u00edlias japonesas. Essas fam\u00edlias trouxeram seus valores, sua cultura e sua coragem, para iniciar a vida nesta terra nova, nesta terra desconhecida chamada Brasil. E essas pessoas iniciaram um ciclo importante de trabalho e de desenvolvimento no Pa\u00eds.\r\nHoje, o Brasil \u00e9 o Pa\u00eds com o maior n\u00famero de descendentes de japoneses fora do Jap\u00e3o. Isso \u00e9 um privil\u00e9gio para todos n\u00f3s. E por que \u00e9 um privil\u00e9gio, Sr. Embaixador? Porque o Jap\u00e3o, seguramente, \u00e9 um exemplo de qualidade para todo o mundo: qualidade de produtos, mas, principalmente, qualidade de valores. \u00c9 um povo que soube superar uma guerra terr\u00edvel e, hoje, \u00e9 exemplo de qualidade na educa\u00e7\u00e3o, de qualidade na tecnologia, de qualidade na inova\u00e7\u00e3o, de respeito ao meio ambiente. \u00c9, certamente, um pa\u00eds que tem melhorado muito o mundo, com os seus produtos, com a sua tecnologia. O Brasil recebeu muitos investimentos, muitas parcerias do Jap\u00e3o. \r\nO nosso sentimento, nesses 111 anos de imigra\u00e7\u00e3o, \u00e9 de agradecimento. Deixo um abra\u00e7o especial a todos os japoneses de S\u00e3o Paulo que represento aqui na C\u00e2mara Federal, da regi\u00e3o de Sorocaba, de Piedade, de Pilar do Sul, de S\u00e3o Miguel Arcanjo, de Ibi\u00fana. Tantas cidades do interior do Estado de S\u00e3o Paulo foram contempladas com esse povo maravilhoso.\r\nSem sombra de d\u00favida, os senhores fazem a diferen\u00e7a. N\u00f3s temos uma profunda gratid\u00e3o e um profundo respeito pelo trabalho que os senhores t\u00eam feito em prol do Brasil. Continuem assim! N\u00f3s temos muito orgulho dos senhores. Realmente, para n\u00f3s, \u00e9 uma grande alegria poder estar aqui e dizer, com muito sentimento, o nosso muito obrigado ao que t\u00eam feito ao Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F6%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-13T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HACKER, VAZAMENTO, MENSAGEM, SERGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, EX-JUIZ FEDERAL, DELTAN DALLAGNOL, PROCURADOR DA REP\u00daBLICA, OPERA\u00c7\u00c3O LAVA A JATO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Solidariedade ao Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, v\u00edtima da a\u00e7\u00e3o criminosa de hackers. Interesse da Esquerda na desqualifica\u00e7\u00e3o da Opera\u00e7\u00e3o Lava-Jato.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s iniciamos esta semana com uma situa\u00e7\u00e3o bastante complexa. Refiro-me \u00e0 den\u00fancia desse ato criminoso de invas\u00e3o de hackers a informa\u00e7\u00f5es de pessoas ligadas \u00e0 Opera\u00e7\u00e3o Lava-Jato, reconhecida por todo mundo como a mais importante opera\u00e7\u00e3o de combate \u00e0 corrup\u00e7\u00e3o da hist\u00f3ria do Pa\u00eds. \r\nIsso nos preocupa muito, porque n\u00e3o sabemos qual \u00e9, na verdade, a intensidade da atua\u00e7\u00e3o desses hackers. N\u00f3s sabemos que s\u00e3o pessoas ligadas ao movimento de esquerda do Brasil, que t\u00eam grande interesse em desqualificar a Opera\u00e7\u00e3o Lava-Jato. Voltamos a dizer que essa opera\u00e7\u00e3o foi e continua sendo essencial para colocar aqueles criminosos que roubaram o Brasil na cadeia, que \u00e9 onde eles t\u00eam que estar.\r\nEstamos preocupados, porque muitas dessas informa\u00e7\u00f5es podem, inclusive, Sr. Presidente, estar ajudando os criminosos. Se eles tiveram acesso a dados do Minist\u00e9rio P\u00fablico, isso pode, na verdade, promover atos que prejudiquem a Opera\u00e7\u00e3o Lava-Jato e o julgamento dos criminosos que lesaram a P\u00e1tria e o povo brasileiro. Eu queria colocar aqui, com muita clareza, que vemos esse ato com muita apreens\u00e3o.\r\nE, mais, ressalto que o Ministro Sergio Moro \u00e9 reconhecido como ter sido uma pessoa absolutamente comprometida no combate \u00e0 corrup\u00e7\u00e3o, com coragem, com determina\u00e7\u00e3o, com muita compet\u00eancia. Fez aquilo que a maioria dos brasileiros desejava: colocar os corruptos na cadeia.\r\nPortanto, queremos deixar o nosso sentimento de confian\u00e7a no Ministro Sergio Moro. Sabemos que esse \u00e9 o sentimento da maioria dos brasileiros, que t\u00eam gratid\u00e3o pelo trabalho dele. Tudo o que ele fez e est\u00e1 fazendo \u00e9 em prol dos mais relevantes interesses do Pa\u00eds.\r\nEsta nossa manifesta\u00e7\u00e3o \u00e9 de desagravo ao Ministro, que merece, sim, o respeito, a gratid\u00e3o e a solidariedade do povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F6%2F2019&txPagina=11&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-13T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "BANCO NACIONAL DE DESENVOLVIMENTO ECON\u00d4MICO E SOCIAL (BNDES), FINANCIAMENTO, SANTA CASA DE MISERIC\u00d3RDIA.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Regozijo com o anunciado financiamento das Santas Casas de Miseric\u00f3rdia, pelo Banco Nacional de Desenvolvimento Econ\u00f4mico e Social - BNDES.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero dar uma boa not\u00edcia.\r\nN\u00f3s participamos da Frente Parlamentar de Apoio \u00e0s Santas Casas. Todos n\u00f3s sabemos da import\u00e2ncia do SUS, essencial para a vida da popula\u00e7\u00e3o. As Santas Casas, Sr. Presidente, respondem hoje por 55% das interna\u00e7\u00f5es de todos os brasileiros que dependem dos hospitais e servi\u00e7os p\u00fablicos do Pa\u00eds. Al\u00e9m disso, essas institui\u00e7\u00f5es representam 70% dos atendimentos de alta complexidade, como cirurgias card\u00edacas, transplantes, tratamentos de c\u00e2ncer. Portanto, as Santas Casas, que hoje s\u00e3o mais de 2 mil no Brasil, foram criadas para salvar vidas e cumprem um papel essencial. \r\nNo entanto, Sr. Presidente, n\u00f3s sabemos que a tabela SUS \u00e9 absolutamente insuficiente. Hoje, o que o SUS paga cobre menos de 50% do custo real dos procedimentos. O que se paga para os m\u00e9dicos e pelos exames \u00e9 insuficiente. Por isso, h\u00e1 uma d\u00edvida das Santas Casas com os bancos. Essa d\u00edvida \u00e9 de aproximadamente de 20 bilh\u00f5es de reais. Muitos bancos estavam cobrando taxas de juros pr\u00f3ximas a 20% ao ano, o que \u00e9 impag\u00e1vel para institui\u00e7\u00f5es filantr\u00f3picas que n\u00e3o t\u00eam lucros. Ao contr\u00e1rio, elas s\u00f3 t\u00eam compromissos para com o Pa\u00eds. \r\nSr. Presidente, a boa not\u00edcia \u00e9 que, atrav\u00e9s de uma articula\u00e7\u00e3o muito forte, com o apoio do Ministro Mandetta e da \u00e1rea da Fazenda, o BNDES vai passar a financiar as Santas Casas no Brasil. Isso vai fazer com que esses juros, que hoje chegam a quase 20%, fiquem abaixo de 9%, o que vai ajudar certamente a equacionar as d\u00edvidas das Santas Casas. \r\nEnt\u00e3o, \u00e9 a hora e o momento de agradecer ao Governo, agradecer ao Ministro Mandetta, agradecer tamb\u00e9m ao BNDES, que financia empresas, mas tamb\u00e9m est\u00e1 financiando o desenvolvimento social do Brasil, atrav\u00e9s do financiamento das Santas Casas, e agradecer a todos aqueles que trabalham nas Santas Casas, que, com muito amor, com muito carinho, com dedica\u00e7\u00e3o e fraternidade, t\u00eam salvado vidas. S\u00e3o aproximadamente 20 mil pessoas internadas por dia nos sistemas ligados \u00e0s Santas Casas. \r\nParab\u00e9ns, Santas Casas! Vamos continuar com a Frente Parlamentar lutando para dar as melhores condi\u00e7\u00f5es de atendimento \u00e0 sa\u00fade dos brasileiros.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F6%2F2019&txPagina=16&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, a respeito da institui\u00e7\u00e3o das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB, Sra. Presidente, tem um compromisso muito grande com a moderniza\u00e7\u00e3o do Pa\u00eds. E, se existe uma unanimidade no Brasil, \u00e9 que a Lei de Licita\u00e7\u00f5es precisa ser modernizada e simplificada.\r\nA Lei de Licita\u00e7\u00f5es vem trazendo grandes dificuldades aos hospitais p\u00fablicos, \u00e0s Prefeituras, aos Governos Estaduais, \u00e0s institui\u00e7\u00f5es de pesquisa, \u00e0s universidades brasileiras. Todos n\u00f3s acabamos sendo v\u00edtimas da complexidade da Lei n\u00ba 8.666, de 1993, que precisa, sim, ser modernizada.\r\nNesse sentido, foi feito um trabalho durante mais de 6 meses, de ampla discuss\u00e3o, para que n\u00f3s troux\u00e9ssemos uma inova\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es, uma ferramenta fundamental para os contratos p\u00fablicos e, portanto, para melhorar a gest\u00e3o p\u00fablica. Essa inova\u00e7\u00e3o foi baseada na legisla\u00e7\u00e3o para o bom gestor, para melhoramos os servi\u00e7os p\u00fablicos no Brasil.\r\nPortanto, n\u00f3s somos absolutamente contr\u00e1rios \u00e0 retirada de pauta de uma mat\u00e9ria t\u00e3o relevante para o Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=157&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T00:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SEGURAN\u00c7A P\u00daBLICA, POL\u00cdCIA CIVIL, CATEGORIA PROFISSIONAL, VALORIZA\u00c7\u00c3O, VITOR LIPPI, DEPUTADO FEDERAL, ORADOR, VOTA\u00c7\u00c3O, ESCLARECIMENTO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Posicionamento do orador na vota\u00e7\u00e3o da proposta apresentada em prol dos profissionais da \u00e1rea de seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria justificar por que eu n\u00e3o votei esta mat\u00e9ria, at\u00e9 para n\u00e3o ser mal interpretado. Eu quis apenas manter a minha coer\u00eancia, porque, quando n\u00f3s lutamos aqui pela Previd\u00eancia, n\u00f3s sempre dissemos que ir\u00edamos pedir um compromisso maior de quem tinha mais para ajudar os que tinham menos. E eu entendi que, embora seja justa a reivindica\u00e7\u00e3o dos policiais, seria injusto com os outros brasileiros, com as outras categorias.\r\nEntendo tamb\u00e9m que eles j\u00e1 tinham 55 anos como idade m\u00ednima, mas estavam reivindicando 53 anos. Acho justo fazerem a reivindica\u00e7\u00e3o. No entanto, eu queria dizer que esse \u00e9 o meu posicionamento, para eu ser coerente com o discurso que eu fiz at\u00e9 aqui. E gostaria de dizer do meu respeito com a categoria e que \u00e9 direito de todas as institui\u00e7\u00f5es e corpora\u00e7\u00f5es lutarem pelas suas classes.\r\nConcluindo, Sr. Presidente, queria dizer que sou favor\u00e1vel e acho justo que tamb\u00e9m as Guardas Municipais possam, se isso vier a acontecer...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=310&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T22:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, EMENDA AGLUTINATIVA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda Aglutinativa n\u00ba 1, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"sim\".\r\nEu queria parabenizar o nosso Relator Jer\u00f4nimo Goergen e parabenizar esta Casa por contribuir para o Brasil.\r\nSr. Presidente, o Brasil \u00e9 um dos piores lugares do mundo para empreender, gerar riqueza e dar empregos. N\u00f3s precisamos mudar isso. S\u00f3 h\u00e1 um jeito de aumentar o n\u00famero de empregos: fazendo as empresas voltarem a crescer. E esta \u00e9 uma medida importante para simplificar, para desburocratizar, para trazer mais seguran\u00e7a para quem investe no Pa\u00eds.\r\nPortanto, somos absolutamente favor\u00e1veis, porque esta \u00e9 uma agenda positiva, modernizante, empreendedora e absolutamente necess\u00e1ria para a retomada do crescimento. Esta \u00e9 mais uma contribui\u00e7\u00e3o desta Casa para a moderniza\u00e7\u00e3o e para a volta dos empregos no Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=309&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-15T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SOROCABA (SP), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Transcurso do 365\u00ba anivers\u00e1rio do Munic\u00edpio de Sorocaba, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, caros amigos, hoje eu queria homenagear Sorocaba pelos 365 anos de hist\u00f3ria. Sorocaba foi fundamental na \u00e9poca do tropeirismo, foi o grande centro de log\u00edstica do Pa\u00eds. Depois criou-se a Estrada de Ferro Sorocabana, um fruto de sorocabanos, que levou o desenvolvimento ao interior do Estado de S\u00e3o Paulo; veio o ciclo t\u00eaxtil; e Sorocaba passou a ser uma das capitais da ind\u00fastria t\u00eaxtil no Brasil. Hoje ela tem a ind\u00fastria diversificada do Brasil, est\u00e1 entre as duas principais cidades produtoras de manufatura, \u00e9 uma das l\u00edderes em metal/mec\u00e2nica no Brasil, exporta para o mundo inteiro, tem parque tecnol\u00f3gico, tem um sistema de inova\u00e7\u00e3o amadurecido e, mais do que isso, produz mais de 0,5% do Produto Interno Bruto deste Pa\u00eds. S\u00e3o 700 mil pessoas que trabalham muito.\r\nSr. Presidente, Sorocaba \u00e9 conhecida pela qualidade dos seus produtos e pela qualidade do seu povo, porque \u00e9 tamb\u00e9m uma das cidades onde n\u00f3s temos um dos maiores n\u00fameros de a\u00e7\u00f5es e de institui\u00e7\u00f5es filantr\u00f3picas deste Pa\u00eds.\r\nPor isso, n\u00f3s temos muitos motivos para nos orgulharmos da nossa cidade, mas principalmente da nossa gente.\r\nParab\u00e9ns, Sorocaba, pelos 365 anos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F8%2F2019&txPagina=30&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 44, inciso V (contrata\u00e7\u00e3o integrada) do Substitutivo adotado pela Comiss\u00e3o Especial do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica, e, por decorr\u00eancia, os par\u00e1grafos 3\u00ba e 4\u00ba do mesmo dispositivo. Tamb\u00e9m, por decorr\u00eancia, os arts. 6\u00ba, inciso XXXII; 53, incido II, al\u00ednea \"c\"; 131, par\u00e1grafo \u00fanico, e a express\u00e3o \"contrata\u00e7\u00e3o integrada\" onde houver.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"sim\", entendendo que isso deve ser uma op\u00e7\u00e3o para grandes obras.\r\nA experi\u00eancia do DNIT \u00e9 muito boa, bem como a do nosso Ministro, que acompanhou a evolu\u00e7\u00e3o da obras. Portanto, \u00e9 uma alternativa importante para reduzir o tempo e para dar mais responsabilidade a quem faz a obra, porque vai fazer o projeto e executar a obra e ter\u00e1 de entreg\u00e1-la da melhor forma poss\u00edvel. \r\nPortanto, o PSDB vota \"sim\", entendendo que \u00e9 uma boa alternativa de licita\u00e7\u00e3o, principalmente para as grandes obras do Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=248&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, EMENDA DE PLENARIO, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO,PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o ressalvado o par\u00e1grafo 1.A do art. III (dispositivos gerais), contida na Emenda de Plen\u00e1rio n\u00ba 1, oferecida ao Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, a respeito da aprova\u00e7\u00e3o do texto do Acordo sobre Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB vota \"n\u00e3o\". O PSDB quer desenvolvimento, quer emprego, quer oportunidades, quer tecnologia. E nada tem a ver salvaguarda tecnol\u00f3gica com quilombola. Isso parece algo surreal. N\u00f3s queremos o desenvolvimento do Nordeste e das tecnologias nacionais. Todo mundo precisa de sat\u00e9lite. Vamos ter uma das bases de lan\u00e7amento mais importantes do mundo, e isso vai trazer bilh\u00f5es de reais para o Brasil. \r\nPor isso, o PSDB vota \"n\u00e3o\", a favor do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=302&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 4805/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB) , VOTO FAVORAVEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 4.805, de 2019, sobre a capacita\u00e7\u00e3o e competitividade do setor de inform\u00e1tica e automa\u00e7\u00e3o, e o tratamento tribut\u00e1rio aplic\u00e1vel \u00e0s empresas do setor.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"sim\" porque quer manter o crescimento do setor que produz a \u00e1rea de tecnologia de informa\u00e7\u00e3o. Eletroeletr\u00f4nicos no Brasil \u00e9 um setor que vem crescendo bem acima da m\u00e9dia nacional, vem gerando dezena de milhares de empregos.\r\nPor isso, em prol dos empregos e da competitividade no Brasil, o PSDB vota \"sim\", pela urg\u00eancia da mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=250&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1481/2007, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.481-A, de 2007, sobre a fixa\u00e7\u00e3o de prazo para o acesso de escolas aos servi\u00e7os de Internet, e a destina\u00e7\u00e3o de 75% dos recursos do Fundo de Universaliza\u00e7\u00e3o dos Servi\u00e7os de Telecomunica\u00e7\u00f5es   (FUST) para a instala\u00e7\u00e3o de redes digitais de informa\u00e7\u00e3o em estabelecimentos de ensino.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB encaminha \"n\u00e3o\" \u00e0 mat\u00e9ria, Sr. Presidente, lembrando que 40% dos lares deste Pa\u00eds n\u00e3o t\u00eam Internet em casa, n\u00f3s estamos excluindo 40% das fam\u00edlias. Isso vai permitir a expans\u00e3o da rede de fibra \u00f3ptica, para ela chegar \u00e0s casas nos locais mais distantes.\r\nE, mais do que isso, vai nos permitir utilizar esses recursos, que hoje s\u00e3o utilizados pelo Governo para fazer o equil\u00edbrio fiscal, para efetivamente promover o desenvolvimento regional, a agricultura de precis\u00e3o, a ind\u00fastria 4.0, as cidades inteligentes, os pr\u00e9dios inteligentes do Brasil e o desenvolvimento do Plano Nacional de IoT. \r\nPor isso, entendemos que a mat\u00e9ria \u00e9 absolutamente relevante para o Pa\u00eds.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=180&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1481/2007, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida ao Projeto de Lei n\u00ba 1.481-A, de 2007, ressalvados os destaques. Agradecimento ao Relator da mat\u00e9ria, Deputado Vinicius Poit, pelo acolhimento de sugest\u00f5es do PSDB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB, Sr. Presidente, vota \"sim\", porque isso vai promover o desenvolvimento econ\u00f4mico e social, principalmente das regi\u00f5es mais carentes. Ou seja, n\u00f3s vamos reduzir as desigualdades regionais neste Pa\u00eds, promovendo uma infraestrutura que \u00e9 estrat\u00e9gica e fundamental para a inclus\u00e3o digital.\r\nE, mais do que isso, eu quero agradecer ao NOVO, em especial ao Deputado Vinicius Poit, porque acatou tamb\u00e9m a sugest\u00e3o do PSDB de incluir dispositivo que, al\u00e9m de beneficiar as regi\u00f5es, pudesse promover tamb\u00e9m o desenvolvimento de novas tecnologias de Internet of Things, em \u00e1reas como agricultura de precis\u00e3o, ind\u00fastrias 4.0 e cidades inteligentes. As novas tecnologias s\u00e3o fundamentais para a produtividade no Brasil. Ent\u00e3o, n\u00f3s somos absolutamente favor\u00e1veis ao projeto.\r\nQuero cumprimentar, mais uma vez, toda a Casa pelo entusiasmo por uma mat\u00e9ria t\u00e3o estrat\u00e9gica para o Brasil, Sr. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=205&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-16T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, SENADO FEDERAL, PL 4805/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 4.805-B, de 2019, sobre a pol\u00edtica industrial para os setores de tecnologia da informa\u00e7\u00e3o e comunica\u00e7\u00e3o e de semicondutores, com parecer favor\u00e1vel, \u00e0 exce\u00e7\u00e3o da parte de supress\u00e3o do art. 11-a acrescido \u00e0 Lei n\u00ba 11.484, de 2007, na reda\u00e7\u00e3o dada pelo art. 11, e do art. 16-b acrescido \u00e0 Lei n\u00ba 8.248, de 1991, na reda\u00e7\u00e3o dada pelo art. 12; e da parte de altera\u00e7\u00e3o do inciso II do \u00a7 9\u00ba do art. 11 da Lei n\u00ba 8.248, de 1991, alterado pelo art. 12 do Substitutivo e o inciso I do art. 15.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB orienta o voto \"sim\".\r\nAgradecemos o apoio de todos os partidos, porque esta \u00e9 uma legisla\u00e7\u00e3o muito importante para o Brasil. Inclusive quero pedir a compreens\u00e3o do Deputado Hildo Rocha. N\u00f3s temos tamb\u00e9m o posicionamento de que n\u00e3o podemos dar privil\u00e9gios a nenhum setor da economia, no entanto, neste caso, especificamente, estamos dando isonomia em rela\u00e7\u00e3o aos outros pa\u00edses do mundo. Nos outros pa\u00edses do mundo, as ind\u00fastrias pagam, em m\u00e9dia, 24% a 25% de impostos. Aqui no Brasil, pagam-se 44% de impostos. Ent\u00e3o, esse setor, com essa lei de inform\u00e1tica, conseguiu reduzir os impostos l\u00e1 para tr\u00e1s. Uma parte desses impostos s\u00e3o utilizados para a \u00e1rea de tecnologia e inova\u00e7\u00e3o. Com isso, o Brasil criou um c\u00edrculo virtuoso, n\u00e3o apenas de ter...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2019&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-09T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 967/2020, MEDIDA PROVIS\u00d3RIA, CR\u00c9DITO EXTRAORDIN\u00c1RIO, MINIST\u00c9RIO DA SA\u00daDE, FUNDA\u00c7\u00c3O OSWALDO CRUZ (FIOCRUZ), FUNDO NACIONAL DE SA\u00daDE (FNS), ATEN\u00c7\u00c3O ESPECIALIZADA \u00c0 SA\u00daDE, COMBATE, PANDEMIA, CORONAV\u00cdRUS, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), LEITURA.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Medida Provis\u00f3ria n\u00ba 967, de 2020, sobre a abertura de cr\u00e9dito extraordin\u00e1rio em favor do Minist\u00e9rio da Sa\u00fade, no valor de R$ 5.566.379.351,00 para os fins especificados, e \u00e0s Emendas de n\u00bas 1 a 14, apresentadas conforme o caput  do art. 3\u00ba do Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Para proferir parecer. Sem revis\u00e3o do orador.) - Boa tarde, Presidente Marcos Pereira. Eu quero, em seu nome, cumprimentar todos os membros do Parlamento.\r\nQueria, at\u00e9 pela necessidade e urg\u00eancia da mat\u00e9ria e pela brevidade da sess\u00e3o de hoje, passar diretamente ao voto, considerando que todas as lideran\u00e7as e os Parlamentares j\u00e1 receberam pela Internet o voto que eu relatarei agora na sequ\u00eancia.\r\nEnt\u00e3o, passo diretamente ao voto.\r\n\"O instrumento legislativo sob exame foi analisado em rela\u00e7\u00e3o a aspectos formais e materiais. As pondera\u00e7\u00f5es foram distribu\u00eddas em t\u00f3picos que abordaram aspectos atinentes \u00e0 constitucionalidade, \u00e0 adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira e ao m\u00e9rito.\r\nA medida provis\u00f3ria e sua tramita\u00e7\u00e3o obedecem aos ditames formais de constitucionalidade. O comando gravado no art. 62 da Lei Fundamental confere compet\u00eancia privativa ao chefe do Poder Executivo para adotar medidas provis\u00f3rias com for\u00e7a de lei e endere\u00e7a a aprecia\u00e7\u00e3o ao Parlamento. A Lei Magna tamb\u00e9m estatui no art. 166, \u00a7 1\u00ba, I, que os cr\u00e9ditos adicionais sejam examinados por uma Comiss\u00e3o Mista Permanente de Deputados e Senadores e apreciados na forma do Regimento Comum. Logo, compete \u00e0 CMO manifestar-se a respeito, para tanto recorrendo em especial \u00e0s normas prescritas nas Resolu\u00e7\u00f5es n\u00ba 1/2002-CN e n\u00ba 1/2006, do Congresso Nacional.\r\nEntretanto, tendo em vista a situa\u00e7\u00e3o de calamidade durante a pandemia, foi aprovado o Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020, dispondo sobre o regime especial de tramita\u00e7\u00e3o, no Congresso Nacional, na C\u00e2mara dos Deputados e no Senado Federal, de medidas provis\u00f3rias durante a pandemia de COVID-19. Segundo referido normativo:\r\nArt. 2\u00ba No primeiro dia \u00fatil seguinte \u00e0 publica\u00e7\u00e3o, no Di\u00e1rio Oficial da Uni\u00e3o, de medida provis\u00f3ria, de que trata o art. 1\u00ba, a Presid\u00eancia da Mesa do Congresso Nacional far\u00e1 publicar e distribuir os respectivos avulsos eletr\u00f4nicos.\r\nPar\u00e1grafo \u00fanico. Enquanto durar a Emerg\u00eancia em Sa\u00fade P\u00fablica de Import\u00e2ncia Nacional e o estado de calamidade p\u00fablica decorrente da COVID-19, as medidas provis\u00f3rias ser\u00e3o instru\u00eddas perante o Plen\u00e1rio da C\u00e2mara dos Deputados e do Senado Federal, ficando excepcionalmente autorizada a emiss\u00e3o de parecer em substitui\u00e7\u00e3o \u00e0 Comiss\u00e3o Mista por Parlamentar de cada uma das Casas designado na forma regimental.\r\nArt. 3\u00ba \u00c0 medida provis\u00f3ria poder\u00e3o ser oferecidas emendas perante o \u00f3rg\u00e3o competente da Secretaria Legislativa do Congresso Nacional, protocolizadas por meio eletr\u00f4nico simplificado, at\u00e9 o segundo dia \u00fatil seguinte \u00e0 publica\u00e7\u00e3o da medida provis\u00f3ria no Di\u00e1rio Oficial da Uni\u00e3o, sendo a mat\u00e9ria imediatamente encaminhada em meio eletr\u00f4nico \u00e0 C\u00e2mara dos Deputados ap\u00f3s decorrido esse prazo;\r\n\u00a7 1\u00ba Quando em delibera\u00e7\u00e3o nos Plen\u00e1rios da C\u00e2mara dos Deputados e do Senado Federal, operando por sess\u00e3o remota, as emendas e requerimentos de destaques dever\u00e3o ser apresentados \u00e0 Mesa, na forma e prazo definidos para funcionamento do Sistema de Delibera\u00e7\u00e3o Remota em cada Casa.\r\n\u00a7 2\u00ba As emendas j\u00e1 apresentadas durante os prazos ordin\u00e1rios de tramita\u00e7\u00e3o das medidas provis\u00f3rias vigentes na data da edi\u00e7\u00e3o deste ato n\u00e3o precisar\u00e3o ser reapresentadas.\r\n\u00a7 3\u00ba Permanecem v\u00e1lidos todos os atos de instru\u00e7\u00e3o do processo legislativo j\u00e1 praticados em rela\u00e7\u00e3o \u00e0s medidas provis\u00f3rias vigentes na data da publica\u00e7\u00e3o deste ato, inclusive designa\u00e7\u00e3o de Relatores e eventuais pareceres j\u00e1 deliberados em Comiss\u00e3o Mista.\r\n(...)\r\nArt. 4\u00ba A medida provis\u00f3ria ser\u00e1 examinada pela C\u00e2mara dos Deputados, que dever\u00e1 concluir seus trabalhos at\u00e9 o 9\u00ba (nono) dia da vig\u00eancia da Medida Provis\u00f3ria, a contar da sua publica\u00e7\u00e3o no Di\u00e1rio Oficial da Uni\u00e3o.\r\nArt. 5\u00ba Aprovada na C\u00e2mara dos Deputados, a mat\u00e9ria ser\u00e1 encaminhada ao Senado Federal, que, para apreci\u00e1-la, ter\u00e1 at\u00e9 o 14\u00ba (d\u00e9cimo quarto) dia de vig\u00eancia da medida provis\u00f3ria, contado da sua publica\u00e7\u00e3o no Di\u00e1rio Oficial da Uni\u00e3o.\r\n(...)\r\nArt. 7\u00ba Este ato se aplica \u00e0s medidas provis\u00f3rias j\u00e1 editadas e em curso de tramita\u00e7\u00e3o, observado o disposto no \u00a7 3\u00ba do art. 3\u00ba.\r\nPar\u00e1grafo \u00fanico. As medidas provis\u00f3rias pendentes de parecer da Comiss\u00e3o Mista ser\u00e3o encaminhadas com as respectivas emendas para a C\u00e2mara dos Deputados, para que o parecer seja proferido em Plen\u00e1rio.\r\nConstitucionalidade\r\nSob o ponto de vista material, os mandamentos constitucionais encerram duas categorias de justificativas para estribar a abertura de cr\u00e9ditos extraordin\u00e1rios. A primeira delas \u00e9 o instituto geral da 'urg\u00eancia e relev\u00e2ncia' para edi\u00e7\u00e3o de medidas provis\u00f3rias de qualquer natureza, disciplinado no art. 62, \u00a7 1\u00ba, I, 'd', da Constitui\u00e7\u00e3o. A segunda categoria de justificativas, extra\u00edda \u00e0 luz do comando e insculpido no art. 167, \u00a7 3\u00ba, da Constitui\u00e7\u00e3o, requer que se retrate a situa\u00e7\u00e3o de 'imprevisibilidade' que respalde abertura de cr\u00e9dito extraordin\u00e1rio ao or\u00e7amento aprovado, neste caso \u00e0 Lei Or\u00e7ament\u00e1ria Anual de 2020.\r\nEm rela\u00e7\u00e3o a tais aspectos, consideramos que as informa\u00e7\u00f5es trazidas na Exposi\u00e7\u00e3o de Motivos n\u00ba 193, do Minist\u00e9rio da Economia, de 2020, de 15 de maio de 2020, acima reproduzidas, s\u00e3o suficientes para comprovar o cumprimento dos requisitos de relev\u00e2ncia, urg\u00eancia e imprevisibilidade que justificam a abertura do cr\u00e9dito extraordin\u00e1rio.\r\nVale mencionar que o Decreto Legislativo n\u00ba 6, de 2020, reconheceu que o Pa\u00eds enfrenta um estado de calamidade p\u00fablica, para os fins previstos no art. 65 da Lei de Responsabilidade Fiscal. Portanto, o instrumento encontra-se em conson\u00e2ncia com a legisla\u00e7\u00e3o e com o momento atual de calamidade.\r\nAdemais, importa mencionar que o referido cr\u00e9dito est\u00e1 de acordo com a dispensa de atendimento da regra de ouro (art. 167, III, da Constitui\u00e7\u00e3o) prevista pelo art. 4\u00ba da Emenda Constitucional n\u00ba 106, de 7 de maio de 2020.\r\nArt. 4\u00ba Ser\u00e1 dispensada, durante a integralidade do exerc\u00edcio financeiro em que vigore a calamidade p\u00fablica nacional de que trata o art. 1\u00ba desta emenda constitucional, a observ\u00e2ncia do inciso III do caput do art. 167 da Constitui\u00e7\u00e3o Federal.\r\nPar\u00e1grafo \u00fanico. O Minist\u00e9rio da Economia publicar\u00e1, a cada 30 (trinta) dias, relat\u00f3rio com os valores e o custo das opera\u00e7\u00f5es de cr\u00e9dito realizadas no per\u00edodo de vig\u00eancia do estado de calamidade p\u00fablica nacional de que trata o art. 1\u00ba desta Emenda Constitucional. (EC n\u00ba 106, de 2020).\r\nAdequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria\r\nA Resolu\u00e7\u00e3o n\u00ba 1, de 2002-CN, que 'disp\u00f5e sobre a aprecia\u00e7\u00e3o, pelo Congresso Nacional, das medidas provis\u00f3rias a que se refere o art. 62 da Constitui\u00e7\u00e3o Federal, e d\u00e1 outras provid\u00eancias', estabelece, em seu art. 5\u00ba, \u00a7 1\u00ba, que o exame de compatibilidade or\u00e7ament\u00e1ria e financeira das MPs 'abrange a an\u00e1lise da repercuss\u00e3o sobre a receita ou a despesa p\u00fablica da Uni\u00e3o e da implica\u00e7\u00e3o quanto ao atendimento \u00e0s normas or\u00e7ament\u00e1rias e financeiras vigentes, em especial a conformidade com a Lei Complementar n\u00ba 101, de 4 de maio de 2000 (LRF), a Lei do Plano Plurianual, a Lei de Diretrizes Or\u00e7ament\u00e1rias e a Lei Or\u00e7ament\u00e1ria da Uni\u00e3o'.\r\nO cr\u00e9dito est\u00e1 de acordo com as disposi\u00e7\u00f5es do Plano Plurianual 2020-2023 (...), da Lei de Diretrizes Or\u00e7ament\u00e1rias para 2020 (...) e da Lei Or\u00e7ament\u00e1ria Anual para 2020 e da Lei de Responsabilidade Fiscal (...).\r\nConv\u00e9m registrar que, conforme se depreende do disposto no inciso V do art. 167 da Constitui\u00e7\u00e3o Federal e da Lei n\u00ba 4.320, de 1964, n\u00e3o se exige indica\u00e7\u00e3o de origem dos recursos quando da abertura de cr\u00e9dito extraordin\u00e1rio. Todavia, a medida provis\u00f3ria indica que os recursos decorrem de cancelamento parcial de programa\u00e7\u00f5es no valor de R$231.179.351,00 e de contrata\u00e7\u00e3o de opera\u00e7\u00e3o de cr\u00e9dito interna no valor de R$5.335.200.000,00.\r\nCabe destacar que o Congresso Nacional reconheceu a ocorr\u00eancia de calamidade p\u00fablica, nos termos do art. 65 da Lei Complementar n\u00ba 101, de 2000 (Lei de Responsabilidade Fiscal). Sendo assim, o Poder Executivo est\u00e1 dispensado do atingimento dos resultados fiscais no exerc\u00edcio financeiro de 2020.\r\nAdemais, o Ministro Alexandre de Moraes, no \u00e2mbito da ADI 6357 MC/DF - Distrito Federal, concedeu medida cautelar para conceder interpreta\u00e7\u00e3o conforme \u00e0 Constitui\u00e7\u00e3o Federal, aos arts. 14, 16, 17 e 24 da Lei de Responsabilidade Fiscal e 114, caput, in fine e \u00a7 14, da Lei de Diretrizes Or\u00e7ament\u00e1rias/2020, para, durante a emerg\u00eancia em sa\u00fade p\u00fablica de import\u00e2ncia nacional e o estado de calamidade p\u00fablica decorrente de COVID-19, 'afastar a exig\u00eancia de demonstra\u00e7\u00e3o de adequa\u00e7\u00e3o e compensa\u00e7\u00e3o or\u00e7ament\u00e1rias em rela\u00e7\u00e3o \u00e0 cria\u00e7\u00e3o/expans\u00e3o de programas p\u00fablicos destinados ao enfrentamento do contexto de calamidade gerado pela dissemina\u00e7\u00e3o de COVID-19'.\r\nPor fim, a abertura do presente cr\u00e9dito n\u00e3o afeta a observ\u00e2ncia do novo regime fiscal estabelecido pela Emenda Constitucional n\u00ba 95, de 2016, uma vez que cr\u00e9ditos extraordin\u00e1rios n\u00e3o s\u00e3o inclu\u00eddos na base de c\u00e1lculo e nos limites estabelecidos pelo aludido regime, nos termos do art. 107, \u00a7 6\u00ba, inciso II, da Constitui\u00e7\u00e3o Federal.\r\nM\u00e9rito\r\nA Medida Provis\u00f3ria n\u00ba 967, de 2020, \u00e9 dotada de justificativas de relev\u00e2ncia e urg\u00eancia condizentes com a programa\u00e7\u00e3o or\u00e7ament\u00e1ria que contempla, uma vez que o aumento dos casos de infec\u00e7\u00e3o humana pela COVID-19 imp\u00f5e a necessidade de dotar o sistema de sa\u00fade brasileiro de capacidade para prevenir, controlar e conter os danos e agravos \u00e0 sa\u00fade p\u00fablica em decorr\u00eancia da pandemia global.\r\nDessa forma, em face das considera\u00e7\u00f5es externadas na EM n\u00ba 193/ME-2020, restou comprovada a necessidade do cr\u00e9dito extraordin\u00e1rio em favor do Minist\u00e9rio da Sa\u00fade.\r\nEmendas\r\nDe acordo com o art. 111 da Resolu\u00e7\u00e3o n\u00ba 1/2006-CN, \u00e0s medidas provis\u00f3rias de cr\u00e9dito extraordin\u00e1rio 'somente ser\u00e3o admitidas emendas que tenham como finalidade modificar o texto da medida provis\u00f3ria ou suprimir dota\u00e7\u00e3o, total ou parcialmente'. Foram apresentadas quatorze emendas \u00e0 Medida Provis\u00f3ria n\u00ba 967, de 2020, no prazo regimental.\r\nAs Emendas n\u00bas 001 a 013 pretendem alterar o subt\u00edtulo das programa\u00e7\u00f5es nacionais da medida provis\u00f3ria para localizadores que atendam Estados, Munic\u00edpios e/ou entidades espec\u00edficos. As propostas substituem ju\u00edzo acerca da relev\u00e2ncia, urg\u00eancia e imprevisibilidade da despesa que compete exclusivamente ao Chefe do Poder Executivo e n\u00e3o atendem o que disp\u00f5e a Resolu\u00e7\u00e3o n\u00ba 1, de 2006, do Congresso Nacional. Por essa raz\u00e3o, com base no disposto no art. 111 da Resolu\u00e7\u00e3o n\u00ba 1, de 2006, somos obrigados a indicar a inadmiss\u00e3o das Emendas n\u00bas 001 a 013.\r\nA Emenda n\u00ba 014 prop\u00f5e a supress\u00e3o dos cancelamentos da MP referentes ao Minist\u00e9rio da Agricultura, Pecu\u00e1ria e Abastecimento - Administra\u00e7\u00e3o Direta, com a retirada dos cancelamentos previstos no Anexo II da MP para o referido \u00f3rg\u00e3o. Em que pese o m\u00e9rito da proposta, a emenda n\u00e3o indicou a unidade que deveria sofrer a redu\u00e7\u00e3o de recursos compensat\u00f3rios para adequar o cr\u00e9dito de que trata o art. 166, \u00a73\u00ba, II, da Constitui\u00e7\u00e3o.\r\nDessa forma, com base no que disp\u00f5e o art. 146 da Resolu\u00e7\u00e3o n\u00ba 1, de 2006, do Congresso Nacional, indicamos a inadmiss\u00e3o da Emenda n\u00ba 014.\r\nII.5 Conclus\u00e3o\r\nDiante das raz\u00f5es expostas, nosso voto \u00e9 no sentido de que:\r\nI - a Medida Provis\u00f3ria n\u00ba 967, de 2020, atende aos preceitos constitucionais e legais que devem orientar sua ado\u00e7\u00e3o, bem como \u00e0s normas de adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria vigentes;\r\nII - as Emendas de n\u00bas 001 a 014 sejam inadmitidas; e\r\nIII - a Medida Provis\u00f3ria n\u00ba 967, de 2020, seja aprovada nos termos propostos pelo Poder Executivo.\"\r\nEsse \u00e9 o meu parecer, Sr. Presidente, para an\u00e1lise desse douto Plen\u00e1rio.\r\nQueria aqui tamb\u00e9m aproveitar, Sr. Presidente Marcos Pereira, para saudar a presen\u00e7a do novo Parlamentar, o Deputado Nilson F. Stainsack, que foi empossado nesse momento, desejando a ele muito sucesso e tamb\u00e9m as boas-vindas ao Parlamento brasileiro.\r\nEram essas as minhas considera\u00e7\u00f5es, Sr. Presidente, no parecer em rela\u00e7\u00e3o \u00e0 medida provis\u00f3ria j\u00e1 mencionada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F9%2F2020&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-07T23:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 4199/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB),  VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba, art. 10, constante no art. 16 do substitutivo apresentado ao Projeto de Lei n\u00ba 4.199, de 2020, sobre a institui\u00e7\u00e3o do Programa de Est\u00edmulo ao Transporte por Cabotagem - BR do Mar e a altera\u00e7\u00e3o das Leis de n\u00bas 5.474, de 1968; 9.432, de 1997; 10.233, de 2001, e 10.893, de 2004.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, amigos e amigas, eu gostaria de chamar a aten\u00e7\u00e3o para este nosso destaque, porque ele concilia esse interesse de baixar o pre\u00e7o do frete de cabotagem no Brasil e, ao mesmo tempo, exigir um m\u00ednimo para que a ind\u00fastria nacional consiga sobreviver, inclusive os estaleiros do Brasil, que est\u00e3o entre os melhores do mundo.\r\nEsse \u00e9 um setor que envolve centenas e centenas de empresas especializadas no Brasil, e hoje a legisla\u00e7\u00e3o atual exige que, a cada navio que vem de fora, \u00e9 preciso fazer um no Brasil, construir um no Brasil.\r\nO Governo est\u00e1 dizendo o seguinte: \"Podem vir quantos de fora quiserem daqui a 4 anos. N\u00e3o h\u00e1 mais limite\", ou seja, provavelmente n\u00e3o vamos mais ter ind\u00fastria naval no Brasil e vamos perder muitos empregos. A nossa proposta \u00e9 de pelo menos quatro para um, ou seja, a cada quatro navios que v\u00eam de fora termos pelo menos um nacional. Isso praticamente n\u00e3o tem impacto na quest\u00e3o do frete. Assim mantemos uma parte desses empregos e uma ind\u00fastria estrat\u00e9gica fundamental para o Brasil, assim como todos os outros pa\u00edses.\r\nO Brasil vai ser o primeiro pa\u00eds a abrir m\u00e3o de sua soberania ao n\u00e3o exigir a constru\u00e7\u00e3o de nenhum navio pr\u00f3prio. Isso realmente me parece muito estranho.\r\nEu acho que \u00e9 preciso haver uma concilia\u00e7\u00e3o de pelo menos quatro para um. Hoje, 100% dos navios t\u00eam que ser constru\u00eddos no Brasil. N\u00f3s estamos falando de quatro navios de fora para um navio do Brasil, para mantermos uma ind\u00fastria estrat\u00e9gica de muita qualidade, reconhecida internacionalmente.\r\nEnt\u00e3o, pe\u00e7o aos nobres pares que acolham este nosso destaque, porque ele n\u00e3o prejudica, n\u00e3o tem impacto na redu\u00e7\u00e3o do frete de cabotagem no Brasil, como n\u00f3s desejamos. Isso tamb\u00e9m garante uma ind\u00fastria que tem qualidade e que precisa ser mantida por uma quest\u00e3o, inclusive estrat\u00e9gica, de soberania do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=234&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-07T23:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 4199/2020, PROJETO DE LEI ORDINARIA, PARTIDO DA SOCIAL DEMOCRACIA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 4\u00ba, art. 10, constante no art. 16 do substitutivo apresentado ao Projeto de Lei n\u00ba 4.199, de 2020, sobre a institui\u00e7\u00e3o do Programa de Est\u00edmulo ao Transporte por Cabotagem - BR do Mar, e a altera\u00e7\u00e3o das Leis de n\u00bas 5.474, de 1968; 9.432, de 1997; 10.233, de 2001, e 10.893, de 2004.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres pares, eu volto a insistir que o agroneg\u00f3cio \u00e9 importante e que n\u00f3s precisamos, realmente, e concordamos em baixar o custo dos fretes. Mas n\u00f3s n\u00e3o precisamos destruir a ind\u00fastria nacional.\r\nVolto a dar dados importantes aos senhores que est\u00e3o nos ouvindo. Os estaleiros do Brasil est\u00e3o entre os mais modernos do mundo. A nossa ind\u00fastria tem muita qualidade. O que nos falta agora \u00e9 ter uma demanda.\r\nEssa mat\u00e9ria tem exatamente o objetivo de ampliar a cabotagem no Brasil. E por que n\u00e3o a participa\u00e7\u00e3o da ind\u00fastria nacional? N\u00f3s n\u00e3o podemos ter preconceito contra a ind\u00fastria nacional.\r\nA ind\u00fastria nacional tem qualidade. A ind\u00fastria de m\u00e1quinas e equipamentos no Brasil exporta 40% do que produz no Pa\u00eds, Sr. Presidente. Inclusive metade disso vai para a Europa e para os Estados Unidos, que s\u00e3o os mercados mais exigentes do mundo.\r\nMas, infelizmente, este Governo tem um preconceito contra a ind\u00fastria nacional, como se ela fosse a culpada. Culpados foram os governos que por a\u00ed passaram e o atual, n\u00e3o a ind\u00fastria.\r\nO SR. PRESIDENTE (Marcel Van Hattem. NOVO - RS) - Pe\u00e7o-lhe que conclua.\r\nO SR. VITOR LIPPI (PSDB - SP) - Inclusive, quando vem de fora para c\u00e1, a ind\u00fastria tem grande dificuldade. As ind\u00fastrias japonesas e de outros pa\u00edses v\u00e3o muito bem l\u00e1 fora, mas, quando v\u00eam para c\u00e1, t\u00eam dificuldade por conta do ambiente do ambiente de neg\u00f3cios.\r\nPortanto, aqui \u00e9 da mesma forma.\r\nO SR. PRESIDENTE (Marcel Van Hattem. NOVO - RS) - Orienta\u00e7\u00e3o.\r\nO SR. VITOR LIPPI (PSDB - SP) - N\u00f3s estamos solicitando a supress\u00e3o do texto.\r\nEu vou concluir, Sr. Presidente. Eu n\u00e3o pude, infelizmente, encaminhar a mat\u00e9ria.\r\nO SR. PRESIDENTE (Marcel Van Hattem. NOVO - RS) - Est\u00e1 certo.\r\nO SR. VITOR LIPPI (PSDB - SP) - N\u00f3s estamos solicitando a supress\u00e3o do \u00a7 4\u00ba do art. 10. Com isso, queremos dizer o seguinte: da mesma forma, queremos garantir pelo menos 20% de frota nacional. Isso \u00e9 estrat\u00e9gico para o Brasil, \u00e9 importante para a ind\u00fastria nacional e \u00e9 importante para gerar empregos de qualidade no Brasil. Esse \u00e9 um setor altamente especializado. Se as pessoas n\u00e3o puderem trabalhar a\u00ed, elas n\u00e3o ter\u00e3o onde trabalhar. Trata-se de um setor altamente especializado.\r\nE n\u00f3s precisamos da compreens\u00e3o desta Casa para garantir o m\u00ednimo, para n\u00f3s n\u00e3o perdermos estrategicamente a soberania do Pa\u00eds e ficarmos totalmente dependentes da China e de outros pa\u00edses, inclusive dolarizando todo o frete do Brasil. Isso \u00e9 estrat\u00e9gico e n\u00e3o vai aumentar o custo do frete.\r\nN\u00f3s estamos falando apenas de 20%. Trata-se de um impacto extremamente pequeno, com as vantagens de garantir empregos de qualidade, preservar a ind\u00fastria, os estaleiros nacionais e a soberania nacional, o que \u00e9 o mais importante.\r\nPortanto, parece-me muito equilibrado isso. N\u00e3o somos contra a mat\u00e9ria do Governo de reduzir os custos da cabotagem, mas eu acho que d\u00e1 para conciliar ambas as coisas: o agro \u00e9 importante, mas a ind\u00fastria nacional tamb\u00e9m \u00e9 importante. E n\u00f3s temos que fazer um esfor\u00e7o nesse sentido. Por isso, pe\u00e7o o apoio dos nobres pares.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 146/2019, PROJETO DE LEI COMPLEMENTAR, ALTERA\u00c7\u00c3O LEI DAS SOCIEDADES AN\u00d4NIMAS, SOCIEDADE AN\u00d4NIMA, OP\u00c7\u00c3O, PUBLICA\u00c7\u00c3O, INFORMA\u00c7\u00c3O, INTERNET, ENDERE\u00c7O ELETR\u00d4NICO DE S\u00cdTIO (INTERNET), SOCIEDADE AN\u00d4NIMA SIMPLIFICADA (SAS), PESSOA F\u00cdSICA, PESSOA JUR\u00cdDICA,  JHC,  VIN\u00cdCIUS POIT, DEPUTADO FEDERAL, ELOGIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Elogio aos Deputados JHC e Vin\u00edcius Poit, respectivamente, autor e relator do Projeto de Lei Complementar n\u00ba 146, de 2019, sobre a institui\u00e7\u00e3o do marco legal dasstartups  e do empreendedorismo inovador; e a altera\u00e7\u00e3o das Leis de n\u00bas 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar n\u00ba 123, de 2006. Import\u00e2ncia da cria\u00e7\u00e3o do marco legal dasstartups.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu, da mesma forma, quero elogiar o Deputado JHC e os Deputados desta Casa, que conseguiram dar uma grande contribui\u00e7\u00e3o. Tamb\u00e9m elogio o Deputado Vinicius Poit, que, em uma articula\u00e7\u00e3o com o Governo, traz um texto que avan\u00e7a bastante, Sr. Presidente, em uma \u00e1rea fundamental da economia.\r\nSegundo uma grande consultoria internacional, a Kauffman, 50% dos novos empregos do mundo v\u00eam das startups. Ent\u00e3o, n\u00f3s estamos falando de algo que faz toda a diferen\u00e7a nos novos empregos do mundo, nas novas oportunidades de gera\u00e7\u00e3o de riqueza.\r\n\u00c9 l\u00f3gico que sabemos que startups tamb\u00e9m t\u00eam muitos riscos. Ent\u00e3o, \u00e9 preciso dar seguran\u00e7a para os investidores-anjo e termos um ambiente de neg\u00f3cio favor\u00e1vel, porque, quanto mais startups houver no Brasil, melhor ser\u00e1 para gerar empregos, gerar riqueza e para melhorar a competitividade do nosso povo e da nossa gente. E o Brasil \u00e9 um local muito prop\u00edcio, hoje \u00e9 considerado o 13\u00ba mercado do mundo para as startups.\r\nEu fico muito feliz por esta Casa contribuir com o apoiamento a esta mat\u00e9ria, que, sem d\u00favida, \u00e9 um significativo avan\u00e7o e d\u00e1 continuidade ao esfor\u00e7o desta Casa de valorizar o empreendedorismo no Brasil.\r\nObrigado, Sr. Presidente.\r\nParab\u00e9ns, Deputado Vinicius Poit e todos os colaboradores que constru\u00edram esta mat\u00e9ria relevante para o presente e para o futuro do Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 146/2019, PROJETO DE LEI COMPLEMENTAR, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, apresentada ao Projeto de Decreto Legislativo n\u00ba 146, de 2020, sobre a institui\u00e7\u00e3o do marco legal dasstartups  e do empreendedorismo inovador; e a altera\u00e7\u00e3o das Leis de n\u00bas 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar n\u00ba 123, de 2006.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu vou pedir a aten\u00e7\u00e3o dos Deputados e Deputadas aqui presentes, porque todos n\u00f3s temos um mesmo objetivo, que \u00e9 o de ajudar as startups.\r\nComo eu disse, segundo uma das mais importantes consultorias do mundo, a Kauffman, 50% dos novos empregos do mundo v\u00eam das startups.\r\nEnt\u00e3o, apoiar as startups \u00e9 apoiar o emprego, a amplia\u00e7\u00e3o do emprego, uma nova economia, a gera\u00e7\u00e3o de riqueza e a competitividade. E todos n\u00f3s temos um grande interesse nessa mat\u00e9ria.\r\nO nosso destaque - e eu gostaria aqui da aten\u00e7\u00e3o de todos os senhores - \u00e9 para que haja uma justi\u00e7a tribut\u00e1ria. Quanto melhor o ambiente para os investidores-anjos investirem nas startups hoje, melhor.\r\nO que acontece hoje? A tributa\u00e7\u00e3o que incide sobre quem investe em startup hoje \u00e9 extremamente elevada. \u00c9 como se aquele fosse um investimento de baixo risco, como o CDB e outros investimentos que existem.\r\nQual \u00e9 a nossa proposta? Que ela seja considerada como o investimento de alto risco que \u00e9. N\u00f3s sabemos que aproximadamente 80% das startups, Sr. Presidente, n\u00e3o d\u00e3o certo. Os outros 20% d\u00e3o muito certo. Ent\u00e3o, \u00e9 um investimento de risco. \u00c9 importante que n\u00f3s tamb\u00e9m tenhamos uma tributa\u00e7\u00e3o adequada, conforme outros investimentos de risco que existem no Brasil.\r\nPortanto, entendemos que ela \u00e9 uma medida justa, necess\u00e1ria e que contribui muito para a amplia\u00e7\u00e3o dos investidores-anjos e dos investimentos nas startups do Pa\u00eds.\r\nObrigado, Sr. Presidente.\r\nObviamente, pe\u00e7o o apoio de todos os Deputados e Deputadas desta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T21:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 146/2019, PROJETO DE LEI COMPLEMENTAR.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada ao Projeto de Lei Complementar n\u00ba 146, de 2019, acerca da institui\u00e7\u00e3o do marco legal dasstartups  e do empreendedorismo inovador; e da altera\u00e7\u00e3o das Leis de n\u00bas 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar n\u00ba 123, de 2006.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputados e Deputadas, como dissemos aqui hoje, esta mat\u00e9ria interessa muito ao Brasil, porque as pesquisas internacionais mostram que metade dos novos empregos do mundo vem das startups. Portanto, \u00e9 uma obriga\u00e7\u00e3o nossa gerar um melhor ambiente. Se h\u00e1 alguma coisa que n\u00f3s estamos precisando no Brasil, isso se chama emprego. N\u00f3s sabemos que essa \u00e9 uma grande oportunidade de termos mais startups e mais empregos no Brasil.\r\nNesse sentido, o nosso destaque, Sr. Presidente, visa aproveitar uma lei que n\u00f3s j\u00e1 temos, a chamada Lei do Bem, que permite que empresas apliquem uma parte do seu Imposto de Renda em pesquisa e inova\u00e7\u00e3o. E o que \u00e9 uma startup? \u00c9 exatamente uma inova\u00e7\u00e3o. Ent\u00e3o, a nossa lei contemplaria a possibilidade de as empresas que t\u00eam direito a utilizar a Lei do Bem a utilizarem nas empresas de startups. N\u00f3s entendemos que estamos unindo a\u00ed o \u00fatil ao agrad\u00e1vel, ou seja, algo que \u00e9 necess\u00e1rio e, ao mesmo tempo, muito importante. J\u00e1 que n\u00f3s temos esse benef\u00edcio, vamos permitir que esses investimentos possam acontecer tamb\u00e9m nas startups, porque assim n\u00f3s vamos gerar mais empregos.\r\nEntendo que esta mat\u00e9ria \u00e9 coerente, necess\u00e1ria e oportuna. Al\u00e9m disso, ela atende aos anseios desta Casa, que sabe que investir em startups \u00e9 investir no Brasil.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SENADO FEDERAL, APROVA\u00c7\u00c3O,  PROJETO DE LE ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DE LICITA\u00c7\u00c3O, LICITA\u00c7\u00c3O, CONTRATO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, ADMINISTRA\u00c7\u00c3O DIRETA, ADMINISTRA\u00c7\u00c3O INDIRETA, SAN\u00c7\u00c3O PRESIDENCIAL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o, pelo Senado Federal, e encaminhamento \u00e0 san\u00e7\u00e3o presidencial do Projeto de Lei n\u00ba 4.253, de 2020, acerca da moderniza\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es e Contratos (Lei n\u00ba 8.666, de 1993).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\n\u00c9 uma boa not\u00edcia para o Brasil o resultado do trabalho feito por esta Casa em torno da nova Lei de Licita\u00e7\u00f5es, de que V.Exa. tamb\u00e9m participou, Sr. Presidente. N\u00f3s trabalhamos muito para mudar a Lei n\u00ba 8.666, que causou grandes dificuldades para os gestores do Pa\u00eds. A mat\u00e9ria foi aprovada no Senado na \u00faltima sexta-feira e agora vai \u00e0 san\u00e7\u00e3o presidencial. A nova lei vai dar condi\u00e7\u00f5es para que melhore a gest\u00e3o p\u00fablica deste Pa\u00eds. \r\nEstamos muito entusiasmados, porque n\u00e3o vamos gastar mais, vamos \u00e9 fazer mais r\u00e1pido. Vamos possibilitar ao bom gestor um resultado mais imediato. Por exemplo, vamos reduzir o n\u00famero de ve\u00edculos parados no Brasil. Um levantamento constatou que quase 25% da frota de ambul\u00e2ncias, ve\u00edculos de pol\u00edcia e da \u00e1rea social est\u00e3o parados aguardando licita\u00e7\u00e3o. Estamos criando uma legisla\u00e7\u00e3o que vai permitir que as coisas sejam feitas mais rapidamente, e \u00e9 disso que a sociedade precisa. Al\u00e9m disso, garante-se transpar\u00eancia, porque tudo que for comprado vai ser colocado num portal nacional, para que todos fiscalizem o que foi comprado e quanto foi pago. Diminuindo a burocracia e simplificando o Brasil, estaremos ajudando a gest\u00e3o p\u00fablica a prestar melhores servi\u00e7os \u00e0 sociedade. \r\nQuero deixar meu abra\u00e7o a todos os Prefeitos do Brasil, a todos os gestores e diretores de hospitais do Pa\u00eds. Essa foi uma grande contribui\u00e7\u00e3o para a melhoria da gest\u00e3o p\u00fablica, e n\u00e3o se abriu m\u00e3o da transpar\u00eancia necess\u00e1ria nas compras p\u00fablicas.\r\nUm forte abra\u00e7o, Sr. Presidente. Muito obrigado pela oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=206&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-15T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE URGENCIA, MPV 998/2020, MEDIDA PROVISORIA, CONTRARIO.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 5675/2013,  PROJETO DE LEI ORDINARIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Contrariedade \u00e0 vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia da Medida Provis\u00f3ria n\u00ba 998, de 2020, a respeito da altera\u00e7\u00e3o de diplomas legais e da transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A, e da Nuclebr\u00e1s Equipamentos Pesados S.A. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento n\u00ba 3.211, de 2019, para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.675, de 2013, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.137, de 1990, relativa aos crimes praticados contra a ordem tribut\u00e1ria, com vista \u00e0 redu\u00e7\u00e3o da pena prevista nos delitos descritos no art. 7\u00ba, e \u00e0 supress\u00e3o da modalidade culposa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu gostaria de fazer uma avalia\u00e7\u00e3o da MP 998. Entendo que a grande maioria dos Parlamentares n\u00e3o teve a possibilidade de conhecer o impacto dessa mat\u00e9ria. Ela vem totalmente contra tudo o que foi feito nos \u00faltimos anos para valorizar as energias renov\u00e1veis no Brasil.\r\nO mundo inteiro vem se empenhando para apoiar as energias renov\u00e1veis: energia solar, energia e\u00f3lica, biomassa, PCHs. Ent\u00e3o, como incentivo, aqui no Brasil existe um desconto de 50% em uma das tarifas que s\u00e3o pagas. Isso vem criando um fator favor\u00e1vel para o desenvolvimento desse setor, que hoje movimenta mais de 300 mil empregos - s\u00f3 na energia solar, s\u00e3o 200 mil empregos; na energia e\u00f3lica, s\u00e3o 100 mil empregos.\r\nH\u00e1 uma expectativa do Governo de acabar com essa redu\u00e7\u00e3o de tarifas, que o Governo diz que tem um custo de aproximadamente 4 bilh\u00f5es de reais por ano. Acontece que esses setores tiveram investimentos superiores a 50 bilh\u00f5es de reais, e isso gerou milhares de empregos, mais de 300 mil, e fez surgir empresas, ind\u00fastrias no Brasil, que pagam impostos. Portanto, o benef\u00edcio que o incentivo traz \u00e9 muito maior do que o custo de um eventual benef\u00edcio tribut\u00e1rio, como a redu\u00e7\u00e3o de taxas.\r\nAcabar com a redu\u00e7\u00e3o da tarifa vai resultar em um impacto de 10% a 20% no custo final desses setores. Embora se pretenda manter os benef\u00edcios para quem j\u00e1 est\u00e1 com contrato vigente, os novos investimentos no Brasil daqui a 1 ano ou 1 ano e meio j\u00e1 ter\u00e3o novas regras.\r\nO que est\u00e1 dando certo n\u00e3o deve ser interrompido. O Brasil \u00e9 o \u00fanico pa\u00eds que est\u00e1 caminhando para n\u00e3o dar nenhum benef\u00edcio para energias renov\u00e1veis, o que \u00e9 prejudicial \u00e0 sociedade brasileira. Volto a dizer que esse setor tem trazido muitos benef\u00edcios, em especial ao Nordeste brasileiro, onde gera muitos empregos e tem muitas ind\u00fastrias, principalmente de energia solar e de energia e\u00f3lica. Certamente, l\u00e1 \u00e9 onde vamos ter uma redu\u00e7\u00e3o de investimentos ao longo dos pr\u00f3ximos anos. Portanto, eu entendo que a MP n\u00ba 998 precisa ser revista.\r\nA mat\u00e9ria n\u00e3o \u00e9 importante. Eu entendo que n\u00f3s n\u00e3o devemos votar a urg\u00eancia dela.\r\nSem d\u00favida, eu sou contr\u00e1rio tamb\u00e9m \u00e0 urg\u00eancia desta mat\u00e9ria de agora, porque ela traz san\u00e7\u00f5es bastante elevadas, e n\u00f3s gostar\u00edamos de discutir melhor a quest\u00e3o.\r\nO PSDB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 998/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 998, de 2020, sobre a altera\u00e7\u00e3o de diplomas legais e a transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear, representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A e da Nuclebr\u00e1s Equipamentos Pesados S/A.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria alertar todos os Deputados e Deputadas. N\u00f3s sabemos que h\u00e1 um grande volume de mat\u00e9rias nesta Casa. E essa medida provis\u00f3ria \u00e9 extremamente grande, fala de muitos assuntos, e a maioria dos Parlamentares n\u00e3o teve a possibilidade de conhecer os detalhes dessa lei.\r\nA grande maioria dos Parlamentares desta Casa sempre defendeu as energias renov\u00e1veis. H\u00e1 quantos anos n\u00f3s estamos trabalhando pela energia solar, pela energia e\u00f3lica, pela biomassa, pelas PCHs no Brasil?! E essa medida provis\u00f3ria, que busca o reequil\u00edbrio financeiro, retira todo o apoio \u00e0s energias renov\u00e1veis no Pa\u00eds; s\u00f3 vai permanecer o apoio \u00e0 gera\u00e7\u00e3o distribu\u00edda, o restante vai ser seriamente prejudicado.\r\nDaqui a 18 meses n\u00e3o haver\u00e1 mais nenhum apoio \u00e0s energias renov\u00e1veis no Brasil. Ser\u00e1 que \u00e9 isso que esta Casa quer? S\u00f3 vai se manter aqui subs\u00eddio e apoio sabe para quem? Para a gera\u00e7\u00e3o de energia atrav\u00e9s de carv\u00e3o, diesel e nuclear, ou seja, na contram\u00e3o do mundo. N\u00f3s vamos passar vergonha. Eu preciso que essa mat\u00e9ria seja melhor discutida.\r\nPor isso, n\u00f3s pedimos a retirada dessa mat\u00e9ria. Os mais prejudicados ser\u00e3o o Norte e o Nordeste, que t\u00eam os grandes investimentos em fazendas solares e e\u00f3licas no Brasil.\r\nIsso \u00e9 uma afronta \u00e0 luta pelas energias renov\u00e1veis no Pa\u00eds.\r\nObrigado, Sr. Presidente.\r\nO SR. PRESIDENTE (Marcelo Aro. Bloco/PP - MG) - Como vota o PSDB, Deputado? \r\nO SR. VITOR LIPPI (PSDB - SP) - Eu voto a favor da retirada da mat\u00e9ria. \r\nO SR. PRESIDENTE (Marcelo Aro. Bloco/PP - MG) - Ent\u00e3o, vota \"sim\".\r\nO SR. VITOR LIPPI (PSDB - SP) - O PSDB vota \"sim\", porque a \u00e9 a favor das energias renov\u00e1veis do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=73&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 998/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\nENERGIA RENOV\u00c1VEL, DEFESA. \r\n.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 998, de 2020, sobre a altera\u00e7\u00e3o de diplomas legais e a transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear, representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A e da Nuclebr\u00e1s Equipamentos Pesados S/A. Necessidade da realiza\u00e7\u00e3o de ampla discuss\u00e3o da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu ainda queria fazer uma observa\u00e7\u00e3o importante acerca da relev\u00e2ncia do tema e um apelo.\r\nTodos n\u00f3s aqui defendemos a energia renov\u00e1vel, e \u00e9 importante que possamos aprofundar a discuss\u00e3o dessa mat\u00e9ria, que pode sim causar um impacto muito grande, principalmente no Nordeste, que tem os grandes, os maiores investimentos em energia solar e em energia e\u00f3lica do Pa\u00eds. N\u00f3s temos que acreditar que energia renov\u00e1vel n\u00e3o \u00e9 problema, \u00e9 solu\u00e7\u00e3o. N\u00f3s queremos uma pol\u00edtica de apoio \u00e0s energias renov\u00e1veis no Brasil, e n\u00e3o uma medida que apenas venha fazer equil\u00edbrio de tarifa no Pa\u00eds. \r\nE n\u00f3s queremos mais, n\u00f3s queremos pensar na gera\u00e7\u00e3o de empregos, na gera\u00e7\u00e3o de renda, no desenvolvimento regional, no potencial extraordin\u00e1rio que o Brasil tem na \u00e1rea de energias renov\u00e1veis. Hoje temos mais de 300 mil empregos - 200 mil na energia solar e 100 mil na energia e\u00f3lica. Essas fam\u00edlias vivem gra\u00e7as a essas novas energias, que precisam ser apoiadas por este Parlamento e pelo Governo brasileiro.\r\nNesse sentido, pe\u00e7o aos Deputados que est\u00e3o votando que tenham compromisso com as energias renov\u00e1veis e votem pela retirada da mat\u00e9ria, ou seja, votem \"sim\", para que possamos nos aprofundar na discuss\u00e3o dessa mat\u00e9ria. Da forma como veio, ela \u00e9 absolutamente inaceit\u00e1vel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SENADO FEDERAL, APROVA\u00c7\u00c3O,  PROJETO DE LE ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DE LICITA\u00c7\u00c3O, LICITA\u00c7\u00c3O, CONTRATO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, ADMINISTRA\u00c7\u00c3O DIRETA, ADMINISTRA\u00c7\u00c3O INDIRETA, SAN\u00c7\u00c3O PRESIDENCIAL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o pelo Senado Federal do Projeto de Lei n\u00ba 4.253, de 2020, (Substitutivo da C\u00e2mara dos Deputados ao Projeto de Lei n\u00ba 559, de 2013, do Senado Fedeal), sobre o estabelecimento de normas gerais de licita\u00e7\u00e3o e contrata\u00e7\u00e3o para as administra\u00e7\u00f5es p\u00fablicas diretas, aut\u00e1rquicas e fundacionais da Uni\u00e3o, dos Estados, do Distrito Federal e dos Munic\u00edpios; e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria aproveitar este momento para comemorar com V.Exas. uma vit\u00f3ria deste Parlamento, que come\u00e7ou nesta Casa, quando n\u00f3s discutimos a nova Lei de Licita\u00e7\u00f5es do Brasil.\r\nTodos participaram, direta ou indiretamente, desse trabalho, que, durante mais de 1 ano, reuniu especialistas, quando discutimos como poder\u00edamos dar uma melhor solu\u00e7\u00e3o para a gest\u00e3o p\u00fablica, que depende totalmente das compras p\u00fablicas. Sabemos que a antiga Lei de Licita\u00e7\u00f5es trazia muitas dificuldades. Era uma legisla\u00e7\u00e3o em q ue, muitas vezes, as licita\u00e7\u00f5es demoravam meses.\r\nO resultado disso era que n\u00f3s t\u00ednhamos cirurgias adiadas, falta de medicamentos, falta de equipamentos p\u00fablicos, ve\u00edculos parados nas Prefeituras, ambul\u00e2ncias, ve\u00edculos da \u00e1rea da seguran\u00e7a, enfim, n\u00f3s t\u00ednhamos muitas coisas paradas no Brasil aguardando licita\u00e7\u00f5es, o que gerava total inseguran\u00e7a. Ou seja, o bom gestor n\u00e3o conseguia fazer um bom trabalho, infelizmente, porque, de acordo com a Lei de Licita\u00e7\u00f5es, para fazer tudo certo ele sempre fazia atrasado, muitas vezes prejudicando seriamente o servi\u00e7o p\u00fablico, a sa\u00fade p\u00fablica, a seguran\u00e7a p\u00fablica.\r\nNesse sentido, esta Casa aprovou uma nova lei, Sr. Presidente, tamb\u00e9m aprovada no Senado na semana passada, que aguarda san\u00e7\u00e3o presidencial. Entendo que esse \u00e9 um grande benef\u00edcio a todos os gestores p\u00fablicos deste Brasil, a todas as Prefeituras, \u00e0s Secretarias de Estado, aos Minist\u00e9rios, aos hospitais p\u00fablicos e a todos aqueles que dependem disso.\r\nEssa ser\u00e1 uma grande contribui\u00e7\u00e3o para a melhoria do servi\u00e7o p\u00fablico no Brasil, garantindo a transpar\u00eancia na presta\u00e7\u00e3o de contas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 998/2020, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 998, de 2020, sobre a altera\u00e7\u00e3o de diplomas legais e a transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear, representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A e da Nuclebr\u00e1s Equipamentos Pesados S/A.",
+        "tipoDiscurso": "APARTE",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, em rela\u00e7\u00e3o \u00e0 Medida Provis\u00f3ria n\u00ba 998, eu quero me ater \u00e0 quest\u00e3o das energias renov\u00e1veis, porque esse deve ser um compromisso de todos n\u00f3s.\r\nA Espanha, h\u00e1 poucos anos, deu apoio \u00e0s energias renov\u00e1veis, em especial \u00e0 energia solar, e teve um \u00f3timo desenvolvimento nesse setor. Depois ela resolveu taxar, resolveu tirar os subs\u00eddios. O que aconteceu? A Espanha ficou para tr\u00e1s na Europa, e fez uma revis\u00e3o para dar novamente apoio \u00e0 energia renov\u00e1vel.\r\nIsso serve de aprendizado para o Brasil, que quer retirar o apoio \u00e0s energias renov\u00e1veis! Temos um potencial extraordin\u00e1rio. A grande maioria dos pa\u00edses do mundo apoia as energias renov\u00e1veis. A quest\u00e3o n\u00e3o \u00e9 s\u00f3 tarif\u00e1ria. O impacto \u00e9 extremamente pequeno. Hoje, no Brasil, a energia solar corresponde a um pouquinho mais do que 1% da energia consumida. Mas sabem quantos empregos ela gera? Ela gera 200 mil empregos, grande parte deles no Nordeste, reduzindo as desigualdades regionais e as desigualdades sociais neste Pa\u00eds!\r\nPodemos aproveitar um recurso que temos em grande quantidade, a energia solar, uma energia barata, tecnol\u00f3gica, do s\u00e9culo XXI. E a\u00ed v\u00eam aqueles que querem fazer c\u00e1lculo de tarifa. Pode ser que exista nisso alguma coer\u00eancia. Mas, considerando-se a possibilidade de desenvolvimento estrat\u00e9gico para o Brasil, de desenvolvimento regional, de oferecimento de energia mais barata, de extraordin\u00e1rio potencial de gera\u00e7\u00e3o de empregos - o Brasil pode ser um dos l\u00edderes mundiais em energia renov\u00e1vel -, n\u00f3s vamos retirar o apoio a esse tipo de energia? Isso \u00e9 absolutamente incoerente! E vamos manter o apoio, como foi dito aqui, \u00e0 gera\u00e7\u00e3o de energia produzida atrav\u00e9s de \u00f3leo diesel, atrav\u00e9s de carv\u00e3o, atrav\u00e9s de energia nuclear? N\u00e3o \u00e9 esse o Brasil que n\u00f3s desejamos.\r\nN\u00f3s queremos gerar mais empregos. S\u00f3 no caso da energia e\u00f3lica, 100 mil empregos no Brasil! \u00c9 isto que queremos: um Brasil que pense grande, que pense estrategicamente, que n\u00e3o pense s\u00f3 em equil\u00edbrio tarif\u00e1rio. H\u00e1 muitas formas de se fazer equil\u00edbrio tarif\u00e1rio. Vai se tirar logo das renov\u00e1veis, que est\u00e3o indo muito bem? Esse \u00e9 um setor que est\u00e1 apresentando grandes solu\u00e7\u00f5es. Desculpem-me, isso \u00e9 falta de vis\u00e3o estrat\u00e9gica, \u00e9 falta de um pensamento maior, em que se considerem as potencialidades do Brasil. Como foi dito aqui por um Deputado, o Brasil \u00e9 campe\u00e3o em perda de oportunidades. Parece que estamos caindo novamente numa cilada.\r\nEnt\u00e3o, espero que esta mat\u00e9ria seja revista. N\u00f3s vamos bater nessa tecla, porque entendemos que o Brasil n\u00e3o pode e n\u00e3o deve perder esta oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, PARECER, COMISS\u00c3O MISTA, MPV 998/2020, MEDIDA PROVISORIA, FAVORAVEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao n\u00e3o atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 998, de 2020, sobre a altera\u00e7\u00e3o de diplomas legais e a transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear, representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A e da Nuclebr\u00e1s Equipamentos Pesados S/A.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, o nosso posicionamento em rela\u00e7\u00e3o \u00e0 MP 998/20, que diz respeito a energias renov\u00e1veis, \u00e9 muito simples: n\u00f3s n\u00e3o estamos discutindo apenas a quest\u00e3o tarif\u00e1ria, estamos discutindo pol\u00edtica de Estado, estamos discutindo pol\u00edticas de desenvolvimento do Pa\u00eds, quest\u00f5es que podem fazer grande diferen\u00e7a no futuro do Pa\u00eds. O mundo inteiro reconhece a import\u00e2ncia das energias renov\u00e1veis. Mais do que isso, reconhece a oportunidade da energia solar e, no Brasil, tamb\u00e9m, a energia e\u00f3lica, porque este \u00e9 um dos locais mais favor\u00e1veis, tanto para a gera\u00e7\u00e3o de energia solar, quanto para a de energia e\u00f3lica, em especial, Minas Gerais e as Regi\u00f5es Norte e Nordeste do Pa\u00eds.\r\nPortanto, n\u00f3s temos uma oportunidade estrat\u00e9gica, que precisa ser compreendida n\u00e3o como c\u00e1lculo de tarifa, mas como incentivo ao desenvolvimento do Pa\u00eds. O que \u00e9 mais importante hoje neste Pa\u00eds do que a gera\u00e7\u00e3o de empregos? Amigos e amigas, s\u00f3 o setor de energia solar gerou 200 mil empregos no Brasil, e n\u00f3s estamos discutindo a quest\u00e3o tarif\u00e1ria. Se isso desse um grande impacto na tarifa, o.k., mas ela \u00e9 extremamente desprez\u00edvel. Ou seja, estamos fazendo um c\u00e1lculo t\u00e9cnico e perdendo a visibilidade de projetar um futuro muito melhor para a nossa Na\u00e7\u00e3o.\r\nPor isto esta Casa \u00e9 importante, porque ela vai discutir pol\u00edtica. A quest\u00e3o t\u00e9cnica \u00e9 importante, mas a quest\u00e3o pol\u00edtica \u00e9 avalia\u00e7\u00e3o t\u00e9cnica e v\u00ea o retorno econ\u00f4mico e social para o Pa\u00eds, para a gera\u00e7\u00e3o de empregos, para o desenvolvimento regional, para a redu\u00e7\u00e3o dos custos das nossas empresas.\r\nEu tenho convic\u00e7\u00e3o de que, se n\u00e3o valorizarmos as energias renov\u00e1veis, n\u00f3s estaremos tendo um retrocesso em rela\u00e7\u00e3o \u00e0s oportunidades deste Pa\u00eds. Quantas oportunidades j\u00e1 perdemos? Eu fico receoso de termos, de novo, um retrocesso nesse aspecto t\u00e3o importante.\r\nEm 1912, houve uma decis\u00e3o pol\u00edtica neste Pa\u00eds, a de valorizar a energia e\u00f3lica. Rapidamente, das oito maiores empresas do mundo, sete vieram para o Brasil. Isso gerou 100 mil novos empregos, novas cadeias produtivas e tecnol\u00f3gicas. O Brasil, gra\u00e7as \u00e0 qualidade da ind\u00fastria nacional, produziu energia e\u00f3lica com o menor custo do mundo. Isso \u00e9 acreditar no Brasil, \u00e9 acreditar nos brasileiros, \u00e9 acreditar na ind\u00fastria nacional. E era isto o que n\u00f3s tamb\u00e9m esper\u00e1vamos em rela\u00e7\u00e3o \u00e0 energia solar: que pud\u00e9ssemos fortalecer as nossas ind\u00fastrias. Infelizmente, este Governo n\u00e3o tem um Minist\u00e9rio da Ind\u00fastria. \u00c9 uma pena, porque gostar\u00edamos de discutir aqui uma pol\u00edtica de reindustrializa\u00e7\u00e3o do Brasil, de fortalecer e acreditar nas nossas ind\u00fastrias. Muitas vezes, a ind\u00fastria deste Pa\u00eds \u00e9 vista como a culpada pelo que acontece. Ao contr\u00e1rio. A ind\u00fastria do Brasil \u00e9 v\u00edtima dos governos que por aqui passaram e que n\u00e3o souberam criar um ambiente de neg\u00f3cios favor\u00e1vel. As ind\u00fastrias trabalham com dificuldade.\r\nEsta tamb\u00e9m seria uma grande oportunidade de fazer o Brasil, em vez de importador, um grande exportador de placas, de pain\u00e9is solares. Portanto, este \u00e9 um tema que traz grandes oportunidades para o Brasil, e n\u00e3o se pode resumir a discuss\u00e3o meramente a uma quest\u00e3o tarif\u00e1ria. N\u00f3s queremos discutir o futuro deste Brasil. Por isso, queremos rediscutir esta medida provis\u00f3ria. Se formos vencidos hoje, estaremos aqui no ano que vem, junto com V.Exas., para rever este assunto t\u00e3o fundamental e estrat\u00e9gico para o Brasil e os brasileiros.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T23:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 998/2020, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI DO DESENVOLVIMENTO DO SETOR EL\u00c9TRICO, EXTIN\u00c7\u00c3O, SUBS\u00cdDIO, FONTE ALTERNATIVA DE ENERGIA, ENERGIA SOLAR, ENERGIA E\u00d3LICA, CR\u00cdTICA.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Protesto contra a remo\u00e7\u00e3o de subs\u00eddios concedidos ao setor de gera\u00e7\u00e3o de energias renov\u00e1veis pela Medida Provis\u00f3ria n\u00ba 998, de 2020, acerca da altera\u00e7\u00e3o de diplomas legais e da transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear, representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A e da Nuclebr\u00e1s Equipamentos Pesados S/A. Defesa de retirada, pelo Governo Federal, de subs\u00eddios concedidos na gera\u00e7\u00e3o de energias poluentes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, s\u00f3 lamentarmos que as energias e\u00f3lica e solar n\u00e3o tenham sido tratadas da mesma forma. Fica aqui registrada a minha tristeza nesse sentido.\r\nO SR. ELIAS VAZ (PSB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, apenas quero registar que o Deputado Bira do Pindar\u00e9 teve problema em algumas vota\u00e7\u00f5es anteriores, mas manifesta que votou com o partido.\r\nO SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, esperamos que o Governo tamb\u00e9m mande para esta Casa a retirada de subs\u00eddios para as energias sujas deste Pa\u00eds. S\u00e3o gastos 50 bilh\u00f5es de reais de subs\u00eddios por ano exatamente com energias poluentes, sujas, aquelas que n\u00f3s n\u00e3o desejamos, ou seja, com a energia t\u00e9rmica, feita a carv\u00e3o e a \u00f3leo diesel, e a energia nuclear. \u00c9 essa coer\u00eancia que n\u00f3s esperamos. Pelo menos, vamos tratar todo mundo igual, e n\u00e3o beneficiar o que n\u00f3s entendemos que \u00e9 prejudicial.\r\nN\u00e3o d\u00e1 para entender o que est\u00e1 acontecendo. Sinceramente, isso \u00e9 muito triste.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=220&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T23:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JO\u00c3O DORIA, GOVERNADOR, S\u00c3O PAULO (ESTADO), INSTITUTO BUTANTAN, ATUA\u00c7\u00c3O, PRODU\u00c7\u00c3O, VACINA, CORONAV\u00cdRU.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Empenho do Governador do Estado de S\u00e3o Paulo, Jo\u00e3o Doria, e do Instituto Butantan na produ\u00e7\u00e3o de vacinas contra a Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, estou aqui apenas para reconhecer o esfor\u00e7o do Governo do Estado de S\u00e3o Paulo e do Instituto Butantan na fabrica\u00e7\u00e3o de vacinas, fundamental para diminuirmos os riscos da pandemia, os efeitos, as mortes, as quest\u00f5es econ\u00f4micas e sociais, a inseguran\u00e7a.\r\nO nosso laborat\u00f3rio, nosso centro de pesquisa Butantan, considerado hoje entre os melhores do mundo, fabricar\u00e1 1 milh\u00e3o de vacinas por dia para ajudar o Brasil e os brasileiros. Ent\u00e3o, que seja aqui reconhecido o esfor\u00e7o do nosso Governador Jo\u00e3o D\u00f3ria, do Instituto Butantan, da Secretaria de Sa\u00fade do Estado de S\u00e3o Paulo e do Governo do Estado de S\u00e3o Paulo para ajudar o Brasil neste dif\u00edcil momento.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=225&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T23:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GOVERNO FEDERAL, INCENTICO, IND\u00daSTRIA, PLACA, ENERGIA E\u00d3LICA. \r\nMINIST\u00c9RIO, IND\u00daSTRIA, CRIA\u00c7\u00c3O.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Necessidade de apoio do Governo Federal \u00e0 ind\u00fastria de placas e pain\u00e9is solares e de energia e\u00f3lica. Defesa de cria\u00e7\u00e3o do Minist\u00e9rio da Ind\u00fastria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Evair, eu tamb\u00e9m quero cumpriment\u00e1-lo e pedir ao Governo que tenha um pouco mais de carinho pelas ind\u00fastrias brasileiras que produzem placas e pain\u00e9is solares e energia e\u00f3lica no Brasil.\r\n Estas ind\u00fastrias, de alt\u00edssima qualidade, nunca viveram tanta inseguran\u00e7a como agora. Elas precisam de isonomia e do apoio do Governo para continuarem gerando empregos, pagarem os impostos das cadeias produtivas e das cadeias tecnol\u00f3gicas e, efetivamente, darem a autonomia de que o Brasil precisa.\r\nN\u00f3s precisamos que o Governo n\u00e3o s\u00f3 as apoie, mas tamb\u00e9m crie o Minist\u00e9rio da Ind\u00fastria, j\u00e1 que a ind\u00fastria \u00e9 fundamental para o Brasil. O agroneg\u00f3cio est\u00e1 sendo contemplado, mas a ind\u00fastria, infelizmente, n\u00e3o est\u00e1, e ela \u00e9 um setor muito importante da economia do Pa\u00eds. \r\nPortanto, deixo aqui nosso pedido para que a ind\u00fastria do Pa\u00eds tamb\u00e9m seja vista como prioridade deste Governo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=227&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, APROVA\u00c7AO, PLP 135/2020, PROJETO DE LEI COMPLEMENTAR, ALTERA\u00c7\u00c3O, LEI DE RESPONSABILIDADE FISCAL, EXECU\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, FUNDO NACIONAL DE DESENVOLVIMENTO CIENT\u00cdFICO E TECNOL\u00d3GICO (FNDCT).",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Import\u00e2ncia do Projeto de Lei Complementar n\u00ba 135, de 2020, acerca da altera\u00e7\u00e3o da Lei Complementar n\u00ba 101, de 2000, com vista \u00e0 veda\u00e7\u00e3o do limite de empenho e movimenta\u00e7\u00e3o financeira das despesas relativas \u00e0 inova\u00e7\u00e3o e ao desenvolvimento cient\u00edfico e tecnol\u00f3gico, custeadas por fundo criado para tal finalidade; bem como a altera\u00e7\u00e3o da Lei n\u00ba 11.540, de 2007, para modifica\u00e7\u00e3o da natureza e das fontes de receitas do Fundo Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico - FNDCT; e \u00e0 inclus\u00e3o de programas desenvolvidos por organiza\u00e7\u00f5es sociais entre as institui\u00e7\u00f5es com acesso aos recursos do - FNDCT.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, da mesma forma, quero cumprimentar todos os Parlamentares desta Casa por essa grande contribui\u00e7\u00e3o para o presente e para o futuro do Brasil.\r\nQuero cumprimentar aqui o autor desta mat\u00e9ria, o Senador Izalci, do PSDB, um Senador que tem feito um trabalho muito relevante em prol da ci\u00eancia e tecnologia. \r\nO Parlamento brasileiro est\u00e1 de parab\u00e9ns! Esta mat\u00e9ria passou com 72 votos a 1 no Senado, e hoje vai passar aqui praticamente com a vota\u00e7\u00e3o de todos os Parlamentares desta Casa, o que mostra o compromisso do Parlamento com o futuro deste Pa\u00eds.\r\nQuero cumprimentar todos os pesquisadores, porque, mesmo que os recursos n\u00e3o sejam o que n\u00f3s gostar\u00edamos, v\u00e3o ser regulares e v\u00e3o ter que ser usados para a sua finalidade, que hoje \u00e9 o Fundo Nacional de Desenvolvimento da Ci\u00eancia e Tecnologia, o principal fundo de financiamento da pesquisa no Brasil.\r\nParab\u00e9ns ao Parlamento brasileiro!\r\nViva a pesquisa do Pa\u00eds!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=217&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 137/2020, PROJETO DE LEI COMPLEMENTAR, VOTA\u00c7\u00c3O, CONTRARIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Contrariedade \u00e0 vota\u00e7\u00e3o a\u00e7odada do Projeto de Lei Complementar n\u00ba 137, de 2020, sobre a cria\u00e7\u00e3o de fonte de recursos para enfrentamento do estado de calamidade p\u00fablica decorrente da Covid-19, reconhecido pelo Congresso Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria fazer uma considera\u00e7\u00e3o.\r\nEu n\u00e3o concordei inicialmente com esta mat\u00e9ria porque o argumento \u00e9 que ela vai ajudar na quest\u00e3o da pandemia. Eu n\u00e3o entendo assim, porque este ano este Parlamento, de uma forma absolutamente acertada, criou o conceito de \"or\u00e7amento de guerra\", que significa que este ano, excepcionalmente, o Governo, com autoriza\u00e7\u00e3o desta Casa, poder\u00e1 realizar as despesas necess\u00e1rias tanto para a \u00e1rea da sa\u00fade quanto para as \u00e1reas econ\u00f4mica e social.\r\nEsta proposta pega todos os fundos, coloca tudo numa mesma caixa e fala: \"Vamos acabar com tudo para ajudar no combate \u00e0 pandemia\". Primeiro, isso n\u00e3o vai ajudar na pandemia, porque j\u00e1 h\u00e1 autoriza\u00e7\u00e3o desta Casa para que sejam usados os recursos necess\u00e1rios. Ent\u00e3o, n\u00e3o est\u00e1 faltando recurso para combater a pandemia, nem para a \u00e1rea social, nem para a \u00e1rea da sa\u00fade, nem para a \u00e1rea econ\u00f4mica. Segundo, pode ser que alguns fundos realmente n\u00e3o estivessem sendo utilizados, Sr. Presidente, mas provavelmente grande parte deles t\u00eam uma finalidade importante para a sociedade, para o Governo, para atividades significativas, que v\u00e3o ser descontinuadas.\r\nEnt\u00e3o, infelizmente, o projeto \u00e9 equivocado. E \u00e9 prefer\u00edvel que erremos no projeto, porque, assim, o Governo vai ter que mandar a mat\u00e9ria para c\u00e1 de novo para rediscutirmos e fazermos as corre\u00e7\u00f5es adequadas.\r\nEsta n\u00e3o \u00e9 uma mat\u00e9ria para se aprovar correndo, porque vamos cometer uma s\u00e9rie de erros. Os erros j\u00e1 come\u00e7aram e v\u00e3o continuar. Certamente esta mat\u00e9ria vai ter que voltar aqui para fazermos uma an\u00e1lise mais adequada do que est\u00e1 sendo cortado e do que n\u00e3o est\u00e1 sendo cortado. \r\nInfelizmente, esta \u00e9 uma mat\u00e9ria que n\u00e3o poderia ser aprovada de forma a\u00e7odada. E volto a dizer: isso em nada, em absolutamente nada, contribui para os gastos do Governo neste ano em raz\u00e3o da pandemia.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=257&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PLP 137/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 14, apresentada ao Projeto de Lei Complementar n\u00ba 137, de 2020, sobre a cria\u00e7\u00e3o de fonte de recursos para enfrentamento do estado de calamidade p\u00fablica decorrente da Covid-19, reconhecido pelo Congresso Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, da mesma forma, o PSDB entende que a emenda \u00e9 relevante tanto para o agro quanto para a quest\u00e3o do FUST.\r\nComo foi dito aqui, o FUST \u00e9 fundamental para a quest\u00e3o da conectividade, e, se h\u00e1 algo em que o Brasil ainda est\u00e1 atrasado e precisa melhorar muito, principalmente no campo, nas regi\u00f5es mais distantes, \u00e9 a quest\u00e3o da conectividade. Portanto, n\u00f3s somos favor\u00e1veis \u00e0 manuten\u00e7\u00e3o desse fundo. Ent\u00e3o, que ele seja retirado da mat\u00e9ria principal.\r\nSomos favor\u00e1veis \u00e0 emenda. O voto \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T21:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MODERNIZA\u00c7\u00c3O, LEI DE LICITA\u00c7\u00c3O, APROVA\u00c7\u00c3O, SENADO FEDERAL.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Aprova\u00e7\u00e3o, pelo Senado Federal, do Projeto de Lei n\u00ba 4.253, de 2020, (Substitutivo da C\u00e2mara dos Deputados ao Projeto de Lei  n\u00ba 559, de 2013, do Senado Federal), relativo ao estabelecimento de normas gerais de licita\u00e7\u00e3o e contrata\u00e7\u00e3o para as administra\u00e7\u00f5es p\u00fablicas diretas, aut\u00e1rquicas e fundacionais da Uni\u00e3o, dos Estados, do Distrito Federal e dos Munic\u00edpios, e \u00e0 altera\u00e7\u00e3o de diplomas legais (moderniza\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es e Contratos - Lei n\u00ba 8.666, de1993.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, enquanto os Deputados e Deputadas est\u00e3o votando, eu quero trazer uma boa not\u00edcia, para que os Parlamentares desta Casa a levem aos Prefeitos, aos gestores, aos diretores de hospitais deste Pa\u00eds, \u00e0s universidades p\u00fablicas, \u00e0s Secretarias de Estado e ao Governo Federal. Falo de um trabalho da Casa: a nova Lei de Licita\u00e7\u00f5es do Brasil. Ela j\u00e1 foi aprovada pelo Senado e agora foi \u00e0 san\u00e7\u00e3o presidencial.\r\nEu vou trazer, em 1 minuto, tr\u00eas ou quatro grandes contribui\u00e7\u00f5es dessa nova legisla\u00e7\u00e3o, que encerra a etapa da Lei n\u00ba 8.666, que era bem intencionada, do que V.Exas. s\u00e3o testemunhas, mas trazia muita inseguran\u00e7a, muitos problemas, fazendo com que, na grande maioria das vezes, recursos dispon\u00edveis n\u00e3o pudessem ser utilizados. Por isso, eram suspensas cirurgias, faltavam medicamentos, ficavam parados carros, viaturas da pol\u00edcia, ambul\u00e2ncias, muitas vezes tratores, m\u00e1quinas, caminh\u00f5es, ve\u00edculos da \u00e1rea social, assim como setores de manuten\u00e7\u00e3o das Prefeituras. Tudo ficava parado aguardando licita\u00e7\u00e3o, que demora de 3 a 6 meses, \u00e0s vezes at\u00e9 mais. Agora, n\u00f3s mudamos os conceitos da lei.\r\nA nova lei vai exigir transpar\u00eancia, o que \u00e9 fundamental. Precisamos sempre ter transpar\u00eancia. Ent\u00e3o, uma das quest\u00f5es da lei \u00e9 a cria\u00e7\u00e3o de um portal da transpar\u00eancia, que vai demonstrar todas as compras p\u00fablicas do Pa\u00eds e permitir que todos as fiscalizem. Enfim, vamos simplificar e garantir transpar\u00eancia, e n\u00e3o complicar como a lei anterior fazia.\r\nH\u00e1 tamb\u00e9m outra grande seguran\u00e7a para todos os gestores que fazem compras p\u00fablicas no Brasil: os Tribunais de Contas do Pa\u00eds passam agora a ser consultivos. Eles ter\u00e3o que ser consultados pelas Prefeituras, pelos gestores, e t\u00eam que dar parecer pr\u00e9vio, para que n\u00e3o haja um questionamento l\u00e1 na frente. \r\nN\u00f3s sabemos que as Prefeituras se esfor\u00e7am para fazer o melhor e, depois, s\u00e3o questionadas no Tribunal de Contas - \u00e0s vezes, por meras quest\u00f5es de entendimento, de interpreta\u00e7\u00e3o. Ent\u00e3o, isso vai trazer seguran\u00e7a na hora da compra, na hora dos contratos.\r\nN\u00f3s queremos um parecer pr\u00e9vio do Tribunal de Contas. N\u00f3s vamos facilitar as compras diretas. Sr. Presidente, este \u00e9 um assunto relevante, que os prefeitos estavam aguardando h\u00e1 muito tempo. Este era um grande pedido dos prefeitos para esta Casa. Vai ser mais f\u00e1cil fazer compra direta. Se n\u00e3o h\u00e1 licita\u00e7\u00e3o e h\u00e1 um risco de suspens\u00e3o do atendimento, de preju\u00edzo do atendimento ou qualquer coisa que traga preju\u00edzo, justifica-se uma compra emergencial. \u00c9 l\u00f3gico que voc\u00ea vai ter que fazer tr\u00eas pesquisas, vai colocar no Portal da Transpar\u00eancia, mas vai comprar rapidamente.\r\nA raz\u00e3o principal do setor p\u00fablico \u00e9 atender bem a sociedade. N\u00f3s respeitamos o Tribunal de Contas, mas n\u00e3o podemos trabalhar em fun\u00e7\u00e3o do Tribunal de Contas. Temos que trabalhar em fun\u00e7\u00e3o da sociedade.\r\nEu n\u00e3o tenho d\u00favida de que essa lei \u00e9 do bom gestor, para que n\u00f3s possamos prestar servi\u00e7os mais r\u00e1pidos e mais eficientes \u00e0 sociedade brasileira. \r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=267&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T21:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PLP 137/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO DA SOCIAL DEMOCRACIA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso IX, art. 1\u00ba, do substitutivo oferecido pelo Relator ao  Projeto de Lei Complementar n\u00ba 137, de 2020, sobre a cria\u00e7\u00e3o de fonte de recursos para enfrentamento do estado de calamidade p\u00fablica decorrente da Covid-19, reconhecido pelo Congresso Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - N\u00f3s somos favor\u00e1veis \u00e0 ideia de manter esse fundo exatamente porque ele \u00e9 do setor de telecomunica\u00e7\u00f5es do Brasil, um setor fundamental.\r\nPortanto, o voto ser\u00e1 \"n\u00e3o\", para que possamos acatar essa emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=272&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, PL 10887/2018, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA IMPROBIDADE ADMINISTRATIVA, APRIMORAMENTO, LEGISLA\u00c7\u00c3O, PREFEITO, CARLOS ZARATTINI, RELATOR, DI\u00c1LOGO POL\u00cdTICO, AUDI\u00caNCIA P\u00daBLICA, CORRUP\u00c7\u00c3O, GEST\u00c3O P\u00daBLICA.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 10.887, de 2018, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00b0 8.429, de 1992, acerca da improbidade administrativa.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente Arthur Lira, quero cumprimentar os nobres colegas aqui presentes e falar sobre esse tema t\u00e3o importante para a vida p\u00fablica no Brasil, para os gestores p\u00fablicos, para aqueles que escolhem a vida p\u00fablica, para aqueles que assumem a responsabilidade de serem gestores p\u00fablicos, de serem gestores das despesas p\u00fablicas. \r\nN\u00f3s temos hoje uma situa\u00e7\u00e3o, Sr. Presidente, muito dif\u00edcil para quem escolheu a vida p\u00fablica para servir a sociedade. Acredito eu que n\u00e3o existe hoje uma atividade mais temer\u00e1ria do que ser prefeito neste Pa\u00eds. \u00c9 uma pena, porque muitos que t\u00eam ou teriam todas as condi\u00e7\u00f5es de servir a popula\u00e7\u00e3o, hoje, t\u00eam receio de enveredar nesse setor, por conta de uma situa\u00e7\u00e3o temer\u00e1ria. Quase todos eles, invariavelmente, ser\u00e3o acusados e condenados por improbidade administrativa. Mesmo que sejam honestos, probos, bem-intencionados, responder\u00e3o como se desonestos fossem. \r\nEu quero dizer a todos que estou na vida p\u00fablica h\u00e1 30 anos. Quantos aqui j\u00e1 foram prefeitos, governadores, secret\u00e1rios de Estado, diretores de hospitais, administradores de universidades, reitores, pesquisadores? Todos s\u00e3o ordenadores de despesas. Todos n\u00f3s temos uma responsabilidade muito grande com a coisa p\u00fablica.\r\nNesse sentido, Sr. Presidente, eu queria reconhecer o esfor\u00e7o do Deputado Carlos Zarattini, que trabalhou juntamente com a OAB, que fez dezenas de audi\u00eancias p\u00fablicas. Fizemos audi\u00eancia p\u00fablica em S\u00e3o Paulo, com um debate exatamente para que pud\u00e9ssemos buscar uma legisla\u00e7\u00e3o mais justa. E o que \u00e9 mais justo para a sociedade, Deputado Zarattini? \r\nAqui cumprimento o nosso querido Deputado Tadeu Alencar. \r\nO que \u00e9 mais justo? \u00c9 punir os desonestos. Todos n\u00f3s estamos unidos nessa causa. Desonesto tem que ser punido. Por isso, essa legisla\u00e7\u00e3o, Deputada Adriana, aumenta a puni\u00e7\u00e3o para os desonestos, para os corruptos, para aqueles que enriquecem ilicitamente, para aqueles que agem com dolo, com m\u00e1-f\u00e9, com intencionalidade. Esse \u00e9 papel do Parlamento.  \r\nPor outro lado, Deputado Eduardo Cury, n\u00f3s estamos dando um tratamento justo aos honestos, que s\u00e3o a maioria dos gestores p\u00fablicos deste Pa\u00eds. \r\nEu fiz uma pesquisa in\u00e9dita no Pa\u00eds, na Regi\u00e3o Metropolitana de Sorocaba, que abrange 27 Munic\u00edpios. Fizemos uma pesquisa, amigos, sobre os prefeitos de 2000 at\u00e9 2016 - portanto, quatro gest\u00f5es. Sabem qual foi o resultado? Passaram por essas 27 cidades, Deputado Orlando, 74 prefeitos. Sabem qual foi o destino desses prefeitos? Por sinal, eu conhe\u00e7o a grande maioria desses ex-prefeitos. Oitenta por cento desses prefeitos foram acusados de improbidade. E sabem qual \u00e9 o sin\u00f4nimo de improbidade? Desonestidade! Essas pessoas foram desonradas publicamente na sua hist\u00f3ria, na sua credibilidade, no seu esfor\u00e7o, no seu compromisso, na dedica\u00e7\u00e3o \u00e0 vida p\u00fablica. Sabem quantos foram condenados? Sessenta e quatro por cento, Deputado Orlando Silva. Isso significa que quase todos foram acusados, e a maioria foi condenada.\r\nExiste uma pesquisa aqui. Eu queria que todos prestassem aten\u00e7\u00e3o. Muitos n\u00e3o conhecem a motiva\u00e7\u00e3o que nos fez buscar essa lei mais justa para o Brasil. O Instituto de Direito P\u00fablico do Brasil, que \u00e9 ligado \u00e0 OAB, fez uma pesquisa aqui em Bras\u00edlia para saber qual foi a motiva\u00e7\u00e3o dos recursos. Em rela\u00e7\u00e3o a apenas 10% dos condenados, a condena\u00e7\u00e3o se dava por corrup\u00e7\u00e3o ou por enriquecimento il\u00edcito, ou seja, 90% daqueles que foram chamados de desonestos n\u00e3o enriqueceram, n\u00e3o atuaram como corruptos.\r\nEnt\u00e3o, n\u00f3s temos uma distor\u00e7\u00e3o da lei que foi criada para punir corruptos e desonestos.\r\nEla est\u00e1 punindo tamb\u00e9m os honestos. Infelizmente, amigos e amigas, punir honesto n\u00e3o diminui os desonestos. Ao contr\u00e1rio, punir honesto, Deputado Orlando Silva, afasta os honestos da vida p\u00fablica. Quantas pessoas de bem deixaram o Poder Executivo e n\u00e3o querem mais servir, mesmo sendo gestores muito bem avaliados? Muitas vezes, a pr\u00f3pria popula\u00e7\u00e3o n\u00e3o entende por que pessoas t\u00e3o bem avaliadas n\u00e3o querem mais ser candidatas a prefeito. Essas pessoas cansaram de ser injusti\u00e7adas, denegridas, de terem essa inseguran\u00e7a, de terem que gastar muito dinheiro com advogados. \r\nN\u00f3s precisamos ser justos. Afastar as pessoas de bem da vida p\u00fablica significa piorar a gest\u00e3o p\u00fablica, significa afastar pessoas de bem que poderiam dar grandes contribui\u00e7\u00f5es para a pol\u00edtica brasileira.\r\nNesse sentido, quem acompanhou, viu e conheceu a nossa legisla\u00e7\u00e3o vai saber que ela vai aumentar a puni\u00e7\u00e3o para o desonesto, mas vai dar um tratamento justo aos honestos e aos gestores de boa-f\u00e9. Essa \u00e9 a grande contribui\u00e7\u00e3o do Parlamento, Presidente Arthur Lira. N\u00f3s esperamos, a bem da democracia, que n\u00f3s possamos convidar as pessoas de bem, incentivar as pessoas de bem. Eu n\u00e3o me sinto nem um pouco \u00e0 vontade, com a legisla\u00e7\u00e3o atual, de incentivar meus filhos a participarem da vida p\u00fablica, dada a inseguran\u00e7a, dado o absurdo dessa atividade que se tornou t\u00e3o temer\u00e1ria no Brasil. \r\nEnt\u00e3o, com o apoio da nossa Confedera\u00e7\u00e3o Nacional de Munic\u00edpios, vamos aprovar esta mat\u00e9ria.\r\nMuito obrigado. Agrade\u00e7o a oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 10887/2018, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA IMPROBIDADE ADMINISTRATIVA, DEBATE, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB).",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Import\u00e2ncia da atualiza\u00e7\u00e3o da Lei de Improbidade Administrativa Sauda\u00e7\u00f5es aos Prefeitos Municipais brasileiros.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB, Sr. Presidente, respeita todos os gestores p\u00fablicos deste Pa\u00eds. A grande maioria dos gestores s\u00e3o honestos, t\u00eam boa-f\u00e9. \r\nEu quero dizer que n\u00f3s estamos cumprindo um papel importante com este Pa\u00eds, aumentando a penalidade para os desonestos, mas dando respeito e tratamento justo aos honestos, aos gestores de boa-f\u00e9 deste Pa\u00eds. \r\nRegistro o nosso abra\u00e7o a todos os Prefeitos deste Pa\u00eds.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 10887/2018, PROJETO DE LEI ORDINARIA, ALTERA\u00c7\u00c3O, LEI DA IMPROBIDADE ADMINISTRATIVA, APROVA\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Vitor Lippi",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 10.887, de 2018, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00b0 8.429, de 1992, acerca da improbidade administrativa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VITOR LIPPI (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria dizer da alegria de esta Casa ter feito uma grande justi\u00e7a nesta noite.\r\nN\u00f3s queremos, com essa nova Lei de Improbidade Administrativa, aprovada praticamente pela unanimidade dos Deputados, fazer um reconhecimento aos nossos Prefeitos, que lutam com muita dificuldade. Como \u00e9 dif\u00edcil a vida de um Prefeito! Quanta responsabilidade, Sr. Presidente! Como \u00e9 dif\u00edcil o dia a dia deles! Infelizmente, a legisla\u00e7\u00e3o que n\u00f3s t\u00ednhamos at\u00e9 o momento estava fazendo com que quase todos os Prefeitos do Brasil fossem acusados de improbidade, que significa desonestidade.\r\nEstamos mudando essa realidade, aumentando a pena para os desonestos, para aqueles que s\u00e3o corruptos, que enriquecem ilicitamente, mas dando agora um tratamento justo, pelas leis brasileiras, \u00e0 maioria dos Prefeitos do Brasil, que merecem o nosso respeito.\r\nEnt\u00e3o, a todos os gestores de boa-f\u00e9, a todos os batalhadores Prefeitos do Pa\u00eds, ao nosso querido Deputado Carlos Zarattini, aqui ficam as nossas homenagens.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

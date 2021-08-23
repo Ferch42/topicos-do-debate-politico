@@ -1,0 +1,758 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "DIA MUNDIAL DA DOEN\u00c7A RARA, SESS\u00c3O SOLENE, FRENTE PARLAMENTAR DE DOEN\u00c7AS RARAS, DIREITO \u00c0 SA\u00daDE, TRATAMENTO DE SA\u00daDE.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "An\u00fancio de realiza\u00e7\u00e3o pela Casa de sess\u00e3o solene ao ensejo do transcurso do Dia Mundial das Doen\u00e7as Raras. Convite \u00e0 sociedade brasileira para participa\u00e7\u00e3o no evento, no dia 27 de fevereiro de 2019, \u00e0s 9h, no plen\u00e1rio da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (Bloco/PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero agradecer a V.Exa. pela generosidade de me conceder a palavra. Quando me chamou, vim correndo ao plen\u00e1rio para falar sobre um tema muito importante.\r\nDesde a legislatura passada temos atuado como Presidente da Frente Parlamentar de Doen\u00e7as Raras da C\u00e2mara dos Deputados. Agora estamos nos aproximando do dia 28 de fevereiro, o Dia Mundial de Doen\u00e7as Raras. O Presidente Rodrigo Maia acatou nosso requerimento no primeiro dia de trabalho e atividades legislativas. Pedimos que seja realizada, no dia 27 de fevereiro, no plen\u00e1rio da C\u00e2mara dos Deputados, sess\u00e3o solene em homenagem ao Dia Mundial de Doen\u00e7as Raras.\r\nNo Brasil, houve muitos avan\u00e7os, mas n\u00e3o h\u00e1 muito o que comemorar. H\u00e1 muito ainda que se lutar por essa popula\u00e7\u00e3o t\u00e3o numerosa. No Pa\u00eds, a cada 100 mil pessoas nascidas vivas, 65 nascem com algum tipo de doen\u00e7a rara. Estima-se que haja mais de 8 mil tipos de doen\u00e7as raras no Brasil, e a maior parte delas n\u00e3o tem ainda sequer um nome, n\u00e3o foi catalogada ainda. Para a maior parte delas n\u00e3o h\u00e1 nenhum tipo de tratamento, nem paliativo, para dar apoio, suporte a essas fam\u00edlias. Ent\u00e3o, as fam\u00edlias ficam completamente desprovidas, abandonadas, esquecidas, espalhadas nos mais de 5 mil Munic\u00edpios brasileiros.\r\nN\u00f3s temos que virar essa p\u00e1gina no nosso Pa\u00eds. Essa sess\u00e3o solene, j\u00e1 no in\u00edcio desta nova legislatura, com certeza vai marcar os trabalhos e vai ser uma oportunidade de os Parlamentares que desconhecem essa causa se engajarem nessa luta, que \u00e9 uma luta de todos n\u00f3s, \u00e9 uma luta de todos os Parlamentares.\r\nConvidamos a Primeira-Dama a estar presente nessa sess\u00e3o solene e tamb\u00e9m a esposa do hoje Ministro Dr. Sergio Moro. A Ministra Damares confirmou que a equipe dela tamb\u00e9m se far\u00e1 presente nesta Casa, entre outras entidades, associa\u00e7\u00f5es que militam, que atuam, no dia a dia, em prol das pessoas com doen\u00e7a rara no nosso Pa\u00eds.\r\nSomos todos raros. Por isso, eu quero convidar a sociedade brasileira a participar, no dia 27 de fevereiro, \u00e0s 9 horas, no plen\u00e1rio da C\u00e2mara dos Deputados, dessa sess\u00e3o solene em homenagem ao Dia Mundial de Doen\u00e7as Raras.\r\nH\u00e1 muito o que fazer por mais de 13 milh\u00f5es de brasileiros que t\u00eam algum tipo de doen\u00e7a rara no nosso Pa\u00eds. Como eu disse, est\u00e3o abandonados e esquecidos. Mas n\u00f3s Parlamentares temos a miss\u00e3o de ser a voz de milhares de pessoas, de crian\u00e7as espalhadas em todo o Brasil, em todo o territ\u00f3rio nacional.\r\nEu conclamo todas essas entidades, toda a sociedade civil organizada, as associa\u00e7\u00f5es, principalmente as que militam aqui no Distrito Federal, que atuam, que trabalham em favor das pessoas com algum tipo de doen\u00e7a rara a virem ao Congresso Nacional no dia 27 de fevereiro.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=219&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T09:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, DIA MUNDIAL DA DOEN\u00c7A RARA, LEITURA, PRONUNCIAMENTO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Leitura do discurso encaminhado pelo Presidente Rodrigo Maia, acerca do transcurso do Dia Mundial das Doen\u00e7as Raras. Agradecimento aos convidados presentes.",
+        "tipoDiscurso": "FALA DO PRESIDENTE OU NO EXERC\u00cdCIO DA PRESID\u00caNCIA",
+        "transcricao": "O SR. PRESIDENTE (Diego Garcia. Bloco/PODE - PR) - Neste momento, vamos fazer a leitura do discurso do Presidente da C\u00e2mara dos Deputados, Sr. Rodrigo Maia:\r\n\"Senhoras e Senhores, \u00e9 com grande satisfa\u00e7\u00e3o que, mais uma vez, esta Casa homenageia o Dia Mundial das Doen\u00e7as Raras, celebrado no \u00faltimo dia de fevereiro. Esta \u00e9, no entanto, uma ocasi\u00e3o \u00fanica. Pela primeira vez, a efem\u00e9ride \u00e9 celebrada ap\u00f3s sua oficializa\u00e7\u00e3o no Brasil, que aconteceu em julho do ano passado, com a san\u00e7\u00e3o da Lei n\u00ba 13.693, de 2018. Agora, na mesma data comemoramos tamb\u00e9m o Dia Nacional das Doen\u00e7as Raras.\r\nA Presid\u00eancia da C\u00e2mara dos Deputados agradece ao Deputado Diego Garcia a iniciativa de requerer a realiza\u00e7\u00e3o desta solenidade, ao passo que d\u00e1 as boas-vindas a todos os presentes.\r\n\tAo celebrar o Dia Mundial das Doen\u00e7as Raras, focamos aten\u00e7\u00f5es em uma quest\u00e3o muito pouco debatida no \u00e2mbito da valoriza\u00e7\u00e3o da sa\u00fade e sua promo\u00e7\u00e3o como um direito de todos, tal qual se inscreve na Constitui\u00e7\u00e3o Federal. Para isso, \u00e9 preciso olhar para cada indiv\u00edduo e conhecer suas necessidades espec\u00edficas. Quando se trata de um direito universal, ningu\u00e9m pode ser exclu\u00eddo.\r\n\tNo Brasil, estima-se que 13 milh\u00f5es de pessoas tenham alguma doen\u00e7a rara, entre as mais de 7 mil j\u00e1 descritas pela literatura m\u00e9dica. As dificuldades de diagn\u00f3stico e tratamento s\u00e3o grandes, como bem sabem as pessoas portadoras de doen\u00e7as raras e suas fam\u00edlias - que podem passar anos em busca das respostas corretas.\r\n\t\u00c9 certo que houve avan\u00e7os nos \u00faltimos anos, especialmente ap\u00f3s a institui\u00e7\u00e3o, em 2014, da Pol\u00edtica Nacional de Aten\u00e7\u00e3o Integral \u00e0s Pessoas com Doen\u00e7as Raras pelo Minist\u00e9rio da Sa\u00fade. Por\u00e9m, faz falta um esfor\u00e7o maior do poder p\u00fablico para que ela seja implantada em todo o territ\u00f3rio brasileiro, reduzindo as desigualdades regionais no acesso \u00e0 sa\u00fade, e garantindo a efetiva\u00e7\u00e3o de todos os objetivos e diretrizes que comp\u00f5em essa pol\u00edtica.\r\n\tA burocracia \u00e9 outro entrave importante no acesso ao tratamento e at\u00e9 mesmo no avan\u00e7o de pesquisas cient\u00edficas no Pa\u00eds. As lentas etapas da regula\u00e7\u00e3o e da justi\u00e7a criam entraves \u00e0 dignidade humana e at\u00e9 ao direito \u00e0 vida dos acometidos por doen\u00e7as raras.\r\n\tS\u00e3o desafios grandes que o Estado precisa enfrentar. Para isso, deve servir de exemplo a obstina\u00e7\u00e3o com que as pessoas portadoras de doen\u00e7as raras e suas fam\u00edlias enfrentam as dificuldades que sobre elas se imp\u00f5em. Muitas vezes, s\u00e3o as pr\u00f3prias fam\u00edlias e associa\u00e7\u00f5es que localizam e traduzem as pesquisas mais recentes, al\u00e9m de batalhar pelo acesso \u00e0s medica\u00e7\u00f5es necess\u00e1rias.\r\n\tNa C\u00e2mara dos Deputados, estamos em constante contato com as demandas desses 13 milh\u00f5es de brasileiros. Contamos sempre com a valorosa presen\u00e7a de seus representantes em audi\u00eancias p\u00fablicas, reuni\u00f5es e semin\u00e1rios, onde colaboram com o trabalho legislativo e fiscalizador desta Casa de Leis.\r\n\tA Frente Parlamentar de Doen\u00e7as Raras, coordenada pelo Deputado Diego Garcia, \u00e9 mais um exemplo dessa colabora\u00e7\u00e3o, que desejamos seja cada vez mais frut\u00edfera.\r\nNo Dia Mundial e Nacional das Doen\u00e7as Raras, a C\u00e2mara dos Deputados reafirma seu compromisso com esse tema. Afinal, a sa\u00fade \u00e9 um direito de todos e de cada um.\r\nMuito obrigado.\"(Palmas.)\r\nEu quero agradecer a presen\u00e7a da Sra. Simone Arede, Presidente da Associa\u00e7\u00e3o M\u00e3es Metab\u00f3licas; do Sr. Antoine Daher, Presidente da Casa Hunter; da Senadora Daniella Ribeiro; do Sr. S\u00e9rgio Carazza, Secret\u00e1rio-Executivo do Minist\u00e9rio da Mulher, da Fam\u00edlia e dos Direitos Humanos, aqui representando a Ministra Damares. Eu quero agradecer tamb\u00e9m a presen\u00e7a do Sr. Luciano Mariz Maia, Vice-Procurador-Geral da Rep\u00fablica.\r\nGostaria de chamar para presidir a Mesa a Deputada Carla Zambelli, do Estado de S\u00e3o Paulo, para que eu possa fazer o meu pronunciamento de abertura desta sess\u00e3o solene. A Deputada \u00e9 umas da nossas Vice-Presidentes da Frente Parlamentar de Doen\u00e7as Raras na C\u00e2mara.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T09:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, DIA MUNDIAL DA DOEN\u00c7A RARA, CONSCIENTIZA\u00c7\u00c3O. \r\nFRENTE PARLAMENTAR DE DOEN\u00c7AS RARAS, INSTALA\u00c7\u00c3O, ATUA\u00c7\u00c3O.\r\nLEITURA, DEPOIMENTO, SELMA, MARING\u00c1 (PR), DOEN\u00c7A RARA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Transcurso do Dia Mundial das Doen\u00e7as Raras.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "H O SR. DIEGO GARCIA (Bloco/PODE - PR) - Bom dia a todos. Fico muito emocionado em ver tantas pessoas aqui reunidas por uma causa t\u00e3o nobre, t\u00e3o sens\u00edvel, que \u00e9 a causa das pessoas com doen\u00e7as raras.\r\nPrimeiramente, eu gostaria de agradecer a presen\u00e7a de cada um dos senhores que lotam este plen\u00e1rio hoje, em especial \u00e0 Sra. Primeira-Dama, ao Ministro da Sa\u00fade, \u00e0 Secret\u00e1ria Nacional da Fam\u00edlia, \u00e0 Secret\u00e1ria dos Direitos da Pessoa com Defici\u00eancia, ao Vice-Procurador-Geral da Rep\u00fablica, a todos os representantes de entidades e associa\u00e7\u00f5es, aos pacientes e seus familiares. Eu sei que todos os senhores t\u00eam uma agenda muito cheia e corrida, mas separaram esta manh\u00e3 para estarmos aqui, para lembrar o Dia Mundial das Doen\u00e7as Raras e comemorarmos a vida.\r\n\u00c9 muito gratificante ver a disponibilidade do Ministro Mandetta, que atendeu o nosso convite e abriu as portas do Minist\u00e9rio da Sa\u00fade para ouvir todos aqui presentes.\r\nMuito obrigado, Ministro. \u00c9 uma alegria t\u00ea-lo conosco e ter dividido com V.Exa., na Legislatura passada, o plen\u00e1rio da Comiss\u00e3o de Seguridade Social e Fam\u00edlia. \u00c9 uma alegria contar com a sua presen\u00e7a e com o seu apoio nessa nobre causa. Eu tenho certeza de que com essa sintonia n\u00f3s poderemos avan\u00e7ar na pol\u00edtica nacional de doen\u00e7as raras; encurtar o per\u00edodo de diagn\u00f3stico; garantir o tratamento paliativo e, quando poss\u00edvel, a oferta de medicamentos; diminuir a judicializa\u00e7\u00e3o e dar apoio integral aos pacientes e \u00e0 fam\u00edlia.\r\nTamb\u00e9m me sinto muito honrado com a presen\u00e7a da Primeira-Dama, uma pessoa que sempre se demonstrou t\u00e3o sens\u00edvel \u00e0 causa e que representa aqui o nosso Governo, que tamb\u00e9m est\u00e1 dando esse importante espa\u00e7o para que as doen\u00e7as raras ganhem visibilidade e voz.\r\nMuito obrigado, Primeira-Dama!\r\nEu n\u00e3o tenho d\u00favida de que a sua presen\u00e7a aqui enriquece muito o Dia Mundial das Doen\u00e7as Raras, o qual est\u00e1 sendo lembrado pela C\u00e2mara dos Deputados. Este dia acende em mim, como Presidente da Frente Parlamentar, e em todos os Parlamentares, nos pais, familiares e pacientes com doen\u00e7as raras, a esperan\u00e7a de um novo tempo, de vivermos algo que, pelo menos na Legislatura passada, n\u00e3o era comum vivermos. A senhora tem acendido essa esperan\u00e7a no cora\u00e7\u00e3o de cada um de n\u00f3s. Muito obrigado.\r\nMuito obrigado a todos voc\u00eas. Eu tenho certeza de que todas as contribui\u00e7\u00f5es que receberemos aqui hoje engrandecer\u00e3o e muito o nosso trabalho.\r\nEu quero ressaltar que ao t\u00e9rmino desta sess\u00e3o solene n\u00f3s nos encontraremos no Sal\u00e3o Negro para a instala\u00e7\u00e3o da Frente Parlamentar de Doen\u00e7as Raras. Eu quero agradecer aos mais de 200 Parlamentares que assinaram o requerimento de cria\u00e7\u00e3o da Frente Parlamentar e que est\u00e3o apoiando a causa das pessoas com doen\u00e7as raras. Eu acho que esses Parlamentares merecem os nossos aplausos e o nosso reconhecimento por esse trabalho.(Palmas.)\r\nO Dia Mundial das Doen\u00e7as Raras, celebrado este ano no dia 28 de fevereiro, vai muito al\u00e9m de uma oportunidade para homenagearmos a data. \u00c9 uma grande oportunidade para nos unirmos e juntos buscarmos mais avan\u00e7os em diagn\u00f3sticos e tratamentos, bem como conscientizar a popula\u00e7\u00e3o quanto a este tema, que ainda \u00e9 muito falado. Essa realidade precisa mudar, pois estamos falando de mais de 13 milh\u00f5es de brasileiros com doen\u00e7as raras e de cerca de 6% a 8% de pessoas no mundo, o que equivale a algo entre 420 milh\u00f5es e 560 milh\u00f5es de indiv\u00edduos que sofrem com essas enfermidades.\r\nSim, os dados s\u00e3o alarmantes, principalmente quando falamos sobre o tratamento dessas doen\u00e7as.\r\nSegundo a INTERFARMA, 95% dos tratamentos s\u00e3o realizados com medicamentos paliativos e servi\u00e7os de reabilita\u00e7\u00e3o. Apenas 3% equivalem a tratamentos cir\u00fargicos ou a utiliza\u00e7\u00e3o de medicamentos regulares que atenuam os sintomas, e 2% s\u00e3o tratamentos com medicamentos \u00f3rf\u00e3os, que s\u00e3o capazes de interferir na progress\u00e3o da doen\u00e7a.\r\nEu teria muitas coisas a dizer aqui no meu pronunciamento, mas vou respeitar os trabalhos da Casa e a sess\u00e3o que se iniciar\u00e1 ap\u00f3s o t\u00e9rmino desta sess\u00e3o solene. Tamb\u00e9m teremos a honra de ouvir os nossos convidados.\r\nEu quero encerrar com um testemunho que recebi ontem pelas redes sociais, Deputado Eros Biondini, Deputado Toninho Wandscheer, Deputada Chris Tonietto. S\u00e3o muitos os pacientes que t\u00eam nos procurado. A mobiliza\u00e7\u00e3o em todo o Brasil, a iniciativa e os trabalhos da Frente Parlamentar v\u00e3o se intensificar para unirmos as pessoas com doen\u00e7as raras em todo o Brasil. Aqui n\u00f3s n\u00e3o vamos levantar a bandeira da doen\u00e7a A, B, C ou D. Aqui somos todos raros. Vamos levantar a bandeira de todas as pessoas com doen\u00e7as raras no nosso Pa\u00eds, de todas as milhares de fam\u00edlias que t\u00eam uma pessoa com doen\u00e7a rara em sua casa, em seu lar.\r\nEu quero fazer o registro da Selma, que deve estar nos assistindo agora pela TV C\u00e2mara. Ela \u00e9 de Maring\u00e1 e me escreveu assim ontem pela p\u00e1gina no Facebook:\r\nBoa noite. Sou a Selma, a mulher que tem a neuralgia do nervo trig\u00eameo. Dia 28 eu vou estar na C\u00e2mara dos Vereadores aqui em Maring\u00e1, falando da neuralgia do nervo trig\u00eameo, porque o maringaense n\u00e3o sabe o que \u00e9 essa doen\u00e7a, e tem um grupo enorme de pacientes sofrendo com ela. Somos tratados com descaso pelo SUS. Sofremos demais quando vamos \u00e0 UPA tomar morfina, porque eles nos deixam por \u00faltimo para ser atendidos. Acham ser frescura. Uma m\u00e9dica olhou no Google para saber o que era, a outra me perguntou: \"onde est\u00e3o os beb\u00eas trig\u00eameos?\". Socorro! Aqui j\u00e1 teve v\u00e1rios suic\u00eddios, porque voc\u00ea deve saber, Deputado, que \u00e9 a pior dor do mundo. Pacientes foram mandados embora do servi\u00e7o porque acharam que o aben\u00e7oado estava mentindo estar doente. Claro, ningu\u00e9m v\u00ea nada na gente. N\u00e3o tem ferida. N\u00e3o ficamos carecas. Eu preferiria ter um c\u00e2ncer do que essa maldita doen\u00e7a e, quer saber, eu tamb\u00e9m j\u00e1 tentei suic\u00eddio, mas parece que Deus quer eu aqui para brigar pelos outros doentes.\r\nEsse \u00e9 o exemplo de milhares de pessoas com doen\u00e7as raras no nosso Pa\u00eds. N\u00f3s temos o desafio de atuar para mudar e transformar essa realidade.\r\nPor isso, eu quero contar com todos os Parlamentares. N\u00e3o importa o seu Estado. N\u00e3o importa a bandeira partid\u00e1ria. Aqui estamos unidos por uma causa que \u00e9 nobre e que envolve cerca de 13 milh\u00f5es de brasileiros.\r\nAgrade\u00e7o \u00e0s pessoas aqui presentes, \u00e0s pessoas que t\u00eam algum tipo de doen\u00e7a rara. Cito algumas delas que vieram de longe, como o Patrick, que \u00e9 do Estado da Para\u00edba e est\u00e1 aqui presente, como tamb\u00e9m a Mait\u00ea.\r\nMuito obrigado, Patrick, pela sua presen\u00e7a.\r\nCad\u00ea a Mait\u00ea?\r\nA sua m\u00e3e est\u00e1 ali. A Mait\u00ea foi a nossa mascote no bloco de raros no fim de semana no carnaval de Bras\u00edlia.(Palmas.)\r\nEm nome desses pacientes, quero agradecer a todos voc\u00eas, todas as fam\u00edlias.\r\nMuito obrigado.\r\nAli no Sal\u00e3o Negro vamos dar voz a todos os que quiserem falar tamb\u00e9m, para se pronunciarem e se apresentarem para o Brasil todo.\r\nMuito obrigado.\r\nQue Deus aben\u00e7oe os nossos trabalhos.\r\nQue Deus aben\u00e7oe a Frente Parlamentar de Doen\u00e7as Raras!\r\nSomos todos raros. Vamos lutar por essas milhares de pessoas espalhadas em todo o territ\u00f3rio nacional.\r\nDeus aben\u00e7oe voc\u00eas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FRENTE PARLAMENTAR EM DEFESA DA VIDA E DA FAM\u00cdLIA, LAN\u00c7AMENTO.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Convite aos Parlamentares para o ato de lan\u00e7amento da Frente Parlamentar em Defesa da Vida e da Fam\u00edlia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (Bloco/PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu queria aproveitar esta oportunidade para convidar todos os Parlamentares para o lan\u00e7amento, amanh\u00e3, no Sal\u00e3o Nobre da C\u00e2mara dos Deputados, a partir das 9h30min, da Frente Parlamentar em Defesa da Vida e da Fam\u00edlia. Lideran\u00e7as de todos os Estados estar\u00e3o presentes aqui na Casa. \r\nEu gostaria de convidar todos os Parlamentares. O evento ser\u00e1 \u00e0s 9h30min, no Sal\u00e3o Nobre. Fa\u00e7o o registro para que todos compare\u00e7am.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=390&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-09T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "QUEST\u00c3O DE ORDEM, INCLUS\u00c3O, MEDIDA PROVIS\u00d3RIA, PAUTA (PROCESSO LEGISLATIVO), ORDEM DO DIA, LEITURA, DELIBERA\u00c7\u00c3O, ORDEM, SOBRESTAMENTO DE PAUTA, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO BRASILEIRO DE AERON\u00c1UTICA, EXPLORA\u00c7\u00c3O, SERVI\u00c7OS A\u00c9REOS P\u00daBLICOS, EMPRESA ESTRANGEIRA, MPV 866/2018, AUTORIZA\u00c7\u00c3O, PODER EXECUTIVO, CRIA\u00c7\u00c3O, EMPRESA P\u00daBLICA, NAV BRASIL SERVI\u00c7OS DE NAVEGA\u00c7\u00c3O A\u00c9REA S. A., MPV 867/2018,  C\u00d3DIGO FLORESTAL (2012), IM\u00d3VEL RURAL, PRAZO, ADES\u00c3O, PROGRAMA DE REGULARIZA\u00c7\u00c3O AMBIENTAL (PRA), MPV 868/2018, LEI DA ANA, COMPET\u00caNCIA, AG\u00caNCIA NACIONAL DE \u00c1GUAS (ANA), NORMATIZA\u00c7\u00c3O, REGULA\u00c7\u00c3O, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SERVI\u00c7OS P\u00daBLICOS, SANEAMENTO B\u00c1SICO, MPV 869/2018, LEI FEDERAL, CRIT\u00c9RIO, TRATAMENTO, PROTE\u00c7\u00c3O, UTILIZA\u00c7\u00c3O, DADOS PESSOAIS, AUTORIDADE NACIONAL DE PROTE\u00c7\u00c3O DE DADOS (ANPD), MPV 870/2019, REFORMA ADMINISTRATIVA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Quest\u00e3o de ordem sobre a inclus\u00e3o na pauta das Medidas Provis\u00f3rias de n\u00bas 863, 866, 867, 868 e 869, de 2018.",
+        "tipoDiscurso": "QUEST\u00c3O DE ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Para uma quest\u00e3o de ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero formular minha quest\u00e3o de ordem, com base no art. 62, \u00a7 6\u00ba, da Constitui\u00e7\u00e3o Federal, combinado com o art. 9\u00ba, \u00a7 4\u00ba, do Regimento Interno da C\u00e2mara dos Deputados, relativamente \u00e0 inclus\u00e3o na pauta de medidas provis\u00f3rias prontas para serem apreciadas.\r\nA Constitui\u00e7\u00e3o Federal \u00e9 clara em determinar que h\u00e1 um prazo para que as medidas provis\u00f3rias sejam apreciadas pelo Congresso Nacional e, para viabilizar tal aprecia\u00e7\u00e3o, a Carta Magna determina que, ultrapassados 45 dias da tramita\u00e7\u00e3o, a medida ir\u00e1 trancar a pauta.\r\nNesse sentido, Sr. Presidente, quero solicitar que sejam lidas e apreciadas todas as medidas provis\u00f3rias que est\u00e3o prontas para a pauta da C\u00e2mara dos Deputados, na ordem em que perder\u00e3o vig\u00eancia.\r\nN\u00e3o podemos atropelar os trabalhos deste Parlamento. As medidas provis\u00f3rias devem ser apreciadas seguindo a ordem em que trancam a pauta, e n\u00e3o pode o Presidente se valer deste momento. Isto \u00e9 desleal com o Parlamento e com os Parlamentares desta Casa. \r\nLembro, inclusive, que, na sess\u00e3o do dia 4 de julho de 2018, o Presidente Rodrigo Maia, em resposta \u00e0 quest\u00e3o de ordem apresentada pelo Deputado Orlando Silva, se comprometeu a fazer a leitura das medidas provis\u00f3rias de forma autom\u00e1tica, de acordo com a ordem de chegada a esta Casa, ou seja, na Quest\u00e3o de Ordem n\u00ba 436, de 2018, ficou decidido que, a partir daquela data, dia 4 de julho de 2018, todas as medidas provis\u00f3rias que chegassem \u00e0 C\u00e2mara dos Deputados seriam lidas de forma autom\u00e1tica, no prazo regimental.\r\nSendo assim, Sr. Presidente, solicito a leitura e a inclus\u00e3o na pauta das Medidas Provis\u00f3rias n\u00bas 863, de 22 de maio; 866, de 30 de maio; 867, 868 e 869, do dia 3 de junho - todas j\u00e1 est\u00e3o prontas para serem apreciadas e chegaram antes da MP 870/19.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Deputado, eu tenho muito apre\u00e7o por V.Exa.\r\nV.Exa. deveria ter escrito esse texto. V.Exa. n\u00e3o tem o direito de me chamar de desleal, porque eu nunca fui desleal com esta Casa.\r\nV.Exa. acabou de derrubar a Medida Provis\u00f3ria n\u00ba 870, de 2019.\r\nEu vou ler todas as medidas provis\u00f3rias, e todas as medidas provis\u00f3rias ser\u00e3o votadas antes da MP 870/19.\r\nV.Exa. est\u00e1 tirando o COAF do Ministro Moro na tarde de hoje.\r\nO SR. DIEGO GARCIA (PODE - PR) - N\u00e3o! N\u00e3o sou eu, n\u00e3o, Sr. Presidente!\r\nN\u00e3o sou eu que estou tirando.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F5%2F2019&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, CONTRARIO. \r\nRODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios. Pedido de desculpas ao Presidente Rodrigo Maia por desentendimento ocorrido em sess\u00e3o anterior. Elogios \u00e0 atua\u00e7\u00e3o do Presidente da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nN\u00f3s orientamos o voto contra, porque, se admitido por este Plen\u00e1rio neste dia, esse requerimento ser\u00e1 extremamente prejudicial \u00e0 MP 870.\r\nTodos n\u00f3s sabemos da import\u00e2ncia dessa MP e da reestrutura\u00e7\u00e3o - a redu\u00e7\u00e3o do n\u00famero de Minist\u00e9rios, o enxugamento da m\u00e1quina p\u00fablica - proposta pelo Governo Federal. No entanto, todas as metas estabelecidas pelo Governo, as quais ele pretende alcan\u00e7ar, dependem da aprova\u00e7\u00e3o dessa medida provis\u00f3ria. \r\nPor isso, n\u00f3s nos posicionamos contrariamente a esse requerimento apresentado pelo PSOL, bem como a algumas mudan\u00e7as que foram feitas ainda na Comiss\u00e3o: a volta do COAF para o Minist\u00e9rio da Economia, a retirada das atribui\u00e7\u00f5es da Receita Federal e ainda a cria\u00e7\u00e3o de dois novos Minist\u00e9rios. N\u00f3s precisamos debater tudo isso hoje aqui, em especial por meio dos destaques, os quais devem ser votados nominalmente. \r\nEssa MP, a primeira apresentada pelo Governo Federal, \u00e9 de extrema import\u00e2ncia e relev\u00e2ncia. N\u00f3s sabemos que, para o pr\u00f3ximo domingo, h\u00e1 manifesta\u00e7\u00f5es convocadas em apoio, principalmente, \u00e0 Medida Provis\u00f3ria n\u00ba 870. A n\u00e3o vota\u00e7\u00e3o dessa medida nesta semana, com certeza, provocar\u00e1 uma revolta ainda maior da sociedade. Essa vota\u00e7\u00e3o \u00e9 extremamente importante.\r\nEu quero, antes de encerrar a minha fala em defesa da MP 870, pedir a V.Exa., Deputado Rodrigo Maia, desculpas pelo ocorrido h\u00e1 2 semanas neste plen\u00e1rio. Pe\u00e7o-lhe desculpas publicamente, pois muitos Parlamentares n\u00e3o estavam aqui. Eu sei do trabalho que V.Exa. desenvolve \u00e0 frente desta Casa, da sua compet\u00eancia na condu\u00e7\u00e3o dos trabalhos, e nunca tive d\u00favidas de que V.Exa. pautaria essa MP para vota\u00e7\u00e3o nesta semana. Como ela estava dentro do prazo, n\u00e3o existia impedimento nenhum para que a vota\u00e7\u00e3o acontecesse. Mas quero pedir desculpas por qualquer exagero da minha parte.\r\nEspero que, neste momento, n\u00f3s possamos votar contrariamente a esse requerimento apresentado pelo PSOL.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Deputado Diego Garcia, agrade\u00e7o a V.Exa. as palavras. Se, por acaso, tamb\u00e9m passei do tom, pe\u00e7o-lhe desculpas p\u00fablicas, at\u00e9 porque temos uma \u00f3tima rela\u00e7\u00e3o, constru\u00edda ao longo dos \u00faltimos anos aqui na C\u00e2mara de Deputados. Ressalto que tenho total admira\u00e7\u00e3o pelo trabalho de V.Exa.\r\nOrienta\u00e7\u00e3o de bancada.\r\nComo vota o Bloco do PP?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 870/2019, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s somos contr\u00e1rios a esse requerimento de retirada de pauta. Como eu j\u00e1 disse, seria muito prejudicial neste momento a n\u00e3o aprecia\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 870. Seria um caos a recria\u00e7\u00e3o de 29 Minist\u00e9rios.\r\nComo o Deputado que me antecedeu quis focar na quest\u00e3o do COAF, vamos falar sobre o COAF, ent\u00e3o. Enquanto esse \u00f3rg\u00e3o estava no antigo Minist\u00e9rio da Fazenda, possu\u00eda um quadro de 20 servidores apenas. Desde a edi\u00e7\u00e3o dessa medida provis\u00f3ria e a reorganiza\u00e7\u00e3o apresentada pelo Presidente Jair Bolsonaro, hoje j\u00e1 se encontra com mais de 35 cargos efetivos. O COAF criou um sistema de coopera\u00e7\u00e3o entre Pol\u00edcia Federal, Pol\u00edcias estaduais e tamb\u00e9m o Minist\u00e9rio P\u00fablico; criou essa intera\u00e7\u00e3o de trabalho.\r\nTudo que vem sendo realizado pelo Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica \u00e9 no sentido de ampliar os trabalhos do COAF e dar condi\u00e7\u00f5es de se viabilizar e, principalmente, enfrentar o combate \u00e0 corrup\u00e7\u00e3o, ao crime organizado no Pa\u00eds. Agora, \u00e9 bem verdade que ele tamb\u00e9m funcionava no antigo Minist\u00e9rio da Fazenda, ningu\u00e9m contesta isso. Mas, desde a mudan\u00e7a, houve um ganho: o COAF, como organiza\u00e7\u00e3o, n\u00e3o tem como ter interfer\u00eancia pol\u00edtica, n\u00e3o tem como ter interfer\u00eancia do hoje Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, o Dr. Juiz Sergio Moro. Por qu\u00ea? Porque o COAF est\u00e1 preso a duas leis que dizem quais normas todos os servidores ali t\u00eam que seguir. Por isso, \u00e9 uma organiza\u00e7\u00e3o que atua de forma totalmente independente, mas com papel fundamental em um pa\u00eds que se posicionou, na sua grande maioria, favoravelmente \u00e0s bandeiras levantadas pelo Presidente da Rep\u00fablica, o Sr. Jair Bolsonaro, principalmente no que diz respeito ao combate \u00e0 corrup\u00e7\u00e3o. \r\nEssa mudan\u00e7a feita por n\u00f3s legisladores, neste momento, em nada vem agregar aos trabalhos que j\u00e1 v\u00eam sendo muito bem desempenhados pelo Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica. Muito pelo contr\u00e1rio, o que est\u00e1 dando certo \u00e9 papel nosso, de todos os legisladores aqui apoiar, assinar embaixo, e deixar que continue da forma como est\u00e1. \r\nPor isso, a nossa posi\u00e7\u00e3o \u00e9 contr\u00e1ria a esse requerimento de retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, PARECER, COMISS\u00c3O MISTA, MPV 870/2019, MEDIDA PROVIS\u00d3RIA.\r\nDESTAQUE, PODEMOS (PODE) (2016), CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), MINIST\u00c9RIO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do parecer oferecido pela Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s encaminhamos favoravelmente aos pressupostos constitucionais desta mat\u00e9ria porque entendemos a import\u00e2ncia que a MP 870 tem para o Pa\u00eds.\r\nDe fato, n\u00e3o \u00e9 porque o Presidente da Rep\u00fablica encaminhou que n\u00f3s temos que aprovar, mas temos que aprovar porque esse \u00e9 um anseio da popula\u00e7\u00e3o, \u00e9 um anseio da sociedade. A sociedade, em ampla maioria, quer o enxugamento da m\u00e1quina p\u00fablica, quer maior efetividade nas a\u00e7\u00f5es dos Minist\u00e9rios, quer maior integra\u00e7\u00e3o, principalmente nas a\u00e7\u00f5es que precisam ser adotadas por este novo Governo no enfrentamento \u00e0 corrup\u00e7\u00e3o.\r\nNeste momento, eu me mantenho atento a um dos destaques, ao que vai ser feito pelo nosso partido, o Podemos, sobre a vota\u00e7\u00e3o em torno da mat\u00e9ria do COAF, para que ele possa retornar para o Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica. Em 2011, no in\u00edcio das investiga\u00e7\u00f5es da Lava-Jato... O COAF atuou 3 anos antes do in\u00edcio da Lava-Jato. \r\nEm 2014, o Coaf j\u00e1 vinha monitorando opera\u00e7\u00f5es suspeitas que ajudaram a fundamentar a opera\u00e7\u00e3o da Pol\u00edcia Federal.\r\n2014 - Opera\u00e7\u00f5es at\u00edpicas\r\nO \u00f3rg\u00e3o detectou transa\u00e7\u00f5es at\u00edpicas de R$ 23 (...) bilh\u00f5es entre 2011 e 2014. Os suspeitos investigados da Lava Jato, como o doleiro Alberto Youssef e empreiteiras com contratos com a Petrobras. Segundo o Coaf, foram movimentados quase R$ 1 bilh\u00e3o em dinheiro. O \u00f3rg\u00e3o produziu 108 relat\u00f3rios ligados \u00e0s irregularidades.\r\n2015 - Liga\u00e7\u00e3o entre Lula e Odebrecht\r\nO Coaf detectou movimenta\u00e7\u00f5es suspeitas da empresa de palestras do ex-presidente Lula e constatou, na \u00e9poca, que empreiteiras investigadas na Lava Jato pagaram quase R$ 10 milh\u00f5es. Dois anos depois, delatores da Odebrecht contaram que pagavam Lula para expandir os neg\u00f3cios do grupo. \r\nOra, se o COAF n\u00e3o atua de forma a ajudar o Pa\u00eds, se o COAF n\u00e3o tem hoje essa miss\u00e3o e essa responsabilidade, eu n\u00e3o sei quem mais tem. \r\nEnt\u00e3o, todo esse discurso que foi constru\u00eddo n\u00f3s precisamos derrub\u00e1-lo aqui hoje, nesta vota\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, ART 38, ARTIGO (TEXTO LEGISLATIVO), DISPOSITIVO LEGAL, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do art. n\u00ba 38, VII, da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre o estabelecimento da organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios, para fins de sua aprova\u00e7\u00e3o e incorpora\u00e7\u00e3o no texto final e, por decorr\u00eancia, do art. n\u00ba 14 da Lei n\u00ba 9.613, de 1998, alterado pelo art. n\u00ba 72 da medida provis\u00f3ria.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, neste momento eu chamo a aten\u00e7\u00e3o para esse importante destaque feito pelo Partido Podemos. Esse destaque trata de podermos devolver o COAF, \u00f3rg\u00e3o importante para os trabalhos deste novo Governo, ao Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica, para que n\u00e3o sejam feitas essas mudan\u00e7as que aconteceram ainda na Comiss\u00e3o, quando devolveram o \u00f3rg\u00e3o para o Minist\u00e9rio da Economia. Eu j\u00e1 disse aqui que, quando estava no antigo Minist\u00e9rio da Fazenda, ele era um \u00f3rg\u00e3o esquecido, deixado praticamente de lado. Contava com apenas 20 servidores efetivos e hoje esse \u00f3rg\u00e3o j\u00e1 chega a ter mais de 35 servidores efetivos, com uma perspectiva de chegar at\u00e9 o final do ano a mais de 70. A manuten\u00e7\u00e3o do COAF no Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica \u00e9 fundamental para o enfrentamento e o combate \u00e0 corrup\u00e7\u00e3o.\r\nForam feitas aqui, enquanto o Deputado C\u00e9lio fazia a sua orienta\u00e7\u00e3o pelo PSDB, algumas falas equivocadas.\r\nDeputado C\u00e9lio, de 1988 a 2018, o COAF j\u00e1 produziu cerca de 40 mil relat\u00f3rios de intelig\u00eancia financeira. Mais de 1 milh\u00e3o de pessoas foram apresentadas atrav\u00e9s desses relat\u00f3rios. Isso n\u00e3o significa que h\u00e1 mais de 1 milh\u00e3o de criminosos, mas significa que esse trabalho que est\u00e1 sendo desenvolvido pelo \u00f3rg\u00e3o \u00e9 eficiente. No ano de 2017, o COAF possibilitou o bloqueio judicial de 46 milh\u00f5es de reais, Deputado C\u00e9lio.\r\nN\u00f3s - eu, o Deputado C\u00e9lio, o Deputado Daniel Coelho, Deputados que comp\u00f5em o Partido Novo, o PSL, o L\u00edder do Governo, o L\u00edder do PSL, o L\u00edder do Podemos e outros partidos que estavam ali presentes - acabamos de receber do MUD, um dos movimentos independentes que atuam em apoio \u00e0 Lava-Jato, em apoio ao combate ao crime organizado, ao combate \u00e0 corrup\u00e7\u00e3o, mais de 100 mil assinaturas.\r\n(O orador mostra caixa.)\r\nAqui est\u00e3o mais de 100 mil assinaturas para que o COAF permane\u00e7a no Minist\u00e9rio da Justi\u00e7a.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, ART 38, ARTIGO (TEXTO LEGISLATIVO), DISPOSITIVO LEGAL, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PODEMOS (PODE) (2016), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do art. n\u00ba 38, VII, da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre o estabelecimento da organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios, para fins de sua aprova\u00e7\u00e3o e incorpora\u00e7\u00e3o no texto final e, por decorr\u00eancia, do art. n\u00ba 14 da Lei n\u00ba 9.613, de 1998, alterado pelo art. n\u00ba 72 da medida provis\u00f3ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu queria primeiramente registrar que, por meio do Deputado Jos\u00e9 Nelto, que \u00e9 L\u00edder do nosso partido, e da Deputada Renata Abreu, que \u00e9 Presidente do nosso partido, durante o tempo todo n\u00f3s tivemos apoio para lutar pela manuten\u00e7\u00e3o desse \u00f3rg\u00e3o importante no Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica.\r\nEu quero agradecer aos Deputados Ricardo Barros, Arthur Lira e Marcelo Ramos, que, depois de tantas falas e de tantos discursos, valorizaram o nosso trabalho e reconheceram a defesa do COAF que fizemos durante todo esse tempo. \r\nAgora, h\u00e1 um ponto importante: desde que esta medida provis\u00f3ria entrou em vigor, o \u00f3rg\u00e3o aumentou seu n\u00famero de servidores, aumentou a coopera\u00e7\u00e3o entre Minist\u00e9rio P\u00fablico, Pol\u00edcia Federal e pol\u00edcias estaduais. Isso significa que vai haver avan\u00e7o e que os n\u00fameros v\u00e3o dobrar se o COAF permanecer no Minist\u00e9rio da Justi\u00e7a.\r\nPor isso, orientamos \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=170&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T13:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 870/2019, MEDIDA PROVIS\u00d3RIA, REFORMA ADMINISTRATIVA, GOVERNO FEDERAL, PRESID\u00caNCIA DA REP\u00daBLICA, MINIST\u00c9RIO, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nCONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), GEST\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Elogio \u00e0 atua\u00e7\u00e3o da C\u00e2mara dos Deputados. Aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, \u00e9 importante registrarmos a import\u00e2ncia do papel do Legislativo ao longo desta semana toda.\r\nA Medida Provis\u00f3ria n\u00ba 870 veio do Senado com v\u00e1rios pontos pol\u00eamicos e foram levantados, principalmente, por partidos que hoje comp\u00f5em um bloco de partidos chamados independentes. Temas foram levantados pelo L\u00edder do Podemos, Deputado Jos\u00e9 Nelto, pelo L\u00edder do Cidadania, do NOVO e de outros partidos que tomaram corpo aqui no plen\u00e1rio da C\u00e2mara no dia de ontem e hoje tamb\u00e9m. O fruto disso foram v\u00e1rias vit\u00f3rias para o Governo.\r\nEu vejo no plen\u00e1rio, desta tribuna, constantemente ataques ao Governo, alegando que todos os acordos foram constru\u00eddos com o Senador Fernando Bezerra, L\u00edder do Governo no Senado. Estou com um v\u00eddeo em que o Senador Major Olimpio intima o Senador Fernando Bezerra, ainda l\u00e1 na Comiss\u00e3o, para que assuma que a emenda que trata dos auditores da Receita Federal \u00e9 de autoria dele ou do Governo. E ele assume, dizendo explicitamente que \u00e9 autoria dele, como Relator, e n\u00e3o orquestrada pelo Governo Federal.\r\nPor isso \u00e9 importante ressaltarmos o trabalho de outro L\u00edder que foi alvo de duras cr\u00edticas por muitos aqui, o L\u00edder Major Vitor Hugo. Ele foi o L\u00edder que teve a capacidade de assumir o que os demais L\u00edderes, como o L\u00edder do Podemos, o L\u00edder do Cidadania, o L\u00edder do NOVO, levantaram aqui neste plen\u00e1rio. Ele foi o \u00fanico que teve coragem de peitar a situa\u00e7\u00e3o.\r\nFruto disso, n\u00f3s tivemos a derrubada da cria\u00e7\u00e3o de mais um Minist\u00e9rio. Houve uma derrota, sim, na quest\u00e3o do COAF, por poucos votos, apenas 18. Mas ela mostrou que os partidos hoje intitulados Centr\u00e3o n\u00e3o conseguem entregar todos os votos que dizem ter.\r\nEnt\u00e3o, \u00e9 necess\u00e1rio que fa\u00e7amos essa reflex\u00e3o. Eu n\u00e3o tenho d\u00favida de que, se o Senado devolver esta mat\u00e9ria, no que diz respeito ao COAF, para c\u00e1, n\u00f3s vamos conseguir, sim, derrub\u00e1-la e devolver o COAF ao Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica.\r\nQuero registrar esta vit\u00f3ria. Temos que anunciar, sim, que foi uma vit\u00f3ria relacionada \u00e0 quest\u00e3o da Receita Federal, dos auditores da Receita, constru\u00edda aqui nesse acordo do Plen\u00e1rio. Se fosse para vota\u00e7\u00e3o nominal, com certeza, seriam derrotados tamb\u00e9m.\r\nEnt\u00e3o, parab\u00e9ns ao Plen\u00e1rio, parab\u00e9ns \u00e0 C\u00e2mara dos Deputados e a todos os Deputados que apoiaram!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-15T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "DIEGO GARCIA, DEPUTADO FEDERAL, ORADOR, CORRELIGION\u00c1RIO, MARING\u00c1 (PR), C\u00c2MARA DOS DEPUTADOS, PRESEN\u00c7A.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas aos correligion\u00e1rios do orador, Srs. Jo\u00e3o e Marisa, do Munic\u00edpio de Maring\u00e1, Estado do Paran\u00e1, em visita \u00e0 C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Luiz Lima; Sra. 1\u00aa Secret\u00e1ria da Mesa Diretora, Deputada Soraya Santos; Srs. Deputados e todos os visitantes que est\u00e3o conhecendo a Casa, meus cumprimentos.\r\nEu subo a esta tribuna, neste momento, Sr. Presidente, para tamb\u00e9m, assim como V.Exa., que bem se referiu a todos aqueles que nos visitam todos os dias aqui na C\u00e2mara, mencionar a visita de dois grandes amigos do Estado do Paran\u00e1, da cidade de Maring\u00e1, que est\u00e3o aqui ao lado da minha esposa, Beatriz: a Marisa e o Jo\u00e3o.\r\nSr. Presidente, muitas vezes vemos pessoas subindo \u00e0 tribuna para falar um monte de bobeiras e usar o nosso nome sem nem sequer conhecer a nossa hist\u00f3ria, mas a Marisa e o Jo\u00e3o eu posso dizer com todas as letras que fazem parte da minha hist\u00f3ria tamb\u00e9m.\r\nComo V.Exa. disse na apresenta\u00e7\u00e3o, eu sou membro ativo da Renova\u00e7\u00e3o Carism\u00e1tica Cat\u00f3lica e l\u00e1 atr\u00e1s, em 2013, 2014, quando iniciei o meu trabalho para pleitear uma cadeira na C\u00e2mara dos Deputados, eles me receberam na sua casa. Quando ningu\u00e9m acreditava em mim, porque eu era um jovem colocando a vida a servi\u00e7o e \u00e0 disposi\u00e7\u00e3o dos outros, e, aos olhos humanos, era muito dif\u00edcil acreditar que era poss\u00edvel a minha elei\u00e7\u00e3o, embora n\u00f3s que acreditamos e confiamos em Deus saibamos que, para Deus, nada \u00e9 imposs\u00edvel, a Marisa e o Jo\u00e3o, naquele momento, foram as pessoas que me acolheram na sua casa.\r\nEu, Deputada Soraya, n\u00e3o tinha dinheiro nem para colocar combust\u00edvel no carro no dia seguinte. Eu vivia um dia ap\u00f3s o outro, sem saber o que iria acontecer. Nos primeiros 15 dias de campanha, nem santinho eu tinha. O meu santinho era um cart\u00e3o de telefone, no qual eu colocava o n\u00famero a caneta e ia entregando para as pessoas. \r\nMas, no Paran\u00e1, existem muitas pessoas do bem. E eu acredito que o bem vence o mal. O mal s\u00f3 vence quando os homens e as mulheres de bem se calam. E a Marisa e o Jo\u00e3o s\u00e3o pessoas assim, do bem. Eles representam as muitas pessoas do Estado do Paran\u00e1 que eu poderia mencionar neste momento que, em 2014, acreditaram em um sonho, em um projeto e deram a cara a tapa por mim tamb\u00e9m, para que hoje eu estivesse aqui, Deputado Federal reeleito pelo Estado do Paran\u00e1, com vota\u00e7\u00e3o expressiva, tendo recebido votos em quase todas as cidades do Estado - tive votos em 394 cidades de um total de 399.\r\nSe esse sonho virou realidade um dia foi porque a Marisa e o Jo\u00e3o me receberam na sua casa, abriram a porta da sua casa e me deram o melhor quarto da casa naquela noite para dormir, ofereceram-me um caf\u00e9 da manh\u00e3, o que, um dia antes, eu nem sequer sabia onde iria tomar o caf\u00e9. Eles me receberam l\u00e1 de forma muito carinhosa.\r\nCada uma das pessoas do Paran\u00e1 como voc\u00ea, Marisa, e o Jo\u00e3o, pode ter certeza de que faz parte da minha hist\u00f3ria. Eu jamais vou esquecer o que voc\u00eas fizeram por mim um dia. E a forma que tenho de retribuir o que voc\u00eas fizeram n\u00e3o \u00e9 retribuindo s\u00f3 a voc\u00eas, mas sim a todo o povo brasileiro e a todo povo do meu Estado, o Paran\u00e1, dando a minha vida, dando o meu melhor e me dedicando ao m\u00e1ximo para representar cada um de voc\u00eas aqui.\r\nEnt\u00e3o, muito obrigado pela visita. \u00c9 uma alegria t\u00ea-los aqui conosco. Sejam sempre bem-vindos \u00e0 Capital do Brasil!\r\nBras\u00edlia \u00e9 linda! Infelizmente, \u00e0s vezes, a imagem que fica de Bras\u00edlia \u00e9 uma imagem negativa e ruim. Mas Bras\u00edlia \u00e9 linda, a Capital Federal \u00e9 linda. Temos Parlamentares maravilhosos aqui.\r\nDeputado Luiz Lima, antes de iniciar a minha fala, eu estava falando com a Marisa sobre a Deputada Soraya, apresentando-a ao Jo\u00e3o, e dizendo que ela \u00e9 a 1\u00aa Secret\u00e1ria da C\u00e2mara, que \u00e9 como se fosse a Prefeita da Casa. Ela \u00e9 a nossa Prefeita, tem a responsabilidade de cuidar de todos n\u00f3s aqui.\r\n\u00c0s vezes, para quem est\u00e1 l\u00e1 fora, fica aquela imagem de que isso aqui \u00e9 uma bagun\u00e7a, mas n\u00e3o \u00e9. H\u00e1 gente muito s\u00e9ria, muito compromissada com o bem comum e que quer ver o bem de todos e o bem do Pa\u00eds. \r\nDeus te aben\u00e7oe, Marisa! Deus te aben\u00e7oe, Jo\u00e3o! Deus vos aben\u00e7oe, Deputado Luiz Lima e Deputada Soraya Santos!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEVEDOR CONTUMAZ.\r\nPREVID\u00caNCIA SOCIAL, MILITAR.\r\nPLP 262/2016,  PROJETO DE LEI COMPLEMENTAR, ESTATUTO NACIONAL DA MICROEMPRESA E DA EMPRESA DE PEQUENO PORTE.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Expectativa quanto \u00e0 instala\u00e7\u00e3o, pela Casa, das Comiss\u00f5es Especials destinadas \u00e0 aprecia\u00e7\u00e3o dos projetos de lei sobre o estabelecimento de medidas de combate ao devedor contumaz e sobre o Estatuto e a Previd\u00eancia dos Militares. Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta do Projeto de Lei Complementar n\u00ba 262, de 2016, relativo \u00e0 institui\u00e7\u00e3o do Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, primeiramente queria parabenizar V.Exa., que foi uma das pessoas principais na atua\u00e7\u00e3o para que o Governo encaminhasse a PEC da Previd\u00eancia e tamb\u00e9m outros projetos para serem analisados pela Casa.\r\nUm deles teve instalada hoje a Comiss\u00e3o Especial que tratar\u00e1 da mat\u00e9ria. Falo do projeto de lei que tratar\u00e1 do devedor contumaz. Temos certeza de que, sob a relatoria do Deputado Arthur Oliveira Maia, os trabalhos ser\u00e3o conduzidos da melhor forma poss\u00edvel.\r\nH\u00e1 um compromisso desta Casa, tenho certeza, de ainda este ano votarmos esta mat\u00e9ria e tamb\u00e9m o PL que trata do Estatuto dos Militares e da Previd\u00eancia dos Militares. Esperamos que nos pr\u00f3ximos dias seja instalada a Comiss\u00e3o que tratar\u00e1 dessas duas mat\u00e9rias.\r\nEu queria s\u00f3 refor\u00e7ar, Sr. Presidente, um pedido a V.Exa. sobre o PLP n\u00ba 262, de 2016, que trata da desburocratiza\u00e7\u00e3o do processo de abertura e fechamento de micro, pequenas empresas e empresas de pequeno porte. Esta \u00e9 uma mat\u00e9ria que passou recentemente na CCJ com o apoio de todos os partidos, de todas as bancadas. Eu queria pedir a V.Exa. que esse projeto pudesse entrar na pauta para vota\u00e7\u00e3o nas pr\u00f3ximas semanas.\r\nEsta \u00e9 uma mat\u00e9ria muito importante. Muitas empresas no nosso Pa\u00eds aguardam por este projeto. Esta \u00e9 uma mat\u00e9ria simples, mas de um impacto gigantesco. Hoje existe, por exemplo, em alguns Estados do nosso Pa\u00eds, uma demora de at\u00e9 4 meses para uma empresa abrir ou fechar. N\u00f3s precisamos acabar com essa burocracia.\r\nQueria pedir a V.Exa...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 17 do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, essa defesa, que j\u00e1 foi muito bem refor\u00e7ada aqui pelo L\u00edder do PSL, Deputado Delegado Waldir, \u00e9 neste momento, talvez, at\u00e9 desnecess\u00e1ria, porque sabemos que n\u00e3o teremos uma vota\u00e7\u00e3o nominal. Portanto, \u00e9 ficar chovendo no molhado e falando do mesmo.\r\n\u00c9 importante que os Parlamentares saibam o que n\u00f3s estamos fazendo. Com essa proposta aprovada, estaremos criminalizando a atividade policial mais uma vez. Estaremos colocando uma pena sobre o policial que, a partir de agora, ter\u00e1 de adivinhar, Deputado Fred, quando ele deve algemar ou n\u00e3o. Ele ter\u00e1 de se submeter a uma escolha, ciente de que, se houver uma interpreta\u00e7\u00e3o diferente por parte do Poder Judici\u00e1rio, ter\u00e1 que responder agora com uma pena de pris\u00e3o de 6 meses at\u00e9 2 anos - 6 meses at\u00e9 2 anos.\r\nMais uma vez n\u00f3s estamos colocando um fardo sobre a classe policial no nosso Pa\u00eds. N\u00e3o \u00e9 apenas esse ponto, o art. 17. Existem outros artigos que est\u00e3o de certa forma tamb\u00e9m punindo policiais e fam\u00edlias, tirando a seguran\u00e7a, algo que j\u00e1 \u00e9 estabelecido pela S\u00famula Vinculante n\u00b0 11, do STF, a qual j\u00e1 determina uma puni\u00e7\u00e3o administrativa ao policial que cometer um abuso, um excesso, ao algemar um indiv\u00edduo.\r\nBom, mas acho que \u00e9 importante, neste tempo que me falta, fazermos ainda um resgaste hist\u00f3rico do projeto aqui. O projeto inicial tratava das dez medidas de combate \u00e0 corrup\u00e7\u00e3o. Agora n\u00f3s n\u00e3o discutimos nada disso mais. O que n\u00f3s discutimos aqui foi a emenda que foi aprovada na madrugada em que caiu o avi\u00e3o da Chapecoense, e n\u00f3s votamos essa altera\u00e7\u00e3o. Eu votei contra essa emenda que foi colocada naquela madrugada aqui no Plen\u00e1rio. Foi ao Senado, foi votada com algumas altera\u00e7\u00f5es que tentam o tempo todo justificar, mas n\u00e3o justificam nada.\r\nPor isso, nosso posicionamento \u00e9 contr\u00e1rio a esse projeto de lei, \u00e9 a favor desse destaque, para que consigamos amenizar os danos...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=258&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T22:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VETO PRESIDENCIAL, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, DEFINI\u00c7\u00c3O, CRIME, ABUSO DE AUTORIDADE, FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Realiza\u00e7\u00e3o no Pa\u00eds de manifesta\u00e7\u00f5es a favor da aposi\u00e7\u00e3o de veto presidencial ao Projeto de Lei n\u00ba 7.596, de 2019, acerca dos crimes de abuso de autoridade. Ades\u00e3o de Senadores ao manifesto contra a proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, acabei de ser informado da mobiliza\u00e7\u00e3o que est\u00e1 acontecendo em todo o Brasil, pedindo o veto integral do PL sobre o abuso de autoridade, proposta aprovada na semana passada pelo Plen\u00e1rio desta Casa.\r\nO manifesto est\u00e1 colhendo assinaturas de Senadores. At\u00e9 o momento, 32 Senadores j\u00e1 o assinaram e se comprometeram: caso o Presidente vete a mat\u00e9ria integralmente, ir\u00e3o votar pela manuten\u00e7\u00e3o do veto. Se isso acontecer, como o Senado ser\u00e1 a primeira Casa a analisar o veto, o projeto n\u00e3o precisar\u00e1 ser analisado nem mesmo pela C\u00e2mara do Deputados, o que permitir\u00e1 a corre\u00e7\u00e3o do que aconteceu na semana passada, quando nem sequer pudemos nos manifestar atrav\u00e9s do voto nominal e identificar como pensa cada um dos Parlamentares desta Casa. \r\nA iniciativa est\u00e1 acontecendo no Senado e ter\u00e1 nosso apoio aqui na C\u00e2mara, pelo veto integral desta proposta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=211&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-05T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DIEGO GARCIA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, PARAN\u00c1, PODEMOS (PODE) (2016), RELATOR.\r\nPL 5352/2016, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA ALIMENTA\u00c7\u00c3O ESCOLAR, AQUISI\u00c7\u00c3O, G\u00caNERO ALIMENT\u00cdCIO, PROGRAMA NACIONAL DE ALIMENTA\u00c7\u00c3O ESCOLAR (PNAE), PROGRAMA DE AQUISI\u00c7\u00c3O DE ALIMENTOS (PAA), PRIORIZA\u00c7\u00c3O, PESCADOR ARTESANAL.\r\nPL 927/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO ATENDIMENTO PRIORIT\u00c1RIO, CRIT\u00c9RIO, PRIORIDADE ESPECIAL, PESSOA COM DEFICI\u00caNCIA, IDOSO, IDADE.\r\nPL 195/2019, PROJETO DE LEI ORDIN\u00c1RIA, OBRIGATORIEDADE, INSTITUI\u00c7\u00c3O DE ENSINO, ESCOLA, TREINAMENTO, DESOCUPA\u00c7\u00c3O, INC\u00caNDIO, SITUA\u00c7\u00c3O DE EMERG\u00caNCIA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Presta\u00e7\u00e3o de contas da atua\u00e7\u00e3o parlamentar do orador na Casa. Import\u00e2ncia da aprova\u00e7\u00e3o de projetos sobre a inclus\u00e3o dos pescadores artesanais no Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE; a concess\u00e3o de prioridade especial aos idosos maiores de 80 anos; e a obrigatoriedade de exist\u00eancia de plano de evacua\u00e7\u00e3o para situa\u00e7\u00f5es de risco nos estabelecimentos de ensino.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Presidente Hildo, hoje subo \u00e0 tribuna para fazer uma presta\u00e7\u00e3o de contas aos nossos eleitores, \u00e0 popula\u00e7\u00e3o brasileira, ao povo do Estado do Paran\u00e1 que acompanha o nosso trabalho aqui na C\u00e2mara, no plen\u00e1rio e tamb\u00e9m nas Comiss\u00f5es.\r\nAo longo do ano, Presidente, n\u00f3s apresentamos cerca de 40 pareceres a projetos de lei nas 17 Comiss\u00f5es das quais eu sou membro. Sou membro de sete Comiss\u00f5es Permanentes, al\u00e9m de ser membro de Comiss\u00f5es que tratam de medidas provis\u00f3rias e outras Comiss\u00f5es Especiais. \r\nTudo isso \u00e9 gra\u00e7as ao apoio que tenho recebido dentro do meu partido, o Podemos, atrav\u00e9s do nosso L\u00edder, o Deputado Jos\u00e9 Nelto, e de todos os nossos companheiros de partido que t\u00eam apoiado a nossa atua\u00e7\u00e3o legislativa aqui na Casa e nos permitido a cada dia aumentar a efici\u00eancia do nosso trabalho e mostrar para a sociedade brasileira uma imagem diferente daquela que normalmente \u00e9 vendida pela grande m\u00eddia, principalmente com rela\u00e7\u00e3o aos nossos Parlamentares: a imagem de que n\u00e3o fazem nada, s\u00e3o improdutivos. Enfim, n\u00f3s temos que mudar essa percep\u00e7\u00e3o, e eu tenho procurado faz\u00ea-lo com o meu trabalho, com o empenho di\u00e1rio, o empenho da minha equipe, mostrando que \u00e9 poss\u00edvel fazer a diferen\u00e7a.\r\nDesses 40 pareceres, 20 j\u00e1 foram apreciados s\u00f3 este ano nas Comiss\u00f5es, e todos foram aprovados. E esta semana foi uma das semanas mais produtivas da nossa atua\u00e7\u00e3o legislativa aqui no Congresso. Ao todo, nove pareceres foram aprovados na Comiss\u00e3o de Seguridade Social e Fam\u00edlia e tamb\u00e9m na Comiss\u00e3o de Educa\u00e7\u00e3o.\r\nPresidente, eu quero destacar aqui um dos projetos aprovados, o que trata sobre os pescadores artesanais, permitindo que eles agora possam fazer parte daquela cota de 30% existente no Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE. O programa hoje ajuda os pequenos produtores, permitindo que comercializem e vendam o seu produto para as escolas p\u00fablicas no nosso Pa\u00eds. E, agora, com a aprova\u00e7\u00e3o desse projeto, vai se permitir tamb\u00e9m aos pescadores artesanais participar dessa cota de 30%. Isso \u00e9 muito importante, porque os pescadores artesanais e os pequenos pescadores estavam de fora e n\u00e3o podiam participar. N\u00f3s agora estamos incluindo os pequenos pescadores e os pescadores artesanais nessa cota de 30%, podendo eles vender, assim, o fruto do seu trabalho para as escolas p\u00fablicas do nosso Pa\u00eds.\r\nPresidente, al\u00e9m disso, n\u00f3s aprovamos na Comiss\u00e3o de Defesa dos Direitos das Pessoas com Defici\u00eancia um projeto de lei que concede uma prioridade especial aos idosos com mais de 80 anos. Hoje, n\u00f3s sabemos da prefer\u00eancia que \u00e9 dada aos idosos com mais de 60 anos, \u00e0 pessoa com defici\u00eancia, \u00e0s gestantes e tamb\u00e9m \u00e0s m\u00e3es e pais com crian\u00e7a de colo. Isso acaba trazendo v\u00e1rios transtornos quando um idoso com mais de 80 anos est\u00e1 nessa mesma fila. \u00c9 \u00f3bvio que ele est\u00e1 em condi\u00e7\u00f5es muito mais prec\u00e1rias, de muito mais instabilidade que os demais que est\u00e3o nessa fila de prioridade. Esse projeto foi aprovado atrav\u00e9s do meu parecer na Comiss\u00e3o de Defesa dos Direitos das Pessoas com Defici\u00eancia.\r\nAl\u00e9m desse projeto, n\u00f3s tamb\u00e9m aprovamos outro de suma import\u00e2ncia, de autoria do Deputado Roberto de Lucena, do Podemos, meu partido, que trata sobre o plano de evacua\u00e7\u00e3o para as escolas no nosso Pa\u00eds. Esse projeto \u00e9 muito importante, porque vai permitir que as escolas p\u00fablicas e privadas do nosso Pa\u00eds estejam preparadas para situa\u00e7\u00f5es de risco, paras situa\u00e7\u00f5es de perigo que envolvam as nossas crian\u00e7as, os nossos jovens estudantes e os nossos universit\u00e1rios. \u00c9 preciso que as escolas estejam preparadas para essas situa\u00e7\u00f5es. N\u00e3o \u00e9 dif\u00edcil ouvirmos not\u00edcias sobre escolas que s\u00e3o incendiadas ou que est\u00e3o passando por situa\u00e7\u00f5es e circunst\u00e2ncias das mais dif\u00edceis e terr\u00edveis. N\u00f3s precisamos criar estrat\u00e9gias e caminhos para que possamos assegurar a vida dessas pessoas, tanto dos professores como das crian\u00e7as e jovens que est\u00e3o nas nossas escolas.\r\nEu quero ressaltar todo esse trabalho que n\u00f3s temos desempenhado aqui na C\u00e2mara e agradecer \u00e0 minha equipe, \u00e0 Lideran\u00e7a e a toda a equipe do partido Podemos, bem como a todas as pessoas que acompanham nosso trabalho pelas redes sociais em todo o Brasil, em especial no Estado do Paran\u00e1.\r\nN\u00f3s tamb\u00e9m estamos trabalhando em duas Subcomiss\u00f5es muito importantes da Comiss\u00e3o de Seguridade Social e Fam\u00edlia: a Subcomiss\u00e3o Especial de Ado\u00e7\u00e3o, Pedofilia e Fam\u00edlia e a Subcomiss\u00e3o Especial de Doen\u00e7as Raras, na qual sou Relator. Essas duas Subcomiss\u00f5es s\u00e3o compostas por Parlamentares de diversos partidos, que est\u00e3o empenhados em apresentar um trabalho diferenciado at\u00e9 o final deste ano na Comiss\u00e3o de Seguridade Social e Fam\u00edlia.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F9%2F2019&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1685/2011, PROJETO DE LEI ORDIN\u00c1RIA, PODEMOS (PODE) (2016), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.685, de 2011, sobre a autoriza\u00e7\u00e3o da transfer\u00eancia, a t\u00edtulo de contribui\u00e7\u00e3o de capital, mediante celebra\u00e7\u00e3o de conv\u00eanios entre a Uni\u00e3o e as Associa\u00e7\u00f5es de Prote\u00e7\u00e3o e Assist\u00eancia aos Condenados - APACs, em aten\u00e7\u00e3o ao disposto no \u00a7 6\u00ba do art. 12 da Lei n\u00ba 4.320, de 1964.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero registrar aqui a import\u00e2ncia da aprova\u00e7\u00e3o dessa urg\u00eancia para o nosso Pa\u00eds.\r\nConhe\u00e7o as APACs. Visitei a da cidade de Barrac\u00e3o, no sudoeste do Paran\u00e1.\r\nA APAC \u00e9 um m\u00e9todo que, de fato, tem apresentado resultados significativos, expressivos, na recupera\u00e7\u00e3o dos detentos que por ali passam e na reinser\u00e7\u00e3o deles na sociedade.\r\nHoje, no m\u00e9todo APAC, 90% dos presos n\u00e3o voltam para a criminalidade, Deputado Eros Biondini, enquanto no nosso sistema prisional comum 84% voltam para a criminalidade.\r\nA APAC no Paran\u00e1 significa o qu\u00ea? Uma redu\u00e7\u00e3o de custo nos cofres p\u00fablicos do Estado. Hoje, no Estado do Paran\u00e1, o preso custa aos cofres p\u00fablicos mais de 5 mil reais. No m\u00e9todo APAC, reduz-se esse valor para cerca de um sal\u00e1rio m\u00ednimo.\r\nEm Barrac\u00e3o...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "COMISS\u00c3O ESPECIAL, MPV 894/2019, MEDIDA PROVIS\u00d3RIA, PENS\u00c3O ESPECIAL, CRIAN\u00c7A, MICROCEFALIA, ZIKA V\u00cdRUS, PENS\u00c3O VITAL\u00cdCIA, SAL\u00c1RIO M\u00cdNIMO, DIEGO GARCIA, DEPUTADO FEDERAL, PRESIDENTE, IZALCI LUCAS, SENADOR, RELATOR.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Relev\u00e2ncia da Medida Provis\u00f3ria n\u00ba 894, de 2019, sobre a concess\u00e3o de pens\u00e3o mensal, vital\u00edcia e intransfer\u00edvel, no valor de um sal\u00e1rio m\u00ednimo, para crian\u00e7as nascidas entre 1\u00ba de janeiro de 2015 e 31 de dezembro de 2018 com microcefalia decorrente do Zika V\u00edrus. Designa\u00e7\u00e3o do orador para Presidente e do Senador Izalci Lucas para Relator da Comiss\u00e3o Especial destinada ao exame da proposi\u00e7\u00e3o. Urgente necessidade de aprova\u00e7\u00e3o da mat\u00e9ria pelo Parlamento brasileiro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Obrigado, Deputada Giovana de S\u00e1.\r\nNo dia 5 de setembro de 2019, foi publicado no Di\u00e1rio Oficial da Uni\u00e3o a Medida Provis\u00f3ria n\u00ba 894, de 2019, que prop\u00f5e a pens\u00e3o vital\u00edcia \u00e0s crian\u00e7as com microcefalia decorrente do v\u00edrus zika.\r\nN\u00f3s temos que parabenizar o Presidente Jair Bolsonaro, a Sra. Primeira-Dama Michelle Bolsonaro, o Ministro Osmar Terra, o Ministro da Sa\u00fade Henrique Mandetta, a Ministra Damares Alves e todos os Parlamentares envolvidos, pois essa iniciativa, com certeza, ser\u00e1 uma das mat\u00e9rias de maior import\u00e2ncia social aprovadas, se Deus quiser, este ano pelo Plen\u00e1rio destas duas Casas de Lei, a C\u00e2mara e o Senado.\r\nA Comiss\u00e3o que ir\u00e1 tratar da Medida Provis\u00f3ria n\u00ba 894, de 2019, foi instalada hoje, e eu tive alegria ser escolhido como Presidente dela.\r\nEscolhi como Relator o Senador da Rep\u00fablica Izalci Lucas, que em outro momento foi Deputado tamb\u00e9m, colega nosso.\r\nN\u00f3s sabemos que essa \u00e9 uma mat\u00e9ria de consenso, que todos os partidos apoiam, mas, pelo apelo social que ela tem, com certeza, ser\u00e1 objeto de muitos debates, e muitos pontos ir\u00e3o enriquecer essa discuss\u00e3o.\r\nO mais importante a destacar - que bom, Deputada Geovania de S\u00e1, que V.Exa. voltou a conduzir os trabalhos, porque V.Exa. \u00e9 m\u00e3e - \u00e9 que as m\u00e3es e os pais ser\u00e3o os mais beneficiados com essa medida provis\u00f3ria, porque hoje essas crian\u00e7as j\u00e1 recebem o benef\u00edcio de presta\u00e7\u00e3o continuada, mas as fam\u00edlias ficam impedidas de buscar uma oportunidade de trabalho justamente para n\u00e3o perder o benef\u00edcio. Com a pens\u00e3o vital\u00edcia, essa realidade poder\u00e1 mudar a vida de milhares de fam\u00edlias em todo o territ\u00f3rio nacional.\r\nO SR. MARCON (PT - RS) - \u00c9 vital\u00edcia para quem?\r\nO SR. DIEGO GARCIA (PODE - PR) - Para a crian\u00e7a. A pens\u00e3o \u00e9 vital\u00edcia para a crian\u00e7a.\r\nEnt\u00e3o, n\u00f3s precisamos aprovar essa mat\u00e9ria de forma urgente no Parlamento. Queremos contar com o trabalho e as sugest\u00f5es de todos os partidos, porque essa mat\u00e9ria \u00e9 de interesse do Brasil, das fam\u00edlias, dessas m\u00e3es. O Pa\u00eds est\u00e1 reconhecendo que houve erro, sim, por parte desta Na\u00e7\u00e3o, e a medida provis\u00f3ria foi apresentada para agora reparar esse erro, assistir essas fam\u00edlias com essa pens\u00e3o vital\u00edcia e dar maior garantia e seguran\u00e7a a essas fam\u00edlias que tanto necessitam do nosso apoio.\r\nPor isso, eu pe\u00e7o neste momento o apoio de todas as bancadas, de todos os partidos, para que nos ajudem na tramita\u00e7\u00e3o dessa medida provis\u00f3ria e para que consigamos aprov\u00e1-la com grande celeridade nesta Casa de Leis.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GABINETE DIGITAL, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Lan\u00e7amento do projeto cpela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, eu queria apenas registrar que o meu gabinete foi um dos selecionados pela C\u00e2mara para fazer esse projeto-piloto do Gabinete Digital.\r\nEnt\u00e3o, eu queria registrar que todo o trabalho foi feito pelos servidores da Casa. A \u00e1rea de tecnologia da Casa merece o nosso reconhecimento por essa iniciativa brilhante que V.Exa., como Presidente da Casa, nossa 1\u00aa Secret\u00e1ria e toda a Mesa Diretora est\u00e1 adotando e que vai modernizar a C\u00e2mara dos Deputados.\r\nEu me senti honrado por ter sido um dos gabinetes escolhidos. Com certeza, todos os Parlamentares v\u00e3o gostar dessa nova plataforma digital, que \u00e9 o Gabinete Digital, permitindo assim que a popula\u00e7\u00e3o, em todo o territ\u00f3rio nacional, esteja mais pr\u00f3xima dos seus representantes.\r\nParab\u00e9ns \u00e0 C\u00e2mara! Parab\u00e9ns, Presidente Rodrigo Maia!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=278&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 894/2019, MEDIDA PROVIS\u00d3RIA, PENS\u00c3O ESPECIAL, CRIAN\u00c7A, MICROCEFALIA, ZIKA V\u00cdRUS, PENS\u00c3O VITAL\u00cdCIA, SAL\u00c1RIO M\u00cdNIMO, DEFESA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Apelo \u00e0 Presid\u00eancia de vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 894, de 2019, sobre a concess\u00e3o de pens\u00e3o vital\u00edcia a crian\u00e7as com microcefalia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Rodrigo, eu queria fazer um apelo a V.Exa. para que seja apreciada a Medida Provis\u00f3ria n\u00ba 894, de 2019, que trata da pens\u00e3o vital\u00edcia para as crian\u00e7as com microcefalia. \r\nN\u00f3s fizemos um acordo na Comiss\u00e3o que trata da medida provis\u00f3ria, junto com a Oposi\u00e7\u00e3o, com o Deputado Jorge Solla, do PT, com a Deputada S\u00e2mia Bomfim, do PSOL, v\u00e1rios Deputados participaram desse processo, e conseguimos avan\u00e7ar muito no texto. N\u00f3s ampliamos de 3 mil para mais de 6 mil crian\u00e7as. \r\nSr. Presidente, V.Exa. \u00e9 pai, eu sou pai. Eu acho que seria um grande presente desta Casa a aprecia\u00e7\u00e3o dessa medida provis\u00f3ria antes de encerrarmos os trabalhos deste ano. Eu fa\u00e7o esse apelo a V.Exa. Eu tenho certeza de que vai ser uma pauta extremamente positiva. E o encaminhamento de todos os partidos dever\u00e1 ser pela aprova\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DOEN\u00c7A RARA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Aprova\u00e7\u00e3o de relat\u00f3rios apresentados pelo orador na Comiss\u00e3o de Seguridade Social e Fam\u00edlia. Assinatura de termo de coopera\u00e7\u00e3o entre a C\u00e2mara dos Deputados e o Minist\u00e9rio da Sa\u00fade sobre o acesso a informa\u00e7\u00f5es de pacientes com doen\u00e7as raras.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu quero destacar a aprova\u00e7\u00e3o, na Comiss\u00e3o de Seguridade Social e Fam\u00edlia, de dois relat\u00f3rios para os quais eu fui designado Relator Geral. O primeiro \u00e9 da Subcomiss\u00e3o de Doen\u00e7as Raras. Um dos encaminhamentos foi a assinatura de um termo de coopera\u00e7\u00e3o entre a C\u00e2mara dos Deputados e o Minist\u00e9rio da Sa\u00fade para que as informa\u00e7\u00f5es pertinentes aos pacientes com doen\u00e7as raras sejam acessadas mais facilmente pelos Parlamentares para que consigamos avan\u00e7ar nas pol\u00edticas voltadas para essa popula\u00e7\u00e3o que chega a 13 milh\u00f5es de brasileiros.\r\nNa Subcomiss\u00e3o de Fam\u00edlia, n\u00f3s concentramos o nosso trabalho na concilia\u00e7\u00e3o de fam\u00edlia e trabalho. S\u00e3o relat\u00f3rios de mais de 200 p\u00e1ginas. Fizemos um destaque desse trabalho no plen\u00e1rio desta Casa. \r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T13:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 894/2019, MEDIDA PROVIS\u00d3RIA, PENS\u00c3O ESPECIAL, CRIAN\u00c7A, MICROCEFALIA, ZIKA V\u00cdRUS, PENS\u00c3O VITAL\u00cdCIA, SAL\u00c1RIO M\u00cdNIMO, DEFESA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Apelo \u00e0 Casa por aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 894, de 2019, sobre a institui\u00e7\u00e3o da pens\u00e3o especial destinada a crian\u00e7as com microcefalia decorrente do Zika V\u00edrus, nascidas entre 1\u00ba de janeiro de 2015 e 31 de dezembro de 2018, contempladas com o Benef\u00edcio de Presta\u00e7\u00e3o Continuada.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s estamos avan\u00e7ando na discuss\u00e3o de mat\u00e9rias em que se tem um consenso justamente por ser esta a \u00faltima semana de trabalho.\r\nV.Exa. tem um compromisso que j\u00e1 foi reafirmado v\u00e1rias vezes de fazer a leitura e a vota\u00e7\u00e3o da MP 894.\r\nE eu fa\u00e7o um apelo aos demais L\u00edderes que est\u00e3o aqui no plen\u00e1rio para que n\u00f3s possamos aprovar de forma simb\u00f3lica essa medida provis\u00f3ria. O texto foi constru\u00eddo a v\u00e1rias m\u00e3os. A princ\u00edpio, a medida provis\u00f3ria atingia cerca de 3 mil fam\u00edlias. N\u00f3s conseguimos, em um acordo constru\u00eddo na Comiss\u00e3o, ampliar para mais de 6 mil fam\u00edlias, ou seja, todas as m\u00e3es cujos filhos nasceram com s\u00edndromes cong\u00eanitas est\u00e3o sendo contempladas na medida provis\u00f3ria.\r\nO apelo que eu fa\u00e7o a todos os L\u00edderes para a vota\u00e7\u00e3o dessa mat\u00e9ria \u00e9 porque as m\u00e3es j\u00e1 est\u00e3o recebendo essa pens\u00e3o, muitas m\u00e3es no Pa\u00eds j\u00e1 est\u00e3o recebendo desde a publica\u00e7\u00e3o dessa medida provis\u00f3ria. \u00c9 muito importante essa iniciativa porque alcan\u00e7a de fato fam\u00edlias que est\u00e3o em condi\u00e7\u00f5es de pobreza extrema, de vulnerabilidade extrema, e essa pens\u00e3o vital\u00edcia \u00e9 um reconhecimento do Estado, que falhou nas pol\u00edticas p\u00fablicas, falhou junto a essas fam\u00edlias e agora est\u00e1 reparando esse erro.\r\nPor isso, n\u00f3s fazemos um apelo para que, dentro do poss\u00edvel, por acordo entre os L\u00edderes, n\u00f3s consigamos fazer a leitura e a vota\u00e7\u00e3o dessa mat\u00e9ria ainda hoje.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, PLV 26/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 894/2019, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o nascidas entre 1\u00ba de janeiro de 2015 e 31 de dezembro de 2019, constante no art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 26, de 2019, da Medida Provis\u00f3ria n\u00ba 894, de 2019, sobre a institui\u00e7\u00e3o de pens\u00e3o especial destinada a crian\u00e7as com S\u00edndrome Cong\u00eanita do Zika V\u00edrus, nascidas entre 1\u00ba de janeiro de 2015 e 31 de dezembro de 2019, contempladas com o Benef\u00edcio de Presta\u00e7\u00e3o Continuada - BPC.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, eu n\u00e3o quero encaminhar contrariamente \u00e0 orienta\u00e7\u00e3o da Deputada Carmen Zanotto. Mas, de forma explicativa, pois presidi a Comiss\u00e3o dessa medida provis\u00f3ria, o que acontece \u00e9 que nesse prazo estabelecido j\u00e1 foi colocada uma data que antecedia o surto de zika que ocorreu no Brasil. E, atrav\u00e9s de emendas que foram apresentadas por diversos Parlamentares - est\u00e3o ao meu lado a Deputada S\u00e2mia, o Deputado Jorge Solla e outros -, foi ampliado esse prazo da medida original na Comiss\u00e3o Mista, fruto da constru\u00e7\u00e3o e do di\u00e1logo, e aprovado por unanimidade entre todos os partidos.\r\nMais um destaque importante que eu quero fazer \u00e0 Deputada Carmen \u00e9 com rela\u00e7\u00e3o, Presidente, ao termo \"microcefalia\", porque n\u00f3s, atrav\u00e9s de um debate provocado pelo Deputado Jorge Solla...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Pe\u00e7o que encerre, Deputado. \r\nComo vota o Podemos?\r\nO SR. DIEGO GARCIA (PODE - PR) - ...retiramos do texto esse termo \"microcefalia\" e ampliamos para \"todas as s\u00edndromes cong\u00eanitas\". Assim, Deputada Carmen, todas as crian\u00e7as que nasceram com alguma s\u00edndrome cong\u00eanita, n\u00e3o apenas a microcefalia, ser\u00e3o contempladas. E com essa medida n\u00f3s conseguimos expandir o n\u00famero de atendimentos n\u00e3o apenas para 3 mil fam\u00edlias, mas para mais de 6 mil fam\u00edlias.\r\nEnt\u00e3o, queria fazer um apelo a V.Exa., Presidente, com rela\u00e7\u00e3o a essa quest\u00e3o do prazo, porque, com essa amplia\u00e7\u00e3o do rol de pessoas que ser\u00e3o atendidas e contempladas, e tamb\u00e9m do prazo estabelecido - que j\u00e1 foi ampliado -, n\u00f3s entendemos que j\u00e1 est\u00e1 sendo contemplado um n\u00famero bem expressivo com rela\u00e7\u00e3o a essa medida provis\u00f3ria.\r\nPor isso, o nosso...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=311&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T10:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, PL 399/2015, PROJETO DE LEI ORDINARIA, CRIT\u00c9RIO, COMERCIALIZA\u00c7\u00c3O, MEDICAMENTO, PRINC\u00cdPIO ATIVO, SUBST\u00c2NCIA, MACONHA, CANABIDIOL",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Debate do Projeto de Lei n\u00ba 399, de 2015, sobre a comercializa\u00e7\u00e3o de medicamentos formulados com a planta Cannabis sativa.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. DIEGO GARCIA (Bloco/PODE - PR) - Sr. Presidente, Deputado Eduardo Bismarck, quero cumprimentar V.Exa., todos os Parlamentares e o Presidente da C\u00e2mara, que proporciona este debate no formato de Comiss\u00e3o Geral no plen\u00e1rio da Casa.\r\n\u00c9 importante trazermos luz a esse projeto e as verdades que est\u00e3o por tr\u00e1s do substitutivo, que nada mais representa daquilo que, em 2015, de autoria do Deputado F\u00e1bio Mitidieri, foi apresentado inicialmente.\r\nEu quero come\u00e7ar tratando de um ponto muito importante nesta discuss\u00e3o: as fam\u00edlias que est\u00e3o, de forma maldosa, sendo usadas de m\u00e1-f\u00e9 nesse debate, a pretexto de que esse projeto vai simplesmente autorizar o uso medicinal, e isso n\u00e3o \u00e9 verdade. A fam\u00edlia \u00e9 a base de tudo, \u00e9 a engrenagem que movimenta a nossa sociedade. Sabemos que, ao buscarmos a sa\u00fade da fam\u00edlia ou ao fortalecermos a fam\u00edlia, tamb\u00e9m alcan\u00e7armos uma sociedade forte, pois \u00e9 na base da fam\u00edlia que n\u00f3s podemos resolver os maiores desafios, como a viol\u00eancia, as drogas, o abandono, todo o campo da liberdade de consci\u00eancia, a educa\u00e7\u00e3o, entre outros.\r\nPor isso, defendo que n\u00f3s devemos levar esse debate na perspectiva da fam\u00edlia, que ser\u00e1 a primeira a ser impactada com o substitutivo ao PL 399/15, se for aprovado. Como eu tenho mostrado, principalmente nas minhas redes sociais e em minhas falas na C\u00e2mara dos Deputados, essa proposta vai muito al\u00e9m do uso medicinal da maconha. Sabemos que os seus defensores est\u00e3o se utilizando de verdadeiros dramas pessoais de pacientes e de fam\u00edlias para liberar o uso irrestrito da maconha no Pa\u00eds. N\u00f3s que conhecemos de perto o drama que passam milhares de fam\u00edlias que t\u00eam um dependente qu\u00edmico dentro de casa, uma pessoa sofrendo por conta do v\u00edcio, das drogas, sabemos, sim, de fato, o mal que elas causam \u00e0s nossas fam\u00edlias. \r\nEu quero trazer alguns pontos desse substitutivo que s\u00e3o prejudiciais. Primeiro, j\u00e1 na ementa do projeto, n\u00f3s vemos a transforma\u00e7\u00e3o que foi proposta no substitutivo. O projeto original dizia: ''Viabilizar a comercializa\u00e7\u00e3o de medicamentos que contenham extratos, substratos ou partes da planta Cannabis sativa em sua formula\u00e7\u00e3o\". O substitutivo disp\u00f5e sobre o marco regulat\u00f3rio da Cannabis no Brasil. Ou seja, a altera\u00e7\u00e3o j\u00e1 come\u00e7a a\u00ed. N\u00f3s definitivamente n\u00e3o precisamos de um marco regulat\u00f3rio da Cannabis no Brasil. E eu vou explicar o porqu\u00ea. \r\nO art. 1\u00ba do substitutivo agora permite \"as atividades de cultivo, processamento, pesquisa, armazenagem, transporte, produ\u00e7\u00e3o, industrializa\u00e7\u00e3o, manipula\u00e7\u00e3o, comercializa\u00e7\u00e3o, importa\u00e7\u00e3o e exporta\u00e7\u00e3o de produtos \u00e0 base Cannabis\", seja para fins medicinais, para fins cosm\u00e9ticos, para fins culin\u00e1rios e para fins t\u00eaxteis.\r\nCom o argumento de que essa proposta serve para oferecer rem\u00e9dio para pacientes, eles querem, na verdade, criar uma nova ind\u00fastria no Brasil a partir da Cannabis para fins cosm\u00e9ticos, t\u00eaxteis, aliment\u00edcios. Eles querem criar uma cultura da Cannabis no Brasil. \r\nO \u00a7 2\u00ba do art. 18 do substitutivo diz: \r\nN\u00e3o haver\u00e1 restri\u00e7\u00e3o quanto aos crit\u00e9rios terap\u00eauticos para a prescri\u00e7\u00e3o de medicamentos ou de produtos de Cannabis medicinal de uso humano ou veterin\u00e1rio, desde que seja feita por profissional legalmente habilitado.\r\nO que esse dispositivo supracitado faz, na pr\u00e1tica, \u00e9 aprovar o uso da Cannabis, com THC, inclusive, de forma irrestrita em todo o territ\u00f3rio nacional. Ou seja, ela pode ser utilizada para qualquer finalidade, por crian\u00e7a, idoso, adolescente, cachorro, gato, papagaio, tendo receita m\u00e9dica.\r\nO que est\u00e1 por tr\u00e1s desse projeto \u00e9 um risco, \u00e9 um perigo para a nossa sociedade. N\u00f3s precisamos estar atentos a essa discuss\u00e3o. N\u00f3s n\u00e3o podemos ignorar esse debate e simplesmente aprovar um projeto, um texto...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-21T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PAI, V\u00cdTIMA, CORONAV\u00cdRUS, DIEGO GARCIA, DEPUTADO FEDERAL, ORADOR, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Falecimento do pai do orador em decorr\u00eancia da Covid-19. Import\u00e2ncia do tratamento precoce da doen\u00e7a viral.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Como L\u00edder. Sem revis\u00e3o do orador.) - Caro Presidente Peternelli, eu aguardei at\u00e9 este momento para poder usar da palavra pelo tempo de Lideran\u00e7a neste dia 21 de junho. Exatamente nesta data, n\u00f3s, eu e a minha fam\u00edlia, vivemos talvez o momento mais dif\u00edcil das nossas vidas. Faz 3 meses que eu perdi o meu pai, que faleceu no \u00faltimo dia 21 de mar\u00e7o. Tem sido um momento muito dif\u00edcil.\r\nMeu pai, ainda no primeiro dia de sintomas, procurou um m\u00e9dico, foi ao hospital, mas, infelizmente, o profissional o orientou a voltar para casa sem fazer exames, sem tomar nenhum medicamento. Eu descobri, 7 dias depois, que ele estava mal, porque fiz uma liga\u00e7\u00e3o, uma chamada de v\u00eddeo para minha m\u00e3e. Ela estava no primeiro dia dos sintomas dela. Ela tossiu na liga\u00e7\u00e3o, e ali eu descobri que ela tinha os sintomas da COVID. Eu pedi, ent\u00e3o, para que ela chamasse o meu pai, que eu iria orientar o meu pai sobre como proceder. S\u00f3 que, enquanto ela chamava meu pai, eu pensava: \"Bom, se ela est\u00e1, o meu pai tamb\u00e9m est\u00e1\". Eu, ent\u00e3o, comecei a conversar com ele, e ele come\u00e7ou a relatar que j\u00e1 estava h\u00e1 dias se sentindo mal, cansado, com a garganta ruim, tossindo. E eu disse para o meu pai: \"Pai, voc\u00ea est\u00e1 com COVID\". Eu liguei na hora para o Dr. Laercio Abrahao Ceconello, da cidade de Londrina, que os atendeu por videoconfer\u00eancia. O meu pai, naquele dia, come\u00e7ou a se tratar, e a minha m\u00e3e tamb\u00e9m.\r\nPresidente, todos n\u00f3s nos tratamos no primeiro dia de sintoma - eu; minha esposa, que est\u00e1 gr\u00e1vida, com 37 semanas; meu irm\u00e3o; nossos filhos; minha cunhada -, e todos n\u00f3s conseguimos vencer esse v\u00edrus. O meu pai, infelizmente, faleceu. Ele n\u00e3o teve a mesma sorte que n\u00f3s, apesar de ter procurado m\u00e9dico, apesar de ter ido ao hospital no primeiro dia de sintoma.\r\nA Oposi\u00e7\u00e3o fez tanta quest\u00e3o de ficar falando ao longo da sess\u00e3o toda dessa data, s\u00f3 que eles n\u00e3o falam daquilo que poderia de fato ter evitado a morte e o luto de milhares de fam\u00edlias, assim como a minha.\r\nEste est\u00e1 sendo o momento mais dif\u00edcil da minha vida. Este est\u00e1 sendo um momento dif\u00edcil e delicado. Eu espero que seja considerada a opini\u00e3o de m\u00e9dicos respeitados, como o Dr. Laercio Abrahao Ceconello, de Londrina, que j\u00e1 salvou milhares de pessoas; o Dr. Zeballos; o Dr. Ricardo Ariel; o Dr. Francisco. Que essa opini\u00e3o seja respeitada, Presidente! Que essa opini\u00e3o n\u00e3o seja ignorada, pois \u00e9 a opini\u00e3o de m\u00e9dicos, \u00e9 a opini\u00e3o de profissionais de sa\u00fade que est\u00e3o salvando a vida de milhares de pessoas todos os dias.\r\nO meu pai n\u00e3o teve a mesma sorte. Eu, no primeiro dia de sintoma, tamb\u00e9m fui ao m\u00e9dico. Eu procurei um hospital aqui em Bras\u00edlia, e ele tamb\u00e9m me mandou de volta para casa, sem rem\u00e9dio, sem sequer orienta\u00e7\u00e3o para realizar o exame, mas eu tinha certeza de que eu estava com COVID, por conta dos sintomas, e 2 dias depois veio a confirma\u00e7\u00e3o. O meu pai n\u00e3o teve a mesma sorte.\r\nO exemplo do meu pai \u00e9 o exemplo de milhares de pessoas, Presidente. Milhares de pessoas morreram no nosso Pa\u00eds pela falta de informa\u00e7\u00e3o, pela falta de orienta\u00e7\u00e3o, pela falta de responsabilidade de pessoas que mandaram o povo com sintomas de volta para casa sem sequer fazer exames. O meu pai n\u00e3o est\u00e1 aqui, e \u00e9 duro para mim, \u00e9 o momento mais dif\u00edcil da minha vida.(O orador se emociona.)\r\nHoje, depois de 3 meses, eu volto ao Plen\u00e1rio da C\u00e2mara dos Deputados para fazer um apelo a todos os Parlamentares que hoje se pronunciaram defendendo a vida. Vamos defender a vida junto daqueles que est\u00e3o salvando as vidas atrav\u00e9s de tratamento, atrav\u00e9s de orienta\u00e7\u00e3o das pessoas sobre como proceder nas fases dessa doen\u00e7a! Vamos ajudar a salvar a vida dos brasileiros, unindo-nos em torno das pautas de interesse no Congresso, no Plen\u00e1rio, e n\u00e3o fazendo da morte de pessoas que morreram, como o meu pai, um palanque pol\u00edtico! Eu n\u00e3o admito isso! Fiquei a sess\u00e3o toda aguardando para poder fazer esta fala, este desabafo, porque o meu pai n\u00e3o est\u00e1 mais aqui por conta de um irrespons\u00e1vel que o mandou de volta para casa.\r\nEle n\u00e3o tinha nenhum problema de sa\u00fade, nenhuma comorbidade, estava estudando para o concurso da Pol\u00edcia Federal aos 63 anos de idade, treinando. Mas morreu porque confiou na palavra de um irrespons\u00e1vel que o mandou de volta para casa.\r\nN\u00f3s n\u00e3o podemos mais aceitar isso! \u00c9 preciso nos unirmos para apoiar aqueles m\u00e9dicos que est\u00e3o salvando a vida das pessoas de todo o Brasil.\r\nEu agrade\u00e7o, Presidente, por esta oportunidade que V.Exa. me deu, inclusive extrapolando o tempo da Lideran\u00e7a, mas eu n\u00e3o poderia deixar de aqui falar, falar pelo meu pai, falar pela minha fam\u00edlia e falar por milhares de fam\u00edlias como a minha, que sofrem por conta da irresponsabilidade de pessoas que mandaram ficarem em casa. Esse sofrimento eu n\u00e3o desejo compartilhar com ningu\u00e9m.\r\nAqueles que est\u00e3o dizendo que defendem a vida, na verdade, est\u00e3o na torcida para quanto pior ficar, melhor. Aqueles que de fato defendem a vida precisam apoiar aqueles que est\u00e3o salvando a vida de pessoas em todo o Brasil.\r\nEu chamo o nosso Pa\u00eds, a nossa Na\u00e7\u00e3o e o Congresso a se unirem e n\u00e3o medirem for\u00e7as para disseminar as informa\u00e7\u00f5es boas que est\u00e3o salvando a vida de milhares de brasileiros todos os dias.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 399/2015, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ANTIDROGAS(2006), CRIT\u00c9RIO, COMERCIALIZA\u00c7\u00c3O, MEDICAMENTO, PRINC\u00cdPIO ATIVO, SUBST\u00c2NCIA, MACONHA, CANABIDIOL, COMISS\u00c3O ESPECIAL, APRECIA\u00c7\u00c3O CONCLUSIVA, CONTR\u00c1RIO, DIEGO GARCIA, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Apresenta\u00e7\u00e3o pelo orador do Recurso n\u00ba 29, de 2021, contra a aprecia\u00e7\u00e3o conclusiva, pela respectiva Comiss\u00e3o Especial, do Projeto de Lei n\u00ba 399, de 2015, acerca da altera\u00e7\u00e3o do art. 2\u00ba da Lei n\u00ba 11.343, de 2006, com vista \u00e0 comercializa\u00e7\u00e3o de medicamentos com extratos, substratos ou partes da planta cannabis sativa em sua formula\u00e7\u00e3o.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Obrigado, Presidente, Deputado Gilberto Nascimento.\r\nN\u00f3s demos entrada ontem a um recurso para impedir a conclusividade que houve na aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 399, de 2015, que trata do marco regulat\u00f3rio da maconha no Brasil.\r\nEsse projeto estava na Comiss\u00e3o Especial da C\u00e2mara dos Deputados. Foi aprovado com o voto de Minerva. O placar estava 17 a 17, mas houve o voto do Relator, que votou por duas vezes para conseguir aprovar o texto ali na Comiss\u00e3o. Esse recurso foi assinado, em uma semana, com o apoio de 129 Parlamentares e impede que essa mat\u00e9ria complexa v\u00e1 direto ao Senado Federal.\r\nPor que isso \u00e9 importante, Presidente? Porque o projeto, que inicialmente continha uma p\u00e1gina e tr\u00eas artigos, e, dos tr\u00eas artigos, s\u00f3 consider\u00e1vamos um, agora se transformou em um projeto, um substitutivo do Deputado Luciano Ducci, do Paran\u00e1, com mais de 60 artigos.\r\nAl\u00e9m de autorizar o plantio, o cultivo da maconha no Brasil para fins medicinais, sem crit\u00e9rio terap\u00eautico, ele est\u00e1 permitindo o plantio tamb\u00e9m para produtos cosm\u00e9ticos, produtos aliment\u00edcios e para a produ\u00e7\u00e3o t\u00eaxtil no Brasil, n\u00e3o s\u00f3 pela ind\u00fastria, mas tamb\u00e9m por associa\u00e7\u00f5es.\r\nComo vai se dar a fiscaliza\u00e7\u00e3o disso? Como vai se acompanhar tudo isso em todo o territ\u00f3rio nacional? O Conselho Federal de Medicina, por duas vezes, em nota, posicionou-se contrariamente ao projeto de lei. As for\u00e7as de seguran\u00e7a do nosso Pa\u00eds t\u00eam se posicionado contrariamente ao projeto de lei. O Minist\u00e9rio da Justi\u00e7a e o Minist\u00e9rio da Cidadania foram contr\u00e1rios ao projeto de lei. Por isso, entendo que o plen\u00e1rio ser\u00e1 o ambiente adequado para essa discuss\u00e3o, para esse debate.\r\nEnt\u00e3o, quero cumprimentar todos os Parlamentares que votaram contrariamente na Comiss\u00e3o e que nos ajudaram a colher as assinaturas. Em apenas uma semana, chegamos a 129 assinaturas para que o recurso seja analisado aqui no plen\u00e1rio da C\u00e2mara. Agora vamos enfrentar esse debate.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-29T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O, APROVA\u00c7\u00c3O, REQUERIMENTO DE URG\u00caNCIA, PL 2136/2020, PROJETO DE LEI ORDIN\u00c1RIA,  VISITA VIRTUAL, VIDEOCHAMADA, FAM\u00cdLIA, PACIENTE INTERNA\u00c7\u00c3O HOSPITALAR, CORONAV\u00cdRUS, PANDEMIA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Casa pela aprova\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 2.136, de 2020, sobre a realiza\u00e7\u00e3o, por familiares, de videochamadas a pacientes internados com Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu queria cumprimentar o Deputado C\u00e9lio Studart porque passei por isso com o meu pai e a minha m\u00e3e. A minha m\u00e3e eu consegui acompanhar, Presidente, no quarto do hospital, porque ela n\u00e3o foi intubada, mas, quanto ao meu pai, chegamos a ficar 3 dias sem ter uma \u00fanica informa\u00e7\u00e3o sobre o estado de sa\u00fade dele. \r\nEnt\u00e3o, a iniciativa pode at\u00e9 parecer simples, mas ela \u00e9 muito importante para a fam\u00edlia e tamb\u00e9m para os pacientes, que podem ter, em um momento de dificuldade, o apoio das pessoas que eles mais amam. \r\nEu n\u00e3o tive essa oportunidade, como o Deputado C\u00e9lio colocou aqui, de me despedir do meu pai. Mas n\u00f3s teremos a\u00ed, com certeza, a oportunidade de aprovar essa mat\u00e9ria aqui no plen\u00e1rio da C\u00e2mara dos Deputados.\r\nEspero que esta mat\u00e9ria seja de fato aplicada na ponta pelos hospitais. Sei que os profissionais de sa\u00fade est\u00e3o sobrecarregados, mas a fam\u00edlia precisa ter o direito de poder falar com seus parentes que est\u00e3o internados em estado grave. \r\nParabenizo a Casa por essa aprova\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-06T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1674/2021, PROJETO DE LEI ORDIN\u00c1RIA, PODEMOS (PODE) (2016), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.674, de 2021, sobre a institui\u00e7\u00e3o do Certificado de Imuniza\u00e7\u00e3o e Seguran\u00e7a Sanit\u00e1ria - CSS. Declara\u00e7\u00e3o de voto contr\u00e1rio ao requerimento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Podemos vai orientar \"sim\", cumprindo o acordo para a aprova\u00e7\u00e3o da urg\u00eancia. Mesmo o L\u00edder n\u00e3o tendo acenado essa urg\u00eancia, cumprimos o acordo que foi feito, mas o meu voto \u00e9 \"n\u00e3o\". \r\nN\u00f3s vamos trabalhar internamente na bancada, mostrando os argumentos e mostrando que esse projeto tinha que passar pela Comiss\u00e3o de Seguridade Social e Fam\u00edlia, passar por debates, por audi\u00eancias p\u00fablicas nesta Casa. Tudo isso est\u00e1 sendo ignorado neste momento, neste debate. O que esse projeto prop\u00f5e, de fato, \u00e9 a imposi\u00e7\u00e3o sobre a popula\u00e7\u00e3o brasileira de restri\u00e7\u00f5es, ignorando tamb\u00e9m os fatores que, inclusive com dados do Minist\u00e9rio da Sa\u00fade que tenho em m\u00e3os, demonstram rea\u00e7\u00f5es adversas, casos complicad\u00edssimos em decorr\u00eancia da vacina\u00e7\u00e3o...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-06T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PROCESSO LEGISLATIVO FEDERAL, AUTENTICADOR DO SISTEMA DE TRAMITA\u00c7\u00c3O E INFORMA\u00c7\u00c3O LEGISLATIVAS (LNFOLEG AUTENTICADOR), APERFEI\u00c7OAMENTO, PRESID\u00caNCIA DA C\u00c2MARA DOS DEPUTADOS, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de aperfei\u00e7oamento do aplicativo Infoleg, com rela\u00e7\u00e3o \u00e0s informa\u00e7\u00f5es prestadas aos Parlamentares a respeito do processo legislativo.",
+        "tipoDiscurso": "RECLAMA\u00c7\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Para uma reclama\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Presidente, eu queria fazer uma reclama\u00e7\u00e3o que j\u00e1 fiz aos t\u00e9cnicos a\u00ed da Mesa.\r\nApenas quero deixar o registro e pedir a corre\u00e7\u00e3o no nosso aplicativo com rela\u00e7\u00e3o a essas mat\u00e9rias, para inscri\u00e7\u00e3o dos Parlamentares na discuss\u00e3o. Veja que, no aplicativo Infoleg, o projeto de lei que est\u00e1 dispon\u00edvel ali para inscri\u00e7\u00e3o \u00e9 o Projeto de Lei n\u00ba 4.998, de 2020, ou seja, o apensado ao projeto que inclusive estava no painel do plen\u00e1rio da Casa. \r\nEu estava em outra reuni\u00e3o, mas buscava tentar me inscrever no aplicativo. Quando cheguei \u00e0 Mesa, j\u00e1 tinha passado a fase de inscri\u00e7\u00e3o, e eu n\u00e3o pude me inscrever porque n\u00e3o encontrei como faz\u00ea-lo. Depois de muito tempo com os t\u00e9cnicos da Mesa, eles, ent\u00e3o, me mostraram onde isso estava e onde eu poderia fazer a minha inscri\u00e7\u00e3o. \r\nEnt\u00e3o, eu pe\u00e7o apenas, Presidente, para a boa ordem dos trabalhos e em pautas pol\u00eamicas como essa, que n\u00f3s tenhamos, como Parlamentares, o nosso direito assegurado de fazer o registro para inscri\u00e7\u00e3o e discuss\u00e3o e que isso possa acontecer. \r\nJ\u00e1 me explicaram que o requerimento que foi apresentado era sobre o projeto de lei apensado. S\u00f3 que n\u00e3o era isso que estava no painel. No painel, n\u00e3o estava o PL principal, e eu estava procurando pelo PL principal.\r\nA pauta que foi encaminhada para as Lideran\u00e7as foi com o projeto principal. \r\nO SR. PRESIDENTE (Eduardo Bismarck. PDT - CE) - Eu acho que j\u00e1 foi compreendida a quest\u00e3o de ordem, Deputado Diego. \r\nO SR. DIEGO GARCIA (PODE - PR) - N\u00e3o, \u00e0s vezes, em um projeto, pode haver mais de 30 apensados. N\u00f3s n\u00e3o temos como ficar buscando apensado por apensado.\r\nEnt\u00e3o, eu queria solicitar \u00e0 Mesa que encaminhasse esse pedido \u00e0 DITEC da C\u00e2mara dos Deputados, para que n\u00f3s possamos melhorar esse acesso \u00e0s inscri\u00e7\u00f5es aqui no plen\u00e1rio da Casa. \r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-07T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 6726/2016, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), TETO SALARIAL, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, UNI\u00c3O, ESTADO, DISTRITO FEDERAL, MUNIC\u00cdPIO, AGENTE P\u00daBLICO, APOSENTADORIA, PENS\u00c3O, REMUNERA\u00c7\u00c3O, SERVIDOR P\u00daBLICO, APOSENTADO, PENSIONISTA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 6.726, de 2016, sobre a regulamenta\u00e7\u00e3o do limite remunerat\u00f3rio no servi\u00e7o p\u00fablico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Podemos parabeniza o Plen\u00e1rio pela aprova\u00e7\u00e3o desta urg\u00eancia. O Podemos fechou quest\u00e3o. N\u00f3s votaremos a favor da aprova\u00e7\u00e3o desse texto. Isso \u00e9 urgente e \u00e9 uma demanda da sociedade.\r\nN\u00e3o admitimos que esses instrumentos que hoje est\u00e3o sendo utilizados continuem sendo usados, criando esses supersal\u00e1rios, que, sim, est\u00e3o saindo do bolso do trabalhador, do bolso das pessoas que mais necessitam e que precisam de a\u00e7\u00f5es como esta que o Parlamento hoje acaba de estabelecer, ao aprovar esta urg\u00eancia.\r\nN\u00f3s do Partido Podemos vamos votar, quanto ao m\u00e9rito, de maneira un\u00e2nime. Vamos fechar quest\u00e3o em rela\u00e7\u00e3o a esta mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T13:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCELO QUEIROGA, MINISTRO DE ESTADO DA SA\u00daDE, MINIST\u00c9RIO DA SA\u00daDE, GEST\u00c3O, AVALIA\u00c7\u00c3O NEGATIVA.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "N\u00e3o acompanhamento pelo Ministro da Sa\u00fade, Marcelo Queiroga, da discuss\u00e3o da pauta pertinente \u00e0 sua pasta junto \u00e0 C\u00e2mara dos Deputados. Incapacidade do Ministro de di\u00e1logo com o Parlamento brasileiro. Defesa de sua exonera\u00e7\u00e3o da pasta.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente! Boa tarde a todos os demais colegas Parlamentares! \r\nImagino que esta vota\u00e7\u00e3o seja uma vota\u00e7\u00e3o por acordo, mas eu n\u00e3o poderia deixar passar a oportunidade de me dirigir ao Exmo. Sr. Ministro da Sa\u00fade. Sendo Deputado da base do Governo, que atua nas Comiss\u00f5es da C\u00e2mara, apoiando o Governo, pergunto ao Ministro da Sa\u00fade: onde est\u00e1 o Ministro da Sa\u00fade? S.Exa. n\u00e3o acompanha a pauta de delibera\u00e7\u00e3o no Plen\u00e1rio da Casa, n\u00e3o acompanha a pauta de delibera\u00e7\u00e3o que envolve a sua Pasta na segunda maior Comiss\u00e3o da Casa, a Comiss\u00e3o Seguridade Social e Fam\u00edlia. Sr. Ministro da Sa\u00fade, onde V.Exa. est\u00e1? Ou melhor: Sr. Ministro da Sa\u00fade, quem V.Exa. representa? Com certeza, n\u00e3o \u00e9 o Governo do Presidente Jair Bolsonaro.\r\nOu V.Exa. passa a atuar e acompanhar a pauta e a discuss\u00e3o do Congresso Nacional, ou V.Exa. ser\u00e1, sim, questionado, principalmente por este Parlamentar, com rela\u00e7\u00e3o \u00e0s pautas pertinentes \u00e0 sua Pasta, que o tempo todo chegam \u00e0 discuss\u00e3o no Plen\u00e1rio da Casa. A sua assessoria t\u00e9cnica sequer participa deste debate e discuss\u00e3o, n\u00e3o acompanha as pautas, n\u00e3o orienta os Parlamentares da base. Quase permitiram passar no Plen\u00e1rio a urg\u00eancia do passaporte sanit\u00e1rio! \u00c9 uma afronta ao Governo do Presidente Jair Bolsonaro. \r\nOnde V.Exa. est\u00e1, Ministro da Sa\u00fade, que n\u00e3o tem a capacidade de dialogar com o Parlamento brasileiro?\r\nOnde V.Exa. est\u00e1, que n\u00e3o tem a capacidade de acompanhar a pauta do Plen\u00e1rio da Casa e conversar com os L\u00edderes que comp\u00f5em a base do Governo?\r\nV.Exa. \u00e9 incapaz de continuar nesse cargo e precisa pedir para sair, urgentemente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T14:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 2112/2021, PROJETO DE LEI ORDINARIA, PODEMOS (PODE) (2016),  VOTO FAVORAVEL.\r\nEXONERA\u00c7\u00c3O, MINISTRO DE ESTADO DA SA\u00daDE.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.112, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.124, de 2021, para inclus\u00e3o, em grupo priorit\u00e1rio de vacina\u00e7\u00e3o da Covid-19, de gestantes, pu\u00e9rperas e lactantes, bem como de crian\u00e7as e adolescentes com defici\u00eancia permanente, comorbidade ou privados de liberdade. Registro do voto do orador contr\u00e1rio \u00e0 aprova\u00e7\u00e3o da propositura. Imediata exonera\u00e7\u00e3o do Ministro da Sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Podemos vai acompanhar o acordo, orientando o voto \"sim\". Mas eu pediria a V.Exa. que deixasse registrado o meu voto contr\u00e1rio a este projeto de lei.\r\nMais uma vez, eu chamo a aten\u00e7\u00e3o do Ministro da Sa\u00fade: Ministro da Sa\u00fade, V.Exa. \u00e9 capaz de atestar a vacina\u00e7\u00e3o para mulheres gr\u00e1vidas no nosso Pa\u00eds? Onde V.Exa. est\u00e1? A pauta est\u00e1 sendo o tempo todo constru\u00edda, e temas relacionados \u00e0 sua Pasta est\u00e3o em discuss\u00e3o no plen\u00e1rio. Onde V.Exa. est\u00e1? Est\u00e1 viajando, passeando?\r\nN\u00f3s pedimos a sa\u00edda imediata do Ministro da Sa\u00fade, por sua irresponsabilidade, por sua omiss\u00e3o, por n\u00e3o trazer a verdade \u00e0 popula\u00e7\u00e3o brasileira sobre o real momento que n\u00f3s estamos vivendo.\r\nFora, Ministro da Sa\u00fade! Saia j\u00e1!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PRC 5/2020, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, PODEMOS (PODE) (2016), VOTO FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Resolu\u00e7\u00e3o n\u00ba 5, de 2020, sobre a institui\u00e7\u00e3o do Pr\u00eamio Medalha Amigo da Primeira Inf\u00e2ncia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Podemos tamb\u00e9m encaminha o voto \"sim\", lembrando todos aqueles que trabalham em prol da crian\u00e7a e do adolescente no nosso Pa\u00eds. N\u00f3s temos entidades, associa\u00e7\u00f5es, l\u00edderes que atuam na defesa das nossas crian\u00e7as. E \u00e9 papel do Parlamento, sim, reconhecer esses trabalhos brilhantes e dar a eles toda a exposi\u00e7\u00e3o poss\u00edvel, inclusive para que esses exemplos possam repercutir em todo o territ\u00f3rio nacional e, assim, fortalecer cada vez mais a\u00e7\u00f5es que visem a proteger as nossas crian\u00e7as e adolescentes em todo o territ\u00f3rio nacional.\r\nEnt\u00e3o, o Podemos encaminha o voto \"sim\" a esta mat\u00e9ria, Presidente.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO  DE URG\u00caNCIA, PL 5213/2020, PROJETO DE LEI ORDINARIA, PODEMOS (PODE) (2016), VOTO FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.213, de 2020, sobre a posterga\u00e7\u00e3o, para 2021-2022, do Bi\u00eanio da Primeira Inf\u00e2ncia do Brasil previsto na Lei n\u00ba 13.960, de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Podemos orienta voto favor\u00e1vel e cumprimenta V.Exa. por priorizar, na pauta da sess\u00e3o de hoje, a primeira inf\u00e2ncia. \r\nEu gostaria de destacar o papel do Governo Federal, especialmente do Minist\u00e9rio da Educa\u00e7\u00e3o, na elabora\u00e7\u00e3o de pol\u00edticas p\u00fablicas voltadas para a primeira inf\u00e2ncia. Saliento a Pol\u00edtica Nacional de Alfabetiza\u00e7\u00e3o, implementada agora gra\u00e7as a um decreto do Presidente Jair Bolsonaro, e os cursos para os nossos educadores e para os pais que est\u00e3o em andamento com conte\u00fados dispon\u00edveis no portal do MEC e da Secretaria de Alfabetiza\u00e7\u00e3o, comandada pelo Dr. Carlos Nadalim.\r\nEnt\u00e3o, o Podemos orienta voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 5516/2019, PROJETO DE LEI ORDIN\u00c1RIA, PODEMOS (PODE) (2016), VOTO FAVOR\u00c1VEL, FRED COSTA, RELATOR.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.516, de 2019, sobre a institui\u00e7\u00e3o da Sociedade An\u00f4nima do Futebol; das normas de constitui\u00e7\u00e3o, governan\u00e7a, controle e transpar\u00eancia, meios de financiamento da atividade futebol\u00edstica, tratamento dos passivos das entidades de pr\u00e1ticas desportivas e regime tribut\u00e1rio espec\u00edfico; e a altera\u00e7\u00e3o das Leis de n\u00bas 9.615, de 1998; e 10.406, de 2002, (C\u00f3digo Civil), ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Podemos orienta \"sim\".\r\nFui jogador de futebol por muitos anos. Sabemos a import\u00e2ncia que o esporte tem para o nosso Pa\u00eds. \u00c9 extremamente relevante a medida que estamos aprovando hoje nesta Casa.\r\nQuero cumprimentar o Relator desta mat\u00e9ria, o L\u00edder Fred, pelo brilhante parecer.\r\nO Podemos encaminha o voto \"sim\", favor\u00e1vel \u00e0 mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-15T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 1613/2021, PROJETO DE LEI ORDINARIA, PODEMOS (PODE) (2016), VOTO FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Apelo ao Plen\u00e1rio de aprova\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da discuss\u00e3o do Projeto de Lei n\u00ba 1.613, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.080, de 1990, (Lei Org\u00e2nica da Sa\u00fade), com vista \u00e0 regulamenta\u00e7\u00e3o de processos de incorpora\u00e7\u00e3o de tecnologias e utiliza\u00e7\u00e3o de medicamentos pelo Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente. \r\nComo todos sabem, presido a Frente Parlamentar de Doen\u00e7as Raras. Ent\u00e3o, n\u00e3o poderia deixar de me posicionar neste momento aqui no plen\u00e1rio.\r\nEm momento algum fomos consultados sobre esta mat\u00e9ria. \r\nEu tamb\u00e9m sou Relator, na Comiss\u00e3o de Seguridade Social e Fam\u00edlia, da Subcomiss\u00e3o que est\u00e1 tratando deste tema, de que tamb\u00e9m s\u00e3o membros outros grandes Parlamentares que comp\u00f5em a CSSF. E acredito que, talvez, poucos tenham sido procurados para deliberar sobre um tema de tamanha import\u00e2ncia. \r\n\u00c9 \u00f3bvio que a mat\u00e9ria traz, sim, pontos cuja discuss\u00e3o \u00e9 extremamente urgente, mas o debate deveria acontecer no \u00e2mbito da Comiss\u00e3o de Seguridade Social e Fam\u00edlia. Ali j\u00e1 estamos fazendo esse debate, essa discuss\u00e3o.\r\nPor isso, pe\u00e7o, fa\u00e7o um apelo ao Plen\u00e1rio para que se posicione favor\u00e1vel ao adiamento de discuss\u00e3o desta mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-15T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 1613/2021, PROJETO DE LEI ORDINARIA, CONTRARIO.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 1.613, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.080, de 1990, (Lei Org\u00e2nica da Sa\u00fade), com vista \u00e0 regulamenta\u00e7\u00e3o de processos de incorpora\u00e7\u00e3o de tecnologias e utiliza\u00e7\u00e3o de medicamentos pelo Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nEu quero me somar \u00e0s palavras do Deputado Alexandre Padilha.\r\nInclusive, como Presidente da Frente Parlamentar de Doen\u00e7as Raras, quero dizer que a Comiss\u00e3o de Seguridade Social e Fam\u00edlia, em 2019, no nosso relat\u00f3rio, que foi aprovado por unanimidade, Deputada Jandira Feghali, fez quest\u00e3o de expressar este reconhecimento p\u00fablico: os \u00faltimos grandes avan\u00e7os que n\u00f3s tivemos na pol\u00edtica com rela\u00e7\u00e3o \u00e0s pessoas com doen\u00e7as raras no nosso Pa\u00eds se deram justamente no per\u00edodo em que o ex-Ministro Alexandre Padilha estava \u00e0 frente da Pasta do Minist\u00e9rio da Sa\u00fade. Ent\u00e3o, eu fa\u00e7o aqui este reconhecimento p\u00fablico.\r\n\u00c9 \u00f3bvio, \u00e9 claro que n\u00f3s tivemos avan\u00e7os tecnol\u00f3gicos, avan\u00e7os na ci\u00eancia, avan\u00e7os no que diz respeito a novos medicamentos que entraram no mercado mundial e tamb\u00e9m no mercado brasileiro. N\u00f3s temos muitos passos a dar para o avan\u00e7o da pol\u00edtica p\u00fablica voltada para as pessoas com doen\u00e7as raras no nosso Pa\u00eds. No entanto, isso n\u00e3o pode ser feito \u00e0s pressas.\r\nN\u00f3s temos uma Subcomiss\u00e3o que est\u00e1 tratando do tema na Comiss\u00e3o de Seguridade Social e Fam\u00edlia. O parecer que ela vai apresentar, que deve ser aprovado no segundo semestre, vai ser amplamente discutido dentro da Comiss\u00e3o de Seguridade Social, que \u00e9 a segunda maior Comiss\u00e3o da Casa. Com certeza, v\u00e1rias mat\u00e9rias ser\u00e3o submetidas ao Plen\u00e1rio. \r\nAl\u00e9m disso, n\u00f3s estamos prestes a discutir, na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a, o projeto de lei do qual o Deputado Aureo \u00e9 Relator. Esse ser\u00e1 o primeiro item da pauta no retorno dos trabalhos da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a.\r\n\u00c9 \u00f3bvio que, quando se trata de pessoas com doen\u00e7as raras, h\u00e1 apelo de todos os partidos pela aprova\u00e7\u00e3o de mat\u00e9rias. Mas n\u00f3s temos que ser respons\u00e1veis neste momento de discuss\u00e3o.\r\nEnt\u00e3o, eu quero chamar a aten\u00e7\u00e3o dos Parlamentares que tamb\u00e9m acompanham o nosso trabalho dentro desta Casa nesta pauta que diz respeito \u00e0s pessoas com doen\u00e7as raras.\r\nQuero fazer um apelo, pedir um voto de confian\u00e7a, para que, na pressa de aprovar um relat\u00f3rio que deveria ter passado pelas Comiss\u00f5es, que deveria ter sido amplamente debatido e discutido, n\u00e3o cometamos um grande erro no nosso Pa\u00eds ao aprovar esta mat\u00e9ria na noite de hoje.\r\nEnt\u00e3o, fa\u00e7o um apelo aos colegas Parlamentares de todos os partidos, pe\u00e7o um voto de confian\u00e7a, para que esta mat\u00e9ria n\u00e3o seja aprovada neste momento no plen\u00e1rio da C\u00e2mara dos Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-15T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 1613/2021, PROJETO DE LEI ORDINARIA, PODEMOS (PODE) (2016), VOTO FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.613, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.080, de 1990, (Lei Org\u00e2nica da Sa\u00fade), com vista \u00e0 regulamenta\u00e7\u00e3o de processos de incorpora\u00e7\u00e3o de tecnologias e utiliza\u00e7\u00e3o de medicamentos pelo Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu quero fazer um apelo, aqui no Plen\u00e1rio da C\u00e2mara, mais uma vez, aos Parlamentares que acompanham o trabalho da Comiss\u00e3o de Seguridade Social e Fam\u00edlia. Muitos colegas aqui comp\u00f5em essa Comiss\u00e3o. Eu tenho certeza de que n\u00f3s n\u00e3o ter\u00edamos dificuldade de tratar de temas como este em mat\u00e9rias que tivessem tramitado pela Comiss\u00e3o, por acordo, por consenso. \r\nInclusive, trazemos mat\u00e9rias diretamente para a delibera\u00e7\u00e3o do Plen\u00e1rio, uma vez que elas tenham passado pela Comiss\u00e3o de Seguridade Social e Fam\u00edlia, porque ali acontece um debate t\u00e9cnico qualificado sobre o tema, que estamos discutindo com muita profundidade desde 2019. A Comiss\u00e3o de Seguridade Social e Fam\u00edlia priorizou a pauta de doen\u00e7as raras, gra\u00e7as aos Presidentes que estiveram \u00e0 frente dela.\r\nN\u00f3s n\u00e3o podemos aprovar esta mat\u00e9ria da forma como ela est\u00e1. \r\nPor isso, orientamos voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-15T22:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 1613/2021, PROJETO DE LEI ORDINARIA, PODEMOS (PODE) (2016),  VOTO CONTRARIO.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.613, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.080, de 1990, (Lei Org\u00e2nica da Sa\u00fade), com vista \u00e0 regulamenta\u00e7\u00e3o de processos de incorpora\u00e7\u00e3o de tecnologias e utiliza\u00e7\u00e3o de medicamentos pelo Sistema \u00danico de Sa\u00fade - SUS, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Podemos orienta contra o projeto de lei. \r\nN\u00f3s entendemos que esta mat\u00e9ria n\u00e3o deveria estar sendo apreciada quase \u00e0s 23 horas. \u00c9 um erro que n\u00f3s estamos cometendo, um erro ao n\u00e3o respeitar o trabalho da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, que \u00e9 uma Comiss\u00e3o s\u00e9ria, a segunda maior em n\u00famero de membros, composta por profissionais da sa\u00fade de v\u00e1rias esferas, por Parlamentares extremamente dedicados. \r\nEsta \u00e9 uma pauta muito cara para n\u00f3s, porque n\u00f3s temos dedicado muito tempo e realizado audi\u00eancias p\u00fablicas quase semanalmente, com o apoio do Deputado Dr. Luizinho, que est\u00e1 \u00e0 frente da Comiss\u00e3o de Seguridade neste tempo. Portanto, eu acho um erro votarmos esta mat\u00e9ria na noite de hoje. \r\nPor isso, nosso voto \u00e9 contr\u00e1rio \u00e0 aprova\u00e7\u00e3o deste texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-04T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, AUDITORIA, ELEI\u00c7\u00d5ES, URNA ELETR\u00d4NICA, TRANSPAR\u00caNCIA, COMISS\u00c3O ESPECIAL, PLEN\u00c1RIO DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Apoio \u00e0 retomada do voto impresso nas elei\u00e7\u00f5es brasileiras. Defesa de aprova\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade da emiss\u00e3o de c\u00e9dulas f\u00edsicas em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso).",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Obrigado, Presidente, Deputado Gilberto Nascimento.\r\nN\u00f3s estamos hoje em defesa do voto impresso audit\u00e1vel. \u00c9 necess\u00e1rio e ser\u00e1 um grande ganho para o processo eleitoral do Brasil. Estamos felizes com a pauta e as decis\u00f5es que t\u00eam sido tomadas no Col\u00e9gio de L\u00edderes pelo Presidente Arthur Lira, mas principalmente hoje pelas suas manifesta\u00e7\u00f5es tamb\u00e9m acompanhando o pensamento de ampla maioria da sociedade brasileira, que quer que o voto seja cada vez mais transparente. \u00c9 isso o que n\u00f3s defendemos.\r\nPara que as pessoas entendam, Presidente, o voto impresso audit\u00e1vel \u00e9 a vota\u00e7\u00e3o com a possibilidade de confirma\u00e7\u00e3o da vota\u00e7\u00e3o tamb\u00e9m por meio f\u00edsico. Uma pergunta que as pessoas fazem sempre: \u00e9 a volta do voto no papel? N\u00e3o. Substitui a urna eletr\u00f4nica? N\u00e3o. Como funcionar\u00e1? O voto ser\u00e1 impresso e depositado automaticamente em uma urna lacrada, ap\u00f3s o eleitor confirmar se as informa\u00e7\u00f5es no papel correspondem \u00e0 sua escolha na urna eletr\u00f4nica. Os eleitores n\u00e3o ter\u00e3o contato com o voto impresso. Ele \u00e9 seguro e representa a escolha do eleitor.\r\nPor isso, Presidente, vota\u00e7\u00e3o eletr\u00f4nica \u00e9 uma realidade hoje em mais de 30 pa\u00edses, segundo o Instituto Internacional para a Democracia e a Assist\u00eancia Eleitoral.\r\nTrinta e dois pa\u00edses souberam tirar proveito dos avan\u00e7os tecnol\u00f3gicos e utilizam a vota\u00e7\u00e3o eletr\u00f4nica. Brasil, Bangladesh e But\u00e3o s\u00e3o os \u00fanicos pa\u00edses que adotam a vota\u00e7\u00e3o por urna eletr\u00f4nica sem registro em papel, em larga escala, em elei\u00e7\u00f5es nacionais.\r\nEnt\u00e3o, em caso de suspeita de fraude eleitoral, o voto impresso d\u00e1 a possibilidade de auditoria e confer\u00eancia. \u00c9 mais transpar\u00eancia ao processo eleitoral.\r\nPor isso, n\u00f3s pedimos que cada vez mais a sociedade compreenda a import\u00e2ncia dessa iniciativa e a apoie, para que a PEC seja aprovada em Comiss\u00e3o Especial e, posteriormente, seja aprovada pelo Plen\u00e1rio desta Casa tamb\u00e9m.\r\nMuito obrigado, Presidente, Deputado Gilberto Nascimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-05T10:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "APOIAMENTO, COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), TRIBUNAL SUPERIOR ELEITORAL (TSE), URNA ELETR\u00d4NICA, INVESTIGA\u00c7\u00c3O, POL\u00cdCIA FEDERAL, FILIPE BARROS, DEPUTADO FEDERAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, FRAUDE, ELEI\u00c7\u00d5ES, PROCESSO ELEITORAL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Viola\u00e7\u00e3o de urnas eletr\u00f4nicas nas elei\u00e7\u00f5es de 2018. Subscri\u00e7\u00e3o do requerimento de cria\u00e7\u00e3o da CPI do TSE pela C\u00e2mara dos Deputados. Defesa de retomada do voto impresso nas elei\u00e7\u00f5es brasileiras.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Obrigado, Presidente, pela gentileza de recuperar a minha inscri\u00e7\u00e3o, para que eu pudesse falar na sess\u00e3o de hoje, nos Breves Comunicados. Eu estava participando da reuni\u00e3o de pauta da CCJ pelo meu partido, o Podemos.\r\nEu gostaria neste momento de informar a popula\u00e7\u00e3o brasileira de que assinei requerimento de autoria do Deputado Eduardo Bolsonaro apresentado nesta manh\u00e3, para a cria\u00e7\u00e3o da CPI do TSE. Essa a\u00e7\u00e3o se baseia em relat\u00f3rio da Pol\u00edcia Federal que prova que o sistema eleitoral eletr\u00f4nico foi hackeado.\r\nPresidente, ontem, participando do programa Os Pingos nos Is, o Presidente Jair Bolsonaro e o nosso colega Deputado Federal Filipe Barros apresentaram os documentos que o Deputado Filipe Barros obteve atrav\u00e9s de solicita\u00e7\u00e3o \u00e0 Pol\u00edcia Federal. Ou seja, n\u00e3o \u00e9 mais o Presidente Jair Bolsonaro falando, n\u00e3o somos apenas n\u00f3s Parlamentares que j\u00e1 defendemos h\u00e1 tempo a aprova\u00e7\u00e3o do voto impresso audit\u00e1vel. Agora as informa\u00e7\u00f5es v\u00eam da pr\u00f3pria Pol\u00edcia Federal. \r\nE quem fez a solicita\u00e7\u00e3o de abertura desse processo de investiga\u00e7\u00e3o foi a Presidente do TSE \u00e0 \u00e9poca, a Ministra Rosa Weber. O pr\u00f3prio TSE, o que \u00e9 mais grave, apagou os arquivos por onde andou o hacker e onde provavelmente estaria a prova de que possivelmente o processo eleitoral, nas elei\u00e7\u00f5es de 2018, tenha sido adulterado.\r\nEssa den\u00fancia \u00e9 grav\u00edssima! Por isso, \u00e9 fundamental que os Parlamentares, ao longo deste dia, assinem o requerimento do Deputado Eduardo Bolsonaro para a cria\u00e7\u00e3o dessa CPI, que ter\u00e1 um papel important\u00edssimo na nossa Na\u00e7\u00e3o, ao apurar esses fatos e trazer luz \u00e0quilo que at\u00e9 ontem estava oculto da popula\u00e7\u00e3o brasileira, como essas informa\u00e7\u00f5es.\r\nPe\u00e7o, Presidente, que o meu pronunciamento seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DESFILE, FOR\u00c7AS ARMADAS, ESPLANADA DOS MINIST\u00c9RIOS, FAVOR\u00c1VEL.\r\nRECURSOS P\u00daBLICOS, DESVIO, CR\u00cdTICA.\r\nCOMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), PANDEMIA, CORONAV\u00cdRUS, SENADO FEDERAL, SENADOR, COMPORTAMENTO, CR\u00cdTICA,  RESPONSABILIDADE, INVESTIGA\u00c7\u00c3O, MUNIC\u00cdPIO, DESVIO, RECURSOS P\u00daBLICOS, SA\u00daDE. \r\nVOTO IMPRESSO, ELEI\u00c7\u00d5ES, FAVORAVEL.",
+        "nomeDeputado": "Diego Garcia",
+        "sumario": "Apoio ao desfile militar realizado pelas For\u00e7as Armadas brasileiras na Esplanada dos Minist\u00e9rios. Desvio, por governos anteriores, de recursos p\u00fablicos para pa\u00edses ditatoriais. Rep\u00fadio ao comportamento e atitudes de membros da CPI da Covid. N\u00e3o investiga\u00e7\u00e3o, pelo \u00f3rg\u00e3o, do desvio de recursos federais destinados ao combate \u00e0 epidemia de coronav\u00edrus em Estados e Munic\u00edpios. Apoio do orador e do povo brasileiro \u00e0 retomada do voto impresso em pleitos eleitorais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DIEGO GARCIA (PODE - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o desfile das For\u00e7as Armadas tomou conta do pronunciamento de muitos Parlamentares, na tarde de hoje, nesta sess\u00e3o. \r\nEu, particularmente, Sr. Presidente, n\u00e3o fico envergonhado de ver um desfile das For\u00e7as Armadas, n\u00e3o fico com nem um pouco de medo de esse desfile ter acontecido no dia de hoje. Fico envergonhado de ver o desvio de dinheiro p\u00fablico, como n\u00f3s vimos a\u00ed, com muita frequ\u00eancia, anos atr\u00e1s, a sa\u00edda de dinheiro p\u00fablico para outros pa\u00edses, governados por ditadores, como Cuba, Venezuela. Tantos outros esc\u00e2ndalos n\u00f3s vimos. O dinheiro saiu em desfile para outros pa\u00edses, a rodo, dinheiro que agora falta para os brasileiros.\r\n\u00c9 disso que eu me envergonho, \u00e9 disso que temos medo e que n\u00e3o queremos que volte ao nosso Pa\u00eds. \r\nN\u00e3o me envergonho dos militares. Particularmente, n\u00e3o me envergonho daqueles que prestam um servi\u00e7o brilhante \u00e0 nossa Na\u00e7\u00e3o. No meu Estado do Paran\u00e1, as For\u00e7as Armadas t\u00eam realizado um trabalho de excel\u00eancia - est\u00e3o implementando agora o SISFRON, sistema que trar\u00e1 prote\u00e7\u00e3o a toda a \u00e1rea de fronteira do nosso Estado -, mas, disso, ningu\u00e9m fala. \r\nEu me envergonho daqueles que desviaram milh\u00f5es de dinheiro p\u00fablico, dos Senadores que comp\u00f5em esta CPI da vergonha - exceto alguns Senadores que, de fato, cumprem muito bem o seu papel dentro da Comiss\u00e3o. Temos um grande n\u00famero de Senadores ali que envergonham o Brasil com o seu comportamento, atitudes e omiss\u00e3o, quando deveriam ir a fundo, investigar a corrup\u00e7\u00e3o e desvios de dinheiro p\u00fablico em Estados e Munic\u00edpios. Mas, para isso, eles n\u00e3o querem trabalhar.\r\nQueremos, Sr. Presidente, transpar\u00eancia em todas as \u00e1reas e, tamb\u00e9m, no voto impresso audit\u00e1vel, que \u00e9, sim, uma vontade popular. Por isso, vemos a grande mobiliza\u00e7\u00e3o em todo o Brasil pela aprova\u00e7\u00e3o do voto impresso audit\u00e1vel na sess\u00e3o de hoje, em nosso Pa\u00eds. Espero que assim aconte\u00e7a; ter\u00e1 o meu total apoio, o meu voto. J\u00e1 votei na legislatura passada e votaremos novamente nesta legislatura, para que esta lei saia do papel e se transforme em realidade, trazendo mais transpar\u00eancia ao sistema eleitoral brasileiro. Isso \u00e9 um avan\u00e7o.\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

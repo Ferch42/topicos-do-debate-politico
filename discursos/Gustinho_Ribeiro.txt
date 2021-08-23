@@ -1,0 +1,812 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AGRADECIMENTO, ELEITOR, ELEI\u00c7\u00c3O, DEPUTADO FEDERAL. \r\nCOMENT\u00c1RIO, RENOVA\u00c7\u00c3O, LEGISLATURA CORRENTE.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Agradecimento ao povo do Estado de Sergipe pela elei\u00e7\u00e3o do orador. Renova\u00e7\u00e3o da representatividade na C\u00e2mara dos Deputados.  Manifesta\u00e7\u00e3o de boas-vindas aos Parlamentares.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, ocupo a tribuna, primeiro, para agradecer ao povo do meu Estado, ao povo de Sergipe, que me trouxe a esta Casa. H\u00e1 um sentimento de renova\u00e7\u00e3o em nosso Pa\u00eds, e o retrato disso est\u00e1 aqui neste Parlamento, com mais de 48% de renova\u00e7\u00e3o.\r\nA for\u00e7a popular renovou a representa\u00e7\u00e3o pol\u00edtica. A maior for\u00e7a de uma democracia \u00e9 a for\u00e7a popular, e est\u00e1 na hora de esta Casa renovar este Pa\u00eds e renovar as nossas leis. Por isso, dou as boas-vindas aos Parlamentares novos que, assim como eu, chegam a esta Casa com muita esperan\u00e7a, com muita vontade de mudar este Pa\u00eds. Tamb\u00e9m dou as boas-vindas aos Deputados veteranos, que ir\u00e3o nos ajudar na constru\u00e7\u00e3o de um futuro melhor para o Brasil e para os brasileiros.\r\nDesse modo, Sra. Presidente, pe\u00e7o a todos que possamos, dentro deste Parlamento, fazer o melhor poss\u00edvel, pensando em nosso Pa\u00eds. O Brasil precisa de n\u00f3s. E farei do meu mandato uma trincheira em defesa de Sergipe, dos sergipanos e do povo brasileiro.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=64&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FELIPE RIGONI, DEPUTADO FEDERAL, ELOGIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Felipe Rigoni pelo discurso proferido sobre a hist\u00f3ria de sua vida.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em nome da bancada do Solidariedade, o nosso partido, queremos cumprimentar o Deputado Felipe pelo seu pronunciamento. A juventude que chega a este Parlamento v\u00ea no Deputado Felipe toda a representa\u00e7\u00e3o da for\u00e7a, da esperan\u00e7a e da juventude do Brasil. O Deputado Felipe representa a juventude brasileira.\r\nEm nome dessa esperan\u00e7a, o povo trouxe para c\u00e1 diversos jovens como o Deputado Felipe, jovens que acreditam na for\u00e7a da educa\u00e7\u00e3o, para demonstrar que a juventude brasileira necessita apenas de oportunidade, para, assim como o Deputado Felipe, vencer na vida.\r\nEu n\u00e3o tenho d\u00favida de que, nesta Casa, lutaremos para oferecer oportunidades aos jovens do nosso Pa\u00eds.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, SOLIDARIEDADE (SD).",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 16 da Lei n\u00ba 12.414, de 2011, com a reda\u00e7\u00e3o dada pelo art. 2\u00ba do Substitutivo apresentado ao Projeto de Lei Complementar n\u00ba 441, de 2017, sobre os cadastros positivos de cr\u00e9dito e a regula\u00e7\u00e3o da responsabilidade civil dos operadores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade, diferentemente do bloco, orienta o voto \"sim\", pela manuten\u00e7\u00e3o do texto, entendendo que o projeto de cadastro positivo \u00e9 importante para facilitar o acesso ao cr\u00e9dito a toda a popula\u00e7\u00e3o brasileira, reduzindo a taxa de juros. Ele far\u00e1 com que a popula\u00e7\u00e3o, o cidad\u00e3o de bem tenha acesso ao cr\u00e9dito neste Pa\u00eds.\r\nPortanto, o Solidariedade orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.724-A, de 2015, a respeito da eleva\u00e7\u00e3o da participa\u00e7\u00e3o da capital estrangeiro em empresas a\u00e9reas brasileiras.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade encaminha o voto \"sim\", por entender que este \u00e9 um tema importante para o turismo brasileiro. Esta discuss\u00e3o radical em nada ajuda o turismo e o povo deste Pa\u00eds. N\u00f3s precisamos aprovar esta mat\u00e9ria, para gerar emprego e renda e fazer com que o Pa\u00eds avance.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=249&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 15/2019, EMENDA DE PLEN\u00c1RIO, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 15, apresentada ao Projeto de Lei n\u00ba 2.724, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade encaminha \"sim\", por entender que essa emenda cont\u00e9m os abusos praticados pelas empresa e pelas companhias a\u00e9reas. \u00c9 uma emenda justa - inclusive aproveito para parabenizar o seu autor - que reorganiza e faz com que o consumidor e os passageiros que utilizam os servi\u00e7os sejam respeitados, acabando de uma vez por todas com a injusti\u00e7a praticada pelas companhias a\u00e9reas.\r\nPor isso, o Solidariedade encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=360&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DESSALINIZA\u00c7\u00c3O, SERGIPE.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Defesa da instala\u00e7\u00e3o de usina de dessaliniza\u00e7\u00e3o no Estado de Sergipe, em primeiro lugar, com rela\u00e7\u00e3o aos outros Estados da Regi\u00e3o Nordeste.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, venho \u00e0 tribuna no dia de hoje para tratar de um importante tema para o Brasil, para o povo sertanejo, para o povo nordestino, principalmente o sergipano.\r\nPara isso, come\u00e7o com versos do grande escritor Guibson Medeiros:\r\nMeu nome \u00e9 Nordeste\r\nTenho seca, tenho fome\r\nTenho pressa, companheiro\r\nEu sou forte e verdadeiro\r\nVoc\u00ea vem, mas logo some\r\nSabe bem que eu tenho nome\r\nSou Nordeste brasileiro.\r\nO tema que trago \u00e9 a import\u00e2ncia da implanta\u00e7\u00e3o de usinas de dessaliniza\u00e7\u00e3o no Nordeste, onde a seca se faz muito presente, maltratando o povo do Sert\u00e3o brasileiro.\r\nEm especial, eu gostaria de ressaltar o meu compromisso e a minha luta para que seja implantada uma usina de dessaliniza\u00e7\u00e3o de \u00e1guas do mar no Estado de Sergipe. Todos sabem que o Governo Federal pretende implantar esse projeto no Nordeste brasileiro. Aqui eu lan\u00e7o o nome do Estado de Sergipe para ser o primeiro Estado a receber essa usina, que far\u00e1 com que o povo nordestino, principalmente o povo do Sert\u00e3o sergipano, se liberte, de uma vez por todas, da seca, da estiagem, a fim de transformar o Sert\u00e3o sergipano numa regi\u00e3o pr\u00f3spera e produtiva, atrav\u00e9s da agricultura e da pecu\u00e1ria. \r\nEmbora ainda tenhamos \u00e1gua pot\u00e1vel em abund\u00e2ncia em muitas regi\u00f5es do Brasil, sofremos bastante com a seca em outros tantos lugares do Pa\u00eds, como no Nordeste, onde diversos Munic\u00edpios j\u00e1 contam com instala\u00e7\u00f5es de pequeno porte para o processo de osmose reversa, para o tratamento de \u00e1guas salobras.\r\nA nossa ideia \u00e9 que Sergipe, por ser o menor Estado da Federa\u00e7\u00e3o do ponto de vista territorial, seja, Sra. Presidente, o primeiro Estado a receber a usina de dessaliniza\u00e7\u00e3o de \u00e1guas do mar, uma obra estruturante, um investimento que ir\u00e1 captar a \u00e1gua do mar e lev\u00e1-la para o Sert\u00e3o sergipano, reduzindo o sofrimento de milhares de fam\u00edlias que enfrentam, no dia a dia, grandes dificuldades em decorr\u00eancia da seca.\r\nDentre os Estados do Nordeste, Sergipe \u00e9 o que tem a menor dist\u00e2ncia do litoral ao Sert\u00e3o. Por isso, n\u00f3s teremos um custo de investimento reduzido. Assim, lan\u00e7amos aqui, neste exato momento, o Estado de Sergipe para ser o Estado modelo que receber\u00e1 a usina de dessaliniza\u00e7\u00e3o de \u00e1guas do mar.\r\nN\u00e3o tenho d\u00favida de que o Governo Federal, que precisa tanto investir no Nordeste, escolher\u00e1 Sergipe para estabelecer a usina de dessaliniza\u00e7\u00e3o da \u00e1gua do mar.\r\nA minha luta \u00e9 para que Sergipe seja o primeiro Estado brasileiro a receber essa obra estruturante, de t\u00e3o grande porte, que \u00e9 a usina de dessaliniza\u00e7\u00e3o. Como nordestino que sou, estarei nessa luta de forma incans\u00e1vel, pois sei o quanto o meu povo do Sert\u00e3o sofre com a seca, que castiga a terra e deixa o povo sem \u00e1gua para beber, para cuidar da lavoura, para cuidar dos animais.\r\nTermino o meu discurso com a esperan\u00e7a de dias melhores para meu povo sertanejo, nordestino, com a expectativa de que o nosso apelo seja atendido e Sergipe seja o primeiro a receber a usina de dessaliniza\u00e7\u00e3o.\r\nEra isso, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLENARIO, MPV 858/2018, MEDIDA PROVISORIA, SOLIDARIEDADE (SD), VOTO CONTRARIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 5, com parecer contr\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pedimos a palavra para orientar pelo Solidariedade. O Solidariedade orienta o voto \"n\u00e3o\" por entender que a maioria dessas emendas n\u00e3o tem nada a ver com a mat\u00e9ria. \r\nO Solidariedade encaminha o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 2/2019, EMENDA DE COMISS\u00c3O, MPV 858/2018, MEDIDA PROVISORIA, SOLIDARIEDADE (SD), VOTO CONTRARIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 2.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, oriento pelo Solidariedade.\r\nN\u00f3s estamos analisando e votando a MP que trata da extin\u00e7\u00e3o da ACS - Alc\u00e2ntara Cyclone Space. A emenda, apesar de se perceber nela a boa inten\u00e7\u00e3o de garantir a soberania, trata de garantia j\u00e1 estabelecida na Constitui\u00e7\u00e3o, \u00e9 cl\u00e1usula p\u00e9trea.\r\nPor isso, o Solidariedade encaminha o voto \"n\u00e3o\", mas deixa registrada a boa inten\u00e7\u00e3o do autor. A orienta\u00e7\u00e3o do Solidariedade \u00e9 \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE VOTA\u00c7\u00c3O, PL 888/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD),   VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 888, de 2019, a respeito da altera\u00e7\u00e3o das Leis de n\u00bas 10.931, de 2004, e 2.024, de 2009, respectivamente, sobre o patrim\u00f4nio de afeta\u00e7\u00e3o de incorpora\u00e7\u00f5es imobili\u00e1rias, e sobre o tratamento tribut\u00e1rio dado \u00e0s receitas mensais auferidas pelas empresas construtoras nos contratos de constru\u00e7\u00e3o de moradias firmados no \u00e2mbito do Programa Minha Casa, Minha Vida.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade entende a import\u00e2ncia desse projeto, que fortalece a pol\u00edtica de habita\u00e7\u00e3o popular do Pa\u00eds n\u00e3o s\u00f3 no que diz respeito aos investimentos na economia, \u00e0 gera\u00e7\u00e3o de emprego, mas tamb\u00e9m \u00e0 realiza\u00e7\u00e3o de sonhos. Milhares de brasileiros conquistaram a sua moradia, a sua dignidade atrav\u00e9s da casa pr\u00f3pria. N\u00f3s vamos garantir que as incorporadoras, as construtoras possam continuar realizando sonhos, gerando emprego e melhorando a vida do povo brasileiro.\r\nO Solidariedade orienta que se vote \"sim\", para garantirmos que as construtoras possam continuar realizando sonhos, gerando empregos e melhorando a vida do povo brasileiro. N\u00f3s entendemos que esse projeto refor\u00e7a a pol\u00edtica habitacional, que precisa ser apoiada, e muito, no atual Governo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=153&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 2542/2015, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.542-C, de 2015, sobre a altera\u00e7\u00e3o da Lei n\u00ba 11.107, de 2005, com vista \u00e0 limita\u00e7\u00e3o das exig\u00eancias legais de regularidade na celebra\u00e7\u00e3o de conv\u00eanios com a Uni\u00e3o ao pr\u00f3prio cons\u00f3rcio p\u00fablico envolvido.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade entende que esta \u00e9 uma pauta municipalista. E, numa semana em que estamos recebendo Prefeitos do Pa\u00eds inteiro, nada mais justo do que aprovarmos um projeto que ajuda as Prefeituras a tocarem seus Munic\u00edpios, construindo, atrav\u00e9s dos cons\u00f3rcios, um trabalho menos burocr\u00e1tico.\r\nAproveitando este momento em que estamos recebendo Prefeitos do Pa\u00eds inteiro, o Solidariedade encaminha \"sim\", em homenagem ao municipalismo e em homenagem aos Prefeitos do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=178&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO), AN\u00c1LISE.\r\nSAL\u00c1RIO M\u00cdNIMO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Protesto contra o novo c\u00e1lculo de reajuste do sal\u00e1rio m\u00ednimo adotado pelo Governo Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, queria deixar registrado aqui que o Governo j\u00e1 encaminhou para esta Casa a LDO, e a LDO fala sobre o novo c\u00e1lculo do sal\u00e1rio m\u00ednimo, que at\u00e9 hoje \u00e9 calculado de acordo com a infla\u00e7\u00e3o mais PIB. E o Governo quer alterar esse c\u00e1lculo. Isso vai fazer com que o sal\u00e1rio m\u00ednimo no Pa\u00eds fique impratic\u00e1vel para as fam\u00edlias brasileiras.\r\nN\u00f3s temos, de acordo com o DIEESE, que o piso nacional deveria ser hoje j\u00e1 3 mil e 900 reais, valor estimado para suprir as necessidades b\u00e1sicas de uma fam\u00edlia de quatro pessoas. Se n\u00e3o houvesse o reajuste anual calculado, esse sal\u00e1rio hoje estaria em 573 reais, Deputado Jo\u00e3o Roma. \r\nEnt\u00e3o, n\u00f3s precisamos rever na LDO, no momento adequado... E j\u00e1 quero anunciar aqui que apresentarei emenda \u00e0 LDO, para que isso n\u00e3o ocorra. \u00c9 um verdadeiro crime com os assalariados...   \r\n(Desligamento autom\u00e1tico do microfone.)\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Para concluir, Deputado Gustinho Ribeiro.\r\nO SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE) - Para concluir. \r\nN\u00f3s precisamos defender o sal\u00e1rio m\u00ednimo.\r\nAproveito a oportunidade para pedir o apoio desta Casa. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=162&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade orienta \"n\u00e3o\", tendo em vista que precisamos acelerar a vota\u00e7\u00e3o desta mat\u00e9ria importante para o Pa\u00eds. Esta MP \u00e9 oriunda ainda do Governo passado. Ent\u00e3o, precisamos agilizar a vota\u00e7\u00e3o de uma mat\u00e9ria extremamente importante, como eu j\u00e1 disse.\r\nPor isso, o Solidariedade orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=147&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 863/2018, MEDIDA PROVISORIA, SOLIDARIEDADE (SD), VOTO CONTRARIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade encaminha \"n\u00e3o\", por entender que essa mat\u00e9ria \u00e9 extremamente importante para o Pa\u00eds. A retirada de pauta da medida provis\u00f3ria s\u00f3 vai protelar ainda mais a melhoria do transporte a\u00e9reo do Brasil. A popula\u00e7\u00e3o brasileira sofre com o p\u00e9ssimo servi\u00e7o ofertado hoje no Pa\u00eds. Precisamos votar essa a mat\u00e9ria o quanto antes. \r\nE pe\u00e7o a esta Casa que saiamos desse radicalismo! O Solidariedade respeita o posicionamento de diversas correntes pol\u00edticas, mas n\u00f3s n\u00e3o podemos prejudicar o povo brasileiro com o radicalismo implantado neste Parlamento. O Parlamento precisa de equil\u00edbrio, de di\u00e1logo, e \u00e9 isso o que os partidos de centro est\u00e3o tentando construir, para que o Pa\u00eds avance, para que voltemos a gerar emprego, para que a economia cres\u00e7a.\r\n\u00c9 por isso que eu deixo registrada a nossa indigna\u00e7\u00e3o...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, MPV 863/2018, MEDIDA PROVISORIA, SOLIDARIEDADE (SD), VOTO CONTRARIO.\r\nHILDA RIBEIRO, PREFEITO, LAGARTO (SE), REAJUSTE SALARIAL, PROFESSOR, ESCOLA PUBLICA.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento da vota\u00e7\u00e3o por 2 sess\u00f5es da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro. Congratula\u00e7\u00f5es \u00e0 Prefeita Hilda Ribeiro, do Munic\u00edpio de Lagarto, Estado de Sergipe, pela concess\u00e3o de reajuste salarial aos professores da rede municipal de ensino.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade orienta o voto \"n\u00e3o\".\r\nAproveito ainda esta oportunidade para fazer um registro. Em Sergipe, no Munic\u00edpio de Lagarto, minha cidade natal, a Prefeita Hilda Ribeiro concedeu o maior reajuste da hist\u00f3ria para os professores: 8% em rela\u00e7\u00e3o ao Piso Nacional.\r\nSr. Presidente Isnaldo Bulh\u00f5es Jr., os meus cumprimentos \u00e0 Prefeita Hilda Ribeiro, da cidade de Lagarto, por ter concedido o maior reajuste da hist\u00f3ria aos professores municipais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=197&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T12:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.\r\nBANCADA, SOLIDARIEDADE (SD), SOLIDARIEDADE, PARLMENTO, OFENSA MORAL, GOVERNO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental. Apoio da bancada do SOLIDARIEDADE ao Congresso Nacional diante de ataques de governistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade orienta \"n\u00e3o\".\r\nAproveito aqui para registrar o nosso apoio e o apoio da nossa bancada ao Presidente desta Casa, Deputado Rodrigo Maia, e ao Parlamento de um modo geral. Estamos vivendo no Pa\u00eds um radicalismo extremo, e alguns pr\u00f3ximos que cercam o Governo Federal t\u00eam proferido ataques a este Parlamento. \u00c9 bom deixar claro que este Parlamento est\u00e1 tentando ajudar o Governo Federal, est\u00e1 tentando ajudar o Pa\u00eds a retomar o emprego, a fortalecer a nossa economia.\r\nAlguns que cercam o Governo atacam de forma gratuita este Parlamento, e isso \u00e9 um absurdo! O Parlamento ser\u00e1 protagonista das reformas. O Parlamento \u00e9 quem vai fazer com que o nosso Pa\u00eds avance, gere emprego, melhore a economia...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. ORLANDO SILVA (PCdoB - SP) - O PCdoB, Sra. Presidente...\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Deputado Gustinho Ribeiro, pe\u00e7o-lhe que conclua.\r\nS\u00f3 1 minutinho, Deputado Orlando Silva.\r\nO SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE) - \u00c9 por isso que esta Casa tem trabalhado no di\u00e1logo, no entendimento, para que, junto com o Governo Federal, com o Poder Executivo, n\u00f3s possamos avan\u00e7ar.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, REQUERIMENTO DE URG\u00caNCIA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria de registrar o meu apoio a este projeto que regulamenta a vaquejada e os demais esportes equestres no Brasil. \r\nA vaquejada no Nordeste faz parte da cultura do nosso povo. Para que V.Exas. tenham ideia, a vaquejada no Nordeste \u00e9 mais popular do que o futebol, \u00e9 o esporte do povo nordestino, \u00e9 a paix\u00e3o do povo nordestino, que gera milhares de empregos, que movimenta a economia da nossa regi\u00e3o. Desde o tratador at\u00e9 o criador do cavalo e o propriet\u00e1rio de parques de vaquejada, a economia no Nordeste respira vaquejada. Por isso o nosso apoio, a nossa defesa dos esportes equestres, que com certeza n\u00e3o s\u00e3o s\u00f3 uma paix\u00e3o nordestina, mas tamb\u00e9m uma paix\u00e3o do povo brasileiro.\r\nN\u00f3s precisamos garantir o apoio a este projeto e a regulamenta\u00e7\u00e3o.\r\n(Desligamento autom\u00e1tico do microfone.)\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Com a palavra o Deputado Carlos Veras. (Pausa.)\r\nEm seguida ter\u00e1 a palavra o Deputado Ricardo Izar. \r\nDeputado Gustinho Ribeiro, eu vou dar 1 minuto a V.Exa., mas tenho que encerrar o painel. Pe\u00e7o que conclua, ent\u00e3o.\r\nO SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE) - Muita gente critica sem sequer conhecer o dia a dia dos vaqueiros, dos cavalos e das equipes que vivem da vaquejada.\r\nFinalizo, Sra. Presidente, deixando o nosso apoio e pedindo apoio aos demais Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo da admissibilidade dos destaques simples oferecidos ao Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade orienta o voto \"n\u00e3o\", por entender que precisamos avan\u00e7ar na discuss\u00e3o desta mat\u00e9ria e aprovar este projeto, que regulamenta os esportes equestres no Brasil, principalmente a vaquejada do Nordeste, uma paix\u00e3o do povo nordestino. \r\nQuem trabalha contra a aprova\u00e7\u00e3o deste projeto est\u00e1 trabalhando contra a gera\u00e7\u00e3o de milhares de empregos, contra a economia, principalmente contra a economia do Nordeste brasileiro.\r\nPor isso, o Solidariedade orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=317&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade orienta o voto \"sim\", para n\u00f3s garantirmos seguran\u00e7a jur\u00eddica aos esportes equestres no Brasil, principalmente \u00e0 vaquejada no Nordeste.\r\nJ\u00e1 foi dito aqui, por diversas vezes, da import\u00e2ncia da vaquejada para a economia, para a cultura, para o lazer do povo nordestino, do povo brasileiro. Por isso, n\u00f3s vamos aprovar esse projeto, para garantir tranquilidade a toda a cadeia que faz parte dos esportes equestres, principalmente da vaquejada.\r\nO Solidariedade orienta \"sim\". Temos a certeza de que, a partir da aprova\u00e7\u00e3o desse projeto, haver\u00e1 tranquilidade para milhares e milhares de vaqueiros, criadores de cavalos, propriet\u00e1rios de parques de vaquejada, e a Casa, o Parlamento ter\u00e1 dado a sua contribui\u00e7\u00e3o para os esportes equestres em todo o Pa\u00eds.\r\nO Solidariedade orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=344&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T21:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, APROVA\u00c7\u00c3O, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o da proposta de reforma da Previd\u00eancia Social. Relev\u00e2ncia da atua\u00e7\u00e3o do Presidente Rodrigo Maia na condu\u00e7\u00e3o das vota\u00e7\u00f5es da mat\u00e9ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, estamos chegando ao fim de uma das vota\u00e7\u00f5es mais importantes das \u00faltimas d\u00e9cadas nesta Casa. \r\nEu venho \u00e0 tribuna neste momento para fazer, primeiro, o registro da atua\u00e7\u00e3o fundamental do Presidente desta Casa, o Deputado Rodrigo Maia, que conduziu esta mat\u00e9ria desde o in\u00edcio desta Legislatura com muito amor ao Pa\u00eds, nela colocando toda a sua capacidade pol\u00edtica e principalmente seus sentimentos.\r\nChegamos ao fim da discuss\u00e3o desta vota\u00e7\u00e3o com a consci\u00eancia tranquila de que fizemos o melhor para o Pa\u00eds. O Presidente Rodrigo Maia, ao lado dos L\u00edderes, dos Deputados e das Deputadas, comprovou que a boa pol\u00edtica ainda \u00e9 a ferramenta essencial para resolver os problemas da sociedade. N\u00e3o h\u00e1 Funda\u00e7\u00e3o Getulio Vargas nem MIT se, por tr\u00e1s dessas discuss\u00f5es, n\u00e3o houver a boa pol\u00edtica. N\u00e3o h\u00e1 Pr\u00eamio Nobel de Economia se n\u00e3o houver a boa pol\u00edtica para a constru\u00e7\u00e3o de consensos. E foi isto que este Parlamento fez: construiu o entendimento, para que pud\u00e9ssemos chegar a este resultado.\r\nPor isso, Sras. Deputadas, Srs. Deputados, fa\u00e7o quest\u00e3o de deixar registrado, Deputado Jo\u00e3o Roma, o comprometimento desta Casa e do Parlamento com o Pa\u00eds, com o futuro do Brasil. Chegamos ao fim desta vota\u00e7\u00e3o, sabendo que o Governo compreendeu que somente por meio da boa pol\u00edtica poderemos chegar a um futuro melhor para o nosso Brasil. \r\nN\u00e3o tenho d\u00favida de que a Nova Previd\u00eancia ser\u00e1 decisiva para que a economia avance e para que empregos sejam gerados neste Pa\u00eds.\r\nPor isso, Sr. Presidente Rodrigo Maia, Sras. Deputadas e Srs. Deputados, esta \u00e9 a vit\u00f3ria do povo brasileiro, \u00e9 a vit\u00f3ria da boa pol\u00edtica.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=362&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-27T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RECUPERA\u00c7\u00c3O, MALHA RODOVI\u00c1RIA, RODOVIA ESTADUAL, SERGIPE, SOLICITA\u00c7\u00c3O, COOPERA\u00c7\u00c3O POL\u00cdTICA, GOVERNO ESTADUAL, GOVERNO FEDERAL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Apelo ao Governador do Estado de Sergipe por recupera\u00e7\u00e3o da malha rodovi\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, quero fazer um registro sobre a situa\u00e7\u00e3o das rodovias estaduais da regi\u00e3o sul e centro-sul do meu Estado de Sergipe. Essa regi\u00e3o tem aproximadamente 500 mil habitantes e sofre com rodovias estaduais completamente danificadas.\r\nFa\u00e7o aqui um apelo ao Governo do meu Estado. Eu sei que o Governador do Estado de Sergipe n\u00e3o apoiou o Governo Federal, mas tenho certeza de que o Governo Federal vai estar \u00e0 disposi\u00e7\u00e3o para ajudar o Estado de Sergipe, para ajudar o Governo do Estado a recuperar essas rodovias.\r\nEssa regi\u00e3o abrange v\u00e1rios Munic\u00edpios importantes, Sra. Presidente, a exemplo do Munic\u00edpio de Lagarto, do Munic\u00edpio de Tobias Barreto, do Munic\u00edpio de Est\u00e2ncia. Os maiores Munic\u00edpios do Estado de Sergipe est\u00e3o concentrados nessa regi\u00e3o, mas as rodovias est\u00e3o sem a m\u00ednima condi\u00e7\u00e3o de utiliza\u00e7\u00e3o.\r\nFa\u00e7o este apelo e me coloco, como Parlamentar, \u00e0 disposi\u00e7\u00e3o do Governador.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F8%2F2019&txPagina=269&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ROSENDO RIBEIRO FILHO, EX-PRESIDENTE, ASSEMBLEIA LEGISLATIVA, SERGIPE, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Homenagem p\u00f3stuma ao ex-Presidente da Assembleia Legislativa do Estado de Sergipe, Deputado Rosendo Ribeiro Filho.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a palavra para dar como lido o meu pronunciamento sobre o falecimento do ex-Presidente da Assembleia Legislativa do Estado de Sergipe, Deputado Estadual por cinco mandatos e ex-Prefeito da cidade de Lagarto, Rosendo Ribeiro Filho.\r\nSolicito a V.Exa. que d\u00ea como lido o meu pronunciamento e o inclua no programa A Voz do Brasil.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Estar\u00e1 inclu\u00eddo.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO GUSTINHO RIBEIRO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, eu gostaria de fazer um registro, aqui no plen\u00e1rio, sobre a pessoa que o meu av\u00f4 era.\r\nRosendo Ribeiro Filho, o Ribeirinho do Lagarto, faleceu aos 91 anos, na semana passada, e deixou na mem\u00f3ria pol\u00edtica e na hist\u00f3ria do Estado de Sergipe o seu legado de trabalho e dedica\u00e7\u00e3o aos mais pobres\r\nRosendo Ribeiro Filho foi Deputado Estadual por cinco mandatos, foi Presidente da Assembleia Legislativa e, como Prefeito de Lagarto, ajudou a construir no Munic\u00edpio uma ideia de gest\u00e3o voltada para o social, tentando diminuir as desigualdades sociais da regi\u00e3o e dando oportunidade para que todos pudessem ter educa\u00e7\u00e3o, sa\u00fade e comida na mesa.\r\nEste \u00e9 o ensinamento mais sagrado que algu\u00e9m pode deixar na Terra: a solidariedade e a vida p\u00fablica voltada ao respeito por todos. Por isso, ele foi lembrado e recebeu tantas homenagens durante os \u00faltimos dias.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o ... em percentual equivalente a at\u00e9 30% (trinta por cento) do valor inicial do contrato, constante do art. 97 da Subemenda Substitutiva Global apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, relativa \u00e0s normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - O Solidariedade, Presidente, orienta \"sim\".\r\nEntendemos que precisamos urgentemente aprovar essa lei para protegermos a administra\u00e7\u00e3o p\u00fablica e os cidad\u00e3os. O que mais observamos no Brasil, Deputado Alexandre Frota, s\u00e3o empreiteiras e construtoras que n\u00e3o t\u00eam responsabilidade e atrasam o desenvolvimento deste Pa\u00eds apenas para fazerem negocia\u00e7\u00f5es que n\u00e3o s\u00e3o republicanas.\r\nEu defendo os Prefeitos, defendo os Governadores e defendo principalmente o povo brasileiro, que quer obras p\u00fablicas sendo feitas com honestidade e com respeito ao dinheiro p\u00fablico.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, SUBSTITUTIVO, SENADO FEDERAL, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.\r\nFINANCIAMENTO P\u00daBLICO, CAMPANHA ELEITORAL, ELEI\u00c7\u00d5ES.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o  do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 5.029, de 2019, (11.021-B, de 2018, na C\u00e2mara dos Deputados), a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vota \"n\u00e3o\" por entender que n\u00f3s precisamos aprovar esta mat\u00e9ria, porque os Parlamentares e os partidos devem ter compromisso, principalmente, com o povo brasileiro.\r\nSe n\u00f3s votarmos aqui contra o financiamento p\u00fablico, abriremos uma brecha para que organiza\u00e7\u00f5es criminosas financiem campanhas, para que banqueiros, donos de bancos financiem campanhas como pessoas f\u00edsicas. N\u00e3o queremos isso. \r\nOs Parlamentares, aqui dentro desta Casa, t\u00eam que ter um \u00fanico compromisso, que \u00e9 com o povo brasileiro, n\u00e3o um compromisso com aqueles que querem bancar campanhas, que querem comprar Parlamentares, para depois fazerem o que bem entenderem aqui dentro. N\u00f3s precisamos do financiamento p\u00fablico para garantir o compromisso desta Casa com os verdadeiros patr\u00f5es...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-08T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PLN 6/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por 48 horas, da vota\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 6, de 2019, sobre abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor das Justi\u00e7as Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territ\u00f3rios, do Minist\u00e9rio P\u00fablico da Uni\u00e3o e do Conselho Nacional do Minist\u00e9rio P\u00fablico, de cr\u00e9dito suplementar no valor de R$ 236.566.628,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Para encaminhar. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade orienta \"n\u00e3o\" a esse adiamento, porque n\u00f3s precisamos votar o mais r\u00e1pido poss\u00edvel esses PLNs. N\u00f3s precisamos destravar o Pa\u00eds. N\u00f3s precisamos fazer com que os investimentos possam acontecer nos quatro cantos do Brasil. Inclusive, eu fa\u00e7o um apelo aos Senadores, \u00e0s Lideran\u00e7as do Governo na C\u00e2mara, no Congresso, para que atuem para que votemos esses PLNs.\r\nParabenizo o Deputado Marcos Pereira, que est\u00e1 desde as 14h30min presente, presidindo esta sess\u00e3o. Eu sei que S.Exa. tamb\u00e9m quer destravar o Pa\u00eds, os investimentos Brasil afora. E a popula\u00e7\u00e3o est\u00e1 querendo isso.\r\nO Governo est\u00e1 com vontade de trabalhar. Vamos deixar o Governo trabalhar!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=10%2F10%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ACORDO, VOTA\u00c7\u00c3O, PL 5478/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIT\u00c9RIO, DISTRIBUI\u00c7\u00c3O, VALOR, LEIL\u00c3O, REGIME DE CESS\u00c3O ONEROSA, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL (BRASIL), MUNIC\u00cdPIO, CONGRATULA\u00c7\u00c3O, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, L\u00cdDER DO PARTIDO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Agradecimento ao Presidente Rodrigo Maia e ao L\u00edderes partid\u00e1rios pela celebra\u00e7\u00e3o de acordo sobre a utiliza\u00e7\u00e3o, pelos Estados e Munic\u00edpios, de recursos oriundos dos leil\u00f5es da cess\u00e3o onerosa da camada pr\u00e9-sal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, eu gostaria de parabenizar V.Exa. e os demais L\u00edderes, que constru\u00edram um entendimento em rela\u00e7\u00e3o \u00e0 cess\u00e3o onerosa, que visa potencializar os investimentos nos Munic\u00edpios brasileiros e, ao mesmo tempo, reduzir o d\u00e9ficit previdenci\u00e1rio dos Estados em todo o Pa\u00eds.\r\nParabenizo V.Exa., Presidente Rodrigo Maia, e os demais L\u00edderes por constru\u00edrem esse entendimento. Tenho certeza de que o povo brasileiro agradece.\r\nEra o que tinha a dizer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BANCADA PARLAMENTAR, SERGIPE, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, RECURSOS OR\u00c7AMENT\u00c1RIOS, CONSTRU\u00c7\u00c3O, HOSPITAL, C\u00c2NCER.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Contentamento com a destina\u00e7\u00e3o de recursos de emendas de bancada para a constru\u00e7\u00e3o do Hospital do C\u00e2ncer de Lagarto, no Estado de Sergipe.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a palavra para encaminhar pelo Solidariedade.\r\nE quero aproveitar para fazer o registro de uma obra hist\u00f3rica que n\u00f3s acabamos de conseguir, com a nossa bancada de Sergipe, para o nosso Estado. Garantimos a constru\u00e7\u00e3o do Hospital de Amor, muito conhecido como Hospital de C\u00e2ncer de Barretos, no Munic\u00edpio de Lagarto, no Estado de Sergipe, com o apoio de toda a bancada sergipana.\r\nEstivemos ontem reunidos com o Sr. Henrique Prata, Diretor-Geral do Hospital de C\u00e2ncer de Barretos, e conseguimos garantir, atrav\u00e9s das emendas de bancada, o Hospital do C\u00e2ncer de Barretos no Munic\u00edpio de Lagarto, no Estado de Sergipe. Com o investimento de mais de 100 milh\u00f5es de reais, vai-se transformar o Estado de Sergipe em um polo no Nordeste inteiro para o tratamento de c\u00e2ncer.\r\nAqui, registro a minha felicidade, a minha alegria na condi\u00e7\u00e3o de sergipano, na condi\u00e7\u00e3o de Deputado Federal...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=109&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-07T13:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MINIST\u00c9RIO P\u00daBLICO DO TRABALHO (MPT), SEGIPE,  AGRICULTURA FAMILIAR.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Apelo ao Minist\u00e9rio P\u00fablico do Trabalho por n\u00e3o fechamento das chamadas casas de farinha, no Estado de Sergipe.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Eli Borges, Srs. Deputados, Sras. Deputadas, venho \u00e0 tribuna desta Casa para tratar de um assunto extremamente preocupante para diversos Munic\u00edpios do Estado de Sergipe.\r\nEst\u00e1 ocorrendo em alguns Munic\u00edpios importantes do nosso Estado uma a\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Trabalho, visando \u00e0 fiscaliza\u00e7\u00e3o de um dos segmentos da agricultura familiar que sustenta a economia de Munic\u00edpios como S\u00e3o Domingos, Campo do Brito, Lagarto e Itabaiana.\r\nSr. Presidente, eu falo aqui da problem\u00e1tica das casas de farinha. Para que V.Exa. tenha ideia, l\u00e1 em Sergipe, em alguns Munic\u00edpios, 70% da gera\u00e7\u00e3o de empregos v\u00eam dessas casas de farinha, que produzem farinha de mandioca. Fam\u00edlias de agricultores t\u00eam, podemos dizer assim, a sua pr\u00f3pria ind\u00fastria na sua propriedade rural. S\u00e3o ind\u00fastrias artesanais, em que essas fam\u00edlias produzem farinha e a comercializam para o Nordeste inteiro - acho que at\u00e9 para o Pa\u00eds inteiro.\r\nMunic\u00edpios importantes do nosso Estado est\u00e3o em p\u00e2nico com essa a\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Trabalho que visa ao fechamento dessas pequenas ind\u00fastrias artesanais. Isso tem preocupado muito a popula\u00e7\u00e3o desses Munic\u00edpios.\r\nEu fa\u00e7o aqui um apelo, diante dos Parlamentares, nesta tribuna, para que essas a\u00e7\u00f5es do Minist\u00e9rio P\u00fablico do Trabalho tenham o intuito de educar, de promover a adequa\u00e7\u00e3o dessas pequenas ind\u00fastrias, porque o fechamento ser\u00e1 o assassinato da economia de milhares e milhares de fam\u00edlias que vivem dessas pequenas ind\u00fastrias. Os Munic\u00edpios de Lagarto, S\u00e3o Domingos, Itabaiana, Campo do Brito e outros Munic\u00edpios pequenos vivem da produ\u00e7\u00e3o e da comercializa\u00e7\u00e3o da farinha de mandioca.\r\nEu, que tenho uma a\u00e7\u00e3o muito forte no interior do Estado, que visito todos os finais de semana os Munic\u00edpios do interior do meu Estado, sei de perto o quanto s\u00e3o importantes, Presidente Eli Borges, essas pequenas Ind\u00fastrias para a economia do interior sergipano.\r\nEnt\u00e3o, aqui fica o nosso apelo para que o Minist\u00e9rio P\u00fablico do Trabalho e os \u00f3rg\u00e3os ambientais entrem em entendimento com as Prefeituras Municipais e com todos os entes que possam colaborar para o fortalecimento dessa atividade, que \u00e9 t\u00e3o importante para a nossa economia.\r\nAs a\u00e7\u00f5es de fiscaliza\u00e7\u00e3o que est\u00e3o ocorrendo neste exato momento no Estado de Sergipe est\u00e3o causando um p\u00e2nico muito grande nessas fam\u00edlias e afetando diretamente a economia desses Munic\u00edpios. Fa\u00e7o aqui, da tribuna da C\u00e2mara dos Deputados, no Congresso Nacional, um apelo para que construamos com as autoridades um entendimento, Sr. Presidente, para o fortalecimento da produ\u00e7\u00e3o das casas de farinha de Sergipe e n\u00e3o para o fechamento dessas pequenas ind\u00fastrias.\r\nFica o registro.\r\nDesde j\u00e1 agrade\u00e7o a V.Exa. o tempo concedido, Presidente. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2019&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 48/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, EMENDA INDIVIDUAL, EMENDA IMPOSITIVA, PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, TRANSFER\u00caNCIA, RECURSOS, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL (BRASIL), MUNIC\u00cdPIO, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 48, de 2019, sobre a transfer\u00eancia de recursos federais a Estados, ao Distrito Federal e a Munic\u00edpios mediante emendas ao projeto de lei do or\u00e7amento anual.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria de parabenizar os Srs. Deputados, as Sras. Deputadas, este Parlamento, de modo geral, pela prova\u00e7\u00e3o desta PEC, que vai facilitar os investimentos nos Munic\u00edpios, que vai facilitar a administra\u00e7\u00e3o p\u00fablica e a realiza\u00e7\u00e3o de obras atrav\u00e9s das emendas parlamentares, das emendas individuais.\r\nQuero aqui parabenizar o Relator, Deputado A\u00e9cio Neves, e dizer da minha satisfa\u00e7\u00e3o de estar fazendo parte desta Casa, que colabora com o desenvolvimento dos Munic\u00edpios e dos Estados de todo o Pa\u00eds.\r\nEu sei que os Prefeitos sofrem muito por conta da lentid\u00e3o de toda a burocracia que existe hoje, atrav\u00e9s da Caixa Econ\u00f4mica. Mas, a partir de agora, n\u00e3o s\u00f3 os Prefeitos e n\u00f3s Parlamentares, mas tamb\u00e9m o povo brasileiro, os moradores dessas cidades, poder\u00e3o receber investimentos de modo mais r\u00e1pido. N\u00f3s poderemos ter a felicidade de ver o fruto do nosso trabalho sendo entregue ao povo nas nossas bases. E \u00e9 por isso, Deputado A\u00e9cio Neves, que, em nome desta Casa, eu comemoro a aprova\u00e7\u00e3o desta PEC, porque sei que fizemos o bem para o povo brasileiro e para os Munic\u00edpios do Pa\u00eds.\r\nEra o que tinha a dizer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=246&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), PL 4067/2015, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo apresentado pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 4.067-A, de 2015, sobre a institui\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Institui\u00e7\u00e3o de Educa\u00e7\u00e3o Superior Estrangeira - REVALIDA, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade orienta \"sim\", por entender que esse projeto \u00e9 extremamente importante para podermos garantir o exerc\u00edcio da profiss\u00e3o de milhares e milhares de m\u00e9dicos formados no exterior, levando mais sa\u00fade principalmente para as comunidades mais carentes. O povo brasileiro precisa da presen\u00e7a desses m\u00e9dicos no Pa\u00eds, de dimens\u00f5es continentais.\r\nPor isso, o Solidariedade orienta \"sim\", mais uma vez, Presidente Rodrigo, refor\u00e7ando a import\u00e2ncia do projeto para garantirmos mais m\u00e9dicos principalmente nas comunidades mais carentes deste grande Pa\u00eds, que \u00e9 o nosso querido Brasil.\r\nO Solidariedade orienta \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=168&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3261/2019, PROJETO DE LEI ORDINARIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.261, de 2019, sobre atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vota \"sim\", por entender a necessidade de uma mudan\u00e7a nesse sistema de saneamento no Brasil e dos investimentos que precisam ser feitos.\r\nEu n\u00e3o sou nenhum defensor da estatiza\u00e7\u00e3o e muito menos das empresas privadas. N\u00f3s somos os defensores do povo brasileiro, e o povo brasileiro est\u00e1 sofrendo com a atual situa\u00e7\u00e3o do saneamento no Brasil.\r\nN\u00f3s precisamos, Presidente, aprovar o projeto, com o parecer do Deputado Geninho Zuliani.\r\nPor exemplo, no meu Estado, em Sergipe, dos 75 Munic\u00edpios, apenas 11 t\u00eam algum plano de saneamento, e 47% da \u00e1gua pot\u00e1vel disponibilizada no Estado s\u00e3o desperdi\u00e7ados na distribui\u00e7\u00e3o. Isso \u00e9 m\u00e1 gest\u00e3o; \u00e9 um funcionamento ruim...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - \"Sim\" ou \"n\u00e3o\", Deputado?\r\nO SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE) - O Solidariedade vota \"sim\", por entender a import\u00e2ncia desse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 10372/2018,  PROJETO DE LEI ORDINARIA, SOLIDARIEDADE (SD), VOTO FAVORAVEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade gostaria de parabenizar o grupo de trabalho que discutiu e elaborou esta mat\u00e9ria, uma pauta extremamente necess\u00e1ria, uma pauta que dialoga com a sociedade brasileira, uma pauta que est\u00e1 em sintonia com o momento atual do Brasil.\r\nO Solidariedade tamb\u00e9m parabeniza o Presidente Rodrigo Maia por ter montado o grupo que construiu este texto.\r\nPortanto, o Solidariedade vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=283&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido ao Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, o Solidariedade mais uma vez parabeniza V.Exa. por compor o Grupo de Trabalho que uniu posicionamentos e ideias em torno de propostas vindas do Supremo Tribunal Federal, atrav\u00e9s do Ministro Alexandre de Moraes, e do pr\u00f3prio Ministro S\u00e9rgio Moro.\r\nEsta Casa d\u00e1 novamente uma demonstra\u00e7\u00e3o de sintonia com a sociedade e com a democracia, at\u00e9 porque a democracia pertence ao povo, e n\u00f3s, Parlamentares, servimos ao povo. O verdadeiro dono da democracia \u00e9 o povo brasileiro, e esta Casa d\u00e1 mais uma demonstra\u00e7\u00e3o, atrav\u00e9s da sua lideran\u00e7a, Presidente Rodrigo Maia, de que est\u00e1 falando a l\u00edngua da popula\u00e7\u00e3o brasileira.\r\nO Solidariedade orienta que se vote \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=316&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T21:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 12/2019, EMENDA DE PLEN\u00c1RIO, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 12, oferecida ao Projeto de Lei n\u00ba 4.162, 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade \u00e9 \"sim\".\r\nAproveito a oportunidade para saudar o autor da emenda, Deputado Tiago Dimas, da nossa bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=417&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3261/2019, PROJETO DE LEI ORDINARIA, SOLIDARIEDADE (SD), VOTO CONTRARIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 3.261, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade orienta \"n\u00e3o\", por entender a import\u00e2ncia deste projeto.\r\nPrecisamos aprovar essa mudan\u00e7a no saneamento brasileiro. Precisamos abrir a possibilidade de que investimentos possam ser feitos para melhorar a qualidade de vida do povo brasileiro.\r\nPor isso, o Solidariedade orienta \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=195&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 49/2019, VETO TOTAL, PL 888/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Total n\u00ba 49, de 2019, aposto ao Projeto de Lei n\u00ba 888, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.931, de 2004, acerca do patrim\u00f4nio de afeta\u00e7\u00e3o de incorpora\u00e7\u00f5es imobili\u00e1rias, e da Lei n\u00ba 12.024, de 2009, a respeito do tratamento tribut\u00e1rio das receitas mensais auferidas pelas empresas construtoras nos contratos de constru\u00e7\u00e3o de moradias firmados no \u00e2mbito do Programa Minha Casa, Minha Vida.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vota \"n\u00e3o\", por entender que precisamos derrubar este veto, por se tratar de uma pol\u00edtica de Estado. O Minha Casa, Minha Vida \u00e9 uma pol\u00edtica que deu certo. E o Governo, que conta com o nosso apoio, precisa compreender a import\u00e2ncia desse programa.\r\nPortanto, o Solidariedade vota \"n\u00e3o\", pela derrubada do veto. Acreditamos - e tenho certeza de que a maioria desta Casa tamb\u00e9m acredita - que a pol\u00edtica habitacional no Pa\u00eds precisa se desenvolver cada vez mais. Aqueles de mais baixa renda precisam ter acesso a um desconto maior.\r\nO Solidariedade vota \"n\u00e3o\" e pede apoio aos demais partidos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=19%2F12%2F2019&txPagina=58&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, PLN 22/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da emenda destinada \u00e0 redu\u00e7\u00e3o do valor do Fundo Especial de Financiamento de Campanha - Fundo Eleitoral, para o m\u00ednimo obrigat\u00f3rio determinado pela legisla\u00e7\u00e3o.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, Senador Davi Alcolumbre, o Solidariedade orienta \"sim\", parabenizando desde j\u00e1 o Relator, Deputado Domingos Neto.\r\nQueremos dizer que o Solidariedade apoia o relat\u00f3rio e o texto produzido pela CMO, por entender que esta Casa tem que ter compromisso, primeiramente, com o povo brasileiro, porque na democracia, Sr. Presidente, n\u00f3s temos que representar o povo. As nossas campanhas devem ser financiadas com financiamento p\u00fablico para que nesta Casa o compromisso seja primeiramente com o povo, e n\u00e3o com empres\u00e1rios ou banqueiros, que muitas vezes t\u00eam interesses n\u00e3o republicanos.\r\n\u00c9 por isso que o Solidariedade defende a democracia e defende que os representantes do povo, que os empregados do povo trabalhem em defesa daqueles que est\u00e3o l\u00e1 nas pequenas cidades e nas pequenas comunidades pobres deste Pa\u00eds. Cada Parlamentar tem que ter a sua consci\u00eancia tranquila de estar aqui defendendo a popula\u00e7\u00e3o brasileira, n\u00e3o defendendo grupos empresariais que muitas vezes financiam Parlamentares e compram a representatividade popular.\r\nPor isso, o Solidariedade vem de cabe\u00e7a erguida defender a democracia e o Parlamento, porque esta \u00e9 a Casa que foi criada para representar a pluralidade da sociedade brasileira. \u00c9 nesta Casa que est\u00e1 a representatividade do povo, n\u00e3o dos bancos, n\u00e3o dos empres\u00e1rios, que querem comprar as decis\u00f5es, na maioria das vezes, de uma minoria que hoje pousa de bom mo\u00e7o nesta Casa.\r\nPor isso, Presidente Davi Alcolumbre, finalizo parabenizando o Congresso brasileiro, que este ano protagonizou a agenda pol\u00edtica do Pa\u00eds com as reformas, reconectando-se com a sociedade brasileira e mostrando ao Brasil que esta Casa \u00e9 formada por homens e mulheres que pensam no povo brasileiro.\r\nPortanto, o Solidariedade orienta \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=19%2F12%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PARLAMENTO, ATUA\u00c7\u00c3O PARLAMENTAR, DEPUTADO FEDERAL, SENADOR, CONGRESSO NACIONAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, REFORMA, CELSO ROCHA DE BARROS, SOCI\u00d3LOGO, ARTIGO DE JORNAL, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ELEI\u00c7\u00d5ES, AGENDA LEGISLATIVA, SANEAMENTO B\u00c1SICO, POBREZA, BOLSA FAM\u00cdLIA, PODER EXECUTIVO, PODER LEGISLATIVO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Aprova\u00e7\u00e3o pela Casa da proposta de reforma da Previd\u00eancia Social e de outros temas de relevante interesse do povo brasileiro e da economia nacional.  Artigo Brasil est\u00e1 sendo salvo pelas qualidades de deputados e senadores, do colunista Celso Rocha de Barros, publicado pelo jornal Folha de S.Paulo.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, ocupo a tribuna nesta tarde, primeiro, para registrar que esta semana o Parlamento, a C\u00e2mara dos Deputados e o Senado Federal, retoma as suas atividades ap\u00f3s o per\u00edodo de recesso. E registro que esta Casa discutiu, durante o ano de 2019, temas important\u00edssimos para o Pa\u00eds. Aprovamos a reforma da Previd\u00eancia e tantos outros temas relevantes para o povo brasileiro e para a nossa economia. Sob a lideran\u00e7a do Presidente Rodrigo Maia, o protagonismo dos Deputados e Deputadas fez com que esta Casa tivesse uma presen\u00e7a forte em toda a m\u00eddia nacional, discutindo temas relevantes para a popula\u00e7\u00e3o e retomando a credibilidade do Parlamento.\r\nEm artigo publicado agora, no dia 3 de fevereiro de 2020, pelo jornal A Folha de S.Paulo, o analista do Banco Central e colunista do jornal Celso Rocha de Barros diz que o Brasil est\u00e1 sendo salvo pelas qualidades de Deputados e Senadores. E \u00e9 verdade. O Parlamento tem se posicionado nesta Legislatura com muito mais protagonismo, discutindo temas relevantes. Em 2020, temos a reforma tribut\u00e1ria, a reforma administrativa e a agenda social, que vai tratar do Bolsa Fam\u00edlia. Ano passado, tamb\u00e9m discutimos a quest\u00e3o do saneamento b\u00e1sico.\r\nVoltando ao artigo, destaco alguns trechos que me chamaram aten\u00e7\u00e3o. O que n\u00f3s estamos vivenciando hoje, Sr. Presidente? Vemos alguns bolsonaristas - posso falar, porque votei no Presidente Jair Bolsonaro e fui um dos poucos a apoi\u00e1-lo no Nordeste -, funcion\u00e1rios do Governo, pessoas que se dizem militantes digitais do Governo Jair Bolsonaro, agredirem o Parlamento, desconstruindo a rela\u00e7\u00e3o entre o Executivo e o Legislativo, que \u00e9 importante. Isso tem me chamado a aten\u00e7\u00e3o, e eu registro o meu rep\u00fadio a esse posicionamento de alguns funcion\u00e1rios do Governo, de algumas pessoas pr\u00f3ximas ao Presidente Bolsonaro.\r\nPor isso, Presidente, fiz quest\u00e3o de ocupar a tribuna para falar sobre a import\u00e2ncia de mantermos a institucionalidade. O Brasil precisa avan\u00e7ar, n\u00f3s precisamos de gera\u00e7\u00e3o de emprego.\r\nDisse Celso Rocha de Barros, em seu artigo na Folha de S.Paulo:\r\nDesde a posse de Jair Bolsonaro como Presidente da Rep\u00fablica do Brasil, somos um pa\u00eds que tem tudo para dar errado, mas que est\u00e1 sendo salvo pelas qualidades de seus Deputados e Senadores. Por essa, realmente, ningu\u00e9m esperava.\r\n(...)\r\nA reforma do saneamento b\u00e1sico foi proposta do Senador Tasso Jereissati, e os Deputados Tabata Amaral e Felipe Rigoni propuseram uma reorganiza\u00e7\u00e3o dos programas de combate \u00e0 pobreza.\r\nOutro ponto que destaco \u00e9 o de que, durante o recesso do Poder Legislativo, o Governo e seus funcion\u00e1rios produziram alguns problemas para a Na\u00e7\u00e3o:\r\nA coisa foi t\u00e3o grave, que os Presidentes da C\u00e2mara e do Senado tiveram que interromper suas f\u00e9rias para intervir. Davi Alcolumbre, que \u00e9 judeu, foi importante para acelerar a demiss\u00e3o do papagaio de Goebbels. Rodrigo Maia deu declara\u00e7\u00f5es fortes contra os Ministros da Educa\u00e7\u00e3o e do Meio Ambiente.\r\nAs conclus\u00f5es do experimento 'recesso parlamentar 2019-2020' s\u00e3o, portanto, claras: quem est\u00e1 tocando o Brasil e impedindo que ele desmorone de vez \u00e9 o Congresso Nacional.\r\n(...)\r\nMas n\u00e3o sabemos se o arranjo \u00e9 est\u00e1vel. Ningu\u00e9m votou na convers\u00e3o do sistema em parlamentarismo, e o Presidente ainda tem bastante legitimidade e poder, inclusive poder de atrapalhar.\r\nEu sei que o Presidente Bolsonaro jamais atrapalhar\u00e1 o desenvolvimento do Brasil.\r\nO autor fala em seguida sobre a guerra dos bolsonaristas contra as institui\u00e7\u00f5es. De fato, na semana passada, o Presidente Rodrigo Maia foi, mais uma vez, v\u00edtima de agress\u00f5es desnecess\u00e1rias de alguns deles. Eu posso falar sobre isso com autoridade, porque fui eleitor do Presidente Bolsonaro e estou aqui o ajudando a governar o Pa\u00eds.\r\nE n\u00e3o se pode contar que o Congresso continuar\u00e1 trabalhando sob ataque do bolsonarismo, para que o bolsonarismo se reeleja. Essa pondera\u00e7\u00e3o se torna mais relevante quando novas elei\u00e7\u00f5es se aproximam.\r\nO Congresso est\u00e1 apoiando as reformas do Governo, porque elas produzir\u00e3o benef\u00edcios para o povo, mas esses benef\u00edcios ser\u00e3o revertidos em votos para o Presidente Bolsonaro.\r\nEis o desfecho do artigo:\r\nO Maiamentarismo \u00e9 o mais pr\u00f3ximo que conseguimos produzir do governo de centro-direita que deveria ter sucedido Dilma Rousseff quando seu mandato acabasse em 2018. Mas n\u00e3o \u00e9 a mesma coisa, e no Planalto o projeto \u00e9 outro.\r\nSr. Presidente, eu gostaria de pedir a V.Exa. a divulga\u00e7\u00e3o de meu pronunciamento nos meios de comunica\u00e7\u00e3o da Casa, bem como no programa A Voz do Brasil.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T21:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c3MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, SISTEMA DE DELIBERA\u00c7\u00c3O REMOTA (SDR), PANDEMIA, CORONAV\u00cdRUS.\r\nDISCUSS\u00c3O, PL 786/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Car\u00e1ter hist\u00f3rico da realiza\u00e7\u00e3o da primeira sess\u00e3o remota da C\u00e2mara dos Deputados. Cumprimento pelo Parlamento brasileiro do seu papel perante a sociedade brasileira, demonstrado nos trabalhos de combate ao coronav\u00edrus, Discuss\u00e3o do Projeto de Lei n\u00ba 786, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.947, de 2009, com vista \u00e0 autoriza\u00e7\u00e3o, em car\u00e1ter excepcional, da distribui\u00e7\u00e3o de g\u00eaneros aliment\u00edcios adquiridos com recursos do Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE aos pais ou respons\u00e1veis de estudantes das escolas p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica. Crise reinante no Pa\u00eds em decorr\u00eancia da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, Sras. e Srs. Deputadas, primeiro, quero registrar este momento hist\u00f3rico, com esta primeira sess\u00e3o remota, conduzida com muita compet\u00eancia por V.Exa., o que mostra que, neste momento em que o Pa\u00eds est\u00e1 numa verdadeira guerra contra o coronav\u00edrus, um inimigo invis\u00edvel, a COVID-19, o Parlamento brasileiro cumpre com o papel perante a sociedade deste Pa\u00eds e mostra que est\u00e1 funcionando, ao discutir mat\u00e9rias em prol do combate a uma das maiores crises da nossa hist\u00f3ria.\r\nQuero parabenizar o Deputado Hildo Rocha e a Deputada Professora Dorinha, autores do projeto, e o Relator Z\u00e9 Silva. Este projeto \u00e9 extremamente importante e oportuno neste momento. Eu tenho acompanhado de perto as dificuldades em que se encontram algumas prefeituras e Estados na distribui\u00e7\u00e3o da merenda que est\u00e1 estocada nas escolas. Este projeto, portanto, garante a seguran\u00e7a jur\u00eddica necess\u00e1ria para que os gestores consigam amenizar o sofrimento da popula\u00e7\u00e3o. \r\nO Pa\u00eds vive, como vemos, uma crise sem precedentes. V.Exa., Sr. Presidente, e o Parlamento brasileiro est\u00e3o tentando garantir e manter o equil\u00edbrio necess\u00e1rio para dela sairmos da melhor maneira poss\u00edvel. N\u00f3s temos um grande dilema: ou salvar as vidas ou salvar a nossa economia. Agora nos s\u00e3o exigidos capacidade de lideran\u00e7a e equil\u00edbrio para tentarmos salvar vidas e, igualmente, a nossa economia.\r\nJ\u00e1 dizia o Primeiro-Ministro ingl\u00eas Winston Churchill: \"Ningu\u00e9m tem dor de est\u00f4mago por engolir palavras cru\u00e9is que deixou de dizer\". Que essas palavras fiquem para reflex\u00e3o, para que os l\u00edderes do Pa\u00eds tenham cautela neste momento, para que tomem muito cuidado com o que dizem, a fim de que n\u00e3o aprofundemos ainda mais a crise.\r\nFinalizo, Presidente, parabenizando mais uma vez o Parlamento brasileiro e parabenizando V.Exa. por estar conduzindo a C\u00e2mara dos Deputados de maneira exemplar em momento t\u00e3o dif\u00edcil para o Pa\u00eds e toda a popula\u00e7\u00e3o brasileira.\r\nDeixo um abra\u00e7o a todos os colegas que est\u00e3o at\u00e9 este momento acompanhando os trabalhos da C\u00e2mara dos Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-26T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, PRONUNCIAMENTO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, DEFESA, INSTITUI\u00c7\u00c3O DEMOCR\u00c1TICA. DEMOCRACIA, COOPERA\u00c7\u00c1O POL\u00cdTICA, PRINC\u00cdPIO DA HARMONIA ENTRE OS PODERES. \r\nPARECER, PLP 9/2020, PROJETO DE LEI COMPLEMENTAR, OP\u00c7\u00c3O, REGIME ESPECIAL UNIFICADO DE ARRECADA\u00c7\u00c3O DE TRIBUTOS E CONTRIBUI\u00c7\u00d5ES DEVIDOS PELAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (SIMPLES NACIONAL), POSSIBILIDADE, ADES\u00c3O, TRANSA\u00c7\u00c3O RESOLUTIVA DE LIT\u00cdGIO, D\u00cdVIDA ATIVA, TRIBUTA\u00c7\u00c3O.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Aplausos ao Presidente Rodrigo Maia pelo discurso de conclama\u00e7\u00e3o \u00e0 paz, \u00e0 harmonia e ao equil\u00edbrio institucional. Emiss\u00e3o de parecer ao Projeto de Lei Complementar n\u00ba 9, de 2020, a respeito da ades\u00e3o de empresas enquadradas no SIMPLES Nacional \u00e0 transa\u00e7\u00e3o tribut\u00e1ria tratada em Lei Federal.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Rodrigo Maia, inicio minha fala parabenizando V.Exa. pelo pronunciamento que fez hoje, o discurso proferido, conclamando o Pa\u00eds \u00e0 harmonia, \u00e0 paz institucional, ao equil\u00edbrio institucional, neste momento de dificuldade que n\u00f3s estamos atravessando, lutando contra esta pandemia. \r\nQuero, Sr. Presidente, iniciar a leitura meu voto, mais uma vez parabenizando V.Exa. e o Parlamento brasileiro.\r\nVamos ao voto:\r\n\"A proposi\u00e7\u00e3o em an\u00e1lise pretende autorizar que os cr\u00e9ditos das microempresas e empresas de pequeno porte, apurados na forma do Regime Especial Unificado de Arrecada\u00e7\u00e3o de Tributos e Contribui\u00e7\u00f5es, previsto na Lei Complementar n\u00ba 123, de 14 de dezembro de 2006 (SIMPLES Nacional), possam ser extintos mediante celebra\u00e7\u00e3o de transa\u00e7\u00e3o resolutiva de lit\u00edgio.\r\nComo se sabe, h\u00e1 muito se aguardava no Brasil pela regulamenta\u00e7\u00e3o, no n\u00edvel federal, do art. 171 do C\u00f3digo Tribut\u00e1rio Nacional. A disposi\u00e7\u00e3o, em vigor desde 1966, expressamente autorizava a celebra\u00e7\u00e3o de 'transa\u00e7\u00e3o que, mediante concess\u00f5es m\u00fatuas, importe em determina\u00e7\u00e3o de lit\u00edgio e consequente extin\u00e7\u00e3o de cr\u00e9dito tribut\u00e1rio'.\r\nAp\u00f3s anos de debate acad\u00eamico e legislativo, a mat\u00e9ria foi finalmente regulamentada por meio da Medida Provis\u00f3ria n\u00ba 899, de 2019, que estabelecia os requisitos e as condi\u00e7\u00f5es para que a Uni\u00e3o e os devedores ou as partes adversas realizassem transa\u00e7\u00e3o resolutiva de lit\u00edgio, nos termos do citado art. 171 da Lei n\u00ba 5.172, de 1966 - C\u00f3digo Tribut\u00e1rio Nacional.\r\nA Medida Provis\u00f3ria n\u00ba 899, de 2019, como se sabe, foi convertida na Lei n\u00ba 13.988, de 14 de abril de 2020, que atualmente disciplina a mat\u00e9ria, dispondo sobre a transa\u00e7\u00e3o nas hip\u00f3teses que especifica.\r\nContudo, nem a reda\u00e7\u00e3o origin\u00e1ria da medida provis\u00f3ria tampouco a Lei n\u00ba 13.988, de 14 de abril de 2020, que resultou de sua convers\u00e3o, permitem a transa\u00e7\u00e3o de cr\u00e9ditos tribut\u00e1rios, cr\u00e9ditos relativos ao SIMPLES Nacional.\r\nPara estes, seria necess\u00e1ria autoriza\u00e7\u00e3o expressa em lei complementar. \u00c9 o que estabelecia a reda\u00e7\u00e3o do art. 5\u00ba, \u00a72\u00ba, III, \"a\", do texto original da medida provis\u00f3ria e o que estabelece o texto em vigor no art. 5\u00ba, II, \"a\", da Lei n\u00ba 13.988, de 14 de abril de 2020. \u00c9 o teor da disposi\u00e7\u00e3o:\r\nArt. 5\u00ba \u00c9 vedada a transa\u00e7\u00e3o que:\r\n(...)\r\nII - conceda descontos a cr\u00e9ditos relativos ao:\r\na) Regime Especial Unificado de Arrecada\u00e7\u00e3o de Tributos e Contribui\u00e7\u00f5es devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), enquanto n\u00e3o editada lei complementar autorizativa;\r\nEm termos pr\u00e1ticos, a veda\u00e7\u00e3o significa que, enquanto n\u00e3o sobrevier a lei complementar autorizativa, n\u00e3o poderiam as microempresas e empresas de pequeno porte ser beneficiadas pelas regras de transa\u00e7\u00e3o tribut\u00e1ria previstas na Lei n\u00ba 13.988, de 14 de abril de 2020.\r\nAgora, com a aprova\u00e7\u00e3o do projeto de lei complementar em an\u00e1lise, essa lacuna est\u00e1 sanada. As microempresas e empresas de pequeno porte que optaram pelo Regime Especial Unificado de Arrecada\u00e7\u00e3o de Tributos e Contribui\u00e7\u00f5es do SIMPLES Nacional podem ser beneficiadas pelas regras de transa\u00e7\u00f5es tribut\u00e1rias previstas na Lei n\u00ba 13.988, de 14 de abril de 2020.\r\nEssa breve contextualiza\u00e7\u00e3o legislativa pareceu importante para que pud\u00e9ssemos anotar a import\u00e2ncia pr\u00e1tica da mat\u00e9ria em an\u00e1lise para as microempresas e empresas de pequeno porte de todo o Pa\u00eds.\r\nA proposi\u00e7\u00e3o \u00e9 merit\u00f3ria e merece nosso apoio.\r\nN\u00e3o bastassem os m\u00e9ritos \u00ednsitos \u00e0 iniciativa legislativa, que beneficia microempresas e empresas de pequeno porte de todo o Pa\u00eds em dificuldade financeira, o quadro socioecon\u00f4mico que atualmente vivemos, em decorr\u00eancia da pandemia causada pelo novo coronav\u00edrus, tornou sua aprova\u00e7\u00e3o particularmente urgente.\r\nCom efeito, o perfil das microempresas e empresas de pequeno porte elaborado pelo SEBRAE em 2018 aponta que elas representam 98,5% do total das empresas privadas, respondem por 27% do PIB e s\u00e3o respons\u00e1veis por 54% do total de empregos formais no Pa\u00eds.\"\r\nSras. e Srs. Deputados, \u00e9 extremamente importante a aprova\u00e7\u00e3o desta mat\u00e9ria.\r\n\"Esses dados s\u00e3o suficientes para vermos o quanto esta proposi\u00e7\u00e3o \u00e9 importante para o Brasil, especialmente agora, no momento grave como o que vivemos, marcado pela emerg\u00eancia de sa\u00fade p\u00fablica de import\u00e2ncia internacional decorrente do coronav\u00edrus, tal como previsto na Lei n\u00ba 13.979, de 6 de fevereiro de 2020, e pelo estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.\r\nPor todas essas raz\u00f5es, nosso voto ser\u00e1 pela aprova\u00e7\u00e3o da proposi\u00e7\u00e3o legislativa. O projeto de lei complementar \u00e9 merit\u00f3rio e oportuno.\r\nAdemais, quanto ao aspecto financeiro e or\u00e7ament\u00e1rio do projeto, n\u00e3o vislumbramos obst\u00e1culo \u00e0 admissibilidade da proposi\u00e7\u00e3o. N\u00e3o se observa desrespeito direto \u00e0s normas vigentes, em especial por conta do Decreto Legislativo n\u00ba 6, de 2020, que reconhece, para os fins do art. 65 da Lei Complementar n\u00ba 101, de 4 de maio de 2000, a ocorr\u00eancia do estado de calamidade p\u00fablica, e da decis\u00e3o do Supremo Tribunal Federal (STF), na A\u00e7\u00e3o Direta de Inconstitucionalidade (ADI) 6.357, que deferiu medida cautelar que afasta a exig\u00eancia de demonstra\u00e7\u00e3o de adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira em rela\u00e7\u00e3o \u00e0 cria\u00e7\u00e3o e expans\u00e3o de programas p\u00fablicos destinados ao enfrentamento da COVID-19. \r\nAl\u00e9m disso, a Emenda Constitucional n\u00ba 106, de 7 de maio de 2020, instituiu regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento de calamidade p\u00fablica nacional decorrente de pandemia. De acordo com seu art. 3\u00ba, desde que n\u00e3o impliquem despesa permanente, as proposi\u00e7\u00f5es legislativas e os atos do Poder Executivo com prop\u00f3sito exclusivo de enfrentar a calamidade e suas consequ\u00eancias sociais e econ\u00f4micas, com vig\u00eancia e efeitos restritos \u00e0 sua dura\u00e7\u00e3o, ficam dispensados da observ\u00e2ncia das limita\u00e7\u00f5es legais quanto \u00e0 cria\u00e7\u00e3o, \u00e0 expans\u00e3o ou ao aperfei\u00e7oamento de a\u00e7\u00e3o governamental que acarrete aumento de despesa e \u00e0 concess\u00e3o ou \u00e0 amplia\u00e7\u00e3o de incentivo ou benef\u00edcio de natureza tribut\u00e1ria da qual decorra ren\u00fancia de receita.\r\nPropomos apenas pequenos ajustes na reda\u00e7\u00e3o, com o objetivo de aprimorar o texto legislativo em exame e tamb\u00e9m compatibiliz\u00e1-lo com a reda\u00e7\u00e3o da Lei n\u00ba 13.988, de 14 de abril de 2020, que ainda n\u00e3o vigorava ao tempo da apresenta\u00e7\u00e3o do PLP 9/20.\r\nOs ajustes que propomos s\u00e3o apenas dois.\r\nAlteramos a reda\u00e7\u00e3o do caput do art. 1\u00ba, para que conste 'lei complementar' em vez de 'lei'. Substitu\u00edmos 'd\u00e9bitos apurados' por 'cr\u00e9ditos apurados', reda\u00e7\u00e3o que nos parece mais consent\u00e2nea com o teor da Lei Complementar n\u00ba 123, de 2006.\r\nAjustamos tamb\u00e9m a reda\u00e7\u00e3o do par\u00e1grafo \u00fanico do art. 1\u00ba, para mencionar expressamente a Lei n\u00ba 13.988, de 14 de abril de 2020, que ainda n\u00e3o existia ao tempo da apresenta\u00e7\u00e3o do projeto de lei complementar ora em exame.\r\nAnte o exposto, no \u00e2mbito da Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os, somos pela aprova\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 9, de 2020.\r\nNa Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, somos pela adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria da Lei Complementar n\u00ba 9, de 2020, e, no m\u00e9rito, pela sua aprova\u00e7\u00e3o na forma do substitutivo em anexo.\r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei Complementar n\u00ba 9, de 2020, e do substitutivo da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o.\"\r\nEsse \u00e9 o meu voto, Sr. Presidente.\r\nAproveito para parabenizar o autor da mat\u00e9ria, Deputado Marco Bertaiolli, e todos os L\u00edderes envolvidos nessa discuss\u00e3o. N\u00f3s conseguimos construir, Sr. Presidente, um texto que contempla todas as partes que participaram dessa discuss\u00e3o e que vai ajudar as micro e pequenas empresas a enfrentarem no Pa\u00eds - e n\u00f3s estamos vivendo, atrav\u00e9s dessa pandemia, uma dificuldade muito grande - essas dificuldades e sa\u00edrem da melhor maneira poss\u00edvel dessa crise que n\u00e3o s\u00f3 afeta os cidad\u00e3os do ponto de vista de sa\u00fade p\u00fablica, mas tamb\u00e9m a nossa economia. E a C\u00e2mara dos Deputados contribui muito aprovando essa mat\u00e9ria com os pequenos e microempres\u00e1rios do Pa\u00eds inteiro.\r\nEra isso, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2020&txPagina=186&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-27T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER, EMENDA DE PLEN\u00c1RIO, PLP 9/2020, PROJETO DE LEI COMPLEMENTAR, OP\u00c7\u00c3O, REGIME ESPECIAL UNIFICADO DE ARRECADA\u00c7\u00c3O DE TRIBUTOS E CONTRIBUI\u00c7\u00d5ES DEVIDOS PELAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (SIMPLES NACIONAL), POSSIBILIDADE, ADES\u00c3O, TRANSA\u00c7\u00c3O RESOLUTIVA DE LIT\u00cdGIO, D\u00cdVIDA ATIVA, TRIBUTA\u00c7\u00c3O.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Emiss\u00e3o do parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 6, apresentadas ao Projeto de Lei Complementar n\u00ba 9, de 2020, a respeito da ades\u00e3o de empresas enquadradas no regime SIMPLES Nacional \u00e0 transa\u00e7\u00e3o tribut\u00e1ria tratada em Lei Federal.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Para proferir parecer. Sem revis\u00e3o do orador.) - Sras. Deputadas e Srs. Deputados, ontem, iniciamos a vota\u00e7\u00e3o do PLP 9, e houve, por parte do L\u00edder do Governo, o Deputado Vitor Hugo, alguns questionamentos em rela\u00e7\u00e3o ao texto. Em discuss\u00e3o com o Deputado Vitor Hugo e com os demais L\u00edderes, chegamos \u00e0 conclus\u00e3o do texto.\r\nPresidente Rodrigo, conseguimos um grande entendimento sobre essa mat\u00e9ria, que \u00e9 muito importante para o Pa\u00eds. Como eu disse na sess\u00e3o de ontem, iremos ajudar as micro e pequenas empresas a vencer esta crise causada pela pandemia do novo coronav\u00edrus. Esse \u00e9 realmente um setor importante da nossa economia, e essa mat\u00e9ria \u00e9 fundamental.\r\nAgrade\u00e7o o apoio de todos os L\u00edderes, da consultoria, dos membros do Minist\u00e9rio da Economia, de todos os envolvidos nesta discuss\u00e3o. Esta \u00e9 uma mat\u00e9ria extremamente importante. \r\nAgora, passo \u00e0 leitura do voto das emendas, j\u00e1 que, na sess\u00e3o de ontem, o L\u00edder do Governo, o Deputado Vitor Hugo, ficou com algumas d\u00favidas e acabou interrompendo a vota\u00e7\u00e3o.\r\n\"Com as valorosas contribui\u00e7\u00f5es dos nobres colegas, apresentamos subemenda substitutiva global que incorpora o teor das Emendas n\u00bas 5 e 6 e busca aperfei\u00e7oar o texto do substitutivo.\r\nAnte o exposto, no \u00e2mbito da Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os, somos pela aprova\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00bas 5 e 6 (...) e pela rejei\u00e7\u00e3o da Emenda n\u00ba 2.\r\nNa Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, somos pela adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria de todas as emendas de Plen\u00e1rio e da subemenda substitutiva global apresentada pela Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os. No m\u00e9rito, somos pela aprova\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00bas 5 e 6, na forma da subemenda substitutiva global da Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os, e pela rejei\u00e7\u00e3o da Emenda de n\u00ba 2.\r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa de todas as emendas de Plen\u00e1rio e da subemenda substitutiva global apresentada pela Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os.\"\r\nEsse \u00e9 o meu voto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F5%2F2020&txPagina=29&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, PL 1013/2020, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.\r\nREELEI\u00c7\u00c3O, ELEI\u00c7\u00c3O MUNICIPAL, HILDA RIBEIRO, PREFEITA, SERGIPE, LAGARTO (SE), CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 1, apresentada ao Projeto de Lei n\u00ba 1.013, de 2020, sobre a suspens\u00e3o do pagamento de d\u00edvidas no \u00e2mbito do Programa de Moderniza\u00e7\u00e3o da Gest\u00e3o e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, criado pela Lei n\u00ba 13.155, de 2015, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus. Reelei\u00e7\u00e3o da Prefeita Hilda Ribeiro, do Munic\u00edpio de Lagarto, Estado de Sergipe.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Governo orienta \"n\u00e3o\".\r\nAproveito para fazer o registro da importante vit\u00f3ria, na \u00faltima elei\u00e7\u00e3o municipal, no Estado de Sergipe, na cidade de Lagarto, da Prefeita reeleita Hilda Ribeiro, que ser\u00e1 diplomada amanh\u00e3 pela Justi\u00e7a Eleitoral do Estado de Sergipe.\r\nDeixo registrada nos Anais desta Casa a expressiva vit\u00f3ria da Prefeita Hilda Ribeiro, no Munic\u00edpio de Lagarto, no Estado de Sergipe, com quase 10% do total de votos \u00e0 frente do segundo colocado. Foi realmente uma campanha brilhante, na qual a popula\u00e7\u00e3o se envolveu. Ela continuar\u00e1 o bel\u00edssimo trabalho de reconstru\u00e7\u00e3o de Lagarto, que \u00e9 o maior Munic\u00edpio do interior sergipano. Por isso, fa\u00e7o aqui esse registro.\r\nParab\u00e9ns \u00e0 Prefeita Hilda Ribeiro e a todo o povo lagartense!\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2020&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Governo orienta \"n\u00e3o\", por entender que \u00e9 fundamental votarmos o quanto antes a autonomia do Banco Central.\r\nN\u00f3s ouvimos falar muito em ter estabilidade econ\u00f4mica, em proteger a economia, em zelar pela efici\u00eancia do sistema financeiro e, neste momento, alguns tentam retirar de pauta um projeto t\u00e3o importante como esse.\r\nEnt\u00e3o, o Governo orienta \"n\u00e3o\", para que n\u00f3s avancemos com essa mat\u00e9ria, que \u00e9 fundamental para a garantia dos empregos, para o fortalecimento da nossa economia e, principalmente, para a estabilidade econ\u00f4mica do Pa\u00eds e para o zelo pelo pleno funcionamento do sistema financeiro no Brasil.\r\nO Governo orienta \"n\u00e3o\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=51&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO,  PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o. Votos de sucesso ao Presidente Arthur Lira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Governo orienta \"n\u00e3o\".\r\nAproveito a oportunidade para cumpriment\u00e1-lo pela elei\u00e7\u00e3o, para desejar sucesso a V.Exa. \u00e0 frente da Presid\u00eancia. Atrav\u00e9s da Presid\u00eancia de V.Exa., tenho certeza absoluta de que esta Casa assumir\u00e1 o protagonismo necess\u00e1rio no Parlamento, para que possamos pautar mat\u00e9rias de interesse do povo brasileiro, de interesse da Na\u00e7\u00e3o, para retomarmos o caminho do desenvolvimento neste momento t\u00e3o complicado, em que o Pa\u00eds precisa do Parlamento, por causa desta pandemia. Acredito muito que esta Casa exercer\u00e1 o protagonismo adequado e necess\u00e1rio no Parlamento brasileiro. A C\u00e2mara \u00e9 a Casa do Povo.\r\nSucesso! Parab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-27T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), SENADO FEDERAL, APURA\u00c7\u00c3O, OMISS\u00c3O, GOVERNO FEDERAL, PANDEMIA, CORONAVIRUS, CONTRARIO.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "Raz\u00e3o do posicionamento contr\u00e1rio \u00e0 instala\u00e7\u00e3o da CPI do Senado Federal destinada \u00e0 apura\u00e7\u00e3o das a\u00e7\u00f5es e omiss\u00f5es do Governo Federal no enfrentamento da pandemia de coronav\u00edrus no Brasil.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Como L\u00edder. Sem revis\u00e3o do orador.) - Presidente Marcelo, Sras. Deputadas e Srs. Deputados, o Pa\u00eds tem vivido um momento muito dif\u00edcil por conta da pandemia que assola o mundo inteiro. Momentos dif\u00edceis pedem uni\u00e3o e solu\u00e7\u00f5es. \r\nFa\u00e7o esta fala justamente no dia em que o Senado instala a CPI da COVID, como foi denominada. E, neste momento de crise, quando quase 400 mil mortes ocorreram no Brasil, n\u00f3s n\u00e3o precisamos de tensionamento. O Pa\u00eds n\u00e3o merece essa pol\u00edtica raivosa para atrapalhar o Governo no momento em que n\u00f3s precisamos, Sras. Deputadas, Srs. Deputados, de uni\u00e3o. \r\nEnt\u00e3o, eu fa\u00e7o este registro e conclamo o Congresso, o Parlamento brasileiro, para que busquemos solu\u00e7\u00f5es para a pandemia. \r\nAgora n\u00e3o \u00e9 o momento de tensionar, de transformar um assunto t\u00e3o s\u00e9rio, como a pandemia, em palanque eleitoral. Agora \u00e9 momento de uni\u00e3o. O Congresso precisa produzir solu\u00e7\u00f5es, ajudar o Governo Federal a enfrentar essa crise. N\u00f3s n\u00e3o precisamos de uma guerra eleitoral neste momento, em meio a uma pandemia. N\u00f3s precisamos vacinar a popula\u00e7\u00e3o brasileira.\r\nO Parlamento precisa ajudar nas solu\u00e7\u00f5es, n\u00e3o criar problemas para a popula\u00e7\u00e3o brasileira. A maior parte, acredito eu, dos Parlamentares do Congresso Nacional defende a uni\u00e3o e a busca de solu\u00e7\u00e3o para a pandemia. O Governo Federal tem feito a sua parte, tem buscado vacinar a popula\u00e7\u00e3o brasileira, Sras. Deputadas e Srs. Deputados.\r\nQuero fazer um apelo. Este meu discurso hoje \u00e9 para chamar a aten\u00e7\u00e3o do Senado e para chamar a aten\u00e7\u00e3o da C\u00e2mara dos Deputados, de todos que estamos aqui, Presidente Marcelo, como diz V.Exa., para isto: \u00e9 vacina no bra\u00e7o e comida no prato! \u00c9 como diz o bord\u00e3o criado por V.Exa. que ganhou o Pa\u00eds. Ent\u00e3o, eu fa\u00e7o um apelo e pe\u00e7o uma reflex\u00e3o aos Parlamentares, seja de direita, de esquerda, de centro: n\u00e3o \u00e9 momento de guerra eleitoral, n\u00e3o \u00e9 momento de disputa eleitoreira, \u00e9 momento de cuidar da popula\u00e7\u00e3o brasileira.\r\nO Pa\u00eds j\u00e1 ultrapassou a marca de mais de 1 milh\u00e3o de pessoas vacinadas por dia. Tirando os pa\u00edses produtores de vacina, o Brasil \u00e9 o quarto pa\u00eds em vacina\u00e7\u00e3o. Eu n\u00e3o sou de direita, muito menos de esquerda, eu tenho um posicionamento pol\u00edtico de centro. Acho que este \u00e9 o momento de equil\u00edbrio, de paz, para que busquemos, Sras. Deputadas e Srs. Deputados, a solu\u00e7\u00e3o para esta crise.\r\nCriar tens\u00e3o e transformar uma CPI, um instrumento legislativo, melhor dizendo, em disputa eleitoreira n\u00e3o \u00e9 o que o Pa\u00eds merece, n\u00e3o \u00e9 o que a popula\u00e7\u00e3o merece, n\u00e3o \u00e9 o que o povo brasileiro merece neste momento. Ent\u00e3o, aqui fica este registro, Presidente.\r\nA partir de hoje, dia em que foi instalada uma CPI que n\u00e3o tem fato determinado, n\u00e3o h\u00e1 sequer motivo determinado para instala\u00e7\u00e3o, n\u00e3o \u00e9 justo com o povo brasileiro, n\u00e3o \u00e9 justo com as milhares de v\u00edtimas desta pandemia que n\u00f3s que somos funcion\u00e1rios do povo e temos a obriga\u00e7\u00e3o de estar aqui para fiscalizar, concordo, n\u00e3o estejamos aqui no Parlamento - e essa \u00e9 tamb\u00e9m a nossa obriga\u00e7\u00e3o - produzindo solu\u00e7\u00f5es para o Pa\u00eds, colaborando para que saiamos o quanto antes desta crise t\u00e3o aguda que \u00e9 a crise causada pela pandemia da COVID-19.\r\nPor isso, Sras. Deputadas e Srs. Deputados, est\u00e1 aqui o apelo de um Parlamentar de primeiro mandato nesta Casa, mas que j\u00e1 tem certa experi\u00eancia no Poder Legislativo. Fui Deputado Estadual l\u00e1 em Sergipe por dois mandatos. Inclusive, fui L\u00edder do Governo na Assembleia Legislativa, durante o Governo do PT.\r\nHoje estou como Vice-L\u00edder do Governo aqui na C\u00e2mara. E fa\u00e7o este apelo mais uma vez: busquemos as solu\u00e7\u00f5es e n\u00e3o o agravamento de uma crise que est\u00e1 destruindo vidas, que est\u00e1 penalizando a nossa economia. Este \u00e9 o momento de a Casa do Povo Brasileiro, o Parlamento, colaborar com o Governo Federal e apoi\u00e1-lo, como n\u00f3s j\u00e1 estamos fazendo ao votarmos mat\u00e9rias que garantem agilidade no combate \u00e0 pandemia.\r\nPor isso, Sras. Deputadas e Srs. Deputados, n\u00e3o podemos concordar com esse instrumento legislativo, que \u00e9 leg\u00edtimo, mas que est\u00e1 sendo aplicado num momento inadequado, num momento em que o Brasil pede solu\u00e7\u00e3o e uni\u00e3o. Vamos vacinar a popula\u00e7\u00e3o brasileira! Vamos retomar o nosso crescimento econ\u00f4mico! Agora n\u00e3o \u00e9 momento de CPI para atrapalhar o trabalho do Governo Federal, que luta com todas as for\u00e7as para vencer a pandemia e para vacinar a popula\u00e7\u00e3o brasileira.\r\nEra isso o que tinha a dizer, Presidente.\r\nAgrade\u00e7o a V.Exa. pela compreens\u00e3o. Muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2021&txPagina=134&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, AUMENTO, VALOR, BOLSA FAMILIA.",
+        "nomeDeputado": "Gustinho Ribeiro",
+        "sumario": "An\u00fancio, pelo Presidente Jair Bolsonaro, de eleva\u00e7\u00e3o do benef\u00edcio do Bolsa Fam\u00edlia para 300 reais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GUSTINHO RIBEIRO (SOLIDARIEDADE - SE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, pela Lideran\u00e7a do Governo, eu gostaria de registrar o an\u00fancio importante, feito pelo Presidente Bolsonaro, do novo Bolsa Fam\u00edlia.\r\nO Governo dever\u00e1 implantar no programa um reajuste at\u00e9 o final do ano, para ajudar os mais humildes deste Pa\u00eds, aquecendo e fortalecendo a economia brasileira, j\u00e1 que vivemos um momento cr\u00edtico com a pandemia. O Presidente anuncia o novo Bolsa Fam\u00edlia para mais de 18 milh\u00f5es de brasileiros, que recebem hoje apenas 190 reais e passar\u00e3o a receber 300 reais, ajudando, de uma vez por todas, principalmente os nordestinos, nas pequenas comunidades do Nordeste brasileiro, a vencer a mis\u00e9ria, a vencer a pobreza. \u00c9 assim que o Pa\u00eds avan\u00e7a. E \u00e9 assim que n\u00f3s venceremos a crise causada pela pandemia.\r\nPor isso, Presidente, aqui fica o registro do importante an\u00fancio do Presidente da Rep\u00fablica, Bolsonaro, que vai pagar o novo Bolsa Fam\u00edlia aos mais humildes do Pa\u00eds.\r\nEu gostaria que o meu pronunciamento fosse divulgado no programa A Voz do Brasil.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EDUARDO BRAIDE, PREFEITO, S\u00c3O LU\u00cdS (MA), VACINA\u00c7\u00c3O, CORONAVIRUS, ELOGIO.",
+        "nomeDeputado": "Josivaldo JP",
+        "sumario": "Aplausos ao Prefeito Eduardo Braide pela vacina\u00e7\u00e3o em massa dos habitantes de S\u00e3o Lu\u00eds, Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOSIVALDO JP (PODE - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados e todos que nos ouvem pela R\u00e1dio C\u00e2mara ou assistem pela TV C\u00e2mara esta sess\u00e3o, ocupo esta tribuna com todo o orgulho que sinto no meu cora\u00e7\u00e3o. Sou ca\u00e7ulinha nesta Casa. Assumi o mandato h\u00e1 pouco mais de 6 meses. Assumi a vaga do ent\u00e3o Deputado Eduardo Braide, que tanto me orgulha. Hoje \u00e9 Prefeito da Capital S\u00e3o Lu\u00eds.\r\nH\u00e1 uma grande crise no nosso Pa\u00eds e no mundo inteiro. No Brasil, Eduardo Braide tem se destacado como o melhor Prefeito da Capital S\u00e3o Lu\u00eds, onde j\u00e1 vacinou mais de 600 mil pessoas.\r\nTemos a grata satisfa\u00e7\u00e3o de saber que o Prefeito de S\u00e3o Lu\u00eds j\u00e1 est\u00e1 vacinando pessoas de 22 anos. Na semana que vem, vai vacinar pessoas que t\u00eam 18 anos.\r\nEu fico muito feliz em poder dizer que sou maranhense, residente na cidade de Imperatriz, e que o nosso Maranh\u00e3o est\u00e1 sendo destaque no que se refere a imuniza\u00e7\u00e3o.\r\nParab\u00e9ns, Prefeito Eduardo Braide! Parab\u00e9ns, povo do Maranh\u00e3o! Eu fico muito feliz por estar aqui na C\u00e2mara ajudando o meu Estado.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

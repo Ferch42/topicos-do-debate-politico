@@ -1,0 +1,326 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AGRADECIMENTO, ELEITOR, REELEI\u00c7\u00c3O, DEPUTADO FEDERAL.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Reelei\u00e7\u00e3o do orador para a C\u00e2mara dos Deputados. Expectativa de melhoria da qualidade de vida do povo brasileiro.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, registro com muito prazer e muita satisfa\u00e7\u00e3o minha recondu\u00e7\u00e3o a esta Casa. Com certeza absoluta, agrade\u00e7o primeiro a Deus a oportunidade; segundo, aos eleitores do Estado do Par\u00e1, que me mandaram mais uma vez para Bras\u00edlia, a fim de representar n\u00e3o s\u00f3 o Par\u00e1, mas o Brasil.\r\nRogo a Deus que me ilumine, que me d\u00ea for\u00e7a e me proteja, para que eu possa me somar aos novos Parlamentares e buscar o que \u00e9 fundamental: um pa\u00eds melhor, com mais empregos, com menos viol\u00eancia, um pa\u00eds que atenda \u00e0 popula\u00e7\u00e3o com sa\u00fade de qualidade e valorize cada vez mais a educa\u00e7\u00e3o e, acima de tudo, a agricultura, buscando os mecanismos necess\u00e1rios para fazer crescer nosso Pa\u00eds.\r\nO Brasil precisa n\u00e3o s\u00f3 da uni\u00e3o pol\u00edtica, mas de estadistas que se somem e coloquem acima do seu mandato o que \u00e9 importante \u00e0 condi\u00e7\u00e3o social e ao bem-estar do povo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T14:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO, ELOGIO.\r\nTARC\u00cdSIO DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, BR-163, RODOVIA FEDERAL, CONDI\u00c7\u00d5ES DE VIDA, POPULA\u00c7\u00c3O, PRODUTOR RURAL, PAR\u00c1 (ESTADO), MATO GROSSO, ESCOAMENTO, PRODU\u00c7\u00c3O AGR\u00cdCOLA, RODOVIA TRANSAMAZ\u00d4NICA, PAVIMENTA\u00c7\u00c3O ASF\u00c1LTICA, AGRONEG\u00d3CIO.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Agradecimento ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, pelo conhecimento in loco  das condi\u00e7\u00f5es de trafegabilidade da BR-163 entre os Estados de Mato Grosso e Par\u00e1. Import\u00e2ncia da rodovia para o escoamento da produ\u00e7\u00e3o agr\u00edcola da regi\u00e3o. Conveni\u00eancia de conhecimento das condi\u00e7\u00f5es da Rodovia Transamaz\u00f4nica pelo Ministro da Pasta, no Estado do Par\u00e1. Expectativa de pavimenta\u00e7\u00e3o da rodovia pelo Governo Jair Bolsonaro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Claudio Cajado, \u00e9 uma honra estar na tribuna em sess\u00e3o presidida por V.Exa., um Parlamentar atuante, que tem feito muito pela Bahia e pelo Pa\u00eds.\r\nQuero dizer-lhes que o Governo Bolsonaro deu a este Pa\u00eds a esperan\u00e7a de algo mais forte em um Governo, em uma administra\u00e7\u00e3o. Registro com muita satisfa\u00e7\u00e3o que na semana passada fui surpreendido pela atitude do Ministro da Infraestrutura, Tarc\u00edsio Freitas, que fez algo importante para o Pa\u00eds: saiu do gabinete e foi in loco visitar a BR-163.\r\nFiquei muito feliz com isso, porque a BR-163 \u00e9 importante para os Estados do Par\u00e1 e de Mato Grosso, enfim, para todos os que produzem, porque \u00e9 atrav\u00e9s dessa rodovia que a produ\u00e7\u00e3o \u00e9 escoada at\u00e9 o Porto de Itaituba. As carretas e os caminh\u00f5es que por ali trafegam enfrentam uma dificuldade muito grande, porque h\u00e1 muita lama e atoleiros constantes. Por isso, as carretas quebram, o que dificulta o escoamento da produ\u00e7\u00e3o e a vida dos que moram \u00e0 margem da BR-163.\r\nFiquei muito esperan\u00e7oso quando vi o Ministro nessa a\u00e7\u00e3o importante, tendo visitado essa BR na boleia de um caminh\u00e3o. Disse esperan\u00e7oso, porque eu sou do Par\u00e1, onde a Transamaz\u00f4nica foi projetada h\u00e1 47 anos como meio de interliga\u00e7\u00e3o ao nosso grande Estado. As pessoas que vieram de outros Estados tiveram a oportunidade de se alocar na regi\u00e3o, trabalhar na agricultura e pecu\u00e1ria, construir aquilo que \u00e9 importante, ou seja, colocar a fam\u00edlia num lote de terra e buscar a produ\u00e7\u00e3o agr\u00edcola, que \u00e9 fundamental. A produ\u00e7\u00e3o deste Pa\u00eds tem crescido cada vez mais, e vai continuar crescendo.\r\nQuando o Ministro realizou essa experi\u00eancia, deixou-me feliz, repito. Eu queria dizer ao Ministro e ao Governo Bolsonaro, neste momento, que n\u00f3s precisamos repetir atos como esses. A Transamaz\u00f4nica est\u00e1 precisando tamb\u00e9m, Ministro, que V.Exa. fa\u00e7a uma a\u00e7\u00e3o igual a essa, ou seja, que entre em um caminh\u00e3o e percorra a Transamaz\u00f4nica, visite os Munic\u00edpios de Brasil Novo, Medicil\u00e2ndia, Uruar\u00e1, Placas, Itaituba, Jacareacanga. Precisamos que V.Exa. leve esse alento maior ao povo sofrido que vive ao longo da Transamaz\u00f4nica h\u00e1 bastante tempo. Alguns n\u00e3o podem trafegar por ali, porque a lama n\u00e3o deixa. A produ\u00e7\u00e3o n\u00e3o pode aumentar em fun\u00e7\u00e3o das m\u00e1s condi\u00e7\u00f5es da estrada.\r\nMinistro, com a a\u00e7\u00e3o de V.Exa. senti a felicidade e a esperan\u00e7a de que, neste Governo, ser\u00e3o asfaltados os 800 quil\u00f4metros da Transamaz\u00f4nica, que s\u00e3o t\u00e3o importantes para o Estado do Par\u00e1. Solicito a V.Exa. que se dirija ao Par\u00e1, a exemplo do que fez na BR-163, para percorrer a Transamaz\u00f4nica e ver o sofrimento das pessoas que est\u00e3o prostradas ao longo da rodovia. Muitas vezes elas n\u00e3o podem escoar a produ\u00e7\u00e3o nem conseguem ter atendimento de sa\u00fade. N\u00f3s precisamos de um pa\u00eds que possa atender aquilo que \u00e9 fundamental.\r\nSr. Ministro, a Transamaz\u00f4nica \u00e9 uma obra macro e fundamental para o progresso do Estado. O agroneg\u00f3cio tem crescido e, com o asfaltamento dessa rodovia, com certeza absoluta, haver\u00e1 um novo mercado com mais produ\u00e7\u00e3o e melhores condi\u00e7\u00f5es para a sobreviv\u00eancia do povo do Par\u00e1 e do Brasil.\r\nDeixo aqui meu apelo para que o Ministro possa nos atender. E n\u00e3o falo aqui em meu nome, n\u00e3o. Eu falo em meu nome e no da bancada do Par\u00e1, dos 17 Deputados Federais, dos 3 Senadores, dos Prefeitos, Vice-Prefeitos e Vereadores dessa regi\u00e3o, dos produtores rurais. Eu falo, enfim, em nome do povo do Par\u00e1, que precisa ser reconhecido n\u00e3o s\u00f3 como Estado rico em min\u00e9rio, com grande mananciais de \u00e1gua, com grande produ\u00e7\u00e3o agr\u00edcola, mas tamb\u00e9m pelas a\u00e7\u00f5es emergentes e pontuais que possam fortalecer o nosso Estado.\r\nSr. Ministro, aqui est\u00e1 o meu convite, aqui est\u00e1 o meu apelo para que V.Exa. possa nos contemplar e tamb\u00e9m fazer uma visita \u00e0 Transamaz\u00f4nica. Se precisar da minha companhia, ser\u00e1 uma honra muito grande poder ir a essa regi\u00e3o com V.Exa. para poder testemunhar aquilo que sofre cada um que mora ao longo dessa rodovia. \r\nPortanto, Sras. e Srs. Deputados, meu pronunciamento busca, acima de tudo, a integraliza\u00e7\u00e3o do Estado do Par\u00e1 e do Brasil.\r\nAproveito a oportunidade para dizer mais uma coisa, Srs. Deputados: h\u00e1 um per\u00edmetro na Transamaz\u00f4nica, entre Novo Repartimento e Itupiranga, que \u00e9 importante ser asfaltado. E h\u00e1 outro per\u00edmetro de 60 quil\u00f4metros que tamb\u00e9m n\u00e3o tem pavimenta\u00e7\u00e3o asf\u00e1ltica.\r\nSrs. Deputados, Sras. Deputadas e Sr. Ministro, conto com a vossa aquiesc\u00eancia e, acima de tudo, com o seu compromisso para com esta P\u00e1tria, para que possamos avan\u00e7ar cada vez mais, buscando aquilo que \u00e9 importante.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=16&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 2/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONTR\u00c1RIO.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 2, de 2015, sobre a ado\u00e7\u00e3o do or\u00e7amento impositivo.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s municipalistas deste Pa\u00eds sabemos que a distribui\u00e7\u00e3o de renda no Brasil precisa ser mais ben\u00e9fica a cada Munic\u00edpio, mais ben\u00e9fica a cada Estado.\r\nCom essa vis\u00e3o municipalista que tenho, sei pelo que os Estados est\u00e3o passando. Eles t\u00eam necessidade de uma educa\u00e7\u00e3o melhor, de investimento numa sa\u00fade melhor, de constru\u00e7\u00e3o de rodovias, de pavimenta\u00e7\u00e3o e drenagem de ruas, de fortalecimento da cultura, da seguran\u00e7a, do esporte, do cidad\u00e3o que est\u00e1 na base.\r\nEu cheguei aqui em 2015 e propus esta PEC, que teve assinatura de v\u00e1rios Parlamentares. Sr. Presidente, at\u00e9 o Presidente Bolsonaro referendou o encaminhamento desta PEC.\r\nCom certeza absoluta, esta PEC traz n\u00e3o s\u00f3 ao Parlamento, mas tamb\u00e9m ao Brasil um posicionamento diferente, um compartilhamento diferente da arrecada\u00e7\u00e3o do Pa\u00eds. N\u00f3s precisamos ver que esta PEC, al\u00e9m de criar fatos positivos, fortalece os Estados e fortalece o Parlamento. N\u00f3s podemos com esta PEC fazer emendas impositivas, mas direcionadas \u00e0 infraestrutura de cada Estado, buscando aquilo que eles precisam. Sabemos muito bem que viemos aqui com a finalidade de legislar e tamb\u00e9m de buscar recursos para nossos Estados.\r\nDeputado Carlos Henrique Gaguim, cada Parlamentar aqui presente sabe muito bem que \u00e9 necess\u00e1rio fazer obras estruturantes para que possamos levar cada vez mais nossos Estados para frente. O Par\u00e1 \u00e9 o Estado que me mandou para c\u00e1. Precisamos fazer rodovias, precisamos de investimentos em hospitais, precisamos de investimentos em escola t\u00e9cnica, precisamos de mecanismos para fortalecer o Par\u00e1 e o Brasil, que \u00e9 t\u00e3o grande.\r\nPor isso, Sr. Presidente, venho aqui humildemente pedir aos Parlamentares que acompanhem esta PEC, que fortalece os brasileiros, fortalece cada um de n\u00f3s que n\u00e3o p\u00f4de estar aqui, mas que precisa de uma aten\u00e7\u00e3o muito maior desta Na\u00e7\u00e3o.\r\nEu encaminho, Sr. Presidente, contra esse requerimento, porque ele n\u00e3o \u00e9 oportuno neste momento. \u00c9 importante agora avan\u00e7ar, construindo aquilo que \u00e9 fundamental para o bem-estar da popula\u00e7\u00e3o, para o bem-estar do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=314&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "POL\u00cdTICA, PROCESSO LEGISLATIVO FEDERAL, CONGRESSO NACIONAL, ATUA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Agradecimento aos Parlamentares pela aprova\u00e7\u00e3o de mat\u00e9ria de relevante interesse do povo brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, venho aqui hoje agradecer \u00e0 Lideran\u00e7a e aos Parlamentares desta Casa. Neste momento, vivemos algo importante para o Parlamento. Todos n\u00f3s nos unimos para defender a cidadania, para defender este Pa\u00eds, para defender dias melhores para cada brasileiro. Quero repartir com V.Exas. este momento e dizer que essa \u00e9 uma vit\u00f3ria de todos n\u00f3s que queremos e buscamos o bem do Brasil. \r\nMuito obrigado, Relator Gaguim; muito obrigado, Sr. Presidente; muito obrigado a todos os que compartilharam deste momento honroso para o Parlamento, para cada um de n\u00f3s que fazemos pol\u00edticas, que sabemos que pol\u00edtica \u00e9 coisa \u00e9 s\u00e9ria. Este Parlamento tem evolu\u00eddo, tem crescido e hoje avan\u00e7ou ainda mais, trazendo aquilo que \u00e9 fundamental para o bem-estar do povo brasileiro. \r\nObrigado, meu Deus, por tudo!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=390&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-09T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DESASTRE AMBIENTAL, CHUVA, ENCHENTE, DEFESA CIVIL, PAR\u00c1, NECESSIDADE.\r\nPONTE, AL\u00c7A DE LIGA\u00c7\u00c3O, RECONSTRU\u00c7\u00c3O, BEL\u00c9M (PA), GOVERNO FEDERAL, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Danos causados pelas chuvas torrenciais ao Estado do Par\u00e1. Convite \u00e0 Defesa Civil Nacional para visita \u00e0s municipalidades atingidas por enchentes no Estado. Pedido ao Governo Federal para aux\u00edlio ao Governo paraense na reconstru\u00e7\u00e3o de ponte na Al\u00e7a Vi\u00e1ria da Capital Bel\u00e9m.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, o Estado do Par\u00e1 est\u00e1 sofrendo uma calamidade muito grande. As chuvas torrenciais que caem sobre o Estado t\u00eam causado em v\u00e1rios Munic\u00edpios um transtorno muito grande. Estradas vicinais est\u00e3o cortadas devido \u00e0 chuva. Alguns bairros e cidades est\u00e3o alagados. Isso traz uma preocupa\u00e7\u00e3o muito grande para o Parlamento e para mim, como representante do Estado do Par\u00e1.\r\nEu queria neste momento, Sr. Presidente, apelar \u00e0 Defesa Civil Nacional para que possa ir ao Estado do Par\u00e1, possa visitar as cidades que est\u00e3o hoje sofrendo, como Curu\u00e7\u00e1, Marapanim, Augusto Corr\u00eaa, S\u00e3o Jo\u00e3o de Pirabas, Tracuateua. V\u00e1rias cidades hoje est\u00e3o sofrendo com as enchentes no nosso Estado. Eu queria apelar \u00e0 Defesa Civil nacional para que se fa\u00e7a presente, dando uma aten\u00e7\u00e3o, uma assist\u00eancia, e ajudando aquelas centenas de pessoas que precisam de aten\u00e7\u00e3o.\r\nMas eu quero tamb\u00e9m, Sr. Presidente, falar de algo que est\u00e1 acontecendo no Par\u00e1 que est\u00e1 deixando todos n\u00f3s preocupados. Uma balsa bateu numa pilastra de uma ponte da Al\u00e7a Vi\u00e1ria e derrubou parte dela, interditando o tr\u00e2nsito numa regi\u00e3o muito grande e produtiva do Estado. Isso tem causado um transtorno muito grande. Centenas de pessoas n\u00e3o est\u00e3o podendo se deslocar de uma cidade para outra, de uma regi\u00e3o para outra, devido \u00e0 queda dessa ponte na Al\u00e7a Vi\u00e1ria do Par\u00e1, que interliga a Capital a v\u00e1rias cidades.\r\nQuero apelar ao Presidente da Rep\u00fablica para que ele envie uma for\u00e7a-tarefa, ajude o Governo do Estado, ajude o Estado do Par\u00e1 com recursos, para que n\u00f3s possamos reconstruir essa ponte, que faz interliga\u00e7\u00f5es importantes. N\u00f3s precisamos de no m\u00ednimo 100 milh\u00f5es de reais para podermos reconstru\u00ed-la.\r\nMuito obrigado, Sr. Presidente e Srs. Parlamentares.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-09T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "MARCHA A BRAS\u00cdLIA EM DEFESA DOS MUNIC\u00cdPIOS (22; 2019, BRAS\u00cdLIA (DF)), PREFEITO, PARA.\r\nPEC 2/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, OR\u00c7AMENTO IMPOSITIVO. OBRIGATORIEDADE, RECURSOS, EMENDA DE BANCADA ESTADUAL, DESTINA\u00c7\u00c3O, MUNICIPIO, DEFESA",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Visita, ao gabinete parlamentar do orador, de Prefeitos, Vice-Prefeitos e Vereadores do Estado do Par\u00e1, participantes na Marcha a Bras\u00edlia em Defesa dos Munic\u00edpios. Regozijo com a aprova\u00e7\u00e3o pela Casa de proposta de emenda \u00e0 Constitui\u00e7\u00e3o relativa \u00e0 amplia\u00e7\u00e3o de recursos para a execu\u00e7\u00e3o de obras estruturantes pelos Estados e Munic\u00edpios brasileiros.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, quero registrar a satisfa\u00e7\u00e3o de poder receber no gabinete e conversar com Prefeitos, Vice-Prefeitos, Vereadores e Vereadoras do Estado do Par\u00e1 que est\u00e3o em Bras\u00edlia para a Marcha dos Prefeitos e aproveitam para visitar Parlamentares e Minist\u00e9rios na busca de recursos para melhorar a sua gest\u00e3o.\r\nSabemos, Sr. Presidente, que os Munic\u00edpios do Brasil passam por situa\u00e7\u00e3o delicada, em que os recursos para educa\u00e7\u00e3o, sa\u00fade, agricultura, cultura, esporte e seguran\u00e7a t\u00eam sido poucos. E isso d\u00e1 uma tristeza muito grande nos Prefeitos, pois t\u00eam a responsabilidade de fazer um bom governo.\r\nMas estou feliz, Sr. Presidente, porque esta Casa, com a maturidade que tem, com o compromisso que tem com o Brasil, conseguiu aprovar PEC de minha autoria que d\u00e1 a todos os Estados e Munic\u00edpios conforto muito maior, com recursos para que possam fazer obras estruturantes, o que vai melhorar cada Munic\u00edpio, cada Estado, e, consequentemente, o Brasil.\r\nQuero agradecer aqui aos Srs. Parlamentares e dizer que fiquei feliz quando o Senado da Rep\u00fablica aprovou parecer do Senador Esperidi\u00e3o Amin. Mudaram um pouco o texto que saiu daqui, mas a PEC foi aprovada tamb\u00e9m quase que por unanimidade naquela Casa.\r\nSr. Presidente, essa PEC representa muito para cada um de n\u00f3s. Fico feliz, Deputado Luis Miranda, quando eu vejo os Prefeitos nos procurando e dizendo que esta Casa est\u00e1 de parab\u00e9ns, porque consegue buscar alternativa para que as gest\u00f5es possam melhorar cada vez mais. Com certeza, Sr. Presidente, Deputado Delegado Ant\u00f4nio Furtado, n\u00f3s estamos aqui para fazer esse trabalho, para refor\u00e7ar aquilo que \u00e9 importante para cada Munic\u00edpio e para o Estado do Par\u00e1. E eu queria compartilhar isso com cada Parlamentar desta Casa e dizer que n\u00f3s estamos juntos na constru\u00e7\u00e3o daquilo que \u00e9 importante para o nosso Pa\u00eds.\r\nA PEC vai voltar para a C\u00e2mara e vai para as Comiss\u00f5es. Mas tenho certeza absoluta de que j\u00e1 h\u00e1 Prefeito e Governador come\u00e7ando a planejar um futuro melhor para o seu Munic\u00edpio e para o seu Estado.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "TARC\u00cdSIO GOMES DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, RECURSOS OR\u00c7AMENT\u00c1RIOS,RECUPERA\u00c7\u00c3O, RODOVIA FEDERAL, BR 422, TUCURU\u00cd (PA), NOVO REPARTIMENTO (PA), ESCOAMENTO, PRODU\u00c7\u00c3O.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Apelo ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, de destina\u00e7\u00e3o da recursos para a manuten\u00e7\u00e3o da BR-422 entre os Munic\u00edpios de Tucuru\u00ed e Novo Repartimento, Estado do Par\u00e1, Import\u00e2ncia do trecho rodovi\u00e1ria para o escoamento da produ\u00e7\u00e3o agr\u00edcola.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, quero registrar aqui uma quest\u00e3o fundamental para o Estado do Par\u00e1. No Estado do Par\u00e1 est\u00e1 havendo muita chuva, com isso, cada transportador que passa na regi\u00e3o tem sofrido muito com as estradas.\r\nEu queria, Sra. Presidente, Sras.e Srs. Deputados, fazer um apelo muito grande ao Ministro Tarc\u00edsio Freitas a respeito da BR-422, que interliga Tucuru\u00ed a Novo Repartimento. Essa rodovia t\u00e3o importante que liga v\u00e1rias cidades do nosso Estado est\u00e1 passando por um momento delicado, com muito atoleiro, as pessoas est\u00e3o perdendo os seus meios de transporte, deixando de transportar produtos que s\u00e3o cultivados na regi\u00e3o, deixando de produzir cada vez mais, porque n\u00e3o chegam os insumos, n\u00e3o chegam os adubos, o transporte escolar tem sofrido muito, acarretando perda de aula para os alunos, e o progresso que \u00e9 acentuado nessa regi\u00e3o come\u00e7a a declinar.\r\nEu quero apelar aqui ao Ministro para que ele coloque no plano do Governo os 75 quil\u00f4metros que interligam Tucuru\u00ed a Novo Repartimento, nesse per\u00edodo t\u00e3o importante para os produtores, para a popula\u00e7\u00e3o dessa regi\u00e3o.\r\nQuero, mais uma vez, fazer esse apelo em nome dos Vereadores, dos Prefeitos, dos Vice-Prefeitos, das lideran\u00e7as, enfim em nome daquela popula\u00e7\u00e3o trabalhadora e s\u00e9ria do nosso Estado do Par\u00e1.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, DEMOCRATAS (DEM), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o ao Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, o Democratas sabe da import\u00e2ncia que t\u00eam as igrejas para o Brasil, que fazem um trabalho social muito grande e espraiam cada vez mais conscientiza\u00e7\u00e3o. E, acima de tudo, h\u00e1 a parte social. \r\nQuero tamb\u00e9m falar sobre as Santas Casas, que t\u00eam sido um s\u00edmbolo m\u00e1ximo principalmente para o Estado do Par\u00e1, do qual sou oriundo, fazendo um trabalho excepcional. Com certeza, esse projeto vem trazer um alento maior e reconhecimento a entidades t\u00e3o importantes que n\u00f3s temos no Brasil.\r\nPortanto, o Democratas encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=213&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OPERADORA DE TELEFONIA M\u00d3VEL, PRESTA\u00c7\u00c3O DE SERVI\u00c7O, SANTANA DO ARAGUAIA (PA), PRECARIEDADE.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Defici\u00eancia na presta\u00e7\u00e3o de servi\u00e7o da concession\u00e1ria de telefonia Vivo na regi\u00e3o do Munic\u00edpio de Santana do Araguaia, Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o Estado do Par\u00e1 \u00e9 muito grande, e automaticamente a comunica\u00e7\u00e3o se faz necess\u00e1ria.\r\nVenho hoje aqui para dizer que a Vivo \u00e9 a operadora que atua em Santana do Araguaia, cidade pr\u00f3spera que tem mais de 1 milh\u00e3o e 500 mil cabe\u00e7as de gado, que tamb\u00e9m \u00e9 polo de gr\u00e3os, que tem crescido e se desenvolvido, que \u00e9 porta para o Mato Grosso do Sul. Mas \u00e9 muito triste perceber que a operadora Vivo n\u00e3o atende com o sinal necess\u00e1rio. L\u00e1 as pessoas n\u00e3o podem fazer transmiss\u00e3o de dados, n\u00e3o podem expandir a ind\u00fastria e o com\u00e9rcio porque o sinal est\u00e1 prec\u00e1rio. Faz 5 dias que o sinal \u00e9 zero em Santana do Araguaia.\r\nFica aqui o meu apelo, meu pedido, para que a companhia Vivo restabele\u00e7a o sinal e melhore a qualidade dele, para que n\u00f3s possamos ter progresso naquela cidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=239&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-05T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 34/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), OBRIGATORIEDADE, EXECU\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, EMENDA DE BANCADA ESTADUAL, FAVOR\u00c1VEL.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Defesa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 34, de 2019, sobre a obrigatoriedade da execu\u00e7\u00e3o da programa\u00e7\u00e3o or\u00e7ament\u00e1ria proveniente de emendas de bancada de parlamentares de Estado ou do Distrito Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, recordo-me muito bem de quando cheguei a esta Casa no primeiro mandato e consegui numa tarde colher assinaturas de Parlamentares para dar entrada nesta PEC.\r\nCheguei aqui com o pensamento e com a ideia de que esta PEC era importante para o Brasil, importante para os Munic\u00edpios, importante para os Estados, importante para os brasileiros. Sei muito bem que esta Casa acolheu esta PEC, que n\u00e3o \u00e9 s\u00f3 minha. Esta PEC \u00e9 do Congresso Nacional, de todos n\u00f3s que sabemos da quest\u00e3o fundamental de levar mais recursos para cada Munic\u00edpio, para cada Estado.\r\nEstou aqui, neste momento, para agradecer a cada um de V.Exas., agradecer tamb\u00e9m o Deputado Carlos Henrique Gaguim, como Relator, assim como os Parlamentares desta Casa, pela acolhida, mas, acima de tudo, pela maneira como votaram esta PEC.\r\nEsta PEC representa n\u00e3o s\u00f3 recursos para Munic\u00edpios e para os Estados, mas representa tamb\u00e9m a independ\u00eancia deste Poder t\u00e3o importante para a Na\u00e7\u00e3o. Tenho certeza de que a\u00e7\u00f5es como esta v\u00e3o ficar eternizadas na mem\u00f3ria de cada um de n\u00f3s Parlamentares, que participamos, quer da elabora\u00e7\u00e3o, quer da vota\u00e7\u00e3o, quer do encaminhamento desta PEC.\r\nEsta PEC \u00e9 importante, porque d\u00e1 a cada Munic\u00edpio aquilo que \u00e9 preciso ter: mais recursos, mais condi\u00e7\u00e3o para que possa investir na sa\u00fade, na educa\u00e7\u00e3o, na seguran\u00e7a, na agricultura, no esporte, na cultura e no lazer. \r\nSaio daqui hoje sabendo muito bem que a nossa obriga\u00e7\u00e3o, como Parlamentar, Deputado Hildo Rocha, de trazer essa ideia para este Plen\u00e1rio, para esta Casa, foi fundamental.\r\nQuero agradecer a Deus, agradecer a cada um que comunga do mesmo pensamento e dizer que \u00e9 dessa maneira que este Parlamento contribui para o crescimento deste nosso Brasil, contribui para o crescimento desta Na\u00e7\u00e3o importante para cada um de n\u00f3s.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F6%2F2019&txPagina=199&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 2/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, OR\u00c7AMENTO IMPOSITIVO, PROMULGA\u00c7\u00c3O.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Convite aos Deputados para comparecimento \u00e0 solenidade de promulga\u00e7\u00e3o da proposta de emenda \u00e0 Constitui\u00e7\u00e3o acerca do or\u00e7amento impositivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, quero comunicar que amanh\u00e3, \u00e0s 11 horas, o Congresso Nacional vai sancionar uma PEC, de nossa autoria, que este Plen\u00e1rio aprovou com 99% dos votos: a PEC do Or\u00e7amento Impositivo para emendas de bancada.\r\nQueria aproveitar e agradecer aos Parlamentares que fizeram parte da vota\u00e7\u00e3o, da elabora\u00e7\u00e3o e, acima de tudo, do encaminhamento dessa mat\u00e9ria. Eu os convido a estarem no Senado amanh\u00e3, \u00e0s 11 horas, para a promulga\u00e7\u00e3o da PEC do Or\u00e7amento Impositivo para emendas de bancada, que vai mudar a hist\u00f3ria dos Munic\u00edpios, dos Estados e do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=269&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EXECU\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PROMULGA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Regozijo com a promulga\u00e7\u00e3o de proposta de emenda \u00e0 Constitui\u00e7\u00e3o sobre a execu\u00e7\u00e3o obrigat\u00f3ria de emendas or\u00e7ament\u00e1rias.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, Sras. Deputadas, membros da imprensa presentes, assessores, hoje \u00e9 um dia muito importante para este Parlamento, um dia em que todos n\u00f3s sabemos cada vez mais da import\u00e2ncia que tem este Pa\u00eds.\r\nDigo isso porque hoje foi promulgada uma PEC que come\u00e7ou nesta Casa, de autoria deste Parlamento, de autoria deste Parlamentar. Houve a aquiesc\u00eancia dos Srs. Deputados e das Sras. Deputadas. Houve a posi\u00e7\u00e3o do Relator Gaguim e houve uma coisa importante: a dedica\u00e7\u00e3o e a vontade do Presidente Rodrigo Maia em coloc\u00e1-la na pauta.\r\nEu quero dizer a cada um de V.Exas. que a felicidade \u00e9 muito grande no nosso cora\u00e7\u00e3o, porque sabemos que essa PEC que foi promulgada hoje, Deputado Gaguim, \u00e9 fundamental para este Pa\u00eds, \u00e9 fundamental para este Parlamento, \u00e9 fundamental para os Estados, \u00e9 fundamental para os Munic\u00edpios, \u00e9 fundamental para os brasileiros.\r\nEssa PEC que trata execu\u00e7\u00e3o obrigat\u00f3ria das emendas de bancadas estaduais, que nasceu no primeiro dia de nosso mandato nesta Casa, traz a cada um de n\u00f3s a certeza absoluta de que cada Munic\u00edpio e cada Estado vai ter mais recursos para a educa\u00e7\u00e3o, mais recursos para a sa\u00fade, mais recursos para a agricultura, mais recursos para os portos, muito mais recursos para a seguran\u00e7a, mais recursos para as a\u00e7\u00f5es sociais. E eles v\u00e3o ter muito mais: v\u00e3o ter a dignidade daqueles brasileiros que moram distantes, como os que moram no Estado do Par\u00e1. Brasileiros de cada cidade que se localiza a 80 a 100 quil\u00f4metros dos grandes centros, que est\u00e3o longe, precisam de uma aten\u00e7\u00e3o muito maior.\r\nO nosso Pa\u00eds est\u00e1 precisando fazer cada vez mais exerc\u00edcios desta natureza. N\u00f3s n\u00e3o podemos continuar com recursos concentrados no Governo Federal. Os Munic\u00edpios, os Prefeitos, os Governadores t\u00eam dificuldade de implementar novos servi\u00e7os, haja vista que n\u00e3o t\u00eam condi\u00e7\u00f5es.\r\nEu quero dizer a cada um de V.Exas. que n\u00f3s estamos juntos na conquista de um Pa\u00eds melhor. Fico muito feliz em perceber do Senador Davi e dos outros Senadores a hombridade de tamb\u00e9m fazerem parte dessa aprova\u00e7\u00e3o. Quero dizer a cada um de V.Exas. que esta miss\u00e3o do Parlamento n\u00f3s estamos executando.\r\nSrs. Parlamentares, a partir do ano que vem, as emendas de bancada v\u00e3o ser substancialmente aumentadas. Devemos ter para cada Estado, no m\u00ednimo, 300 milh\u00f5es de reais em emendas de bancada. Isso \u00e9 fundamental, porque cada Deputado e cada Senador pode discutir com o Governador, com o Prefeito, com lideran\u00e7as aquilo que \u00e9 importante para cada cidade e para cada Estado. Digo \"importante\" porque falo de obras estruturantes, que podem melhorar cada vez mais a vida do brasileiro. Digo \"importante\" porque desta maneira este Parlamento demonstra a sua grandiosidade.\r\nMas digo mais ainda a cada um dos Srs. Deputados e das Sras. Deputadas.\r\nHoje aconteceu uma coisa importante: a valoriza\u00e7\u00e3o acentuada deste Parlamento. N\u00f3s que aprovamos o Or\u00e7amento sabemos muito bem da import\u00e2ncia dessa PEC. E essa PEC n\u00e3o \u00e9 minha. Essa PEC \u00e9 deste Parlamento; \u00e9 de todos n\u00f3s que queremos o bem deste Brasil; \u00e9 de todos n\u00f3s que sabemos da import\u00e2ncia da nossa gest\u00e3o, da nossa a\u00e7\u00e3o para cada Munic\u00edpio.\r\nSabemos muito bem que h\u00e1 Munic\u00edpios que n\u00e3o t\u00eam ambul\u00e2ncia para carregar seus pacientes. Sabemos que h\u00e1 Munic\u00edpios que n\u00e3o t\u00eam condi\u00e7\u00f5es de operar os seus mun\u00edcipes. Mas sabemos muito mais ainda: que \u00e9 preciso investir cada vez mais na educa\u00e7\u00e3o, \u00e9 preciso buscar o caminho de escolas profissionalizantes, de escolas militares, fazer aquilo que \u00e9 fundamental para construir pontes, melhorando cada vez mais a log\u00edstica de escoamento da produ\u00e7\u00e3o de cada Estado e de cada regi\u00e3o.\r\nPortanto, eu quero compartilhar com cada um dos senhores esse momento importante e agradecer ao Deputado Gaguim, esse Relator brilhante, esse homem que nos ajudou nessa condu\u00e7\u00e3o. Quero tamb\u00e9m dizer ao Senador Esperidi\u00e3o Amin, que relatou a PEC no Senado, muito obrigado pela sua pujan\u00e7a e pela sua for\u00e7a. Quero deixar a cada um a certeza de que, se haver\u00e1 300 milh\u00f5es de reais no pr\u00f3ximo ano, no outro ser\u00e3o no m\u00ednimo 340 milh\u00f5es de reais para cada um de n\u00f3s destinarmos para o Estado.\r\nEu acho que esse avan\u00e7o deve ser a nossa for\u00e7a, a for\u00e7a de cada Parlamentar. E eu quero parabenizar cada um dos senhores que votaram pela integridade, votaram quase por unanimidade pela aprova\u00e7\u00e3o dessa PEC. Essa PEC \u00e9 desta Casa, \u00e9 de n\u00f3s Parlamentares, mas \u00e9 muito mais dos nossos Munic\u00edpios, dos nossos Estados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=282&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Parlamentares, Sras. Parlamentares, com certeza, neste momento esta Casa tem uma grande oportunidade: a oportunidade de discutir aquilo que \u00e9 importante para cada regi\u00e3o, para cada Estado, para o nosso Pa\u00eds. Com certeza, democraticamente, cada qual tem sua opini\u00e3o, cada qual tem seu pensamento, cada qual exp\u00f5e aquilo que quer e fala aquilo que seu cora\u00e7\u00e3o sente. \r\nNeste momento, eu venho aqui dizer que sou do Estado do Par\u00e1 e sei muito bem que a Regi\u00e3o Norte tem crescido muito e que parte da popula\u00e7\u00e3o que ocupa a regi\u00e3o, especificamente o Estado do Par\u00e1, \u00e9 de pessoas que migraram do Nordeste, trabalhadores s\u00e9rios, competentes, determinados, que t\u00eam impulsionado o progresso do Estado do Par\u00e1, especialmente da cidade de Castanhal, regi\u00e3o onde eu moro. Sei muito bem que alguns h\u00e1bitos e costumes vieram ao longo do tempo com a cultura do nordestino.\r\nNo nosso Par\u00e1 hoje h\u00e1 uma grande festa de vaquejada, de la\u00e7o, de rodeio, atividades que s\u00e3o vitais em exposi\u00e7\u00f5es agropecu\u00e1rias e em eventos promovidos por associa\u00e7\u00f5es que existem no nosso Estado. Isso tem gerado emprego, tem gerado renda, tem criado mecanismos para a sobreviv\u00eancia de pessoas que vivem e que dependem desses segmentos.\r\nEsta Casa tem uma oportunidade muito grande: regulamentar esta lei, porque a falta de regulamenta\u00e7\u00e3o, ao longo do tempo, tem causado uma instabilidade muito grande naqueles que praticam tudo isso. E essa regulamenta\u00e7\u00e3o n\u00e3o se d\u00e1 \u00e0 toa: \u00e9 uma regulamenta\u00e7\u00e3o que estabelece par\u00e2metros, estabelece pontos fundamentais para que se possa avan\u00e7ar.\r\n\u00c9 evidente que n\u00f3s somos contra os maus-tratos nos animais, mas somos a favor da regulamenta\u00e7\u00e3o das quest\u00f5es. Imaginem: vai haver m\u00e9dico-veterin\u00e1rio cuidando dos animais, vai haver prote\u00e7\u00e3o da cauda para os animais, vai haver condi\u00e7\u00f5es para que n\u00f3s possamos praticar um esporte de maneira digna, de maneira justa. Eu digo isso com certeza absoluta, porque acompanho a pr\u00e1tica desse esporte e sei muito bem da gera\u00e7\u00e3o de emprego, sei muito bem aquilo que ele proporciona a cada cidade. Em Castanhal, em Paragominas e em outras regi\u00f5es, a popula\u00e7\u00e3o converge para assistir a rodeios, provas de la\u00e7o, vaquejadas.\r\nPortanto, quero parabenizar esta Casa, que vai aprovar essa regulamenta\u00e7\u00e3o, a qual passar\u00e1 a ser inserida na Constitui\u00e7\u00e3o como algo importante. Parabenizo todos aqueles que me antecederam no encaminhamento desta vota\u00e7\u00e3o.\r\nO meu encaminhamento \u00e9 \"sim\", porque sei muito bem o que esta mat\u00e9ria representa para o Par\u00e1, para o Nordeste e para o Brasil.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=136&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HAROLDO MARTINS, EX-DEPUTADO ESTADUAL, PAR\u00c1, FALECIMENTO, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Falecimento do ex-Deputado Estadual do Par\u00e1, Haroldo Martins.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, quero comunicar a esta Casa e a todos no Brasil que faleceu hoje o ex-Deputado Estadual Haroldo Martins, que teve seis mandatos consecutivos no Estado do Par\u00e1.\r\nEle foi um defensor dos trabalhadores, defensor da classe produtiva, m\u00e9dico, grande pai de fam\u00edlia, grande amigo e parceiro e fazia parte do Democratas, partido que tenho a honra de presidir no Par\u00e1.\r\nQuero registrar, com muito pesar, o falecimento desse nobre homem p\u00fablico, que muito contribuiu para todos os cidad\u00e3os da regi\u00e3o do Estado do Par\u00e1. Manifesto aqui, em nome do Democratas, de todos os parceiros, dos amigos e da fam\u00edlia, o nosso sentimento de pesar.\r\nCom certeza, perdemos um grande homem p\u00fablico, que fez muito pelo Estado do Par\u00e1.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=286&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "AGRO FEST MILHO, EVENTO, ULIAN\u00d3POLIS (PA), H\u00c9LIO LEITE, DEPUTADO FEDERAL, ORADOR, PARTICIPA\u00c7\u00c3O.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Participa\u00e7\u00e3o do orador na feira Agro Fest Milho, no Munic\u00edpio de Ulian\u00f3polis, Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sras. Deputadas e Srs. Deputados, quero registrar para conhecimento deste Plen\u00e1rio e do Brasil que eu estive no Munic\u00edpio de Ulian\u00f3polis, para participar da Agro Fest Milho, uma grande festa em que produtores rurais da regi\u00e3o estiveram presentes, expuseram os seus produtos e demonstraram com clareza a plenitude do setor agr\u00edcola da regi\u00e3o, que tem avan\u00e7ado muito. Houve exposi\u00e7\u00e3o de maquin\u00e1rio moderno e de produtos da agricultura familiar e de m\u00e9dio e grande porte.\r\nFicou demonstrado acima de tudo o compromisso da Prefeita Neusa e da Vice-Prefeita, dos Vereadores e dos Secret\u00e1rios com o Munic\u00edpio de Ulian\u00f3polis.\r\nFiquei muito feliz porque fui bem recebido e pude visitar o Hospital Municipal, ver o local para o qual as nossas emendas flu\u00edram normalmente, ver o recurso destinado \u00e0quele Munic\u00edpio ser bem empregado.\r\nEu confesso a V.Exas. que fiquei muito feliz, porque participei de uma grande festa em que o empreendedorismo se fez valer. O progresso latente daquela cidade demonstra cada vez mais a pujan\u00e7a do polo produtor de gr\u00e3os e acima de tudo o respeito \u00e0 administra\u00e7\u00e3o p\u00fablica por todos aqueles que fazem Ulian\u00f3polis.\r\nQueria registrar com muito carinho e com muito respeito esse momento vivido na cidade de Ulian\u00f3polis.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-23T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 34/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, OBRIGATORIEDADE, EXECU\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, EMENDA DE BANCADA ESTADUAL.\r\nEGILASIO FEITOSA, PREFEITO, INHANGAPI (PA), PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Agradecimento aos Parlamentares pela aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 34, de 2019, sobre a obrigatoriedade da execu\u00e7\u00e3o da programa\u00e7\u00e3o or\u00e7ament\u00e1ria proveniente de emendas de bancada de parlamentares de Estado ou do Distrito Federal. Presen\u00e7a, na Casa, do Prefeito Egilasio Feitosa, do Munic\u00edpio de Inhangapi, Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (DEM - PA. Para discursar. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, recebemos, esta semana, aqui em Bras\u00edlia, v\u00e1rios Prefeitos e v\u00e1rias Prefeitas, que vieram aqui buscar de n\u00f3s, Parlamentares, a certeza absoluta de uma emenda. Eu, como autor da PEC da emenda de bancada impositiva, fico muito feliz ao perceber que agora os Estados v\u00e3o receber 246 milh\u00f5es de reais por meio de emendas impositivas e, no pr\u00f3ximo ano, 300 milh\u00f5es de reais. Eu queria agradecer aos pares, que aprovaram, por unanimidade, essa PEC t\u00e3o importante para o crescimento e para o desenvolvimento do nosso Pa\u00eds, levando obras estruturantes a cada Estado e ao Distrito Federal.\r\nQuero registrar a presen\u00e7a aqui do Prefeito Egilasio, da cidade de Inhangapi, Presidente do Cons\u00f3rcio Integrado dos Munic\u00edpios Paraenses - COIMP, nosso parceiro e amigo. Com certeza absoluta ele est\u00e1 aqui, como outros Prefeitos, buscando aquilo que \u00e9 fundamental para a educa\u00e7\u00e3o, para a sa\u00fade, para cada \u00e1rea do Munic\u00edpio. Eles est\u00e3o buscando dos Parlamentares apoio para que, acima de tudo, o nosso Pa\u00eds avance.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F10%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-17T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "H\u00c9LIO LEITE, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 1013/2020, PROJETO DE LEI ORDIN\u00c1RIA, SUSPENS\u00c3O, CAR\u00c1TER TEMPOR\u00c1RIO, PAGAMENTO, PARCELA, D\u00cdVIDA, ENTIDADE DESPORTIVA, FUTEBOL, PROGRAMA DE MODERNIZA\u00c7\u00c3O DA GEST\u00c3O E DE RESPONSABILIDADE FISCAL DO FUTEBOL BRASILEIRO (PROFUT), CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, CAMPEONATO, TORCIDA ORGANIZADA, MARCELO ARO, RELATOR.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.013, de 2020, sobre a suspens\u00e3o do pagamento de d\u00edvidas parceladas no \u00e2mbito do Programa de Moderniza\u00e7\u00e3o da Gest\u00e3o e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, institu\u00eddo pela Lei n\u00ba 13.155, de 2015, durante a vig\u00eancia do estado de calamidade p\u00fablica reconhecido pelo Congresso Nacional; e a altera\u00e7\u00e3o das Leis de n\u00bas 9.615, de 1998, e 10.671, de 2003.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, com certeza, vivenciamos um momento muito dif\u00edcil no Pa\u00eds, em que a pandemia tem ceifado vidas e avan\u00e7ado em todo o Brasil. O esporte \u00e9 algo importante, \u00e9 uma paix\u00e3o nacional, e todos n\u00f3s sabemos que a pr\u00e1tica de esportes \u00e9 fundamental.\r\nAs torcidas organizadas e os clubes vivenciam um momento dif\u00edcil. Foram interrompidos em cada canto o campeonato nacional, o campeonato brasileiro, os campeonatos regionais, os torneios de futebol. Com isso, os clubes t\u00eam vivido grandes dificuldades: est\u00e3o ficando sem a renda dos jogos, e os contratos de patroc\u00ednios est\u00e3o diminuindo. Tudo isso nos impulsiona, neste Parlamento t\u00e3o forte e t\u00e3o pujante, a pensar em algo importante. \r\nEste nosso projeto de lei vem num momento muito importante para os clubes, Sr. Presidente, porque eles poder\u00e3o melhorar muito. Ali\u00e1s, eu pe\u00e7o a V.Exa. que acrescente meu tempo como autor. Parabenizo V.Exa. por pautar este projeto neste momento. Quero parabenizar, igualmente, nosso Relator, o Deputado Marcelo Aro, que entende a situa\u00e7\u00e3o e faz um relat\u00f3rio substancial, concordando com as Lideran\u00e7as. \r\nQuero dizer que esta \u00e9 uma mat\u00e9ria apenas do Deputado H\u00e9lio Leite ou do Deputado Marcelo Aro, mas de todo o Parlamento, que sabe da import\u00e2ncia do futebol para o Brasil.\r\nMuito obrigado pela oportunidade. \r\nUm abra\u00e7o a todos os que fazem o esporte no Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2020&txPagina=301&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-17T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO,  PL 2125/2020, APENSA\u00c7\u00c3O, PL 1013/2020, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "H\u00e9lio Leite",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada ao Projeto de Lei n\u00ba 2.125, de 2020, apensado ao Projeto de Lei n\u00ba 1.013, de 2020, sobre a suspens\u00e3o do pagamento de d\u00edvidas parceladas no \u00e2mbito do Programa de Moderniza\u00e7\u00e3o da Gest\u00e3o e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, institu\u00eddo pela Lei n\u00ba 13.155, de 2015, durante a vig\u00eancia do estado de calamidade p\u00fablica reconhecido pelo Congresso Nacional; e a altera\u00e7\u00e3o das Leis de n\u00bas 9.615, de 1998, e 10.671, de 2003.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO LEITE (Bloco/DEM - PA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Democratas, neste momento, faz a an\u00e1lise de que o texto foi aprovado e de que \u00e9 necess\u00e1rio que votemos \"n\u00e3o\" a este destaque, para que esse projeto possa seguir a pauta.\r\nForam contemplados os clubes. Acho que foi um grande avan\u00e7o deste Parlamento.\r\nEu queria parabenizar, mais uma vez, o Relator pela maneira s\u00e9ria de conduzir a discuss\u00e3o e de buscar o consenso, o que foi muito importante.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2020&txPagina=309&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

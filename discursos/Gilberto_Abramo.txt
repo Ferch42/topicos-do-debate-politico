@@ -1,0 +1,182 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global apresentada pelo Relator da Comiss\u00e3o Especial, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, entendemos que, pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 2.724, de 2015, n\u00f3s vamos incentivar a disputa entre as empresas, que v\u00e3o patrocinar uma passagem com menor custo-benef\u00edcio para o consumidor. Com isso, n\u00f3s estaremos incentivando a competitividade.\r\nPor isso, o nosso posicionamento, a nossa orienta\u00e7\u00e3o, \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=195&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 15/2019, EMENDA DE PLEN\u00c1RIO, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 15, apresentada ao Projeto de Lei n\u00ba 2.724, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, se n\u00f3s queremos um conforto, um espa\u00e7o a mais, n\u00f3s temos que pagar. Se n\u00f3s queremos um lanche, hoje n\u00f3s temos que pagar. Para despachar a bagagem, n\u00f3s temos que pagar. Enfim, tudo n\u00f3s pagamos. Ent\u00e3o, nada mais justo do que sermos favor\u00e1veis a essa emenda.\r\nPor isso, o PRB encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=360&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 888/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 888, de 2019, sobre a altera\u00e7\u00e3o do Regime Especial de Tributa\u00e7\u00e3o - RET nos contratos de incorpora\u00e7\u00f5es e constru\u00e7\u00f5es de interesse social, com rela\u00e7\u00e3o aos projetos do Programa Minha Casa, Minha Vida.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PRB encaminha o voto \"sim\", porque entende que o empres\u00e1rio n\u00e3o pode ser penalizado, uma vez que a entrega das casas pode ser atrasada por diversos fatores. Entendemos a import\u00e2ncia de o programa continuar recebendo os benef\u00edcios at\u00e9 a entrega.\r\nPor isso, o PRB encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=109&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, EMP 20/2019, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 20.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PRB encaminha \"n\u00e3o\".\r\nN\u00e3o estou generalizando, mas entendemos que \u00e9 poss\u00edvel que, de repente, um policial ou um soldado possa ter um surto. Este surto pode ter consequ\u00eancias. Fico tranquilo em dizer isso, porque sou filho de militar, mas compreendemos que o ambiente n\u00e3o \u00e9 prop\u00edcio para que se venha a carregar arma.\r\nPor isso, o PRB entende que temos que votar \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-02T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.321-A, de 2019, sobre a autonomia dos partidos pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PRB entende que n\u00f3s devemos dar continuidade a este trabalho. O projeto tem que ser votado. N\u00e3o podemos retir\u00e1-lo de pauta, at\u00e9 porque ele j\u00e1 foi amplamente discutido nesta Casa. \r\nEnt\u00e3o, o nosso encaminhamento \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F4%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "MINIST\u00c9RIO P\u00daBLICO, POL\u00cdCIA FEDERAL, INVESTIGA\u00c7\u00c3O, PRIS\u00c3O, BRASILEIRO, FRAUDE, CIDADANIA, IT\u00c1LIA.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Pris\u00e3o de cidad\u00e3os brasileiros pela pol\u00edcia italiana acusados de fraude. Pedido ao Minist\u00e9rio P\u00fablico e \u00e0 Pol\u00edcia Federal de investiga\u00e7\u00e3o da veracidade dos fatos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Geovania, no final de mar\u00e7o, houve uma opera\u00e7\u00e3o da pol\u00edcia italiana na qual sete brasileiros foram presos acusados de fraude, por facilitarem a aquisi\u00e7\u00e3o da cidadania italiana. Entre esses que foram acusados, h\u00e1 - supostamente, os favorecidos - ju\u00edzes, promotores, inclusive o pr\u00f3prio Governador de Minas Gerais, Romeu Zema.\r\nEnt\u00e3o, n\u00f3s estamos solicitando ao Minist\u00e9rio P\u00fablico e \u00e0 Pol\u00edcia Federal que venham verificar a veracidade dos fatos, porque, como s\u00e3o autoridades, n\u00f3s temos que tomar provid\u00eancias para a comprova\u00e7\u00e3o dos fatos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1354/2019, PROJETO DE LEI ORDIN\u00c1RIA, REQUERIMENTO DE DESTAQUE, RETIRADA.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Retirada de requerimento de destaque.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, a emenda que apresentamos diz o seguinte: \r\nOs estabelecimentos p\u00fablicos e privados mencionados nesta Lei dever\u00e3o identificar a prioridade devida \u00e0s pessoas com Transtorno do Espectro Autista por meio do uso de sinal que mostre a fita colorida, s\u00edmbolo mundial referente a essa condi\u00e7\u00e3o. \r\nEssa seria a nossa emenda. Mas, como bem...\r\nO SR. CAPIT\u00c3O WAGNER (Bloco/PROS - CE) - Quero registrar, Deputado Gilberto Abramo, que o parecer \u00e9 favor\u00e1vel, pela constitucionalidade. Quanto ao m\u00e9rito, rejeitamos, justamente para que na pr\u00f3xima semana...\r\nO SR. GILBERTO ABRAMO (PRB - MG) - Por isso eu agrade\u00e7o pela compreens\u00e3o ao nosso amigo e retiro o destaque.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Deputado Gilberto Abramo, o destaque est\u00e1 retirado?\r\nO SR. GILBERTO ABRAMO (PRB - MG) - Est\u00e1 retirado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=227&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DA BANCADA, PL 1354/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.354, de 2019, sobre a prioridade na tramita\u00e7\u00e3o de processos de interesse da pessoa autista.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PRB encaminha o voto \"sim\". A pessoa com defici\u00eancia j\u00e1 sofre muito em nosso Pa\u00eds. Nada mais justo do que incluirmos a pessoa com Transtorno do Espectro Autista, a fim de que ela possa ter tratamento digno, como qualquer outra pessoa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=228&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PRB orienta o voto \"n\u00e3o\".\r\nEu gostaria de deixar bem claro que n\u00f3s n\u00e3o estamos beneficiando as igrejas. H\u00e1 uma confus\u00e3o muito grande. N\u00f3s estamos beneficiando as entidades que oferecem assist\u00eancia social. Assim, automaticamente, estamos atendendo, por exemplo, aos esp\u00edritas, que desenvolvem excelentes trabalhos sociais.\r\nN\u00f3s estamos atendendo aos cat\u00f3licos. Enfim, isso alcan\u00e7a todas as religi\u00f5es, os templos religiosos.\r\nEu gostaria que ficasse bem claro que n\u00e3o estamos prestigiando igrejas evang\u00e9licas, e sim templos religiosos, de modo geral, que prestam servi\u00e7os sociais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=149&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "COMISS\u00c3O EXTERNA, DESASTRE AMBIENTAL, BRUMADINHO (MG), DEBATE, PL 2787/2019, PROJETO DE LEI ORDIN\u00c1RIA, TIPICIDADE PENAL, ECOC\u00cdDIO, DEFESA, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Gilberto Abramo",
+        "sumario": "Defesa de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.787, de 2019, sobre a tipifica\u00e7\u00e3o do crime de ecoc\u00eddio e a conduta delitiva do respons\u00e1vel por desastre relativo a rompimento de barragem.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. GILBERTO ABRAMO (PRB - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Presidente, este projeto foi amplamente discutido na Comiss\u00e3o Externa das Barragens. N\u00e3o foi de maneira alguma discutido em prol dos fatos que ocorreram em Minas Gerais, n\u00e3o se pensou nisso. Apenas - \u00e9 l\u00f3gico! - entendemos que o fato ocorrido incentivou a discuss\u00e3o de como dever\u00edamos ampliar o projeto que envolve o crime ambiental e que envolve a explora\u00e7\u00e3o em todos os seus aspectos.\r\nPor isso n\u00e3o adianta aqui n\u00f3s polarizarmos dizendo que Minas Gerais est\u00e1 discutindo algo que depende somente do Estado e est\u00e1 esquecendo o restante do Pa\u00eds. N\u00e3o, de maneira alguma. Estamos pensando no Pa\u00eds. H\u00e1 barragens em v\u00e1rios Estados, e n\u00f3s n\u00e3o queremos de maneira alguma que ocorra em outros Estados o que ocorreu em Minas Gerais.\r\nPor isso, o marco regulat\u00f3rio foi discutido na Comiss\u00e3o Externa das Barragens, ali estiveram especialistas e outros Deputados. Ent\u00e3o, tivemos tempo suficiente para discutir.\r\nOra, se algu\u00e9m hoje n\u00e3o est\u00e1 de acordo, deveria se fazer presente na Comiss\u00e3o e apresentar suas argumenta\u00e7\u00f5es, e isso n\u00e3o aconteceu. Ent\u00e3o, n\u00e3o \u00e9 justo que o Relator chegue aqui, apresente as suas argumenta\u00e7\u00f5es, jogando por terra um projeto que foi elaborado \u00e0 base de suor - eu digo suor porque foram dias e noites em que o Relator se empenhou -, e aqui n\u00e3o venhamos a prosperar.\r\nEnt\u00e3o, o nosso posicionamento \u00e9 este, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=143&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

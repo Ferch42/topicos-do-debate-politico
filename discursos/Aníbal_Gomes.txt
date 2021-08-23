@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-28T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AN\u00cdBAL GOMES, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR, ELEI\u00c7\u00d5ES, CEAR\u00c1, AGRADECIMENTO.",
+        "nomeDeputado": "An\u00edbal Gomes",
+        "sumario": "Agradecimento aos eleitores cearenses pelo retorno do orador \u00e0 Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AN\u00cdBAL GOMES (DEM - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, meus colegas Deputados, minhas colegas Deputadas, serei r\u00e1pido. Somente quero agradecer ao povo cearense, que hoje me entrega o meu s\u00e9timo mandato. Estou muito feliz por voltar \u00e0 nossa Casa, rever aqui amigos ainda da minha \u00e9poca, aqueles que chegaram aqui em 1995. Quero agradecer ao povo cearense uma vez mais. N\u00f3s iremos trabalhar, e trabalhar muito, porque ainda tenho muito energia, para que possamos realmente contribuir com esses projetos importantes que hoje tramitam nesta Casa.\r\nDeixo aqui o meu muito obrigado!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2019&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

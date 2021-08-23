@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, PODEMOS (PODE) (2016), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Ricardo Teobaldo",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RICARDO TEOBALDO (PODE - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Podemos encaminha \"sim\", Sr. Presidente, em apoio \u00e0 vaquejada, \u00e0 tradi\u00e7\u00e3o nordestina e \u00e0 cultura do povo do Nordeste.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=344&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

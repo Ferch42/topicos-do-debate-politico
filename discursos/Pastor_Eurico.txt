@@ -1,0 +1,902 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 2/2018, EMENDA DE PLEN\u00c1RIO, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, PATRIOTAS (PATRI), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 2 apresentada ao Projeto de Lei Complementar n\u00ba 441-D, de 2017, sobre os cadastros positivos de cr\u00e9dito e regulamenta\u00e7\u00e3o da responsabilidade civil dos operadores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota est\u00e1 preocupado com o Brasil, com a sociedade e n\u00e3o vai entrar nessa onda da \"esquerdopatia\". N\u00f3s estamos aqui defendendo o que \u00e9 melhor para o Brasil.\r\nVotamos contra essa emenda. O voto do Patriota \u00e9 \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=319&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-12T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 4742/2001, PROJETO DE LEI ORDIN\u00c1RIA, SUPRESS\u00c3O, PATRIOTAS (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 1\u00ba do art. 2\u00ba da Subemenda Substitutiva oferecida ao Projeto de Lei n\u00ba 4.742,  de 2001, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta \"sim\" e tamb\u00e9m quer registrar a sua solidariedade e grande preocupa\u00e7\u00e3o em descobrir quem matou quem. Nesse \"quem matou quem\", estamos preocupados tamb\u00e9m em descobrir quem mandou matar Celso Daniel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F3%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 3/2019, EMENDA DE COMISS\u00c3O, MPV 858/2018, MEDIDA PROVISORIA, PATRIOTAS (PATRI), VOTO CONTRARIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 3.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota orienta o voto \"n\u00e3o\". Entendemos ser importante tudo o que est\u00e1 acontecendo na base de Alc\u00e2ntara. Na verdade, esse MPV n\u00e3o tem nada a ver com o que se est\u00e1 discutindo aqui. O Governo est\u00e1 preocupado, sim, com todos os habitantes que existem na \u00e1rea, principalmente os quilombolas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nUNI\u00c3O NACIONAL DOS ESTUDANTES (UNE), ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da lei n\u00ba 8.666, de 1993, acerca da institui\u00e7\u00e3o de normas para licita\u00e7\u00f5es e contratos da Administra\u00e7\u00e3o P\u00fablica. Esclarecimento sobre a representatividade da Uni\u00e3o Nacional dos Estudantes - UNE.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota orienta o voto \"n\u00e3o\" e faz uma ressalva sobre a Uni\u00e3o Nacional dos Estudantes - UNE.\r\nA UNE n\u00e3o representa todos os estudantes universit\u00e1rios brasileiros. Ela representa uma fac\u00e7\u00e3o dos universit\u00e1rios da \"esquerdopatia\". N\u00e3o todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=215&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PLV 6/2019, PROJETO DE LEI DE CONVERS\u00c3O, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, DEFESA.\r\nPARTIDO DOS TRABALHADORES (PT), CR\u00cdTICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o do texto original da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro, preferencialmente ao projeto de lei de convers\u00e3o adotado \u00e0 mat\u00e9ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, orienta o voto \"sim\".\r\nLamentamos essa \"PTmania\", essa esquerdopatia, que luta pelo \"quanto pior, melhor\". Hoje eles est\u00e3o vendo que o Pa\u00eds est\u00e1 tendo uma resposta diferenciada por aqueles que querem o bem do Brasil junto ao Presidente Bolsonaro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=323&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T21:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMC 1/2019, EMC 21/2019, EMENDA, COMISS\u00c3O MISTA, PARECER CONTR\u00c1RIO, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nPARTIDO DOS TRABALHADORES (PT), DESEMPREGO, CR\u00cdTICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de n\u00bas 1 a 21, com parecer pela rejei\u00e7\u00e3o, apresentadas \u00e0 Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota orienta o voto \"n\u00e3o\", Sr. Presidente. \r\nN\u00f3s precisamos ver os empregos aparecerem no Brasil, porque a heran\u00e7a maldita dos 14 milh\u00f5es deixados pelo PT \u00e9 a realidade que o Brasil vive hoje.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=328&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 21/2019, EMENDA DE COMISS\u00c3O, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.\r\nMANIFESTA\u00c7\u00c3O P\u00daBLICA, FAVOR\u00c1VEL, GOVERNO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda n\u00ba 21, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a altera\u00e7\u00e3o do C\u00f3digo Brasileiro de Aeron\u00e1utica. Expectativa quanto \u00e0 realiza\u00e7\u00e3o de manifesta\u00e7\u00e3o em favor do Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRI - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, orienta que se vote \"n\u00e3o\".\r\nCom refer\u00eancia \u00e0 fala da Deputada que acabou se pronunciar sobre a preocupa\u00e7\u00e3o do movimento de domingo, ela deve ficar bem tranquila, porque nem St\u00e9dile nem aquele bando de marginais que bagun\u00e7avam por a\u00ed, invadindo as propriedades, v\u00e3o estar junto do povo de Bolsonaro, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=345&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nSESS\u00c3O SOLENE, MANIFESTA\u00c7\u00c3O P\u00daBLICA, COMPORTAMENTO HUMANO, HOMOSSEXUAL, HOMOFOBIA, CR\u00cdTICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso I, do \u00a7 1\u00ba, do art. 3\u00ba-A, da Lei n\u00ba 11.909, de 2009, constante do art. 3\u00ba do Projeto de Lei de n\u00ba 10.985, de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, com vista \u00e0 sua supress\u00e3o, Rep\u00fadio \u00e0 cena de homossexualismo ocorrida no plen\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta o voto \"n\u00e3o\".\r\nAproveito para registrar nosso rep\u00fadio \u00e0 baixaria que aconteceu na sess\u00e3o solene em que houve esse beijo miser\u00e1vel dentro do plen\u00e1rio, desonrando esta Casa. Aqui se fala muito em homofobia, mas isso \u00e9 uma \"safadezofobia\" aqui dentro. Esta \u00e9 a verdade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=273&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nCOCA\u00cdNA, AERONAVE MILITAR, COMITIVA, PRESID\u00caNCIA DA REP\u00daBLICA, MILITAR, PUNI\u00c7\u00c3O.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 4\u00ba do Projeto de Lei n\u00ba 10.985, de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, com vista \u00e0 sua supress\u00e3o. Confian\u00e7a na puni\u00e7\u00e3o do militar preso pelo porte de coca\u00edna em aeronave da comitiva presidencial.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sra. Presidente, continua apoiando a sa\u00fade e a educa\u00e7\u00e3o em nosso Brasil.\r\nNo que se refere aos 39 quilos de coca\u00edna encontrados nas m\u00e3os de um sargento, vale salientar que isso que est\u00e3o dizendo aqui hoje e essa cobran\u00e7a que est\u00e3o fazendo n\u00e3o v\u00e3o precisar fazer mais, n\u00e3o, porque as institui\u00e7\u00f5es militares sempre agem. Elas n\u00e3o v\u00e3o querer defender bandido, como outros est\u00e3o fazendo - est\u00e3o querendo soltar bandido que est\u00e1 preso a\u00ed. Quem \u00e9 bandido, quem \u00e9 traficante, quem comete crime dentro das institui\u00e7\u00f5es militares \u00e9 punido, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=280&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T21:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 1/2019, EMENDA DE PLEN\u00c1RIO, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.\r\nREP\u00daDIO, COMPORTAMENTO, HOMOSSEXUAL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 1, oferecida ao Projeto de Lei n\u00ba 10.985, de 2018, sobre altera\u00e7\u00e3o das Leis de n\u00ba 9.427, de 1996; 13.203 de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013. Rep\u00fadio \u00e0 cena de homossexualismo ocorrida no plen\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta \"sim\".\r\nMas, concernente, Sra. Presidente, ao primeiro beijo l\u00e9sbico dado aqui na C\u00e2mara dos Deputados, n\u00f3s queremos registrar nosso rep\u00fadio a esse atentado violento ao pudor. Esse ato libidinoso \u00e9 um desrespeito \u00e0 fam\u00edlia tradicional deste Pa\u00eds.\r\nSra. Presidente, se n\u00e3o forem tomadas as devidas provid\u00eancias, daqui uns dias, em nome desse amor que falaram a\u00ed, v\u00e3o estar usando essa mesa como cama e fazendo rela\u00e7\u00f5es sexuais aqui.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=308&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-02T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SEGURAN\u00c7A P\u00daBLICA, CATEGORIA PROFISSIONAL, POL\u00cdCIA, V\u00cdTIMA, PERNAMBUCO, SOLIDARIEDADE.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Votos de condol\u00eancias aos familiares de policiais militares assassinados no Estado de Pernambuco.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de enviar daqui as nossas condol\u00eancias aos familiares dos policiais recentemente assassinados no Estado de Pernambuco. Quero manifestar tamb\u00e9m os meus sentimentos \u00e0 corpora\u00e7\u00e3o da Pol\u00edcia Militar de Pernambuco, que tem passado por essa situa\u00e7\u00e3o em que policiais, no exerc\u00edcio do seu dever, s\u00e3o atacados por marginais, que agem de forma maliciosa, de forma maldosa, como \u00e9 comum neles, agridem, atacam, destroem vidas, matam os nossos policiais, homens que saem de casa para dar seguran\u00e7a \u00e0 sociedade, mas que hoje n\u00e3o t\u00eam certeza de que voltar\u00e3o. \r\nManifesto daqui a nossa solidariedade aos irm\u00e3os e amigos da Pol\u00edcia Militar de Pernambuco.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F7%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T23:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, ADMISSIBILIDADE, REQUERIMENTO DE DESTAQUE, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.\r\nESQUERDA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da admissibilidade dos requerimentos de destaque simples apresentados \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social, em segundo turno de vota\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, orienta \"sim\" e elogia a Deputada que h\u00e1 pouco falou das pessoas arrependidas. Realmente h\u00e1 muita gente arrependida pelos 16 anos em que votou nessa Esquerda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=436&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA AGLUTINATIVA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 4, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota orienta o voto \"n\u00e3o\".\r\nUma Deputada aqui disse que, se houver convoca\u00e7\u00e3o para os Deputados trabalharem no domingo, ningu\u00e9m vir\u00e1. Que ela fale por si, porque o Patriota inteiro estar\u00e1 presente.\r\nE no que concerne a essa quest\u00e3o citada, da morte da Vereadora Marielle, \u00e9 importante realmente essa reivindica\u00e7\u00e3o que est\u00e1 sendo apresentada. Mas seria bom tamb\u00e9m que os mesmos que fazem essa reivindica\u00e7\u00e3o dessem igualmente uma resposta sobre a morte de Celso Daniel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=19&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, MPV 879/2019, MEDIDA PROVISORIA, PATRIOTA (PATRI), VOTO CONTRARIO.\r\nCOMISS\u00c3O DE DIREITOS HUMANOS E MINORIAS (CDHM), RETIRADA DE PROPOSI\u00c7\u00c3O, PL 3369/2015, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO, FAM\u00cdLIA, RECONHECIMENTO, PRINC\u00cdPIOS, ATUA\u00c7\u00c3O, PODER P\u00daBLICO, DIVERSIDADE, G\u00caNERO, ORIENTA\u00c7\u00c3O SEXUAL, PARENTESCO CONSANGU\u00cdNEO, NACIONALIDADE, CREDO, GRUPO RACIAL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, da Medida Provis\u00f3ria n\u00ba 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia el\u00e9trica. Apelo \u00e0 Comiss\u00e3o de Direitos Humanos e Minorias por retirada da pauta do Projeto de Lei n\u00ba 3.369, de 2015, sobre a institui\u00e7\u00e3o do Estatuto das Fam\u00edlias do S\u00e9culo XXI.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta \"n\u00e3o\".\r\nAproveito a oportunidade para fazer um apelo para que amanh\u00e3 n\u00e3o tenhamos esse miser\u00e1vel projeto da poligamia e incesto sendo votado l\u00e1 na Comiss\u00e3o de Direitos Humanos. Esperamos que o projeto seja retirado. Isso \u00e9 uma falta de respeito \u00e0 popula\u00e7\u00e3o brasileira, ao cidad\u00e3o brasileiro, ao Brasil crist\u00e3o. \r\nE fa\u00e7o um apelo ao Relator, meu companheiro l\u00e1 do Estado de Pernambuco, que j\u00e1 tem um voto pela aprova\u00e7\u00e3o, que repense essa situa\u00e7\u00e3o, porque \u00e9 um absurdo tratarmos um assunto desses. Est\u00e1-se ali praticamente apoiando o pai estar com a filha e vice-versa. \u00c9 a c\u00f3pia da desgra\u00e7a do que est\u00e1 acontecendo na TV brasileira hoje, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=24&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 879/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO. \r\nPL 3369/2015, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO, FAM\u00cdLIA, PARENTESCO CONSANGU\u00cdNEO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 879, de 2019, a respeito do sistema el\u00e9trico nacional. Defesa de rejei\u00e7\u00e3o do Projeto de Lei n\u00ba 3.369, de 2015, sobre a institui\u00e7\u00e3o do Estatuto da Fam\u00edlia do S\u00e9culo XXI.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sra. Presidente, orienta o voto \"n\u00e3o\". \r\nReiteramos a quest\u00e3o do Projeto de Lei n\u00ba 3.369, de 2015, de autoria de um dos Deputados do PCdoB. Esse projeto, que est\u00e1 para ir ao plen\u00e1rio da Comiss\u00e3o de Direitos Humanos amanh\u00e3, afronta a fam\u00edlia. Ele trata da quest\u00e3o de fam\u00edlias, independentemente da quest\u00e3o de consanguinidade. Isso abre brecha para o incesto em nosso Pa\u00eds. \u00c9 um absurdo! N\u00e3o podemos aceitar uma coisa dessa aqui no Congresso Nacional.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=259&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, PRESSUPOSTO CONSTITUCIONAL, COMISS\u00c3O MISTA, MPV 879/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nPODER JUDICI\u00c1RIO, PRIS\u00c3O, LUIZ IN\u00c1CIO LULA DA SILVA, EX-PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 879, de 2019, a respeito do setor el\u00e9trico nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sra. Presidente, vota \"n\u00e3o\".\r\nAproveitamos para parabenizar o Judici\u00e1rio, que neste dia est\u00e1 dando o presente de 500 dias de Brasil livre, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=261&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.715, de 2019, a respeito da posse de arma de fogo na \u00e1rea rural.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta o voto \"sim\".\r\nAproveitamos a oportunidade para dizer que, se 15 anos atr\u00e1s, tiv\u00e9ssemos tido um projeto dessa natureza sendo aprovado aqui, n\u00f3s n\u00e3o ter\u00edamos tantas invas\u00f5es de propriedades comandadas por um partido que incentivava muitos a usarem o chav\u00e3o de sem-terra e fazerem as barbaridades que faziam. At\u00e9 o St\u00e9dile n\u00e3o teria feito o que fez, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EMENDA DE PLEN\u00c1RIO, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI). \r\nLIVRO, BIENAL INTERNACIONAL DO LIVRO RIO (19:2019, RIO DE JANEIRO (RJ)), HOMOSSEXUALIDADE, CR\u00cdTICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 62 apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica. Cr\u00edticas \u00e0 exposi\u00e7\u00e3o de material impr\u00f3prio para crian\u00e7as na XIX Bienal Internacional do Livro Rio 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta \"n\u00e3o\".\r\nReitero aos companheiros que estiverem defendendo as crian\u00e7as que a \"Bienal da Libido\" deve ser recha\u00e7ada, pelo desrespeito \u00e0s nossas crian\u00e7as. Esse jogo sujo do movimento homossexual \u00e9 um desrespeito \u00e0s nossas crian\u00e7as. Eu n\u00e3o a chamaria de Bienal do Livro, mas sim, desta vez, de \"Bienal da Libido Homossexual\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=202&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-02T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "COMUNICA\u00c7\u00c3O INSTITUCIONAL, PORTAL DE PREFEITURA, S\u00cdTIO (INTERNET). ANIVERS\u00c1RIO, PREFEITURA, PERNAMBUCO, HOMENAGEM.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Transcurso do 2\u00ba anivers\u00e1rio de lan\u00e7amento do Portal de Prefeitura no Estado de Pernambuco.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de, primeiro, agradecer a V.Exa. por esta oportunidade t\u00e3o especial e aproveitar para parabenizar o Portal de Prefeitura, l\u00e1 de Pernambuco, que \u00e9 um site que tem prestado um relevante servi\u00e7o ao nosso Estado, trazendo not\u00edcias de todos os Munic\u00edpios. Ele est\u00e1 completando 2 anos e j\u00e1 tem quase 1 milh\u00e3o de seguidores ativos que acompanham todas as reportagens que s\u00e3o feitas pelo Portal de Prefeitura.\r\nAproveito para parabenizar todos os colaboradores, todos que fazem parte do Portal de Prefeitura, especialmente o Grupo Amisadai.\r\nQue possamos ter mais e mais conquistas, atrav\u00e9s do servi\u00e7o prestado por este \u00f3rg\u00e3o de comunica\u00e7\u00e3o no Estado de Pernambuco!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F10%2F2019&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penal federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota vota \"n\u00e3o\".\r\nPrecisamos valorizar essa categoria que tanto tem feito pelo nosso Brasil. Eles sofrem e pagam um pre\u00e7o muito caro na profiss\u00e3o que exercem. Agora, depois de tanto tempo de luta, chegamos a um desfecho positivo em favor dos nossos agentes penitenci\u00e1rios.\r\nJ\u00e1 \u00e9 hora de termos, sim, a Pol\u00edcia Penal aprovada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=211&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T23:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PRIMEIRO TURNO, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.\r\nAGENTE PENITENCI\u00c1RIO, PERNAMBUCO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - A bancada do Patriota, Sr. Presidente, orgulhosamente votou \"sim\", por reconhecer o excelente trabalho prestado pelos agentes penitenci\u00e1rios e os seus esfor\u00e7os. Muitos deles gastaram bastante o seu sal\u00e1rio t\u00e3o resumido, por vezes vindo aqui lutar por esta grande conquista.\r\nParab\u00e9ns a todos! Em nome de todos os agentes penitenci\u00e1rios de Pernambuco, eu quero parabenizar todos os agentes do Brasil.\r\nAgora, sim, eles s\u00e3o a pol\u00edcia penal!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=225&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 886/2019, MEDIDA PROVISORIA, PATRIOTA (PATRI), VOTO CONTRARIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 72, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 886, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, orienta \"n\u00e3o\". Todos s\u00e3o iguais perante a lei. Lamentamos que os que defendem politicamente essa ideologia s\u00f3 estejam querendo defender essas pessoas. Eu gostaria de saber se aquelas senhoras que se dizem homens estariam aceitando de bom grado isso a\u00ed.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=361&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3443/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.\r\nPROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, RECRIA\u00c7\u00c3O, CONTRIBUI\u00c7\u00c3O SINDICAL, ASSINATURA, RETIRADA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.443, de 2019, sobre a presta\u00e7\u00e3o digital dos servi\u00e7os na administra\u00e7\u00e3o p\u00fablica - Governo Digital. Apresenta\u00e7\u00e3o de requerimento de retirada da assinatura \u00e0 proposta de emenda \u00e0 Constitui\u00e7\u00e3o relativa \u00e0 recria\u00e7\u00e3o do imposto sindical.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota vota \"sim\". \r\nEu quero aproveitar a oportunidade, Sr. Presidente, para informar que entrei com requerimento de retirada da minha assinatura da PEC que trata da volta do imposto sindical. Assinei, como muitos companheiros, dada aquela conversa de que era uma proposta normal e tal. N\u00e3o olhamos. Mais uma falha, que serve de li\u00e7\u00e3o para mim mesmo. J\u00e1 tinha dificuldade de assinar PECs, e a partir de agora vai ser muito mais dif\u00edcil eu assinar.\r\nN\u00e3o sou a favor da volta do imposto sindical, porque isso \u00e9 escravizar o trabalhador, Sr. Presidente.\r\nEstamos retirando a nossa assinatura, via requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=143&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEPUTADO FEDERAL, DESCUMPRIMENTO, DETERMINA\u00c7\u00c3O, PRESID\u00caNCIA DA C\u00c2MARA DOS DEPUTADOS, CUMPRIMENTO, POL\u00cdCIA LEGISLATIVA, ACESSO, PLEN\u00c1RIO DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Indaga\u00e7\u00e3o acerca do desdobramento do epis\u00f3dio sobre o descumprimento, por Deputado, de ordem de policial legislativo determinada pela Presid\u00eancia da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, entendemos que o que aconteceu \u00e9 realmente um absurdo. Agora, s\u00f3 uma consulta, no caso do Deputado que insistiu para colocar a pessoa, como vai ficar a situa\u00e7\u00e3o? O pessoal da seguran\u00e7a est\u00e1 sendo chamado \u00e0 responsabilidade, mas, \u00e0s vezes, h\u00e1 situa\u00e7\u00f5es em que companheiros agem...\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Eu vou chamar o Deputado para conversar, mas n\u00e3o quero tratar de nomes aqui, porque acho que n\u00e3o vem ao caso. O que vem ao caso \u00e9 garantir ao policial que cumpra a determina\u00e7\u00e3o da Presid\u00eancia da C\u00e2mara e do Regimento da Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 8833/2017, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica ao Projeto de Lei n\u00ba 8.833, de 2017, a respeito da tipifica\u00e7\u00e3o como crime a indu\u00e7\u00e3o de crian\u00e7as e adolescentes ao suic\u00eddio e \u00e0 automutila\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sra. Presidente, orienta \"sim\". Chega a tempo este projeto, que \u00e9 important\u00edssimo. Precisamos pensar cada vez mais na prote\u00e7\u00e3o das crian\u00e7as, dos jovens, adolescentes e adultos, que por vezes tamb\u00e9m s\u00e3o vitimizados por indu\u00e7\u00f5es atrav\u00e9s da m\u00eddia, da Internet e tantas outras \u00e1reas. N\u00f3s estamos acompanhando, vendo a desgra\u00e7a na sociedade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T13:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REDE GLOBO DE TELEVIS\u00c3O, NOT\u00cdCIA FALSA (FAKE NEWS), JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, MARIELLE FRANCO, VEREADORA, RIO DE JANEIRO (RJ), HOMIC\u00cdDIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Inconsist\u00eancia de mat\u00e9ria veiculada pela Rede Globo de Televis\u00e3o, a respeito do envolvimento do Presidente Jair Bolsonaro com o acusado do homic\u00eddio da Vereadora Marielle Franco, no Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Sem revis\u00e3o do orador.) - Sr. Presidente, agrade\u00e7o a V.Exa. a aquiesc\u00eancia.\r\nGostaria de registrar neste momento nosso rep\u00fadio, em nome do Partido Patriota e em nosso nome, a tudo o que vem acontecendo de ontem para hoje diante da leviandade com que a Rede Globo est\u00e1 tratando o Presidente da Rep\u00fablica, eleito pela maioria dos votos do povo brasileiro. Lamentamos este ato de irresponsabilidade.\r\n\u00c9 claro, a Rede Globo est\u00e1 atrelada a um mont\u00e3o de coisas erradas, lamentando por que n\u00e3o est\u00e3o no poder aqueles que a beneficiavam e faziam com que ela se locupletasse e at\u00e9 usurpasse do dinheiro p\u00fablico, quando n\u00e3o pagava muitos dos seus compromissos.\r\nAgora, ela traz esta acusa\u00e7\u00e3o \u00e0 tona, para macular a imagem de um homem s\u00e9rio, a imagem do Presidente Bolsonaro, que, \u00e0 \u00e9poca do citado caso que foi ao ar ontem, mostrou que o porteiro do condom\u00ednio onde ele morava disse que um dos supostos assassinos de Marielle - n\u00e3o estamos aqui a favor da morte ou do assassinato de ningu\u00e9m, queremos a investiga\u00e7\u00e3o, queremos que tudo seja esclarecido -, mas ele dizer que um desses que ali chegou disse que iria \u00e0 casa 58, que era a casa onde morava o ent\u00e3o Deputado Federal Jair Bolsonaro n\u00e3o procede. Ele disse que ligou e falou com o Jair. Depois, a pessoa n\u00e3o foi para a casa 58, mas sim para a casa 56. Depois, ele volta e fala com o Jair de novo, quando est\u00e1 comprovado que naquele dia o Deputado Federal Jair Bolsonaro estava presente em sess\u00e3o nesta Casa - estava registrada sua presen\u00e7a \u00e0s 14 horas e \u00e0s 20 horas. Sua digital estava marcada aqui. \r\nHoje estamos assistindo n\u00e3o s\u00f3 \u00e0 Rede Globo, mas tamb\u00e9m \u00e0queles que t\u00eam compromisso com a destrui\u00e7\u00e3o e a desgra\u00e7a deste Pa\u00eds, com coisas erradas. Estamos assistindo a alguns que fazem parte de movimentos esquerdopatas deste Pa\u00eds que querem macular a imagem do Presidente, afirmando que ele tem participa\u00e7\u00e3o junto \u00e0queles que assassinaram Marielle.\r\nLamentamos que a Rede Globo n\u00e3o tenha tomado esta atitude quando, no mensal\u00e3o, Marcos Val\u00e9rio acusara o Presidente Lula de ter sido um dos mandantes do assassinato de Celso Daniel. Por que a Rede Globo n\u00e3o fez isso? Porque estava protegida pelas benesses do Governo. Hoje ela n\u00e3o tem mais isso e, assim, ataca um homem s\u00e9rio.\r\nN\u00f3s estamos registrando nossa solidariedade ao nosso Presidente, um homem digno que deve ser respeitado. \r\nDizemos n\u00e3o a esta leviandade da Rede Globo e dos partidos de esquerda, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "INVESTIGA\u00c7\u00c3O CRIMINAL, AUTOR INTELECTUAL, HOMIC\u00cdDIO, V\u00cdTIMA, MARIELLE FRANCO, EX-VEREADORA, RIO DE JANEIRO (RJ), CELSO DANIEL, EX-PREFEITO, SANTO ANDR\u00c9 (SP), JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, REDE GLOBO DE TELEVIS\u00c3O.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Indaga\u00e7\u00e3o sobre os mandantes dos assassinatos da Vereadora Marielle Franco, do Rio de Janeiro; do Prefeito Celso Daniel, do Munic\u00edpio de Santo Andr\u00e9, e da tentativa de homic\u00eddio do ent\u00e3o candidato \u00e0 Presid\u00eancia da Rep\u00fablica, Deputado Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje \u00e9 o dia do quem: quem matou quem? H\u00e1 595 dias querem descobrir quem matou Marielle Franco, e de fato \u00e9 importante sabermos isso. Ao mesmo tempo, faz 6.487 dias que mataram Celso Daniel. As acusa\u00e7\u00f5es citaram at\u00e9 um Presidente da \u00e9poca, e a Rede Globo n\u00e3o disse nada, ficou calada.\r\nPor fim, Sr. Presidente, j\u00e1 que estamos querendo saber quem matou quem, pergunto: quem mandou matar o ent\u00e3o candidato a Presidente da Rep\u00fablica Jair Bolsonaro?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 4805/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVORAVEL.\r\nFAMILIA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, MARIELLE FRANCO, VEREADORA, RIO DE JANEIRO (RJ), HOMIC\u00cdDIO, CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 4.805, de 2019, sobre a capacita\u00e7\u00e3o e competitividade do setor de inform\u00e1tica e automa\u00e7\u00e3o, e o tratamento tribut\u00e1rio aplic\u00e1vel \u00e0s empresas do setor. Desrespeito de Deputados do PSOL para com o Presidente da Rep\u00fablica e seus familiares.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, orienta o voto \"sim\". E mais, lamentamos a falta de respeito dos Deputados do PSOL para com o Presidente da Rep\u00fablica e sua fam\u00edlia ao dizer que a fam\u00edlia est\u00e1 aliada a milicianos. Isso n\u00e3o \u00e9 pr\u00e1tica dos filhos do Bolsonaro, tampouco do Presidente da Rep\u00fablica, mas parece que alguns deles t\u00eam essa pr\u00e1tica na hist\u00f3ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=250&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CELSO DANIEL, EX-PREFEITO, SANTO ANDR\u00c9 (SP), HOMIC\u00cdDIO, ESQUERDA POL\u00cdTICA, FALTA, DIVULGA\u00c7\u00c3O,  REDE GLOBO DE TELEVIS\u00c3O, DEPOIMENTO,  MARCOS VAL\u00c9RIO, PUBLICITARIO, LUIZ IN\u00c1CIO LULA DA SILVA, EX-PRESIDENTE DA REPUBLICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Indaga\u00e7\u00e3o \u00e0 Esquerda sobre as raz\u00f5es da n\u00e3o divulga\u00e7\u00e3o, pela Rede Globo de Televis\u00e3o, do testemunho do publicit\u00e1rio Marcos Val\u00e9rio sobre a determina\u00e7\u00e3o, pelo ex-Presidente Luiz In\u00e1cio Lula da Silva, de assassinato do ent\u00e3o Prefeito Celso Daniel, do Munic\u00edpio de Santo Andr\u00e9, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de fazer uma pergunta ao pessoal do PT e da Oposi\u00e7\u00e3o. Quando o Marcos Val\u00e9rio na CPI do Mensal\u00e3o fez algumas dela\u00e7\u00f5es, ele falou que foi Lula quem mandou matar o Celso Daniel, e a Rede Globo n\u00e3o publicou isso. Por que a Rede Globo ficou calada?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=251&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BANCO DO BRASIL (BB), AG\u00caNCIA BANC\u00c1RIA, GL\u00d3RIA DO GOIT\u00c1 (PE).",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Defesa da reabertura de ag\u00eancia do Banco do Brasil no Munic\u00edpio de Gl\u00f3ria do Goit\u00e1, Estado de Pernambuco.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de, neste momento, registrar a nossa solidariedade ao povo da cidade de Gl\u00f3ria do Goit\u00e1, em Pernambuco, que continua sofrendo com a aus\u00eancia da ag\u00eancia do Banco do Brasil. Na cidade h\u00e1 v\u00e1rias ind\u00fastrias e um com\u00e9rcio muito bom, mas as pessoas t\u00eam que se locomover cerca de 30 quil\u00f4metros para fazer suas opera\u00e7\u00f5es banc\u00e1rias, sendo, assim, vitimizadas pelas a\u00e7\u00f5es de bandidos naquela localidade.\r\nGostaria de pedir a aquiesc\u00eancia da Presid\u00eancia do Banco do Brasil. J\u00e1 estamos com um abaixo-assinado, com milhares de assinaturas, e vamos lev\u00e1-lo \u00e0 Presid\u00eancia do banco, para que eles possam pensar em favor da popula\u00e7\u00e3o da cidade de Gl\u00f3ria do Goit\u00e1. O Vereador Evandro tem lutado nessa particularidade, junto com autoridades locais. Vamos, sim, nessa audi\u00eancia, levar todas as assinaturas. \u00c9 um pedido, \u00e9 um clamor da cidade de Gl\u00f3ria do Goit\u00e1 para que a ag\u00eancia do Banco do Brasil seja restabelecida.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=134&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, MPV 889/2019, MEDIDA PROVISORIA, PATRIOTA (PATRI), VOTO FAVORAVEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 889, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975, com vista \u00e0 possibilidade de movimenta\u00e7\u00e3o das contas do PIS/PASEP, e da Lei n\u00ba 8.036, de 1990, para institui\u00e7\u00e3o da modalidade de saque-anivers\u00e1rio do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, e sobre a devolu\u00e7\u00e3o de recursos ao Fundo de Amparo ao Trabalhador - FAT; a altera\u00e7\u00e3o de disposi\u00e7\u00f5es relativas \u00e0s d\u00edvidas do Fundo de Compensa\u00e7\u00e3o de Varia\u00e7\u00f5es Salariais - FCV, e a extin\u00e7\u00e3o da cobran\u00e7a da contribui\u00e7\u00e3o de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa. Transcurso do 104\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da Igreja Evang\u00e9lica Assembleia de Deus no Estado de Roraima. Homenagem ao Pastor Isamar Pessoa Ramalho.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota encaminha o voto \"sim\".\r\nAproveitando a oportunidade, queremos fazer um registro de felicita\u00e7\u00f5es \u00e0 Igreja Evang\u00e9lica Assembleia de Deus do Estado de Roraima, sob a Presid\u00eancia do Pastor Isamar Pessoa Ramalho, que est\u00e1 \u00e0 frente daquela igreja h\u00e1 21 anos. Neste m\u00eas, ela est\u00e1 completando 104 anos de funda\u00e7\u00e3o, com um trabalho prof\u00edcuo, realizado n\u00e3o s\u00f3 na capital, mas tamb\u00e9m em todos os rinc\u00f5es do Estado. Inclusive ela vem fazendo um excelente trabalho ao prestar assist\u00eancia social ao povo ind\u00edgena do Estado de Roraima.\r\nHoje o Pastor Isamar Ramalho est\u00e1 comandando cerca de 5 mil l\u00edderes em todo o Estado. Seu trabalho tem feito a diferen\u00e7a no meio religioso, com cerca de 400 templos espalhados em todo o Estado. Ele tem feito um grande trabalho.\r\nPor isso, n\u00f3s o parabenizamos tamb\u00e9m como Presidente daquela igreja que est\u00e1 fazendo a diferen\u00e7a no campo social e evangel\u00edstico, na capital e em todo o Estado de Roraima.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=285&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSTIVO LEGAL, PLV 29/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 889/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba, do art. 20-D da Lei 8.036, de 1990, alterado pelo art. 2\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 889, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975, com vista \u00e0 possibilidade de movimenta\u00e7\u00e3o das contas do PIS/PASEP, e da Lei n\u00ba 8.036, de 1990, para institui\u00e7\u00e3o da modalidade de saque-anivers\u00e1rio do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, e sobre a devolu\u00e7\u00e3o de recursos ao Fundo de Amparo ao Trabalhador - FAT; a altera\u00e7\u00e3o de disposi\u00e7\u00f5es relativas \u00e0s d\u00edvidas do Fundo de Compensa\u00e7\u00e3o de Varia\u00e7\u00f5es Salariais - FCV, e a extin\u00e7\u00e3o da cobran\u00e7a da contribui\u00e7\u00e3o de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa. Imediata vota\u00e7\u00e3o pela Casa, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota n\u00e3o vai entrar na fal\u00e1cia desses que est\u00e3o indo contra os interesses do trabalhador. O Patriota orienta que se vote \"sim\".\r\nEu acho que devemos respeitar os companheiros que est\u00e3o aqui esperando pela vota\u00e7\u00e3o da proposta sobre a Pol\u00edcia Penal, momento t\u00e3o especial para eles. Acho uma desconsidera\u00e7\u00e3o esta protela\u00e7\u00e3o para n\u00e3o votarmos projeto t\u00e3o importante.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=355&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T23:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nDESASTRE AMBIENTAL, CAATINGA, INC\u00caNDIO, FLORESTA (PE), PROVID\u00caNCIAS, NECESSIDADE.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o al\u00e9m de outras atribui\u00e7\u00f5es definidas em lei espec\u00edfica de iniciativa do Poder Executivo, constante no \u00a7 5\u00ba-A, do art. 144, introduzido pelo art. 3\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital, \r\ncom vista \u00e0 sua supress\u00e3o. Solidariedade \u00e0 popula\u00e7\u00e3o do Munic\u00edpio de Floresta, Estado de Pernambuco, diante da ocorr\u00eancia de inc\u00eandio na regi\u00e3o da caatinga. Necessidade de aux\u00edlio do Governo Federal ao Governador do Estado para combate ao inc\u00eandio na regi\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidenta, o Patriota orienta \"n\u00e3o\".\r\nE aproveito a oportunidade para me solidarizar com a cidade de Floresta, em Pernambuco, pela situa\u00e7\u00e3o que l\u00e1 est\u00e1 ocorrendo. H\u00e1 um inc\u00eandio que se alastra pela Caatinga por quase 2 dias. Os Munic\u00edpios vizinhos est\u00e3o se juntando para ajudar. Mas quero dizer ao Governador que, se o Estado n\u00e3o tem condi\u00e7\u00f5es de resolver, que apele ao Governo Federal. Deixe de lado essa guerra travada com o Governo Federal e lhe pe\u00e7a apoio para tentar apagar aquele inc\u00eandio que est\u00e1 destruindo a Caatinga na cidade de Floresta.\r\nA popula\u00e7\u00e3o est\u00e1 clamando, muita gente est\u00e1 sofrendo com a fuma\u00e7a ali. Apelamos para que o Governo do Estado apele ao Governo Federal e fa\u00e7a sua parte. Com certeza, o Governo Federal vai atender ao pedido do povo da cidade de Floresta, em Pernambuco.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=427&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei n\u00ba 3.261-A, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, orienta \"n\u00e3o\". \r\nE acho que aqueles que s\u00e3o contr\u00e1rios a este projeto deveriam parar de usar celular. Na \u00e9poca em que s\u00f3 funcionavam as linhas fixas, quando se falou em mudar o setor e atrair novas empresas, muita gente foi contra. Hoje, todo mundo tem a op\u00e7\u00e3o de escolher a empresa de telefonia que quer, a que achar melhor e mais barata. Esta \u00e9 a mudan\u00e7a de que o Brasil precisa: garantir o direito do povo de escolher o que quer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=267&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, PL 4162/2019, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVORAVEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para aprecia\u00e7\u00e3o em primeiro lugar do Projeto de Lei n\u00ba 4.162, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em que Munic\u00edpio, em que cidade n\u00e3o h\u00e1 pessoas reclamando do saneamento b\u00e1sico, por mais que a empresa local tente fazer alguma coisa?\r\nO meu Estado, Pernambuco, conta com a COMPESA, que faz um servi\u00e7o mais ou menos - n\u00e3o \u00e9 t\u00e3o ruim. Mas h\u00e1 cidades que reclamam da empresa de saneamento, e n\u00e3o h\u00e1 solu\u00e7\u00e3o para o problema. Ent\u00e3o, \u00e9 momento de deixarmos a popula\u00e7\u00e3o escolher. N\u00e3o tem essa de dizer que o servi\u00e7o vai ficar mais caro. O povo \u00e9 que vai escolher de quem vai comprar a \u00e1gua. \r\nTemos que dar o melhor para a popula\u00e7\u00e3o. Por isso, o Patriota orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=281&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLENARIO, PL 4162/2019, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO FAVORAVEL.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de n\u00bas 15, 16, 17 e 23, com parecer favor\u00e1vel, oferecidas ao Projeto de Lei n\u00ba 4.162, 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota vota \"sim\".\r\nH\u00e1 poucos dias, houve uma discuss\u00e3o sobre o pagamento da \"taxa do sol\". Eu quero dizer que, em Pernambuco, apesar de a COMPESA fazer o trabalho dela, muita gente est\u00e1 pagando a taxa do ar, do vento que passa nos canos sem \u00e1gua, do vento que passa no hidr\u00f4metro. Depois chega a conta \u00e0 casa do pobre. Os pobres est\u00e3o pagando sem ter \u00e1gua. Essa \u00e9 a grande verdade.\r\nEsta \u00e9 a hora de mudar, de dar o direito aos pobres de escolherem com quem v\u00e3o buscar \u00e1gua, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=354&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EVENTO RELIGIOSO, POPULA\u00c7\u00c3O, PERNAMBUCO, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Votos de feliz Natal e pr\u00f3spero Ano Novo \u00e0 popula\u00e7\u00e3o do Estado de Pernambuco.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de aproveitar a oportunidade e mandar as nossas sauda\u00e7\u00f5es e felicita\u00e7\u00f5es a todos os pernambucanos.\r\nAproveito a oportunidade para tamb\u00e9m desejar a todos boas festas e um feliz Ano-Novo aos evang\u00e9licos, aos n\u00e3o evang\u00e9licos, a todos de Pernambuco, a todos do Brasil que nos acompanham pelas redes sociais.\r\nDesejamos que o ano de 2020 seja de muitas b\u00ean\u00e7\u00e3os de Deus a todos os nossos amigos evang\u00e9licos e n\u00e3o evang\u00e9licos que acompanham o nosso trabalho.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=214&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SA\u00daDE, SEGURAN\u00c7A P\u00daBLICA, FAVOR\u00c1VEL, RECURSOS, PERNAMBUCO, PASTOR EURICO, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nEVENTO RELIGIOSO, POPULA\u00c7\u00c3O, PERNAMBUCO, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Destina\u00e7\u00e3o pelo orador de recursos de emendas or\u00e7ament\u00e1rias a Munic\u00edpios do Estado de Pernambuco. Votos de feliz Ano Novo \u00e0 popula\u00e7\u00e3o pernambucana.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, aproveitamos a oportunidade para dizer aos nossos ilustres pernambucanos que estamos no terceiro mandato e este ano estamos fechando 100% dos Munic\u00edpios do Estado de Pernambuco com a\u00e7\u00f5es parlamentares de nossa parte. Emendas foram distribu\u00eddas em v\u00e1rias \u00e1reas, especialmente na \u00e1rea da sa\u00fade, onde estamos fechando, como j\u00e1 disse, 184 Munic\u00edpios e mais o Distrito de Fernando de Noronha, com a\u00e7\u00f5es de nossa parte. Na \u00e1rea militar, nas For\u00e7as Armadas - Ex\u00e9rcito, Marinha e Aeron\u00e1utica - e na Pol\u00edcia Militar, tamb\u00e9m houve a\u00e7\u00f5es parlamentares de nossa parte.\r\nParab\u00e9ns a todos!\r\nBoas festas!\r\nFeliz Ano-Novo aos pernambucanos, aos evang\u00e9licos, aos n\u00e3o evang\u00e9licos! A todos do Brasil vai um abra\u00e7o do seu irm\u00e3o, do seu amigo, do Deputado Federal Pastor Eurico.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=215&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 18, oferecida ao Projeto de Lei n\u00ba 3.261, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sr. Presidente, vota \"n\u00e3o\" e aproveita a oportunidade, j\u00e1 no finalzinho dos trabalhos, para parabenizar V.Exa. pelas condi\u00e7\u00f5es de trabalho em todo este ano, quando muitos projetos importantes andaram aqui, sob o seu comando. Parab\u00e9ns!\r\nQue no novo ano haja muita prosperidade nesta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=244&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DAMARES REGINA ALVES, MINISTRO DE ESTADO, MINIST\u00c9RIO DA MULHER, DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, CONTRA, ANT\u00d4NIO CARLOS DE ALMEIDA CASTRO, KAKAY, FELIPE ZANCHET, ADVOGADO, POSI\u00c7\u00c3O, REP\u00daDIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Rep\u00fadio \u00e0s declara\u00e7\u00f5es do advogado criminalista Ant\u00f4nio Carlos de Almeida Castro, denominado de Kakay, e do  Sr. Felipe Zanchet contra a Ministra da Mulher, da Fam\u00edlia, e dos Direitos Humanos, Damares Regina Alves. N\u00e3o manifesta\u00e7\u00e3o das integrantes do movimento mexeu com uma, mexeu com todas sobre o assunto.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, agrade\u00e7o a oportunidade a V.Exa.\r\nGostaria neste momento de fazer um registro de rep\u00fadio ao que vem acontecendo em nosso Pa\u00eds, especialmente ao que foi proferido pelo advogado criminalista Ant\u00f4nio Carlos de Almeida Castro, denominado de Kakay, referindo-se \u00e0 Ministra Damares. Ele disse: \"Uma pena os pais dessa idiota n\u00e3o terem feito o que ela prega. Se n\u00e3o tivessem trepado, estar\u00edamos livres dela\".\r\nOutro elemento que faz parte da mesma corja esquerdopata e defensor da promiscuidade sexual, o Felipe Zanchet, chegou a dizer: \"Devem ter fecundado ela na posi\u00e7\u00e3o de quatro, menos respeitosa do que papai e mam\u00e3e cobertos.\" Ainda ironiza dizendo: \"Ofendi os moralistas de plant\u00e3o.\" \r\nInteressante que h\u00e1 um movimento no Brasil \"mexeu com uma, mexeu com todas\". Eu queria nominar algumas companheiras Deputadas que aqui \u00e0s vezes vociferam tanto. Olhem s\u00f3, onde est\u00e3o as Deputadas Erika Kokay, Jandira Feghali, Alice Portugal, Fernanda Melchionna, Maria do Ros\u00e1rio, S\u00e2mia Bomfim, Tal\u00edria Petrone, Gleisi Hoffmann? Onde est\u00e3o essas defensoras das mulheres, aquelas que apregoam o movimento \"mexeu com uma, mexeu com todas\"?\r\nPergunto onde est\u00e1 a Sra. Xuxa, aquela que criou tantos problemas quando veio defender a Lei da Palmada aqui nesta Casa, ela que encabe\u00e7a esse movimento, que veste as suas blusas com o grande slogan \"mexeu com uma, mexeu com todas\"? Por que n\u00e3o v\u00e3o defender a mulher Ministra Damares, que est\u00e1 sendo criticada, zombada, escrachada por uma posi\u00e7\u00e3o crist\u00e3?\r\nVejam, n\u00e3o respeitam os crist\u00e3os no Brasil, mas, muitas vezes, v\u00e3o \u00e0s institui\u00e7\u00f5es religiosas pedir voto, atr\u00e1s dos votos dos evang\u00e9licos. Olhem, se mexeu com uma, mexeu com todas, esse movimento n\u00e3o est\u00e1 reagindo? Os evang\u00e9licos neste Brasil est\u00e3o reagindo. Vamos deixar bem claro aqui: mexeu com um, vai mexer com todos.\r\nA Ministra Damares merece respeito como Ministra e como mulher brasileira, uma senhora decente, que tem produzido um bem para este Brasil. Lamentamos por aqueles que s\u00f3 querem a baderna, a bagun\u00e7a e a promiscuidade neste Pa\u00eds. Boa parte deles defende a porcaria da defens\u00e3o de drogas e outras mazelas que assolam a sociedade.\r\nMuito obrigado, Sr. Presidente.\r\nRespeitem nossa Ministra Damares!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas. Solidariedade \u00e0 Ministra da Mulher, da Fam\u00edlia e dos Direitos Humanos, Damares Regina Alves.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota orienta \"n\u00e3o\" ao requerimento de adiamento desta vota\u00e7\u00e3o, porque entende que este \u00e9 um projeto important\u00edssimo para o Brasil.\r\nAproveitando a oportunidade, ainda sobre o caso da Ministra Damares, imaginem se o que foi dito em rela\u00e7\u00e3o a ela fosse dito por algu\u00e9m da direita, ligado \u00e0 Presid\u00eancia da Rep\u00fablica. Imaginem o que estaria acontecendo nesta Casa. Todo esse movimento que se denomina protecionista estaria aqui aprontando o que os V.Exas. sabem muito bem fazer. \r\nVamos defender nossa Ministra, Sr. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO.\r\nCR\u00cdTICA, ESQUERDA POL\u00cdTICA, PRESIDENTE DA REP\u00daBLICA, MIL\u00cdCIA PRIVADA, DIREITA POL\u00cdTICA, HOMIC\u00cdDIO, V\u00cdTIMA, CELSO DANIEL, EX-PREFEITO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, da Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas. Tentativa da Esquerda de liga\u00e7\u00e3o do Presidente da Rep\u00fablica e sua fam\u00edlia com o assassinato de miliciano.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota orienta \"n\u00e3o\" a esse requerimento e aproveita a oportunidade para tamb\u00e9m dizer \u00e0 Esquerda doentia que \u00e9 uma vulgariza\u00e7\u00e3o querer criminalizar, acusar injustamente o Presidente da Rep\u00fablica e sua fam\u00edlia de rela\u00e7\u00e3o com o assassinato do denominado miliciano. Seria bom tamb\u00e9m eles pensarem que o outro lado pode tamb\u00e9m deduzir que eles mesmos mandaram matar o miliciano para querer acusar a Direita do nosso Pa\u00eds, assim como mataram Celso Daniel, para se autoproteger.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=127&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER FAVOR\u00c1VEL, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.\r\nINVESTIGA\u00c7\u00c3O, PORTEIRO, CONDOM\u00cdNIO RESIDENCIAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, MARIELLE FRANCO, VEREADORA, RIO DE JANEIRO (RJ), HOMIC\u00cdDIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas. Mudan\u00e7a nos rumos das investiga\u00e7\u00f5es envolvendo o porteiro do condom\u00ednio residencial do Presidente Jair Bolsonaro, com rela\u00e7\u00e3o ao caso Marielle Franco.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota orienta o voto \"sim\".\r\n Aproveito para informar que come\u00e7am a tomar outro rumo as investiga\u00e7\u00f5es em rela\u00e7\u00e3o \u00e0quela hist\u00f3ria do porteiro que citou a casa do Presidente, porque agora j\u00e1 se descobriu que a voz n\u00e3o \u00e9 daquele porteiro. Algu\u00e9m est\u00e1 tentando armar alguma coisa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=160&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 897/2019, MEDIDA PROVISORIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO. \r\nPARTIDO DOS TRABALHADORES (PT), DEPUTADO FEDERAL, AUS\u00caNCIA, DEFESA, DALAMARES ALVES, MINISTRA DE ESTADO  DA MULHER DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, DECLARA\u00c7\u00c3O, V\u00cdTMA, OFENSA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre a institui\u00e7\u00e3o do Fundo de Aval Fraterno e sobre o patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais, a C\u00e9dula Imobili\u00e1ria Rural, a escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e a concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas. Incoer\u00eancia de cr\u00edticas de petistas ao Presidente da Rep\u00fablica por resposta a jornalista.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota, Sra. Presidente, orienta o voto \"n\u00e3o\".\r\nEu gostaria de me dirigir \u00e0 petezada e companhia que agora est\u00e3o acusando o Presidente por uma fala concernente aos jornalistas. N\u00f3s n\u00e3o vimos nenhum deles aqui defender a Ministra Damares quando um petista miser\u00e1vel e irrespons\u00e1vel deste Brasil a chacoalhou usando, lamentavelmente, express\u00f5es chulas. Cad\u00ea a petezada? Cad\u00ea a mulherada que defende o \"mexeu com uma, mexeu com todas\"?\r\n\u00c9 absurdo o jogo sujo desse pessoal!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=265&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 30/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 897/2019, MEDIDA PROVISORIA, PATRIOTA (PATRI), VOTO FAVORAVEL.\r\nMULHER, FEMINISMO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 60 do projeto de lei de convers\u00e3o oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre a institui\u00e7\u00e3o do Fundo de Aval Fraterno e sobre o patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais, a C\u00e9dula Imobili\u00e1ria Rural, a escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e a concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas. Seletividade da defesa de mulheres por feministas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Patriota orienta o voto \"sim\".\r\nEu lamento, mas eu lamento muito, o que acontece com as feministas esquerdistas deste Pa\u00eds. Em nenhum momento vieram aqui defender a Ministra Damares quando foi chacoalhada at\u00e9 em rela\u00e7\u00e3o ao ato sexual que a fez ser gerada, entre seus pais. Ela foi chacoalhada, e ningu\u00e9m veio aqui defender a pobre da Ministra. A Regina Duarte tamb\u00e9m ningu\u00e9m veio defender.\r\nAgora, quando o Presidente diz que uma rep\u00f3rter deu um furo, um furo de reportagem, j\u00e1 levam o sentido para outro tipo de furo. A\u00ed v\u00e3o agora querer defender o qu\u00ea? V\u00e3o acusar o Presidente?\r\nPelo amor de Deus, vamos defender a dignidade das mulheres, Sra. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=287&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MOTORISTA DE CAMINH\u00c3O, GREVE, ESQUERDA POL\u00cdTICA, CR\u00cdTICA.\r\nGOVERNO FEDERAL, DEFESA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Negativa de disposi\u00e7\u00e3o para movimento grevista por parte dos caminhoneiros. Confian\u00e7a da categoria na capacidade do Governo Federal para o atendimento de suas reivindica\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente - desculpe-me n\u00e3o cham\u00e1-la de Presidenta -, depois do furo da jornalista Patr\u00edcia, agora quem vai dar um furo sou eu.\r\nSra. Presidente, eu acabei de falar com um amigo, l\u00edder do movimento dos caminhoneiros aut\u00f4nomos do Brasil, que foi vitimizado na \u00faltima greve pelo enxerto dos baderneiros esquerdistas. Eu perguntei a ele para quem ele deu a procura\u00e7\u00e3o para petistas falarem em nome dos caminhoneiros. Ele n\u00e3o deu procura\u00e7\u00e3o a ningu\u00e9m. H\u00e1 alguns Deputados aqui falando em nome dos caminhoneiros, falando que a greve vai come\u00e7ar. Nada disso \u00e9 verdade.\r\nOs caminhoneiros est\u00e3o calmos, serenos e tranquilos, acreditando que o Governo, com compet\u00eancia, vai administrar toda a situa\u00e7\u00e3o. E nada de baderna. Eles querem chamar para a bagun\u00e7a, mas o Governo n\u00e3o se alia \u00e0 bagun\u00e7a, Sra. Presidente. Bagunceiro, fora!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=302&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-11T10:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ADILSON ALVES, PASTOR, PASSIRA (PE), FALECIMENTO, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Falecimento do Pastor Adilson Alves, do Munic\u00edpio de Passira, Estado de Pernambuco.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PASTOR EURICO (Bloco/PATRIOTA - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, neste momento, eu gostaria de registrar nossas condol\u00eancias \u00e0 fam\u00edlia enlutada do Pastor Adilson Alves, da cidade de Passira, em Pernambuco. Ele faleceu nesta madrugada. Registramos nossas condol\u00eancias a toda a fam\u00edlia, a toda a Igreja Assembleia de Deus no Estado de Pernambuco e, em especial, a todos aqueles que fazem parte da filial da cidade de Passira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2021&txPagina=44&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-18T10:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SOLIDARIEDADE, EMPRES\u00c1RIO, PERNAMBUCO, IGREJA, LOCKDOWN, GOVERNO ESTADUAL, PANDEMIA, CORONAV\u00cdRUS, MINIST\u00c9RIO P\u00daBLICO, INVESTIGA\u00c7\u00c3O, PAULO C\u00c2MARA, GOVERNADOR, RECURSOS P\u00daBLICOS, SA\u00daDE P\u00daBLICA.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Solidariedade a empres\u00e1rios, comerciantes e religiosos diante da decreta\u00e7\u00e3o de lockdown pelo Governador do Estado de Pernambuco, Paulo C\u00e2mara. Congratula\u00e7\u00f5es ao Minist\u00e9rio P\u00fablico pela abertura de processos investigat\u00f3rios da aplica\u00e7\u00e3o, por Governadores e Prefeitos Municipais, de recursos federais destinados ao combate \u00e0 Covid-19.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PASTOR EURICO (Bloco/PATRIOTA - PE. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de agradecer a V.Exa. a oportunidade e aproveitar para manifestar a nossa solidariedade aos empres\u00e1rios, a todos aqueles que produzem emprego e geram economia no Estado de Pernambuco.\r\nQuero manifestar a nossa solidariedade tamb\u00e9m \u00e0s Igrejas e a todos aqueles que est\u00e3o sendo, neste momento, vitimizados pela situa\u00e7\u00e3o que vive o Pa\u00eds. Entendemos que o lockdown est\u00e1 mexendo com muita gente.\r\nO Governo de Pernambuco resolveu, a partir desta quinta-feira, apertar mais o cerco. Lamentamos que, durante todo esse tempo, n\u00e3o tenha conseguido fazer muita coisa.\r\nQuero aproveitar a oportunidade para fazer um registro de felicita\u00e7\u00f5es parabenizando o Minist\u00e9rio P\u00fablico, que est\u00e1 agora exigindo explica\u00e7\u00f5es daqueles que receberam milh\u00f5es de reais para a sa\u00fade, para combater o coronav\u00edrus, e at\u00e9 agora n\u00e3o mostraram o que fizeram. Lamentamos que o nosso Estado de Pernambuco esteja tamb\u00e9m nessa situa\u00e7\u00e3o. Esperamos que o Governador Paulo C\u00e2mara possa justificar aonde foram parar os milh\u00f5es de reais que l\u00e1 chegaram para o combate ao coronav\u00edrus.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T11:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, PL 399/2015, PROJETO DE LEI ORDINARIA, CRIT\u00c9RIO, COMERCIALIZA\u00c7\u00c3O, MEDICAMENTO, PRINC\u00cdPIO ATIVO, SUBST\u00c2NCIA, MACONHA, CANABIDIOL",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Debate do Projeto de Lei n\u00ba 399, de 2015, sobre a comercializa\u00e7\u00e3o de medicamentos formulados com a planta Cannabis sativa.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. PASTOR EURICO (Bloco/PATRIOTA - PE) - Sr. Presidente, eu cumprimento V.Exa. e todos os demais Parlamentares que est\u00e3o presentes ou que est\u00e3o participando remotamente.\r\nCumprimento todo o povo brasileiro que acompanha atentamente esta Comiss\u00e3o Geral.\r\nComo eu j\u00e1 disse, alguns aqui fazem parte de uma manobra daqueles que comandam a Comiss\u00e3o instalada para estudar esse projeto. Na verdade, se o projeto fosse votado na Comiss\u00e3o, n\u00f3s nem estar\u00edamos mais aqui.\r\nQueremos registrar que n\u00e3o somos, em nenhum momento, contra medicamento. Ningu\u00e9m \u00e9 contra medicamento. Aqui j\u00e1 foi falado de uma subst\u00e2ncia que pode ser extra\u00edda para se gerar o medicamento. \u00c9 algo completamente diferente! Estamos tendo embates na Comiss\u00e3o porque o Relator levou o tema para outro extremo. Quem participou das audi\u00eancias p\u00fablicas que tivemos aqui - foram v\u00e1rias - sabe que fomos acusados de pessoas do mal, de instrumentos malignos, de querermos matar pessoas inocentes, de sermos contra o tratamento de pessoas que precisam do medicamento. Isso nunca aconteceu. \r\nMas eles n\u00e3o falam de quando trouxeram aqui representantes de associa\u00e7\u00f5es A, B ou C que lutam para legalizar a maconha neste Pa\u00eds. O que essas pessoas fizeram? Vieram aqui usando crian\u00e7as doentes, usando pessoas que precisam do medicamento, para colocar os seus jabutis - esta \u00e9 uma express\u00e3o que sempre usamos nas vota\u00e7\u00f5es -, para tentar aprovar a planta\u00e7\u00e3o de maconha por quem quer que seja. \r\nEu fico sem entender o Presidente dessa Comiss\u00e3o. Como j\u00e1 foi dito, \u00e9 claro que ele defende o lado dele. Por\u00e9m, quando ele fala do controle das planta\u00e7\u00f5es - vamos analisar o que diz a ANVISA sobre o processo de extra\u00e7\u00e3o dessa subst\u00e2ncia para medicamento -, fica um paradoxo. Como \u00e9 que algu\u00e9m vai plantar a maconha e, sem tecnologia, sem laborat\u00f3rio, vai conseguir fazer o rem\u00e9dio para o filho? Se essa pessoa est\u00e1 dando para o filho um ch\u00e1 da Cannabis, essa pessoa est\u00e1 drogando esse filho! Est\u00e1 trazendo danos piores! Por qu\u00ea? N\u00e3o est\u00e1 ali s\u00f3 uma subst\u00e2ncia, est\u00e1 o contexto geral, como disse aqui o Deputado Osmar Terra. Isso \u00e9 que \u00e9 instar o mal! \r\nSe essas pessoas plantam e v\u00e3o querer usar... Ali\u00e1s, querem usar, como disse um Deputado que daqui a pouco vai falar... Ele falou abertamente na Comiss\u00e3o: \"Temos que liberar geral! Temos que defender a maconha recreativa! Planta quem quiser. Comercializa quem quiser\". A\u00ed n\u00f3s vamos para o relat\u00f3rio e vemos que o texto fugiu daquilo que \u00e9 a ess\u00eancia, o medicamento, e foi para a quest\u00e3o comercial. Trata-se de liberar a Cannabis para muitos outros produtos. Quem esteve em uma comiss\u00e3o da qual eu participei, na R\u00fassia ou na Bielorr\u00fassia, viu que h\u00e1 naquele pa\u00eds produtos com Cannabis. Querem copiar isso? Isso \u00e9 o que est\u00e1 acontecendo em nosso Brasil. \r\nN\u00f3s acompanhamos o sofrimento de ene pessoas e fam\u00edlias vitimizadas pela maconha. N\u00f3s somos contra a legaliza\u00e7\u00e3o da maconha! Somos a favor, sim, de medicamento, mas n\u00e3o como est\u00e1.\r\nO SUS est\u00e1 a\u00ed. Eles est\u00e3o preocupados, porque sabem que o Governo vai aprovar o apoio ao medicamento. Dessa forma eles n\u00e3o querem. Querem fazer frente ao Governo. Mas o SUS vai cuidar disso, como cuida de outros medicamentos muito mais caros. Isso se torna insignificante, porque prevalece o bem que o SUS pode fazer em prol do povo brasileiro, o bem que este Governo pode fazer em prol do povo brasileiro. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-05T11:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CAFEICULTOR, S\u00c3O JO\u00c3O DO MANHUA\u00c7U (MG), ELOGIO.",
+        "nomeDeputado": "Pastor Eurico",
+        "sumario": "Visita do orador a cafeicultores no Munic\u00edpio de S\u00e3o Jo\u00e3o do Manhua\u00e7u, Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PASTOR EURICO (PATRIOTA - PE. Sem revis\u00e3o do orador.) - Sra. Presidente, quero agradecer a oportunidade e fazer um elogio a alguns produtores de caf\u00e9 da cidade de S\u00e3o Jo\u00e3o do Manhua\u00e7u, em Minas Gerais.\r\nTive a oportunidade de visitar e conhecer de perto os produtores, os fabricantes de caf\u00e9. Quero parabeniz\u00e1-los, pois, em meio a tantas crises que estamos enfrentando, eles est\u00e3o se sobressaindo, produzindo os melhores caf\u00e9s do Pa\u00eds. \r\nParab\u00e9ns a todos daquela cidade!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

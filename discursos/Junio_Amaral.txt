@@ -1,0 +1,542 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "AGRADECIMENTO, ELEI\u00c7\u00d5ES, ELEITOR, MINAS GERAIS, MANDATO PARLAMENTAR.\r\nROMPIMENTO, BARRAGEM DE REJEITO, BRUMADINHO (MG), DESASTRE AMBIENTAL, ELOGIO, BOMBEIRO MILITAR.\r\nPROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA, POLICIAL MILITAR.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Agradecimento a Deus e ao eleitorado do Estado de Minas Gerais pela elei\u00e7\u00e3o do orador. Relev\u00e2ncia da atua\u00e7\u00e3o da Pol\u00edcia Militar e do Corpo de Bombeiros Militar nas opera\u00e7\u00f5es de busca e resgate das v\u00edtimas de trag\u00e9dia ocorrida no Munic\u00edpio de Brumadinho, em Minas Gerais. Mensagem do Parlamentar aos seus eleitores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00e3o poderia iniciar este meu primeiro discurso na Casa sem agradecer primeiramente a Deus a oportunidade de estar aqui. Foi Ele que me confiou essa miss\u00e3o. Agrade\u00e7o aos 158.541 eleitores que confiaram em n\u00f3s e digo que vamos sim dar o nosso melhor aqui.\r\nEu preciso fazer uma considera\u00e7\u00e3o a respeito da trag\u00e9dia ocorrida em Brumadinho, e lembrando daqueles que s\u00e3o, muitas vezes, desprezados, os militares da Pol\u00edcia, que trabalhou muito l\u00e1. Principalmente os bombeiros foram respons\u00e1veis por salvar centenas de vidas naquela ocasi\u00e3o e resgatar outras centenas de corpos, permitindo que as fam\u00edlias pudessem sepultar seus entes queridos com alguma dignidade.\r\n\tComo outros tantos, cheguei a esta Casa contrariando de certa forma as expectativas dos especialistas da pol\u00edtica, e tamb\u00e9m n\u00e3o usando dinheiro p\u00fablico para fazer o nosso melhor. Quero deixar claro aos meus eleitores que a minha indigna\u00e7\u00e3o de policial da ativa n\u00e3o mudou, a nossa postura \u00e9 a mesma. Aos juristas de ar-condicionado quero deixar bem claro que o policial militar, o policial no geral, o servidor da seguran\u00e7a p\u00fablica, ele n\u00e3o vai mais sair \u00e0s ruas para confronto sem o direito de voltar vivo para casa.\r\nO \u00faltimo recado vai para os eleitores: tenhamos todos muita esperan\u00e7a. O tempo de desgra\u00e7a acabou, vem a\u00ed o tempo de bonan\u00e7a. Acredito muito no nosso Presidente. Aqueles que estiverem pagando para ver o contr\u00e1rio disso, para ver a impunidade ainda reinar, ver\u00e3o que est\u00e3o enganados.\r\nBem-aventurados aqueles que t\u00eam sede de justi\u00e7a!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=227&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, CADASTRO POSITIVO, CR\u00c9DITO, DEFESA.\r\nESQUERDA POL\u00cdTICA, PARTIDO DOS TRABALHADORES (PT), CR\u00cdTICA.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Rep\u00fadio ao discurso de Deputados da Esquerda sobre o cadastro positivo de cr\u00e9dito.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu n\u00e3o consigo compreender como cabe tanta hipocrisia num espa\u00e7o s\u00f3.\r\nVejo aqui pessoas atacarem o cadastro positivo como se fosse algo que ofende os pobres. A Esquerda, que tanto fala em proteger os pobres, \u00e9 a primeira a rotul\u00e1-los de maus pagadores, de devedores.\r\nPobre n\u00e3o \u00e9 sin\u00f4nimo de caloteiro!\r\nLembro, inclusive, que devedores exemplares s\u00e3o eles: o PT ainda est\u00e1 devendo milh\u00f5es de reais da campanha eleitoral. Ent\u00e3o, eles est\u00e3o defendendo os pr\u00f3prios interesses.\r\nParem de atacar os pobres e de cham\u00e1-los de caloteiros dessa maneira! N\u00e3o enganem mais as pessoas como fizeram nos \u00faltimos 30 anos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, FOR\u00c7AS ARMADAS, COMEMORA\u00c7\u00c3O, GOLPE DE ESTADO (1964).",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Contesta\u00e7\u00e3o aos discursos de Deputados contr\u00e1rios \u00e0 determina\u00e7\u00e3o \u00e0s For\u00e7as Armadas brasileiras, pelo Presidente Jair Bolsonaro, de comemora\u00e7\u00e3o da Revolu\u00e7\u00e3o de 1964.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s precisamos fazer uma considera\u00e7\u00e3o aqui. Eu estou ouvindo tantas manifesta\u00e7\u00f5es em rep\u00fadio a Jair Bolsonaro pelas comemora\u00e7\u00f5es de 31 de mar\u00e7o, sendo que essas comemora\u00e7\u00f5es j\u00e1 aconteciam at\u00e9 2011. Eles est\u00e3o dizendo que se quer reescrever a hist\u00f3ria, mas, na verdade, eles \u00e9 que est\u00e3o fazendo isso h\u00e1 mais de 30 anos. Gra\u00e7as aos nossos militares, hoje n\u00f3s podemos respirar um pouco de liberdade. A Marcha da Fam\u00edlia com Deus pela Liberdade reuniu mais de 1 milh\u00e3o de pessoas nas ruas. Como ignorar esse fato?\r\nPortanto, viva as nossas For\u00e7as Armadas! Viva o Capit\u00e3o Barros, nosso her\u00f3i do Araguaia! Viva M\u00e1rio Kozel Filho, que foi covardemente assassinado pelo grupo terrorista de Dilma Rousseff! E viva Carlos Alberto Brilhante Ustra!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "HOMIC\u00cdDIO, MEMBRO, IGREJA EVANG\u00c9LICA, PARACATU (MG).\r\nMANIFESTA\u00c7\u00c3O, DEFESA, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Homic\u00eddio de fi\u00e9is de igreja evang\u00e9lica no Munic\u00edpio de Paracatu, Estado de Minas Gerais. Congratula\u00e7\u00f5es aos policiais militares respons\u00e1veis pelo combate ao criminoso.  Apoio \u00e0s manifesta\u00e7\u00f5es de rua em defesa do Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, senhores.\r\nNesta semana, devido \u00e0 intensidade dos trabalhos aqui, n\u00e3o tive oportunidade de falar sobre uma trag\u00e9dia que ocorreu em Minas Gerais. Trago agora esse assunto \u00e0 tona.\r\nNa cidade de Paracatu, que fica mais perto de Bras\u00edlia do que da nossa Capital Belo Horizonte, um usu\u00e1rio de drogas, um criminoso invadiu a casa da sua ex-namorada, atacou-a com um canivete e a matou. Depois foi at\u00e9 uma igreja e, de posse de uma garrucha velha - ilegal, vale ressaltar -, come\u00e7ou a atirar nos fi\u00e9is. Numa viatura da Pol\u00edcia Militar de Minas Gerais, policiais que estavam indo atender ao chamado da casa da ex-namorada do criminoso ouviram os disparos. Deus quis que essa viatura estivesse passando pelo local nesse momento. Ent\u00e3o o Cabo Lima e o Soldado Maciel desembarcaram da viatura e avistaram o criminoso, que estava atirando aleatoriamente nos fi\u00e9is. Com apenas um tiro de fuzil, o Cabo Lima acertou o criminoso dentro da igreja, Deputado Sanderson.\r\nQuatro pessoas morreram nessa trag\u00e9dia, e infelizmente vemos a Esquerda usar esses fatos para demonizar as armas de fogo. Esse \u00e9 um dos fatos com que podemos exemplificar, de forma did\u00e1tica - n\u00e3o \u00e9 preciso ser muito inteligente para compreender isto -, que h\u00e1 necessidade de o cidad\u00e3o, de a pessoa certa estar no local e na hora certa com uma arma de fogo. Para parar um homem mal que empunha uma arma de fogo, s\u00f3 mesmo um homem bom com uma arma de fogo.\r\nPara cometer o primeiro homic\u00eddio, o criminoso n\u00e3o precisou de arma de fogo. Vale ressaltar que ele matou a sua ex-companheira com um canivete. Testemunhas disseram que, provavelmente, ele estava sob efeito de entorpecentes.\r\nFica registrado o nosso salve para estes nossos colegas da Pol\u00edcia Militar de Minas Gerais: Cabo Lima, Soldado Maciel, Cabo Rafael e Cabo Guilherme. Eles foram os guerreiros que enfrentaram e neutralizaram aquele criminoso e evitaram uma trag\u00e9dia ainda maior.\r\nAproveito o restante deste tempo para dizer que o Brasil, no pr\u00f3ximo domingo, vai \u00e0s ruas. O sentimento de mudan\u00e7a que ocupou esta Na\u00e7\u00e3o por ocasi\u00e3o das elei\u00e7\u00f5es permanece. A sociedade est\u00e1 atenta. Parafraseando o nosso Presidente, digo que n\u00f3s n\u00e3o vamos sucumbir. N\u00e3o aceitamos conchavos. N\u00f3s pretendemos mudar o rumo do nosso Pa\u00eds, para ontem.\r\nEspero todos os mineiros, em Belo Horizonte, na Pra\u00e7a da Liberdade, pela manh\u00e3, \u00e0s 10 horas, para mudarmos o destino deste Pa\u00eds.\r\nEstamos juntos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=196&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "HOMIC\u00cdDIO, MEMBRO, IGREJA EVANG\u00c9LICA, PARACATU (MG). VITIMA.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Rela\u00e7\u00e3o das v\u00edtimas de trag\u00e9dia ocorrida no Munic\u00edpio de Paracatu, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero apenas pedir que inclua a nossa manifesta\u00e7\u00e3o no programa A Voz do Brasil.\r\nInfelizmente eu me esqueci de citar as v\u00edtimas de Paracatu, o que \u00e9 muito importante. As v\u00edtimas foram Helo\u00edsa Vieira, Ant\u00f4nio Ramas, Ros\u00e2ngela Albernas e Marilena Marins.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "POLICIAL MILITAR, BOMBEIRO MILITAR, CONGRATULA\u00c7\u00c3O, ATUA\u00c7\u00c3O, ROMPIMENTO, BARRAGEM DE REJEITO, BRUMANDINHO (MG), RECONHECIMENTO, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, AUX\u00cdLIO EMERGENCIAL PECUNI\u00c1RIO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Congratula\u00e7\u00f5es aos policiais militares e aos bombeiros militares do Estado de Minas Gerais por sua atua\u00e7\u00e3o na trag\u00e9dia do rompimento de barragem no Munic\u00edpio de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Presidente, com o destaque aqui aprovado por \u00faltimo, esta Casa faz uma m\u00ednima corre\u00e7\u00e3o e uma m\u00ednima considera\u00e7\u00e3o de valoriza\u00e7\u00e3o aos her\u00f3is de Brumadinho. \u00c9 claro que a Vale deve arcar com as suas responsabilidades naquilo que lhe cabe. Todavia, o Estado n\u00e3o pode virar as costas para aqueles her\u00f3is que l\u00e1 estavam a servi\u00e7o do povo, salvando vidas, submersos na lama e resgatando corpos, permitindo que as fam\u00edlias realizassem um sepultamento digno.\r\nPortanto, fica aqui um salve aos her\u00f3is da Pol\u00edcia Militar de Minas Gerais e, principalmente, aos bombeiros de Minas Gerais, que fizeram um trabalho brilhante, reconhecido mundialmente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=225&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-11T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLN 4/2019, PROJETO DE LEI ORDIN\u00c1RIA, ABERTURA, CREDITO SUPLEMENTAR, OR\u00c7AMENTO FISCAL, REGRA DE OURO, APROVA\u00c7\u00c3O.\r\nADVOGADO, AD\u00c9LIO BISPO, AUTOR, ATENTADO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, CONFIRMA\u00c7\u00c3O, MANDANTE DO CRIME.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 4, de 2019, sobre a abertura dos Or\u00e7amentos Fiscal e da Seguridade Social da Uni\u00e3o, em favor dos Minist\u00e9rios da Economia e da Cidadania, de Encargos Financeiros da Uni\u00e3o e de Opera\u00e7\u00f5es Oficiais de Cr\u00e9dito, e cr\u00e9dito suplementar para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente. Reconhecimento, pelo advogado do autor do atentado contra a vida do ent\u00e3o presidenci\u00e1vel Jair Bolsonaro, da exist\u00eancia de mandante para a pr\u00e1tica do crime. Solidariedade ao Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Davi Alcolumbre, este \u00e9 um dia importante para esta Casa e para o Brasil, em fun\u00e7\u00e3o da aprova\u00e7\u00e3o do PLN 4/19.\r\nMas n\u00f3s n\u00e3o podemos ficar indiferentes em rela\u00e7\u00e3o ao fato ocorrido ontem na cidade de Juiz de Fora, quando a coordenadora do movimento Direita Minas, a jornalista Roberta Lopes, em conversa com o advogado daquele dem\u00f4nio do Ad\u00e9lio Bispo, perguntou a quem interessava esconder o mandante da tentativa de assassinato de Jair Bolsonaro. E ele disse, com todas as letras: \"A pessoa que me pagou\".\r\nPortanto, Sr. Presidente, se algu\u00e9m ainda tinha d\u00favidas de que Ad\u00e9lio n\u00e3o agiu sozinho, agora n\u00e3o tem mais. O pr\u00f3prio advogado dele est\u00e1 reconhecendo, em outras palavras, que h\u00e1, sim, um mandante e que ele est\u00e1 muito interessado. Por isso, est\u00e3o pagando. E, na sequ\u00eancia, ainda diz que grande parte da imprensa est\u00e1 ajudando a custear os seus servi\u00e7os.\r\nUm recado \u00e0 Pol\u00edcia Federal: o Brasil espera, ansiosamente, pela verdade. Ao Ministro Sergio Moro, mais uma vez, as nossas considera\u00e7\u00f5es de admira\u00e7\u00e3o! Hoje, eu o admiro ainda mais, Ministro! O Brasil precisa do senhor!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=13%2F6%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "FRENTE PARLAMENTAR PELA REDU\u00c7\u00c3O DA MAIORIDADE PENAL, INAUGURA\u00c7\u00c3O.\r\nPORTE DE ARMA, LIBERA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL.\r\nSEGURAN\u00c7A P\u00daBLICA, POL\u00cdCIA MILITAR, VALORIZA\u00c7\u00c3O, FAVOR\u00c1VEL, CABO JUNIO AMARAL, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nPOL\u00cdCIA MILITAR, VALORIZA\u00c7\u00c3O, ROMEU ZEMA, GOVERNADOR, MINAS GERAIS, NECESSIDADE.\r\nOPERA\u00c7\u00c3O LAVA A JATO, CORRUP\u00c7\u00c3O, COMBATE, SERGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, EX-JUIZ FEDERAL, DEFESA, MANIFESTA\u00c7\u00c3O P\u00daBLICA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Renova\u00e7\u00e3o da representatividade na C\u00e2mara dos Deputados. Lan\u00e7amento da Frente Parlamentar pela Redu\u00e7\u00e3o da Maioridade Penal. Apoio \u00e0 libera\u00e7\u00e3o do porte de armas de fogo aos cidad\u00e3os brasileiros. Defesa de aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria. Atua\u00e7\u00e3o parlamentar do orador em defesa dos policiais militares e dos demais servidores da \u00e1rea de seguran\u00e7a p\u00fablica. Maior aten\u00e7\u00e3o do Governador do Estado de Minas Gerais, Romeu Zema, para com as demandas dos policiais militares.",
+        "tipoDiscurso": "GRANDE EXPEDIENTE",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Boa tarde a todos os que nos acompanham e a todos os Deputados presentes. Em nome do nosso Deputado Vinicius Poit, cumprimento todos os demais.\r\nDepois de 25 minutos em que tivemos de aguentar esse discurso todo, enfim, \u00e9 a nossa vez de falar. Em regra, eu n\u00e3o gosto muito de fazer uso do texto escrito para me manifestar, mas, quando falamos por 25 minutos, precisamos nos organizar para que as ideias sejam mais bem expostas para ser compreendidas.\r\n\u00c9 uma imensa honra ser representante do Estado de Minas Gerais e, de forma espec\u00edfica, ter a confian\u00e7a de mais de 158 mil eleitores, especialmente neste momento important\u00edssimo em que a C\u00e2mara dos Deputados passa por uma renova\u00e7\u00e3o hist\u00f3rica de Parlamentares.\r\nO povo brasileiro verdadeiramente elegeu a mudan\u00e7a, uma mudan\u00e7a \u00fanica na dire\u00e7\u00e3o pol\u00edtica do Pa\u00eds, e seus efeitos j\u00e1 s\u00e3o sentidos pela primeira vez na hist\u00f3ria da nona Rep\u00fablica, ap\u00f3s o regime militar. A grande imprensa constantemente cobra do Poder Executivo o di\u00e1logo com o Poder Legislativo, e n\u00f3s, Parlamentares, sabemos que a boa vontade entre os poderes \u00e9 algo presente no Brasil. A \u00fanica diferen\u00e7a \u00e9 que, diferentemente de outrora, j\u00e1 n\u00e3o existe mais o sistema mensaleiro de compra irrestrita de apoio.\r\nConsequentemente, \u00e9 natural que a aprova\u00e7\u00e3o de decretos executivos acabem percorrendo um caminho de tramita\u00e7\u00e3o e de di\u00e1logo maior. Esta \u00e9 a maneira como a C\u00e2mara e o Senado deveriam funcionar desde o princ\u00edpio.\r\nO povo brasileiro est\u00e1 \u00e1vido para finalmente ver acontecer o que deveria ser preceito elementar em qualquer democracia do mundo: a preval\u00eancia da vontade popular. Tratando-se da vontade popular, aproveito para informar que na tarde de ontem, nesta Casa, participei como Vice-Presidente da inaugura\u00e7\u00e3o da Frente Parlamentar pela Redu\u00e7\u00e3o da Maioridade Penal. \r\nSe n\u00f3s Congressistas estamos representando o povo, que, n\u00e3o s\u00f3 por ocasi\u00e3o do referendo, mas em qualquer pesquisa de opini\u00e3o, se posiciona entre 80% e 90% a favor da redu\u00e7\u00e3o da maioridade penal, e n\u00f3s representamos este povo, por que at\u00e9 hoje as coisas n\u00e3o mudaram? Por que at\u00e9 hoje vemos marmanjos de 16 anos e de 17 anos cometerem, de forma consciente, barbaridades e destru\u00edrem fam\u00edlias? N\u00f3s n\u00e3o podemos passar estes pr\u00f3ximos 4 anos, ou seja, mais um mandato, sem promover esta mudan\u00e7a t\u00e3o esperada e t\u00e3o clamada pelo povo brasileiro.\r\nInfelizmente, n\u00e3o \u00e9 assim que entendeu o Senado Federal na semana passada, ao derrubar o decreto de armas enviado pelo Presidente Bolsonaro. De longe, esta causa \u00e9 exatamente a mais representativa do povo brasileiro neste momento. Sessenta e tr\u00eas por cento do nosso povo votaram \"n\u00e3o\" \u00e0 restri\u00e7\u00e3o de armas de fogo - foram mais de 59 milh\u00f5es de votos. Para termos ideia da dimens\u00e3o desses n\u00fameros, o hoje presidi\u00e1rio Lula teve uma vota\u00e7\u00e3o recorde em 2002 para a Presid\u00eancia com pouco mais de 39 milh\u00f5es de votos.\r\nN\u00e3o h\u00e1 d\u00favida de que a libera\u00e7\u00e3o do porte de armas foi uma das principais promessas do Presidente Bolsonaro, que conseguiu ser eleito com 57 milh\u00f5es de votos e que, mesmo ap\u00f3s quase ter perdido a vida diante do atentado covarde praticado por um ex-integrante do PSOL, tirou uma foto no hospital fazendo um s\u00edmbolo de uma arma com as m\u00e3os, enquanto os brasileiros clamavam a Deus pela sua vida.\r\nQuantos foram os Senadores e atuais Deputados que colocaram o rosto ao lado do Presidente como forma de ganhar capital pol\u00edtico, mas que agora se negaram a defender o decreto de armas? Eu quero saber quantos ter\u00e3o a coragem de vir \u00e0 tribuna colocar a cara a tapa e dizer que a popula\u00e7\u00e3o de bem deste Pa\u00eds continue desarmada, enquanto os \u00edndices de homic\u00eddio e outros crimes violentos est\u00e3o entre os mais altos do mundo.\r\nCaso resolvam fazer esta tolice, que para mim seria um suic\u00eddio pol\u00edtico, deveriam ter a coer\u00eancia de dispensar os diversos seguran\u00e7as particulares que os seguem por onde v\u00e3o; deveriam deixar de morar em condom\u00ednios superluxuosos, patrulhados 24 horas por vigil\u00e2ncia privada, com vigilantes armados. Quero ver abandonarem o fant\u00e1stico mundo da bolha em que vivem e fazerem como nosso Presidente faz, que anda pelas ruas de peito aberto e olha nos olhos do povo. \r\nComo falou recentemente o Presidente Donald Trump, se as armas estiverem fora da lei, apenas os fora da lei ter\u00e3o armas. Como policial militar, eu sei que a criminalidade n\u00e3o tem dificuldade alguma em conseguir armamento.\r\nJ\u00e1 que estou falando de bandidos, n\u00e3o custa lembrar mais uma vez que foi Lula quem estabeleceu, de maneira arbitr\u00e1ria, o Estatuto do Desarmamento por meio de decreto executivo, mesmo indo frontalmente contra o referendo que ele mesmo havia convocado. O pol\u00edtico que \u00e9 contra o armamento \u00e9 totalmente inimigo da democracia, \u00e9 incompat\u00edvel com o exerc\u00edcio de qualquer cargo p\u00fablico numa Rep\u00fablica. \r\nA vota\u00e7\u00e3o do decreto de armas determinaria se esta Casa Legislativa \u00e9 realmente a Casa do Povo e dos seus representantes por ele eleitos, ou se vivemos ainda numa Rep\u00fablica de mentira, em que o interesse mafioso da elite aristocr\u00e1tica se faz prevalente. Bem, pelo menos de minha parte, meus eleitores podem esperar sempre uma postura coerente e a defesa irrestrita dos seus direitos.\r\nVoto favoravelmente \u00e0 nova Previd\u00eancia, t\u00e3o fundamental que \u00e9 para o futuro do nosso Pa\u00eds, n\u00e3o apenas nas quest\u00f5es referentes \u00e0 aposentadoria, mas para o desenvolvimento vigoroso da nossa economia, para a \u00eanfase necess\u00e1ria na educa\u00e7\u00e3o e na sa\u00fade dos menos favorecidos, que s\u00e3o justamente aqueles para quem tanto falta o mais b\u00e1sico. \r\nEu posso ficar nestas Casa apenas 4 anos, por\u00e9m jamais irei envergonhar meus eleitores. Posso terminar meu mandato sem aprovar um projeto de lei sequer, todavia n\u00e3o irei ceder a forma nojenta nenhuma de fazer pol\u00edtica, que foi respons\u00e1vel pelos maiores esc\u00e2ndalos de corrup\u00e7\u00e3o na hist\u00f3ria do mundo.\r\nComo estou falando sobre os eleitores e sobre nossa representatividade nesta Casa, grande parte dos meus eleitores s\u00e3o verdadeiros her\u00f3is, por\u00e9m ainda pouco reconhecidos neste Pa\u00eds. Refiro-me aos policiais militares, em especial aos de Minas Gerais, e aos demais servidores da seguran\u00e7a p\u00fablica. Por eles, eu estou sempre disposto a lutar at\u00e9 meu esfor\u00e7o m\u00e1ximo. Em menos de 6 meses de mandato, j\u00e1 fiz dezenas de pedidos e solicita\u00e7\u00f5es, objetivando a melhoria da qualidade de vida da tropa e de alguns membros tamb\u00e9m, em particular os que est\u00e3o sofrendo com problemas espec\u00edficos. \r\n O Comandante-Geral tem recebido a todos, mas, infelizmente, pouca evolu\u00e7\u00e3o temos alcan\u00e7ado. Como \u00e9 grande minha frustra\u00e7\u00e3o quando encontro alguma dificuldade na hora de interceder pelos direitos e pela qualidade de vida dos militares! At\u00e9 hoje, tenho tratado dos problemas da caserna que t\u00eam chegado at\u00e9 mim com total serenidade e discri\u00e7\u00e3o. Por\u00e9m, anuncio que, ap\u00f3s reuni\u00e3o com o Secret\u00e1rio de Seguran\u00e7a P\u00fablica de Minas Gerais, o General M\u00e1rio de Ara\u00fajo, minha postura ir\u00e1 mudar. Infelizmente, ap\u00f3s apresentar problemas seri\u00edssimos, algumas demandas pessoais de colegas, ele diz que devo tratar apenas de assuntos gen\u00e9ricos. Acontece, Sr. M\u00e1rio, que \u00e9 por problemas particulares que hoje o \u00edndice de suic\u00eddio entre policiais militares \u00e9 superior ao n\u00famero de mortes em combate, sem esquecer que a pol\u00edcia brasileira \u00e9 a que mais morre em combate no mundo. Ent\u00e3o, \u00e9 claro que o problema epid\u00eamico do suic\u00eddio de PMs no Brasil, falando mais especificamente de Minas Gerais, \u00e9 grav\u00edssimo e envolve fatores gen\u00e9ricos e particulares.\r\nPortanto, eu sei que estou fazendo, sim, meu papel quando denuncio o problema gen\u00e9rico do fim da escala de 12 horas de servi\u00e7o, pois a nova abordagem pode gerar um n\u00famero ainda maior de suic\u00eddios. Afinal, por mais que um servi\u00e7o seja longo, na escala de 12 horas o policial costuma trabalhar um dia e, no outro, ficar com sua fam\u00edlia, o que \u00e9 fundamental para sua recupera\u00e7\u00e3o f\u00edsica e mental. J\u00e1 em escalas menores, o empenho di\u00e1rio \u00e9 prolongado e, com isso, por menor que seja a quantidade de horas trabalhadas, a exposi\u00e7\u00e3o a situa\u00e7\u00f5es de estresse, bem como o tempo gasto em deslocamento prejudicar\u00e3o a sa\u00fade e o desempenho da tropa.\r\nNo entanto, estou igualmente fazendo meu papel quando falo do caso particular do Cabo Selera, do GER da 2\u00aa Regi\u00e3o, que est\u00e1 sofrendo muito em decorr\u00eancia da morte de sua m\u00e3e, que ap\u00f3s meses de uma sofrida interna\u00e7\u00e3o hospitalar, veio a falecer. Este militar solicitou licen\u00e7a-pr\u00eamio, para se recuperar. Infelizmente, pela insensibilidade - se este n\u00e3o \u00e9 fato extraordin\u00e1rio, o que ser\u00e1? -, o pedido foi indeferido. Meu pedido foi no sentido de que se olhasse com humanidade para a causa deste militar. Ele, mesmo assim, foi obrigado a trabalhar sem estar em condi\u00e7\u00f5es emocionais para tal.\r\nEu cheguei a pensar em n\u00e3o falar, mas n\u00e3o tem como n\u00e3o faz\u00ea-lo. Quero dizer ao Coronel Eduardo, da 2\u00aa Regi\u00e3o, que \u00e9 conhecido por muitos - eu o conheci somente agora, recentemente, pelo que tem acontecido - como algu\u00e9m sistem\u00e1tico, de poucas palavras. Mas, com poucas palavras, Coronel Eduardo, o senhor menosprezar este pedido enviado a V.Sa., dizendo que este cabo que est\u00e1 Parlamentar est\u00e1 querendo ser P1 do Estado Maior da Pol\u00edcia Militar de Minas Gerais?! Eu n\u00e3o quero, n\u00e3o, Sr. Coronel!\r\nCoronel Eduardo, o que eu quero \u00e9 que V.Sa. trate com o m\u00ednimo de dignidade seus subordinados. Quando V.Sa. tiver de falar deste Parlamentar, da atua\u00e7\u00e3o dele e da solicita\u00e7\u00e3o dele, tenha a mesma dignidade que eu tenho de estar falando publicamente ou olhe nos meus olhos: fale comigo, fale com esta autoridade federal, fale com este representante de poder. V.Sa. pode querer nos menosprezar e nos descredenciar, mas o senhor sabe que n\u00f3s fomos eleitos exatamente para cuidar dos nossos irm\u00e3os. Nosso of\u00edcio foi enviado com todo o respeito. \r\nParece-me, contudo, que esta express\u00e3o n\u00e3o cabe no vocabul\u00e1rio de V.Sa., diante das coisas que andou falando nos corredores da 2\u00aa Regi\u00e3o acerca deste Deputado Federal Cabo Junio Amaral.\r\nSecret\u00e1rio de Seguran\u00e7a, eu estou igualmente certo quando falo do caso do soldado Pedro, que passa mais de 14 horas por dia paralisado numa cama, em vista do s\u00e9rio problema de coluna que tem, mas, mesmo sem ter condi\u00e7\u00f5es, foi obrigado a trabalhar. Hoje a pol\u00edcia finalmente reconheceu sua doen\u00e7a, mas n\u00e3o lhe deu o direito de aposentadoria integral. O militar sacrificou a sa\u00fade durante os 6 ou 7 anos de atividade operacional e, quando n\u00e3o teve mais utilidade para a institui\u00e7\u00e3o, foi descartado. Recebe o sal\u00e1rio, hoje em torno de 800 reais, valor que nem sequer paga seus medicamentos. Al\u00e9m disso, tem que se submeter a visitas constrangedoras da P2 a sua casa, para saber se ele est\u00e1 ou n\u00e3o mentindo, mesmo depois de ter feito dez cirurgias na coluna.\r\nTenho que falar do problema gen\u00e9rico, das muitas dificuldades que a tropa enfrenta na hora de conseguir coisas pequenas, como trocas de servi\u00e7o. Isso \u00e9 fundamental para a recupera\u00e7\u00e3o fisiol\u00f3gica dos seus membros. Mas estou igualmente certo ao expor o caso particular do cabo Felipe e do soldado Delfino, de Ouro Preto, que, durante uma troca de tiros na cidade, mataram um traficante para defenderem suas vidas e a sociedade. Ao inv\u00e9s de receberem uma medalha pelo excelente servi\u00e7o, uma medalha imediata - para mim, todo policial deveria ser condecorado desta forma em situa\u00e7\u00f5es semelhantes -, tiveram que ficar presos durante 3 dias, esperando uma manifesta\u00e7\u00e3o de boa vontade.\r\nFalei do caso gen\u00e9rico, do absurdo do Memorando Circular n\u00ba 10.193, de 6 de maio, que prejudicou boa parte da tropa, ao vedar as f\u00e9rias de todos os militares no m\u00eas de junho, em decorr\u00eancia da Copa Am\u00e9rica. Esta foi uma decis\u00e3o arbitr\u00e1ria, absurda, que demonstra grande falta de planejamento. Lembro tamb\u00e9m o caso particular da cabo Renata, que trabalhou comigo no 34\u00ba Batalh\u00e3o. Eu soube do caso dela por meio de outro militar. Ao ser absolvida na Justi\u00e7a - repito, absolvida na Justi\u00e7a -, a cabo foi reintegrada \u00e0 institui\u00e7\u00e3o Pol\u00edcia Militar de Minas Gerais. Entretanto, como esta institui\u00e7\u00e3o deve ser mais preparada para julgar do que a pr\u00f3pria Justi\u00e7a, o que ela fez? Transferiu sumariamente a militar para um lugar distante 300 quil\u00f4metros de sua casa, separando-a de sua fam\u00edlia, do seu conv\u00edvio familiar, o que lhe causou grandes transtornos. Ela foi absolvida na Justi\u00e7a, foi reintegrada \u00e0 institui\u00e7\u00e3o, mas, por azar, v\u00e3o puni-la aqui tamb\u00e9m.\r\nGeneral M\u00e1rio Ara\u00fajo, Secret\u00e1rio de Seguran\u00e7a P\u00fablica de Minas Gerais, cuidado ao medir com a sua r\u00e9gua torta as a\u00e7\u00f5es das outras pessoas! Eu defendo, sim, casos particulares de irm\u00e3os policiais e tenho muito orgulho de faz\u00ea-lo, porque sei que \u00e9 isso que est\u00e1 deixando a tropa cada vez mais doente, \u00e0 falta de pessoas para brigarem por este problema t\u00e3o pequeno, \u00e0s vezes, para a institui\u00e7\u00e3o, mas grandioso e de relev\u00e2ncia imensur\u00e1vel para a vida dos servidores. Se dependesse apenas de mim, com toda a certeza, ajudaria a todos.\r\nRespeite a Pol\u00edcia Militar, General, pois s\u00e3o nossos combatentes que asseguraram sua liberdade diante das bobagens que o senhor me disse no dia da nossa reuni\u00e3o! \u00c9 esta a indiferen\u00e7a do senhor em rela\u00e7\u00e3o ao sistema de seguran\u00e7a p\u00fablica de Minas Gerais, quando deixa de reconhecer uma legisla\u00e7\u00e3o estadual em que os agentes socioeducativos t\u00eam, sim, o direito, em Minas Gerais, de portar arma de fogo, quando, na minha frente e na frente do Deputado Bruno aqui, afirmou que s\u00f3 cumpriria esta lei caso existisse uma determina\u00e7\u00e3o judicial. \r\nSer\u00e1 que o senhor entende um pouquinho para que serve o Poder Legislativo? \r\nO senhor disse: \"Eu sou obrigado a reconhecer o porte, mas n\u00e3o sou obrigado a emitir o porte. Eles que procurem a Pol\u00edcia Federal, como qualquer cidad\u00e3o, para emitir o seu porte, e depois tragam aqui, que a gente reconhece\".\r\nN\u00e3o \u00e9 assim que as coisas funcionam, General. Se o senhor quer tratar mesmo, suponho que essa sua postura de arbitrariedade deveria ser sua postura no ambiente militar quando na ativa. N\u00e3o \u00e9 poss\u00edvel que o senhor tenha vivido tanto tempo, mas n\u00e3o tenha aprendido a respeitar as leis! O senhor quer tratar as coisas somente na arbitrariedade.\r\nCaminhando para o encerramento, Sr. Presidente, quero fazer um apelo ao Governador Romeu Zema. Governador, o senhor sabe que ainda goza do meu apre\u00e7o. O senhor sabe como confiamos na sua pessoa, por ocasi\u00e3o da campanha eleitoral em que 70% dos eleitores de Minas Gerais confiaram no senhor. Acredito no senhor, apesar do caos financeiro por que o Estado est\u00e1 passando, apesar de todas as dificuldades financeiras para pagar ao servidor p\u00fablico, para contratar servidor da seguran\u00e7a, apesar do adiamento do \u00faltimo concurso da Pol\u00edcia Militar de Minas Gerais, entre outros preju\u00edzos.\r\nGrande parte do povo compreende, Governador! H\u00e1 coisas que realmente \u00e9 imposs\u00edvel resolver a curto prazo, mas, com um pouquinho de sensibilidade, um pouquinho de trato para com a coisa p\u00fablica, \u00e9 poss\u00edvel direcionar as institui\u00e7\u00f5es de seguran\u00e7a p\u00fablica de Minas Gerais e da Pol\u00edcia Militar, dando condi\u00e7\u00f5es humanas a esses servidores!\r\nConcedo um aparte ao Deputado Bibo Nunes. Fique \u00e0 vontade.\r\nO Sr. Bibo Nunes - Inicialmente, cumprimento V.Exa., Deputado Amaral, pelo belo trabalho em prol da seguran\u00e7a de Minas Gerais. Conte com toda a nossa solidariedade. O Estado de Minas Gerais sofre com o caso de Brumadinho. A seguran\u00e7a \u00e9 vital em todo o Pa\u00eds. A preocupa\u00e7\u00e3o de V.Exa. com a seguran\u00e7a em Minas Gerais, pelo seu conhecimento e expertise e pelo que faz pela seguran\u00e7a, s\u00f3 me faz congratular V.Exa. e dizer que Minas Gerais tem um excelente Parlamentar na C\u00e2mara dos Deputados.\r\nO SR. CABO JUNIO AMARAL (PSL - MG) - Obrigado, meu irm\u00e3o, Deputado Bibo Nunes. A rec\u00edproca \u00e9 verdadeira com rela\u00e7\u00e3o aos irm\u00e3os no Rio Grande do Sul e \u00e0 sua presen\u00e7a nesta Casa.\r\nPara encerrar, Governador Romeu Zema, olhe pelos militares! Isso n\u00e3o custa um real, Governador. N\u00f3s compreendemos a situa\u00e7\u00e3o do Estado, mas isso n\u00e3o custa um real. D\u00ea aten\u00e7\u00e3o aos militares! O sistema de transfer\u00eancias da Pol\u00edcia Militar de Minas Gerais \u00e9 obscuro. Em outra oportunidade, vamos falar sobre isso tamb\u00e9m.\r\nAproveito os \u00faltimos minutos que me restam para direcionar nossa aten\u00e7\u00e3o aos nossos demais eleitores, n\u00e3o s\u00f3 os ligados \u00e0 seguran\u00e7a, mas todos aqueles que confiaram naquele jovem coordenador da Direita Minas, que fez campanha com uma grande ferramenta que s\u00e3o as redes sociais, que fez campanha sem dinheiro, que buscou falar a verdade, que n\u00e3o fez nenhuma promessa espec\u00edfica, que n\u00e3o teve o nome de um vereador ou de um prefeito para levantar nosso nome no Estado, mas olhou para o povo mineiro nos olhos.\r\nA todos voc\u00eas conservadores de Minas Gerais, cumpridores dos deveres, pessoas de bem, obrigado! Quanto \u00e0 confian\u00e7a que me deram por ocasi\u00e3o das elei\u00e7\u00f5es em 2018, n\u00f3s podemos at\u00e9 discordar de um ou outro ponto durante os pr\u00f3ximos 3 anos e meio que ainda nos restam, mas tenham a certeza de que os senhores jamais se sentir\u00e3o envergonhados deste Parlamentar que lhes fala.\r\nEu n\u00e3o importo, mas, se for da vontade de Deus, vamos ficar apenas esses 4 anos. Para mim, vale muito minha palavra. Tudo o que eu falei, tudo o que eu preguei em campanha, todos os nossos compromissos, tudo o que propusemos vamos executar aqui. Pode ser que os resultados n\u00e3o sejam da forma como gostar\u00edamos porque o sistema \u00e9, de fato, muito mais complexo do que imagin\u00e1vamos no momento anterior ao da elei\u00e7\u00e3o. Por\u00e9m, nossa postura vai se manter como foi proposta, e nenhum dos senhores sentir\u00e1 vergonha da confian\u00e7a que nos foi depositada.\r\nMuito obrigado a todos os mineiros. Fiquem \u00e0 vontade para sugerir, reclamar, cobrar. Participem cada vez mais da pol\u00edtica. \u00c9 a participa\u00e7\u00e3o que vai mudar os rumos do nosso Pa\u00eds. N\u00e3o confiem apenas nos seus representantes. Monitorem, fiscalizem o tempo todo!\r\nEspecificamente em Minas Gerais, teremos as manifesta\u00e7\u00f5es no pr\u00f3ximo dia 30 de junho, no pr\u00f3ximo domingo, na Pra\u00e7a da Liberdade. N\u00f3s vamos, de novo, nos reunir para falar sobre a reforma da Previd\u00eancia, para defender a Opera\u00e7\u00e3o Lava-Jato, para defender o Pacote Anticrimes, para reduzirmos muito esta sensa\u00e7\u00e3o de impunidade, a permissividade do \"tudo pode\". Isso tem que acabar \"para ontem\".\r\nNossa parte n\u00f3s temos que fazer, n\u00e3o apenas como Parlamentares, mas tamb\u00e9m o povo. Temos que cobrar, cobrar e cobrar. No pr\u00f3ximo domingo, em Belo Horizonte, na Pra\u00e7a da Liberdade, \u00e0s 10 horas da manh\u00e3, juntos, faremos um Brasil diferente.\r\nComo nosso Presidente muito bem disse, eu gosto de parafrase\u00e1-lo: \"Vamos colocar, sim, o Brasil, enfim, acima de tudo\".\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T14:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DAVIDSON CARVALHO DE ALMEIDA, POLICIAL MILITAR, JEQUITA\u00cd (MG), HOMIC\u00cdDIO, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Assassinato do policial militar Davidson Carvalho de Almeida durante a\u00e7\u00e3o de combate ao crime, no Munic\u00edpio de Jequita\u00ed, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, neste momento importante para o Brasil, um momento de conquistas, h\u00e1 tamb\u00e9m derrotas. Quero aproveitar este tempo para falar de um her\u00f3i an\u00f4nimo que, nesta madrugada, no Estado de Minas Gerais, mais precisamente na cidade de Jequita\u00ed, no cumprimento do seu dever, envolto por uma farda da Pol\u00edcia Militar de Minas Gerais, em defesa da sociedade, que n\u00e3o reconhece seu trabalho de enfrentar criminosos, foi baleado na cabe\u00e7a. O Cabo Davidson, de 33 anos, deixa esposa e um filho rec\u00e9m-nascido.\r\nQuero deixar aqui o meu lamento por esse Estado, que \u00e9 conhecido mundialmente como o Estado da impunidade. E quero deixar aqui uma reflex\u00e3o: quero saber quem tem coragem de procurar neste momento a vi\u00fava do Cabo Davidson, olhar para ela e dizer que ela \u00e9 uma privilegiada e que o seu marido...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. CABO JUNIO AMARAL (PSL - MG) - Pe\u00e7o s\u00f3 mais 10 segundos, Presidente.\r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - Espere s\u00f3 um momentinho, Deputado Helder Salom\u00e3o.\r\nO SR. CABO JUNIO AMARAL (PSL - MG) - Eu quero saber qual \u00e9 o internauta que neste momento coloca a hashtag #PSLtraidor que vai ter coragem de olhar para a vi\u00fava do Cabo Davidson e dizer que ele \u00e9 um privilegiado.\r\nTriste \u00e9 a na\u00e7\u00e3o que n\u00e3o reconhece os seus her\u00f3is!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=122&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T13:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CABO JUNIO AMARAL, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, MUNICIPIO, MINAS GERAIS.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Relato da visita do orador a Munic\u00edpios do Estado do Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, nos \u00faltimos dias do recesso, estive viajando pelo meu Estado de Minas Gerais, conhecendo cidades e realidades que ainda n\u00e3o havia tido a oportunidade de conhecer. \r\nEu quero agradecer a todas as cidades por que passei a recep\u00e7\u00e3o que tive. \u00c9 no m\u00ednimo curioso ouvir, Deputado Sanderson, as pessoas que nos recebem nas cidades dizerem: \"Passaram-se pouco mais de 6 meses das elei\u00e7\u00f5es e voc\u00ea est\u00e1 aqui rodando. N\u00f3s estamos acostumados a ver pol\u00edticos 6 meses antes das elei\u00e7\u00f5es\". At\u00e9 nesses detalhes n\u00f3s temos que quebrar paradigmas em se tratando daquilo de que o povo tem de consci\u00eancia em rela\u00e7\u00e3o aos pol\u00edticos e \u00e0 pol\u00edtica. \r\nEu cito diversas cidades que visitei. \u00c9 claro que vou esquecer algumas, pois foram mais de 20, entre elas, Mendes Pimentel, S\u00e3o F\u00e9lix de Minas, Divino das Laranjeiras, Dom Cavati, Jo\u00e3o Monlevade, Itabira. \r\nMuitos pol\u00edticos, principalmente os de esquerda, trataram o Vale do Jequitinhonha como o Vale da Mis\u00e9ria. Na verdade, eu vi o Vale da esperan\u00e7a, o Vale da riqueza e, sim, o Vale da oportunidade desses pol\u00edticos, porque n\u00e3o cabe mais se aproveitar do desconhecimento e da desinforma\u00e7\u00e3o de pessoas da regi\u00e3o para simplesmente fazer proselitismo pol\u00edtico. Al\u00e9m de conhecer a regi\u00e3o, fui levar informa\u00e7\u00e3o, conversar e trazer conhecimento tamb\u00e9m. \r\nCito a comunidade de Leliveldia, em Berilo, as cidades de Jequitinhonha, Felisburgo, Almenara, Joa\u00edma e, no retorno, Senador Modestino Gon\u00e7alves, onde conheci o Prefeito, com sua disposi\u00e7\u00e3o em quebrar paradigmas e dar uma nova realidade de gest\u00e3o p\u00fablica.\r\nNo fim de semana, visitei Santana de Pirapama, no centro-oeste de Minas, passei por Joatuba, Concei\u00e7\u00e3o do Par\u00e1, Divin\u00f3polis, o Hospital S\u00e3o Jo\u00e3o de Deus, que tanto precisam da aten\u00e7\u00e3o do poder p\u00fablico, al\u00e9m de Lagoa da Prata e Perdig\u00e3o. Estas coisas s\u00e3o muito importantes para minha bagagem de conhecimento, para saber por onde caminhar, principalmente n\u00f3s, de primeiro mandato. N\u00f3s precisamos conhecer a realidade dos Munic\u00edpios. \r\nPortanto, fica meu agradecimento a esses Munic\u00edpios, diante de toda a recep\u00e7\u00e3o que tive nesses dias de recesso. \r\nGostaria de dizer aos demais que vamos conhecer todo o Estado. Infelizmente, eu n\u00e3o sou onipresente e n\u00e3o vou conseguir faz\u00ea-lo nos 850 Munic\u00edpios em que recebi votos, mas quero estar em cada regi\u00e3o, ainda que n\u00e3o presencialmente. As portas do nosso gabinete estar\u00e3o abertas para receber as demandas, as sugest\u00f5es e as reclama\u00e7\u00f5es. \r\nVamos colocar o Brasil acima de tudo!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T23:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 um momento hist\u00f3rico para este Pa\u00eds, o que nenhum outro Parlamento fez e o que nenhum outro Governo fez. N\u00f3s vamos aprovar a reforma da Previd\u00eancia.\r\nO PSL orienta, no m\u00e9rito, o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=451&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre com\u00e9rcio e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL deixa claro aos brasileiros que o PSOL, que tem o nome liberdade na sua sigla, n\u00e3o sabe nada de liberdade e est\u00e1 dizendo ao trabalhador - a voc\u00ea que quer liberdade para trabalhar, empreender, abrir o seu carrinho de cachorro-quente, abrir o seu sal\u00e3o -, que ele n\u00e3o pode fazer isso, que o Estado tem que continuar amarrando e sufocando o trabalhador.\r\nO PSL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=226&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, DEFINI\u00c7\u00c3O, CRIME, ABUSO DE AUTORIDADE, APRECIA\u00c7\u00c3O, CONTR\u00c1RIO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Exiguidade do tempo de discuss\u00e3o do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00e3o tenho outra forma de me manifestar em rela\u00e7\u00e3o a esse projeto sen\u00e3o corroborando o que alguns outros Deputados j\u00e1 falaram sobre o tempo curto de discuss\u00e3o.\r\nNeste Pa\u00eds, onde j\u00e1 \u00e9 desestimulante a atividade policial, como eu vou votar a favor de se obrigar o policial a se identificar no momento de uma abordagem e de se criminalizar essa conduta? Estou imaginando a cena em que eu, como policial militar, abordo um traficante, um assaltante de banco, e no momento da abordagem ele vira para mim e pergunta: \"Qual \u00e9 o seu nome, policial? Eu sei que \u00e9 crime o senhor n\u00e3o se identificar\".\r\nE, mais do que isso, qual \u00e9 o crit\u00e9rio para saber se deve ser usada algema ou n\u00e3o? J\u00e1 chegam as resolu\u00e7\u00f5es do Conselho de Seguran\u00e7a Nacional - CSN falando a respeito disso. N\u00f3s vamos criminalizar o servi\u00e7o policial no Brasil?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=252&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, BASE DE APOIO POLITICO, GOVERNO, VOTO CONTRARIO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 4\u00ba do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, mais uma vez, fa\u00e7o um apelo a esta Casa.\r\nEm 2018, a popula\u00e7\u00e3o brasileira fez um clamor contr\u00e1rio ao que est\u00e1 acontecendo aqui. Ningu\u00e9m aguenta mais vida facilitada para marginal. Est\u00e3o usando argumento aqui para inibir a\u00e7\u00e3o exacerbada de juiz, de Minist\u00e9rio P\u00fablico. Mas, na verdade, isso vai prejudicar os policiais nas ruas. O crime est\u00e1 sendo facilitado aqui, nesta noite. N\u00f3s n\u00e3o podemos cometer esse erro.\r\nFa\u00e7o um apelo: chega de inviabilizar a atividade policial! O policial n\u00e3o pode ser marginalizado como est\u00e1 sendo neste Pa\u00eds.\r\nO Governo orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=257&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-15T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, DEFINI\u00c7\u00c3O, CRIME, ABUSO DE AUTORIDADE, POLICIA, VETO PRESIDENCIAL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Penaliza\u00e7\u00e3o dos policiais brasileiros pelo Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade. Conveni\u00eancia de aposi\u00e7\u00e3o de veto presidencial \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CABO JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Brasil, eu nunca imaginaria uma situa\u00e7\u00e3o t\u00e3o contradit\u00f3ria como a que assisti ontem aqui: aprovar-se uma lei de abuso de autoridade abusando-se da pr\u00f3pria autoridade. No prim\u00e1rio, aprendi a contar, e s\u00f3 quem n\u00e3o quis ver n\u00e3o reconhece que 31 bra\u00e7os estavam estendidos aqui, ontem, naquele momento da solicita\u00e7\u00e3o de vota\u00e7\u00e3o nominal.\r\nNa verdade, quero dar enfoque aos termos que foram aprovados nesta Casa. Como falei hoje na Comiss\u00e3o de Seguran\u00e7a, n\u00e3o vou me estender muito em rela\u00e7\u00e3o \u00e0 atua\u00e7\u00e3o do Poder Judici\u00e1rio e do Minist\u00e9rio P\u00fablico. N\u00e3o \u00e9 uma \u00e1rea em que atuei, mas, como policial militar, afirmo com toda a tranquilidade que estamos criminalizando a atua\u00e7\u00e3o policial no Brasil. \r\n\u00c9 dif\u00edcil executar a atividade de seguran\u00e7a p\u00fablica com qualidade. E, na verdade, n\u00e3o se executa com qualidade por incompet\u00eancia ou por m\u00e1 vontade dos servidores, mas porque a nossa legisla\u00e7\u00e3o \u00e9 desestimulante. Ela j\u00e1 criminaliza! O crime de tortura n\u00e3o \u00e9 s\u00f3 uma sacolada na cara do bandido. N\u00e3o \u00e9 apenas isso! N\u00e3o se limita a isso! O crime de tortura, \u00e0 luz do nosso ordenamento jur\u00eddico, tamb\u00e9m se estende \u00e0 tortura psicol\u00f3gica. Ou seja, subjetivamente, quando o policial, no intuito de reconquistar os bens da v\u00edtima, pergunta ao bandido \"onde est\u00e3o os bens que foram subtra\u00eddos?\", se aquela pergunta for interpretada como amea\u00e7adora, se o bandido declarar que sentiu medo ou pavor naquele momento, isso tamb\u00e9m ser\u00e1 tortura. A partir da\u00ed, j\u00e1 se exclui o policial do servi\u00e7o ativo. \r\nE agora temos as aberra\u00e7\u00f5es que foram encaminhadas aqui ontem, como criminalizar o uso de algema e o registro de imagens do bandido. N\u00f3s n\u00e3o estamos falando da v\u00edtima; estamos falando do bandido! Outras aberra\u00e7\u00f5es: responsabilizar o policial inclusive pelo registro de imagens de terceiros no local do crime e colocar o agente p\u00fablico reincidente nessas condutas no olho da rua. No mesmo dia, de acordo com as minhas convic\u00e7\u00f5es de risco, posso algemar duas vezes algu\u00e9m e, \u00e0 luz dessa legisla\u00e7\u00e3o, estar cometendo crime. E essas duas vezes v\u00e3o, sim, colocar o policial no olho da rua. Atualmente, j\u00e1 \u00e9 muito dif\u00edcil executar a atividade policial. \r\nO crime aqui compensa! Todo mundo sabe que o crime compensa, e agora vai compensar ainda mais. Eu n\u00e3o fa\u00e7o parte disso, Deputado Subtenente Gonzaga! Agrade\u00e7o a V.Exa. a luta ontem, neste plen\u00e1rio, com outros poucos. \r\nAqui fica o meu apelo ao povo brasileiro! N\u00e3o est\u00e1 sendo respeitada a opini\u00e3o e a vontade dos senhores nesta Casa, como aconteceu ontem. Precisamos nos levantar e impedir que outros absurdos como esse aconte\u00e7am nesta Casa. Espero, sim, que o Presidente vete por inteiro o projeto! Quando o projeto retornar a esta Casa, vamos pedir vota\u00e7\u00e3o nominal e mostrar quem tem maior interesse nessa vota\u00e7\u00e3o. \r\nUm grande abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F8%2F2019&txPagina=29&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 5.029, de 2019, (11.021-B, de 2018, na C\u00e2mara dos Deputados), a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL est\u00e1 em obstru\u00e7\u00e3o. Quero dizer aqui que, na verdade, esse requerimento para adiantamento da vota\u00e7\u00e3o deveria ser para adiar por eterno. Temos que entender de vez a necessidade de representar os anseios do povo. \r\nCarlos Drummond de Andrade j\u00e1 dizia que \"democracia no Brasil \u00e9 o povo acreditar que est\u00e1 sendo representando\". E hoje eu consigo compreender isso de forma muito mais pr\u00f3xima da realidade. N\u00e3o d\u00e1 para continuarmos nessa postura de indiferen\u00e7a aos anseios do povo.\r\nPor isso estamos obstruindo, mas, na verdade, expressando um sentimento de indigna\u00e7\u00e3o e insatisfa\u00e7\u00e3o por estar vendo a vontade do povo ser tratada com essa indiferen\u00e7a.\r\nPortanto, reafirmando, o PSL est\u00e1 em obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=163&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA SUPRESSIVA, SENADO FEDERAL, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, ECONOMIA, TAXA DE JUROS, IMPOSTO DE IMPORTA\u00c7\u00c3O, MEDICAMENTO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal supressiva do art. 11 da Lei n\u00ba 9.504, de 1997, alterado pelo art. 2\u00ba \r\ndo Projeto de Lei n\u00ba 5.029-C, de 2019, (n\u00ba 11.021, de 2018, na C\u00e2mara dos Deputados), a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Presidente, senhores, esse destaque do PSL corresponde \u00e0 discord\u00e2ncia acerca dessa previs\u00e3o de que os candidatos considerados ineleg\u00edveis possam concorrer \u00e0s elei\u00e7\u00f5es.\r\nN\u00f3s estamos nos aproximando das 23 horas de um dia de muito trabalho. \u00c9 impressionante como nos dias em que mais trabalhamos aqui, Deputado Coronel Tadeu, mais vamos na contram\u00e3o daquilo que o povo anseia. Aconteceu com praticamente tudo o que estamos discutindo aqui hoje. Agora vamos regredir nesse n\u00edvel?\r\nA Lei Complementar n\u00ba 135, de 2010, \u00e9 de iniciativa popular. Pensem no qu\u00e3o dif\u00edcil \u00e9 conseguirmos aprovar uma lei de iniciativa popular! Hoje, n\u00f3s estamos querendo relativizar isso tamb\u00e9m, como se n\u00e3o bastasse essa discuss\u00e3o do fundo eleitoral, essa tentativa de usar ainda mais de modo discricion\u00e1rio o Fundo Partid\u00e1rio, de dar mais poder em todos os sentidos aos partidos pol\u00edticos. Isso est\u00e1 na contram\u00e3o do que o povo quer.\r\nEsta Casa, ou melhor dizendo, esta legislatura tem a oportunidade de fazer hist\u00f3ria, e n\u00f3s estamos vendo, vota\u00e7\u00e3o ap\u00f3s vota\u00e7\u00e3o, a maioria ir contra a vontade do povo. Eu preciso deixar clara a minha manifesta\u00e7\u00e3o de que eu n\u00e3o fa\u00e7o parte disso. E eu tenho certeza de que dezenas, em alguns casos centenas, de Deputados tamb\u00e9m est\u00e3o se posicionando contra o que est\u00e1 acontecendo aqui nesta noite.\r\nAproveito o nosso tempo para destacar que, apesar de todos os ataques da imprensa e do n\u00e3o reconhecimento de todo o esfor\u00e7o que tem sido feito pelo Governo Bolsonaro, n\u00f3s estamos avan\u00e7ando. Chegamos hoje \u00e0 menor taxa b\u00e1sica de juros da hist\u00f3ria. E qual \u00e9 a repercuss\u00e3o disso, Deputado Charlles Evangelista? Zero de imposto para a importa\u00e7\u00e3o de medicamentos de combate ao c\u00e2ncer e \u00e0 AIDS. Qual \u00e9 a repercuss\u00e3o disso? As medidas est\u00e3o sendo diariamente tomadas em conson\u00e2ncia com o cora\u00e7\u00e3o do brasileiro pelo Governo Bolsonaro. E, mesmo assim, ataque ap\u00f3s ataque, o que repercute \u00e9 o que \u00e9 simpl\u00f3rio, o que \u00e9 desnecess\u00e1rio.\r\nDeixo aqui a minha manifesta\u00e7\u00e3o.\r\nParabenizo o Governo Bolsonaro. N\u00f3s estamos avan\u00e7ando. Enquanto os c\u00e3es ladram, a caravana passa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=353&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DO DESARMAMENTO, CERTIFICADO DE REGISTRO DE ARMA DE FOGO, POSSE DE ARMA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Defesa da flexibiliza\u00e7\u00e3o do porte e da posse de armas de fogo no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em meio a essa discuss\u00e3o sobre a facilita\u00e7\u00e3o do acesso do povo brasileiro \u00e0s armas - \u00e9 claro, h\u00e1 algumas categorias a\u00ed -, eu acho que \u00e9 um grande retrocesso retirarmos categorias neste momento, categorias que dependem tanto de exercerem apenas o direito essencial \u00e0 leg\u00edtima defesa. S\u00e3o agentes socioeducativos, entre outros, que est\u00e3o sendo deixados de lado neste momento, ou pelo menos h\u00e1 uma tentativa nesse sentido. \u00c9 o que me parece.\r\nN\u00e3o podemos ir por esse caminho. A Esquerda est\u00e1 batendo na tecla de que mais armas significam mais viol\u00eancia, como se isso fosse uma regra. \u00c9 mentira! Pelo contr\u00e1rio! Os n\u00fameros mostram isso neste Pa\u00eds. Chegamos a 1 milh\u00e3o de armas regulamentadas, e chegamos a esta marca hist\u00f3rica: redu\u00e7\u00e3o, em 1 ano, de quase 24% do n\u00famero de homic\u00eddios. Essa argumenta\u00e7\u00e3o, portanto, cai por terra. \u00c9 hora de avan\u00e7armos.\r\nAcesso do povo \u00e0s armas j\u00e1!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=195&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SUPREMO TRIBUNAL FEDERAL, (STF), CONTRA, PRIS\u00c3O, CONDENA\u00c7\u00c3O, SEGUNDA INST\u00c2NCIA, LIBERTA\u00c7\u00c3O, CRIMINOSO, PROTESTO, MINAS GERAIS.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Indigna\u00e7\u00e3o do povo do Estado de Minas Gerais com a decis\u00e3o da Justi\u00e7a favor\u00e1vel \u00e0 soltura de criminoso.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Obrigado, Presidente. Quero s\u00f3 aproveitar para dizer, nesta segunda-feira at\u00edpica no Congresso, que n\u00e3o h\u00e1 como n\u00e3o repercutir o fato lament\u00e1vel que aconteceu na \u00faltima semana: vimos o maior bandido da hist\u00f3ria do Pa\u00eds voltar \u00e0s ruas.\r\nO povo brasileiro est\u00e1 numa indigna\u00e7\u00e3o indescrit\u00edvel! Como representante dos mineiros, eu n\u00e3o poderia deixar de manifestar aqui essa indigna\u00e7\u00e3o. \u00c9 revoltante! O Pa\u00eds da impunidade, que dava sinais de estar caminhando em sentido contr\u00e1rio, d\u00e1 essa demonstra\u00e7\u00e3o de desapre\u00e7o por justi\u00e7a. \r\nEst\u00e1 dizendo, o criminoso, que vai rodar pelo Pa\u00eds. Digo a ele para correr o risco de ir a Minas Gerais, terra de gente honrada, para ver como ser\u00e1 recebido: como o maior criminoso da hist\u00f3ria do Pa\u00eds. \r\nTe espero l\u00e1, viu, criminoso?!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORONEL TADEU, DEPUTADO FEDERAL, RACISMO, POLICIA, HOMICIDIO, NEGROS, EXPOSI\u00c7\u00c3O DE ARTE, CAMARA DOS DEPUTADOS, ESCLARECIMENTO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Contesta\u00e7\u00e3o a cr\u00edticas ao Deputado Coronel Tadeu pela rea\u00e7\u00e3o contra  ataques \u00e0 Pol\u00edcia Militar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero repudiar essas manifesta\u00e7\u00f5es em rela\u00e7\u00e3o ao que o Deputado Coronel Tadeu fez. Ele fez aquilo que a maioria da popula\u00e7\u00e3o brasileira faria. N\u00e3o podemos admitir esse ataque \u00e0s institui\u00e7\u00f5es, neste caso, \u00e0 Pol\u00edcia Militar.\r\nA Esquerda tem que parar de usar os negros, usar os grupos de minoria para atacar a pol\u00edcia. A pol\u00edcia mata, sim, o criminoso. Se o branco pega a arma e ataca a pol\u00edcia, a pol\u00edcia...(Apupos.)\r\nCala a boca que eu estou falando! \r\nSe o branco ataca a pol\u00edcia com arma na m\u00e3o, o branco vai morrer. Se o negro ataca a pol\u00edcia, o negro vai morrer. Se o (express\u00e3o retirada por determina\u00e7\u00e3o da Presid\u00eancia) ataca a pol\u00edcia, o (express\u00e3o retirada por determina\u00e7\u00e3o da Presid\u00eancia) vai morrer. Se o an\u00e3o ataca, \u00e9 o an\u00e3o que vai morrer. \r\nEnt\u00e3o, tem que parar com isso de rotular. Criminoso \u00e9 criminoso, seja ele qual for.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PERDA DE EFIC\u00c1CIA NORMATIVA, MPV 895/2019, MEDIDA PROVIS\u00d3RIA, CARTEIRA DE IDENTIFICA\u00c7\u00c3O ESTUDANTIL (CIE), DOCUMENTO DIGITAL, GRATUIDADE.\r\nESTUDANTE, PAGAMENTO, PRESIDENTE, UNI\u00c3O NACIONAL DOS ESTUDANTES (UNE), CR\u00cdTICA.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Indigna\u00e7\u00e3o com a perda da efic\u00e1cia da Medida Provis\u00f3ria n\u00ba 895, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 12.933, de 2013, acerca do benef\u00edcio do pagamento de meia-entrada para estudantes, idosos, pessoas com defici\u00eancia e jovens de quinze a vinte e nove anos comprovadamente carentes em espet\u00e1culos art\u00edstico-culturais e esportivos.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nQuero manifestar a minha indigna\u00e7\u00e3o, que n\u00e3o \u00e9 s\u00f3 minha, mas de milhares de estudantes pelo Brasil, com o encerramento da validade da MP da carteirinha digital, que criava a carteirinha de estudante gratuita, ou seja, beneficiava ainda mais os estudantes. E ningu\u00e9m tem uma resposta concreta, republicana, para explicar por que essa medida provis\u00f3ria n\u00e3o foi votada. \r\nAgora se encerrou o prazo da confec\u00e7\u00e3o dessa carteirinha, e os estudantes voltaram a ter que pagar \u00e0 Uni\u00e3o Nacional dos Estudantes - UNE para obterem a carteirinha de estudante.\r\nO engra\u00e7ado \u00e9 que o Presidente da UNE disse que \u00e9 um absurdo essa carteirinha digital gratuita, porque, na verdade, ela n\u00e3o \u00e9 gratuita: ela custa 15 centavos, e o valor \u00e9 custeado pelo Governo. Agora os socialistas descobriram que n\u00e3o existe almo\u00e7o gr\u00e1tis. Por conta dessa carteirinha de 15 centavos, eles dizem que o povo n\u00e3o pode custear a carteirinha. Mas \u00e9 muito bom que aconte\u00e7am esses fatos, para que a hipocrisia deles seja ainda mais escancarada.\r\nFica o nosso lamento e a nossa indigna\u00e7\u00e3o em representa\u00e7\u00e3o n\u00e3o s\u00f3 do povo de Minas Gerais, mas dos estudantes de todo o Brasil.\r\nPe\u00e7o que a nossa manifesta\u00e7\u00e3o seja divulgada no programa A Voz do Brasil.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-03T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "POL\u00cdCIA MILITAR, ATUA\u00c7\u00c3O, MANIFESTA\u00c7\u00c3O, ASSEMBLEIA LEGISLATIVA, S\u00c3O PAULO (ESTADO). \r\nPOLICIAL MILITAR, CEAR\u00c1, ATUA\u00c7\u00c3O, , CONTRA, CID GOMES, SENADOR. \r\nMANIFESTA\u00c7\u00c3O, MOVIMENTO DE PROTESTO, ATUA\u00c7\u00c3O, CONGRESSO NACIONAL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Acerto da a\u00e7\u00e3o praticada pela Pol\u00edcia Militar contra manifestantes na Assembleia Legislativa do Estado de S\u00e3o Paulo. Apoio \u00e0 rea\u00e7\u00e3o de policiais militares contra Senador da Rep\u00fablica, no Estado do Cear\u00e1. Natureza democr\u00e1tica da manifesta\u00e7\u00e3o popular prevista para o dia 15 de mar\u00e7o de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (Bloco/PSL - MG. Para discursar. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero apresentar um contraponto a algumas manifesta\u00e7\u00f5es feitas aqui. Estavam atacando os policiais de S\u00e3o Paulo, pela a\u00e7\u00e3o proporcional hoje na Assembleia Legislativa do Estado. Na verdade, eles reagiram corretamente. Com v\u00e2ndalos e baderneiros \u00e9 assim que se conversa mesmo. A linguagem tem que ser aquela. \u00c9 preciso descer a madeira.\r\nFoi tamb\u00e9m proporcional o que os policiais do Cear\u00e1 fizeram em rela\u00e7\u00e3o ao Senador que tentou matar aqueles policiais que l\u00e1 estavam. A prop\u00f3sito, parab\u00e9ns aos policiais do Cear\u00e1 pela pontaria. Est\u00e3o treinando tiro muito bem.\r\nSobre a manifesta\u00e7\u00e3o do dia 15, preciso dizer que s\u00e3o absurdas as declara\u00e7\u00f5es do lado de l\u00e1 de que o povo na rua significa ataque ao Congresso e que \u00e9 uma a\u00e7\u00e3o antidemocr\u00e1tica. Isso \u00e9 um absurdo! Todo poder emana do povo, esse mesmo povo que elegeu Jair Bolsonaro, que vai ficar mais 7 anos. Gostem ou n\u00e3o, voc\u00eas v\u00e3o ter que o engolir.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PANDEMIA, CORONAVIRUS, CRISE POLITICA, VACINA, MEDICAMENTO, MEDIDA PREVENTIVA, TRATAMENTO M[EDICO, TRATAMENTO PRECOCE, DEFESA, GIOVANI CHERINI, DEPUTADO FEDERAL, ELOGIO.CRISE ECONOMICA.\r\nDANIEL SILVEIRA, DEPUTADO FEDERAL, REVOGA\u00c7\u00c3O, PRIS\u00c3O.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Giovani Cherini pelo pronunciamento em defesa do tratamento precoce da Covid-19. Solidariedade aos familiares das v\u00edtimas do coronav\u00edrus, e aos atingidos pela crise financeira decorrente da doen\u00e7a. Apelo aos L\u00edderes partid\u00e1rios e ao Presidente Arthur Lira por revoga\u00e7\u00e3o da pris\u00e3o do Deputado Daniel Silveira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, antes que me esque\u00e7a, j\u00e1 vou pedir que meu pronunciamento tamb\u00e9m conste no programa A Voz do Brasil.\r\nQuero parabenizar o Deputado Giovani Cherini pela coragem de defender o tratamento precoce e expor todas as suas raz\u00f5es em torno do tema, algo que tem diversas evid\u00eancias, a partir de v\u00e1rios casos concretos Brasil afora. Eu tenho in\u00fameros relatos, inclusive de familiares, em torno disso. Mas o meu pronunciamento n\u00e3o vai se dirigir a isso.\r\nEm meio a tanto problema de sa\u00fade e, por consequ\u00eancia, de economia - e eu me solidarizo com todas as fam\u00edlias das v\u00edtimas fatais e tamb\u00e9m com as v\u00edtimas econ\u00f4micas de tudo isso -, h\u00e1 muita gente passando dificuldade neste momento, perdendo seu emprego, suas empresas, mas n\u00e3o podemos nos esquecer da ofensa \u00e0 nossa democracia, ato cont\u00ednuo. \r\nH\u00e1 15 dias um Parlamentar desta Casa est\u00e1 preso. Ele n\u00e3o matou ningu\u00e9m, n\u00e3o se corrompeu, n\u00e3o se entregou a fac\u00e7\u00f5es. Ainda que tenha exagerado no seu pronunciamento, ainda que seja alvo de apura\u00e7\u00e3o, isso jamais deveria ser motivo para a sua pris\u00e3o, o seu recolhimento, o seu afastamento da fam\u00edlia. A maioria desta Casa, sim, referendou uma decis\u00e3o absurda, inconceb\u00edvel, mas h\u00e1 diversos Parlamentares, e eu tenho orgulho de estar entre eles, que n\u00e3o est\u00e3o conformados com isso. \r\n\u00c9 por isso que eu uso este tempo para fazer um apelo aos L\u00edderes desta Casa, a esta Casa, em especial ao Presidente Arthur: deem um basta nisso! J\u00e1 chega! J\u00e1 avan\u00e7ou demais essa inconstitucionalidade, essa ilegalidade. N\u00e3o precisam ouvir o Deputado Junio Amaral, n\u00e3o; ou\u00e7am a Constitui\u00e7\u00e3o, ou\u00e7am o povo brasileiro. \r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, APOIO POL\u00cdTICO, REFORMA, GOVERNO FEDERAL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Inadmissibilidade de retirada de direitos dos profissionais da seguran\u00e7a p\u00fablica, preconizada na Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, todo mundo sabe que o meu posicionamento em 99% das vezes \u00e9 no sentido de ajudar o Governo, tentando colaborar com as reformas do Pa\u00eds.\r\nInfelizmente, as pessoas respons\u00e1veis pela constru\u00e7\u00e3o desse texto se colocaram como indiferentes a uma realidade da seguran\u00e7a p\u00fablica, em especial com o que est\u00e1 acontecendo.\r\nAnalisando a situa\u00e7\u00e3o, n\u00e3o \u00e9 poss\u00edvel neste momento toda essa indiferen\u00e7a. Por isso h\u00e1 esse risco todo de desidrata\u00e7\u00e3o, que n\u00e3o deveria acontecer, e estamos nos posicionando dessa forma.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F3%2F2021&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-28T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA DO TRABALHO.\r\nCORONAV\u00cdRUS, PANDEMIA, CRISE SANIT\u00c1RIA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, RESPONSABILIDADE, INVESTIGA\u00c7\u00c3O, COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), SENADO FEDERAL, INSTALA\u00c7\u00c3O.\r\nPRINC\u00cdPIO DA INDEPEND\u00caNCIA DOS PODERES, PODER EXECUTIVO, INTERFER\u00caNCIA, PODER LEGISLATIVO, SUPREMO TRIBUNAL FEDERAL (STF), CONTRA, CARREATA, MANIFESTA\u00c7\u00c3O DE PROTESTO.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Organiza\u00e7\u00e3o de carreatas pelo Brasil no dia 1\u00ba  de maio em protesto contra as interfer\u00eancias recorrentes do Poder Legislativo e do Supremo Tribunal Federal no Poder Executivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Brasil est\u00e1 assistindo aterrorizado ao notici\u00e1rio da pol\u00edtica, sobretudo agora, com essa interfer\u00eancia recorrente do STF no Poder Executivo e tamb\u00e9m no Poder Legislativo - vide CPI da COVID-19. \r\nVemos esses abusos acontecendo, infelizmente, com certa in\u00e9rcia, sobretudo do Presidente do Senado. \u00c9 por isso que o povo brasileiro est\u00e1 se mobilizando, grande parte dele, em carreatas pelo Brasil afora no pr\u00f3ximo s\u00e1bado, dia 1\u00ba de maio.\r\nEstarei com o povo, porque foi ele que me trouxe para c\u00e1, evidentemente: no Sul de Minas, mais especificamente, em Pouso Alegre, na parte da manh\u00e3, e em S\u00e3o Louren\u00e7o, na parte da tarde. \r\nSer\u00e1 \u00e9 um grito de liberdade. N\u00e3o podemos mais aceitar isso que est\u00e1 acontecendo no nosso Pa\u00eds. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2021&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-17T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "L\u00c1ZARO BARBOSA DE SOUSA, CRIMINOSO, CAPTURA, PRIS\u00c3O, EXPECTATIVA. \r\nSISTEMA CARCER\u00c1RIO, REVIS\u00c3O.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Expectativa quanto \u00e0 pris\u00e3o do assassino e estuprador L\u00e1zaro Barbosa de Sousa. Revis\u00e3o do sistema processual penal brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, agrade\u00e7o a V.Exa. a oportunidade.\r\nO Brasil est\u00e1 acompanhando atentamente a busca de um criminoso que cometeu v\u00e1rios assassinatos. Esses casos horr\u00edveis ocorreram parte aqui em Bras\u00edlia, parte na Bahia, e agora se estende pelo Goi\u00e1s. Digo que parte foi na Bahia, porque a carreira desse criminoso come\u00e7ou, em 2007, e desde ent\u00e3o ele est\u00e1 provando que \u00e9 irrecuper\u00e1vel, e o nosso sistema permite que ele continue com as suas a\u00e7\u00f5es. \r\nEle foi preso por duplo homic\u00eddio na Bahia e, ap\u00f3s 10 dias, fugiu. Depois, ele foi preso em Bras\u00edlia, em 2009, por roubo, estupro, porte ilegal de arma de fogo. Em 2014, sua pris\u00e3o foi convertida para o semiaberto. Como que um cara que j\u00e1 tinha provado tudo isso, em 2014, progrediu para o semiaberto? Em 2016, ele fugiu da pris\u00e3o, fugiu do regime semiaberto. Em 2018, ele foi preso por homic\u00eddio qualificado, porte ilegal de arma de fogo, roubo, estupro. Ele foi preso, como disse, e logo depois fugiu. Em 2020, ele foi preso novamente por roubo, mediante restri\u00e7\u00e3o de liberdade das v\u00edtimas, emprego de arma branca, provavelmente faca, e tentativa de latroc\u00ednio. Salvo engano, ele deu uma machadada num agricultor que estava dentro da sua resid\u00eancia rural. E chegamos a 2021, em que vemos esses casos recentes, que est\u00e3o sendo mais falados. Aqui, no Distrito Federal, ele trancou o pai e o filho no quarto, levou a mulher para o matagal e a estuprou. Ele fez a fam\u00edlia de ref\u00e9m, amea\u00e7ando-os com faca e arma de fogo. Ele matou a tiros e a facadas um casal e dois filhos. Ele atirou em quatro pessoas, invadiu fazendas e colocou fogo numa casa ao fugir da pol\u00edcia. Depois, furtou um carro e baleou policiais. \r\nN\u00e3o tem como n\u00e3o nos perguntarmos quantos crimes teriam sido evitados se o nosso sistema processual penal funcionasse e se esta Casa tivesse desfeito a lamban\u00e7a feita por legisladores anteriores, sobretudo, nos \u00faltimos 30 anos, para promover esse sistema de leni\u00eancia com esse tipo de gente. A m\u00eddia est\u00e1 repercutindo esse caso. Trata-se de um caso at\u00edpico, porque traz algumas caracter\u00edsticas bem peculiares, mas crimes horrendos, com reincid\u00eancia, acontecem todos os dias no Brasil. Esse n\u00e3o \u00e9 um caso isolado, n\u00e3o.\r\nMas, infelizmente, muitas pessoas que est\u00e3o respons\u00e1veis -- e a\u00ed eu direciono tamb\u00e9m para os Parlamentares a esta Casa -- por mudar o sistema acreditam que n\u00e3o v\u00e3o chegar a eles esse tipo de coisa. Se n\u00e3o querem pensar em como a popula\u00e7\u00e3o est\u00e1 sofrendo com esse tipo de impunidade, tentem se colocar no lugar da fam\u00edlia de cada uma dessas v\u00edtimas, que s\u00e3o v\u00edtimas do Estado tamb\u00e9m, desse estado de impunidade que vivemos. \r\nEsta Casa pode, se quiser -- e a\u00ed eu fa\u00e7o um apelo aos L\u00edderes aqui --, desfazer essa lamban\u00e7a. Se continuarmos com essa postura de omiss\u00e3o, seremos c\u00famplices tamb\u00e9m. \r\nEu tor\u00e7o agora, fielmente, para que a Pol\u00edcia Militar do Estado de Goi\u00e1s encontre logo esse monstro e entregue a ele o passaporte do ju\u00edzo final, porque, pelos menos l\u00e1, ao contr\u00e1rio do Brasil, podemos esperar por justi\u00e7a. \r\nPresidente, pe\u00e7o a V.Exa. que o nosso pronunciamento seja divulgado no Programa A Voz do Brasil. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-07T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CORONAV\u00cdRUS, PANDEMIA, CRISE SANIT\u00c1RIA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, RESPONSABILIDADE, COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), SENADO FEDERAL, INVESTIGA\u00c7\u00c3O.\r\nCONFEDERA\u00c7\u00c3O BRASILEIRA DE FUTEBOL (CBF), ARQUIVAMENTO, CRIME CONTRA HOMOSSEXUAL E TRANSG\u00caNERO, LGBTC\u00cdDIO, RIO DE JANEIRO (ESTADO), DECIS\u00c3O JUDICIAL.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Tentativa de incrimina\u00e7\u00e3o do Presidente Jair Bolsonaro pela CPI da Covid, instaurada pelo Senado Federal. Acerto da decis\u00e3o da Justi\u00e7a do Estado do Rio de Janeiro de arquivamento de a\u00e7\u00e3o ajuizada contra a Confedera\u00e7\u00e3o Brasileira de Futebol - CBF, pelo Grupo Arco-\u00cdris de Cidadania LGBT, por suposta discrimina\u00e7\u00e3o praticada contra o segmento gay.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, em meio a tantos problemas no nosso Pa\u00eds, com esse circo da CPI da COVID, essa tentativa descabida, maluca e eleitoral de derrubar o Governo Bolsonaro, de desgastar o Governo Bolsonaro, enfrentamos outros problemas que, muitas vezes, podem aparentar, num primeiro momento, menores do que os demais, mas que t\u00eam total rela\u00e7\u00e3o com a nossa liberdade e com a necessidade de n\u00e3o nos curvarmos a uma ditadura das minorias.\r\nNos \u00faltimos dias, um grupo LGBT chamado Grupo Arco-\u00cdris acionou a Justi\u00e7a para cobrar da CBF explica\u00e7\u00f5es sobre o motivo por que nenhum dos jogadores da Sele\u00e7\u00e3o utiliza a camisa 24. A numera\u00e7\u00e3o vai at\u00e9 o 23 e pula para o 25, que, salvo engano, \u00e9 o n\u00famero do jogador Douglas Luiz.\r\nQual \u00e9 o problema de ele escolher a pr\u00f3pria camisa? Isso parece pequeno, como eu disse, mas \u00e9 descabido. \u00c9 um absurdo nos curvarmos a esse tipo de imposi\u00e7\u00e3o, a ponto de esse grupo ir \u00e0 Justi\u00e7a para exigir que um jogador use determinada camisa. Isso tudo vem numa roupagem com o pretexto de respeito, de igualdade, mas extrapola qualquer motiva\u00e7\u00e3o nesse sentido. Inclusive, contem comigo para a\u00e7\u00f5es que conscientizem as pessoas a terem mais respeito ao ser humano, seja l\u00e1 por qual motivo for, mas, para isso, jamais!\r\nAinda bem que a Justi\u00e7a do Rio deu uma decis\u00e3o acertada - e quero parabeniz\u00e1-la por isso -, apesar de, num primeiro momento, ter exigido explica\u00e7\u00f5es da CBF, que deu uma desculpa, dizendo que \u00e9 porque o 25 \u00e9 mais adequado ao meio-campo. Poxa, CBF, ajude-nos tamb\u00e9m! Seja direta e diga que \u00e9 porque o jogador n\u00e3o quer, a comiss\u00e3o t\u00e9cnica n\u00e3o quer e n\u00e3o se deve impor isso a partir de uma ideologia, a partir dessa imposi\u00e7\u00e3o de ditadura de minorias. A CBF deveria ter sido direta.\r\nParab\u00e9ns \u00e0 Justi\u00e7a do Rio de Janeiro, que deu uma decis\u00e3o acertada agora, ap\u00f3s os esclarecimentos da CBF, e arquivou o processo, esclarecendo que n\u00e3o h\u00e1 por que intervir nessa decis\u00e3o.\r\nH\u00e1 grupos que querem impor isso \u00e0 Sele\u00e7\u00e3o ou a qualquer outro clube. \u00c9 muito f\u00e1cil: basta pegar algum membro do grupo de voc\u00eas - deve haver algu\u00e9m bom de futebol - e trein\u00e1-lo para que seja convocado e possa usar a camisa que quiser, inclusive a 24. \r\nMuito obrigado, Presidente.\r\nPe\u00e7o que o nosso pronunciamento conste do programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-04T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MANIFESTA\u00c7\u00c3O P\u00daBLICA, MOVIMENTO SOCIAL, DEMOCRACIA, TRANSPAR\u00caNCIA, ELEI\u00c7\u00d5ES, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, CR\u00cdTICA, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, DEFESA, VOTO IMPRESSO, AUDITORIA, PROCESSO ELEITORAL.\r\nPROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA, MINAS GERAIS, CR\u00cdTICA, GOVERNO ESTADUAL, PARTIDO DOS TRABALHADORES (PT), FERNANDO PIMENTEL, EX-GOVERNADOR, REAJUSTE, REMUNERA\u00c7\u00c3O, ROMEU ZEMA, GOVERNADOR, POL\u00cdCIA MILITAR.",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Rep\u00fadio \u00e0 resist\u00eancia de Parlamentares e do alto escal\u00e3o do Poder Judici\u00e1rio, contra a proposta do Presidente Jair Bolsonaro de transpar\u00eancia no processo eleitoral brasileiro. Exig\u00eancia de concess\u00e3o pelo Governador do Estado de Minas Gerais, Romeu Zema, de reajuste salarial aos profissionais da \u00e1rea de seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, demais Deputados, povo brasileiro, no \u00faltimo domingo, o Brasil foi \u00e0s ruas. Foi impressionante a quantidade enorme de pessoas que se mobilizaram - e continuam se mobilizando - por uma pauta da nossa democracia. E \u00e9 inadmiss\u00edvel ver os argumentos que tentam levantar contra uma maior transpar\u00eancia em nosso processo eleitoral, s\u00f3 porque parte do Presidente Bolsonaro.\r\nSe ele tivesse pedindo o contr\u00e1rio, se n\u00f3s tiv\u00e9ssemos um sistema transparente e ele tivesse pedindo uma regress\u00e3o nessa transpar\u00eancia, eu at\u00e9 entenderia essa oposi\u00e7\u00e3o. Eu entenderia at\u00e9 a posi\u00e7\u00e3o absurda de ju\u00edzes do alto escal\u00e3o do Judici\u00e1rio deste Pa\u00eds que ocupam hoje o STF, quando se posicionam como verdadeiros pol\u00edticos, tentando ser formadores de opini\u00e3o, tentando influenciar a popula\u00e7\u00e3o, e, pior do que isso, influenciando Parlamentares desta Casa, L\u00edderes desta Casa, que, infelizmente, mudaram de posi\u00e7\u00e3o do nada! Ali\u00e1s, n\u00e3o foi do nada, n\u00e3o, porque n\u00f3s sabemos o que acontece quando se muda de posi\u00e7\u00e3o dessa forma. \u00c9 um descaramento!\r\nInfelizmente, s\u00e3o L\u00edderes e Deputados espec\u00edficos que se recusam a ouvir a popula\u00e7\u00e3o. E al\u00e9m de que n\u00e3o querem ouvir a popula\u00e7\u00e3o, recusam-se a lutar pela democracia e pela transpar\u00eancia do nosso processo eleitoral. \r\n\u00c9 canalhice de quem vai a suas redes sociais e \u00e0 imprensa falar sobre levar para casa o comprovante do voto. Isso \u00e9 maldade! Isso n\u00e3o \u00e9 burrice, n\u00e3o, \u00e9 maldade, porque eles sabem que a proposta n\u00e3o \u00e9 assim. Est\u00e3o tentando enganar o povo. E grande parte do povo acaba comprando essa ideia. \u00c9 farsa! N\u00e3o h\u00e1 essa possibilidade de se levar comprovante para casa. Volto a explicar aqui que o voto cai em uma urna lacrada, e o eleitor n\u00e3o tem o contato f\u00edsico com ele, apenas visual.\r\nEnt\u00e3o, fica o meu registro de insatisfa\u00e7\u00e3o, n\u00e3o s\u00f3 enquanto Parlamentar, mas tamb\u00e9m enquanto cidad\u00e3o, a essa resist\u00eancia suja a termos um processo eleitoral transparente.\r\nQuero falar tamb\u00e9m, Presidente, neste tempo que me resta, sobre os servidores da seguran\u00e7a em Minas Gerais. Durante o desgoverno do PT, houve l\u00e1 in\u00fameros esc\u00e2ndalos de corrup\u00e7\u00e3o. O ex-terrorista Fernando Pimentel meteu a m\u00e3o nos cofres p\u00fablicos em Minas Gerais, deu calote em diversos servidores. E agora vem o Governo Zema se posicionar, dizendo que est\u00e1 tentando recuperar as contas do Estado - e n\u00f3s percebemos o seu esfor\u00e7o. Por\u00e9m, antes da pandemia, havia um compromisso de reajuste, que h\u00e1 v\u00e1rios anos os servidores aguardavam, e ele foi suspenso devido \u00e0 pandemia. \u00c9 claro que os profissionais da seguran\u00e7a se colocaram em uma posi\u00e7\u00e3o at\u00e9 de compreens\u00e3o, apesar desse hist\u00f3rico de demora para que esse reajuste acontecesse. Mas agora chegou a hora, n\u00e3o \u00e9 Governador Zema? Vamos retomar as conversas para que, o quanto antes, aquele compromisso seja cumprido. \r\nA seguran\u00e7a p\u00fablica de Minas Gerais d\u00e1 exemplo. Temos a melhor Pol\u00edcia Militar do Brasil, e \u00e9 hora n\u00e3o s\u00f3 de haver esse reconhecimento, mas tamb\u00e9m essa justi\u00e7a aos servidores da seguran\u00e7a p\u00fablica de Minas Gerais.\r\nFor\u00e7a e honra, Sr. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T13:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "TRANSPAR\u00caNCIA, PROCESSO ELEITORAL, VOTA\u00c7\u00c3O, PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, AUDITORIA, ELEI\u00c7\u00d5ES, CR\u00cdTICA, BASE DE APOIO POL\u00cdTICO, GOVERNO FEDERAL, LU\u00cdS ROBERTO BARROSO, PRESIDENTE, TRIBUNAL SUPERIOR ELEITORAL (TSE).",
+        "nomeDeputado": "Junio Amaral",
+        "sumario": "Posicionamento da maioria dos Parlamentares, favor\u00e1vel \u00e0 retomada do voto impresso nas elei\u00e7\u00f5es brasileiras. Indigna\u00e7\u00e3o com membros da base governista pelo voto contr\u00e1rio \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade da emiss\u00e3o de c\u00e9dulas f\u00edsicas de vota\u00e7\u00e3o em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso).",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, nobres pares, amigos presentes a esta sess\u00e3o.\r\nOntem, apesar de n\u00e3o termos alcan\u00e7ado na vota\u00e7\u00e3o o prop\u00f3sito principal, n\u00f3s alcan\u00e7amos a consci\u00eancia da popula\u00e7\u00e3o brasileira quanto \u00e0 transpar\u00eancia no processo eleitoral. Chamamos a aten\u00e7\u00e3o para o que essa turma \u00e9 capaz de fazer para voltar ao poder. Tamb\u00e9m fizemos com que se mostrassem alguns \"moitas\", como dizemos na pol\u00edcia, Deputado Coronel Tadeu, com que se posicionassem. Tiveram que fazer malabarismo na argumenta\u00e7\u00e3o para tentar sustentar suas posi\u00e7\u00f5es contr\u00e1rias ao voto impresso audit\u00e1vel. Como pode, Deputado Luiz Lima, algu\u00e9m que se diz democrata se posicionar contra novas ferramentas, importantes ferramentas auxiliares para garantir a seguran\u00e7a do resultado das nossas elei\u00e7\u00f5es, das elei\u00e7\u00f5es no nosso Pa\u00eds? O resultado positivo, sim, foi esse despertar de consci\u00eancia da popula\u00e7\u00e3o.\r\nA maioria deste Parlamento demonstrou, com coragem, qual era o seu posicionamento. A maioria, sim, \u00e9 a favor do voto impresso audit\u00e1vel, \u00e9 a favor de maior transpar\u00eancia nas nossas elei\u00e7\u00f5es. Por\u00e9m, infelizmente, nesse caso, precisar\u00edamos de dois ter\u00e7os dos Deputados, por se tratar de altera\u00e7\u00e3o constitucional, que necessita de qu\u00f3rum qualificado.\r\nO Deputado Luiz Lima disse algo muito bem aqui, questionou o posicionamento de Deputados da base. Para que serve a base? At\u00e9 em vota\u00e7\u00f5es tranquilas, como deveria ter sido essa, a respeito de transpar\u00eancia no processo eleitoral, de maior qualidade da nossa democracia, at\u00e9 em vota\u00e7\u00f5es como essa eles se posicionam contra. Mas quem est\u00e1 aqui sabe o que acontece, a linguagem \u00e9 outra. Quem \u00e9 o povo nas ruas para conseguir dissuadir pessoas que aqui dentro se ajoelham e se submetem \u00e0 vontade de outro Poder?\r\nAinda quero saber o que o Ministro Barroso usou na sua conversa com L\u00edderes partid\u00e1rios. Que poder de convencimento, hein? Quem est\u00e1 aqui sabe.\r\nFica a nossa indigna\u00e7\u00e3o, mas fica tamb\u00e9m a mensagem de esperan\u00e7a para outras legislaturas, porque nesta j\u00e1 est\u00e1 provado que dificilmente teremos qu\u00f3rum qualificado de pessoas verdadeiramente independentes para ouvir a popula\u00e7\u00e3o brasileira e demonstrar o que significa a verdadeira representa\u00e7\u00e3o legislativa.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": null,
+        "nomeDeputado": "Junio Amaral",
+        "sumario": null,
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JUNIO AMARAL (PSL - MG. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, Sras. e Sras. Deputados. Boa tarde, povo brasileiro que nos assiste neste momento. Quero iniciar o meu pronunciamento j\u00e1 pedindo que parte dele conste no programa A Voz do Brasil.\r\n\u00c9 uma satisfa\u00e7\u00e3o poder ocupar este espa\u00e7o mais uma vez e aqui trazer minha solidariedade ao povo afeg\u00e3o. Ao contr\u00e1rio do que a Esquerda torcia para que acontecesse, n\u00f3s percebemos que o resultado da retirada dos militares americanos daquele pa\u00eds \u00e9 motivo de grande trag\u00e9dia, n\u00e3o s\u00f3 com o que j\u00e1 est\u00e1 acontecendo, mas com o que vem acontecer nas pr\u00f3ximas semanas, nos pr\u00f3ximos meses, tendo em vista que um grupo terrorista est\u00e1 voltando a se apoderar do Estado. Direitos fundamentais praticamente n\u00e3o existir\u00e3o a partir desse momento. Por isso, aquele desespero todo, vidas humanas perdidas, mas principalmente a liberdade tolhida e agora a inseguran\u00e7a voltando a se estabelecer naquele pa\u00eds.\r\nQuero lamentar aqui, Sr. Presidente, situa\u00e7\u00e3o ocorrida na semana passada, de mais um ato antidemocr\u00e1tico, mais um ato inconstitucional da Suprema Corte, mais precisamente do Ministro Alexandre de Moraes.\r\n\u00c9 impressionante como ele se coloca indiferente \u00e0 nossa Constitui\u00e7\u00e3o. Ele est\u00e1 se lixando para o cumprimento dessa Carta Magna. E agora, dessa vez, depois de manter por tanto tempo  e continua mantendo  um Deputado Federal preso por suas palavras, prendeu agora um presidente de partido, sem definir com clareza para n\u00f3s qual foi a falta que cometeu. Isso \u00e9 grav\u00edssimo, e \u00e9 lament\u00e1vel o sil\u00eancio de parte deste Parlamento, assim como a cumplicidade de parte da m\u00eddia. N\u00f3s estamos indo por um caminho que pode n\u00e3o ter volta. \r\nO povo brasileiro quer a resposta deste Parlamento tamb\u00e9m, mas sobretudo do Senado Federal, que \u00e9 quem pode impedir que esse trem continue fora dos trilhos. N\u00f3s estamos falando, como diz o Presidente Bolsonaro, de um Poder que est\u00e1 jogando fora das quatro linhas, e muitos n\u00e3o est\u00e3o percebendo a dimens\u00e3o da gravidade dessa situa\u00e7\u00e3o. Alguns, sim, t\u00eam no\u00e7\u00e3o dessa dimens\u00e3o, mas, por conveni\u00eancia, est\u00e3o se calando e at\u00e9 apoiando medidas autorit\u00e1rias e inconstitucionais.\r\nRecentemente, salvo engano ontem, o TSE assumiu uma postura e conduziu a\u00e7\u00f5es que n\u00e3o lhe competem que vieram a desmonetizar canais de youtubers que se posicionam do lado conservador. E aqui eu cito, em especial, a B\u00e1rbara, propriet\u00e1ria do canal Te Atualizei, que faz um trabalho incr\u00edvel, que agora toma essa tacada. Isso \u00e9 inconstitucional. Nossa liberdade de express\u00e3o est\u00e1 sendo cada vez mais tolhida, sobretudo no caso dessas pessoas que t\u00eam maior proje\u00e7\u00e3o.\r\nEnt\u00e3o, fica aqui a nossa indigna\u00e7\u00e3o, o nosso posicionamento e a cobran\u00e7a para que L\u00edderes desta Casa n\u00e3o s\u00f3 se posicionem, mas tomem atitudes. N\u00f3s estamos nos curvando para um Poder. Alguns Ministros espec\u00edficos, alguns membros desse Poder, em especial, est\u00e3o se comportando de maneira indiferente n\u00e3o s\u00f3 \u00e0 nossa Carta Magna, como eu disse, mas tamb\u00e9m \u00e0 popula\u00e7\u00e3o.\r\nFica, portanto, este nosso registro, para que possamos nos levantar e impedir que tais arbitrariedades avancem e continuem a tolher o direito do povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,1136 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-09T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ARTHUR LIRA, PRESIDENTE DA CAMARA DOS DEPUTADOS, DESLIGAMENTO, MICROFONE, FERNANDA MELCHIONNA, DEPUTADO FEDERAL, PROTESTO, COMIT\u00ca DE IMPRENSA DA C\u00c2MARA DOS DEPUTADOS, ALTERA\u00c7\u00c3O.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Protesto contra a atitude do Presidente Arthur Lira de desligamento do microfone da Deputada Fernanda Melchionna durante o seu pronunciamento. Pedido \u00e0 Presid\u00eancia de reexame da decis\u00e3o de mudan\u00e7a do local do Comit\u00ea de Imprensa da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, primeiramente, eu gostaria que tiv\u00e9ssemos pactos minimamente democr\u00e1ticos de n\u00e3o interrup\u00e7\u00e3o do tempo - presto minha solidariedade \u00e0 Deputada Fernanda Melchionna - e de garantia das falas.\r\nDiante de tudo isso, eu tamb\u00e9m queria lhe fazer um apelo, uma solicita\u00e7\u00e3o, para que V.Exa. reveja a retirada do Comit\u00ea de Imprensa da Casa, que est\u00e1 localizado nas proximidades do Plen\u00e1rio, pois \u00e9 fundamental que os jornalistas e as jornalistas tenham acesso \u00e0 informa\u00e7\u00e3o.\r\nE esse lugar \u00e9 fundamenta para que eles possam de fato ter conex\u00e3o com o que vem sendo debatido e votado nesta Casa.\r\nSolicito que V.Exa. d\u00ea aten\u00e7\u00e3o a isso, que reveja sua posi\u00e7\u00e3o, pois isso tamb\u00e9m vai refor\u00e7ar os nossos pactos democr\u00e1ticos, garantir o direito de imprensa e garantir que a informa\u00e7\u00e3o e a transpar\u00eancia prevale\u00e7am nesta Casa.\r\nObrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F2%2F2021&txPagina=122&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-09T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.\r\nDEFESA, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, VACINA\u00c7\u00c3O, AUX\u00cdLIO EMERGENCIAL, CRISE SANIT\u00c1RIA, PANDEMIA, CORONAV\u00cdRUS, GRUPO IND\u00cdGENA, QUILOMBOLAS.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o. Prioridade na vacina\u00e7\u00e3o do povo brasileiro contra a Covid-19, e na retomada do pagamento do aux\u00edlio emergencial a trabalhadores aut\u00f4nomos, desempregados e fam\u00edlias carentes diante da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Muito obrigada.\r\nO PSOL vota \"n\u00e3o\". \r\nN\u00f3s temos outras prioridades neste momento em que vivemos uma crise sanit\u00e1ria. Eu venho diretamente da Amaz\u00f4nia, e l\u00e1 a situa\u00e7\u00e3o est\u00e1 ca\u00f3tica: h\u00e1 muitas pessoas morrendo v\u00edtimas de COVID. \r\nN\u00f3s estamos precisando urgentemente debater a necessidade da vacina\u00e7\u00e3o para todos e todas, a garantia do retorno do aux\u00edlio emergencial. N\u00f3s precisamos debater v\u00e1rias situa\u00e7\u00f5es referentes aos povos ind\u00edgenas, quilombolas e ribeirinhos, que ainda n\u00e3o conseguiram ter acesso \u00e0 vacina. Enfim, n\u00f3s temos v\u00e1rias prioridades, e esta vota\u00e7\u00e3o n\u00e3o pode acontecer agora. Ent\u00e3o, votamos \"n\u00e3o\". \r\nO nosso entendimento \u00e9 de que isso que V.Exas. chamam de autonomia \u00e9, na verdade, uma subordina\u00e7\u00e3o. N\u00e3o vamos aceitar esse projeto de subordina\u00e7\u00e3o do Banco Central.\r\nObrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F2%2F2021&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-09T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, CONTR\u00c1RIO.\r\nSAL\u00c1RIO, PROFESSOR, PROFISSIONAL DA EDUCA\u00c7\u00c3O, PAR\u00c1 (ESTADO), POBREZA, DEMISS\u00c3O, TRABALHADOR, SETOR EL\u00c9TRICO, REGI\u00c3O NORTE, AMAP\u00c1.\r\nMEDICAMENTO, SISTEMA \u00daNICO DE SA\u00daDE (SUS), PACIENTE TRANSPLANTADO, CR\u00cdTICA, GOVERNO FEDERAL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Atraso no pagamento salarial dos trabalhadores da educa\u00e7\u00e3o no Estado do Par\u00e1. Amea\u00e7a de demiss\u00e3o de eletricit\u00e1rios no Estado. Desestrutura\u00e7\u00e3o do Sistema \u00danico de Sa\u00fade - SUS. Discuss\u00e3o do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Presidente, j\u00e1 me manifestei em nome do PSOL. Como deixei evidente, n\u00e3o se trata de um projeto de autonomia, mas, sim, de subordina\u00e7\u00e3o em rela\u00e7\u00e3o aos bilion\u00e1rios banqueiros. E n\u00e3o \u00e9 essa a pol\u00edtica que defendemos. Esta Casa precisa pautar outros temas, e n\u00f3s, como Deputados e Deputadas, precisamos estar conectados com diversos assuntos.\r\nPortanto, eu queria aproveitar este tempo para citar algumas lutas importantes do povo do Par\u00e1, o qual represento, e que muito reivindica que nossas pautas sejam tratadas aqui, como a do sal\u00e1rio dos trabalhadores da educa\u00e7\u00e3o. O sal\u00e1rio de dezembro de v\u00e1rios trabalhadores do interior do Par\u00e1 n\u00e3o foram pagos. N\u00f3s j\u00e1 estamos em processo de luta, de conquista, a fim de garantir o pagamento do sal\u00e1rio de v\u00e1rios trabalhadores que, em meio a uma pandemia, n\u00e3o o receberam no m\u00eas de dezembro. \u00c9 um verdadeiro absurdo! A isso tamb\u00e9m se soma a situa\u00e7\u00e3o de mis\u00e9ria, de pobreza, de ataques a direitos que as pessoas v\u00eam sofrendo em todo o Brasil, em especial no norte do Pa\u00eds.\r\nDevo falar ainda da import\u00e2ncia de defendermos os direitos dos trabalhadores eletricit\u00e1rios. Eles s\u00e3o muito especializados, inclusive ajudaram a solucionar o problema do apag\u00e3o no Amap\u00e1, mas hoje est\u00e3o com o trabalho amea\u00e7ado. Est\u00e3o querendo demitir os trabalhadores eletricit\u00e1rios, cuja maioria fica no norte do Pa\u00eds.\r\nTemos tamb\u00e9m demandas importantes sobre acesso \u00e0 medica\u00e7\u00e3o para usu\u00e1rios do SUS transplantados. Isso \u00e9 grav\u00edssimo! Enquanto n\u00f3s dever\u00edamos garantir sa\u00fade p\u00fablica de qualidade, valorizando o Sistema \u00danico de Sa\u00fade, n\u00f3s estamos vendo um verdadeiro desmonte, um processo de sucateamento do sistema. E isso n\u00e3o \u00e9 apenas neglig\u00eancia, mas um projeto genocida aplicado pelo Governo Bolsonaro. Por isso, n\u00e3o podemos permitir que se retirem, cada vez mais, direitos dos trabalhadores e das trabalhadoras.\r\nEssa pauta relacionada \u00e0 autonomia do Banco Central \u00e9 fundamental para garantirmos, inclusive, que a C\u00e2mara dos Deputados possa ser tamb\u00e9m um espa\u00e7o de controle, de transpar\u00eancia e de di\u00e1logo. Se for aprovada essa autonomia, n\u00e3o ser\u00e1 mais neste espa\u00e7o que n\u00f3s teremos a possibilidade de ter esse controle.\r\nNovamente colocamos o nosso posicionamento aqui: somos contra esse processo de subordina\u00e7\u00e3o aos banqueiros milion\u00e1rios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F2%2F2021&txPagina=160&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PARECER CONTR\u00c1RIO, PL 534/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 2 a 6, e 9, com parecer contr\u00e1rio, apresentadas ao Projeto de Lei n\u00ba 534, de 2021, sobre a permiss\u00e3o aos Estados e Munic\u00edpios, bem como \u00e0 iniciativa privada, de aquisi\u00e7\u00e3o de vacinas contra a Covid-19 com registro ou autoriza\u00e7\u00e3o tempor\u00e1ria de uso no Brasil, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, primeiro, eu quero destacar que esta pauta da vacina\u00e7\u00e3o \u00e9 muito importante para n\u00f3s do PSOL, na medida em que nos traz uma grande preocupa\u00e7\u00e3o quanto ao que vai ser priorizado. Nossa prioridade tem que ser a vacina\u00e7\u00e3o p\u00fablica, de modo que o sistema privado n\u00e3o concorra com o setor p\u00fablico no que se refere \u00e0 rede de frios, ou seja, o armazenamento e o transporte das vacinas.\r\nMas, dada a urg\u00eancia de debater esse tema, o PSOL orienta \"n\u00e3o\", de acordo com o Relator, rejeitando as emendas, mas vamos fazer destaques relacionados a esse texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=76&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE, SUBSTITUI\u00c7\u00c3O, REDA\u00c7\u00c3O LEGISLATIVA, EMENDA DE PLEN\u00c1RIO, DISPOSITIVO LEGAL, PL 534/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para substitui\u00e7\u00e3o, pela reda\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 5, da reda\u00e7\u00e3o do \u00a7 1\u00ba, art. 2\u00ba, do Projeto de Lei n\u00ba 534, de 2021, sobre a permiss\u00e3o aos Estados e Munic\u00edpios, bem como \u00e0 iniciativa privada, de aquisi\u00e7\u00e3o de vacinas contra a Covid-19 com registro ou autoriza\u00e7\u00e3o tempor\u00e1ria de uso no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - N\u00f3s do PSOL avaliamos que este destaque \u00e9 muito importante, Sr. Presidente, pois vai aumentar tamb\u00e9m a press\u00e3o para que seja garantida, o mais r\u00e1pido poss\u00edvel, a vacina\u00e7\u00e3o para a popula\u00e7\u00e3o brasileira. A nossa prioridade tem que ser a valoriza\u00e7\u00e3o do SUS. N\u00f3s temos que priorizar que a vacina\u00e7\u00e3o seja feita via Sistema \u00danico de Sa\u00fade. A iniciativa privada ter\u00e1 a possibilidade de usar as vacinas adquiridas por ela depois de vacinados 80% da popula\u00e7\u00e3o.\r\nEnt\u00e3o, a orienta\u00e7\u00e3o do PSOL \u00e9 \"sim\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-04T10:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HOMIC\u00cdDIO, ISAC TEMB\u00c9, DIDI TEMB\u00c9,  \u00cdNDIO, PAR\u00c1 (ESTADO), FERNANDO DOS SANTOS, TRABALHADOR RURAL, CONFLITO FUNDI\u00c1RIO, GRILAGEM, TERRAS IND\u00cdGENAS, ILEGALIDADE, OCUPA\u00c7\u00c3O, MIL\u00cdCIA PRIVADA, PRESIDENTE DA REP\u00daBLICA, FLORESTA AMAZ\u00d4NICA, ORGANIZA\u00c7\u00c3O N\u00c3O GOVERNAMENTAL (ONG), DIREITOS HUMANOS, GOVERNO ESTADUAL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Assassinato de ind\u00edgenas da etnia Temb\u00e9 no Estado do Par\u00e1. Omiss\u00e3o do Presidente Jair Bolsonaro sobre a viol\u00eancia no campo. Solicita\u00e7\u00e3o \u00e0 Secretaria de Seguran\u00e7a P\u00fablica do Par\u00e1, para investiga\u00e7\u00e3o rigorosa do assassinato do trabalhador rural Fernando dos Santos e dos ind\u00edgenas Isac Temb\u00e9 e Didi Temb\u00e9.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Sr. Presidente, \u00e9 com muita tristeza e indigna\u00e7\u00e3o que trago aqui not\u00edcias que dificilmente ser\u00e3o divulgadas nas m\u00eddias tradicionais. Nesta semana, um ind\u00edgena temb\u00e9 foi assassinado no Estado do Par\u00e1.\r\nIsso muito nos preocupa, porque essa viol\u00eancia no campo est\u00e1 acontecendo cada vez com mais frequ\u00eancia. Em menos de 20 dias foi o segundo ind\u00edgena temb\u00e9 assassinado no Par\u00e1. As vidas ind\u00edgenas, quilombolas, ribeirinhas e de trabalhadores e trabalhadoras do campo est\u00e3o a todo tempo amea\u00e7adas.\r\nEm janeiro deste ano, um sobrevivente e testemunha-chave do massacre de Pau D'arco, ocorrido em 2017, o segundo maior massacre contra trabalhadores e trabalhadoras do campo no Brasil, foi executado na sua pr\u00f3pria casa. O nome dele \u00e9 Fernando dos Santos. Essa morte do Fernando, do Isac Temb\u00e9, do Didi Temb\u00e9 e de tantos outros defensores do territ\u00f3rio e das vidas amaz\u00f4nidas s\u00e3o epis\u00f3dios desse conflito pela terra que acontece no Estado do Par\u00e1.\r\nEsse conflito \u00e9 marcado por grilagem de grandes propor\u00e7\u00f5es, por latif\u00fandios improdutivos, por ocupa\u00e7\u00e3o ilegal de terras ind\u00edgenas e por mil\u00edcias rurais amea\u00e7ando vidas. Tudo isso se soma a respostas ineficientes - eu diria at\u00e9 inexistentes. O pior de tudo \u00e9 que h\u00e1 coniv\u00eancia do Presidente da Rep\u00fablica, que abre a porteira para deixar a boiada passar, e essa boiada est\u00e1 passando muitas vezes sobre as vidas e os corpos dos povos da Amaz\u00f4nia.\r\nEnt\u00e3o, n\u00f3s queremos respostas. N\u00f3s exigimos respostas. N\u00f3s queremos que a Secretaria de Seguran\u00e7a P\u00fablica do Estado do Par\u00e1 responda aos of\u00edcios e \u00e0s demandas de reuni\u00f5es que as entidades defensoras dos direitos humanos e dos povos da Amaz\u00f4nia v\u00eam solicitando.\r\nO SR. PRESIDENTE (Alexandre Leite. DEM - SP) - Pe\u00e7o que conclua, Deputada.\r\nA SRA. VIVI REIS (PSOL - PA) - N\u00f3s queremos investiga\u00e7\u00f5es mais rigorosas.\r\nTudo isso \u00e9 pelo Fernando, pelo Isac Temb\u00e9, pelo Didi Temb\u00e9, pelos povos da Amaz\u00f4nia e pelas vidas amaz\u00f4nidas, que, sim, devem importar.\r\nObrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T09:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DEPUTADA FEDERAL, PAR\u00c1 (ESTADO), BISSEXUAL, DIREITOS DAS MINORIAS, POPULA\u00c7\u00c3O LGBT, HOMIC\u00cdDIO, V\u00cdTIMA, MARIELLE FRANCO, VEREADORA, RIO DE JANEIRO (RJ), AGENDA LEGISLATIVA, APROVA\u00c7\u00c3O, PROJETO DE LEI ORDIN\u00c1RIA, C\u00c2MARA MUNICIPAL, DEFESA, MULHER, NEGROS, DIREITOS HUMANOS.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Sauda\u00e7\u00e3o \u00e0 esposa da oradora, Suane Barreirinhas. Transcurso do 3\u00ba anivers\u00e1rio do assassinato da Vereadora Marielle Franco, ocorrido no Rio de Janeiro, Estado do Rio de Janeiro. Discrimina\u00e7\u00f5es, amea\u00e7as e ataques perpetrados contra a mulher negra brasileira.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Bom dia, Deputadas, Deputados. Bom dia a quem est\u00e1 nos assistindo pela TV C\u00e2mara. Bom dia especial \u00e0 minha esposa Suane Barreirinhas, que compartilha comigo uma vida de muito amor e companheirismo h\u00e1 2 anos. Nossa fam\u00edlia existe e resiste, por mais que muitos n\u00e3o reconhe\u00e7am, desrespeitem e tentem agir com viol\u00eancia contra nossos corpos.\r\nSubo hoje a esta tribuna como uma mulher negra, bissexual, amaz\u00f4nida, trabalhadora da sa\u00fade e Deputada Federal do Par\u00e1. Neste m\u00eas da luta internacional das mulheres e que marca tamb\u00e9m os 3 anos do brutal assassinato da Vereadora Marielle Franco, em dezenas de cidades do Pa\u00eds, n\u00f3s Parlamentares de diversos pa\u00edses estamos comprometidas com a agenda Marielle Franco.\r\nO Instituto Marielle Franco, com todas essas Parlamentares, protocolou 12 projetos de lei apresentados por Marielle Franco, no Rio de Janeiro, v\u00e1rios deles j\u00e1 aprovados pela C\u00e2mara Municipal do Rio de Janeiro, projetos que carregam pol\u00edticas p\u00fablicas e propostas que podem e devem ser implementadas para a garantia de direito das mulheres, especialmente as negras e perif\u00e9ricas.\r\nN\u00f3s, enquanto mulheres negras Parlamentares, somos todo o tempo atacadas. Infelizmente, h\u00e1 um refor\u00e7o a esses ataques por parte do Governo Federal.\r\nDesde o final do ano passado, dezenas de Parlamentares negras eleitas sofreram amea\u00e7as e atentados contra suas vidas.\r\nPortanto, deixo aqui o nosso recado: n\u00e3o seremos interrompidas.\r\nNenhuma morte \u00e9 aceit\u00e1vel, e, quando uma Parlamentar eleita \u00e9 assassinada, isso \u00e9 um ferimento grave \u00e0 democracia brasileira.\r\nUm ensinamento antigo de nossas ancestrais e da nossa m\u00e3e Terra diz que n\u00f3s colhemos o que plantamos. Ent\u00e3o, se hoje estamos plantando projetos e ideias baseados no amor, na justi\u00e7a social e no bem viver de todas as pessoas, \u00e9 porque esse \u00e9 o mundo que queremos colher. E para cada cidad\u00e3o que desprezar a mem\u00f3ria de Marielle Franco e quiser plantar viol\u00eancia e \u00f3dio, seremos muitas de n\u00f3s unidas para defender a mem\u00f3ria e semear o amor e a justi\u00e7a.\r\nSeguiremos com firmeza pol\u00edtica, comprometidas com a agenda Marielle Franco e com o conjunto de pautas antirracistas, feministas e populares, em apoio \u00e0s a\u00e7\u00f5es do Instituto Marielle Franco, dirigido por Anielle, convidando todos os que est\u00e3o nos ouvindo para participar do Mar\u00e7o por Marielle Franco. Vamos fortalecer essa organiza\u00e7\u00e3o independente da sociedade civil, conectando e fortalecendo mulheres negras, LGBTs e perif\u00e9ricas.\r\nSeguimos movendo as estruturas.\r\nVamos firmes! Vamos juntas!\r\nMarielle, presente!\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o excetuadas aquelas que implicarem provimento de cargo ou emprego anteriormente ocupado por outro agente, constante no art. 167-A, inciso II, da Constitui\u00e7\u00e3o Federal, alterada pela Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - \u00c9 impressionante como o NOVO conseguiu piorar uma PEC que j\u00e1 \u00e9 muito terr\u00edvel para a realidade dos servidores e servidoras p\u00fablicas. Isto que estamos vendo hoje, o debate dessa PEC, \u00e9 mais uma forma de o Governo impor esta realidade de trag\u00e9dia, de adoecimento, de \u00f3bitos, sem perspectivas de condi\u00e7\u00f5es m\u00ednimas, sem um aux\u00edlio emergencial que de fato seja decente.\r\nN\u00f3s seguimos aqui em defesa dos servi\u00e7os p\u00fablicos de sa\u00fade, contra todos esses ataques aos servi\u00e7os p\u00fablicos e aos servidores e servidoras p\u00fablicas, em especial aos servidores e servidoras da sa\u00fade, da educa\u00e7\u00e3o e da seguran\u00e7a p\u00fablica, porque, em estado de calamidade, s\u00e3o esses os primeiros a serem exigidos.\r\nN\u00e3o d\u00e1 para aceitar a piora dessa PEC. N\u00f3s votamos para manter o texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F3%2F2021&txPagina=230&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-11T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SEGUNDO TURNO, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 169, da Carta Magna, na reda\u00e7\u00e3o dada pelo art. 1\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL encaminha \"n\u00e3o\" ao texto e favoravelmente ao destaque do PT. \u00c9 importante que vejamos o quanto ser\u00e1 adicionado com esse gasto com os pensionistas. Ser\u00e1 muito mais dif\u00edcil para Estados e Munic\u00edpios cumprirem a Lei de Responsabilidade Fiscal.\r\nEu queria aproveitar este tempo para denunciar o golpe que est\u00e1 acontecendo contra os servidores da seguran\u00e7a p\u00fablica. \u00c9 muito grave isso. Eu gostaria que os Deputados e as Deputadas que se posicionaram aqui a favor desta PEC refletissem sobre o que est\u00e3o fazendo contra os servidores e o servi\u00e7o p\u00fablico.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2021&txPagina=217&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-16T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, PROPOSI\u00c7\u00c3O ORIGINAL, MPV 1010/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.\r\nDEN\u00daNCIA, EXCLUS\u00c3O, PAR\u00c1 (ESTADO), MPV 998/2020, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI DO DESENVOLVIMENTO DO SETOR EL\u00c9TRICO, CONCESSION\u00c1RIA DE SERVI\u00c7O DE ENERGIA EL\u00c9TRICA, CRIT\u00c9RIO, APLICA\u00c7\u00c3O, RECURSOS, CONTA DE DESENVOLVIMENTO ENERG\u00c9TICO (CDE), MODICIDADE TARIF\u00c1RIA, CONTA-COVID, PANDEMIA, CORONAV\u00cdRUS, REDU\u00c7\u00c3O, TARIFA DE ENERGIA EL\u00c9TRICA.\r\nDEMISS\u00c3O, TRABALHADOR, ENERGIA EL\u00c9TRICA, PANDEMIA, CORONAV\u00cdRUS, REGI\u00c3O NORTE.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o do texto original da Medida Provis\u00f3ria n\u00ba 1.010, de 2020, sobre a isen\u00e7\u00e3o do pagamento da fatura de energia el\u00e9trica referente aos \u00faltimos 30 dias, aos consumidores dos Munic\u00edpios do Estado do Amap\u00e1 abrangidos pelo estado de calamidade p\u00fablica; e a altera\u00e7\u00e3o da Lei n\u00ba 10.438, de 2002. Protesto contra a exclus\u00e3o do Estado do Par\u00e1 da redu\u00e7\u00e3o de tarifas de energia el\u00e9trica pela Medida Provis\u00f3ria n\u00ba 998, de 2020. Demiss\u00e3o de eletricit\u00e1rios durante a epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta contra este destaque do NOVO.\r\n\u00c9 muito importante destacarmos que o Par\u00e1 \u00e9 o Estado que fornece energia para grande parte do Pa\u00eds e \u00e9 hoje o que paga mais caro pela energia. Inclusive, alguns Munic\u00edpios do Par\u00e1 nem ao menos t\u00eam acesso \u00e0 energia el\u00e9trica. Isso \u00e9 um verdadeiro absurdo.\r\nN\u00f3s quer\u00edamos j\u00e1 deixar aqui a den\u00fancia em rela\u00e7\u00e3o \u00e0 MP 998, que excluiu o Estado do Par\u00e1 da redu\u00e7\u00e3o de tarifas de energia.\r\nTamb\u00e9m j\u00e1 queria denunciar aqui o que est\u00e1 acontecendo com os eletricit\u00e1rios. A maioria \u00e9 do Norte do Pa\u00eds, e muitos foram demitidos em meio a uma pandemia. Isso n\u00e3o pode...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F3%2F2021&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-18T09:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SISTEMA \u00daNICO DE SA\u00daDE (SUS), PANDEMIA, CORONAVIRUS, PROFISSIONAL DE SA\u00daDE, JORNADA DE TRABALHO, ENFERMEIRO, REDU\u00c7\u00c3O, RECURSOS, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, .VACINA\u00c7\u00c3O, ISOLAMENTO SOCIAL, LOCKDOWN.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Relev\u00e2ncia do papel exercido pelo Sistema \u00danico de Sa\u00fade - SUS no atendimento aos pacientes da Covid-19. Congratula\u00e7\u00f5es aos profissionais da sa\u00fade atuantes na linha de frente de combate ao coronav\u00edrus. Apoio \u00e0s pautas hist\u00f3ricas relacionadas aos trabalhadores da sa\u00fade. Defesa de fixa\u00e7\u00e3o da carga hor\u00e1ria dos profissionais da enfermagem em 30 horas semanais. Enfraquecimento da pol\u00edtica nacional de humaniza\u00e7\u00e3o. Rep\u00fadio \u00e0 pol\u00edtica de cortes de recursos da sa\u00fade adotada pelo Presidente Jair Bolsonaro. Apoio \u00e0 vacina\u00e7\u00e3o do povo brasileiro, ao isolamento social e \u00e0 decreta\u00e7\u00e3o de lockdown  para combate \u00e0 Covid-19.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Bom dia a todos e a todas que est\u00e3o nos acompanhando.\r\nInfelizmente, cada vez mais a situa\u00e7\u00e3o em que o Brasil se encontra \u00e9 tr\u00e1gica. \u00c9 importante saudar o SUS, o Sistema \u00danico de Sa\u00fade, porque \u00e9 gra\u00e7as a ele que vidas est\u00e3o sendo salvas.\r\nQuero tamb\u00e9m parabenizar os profissionais de sa\u00fade que est\u00e3o na linha de frente do combate \u00e0 COVID-19. Todos eles merecem muito mais do que palmas, mas reconhecimento, valoriza\u00e7\u00e3o e condi\u00e7\u00f5es justas de trabalho. Por isso, n\u00f3s seguimos defendendo pautas hist\u00f3ricas relacionadas \u00e0s categorias de sa\u00fade, como piso salarial - da minha pr\u00f3pria categoria, os fisioterapeutas e terapeutas ocupacionais - e as 30 horas para a enfermagem, a psicologia e a fonoaudiologia, entre outras tem\u00e1ticas importantes.\r\nH\u00e1 hoje o enfraquecimento da Pol\u00edtica Nacional de Humaniza\u00e7\u00e3o, assim como de v\u00e1rios servi\u00e7os de sa\u00fade. Isso, a meu ver, parece muito intencional, pois o projeto pol\u00edtico seguido pelo Governo Federal, de fato, atinge a vida dos brasileiros e vai de encontro a ela. \u00c9 uma inoper\u00e2ncia intencional. N\u00f3s vimos acontecer toda aquela situa\u00e7\u00e3o de caos em Manaus, em v\u00e1rios Estados e Munic\u00edpios, em especial do Norte do Pa\u00eds. Ent\u00e3o, isso \u00e9 bem grave, meu povo.\r\n\u00c9 necess\u00e1rio dizer que esse projeto tamb\u00e9m est\u00e1 relacionado a desinvestimento, a cortes. No NASF, por exemplo, h\u00e1 corte de leitos dos servi\u00e7os de sa\u00fade, corte de leitos de UTI. No Par\u00e1, os dados s\u00e3o alarmantes: 100% de leitos da rede privada ocupados e 78% da rede p\u00fablica. S\u00e3o mais de 280 mil mortes no Brasil! E, segundo os \u00edndices, nas \u00faltimas 24 horas, ultrapassamos as 3 mil mortes. N\u00f3s precisamos nos indignar com tudo isso. Devemos seguir defendendo a vacina\u00e7\u00e3o para todos e todas, defendendo condi\u00e7\u00f5es para que o povo possa seguir em isolamento social e para que se fa\u00e7a um lockdown com direitos. Enfim, temos que seguir combatendo todas as mazelas do Governo.\r\nPor isso, eu digo, meu povo: vamos defender a sa\u00fade p\u00fablica. Qualquer pessoa que estiver contra a sa\u00fade p\u00fablica tamb\u00e9m est\u00e1 contra a vida do povo!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-23T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLP 266/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 266, de 2020, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 173, de 2020, acerca do Programa Federativo de Enfrentamento ao Coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Diante deste momento que vivemos hoje, de pandemia, em que precisamos de profissionais na linha de frente, assim como do fortalecimento das universidades p\u00fablicas, \u00e9 important\u00edssimo que aprovemos este projeto hoje.\r\nEu j\u00e1 queria deixar aqui todo o nosso apoio aos profissionais que foram aprovados em processos seletivos da EBSERH em v\u00e1rios Estados e que at\u00e9 hoje n\u00e3o foram chamados. Ent\u00e3o, este PLP 266 vai facilitar isso inclusive, que esses profissionais sejam chamados e possam atuar tamb\u00e9m na linha de frente do combate \u00e0 COVID-19.\r\nPresto a minha solidariedade aos profissionais do Par\u00e1 que foram aprovados num edital de 2016 e at\u00e9 hoje n\u00e3o foram chamados.\r\nEnt\u00e3o, em defesa da sa\u00fade p\u00fablica, o PSOL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2021&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-24T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SAUDE PUBLICA, MERCANTILISMO, PRIVATIZA\u00c7\u00c3O, CRITICA.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Contrariedade \u00e0 mercantiliza\u00e7\u00e3o da sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, mais uma mat\u00e9ria que debatemos a respeito de uma l\u00f3gica de privatiza\u00e7\u00e3o da sa\u00fade. Isso continua seguindo, como foi o caso da compra de vacinas, bem colocado aqui, em que j\u00e1 h\u00e1 v\u00e1rios casos de fura-fila, a partir dessa l\u00f3gica de compra de vacina pela iniciativa privada.\r\n\u00c9 um verdadeiro absurdo estarmos aqui debatendo de novo formas de subfinanciamento do SUS. Eu concordo quando \u00e9 dito que a vida n\u00e3o tem pre\u00e7o, que a sa\u00fade n\u00e3o tem pre\u00e7o. Por isso, a nossa defesa \u00e9 do SUS, porque sa\u00fade n\u00e3o \u00e9 mercadoria.\r\nMas quero destacar tamb\u00e9m que n\u00f3s dever\u00edamos debater, neste momento, proposta de fila \u00fanica para os servi\u00e7os de sa\u00fade, e n\u00e3o proposta para destinar recurso p\u00fablico \u00e0 iniciativa privada, porque depois nem vamos saber se de fato foi feito bom uso dele. Essa \u00e9 uma forma de drenar recursos para a iniciativa privada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F3%2F2021&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-06T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 948/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 5, apresentada ao Projeto de Lei n\u00ba 948, de 2021, sobre a altera\u00e7\u00e3o do art. 2\u00ba da Lei n\u00ba 14.125, de 2021, com vista ao estabelecimento de regras de aquisi\u00e7\u00e3o e doa\u00e7\u00e3o de vacinas por pessoas jur\u00eddicas de direito privado.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PSOL orienta \"sim\".\r\nN\u00f3s acreditamos que no momento que vivemos hoje, com a necessidade de vacina\u00e7\u00e3o para todos e todas, n\u00e3o tem como tratar a vacina como um privil\u00e9gio. A vacina tem que ser tratada como um direito. Diante disso, se os Deputados e as Deputadas est\u00e3o falando que querem garantir a vacina\u00e7\u00e3o, ent\u00e3o t\u00eam que votar \"sim\" a esse destaque, para que a vacina seja destinada com prioridade ao SUS, tal qual fizemos na vota\u00e7\u00e3o algumas semanas atr\u00e1s. Mas agora querem recorrer, a fim de garantir privil\u00e9gio para empres\u00e1rios, para quem pode pagar, n\u00e3o obedecendo ao princ\u00edpio de equidade do SUS, e sim ao crit\u00e9rio do bolso de quem pode pagar, fazendo camarote da vacina ou verdadeiros Titanics da vacina, como foi bem colocado por outros Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F4%2F2021&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-08T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, LICEN\u00c7A COMPULS\u00d3RIA, QUEBRA, PATENTE DE INVEN\u00c7\u00c3O, PATENTE DE PRODUTO, VACINA, PANDEMIA, CORONAV\u00cdRUS.\r\nIND\u00daSTRIA FARMAC\u00caUTICA, MEDICAMENTO, AIDS, RECURSOS P\u00daBLICOS.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Quebra de patentes de vacinas contra a Covid-19.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA) - Boa tarde a todas e a todos. Sauda\u00e7\u00e3o a todos os presentes.\r\nAgrade\u00e7o aos nossos convidados que fizeram uma boa discuss\u00e3o a respeito da tem\u00e1tica. \r\nHoje, n\u00f3s estamos numa conjuntura muito dif\u00edcil: h\u00e1 mais de 340 mil mortos v\u00edtimas da COVID-19, num contexto em que o Chefe do Executivo \u00e9 o principal incentivador da transmiss\u00e3o do v\u00edrus. \r\n\u00c9 um verdadeiro absurdo perceber que n\u00f3s dever\u00edamos estar tomando medidas que permitissem o cuidado com a sa\u00fade das pessoas. E a principal medida, neste momento, \u00e9 a garantia de vacina, \u00e9 a garantia de que o povo brasileiro seja, de fato, vacinado e tenha assegurado o seu direito \u00e0 sa\u00fade. \r\n\u00c9 bem delicado perceber que, ontem, por exemplo, n\u00f3s tivemos uma vota\u00e7\u00e3o que garantiu privil\u00e9gios, e n\u00e3o, direitos; garantiu que a iniciativa privada comprasse vacinas. J\u00e1 que se usou o discurso de a iniciativa privada comprar vacinas como forma de ampliar o n\u00famero de pessoas vacinadas no Brasil, n\u00e3o h\u00e1 por que se questionar sobre a quebra das patentes. \u00c9 necess\u00e1rio que, urgentemente, seja quebrado esse monop\u00f3lio, o que, inclusive, vai favorecer o retorno \u00e0s atividades econ\u00f4micas, necessidade de que tanto se fala.\r\n\u00c9 importante n\u00f3s destacarmos que nenhuma atividade econ\u00f4mica pode estar acima da vida das pessoas. O lucro n\u00e3o pode estar acima da vida das pessoas. Por isso, \u00e9 importante destacarmos que a quebra das patentes vai favorecer a produ\u00e7\u00e3o de mais vacinas e a democratiza\u00e7\u00e3o da distribui\u00e7\u00e3o desses produtos. O mesmo j\u00e1 se fez anteriormente, quando se quebraram patentes de antivirais contra o HIV, por exemplo, conforme foi muito citado aqui. \r\n\u00c9 importante enfatizar que a maioria das pesquisas realizadas para que houvesse, hoje, vacinas foi financiada com dinheiro p\u00fablico - cerca de 100 bilh\u00f5es de d\u00f3lares de recursos p\u00fablicos foram destinados \u00e0 ind\u00fastria farmac\u00eautica, para a realiza\u00e7\u00e3o de pesquisas.\r\nE n\u00f3s precisamos seguir defendendo as pesquisas, a ci\u00eancia, tudo que vem sendo feito para o desenvolvimento de estudos que possam favorecer a comunidade.\r\nEnt\u00e3o...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F4%2F2021&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 5595/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo relator da Comiss\u00e3o de Educa\u00e7\u00e3o ao Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Ficamos impressionados: como a educa\u00e7\u00e3o veio aparecer aqui hoje como tema essencial, sendo que tivemos tantas oportunidades de falar sobre a import\u00e2ncia da educa\u00e7\u00e3o, tantas oportunidades de pensar a quest\u00e3o da vacina\u00e7\u00e3o dos trabalhadores e das trabalhadoras da educa\u00e7\u00e3o, tantas oportunidades de pensar nos recursos para a educa\u00e7\u00e3o, e isso n\u00e3o foi feito concretamente?\r\nEnt\u00e3o, hoje se traz este debate, colocando-se as aulas presenciais como atividade essencial apenas para fazer uma manobra, apenas para querer pautar goela abaixo e derrotar a luta hist\u00f3rica dos trabalhadores e trabalhadoras por valoriza\u00e7\u00e3o e pela garantia de uma educa\u00e7\u00e3o de qualidade em meio a esta pandemia.\r\nN\u00e3o h\u00e1 como ter educa\u00e7\u00e3o de qualidade sem condi\u00e7\u00f5es m\u00ednimas. Por isso, somos contra...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=219&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 3729/2004, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), DESCUMPRIMENTO, CONVEN\u00c7\u00c3O N\u00ba 169 DA OIT SOBRE POVOS IND\u00cdGENAS E TRIBAIS (1989).",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.729, de 2004, sobre o disciplinamento do processo de licenciamento ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, este projeto de lei, que, na verdade, deveria ser chamado de PL da destrui\u00e7\u00e3o geral do licenciamento ou do n\u00e3o licenciamento, \u00e9 um verdadeiro esc\u00e2ndalo.\r\nEu queria pedir aos nobres Deputados e Deputadas que n\u00e3o carregassem nas costas essa responsabilidade de ir contra princ\u00edpios e direitos constitucionais, como o direito ao meio ambiente, \u00e0 participa\u00e7\u00e3o, \u00e0 terra. Este PL vai contra acordos internacionais e desrespeita a Conven\u00e7\u00e3o n\u00ba 169 da Organiza\u00e7\u00e3o Internacional do Trabalho - OIT.\r\nEu queria destacar que o Brasil carece de estrutura para que os \u00f3rg\u00e3os licenciadores atuem em melhores condi\u00e7\u00f5es de atender as demandas atuais. N\u00e3o podemos deixar que isso siga.\r\nN\u00f3s do PSOL estamos em obstru\u00e7\u00e3o, porque, por tr\u00e1s deste PL, h\u00e1 uma inten\u00e7\u00e3o de aumento do desmatamento e um projeto para deixar a boiada passar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PL 3729/2004, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR, CR\u00cdTICA, USINA HIDREL\u00c9TRICA BELO MONTE, PAR\u00c1 (ESTADO), REGULAMENTA\u00c7\u00c3O, LICENCIAMENTO AMBIENTAL, MEIO AMBIENTE.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do  Projeto de Lei n\u00ba 3.729, de 2004, sobre o disciplinamento do processo de licenciamento ambiental. Preju\u00edzos ambientais e sociais causados pela constru\u00e7\u00e3o da Usina Hidrel\u00e9trica Belo Monte, Estado do Par\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, foi muito citada aqui a Usina Hidrel\u00e9trica Belo Monte. \u00c9 importante destacar que essa \u00e9 a usina mais cara e a menos produtiva do Brasil. Eu falo aqui como uma pessoa que \u00e9 do Estado do Par\u00e1 e que lutou contra a constru\u00e7\u00e3o dessa usina hidrel\u00e9trica. A Usina Hidrel\u00e9trica Belo Monte, hoje, n\u00e3o consegue atender nem ao menos o povo paraense, que paga car\u00edssimo pela energia que consome. \r\nO principal preju\u00edzo da Usina Hidrel\u00e9trica Belo Monte n\u00e3o se deve aos gastos do licenciamento ambiental, mas \u00e0s consequ\u00eancias ambientais e sociais, ao ecoc\u00eddio que hoje \u00e9 vivido naquela regi\u00e3o. \r\nN\u00f3s n\u00e3o podemos, hoje, seguir para aprovar este projeto.\r\nEnt\u00e3o, o PSOL est\u00e1 em obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-13T11:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3729/2004, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 19, apresentada ao Projeto de Lei n\u00ba 3.729, de 2004, sobre o licenciamento ambiental; regulamenta\u00e7\u00e3o do inciso IV do \u00a7 1\u00ba do art. 225 da Constitui\u00e7\u00e3o Federal; altera\u00e7\u00e3o das Leis n\u00bas 9.605, de 1998, e 9.985, de 2000; e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 7.661, de 1988.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Al\u00e9m de querer passar a boiada, voc\u00eas tamb\u00e9m t\u00eam uma historinha para boi dormir, n\u00e3o \u00e9, meus nobres Deputados? Noventa e cinco por cento do desmatamento est\u00e1 nas proximidades das estradas da Amaz\u00f4nia. A pavimenta\u00e7\u00e3o de estradas vai aumentar o fluxo, vai atrair mais gente, vai promover mais devasta\u00e7\u00e3o, vai atingir diretamente as florestas. Isso \u00e9 muito grave. N\u00f3s n\u00e3o podemos permitir que isso seja aprovado.\r\nPor isso, o PSOL orienta \"sim\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 1031/2021, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nMPV 1031/2021, MEDIDA PROVIS\u00d3RIA, PRIVATIZA\u00c7\u00c3O, CENTRAIS EL\u00c9TRICAS BRASILEIRAS (ELETROBRAS), CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.031, de 2021, sobre a desestatiza\u00e7\u00e3o da empresa Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL segue em obstru\u00e7\u00e3o. Diferentemente da bancada do NOVO, n\u00f3s do PSOL somos contra qualquer privatiza\u00e7\u00e3o. \r\nN\u00e3o vamos aceitar que um servi\u00e7o t\u00e3o importante para a popula\u00e7\u00e3o seja entregue nas m\u00e3os de interesses privados. Foi a ELETROBRAS, foram os trabalhadores eletricit\u00e1rios que conseguiram resolver todo o problema do apag\u00e3o no Amap\u00e1. Por isso, n\u00f3s seguimos em obstru\u00e7\u00e3o, na defesa dos servi\u00e7os p\u00fablicos e do funcionalismo p\u00fablico.\r\nN\u00f3s nos posicionamos aqui em obstru\u00e7\u00e3o. E quero destacar que os Deputados e as Deputadas que votarem a favor da privatiza\u00e7\u00e3o da ELETROBRAS estar\u00e3o assinando a sua defesa de um projeto contra o povo.\r\nN\u00e3o podemos aceitar que a privatiza\u00e7\u00e3o aconte\u00e7a. Ent\u00e3o, pe\u00e7o aos caros Deputados, para que n\u00e3o aumente a energia, para que n\u00e3o...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T23:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 1031/2021, MEDIDA PROVISORIA, PARTIDO SOCIALISMO E LIBERADE (PSOL), VOTO FAVORAVEL.\r\nJAIR BOLSONARO, PRESIDENTE DA REPUBLICA, CRITICA.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 85, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 1.031, de 2021, relativa \u00e0 privatiza\u00e7\u00e3o das Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS. Convoca\u00e7\u00e3o dos trabalhadores brasileiros para participa\u00e7\u00e3o em mobiliza\u00e7\u00f5es no Pa\u00eds contra o Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, diante dessa entrega do setor el\u00e9trico \u00e0 iniciativa privada, essa emenda busca preservar o poder da Uni\u00e3o em quest\u00f5es fundamentais, em quest\u00f5es referentes \u00e0 soberania nacional, \u00e0 seguran\u00e7a energ\u00e9tica e h\u00eddrica do Pa\u00eds.\r\nPor isso, o PSOL orienta \"sim\" nesta vota\u00e7\u00e3o.\r\nAproveito os minutos que me restam para fazer aqui o chamado para o dia 29. Dia 29 \u00e9 um grande dia de luta, \u00e9 um dia para o qual est\u00e1 sendo feito um chamado para que sejam realizadas mobiliza\u00e7\u00f5es em todo o Brasil, mobiliza\u00e7\u00f5es em defesa dos direitos dos trabalhadores e trabalhadoras, em defesa da vida, da sa\u00fade e contra esse Presidente, que tem um projeto genocida.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, EMENDA, SENADO FEDERAL, PLV 3/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1017/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR. \r\nMANIFESTA\u00c7\u00c3O, PROFISSIONAL DE SA\u00daDE, ENFERMAGEM, BRAS\u00cdLIA (DF), DEFESA, VIDA, REIVINDICA\u00c7\u00c3O, ENFERMEIRO, T\u00c9CNICO DE ENFERMAGEM, AUX\u00cdLIAR DE ENFERMAGEM.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da discuss\u00e3o das Emendas do Senado Federal ao Projeto de Lei de Convers\u00e3o n\u00ba 3, de 2021, da Medida Provis\u00f3ria n\u00ba 1.017, de 2020, sobre a defini\u00e7\u00e3o das diretrizes de quita\u00e7\u00e3o e renegocia\u00e7\u00e3o de d\u00edvidas referentes \u00e0s deb\u00eantures, emitidas por empresas e subscritas pelos fundos de investimentos regionais, e de desinvestimento, liquida\u00e7\u00e3o e extin\u00e7\u00e3o dos fundos mencionados. Apoio \u00e0 manifesta\u00e7\u00e3o realizada por profissionais da enfermagem na Esplanada dos Minist\u00e9rios, em Bras\u00edlia, Distrito Federal. Defesa de atendimento \u00e0 pauta de reivindica\u00e7\u00f5es da categoria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nQueria aproveitar este tempo para informar que trabalhadores e profissionais da enfermagem est\u00e3o hoje aqui na frente, na Esplanada, fazendo uma manifesta\u00e7\u00e3o em defesa da vida de profissionais da enfermagem que foram mortos v\u00edtimas da COVID-19 e v\u00edtimas tamb\u00e9m do projeto genocida do Presidente Jair Bolsonaro. Temos aqui profissionais de sa\u00fade que est\u00e3o na linha de frente, profissionais que merecem valoriza\u00e7\u00e3o, e n\u00e3o s\u00f3 palmas, profissionais que precisam do seu piso salarial garantido e tamb\u00e9m da garantia das 30 horas.\r\nPor isso, deixo aqui a minha declara\u00e7\u00e3o de solidariedade e de apoio \u00e0 luta de enfermeiros, enfermeiras, auxiliares e t\u00e9cnicos de enfermagem que est\u00e3o na linha de frente. Muitos est\u00e3o morrendo no exerc\u00edcio da sua profiss\u00e3o, que \u00e9 tamb\u00e9m salvar vidas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, EMENDA, SENADO FEDERAL,  PLV 3/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1017/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da vota\u00e7\u00e3o das Emendas do Senado Federal ao Projeto de Lei de Convers\u00e3o n\u00ba 3, de 2021, da Medida Provis\u00f3ria n\u00ba 1.017, de 2020, sobre a defini\u00e7\u00e3o das diretrizes de quita\u00e7\u00e3o e renegocia\u00e7\u00e3o de d\u00edvidas referentes \u00e0s deb\u00eantures, emitidas por empresas e subscritas pelos fundos de investimentos regionais, e de desinvestimento, liquida\u00e7\u00e3o e extin\u00e7\u00e3o dos fundos mencionados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL segue em obstru\u00e7\u00e3o, porque \u00e9 muito grave o que est\u00e1 sendo feito hoje, a extin\u00e7\u00e3o dos Fundos de Investimentos da Amaz\u00f4nia e do Nordeste. N\u00e3o h\u00e1 como compactuar com isso. Ent\u00e3o, a nossa posi\u00e7\u00e3o enquanto PSOL \u00e9 de obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA, SENADO FEDERAL, PARECER FAVOR\u00c1VEL, PLV 3/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1017/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas do Senado Federal, com parecer favor\u00e1vel, oferecidas ao Projeto de Lei de Convers\u00e3o n\u00ba 3, de 2021, da Medida Provis\u00f3ria n\u00ba 1.017, de 2020, sobre a defini\u00e7\u00e3o das diretrizes de quita\u00e7\u00e3o e renegocia\u00e7\u00e3o de d\u00edvidas referentes \u00e0s deb\u00eantures, emitidas por empresas e subscritas pelos fundos de investimentos regionais, e de desinvestimento, liquida\u00e7\u00e3o e extin\u00e7\u00e3o dos fundos mencionados, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL vota \"n\u00e3o\".\r\nN\u00f3s acreditamos que n\u00e3o h\u00e1 como fazer essa vota\u00e7\u00e3o hoje, de forma arbitr\u00e1ria, a toque de caixa. Tentamos, a todo momento, barrar essa vota\u00e7\u00e3o, mas, como chegamos ao m\u00e9rito, ent\u00e3o, a orienta\u00e7\u00e3o do PSOL \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, PLV 3/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1017/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 1, apresentada ao Projeto de Lei de Convers\u00e3o n\u00ba 3, de 2021, da Medida Provis\u00f3ria n\u00ba 1.017, de 2020, sobre a defini\u00e7\u00e3o das diretrizes de quita\u00e7\u00e3o e renegocia\u00e7\u00e3o de d\u00edvidas referentes \u00e0s deb\u00eantures, emitidas por empresas e subscritas pelos fundos de investimentos regionais, e de desinvestimento, liquida\u00e7\u00e3o e extin\u00e7\u00e3o dos fundos mencionados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"n\u00e3o\", Presidente. \r\nMais uma vez, tenta-se facilitar a vida das empresas. Vai haver o perd\u00e3o de d\u00edvidas e vai-se impedir que sejam exigidas novas garantias caso haja renegocia\u00e7\u00e3o. Diante de um hist\u00f3rico de inadimpl\u00eancia, isso \u00e9 um verdadeiro absurdo. \r\nEnt\u00e3o, o PSOL orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, PLV 3/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1017/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.\r\nDEFESA, APROVA\u00c7\u00c3O, PL 1731/2021, PROJETO DE LEI ORDIN\u00c1RIA, PISO SALARIAL, FISIOTERAPEUTA, TERAPEUTA OCUPACIONAL, SENADO FEDERAL, PANDEMIA, CORONAV\u00cdRUS, SISTEMA \u00daNICO DE SA\u00daDE (SUS).",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 2, apresentada ao Projeto de Lei de Convers\u00e3o n\u00ba 3, de 2021, da Medida Provis\u00f3ria n\u00ba 1.017, de 2020, sobre a defini\u00e7\u00e3o das diretrizes de quita\u00e7\u00e3o e renegocia\u00e7\u00e3o de d\u00edvidas referentes \u00e0s deb\u00eantures, emitidas por empresas e subscritas pelos fundos de investimentos regionais, e de desinvestimento, liquida\u00e7\u00e3o e extin\u00e7\u00e3o dos fundos mencionados. Defesa de aprova\u00e7\u00e3o, pelo Senado Federal, do Projeto de Lei n\u00ba 1.731, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.856, de 1994, com vista ao estabelecimento do piso salarial nacional dos profissionais da fisioterapeuta e terapeuta ocupacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"n\u00e3o\".\r\nQueria aproveitar este minutinho, j\u00e1 que s\u00f3 temos a oportunidade de usar 1 minuto, para dizer, nesse clima de mobiliza\u00e7\u00e3o da enfermagem, que eu tamb\u00e9m gostaria de declarar apoio e dar toda a for\u00e7a aos profissionais da fisioterapia e da terapia ocupacional. Essa \u00e9 a minha categoria. Com muito orgulho, sou fisioterapeuta.\r\nEst\u00e1 tramitando no Senado o PL 1.731, que disp\u00f5e sobre o piso salarial dos profissionais da fisioterapia e da terapia ocupacional, categorias important\u00edssimas que tamb\u00e9m atuam na linha de frente do combate \u00e0 COVID-19, seguem sendo fundamentais, inclusive no processo de reabilita\u00e7\u00e3o p\u00f3s-COVID, e precisam urgentemente de valoriza\u00e7\u00e3o, com piso salarial digno.\r\nEnt\u00e3o, em defesa do SUS, em defesa da fisioterapia e da terapia ocupacional, refor\u00e7o meu apoio \u00e0 aprova\u00e7\u00e3o do piso salarial dessas categorias.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, PLV 3/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1017/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO, FUNDO DE INVESTIMENTO DA AMAZ\u00d4NIA (FINAM).",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 3, apresentada ao Projeto de Lei de Convers\u00e3o n\u00ba 3, de 2021, da Medida Provis\u00f3ria n\u00ba 1.017, de 2020, sobre a defini\u00e7\u00e3o das diretrizes de quita\u00e7\u00e3o e renegocia\u00e7\u00e3o de d\u00edvidas referentes \u00e0s deb\u00eantures, emitidas por empresas e subscritas pelos fundos de investimentos regionais, e de desinvestimento, liquida\u00e7\u00e3o e extin\u00e7\u00e3o dos fundos mencionados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL orienta \"n\u00e3o\".\r\nAlguns Deputados estavam falando sobre a quest\u00e3o dos recursos. \u00c9 importante dizer que a garantia de recursos \u00e9 uma decis\u00e3o pol\u00edtica. Poderia haver realoca\u00e7\u00e3o de recursos para se garantir, por exemplo, que o Fundo Amaz\u00f4nia siga apoiando projetos nas \u00e1reas de gest\u00e3o de florestas p\u00fablicas e \u00e1reas protegidas; controle, monitoramento e fiscaliza\u00e7\u00e3o ambiental; atividades econ\u00f4micas desenvolvidas a partir do uso sustent\u00e1vel da vegeta\u00e7\u00e3o; recupera\u00e7\u00e3o de \u00e1reas desmatadas. Podem ser utilizados at\u00e9 20% dos recursos do Fundo Amaz\u00f4nia para apoio ao desenvolvimento de sistemas de monitoramento e controle do desmatamento em outros biomas brasileiros e em outros pa\u00edses tropicais.\r\nHoje, se n\u00e3o h\u00e1 esses recursos, \u00e9 poss\u00edvel realocar outros recursos e seguir incentivando e apoiando esses projetos. Essa \u00e9 uma decis\u00e3o pol\u00edtica",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, EMENDA, SENADO FEDERAL, PLV 4/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1016/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nMANIFESTA\u00c7\u00c3O P\u00daBLICA, MOVIMENTO SOCIAL, PROFISSIONAL DE SA\u00daDE, MOVIMENTO DE PROTESTO, CR\u00cdTICA, GOVERNO FEDERAL, INFLA\u00c7\u00c3O, DESEMPREGO, FOME, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta das Emendas do Senado Federal ao Projeto de Lei de Convers\u00e3o n\u00ba 4, de 2021, da Medida Provis\u00f3ria n\u00ba 1.016, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 7.827, de 1989, com vista \u00e0 renegocia\u00e7\u00e3o extraordin\u00e1ria de d\u00e9bitos no \u00e2mbito do Fundo Constitucional de Financiamento do Norte - FNO; do Fundo Constitucional de Financiamento do Nordeste - FNE; e do Fundo Constitucional de Financiamento do Centro-Oeste - FCO. Convoca\u00e7\u00e3o dos trabalhadores brasileiros e da sociedade em geral, para participa\u00e7\u00e3o em movimento nacional contra o Governo Jair Bolsonaro, no dia 29 de maio de 2021.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL est\u00e1 em obstru\u00e7\u00e3o.\r\nQueria aqui fazer um chamado para o 29 de maio. Est\u00e1 sendo organizada uma manifesta\u00e7\u00e3o com os movimentos sociais, o movimento estudantil e entidades, que est\u00e3o indignados com a conjuntura atual e querem, de fato, que seja feita alguma mudan\u00e7a diante deste cen\u00e1rio de pandemia, que segue ca\u00f3tico. As pessoas hoje est\u00e3o em situa\u00e7\u00e3o de fome, de mis\u00e9ria, de pobreza, de desemprego, devido a tantas desigualdades sociais.\r\nN\u00f3s temos que nos manifestar perante tudo isso. A exemplo dos profissionais de sa\u00fade, que v\u00eam se manifestando com as devidas medidas de seguran\u00e7a sanit\u00e1ria, n\u00f3s estaremos ocupando as ruas no dia 29 de maio. Em Bel\u00e9m, a concentra\u00e7\u00e3o ser\u00e1 \u00e0s 8 horas da manh\u00e3 na Pra\u00e7a da Rep\u00fablica.\r\nEm defesa das vidas; fora, Bolsonaro!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nCR\u00cdTICA, APROVA\u00c7\u00c3O, PEC 32/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA ADMINISTRATIVA (2020), COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), SERVIDOR P\u00daBLICO, PANDEMIA, CORONAV\u00cdRUS, ESTABILIDADE NO SERVI\u00c7O P\u00daBLICO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de  2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais destinadas \u00e0 avia\u00e7\u00e3o civil brasileira, em face da epidemia de coronav\u00edrus. Protesto contra a aprova\u00e7\u00e3o, pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 32, de 2020, acerca da reforma administrativa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PSOL orienta \"sim\". N\u00f3s precisamos discutir esse assunto melhor. Inclusive, pedimos a retirada dos arts. 3\u00ba e 4\u00ba. Ainda h\u00e1 muito debate a ser feito. \r\nEu queria aproveitar o tempo para expressar o nosso rep\u00fadio \u00e0 aprova\u00e7\u00e3o da PEC 32 hoje na CCJ. \u00c9 um verdadeiro absurdo o que est\u00e1 acontecendo aqui, esse ataque aos trabalhadores e trabalhadoras, aos servidores p\u00fablicos, a esses que est\u00e3o hoje na linha de frente no combate \u00e0 COVID-19, a esses que est\u00e3o lutando para garantir o futuro do Brasil, inclusive a muitos jovens que est\u00e3o na universidade e querem ter oportunidade da estabilidade de um concurso p\u00fablico.\r\nEnt\u00e3o, deixo aqui tamb\u00e9m registrado o nosso rep\u00fadio \u00e0 aprova\u00e7\u00e3o hoje da PEC 32 na CCJ.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER (PROCESSO LEGISLATIVO), COMISS\u00c3O MISTA,  MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDAE (PSOL), VOTO FAVORAVEL.\r\nGENOCIDIO, GRUPO INDIGENA, PL 490/2007, PROJETO DE LEI ORDINARIA, ALTERA\u00c7\u00c3O, ESTATUTO DO \u00cdNDIO, CONTRARIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao n\u00e3o atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de  2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais destinadas \u00e0 avia\u00e7\u00e3o civil brasileira, em face da epidemia de coronav\u00edrus. An\u00fancio da realiza\u00e7\u00e3o de manifesto com o slogan Evite o genoc\u00eddio ind\u00edgena, contra a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 490, de 2007, sobre a altera\u00e7\u00e3o da Lei n\u00b0 6.001, de 1973, relativa ao Estatuto do \u00cdndio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta o voto \"sim\", Sr. Presidente.\r\nEu queria tamb\u00e9m registrar que amanh\u00e3 estaremos nos mobilizando, a partir das 9 horas, fazendo o tuita\u00e7o \"Evite o genoc\u00eddio ind\u00edgena\" contra o Projeto de Lei n\u00ba 490.\r\nEnt\u00e3o, eu j\u00e1 chamo todo mundo que est\u00e1 nos acompanhando pela TV C\u00e2mara para se somar conosco.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFERENCIA, PROPOSI\u00c7\u00c3O ORIGINAL, MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, PLV 9/2021, PROJETO DE LEI DE CONVERS\u00c3O, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.\r\nAPROVA\u00c7\u00c3O, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), PEC 32/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA ADMINISTRATIVA (2020), JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, PROTESTO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para a vota\u00e7\u00e3o do texto original da Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de  2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais destinadas \u00e0 avia\u00e7\u00e3o civil brasileira, diante da epidemia de coronav\u00edrus, em detrimento do Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2021. An\u00fancio de realiza\u00e7\u00e3o nos Estados brasileiros, no dia 29 de maio de 2021, de manifesta\u00e7\u00f5es contra o Governo Jair Bolsonaro. Rep\u00fadio \u00e0 aprova\u00e7\u00e3o, pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 32, de 2020, sobre a reforma administrativa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Eu n\u00e3o sei se eu oriento ou se eu voto. Dif\u00edcil. (Risos.)\r\nPresidente, o PSOL orienta o voto \"sim\".\r\nEsse substitutivo, esse preferencial est\u00e1 melhor. Essa vers\u00e3o est\u00e1 melhor do que a outra apresentada. Ent\u00e3o, n\u00f3s seguimos nessa orienta\u00e7\u00e3o, \"sim\".\r\nQuero aproveitar este tempo para refor\u00e7ar que no dia 29, com todos os cuidados sanit\u00e1rios, realizaremos nos nossos Estados manifesta\u00e7\u00f5es contra este Governo, que \u00e9 antipovo e que est\u00e1 buscando aprovar suas medidas aqui na C\u00e2mara, inclusive com mais esse ataque que foi a aprova\u00e7\u00e3o da PEC 32 hoje na CCJ.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDAE (PSOL),  VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 3, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de 2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais destinadas \u00e0 avia\u00e7\u00e3o civil brasileira, diante da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta o voto \"sim\". \u00c9 muito importante garantirmos esse direito ao consumidor, para que ele possa ter condi\u00e7\u00f5es favor\u00e1veis, ainda mais neste momento, quando pessoas est\u00e3o perdendo familiares e precisam remarcar seus compromissos.\r\nEnt\u00e3o, com certeza, a emenda vai ser muito importante para a garantia do direito dos consumidores e consumidoras brasileiros.\r\nO PSOL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDAE (PSOL),   VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 2, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de 2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais destinadas \u00e0 avia\u00e7\u00e3o civil brasileira, diante da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"sim\", Presidente. N\u00f3s entendemos que a proposta apresentada pelo PCdoB \u00e9 muito favor\u00e1vel para os consumidores, porque garante o direito dos consumidores e inclusive amplia isso.\r\nEnt\u00e3o, nossa orienta\u00e7\u00e3o \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T21:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 9/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL).",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 3\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2021, da Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de 2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais para a avia\u00e7\u00e3o civil brasileira, institu\u00eddas em decorr\u00eancia da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, esse destaque \u00e9 do PSOL. Portanto, votamos \"n\u00e3o\", ou seja, pela supress\u00e3o do texto. \r\nNo artigo consta um tipo de renegocia\u00e7\u00e3o de contratos de concess\u00e3o. N\u00f3s acreditamos que isso n\u00e3o cabe nesse projeto, e n\u00e3o h\u00e1 como debatermos isso agora. Seria necess\u00e1ria uma nova discuss\u00e3o s\u00f3 para isso. Por conta disso, n\u00f3s orientamos \"n\u00e3o\", justamente para suprimir essa parte do texto. Assim, poderemos encaminhar da melhor forma poss\u00edvel, sem colocar esse jabuti, que est\u00e1 piorando a situa\u00e7\u00e3o e se tornando um problema nesta vota\u00e7\u00e3o, que poder\u00edamos estar fazendo sem essa parte do texto. \r\nEnt\u00e3o, pela supress\u00e3o do texto, \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEN\u00daNCIA, GARIMPEIRO, INVAS\u00c3O, ALDEIA IND\u00cdGENA, JACAREACANGA (PA), DESTRUI\u00c7\u00c3O, HABITA\u00c7\u00c3O. \r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, RICARDO SALLES, MINISTRO DE ESTADO DO MEIO AMBIENTE, FAVORAVEL, GARIMPEIRO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Den\u00fancia de invas\u00e3o, por garimpeiros, da aldeia ind\u00edgena Fazenda Tapaj\u00f3s, no Estado do Par\u00e1. Demoli\u00e7\u00e3o e inc\u00eandio da casa da l\u00edder ind\u00edgena munduruku, Maria Leusa. Coniv\u00eancia do Presidente Jair Bolsonaro e do Ministro do Meio Ambiente, Ricardo Salles, com a invas\u00e3o de territ\u00f3rios ind\u00edgenas por garimpeiros.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Como L\u00edder. Sem revis\u00e3o da oradora.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, primeiramente, pe\u00e7o perd\u00e3o caso eu me emocione durante esta fala, para a qual eu pe\u00e7o a aten\u00e7\u00e3o de todos os Parlamentares aqui presentes, porque \u00e9 um assunto muito grave, que eu gostaria n\u00e3o se limitasse aos territ\u00f3rios paraenses.\r\nEu quero denunciar o crime que est\u00e1 acontecendo hoje no Par\u00e1, na regi\u00e3o de Jacareacanga: lideran\u00e7as ind\u00edgenas est\u00e3o sendo perseguidas e atacadas. A aldeia Fazenda Tapaj\u00f3s foi invadida. Uma aldeia foi invadida por garimpeiros que queimaram a casa de uma lideran\u00e7a ind\u00edgena, a da Maria Leusa. Queimaram a casa dessa lideran\u00e7a ind\u00edgena.\r\nEsses garimpeiros n\u00e3o t\u00eam medo, seguem violando os direitos humanos dos povos ind\u00edgenas, porque eles s\u00e3o apoiados pelo Presidente Jair Messias Bolsonaro, o genocida. Inclusive, eles sentem tanta liberdade para fazer esses ataques que atacaram tamb\u00e9m a Pol\u00edcia Federal, que est\u00e1 na regi\u00e3o para uma opera\u00e7\u00e3o de prote\u00e7\u00e3o aos territ\u00f3rios ind\u00edgenas e contra a pr\u00e1tica do garimpo ilegal. \r\nQueimaram a casa da Maria Leusa. Estou falando isso pela terceira vez. Queimaram uma casa, amea\u00e7aram...\r\nA SRA. FERNANDA MELCHIONNA (PSOL - RS) - Presidente Bismarck, eu queria pedir aten\u00e7\u00e3o. \r\nPe\u00e7o que a Deputada Vivi Reis pare um pouquinho seu pronunciamento. \r\nA Deputada est\u00e1 fazendo uma important\u00edssima den\u00fancia no plen\u00e1rio, n\u00e3o \u00e9 qualquer coisa. H\u00e1 lideran\u00e7as ind\u00edgenas com casas queimadas, com viol\u00eancia, policiais federais sendo atacados por garimpeiros, e o plen\u00e1rio de fato est\u00e1 muito barulhento. \r\nPor isso, eu gostaria de pedir, com todo o respeito, a todos e todas mais aten\u00e7\u00e3o \u00e0 importante den\u00fancia que a Deputada Vivi Reis faz. \r\nA SRA. VIVI REIS (PSOL - PA) - Obrigada, Deputada Fernanda Melchionna.\r\nQueimaram a casa da Maria Leusa e amea\u00e7aram seguir com esse projeto de ataque. Amea\u00e7aram seguir atacando outras aldeias, como a Aldeia de Santa Cruz. A situa\u00e7\u00e3o \u00e9 grav\u00edssima. H\u00e1 grande confronto entre policiais federais, garimpeiros e povos ind\u00edgenas do povo mundurucu do Par\u00e1.\r\nJair Bolsonaro e o Ministro do desmatamento Ricardo Salles t\u00eam culpa disso, pois s\u00e3o a favor dessa atua\u00e7\u00e3o criminosa em terras ind\u00edgenas. \r\nEu deixo aqui o meu apoio ao povo mundurucu, aos povos do Tapaj\u00f3s, aos povos ind\u00edgenas de todo o Brasil. \r\nO que est\u00e1 acontecendo neste Pa\u00eds, Deputados e Deputadas, o que est\u00e1 acontecendo na Amaz\u00f4nia \u00e9 um massacre autorizado e legitimado pelo Governo Federal, \u00e9 uma guerra, uma guerra contra os povos ind\u00edgenas, mas n\u00f3s n\u00e3o ficaremos calados. \r\nDeputados e Deputadas, de que lado V.Exas. est\u00e3o? Temos que ser a favor da vida. Temos que nos posicionar contra esse genoc\u00eddio de povos ind\u00edgenas. \r\nVidas ind\u00edgenas importam! Todo apoio ao povo mundurucu!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "OBRA CIVIL,  INFRAESTRUTURA RODOVI\u00c1RIA, PREJU\u00cdZO, MEIO AMBIENTE, CONSULTA, COMUNIDADE TRADICIONAL.\r\nRODOVIA, CONSTRU\u00c7\u00c3O, PAR\u00c1, PREJU\u00cdZO, QUILOMBOLAS.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Protesto contra a constru\u00e7\u00e3o de empreendimentos e obras dissonantes com o meio ambiente, \u00e0 revelia dos povos tradicionais. Posicionamento da oradora contr\u00e1rio \u00e0 constru\u00e7\u00e3o da Rodovia da Liberdade, no Estado do Par\u00e1.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Muito obrigada, Presidente. V.Exa. \u00e9 muito gentil. \r\nBoa tarde a todos e a todas. \r\nEu queria utilizar esse tempo de fala para apresentar algumas an\u00e1lises e den\u00fancias importantes. \r\nHoje, no Pa\u00eds, n\u00f3s estamos vendo cada vez mais a quest\u00e3o ambiental tomando destaque no cen\u00e1rio nacional. S\u00e3o diversos empreendimentos, na verdade crimes, s\u00e3o grandes obras que querem implementar no Brasil, e n\u00f3s precisamos nos posicionar e defender de fato que qualquer movimenta\u00e7\u00e3o no contexto ambiental seja feita com a devida consulta pr\u00e9via aos povos tradicionais das regi\u00f5es afetadas. \r\nE isso se aplica a obras como a Ferrogr\u00e3o, que vai cortar Santar\u00e9m, passando por dentro das florestas. \r\nEu queria destacar um tema muito importante para n\u00f3s daqui do Par\u00e1 que \u00e9 a constru\u00e7\u00e3o da Rodovia Liberdade. A Rodovia Liberdade ter\u00e1 cerca de 14 quil\u00f4metros e vai atingir diretamente os povos tradicionais, em especial os quilombolas da Regi\u00e3o Metropolitana de Bel\u00e9m. Essa constru\u00e7\u00e3o est\u00e1 sendo tocada sem ao menos um debate dessa proposta, sem que se realize o direito \u00e0 consulta pr\u00e9via.\r\n Ent\u00e3o, eu quero fazer essa den\u00fancia aqui. N\u00e3o podemos aceitar que uma obra seja constru\u00edda, seja efetivada neste Pa\u00eds sem o direito \u00e0 consulta pr\u00e9via. \r\nHoje, houve uma grande manifesta\u00e7\u00e3o aqui em Bel\u00e9m do Par\u00e1 na Avenida Almirante Barroso, uma das principais vias de Bel\u00e9m, que conecta a cidade a outros Munic\u00edpios. E nesta manifesta\u00e7\u00e3o se posicionaram estudantes, pessoas da comunidade, o conjunto de sujeitos que s\u00e3o protagonistas e defensores do meio ambiente e da vida.\r\nEu quero registrar essa den\u00fancia. Somos contr\u00e1rios \u00e0 constru\u00e7\u00e3o da Rodovia Liberdade. Estamos ao lado dos defensores da Amaz\u00f4nia, dos defensores dos direitos dos povos tradicionais e na luta pela garantia da consulta pr\u00e9via e dos direitos da Amaz\u00f4nia. E n\u00e3o vamos aceitar nenhum tipo de... \r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1540/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nGOVERNO FEDERAL, CORTE, RECURSOS OR\u00c7AMENT\u00c1RIOS, UNIVERSIDADE FEDERAL DO PAR\u00c1 (UFPA), EDUCA\u00c7\u00c3O IND\u00cdGENA, QUILOMBOLAS, ASSIST\u00caNCIA ESTUDANTIL, ALUNO UNIVERSIT\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.540, de 2021, sobre a institui\u00e7\u00e3o da Pol\u00edtica de Bem-Estar, Sa\u00fade e Qualidade de Vida no Trabalho e Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o. Protesto contra o corte de recursos or\u00e7ament\u00e1rios da Universidade Federal do Par\u00e1 - UFPA. Inviabiliza\u00e7\u00e3o das pol\u00edticas de assist\u00eancia aos estudantes ind\u00edgenas e quilombolas, implantadas pela institui\u00e7\u00e3o de ensino superior.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"sim\" a esta urg\u00eancia.\r\nQuero aproveitar o tempo para fazer uma den\u00fancia sobre os v\u00e1rios ataques que est\u00e3o sendo feitos \u00e0s universidades p\u00fablicas. A UFPA, por exemplo, a maior universidade do Norte do Brasil, sofreu cortes de cerca de 30 milh\u00f5es de reais.\r\nNesse contexto, tamb\u00e9m estamos vivendo uma grande problem\u00e1tica: a falta de recursos para garantia de assist\u00eancia estudantil a estudantes quilombolas e ind\u00edgenas. A pol\u00edtica de cotas, de acesso de quilombolas e ind\u00edgenas \u00e0 universidade precisa ser casada, precisa ser vinculada a uma pol\u00edtica de perman\u00eancia estudantil.\r\nPor isso, j\u00e1 quero aqui deixar a den\u00fancia dos cortes, que n\u00e3o est\u00e3o permitindo que seja efetivada a pol\u00edtica de assist\u00eancia estudantil a estudantes ind\u00edgenas e quilombolas da Universidade Federal do Par\u00e1.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONTR\u00c1RIO, MPV 1052/2021, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI DOS FUNDOS CONSTITUCIONAIS, TAXA DE ADMINISTRA\u00c7\u00c3O, BANCO, FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO NORTE (FNO), FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO NORDESTE (FNE), FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO CENTRO-OESTE (FCO), EMENDA, CR\u00c9DITO, POPULA\u00c7\u00c3O, REGI\u00c3O AMAZ\u00d4NICA, MANIFESTA\u00c7\u00c3O P\u00daBLICA, BANC\u00c1RIO, BANCO P\u00daBLICO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Empenho da oradora na rejei\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.052, de 2021, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 12.712, de 2012; 7.827, de 1989; 10.177, de 2001; e 9.126, 1995. Defesa de preserva\u00e7\u00e3o do Fundo Constitucional de Financiamento do Nordeste - FNE; do Fundo Constitucional de Financiamento do Norte - FNO; e do Fundo Constitucional de Financiamento do Centro-Oeste - FCO. An\u00fancio da realiza\u00e7\u00e3o de movimento de banc\u00e1rios em frente \u00e0 sede do Banco da Amaz\u00f4nia, em Bel\u00e9m, Estado do Par\u00e1.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Como L\u00edder. Sem revis\u00e3o da oradora.) - Boa noite a todos e a todas!\r\nMuito obrigada, Presidente, pela palavra.\r\nEu gostaria de fazer uma interven\u00e7\u00e3o a respeito da Medida Provis\u00f3ria n\u00ba 1.052, de 2021. N\u00f3s precisamos lutar contra a MP 1.052/21. Essa MP afetar\u00e1 os fundos constitucionais, o FNO, o FNE e o FCO, que financiam importantes projetos para o desenvolvimento das Regi\u00f5es Norte, Nordeste e Centro-Oeste.\r\n\u00c9 um tema de grande relev\u00e2ncia, Sras. e Srs. Deputados. \u00c9 um tema que necessita da nossa aten\u00e7\u00e3o especial. Por isso, eu, como Deputada do Par\u00e1, apresentei uma emenda tamb\u00e9m relacionada a essa MP, para que seja garantido o cr\u00e9dito \u00e0 popula\u00e7\u00e3o da Amaz\u00f4nia. Nesse contexto, n\u00f3s precisamos debater esse tema, entender esse grave ataque aos fundos constitucionais e aos bancos p\u00fablicos.\r\nPor isso, n\u00f3s estamos, juntamente com as associa\u00e7\u00f5es, com a AEBA - Associa\u00e7\u00e3o dos Empregados do Banco da Amaz\u00f4nia, com a AFBNB - Associa\u00e7\u00e3o dos Funcion\u00e1rios do Banco do Nordeste do Brasil e tamb\u00e9m com a Diretoria do Banco da Amaz\u00f4nia, lutando contra essa MP 1.052/21.\r\nNesse contexto, eu queria, al\u00e9m de manifestar o meu apoio a esse tema t\u00e3o importante para n\u00f3s, povo da Amaz\u00f4nia, tamb\u00e9m fazer um chamado para as manifesta\u00e7\u00f5es e para as atividades do calend\u00e1rio de lutas que est\u00e1 sendo organizado pelas associa\u00e7\u00f5es da categoria, com um forte protagonismo dos banc\u00e1rios e banc\u00e1rias.\r\nNesse sentido, j\u00e1 quero fazer o chamado para a manifesta\u00e7\u00e3o presencial, com todos os cuidados sanit\u00e1rios, que vai acontecer no dia 10 de junho, a partir das 10 horas, na frente da sede do Banco da Amaz\u00f4nia, na Presidente Vargas, em Bel\u00e9m do Par\u00e1. E tamb\u00e9m haver\u00e1 um ato virtual, que acontecer\u00e1 a partir das 19 horas. \r\nTodas essas lutas s\u00e3o important\u00edssimas para os trabalhadores do setor banc\u00e1rio, dos bancos da Amaz\u00f4nia, do Nordeste e do Centro-Oeste. \u00c9 importante tamb\u00e9m para toda a popula\u00e7\u00e3o que hoje utiliza os servi\u00e7os desses bancos. E \u00e9 importante tamb\u00e9m para a economia dessas regi\u00f5es. N\u00e3o podemos aceitar esse brutal ataque aos bancos p\u00fablicos regionais.\r\nPor isso, eu estou aqui j\u00e1 declarando o meu apoio, dizendo que estamos contra a MP 1.052/21. \r\nVamos lutar, juntos e juntas, pela garantia da economia da Amaz\u00f4nia e de todas essas regi\u00f5es, que hoje, com certeza, precisam desses bancos p\u00fablicos para seguirem desenvolvendo-se.\r\nMuito obrigada pela palavra. \r\nSigamos em defesa dessa categoria, em defesa dos bancos p\u00fablicos e contra a MP 1.052/21!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-15T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1208/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.\r\nPL 490/2007, PROJETO DE LEI ORDINARIA, ALTERA\u00c7\u00c3O, ESTATUTO DO \u00cdNDIO, PROTESTO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.208, de 2021, sobre a cria\u00e7\u00e3o do Programa Pr\u00f3-Pesquisa-Covid-19, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus. Realiza\u00e7\u00e3o de manifesto de ind\u00edgenas nas imedia\u00e7\u00f5es da Casa contra a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 490, de 2007, acerca da altera\u00e7\u00e3o da Lei n\u00b0 6.001, de 1973, relativa ao Estatuto do \u00cdndio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"sim\" \u00e0 retirada de pauta, Presidente. O projeto parece muito bom, mas no final das contas vai ser dinheiro p\u00fablico destinado para a iniciativa privada, que visa sempre ao lucro, acima da vida. Ent\u00e3o, n\u00f3s votamos pela retirada de pauta, orientamos \"sim\".\r\nQuero aproveitar este tempo para registrar a import\u00e2ncia das mobiliza\u00e7\u00f5es dos povos ind\u00edgenas aqui em frente ao Anexo II e ao Anexo III, uma luta pela garantia dos seus direitos e contra o PL 490, um PL altamente danoso aos direitos ind\u00edgenas, que altera a quest\u00e3o da demarca\u00e7\u00e3o de terras ind\u00edgenas, fazendo com que as terras ind\u00edgenas sejam inclusive exploradas por pessoas n\u00e3o ind\u00edgenas. Ent\u00e3o, eu queria tamb\u00e9m fazer a nossa den\u00fancia contra o PL 490.\r\nO PSOL orienta \"sim\" \u00e0 retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-15T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL1208/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.208, de 2021, sobre a cria\u00e7\u00e3o do Programa Pr\u00f3-Pesquisa-Covid-19 durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, ressalvados os destaques. Realiza\u00e7\u00e3o de investimentos nos setores de educa\u00e7\u00e3o e pesquisa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, com as mudan\u00e7as apresentadas pela Deputada Soraya, o PSOL muda a sua posi\u00e7\u00e3o, orienta \"sim\", pela import\u00e2ncia do projeto, j\u00e1 que se ter\u00e1 um limite de at\u00e9 30% da dedu\u00e7\u00e3o, chegando at\u00e9 50%, no caso de empresas ligadas ao setor da sa\u00fade. Acreditamos que esse ainda n\u00e3o \u00e9 o melhor dos cen\u00e1rios, mas, com essas mudan\u00e7as, podemos apoi\u00e1-lo, orientando \"sim\" ao projeto.\r\nEu j\u00e1 queria deixar aqui tamb\u00e9m um destaque para a import\u00e2ncia de se investir na educa\u00e7\u00e3o p\u00fablica, nas universidades p\u00fablicas, na pesquisa, nos centros de produ\u00e7\u00e3o cient\u00edfica que sejam ligados ao setor p\u00fablico. Ressalto essa import\u00e2ncia, porque sabemos que o Governo, hoje em dia, faz mais cortes do que incentivos \u00e0...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-15T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1208/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 1.208, de 2021, sobre a cria\u00e7\u00e3o do Programa Pr\u00f3-Pesquisa-Covid-19 durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"sim\". \u00c9 muito importante que essa dedu\u00e7\u00e3o incida sobre a contribui\u00e7\u00e3o.\r\nN\u00f3s queremos aqui tamb\u00e9m apoiar as falas no sentido de que dever\u00edamos propor e votar projetos que incentivem o investimento em ci\u00eancia, em tecnologia, nas universidades p\u00fablicas. A todo momento se fala sobre apoio \u00e0 iniciativa privada.\r\n\u00c9 urgente que este Governo apoie essa \u00e1rea, interrompa a pol\u00edtica de corte de or\u00e7amento das universidades federais, que tamb\u00e9m est\u00e3o na linha de frente do combate \u00e0 COVID-19, est\u00e3o produzindo muita ci\u00eancia, produzindo pesquisas, produzindo tecnologia para o povo brasileiro.\r\nEnt\u00e3o, o voto \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-15T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 10887/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 10.887, de 2018, sobre a altera\u00e7\u00e3o da Lei n\u00b0 8.429, de 1992, relativa \u00e0 improbidade administrativa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL orienta \"n\u00e3o\" \u00e0 urg\u00eancia, pois ainda temos que debater melhor sobre o m\u00e9rito do projeto.\r\nAcreditamos que o ideal seria que ele tramitasse nas Comiss\u00f5es. N\u00e3o \u00e9 o momento ainda de trazer esta vota\u00e7\u00e3o para o plen\u00e1rio.\r\nEnt\u00e3o, orientamos \"n\u00e3o\" \u00e0 urg\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-21T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, PLV 07/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1031/2021, MEDIDA PROVISORIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 2, apresentada ao Projeto de Lei de Convers\u00e3o n\u00ba 7, de 2021, da Medida Provis\u00f3ria n\u00ba 1.031, de 2021, sobre a desestatiza\u00e7\u00e3o da empresa Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Muito obrigada, Presidente.\r\nO PSOL orienta \"sim\". Para o PSOL, \u00e9 fundamental a defesa dos trabalhadores e das trabalhadoras. Por isso, n\u00f3s tamb\u00e9m nos posicionamos contra as demiss\u00f5es dos eletricit\u00e1rios em meio \u00e0 pandemia, que, ali\u00e1s, atingiu v\u00e1rios trabalhadores do Norte do Pa\u00eds.\r\n\u00c9 importante seguir denunciando esta MP, denunciando que o que est\u00e1 sendo votado hoje \u00e9 uma verdadeira vergonha para este Pa\u00eds. Privatizar a ELETROBRAS significa atingir diretamente milhares de fam\u00edlias, significa atingir aqueles que mais necessitam, aqueles que s\u00e3o os menos assistidos por este conjunto de Parlamentares.\r\nPortanto, n\u00f3s seguimos contra esta privatiza\u00e7\u00e3o e, neste ponto, orientamos o voto \"sim\", pela garantia destes 12 meses de realoca\u00e7\u00e3o dos trabalhadores e das trabalhadoras.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, MPV 1034/2021, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nPL 490/2007, PROJETO DE LEI ORDIN\u00c1RIA, DEMARCA\u00c7\u00c3O, TERRAS IND\u00cdGENAS, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), APROVA\u00c7\u00c3O, CR\u00cdTICA",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 1, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 1.034, de 2021, a respeito da majora\u00e7\u00e3o tribut\u00e1ria da Contribui\u00e7\u00e3o Social sobre o Lucro L\u00edquido - CSLL do setor financeiro; da altera\u00e7\u00e3o da isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI na compra de autom\u00f3veis por pessoa com defici\u00eancia; da revoga\u00e7\u00e3o da tributa\u00e7\u00e3o de produtos destinados a centrais petroqu\u00edmicas at\u00e9 31/12/2021; e da dedu\u00e7\u00e3o do cr\u00e9dito presumido relativo \u00e0 contribui\u00e7\u00e3o para o PIS/PASEP de pessoa jur\u00eddica fabricante de produtos utilizados em hospitais, cl\u00ednicas, consult\u00f3rios m\u00e9dicos e campanhas de vacina\u00e7\u00e3o at\u00e9 31/12/2025. Protesto contra a aprova\u00e7\u00e3o, pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, do Projeto de Lei n\u00ba 490, de 2007, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.001, de 1973, a respeito do Estatuto do \u00cdndio. Pedido de demiss\u00e3o do Ministro do Meio Ambiente, Ricardo Salles. Necessidade de interrup\u00e7\u00e3o do processo de devasta\u00e7\u00e3o ambiental patrocinado pelo Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"sim\".\r\nEu queria aproveitar este tempo para, mais uma vez, denunciar a trag\u00e9dia que foi aprovada hoje na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a - CCJ. Refiro-me ao Projeto de Lei n\u00ba 490, de 2007.\r\nHouve muita luta, muita resist\u00eancia dos povos ind\u00edgenas. N\u00f3s vamos seguir resistindo.\r\nHoje Ricardo Salles pede demiss\u00e3o, mas a luta n\u00e3o est\u00e1 dada. \u00c9 importante que n\u00e3o deixemos que o projeto para a boiada passar siga.\r\nN\u00e3o adianta s\u00f3 o Salles pedir demiss\u00e3o. N\u00f3s precisamos interromper esse projeto genocida do Governo Bolsonaro, que tamb\u00e9m quer deixar a boiada passar.\r\nA orienta\u00e7\u00e3o do PSOL \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, MPV 1034/2021, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL, DIREITOS, PESSOA COM DEFICI\u00caNCIA.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 2, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 1.034, de 2021, a respeito da majora\u00e7\u00e3o tribut\u00e1ria da Contribui\u00e7\u00e3o Social sobre o Lucro L\u00edquido - CSLL do setor financeiro; da altera\u00e7\u00e3o da isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI na compra de autom\u00f3veis por pessoa com defici\u00eancia; da revoga\u00e7\u00e3o da tributa\u00e7\u00e3o de produtos destinados a centrais petroqu\u00edmicas at\u00e9 31/12/2021; e da dedu\u00e7\u00e3o do cr\u00e9dito presumido relativo \u00e0 contribui\u00e7\u00e3o para o PIS/PASEP de pessoa jur\u00eddica fabricante de produtos utilizados em hospitais, cl\u00ednicas, consult\u00f3rios m\u00e9dicos e campanhas de vacina\u00e7\u00e3o at\u00e9 31/12/2025.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL orienta \"sim\", deixando aqui evidente que \u00e9 necess\u00e1rio seguirmos na garantia dos direitos das pessoas com defici\u00eancia nessa modifica\u00e7\u00e3o que retira a restri\u00e7\u00e3o do benef\u00edcio fiscal. As pessoas com defici\u00eancia t\u00eam que ser acolhidas por n\u00f3s. N\u00e3o podemos aceitar qualquer retrocesso em rela\u00e7\u00e3o inclusive ao direito de mobilidade pessoal com a m\u00e1xima independ\u00eancia, direito preconizado no art. 20 da Conven\u00e7\u00e3o sobre os Direitos das Pessoas com Defici\u00eancia. \r\nFico muito feliz de aqui poder defender essa posi\u00e7\u00e3o, pois, al\u00e9m de ser Deputada Federal, sou fisioterapeuta com forma\u00e7\u00e3o universit\u00e1ria e sei bem quais as necessidades das pessoas com defici\u00eancia em rela\u00e7\u00e3o \u00e0 mobilidade, em especial quanto ao transporte adequado \u00e0s suas necessidades.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-01T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 3855/2020, PROJETO DE LEI  ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pela Relatora da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 3.855, de 2020, sobre a institui\u00e7\u00e3o, em \u00e2mbito nacional, do Agosto Lil\u00e1s como m\u00eas de prote\u00e7\u00e3o e conscientiza\u00e7\u00e3o para o fim da viol\u00eancia contra a mulher, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, \u00e9 uma alegria v\u00ea-lo nessa Mesa! N\u00f3s estamos lado a lado nas lutas em defesa da sa\u00fade.\r\n\u00c9 muito importante esse projeto. N\u00f3s temos que seguir buscando medidas que sejam voltadas para prote\u00e7\u00e3o, para preven\u00e7\u00e3o, para aspectos educativos em defesa das mulheres, combatendo a viol\u00eancia de g\u00eanero, combatendo o feminic\u00eddio. Ent\u00e3o, com certeza \u00e9 important\u00edssimo que n\u00f3s aprovemos esse projeto. O PSOL orienta \"sim\".\r\nE eu espero que esse projeto, de fato, atinja todas as regi\u00f5es do Brasil, para que as mulheres na sua diversidade - mulheres trans, mulheres l\u00e9sbicas, mulheres bissexuais, mulheres amaz\u00f4nidas, ind\u00edgenas, ribeirinhas, quilombolas - possam ser beneficiadas por esse projeto. Ser mulher \u00e9 algo muito complexo e diverso.\r\nPor isso, n\u00f3s apoiamos o projeto e somos favor\u00e1veis ao m\u00e9rito da mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-06T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 12/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba  12, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.279, de 1996, com vista a concess\u00e3o de licen\u00e7a compuls\u00f3ria de patentes, nos casos de declara\u00e7\u00e3o de emerg\u00eancia nacional ou internacional, de interesse p\u00fablico ou de reconhecimento de estado de calamidade p\u00fablica de \u00e2mbito nacional, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - N\u00f3s do PSOL somos favor\u00e1veis ao Projeto de Lei n\u00ba 12, de 2021. Entendemos que o monop\u00f3lio das patentes atrasa a produ\u00e7\u00e3o de rem\u00e9dios e vacinas, al\u00e9m de encarec\u00ea-los, e que, com essa garantia das licen\u00e7as compuls\u00f3rias, \u00e9 poss\u00edvel preservar vidas. Entendemos tamb\u00e9m que isso vai nos beneficiar n\u00e3o s\u00f3 no contexto de hoje, da pandemia da COVID-19, mas tamb\u00e9m em qualquer outra emerg\u00eancia sanit\u00e1ria.\r\nNesse momento em que n\u00f3s estamos vendo v\u00e1rios casos de tentativa de negocia\u00e7\u00e3o da sa\u00fade p\u00fablica, de negocia\u00e7\u00e3o de vacinas como se fossem uma mera mercadoria, n\u00f3s devemos seguir aqui apresentando, votando e aprovando projetos que viabilizem o atendimento mais r\u00e1pido \u00e0 popula\u00e7\u00e3o e a diminui\u00e7\u00e3o no pre\u00e7o dos insumos. Por isso, n\u00f3s do PSOL tamb\u00e9m teremos emendas a serem apresentadas.\r\nSeguimos aqui defendendo a sa\u00fade, o direito e a vida da popula\u00e7\u00e3o brasileira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO  DE URG\u00caNCIA, PL 385/2021, PROJETO DE LEI ORDINARIA, PARTIDO SOCIALISMO E LIBERDAE (PSOL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 385, de 2021, sobre medidas alternativas de prova de vida para os benefici\u00e1rios da Previd\u00eancia Social, durante o estado de calamidade p\u00fablica reconhecido pelo Congresso Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Hoje, na Presid\u00eancia, est\u00e3o s\u00f3 os nortistas. \u00c9 muito bom isso, Presidente.\r\nO SR. PRESIDENTE (Marcelo Ramos. PL - AM) - Estamos tomando o poder, Deputada Vivi.(Risos.)\r\nA SRA. VIVI REIS (PSOL - PA) - Em breve, temos que colocar as mulheres do Norte tamb\u00e9m. \r\nSr. Presidente, este projeto \u00e9 muito importante, e n\u00f3s do PSOL orientamos a favor. O projeto visa desburocratizar esse processo de comprova\u00e7\u00e3o, ou seja, a prova de vida, de forma que o benefici\u00e1rio n\u00e3o vai precisar se expor, n\u00e3o vai precisar enfrentar filas, n\u00e3o vai precisar se colocar em risco de ser contaminado pelo coronav\u00edrus.\r\nEnt\u00e3o, em defesa da preserva\u00e7\u00e3o da vida dos benefici\u00e1rios, em defesa do processo de desburocratiza\u00e7\u00e3o em meio a uma pandemia, tirando esse risco de contamina\u00e7\u00e3o, n\u00f3s do PSOL orientamos a favor da mat\u00e9ria.\r\nOrientamos \"sim\" \u00e0 urg\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1360/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.\r\nESTATUTO DA CRIAN\u00c7A E DO ADOLESCENTE (ECA), ANIVERS\u00c1RIO, HOMENAGEM.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Transcurso do 31\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Estatuto da Crian\u00e7a e do Adolescente. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pela Relatora da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 1.360, de 2021, referente \u00e0 cria\u00e7\u00e3o de mecanismos de coibi\u00e7\u00e3o e preven\u00e7\u00e3o da viol\u00eancia dom\u00e9stica e familiar contra crian\u00e7as e adolescentes, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - \u00c9 importante iniciarmos esta orienta\u00e7\u00e3o falando sobre o dia desta semana. Ontem mesmo, foi uma data muito simb\u00f3lica para n\u00f3s: o ECA fez 31 anos!\r\nEnt\u00e3o, eu j\u00e1 queria iniciar esta interven\u00e7\u00e3o saudando os 31 anos do ECA e falando sobre os dados alarmantes quanto \u00e0 quest\u00e3o da viol\u00eancia contra as crian\u00e7as em meio \u00e0 pandemia. E, na maior parte desses casos, os agressores est\u00e3o dentro da pr\u00f3pria casa, dentro dos espa\u00e7os familiares.\r\nEu queria aqui, nesta oportunidade, parabenizar a Deputada Carmen Zanotto e o conjunto de Deputadas que conseguiram fazer altera\u00e7\u00f5es importantes no texto, que conseguiram, a partir dessas orienta\u00e7\u00f5es, melhorar a proposta inicial. \r\nMesmo assim, eu tamb\u00e9m gostaria de destacar que nem tudo o que n\u00f3s debatemos aqui pode ser utilizado como sa\u00edda apenas nos aumentos de pena. N\u00f3s tamb\u00e9m temos que adequar uma pol\u00edtica que garanta formas educativas e mudan\u00e7as estruturais.\r\nDiante do m\u00e9rito e da import\u00e2ncia da mat\u00e9ria em defesa das crian\u00e7as e dos adolescentes, contra a viol\u00eancia dom\u00e9stica aplicada \u00e0s crian\u00e7as, o PSOL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 2633/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL, CONTR\u00c1RIO, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA, GRILAGEM, CRIME AMBIENTAL, TERRAS IND\u00cdGENAS, QUILOMBOLAS, PRODUTOR RURAL, PAR\u00c1 (ESTADO), FOME, AGRONEG\u00d3CIO, CR\u00cdTICA, GOVERNO FEDERAL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.633, de 2020, a respeito da regulariza\u00e7\u00e3o fundi\u00e1ria.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Muito obrigada. \r\nPrimeiramente, quero dizer que estou com uma grande dificuldade de acessar a Internet, porque estou no Munic\u00edpio de Almeirim, no Par\u00e1, que \u00e9 bem distante dos grandes centros. \u00c9 muito importante que n\u00f3s possamos pensar cada vez mais em construir pol\u00edticas que fujam dos eixos dos grandes centros. \r\nPrecisamos destacar que este projeto \u00e9 uma verdadeira afronta aos direitos dos povos do campo, dos povos ind\u00edgenas e das comunidades quilombolas. Ele vai acabar favorecendo titula\u00e7\u00f5es de grandes posses de terras irregulares. Isso tamb\u00e9m vai fazer com que sejam facilitados o pagamento e o perd\u00e3o de infra\u00e7\u00f5es ambientais. Isso \u00e9 muito grave.\r\nJ\u00e1 existe legisla\u00e7\u00e3o pr\u00f3pria e suficiente para garantir a legaliza\u00e7\u00e3o das pequenas ocupa\u00e7\u00f5es. Ent\u00e3o, n\u00f3s n\u00e3o temos como hoje votar esse projeto. N\u00e3o podemos garantir aqui que seja feita a vota\u00e7\u00e3o de um projeto que vai criar incentivos para grileiros de terras p\u00fablicas. Isso \u00e9 um absurdo! Por isso, n\u00f3s precisamos adiar essa vota\u00e7\u00e3o. Trata-se de mais uma lei que vai aumentar as desigualdades, favorecer os grileiros e atingir diretamente a vida e o direito dos povos do campo. \r\nEu digo isso como algu\u00e9m que tem fam\u00edlia no campo, aqui no Par\u00e1, na Amaz\u00f4nia, e n\u00e3o \u00e9 fam\u00edlia de latifundi\u00e1rio ou de grileiro, n\u00e3o; \u00e9 fam\u00edlia de produtor, de pequeno produtor familiar, daqueles e daquelas que n\u00e3o andam com uma pistola em cima do seu ombro, como quis reproduzir o Governo Bolsonaro, genocida e ecocida, que colocou uma imagem do pequeno agricultor com uma pistola, com uma arma. \r\nN\u00e3o \u00e9 isso que n\u00f3s queremos. Queremos pensar pol\u00edtica para aqueles e aquelas que de fato contribuem para botar o p\u00e3o na mesa. Existem dados que mostram que houve recorde na safra do agroneg\u00f3cio. Enquanto isso, aumenta a fome do povo brasileiro. Ent\u00e3o, n\u00f3s temos que seguir combatendo a fome. N\u00f3s precisamos votar aqui projetos em defesa do povo, em defesa dos pequenos, em defesa dos povos amaz\u00f4nicos. \r\nN\u00e3o h\u00e1 como seguir na pauta esse projeto. Por isso, n\u00f3s estamos aqui a favor do adiamento de sua vota\u00e7\u00e3o. Esse PL \u00e9 um grande equ\u00edvoco, \u00e9 um ataque ao meio ambiente e \u00e0 vida.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-05T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 591/2021, PROJETO DE LEI ORDINARIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 19, apresentada ao Projeto de Lei n\u00ba 591, de 2021, sobre o marco regulat\u00f3rio, a organiza\u00e7\u00e3o e manuten\u00e7\u00e3o do Sistema Nacional de Servi\u00e7os Postais (privatiza\u00e7\u00e3o dos correios).",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Presidente, \u00e9 um verdadeiro absurdo o que aconteceu aqui agora: a privatiza\u00e7\u00e3o dos Correios, em meio a uma pandemia, em meio a uma necessidade de fortalecimento dos servi\u00e7os p\u00fablicos. \u00c9 assim que este Congresso est\u00e1 respondendo a este momento t\u00e3o tr\u00e1gico: retirando direitos, atacando os Correios.\r\nMas eu queria saudar e louvar todos os trabalhadores dos Correios que fizeram uma luta \u00e1rdua e dizer que n\u00f3s vamos seguir lutando. \r\nEu queria apresentar a nossa emenda do PSOL, que diz respeito \u00e0 diferencia\u00e7\u00e3o geogr\u00e1fica. Eu falo aqui como uma Deputada do Par\u00e1, da Amaz\u00f4nia, que h\u00e1 pouco vim do oeste do Par\u00e1, de lugares a que s\u00f3 se consegue chegar depois de horas e horas de barco; lugares em que muitas das vezes n\u00e3o se tem outro servi\u00e7o que n\u00e3o sejam os Correios. E \u00e9 atrav\u00e9s dos Correios que toda essa popula\u00e7\u00e3o tem a garantia de dignidade. \r\nN\u00f3s n\u00e3o podemos deixar que seja feita diferencia\u00e7\u00e3o geogr\u00e1fica, que se aumentem as tarifas de acordo com a regi\u00e3o e que haja desigualdades regionais. Temos que discutir o acesso para quem mora fora dos centros urbanos.\r\nN\u00f3s precisamos nos preocupar com a presta\u00e7\u00e3o do servi\u00e7o postal, para que seja garantido esse direito, de fato, a toda a popula\u00e7\u00e3o brasileira e para que n\u00e3o seja feita nenhuma diferencia\u00e7\u00e3o.\r\nOu V.Exas. n\u00e3o se recordam que toda vez que se pede um frete ou se pede algum produto para a Amaz\u00f4nia, para o Norte do Pa\u00eds, h\u00e1 restri\u00e7\u00f5es? Sempre \u00e9 muito mais dif\u00edcil chegarem servi\u00e7os ao Norte do Pa\u00eds e ter-se acesso a produtos ou a correspond\u00eancias ou ao que for necess\u00e1rio nessa regi\u00e3o. Com nossos Correios garantidos como servi\u00e7o p\u00fablico, era poss\u00edvel que se quebrassem essas desigualdades sociais e territoriais, e agora n\u00f3s queremos apresentar esta proposta, para que nessa tarifa postal n\u00e3o haja diferencia\u00e7\u00e3o geogr\u00e1fica e que seja utilizado um modelo que possa, de fato, garantir a equidade, esse direito a todos aqueles e aquelas que est\u00e3o longe dos grandes centros.\r\nEu digo isso como Deputada da Amaz\u00f4nia e quero contar com o apoio de Deputados e Deputadas que, de fato, se preocupam com este Pa\u00eds, que se preocupam...",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T13:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, SA\u00daDE P\u00daBLICA, SISTEMA UNICO DE SAUDE (SUS).\r\nJAIR BOLSANARO, PREIDENTE DA REP\u00daBLICA, GEST\u00c3O, PANDEMIA, CORONAV\u00cdRUS, MORTALIDADE, GENOC\u00cdDIO.\r\nDISTRIBUI\u00c7\u00c3O, VACINA, CORONAV\u00cdRUS, DESIGUALDADE, DISTRIBUI\u00c7\u00c3O, PREJU\u00cdZO, REGI\u00c3O NORTE, REGI\u00c3O NORDESE.  \r\nTRATAMENTO PRECOCE, CORONAV\u00cdRUS, NOT\u00cdCIA FALSA (FAKE NEWS). \r\nCOMIS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), SENADO FEDERAL, PANEMIA, CORONAV\u00cdRUS, GOVERNO, CORRUP\u00c7AO. \r\nPROFISSIONAL DE SA\u00daDE, VALORIZA\u00c7\u00c3O.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Debate da situa\u00e7\u00e3o da sa\u00fade no Brasil.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA) - Boa tarde a todos. Boa tarde a todas. Sa\u00fado o Presidente da Mesa, o Deputado Odorico Monteiro.\r\n\u00c9 muito importante celebrarmos o Dia Nacional da Sa\u00fade e denunciarmos como est\u00e1 a situa\u00e7\u00e3o da sa\u00fade no nosso Pa\u00eds. Em meio \u00e0 pandemia da COVID-19, o Presidente Bolsonaro fez a op\u00e7\u00e3o por um projeto genocida, por um projeto antipovo, por um projeto que n\u00e3o valorizou o SUS e que fez com que o Brasil hoje ocupasse marcas vergonhosas quanto \u00e0 vacina\u00e7\u00e3o, j\u00e1 que \u00e9 o oitavo pa\u00eds em mortes por COVID-19 no mundo. S\u00e3o mais de 564 mil vidas perdidas no Brasil! Aproveito para manifestar toda a minha solidariedade a todos aqueles e a todas aquelas que perderam pessoas queridas, v\u00edtimas da COVID-19.\r\nEu, trabalhadora na sa\u00fade, fisioterapeuta, algu\u00e9m que trabalhou no SUS no interior do Estado do Par\u00e1, acredito que a sa\u00fade n\u00e3o pode ser vista como uma mercadoria. A sa\u00fade precisa ser um direito. A sa\u00fade n\u00e3o pode estar num balc\u00e3o de neg\u00f3cios. \r\nEu recordo que, no in\u00edcio da pandemia, se dizia que a COVID-19 iria atingir igualmente toda a popula\u00e7\u00e3o. Contudo, o que n\u00f3s estamos vendo hoje, na pr\u00e1tica, \u00e9 que existem pessoas que, sim, foram mais atingidas: aqueles e aquelas que n\u00e3o foram priorizados em termos de uma pol\u00edtica de cuidados; aqueles e aquelas que est\u00e3o distantes dos grandes centros econ\u00f4micos; aqueles e aquelas que, muitas vezes, n\u00e3o tiveram as condi\u00e7\u00f5es m\u00ednimas para poderem alimentar suas fam\u00edlias. Falo daqueles que n\u00e3o morreram de COVID, mas que correram o risco de morrer de fome.\r\nQuero destacar, neste contexto geral, o absurdo sobre esta discrep\u00e2ncia territorial em que vivemos. \r\nSem d\u00favida, existe hoje uma diferen\u00e7a de prioridades em rela\u00e7\u00e3o \u00e0 sa\u00fade. Por qu\u00ea? As vacinas n\u00e3o foram distribu\u00eddas de forma justa, e os Estados do Norte e do Nordeste foram os que receberam as menores doses de vacina proporcionalmente \u00e0 sua popula\u00e7\u00e3o. Isso atinge diretamente sujeitos que historicamente j\u00e1 sofriam nessa sociedade. A pandemia desnudou todos esses problemas sociais. Atingiu a m\u00e3e solo, atingiu os povos ind\u00edgenas e quilombolas, atingiu as pessoas perif\u00e9ricas, negros e negras, acirrou cada vez mais a viol\u00eancia policial, a morte da juventude negra da periferia, atingiu pessoas que n\u00e3o s\u00e3o detentoras do poder econ\u00f4mico e que dependem do SUS. Com o teto de gastos, o primeiro atingido \u00e9 aquele que depende do SUS, aquele que depende dos servi\u00e7os p\u00fablicos de sa\u00fade.\r\nDiante de tudo isso, n\u00f3s precisamos nos posicionar enquanto Deputados e Deputadas contra a mentira e as fake news de tratamento precoce, que na verdade n\u00e3o existe e n\u00e3o tem efic\u00e1cia, enquanto n\u00f3s precisar\u00edamos de kit intuba\u00e7\u00e3o, enquanto n\u00f3s precisar\u00edamos de vacina.\r\nPrecisamos denunciar a corrup\u00e7\u00e3o desse Governo genocida. Na CPI, n\u00f3s estamos vendo v\u00e1rias evid\u00eancias de corrup\u00e7\u00e3o. Al\u00e9m de genocida, Bolsonaro \u00e9 corrupto. Enquanto isso, esta Casa fica debatendo as propostas de privatiza\u00e7\u00e3o da ELETROBRAS e dos Correios, fica aprovando projetos contra os direitos dos povos ind\u00edgenas, contra o povo, projetos de lei que v\u00e3o atingir diretamente os territ\u00f3rios e a cultura dos povos ind\u00edgenas.\r\nEnquanto o povo padece precisando de comida e precisando de vacina, Bolsonaro faz desfiles com tanques, faz desfiles amea\u00e7ando a democracia deste Pa\u00eds. N\u00f3s n\u00e3o podemos aceitar isso. N\u00f3s temos que seguir defendendo, como a Dra. Edna Ara\u00fajo falou, que os Parlamentares precisam se posicionar contra essa pol\u00edtica de mortes e em defesa do SUS.\r\nEu queria aqui dizer, como mulher negra amaz\u00f4nida, sendo minoria - n\u00f3s como mulheres negras somos minoria aqui -, que n\u00f3s precisamos seguir lutando. Eu me sinto muito representada pela fala da Samilly Valadares, mulher negra amaz\u00f4nida, que trouxe um pouco sobre o que n\u00f3s sentimos na pele, na luta e na vida di\u00e1ria. \r\nEnt\u00e3o, sigamos juntos, sigamos em defesa da valoriza\u00e7\u00e3o profissional, pelo piso salarial dos profissionais de sa\u00fade, dos enfermeiros e enfermeiras, fisioterapeutas, terapeutas ocupacionais, pelos direitos de todos esses trabalhadores, pelos direitos dos ACSs e dos ACEs, de todos aqueles que s\u00e3o os verdadeiros defensores do SUS e que est\u00e3o salvando vidas. \r\nViva o SUS, em defesa da sa\u00fade p\u00fablica!\r\nFora, Bolsonaro!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, MPV 1045/2021, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares para enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta ''sim'' ao requerimento de adiamento de discuss\u00e3o, porque vemos a\u00ed v\u00e1rios problemas. N\u00f3s temos uma MP cheia de jabutis. Esse projeto, em vez de favorecer a aprendizagem, de garantir melhores condi\u00e7\u00f5es para o futuro da juventude, ele est\u00e1 cheio de problem\u00e1ticas que atacam diretamente o futuro dos jovens deste Pa\u00eds. Retira direitos, tira as condi\u00e7\u00f5es para que esse jovem possa se dedicar de fato \u00e0 sua aprendizagem e tamb\u00e9m possa ter uma experi\u00eancia de trabalho em que seus direitos sejam garantidos e ele possa ter esses direitos j\u00e1 previstos, mas que essa MP est\u00e1 atacando.\r\nInclusive, n\u00f3s estamos aqui com uma nota do Minist\u00e9rio P\u00fablico do Trabalho e tamb\u00e9m de associa\u00e7\u00f5es, organiza\u00e7\u00f5es e entidades, mais de cem associa\u00e7\u00f5es e entidades, que assinaram e que s\u00e3o contra a MP 1.045.\r\nPor isso, o PSOL \u00e9 a favor do requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "QUEST\u00c3O DE ORDEM, MPV 1045/2021, MEDIDA PROVIS\u00d3RIA, NOVO PROGRAMA EMERGENCIAL DE MANUTEN\u00c7\u00c3O DO EMPREGO E DA RENDA, AVULSO (PUBLICA\u00c7\u00c3O OFICIAL), RELAT\u00d3RIO (PROCESSO LEGISLATIVO), ADIAMENTO, VOTA\u00c7\u00c3O, MAT\u00c9RIA ESTRANHA AO PROCESSO LEGISLATIVO, CR\u00cdTICA, JAIR BOLSONARO PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Quest\u00e3o de ordem sobre a suspens\u00e3o da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, tendo em vista a n\u00e3o disponibiliza\u00e7\u00e3o do respectivo parecer ao Plen\u00e1rio com anteced\u00eancia de 24h.",
+        "tipoDiscurso": "QUEST\u00c3O DE ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Para uma quest\u00e3o de ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, no Regimento Interno, o art. 47, par\u00e1grafo \u00fanico, diz que os avulsos devem respeitar a anteced\u00eancia de 24 horas. Mas o relat\u00f3rio s\u00f3 nos foi disponibilizado ontem, quase \u00e0s 19 horas - art. 47, par\u00e1grafo \u00fanico. N\u00e3o tem como n\u00f3s aceitarmos uma mat\u00e9ria como essa, que o pr\u00f3prio Minist\u00e9rio P\u00fablico do Trabalho, entidades, associa\u00e7\u00f5es, organiza\u00e7\u00f5es j\u00e1 se posicionaram contra, j\u00e1 est\u00e3o fazendo essa den\u00fancia p\u00fablica. Eu mesma, l\u00e1 no Estado do Par\u00e1, a todo o momento estou recebendo demandas do F\u00f3rum Paraense de Aprendizagem Profissional, de diversas entidades, de diversos sujeitos que est\u00e3o ali em defesa dos direitos da juventude, e que fazem a den\u00fancia contra essa MP. \r\nN\u00f3s precisar\u00edamos, com certeza, que fosse adiada essa vota\u00e7\u00e3o, que isso pudesse ser revisto, que pud\u00e9ssemos ter formas de n\u00e3o deixar que essa MP passe hoje. N\u00f3s sabemos que hoje a pol\u00edtica que est\u00e1 sendo colocada \u00e9 uma pol\u00edtica de tratorar, de deixar passar a boiada. E n\u00f3s n\u00e3o podemos, no meio de uma pandemia, ficar aqui fazendo um balc\u00e3o de neg\u00f3cios com os direitos. Como assim, vai ser facultativo o empregador pagar direitos previdenci\u00e1rios? Como assim, o jovem vai ter que tirar do pr\u00f3prio bolso o recurso para o transporte? Isso n\u00e3o pode acontecer. Que juventude \u00e9 essa? Que garantia de direitos para a juventude esse Governo est\u00e1 dando diante de mais esse ataque?\r\nEnt\u00e3o, n\u00e3o h\u00e1 como. J\u00e1 dissemos que ele est\u00e1 cheio de jabutis, est\u00e3o ali propostas que s\u00e3o altamente danosas, e isso vai interferir diretamente l\u00e1 nos nossos territ\u00f3rios. Muitos Deputados e Deputadas aqui v\u00e3o ser cobrados pelos seus eleitores, por aqueles jovens que est\u00e3o atr\u00e1s de garantia de direitos, e n\u00e3o s\u00f3 de usarem a sua m\u00e3o de obra de forma precarizada, de uma forma totalmente absurda. \u00c9 inaceit\u00e1vel. \r\nHoje n\u00f3s vimos aquela manifesta\u00e7\u00e3o altamente vergonhosa, conduzida, chamada pelo Presidente Bolsonaro, enquanto se deveria estar pensando em projeto efetivo de garantia de emprego e renda para este Pa\u00eds, n\u00e3o nessa vergonha que est\u00e1 sendo colocada aqui. \r\nGostaria de contar com a sensibilidade dos senhores, do Presidente da Mesa, para que n\u00f3s possamos de fato interromper esta vota\u00e7\u00e3o - j\u00e1 temos requerimento de adiamento da vota\u00e7\u00e3o -, e que isso n\u00e3o seja levado adiante, porque o que est\u00e1 em jogo aqui \u00e9 o futuro deste Pa\u00eds, da juventude...   \r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 1045/2021, MEDIDA PROVIS\u00d3RIA, CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares para enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Como j\u00e1 apresentamos aqui diversas vezes as problem\u00e1ticas em rela\u00e7\u00e3o a essa MP 1.045, quero reafirmar que \u00e9 uma pauta que n\u00e3o deveria estar sendo debatida hoje, que precisaria ser retirada da Ordem do Dia, para que n\u00f3s pud\u00e9ssemos, de fato, rever todas as problem\u00e1ticas, todos os jabutis que est\u00e3o inclusos nela.\r\nComo n\u00f3s temos pouco tempo, eu queria aqui me deter principalmente em alguns aspectos relacionados \u00e0 cria\u00e7\u00e3o do Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP, destinado ao p\u00fablico jovem, pessoas de 18 a 29 anos.\r\nPara n\u00f3s \u00e9 uma prioridade podermos debater e falar sobre a import\u00e2ncia da juventude, mas de uma juventude que, sim, quer oportunidades de trabalho, quer gera\u00e7\u00e3o de emprego e renda, uma juventude que quer oportunidades de aprendizado. Se essa PEC for aprovada no formato que est\u00e1, essa juventude sofrer\u00e1 um grande impacto, um impacto que vai envolver diretamente quest\u00f5es referentes aos v\u00ednculos precarizados. Primeiro, n\u00e3o se ter\u00e1 esse v\u00ednculo formal e, segundo, a carga hor\u00e1ria de trabalho ser\u00e1 maior e poder\u00e1 ser contabilizada como efeito de cumprimento da cota obrigat\u00f3ria de aprendizagem.\r\nVejamos bem: como n\u00f3s vamos tirar esse jovem ou essa jovem do local de aprendizagem e automaticamente achar que aquele espa\u00e7o de trabalho precarizado, que faz mau uso daquela m\u00e3o de obra, explora aquele jovem ou aquela jovem, vai ser uma forma de aprendizagem? Isso significa o qu\u00ea? Significa que o REQUIP \u00e9 uma modalidade que vai fazer mais uma m\u00e3o de obra barata.\r\nE o pior: uma m\u00e3o de obra barata subsidiada pelo Estado.\r\nIsso vai servir diretamente ao interesse dos empres\u00e1rios. Aquele jovem, aquela jovem trabalhadora que est\u00e1 em situa\u00e7\u00e3o de vulnerabilidade vai ter os seus direitos negados, vai estar numa rela\u00e7\u00e3o precarizada, num subemprego, desprovida de direitos b\u00e1sicos. E, ainda por cima, o Estado vai pagar os empres\u00e1rios para seguirem explorando essa m\u00e3o de obra de jovens.\r\nEnt\u00e3o, eu quero deixar essa den\u00fancia e dizer que n\u00f3s do PSOL somos contra a MP 1.045.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 17/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV  1045/2021, MEDIDA PROVISORIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do Cap\u00edtulo III do Projeto de Lei de Convers\u00e3o n\u00ba 17, de 2021, da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares de enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da Covid-19, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio; e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PSOL orienta \"n\u00e3o\". \r\nN\u00f3s queremos suprimir o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE, pois ele atinge diretamente direitos. Por exemplo, afasta o direito \u00e0 indeniza\u00e7\u00e3o de 50% dos sal\u00e1rios devidos e, no caso de demiss\u00e3o, vai favorecer o empregador, n\u00e3o o empregado. Al\u00e9m disso, vai reduzir a multa do FGTS de 40% para 20%, vai reduzir a al\u00edquota de contribui\u00e7\u00e3o do FGTS de 8% para 2%.\r\nN\u00f3s n\u00e3o aceitamos a manuten\u00e7\u00e3o desse item que fala sobre o PRIORE. \r\nPor isso, n\u00f3s do PSOL orientamos \"n\u00e3o\" ao texto. No painel, pode registrar o voto \"n\u00e3o\" do PSOL.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, REGIME ESPECIAL DE TRABALHO INCENTIVADO, QUALIFICA\u00c7\u00c3O E INCLUS\u00c3O PRODUTIVA (REQUIP, PLV 17/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV  1045/2021, MEDIDA PROVISORIA, SUPRESS\u00c3O.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do Cap\u00edtulo IV do Projeto de Lei de Convers\u00e3o n\u00ba 17, de 2021, da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares de enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da Covid-19, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio; e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Presidente, \u00e9 muito emblem\u00e1tico n\u00f3s falarmos hoje sobre a necessidade de supress\u00e3o do Cap\u00edtulo IV, que trata justamente do REQUIP. Eu digo que \u00e9 emblem\u00e1tico falarmos isso hoje, porque hoje \u00e9 o Dia do Estudante, e no dia da estudante e do estudante precisamos ter a sensibilidade dos Deputados e das Deputadas para fazer a supress\u00e3o do REQUIP, porque ele \u00e9 totalmente danoso. Primeiro, porque ser\u00e1 um modelo sem v\u00ednculo empregat\u00edcio, vai ser uma presta\u00e7\u00e3o de servi\u00e7o precarizada, vai ser um trabalho \u00e0s vezes eventual. \r\nE sabem o que \u00e9 o pior? Finge-se, disfar\u00e7a-se que \u00e9 um processo de aprendizagem, de forma\u00e7\u00e3o profissional. Isso vai fazer com que o trabalho substitua a aprendizagem e a forma\u00e7\u00e3o desse jovem e dessa jovem. \r\nEnt\u00e3o, n\u00f3s n\u00e3o podemos aceitar que siga nessa MP o REQUIP. \r\nOlhem os itens problem\u00e1ticos: trabalhar 22 horas semanais, ou seja, meio turno, para receber cerca de 40% do sal\u00e1rio m\u00ednimo; n\u00e3o ter direito a 13\u00ba sal\u00e1rio. Vamos ter sensibilidade, Deputados e Deputadas! Vamos deixar o indiv\u00edduo sem 13\u00ba sal\u00e1rio, sem f\u00e9rias, sem FGTS, sem direitos trabalhistas?\r\nN\u00f3s n\u00e3o podemos deixar que esse item do REQUIP siga nessa MP. \u00c9 por isso que n\u00f3s do PSOL defendemos aqui a supress\u00e3o.\r\nQueremos pensar como esse regime - j\u00e1 que o REQUIP \u00e9 voltado para a qualifica\u00e7\u00e3o, para a inclus\u00e3o produtiva dos jovens - pode ser de fato prioridade para garantir os direitos dessa juventude, e n\u00e3o apenas para garantir o \"bolsa-empres\u00e1rio\".\r\nH\u00e1 algo muito grave a\u00ed, porque essa modalidade de trabalho pode, inclusive, fazer com que o empregador demita o seu servidor ou a sua servidora para contratar uma m\u00e3o de obra barata, precarizada e sem a garantia de direitos trabalhistas.\r\nPortanto, n\u00f3s do PSOL somos contr\u00e1rios a esse texto e estamos apresentando aqui o nosso destaque para a supress\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 17/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1045/2021, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTO CONTR\u00c1RIO, DEFESA, SISTEMA S.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 52 do Projeto de Lei de Convers\u00e3o n\u00ba 17, de 2021, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares para enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL orienta \"n\u00e3o\" ao texto. N\u00f3s acreditamos que devemos sempre preservar as condi\u00e7\u00f5es de funcionamento do Sistema S, que isso \u00e9 fundamental, \u00e9 um importante incentivo \u00e0 qualifica\u00e7\u00e3o profissional.\r\nPor isso, n\u00f3s orientamos \"n\u00e3o\" ao texto, justamente no intuito de suprimir esse trecho que, para n\u00f3s, \u00e9 muito danoso e vai ser um verdadeiro ataque ao Sistema S.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T22:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  SUBSTITUTIVO, PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO SOCIALISMO E LIBERDADE (PSOL).",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 1\u00ba do substitutivo oferecido \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, a respeito da inser\u00e7\u00e3o de dispositivo no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, e da altera\u00e7\u00e3o da Constitui\u00e7\u00e3o Federal, para fins de reforma pol\u00edtico-eleitoral.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Acreditamos que este texto nos traz uma import\u00e2ncia imensa, uma import\u00e2ncia do incentivo \u00e0 participa\u00e7\u00e3o de mulheres e de pessoas negras na pol\u00edtica.\r\nEu falo aqui enquanto uma mulher negra, enquanto integrante de um partido que tem maioria de mulheres. E \u00e9 um absurdo ver que outras mulheres, por mais que sejam mulheres, n\u00e3o correspondem \u00e0quilo por que, de fato, as mulheres deste Pa\u00eds lutam. Lutamos pela garantia de mais mulheres na pol\u00edtica. Esse incentivo para que os partidos tenham mais mulheres na pol\u00edtica, que elejam mulheres, com certeza, vai ter uma repercuss\u00e3o, em longo prazo, incr\u00edvel para n\u00f3s.\r\nQue possamos diversificar esse espa\u00e7o! Que este Congresso tenha mais mulheres, mais pessoas negras!\r\nPor isso, n\u00f3s orientamos \"sim\", para manter o texto, e orientamos \"n\u00e3o\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  SUBSTITUTIVO, PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O.",
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 2\u00ba do Substitutivo oferecido \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, a respeito da inser\u00e7\u00e3o de dispositivo no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, e da altera\u00e7\u00e3o da Constitui\u00e7\u00e3o Federal, para fins de reforma pol\u00edtico-eleitoral.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Sem revis\u00e3o da oradora.) - Como todos disseram, esse \u00e9 o destaque mais importante.\r\nHoje n\u00f3s vivemos um dia de muita tens\u00e3o, um dia de uma luta hist\u00f3rica contra o distrit\u00e3o, para que n\u00f3s possamos, de fato, garantir que esta Casa tenha mais diversidade, tenha mulheres negras, como eu. Inclusive, como V.Exas. bem sabem, estou aqui -- eu era suplente -- porque assumi, h\u00e1 pouco tempo, a vaga que n\u00e3o era apenas do companheiro Edmilson Rodrigues, que agora \u00e9 Prefeito de Bel\u00e9m. Essa vaga era do PSOL. Eu tenho certeza de que todos aqueles que destinam seus votos n\u00e3o querem que seus votos sejam jogados fora. Eles n\u00e3o destinam seus votos apenas a celebridades, a figuras individuais, mas tamb\u00e9m a projetos pol\u00edticos.\r\nEu, hoje, Deputada Federal filiada ao PSOL, acredito que todo voto destinado ao PSOL ou a qualquer outro partido tem que ser tomado de forma coletiva, de forma que n\u00e3o individualize. Aqui n\u00f3s somos eleitos de forma proporcional. N\u00f3s aqui aproveitamos cada voto daquele eleitor que dedicou a sua aten\u00e7\u00e3o para que tenhamos verdadeiros representantes, e esses representantes t\u00eam que ser a cara do povo, a cara da diversidade, a cara daqueles que n\u00e3o t\u00eam poder econ\u00f4mico.\r\nSe este Plen\u00e1rio, hoje, mantiver o distrit\u00e3o, significa que, futuramente, ser\u00e3o eleitos aqueles que det\u00eam o maior poder econ\u00f4mico, as figuras que j\u00e1 fazem carreira pol\u00edtica. Poucos ter\u00e3o condi\u00e7\u00e3o de eleger jovens, de eleger mulheres, de eleger pessoas negras, de eleger pessoas que de fato representam o que \u00e9 o povo brasileiro.\r\nN\u00f3s temos aqui que seguir defendendo uma forma de interven\u00e7\u00e3o pol\u00edtica que seja cada vez mais conectada com toda essa diversidade. N\u00f3s temos que dizer aqui a import\u00e2ncia de pensar em projetos pol\u00edticos, e n\u00e3o apenas em constru\u00e7\u00f5es individualistas, em valoriza\u00e7\u00e3o de nomes de celebridades ou de nomes que v\u00e3o colocar rios de dinheiro para virar o jogo atrav\u00e9s do seu poder econ\u00f4mico, atrav\u00e9s do seu poder que, muitas vezes, \u00e9 at\u00e9 transmitido de pai para filho.\r\nE n\u00f3s temos que lutar e batalhar para que possamos derrubar essa proposta do distrit\u00e3o. Derrubar o distrit\u00e3o significa que n\u00f3s vamos conseguir de fato apostar em modelos de elei\u00e7\u00f5es e modelos de constru\u00e7\u00e3o pol\u00edtica que n\u00e3o sejam apenas voltados para espec\u00edficos.\r\n\u00c0s vezes, falamos muito sobre a necessidade de renova\u00e7\u00e3o de pol\u00edtica, mas pouco nos perguntamos de que forma n\u00f3s podemos de fato apostar nisso. E eu digo a V.Exas. que, com certeza, n\u00e3o \u00e9 por meio do distrit\u00e3o. N\u00e3o \u00e9 o distrit\u00e3o que vai conseguir fazer com que esta Casa cada vez mais se pinte de povo.\r\nEnt\u00e3o, eu queria aqui contar com o apoio de cada Deputado, de cada Deputada, para podermos de fato derrubar e enterrar a proposta do distrit\u00e3o, uma proposta que vai ser danosa.\r\nInclusive, estou vendo muitos Deputados que se posicionaram, de certa forma, a favor, mas eu tenho certeza de que nas elei\u00e7\u00f5es anteriores n\u00e3o conseguiram voto para se eleger sozinhos. A maioria dos que est\u00e3o aqui presentes n\u00e3o se elegeram sozinhos. Precisaram, sim, dos seus partidos para somar uma vota\u00e7\u00e3o, para poder apresentar esse projeto do seu partido pol\u00edtico, e n\u00e3o apenas de figuras, de grandes personalidades, de capas, de grandes coron\u00e9is.\r\nPor isso, o destaque do PSOL \u00e9 para retirar do texto o distrit\u00e3o.\r\nConto com o apoio de cada um de V.Exas. para que possamos dar mais esse passo em defesa da diversidade e da democracia, para que esta Casa seja cada vez mais do povo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-12T12:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares para o enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da Covid-19, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio; e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PSOL \u00e9 favor\u00e1vel a essa retirada de pauta. \r\nN\u00f3s acreditamos que, neste momento da pandemia, esta MP n\u00e3o deveria estar pautada aqui. O PSOL est\u00e1 sempre se posicionando em defesa dos direitos dos trabalhadores, das trabalhadoras. \r\nEnt\u00e3o, essa Medida Provis\u00f3ria n\u00ba 1.045 \u00e9 grav\u00edssima, \u00e9 altamente danosa, porque vai atingir diretamente direitos b\u00e1sicos, como f\u00e9rias, d\u00e9cimo terceiro e a garantia de remunera\u00e7\u00e3o digna. \r\nPor isso, n\u00f3s estamos aqui nos posicionando favor\u00e1veis a essa retirada de pauta. \r\nO PSOL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-12T12:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do Cap\u00edtulo V da Subemenda Substitutiva, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares para o enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da Covid-19, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio; e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"n\u00e3o\", Presidente. N\u00f3s somos favor\u00e1veis a esse destaque do PT. Acreditamos que n\u00e3o h\u00e1 como aceitarmos essa forma de rela\u00e7\u00e3o t\u00e3o precarizada, que, na verdade, \u00e9 uma grande amea\u00e7a aos direitos trabalhistas. Ent\u00e3o, \u00e9 importante que retiremos este texto.\r\nPor isso, somos favor\u00e1veis ao destaque do PT.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-12T13:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Vivi Reis",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 88 do Projeto de Lei de Convers\u00e3o n\u00ba 17, de 2021, da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares para enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio e a altera\u00e7\u00e3o de diplomas legais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. VIVI REIS (PSOL - PA. Pela ordem. Sem revis\u00e3o da oradora.) - O PSOL orienta \"n\u00e3o\" ao texto.\r\n\u00c9 um verdadeiro absurdo fazer com que esses trabalhadores tenham a renda final diretamente atingida. N\u00f3s temos aqui um grande ataque e uma viol\u00eancia \u00e0 democracia, porque esse conte\u00fado viola o direito de 50% da hora extra e est\u00e1 totalmente desalinhando, fora dessa mat\u00e9ria, como j\u00e1 demonstramos diversas vezes. Esta MP est\u00e1 cheia de jabutis. N\u00f3s precisamos retirar esse texto.\r\nPor isso, n\u00f3s acompanhamos o destaque apresentado pelo PSB.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

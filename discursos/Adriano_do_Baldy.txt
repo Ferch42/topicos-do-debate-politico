@@ -1,0 +1,74 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-11T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ALIA AL MANSOORI, JOVEM, CIENTISTA, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Adriano do Baldy",
+        "sumario": "Presen\u00e7a em plen\u00e1rio da jovem cientista Alia Al Mansoori.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ADRIANO DO BALDY (Bloco/PP - GO. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente. \r\nEu gostaria de registrar a presen\u00e7a no plen\u00e1rio da jovem Alia Al Mansoori, que ganhou um pr\u00eamio internacional e p\u00f4de ajudar a NASA com uma experi\u00eancia fant\u00e1stica. N\u00f3s a convidamos a conhecer o Congresso Nacional. Ela est\u00e1 andando pelo Brasil e pelo mundo, dividindo a sua experi\u00eancia como jovem cientista que est\u00e1 ajudando at\u00e9 mesmo a NASA.\r\nQuero lhe dar as boas-vindas a esta Casa e ao Brasil. Seja bem-vinda!\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "CHAPAD\u00c3O DO C\u00c9U (GO), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Adriano do Baldy",
+        "sumario": "Transcurso do 38\u00ba anivers\u00e1rio de funda\u00e7\u00e3o do Munic\u00edpio de Chapad\u00e3o do C\u00e9u, Estado de Goi\u00e1s.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO ADRIANO DO BALDY.\r\n\r\nSra. Presidente, nobres colegas Deputados, venho hoje parabenizar o Munic\u00edpio de Chapad\u00e3o do C\u00e9u pelos seus 38 anos de funda\u00e7\u00e3o. O dia do anivers\u00e1rio de Chapad\u00e3o do C\u00e9u \u00e9 tamb\u00e9m o dia do anivers\u00e1rio de cada um de n\u00f3s. \u00c9 o dia das pessoas de bem, honradas e guerreiras. Parab\u00e9ns a todos!\r\nO anivers\u00e1rio de uma cidade \u00e9 muito mais do que um marco na vida de cada cidad\u00e3o, \u00e9 uma p\u00e1gina que viramos para conquistar novos sonhos, novas realiza\u00e7\u00f5es e continuar reescrevendo a hist\u00f3ria. Anivers\u00e1rios s\u00e3o anos que refletem a perman\u00eancia de algo que dura. Por isso com orgulho devemos comemorar o anivers\u00e1rio desse bel\u00edssimo Munic\u00edpio.\r\nChapad\u00e3o do C\u00e9u \u00e9 uma cidade de povo ordeiro e trabalhador que luta com expectativa de atingir grandes vit\u00f3rias. Compete a n\u00f3s continuarmos lutando para alcan\u00e7ar a transforma\u00e7\u00e3o do nosso Munic\u00edpio e os objetivos do nosso povo.\r\nDesejo que cada mun\u00edcipe seja um ponto de apoio nesta constru\u00e7\u00e3o di\u00e1ria, com valores s\u00f3lidos que ajudem a preparar as crian\u00e7as e os jovens para esse processo cont\u00ednuo de transforma\u00e7\u00e3o, buscando no presente um grandioso futuro. Que as conquistas da comunidade sejam sempre crescentes, demonstrando que somos n\u00f3s que fazemos o amanh\u00e3 e que nossa perseveran\u00e7a \u00e9 a luz que ilumina o caminho rumo a um Chapad\u00e3o do C\u00e9u cada vez melhor.\r\nParab\u00e9ns a todos que diariamente cumprem sua miss\u00e3o, contribuindo assim com o desenvolvimento do Munic\u00edpio, buscando sempre novos projetos e aceitando o desafio de fazer mais e melhor. \r\nO meu muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=24&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "FORMOSO (GO), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM.",
+        "nomeDeputado": "Adriano do Baldy",
+        "sumario": "Transcurso do 56\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de Formoso, Estado de Goi\u00e1s.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO ADRIANO DO BALDY.\r\n\r\nSr. Presidente, nobres colegas Deputados, venho hoje parabenizar o Munic\u00edpio de Formoso pelos seus 56 anos de emancipa\u00e7\u00e3o pol\u00edtica. Portanto, o dia do anivers\u00e1rio de Formoso \u00e9 tamb\u00e9m o dia do anivers\u00e1rio de cada um de n\u00f3s. \u00c9 o dia das pessoas de bem, honradas e guerreiras. Parab\u00e9ns a todos!\r\nO anivers\u00e1rio de uma cidade \u00e9 muito mais do que um marco na vida de cada cidad\u00e3o: \u00e9 uma p\u00e1gina que viramos para conquistar novos sonhos, novas realiza\u00e7\u00f5es e continuar reescrevendo a hist\u00f3ria. Anivers\u00e1rios s\u00e3o anos que refletem a perman\u00eancia de algo que dura. Por isso, com orgulho, devemos comemorar o anivers\u00e1rio deste bel\u00edssimo Munic\u00edpio.\r\nFormoso \u00e9 a cidade de um povo ordeiro e trabalhador que luta com a expectativa de atingir grandes vit\u00f3rias. Compete a n\u00f3s continuarmos lutando para alcan\u00e7ar a transforma\u00e7\u00e3o do nosso Munic\u00edpio e os objetivos do nosso povo.\r\nDesejo que cada mun\u00edcipe seja um ponto de apoio nesta constru\u00e7\u00e3o di\u00e1ria, com valores s\u00f3lidos, que ajudem a preparar as crian\u00e7as e os jovens para este processo cont\u00ednuo de transforma\u00e7\u00e3o, buscando no presente um grandioso futuro. \r\nQue as conquistas da comunidade sejam sempre crescentes, demonstrando que somos n\u00f3s que fazemos o amanh\u00e3 e que nossa perseveran\u00e7a \u00e9 a luz que ilumina o caminho rumo a um Formoso cada vez melhor!\r\nParab\u00e9ns a todos os que diariamente cumprem sua miss\u00e3o, contribuindo para o desenvolvimento do Munic\u00edpio, buscando sempre novos projetos e aceitando o desafio de fazer mais e melhor.\r\nMeu muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-24T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "GOI\u00c2NIA (GO), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM.",
+        "nomeDeputado": "Adriano do Baldy",
+        "sumario": "Transcurso do 86\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa de Goi\u00e2nia, Capital do Estado de Goi\u00e1s.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ADRIANO DO BALDY (Bloco/PP - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres colegas Deputados, venho hoje parabenizar o Munic\u00edpio de Goi\u00e2nia pelos seus 86 anos de emancipa\u00e7\u00e3o pol\u00edtica. Portanto, o dia do anivers\u00e1rio de Goi\u00e2nia \u00e9 tamb\u00e9m o dia do anivers\u00e1rio de cada um de n\u00f3s, \u00e9 o dia das pessoas de bem, honradas e guerreiras. Parab\u00e9ns a todos!\r\nO anivers\u00e1rio da cidade \u00e9 muito mais do que um marco na vida de cada cidad\u00e3o, \u00e9 uma p\u00e1gina que viramos para conquistar novos sonhos, novas realiza\u00e7\u00f5es e continuar reescrevendo a hist\u00f3ria. \r\nPor isso, com orgulho devemos comemorar o anivers\u00e1rio desta bel\u00edssima capital, Goi\u00e2nia, cidade de povo ordeiro e trabalhador que luta com a expectativa de atingir grandes vit\u00f3rias. Compete-nos continuar lutando para alcan\u00e7ar a transforma\u00e7\u00e3o do nosso Munic\u00edpio e o objetivo do nosso povo.\r\nParab\u00e9ns a todos que diariamente cumprem a sua miss\u00e3o, contribuindo assim com o desenvolvimento do Munic\u00edpio, buscando novos projetos e aceitando o desafio de fazer mais e melhor.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "OSIRES DAMASO, DEPUTADO FEDERAL, AGRADECIMENTO, ELEITOR, TOCANTINS,  ELEI\u00c7\u00c3O.\r\nGOVERNO FEDERAL, AUX\u00cdLIO FINANCEIRO, PREFEITO, MUNICIOPIO,  TOCANTINS, SA\u00daDE, SEGURAN\u00c7A P\u00daBLICA. \r\nTOCANTINS, AGRICULTURA, CRESCIMENTO ECON\u00d4MICO, INFRAESTRUTURA, GERA\u00c7\u00c3O DE EMPREGO.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Agradecimento a Deus, aos familiares e eleitores tocantinenses pela elei\u00e7\u00e3o do orador. Dificuldades enfrentadas pelo Estado do Tocantins, notadamente nas \u00e1reas de sa\u00fade, seguran\u00e7a p\u00fablica e infraestrutura.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. OSIRES DAMASO (Bloco/PSC - TO. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres pares, nobres Deputadas, todos que nos acompanham pela TV C\u00e2mara, eu quero iniciar a minha fala agradecendo a Deus pela oportunidade de alcan\u00e7ar este mandato de Deputado Federal. Quero agradecer tamb\u00e9m \u00e0 minha fam\u00edlia, aos meus familiares, aos meus amigos e aos 58.726 eleitores que me deram a oportunidade de chegar a esta Casa de Leis.\r\nChego aqui com muito entusiasmo, com muita vontade de trabalhar pelo Brasil e pelo meu querido Estado de Tocantins, Estado mais novo do nosso querido Brasil, mas Estado que j\u00e1 passa por dificuldades, n\u00e3o \u00e9 diferente dos demais. \r\nEu gostaria, Sr. Presidente, que os nobres pares tivessem uma aten\u00e7\u00e3o com o nosso Pa\u00eds, colaborando com o Governo Federal, para que ele possa ter condi\u00e7\u00f5es de dar aos nossos Prefeitos a oportunidade de assistir melhor \u00e0s nossas fam\u00edlias. O Estado de Tocantins passa por dificuldade na sa\u00fade. O Estado de Tocantins passa por dificuldade na seguran\u00e7a p\u00fablica. O Estado de Tocantins, que tem um potencial muito forte, \u00e9 a \u00faltima fronteira agr\u00edcola do Brasil, \u00e9 um Estado que tem crescimento fabuloso na agricultura. Mas precisamos ter infraestrutura suficiente para o desenvolvimento, o crescimento e a gera\u00e7\u00e3o de emprego, para dar oportunidade ao nosso povo.\r\nAgrade\u00e7o aos nobres pares que t\u00eam boa vontade de trabalhar para ao povo, que t\u00eam o cora\u00e7\u00e3o voltado para o ser humano, que realmente defendem o interesse de quem precisa. N\u00f3s temos que lutar muito, porque n\u00f3s somos privilegiados por estar aqui e ter condi\u00e7\u00f5es de cuidar bem das nossas fam\u00edlias. Mas n\u00f3s precisamos pensar naquelas crian\u00e7as que passam fome, naquelas fam\u00edlias que passam necessidade e naquelas fam\u00edlias que veem seus filhos falecerem, irem a \u00f3bito por falta de atendimento m\u00e9dico. N\u00f3s somos respons\u00e1veis pelo desenvolvimento do nosso Brasil. N\u00f3s somos respons\u00e1veis pelo desenvolvimento do nosso Munic\u00edpio, do nosso Estado. N\u00f3s somos respons\u00e1veis pelas fam\u00edlias mais carentes do nosso Pa\u00eds.\r\nAgrade\u00e7o a Deus esta oportunidade. Quero continuar aqui defendendo sempre o interesse do povo tocantinense, o interesse do povo do nosso Brasil. \r\nQuero dizer aos nobres pares que n\u00e3o conhecem o Tocantins que o visitem, porque \u00e9 um Estado que tem belezas naturais, belezas que ainda est\u00e3o por ser descobertas pelo mundo, para que se possa realmente fomentar a economia atrav\u00e9s do turismo. Eu tenho certeza de que o Tocantins \u00e9 um Estado acolhedor, \u00e9 um Estado que quem visita quer morar l\u00e1, quer ficar l\u00e1. A nossa querida Palmas, Capital mais nova do Brasil, que foi desenhada pensando-se no modelo de Bras\u00edlia, tem se desenvolvido e crescido bastante. \r\nE n\u00f3s temos que pensar realmente no ser humano, na gera\u00e7\u00e3o de emprego, na oportunidade para os jovens, adolescentes, que, \u00e0s vezes, por falta disso, encontram o mundo do crime. N\u00f3s temos que buscar condi\u00e7\u00f5es para que eles possam estudar, buscar um curso superior e, assim, ter perspectiva de futuro, coragem de enfrentar a vida e buscar melhores dias para as sua fam\u00edlias. Tenho certeza de que juntos vamos transformar este Brasil num pa\u00eds que seja bom para se viver, num pa\u00eds em que as fam\u00edlias realmente tenham confian\u00e7a nos seus representantes.\r\nAgrade\u00e7o, Sr. Presidente e nobres pares. \r\nMeu muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=167&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ORG\u00c2NICA DOS PARTIDOS POL\u00cdTICOS (1995), AUTONOMIA, PARTIDO POL\u00cdTICO, DEFINI\u00c7\u00c3O, PRAZO, MANDATO, MEMBRO, \u00d3RG\u00c3O PARTID\u00c1RIO, CR\u00cdTICA, RESOLU\u00c7\u00c3O, DIRET\u00d3RIO MUNICIPAL, TRIBUNAL SUPERIOR ELEITORAL (TSE), DEFESA.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Posicionamento do orador contr\u00e1rio \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.321, de 2019, acerca da autonomia dos partidos pol\u00edticos para defini\u00e7\u00e3o do prazo de dura\u00e7\u00e3o dos mandatos dos membros dos seus \u00f3rg\u00e3os partid\u00e1rios permanentes ou provis\u00f3rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (Bloco/PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, eu ocupo esta tribuna para falar um pouco do Projeto de Lei n\u00ba 1.321, de 2019, que quer impedir a determina\u00e7\u00e3o do Tribunal Superior Eleitoral - TSE de democratizar os partidos pol\u00edticos. \r\nNa condi\u00e7\u00e3o de Presidente do PSC do Estado do Tocantins, tenho presenciado a dificuldade dos l\u00edderes municipais em conduzir o processo pol\u00edtico local. Trata-se de uma ditadura partid\u00e1ria. Hoje, habitualmente, os l\u00edderes que conduzem os partidos t\u00eam que obedecer \u00e0 orienta\u00e7\u00e3o do diret\u00f3rio estadual ou at\u00e9 mesmo do diret\u00f3rio nacional, e a resolu\u00e7\u00e3o do TSE vem democratizar essa quest\u00e3o, para que todos os partidos possam constituir os seus diret\u00f3rios municipais, dando-lhes condi\u00e7\u00f5es de tomarem as decis\u00f5es locais conforme a maioria pensa e deseja.\r\nEsse PL apresentado aqui, neste Parlamento, vem buscar a continuidade da ditadura, o que eu vejo ser prejudicial para a democracia brasileira. N\u00f3s Parlamentares precisamos ter a liberdade de exercer as nossas fun\u00e7\u00f5es. Os Vereadores, os l\u00edderes locais, t\u00eam que ter a liberdade de conduzir os seus partidos, os seus Munic\u00edpios. Desta forma, eu gostaria muito que todos os pares pudessem ter uma aten\u00e7\u00e3o com o PL 1.321/19, que hoje pode beneficiar alguns l\u00edderes, mas amanh\u00e3 pode prejudicar a maioria de todos n\u00f3s. Vamos manter a resolu\u00e7\u00e3o e concordar com o TSE, em dar realmente condi\u00e7\u00f5es de forma\u00e7\u00e3o de diret\u00f3rios em todos os Munic\u00edpios, em todos os Estados. Assim, os partidos poder\u00e3o passar a respeitar os diret\u00f3rios municipais e estaduais. \r\n\u00c9 s\u00f3 essa a minha coloca\u00e7\u00e3o, Sra. Presidente. Agrade\u00e7o a disposi\u00e7\u00e3o da oportunidade para eu poder debater essa mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-16T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "BANCADA PARLAMENTAR, TOCANTINS, REUNI\u00c3O, TARC\u00cdSIO DE FRETAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, DUPLICA\u00c7\u00c3O, RODOVIA, BR 153, CONCLUS\u00c3O, BR 242, BR 235, CONSTRU\u00c7\u00c3O, PONTE, PORTO NACIONAL (TO).",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Reivindica\u00e7\u00f5es apresentadas pela bancada do Estado do Tocantins ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas. Import\u00e2ncia da continua\u00e7\u00e3o das obras de duplica\u00e7\u00e3o da BR-153.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, agrade\u00e7o a V.Exa. a oportunidade.\r\nQuero deixar registrada a nossa alegria com a not\u00edcia que tivemos na audi\u00eancia que participamos agora h\u00e1 pouco com o Ministro da Infraestrutura, Tarc\u00edsio Freitas. N\u00f3s da bancada do Estado do Tocantins fomos reivindicar a continua\u00e7\u00e3o das obras de duplica\u00e7\u00e3o da BR-153.\r\nHavia o boato de que essa duplica\u00e7\u00e3o seria apenas no Estado de Goi\u00e1s, mas o Ministro esclareceu que est\u00e1 mantido o projeto original, que leva a duplica\u00e7\u00e3o da rodovia at\u00e9 Alian\u00e7a do Tocantins.\r\nAproveitamos a oportunidade para reivindicar as obras de duplica\u00e7\u00e3o da rodovia at\u00e9 a nossa querida cidade de Para\u00edso do Tocantins, chegando inclusive a Palmas. Solicitamos tamb\u00e9m provid\u00eancias sobre a Ponte de Porto Nacional, que foi interditada pelo Governo do Estado devido \u00e0s prec\u00e1rias condi\u00e7\u00f5es em que se encontra.\r\nPor fim, reivindicamos ao Ministro ainda provid\u00eancias no sentido de que sejam dadas condi\u00e7\u00f5es para a constru\u00e7\u00e3o da nova ponte, al\u00e9m da conclus\u00e3o das BRs-235 e 242.\r\nSr. Presidente, solicito a V.Exa. que este discurso seja registrado nos Anais desta Casa e divulgado pelos meios de comunica\u00e7\u00e3o da Casa, especialmente pelo programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=&Datain=17%2F4%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "PROGRAMA DE ACELERA\u00c7\u00c3O DO CRESCIMENTO (PAC), MINISTRO DE ESTADO DA ECONOMIA, PRORROGA\u00c7\u00c3O, PRAZO, CONCLUS\u00c3O, OBRA P\u00daBLICA, REPASSE, RECURSOS OR\u00c7AMENT\u00c1RIOS.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Apelo ao Ministro da Economia, Paulo Guedes, por retomada da execu\u00e7\u00e3o de empreendimentos do Programa de Acelera\u00e7\u00e3o do Crescimento - PAC.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO OSIRES DAMASO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, demais servidores desta Casa, senhores telespectadores, subo a esta tribuna para tratar de assunto sobremaneira relevante para o incremento da infraestrutura do Brasil, que tem afetado diretamente v\u00e1rios Munic\u00edpios em que s\u00e3o realizadas constru\u00e7\u00f5es de obras indispens\u00e1veis para a popula\u00e7\u00e3o carente do Pa\u00eds.\r\nO PAC, como \u00e9 de amplo conhecimento, \u00e9 um programa lan\u00e7ado pelo Governo Federal, que tem por finalidade o planejamento e a execu\u00e7\u00e3o de grandes obras de infraestrutura social, urbana, log\u00edstica e energ\u00e9tica do Pa\u00eds, t\u00e3o necess\u00e1rias para garantir o crescimento nacional.\r\nEssas obras, espalhadas por in\u00fameros Munic\u00edpios, abrangem constru\u00e7\u00f5es de estruturas de saneamento, de creches, de unidades b\u00e1sicas de sa\u00fade, de mobilidade urbana, de rodovias, dentre outras.\r\n S\u00e3o, portanto, obras oriundas do PAC de enorme import\u00e2ncia para os Munic\u00edpios, que tanto t\u00eam sofrido com a car\u00eancia de recursos, e que viram no referido programa uma forma de viabilizar as obras t\u00e3o necess\u00e1rias para permitir o acesso da popula\u00e7\u00e3o mais carente a servi\u00e7os essenciais.\r\nAinda a respeito do programa, considera-se de grande relev\u00e2ncia a edi\u00e7\u00e3o da Portaria n\u00ba 348, de 14 de novembro de 2016, do Minist\u00e9rio do Planejamento, Desenvolvimento e Gest\u00e3o, que estabeleceu diretrizes para a retomada e a execu\u00e7\u00e3o dos empreendimentos do PAC com valor de investimento inferior a R$ 10.000.000,00 (dez milh\u00f5es de reais).\r\nA referida portaria permitiu a retomada de diversas obras que se encontravam paralisadas, especialmente nos pequenos Munic\u00edpios, e fixou como prazo m\u00e1ximo para conclus\u00e3o de algumas obras a data de 30 de dezembro de 2018.\r\nEntretanto, Srs. Deputados, tendo em conta o ritmo de execu\u00e7\u00e3o das obras p\u00fablicas em nosso Pa\u00eds, que todos sabemos, enfrentam as mais variadas adversidades, o prazo de 30 de dezembro de 2018 acabou por se revelar muito curto para a finaliza\u00e7\u00e3o das obras.\r\nDiante disso, apresentou-se um cen\u00e1rio em que in\u00fameras obras espalhadas pelo Brasil se encontram em fase final de execu\u00e7\u00e3o, mas sem a correspondente transfer\u00eancia de recursos pela Uni\u00e3o, que determinou a suspens\u00e3o dos repasses a partir do t\u00e9rmino do prazo previsto na portaria em quest\u00e3o.\r\nDesta forma, muitas obras se encontram novamente paralisadas e, por conta da crise fiscal enfrentada pelos Munic\u00edpios, n\u00e3o possuem os recursos indispens\u00e1veis \u00e0 sua conclus\u00e3o.\r\nA t\u00edtulo de exemplo, cito v\u00e1rias obras do meu Estado, o Tocantins, que n\u00e3o t\u00eam condi\u00e7\u00f5es de execu\u00e7\u00e3o por falta de verbas p\u00fablicas:\r\n\t No Munic\u00edpio de Gurupi - TO, as obras de uma creche/pr\u00e9-escola (Termo de Compromisso PAC 2 n. 3158/2012), com 95% (noventa e cinco por cento) de execu\u00e7\u00e3o, no Parque Residencial  S\u00e3o Jos\u00e9;\r\n\t No Munic\u00edpio de Guara\u00ed - TO, as obras de uma quadra escolar coberta, com 95% de execu\u00e7\u00e3o, localizada no setor Pestana;\r\n\t No Munic\u00edpio de Miracema - TO -, as obras de uma creche/pr\u00e9-escola, com 37% de execu\u00e7\u00e3o, localizada no bairro Vila Maria;\r\nNo caso espec\u00edfico do Munic\u00edpio de Gurupi, a prop\u00f3sito, \u00e9 preciso ressaltar que o Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o - FNDE, \u00f3rg\u00e3o do Minist\u00e9rio da Educa\u00e7\u00e3o, n\u00e3o apenas permitiu a inser\u00e7\u00e3o da medi\u00e7\u00e3o no sistema em 14/01/2019, como chegou a aprov\u00e1-la. Ainda, o referido termo de compromisso foi prorrogado at\u00e9 julho de 2019.\r\nPosteriormente, contudo, alegou-se que n\u00e3o seria poss\u00edvel efetuar o repasse por conta do prazo estabelecido na Portaria n\u00ba 348/2016, de origem do Minist\u00e9rio do Planejamento Or\u00e7amento e Gest\u00e3o - MPOG.\r\nNobres pares, sabemos que os preju\u00edzos acarretados por obras paralisadas podem ser irrepar\u00e1veis, n\u00e3o apenas do ponto de vista econ\u00f4mico, j\u00e1 que na aus\u00eancia de adequada manuten\u00e7\u00e3o e conclus\u00e3o, \u00e9 poss\u00edvel que as estruturas sejam danificadas a ponto de n\u00e3o mais possu\u00edrem condi\u00e7\u00f5es de uso, como tamb\u00e9m do ponto de vista social, considerando que o interesse p\u00fablico de viabilizar o acesso da popula\u00e7\u00e3o aos mais variados servi\u00e7os acaba por ser fatalmente lesado.\r\nPor essas raz\u00f5es, portanto, fa\u00e7o aqui um apelo aos Srs. Deputados e ao Sr. Ministro da Economia, para que possamos, de forma c\u00e9lere, resolver o problema que se apresenta, seja pela edi\u00e7\u00e3o de outra portaria para prorroga\u00e7\u00e3o daquele prazo, seja por outras vias.\r\nCada um de n\u00f3s, Parlamentares, carrega a responsabilidade de chamar o Governo para um debate, de modo a possibilitar que nossos Munic\u00edpios tenham condi\u00e7\u00f5es de finalizar essas obras, que s\u00e3o indispens\u00e1veis, especialmente para a popula\u00e7\u00e3o mais carente.\r\nConcluindo, Sr. Presidente, rogo a todos para que nos empenhemos junto ao Governo Federal e busquemos a melhor maneira de permitir que essas constru\u00e7\u00f5es de escolas, unidades de sa\u00fade, creches, dentre outras, voltem a receber as verbas necess\u00e1rias ao incremento da infraestrutura de muitos Munic\u00edpios do Brasil. Desse modo, podemos promover a presta\u00e7\u00e3o de servi\u00e7os de qualidade para o nosso povo que tanto necessita.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=251&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 863/2018, MEDIDA PROVISORIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO CONTRARIO.\r\nPALMAS (TO), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 863, de 2018,sobre a abertura do setor a\u00e9reo ao capital estrangeiro. Transcurso do 30\u00ba anivers\u00e1rio de funda\u00e7\u00e3o de Palmas, Estado do Tocantins.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSC orienta \"n\u00e3o\".\r\nNesta tarde, quero deixar registrada a nossa alegria pelos 30 anos de emancipa\u00e7\u00e3o do Munic\u00edpio de Palmas, Capital do Tocantins e mais nova Capital do Brasil.\r\nParabenizo a Prefeita Cinthia Ribeiro pelas festas que promoveu para aquela popula\u00e7\u00e3o. Parab\u00e9ns, Prefeita Cinthia Ribeiro, pelos 30 anos de emancipa\u00e7\u00e3o da nossa querida Palmas!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=170&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DE REP\u00daBLICA, SAN\u00c7\u00c3O PRESIDENCIAL, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS (UFNT), ELOGIO.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Regozijo com a san\u00e7\u00e3o, pelo Presidente Jair Bolsonaro, do projeto de lei sobre a cria\u00e7\u00e3o da Universidade Federal do Norte do Tocantins.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Sem revis\u00e3o do orador.) - Sr. Presidente, assomo a esta tribuna muito alegre, feliz, porque pudemos presenciar no Pal\u00e1cio do Planalto, de onde acabamos de sair, o nosso Presidente Jair Bolsonaro sancionar o projeto de lei que cria a Universidade Federal do Norte do Tocantins. Isso nos deixa muito felizes.\r\nO Tocantins come\u00e7a a dar mais oportunidades ainda aos jovens para que fa\u00e7am curso superior. D\u00e1-se oportunidade tamb\u00e9m para o sul do Maranh\u00e3o, para o sul do Par\u00e1.\r\nEstive l\u00e1 acompanhado do nosso Senador Eduardo Gomes, do Deputado Carlos Henrique Gaguim, do Deputado Tiago Dimas. O nosso Presidente, alegre e firme no prop\u00f3sito de desenvolver o nosso Pa\u00eds, d\u00e1 oportunidade ao nosso Tocantins com a cria\u00e7\u00e3o da Universidade Federal do Norte do Tocantins.\r\nObrigado, Presidente! Tenho certeza de que o povo do Tocantins saber\u00e1 lhe agradecer.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, ART 20, ARTIGO (TEXTO LEGISLATIVO), COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o em dois anos  constante do \u00a7 1\u00ba, do art. 20, do Substitutivo adotado pela Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, na quarta-feira \u00e0 noite n\u00f3s tivemos a alegria de votar favoravelmente \u00e0 reforma da Previd\u00eancia. E estamos, ap\u00f3s todas essas horas, analisando, votando e decidindo alguns destaques que s\u00e3o importantes para o nosso povo.\r\nEu votei favoravelmente \u00e0 reforma da Previd\u00eancia, defendendo a gera\u00e7\u00e3o de emprego, um Brasil melhor e um crescimento para o nosso povo, em especial para o povo do Tocantins.\r\nSubo a esta tribuna para apoiar este destaque do PDT, ao qual eu quero parabenizar por t\u00ea-lo apresentado, dando-nos a oportunidade de realmente fazer justi\u00e7a aos nossos professores. Ontem, esta Casa, por unanimidade, apoiou a regra de transi\u00e7\u00e3o para os nossos policiais. Apoiamos com muita alegria, porque n\u00f3s sabemos a import\u00e2ncia da pol\u00edcia para este Brasil. Mas n\u00f3s sabemos tamb\u00e9m que a educa\u00e7\u00e3o \u00e9 um dos principais pilares de sustenta\u00e7\u00e3o de uma na\u00e7\u00e3o. N\u00f3s precisamos valorizar os nossos professores, dando a eles uma regra de transi\u00e7\u00e3o justa. Dessa forma, eu pe\u00e7o aos nossos pares que hoje, tamb\u00e9m por unanimidade, possamos aprovar este destaque. \r\nO PSC vota \"n\u00e3o\" ao texto e \"sim\" a este destaque. \u00c9 a orienta\u00e7\u00e3o do nosso partido.\r\nEu quero dizer aos nossos professores e aos defensores dos educadores que contem com o Deputado Osires Damaso para estar sempre em defesa de uma educa\u00e7\u00e3o de qualidade, em defesa de condi\u00e7\u00f5es de trabalho melhores para as pessoas que realmente fazem crescer o nosso Pa\u00eds, o nosso mundo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do  Projeto de Lei n\u00ba 3.715, de 2019, sobre a regulamenta\u00e7\u00e3o da posse de arma de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PSC entende que o produtor rural precisa realmente ter seguran\u00e7a e tranquilidade para exercer as suas atividades.\r\nDessa forma, o PSC vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=22&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DIA DO PROFESSOR, TOCANTINS, HOMENAGEM.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Congratula\u00e7\u00f5es aos professores brasileiros, especialmente aos do Estado de Tocantins.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de parabenizar todos os professores brasileiros, em especial os professores tocantinenses, ao homenagear uma professora especial na minha vida, a Profa. Iolanda, do col\u00e9gio estadual de Para\u00edso do Tocantins. A Profa. Iolanda marcou a minha inf\u00e2ncia, marcou a minha vida, a minha forma\u00e7\u00e3o. Tenho por ela grande admira\u00e7\u00e3o.\r\nOs nossos professores t\u00eam uma forma \u00fanica de transmitir seus conhecimentos. A sala de aula \u00e9 para as pessoas que gostam realmente de educar, que t\u00eam voca\u00e7\u00e3o e muito amor para ensinar.\r\nDeixo aqui registrado o meu carinho e respeito a todos os professores tocantinenses, a todos os professores brasileiros.\r\nDigo com alegria que, neste ano, o nosso Presidente Jair...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO SOCIAL CRIST\u00c3O (PSC), DEFESA, DESTAQUE DE BANCADA, EMENDA DE PLEN\u00c1RIO, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DO DESARMAMENTO, CERTIFICADO DE REGISTRO DE ARMA DE FOGO, POSSE DE ARMA, PORTE DE ARMA.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Discord\u00e2ncia do PSC com a retirada do Requerimento de Destaque n\u00ba 2 para vota\u00e7\u00e3o em separado da Emenda n\u00ba 76, apresentada ao Projeto de Lei n\u00ba 3.723, de 2019, sobre o registro, posse e comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINARM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO) - Presidente Rodrigo Maia, o PSC tem o Destaque n\u00ba 2. Na Emenda n\u00ba 76, o PSC n\u00e3o concorda com a retirada do destaque.\r\nTrata-se do Destaque n\u00ba 2, a Emenda n\u00ba 76. O PSC n\u00e3o concorda com a retirada e quer que ele seja levado \u00e0 vota\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=244&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO SOCIAL CRIST\u00c3O (PSC), RETIRADA, DESTAQUE DE BANCADA, ACORDO, COLECIONADOR, ATIRADOR, CA\u00c7ADOR, VOTA\u00c7\u00c3O, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DO DESARMAMENTO, CERTIFICADO DE REGISTRO DE ARMA DE FOGO, POSSE DE ARMA, PORTE DE ARMA, FISCALIZA\u00c7\u00c3O AMBIENTAL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Condi\u00e7\u00e3o imposta pelo PSC para a retirada de requerimento de destaque oferecido ao Projeto de Lei n\u00ba 3.723, de 2019, sobre o registro, posse e comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINARM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, para contribuir com o acordo e em virtude da palavra de V.Exa. e do L\u00edder do Governo, o Deputado Vitor Hugo, de que o Governo ir\u00e1 encaminhar um projeto a esta Casa para garantir o porte de arma aos integrantes de carreiras fiscais, ambientais e guardas de parques federais e estaduais, o PSC concorda com a retirada do destaque. \r\nAcreditamos que o Governo vai honrar o projeto que d\u00e1 garantia aos fiscais ambientais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=250&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3261/2019, PROJETO DE LEI ORDINARIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO CONTRARIO.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 3.261, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico. Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do Requerimento n\u00ba 3.211, de 2019, para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.675, de 2013, acerca da altera\u00e7\u00e3o da Lei n\u00ba 8.137, de 1990, com vista \u00e0 defini\u00e7\u00e3o dos crimes contra a ordem tribut\u00e1ria, para redu\u00e7\u00e3o da pena prevista nos crimes descritos no art. 7\u00ba, e supress\u00e3o da modalidade culposa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de orientar pelo PSC. \r\nO PSC orienta \"n\u00e3o\".\r\nEu gostaria de solicitar a V.Exa. que colocasse em aprecia\u00e7\u00e3o o Requerimento n\u00ba 3.211, de 2019, que requer o regime de urg\u00eancia para a aprecia\u00e7\u00e3o do Projeto de Lei n\u00ba 5.675, de 2013.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 53/2020, VETO PARCIAL, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVORAVEL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 53, de 2019, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019 (oriundo da MPV n\u00ba 890, de 2019), sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade (SUS), e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (ADAPS).",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. OSIRES DAMASO (Bloco/PSC - TO. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSC entende que o Brasil tem universidades p\u00fablicas suficientes para atender a demanda do REVALIDA.\r\nO PSC orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=188&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, demais Parlamentares, a MP 905/19, que se encontra em pauta hoje para vota\u00e7\u00e3o pelo Plen\u00e1rio desta Casa, mesmo antes da crise causada pela pandemia do coronav\u00edrus, j\u00e1 era de grande relev\u00e2ncia. Ocorre que, com a chegada dessa crise, esta medida provis\u00f3ria que institui o Contrato de Trabalho Verde e Amarelo ganhou ainda mais import\u00e2ncia para o Pa\u00eds, porque j\u00e1 era necess\u00e1ria para a gera\u00e7\u00e3o de mais emprego e renda no Brasil. Ela foi concebida para ser uma pol\u00edtica voltada para o aumento do n\u00famero de empregos por meio da simplifica\u00e7\u00e3o da contrata\u00e7\u00e3o e da redu\u00e7\u00e3o de custos.\r\nAssim, ap\u00f3s os efeitos econ\u00f4micos provocados pela crise do coronav\u00edrus, a aprova\u00e7\u00e3o da medida \u00e9 indispens\u00e1vel, por exemplo, para suprir com m\u00e3o de obra tempor\u00e1ria os setores emergenciais de enfrentamento \u00e0 doen\u00e7a e para ajudar os pequenos neg\u00f3cios a sobreviverem \u00e0 crise a partir da expans\u00e3o do microcr\u00e9dito, t\u00e3o importante para as microempresas e os trabalhadores individuais.\r\nPortanto, Sr. Presidente, como a medida \u00e9 uma importante propulsora para uma recupera\u00e7\u00e3o mais r\u00e1pida da economia do Pa\u00eds, o PSC orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira, ressalvados os destaques. Insatisfa\u00e7\u00e3o do orador com a n\u00e3o inclus\u00e3o, pelo Relator Ac\u00e1cio Favacho, do Estado de Tocantins no texto da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero encaminhar o voto do PSC, que \u00e9 \"sim\", mas quero registrar a minha insatisfa\u00e7\u00e3o por V.Exa. n\u00e3o ter acatado do Deputado Carlos Henrique Gaguim a sugest\u00e3o de incluir o Estado do Tocantins.\r\nTocantins \u00e9 um Estado da Regi\u00e3o Norte, e esta \u00e9 uma mat\u00e9ria importante, com a qual o Estado tamb\u00e9m poderia ser agraciado. Entendo que o Plen\u00e1rio da C\u00e2mara dos Deputados e o do Congresso Nacional t\u00eam que pensar no Brasil como um todo.\r\nEnt\u00e3o, queria deixar para V.Exa. essa sugest\u00e3o, entendendo que V.Exa. faz um belo trabalho, tem realmente atuado de maneira muito decente, mas, em algumas mat\u00e9rias, com o trabalho a dist\u00e2ncia, n\u00f3s passamos batido, porque o acordo \u00e9 decidido entre poucos L\u00edderes, e \u00e0s vezes o tratamento dado a alguma regi\u00e3o do Pa\u00eds fica a desejar.\r\nEu gostaria que V.Exa. pudesse tirar essas mat\u00e9rias pol\u00eamicas de vota\u00e7\u00e3o, adiando a sua aprecia\u00e7\u00e3o por pelo menos 1 dia, para que n\u00f3s pud\u00e9ssemos chegar a um entendimento.\r\nO PSC vai votar \"sim\", mas vamos buscar o Senado, para que eles possam fazer uma modifica\u00e7\u00e3o nesse projeto, a fim de incluir o nosso querido Estado do Tocantins. Eu tenho certeza de que n\u00e3o h\u00e1 nada de inconstitucional nessa inclus\u00e3o de mais Estados. Depende simplesmente de boa vontade para que possa realmente abranger mais \u00e1reas.\r\nEnt\u00e3o, eu agrade\u00e7o a V.Exa. e a todos os pares. \r\nO PSC pensa na contribui\u00e7\u00e3o para o Pa\u00eds. Estamos preocupados com todo o Brasil e gostar\u00edamos que, quanto a essas mat\u00e9rias mais pol\u00eamicas, V.Exa. pudesse nos dar mais oportunidade de discutir com mais facilidade. Como as mat\u00e9rias n\u00e3o est\u00e3o passando pelas Comiss\u00f5es - est\u00e3o indo direto para o Plen\u00e1rio - e n\u00f3s n\u00e3o temos como discuti-las, quando houvesse diverg\u00eancias, que V.Exa. pudesse retirar a mat\u00e9ria de pauta e coloc\u00e1-la no dia seguinte.\r\n\u00c9 essa a sugest\u00e3o.\r\nAgrade\u00e7o a V.Exa. e parabenizo-o pelo trabalho que est\u00e1 desenvolvendo na Presid\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA,, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVORAVEL, INCLUS\u00c3O TOCANTINS.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o e supress\u00e3o do art. 1\u00ba do substitutivo oferecido ao Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira. Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de apoio \u00e0 inclus\u00e3o do Estado do Tocantins no texto da proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSC vota \"n\u00e3o\" ao destaque e \"sim\" ao texto e j\u00e1 deixa uma reivindica\u00e7\u00e3o aos nobres pares, Deputadas e Deputados. Esperamos que o Senado Federal fa\u00e7a uma opera\u00e7\u00e3o em prol da inclus\u00e3o do Estado de Tocantins. \r\nPe\u00e7o a V.Exa. que pense nessa ideia, para que, retornando esta mat\u00e9ria do Senado Federal, nos d\u00ea esse apoio para que o Tocantins tamb\u00e9m seja contemplado com esta mat\u00e9ria.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-14T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1179/2020, PROJETO DE LEI ORDINARIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVORAVEL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 1.179, de 2020, sobre a institui\u00e7\u00e3o de normas de car\u00e1ter transit\u00f3rio e emergencial para a regula\u00e7\u00e3o de rela\u00e7\u00f5es jur\u00eddicas de direito privado, diante da pandemia de coronav\u00edrus, e a altera\u00e7\u00e3o da Lei n\u00ba 13.709, de 2018, ressalvados os destaques. Apelo ao Relator Enrico Misasi por supress\u00e3o do art.17 do texto do substitutivo oferecido \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro gostaria de solicitar que fosse agregado, se poss\u00edvel, o tempo da Lideran\u00e7a do PSC.\r\nEu apresento uma preocupa\u00e7\u00e3o minha e do PSC relativamente a esta mat\u00e9ria. Tenho certeza de que a mat\u00e9ria \u00e9 important\u00edssima, tem v\u00e1rios pontos relevantes, mas tem outros que nos preocupam muito. N\u00f3s temos de entender que a flexibiliza\u00e7\u00e3o, \u00e0s vezes, ajuda uma parte da popula\u00e7\u00e3o e prejudica outra parte.\r\nSr. Presidente e demais colegas Parlamentares, apesar da import\u00e2ncia do PL 1.179/20, o art. 17 do substitutivo permite ao CONTRAN - Conselho Nacional de Tr\u00e2nsito flexibilizar os limites de peso e a lota\u00e7\u00e3o de passageiros, para tornar mais eficiente a log\u00edstica de transporte de bens e de insumos e a presta\u00e7\u00e3o de servi\u00e7os, no combate aos efeitos decorrentes da pandemia do coronav\u00edrus. Ora, se os Prefeitos, se os Governadores est\u00e3o restringindo a abertura do com\u00e9rcio, se est\u00e3o fechando bares e restaurantes, como vamos permitir o transporte de passageiros dessa forma, a superlota\u00e7\u00e3o, e desrespeitar a lei?\r\nFlexibilizar o peso dos caminh\u00f5es \u00e9 dar \u00e0s empresas condi\u00e7\u00e3o de pressionar os caminhoneiros aut\u00f4nomos para que transportem as mercadorias pelo mesmo valor de frete, mas com excesso de carga. Isso vai prejudicar tanto as rodovias federais e estaduais como os caminhoneiros, que v\u00e3o ter menos fretes e v\u00e3o ver seus caminh\u00f5es serem quebrados nas rodovias devido ao excesso de peso. Isso n\u00e3o podemos aceitar.\r\nParabenizo o Relator, o Deputado Enrico, por quem tenho grande apre\u00e7o, mas gostaria de pedir a ele que suprimisse o art. 17. Se n\u00e3o for acatado o pedido, vamos apresentar um destaque para votarmos em separado esse dispositivo, por entendermos que estamos prejudicando, com esse artigo, o transporte no Brasil, tanto o de carga como o de passageiros.\r\nPrecisamos realmente combater a aglomera\u00e7\u00e3o de pessoas. Para combater o coronav\u00edrus, n\u00e3o podemos autorizar a superlota\u00e7\u00e3o.\r\nEnt\u00e3o, eu gostaria de pedir aos nobres pares, Deputados e Deputadas, que analisem esse artigo para que possamos suprimir isso e n\u00e3o dar condi\u00e7\u00f5es de haver \u00f4nibus e vans superlotados e de as empresas pressionarem para os caminhoneiros andarem com excesso de peso. Esse \u00e9 o nosso entendimento. \r\nMas o PSC entende que esta \u00e9 uma mat\u00e9ria importante e orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2020&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-14T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 1179/2020, PROJETO DE LEI ORDIN\u00c1RIA, CONTR\u00c1RIO.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 17\u00ba, constante do substitutivo apresentado ao Projeto de Lei n\u00ba 1.179, de 2020, sobre a institui\u00e7\u00e3o de normas de car\u00e1ter transit\u00f3rio e emergencial para a regula\u00e7\u00e3o de rela\u00e7\u00f5es jur\u00eddicas de direito privado, diante da pandemia de coronav\u00edrus, e a altera\u00e7\u00e3o da Lei n\u00ba 13.709, de 2018.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, eu gostaria de chamar a aten\u00e7\u00e3o de V.Exa. e dos demais pares para o seguinte: flexibilizar os limites de peso e lota\u00e7\u00e3o de passageiros \u00e9 ir na contram\u00e3o de tudo o que defendemos at\u00e9 agora no combate \u00e0 pandemia da COVID-19. Assim, vamos tornar mais deficiente a log\u00edstica de transporte de bens e insumos e a presta\u00e7\u00e3o de servi\u00e7os, pois iremos torn\u00e1-las ainda mais vulner\u00e1veis aos efeitos decorrentes da pandemia do coronav\u00edrus.\r\nPortanto, esse artigo do substitutivo deve ser retirado, sob pena de causar preju\u00edzos irrepar\u00e1veis. De um lado, medidas de flexibiliza\u00e7\u00e3o de peso de ve\u00edculos podem danificar as estradas brasileiras, causando um problema de seguran\u00e7a ao tr\u00e1fego de mercadorias e passageiros; de outro, permitir o aumento do n\u00famero de passageiros pode aumentar a contamina\u00e7\u00e3o e a propaga\u00e7\u00e3o do coronav\u00edrus em meios de transporte superlotados.\r\nDesse modo, a aprova\u00e7\u00e3o desse destaque evitar\u00e1 que outros problemas sejam causados pela n\u00e3o observ\u00e2ncia de normas que buscam preservar a seguran\u00e7a dos transportes pelas rodovias do Pa\u00eds. N\u00f3s n\u00e3o podemos ir na contram\u00e3o disso, Sr. Presidente. Autorizar o transporte a andar com superlota\u00e7\u00e3o de passageiros \u00e9 colocar as pessoas vulner\u00e1veis \u00e0 COVID-19. N\u00f3s precisamos preservar o povo brasileiro.\r\nPor isso, pe\u00e7o a todos os pares que votem pela aprova\u00e7\u00e3o deste destaque. Conto com o apoio de todos, entendendo que estamos contribuindo com a popula\u00e7\u00e3o brasileira.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2020&txPagina=175&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-14T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 1179/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 17\u00ba, constante do substitutivo apresentado ao Projeto de Lei n\u00ba 1.179, de 2020, sobre a institui\u00e7\u00e3o de normas de car\u00e1ter transit\u00f3rio e emergencial para a regula\u00e7\u00e3o de rela\u00e7\u00f5es jur\u00eddicas de direito privado, diante da pandemia de coronav\u00edrus, e a altera\u00e7\u00e3o da Lei n\u00ba 13.709, de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSC vota \"n\u00e3o\", entendendo que o texto beneficia as grandes empresas e prejudica as pequenas transportadoras, principalmente os caminhoneiros aut\u00f4nomos com excesso de peso, al\u00e9m de deixar a popula\u00e7\u00e3o brasileira mais vulner\u00e1vel ainda \u00e0 COVID-19 no transporte coletivo. N\u00f3s n\u00e3o podemos autorizar o transporte coletivo e a superlota\u00e7\u00e3o. Eu fa\u00e7o um apelo a todos os pares para que votem \"n\u00e3o\" ao texto e \"sim\" \u00e0 emenda.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2020&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO , PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL CRIST\u00c3O (PSC), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Osires Damaso",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 1, apresentada ao Projeto de Lei n\u00ba 1.581, de 2020, sobre o disciplinamento do acordo com credores para o pagamento com desconto de precat\u00f3rios federais, bem como do acordo terminativo de lit\u00edgio contra a Fazenda P\u00fablica; e sobre a destina\u00e7\u00e3o dos recursos oriundos para o combate \u00e0 Covid-19, durante a vig\u00eancia do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e a altera\u00e7\u00e3o das Leis de n\u00bas 7.689, de 1988, e 8.212, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OSIRES DAMASO (PSC - TO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSC apoia esse destaque, que se prop\u00f5e a garantir que as entidades religiosas n\u00e3o continuem sendo autuadas como sujeito passivo em decorr\u00eancia de interpreta\u00e7\u00f5es equivocadas da legisla\u00e7\u00e3o pela Receita Federal. Tais autua\u00e7\u00f5es acabam por praticamente inviabilizar o exerc\u00edcio dos servi\u00e7os dessas entidades. \r\nA emenda tem por objetivo esclarecer a legisla\u00e7\u00e3o, para evitar abusos no poder de tributa\u00e7\u00e3o e garantir a imunidade tribut\u00e1ria das entidades religiosas, compreendendo o patrim\u00f4nio, a renda e os servi\u00e7os.\r\nPortanto, o PSC \u00e9 favor\u00e1vel ao destaque. O PSC vota \"sim\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=197&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

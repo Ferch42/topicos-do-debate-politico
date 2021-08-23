@@ -1,0 +1,164 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T09:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "BANCADA ESTADUAL, MINAS GERAIS, COL\u00c9GIO DE L\u00cdDERES, INICIATIVA LEGISLATIVA, PAULO PIMENTA, DEPUTADO FEDERAL, REQ 194/2019, REQUERIMENTO, COMISS\u00c3O GERAL, ROMPIMENTO, BARRAGEM DE REJEITO, RESPONSABILIDADE, DESASTRE AMBIENTAL, BRUMADINHO (MG).",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Debate das circunst\u00e2ncias e responsabilidades pelo rompimento da barragem da Mina do C\u00f3rrego do Feij\u00e3o, da empresa Vale, no Munic\u00edpio de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. PAULO ABI-ACKEL (Bloco/PSDB - MG) - Eu queria apenas informar a todos os presentes, com toda a considera\u00e7\u00e3o e respeito que tenho pelo meu xar\u00e1 e colega, que a autora deste requerimento \u00e9 a bancada federal de Minas Gerais, que se valeu de uma reuni\u00e3o do Col\u00e9gio de L\u00edderes - e est\u00e1 aqui o Deputado F\u00e1bio Ramalho, que pode avalizar o que afirmo - para colher as assinaturas de todos os L\u00edderes.\r\nQuis o destino que V.Exa. o assinasse em primeiro lugar, mas V.Exa. n\u00e3o \u00e9 o autor do requerimento. O requerimento \u00e9 da bancada de Minas Gerais, que foi feito at\u00e9 por uma sugest\u00e3o minha. Todos os L\u00edderes, ent\u00e3o, s\u00e3o autores do pedido, representando a vontade da bancada de Minas Gerais.\r\nFa\u00e7o um apelo a V.Exa. para que a bancada de Minas possa presidir esta sess\u00e3o. O nome de V.Exa., que, por sinal, \u00e9 muito respeitado nesta Casa, aparece em primeiro lugar.\r\nO SR. PRESIDENTE (Paulo Pimenta. PT - RS) - Perfeito.\r\nDeputado, eu n\u00e3o tenho nenhuma inten\u00e7\u00e3o de ser reconhecido como autor do requerimento. \r\nBasicamente, h\u00e1 um documento do Presidente da Casa Rodrigo Maia que foi lido por mim, em que ele diz: \"(...) a Comiss\u00e3o Geral proposta pelo Deputado Paulo Pimenta...\" Eu n\u00e3o solicitei a ningu\u00e9m para presidir esta sess\u00e3o. S\u00f3 abri a sess\u00e3o na hora porque havia poucos Parlamentares aqui e os convidados j\u00e1 estavam esperando. Em respeito aos convidados presentes, como sou autor do requerimento, a Mesa Diretora me designou para fazer a abertura dos trabalhos. Longe de mim qualquer interesse outro que n\u00e3o seja o bom andamento dos trabalhos.\r\nDessa forma, vou passar a Presid\u00eancia ao Deputado Rog\u00e9rio Correia para que ele d\u00ea seguimento aos trabalhos. \r\nSe V.Exa. quiser, posso inclusive colocar o seu nome em primeiro lugar, para que na hist\u00f3ria fique registrado que V.Exa. foi o primeiro signat\u00e1rio desse requerimento. De minha parte, n\u00e3o h\u00e1 qualquer inten\u00e7\u00e3o em aparecer como algu\u00e9m que tenha algum outro interesse que n\u00e3o seja o bom andamento dos trabalhos.\r\nDeputado Rog\u00e9rio Correia, a palavra est\u00e1 \u00e0 sua disposi\u00e7\u00e3o.(Pausa.)\r\nO SR. PAULO ABI-ACKEL (Bloco/PSDB - MG) - A bancada de Minas Gerais agradece a V.Exa. participa\u00e7\u00e3o de V.Exa., e, a partir de agora, ent\u00e3o, passa a liderar os trabalhos aqui.\r\nMuito obrigado, em nome do povo do Rio Grande do Sul, pela contribui\u00e7\u00e3o de V.Exa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=20&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T10:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, ROMPIMENTO, BARRAGEM DE REJEITO, DESASTRE AMBIENTAL, BRUMADINHO (MG), DUARTE J\u00daNIOR, PREFEITO, MARIANA (MG).",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Presen\u00e7a no plen\u00e1rio do Prefeito Duarte Eust\u00e1quio Gon\u00e7alves J\u00fanior, do Munic\u00edpio de Mariana, Estado de Minas Gerais. Sugest\u00e3o \u00e0 Presid\u00eancia de prioridade na concess\u00e3o da palavra ao gestor municipal.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. PAULO ABI-ACKEL (Bloco/PSDB - MG) - Encontra-se presente o Prefeito de Mariana, Duarte J\u00fanior, que pode dar in\u00edcio aos trabalhos elucidando inclusive em que situa\u00e7\u00e3o se deram os dias seguintes ao desastre ocorrido na cidade, que \u00e9 muito parecido com o de Brumadinho. De forma que eu quero anunciar a presen\u00e7a dele e sugerir que ele seja um dos primeiros a serem ouvidos, para o bem dos trabalhos, para que possamos, a partir da\u00ed, formar uma l\u00f3gica dos trabalhos desta Comiss\u00e3o Geral.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=24&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-06T12:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "GOVERNO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, POL\u00cdTICA P\u00daBLICA, BENEF\u00cdCIO, CAFEICULTOR, CAFEICULTURA, ZONA DA MATA, MINAS GERAIS.",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Solicita\u00e7\u00e3o ao Governo Jair Bolsonaro de ado\u00e7\u00e3o de pol\u00edtica de apoio aos cafeicultores, especialmente da regi\u00e3o da Zona da Mata do Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Sem revis\u00e3o do orador.) - Meu caro Presidente, meu caro Deputado Gonzaga Patriota, senhoras e senhores aqui presentes, eu n\u00e3o preciso de pouco mais de 1 minuto para pedir, da tribuna da C\u00e2mara dos Deputados, ao Governo Federal aten\u00e7\u00e3o aos cafeicultores da Zona da Mata mineira. Acho muito oportuna a presen\u00e7a do Deputado Rog\u00e9rio Correia, tamb\u00e9m filho da regi\u00e3o.\r\nO Governo Bolsonaro est\u00e1 se dedicando \u00e0 reforma da Previd\u00eancia, agora \u00e0 reforma tribut\u00e1ria e \u00e0 seguran\u00e7a p\u00fablica, que, sem d\u00favida nenhuma, s\u00e3o temas muito importantes. Trata de outros assuntos talvez de menor import\u00e2ncia, como a mudan\u00e7a da legisla\u00e7\u00e3o de tr\u00e2nsito, mas ainda n\u00e3o apresentou uma pol\u00edtica espec\u00edfica para os cafeicultores. J\u00e1 se v\u00e3o 5 meses, e n\u00f3s continuamos, desde a transi\u00e7\u00e3o, pedindo isso ao Presidente. \r\nOra, meu caro Presidente, o que ocorre \u00e9 o seguinte. O caf\u00e9 \u00e9 a sustenta\u00e7\u00e3o de centenas de milhares de fam\u00edlias daquela regi\u00e3o como \u00fanica atividade para a popula\u00e7\u00e3o. Falindo, como est\u00e3o, os cafeicultores e comerciantes de caf\u00e9, isso \u00e9 raz\u00e3o para uma ebuli\u00e7\u00e3o social. Como ficar\u00e3o estas fam\u00edlias com a crise do caf\u00e9, que se agrava a cada dia?\r\nPortanto, eu quero pedir, clamar, exigir do Governo Federal, de Jair Bolsonaro, da Ministra da Agricultura, enfim, de todas as autoridades deste Governo um projeto para que possamos salvar todos aqueles que dependem da cultura e do com\u00e9rcio do caf\u00e9.\r\nComo bem sabe o meu caro colega da regi\u00e3o de Minas Gerais, Deputado Rog\u00e9rio Correia, essas pessoas passam por extremas dificuldades por n\u00e3o haver por parte do Banco do Brasil uma pol\u00edtica de renegocia\u00e7\u00e3o de suas d\u00edvidas. Eles n\u00e3o t\u00eam novos financiamentos, n\u00e3o t\u00eam uma politica de regula\u00e7\u00e3o do estoque de caf\u00e9, o que gera, portanto, uma crise imensa, que prejudica as fam\u00edlias e, obviamente, faz com que as pessoas acabem buscando em grandes centros um novo emprego, uma nova atividade, ampliando ainda mais o drama dessas fam\u00edlias.\r\nDessa forma, deixo o meu registro no sentido de pedir ao Governo Federal que, ainda que atento \u00e0s quest\u00f5es com que todos n\u00f3s nos preocupamos - Previd\u00eancia, seguran\u00e7a p\u00fablica, dentre outras -, tamb\u00e9m encare esse problema crucial para o leste mineiro, a Zona da Mata, como tamb\u00e9m para S\u00e3o Paulo e Paran\u00e1 como um problema priorit\u00e1rio na sua agenda.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F6%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LUIZ IN\u00c1CIO LULA DA SILVA, EX-PRESIDENTE DA REP\u00daBLICA, TRANSFER\u00caNCIA DE PRESO, PRES\u00cdDIO, TREMEMB\u00c9 (SP), DECIS\u00c3O JUDICIAL, REP\u00daDIO.",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Contrariedade \u00e0 transfer\u00eancia do ex-Presidente Luiz In\u00e1cio Lula da Silva para pres\u00eddio federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero dizer a V.Exa., aos colegas e ao Plen\u00e1rio que, em v\u00e1rias ocasi\u00f5es ao longo dos meus quatro mandatos, fiz aberta oposi\u00e7\u00e3o ao Governo do Presidente Lula e inclusive ocupei a Lideran\u00e7a da Oposi\u00e7\u00e3o nesta Casa contra o Governo do PT.\r\nN\u00e3o obstante esse hist\u00f3rico de oposi\u00e7\u00e3o aos Governos do PT, neste momento me uno \u00e0queles que se op\u00f5em a esta decis\u00e3o de levar o ex-Presidente da Rep\u00fablica Luiz In\u00e1cio Lula da Silva a um pres\u00eddio federal. Ele, como ex-Presidente da Rep\u00fablica, tem o direito iniciar o cumprimento de sua pena ou a sua pris\u00e3o provis\u00f3ria ou o que quer que seja em sala de Estado-Maior, com acomoda\u00e7\u00f5es dignas e apropriadas para um ex-Chefe de Estado.\r\nPortanto, o que est\u00e1 se fazendo \u00e9 um verdadeiro absurdo e algo que coloca realmente em risco o respeito que o Brasil conquistou em todo o cen\u00e1rio internacional como Pa\u00eds garantidor dos direitos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido ao Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em primeiro lugar, quero parabenizar V.Exa. pela prof\u00edcua dire\u00e7\u00e3o dos trabalhos desta Casa, que permite ao Plen\u00e1rio, finalmente, ap\u00f3s 200 dias de trabalho, muito estudo e dedica\u00e7\u00e3o, promover uma profunda modifica\u00e7\u00e3o na legisla\u00e7\u00e3o penal brasileira, de modo a combater o crime organizado, o crime violento, a corrup\u00e7\u00e3o, as organiza\u00e7\u00f5es criminosas.\r\nO PSDB, parabenizando todos os membros do Grupo de Trabalho, do qual fiz parte, orienta que se vote \"sim\". \r\nParab\u00e9ns ao Parlamento brasileiro, em especial \u00e0 C\u00e2mara dos Deputados!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=316&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T21:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, BLOCO PARLAMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB).",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba-B, constante do art. 3\u00ba do Substitutivo oferecido no Projeto de Lei n\u00ba 10.372, de 2018, e, por decorr\u00eancia, dos artigos 3\u00ba-C, 3\u00ba-D, 3\u00ba-E e 3\u00ba-F, para fins de supress\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sras. e Srs. Parlamentares, serei muito breve, porque sei que a esta hora todos j\u00e1 est\u00e3o cansados com esse debate. Mas eu participei do grupo de trabalho que se dedicou durantes 200 dias ao exame de toda a legisla\u00e7\u00e3o penal, \u00e0s mazelas e \u00e0quilo que tem de bom em todo o sistema legal brasileiro no tocante \u00e0 justi\u00e7a criminal. N\u00f3s conhecemos o tema, de certa maneira, pelas nossas experi\u00eancias pessoais, porque somos origin\u00e1rios da atividade do direito ou da academia.\r\nOuvimos magistrados, ouvimos Ministros de Tribunais Superiores, ouvimos a academia - professores especializados no tema -, ouvimos a advocacia. Em suma, fizemos um amplo debate. Fomos buscar experi\u00eancias em todo o mundo, por meio de estudos e de pesquisas. E chegamos \u00e0 s\u00e9ria conclus\u00e3o de que o ju\u00edzo de garantias est\u00e1, sim, implantado nos mais desenvolvidos pa\u00edses deste mundo, os pa\u00edses da Europa e os ibero-americanos. Mais do que isso, representa a independ\u00eancia do juiz no sentido de n\u00e3o se deixar envolver emocionalmente pela constru\u00e7\u00e3o do processo de instru\u00e7\u00e3o. \u00c9 comprovado que, ao longo da instru\u00e7\u00e3o criminal, na oitiva de testemunhas, no conv\u00edvio com a sociedade, muitas vezes perplexa com o crime, h\u00e1, sim, influ\u00eancia no processo decis\u00f3rio.\r\nO que n\u00f3s estamos propondo aqui, longe de ser algo estranho ao que est\u00e1 sendo discutido, \u00e9 o que h\u00e1 de mais moderno. O Judici\u00e1rio ter\u00e1 todas as condi\u00e7\u00f5es de se adaptar a esse momento decisivo e muito importante da vida parlamentar. Estamos modernizando a legisla\u00e7\u00e3o penal, endurecendo com o crime organizado, endurecendo com os crimes de corrup\u00e7\u00e3o. Estamos atendendo em grande parte o que nos foi solicitado no pacote anticrime do Ministro Moro. Estamos atendendo o que queria o Ministro Alexandre de Moraes.\r\nExatamente por isso, neste momento absolutamente prop\u00edcio, estamos submetendo \u00e0 impress\u00e3o das Sras. e Srs. Parlamentares uma mudan\u00e7a da maior import\u00e2ncia para a Justi\u00e7a brasileira.\r\nQuero dizer que falo aqui n\u00e3o em nome do meu L\u00edder, que \u00e9 contr\u00e1rio ao texto, n\u00e3o em nome de toda a minha bancada, porque muitos s\u00e3o contr\u00e1rios tamb\u00e9m, mas tenho a obriga\u00e7\u00e3o e o dever de dar a minha impress\u00e3o, fruto da minha experi\u00eancia profissional e, principalmente, do trabalho de 200 dias, de manh\u00e3 e de tarde, para estudo da mat\u00e9ria. Estou convencido de que o ju\u00edzo de garantia trar\u00e1 uma grande evolu\u00e7\u00e3o para o processo democr\u00e1tico, para o Estado Democr\u00e1tico de Direito, contra as injusti\u00e7as.\r\nPor isso, Sras. e Srs. Parlamentares, a orienta\u00e7\u00e3o que est\u00e1 no painel do meu partido n\u00e3o \u00e9 a minha. Eu sou a favor do ju\u00edzo de garantias e vou votar \"sim\" ao texto original.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=351&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5977/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.977, de 2019, acerca da transforma\u00e7\u00e3o de cargos vagos de Juiz Federal Substituto, do Quadro Permanente da Justi\u00e7a Federal, em cargos de Juiz dos Tribunais Regionais Federais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente. V.Exa. honra a C\u00e2mara dos Deputados ao presidir brilhantemente esta sess\u00e3o.\r\nO ponto de vista do PSDB \u00e9 que n\u00f3s devemos ter um enorme respeito pelo Poder Judici\u00e1rio e estar atentos ao princ\u00edpio da harmonia entre os Poderes. Desta maneira, tratando-se de um interesse do Poder Judici\u00e1rio brasileiro, n\u00f3s somos contra o adiamento da mat\u00e9ria.\r\nPor esta raz\u00e3o, votamos \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=237&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 5977/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.977, de 2019, acerca da transforma\u00e7\u00e3o de cargos vagos de Juiz Federal Substituto, do Quadro Permanente da Justi\u00e7a Federal, em cargos de Juiz dos Tribunais Regionais Federais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, mais uma vez quero dizer que V.Exa. preside de forma muito efetiva esta sess\u00e3o, honrando as tradi\u00e7\u00f5es da sua fam\u00edlia, que sempre honrou a pol\u00edtica brasileira.\r\nO PSDB vai orientar favoravelmente a mat\u00e9ria, na presun\u00e7\u00e3o de que discutir mat\u00e9ria proposta pelo Poder Judici\u00e1rio... O PSDB n\u00e3o se sentiria bem ao ver o Poder Judici\u00e1rio discutir quest\u00f5es relativas a cargos do Poder Legislativo Federal no Congresso Nacional.\r\nPor essa raz\u00e3o, atento ao princ\u00edpio da harmonia entre os Poderes, o PSDB orienta favoravelmente ao projeto, vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=247&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Paulo Abi-Ackel",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de determina\u00e7\u00e3o, ao Plen\u00e1rio, de observ\u00e2ncia de 1 minuto de sil\u00eancio em homenagem p\u00f3stuma ao ex-Deputado Federal Caio Narcio, ao ensejo do transcurso do primeiro ano do seu falecimento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PAULO ABI-ACKEL (PSDB - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, ao ensejo desta just\u00edssima homenagem que fazemos ao nosso colega Sim\u00e3o Sessim, meu amigo, de quem tenho muita saudade, pe\u00e7o tamb\u00e9m a V.Exa. igual homenagem a um Deputado falecido no ano passado, h\u00e1 exatamente 1 ano e 1 dia. Ontem fez 1 ano do falecimento do Deputado Caio Narcio, do PSDB de Minas Gerais. \r\nEnt\u00e3o, pe\u00e7o a V.Exa. que estenda ao Deputado Caio Narcio essa homenagem, solicitando ao Plen\u00e1rio 1 minuto de sil\u00eancio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

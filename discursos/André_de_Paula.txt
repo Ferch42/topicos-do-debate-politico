@@ -1,0 +1,362 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T21:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 15/2019, EMENDA DE PLEN\u00c1RIO, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 15, apresentada ao Projeto de Lei n\u00ba 2.724, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD quer orientar \"n\u00e3o\" e compreende que, na \u00e2nsia de ajudar o consumidor, vamos inviabilizar as promo\u00e7\u00f5es, que devem ser estimuladas.\r\nO PSD orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=363&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE QUEBRA DE INTERST\u00cdCIO, VERIFICA\u00c7\u00c3O DE VOTA\u00c7\u00c3O, DESTAQUE, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de quebra de interst\u00edcio para vota\u00e7\u00e3o do Requerimento de Destaque n\u00ba 29.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD vota \"n\u00e3o\" e entende que \u00e9 absolutamente inconveniente e inoportuno tratar dessa quest\u00e3o na Lei Geral do Turismo. \r\nComo foi dito aqui e quero ressaltar, isso n\u00e3o ajuda em nada o turismo do nosso Pa\u00eds.\r\nN\u00f3s votamos e encaminhamos contrariamente a esta mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=218&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, ART 38, ARTIGO (TEXTO LEGISLATIVO), DISPOSITIVO LEGAL, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do art. n\u00ba 38, VII, da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre o estabelecimento da organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios, para fins de sua aprova\u00e7\u00e3o e incorpora\u00e7\u00e3o no texto final e, por decorr\u00eancia, do art. n\u00ba 14 da Lei n\u00ba 9.613, de 1998, alterado pelo art. n\u00ba 72 da medida provis\u00f3ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, esta mat\u00e9ria suscitou muitas discuss\u00f5es na nossa bancada. Companheiros defenderam os dois sentidos e o fizeram com argumentos muito consistentes.\r\nN\u00f3s exercitamos ao m\u00e1ximo a democracia interna, reunimo-nos muitas vezes para discutir essa discutir esta mat\u00e9ria. E, ontem, n\u00f3s, 31 dos 36 Deputados do partido, reunidos, deliberamos que dever\u00edamos, em fun\u00e7\u00e3o dessas duas vis\u00f5es antag\u00f4nicas que dividem a bancada, tomar a posi\u00e7\u00e3o de dar conforto, de liberar os companheiros, para que formem o seu ju\u00edzo pessoal e votem com a sua consci\u00eancia.\r\nPortanto, o PSD libera a bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=167&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu compreendo o entusiasmo, eu comungo desse entusiasmo, mas pe\u00e7o encarecidamente aos nossos companheiros alguns minutos de aten\u00e7\u00e3o. N\u00f3s estamos concluindo um debate importante travado nesta Casa ao longo de 6 meses - foram 6 meses de avan\u00e7os, conquistas e debates democr\u00e1ticos e intensos. Meu partido participou de forma determinada e decisiva deste debate. \u00c9 hora de fazermos algumas reflex\u00f5es e, sobretudo, de agradecermos.\r\nFa\u00e7o as seguintes reflex\u00f5es. Ningu\u00e9m desconhece a dificuldade e a pol\u00eamica em discutir uma mat\u00e9ria como esta. Diante da constata\u00e7\u00e3o do desequil\u00edbrio das contas p\u00fablicas, da crise em que est\u00e1 mergulhado nosso Pa\u00eds, diante da fila de desempregados que aumenta a cada dia, diante do caos em que se encontra esta Na\u00e7\u00e3o, diante de tudo isso, \u00e9 preciso ousadia, coragem e determina\u00e7\u00e3o. Este rem\u00e9dio n\u00e3o \u00e9 agrad\u00e1vel: \u00e9 um rem\u00e9dio amargo. A responsabilidade nos chama.\r\nMeu partido n\u00e3o vai faltar ao Brasil. Minha bancada est\u00e1 presente para dizer \"sim\" ao Brasil.\r\nHoje pela manh\u00e3, instados pelos meus companheiros, reunimos a bancada e, por maioria absoluta, resolvemos fechar quest\u00e3o quanto a esta vota\u00e7\u00e3o.\r\nEu quero destacar a import\u00e2ncia da participa\u00e7\u00e3o dos meus companheiros, sobretudo ao longo desta caminhada. No dia 26 de mar\u00e7o, o PSD e mais 13 partidos, que, juntos, somam mais de 290 Deputados, subscrevemos um manifesto que deixava claro que n\u00e3o aceitar\u00edamos uma reforma que tirasse de quem n\u00e3o tem, uma reforma socialmente injusta. Foi naquele dia que se assegurou que o trabalhador rural estaria de fora da reforma, que o BPC era intoc\u00e1vel. Estas conquistas foram alcan\u00e7adas gra\u00e7as ao di\u00e1logo, ao debate e \u00e0 solidariedade dos meus companheiros. \r\nA reforma da Previd\u00eancia precisa ser eficiente do ponto de vista fiscal, mas precisa sobretudo ser universal, precisa chegar a todos, precisa ser uma reforma solid\u00e1ria, que tire mais de quem tem mais e menos de quem tem menos. Estes princ\u00edpios foram perseguidos pela nossa bancada.\r\nEu quero agradecer aos Deputados e \u00e0 Deputada integrantes do meu partido e, de forma especial, \u00e0queles que estiveram na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a: os Deputados Darci de Matos, Delegado \u00c9der Mauro, F\u00e1bio Trad, coordenador do partido; os Deputados Edil\u00e1zio J\u00fanior, Reinhold Stephanes Junior, Evandro Roman, Francisco Jr., Ricardo Guidi, Paulo Magalh\u00e3es e Expedito Netto, corretos, solid\u00e1rios, patriotas, partid\u00e1rios. Na Comiss\u00e3o Especial, tivemos os Deputados Darci de Matos, coordenador, Delegado \u00c9der Mauro, Reinhold Stephanes Junior, Marco Bertaiolli, Hugo Leal.\r\nQuero fazer um agradecimento especial ao Presidente da CCJ, o Deputado Francischini, a quem parabenizo pela atua\u00e7\u00e3o corajosa, ousada, isenta. Agrade\u00e7o ao Relator da CCJ, o Delegado Marcelo Freitas, e, de forma especial, ao Presidente da Comiss\u00e3o Especial, o Deputado Marcelo Ramos, que deu uma prova de compet\u00eancia, efici\u00eancia, lideran\u00e7a, esp\u00edrito p\u00fablico; e \u00e0quele que \u00e9 o artes\u00e3o desta reforma, o homem que teve a paci\u00eancia de ouvir a todos, de acomodar situa\u00e7\u00f5es, de possibilitar consensos, de facilitar a aprova\u00e7\u00e3o desta reforma: refiro-me ao Deputado Samuel Moreira. At\u00e9 quem ouviu um n\u00e3o do Deputado reconhece a forma cort\u00eas, lhana e democr\u00e1tica com que ele se conduziu.\r\nPor fim, quero agradecer de p\u00fablico ao nosso L\u00edder, ao L\u00edder desta Casa, ao L\u00edder do Poder Legislativo, ao Presidente Rodrigo Maia, um Presidente corajoso, correto, democr\u00e1tico, algu\u00e9m que foi sereno, mas firme, que sempre perseguiu e acreditou na vota\u00e7\u00e3o que vai ocorrer agora.\r\nO Presidente Rodrigo Maia \u00e9 algu\u00e9m que sabe que a maior homenagem, o maior presente, a maior obra que ele pode legar ao Brasil \u00e9 esta reforma, que representa o primeiro passo para ajustar as contas p\u00fablicas e fazer com que este Pa\u00eds volte a investir, para melhorar a vida de quem realmente precisa, dos mais pobres, dos que precisam da m\u00e3o do Governo.\r\nPresidente Rodrigo Maia, receba, em meu nome e em nome dos 36 Deputados da minha bancada, meu reconhecimento, meu agradecimento e, sobretudo, me permita lhe dizer uma coisa, olhando para o senhor: n\u00f3s temos orgulho de t\u00ea-lo no comando da C\u00e2mara dos Deputados. At\u00e9 a Oposi\u00e7\u00e3o, de forma democr\u00e1tica, est\u00e1 se posicionando...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=235&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T23:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, esta Casa assumiu um protagonismo importante nessa quest\u00e3o. Ao longo dos \u00faltimos 6 meses, a Casa abriu as suas portas para o Brasil discutir esse avan\u00e7o. Eu estou absolutamente convencido de que n\u00f3s estamos fazendo hist\u00f3ria hoje. Eu estou absolutamente convencido de que n\u00f3s n\u00e3o estamos faltando ao Pa\u00eds.\r\nFoi dito aqui que, quando os Parlamentares voltassem para a base, eles viriam com outra imagem do que ouviriam na rua. N\u00e3o foi isso que ocorreu. O Brasil aprovou a reforma. O Brasil est\u00e1 a favor da reforma. O PSD n\u00e3o vai fugir ao Brasil. O PSD vai votar \"sim\" ao Brasil e \u00e0 reforma da Previd\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=452&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD quer se congratular com esta Casa. H\u00e1 muito tempo, n\u00f3s dev\u00edamos essa resposta \u00e0 sociedade. \u00c9 uma cobran\u00e7a que n\u00f3s nos posicionemos em rela\u00e7\u00e3o a essa mat\u00e9ria. Eu acho que, depois de uma ampla discuss\u00e3o nesta Casa, n\u00f3s chegamos maduros a essa delibera\u00e7\u00e3o. Tudo o que foi colocado, o que foi ouvido, o que foi discutido aqui foi contemplado pelo relat\u00f3rio do Relator.\r\nPortanto, eu quero dizer que n\u00f3s estamos muito \u00e0 vontade para encaminhar o voto \"sim\", absolutamente convencidos de que n\u00f3s estamos respondendo de forma positiva a uma demanda que chega da sociedade. \u00c9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MANUELA MARINHO, PRESIDENTA, ROBERTO TAVARES, EX-GESTOR, COMPANHIA PERNAMBUCANA DE SANEAMENTO (COMPESA), CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Proficuidade da gest\u00e3o do Sr. Roberto Tavares \u00e0 frente da Companhia Pernambucana de Saneamento - COMPESA. Votos de sucesso \u00e0 nova Presidenta da COMPESA, Manuela Marinho.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, quero cumprimentar V.Exa. pela condu\u00e7\u00e3o dos trabalhos desta Casa hoje \u00e0 tarde. \r\nQuero fazer o registro muito importante para mim da solenidade que ocorreu ontem no meu Estado. O funcion\u00e1rio p\u00fablico de carreira Roberto Tavares, que, ao longo dos \u00faltimos 12 anos, emprestou o seu talento e a sua compet\u00eancia \u00e0 Companhia Pernambucana de Saneamento - COMPESA, deixou a Presid\u00eancia daquela companhia na tarde de ontem. Um dos talentos mais reconhecidos do ex-Governador Eduardo Campos era - e isso ningu\u00e9m discute - a capacidade de enxergar voca\u00e7\u00e3o e de montar equipe. E foi ele exatamente que identificou em Roberto Tavares esta capacidade, que, ao longo dos 12 anos, inicialmente, como diretor e, depois, como presidente da companhia, prestou relevantes servi\u00e7os ao nosso Estado, numa \u00e1rea de fundamental import\u00e2ncia que cuida do saneamento e do abastecimento h\u00eddrico de Pernambuco.\r\nQuero aqui render as minhas homenagens a esse trabalho prof\u00edcuo desenvolvido por Roberto e desejar felicidades \u00e0 nova Presidente Manuela Marinho, engenheira civil, que, a partir de agora, conduz aquela importante companhia. Desejamos ainda que Roberto, de volta aos quadros da Fazenda de Pernambuco, possa continuar a prestar relevantes servi\u00e7os ao nosso Estado.\r\nPortanto, concluo a minha fala aplaudindo a performance de Roberto Tavares \u00e0 frente da COMPESA do meu Estado. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=13&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVORAVEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o e esportivas, constante do art. 1\u00ba da Lei 13.364, de 2016, na reda\u00e7\u00e3o dada ao art. 2\u00ba do Projeto de Lei n\u00ba 8.240, de 2017, acerca da inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - O PSD, Sra. Presidente, orienta o voto \"sim\".\r\nNo primeiro turno, uma ampla maioria se manifestou nesta Casa. Temos convic\u00e7\u00e3o de que isso \u00e9 fundamental. Al\u00e9m de gerar riqueza e emprego, \u00e9 uma mat\u00e9ria que fala, profundamente, sobretudo aos Estados do Nordeste e do Sul, que s\u00e3o Estados hegem\u00f4nicos na pr\u00e1tica dos esportes equestres.\r\nPortanto, o PSD vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=264&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T23:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PRIMEIRO TURNO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penal federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - O PSD vota \"sim\", Sr. Presidente, e compreende que n\u00f3s estamos vivendo um momento muito importante aqui. Faz-se justi\u00e7a a uma categoria profissional que se exp\u00f5e diariamente \u00e0 periculosidade, \u00e0 insalubridade, a uma atividade que de fato \u00e9 estressante.\r\nEu acho que come\u00e7amos, de p\u00fablico, de forma concreta, C\u00e2mara dos Deputados, Congresso Nacional, a fazer justi\u00e7a.\r\nEu quero dizer que \u00e9 uma alegria encaminhar favoravelmente a esta mat\u00e9ria.\r\nQuero destacar, entre os v\u00e1rios l\u00edderes que vieram aqui ao longo de meses, muitas vezes, negociar, conversar, convencer, debater, dois em particular, do meu Estado: o Presidente Carvalho e a Vice-Presidente M\u00e1rcia, do SINDASP de Pernambuco.\r\nSr. Presidente, o PSD vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=221&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CIDADE, URBANISMO, DESENVOLVIMENTO SUSTENTAVEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Lan\u00e7amento pelo Deputado Francisco Jr. do movimento chamado CHIS da Quest\u00e3o - Cidades Humanas Inteligentes e Sustent\u00e1veis, em Goi\u00e2nia, Estado de Goi\u00e1s.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Sem revis\u00e3o do orador.) - Presidente Charles Fernandes, eu queria fazer rapidamente um registro.\r\nNessa segunda-feira, eu tive a oportunidade, eu diria mesmo o privil\u00e9gio, de ir a Goi\u00e2nia participar de um evento que eu reputo da maior import\u00e2ncia. Liderado pelo Deputado Federal do nosso partido Francisco Jr., foi lan\u00e7ado um movimento chamado CHIS da Quest\u00e3o, CHIS - Cidades Humanas Inteligentes e Sustent\u00e1veis, um f\u00f3rum de debates amplos que pretende debater, com o povo de Goi\u00e2nia, o futuro da cidade.\r\nQuero destacar que o Deputado Francisco Jr. tem toda a legitimidade para fazer isso, foi candidato a Prefeito na \u00faltima elei\u00e7\u00e3o, tem uma trajet\u00f3ria bonita muito vinculada \u00e0 Goi\u00e2nia, foi Vereador, Secret\u00e1rio de Planejamento, Deputado Estadual e, agora, \u00e9 nosso companheiro aqui, Deputado Federal. Ele pretende at\u00e9 o ano que vem debater isso nos sindicatos, com as categorias profissionais, com os cidad\u00e3os, nos clubes, enfim, levar essa proposta adiante.\r\nEu quero dizer que foi uma alegria participar.\r\nRegistro apenas a presen\u00e7a do Deputado Lucas Vergilio, do Deputado Lucas Calil e tamb\u00e9m do Presidente Estadual do PSD em Goi\u00e1s, que \u00e9 o ex-Deputado e nosso L\u00edder Vilmar Rocha.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REC 55/2019, RECURSO (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 1645/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTRARIO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Recurso n\u00ba 55, de 2019, contra a aprecia\u00e7\u00e3o em car\u00e1ter conclusivo, pela Comiss\u00e3o Especial, do Projeto de Lei n\u00ba 1.645, de 2019, do Poder Executivo, sobre altera\u00e7\u00e3o das Leis de n\u00bas 6.880, de 1980, acerca do Estatuto dos Militares; 3.765, de 1960, relativa \u00e0s pens\u00f5es militares; 4.375, de 1964, referente ao servi\u00e7o militar; 5.821, de 1972, sobre as promo\u00e7\u00f5es dos Oficiais da ativa das For\u00e7as Armadas brasileiras, e 12.705, de 2012, concernente aos requisitos para ingresso nos cursos de forma\u00e7\u00e3o de militares de carreira do Ex\u00e9rcito brasileiro (reforma previdenci\u00e1ria dos militares das For\u00e7as Armadas brasileiras).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD entende que esta mat\u00e9ria foi discutida de forma democr\u00e1tica \u00e0 exaust\u00e3o. A Comiss\u00e3o ouviu todos que queriam falar, em reuni\u00f5es sempre muito concorridas, e deliberou. Esta n\u00e3o \u00e9 a Casa do ideal, esta \u00e9 a Casa do poss\u00edvel. N\u00f3s compreendemos que os trabalhos que foram realizados na Comiss\u00e3o atingiram o seu objetivo.\r\nEu, como L\u00edder da bancada, queria agradecer de forma especial aos nossos companheiros que l\u00e1 estiveram, aos Deputados Hugo Leal e Sidney Leite, que, ao meu lado, foram titulares, e aos Deputados Haroldo Cathedral, Joaquim Passarinho e Sargento Fahur. Todos contribu\u00edram com a sua presen\u00e7a, de forma muito competente, assegurando que o resultado dessa Comiss\u00e3o siga para o Senado e que, at\u00e9 o final do ano, se Deus quiser, esteja conclu\u00edda a sua tramita\u00e7\u00e3o no Congresso Nacional.\r\nPortanto, o PSD encaminha o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=186&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 10372/2018,  PROJETO DE LEI ORDINARIA, DEMOCRATAS (DEM), VOTO FAVORAVEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero apenas destacar, por absoluto dever de justi\u00e7a, o trabalho competente que foi realizado pelo grupo de trabalho que V.Exa. constituiu em boa hora.\r\nQuero destacar de forma especial, por fazer parte dos quadros do nosso partido, o trabalho competente e sereno feito pelo Deputado F\u00e1bio Trad. N\u00f3s temos muito orgulho de ter na nossa bancada um Deputado dessa envergadura, com o seu conhecimento e elevado esp\u00edrito p\u00fablico.\r\nEsta mat\u00e9ria \u00e9 importante e \u00e9 urgente. \u00c9 uma contribui\u00e7\u00e3o importante que esta Casa, de forma democr\u00e1tica, d\u00e1 ao Pa\u00eds. Por isso, n\u00f3s votamos \"sim\" \u00e0 urg\u00eancia e, no m\u00e9rito, vamos votar \"sim\" tamb\u00e9m, favoravelmente \u00e0 mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=282&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T21:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE PROCESSO PENAL, A\u00c7\u00c3O PENAL, VOTO FAVOR\u00c1VEL, F\u00c1BIO FARIA, DEPUTADO FEDERAL, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Declara\u00e7\u00e3o de voto do Deputado F\u00e1bio Faria pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, muito obrigado.\r\nEu me sinto no dever, como L\u00edder do PSD, de fazer aqui um registro. O Deputado F\u00e1bio Faria, 3\u00ba Secret\u00e1rio desta Casa, cumpriu um papel muito importante na discuss\u00e3o da mat\u00e9ria que aprovamos hoje, num momento de afirma\u00e7\u00e3o pol\u00edtica da Casa. Foi uma constru\u00e7\u00e3o pol\u00edtica de uma habilidade muito grande, poucas vezes vista aqui, que resultou numa quase unanimidade. E o Deputado F\u00e1bio Faria participou dessas discuss\u00f5es, teve um papel importante no \u00e2mbito da nossa bancada. \r\nHoje, na certeza de que apenas a urg\u00eancia seria votada, ele foi liberado pela bancada para um compromisso oficial. Mas me pediu que registrasse aqui que seu voto e sua posi\u00e7\u00e3o s\u00e3o favor\u00e1veis \u00e0 aprova\u00e7\u00e3o da mat\u00e9ria. Ele participou dessa vit\u00f3ria, que \u00e9 da Casa e \u00e9 nossa tamb\u00e9m.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=370&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 18, oferecida ao Projeto de Lei n\u00ba 3.261, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria aproveitar a oportunidade, ao tempo em que encaminho a vota\u00e7\u00e3o da mat\u00e9ria, para fazer, por justi\u00e7a, uma homenagem ao Deputado Geninho.\r\nEsta n\u00e3o foi uma mat\u00e9ria f\u00e1cil. Ela exigiu muita habilidade e paci\u00eancia. No nosso partido ele esteve e conversou com diversos companheiros. Havia pontos pol\u00eamicos. Ele deu conforto, ele foi flex\u00edvel e ele construiu, com muita habilidade, as condi\u00e7\u00f5es para que n\u00f3s cheg\u00e1ssemos aqui.\r\nAo tempo em que cumprimento V.Exa., Sr. Presidente, cuja lideran\u00e7a foi determinante para que n\u00f3s cheg\u00e1ssemos a este momento, por um dever de justi\u00e7a, eu quero cumprimentar o Deputado Geninho, parabeniz\u00e1-lo e agradecer-lhe pela paci\u00eancia e pelo companheirismo.\r\nO PSD vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=243&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, MPV 987/2020, MEDIDA PROVISORIA, PRORROGA\u00c7\u00c3O, PRAZO, IND\u00daSTRIA AUTOMOTIVA, FABRICANTE, AUTOPE\u00c7A, REGI\u00c3O NORTE, REGI\u00c3O NORDESTE, REGI\u00c3O CENTRO-OESTE, PROJETO (ADMINISTRA\u00c7\u00c3O), INVESTIMENTO, PESQUISA, INCENTIVO FISCAL, CR\u00c9DITO PRESUMIDO, IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI), DESENVOLVIMENTO REGIONAL, TRIBUTA\u00c7\u00c3O BENEF\u00cdCIO FISCAL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Medida Provis\u00f3ria n\u00ba 987, de 2020, a respeito da altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de  1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional, e \u00e0s  \r\nEmendas de n\u00bas 1 a 27, apresentadas conforme o caput  do art. 3\u00ba do Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu vou me permitir passar \u00e0 conclus\u00e3o do voto, mas antes queria fazer algumas pequenas considera\u00e7\u00f5es.\r\nEu ouvi aqui de alguns companheiros, durante esse processo em que n\u00f3s constru\u00edmos o relat\u00f3rio, a preocupa\u00e7\u00e3o de que isso se caracterizasse como um benef\u00edcio fiscal novo.\r\nJ\u00e1 foi dito aqui pelo Deputado Mauro Benevides Filho, mas eu quero repetir, para deixar bastante claro: n\u00e3o \u00e9 disso que tratamos. N\u00f3s estamos tratando da prorroga\u00e7\u00e3o de um benef\u00edcio fiscal que \u00e9 dado \u00e0 ind\u00fastria automotiva, nas Regi\u00f5es Nordeste e Centro-Oeste, que sempre foram tratadas em conjunto. Para a nossa surpresa, essa mat\u00e9ria chegou \u00e0 Casa excluindo a Regi\u00e3o Centro-Oeste.\r\nN\u00f3s trabalhamos politicamente, ao lado de toda a bancada do Estado de Goi\u00e1s, de forma muito suprapartid\u00e1ria e sob a lideran\u00e7a inclusive do Governador Ronaldo Caiado, para que pud\u00e9ssemos construir um entendimento que permitisse que isso n\u00e3o ocorresse. Eu me permito dizer que os efeitos dessa exclus\u00e3o seriam dantescos para o Estado, para a economia e para os empregos que a ind\u00fastria automotiva gera em Goi\u00e1s.\r\nPortanto, primeiro, eu queria acentuar que n\u00e3o se trata de um benef\u00edcio novo, mas, sim, da prorroga\u00e7\u00e3o de uma situa\u00e7\u00e3o fiscal que inicialmente ocorreria agora em 2020.\r\nTamb\u00e9m gostaria de destacar que justo neste momento de pandemia, em que as dificuldades no setor s\u00e3o internacionais, n\u00e3o dar esse tratamento ao Centro-Oeste penalizaria demais essa Regi\u00e3o, sobretudo o Estado de Goi\u00e1s.\r\nOutra observa\u00e7\u00e3o \u00e9 que, quando n\u00f3s falamos em benef\u00edcios fiscais, necessariamente temos que falar em compensa\u00e7\u00e3o.\r\nA Emenda n\u00ba 1, de autoria do Deputado Glaustin Fokus, da bancada de Goi\u00e1s, que tem o apoio do Estado inteiro, refere-se a esse benef\u00edcio. Eu queria chamar a aten\u00e7\u00e3o dos senhores: renovar a concess\u00e3o desse benef\u00edcio implica numa isen\u00e7\u00e3o fiscal de 150 milh\u00f5es de reais.\r\nPara que tenham uma ideia, somente no Estado de Goi\u00e1s, a ind\u00fastria automotiva hoje emprega 6 mil trabalhadores, diretamente, e 21 mil, de forma indireta, e prev\u00ea, de forma concreta, um investimento na ordem de 3 bilh\u00f5es de reais este ano. Ou seja, para uma isen\u00e7\u00e3o fiscal de 150 milh\u00f5es de reais, objetivamente a regi\u00e3o j\u00e1 teria 3 bilh\u00f5es de reais de contrapartida. Esses n\u00fameros por si s\u00f3 j\u00e1 falam de forma muito evidente.\r\nPara finalizar e entrar no m\u00e9rito do voto, eu queria destacar a minha alegria. Eu sou um Deputado de Pernambuco, do Nordeste. Desde o primeiro momento, a nossa regi\u00e3o estava contemplada pela medida provis\u00f3ria que chegou a esta Casa. Durante todo esse processo, quanto mais eu me debru\u00e7ava sobre os n\u00fameros, sobre as implica\u00e7\u00f5es e a penaliza\u00e7\u00e3o que isso iria trazer para a Regi\u00e3o Centro-Oeste, mais eu me convencia de que n\u00f3s t\u00ednhamos, a nossa Casa, que fazer essa arruma\u00e7\u00e3o.\r\nDestaco que isso s\u00f3 foi poss\u00edvel devido ao papel de l\u00edder exercido pelo Governador de Goi\u00e1s, Ronaldo Caiado, desde o primeiro momento.\r\nInclusive na solu\u00e7\u00e3o final, que \u00e9 uma solu\u00e7\u00e3o que prev\u00ea a isen\u00e7\u00e3o de IOF nos fundos constitucionais da regi\u00e3o, o Governador foi determinante, porque foi a articula\u00e7\u00e3o pol\u00edtica que ele fez com os demais Governadores que permitiu assegurar essa contrapartida, que, agora, nos permite ter o apoio e o encaminhamento favor\u00e1veis do Governo a esta mat\u00e9ria.\r\nPortanto, Sr. Presidente, dizendo da minha alegria por poder estar aqui, com a contribui\u00e7\u00e3o desse esfor\u00e7o que foi feito, ouvindo todos que queriam falar, trabalhando essa quest\u00e3o dentro do Governo para que n\u00f3s pud\u00e9ssemos ter uma viabilidade para a sua aprova\u00e7\u00e3o na Casa, eu acho que n\u00f3s estamos chegando ao final desta mat\u00e9ria, de forma a atender todos os requisitos legais e necess\u00e1rios \u00e0 aprova\u00e7\u00e3o desta Casa.\r\n\"Em conclus\u00e3o, votamos: \r\na) pelo atendimento dos pressupostos constitucionais na edi\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 987, de 30 de junho de 2020;\r\nb) pela compatibilidade e adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira da Medida Provis\u00f3ria n\u00ba 987, de 30 de junho de 2020;\r\nc) pela adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira da Emenda n\u00ba 1 na forma do Projeto de Lei de Convers\u00e3o em anexo; \r\nd) pela inadequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira das Emendas n\u00bas 2, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15 e 20; \" \r\nE eu fa\u00e7o quest\u00e3o absoluta de dizer que aqui n\u00e3o vai nenhum ju\u00edzo de m\u00e9rito sobre as emendas, todas elas merit\u00f3rias. Todas elas, o Relator gostaria muito de poder acat\u00e1-las, porque se trata de benef\u00edcios e inser\u00e7\u00f5es importantes, mas que, no meu ju\u00edzo de valor, neste momento, mais atrapalhariam do que beneficiariam. E algumas delas, seria imposs\u00edvel acatar, pelo reflexo econ\u00f4mico.\r\n\"e) pela n\u00e3o-implica\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira das Emendas n\u00bas 3, 12, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26 e 27, dado seu car\u00e1ter meramente normativo; \r\nf) pela constitucionalidade, legalidade, juridicidade, regimentalidade e boa t\u00e9cnica legislativa da Medida Provis\u00f3ria n\u00ba 987, de 30 de junho de 2020, e das 27 emendas a ela apresentadas durante a fase inicial de tramita\u00e7\u00e3o; \r\ng) no m\u00e9rito, pela aprova\u00e7\u00e3o, na forma do Projeto de Lei de Convers\u00e3o em anexo, da Medida Provis\u00f3ria n\u00ba 987, de 30 de junho de 2020, e pela aprova\u00e7\u00e3o das Emendas n\u00bas 1 e 19 e pela rejei\u00e7\u00e3o das demais emendas apresentadas.\"\r\nEra isso, Sr. Presidente.\r\n Muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, EMENDA DE PLENARIO, MPV 987/2020, MEDIDA PROVISORIA, PRORROGA\u00c7\u00c3O, PRAZO, IND\u00daSTRIA AUTOMOTIVA, FABRICANTE, AUTOPE\u00c7A, REGI\u00c3O NORTE, REGI\u00c3O NORDESTE, REGI\u00c3O CENTRO-OESTE, PROJETO (ADMINISTRA\u00c7\u00c3O), INVESTIMENTO, PESQUISA, INCENTIVO FISCAL, CR\u00c9DITO PRESUMIDO, IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI), DESENVOLVIMENTO REGIONAL, TRIBUTA\u00c7\u00c3O BENEF\u00cdCIO FISCAL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1, 2, 4 e 5, apresentadas \u00e0 Medida Provis\u00f3ria n\u00ba 987, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de  1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, eu vou fazer como j\u00e1 fiz: no primeiro momento, vou direto ao final do voto do Relator.\r\n\"Ante o exposto, pela Comiss\u00e3o Mista, votamos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa de todas as emendas de Plen\u00e1rio com apoiamento regimental, pela n\u00e3o adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria das Emendas n\u00bas 4 e 5 de Plen\u00e1rio, pela n\u00e3o implica\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira das Emendas n\u00bas 1 e 2 de Plen\u00e1rio e, no m\u00e9rito, pela sua rejei\u00e7\u00e3o.\"\r\nSr. Presidente, como recebi durante esse per\u00edodo e ainda agora estou recebendo muitos telefonemas de companheiros, eu s\u00f3 quero refor\u00e7ar que trato aqui de inadequa\u00e7\u00e3o financeira - n\u00e3o estou entrando de forma nenhuma no m\u00e9rito. Pelo contr\u00e1rio, quero parabenizar os companheiros que, em defesa do seus Estado e de sua Regi\u00e3o, reivindicavam sua inclus\u00e3o, como foi o caso, por exemplo, do companheiro Luiz\u00e3o Goulart e do companheiro Toninho Wandscheer. Esses companheiros com toda a raz\u00e3o apresentaram destaques que eu apenas n\u00e3o pude acatar em fun\u00e7\u00e3o de sua inadequa\u00e7\u00e3o financeira.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7AO DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 987/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 12, apresentada \u00e0  Medida Provis\u00f3ria n\u00ba 987, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de 1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD encaminha o voto \"n\u00e3o\", mas eu gostaria de fazer uma observa\u00e7\u00e3o. Durante a leitura do relat\u00f3rio, eu disse que, do ponto de vista do m\u00e9rito, a muitas emendas eu gostaria muito de ter atendido. Esta \u00e9 uma delas.\r\nEu tive o privil\u00e9gio, Sr. Presidente, de ser o Presidente da Comiss\u00e3o de Meio Ambiente desta Casa e tenho toda uma constru\u00e7\u00e3o de muita sensibilidade em rela\u00e7\u00e3o a esta mat\u00e9ria, mas neste momento a compreens\u00e3o \u00e9 que, primeiro, era uma prorroga\u00e7\u00e3o. N\u00f3s estamos num momento de pandemia, com uma s\u00e9rie de dificuldades para encontrar a discuss\u00e3o de forma a viabilizar essa conquista sem prejudicar aquilo que \u00e9 fundamental: exatamente a nossa inten\u00e7\u00e3o de prorrogar esses incentivos do Nordeste e do Centro-Oeste.\r\nPor isso, eu encaminho \"n\u00e3o\", fazendo a ressalva de que a emenda \u00e9 merit\u00f3ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 40/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 987/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 3\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 40, de 2020, da Medida Provis\u00f3ria n\u00ba 987, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de 1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de fazer duas ou tr\u00eas considera\u00e7\u00f5es antes de orientar o voto \"sim\".\r\nPrimeiro, quero reafirmar a admira\u00e7\u00e3o que tenho pelo L\u00edder Molon, como Deputado, pela consist\u00eancia do seu mandato, e dizer que a coloca\u00e7\u00e3o que ele fez por n\u00e3o termos recebido a emenda dele apresentada hoje, propondo outra fonte de financiamento, se d\u00e1 exatamente porque nesta proposta ele nem sequer apresentou o impacto econ\u00f4mico, os n\u00fameros, o que resultaria desta proposta que ele nos fez de uma alternativa.\r\nSegundo, por uma quest\u00e3o de precis\u00e3o, quero dizer que \u00e9 verdade que o IOF do fundo constitucional pode, eventualmente, atingir n\u00e3o apenas os pequenos e os m\u00e9dios, mas tamb\u00e9m os grandes empres\u00e1rios. O fato \u00e9 que s\u00e3o 150 milh\u00f5es, e n\u00e3o aprovar isso representa perder n\u00e3o apenas a f\u00e1brica, que pode sair do Estado ou do Pa\u00eds, mas tamb\u00e9m os 23 mil empregos hoje gerados por ela.\r\nPortanto, eu oriento o voto \"sim\". \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 987/2020, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, PRORROGA\u00c7\u00c3O, PRAZO, IND\u00daSTRIA AUTOMOTIVA, FABRICANTE, AUTOPE\u00c7A, REGI\u00c3O NORTE, REGI\u00c3O NORDESTE, REGI\u00c3O CENTRO-OESTE, PROJETO (ADMINISTRA\u00c7\u00c3O), INVESTIMENTO, PESQUISA, INCENTIVO FISCAL, CR\u00c9DITO PRESUMIDO, IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI), DESENVOLVIMENTO REGIONAL, TRIBUTA\u00c7\u00c3O BENEF\u00cdCIO FISCAL, APROVA\u00c7\u00c3O, AGRADECIMENTO.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Agradecimento ao L\u00edder do PSD, ao Governador do Estado de Goi\u00e1s, Ronaldo Caiado, e \u00e0 Presid\u00eancia pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 987, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de  1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (Bloco/PSD - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, s\u00f3 quero agradecer, de forma breve, ao L\u00edder do meu partido, que me honrou com a sua confian\u00e7a, \u00e0 bancada do Centro-Oeste e de Goi\u00e1s, de forma especial, na figura do nosso companheiro de bancada Deputado Francisco Jr., que, desde o primeiro momento, esteve ao meu lado, trabalhando intensamente para que n\u00f3s pud\u00e9ssemos viver este momento.\r\nEu n\u00e3o poderia, por absoluto dever de justi\u00e7a, deixar de mencionar o papel central que foi desempenhado pelo Governador Ronaldo Caiado. Ele n\u00e3o delegou, ele n\u00e3o usou apenas a sua bancada. A bancada estava completamente envolvida de forma suprapartid\u00e1ria, mas a a\u00e7\u00e3o do Governador, desde o primeiro momento at\u00e9 o dia de hoje, foi determinante. Ele acompanhou passo a passo, esteve com o Presidente da Rep\u00fablica, foi ao Minist\u00e9rio da Economia e nos ajudou a construir as condi\u00e7\u00f5es para que hoje pud\u00e9ssemos aprovar essa MP da forma como ela foi aprovada, deixando um sentimento na Casa de que n\u00f3s avan\u00e7amos.\r\nEu sei, Sr. Presidente, que V.Exa. \u00e9 um Parlamentar muito sens\u00edvel e percebe bem a miss\u00e3o que n\u00f3s cumprimos aqui, mas eu queria dizer a V.Exa., em particular, que esse \u00e9 um grande momento no meu mandato, porque eu me sinto muito realizado, muito confortado por ter contribu\u00eddo para que os preju\u00edzos que a n\u00e3o aprova\u00e7\u00e3o dessa medida, com a inclus\u00e3o do Centro-Oeste, acarretariam para Goi\u00e1s e para a regi\u00e3o, pudessem ter sido evitados.\r\nDeputado Silvio Costa Filho - e dirijo-me a V.Exa. de forma muito especial, porque ambos somos pernambucanos -, n\u00f3s t\u00ednhamos o conforto de que, desde o texto original, os interesses de Pernambuco, da Bahia, do Nordeste estavam preservados.\r\nMas, at\u00e9 por isso mesmo, eu n\u00e3o entendia como uma mat\u00e9ria que sempre foi tratada de forma conjunta entre as duas Regi\u00f5es, neste momento, pudesse apartar Estados muito importantes do nosso Pa\u00eds.\r\nEnt\u00e3o, eu fico feliz, Sr. Presidente, e agrade\u00e7o a V.Exa., que sempre foi muito correto, diligente e me apoiou de todas as formas, e aos companheiros todos.\r\nEncerrando, repito que, para mim, este \u00e9 um momento especial no meu mandato, porque eu vi o envolvimento, vi a preocupa\u00e7\u00e3o, vi a ang\u00fastia, eu percebi os desdobramentos, que seriam muito ruins e impactariam a economia da regi\u00e3o. De alguma forma, com o meu trabalho, n\u00f3s pudemos mitigar isso e evitar que isso acontecesse.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JOAQUIM FRANCISCO, EX-GOVERNADOR, PERNAMBUCO, FALECIMENTO, HOMENAGEM  P\u00d3STUMA.",
+        "nomeDeputado": "Andr\u00e9 de Paula",
+        "sumario": "Homenagem p\u00f3stuma ao ex-Governador do Estado de Pernambuco, Joaquim Francisco.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. ANDR\u00c9 DE PAULA (PSD - PE. Sem revis\u00e3o do orador.) - Presidente, muito obrigado. Eu queria incorporar minhas palavras \u00e0s que foram ditas aqui pelo Deputado Silvio Costa Filho. Pernambuco perde um dos melhores pol\u00edticos, um dos seus melhores quadros, o ex-Prefeito, o ex-Governador, o ex-Ministro, Deputado Federal, colega nosso nesta Casa, uma pessoa que me marcou muito na minha trajet\u00f3ria pol\u00edtica.\r\nEu ingressei na vida p\u00fablica como Vereador do Recife na oportunidade em que ele teve uma memor\u00e1vel vit\u00f3ria para Prefeito. Na sequ\u00eancia, fui Deputado Estadual enquanto ele foi Governador. Eu fui Presidente do partido do Governador por indica\u00e7\u00e3o dele. Tenho uma rela\u00e7\u00e3o de amizade com a D. Silvia, com as filhas, com a fam\u00edlia, e muita admira\u00e7\u00e3o.\r\nQuero me somar a todos os pernambucanos que, neste momento, encontram-se de luto lamentando essa perda e querendo, como eu quero, fazer homenagens a essa grande figura humana, esse grande amigo, esse grande pol\u00edtico que foi o ex-Governador Joaquim Francisco.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

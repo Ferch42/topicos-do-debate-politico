@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, ADMISSIBILIDADE, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC),  PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL,  PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO FAVORAVEL.",
+        "nomeDeputado": "Nivaldo Albuquerque",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer de admissibilidade, oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, a respeito da cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. NIVALDO ALBUQUERQUE (PTB - AL. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s encaminhamos favoravelmente \u00e0 admissibilidade da PEC. O Pa\u00eds passa por uma necessidade gigantesca, principalmente a popula\u00e7\u00e3o mais carente, que aguarda que esta Casa vote de maneira c\u00e9lere esse aux\u00edlio emergencial. Isso vai aquecer a economia e estabelecer a qualidade econ\u00f4mica do nosso Pa\u00eds.\r\nO PTB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

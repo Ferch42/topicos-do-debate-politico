@@ -1,0 +1,1172 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DELEGADO MARCELO FREITAS, DEPUTADO FEDERAL, AGRADECIMENTO, ELEITOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Agradecimento aos eleitores do Estado de Minas Gerais pela expressiva vota\u00e7\u00e3o alcan\u00e7ada nas elei\u00e7\u00f5es para a C\u00e2mara dos Deputados. Maior aten\u00e7\u00e3o das autoridades competentes para com a regi\u00e3o norte mineira.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, gostaria de aproveitar esta oportunidade, na tribuna do plen\u00e1rio da C\u00e2mara dos Deputados, especialmente para agradecer ao povo mineiro a expressiva vota\u00e7\u00e3o que nos permitiu chegar ao Congresso Nacional. \r\nAo mesmo tempo, aproveito para solicitar ao Sr. Presidente da Rep\u00fablica, \u00e0s Sras. Deputadas e aos Srs. Deputados aten\u00e7\u00e3o especial para o norte de Minas Gerais. \u00c9 uma regi\u00e3o onde fui muito bem votado, mas historicamente sofre com a explora\u00e7\u00e3o, com o uso da pol\u00edtica de entrega de canos, de caixas d'\u00e1gua, de ambul\u00e2ncias, de tratores, enquanto a popula\u00e7\u00e3o passa por necessidade. Deixo \u00e0 popula\u00e7\u00e3o do norte de Minas o nosso compromisso de lutar por dias melhores para aquela sofrida regi\u00e3o.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=22&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "AGRADECIMENTO, ELEITOR, ELEI\u00c7\u00c3O, DEPUTADO FEDERAL. \r\nAPOIO, PROJETO DE LEI ORDIN\u00c1RIA, S\u00c9RGIO MORO, MINISTRO DE ESTADO, MINIST\u00c9RIO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, COMBATE, CRIMINALIDADE.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Agradecimento ao povo do Estado de Minas Gerais pela elei\u00e7\u00e3o do orador para a C\u00e2mara dos Deputados. Defesa de aprova\u00e7\u00e3o pela Casa do projeto de lei sobre a promo\u00e7\u00e3o de a\u00e7\u00f5es de combate \u00e0 criminalidade, encaminhado \u00e0 Casa pelo Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, bem como das medidas anticorrup\u00e7\u00e3o defendidas pela Transpar\u00eancia Internacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, ao tempo em que agrade\u00e7o ao povo mineiro pela vota\u00e7\u00e3o que nos permitiu chegar \u00e0 C\u00e2mara dos Deputados, gostaria de informar que estivemos recentemente em uma breve reuni\u00e3o com o Ministro Sergio Moro, ocasi\u00e3o em que nos foi apresentado o pacote anticrime, que objetiva reduzir os crimes, especialmente os violentos, em nosso Pa\u00eds.\r\nSras. e Srs. Deputados, vivemos uma situa\u00e7\u00e3o extremamente cr\u00edtica em que 175 pessoas s\u00e3o assassinadas diariamente no Brasil. Ao mesmo passo, observamos que perdemos, em uma outra forma de viol\u00eancia, cerca de 10% do nosso Produto Interno Bruto com a corrup\u00e7\u00e3o p\u00fablica, aproximadamente 300 bilh\u00f5es de reais a cada ano.\r\nEsta Casa n\u00e3o pode se silenciar e tem que efetivamente aprovar o projeto anticrime encampado pelo Ministro Moro e ao mesmo tempo aprovar as medidas anticorrup\u00e7\u00e3o defendidas pela Transpar\u00eancia Internacional.\r\nCertamente esta Casa n\u00e3o ir\u00e1 se furtar a esse debate, a essa discuss\u00e3o e proporcionar\u00e1 ao povo brasileiro garantias efetivas para vivermos em uma sociedade mais harmoniosa.\r\nRegistro, Sr. Presidente, Srs. Deputados, que a humanidade, h\u00e1 pelo menos 5 s\u00e9culos, busca discutir a origem da criminalidade, a origem do mal. Tr\u00eas grandes pensadores procuraram discutir o assunto. O primeiro deles foi o Thomas Hobbes. Ele acreditava que o homem nasce mau; que o homem \u00e9 o lobo do homem. J\u00e1 no s\u00e9culo XVIII, surge a ideia do contrato social. Em contraposi\u00e7\u00e3o a Thomas Hobbes, veio Jean-Jacques Rousseau e defende a ideia de que o homem \u00e9 bom por natureza e que a sua sociedade o corrompe. Mas no meio do caminho, entre Thomas Hobbes e Rousseau, vem John Locke, que defende a ideia de um ser humano que nasce neutro. Se convive com o que \u00e9 mau, ele tende a seguir pelo caminho do mal; se convive com o que \u00e9 bom, ele tende a seguir pelo caminho do bem.\r\nPor que trago muito rapidamente essas tr\u00eas teorias? Para dizer que, enquanto a nossa sociedade estiver envolvida em um ambiente de crimes, ela certamente tender\u00e1 a seguir pelo caminho do crime.\r\nEnt\u00e3o, \u00e9 urgente que esta C\u00e2mara assuma a sua responsabilidade no dever de efetivamente legislar e permitir que pol\u00edticas p\u00fablicas sejam implementadas em nosso Pa\u00eds, garantindo \u00e0 sociedade brasileira a tranquilidade necess\u00e1ria de conviver em uma sociedade um pouco mais harmoniosa, em que o n\u00famero absurdo de crimes de homic\u00eddios - repito, 175 ao dia - seja efetivamente reduzido e que as pol\u00edcias possam agir de maneira mais efetiva no combate aos crimes violentos e \u00e0 corrup\u00e7\u00e3o.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, REVIS\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Urgente necessidade de revis\u00e3o do Regimento Interno da Casa, com vista \u00e0 celeridade na aprecia\u00e7\u00e3o das mat\u00e9rias constantes na Ordem do Dia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, subo a esta tribuna da C\u00e2mara dos Deputados neste momento para chamar a aten\u00e7\u00e3o especialmente sobre o nosso Regimento Interno e sobre aquilo que temos feito todos os dias nesta nova Legislatura.\r\nEntendo e reputo como urgente que fa\u00e7amos uma revis\u00e3o do nosso Regimento Interno, a fim de que as pautas em andamento nesta C\u00e2mara dos Deputados possam efetivamente andar da maneira como devem e atendam aos anseios do povo brasileiro. Observamos durante esses \u00faltimos dias discuss\u00f5es um pouco est\u00e9reis. Efetivamente, as coisas n\u00e3o t\u00eam andado da maneira como gostar\u00edamos que andassem neste Congresso Nacional.\r\nEnt\u00e3o, nesse sentido, gostaria de deixar registrado a necessidade de que a C\u00e2mara dos Deputados fa\u00e7a uma revis\u00e3o em seu Regimento Interno, para que as coisas andem mais r\u00e1pido.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=138&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MEIO AMBIENTE, CAATINGA, BARRAGEM, BOCAI\u00daVA (MG), INSTITUTO NACIONAL DE COLONIZA\u00c7\u00c3O E REFORMA AGR\u00c1RIA (INCRA), GEST\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Protesto contra o pretendido esvaziamento da Barragem da Caatinga, no Munic\u00edpio de Bocaiuva, Estado de Minas Gerais.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, nesta ocasi\u00e3o, eu gostaria de chamar a aten\u00e7\u00e3o para um problema que surgiu especialmente ap\u00f3s a trag\u00e9dia de Brumadinho.\r\nN\u00f3s temos observado uma preocupa\u00e7\u00e3o enorme com as represas do nosso Pa\u00eds, o que \u00e9 absolutamente pertinente. Contudo, temos observado tamb\u00e9m atitudes completamente irrespons\u00e1veis, que geram consequ\u00eancias desastrosas a toda sociedade brasileira. Refiro-me em especial ao descomissionamento ou esvaziamento da Barragem da Caatinga, localizada na cidade de Bocaiuva, no Estado de Minas Gerais. O INCRA tem agido de forma absolutamente irrespons\u00e1vel: em vez de recuperar a barragem, permitindo o abastecimento de mais de 200 mil pessoas, quer propiciar o esvaziamento de uma barragem de \u00e1gua pura e cristalina. N\u00e3o se cuida dos rejeitos.\r\nSra. Presidente, solicito o registro do meu pronunciamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=29&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "LEI ANTICRIME,  S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, LEI ORG\u00c2NICA DA POL\u00cdCIA FEDERAL, PEC 412/2009, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, AUTONOMIA ADMINISTRATIVA, AUTONOMIA FINANCEIRA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Resultado da pesquisa Justi\u00e7a Criminal, Impunidade e Prescri\u00e7\u00e3o,  realizada pela Associa\u00e7\u00e3o Brasileira de Jurimetria em conjunto com a Universidade de S\u00e3o Paulo e o Conselho Nacional de Justi\u00e7a.  Posicionamento do orador sobre o conjunto de medidas anticrime apresentadas pelo Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro. Imediata aprecia\u00e7\u00e3o pela Casa da proposta de cria\u00e7\u00e3o da Lei Org\u00e2nica da Pol\u00edcia Federal. Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 412, de 2009, sobre a garantia da autonomia administrativa, or\u00e7ament\u00e1ria e funcional da Pol\u00edcia Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, subo a esta tribuna do plen\u00e1rio da C\u00e2mara dos Deputados a fim de chamar a aten\u00e7\u00e3o para algo e, ao mesmo tempo, buscar transmitir conhecimento a esta Casa sobre pesquisa efetivada recentemente pela Associa\u00e7\u00e3o Brasileira de Jurimetria - ABJ, juntamente com a Universidade de S\u00e3o Paulo - USP e em parceria com o Conselho Nacional de Justi\u00e7a - CNJ.\r\nO objetivo da pesquisa, intitulada Justi\u00e7a Criminal, Impunidade e Prescri\u00e7\u00e3o, foi realmente construir um panorama da investiga\u00e7\u00e3o criminal no Brasil, especialmente sobre a quest\u00e3o da corrup\u00e7\u00e3o.\r\nOs dados, Sra. Presidente, Sras. e Srs. Deputados, s\u00e3o extremante interessantes e nos chamam a aten\u00e7\u00e3o, especialmente porque, segundo conclus\u00e3o do estudo da ABJ, juntamente com a USP e o Conselho Nacional de Justi\u00e7a, a Pol\u00edcia Federal, pol\u00edcia republicana de nosso Pa\u00eds, apresentou taxa de solu\u00e7\u00e3o, taxa de resolu\u00e7\u00e3o de suas investiga\u00e7\u00f5es de aproximadamente 94 pontos, 67% de suas investiga\u00e7\u00f5es, o que equivale a dizer que a Pol\u00edcia Federal tem agido de forma republicana, especialmente no que se refere ao combate \u00e0 corrup\u00e7\u00e3o em nosso Pa\u00eds.\r\nMais dois outros pontos nos chamam a aten\u00e7\u00e3o e gostar\u00edamos de ressaltar aqui. O segundo ponto \u00e9 que o estudo revela uma baixa prescri\u00e7\u00e3o nas investiga\u00e7\u00f5es criminais sobre desvio e apropria\u00e7\u00e3o de recursos p\u00fablicos, sobre corrup\u00e7\u00e3o em primeira inst\u00e2ncia. A mesma realidade n\u00e3o ocorre com os Tribunais Superiores.\r\nExiste um terceiro ponto tamb\u00e9m, Sras. e Srs. Deputados, com rela\u00e7\u00e3o \u00e0 quest\u00e3o da flagrante inefici\u00eancia do foro especial por prerrogativa de fun\u00e7\u00e3o, mais conhecido como foro privilegiado. \u00c9 urgente que esta Casa se debruce sobre o assunto, a fim de acabar, a fim de extinguir o horr\u00edvel foro privilegiado, que tem feito com que uns sejam mais iguais que outros. \u00c9 absolutamente necess\u00e1rio que fa\u00e7amos essa discuss\u00e3o, garantindo \u00e0 sociedade brasileira um tratamento efetivo para todas as pessoas, Parlamentares ou n\u00e3o, detentores de prerrogativa de fun\u00e7\u00e3o ou n\u00e3o.\r\nOutro ponto que nos chama a aten\u00e7\u00e3o, Sras. e Srs. Deputados, \u00e9 com rela\u00e7\u00e3o aos \u00f3rg\u00e3os de controle. Aqui fica uma cr\u00edtica construtiva ao projeto anticrime apresentado pelo Ministro Moro. \u00c9 urgente que, ao lado do recrudescimento de penas, ao lado de medidas que verdadeiramente impe\u00e7am a sensa\u00e7\u00e3o de impunidade, a sensa\u00e7\u00e3o de viol\u00eancia em nosso Pa\u00eds, tamb\u00e9m fa\u00e7amos o fortalecimento das institui\u00e7\u00f5es da Rep\u00fablica. Somente fortalecendo as institui\u00e7\u00f5es da Rep\u00fablica \u00e9 que n\u00f3s vamos efetivamente combater a corrup\u00e7\u00e3o no Brasil e reduzir a criminalidade e a viol\u00eancia. Nesse aspecto em essencial eu chamo a aten\u00e7\u00e3o desta Casa para minha gloriosa Pol\u00edcia Federal, sem prescindir da Pol\u00edcia Civil de nosso Pa\u00eds.\r\n\u00c9 urgente que esta Casa debata especialmente sobre a Lei Org\u00e2nica da Pol\u00edcia Federal. At\u00e9 hoje, Sras. e Srs. Deputados, a Pol\u00edcia Federal n\u00e3o possui uma lei org\u00e2nica que lhe garanta uma maneira de agir em todo o cen\u00e1rio nacional. Ao mesmo tempo, \u00e9 preciso que esta Casa tamb\u00e9m decida a quest\u00e3o do mandato de Diretor-Geral da Pol\u00edcia Federal, mandato fixo para o Diretor-Geral escolhido em lista tr\u00edplice pelos seus pares. Por qu\u00ea? Isso \u00e9 necess\u00e1rio exatamente para que tenhamos uma pol\u00edcia efetivamente republicana, para que nunca, na hist\u00f3ria deste Pa\u00eds, se possa verdadeiramente contestar a atua\u00e7\u00e3o da Pol\u00edcia Federal.\r\nH\u00e1 outro ponto n\u00e3o menos importante para o qual eu gostaria de chamar a aten\u00e7\u00e3o desta Casa. Encontra-se em andamento a PEC 412/09. Essa proposta de emenda constitucional objetiva garantir autonomia administrativa, or\u00e7ament\u00e1ria e funcional \u00e0 Pol\u00edcia Federal. Se queremos verdadeiramente combater a corrup\u00e7\u00e3o, \u00e9 preciso que esta proposta de emenda constitucional, sem preju\u00edzo da lei org\u00e2nica, sem preju\u00edzo do mandato para Diretor-Geral, sem preju\u00edzo da lista tr\u00edplice, seja aprovada, para garantir autonomia \u00e0 Pol\u00edcia Federal, para que discursos de ocasi\u00e3o nunca mais se sustentem.\r\nMuito obrigado, Sra. Presidente, Sras. e Srs. Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AUMENTO, COBRAN\u00c7A, PEDAGIO, BR 135, RODOVIA FEDERAL, MINAS GERAIS.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Cobran\u00e7a de ped\u00e1gios rodovi\u00e1rios abusivos no Pa\u00eds, notadamente na BR-135, trecho Montes Claros-Belo Horizonte. Solicita\u00e7\u00e3o ao Governador do Estado de Minas Gerais de ado\u00e7\u00e3o de provid\u00eancias a respeito do assunto.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria de solicitar o registro e a divulga\u00e7\u00e3o, no programa A Voz do Brasil, do meu discurso a respeito dos ped\u00e1gios em todo o nosso Pa\u00eds. Particularmente, gostaria de chamar a aten\u00e7\u00e3o para o ped\u00e1gio efetivado na BR-135, em Minas Gerais, no trecho que liga Montes Claros a Belo Horizonte. Ningu\u00e9m \u00e9 contra a privatiza\u00e7\u00e3o, mas os pre\u00e7os cobrados t\u00eam sido extremamente abusivos.\r\n\u00c0 guisa de considera\u00e7\u00e3o, criaram, num trecho inferior a 400 quil\u00f4metros, mais de 7 ped\u00e1gios. Um autom\u00f3vel pagar\u00e1, em cada pra\u00e7a de ped\u00e1gio, mais de 7 reais, e uma carreta ou um \u00f4nibus, quase 43 reais. O pre\u00e7o ficou completamente exorbitante.\r\nN\u00f3s solicitaremos ao Governador do Estado de Minas Gerais que reveja esse contrato efetivado com a concession\u00e1ria, a fim de que o consumidor pague um pre\u00e7o justo.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T14:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PREFEITURA, MINAS GERAIS, CRISE FINANCEIRA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Dificuldades financeiras enfrentadas pelas Prefeituras Municipais no Estado de Minas Gerais e no Pa\u00eds.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, subo a esta tribuna da C\u00e2mara dos Deputados a fim de chamar a aten\u00e7\u00e3o para a prec\u00e1ria situa\u00e7\u00e3o em que se encontram os Prefeitos do nosso Pa\u00eds. Recentemente participamos de uma reuni\u00e3o com v\u00e1rios Prefeitos, em Minas Gerais, para discutir a terr\u00edvel crise que hoje assola os Munic\u00edpios brasileiros.\r\nObservando o bel\u00edssimo Estado de Minas Gerais, percebo que h\u00e1 tamb\u00e9m uma enorme crise fiscal gerada, especialmente, pelo ent\u00e3o Governador Fernando Pimentel, que deixou, apenas de Restos a Pagar, 36 bilh\u00f5es de reais para serem suportados pelo Governador atual. \r\nEssa situa\u00e7\u00e3o extremamente dificultosa faz com que Prefeitos corram, com o pires na m\u00e3o, atr\u00e1s de Deputados e de suas emendas or\u00e7ament\u00e1rias. Precisamos lutar para que essa situa\u00e7\u00e3o seja revista. Os Munic\u00edpios mineiros ter\u00e3o o nosso apoio.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=37&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-11T10:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PARTIDO SOCIAL LIBERAL (PSL), APOIO POL\u00cdTICO, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), REFORMA TRIBUT\u00c1RIA, ALTERA\u00c7\u00c3O, PACTO FEDERATIVO, MUNIC\u00cdPIO, PREFEITO, DEFESA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Vincula\u00e7\u00e3o entre a reforma previdenci\u00e1ria e o fortalecimento dos Munic\u00edpios brasileiros. Defesa de realiza\u00e7\u00e3o da reforma tribut\u00e1ria e de revis\u00e3o do pacto federativo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, nesta semana, observamos em Bras\u00edlia uma verdadeira peregrina\u00e7\u00e3o dos Prefeitos, que vieram aqui, especialmente a nossa Casa, pedir a ajuda necess\u00e1ria para realizar a gest\u00e3o de seus Munic\u00edpios. Fica a indaga\u00e7\u00e3o a cada um de n\u00f3s, Deputados e Deputadas: como poderemos ajud\u00e1-los, sen\u00e3o com reformas econ\u00f4micas, sen\u00e3o com pautas que fa\u00e7am o Brasil crescer? Uma dessas pautas, sem sombra de d\u00favida, \u00e9 a reforma da Previd\u00eancia. O PSL, partido do Presidente da Rep\u00fablica, fechou quest\u00e3o com rela\u00e7\u00e3o ao tema, e fechou de forma absolutamente consciente, porque compreendemos que, sem pautas econ\u00f4micas, o Pa\u00eds n\u00e3o segue adiante, n\u00e3o anda, o Pa\u00eds n\u00e3o poder\u00e1 socorrer Governadores e Prefeitos.\r\nReforma da Previd\u00eancia, reforma tribut\u00e1ria e revis\u00e3o do pacto federativo, \u00e9 isso que esta Casa deve fazer e \u00e9 isso que esperamos que aconte\u00e7a.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2019&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-11T11:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELTIN ENFERMEIRO, VEREADOR, SIMONE DE TUNIQUIM, VEREADORA, JA\u00cdBA (MG), PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Presen\u00e7a, na Casa, dos Vereadores Eltin Enfermeiro e Simone de Tuniquim, do Munic\u00edpio de Ja\u00edba, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, quero apenas anunciar a presen\u00e7a nesta egr\u00e9gia Casa do Povo do Vereador Eltin Enfermeiro e da Vereadora Simone, da distante cidade de Ja\u00edba, que apresenta o maior projeto de irriga\u00e7\u00e3o da Am\u00e9rica Latina. S\u00e3o Vereadores que t\u00eam feito um trabalho exemplar e, por esse motivo, merecem o respeito e o reconhecimento desta Casa do Povo.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2019&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "M\u00c1RCIO ALVES DOS SANTOS, WILLIAN RICARDO DOS SANTOS, VIGILANTE, MINA GERAIS, HOMIC\u00cdDIO. \r\nPL 1154/2018, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DO DESARMAMENTO, PORTE DE ARMA, ARMA DE FOGO, VIGILANTE, EMPRESA, SEGURAN\u00c7A PRIVADA, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Assassinato dos vigilantes M\u00e1rcio Alves dos Santos e Willian Ricardo dos Santos, no Estado de Minas Gerais. Import\u00e2ncia de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.154, de 2019, sobre o  porte de arma de fogo por profissionais da seguran\u00e7a privada.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, retorno a esta tribuna do Plen\u00e1rio da C\u00e2mara dos Deputados para relatar um fato extremamente lament\u00e1vel que ocorreu em Minas Gerais, meu Estado de origem. \r\nNo \u00faltimo s\u00e1bado, dois vigilantes, profissionais que atuam em seguran\u00e7a privada, foram assassinados quando retornavam do trabalho para a resid\u00eancia, ap\u00f3s longa e exaustiva jornada de trabalho. Estou falando de M\u00e1rcio Alves dos Santos e de Willian Ricardo dos Santos.\r\n\u00c9 preciso reconhecer o valor desses profissionais. O que tenho buscado, Sra. Presidente, Sras. e Srs. Deputados, \u00e9 a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.154, de 2019, de nossa autoria, que objetiva garantir o m\u00ednimo aos profissionais que atuam na seguran\u00e7a privada, com porte de arma de fogo p\u00f3s-jornada regular de trabalho, em que se encontram efetivamente armados.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-30T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, PARECER, ADVOCACIA-GERAL DA UNI\u00c3O (AGU), DETERMINA\u00c7\u00c3O, QUEBRA DE SIGILO BANC\u00c1RIO, OPERA\u00c7\u00c3O DE CR\u00c9DITO, RECURSOS P\u00daBLICOS, UNI\u00c3O,  ESTADO (ENTE FEDERADO), AUTARQUIA, FUNDA\u00c7\u00c3O P\u00daBLICA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Assinatura, pelo Presidente Jair Bolsonaro, de parecer da Advocacia-Geral da Uni\u00e3o sobre o fim do sigilo banc\u00e1rio nas opera\u00e7\u00f5es de cr\u00e9dito realizadas com recursos p\u00fablicos da Uni\u00e3o, dos Estados, autarquias e funda\u00e7\u00f5es da administra\u00e7\u00e3o p\u00fablica para os chamados \u00f3rg\u00e3os de controle.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, gostaria de ressaltar que, durante toda a nossa vida funcional, enquanto delegado de pol\u00edcia federal, temos observado sistematicamente a dificuldade de todos os \u00f3rg\u00e3os de controle, particularmente no que se refere \u00e0 quebra do sigilo banc\u00e1rio no caso de opera\u00e7\u00f5es que envolvam recursos p\u00fablicos.\r\nEst\u00e3o presentes no plen\u00e1rio dois colegas da Pol\u00edcia Federal, o Deputado Sanderson e o Deputado Aluisio Mendes, que podem corroborar essa nossa afirma\u00e7\u00e3o. Realmente os \u00f3rg\u00e3os de controle, no que se refere a recursos p\u00fablicos, n\u00e3o conseguem ter acesso a dados banc\u00e1rios. \u00c9 por essa raz\u00e3o que, com extrema alegria, com extrema satisfa\u00e7\u00e3o, comunicamos a esta Casa e \u00e0 popula\u00e7\u00e3o brasileira que o nosso Presidente da Rep\u00fablica, Jair Bolsonaro, assinou na semana passada, a partir de um parecer emanado da Advocacia-Geral da Uni\u00e3o, determina\u00e7\u00e3o para que todos os entes p\u00fablicos forne\u00e7am diretamente aos \u00f3rg\u00e3os de controle os dados banc\u00e1rios que envolvam recursos p\u00fablicos.\r\nN\u00f3s sabemos que o nosso Pa\u00eds tem perdido, a cada ano, cerca de 300 bilh\u00f5es de reais por conta da corrup\u00e7\u00e3o p\u00fablica. S\u00f3 vamos conseguir mitigar, s\u00f3 vamos conseguir diminuir esse mal por interm\u00e9dio da transpar\u00eancia. Saber exatamente como e onde cada recurso p\u00fablico \u00e9 aplicado \u00e9 essencial para que tenhamos um Pa\u00eds com mais riqueza, um Pa\u00eds com prosperidade e um Pa\u00eds sem corrup\u00e7\u00e3o.\r\nPara conseguir isso, repito, o nosso Presidente da Rep\u00fablica determinou agora o fim do sigilo banc\u00e1rio de contas que envolvam recursos p\u00fablicos, o que \u00e9 essencial tanto para a Pol\u00edcia Federal quanto para o Minist\u00e9rio P\u00fablico.\r\nOs colegas aqui presentes podem realmente chancelar, referendar essa nossa afirma\u00e7\u00e3o. Chegou o momento de colocar o Brasil nos trilhos! Chegou o momento de corrigir os rumos de nossa Na\u00e7\u00e3o! E somente conseguiremos fazer isso com absoluta transpar\u00eancia, especialmente no que diz respeito aos gastos p\u00fablicos. Desde a semana passada, todos os \u00f3rg\u00e3os que movimentem recursos p\u00fablicos, especialmente aqueles que envolvam recursos oriundos da Uni\u00e3o, devem fornecer informa\u00e7\u00f5es aos \u00f3rg\u00e3os de controle, independentemente de determina\u00e7\u00e3o de quebra de sigilo banc\u00e1rio.\r\nEsses s\u00e3o os rumos, Sr. Presidente, Srs. Deputados, que queremos e esperamos para o nosso Pa\u00eds. Transpar\u00eancia nas contas p\u00fablicas, \u00e9 isso o que desejamos.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F5%2F2019&txPagina=47&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, POL\u00cdCIA FEDERAL, OPERA\u00c7\u00c3O LAVA JATO, COMBATE, CORRUP\u00c7\u00c3O, DEFESA, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Rep\u00fadio \u00e0s repres\u00e1lias contra o Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro, e Procuradores da Opera\u00e7\u00e3o Lava-Jato. Relev\u00e2ncia dos trabalhos de combate \u00e0 corrup\u00e7\u00e3o realizados pela citada Opera\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, sabemos que em nosso Pa\u00eds combater corrup\u00e7\u00e3o nunca foi f\u00e1cil. Normalmente, aqueles atores envolvidos no combate \u00e0 corrup\u00e7\u00e3o sofrem diversas formas de repres\u00e1lia. Tem sido assim com o nosso Ministro da Justi\u00e7a Sergio Moro, tem sido assim com os procuradores que atuam na for\u00e7a-tarefa da Opera\u00e7\u00e3o Lava-Jato, tem sido assim n\u00e3o raras vezes com a Pol\u00edcia Federal.\r\nTemos observado uma atua\u00e7\u00e3o orquestrada tentando desacreditar o Ministro Sergio Moro, mas sabemos que a popula\u00e7\u00e3o brasileira est\u00e1 absolutamente consciente de que a verdade est\u00e1 ao lado daqueles que combateram e combatem a corrup\u00e7\u00e3o em nosso Pa\u00eds. Temos absoluta confian\u00e7a na Opera\u00e7\u00e3o Lava-Jato para passar o Pa\u00eds a limpo e a coloc\u00e1-lo no rumo certo. \r\nEste \u00e9 o momento, Presidente, de combater efetivamente a corrup\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-18T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "COMBATE, CORRUP\u00c7\u00c3O, PR\u00caMIO, SEGURO OBRIGAT\u00d3RIO DE DANOS PESSOAIS CAUSADOS POR VE\u00cdCULOS AUTOMOTORES DE VIAS TERRESTRES (SEGURO DPVAT), CR\u00cdTICA, ACORDO, MINIST\u00c9RIO P\u00daBLICO, MINAS GERAIS, SEGURADORA, L\u00cdDER.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Raz\u00e3o do posicionamento do orador contr\u00e1rio ao anunciado estabelecimento de acordo entre o Ministro P\u00fablico de Minas Gerais e a Segurada L\u00edder - Administradora do Seguro DPVAT -  Danos Pessoais Causados por Ve\u00edculos Automotores de Via Terrestre.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero apenas informar esta Casa de um acordo que est\u00e1 sendo realizado em Minas Gerais, entre o Minist\u00e9rio P\u00fablico daquele Estado e a seguradora L\u00edder. Para quem n\u00e3o sabe, n\u00f3s coordenamos uma opera\u00e7\u00e3o chamada Tempo de Despertar, que desbancou um grande esquema de corrup\u00e7\u00e3o, por interm\u00e9dio dos pr\u00eamios do seguro DPVAT.\r\nN\u00f3s defendemos abertamente o fim do monop\u00f3lio do seguro DPVAT no Brasil. Por consequ\u00eancia, gostar\u00edamos de registrar claramente, nesta Casa do povo, que o acordo que est\u00e1 sendo realizado em Minas Gerais entre o Minist\u00e9rio P\u00fablico, por interm\u00e9dio da Procuradoria-Geral, e a seguradora L\u00edder do cons\u00f3rcio DPVAT \u00e9 lesivo aos interesses p\u00fablicos. Lesivo por qu\u00ea? H\u00e1 v\u00e1rias a\u00e7\u00f5es em andamento que objetivam resguardar o interesse coletivo, buscando um dano moral difuso.\r\nSomos contra esse acordo. \u00c9 preciso que esta Casa do Povo assim o conhe\u00e7a, para melhor compreender a realidade do que est\u00e1 acontecendo em Minas Gerais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), COMISS\u00c3O ESPECIAL, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Defesa da concess\u00e3o de tratamento diferenciado \u00e0s pol\u00edcias no processo de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero aproveitar esta ocasi\u00e3o para dizer que estamos neste momento com as discuss\u00f5es em pleno vapor na Comiss\u00e3o Especial destinada a discutir a reforma da Previd\u00eancia.\r\nSabemos da relev\u00e2ncia da reforma da Previd\u00eancia para a constru\u00e7\u00e3o de um Brasil melhor, para que o Brasil possa efetivamente ingressar nos rumos da prosperidade e consiga sanear as contas p\u00fablicas.\r\nPor outro lado, Sr. Presidente, Sras. e Srs. Deputados, eu queria ressaltar a necessidade de aten\u00e7\u00e3o especial aos \u00f3rg\u00e3os de seguran\u00e7a p\u00fablica. Preocupa-me muito o tratamento dado \u00e0s pol\u00edcias na reforma da Previd\u00eancia. Ent\u00e3o, \u00e9 preciso que a Comiss\u00e3o Especial d\u00ea uma aten\u00e7\u00e3o especial a esses \u00f3rg\u00e3os, e o Presidente da Rep\u00fablica j\u00e1 sinalizou positivamente nesse sentido.\r\n\u00c9 nesse sentido que estamos buscando entendimento com o Relator na Comiss\u00e3o Especial, buscando entendimento com os demais partidos aliados, para que se possa fazer uma constru\u00e7\u00e3o que permita o impacto fiscal suficiente para que o Brasil possa, de fato, encontrar o caminho do crescimento e da prosperidade, mas que tamb\u00e9m possa tratar, na vis\u00e3o aristot\u00e9lica, desigualmente os desiguais, na medida em que se desigualam. Afinal de contas, a regra da igualdade \u00e9 justamente tratar iguais com igualdade e desiguais com desigualdade, e \u00e9 isso o que esperamos que seja feito por esta Casa do Povo.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "VAZAMENTO, MENSAGEM, SERGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, EX-JUIZ FEDERAL, DELTAN DALLAGNOL, PROCURADOR DA REP\u00daBLICA, OPERA\u00c7\u00c3O LAVA A JATO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Tradi\u00e7\u00e3o jur\u00eddico-brasileira de comunica\u00e7\u00e3o entre o julgador e autoridades encarregadas do cumprimento de mandados judiciais. Apoio \u00e0 Opera\u00e7\u00e3o Lava-Jato.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu observo que o discurso que se tem feito nesta Casa sobre as conversas vazadas ou supostamente vazadas dos telefones do Ministro Sergio Moro e dos Procuradores da Rep\u00fablica na Opera\u00e7\u00e3o Lava-Jato apresenta esse fato como se fosse algo realmente a prejudicar a referida opera\u00e7\u00e3o.\r\nContudo, Sr. Presidente, Sras. e Srs. Deputados, eu gostaria de ressaltar que coordenei centenas de opera\u00e7\u00f5es por parte da Pol\u00edcia Federal e pude observar que a tradi\u00e7\u00e3o jur\u00eddica brasileira permite que di\u00e1logos a respeito de quest\u00f5es log\u00edsticas sejam efetivados sem nenhum problema, sem nenhuma parcialidade. N\u00e3o raras vezes, debati com ju\u00edzes e procuradores sobre datas a serem efetivadas para a realiza\u00e7\u00e3o de opera\u00e7\u00f5es policiais. Isso era algo extremamente comum, ocorria de maneira recorrente. Fiz isso com opera\u00e7\u00f5es que envolviam a pris\u00e3o de prefeitos corruptos. \r\nCito aqui o caso do Prefeito corrupto de Montes Claros, minha cidade, preso em opera\u00e7\u00e3o da Pol\u00edcia Federal, assim como as opera\u00e7\u00f5es emanadas da Lava-Jato, do Supremo Tribunal Federal, a Opera\u00e7\u00e3o Catilin\u00e1rias, a Opera\u00e7\u00e3o Politeia, em que realmente havia um contato entre o julgador e as autoridades encarregadas do cumprimento de mandado, sem que nenhuma parcialidade fosse arguida. Isso \u00e9 extremamente comum na tradi\u00e7\u00e3o jur\u00eddico-brasileira e n\u00e3o enseja nenhuma nulidade. \r\nIsso \u00e9 choro dos corruptos e dos seus comparsas! \u00c9 choro de canalha! \r\nViva a Opera\u00e7\u00e3o Lava-Jato! \r\nViva o Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T00:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 8/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), MAIORIA PARLAMENTAR, VOTO FAVORAVEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 8, oferecida \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s compreendemos que esta emenda aglutinativa resulta de v\u00e1rios esfor\u00e7os, especialmente por parte de V.Exa. N\u00f3s observamos que alguns policiais ainda ficaram insatisfeitos, mas percebemos claramente o esfor\u00e7o do Governo e desta Casa para tentar evoluir nesta tem\u00e1tica t\u00e3o importante.\r\nArist\u00f3teles j\u00e1 dizia que a regra da igualdade consiste em tratar desigualmente os desiguais, na medida em que se desigualam. Com esta emenda aglutinativa, estaremos corrigindo um pequeno problema na regra de transi\u00e7\u00e3o e buscando garantir aos policiais uma transi\u00e7\u00e3o de 52, se mulher, e 53, se homem.\r\nA Maioria orienta o voto \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=281&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T13:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VOTA\u00c7\u00c3O, DESTAQUE, QUEBRA, INTERST\u00cdCIO, SEGUNDO TURNO, APROVA\u00c7\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019).",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Apelo \u00e0 Casa de imediata vota\u00e7\u00e3o dos requerimentos de destaques oferecidos \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social, e do requerimento de quebra de interst\u00edcio par a vota\u00e7\u00e3o da mat\u00e9ria em segundo turno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s observamos que dados recentes do IBGE demonstram que, para al\u00e9m de uma popula\u00e7\u00e3o de 13% que se encontra desempregada em nosso Pa\u00eds, n\u00f3s ainda temos aproximadamente 28 milh\u00f5es de brasileiros subutilizados. S\u00e3o aquelas pessoas que procuraram emprego nos \u00faltimos 3 anos, n\u00e3o encontraram e agora vivem agregados a familiares pr\u00f3ximos. Esta reforma se tornou crucial, tornou-se essencial para que possamos estabilizar as contas p\u00fablicas e resgatar o crescimento econ\u00f4mico.\r\n\u00c9 por esse motivo, Sr. Presidente, Sras. e Srs. Deputados, que fica o apelo, o nosso apelo, o apelo do partido PSL para que possamos votar os destaques ainda hoje e, se poss\u00edvel, na sequ\u00eancia, a quebra de interst\u00edcio e o segundo turno desta reforma t\u00e3o essencial \u00e0 popula\u00e7\u00e3o brasileira.\r\nPela reforma, pela nova Previd\u00eancia j\u00e1, Sr. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE QUEBRA DE INTERST\u00cdCIO, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de quebra de interst\u00edcio de 5 sess\u00f5es para a vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s compreendemos que a reforma da Previd\u00eancia \u00e9 essencial para o nosso Pa\u00eds, compreendemos que \u00e9 preciso que esta Casa do Povo conclua com a maior celeridade a vota\u00e7\u00e3o a respeito desse tema que \u00e9 de suma import\u00e2ncia para que possamos equilibrar as contas p\u00fablicas e resgatar o crescimento econ\u00f4mico. \r\n\u00c9 evidente, Sr. Presidente, que a popula\u00e7\u00e3o brasileira j\u00e1 n\u00e3o suporta mais tanto tempo sem que esta Casa conclua o processo de vota\u00e7\u00e3o dessa medida t\u00e3o essencial. N\u00f3s percebemos, Presidente, que apenas os gastos com Previd\u00eancia Social superam em 540 bilh\u00f5es de reais os gastos com sa\u00fade, com educa\u00e7\u00e3o e com seguran\u00e7a p\u00fablica juntos. Isso equivale a dizer que, com a Previd\u00eancia Social, n\u00f3s temos gastado tr\u00eas vezes mais do que com a sa\u00fade, a educa\u00e7\u00e3o e a seguran\u00e7a p\u00fablica juntas.\r\nA quebra de interst\u00edcio, Sr. Presidente, \u00e9 algo essencial para que, efetivamente, possamos iniciar o mais r\u00e1pido poss\u00edvel o segundo turno de vota\u00e7\u00e3o dessa reforma da Previd\u00eancia, a fim de que possamos dar ao povo brasileiro aquilo de que ele realmente necessita. Reforma da Previd\u00eancia j\u00e1! Temos que resgatar o crescimento econ\u00f4mico, equilibrar as contas p\u00fablicas, gerar emprego e renda.\r\nAssim, Sr. Presidente, entendemos que devemos votar favoravelmente \u00e0 quebra de interst\u00edcio, para imediatamente votar o segundo turno dessa reforma da Previd\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=199&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o Brasil foi corrompido pelo excesso de gastos p\u00fablicos. Por conta desse excesso evidente de gastos p\u00fablicos que tomou conta do nosso Pa\u00eds, especialmente nos \u00faltimos 16 anos, temos hoje uma Previd\u00eancia completamente estrangulada.\r\nPara se ter uma dimens\u00e3o, n\u00f3s gastamos 540 bilh\u00f5es de reais a mais, de acordo com dados do or\u00e7amento de 2019, com Previd\u00eancia p\u00fablica do que com educa\u00e7\u00e3o, seguran\u00e7a e sa\u00fade juntos. Esse n\u00famero referente ao que foi gasto com Previd\u00eancia p\u00fablica representa tr\u00eas vezes mais os gastos com sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a p\u00fablica juntos, justamente os principais problemas do nosso Pa\u00eds.\r\nEvidentemente, Presidente, o primeiro desafio a ser enfrentado nesta nova legislatura \u00e9 a reforma previdenci\u00e1ria. E esta Casa tem tomado conta - e bem - desse recado e dado \u00e0 popula\u00e7\u00e3o a resposta que ela verdadeiramente precisa.\r\nCom a exclus\u00e3o dos trabalhadores rurais e dos benefici\u00e1rios da presta\u00e7\u00e3o continuada, Sr. Presidente, o discurso da Oposi\u00e7\u00e3o, o discurso da Esquerda perde verdadeira e completamente o sentido.\r\nA reforma vai atingir sobremaneira aqueles que ganham mais, em detrimento daqueles que menos recebem em nosso Pa\u00eds.\r\nSr. Presidente, essa reforma tornou-se crucial ao equil\u00edbrio das contas p\u00fablicas, crucial ao resgate do crescimento econ\u00f4mico. N\u00f3s temos hoje no Brasil, de acordo com dados do IBGE, aproximadamente 14 milh\u00f5es de desempregados. Se levarmos em considera\u00e7\u00e3o o n\u00famero de pessoas subutilizadas, que s\u00e3o aquelas que procuraram emprego nos \u00faltimos 3 anos e n\u00e3o encontraram, n\u00f3s chegaremos ao triste, ao devastador n\u00famero de aproximadamente 28 milh\u00f5es de brasileiros.\r\nObviamente a reforma da Previd\u00eancia \u00e9 o come\u00e7o, \u00e9 princ\u00edpio do resgate do crescimento econ\u00f4mico. Na sucess\u00e3o esta Casa tem a absoluta tranquilidade, a absoluta responsabilidade de votar, como de fato tem votado, a reforma tribut\u00e1ria, na sequ\u00eancia a revis\u00e3o do pacto federativo. A reforma tribut\u00e1ria j\u00e1 passou pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a. Foi criada a Comiss\u00e3o Especial. E n\u00f3s queremos assumir a responsabilidade para verdadeiramente colocar o Brasil nos trilhos do crescimento econ\u00f4mico. \u00c9 disso que n\u00f3s precisamos. E esta Casa tem feito isso com a responsabilidade que o povo brasileiro exige.\r\nSr. Presidente, Srs. Deputados, eu sou origin\u00e1rio do Estado de Minas Gerais. A irresponsabilidade da gest\u00e3o do PT, a gest\u00e3o do ent\u00e3o Governador Fernando Pimentel deixou o Estado de Minas Gerais completamente quebrado, com d\u00edvidas de aproximadamente 36 bilh\u00f5es de reais de restos a pagar. Esse Estado de Minas Gerais, assim como os demais Estados brasileiros, clama por uma reforma previdenci\u00e1ria, clama por ser reinserido no texto da reforma. Esta reforma precisa tamb\u00e9m alcan\u00e7ar Estados e Munic\u00edpios, para que ela seja verdadeiramente completa. Precisamos fazer com que essa reforma atinja a todos, sem distin\u00e7\u00e3o.\r\nSr. Presidente, n\u00f3s acreditamos plenamente nos trabalhos que foram desenvolvidos por esta Casa. Por esse motivo temos absoluta convic\u00e7\u00e3o de que devemos votar favoravelmente \u00e0 reforma da Previd\u00eancia neste segundo turno, n\u00e3o porque essa seria a nossa inten\u00e7\u00e3o pessoal, mas porque o Brasil precisa dela, precisa cortar alguns privil\u00e9gios, precisa ajustar as contas p\u00fablicas e precisa resgatar o necess\u00e1rio crescimento econ\u00f4mico.\r\nAl\u00e9m do desemprego, estamos sufocados, com a sa\u00fade estrangulada, com a seguran\u00e7a p\u00fablica deficit\u00e1ria. E n\u00f3s precisamos de recursos para poder investir nessas \u00e1reas extremamente sofridas de nosso Pa\u00eds. O primeiro passo, repito, \u00e9 a reforma da Previd\u00eancia. E estamos fazendo isso muito bem. Se Deus quiser, esta semana votaremos efetivamente essa reforma, dando ao povo brasileiro aquilo que ele verdadeiramente precisa.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=276&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GILMAR MENDES, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, CR\u00cdTICA, OPERA\u00c7\u00c3O LAVA JATO, CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Impropriedade das cr\u00edticas do Ministro Gilmar Mendes, do Supremo Tribunal Federal, \u00e0 Opera\u00e7\u00e3o Lava-Jato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu recebi alguns dias atr\u00e1s a cr\u00edtica do Ministro Gilmar Mendes \u00e0 Opera\u00e7\u00e3o Lava-Jato, taxando-a de organiza\u00e7\u00e3o criminosa para investigar pessoas. Em contraposi\u00e7\u00e3o ao que tem sido dito pelo Ministro Gilmar Mendes, o pr\u00f3prio Ministro Lu\u00eds Roberto Barroso tem dito que essas cr\u00edticas nada mais s\u00e3o do que fofocas praticadas por criminosos.\r\nO que quero aqui deixar registrado, Sr. Presidente, \u00e9 que me preocupa quando um juiz sai dos autos e vai a p\u00fablico para fazer cr\u00edticas a uma opera\u00e7\u00e3o que se encontra ainda em andamento e que, certamente, ser\u00e1 julgada cedo ou tarde pelo Supremo Tribunal Federal. Parece-nos absolutamente inconveniente a postura adotada pelo Ministro Gilmar Mendes, que tem feito um mal muito grande ao Pa\u00eds ao expor sua opini\u00e3o \u00e0 imprensa. E muitas vezes critica as pessoas por assim faz\u00ea-lo, o que \u00e9 um equ\u00edvoco do Ministro Gilmar Mendes.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=153&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, SEGUNDO TURNO, PARTIDO SOCIAL LIBERAL (PSL).",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela condu\u00e7\u00e3o dos trabalhos no plen\u00e1rio. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 203 da Constitui\u00e7\u00e3o Federal, na reda\u00e7\u00e3o dada pelo art. 1\u00ba  da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria, na vota\u00e7\u00e3o da mat\u00e9ria em segundo turno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, ao mesmo tempo em que elogio V.Exa. pela condu\u00e7\u00e3o dos trabalhos, especialmente por ter aguardado 1 hora e meia os partidos de oposi\u00e7\u00e3o para que pudessem fazer reuni\u00e3o no Supremo Tribunal Federal, o que representa realmente uma verdadeira dial\u00e9tica nesta Casa, digo que os partidos do acordo fechado orientam \"n\u00e3o\" ao destaque e \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=239&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, DEFINI\u00c7\u00c3O, CRIME, ABUSO DE AUTORIDADE, VETO PRESIDENCIAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Solicita\u00e7\u00e3o ao Presidente da Rep\u00fablica de aposi\u00e7\u00e3o de veto a dispositivos do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, causou preocupa\u00e7\u00e3o nacional a aprova\u00e7\u00e3o por esta C\u00e2mara dos Deputados da propalada Lei de Abuso de Autoridade.\r\nN\u00f3s gostar\u00edamos de ressaltar a nossa preocupa\u00e7\u00e3o com o que foi feito por esta Casa do Povo, obviamente com voto contr\u00e1rio nosso, no sentido de que devemos efetivamente preservar a atua\u00e7\u00e3o dos \u00f3rg\u00e3os de controle, com particular \u00eanfase na Pol\u00edcia Federal e no Minist\u00e9rio P\u00fablico. \r\nIsso nos causa muita apreens\u00e3o. N\u00f3s gostar\u00edamos de deixar registrado que fizemos um documento que estamos encaminhando, junto com a Lideran\u00e7a do Governo, ao Presidente da Rep\u00fablica, a fim de que promova o veto, ainda que parcial, de diversos dispositivos da propalada Lei de Abuso de Autoridade.\r\nPrecisamos, sim, combater o crime e a corrup\u00e7\u00e3o, mas n\u00e3o da maneira determinada na Lei de Abuso de Autoridade.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=12&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "GILDEON GON\u00c7ALVES DUR\u00c3ES, DIRIGENTE SINDICAL, SINDICATO, COM\u00c9RCIO VAREJISTA, PRODUTO DERIVADO, PETR\u00d3LEO, REFORMA TRIBUT\u00c1RIA, COMBUST\u00cdVEL, GASOLINA, CARGA TRIBUT\u00c1RIA, IMPOSTO SOBRE OPERA\u00c7\u00d5ES RELATIVAS \u00c0 CIRCULA\u00c7\u00c3O DE MERCADORIAS E SOBRE PRESTA\u00c7\u00d5ES DE SERVI\u00c7OS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICA\u00c7\u00c3O (ICMS).",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Maior aten\u00e7\u00e3o ao setor de derivados de petr\u00f3leo no processo de reforma tribut\u00e1ria.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, eu queria aproveitar esta ocasi\u00e3o em que recebo em nosso gabinete aqui em Bras\u00edlia o meu amigo Gildeon, um dos diretores do MINASPETRO, em Minas Gerais, para refor\u00e7ar, em momento em que se discute a reforma tribut\u00e1ria, a necessidade de dar uma aten\u00e7\u00e3o especial ao setor que atua nos derivados de petr\u00f3leo como um todo.\r\nO setor de combust\u00edvel em nosso Pa\u00eds tem sido um grande fomentador especialmente do desenvolvimento dos Estados, j\u00e1 que a carga tribut\u00e1ria, particularmente do ICMS, \u00e9 que permite que Estados continuem suas atividades. Esse setor merece o reconhecimento deste Congresso Nacional, especialmente em tempos de reforma tribut\u00e1ria.\r\nEnt\u00e3o, com esta nossa preocupa\u00e7\u00e3o, nosso pedido \u00e9 que esta Casa possa dar a devida aten\u00e7\u00e3o ao setor que representa os combust\u00edveis no Pa\u00eds. Ressalto a import\u00e2ncia desse setor, que apresenta uma carga alt\u00edssima em \u00e2mbito estadual. No caso de Minas Gerais, de onde somos origin\u00e1rios, aproximadamente 50% da carga tribut\u00e1ria que envolve particularmente a gasolina \u00e9 voltada para o ICMS. Ent\u00e3o, \u00e9 realmente uma carga tribut\u00e1ria muito grande, enorme, e devemos ter aten\u00e7\u00e3o especial, quando da reforma tribut\u00e1ria, com esse segmento importante de nossa cadeia produtiva. \r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DO DESARMAMENTO, CRIT\u00c9RIO, EXTENS\u00c3O, RESID\u00caNCIA, \u00c1REA RURAL, PORTE DE ARMA, ARMA DE FOGO, APROVA\u00c7\u00c3O, SAN\u00c7\u00c3O PRESIDENCIAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "San\u00e7\u00e3o pelo Presidente Jair Bolsonaro do Projeto de Lei n\u00ba 3.715, de 2019, sobre a regulamenta\u00e7\u00e3o da posse de arma de fogo na \u00e1rea rural.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, estivemos agora no Pal\u00e1cio da Alvorada, onde acompanhamos a san\u00e7\u00e3o do Presidente da Rep\u00fablica ao projeto de lei que concedeu ao produtor rural o direito \u00e0 posse de arma dentro de sua propriedade rural. Isso vem garantir no Pa\u00eds for\u00e7a para a leg\u00edtima defesa, for\u00e7a para o produtor rural, que realmente precisa dos cuidados do Estado brasileiro. Muitas vezes, essas pessoas est\u00e3o nos locais mais distantes, mais long\u00ednquos, sem acesso ao poder p\u00fablico.\r\nDestaco a sensibilidade desta Casa do povo, que aprovou a lei, e a sensibilidade do Presidente da Rep\u00fablica, que a sancionou, garantindo ao produtor rural, ao homem do campo o direito a possuir arma no interior de sua propriedade rural.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JULGAMENTO, SUPREMO TRIBUNAL FEDERAL (STF), R\u00c9U, DELA\u00c7\u00c3O PREMIADA, ALEGA\u00c7\u00d5ES FINAIS, PROCESSO PENAL, CONDENA\u00c7\u00c3O CRIMINAL, ANULA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Disson\u00e2ncia entre a decis\u00e3o do Supremo Tribunal Federal a respeito do escalonamento de r\u00e9us e o disposto no ordenamento jur\u00eddico brasileiro.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, quero chamar a aten\u00e7\u00e3o para a decis\u00e3o emanada do Supremo Tribunal Federal semana passada. O Tribunal est\u00e1 na emin\u00eancia de concluir o julgamento a respeito do escalonamento de r\u00e9us em nosso Pa\u00eds.\r\nO Supremo Tribunal Federal, em completa disson\u00e2ncia com o que diz o ordenamento jur\u00eddico brasileiro, tem estabelecido um escalonamento de r\u00e9us e permitido que o r\u00e9u delatado fale posteriormente ao r\u00e9u delator.\r\nO Congresso Nacional jamais decidiu sobre isso. Essa decis\u00e3o n\u00e3o consta do C\u00f3digo de Processo Penal, n\u00e3o consta da Lei n\u00ba 12.850, de 2013, que trata da dela\u00e7\u00e3o premiada, e \u00e9 completamente contr\u00e1ria ao ordenamento jur\u00eddico em nosso Pa\u00eds.\r\nO que precisa ser feito, Sra. Presidente? N\u00f3s devemos trabalhar especificamente com a modula\u00e7\u00e3o dos efeitos da decis\u00e3o do Supremo Tribunal Federal. Para qu\u00ea? Para que, especificamente com rela\u00e7\u00e3o ao escalonamento de r\u00e9us, essa decis\u00e3o s\u00f3 possa valer para processos doravante julgados pelo Poder Judici\u00e1rio da nossa Na\u00e7\u00e3o. Se n\u00e3o acontecer dessa maneira, centenas de processos ser\u00e3o anulados Brasil afora, de modo completamente covarde para com a popula\u00e7\u00e3o brasileira. Criminosos de diversas vertentes poder\u00e3o se ver livres de uma condena\u00e7\u00e3o, especialmente por conta da prescri\u00e7\u00e3o criminal.\r\nO Supremo Tribunal Federal deve ter responsabilidade na modula\u00e7\u00e3o dos efeitos dessa decis\u00e3o, que deve ser finalizada em breve, e fazer com que ela somente valha para processos julgados daqui para frente, esquecendo aquilo que outrora ocorreu, porque seguiu plenamente a legisla\u00e7\u00e3o de nossa rep\u00fablica.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), APROVA\u00c7\u00c3O, PLP 38/2019, PROJETO DE LEI COMPLEMENTAR, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE PROCESSO PENAL, C\u00d3DIGO ELEITORAL (1965), COMPET\u00caNCIA JURISDICIONAL, JULGAMENTO, CRIME COMUM, CRIME ELEITORAL, LEI ANTICRIME.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Aprova\u00e7\u00e3o, pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, do Projeto de Lei Complementar n\u00ba 38, de 2019, sobre altera\u00e7\u00e3o do Decreto-Lei n\u00ba 3.689, de 1941 - C\u00f3digo de Processo Penal, e da Lei n\u00ba 4.737, de 1965 - C\u00f3digo Eleitoral, com vista ao estabelecimento de regras de compet\u00eancia da Justi\u00e7a Comum e da Justi\u00e7a Eleitoral. Pedido \u00e0 Casa de vota\u00e7\u00e3o do projeto de lei anticrime relativo \u00e0 Justi\u00e7a Eleitoral, encaminhado \u00e0 Casa pelo Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, apenas quero real\u00e7ar que a Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania aprovou agora h\u00e1 pouco o Projeto de Lei Complementar n\u00ba 38, de 2019, que objetiva, dentro do pacto anticrime, dentro do projeto anticrime do Ministro Sergio Moro, separar os delitos eleitorais dos delitos comuns a eles conexos. Esse projeto de lei complementar certamente far\u00e1 com que aquelas organiza\u00e7\u00f5es criminosas e com que aqueles que est\u00e3o envolvidos em delitos eleitorais e em outros crimes muito mais complexos tenham a devida aten\u00e7\u00e3o desta Casa. N\u00f3s certamente compreendemos, com clareza, o que a separa\u00e7\u00e3o desses processos representa para o nosso Pa\u00eds. O projeto anticrime do Ministro Sergio Moro, no que se refere \u00e0 Justi\u00e7a Eleitoral, foi aprovado agora h\u00e1 pouco na CCJ e merece o devido andamento nesta Casa, para que seja aprovado muito em breve.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=266&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 2\u00ba-A do art. 23 da Lei n\u00ba 9.504, de 1997, constante do art. 1\u00ba do Substitutivo apresentado ao Projeto de Lei n\u00ba 4.121, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.504, de 1997, com vista ao estabelecimento dos limites de gastos de campanha para as elei\u00e7\u00f5es municipais, para a sua supress\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, ao tempo em que cumprimentamos o eminente Relator F\u00e1bio Trad pelo trabalho que fez aqui, gostar\u00edamos de nos manifestar, nesta ocasi\u00e3o, contrariamente ao destaque apresentado pelo Partido Novo. E fazemos isso, Sr. Presidente, com a absoluta convic\u00e7\u00e3o e com a absoluta clareza de que, se queremos uma pol\u00edtica verdadeiramente igualit\u00e1ria, n\u00f3s temos que ter uma limita\u00e7\u00e3o do autofinanciamento.\r\nA proposta apresentada pelo Relator limita a 10% dos rendimentos brutos declarados no exerc\u00edcio anterior. N\u00f3s entendemos que esse valor ainda carece de aperfei\u00e7oamento. Mas n\u00e3o haver limite algum, exceto o teto, \u00e9 algo absolutamente teratol\u00f3gico e n\u00e3o condiz com o princ\u00edpio da igualdade, porque estamos aqui trabalhando com campanhas de verdadeiros milion\u00e1rios. S\u00e3o pessoas que ser\u00e3o capazes de financiar sua campanha completamente, ao passo que a imensa maioria daqueles que concorrem a um cargo p\u00fablico, que concorrem a um cargo pol\u00edtico, n\u00e3o se poder\u00e3o autofinanciar.\r\nSr. Presidente, o PSL entende que esse destaque do NOVO n\u00e3o deve ser acolhido. Deve ser mantido o texto do eminente Relator tal qual apresentado.\r\nPortanto, Sr. Presidente, orientamos o voto \"n\u00e3o\" ao destaque e \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=302&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, FAVORAVEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 2, apresentada ao Projeto de Lei n\u00ba 4.121, de 2019, sobre o estabelecimento de limite de gastos de campanha nas elei\u00e7\u00f5es municipais.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, antes de ingressar propriamente na tem\u00e1tica de nossa emenda, n\u00f3s quer\u00edamos esclarecer \u00e0queles que nos veem e ao Plen\u00e1rio que a quest\u00e3o aqui discutida nada tem a ver com o financiamento eleitoral de campanha. Estamos discutindo exclusivamente o autofinanciamento de campanha. \r\nN\u00f3s observamos que parte daqueles que aqui vieram defender o destaque do NOVO \u00e9 constitu\u00edda de pessoas que est\u00e3o diretamente ligadas a milion\u00e1rios de nossa Rep\u00fablica. Se queremos nivelar o processo pol\u00edtico, \u00e9 preciso estabelecer um limite dos gastos, ainda que do pr\u00f3prio autofinanciamento.\r\n\u00c9 neste sentido que o PSL traz aqui uma emenda. No projeto origin\u00e1rio, consta a seguinte reda\u00e7\u00e3o: \"O candidato poder\u00e1 usar recursos pr\u00f3prios em sua campanha at\u00e9 o limite de 10% dos seus rendimentos brutos auferidos no ano anterior \u00e0 elei\u00e7\u00e3o\". \r\nQual \u00e9 a emenda apresentada pelo PSL, Sras. e Srs. Deputados? \"O candidato poder\u00e1 usar recursos pr\u00f3prios em sua campanha at\u00e9 o total de 10% dos limites previstos para o gasto de campanha no cargo em que concorrer.\"\r\nCom isso, Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s vamos estabelecer um processo eleitoral um pouco mais ison\u00f4mico, um pouco mais igualit\u00e1rio. Vamos permitir que a pol\u00edtica n\u00e3o seja simplesmente a arte de milion\u00e1rios.\r\nPortanto, devemos nivelar o processo pol\u00edtico e a escolha da maneira mais ison\u00f4mica poss\u00edvel.\r\nCom o devido respeito ao partido NOVO e aos nobres Deputados que aqui falaram, n\u00e3o concordamos, em hip\u00f3tese alguma, com a n\u00e3o limita\u00e7\u00e3o do autofinanciamento de campanha. \r\nN\u00f3s podemos fazer um pouco mais. Limitar o financiamento a 10% do teto dos gastos previstos \u00e9 algo extremamente positivo, \u00e9 algo salutar para nossa Rep\u00fablica, porque vamos igualar o pleito e os candidatos nas elei\u00e7\u00f5es de 2020 e de 2022.\r\nNeste sentido, n\u00f3s solicitamos que votem a favor da nossa emenda apresentada aqui no plen\u00e1rio.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=311&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL),, VOTO FAVORAVEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 2, apresentada ao Projeto de Lei n\u00ba 4.121, de 2019, sobre o estabelecimento de limite de gastos de campanha nas elei\u00e7\u00f5es municipais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o PSL tamb\u00e9m orienta o voto \"sim\", por entender que a presente emenda vai fazer com que os candidatos possam concorrer ao pleito da maneira mais igualit\u00e1ria poss\u00edvel, relembrando que aqui n\u00e3o se discute financiamento eleitoral, mas apenas o autofinanciamento. \r\nPortanto, a limita\u00e7\u00e3o \u00e9 extremamente positiva e certamente ir\u00e1 corrigir distor\u00e7\u00f5es que de longa data prejudicam nosso pleito eleitoral.\r\n\"Sim\" \u00e0 emenda apresentada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=314&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-02T00:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, LIMITA\u00c7\u00c3O, GASTO ELEITORAL, ELEI\u00c7\u00c3O MUNICIPAL, CAMPANHA ELEITORAL, VEREADOR, PREFEITO, ESCLARECIMENTO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Esclarecimento sobre a limita\u00e7\u00e3o dos gastos de campanha nas elei\u00e7\u00f5es municipais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - A quest\u00e3o \u00e9 muito simples, Presidente. Em toda interpreta\u00e7\u00e3o emanada pelo Tribunal Superior Eleitoral ou pelo Supremo Tribunal Federal, \u00e9 preciso compreender a interpreta\u00e7\u00e3o pol\u00edtico-jur\u00eddica. Aqui fica claro, neste plen\u00e1rio, que a limita\u00e7\u00e3o dos 10% se refere exclusivamente aos recursos pr\u00f3prios. O TSE ou o pr\u00f3prio Supremo Tribunal Federal n\u00e3o pode, nem por ativismo judicial nem por extens\u00e3o, estender essa interpreta\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=321&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-08T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DISCUSS\u00c3O DE PROPOSI\u00c7\u00c3O POR PARTES, PLN 6/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de discuss\u00e3o, artigo por artigo, do Projeto de Lei do Congresso Nacional n\u00ba 6, de 2019, sobre a abertura do Or\u00e7amento Fiscal da Uni\u00e3o, em favor das Justi\u00e7as Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territ\u00f3rios, do Minist\u00e9rio P\u00fablico da Uni\u00e3o e do Conselho Nacional do Minist\u00e9rio P\u00fablico, cr\u00e9dito suplementar no valor de R$ 236.566.628,00,  para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Para encaminhar. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s compreendemos que esta sess\u00e3o conjunta \u00e9 essencial para darmos andamento aos trabalhos do Congresso Nacional. O PSL entende que \u00e9 imprescind\u00edvel votarmos todos os PLNs que se encontram na pauta.\r\nPor esse motivo, orientamos o voto \"n\u00e3o\" para a vota\u00e7\u00e3o artigo por artigo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=10%2F10%2F2019&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T14:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JULGAMENTO, SUPREMO TRIBUNAL FEDERAL (STF), PRIS\u00c3O, CONDENA\u00c7\u00c3O CRIMINAL, SEGUNDA INST\u00c2NCIA, OPERA\u00c7\u00c3O LAVA JATO, INVESTIGA\u00c7\u00c3O CRIMINAL, DIAS TOFFOLI, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, SUSPENS\u00c3O, PRESCRI\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Defesa de manuten\u00e7\u00e3o, pelo Supremo Tribunal Federal, da jurisprud\u00eancia sobre a execu\u00e7\u00e3o da pena ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero ressaltar nesta Casa do Povo a preocupa\u00e7\u00e3o que temos em raz\u00e3o do julgamento emanado do Supremo Tribunal Federal a respeito da chamada pris\u00e3o em segunda inst\u00e2ncia.\r\nN\u00f3s observamos que a decis\u00e3o emanada daquela Corte pode efetivamente p\u00f4r em cheque a Opera\u00e7\u00e3o Lava-Jato, restando prejudicadas in\u00fameras investiga\u00e7\u00f5es em nosso Pa\u00eds. Al\u00e9m disso, corremos o risco de colocar para fora das cadeias centenas de presos condenados em segunda inst\u00e2ncia, o que \u00e9 um risco para a seguran\u00e7a da coletividade, o que \u00e9 um risco para a popula\u00e7\u00e3o brasileira.\r\nRessalto ainda que a proposta encaminhada pelo Ministro Dias Toffoli a esta Casa para que a prescri\u00e7\u00e3o seja suspensa a partir do julgamento em segunda inst\u00e2ncia, ou seja, dos recursos especiais extraordin\u00e1rios, n\u00e3o nos atende.\r\nPris\u00e3o em segunda inst\u00e2ncia j\u00e1, Sr. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=34&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "ARQUIVAMENTO, INVESTIGA\u00c7\u00c3O, S\u00c9RGIO BARBOZA MENEZES, SUPERINTENDENTE, POL\u00cdCIA FEDERAL, MINAS GERAIS.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Congratula\u00e7\u00f5es ao Minist\u00e9rio P\u00fablico Federal e ao Poder Judici\u00e1rio de Minas Gerais pelo arquivamento de a\u00e7\u00e3o instaurada contra o ent\u00e3o Superintendente Regional da Pol\u00edcia Federal, S\u00e9rgio Barboza Menezes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, subo a esta tribuna, em tempos em que se discute abuso de autoridade, para ressaltar uma situa\u00e7\u00e3o extremamente lament\u00e1vel, extremamente triste, que aconteceu em Minas Gerais, com a pessoa do ent\u00e3o Superintendente Regional da Pol\u00edcia Federal e ex-Secret\u00e1rio de Seguran\u00e7a P\u00fablica de Minas Gerais, S\u00e9rgio Barboza Menezes.\r\nO ent\u00e3o Superintendente Regional teve contra si uma investiga\u00e7\u00e3o instaurada para apurar - pasme, Sr. Presidente! - os crimes de prevarica\u00e7\u00e3o, advocacia administrativa, corrup\u00e7\u00e3o passiva e obstru\u00e7\u00e3o \u00e0 investiga\u00e7\u00e3o de organiza\u00e7\u00e3o criminosa.\r\nMas, ao passo em que a investiga\u00e7\u00e3o andava, foi preciso que o Minist\u00e9rio P\u00fablico Federal chegasse \u00e0 conclus\u00e3o e pugnasse pelo arquivamento dessa aberra\u00e7\u00e3o que se prop\u00f4s contra o ent\u00e3o Superintendente Regional da Pol\u00edcia Federal de Minas Gerais.\r\nO Minist\u00e9rio P\u00fablico concluiu da seguinte maneira: \"...n\u00e3o foi colhido qualquer ind\u00edcio que o representado tenha deliberadamente, de forma livre e consciente, atuado para obstruir de algum modo as investiga\u00e7\u00f5es conduzidas pelo Delegado M\u00e1rio Veloso...\" - outro Delegado da Pol\u00edcia Federal, inconsequente e irrespons\u00e1vel, que n\u00e3o agiu como deveria agir com as investiga\u00e7\u00f5es criminais em nosso Pa\u00eds.\r\nContinua o Minist\u00e9rio P\u00fablico: \"Trata-se de impress\u00e3o pessoal do representante\" - M\u00e1rio Veloso -, \"sem respaldo em provas de que, mais uma vez, o ent\u00e3o Superintendente teria atuado de forma deliberada, livre e consciente, para de alguma forma obstruir investiga\u00e7\u00f5es sens\u00edveis em curso na Pol\u00edcia Federal\".\r\nDiz mais ainda: \"O quarto fato diz respeito \u00e0 nomea\u00e7\u00e3o da esposa do ent\u00e3o Superintendente para um cargo comissionado da Secretaria de Estado de Defesa de Minas Gerais\".\r\nSegue o Minist\u00e9rio P\u00fablico: \"Tal fato, em si considerado, em nada denota a pr\u00e1tica dos crimes imputados, tendo em vista que n\u00e3o se demonstrou que, de alguma forma, o ent\u00e3o Superintendente teria obstru\u00eddo investiga\u00e7\u00f5es em curso contra o ent\u00e3o Governador\".\r\nPor fim, o Minist\u00e9rio P\u00fablico conclui: \"...diz respeito a uma supostas inger\u00eancias do investigado, ap\u00f3s ci\u00eancia de que o Delegado M\u00e1rio Veloso teria consultado um endere\u00e7o nesta capital\" - ou seja, em Belo Horizonte - \"onde o Senador Antonio Anastasia teria recebido propina. Segundo apurado, nada se passou de desentendimento entre os delegados, nada pr\u00f3ximo da pr\u00e1tica de qualquer crime\".\r\nSubmetido ao encaminhamento do Poder Judici\u00e1rio, o Poder Judici\u00e1rio concluiu da seguinte maneira: \"como bem ressaltado pelo MPF, a despeito da amplitude e gravidade da representa\u00e7\u00e3o formulada pela autoridade policial, a an\u00e1lise dos documentos apresentados n\u00e3o permite outra conclus\u00e3o a n\u00e3o ser o arquivamento\".\r\nInvestiga\u00e7\u00e3o criminal \u00e9 coisa s\u00e9ria. O que fez o Sr. Delegado M\u00e1rio Veloso contra o Delegado de Pol\u00edcia Federal S\u00e9rgio Menezes foi uma covardia, tem o nosso rep\u00fadio, e certamente encaminharemos os fatos para Procuradoria-Geral da Rep\u00fablica e para a Corregedoria da Pol\u00edcia Federal, porque quem investiga calcado em crit\u00e9rios pessoais \u00e9 um covarde e n\u00e3o merece o status do cargo que ocupa.\r\nManifesto todo o nosso rep\u00fadio, todo o nosso recha\u00e7o.\r\nParab\u00e9ns ao Minist\u00e9rio P\u00fablico de Minas Gerais!\r\nParab\u00e9ns ao Poder Judici\u00e1rio, por arquivar tamanha aberra\u00e7\u00e3o e covardia contra algu\u00e9m que exerceu, durante toda sua vida, sua fun\u00e7\u00e3o!\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ESTATUTO DO DESARMAMENTO, CONTR\u00c1RIO.\r\nPL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DO DESARMAMENTO, CERTIFICADO DE REGISTRO DE ARMA DE FOGO, POSSE DE ARMA, LEG\u00cdTIMA DEFESA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Aumento da criminalidade no Pa\u00eds ap\u00f3s a aprova\u00e7\u00e3o do Estatuto do Desarmamento. Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.723-D, de 2019, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 10.826, de 2003, sobre o registro, a posse e a comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINAM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 preciso deixar claro nesta Casa do Povo que, desde 2003, com a edi\u00e7\u00e3o do Estatuto do Desarmamento, a criminalidade s\u00f3 aumentou em nosso Pa\u00eds. \u00c0 guisa de considera\u00e7\u00e3o, nos anos de 2016, 2017 e 2018, n\u00f3s tivemos uma m\u00e9dia de 175 homic\u00eddios por dia em nossa Na\u00e7\u00e3o.\r\nO que \u00e9 preciso ser feito? O que esse projeto objetiva contemplar? Objetiva garantir ao cidad\u00e3o brasileiro o sagrado direito \u00e0 leg\u00edtima defesa. Isso n\u00e3o implica dizer que todas as pessoas ter\u00e3o direito a possuir ou portar arma de fogo, mas somente aquelas que cumprirem os requisitos legais.\r\nQue isso fique claro, Sr. Presidente. Qualquer discurso em sentido contr\u00e1rio \u00e9 absolutamente falso, \u00e9 mentiroso.\r\nN\u00f3s devemos garantir, e \u00e9 interesse da popula\u00e7\u00e3o brasileira, o sagrado direito \u00e0 leg\u00edtima defesa.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=158&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DECIS\u00c3O JUDICIAL, DIAS TOFFOLI, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), UNIDADE DE INTELIG\u00caNCIA FINANCEIRA.\r\nDEFESA, APROVA\u00c7\u00c3O, PEC 199/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PRIS\u00c3O, CONDENA\u00c7\u00c3O CRIMINAL, SEGUNDA INST\u00c2NCIA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Revoga\u00e7\u00e3o da decis\u00e3o do Presidente do Supremo Tribunal Federal, Ministro Dias Toffoli, a respeito da comunica\u00e7\u00e3o de crime por parte do Conselho de Controle de Atividades Financeiras  - COAF, atual Unidade de Intelig\u00eancia Financeira. Defesa de aprova\u00e7\u00e3o, pelo Congresso Nacional, de proposta favor\u00e1vel \u00e0 pris\u00e3o de condenados em segunda inst\u00e2ncia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero aqui rapidamente tratar de dois assuntos. O primeiro deles foi a revoga\u00e7\u00e3o, na noite de ontem, da decis\u00e3o do Ministro Dias Toffoli a respeito da comunica\u00e7\u00e3o de crime por parte do COAF, hoje Unidade de Intelig\u00eancia Financeira. Essa decis\u00e3o vem colocar nos trilhos algo que deve efetivamente ocorrer. Em todos os pa\u00edses civilizados do globo terrestre \u00e9 absolutamente comum a comunica\u00e7\u00e3o entre unidades de intelig\u00eancia. Isso deve ser feito no Brasil, em todas as circunst\u00e2ncias, doa a quem doer.\r\nE o segundo ponto se refere \u00e0 necessidade de que esta Casa do Povo resguarde a pris\u00e3o em segunda inst\u00e2ncia. N\u00f3s sabemos que a compet\u00eancia para decidir sobre essa mat\u00e9ria \u00e9, acima de tudo, do Congresso Nacional. O Congresso Nacional tem o poder de dizer a \u00faltima palavra nessa circunst\u00e2ncia. Esperamos poder aprovar brevemente a pris\u00e3o em segunda inst\u00e2ncia neste Parlamento.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-20T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SESS\u00c3O CONJUNTA, CR\u00cdTICA.\r\nCONSTITUI\u00c7\u00c3O FEDERAL (1988), R\u00c9U, CONDENA\u00c7\u00c3O CRIMINAL, CONFIRMA\u00c7\u00c3O, SENTEN\u00c7A CONDENAT\u00d3RIA, SEGUNDA INST\u00c2NCIA, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, APRECIA\u00c7\u00c3O DE PROPOSI\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Protesto contra o resultado de sess\u00e3o do Congresso Nacional. Aprova\u00e7\u00e3o, pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, da admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 199, de 2019,  sobre a transforma\u00e7\u00e3o dos recursos extraordin\u00e1rio e especial em a\u00e7\u00f5es revisionais de compet\u00eancia origin\u00e1ria do Supremo Tribunal Federal e do Superior Tribunal de Justi\u00e7a.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, nesta ocasi\u00e3o, quero lamentar profundamente o que aconteceu na sess\u00e3o anterior do Congresso Nacional, em que, de forma extremamente contraproducente, nada de fato evoluiu. Aqui fica registrado o nosso protesto. As sess\u00f5es conjuntas devem produzir um pouco mais, porque a sociedade brasileira quer e precisa.\r\nAo mesmo tempo em que apresentamos essa vis\u00e3o contraproducente, quero ressaltar o trabalho feito hoje na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a desta C\u00e2mara dos Deputados, onde aprovamos a proposta de emenda constitucional que garante a pris\u00e3o ap\u00f3s a condena\u00e7\u00e3o em segunda inst\u00e2ncia. Esta C\u00e2mara dos Deputados tem buscado fazer o seu papel, tem buscado cumprir cada vez mais a sua miss\u00e3o constitucional. Ap\u00f3s a vota\u00e7\u00e3o de hoje na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a, esperamos que a instala\u00e7\u00e3o da Comiss\u00e3o Especial seja feita brevemente, para que possamos atender aos anseios do povo brasileiro.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F11%2F2019&txPagina=25&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LEI ANTICRIME, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do projeto de lei anticrime, encaminhado \u00e0 Casa pelo Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu gostaria de solicitar na ocasi\u00e3o que paut\u00e1ssemos a urg\u00eancia do pacto anticrime e d\u00e9ssemos andamento a este projeto nesta Casa do Povo. \r\nN\u00f3s compreendemos a apreens\u00e3o em que se encontra a popula\u00e7\u00e3o brasileira e sabemos a necessidade de controlar os crimes, em especial os crimes violentos. Sabemos tamb\u00e9m do trabalho efetivado pelo grupo de trabalho criado para esta finalidade. N\u00f3s acreditamos que o bom senso h\u00e1 de pairar nesta Casa Legislativa e entendemos, em n\u00e3o havendo consenso, a possibilidade de apresentar alguns destaques para chegarmos \u00e0 vers\u00e3o mais original poss\u00edvel que melhor atenda aos interesses da popula\u00e7\u00e3o brasileira.\r\nEste projeto \u00e9 de suma import\u00e2ncia para colocarmos o Pa\u00eds no rumo do enfrentamento da criminalidade.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=276&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, serei extremamente breve nesta minha explana\u00e7\u00e3o, apenas para poder ressaltar a necessidade de, efetivamente, darmos andamento a essa mat\u00e9ria, propiciando \u00e0 sociedade brasileira o resultado t\u00e3o almejado.\r\nEsta Casa do Povo tem buscado o acordo - o acordo poss\u00edvel - neste Parlamento, para que possamos conseguir aprovar o pacote anticrime da melhor maneira poss\u00edvel para a sociedade brasileira.\r\nObviamente, h\u00e1 alguns pontos em que n\u00e3o se chegou a um consenso. Para esses pontos, haver\u00e1 uma discuss\u00e3o posterior, haver\u00e1 um destaque a ser apresentado. Especificamente sobre esse ponto, deixaremos para trat\u00e1-lo de maneira um pouco mais pormenorizada.\r\nEnt\u00e3o, esperamos que o pacote anticrime seja aprovado e que a popula\u00e7\u00e3o brasileira possa ter mais tranquilidade nos seus pr\u00f3ximos dias, especialmente com a redu\u00e7\u00e3o da criminalidade, da percep\u00e7\u00e3o de inseguran\u00e7a e da viol\u00eancia em nosso Pa\u00eds.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=308&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba-B, constante do art. 3\u00ba do Substitutivo oferecido no Projeto de Lei n\u00ba 10.372, de 2018, e, por decorr\u00eancia, dos artigos 3\u00ba-C, 3\u00ba-D, 3\u00ba-E e 3\u00ba-F, para fins de supress\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, ao tempo em que cumprimento todos os colegas aqui presentes por aprovarem de fato o projeto anticrime, iniciado pelo Ministro Alexandre de Moraes, complementado pelo atual Ministro Sergio Moro, gostar\u00edamos de fazer a defesa contundente desse destaque. E fazemos isso n\u00e3o especificamente porque a mat\u00e9ria n\u00e3o seria boa para ser discutida por esta Casa do Povo, mas por compreendermos, com uma clareza de quem trabalha com essa mat\u00e9ria h\u00e1 22 anos, de quem \u00e9 doutor em Direito Constitucional, que no Brasil n\u00e3o \u00e9 poss\u00edvel aplicar, neste momento, o ju\u00edzo das garantias.\r\nE n\u00e3o \u00e9 poss\u00edvel por qu\u00ea, Sr. Presidente, Sras. e Srs. Deputados? Simplesmente por uma realidade factual insuper\u00e1vel: n\u00e3o h\u00e1 ju\u00edzes suficientes em nosso Pa\u00eds. N\u00e3o \u00e9 poss\u00edvel aplicar essa realidade do ju\u00edzo de garantia que foi colocada no texto - e me perdoem a franqueza - sem qualquer audi\u00eancia p\u00fablica.\r\nSr. Presidente, Sras. e Srs. Deputados, precisamos ter responsabilidade com o dinheiro do povo e saber que a substitui\u00e7\u00e3o de um juiz em outra comarca, al\u00e9m de n\u00e3o prestar jurisdi\u00e7\u00e3o efetiva, \u00e9 completamente ineficaz, \u00e9 completamente ineficiente.\r\nVejo aqui o meu amigo Deputado Arthur Lira. Grande Deputado Artur, observamos que a imensa maioria das nossas comarcas n\u00e3o possuem ju\u00edzes. Ent\u00e3o, n\u00e3o \u00e9 vi\u00e1vel aplicarmos o ju\u00edzo de garantia neste momento. O que pedimos a este Parlamento? Que essa quest\u00e3o possa ser discutida com mais profundidade quando da discuss\u00e3o em torno do C\u00f3digo de Processo Penal.\r\nIsso \u00e9 serenidade, isso \u00e9 fazer aquilo que realmente \u00e9 melhor para o nosso Pa\u00eds, n\u00e3o porque a mat\u00e9ria n\u00e3o seja relevante, n\u00e3o porque a mat\u00e9ria n\u00e3o seja importante, mas porque ela representa, neste momento, com o devido respeito ao Grupo Trabalho, um jabuti - algo t\u00e3o recha\u00e7ado por esta Casa -, que foi colocado de \u00faltima hora, sem audi\u00eancia p\u00fablica, sem uma discuss\u00e3o aprofundada com o povo brasileiro.\r\nEnt\u00e3o, por esse motivo, sendo absolutamente pragm\u00e1tico, sendo muito pr\u00e1tico na discuss\u00e3o da mat\u00e9ria, conclamo os nossos colegas Deputados, com a responsabilidade de quem trabalha com isso h\u00e1 pelo menos 22 anos, a votarem favoravelmente ao destaque e \"n\u00e3o\" ao texto que estabelece o ju\u00edzo de garantia, por ser essa a melhor realidade para o nosso Pa\u00eds no momento.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=340&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LEI, QUANTIDADE. \r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, LEI ANTICRIME. \r\nREFORMA ADMINSTRATIVA, PACTO FEDERATIVO.\r\nEXTIN\u00c7\u00c3O, MUNICIPIO, FORO PRIVILEGIADO.\r\nPRIS\u00c3O, EXECU\u00c7\u00c3O PENAL, SEGUNDA INST\u00c2NCIA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Excessiva elabora\u00e7\u00e3o de leis nas tr\u00eas esferas governamentais. Import\u00e2ncia da aprova\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social e do Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal. Necessidade de realiza\u00e7\u00e3o das reformas administrativa, pol\u00edtica e do pacto federativo. Necessidade de redu\u00e7\u00e3o da representatividade parlamentar nos Poderes Legislativos. Apoio \u00e0 proposta governamental de redu\u00e7\u00e3o do n\u00famero de municipalidades brasileiras. Imediata extin\u00e7\u00e3o do foro privilegiado. Defesa da pris\u00e3o de condenados em segunda inst\u00e2ncia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, subo a esta tribuna da C\u00e2mara para chamar a aten\u00e7\u00e3o especialmente para o excesso de leis que s\u00e3o produzidas em nosso Pa\u00eds. Desde a Constitui\u00e7\u00e3o Federal de 1988, n\u00f3s tivemos, nas tr\u00eas esferas, Municipal, Estadual e Federal, cerca de 5,4 milh\u00f5es de leis em nossa Na\u00e7\u00e3o. O n\u00famero \u00e9 absurdo!\r\nO que quero dizer com isso, Sra. Presidente, Sras. e Srs. Deputados, \u00e9 que realmente esta Casa do Povo precisa se debru\u00e7ar sobre iniciativas legislativas que, de fato, conduzam a popula\u00e7\u00e3o brasileira ao caminho do bem, ao caminho da seguran\u00e7a, ao caminho da tranquilidade e da prosperidade.\r\nUm dos pontos que gostaria de ressaltar que esta Casa bem andou foi a reforma previdenci\u00e1ria, seguida h\u00e1 pouco do pacote anticrime do Ministro S\u00e9rgio Moro, que dever\u00e1 seguir agora para o Senado da Rep\u00fablica. Contudo, outras reformas se fazem extremamente necess\u00e1rias e precisam ser enfrentadas por esta Casa. Refiro-me aqui \u00e0 reforma administrativa, refiro-me \u00e0 revis\u00e3o do pacto federativo, mas tamb\u00e9m n\u00e3o deixo de trazer \u00e0 baila, Sra. Presidente, Sras. e Srs. Deputados, uma verdadeira reforma pol\u00edtica que encare de frente aquilo que o povo brasileiro quer. \r\nObservo que h\u00e1 um excesso de Deputados na C\u00e2mara dos Deputados e h\u00e1 um n\u00famero exacerbado de Senadores em nossa Rep\u00fablica. Ent\u00e3o, precisamos trabalhar na redu\u00e7\u00e3o do n\u00famero de Parlamentares nas tr\u00eas esferas em nosso Pa\u00eds.\r\nH\u00e1 excesso de cargos em nossa Rep\u00fablica. \r\nCom a proposta do Ministro Paulo Guedes de reforma do pacto federativo, poderemos, inclusive, reduzir o n\u00famero de Munic\u00edpios, o que far\u00e1 com que, sem d\u00favida alguma, os recursos possam chegar, fundo a fundo, atendendo aos interesses da sociedade brasileira. \r\n\u00c9 preciso trabalharmos com o fim, urgente e imediato, do foro privilegiado. Tamb\u00e9m precisamos aprovar a pris\u00e3o em segunda inst\u00e2ncia, Sra. Presidente, Srs. Deputados, atendendo, assim, aos interesses da sociedade brasileira.\r\nEnt\u00e3o, repito, se queremos dar a resposta que o povo brasileiro quer e espera, teremos que mexer em temas verdadeiramente pol\u00eamicos, sem deixar de lado a t\u00e3o esperada, t\u00e3o almejada reforma pol\u00edtica, que discuta, inclusive, a nossa zona de conforto, reduzindo, se necess\u00e1rio, o n\u00famero de Deputados e o mandato de Senador de 8 para 4 anos.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=70&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CAIXA ECON\u00d4MICA FEDERAL (CEF), SUPERINTEND\u00caNCIA, MINAS GERAIS, MONTES CLAROS (MG), FECHAMENTO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Protesto contra o fechamento de Superintend\u00eancias da Caixa Econ\u00f4mica Federal no Estado de Minas Gerais, especialmente no Munic\u00edpio de Montes Claros.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, registro a preocupa\u00e7\u00e3o que estamos tendo em Minas Gerais com o fechamento de superintend\u00eancias da Caixa Econ\u00f4mica Federal.\r\nFa\u00e7o um apelo contundente na C\u00e2mara dos Deputados, at\u00e9 para que seja divulgado no programa A Voz do Brasil. Dizemos n\u00e3o ao fechamento da superintend\u00eancia da Caixa Econ\u00f4mica Federal no norte de Minas, particularmente em Montes Claros, uma das regi\u00f5es do Estado de Minas Gerais mais afetadas pela seca.\r\nA Caixa Econ\u00f4mica Federal adota pol\u00edticas de governo. Por essa raz\u00e3o, a sua superintend\u00eancia n\u00e3o pode ser fechada no interior de Minas Gerais, particularmente em Montes Claros, uma das regi\u00f5es mais carentes daquele Estado. \u00c9 preciso executar pol\u00edticas p\u00fablicas, e a Caixa tem atuado efetivamente para essa execu\u00e7\u00e3o.\r\nPortanto, Sr. Presidente, n\u00e3o ao fechamento da Caixa em Montes Claros, Minas Gerais!\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DELEGADO MARCELO FREITAS, DEPUTADO FEDERAL, RECURSOS OR\u00c7AMENT\u00c1RIOS, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, CIRURGIA ELETIVA, MONTE CLAROS (MG),\r\nSA\u00daDE, EDUCA\u00c7\u00c3O, SEGURAN\u00c7A P\u00daBLICA, DEFESA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Destina\u00e7\u00e3o pelo orador de recursos de emendas or\u00e7ament\u00e1rias para a realiza\u00e7\u00e3o de cirurgias eletivas no Munic\u00edpio de Montes Claros e na macrorregi\u00e3o norte do Estado de Minas Gerais. Comprometimento do Parlamentar com as \u00e1reas de sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero aqui ressaltar uma situa\u00e7\u00e3o bem peculiar que ocorre no norte do Estado de Minas Gerais.\r\nTemos observado, ao longo de quase uma d\u00e9cada, as enormes filas da sa\u00fade que se formam no interior do Estado de Minas Gerais, particularmente de pacientes que aguardam cirurgias eletivas e aguardam, por consequ\u00eancia, a propalada chamada \"consulta W\". \u00c9 uma legi\u00e3o de sequelados, Sr. Presidente, Sras. e Srs. Deputados.\r\nO Sistema \u00danico de Sa\u00fade n\u00e3o tem funcionado da maneira como gostar\u00edamos que efetivamente funcionasse. Por essa raz\u00e3o, estamos liberando de nossas emendas individuais cerca de 6 milh\u00f5es de reais para que possamos resolver o problema das filas dos pacientes que aguardam cirurgias eletivas em toda a cidade de Montes Claros e na macrorregi\u00e3o do norte de Minas, particularmente nas \u00e1reas de neurologia, urologia e ortopedia. Na regi\u00e3o de Montes Claros, toda a fila da sa\u00fade, toda a fila de cirurgias eletivas ser\u00e1, de fato, resolvida. \r\nEu costumo trazer \u00e0 cola\u00e7\u00e3o, em momentos como este, Presidente, a fala de Gon\u00e7alves Dias, em sua Can\u00e7\u00e3o do Tamoio, que bem reflete a realidade do norte mineiro:\r\nN\u00e3o chores meu filho;\r\nN\u00e3o chores, que a vida\r\n\u00c9 luta renhida:\r\nViver \u00e9 lutar.\r\nA vida \u00e9 combate,\r\nQue os fracos abate,\r\nQue os fortes, os bravos\r\nS\u00f3 pode exaltar.\r\nComo norte-mineiro que sou, certamente n\u00e3o deixarei o meu povo sem assist\u00eancia \u00e0 sa\u00fade, sem a assist\u00eancia m\u00e9dica devida. Por esse motivo, repito, parcela consider\u00e1vel de nossas emendas individuais ser\u00e1 destinada \u00e0 sa\u00fade p\u00fablica, para atender particularmente aqueles que sofrem, aqueles que n\u00e3o t\u00eam condi\u00e7\u00e3o de ter um atendimento m\u00e9dico condigno.\r\nPor isso o nosso desejo de acabar plenamente com todas as filas daqueles que aguardam cirurgia em nosso Estado, Minas Gerais, especialmente no norte de Minas. N\u00e3o mediremos esfor\u00e7os para que n\u00e3o haja nenhum sequelado em virtude da aus\u00eancia de atendimento m\u00e9dico. Precisamos melhorar a sa\u00fade de nosso Pa\u00eds e a sa\u00fade no Estado de Minas Gerais! \r\nTamb\u00e9m damos aten\u00e7\u00e3o especial \u00e0 educa\u00e7\u00e3o e \u00e0 seguran\u00e7a p\u00fablica de Minas Gerais. Aqueles que l\u00e1 se encontram podem contar com toda a nossa firme atua\u00e7\u00e3o para evitar mais dificuldades na sa\u00fade, na educa\u00e7\u00e3o e, particularmente, na seguran\u00e7a p\u00fablica.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SECA, MINAS GERAIS, REGI\u00c3O NORDESTE, INVESTIMENTO, GOVERNO, CHUVA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Necessidade de realiza\u00e7\u00e3o de investimentos maci\u00e7os em a\u00e7\u00f5es de combate aos efeitos da seca no norte do Estado de  Minas Gerais e no Nordeste brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, enquanto observamos as terr\u00edveis chuvas, que realmente geram um estrago terr\u00edvel em nosso Pa\u00eds, eu gostaria de chamar a aten\u00e7\u00e3o para a seca que historicamente assola especialmente o norte de Minas Gerais.\r\nQueria, Presidente, deixar registrada a necessidade de chamarmos a aten\u00e7\u00e3o n\u00e3o s\u00f3 para a quest\u00e3o das chuvas, mas tamb\u00e9m para o enfrentamento \u00e0 seca. O norte de Minas e o Nordeste brasileiro historicamente enfrentam esse problema. Precisamos ter um olhar muito cuidadoso para essa tem\u00e1tica.\r\nO que objetivamos fazer? Investimentos maci\u00e7os para trazer \u00e0 realidade do povo norte-mineiro e nordestino obras impactantes, e n\u00e3o somente a entrega hist\u00f3rica de canos, caixas-d'\u00e1gua, ambul\u00e2ncias e tratores. \u00c9 isso que esperamos que seja feito no norte de Minas e no Nordeste brasileiro.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-03T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FAVOR\u00c1VEL, VETO 52/2019, VETO PARCIAL, PLN 51/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, ALTERA\u00c7\u00c3O, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO), OR\u00c7AMENTO IMPOSITIVO, OR\u00c7AMENTO FEDERAL, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Defesa de manuten\u00e7\u00e3o do Veto Parcial n\u00ba 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 51, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, acerca das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Sr. Presidente, quero deixar clara a nossa posi\u00e7\u00e3o com rela\u00e7\u00e3o ao Veto n\u00ba 52, de 2019.\r\nEspecialmente ap\u00f3s as Emendas Constitucionais n\u00bas 86, 100 e 106, o Or\u00e7amento p\u00fablico tornou-se praticamente impositivo. N\u00e3o faz, portanto, Sr. Presidente, Sras. e Srs. Deputados, o menor sentido deixarmos \u00e0 disposi\u00e7\u00e3o do relator-geral do Or\u00e7amento e das Comiss\u00f5es definitivas desta Casa cerca de 30 bilh\u00f5es de reais. Certamente, isso ir\u00e1 dificultar sobremaneira a execu\u00e7\u00e3o do Or\u00e7amento p\u00fablico por parte do Poder Executivo, por parte do Presidente Jair Bolsonaro.\r\nPor essa raz\u00e3o, Sr. Presidente, sendo bastante coerente com as posi\u00e7\u00f5es que sempre assumi nesta Casa, entendo que o Veto n\u00ba 52, de 2019, deve ser mantido pelos Srs. Deputados e Srs. Senadores.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba-G, da Lei n\u00ba 10.260, de 2001, alterado pelo art. 1\u00ba, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079 de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, para suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, com vista \u00e0 sua rejei\u00e7\u00e3o e consequente restabelecimento do dispositivo equivalente no texto aprovado pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s compreendemos claramente que o texto do Senado \u00e9 um texto mais consent\u00e2neo com a realidade do nosso Pa\u00eds. \r\nN\u00f3s sa\u00edmos dos atuais 3 bilh\u00f5es de reais para 4,5 bilh\u00f5es de reais para o Fundo Garantidor do FIES. Desta maneira, o PSL compreende que esta proposta \u00e9 a mais acertada.\r\nO PSL orienta \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=109&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para manuten\u00e7\u00e3o da supress\u00e3o do \u00a7 2\u00ba, art. 15-D, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079 de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, com vista \u00e0 suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL compreende o valor da educa\u00e7\u00e3o para o nosso Pa\u00eds, mas tamb\u00e9m percebe que todo gasto p\u00fablico deve ser feito com responsabilidade. No caso espec\u00edfico, a altera\u00e7\u00e3o feita pelo Senado limita o FIES aos cursos definidos pelo comit\u00ea gestor. Neste caso, n\u00f3s entendemos que devemos restabelecer o texto da C\u00e2mara dos Deputados.\r\nPortanto, o PSL orienta \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-01T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PEC 18/2020, PROPOSTA DE EMENA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 4\u00ba do art. 1\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, a respeito do adiamento das elei\u00e7\u00f5es municipais de 2020, em decorr\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus, declarada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, conforme esclarecido por V.Exa., neste destaque, inicialmente a nossa orienta\u00e7\u00e3o seria \"sim\", no sentido de manter o texto origin\u00e1rio. Por\u00e9m, tendo em vista as pondera\u00e7\u00f5es apresentadas por V.Exa. no sentido de que a eventual supress\u00e3o do \u00a7 4\u00ba poder\u00e1 ser corrigida por emenda de reda\u00e7\u00e3o ao \u00a7 5\u00ba, o PSL orienta \"n\u00e3o\", para acolher essa emenda supressiva e podermos de fato alterar no \u00a7 5\u00ba, conforme foi proposto pelo Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2020&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-01T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 18/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), DISCIPLINAMENTO, ADIAMENTO, ELEI\u00c7\u00c3O MUNICIPAL, CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, a respeito do adiamento das elei\u00e7\u00f5es municipais de 2020, em decorr\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus, declarada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Agora, sim. Tive uma dificuldade enorme para conseguir abrir o som. \r\nPresidente, queria parabenizar esta Casa, os nobres pares, os nobres Deputados em virtude do consenso das maiorias encontrado para que, de fato, apresentemos \u00e0 popula\u00e7\u00e3o brasileira o que \u00e9 consent\u00e2neo com a realidade da ci\u00eancia e com aquilo que m\u00e9dicos e especialistas t\u00eam dito.\r\nEspecialmente no per\u00edodo do outono e do inverno, a transmiss\u00e3o dos v\u00edrus todos aumenta consideravelmente. Por essa raz\u00e3o, Presidente, embora acredit\u00e1ssemos, num primeiro momento, que o dia 4 seria a melhor data para as elei\u00e7\u00f5es, entendemos que a C\u00e2mara dos Deputados deveria seguir o que foi iniciado no Senado e trabalhar de maneira harmoniosa com os interesses do povo brasileiro.\r\nNesse sentido, Presidente, compreendemos como extremamente positiva e salutar a aprova\u00e7\u00e3o da PEC 18/20, adiando as elei\u00e7\u00f5es para os dias 15 de novembro e 29 de novembro.\r\nParab\u00e9ns a V.Exa. e a esta Casa do Povo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2020&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-08T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 925/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.\r\nFALTA, MEDICAMENTO, PANDEMIA, CORONAV\u00cdRUS, MONTES CLAROS (MG).",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 27, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 925, de 2020, sobre as medidas emergenciais para a avia\u00e7\u00e3o civil brasileira diante da pandemia de coronav\u00edrus. Falta de sedativos e anest\u00e9sicos em unidades de sa\u00fade do Estado de Minas Gerais, notadamente no Munic\u00edpio de Montes Claros.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSL vota em favor da manuten\u00e7\u00e3o do texto do Relator, e por esse motivo a orienta\u00e7\u00e3o \u00e9 \"n\u00e3o\".\r\nSr. Presidente, nesta ocasi\u00e3o eu gostaria de ressaltar um problemas que temos enfrentado em todo o Estado de Minas Gerais, raz\u00e3o pela qual temos sido demandados por diversos Prefeitos de todo aquele bel\u00edssimo Estado, particularmente, o Prefeito de Montes Claros, Humberto Souto, com rela\u00e7\u00e3o \u00e0 aus\u00eancia de sedativos e anest\u00e9sicos.\r\nEsta C\u00e2mara tem que dar a devida aten\u00e7\u00e3o a isso para que, de fato, nosso Pa\u00eds n\u00e3o pare e n\u00e3o deixe as pessoas morrerem \u00e0 m\u00edngua. Ent\u00e3o precisamos dar aten\u00e7\u00e3o \u00e0 falta de anest\u00e9sicos e sedativos que est\u00e1 ocorrendo no Pa\u00eds. Esses anest\u00e9sicos e sedativos n\u00e3o est\u00e3o chegando \u00e0 ponta, n\u00e3o est\u00e3o conseguindo atender os hospitais, que, por esse motivo, n\u00e3o podem mais fazer nenhum tipo de cirurgia, inclusive cirurgia de urg\u00eancia.\r\nRessalto esta preocupa\u00e7\u00e3o e conto com o apoio dos colegas para que possamos superar esse entrave.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2020&txPagina=162&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-20T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 735/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 735, de 2020, a respeito da concess\u00e3o de abono pecuni\u00e1rio a feirantes e agricultores familiares, em isolamento social ou quarentena decorrente da pandemia de coronav\u00edrus, consoante \u00e0 Lei n\u00ba 13.979, de 2020, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, essa mat\u00e9ria \u00e9 extremamente relevante para o Partido Social Liberal.\r\nAo tempo em que cumprimento o eminente Relator, meu colega e amigo Deputado Z\u00e9 Silva, gostaria de ressaltar a preocupa\u00e7\u00e3o que temos em fortalecer cada vez mais a agricultura familiar no Pa\u00eds. \r\nPresidente, sou egresso da zona rural do Estado de Minas Gerais, mais precisamente do distrito de Vila Nova de Minas, e compreendo como poucos a relev\u00e2ncia de fortalecer o agricultor, de fortalecer aquela pessoa que, de fato, sobrevive \u00e0 custa do suor de seu corpo.\r\nNesse sentido, Sr. Presidente, Srs. Deputados, o PSL orienta \"sim\" ao texto do eminente Relator e amigo Deputado Z\u00e9 Silva.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F7%2F2020&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-20T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA,  VOTA\u00c7\u00c3O POR ARTIGO, PL 4731/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei n\u00ba 4.731, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.088, de 1974, com vista \u00e0 inclus\u00e3o da Bacia do Rio Araguari e das demais bacias dos Estados do Amap\u00e1, do Amazonas e do Par\u00e1 na \u00e1rea de abrang\u00eancia da Companhia de Desenvolvimento dos Vales do S\u00e3o Francisco e do Parna\u00edba - CODEVASF.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, compreendemos o papel relevante que a CODEVASF desempenha em nosso Pa\u00eds e compreendemos tamb\u00e9m todo o trabalho que foi desenvolvido pelo Relator, o eminente Deputado Silvio Costa Filho.\r\nEntendemos que a CODEVASF pode, sim, ser ampliada, para executar as pol\u00edticas p\u00fablicas. N\u00f3s, que sabemos muito bem quem \u00e9 o atual Presidente da companhia, compreendemos, com clareza, a atua\u00e7\u00e3o da CODEVASF, particularmente no Estado de Minas Gerais e na minha cidade de Montes Claros, onde sou majorit\u00e1rio.\r\nCompreendemos que \u00e9 importante tamb\u00e9m, como de fato o Relator acatou, a inclus\u00e3o dos Vales do Jequitinhonha e do Mucuri e da regi\u00e3o do Alto Rio Pardo.\r\nPor esse motivo, n\u00f3s parabenizamos o eminente Relator e orientamos \"n\u00e3o\" ao requerimento de vota\u00e7\u00e3o artigo por artigo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F7%2F2020&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, nesta noite de alegrias eu queria iniciar a minha fala citando Immanuel Kant: \"O homem n\u00e3o \u00e9 nada al\u00e9m daquilo que a educa\u00e7\u00e3o faz dele\".\r\nHoje, Sr. Presidente, eu gostaria de cumprimentar V.Exa. pela condu\u00e7\u00e3o dos trabalhos nesta C\u00e2mara dos Deputados. Quero cumprimentar a eminente Relatora, a Deputada Professora Dorinha, pelo brilhante relat\u00f3rio. Certamente, a aprova\u00e7\u00e3o do FUNDEB trar\u00e1 novos rumos para a educa\u00e7\u00e3o p\u00fablica do Pa\u00eds.\r\nCertamente, a aprova\u00e7\u00e3o do FUNDEB trar\u00e1 novos rumos para a educa\u00e7\u00e3o p\u00fablica do Pa\u00eds. A educa\u00e7\u00e3o p\u00fablica brasileira est\u00e1 sendo colocada num patamar que certamente vai permitir que crian\u00e7as e adolescentes possam ser conduzidos pelo melhor caminho. Com diz a B\u00edblia, nos Prov\u00e9rbios de Salom\u00e3o, \"instrui o menino no caminho em que deve seguir, e at\u00e9 quando envelhecer n\u00e3o se desviar\u00e1 dele\".\r\nCertamente, Sr. Presidente, Sras. e Srs. Deputados, o que esta Casa do Povo objetiva \u00e9 propiciar educa\u00e7\u00e3o de qualidade para milh\u00f5es de crian\u00e7as brasileiras. A prorroga\u00e7\u00e3o do FUNDEB - o fundo venceria no dia 31 de dezembro deste ano - certamente trar\u00e1 alegria a in\u00fameras fam\u00edlias que acreditam na educa\u00e7\u00e3o como \u00fanica sa\u00edda para a reconstru\u00e7\u00e3o de um pa\u00eds.\r\nPresidente, pe\u00e7o que o restante do tempo da Lideran\u00e7a do PSL seja concedido \u00e0 Deputada Professora Dayane Pimentel, eminente educadora que tem feito um brilhante trabalho em prol da educa\u00e7\u00e3o no Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-25T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ANT\u00d4NIO ALVIMAR, PADRE, REITOR, UNIVERSIDADE ESTADUAL DE MONTES CLAROS (UNIMONTES), SOLIDARIEDADE.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Solidariedade ao Reitor da Universidade Estadual de Montes Claros - UNIMONTES, Padre Ant\u00f4nio Alvimar, diante de ataques desferidos por professores sindicalistas durante reuni\u00e3o do Conselho Universit\u00e1rio  - CONSU.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, gostaria de fazer uma considera\u00e7\u00e3o muito relevante sobre uma reuni\u00e3o que ocorreu recentemente em Montes Claros, Estado de Minas Gerais, particularmente na Universidade Estadual de Montes Claros, a nossa querida UNIMONTES, em que o Reitor, Padre Ant\u00f4nio Alvimar, ao presidir uma reuni\u00e3o do CONSU - Conselho Universit\u00e1rio, foi absurdamente atacado no exerc\u00edcio da reitoria.\r\nProfessores que realmente se utilizavam das suas fun\u00e7\u00f5es para exercitar o sindicalismo do mais baixo n\u00edvel agrediram o reitor da UNIMONTES quando este fazia uma defesa contundente e veemente da institui\u00e7\u00e3o universit\u00e1ria. Todos sabemos que a universidade det\u00e9m autonomia, mas \u00e9 importante que o reitor de uma universidade exer\u00e7a sua fun\u00e7\u00e3o com sabedoria, dialogando com todos os atores do Estado, com os atores do Minist\u00e9rio da Educa\u00e7\u00e3o, independentemente da posi\u00e7\u00e3o pol\u00edtico-ideol\u00f3gica. E \u00e9 isso o que o reitor da Universidade Estadual de Montes Claros tem feito, superando os entraves sindicais e buscando efetivamente um di\u00e1logo institucional em favor da universidade.\r\nRegistro, Presidente, que a discuss\u00e3o tamb\u00e9m girou em torno da reforma da Previd\u00eancia no Estado de Minas Gerais. N\u00e3o h\u00e1 uma s\u00f3 pessoa consciente no Pa\u00eds que n\u00e3o compreenda a relev\u00e2ncia da reforma da Previd\u00eancia, j\u00e1 aprovada no Senado Federal e que, certamente, dever\u00e1 ser aprovada no cen\u00e1rio do Estado de Minas Gerais.\r\nPortanto, ao Reitor da Universidade Estadual de Minas Gerais, Padre Ant\u00f4nio Alvimar, os nossos mais sinceros cumprimentos e votos de que a universidade possa crescer e prosperar cada vez mais, com di\u00e1logo institucional. \u00c9 isso o que realmente refor\u00e7a a pol\u00edtica que deve nortear as rela\u00e7\u00f5es entre os agentes pol\u00edticos do Pa\u00eds.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F8%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-25T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.919, de 2019, sobre a cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSL compreende que a presta\u00e7\u00e3o da tutela jurisdicional efetiva \u00e9 um direito fundamental em nosso Pa\u00eds. Mas isso n\u00e3o tem ocorrido, particularmente na jurisdi\u00e7\u00e3o do Tribunal Regional Federal da 1\u00aa Regi\u00e3o.\r\nEssa mat\u00e9ria, portanto, \u00e9 essencial para o Estado de Minas Gerais, Presidente.\r\nA fala do nosso amigo, Deputado Marcel, n\u00e3o condiz com a verdade. O que est\u00e1 havendo \u00e9 uma realoca\u00e7\u00e3o de cerca de 20 cargos vagos de Juiz federal para 18 cargos de Desembargador, sem aumento de custos no Projeto n\u00ba 5.919.\r\nPortanto, Sr. Presidente, o PSL entende que essa mat\u00e9ria est\u00e1 pronta para ser votada e orienta o voto \"n\u00e3o\" ao requerimento de retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F8%2F2020&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-25T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, TRIBUNAL REGIONAL FEDERAL DA SEXTA REGI\u00c3O, SEDE, BELO HORIZONTE (MG), JURISDI\u00c7\u00c3O, MINAS GERAIS, JUSTI\u00c7A FEDERAL, SEGUNDA INST\u00c2NCIA, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Defesa da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 5.919, de 2019, acerca da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, a mat\u00e9ria aqui trazida \u00e0 vota\u00e7\u00e3o, nesta C\u00e2mara dos Deputados, \u00e9 essencial para o Estado de Minas Gerais.\r\nPresidente, primeiro, eu queria trazer \u00e0 cola\u00e7\u00e3o as palavras de Rui Barbosa: \"Justi\u00e7a tardia nada mais \u00e9 do que injusti\u00e7a institucionalizada\". A jurisdi\u00e7\u00e3o \u00e9 o dever que o Estado tem de dizer o direito no caso concreto que lhe \u00e9 submetido. E n\u00f3s sabemos que o Tribunal Regional Federal da 1\u00aa Regi\u00e3o, haja vista o percentual de congestionamento que existe em seus julgados, de fato n\u00e3o tem prestado efetiva jurisdi\u00e7\u00e3o.\r\nQueria aqui dar um testemunho, Presidente, de quem \u00e9 delegado de Pol\u00edcia Federal e que atuou, nas 2 \u00faltimas d\u00e9cadas, diretamente vinculado ao Tribunal Regional Federal da 1\u00aa Regi\u00e3o. \u00c9 inaceit\u00e1vel, Sr. Presidente, \u00e9 inconceb\u00edvel que continuemos a viver sob a batuta de um Tribunal Regional Federal que n\u00e3o consegue prestar efetiva justi\u00e7a. E n\u00e3o \u00e9 porque os seus julgadores n\u00e3o estejam trabalhando.\r\nN\u00e3o \u00e9 isso. \u00c9 que o Tribunal Regional Federal da 1\u00aa Regi\u00e3o contempla hoje cerca de 13 Estados, al\u00e9m do Distrito Federal, acobertando cerca de 80% do territ\u00f3rio nacional. Este fato, por si s\u00f3, j\u00e1 seria suficiente para dizer que o jurisdicionado n\u00e3o tem acesso aos desembargadores que comp\u00f5em o Tribunal Regional Federal da 1\u00aa Regi\u00e3o.\r\nN\u00f3s sabemos que a Emenda Constitucional n\u00ba 45, de 2004, determinou, em nosso ordenamento jur\u00eddico, a razo\u00e1vel dura\u00e7\u00e3o do processo. Essa \u00e9 uma garantia fundamental, estabelecida no art. 5\u00ba de nossa Constitui\u00e7\u00e3o Federal. A razo\u00e1vel dura\u00e7\u00e3o do processo n\u00e3o tem acontecido, Sr. Presidente.\r\n\u00c9 crucial que os Srs. Deputados que nos acompanham tenham absoluta convic\u00e7\u00e3o de que essa mat\u00e9ria \u00e9 essencial para aquela senhora mais simples que depende do seu benef\u00edcio previdenci\u00e1rio, para aquele policial federal que est\u00e1 l\u00e1 na ponta aguardando a decis\u00e3o do Tribunal Regional Federal sobre um caso que pode gerar o desvio de milh\u00f5es de reais de verbas p\u00fablicas. Portanto, Sr. Presidente, essa mat\u00e9ria \u00e9 essencial para o Estado de Minas Gerais.\r\n \u00c0 guisa de considera\u00e7\u00e3o, o TRF da 1\u00aa Regi\u00e3o tem 2,8 milh\u00f5es de processos em andamento. Grande parte - a\u00ed contradizendo o que disse o nosso colega Deputado do NOVO - est\u00e1 na primeira inst\u00e2ncia, Sr. Presidente. S\u00e3o 851 mil processos s\u00f3 em Minas Gerais. Isso representa 30% dos processos que se encontram em andamento no Tribunal Regional Federal da 1\u00aa Regi\u00e3o. Temos, no TRF da 1\u00aa Regi\u00e3o, 26 mil processos por desembargador. Esse n\u00famero \u00e9 260% superior ao dos demais desembargadores, que comp\u00f5em o TRF da 2\u00aa, 3\u00aa, 4\u00aa e 5\u00aa Regi\u00e3o. Os n\u00fameros falam por si s\u00f3, Sr. Presidente.\r\n\u00c9 relevante tamb\u00e9m ressaltar que a composi\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o se far\u00e1 com a convers\u00e3o de 20 cargos vagos de juiz federal substituto em 18 cargos de desembargador federal. N\u00e3o haver\u00e1 impacto or\u00e7ament\u00e1rio imediato, porque ser\u00e1 feita a realoca\u00e7\u00e3o de im\u00f3veis e o aproveitamento de servidores. Isso somente ser\u00e1 implementado, Presidente, ap\u00f3s o decreto de calamidade p\u00fablica.\r\nFa\u00e7o um pedido aos meus colegas Deputados. Essa mat\u00e9ria \u00e9 essencial para o jurisdicionado que est\u00e1 vinculado ao Tribunal Regional Federal da 1\u00aa Regi\u00e3o, \u00e9 essencial para o povo mineiro, que tem sofrido em virtude de uma presta\u00e7\u00e3o jurisdicional que n\u00e3o ocorre em tempo e modo devido.\r\nRepito: \u00e9 uma garantia inerente ao cidad\u00e3o, \u00e9 um direito fundamental a razo\u00e1vel dura\u00e7\u00e3o do processo estabelecida no art. 5\u00ba da Constitui\u00e7\u00e3o Federal. Relembro, Sr. Presidente, por fim, que jurisdi\u00e7\u00e3o efetiva representa menos custos \u00e0 Uni\u00e3o. N\u00f3s sabemos os custos que representam processos parados nas prateleiras do Poder Judici\u00e1rio.\r\nPortanto, Sr. Presidente, Sras. e Srs. Deputados, se queremos fazer um bem \u00e0 Na\u00e7\u00e3o, se queremos fazer um bem ao povo mineiro, devemos efetivamente aprovar o relat\u00f3rio apresentado pelo eminente Deputado F\u00e1bio Ramalho, a quem rendemos todas as honras e os nossos mais efusivos cumprimentos.\r\nObrigado, Sr. Presidente, Sras. e Srs. Deputados,",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F8%2F2020&txPagina=201&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-02T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MINAS GERAIS, AUTONOMIA ADMINISTRATIVA, AUTONOMIA POL\u00cdTICA, ANIVERS\u00c1RIO.\r\nCORONAV\u00cdRUS, PANDEMIA, MORTALIDADE, REDU\u00c7\u00c3O, MINAS GERAIS.\r\nSEGURAN\u00c7A P\u00daBLICA, POL\u00cdCIA, MINAS GERAIS, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Transcurso do terceiro centen\u00e1rio da autonomia pol\u00edtico-administrativa do Estado de Minas Gerais. Redu\u00e7\u00e3o do n\u00famero de \u00f3bitos e contaminados por coronav\u00edrus no Estado. Compet\u00eancia da pol\u00edcia mineira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, agrade\u00e7o a oportunidade que me \u00e9 ofertada neste momento e quero somar coro \u00e0s palavras do meu amigo, Deputado Federal Charlles Evangelista.\r\nO dia 2 de dezembro de 2020 nos faz rememorar o dia 2 de dezembro de 1720, quando D. Jo\u00e3o V, de fato, concedeu a emancipa\u00e7\u00e3o administrativa ao nosso querido Estado de Minas Gerais.\r\nHoje, Sr. Presidente, Sras. e Srs. Deputados, \u00e9 dia de comemorar a exist\u00eancia administrativa do nosso querido Estado de Minas Gerais.\r\nSabemos das enormes dificuldades pelas quais passamos, mas temos in\u00fameras conquistas que gostar\u00edamos de dividir com o povo mineiro. Especialmente no enfrentamento \u00e0 pandemia do coronav\u00edrus, n\u00f3s temos tido, a cada dia, queda no n\u00famero de casos e no n\u00famero de \u00f3bitos.\r\nGostar\u00edamos tamb\u00e9m de dividir que, como disse meu amigo Charlles Evangelista, Minas Gerais \u00e9 um dos Estados mais seguros de nosso Pa\u00eds. Temos a gloriosa Pol\u00edcia Militar, a Pol\u00edcia Civil, a Pol\u00edcia Federal atuante, o que nos faz acreditar cada vez mais que Minas tende a continuar no caminho do crescimento e da prosperidade.\r\nAos mineiros, o nosso sincero recado nesses 300 anos das nossas queridas Minas Gerais, no sentido de que n\u00e3o lhes faltar\u00e1 trabalho honesto e \u00edntegro para que a popula\u00e7\u00e3o mineira seja cada vez mais bem atendida, especialmente pelo Governo Federal e pelo nosso Governador Romeu Zema.\r\nParab\u00e9ns, povo mineiro, especialmente pelos 300 anos de funda\u00e7\u00e3o de Minas Gerais!\r\nPresidente, queria aproveitar estes 2 minutos que me restam e passar a palavra ao Deputado Delegado Pablo.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLENARIO, PLP 133/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTRARIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 1, com parecer contr\u00e1rio, oferecida ao Projeto de Lei Complementar n\u00ba 133, de 2020, a respeito da institui\u00e7\u00e3o de transfer\u00eancias obrigat\u00f3rias da Uni\u00e3o para os Estados, o Distrito Federal e os Munic\u00edpios, por prazo ou fato determinado; da regra de cessa\u00e7\u00e3o contida no \u00a7 2\u00ba, art. 91, do Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias; e da altera\u00e7\u00e3o da Lei n\u00ba 13.885, de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s compreendemos que esse projeto \u00e9 fruto de um acordo que envolve todos os entes federados. Pode n\u00e3o ser efetivamente o melhor acordo, mas \u00e9 o acordo poss\u00edvel que permite \u00e0 Uni\u00e3o, de fato, pagar a d\u00edvida aos Estados. \r\n\u00c0 guisa de considera\u00e7\u00e3o, eu sou Deputado Federal eleito por Minas Gerais, e, para Minas Gerais, at\u00e9 2037, a perspectiva \u00e9 de serem pagos aproximadamente 7,5 bilh\u00f5es de reais. \r\nPor esse motivo, Sr. Presidente, o PSL \u00e9 favor\u00e1vel ao parecer apresentado e vota \"n\u00e3o\", rejeitando, portanto, essa emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, PLN 9/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, BLOCO PARLAMENTAR, PARTIDO SOCIAL LIBERAL (PSL), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), PARTIDO REPUBLICANO DA ORDEM SOCIAL (PROS), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 2662002, apresentada ao Projeto de Lei do Congresso Nacional n\u00ba 9, de 2020, sobre as diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2021.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sra. Presidente, o Bloco PSL/PTB/PROS compreende que a quest\u00e3o \u00e9 de responsabilidade fiscal. Conforme foi apresentado agora pelo L\u00edder do Governo, n\u00e3o \u00e9 poss\u00edvel acatar essa emenda apresentada pelo Partido dos Trabalhadores, n\u00e3o obstante a sua pertin\u00eancia e relev\u00e2ncia, especialmente em virtude do impacto fiscal que vai representar, somente nas contas da Uni\u00e3o, como apresentado, de aproximadamente 350 milh\u00f5es de reais.\r\nPor esse motivo, o Bloco PSL/PTB/PROS orienta \"n\u00e3o\" \u00e0 emenda apresentada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=17%2F12%2F2020&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, PLN 9/2020, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, BLOCO PARLAMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 28710011, apresentada ao  Projeto de Lei do Congresso Nacional n\u00ba 9, de 2020, sobre as diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2021.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sra. Presidente, o Bloco PSL/PTB/PROS, de maneira absolutamente serena, compreende que a emenda deve ser rejeitada. Aqui n\u00f3s apresentamos dois argumentos segundo os quais esta emenda deve ser rejeitada.\r\nO primeiro argumento, de aspecto formal, \u00e9 o de que esta mat\u00e9ria extrapola os limites constitucionalmente estabelecidos para a Lei de Diretrizes Or\u00e7ament\u00e1rias. Isso \u00e9 muito claro. Ent\u00e3o, o aspecto formal, constitucional, estaria sendo extrapolado se esta emenda fosse acatada.\r\nO segundo aspecto \u00e9 de ordem material. Na justificativa apresentada na emenda n\u00e3o h\u00e1 a menor men\u00e7\u00e3o ao impacto or\u00e7ament\u00e1rio e \u00e0 fonte da qual esse recurso seria retirado para cobrir essas despesas, o que, obviamente, ultrapassa, extrapola a emenda constitucional do teto de gastos.\r\nPor esse motivo, o Bloco PSL/PTB/PROS orienta \"n\u00e3o\" \u00e0 emenda, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=17%2F12%2F2020&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, PLN 9/2020, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, BLOCO PARLAMENTAR, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 28710055, apresentada ao Projeto de Lei do Congresso Nacional n\u00ba 9, de 2020, sobre as diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2021.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/PSL - MG. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, de maneira extremamente respons\u00e1vel com o or\u00e7amento p\u00fablico, pelos mesmos motivos apregoados anteriormente, o Bloco PSL/PTB/PROS \u00e9 contra a emenda apresentada. Primeiro aspecto, porque a Lei de Diretrizes Or\u00e7ament\u00e1rias \u00e9 lei em sentido formal, e a mat\u00e9ria apresentada, portanto, violaria essa norma formal. Segundo aspecto, porque n\u00e3o h\u00e1 qualquer previs\u00e3o or\u00e7ament\u00e1ria neste momento na LDO para que essa mat\u00e9ria seja acatada. Ent\u00e3o, por esse motivo, esse assunto deve ser discutido em lei ordin\u00e1ria, por meio de uma nova lei a ser apresentada no Or\u00e7amento ou na Lei Or\u00e7ament\u00e1ria Anual.\r\nO PSL/PTB/PROS, Sra. Presidente, vota, portanto, pela rejei\u00e7\u00e3o da emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=17%2F12%2F2020&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T11:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PADEMIA, CORONAV\u00cdRUS, AUMENTO, PACIENTE CONTAMINADO, MINAS GERAIS.\r\nFEDERA\u00c7\u00c3O DAS IND\u00daSTRIAS DO ESTADO DE MINAS GERAIS (FIEMG), FORNECIMENTO, VENTILADOR PULMONAR, REGI\u00c3O NORTE, MINAS GERAIS. \r\nMINISTRO DE ESTADO  DA SA\u00daDE, DOA\u00c7AO, VACINA, CORONAV\u00cdRUS, VACINA\u00c7\u00c3O, PROFISSIONAL DE SA\u00daDE, AUMENTO, LEITO DE UNIDADE DE TRATAMENTO INTENSIVO - UTI. \r\nLEITURA, POESIA, LEANDRO GOMES DE BARROS, AUTOR (PUBLICA\u00c7\u00c3O).",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Avan\u00e7o da epidemia de coronav\u00edrus no Estado de Minas Gerais. Doa\u00e7\u00e3o, pela Federa\u00e7\u00e3o das Ind\u00fastrias do Estado de Minas Gerais - FIEMG, de respiradores mec\u00e2nicos a municipalidades situadas na regi\u00e3o norte. Apelo ao Ministro da Sa\u00fade, Eduardo Pazuello, por habilita\u00e7\u00e3o de novos leitos de UTI e fornecimento de vacinas ao Estado. Poema Quem foi temperar o choro e acabou salgando o pranto?, de Leandro Gomes de Barros.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, vivemos um terr\u00edvel momento dessa pandemia do coronav\u00edrus. Parece que estamos na pior fase dessa terr\u00edvel pandemia.\r\nSr. Presidente, Sras. e Srs. Deputados, nesta ocasi\u00e3o eu gostaria de ressaltar uma preocupa\u00e7\u00e3o que tenho tido particularmente com meu Estado, o Estado de Minas Gerais. V\u00e1rias regi\u00f5es do Estado de Minas est\u00e3o na \"onda roxa\", o que implica dizer toque de recolher. Apenas servi\u00e7os essenciais est\u00e3o em funcionamento.\r\nPortanto, Sr. Presidente, Sras. e Srs. Deputados, \u00e9 preciso que de fato o Governo Federal tenha uma aten\u00e7\u00e3o especial para o povo de Minas Gerais, com particular \u00eanfase neste momento para a popula\u00e7\u00e3o do norte de Minas, que sofre com a falta de leitos de UTI.\r\nFoi exatamente por essa raz\u00e3o que fizemos uma solicita\u00e7\u00e3o \u00e0 FIEMG, por interm\u00e9dio do nosso amigo Fl\u00e1vio Roscoe, para que fornecesse respiradores para o norte de Minas Gerais. E cerca de 40 respiradores est\u00e3o sendo entregues ao norte de Minas Gerais. Ao mesmo tempo, solicitamos ao Sr. Ministro de Estado da Sa\u00fade que pudesse ser efetivada a doa\u00e7\u00e3o de mais 10 mil doses emergenciais da vacina, para que possamos atender os profissionais que est\u00e3o na linha de frente no enfrentamento da pandemia.\r\nEsperamos que esse pedido seja aceito de forma imediata pelo Minist\u00e9rio da Sa\u00fade, al\u00e9m da quest\u00e3o, Sr. Presidente, da habilita\u00e7\u00e3o de leitos de uma regi\u00e3o que enfrenta, repito, uma mortandade de pessoas como nunca se viu na hist\u00f3ria recente.\r\n\u00c9 preciso, Presidente, que tenhamos uma aten\u00e7\u00e3o especial, raz\u00e3o pela qual solicito todos os cuidados desta Casa do Povo para que realmente o gosto extremamente salgado do pranto, do choro, n\u00e3o venha a prosperar no Estado de Minas Gerais.\r\nEu finalizo, Presidente, tomando como minhas as palavras do poeta Leandro Gomes de Barros, da Para\u00edba, que dizia basicamente o seguinte: ''Quem foi temperar o choro e acabou salgando o pranto?'' E ele falava o seguinte, Presidente:\r\nSe eu conversasse com Deus\r\nIria lhe perguntar:\r\nPor que \u00e9 que sofremos tanto\r\nQuando viemos pra c\u00e1?\r\nQue d\u00edvida \u00e9 essa\r\nQue a gente tem que morrer pra pagar?\r\nPerguntaria tamb\u00e9m\r\nComo \u00e9 que ele \u00e9 feito\r\nQue n\u00e3o dorme, que n\u00e3o come\r\nE assim vive satisfeito.\r\nPor que foi que ele n\u00e3o fez\r\nA gente do mesmo jeito?\r\nPor que existem uns felizes\r\nE outros que sofrem tanto?\r\nNascemos do mesmo jeito,\r\nMoramos no mesmo canto.\r\nQuem foi temperar o choro\r\nE acabou salgando o pranto?\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRENTE PARLAMENTAR MISTA EM DEFESA DO SETOR DE SERVI\u00c7OS, DEBATE, REFORMA TRIBUTARIA, EXONERA\u00c7\u00c3O TRIBUT\u00c1RIA, FOLHA DE PAGAMENTO, CRESCIMENTO ECON\u00d4MICO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Realiza\u00e7\u00e3o, pela Frente Parlamentar em Defesa do Setor de Servi\u00e7os, de reuni\u00e3o para debate da reforma tribut\u00e1ria. Imediata desonera\u00e7\u00e3o da folha de pagamento empresarial. Consolida\u00e7\u00e3o da Frente Parlamentar em Defesa da Desonera\u00e7\u00e3o da Folha de Pagamento.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, na tarde de ontem foi realizada uma reuni\u00e3o da Frente Parlamentar em Defesa do Setor de Servi\u00e7os, liderada pelo eminente Deputado Laercio Oliveira, com a presen\u00e7a do Secret\u00e1rio de Desenvolvimento da Ind\u00fastria, Com\u00e9rcio, Servi\u00e7os e Inova\u00e7\u00e3o, do Minist\u00e9rio da Economia, o Sr. Jorge Luiz de Lima, em que se tratou da import\u00e2ncia da reforma tribut\u00e1ria, tema vital, de suma relev\u00e2ncia para o crescimento de nossa economia.\r\nO que observamos, Sr. Presidente? Que a desonera\u00e7\u00e3o da folha de pagamento \u00e9 um dos temas centrais para que possamos, de fato, reencontrar o caminho do crescimento econ\u00f4mico. N\u00f3s j\u00e1 sabemos que a desonera\u00e7\u00e3o da folha de pagamento tem tido uma simpatia enorme do Sr. Ministro da Economia, Paulo Guedes, e do nosso Governo Federal, encampada pelo nosso Presidente da Rep\u00fablica, Jair Messias Bolsonaro.\r\n\u00c9 nesse sentido, Presidente, eminentes Deputados, que tivemos a liberdade de efetivar a Frente Parlamentar em Defesa da Desonera\u00e7\u00e3o da Folha de Pagamento. Essa frente j\u00e1 est\u00e1 consolidada. E, para aqueles Deputados que ainda n\u00e3o a assinaram, fica aqui aberto o nosso convite para que possam encampar essa discuss\u00e3o em defesa da desonera\u00e7\u00e3o da folha.\r\nN\u00f3s sabemos que essa \u00e9 uma mat\u00e9ria que pode garantir, mesmo em tempos de pandemia, o crescimento econ\u00f4mico do nosso Pa\u00eds. O empresariado, que em outros tempos foi tratado como criminoso, agora recebe o seu valor, e, por esse motivo, n\u00f3s devemos cuidar para que esse empres\u00e1rio possa ter um pouco mais de tranquilidade na contrata\u00e7\u00e3o de pessoal, diminuindo sobremaneira os absurdos encargos que hoje recaem sobre a folha de pagamento.\r\nPe\u00e7o tamb\u00e9m, Sr. Presidente, eminentes Deputados, a contribui\u00e7\u00e3o da imprensa livre de nosso Pa\u00eds.\r\nO tema da desonera\u00e7\u00e3o da folha de pagamento n\u00e3o pode ficar relacionado exclusivamente \u00e0 cria\u00e7\u00e3o ou recria\u00e7\u00e3o de uma CPMF. N\u00f3s temos condi\u00e7\u00f5es de pensar de forma mais ampla e propor uma solu\u00e7\u00e3o madura com o apoio dos Srs. e das Sras. Parlamentares, sem preju\u00edzo efetivo dos setores que cuidam do desenvolvimento econ\u00f4mico de nossa Na\u00e7\u00e3o.\r\nPortanto, Sr. Presidente, desonera\u00e7\u00e3o da folha de pagamento j\u00e1!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-15T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, JUSCELINO J\u00daNIOR, RELATOR, EMENDA, SEGURAN\u00c7A P\u00daBLICA, PLN 3/2021, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO).\r\nFINANCIAMENTO PRIVADO, CAMPANHA ELEITORAL, ELE\u00c7\u00d5ES, CR\u00cdTICA.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Agradecimento ao Deputado Juscelino Filho, Relator do projeto da Lei de Diretrizes Or\u00e7ament\u00e1rias - LDO de 2022, pelo acatamento de emenda apresentada pelo orador em prol da \u00e1rea de seguran\u00e7a p\u00fablica. Retrocesso da retomada do financiamento privado de campanhas eleitorais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, nesta ocasi\u00e3o, quero parabenizar o eminente Relator por ter acolhido a nossa emenda na Comiss\u00e3o Mista de Or\u00e7amento e permitido que a seguran\u00e7a p\u00fablica pudesse ser de fato beneficiada na Lei de Diretrizes Or\u00e7ament\u00e1rias. \r\nSr. Presidente, eu gostaria de me manifestar tamb\u00e9m neste sentido: embora o modelo apresentado ao financiamento p\u00fablico de campanha n\u00e3o seja o modelo ideal, \u00e9 preciso deixar claro que o modelo do financiamento empresarial de campanha evidenciou distor\u00e7\u00f5es inaceit\u00e1veis. Voltar a esse modelo \u00e9 um retrocesso que o povo brasileiro n\u00e3o pode aceitar. A cada real doado por pessoa jur\u00eddica, outros 8 reais de dinheiro p\u00fablico voltavam para a empresa que financiava a campanha pol\u00edtica. Esse modelo \u00e9 perverso, \u00e9 p\u00e9ssimo e n\u00e3o pode voltar. \r\nObrigado, Sr. Presidente.\r\nParabenizo o Relator da Lei de Diretrizes Or\u00e7ament\u00e1rias.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=16%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-04T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SAUDE PUBLICA, MINAS GERAIS, INVESTIMENTO, GOVERNO FEDERAL, ELOGIO.\r\nPOL\u00cdCIA FEDERAL, REPRESS\u00c3O, TR\u00c1FICO DE DROGA, CEARA, COMBATE, CORRUP\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": "Aplausos ao Governo Federal pela ado\u00e7\u00e3o de pol\u00edticas p\u00fablicas em prol do Estado de Minas Gerais, sobretudo na \u00e1rea de sa\u00fade. Apreens\u00e3o, por policiais federais, de grande carregamento de coca\u00edna no Estado do Cear\u00e1. Excel\u00eancia da atua\u00e7\u00e3o da Pol\u00edcia Federal, notadamente na repress\u00e3o ao tr\u00e1fico de drogas e no combate \u00e0 corrup\u00e7\u00e3o.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu gostaria de ressaltar que, no per\u00edodo do recesso parlamentar, o que fizemos foi exatamente visitar as nossas bases.\r\nQueria, Presidente, que os nossos colegas Parlamentares compreendessem o relevante papel que o Governo Federal tem exercido para a vida das pessoas, especialmente por meio da execu\u00e7\u00e3o de pol\u00edticas p\u00fablicas. N\u00f3s conseguimos entregar pol\u00edticas efetivas para todo o Estado de Minas Gerais, em parceria ativa com o Governo Federal, que, sobretudo na \u00e1rea da sa\u00fade, n\u00e3o deixou faltar recursos para o povo brasileiro. Isso precisa ser consignado, precisa ser registrado e dito em todos os cantos da nossa Rep\u00fablica.\r\nOutro aspecto, Sr. Presidente, que nos deixa realmente felizes neste momento \u00e9 saber da atua\u00e7\u00e3o que a gloriosa Pol\u00edcia Federal tem tido em nosso Pa\u00eds. Eu, nos \u00faltimos 5 anos, exerci a fun\u00e7\u00e3o de delegado de pol\u00edcia federal no meu Estado de Minas Gerais. Gostaria de ressaltar que tenho orgulho do que aconteceu, hoje pela manh\u00e3, no Estado do Cear\u00e1, em que a Pol\u00edcia Federal, numa a\u00e7\u00e3o de intelig\u00eancia, conseguiu apreender aproximadamente 1.500 quilos de coca\u00edna que tinha por destino a Europa. Esses 1.500 quilos de coca\u00edna equivalem, no mercado europeu, a aproximadamente 319 milh\u00f5es de reais.\r\nGra\u00e7as a atua\u00e7\u00e3o de agentes, escriv\u00e3es, papiloscopistas, peritos e delegados de pol\u00edcia federal, a Pol\u00edcia Federal tem conseguido cumprir com \u00eaxito a sua miss\u00e3o constitucional. Isso deve ser motivo de orgulho para cada um de n\u00f3s.\r\n\u00c9 preciso que o cidad\u00e3o que nos acompanha n\u00e3o diminua a a\u00e7\u00e3o da Pol\u00edcia Federal, sobretudo quanto \u00e0 repress\u00e3o ao tr\u00e1fico de drogas, ao contrabando e ao descaminho.\r\nGostaria de ressaltar que o papel mais importante da Pol\u00edcia Federal talvez seja o de combate efetivo \u00e0 corrup\u00e7\u00e3o p\u00fablica, que tanto sangrou este Pa\u00eds, especialmente nas gest\u00f5es passadas do Governo Federal. A Pol\u00edcia Federal cumpriu e cumprir\u00e1 o seu papel, doa a quem doer.\r\nPor este motivo, gostaria que constasse, Sr. Presidente, especialmente no programa A Voz do Brasil, o nosso reconhecimento p\u00fablico da atua\u00e7\u00e3o da Pol\u00edcia Federal, dos seus servidores, que, com muito esfor\u00e7o e com muita dedica\u00e7\u00e3o, t\u00eam feito do nosso Brasil um pa\u00eds melhor para se viver.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-18T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Delegado Marcelo Freitas",
+        "sumario": null,
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO MARCELO FREITAS (PSL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, nesta ocasi\u00e3o, queria parabenizar cada um dos colegas, em especial o eminente Relator do PL 5.829/19, o meu amigo Deputado Lafayette de Andrada, pela aprova\u00e7\u00e3o desse projeto, que cria o marco legal da gera\u00e7\u00e3o distribu\u00edda no Brasil.\r\n\u00c9 preciso tamb\u00e9m, nesta ocasi\u00e3o, Presidente e eminentes Deputados Federais, ressaltar e reconhecer o trabalho de um Deputado de Minas Gerais, o Deputado Gil Pereira, que se encontra aqui ao meu lado. \u00c9 um dos precursores da luta em favor da energia fotovoltaica, da energia limpa em nosso Pa\u00eds.\r\nO que esta Casa faz hoje \u00e9 tamb\u00e9m reconhecer o trabalho dos Deputados Estaduais de Minas Gerais, particularmente o do meu amigo, o Deputado Gil Pereira, que foi um dos primeiros a lutar por essa causa no Brasil.\r\nParab\u00e9ns, Deputado Gil Pereira! Tenha absoluta certeza de que essa vit\u00f3ria do povo brasileiro \u00e9 sua tamb\u00e9m.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

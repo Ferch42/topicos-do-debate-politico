@@ -1,0 +1,92 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL) (1987), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jo\u00e3o Maia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.292-C, de 1995, sobre a institui\u00e7\u00e3o de normas para licita\u00e7\u00f5es e contratos da Administra\u00e7\u00e3o P\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JO\u00c3O MAIA (PL - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s estamos votando um projeto de 1995, que j\u00e1 foi objeto de uma Comiss\u00e3o Especial na Legislatura passada.\r\nOlhem, a licita\u00e7\u00e3o \u00e9 a principal rela\u00e7\u00e3o entre o p\u00fablico e o privado, e o destinat\u00e1rio \u00e9 o pr\u00f3prio povo. Este projeto de lei foi discutido amplamente e tem a vantagem de ser da Casa. Saiu do Senado, foi discutido na C\u00e2mara, incorporou emendas important\u00edssimas. No Brasil, Presidente, n\u00f3s temos um cemit\u00e9rio de obras inacabadas, o que n\u00e3o se deve apenas \u00e0 Lei n\u00ba 8.666, de 1993. Enfim, eu tenho convic\u00e7\u00e3o de que este projeto \u00e9 um avan\u00e7o.\r\nA orienta\u00e7\u00e3o \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=249&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 881/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, DECLARA\u00c7\u00c3O DE DIREITOS DE LIBERDADE ECON\u00d4MICA, DEFESA, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Jo\u00e3o Maia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JO\u00c3O MAIA (PL - RN. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidenta.\r\nEu n\u00e3o quero falar nem para o Governo nem para a Oposi\u00e7\u00e3o. Eu quero dizer que os homens e as mulheres de bem t\u00eam uma convic\u00e7\u00e3o \u00fanica: a de que um pai, uma m\u00e3e de fam\u00edlia, uma mo\u00e7a e um rapaz t\u00eam como base, na sua liberdade, sustentar a sua fam\u00edlia com o resultado do seu pr\u00f3prio trabalho.\r\nN\u00f3s vamos votar a favor desta medida provis\u00f3ria, desta medida que chamam de \"liberdade econ\u00f4mica\", porque o Estado brasileiro, infelizmente, transformou-se num empecilho para aqueles que querem empreender, gerar emprego e renda. N\u00e3o \u00e9 poss\u00edvel que n\u00f3s, nem o Governo nem a Oposi\u00e7\u00e3o, concordemos com isso. Podemos fazer ajustes, podemos discutir as quest\u00f5es, mas o fato \u00e9 que hoje...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - Conclua, Deputado Jo\u00e3o Maia, para depois o Deputado Celso Maldaner falar.\r\nO SR. JO\u00c3O MAIA (PL - RN) - Eu s\u00f3 queria dizer o seguinte: o Estado tem que ser parceiro do povo brasileiro, o Estado tem que trabalhar para o povo brasileiro. O povo brasileiro hoje parece que trabalha para o Estado.\r\n\u00c9 por isso que n\u00f3s vamos votar para continuarmos e aprovarmos esta medida provis\u00f3ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE PARA VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL).",
+        "nomeDeputado": "Jo\u00e3o Maia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 48, apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca da institui\u00e7\u00e3o de normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JO\u00c3O MAIA (PL - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu acompanhei, sob a orienta\u00e7\u00e3o do Presidente Rodrigo Maia, a constru\u00e7\u00e3o final desse projeto do Deputado Augusto Coutinho. O direito b\u00e1sico do trabalhador \u00e9 ter trabalho. Ent\u00e3o, o que se procurou fazer nesta Casa foi dizer o seguinte: n\u00e3o criem dificuldade para gerar emprego. Eu sei que isso \u00e9 o que a Deputada Perp\u00e9tua tamb\u00e9m pensa. N\u00f3s n\u00e3o podemos fazer o Estado criar uma burocracia que impe\u00e7a as pessoas de trabalhar e as empresas de empreender.\r\nNesse projeto relatado pelo Deputado Augusto Coutinho, S.Exa. teve um cuidado imenso com isso, Deputado Marcelo Ramos.\r\nQuero dizer que n\u00f3s precisamos gerar emprego, gerar renda, gerar imposto no Brasil. Portanto, a nossa orienta\u00e7\u00e3o \u00e9 pela manuten\u00e7\u00e3o do parecer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=259&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1481/2007, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jo\u00e3o Maia",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.481-A, de 2007, sobre a fixa\u00e7\u00e3o de prazo para o acesso de escolas aos servi\u00e7os de Internet, e a destina\u00e7\u00e3o de 75% dos recursos do Fundo de Universaliza\u00e7\u00e3o dos Servi\u00e7os de Telecomunica\u00e7\u00f5es   (FUST) para a instala\u00e7\u00e3o de redes digitais de informa\u00e7\u00e3o em estabelecimentos de ensino.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JO\u00c3O MAIA (PL - RN. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria dizer que o FUST, que foi criado com a melhor das inten\u00e7\u00f5es, na verdade at\u00e9 hoje serviu para fazer o super\u00e1vit prim\u00e1rio do Governo. \u00c9 mais um imposto do Brasil. \r\nEnt\u00e3o, quero parabenizar o Deputado Vinicius Poit pela proposta de usar de fato aquilo para o qual foi criado. Com o maior respeito \u00e0 Deputada Luiza Erundina, quero dizer que adiar essa destina\u00e7\u00e3o... Estou de acordo com a Secretaria do Tesouro: n\u00e3o devemos usar mais um imposto que criamos com outro nome e que n\u00e3o foi utilizado a favor da sociedade.\r\nN\u00f3s orientamos o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=180&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-07T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 2646/2020, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, DEB\u00caNTURE INCENTIVADA, INFRAESTRUTURA, EMISS\u00c3O, CONCESSION\u00c1RIO (ADMINISTRA\u00c7\u00c3O P\u00daBLICA), PERMISSION\u00c1RIO (ADMINISTRA\u00c7\u00c3O P\u00daBLICA) , SERVI\u00c7OS P\u00daBLICOS, SOCIEDADE DE PROP\u00d3SITO ESPEC\u00cdFICO (SPE), EMPRESA ARRENDAT\u00c1RIA, INVESTIMENTO, INFRAESTRUTURA, TRIBUTA\u00c7\u00c3O, PROJETO (ADMINISTRA\u00c7\u00c3O), DESENVOLVIMENTO SUSTENT\u00c1VEL, APERFEI\u00c7OAMENTO, MARCO REGULAT\u00d3RIO, DEB\u00caNTURE INCENTIVADA, FACILITA\u00c7\u00c3O, OPERA\u00c7\u00c3O, FUNDO DE INVESTIMENTO, ARNALDO JARDIM, DEPUTADO FEDERAL, RELATOR, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Jo\u00e3o Maia",
+        "sumario": "Defesa de aprova\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 2.646, de 2020, sobre as deb\u00eantures de infraestrutura, e a altera\u00e7\u00e3o das Leis de n\u00bas 9.481, de 1997; 11.478, de 2007; e 12.431, de 2011. Apoio ao parecer oferecido \u00e0 proposi\u00e7\u00e3o pelo Relator Arnaldo Jardim.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JO\u00c3O MAIA (PL - RN. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente Gilberto Nascimento, membros da Mesa, Sras. e Srs. L\u00edderes partid\u00e1rios, caros colegas Deputadas e Deputados, hoje, a C\u00e2mara dos Deputados vai deliberar e, se Deus quiser, aprovar o Projeto de Lei n\u00ba 2.646, de 2020, que deixar\u00e1 um grande e inequ\u00edvoco legado para o desenvolvimento sustent\u00e1vel, com gera\u00e7\u00e3o de emprego e renda para o nosso Pa\u00eds. \r\nSr. Presidente, o projeto a que me refiro trata da cria\u00e7\u00e3o de uma nova classe de deb\u00eantures de infraestrutura. Farei aqui um breve relato da gesta\u00e7\u00e3o e evolu\u00e7\u00e3o deste projeto. Em maio de 2019, foi criada a Comiss\u00e3o Especial para analisar um novo marco legal para a legisla\u00e7\u00e3o vigente das concess\u00f5es e autoriza\u00e7\u00f5es, parcerias p\u00fablico-privadas e deb\u00eantures incentivadas. \r\nEssa Comiss\u00e3o, que tive o orgulho de presidir, teve como Relator o Deputado Arnaldo Jardim. Mergulhamos em um estudo intenso e prof\u00edcuo, com um \u00fanico foco: ofertar ao Brasil uma legisla\u00e7\u00e3o moderna, justa e eficiente sobre o tema. Percorremos e realizamos audi\u00eancias p\u00fablicas em v\u00e1rios Estados da Federa\u00e7\u00e3o - em alguns, mais de uma vez -, ouvindo opini\u00f5es e representantes do setor privado, p\u00fablico e especialistas. Visitamos ex-Ministros e ex-Presidentes do Banco Central. Participamos de reuni\u00f5es da Frente Parlamentar Mista de Log\u00edstica e Infraestrutura, no Senado Federal, presidida pelo Senador Wellington Fagundes.\r\nEm outros momentos, reunimo-nos com o Presidente do Tribunal de Contas da Uni\u00e3o, o Ministro Jos\u00e9 Mucio, e alguns membros daquela Corte. Todos os movimentos foram acompanhados e informados ao Poder Executivo. \r\nAp\u00f3s 4 meses de trabalho, o parecer do Relator, o Deputado Arnaldo Jardim, foi aprovado por unanimidade na Comiss\u00e3o Especial, com a constata\u00e7\u00e3o de que a infraestrutura do Pa\u00eds estava se deteriorando, subtraindo nossa competitividade. \r\nPara ressaltar essa afirma\u00e7\u00e3o, trago como exemplo o indicador internacional que mede o estoque de infraestrutura do Pa\u00eds com o percentual do PIB. Vejam, senhoras e senhores, como \u00e9 preocupante a nossa posi\u00e7\u00e3o. Enquanto essa rela\u00e7\u00e3o no Brasil, estoque de infraestrutura em rela\u00e7\u00e3o ao PIB, \u00e9 de 36,2%, em outros pa\u00edses do BRICS, citando como exemplo, t\u00eam a seguinte rela\u00e7\u00e3o: Brasil, 36,2%; \u00cdndia, 58%; China, 76%; \u00c1frica do Sul, 87%.\r\nMais preocupante ainda \u00e9 um estudo do IPEA que mostra que, desde 2016, o nosso investimento em infraestrutura n\u00e3o est\u00e1 sendo suficiente sequer para repor a deprecia\u00e7\u00e3o. Isso faz com que a grande produtividade nas f\u00e1bricas e nas fazendas se perca pela defici\u00eancia da nossa infraestrutura somada a uma burocracia muitas vezes sufocante.\r\nCom o surgimento do nefasto evento da pandemia e a latente urg\u00eancia em atrair novos recursos que financiem os setores de infraestrutura, decidimos fazer um recorte no PL da Lei Geral de Concess\u00f5es e apresentar o PL 2.646/20, que cria as deb\u00eantures de infraestrutura, que nada mais s\u00e3o do que um novo instrumento financeiro que visa atrair novos investimentos privados para a infraestrutura brasileira. Devo ressaltar que esse quadro preocupante n\u00e3o \u00e9 op\u00e7\u00e3o governamental, mas sim reconhecida falta de capacidade de investimento das tr\u00eas esferas da Federa\u00e7\u00e3o, Uni\u00e3o, Estados e Munic\u00edpios.\r\nCom a transforma\u00e7\u00e3o em lei do PL 2.646/20, ora em pauta, as empresas que desejarem investir em projetos novos ou ampliar projetos existentes no setor de infraestrutura poder\u00e3o emitir deb\u00eantures, sendo o emissor o benefici\u00e1rio do incentivo fiscal, que poder\u00e3o repassar ao tomador - como explicamos, Deputado Molon -, e assim captar recursos financeiros necess\u00e1rios para a execu\u00e7\u00e3o dos projetos. As consequ\u00eancias, como dissemos no in\u00edcio, ser\u00e3o o aumento da competitividade do Brasil e a gera\u00e7\u00e3o de emprego e renda, com consequente aumento da receita fiscal.\r\nO legado que deixaremos hoje, ao aprovarmos o PL 2.646/20, repercutir\u00e1 a curto prazo, pois se estima que a participa\u00e7\u00e3o do investimento privado em infraestrutura ter\u00e1 crescimento na casa dos 20%, atingindo cerca de 112 bilh\u00f5es de reais, por ano. Se falarmos a longo prazo, o investimento, que atualmente representa 1,87% do PIB, poder\u00e1 passar para 4,15%, criando condi\u00e7\u00f5es para aportes em investimentos adicionais em torno de 162 bilh\u00f5es de reais, por ano, em valores atuais. N\u00e3o tenho d\u00favidas da grandeza deste projeto para o Brasil.\r\nEncerro com agradecimentos especiais aos meus colegas Deputados que subscreveram o projeto: Deputado Augusto Coutinho, do Solidariedade de Pernambuco; Deputado Felipe Rigoni, do PSB do Esp\u00edrito Santo; Deputado Franco Cartafina, do PP de Minas Gerais; Deputado Geninho Zuliani, do DEM de S\u00e3o Paulo; Deputado Hugo Leal, do PSD do Rio de Janeiro; Deputado Kim Kataguiri, do DEM de S\u00e3o Paulo; Deputado Lucas Redecker, do PSDB do Rio Grande do Sul; Deputado Odair Cunha, do PT de Minas Gerais; Deputado Orlando Silva, do PCdoB de S\u00e3o Paulo; Deputado Rodrigo Coelho, do PSB de Santa Catarina; Deputado Roman, do Patriota do Paran\u00e1; e Deputado Rubens Bueno, do Cidadania do Paran\u00e1.\r\nQuero tamb\u00e9m agradecer \u00e0 equipe da Secretaria de Governo por coordenar as negocia\u00e7\u00f5es com o Executivo, \u00e0 competente equipe de consultores desta Casa, nas pessoas da Consultora Liana Issa e do Consultor Lucas Salgado, e ao meu partido, o Partido Liberal, pelo acolhimento e incentivo permanente ao nosso trabalho.\r\nFinalmente, agrade\u00e7o ao Presidente Arthur Lira, que apoiou desde sempre esta iniciativa, assim como tem encorajado outras mat\u00e9rias que colocam este Parlamento na vanguarda pela retomada do crescimento.\r\nS\u00e3o essas as minhas palavras.\r\nJ\u00e1 encaminho, Sr. Presidente, pelo Partido Liberal, o voto a favor do parecer do Deputado Arnaldo Jardim.\r\nMuito obrigado pela sua presen\u00e7a, minha conterr\u00e2nea Deputada Nat\u00e1lia Bonavides.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-07T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "AGRADECIMENTO, ELEITOR, RIO DE JANEIRO (RJ), ELEI\u00c7\u00c3O,CHIQUINHO BRAZ\u00c3O, DEPUTADO FEDERAL.\r\nCONGRATULA\u00c7\u00c3O, LUIS TIBE, DEPUTADO FEDERAL, L\u00cdDER DO PARTIDO, AVANTE.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Agradecimento pela elei\u00e7\u00e3o do orador para Deputado Federal. Elogio \u00e0 Presid\u00eancia pela condu\u00e7\u00e3o dos trabalhos no plen\u00e1rio. Congratula\u00e7\u00f5es ao L\u00edder do Avante na Casa, Deputado Luis Tib\u00e9. Sauda\u00e7\u00f5es aos Deputados Federais. Compromisso de atua\u00e7\u00e3o parlamentar em defesa do desenvolvimento do Pa\u00eds, especialmente do Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Inicio os trabalhos legislativos de 2019 com minha sauda\u00e7\u00e3o e agradecimento especial a Deus, a meus irm\u00e3os, a minha esposa, a meus filhos e a meus netos. Agrade\u00e7o tamb\u00e9m aos meus amigos e a todos os meus eleitores, que tiveram confian\u00e7a, atrav\u00e9s do voto, na fam\u00edlia Braz\u00e3o, pois eu e o meu irm\u00e3o Pedro Braz\u00e3o estamos representando todo o pessoal do Rio de Janeiro.\r\nQuero dizer que estarei em Bras\u00edlia e com certeza n\u00e3o decepcionarei os meus eleitores no Rio de Janeiro.\r\nSr. Presidente, gostaria de cumprimentar V.Exa. pela condu\u00e7\u00e3o dos trabalhos. Tamb\u00e9m quero cumprimentar e agradecer ao meu L\u00edder, o Deputado Luis Tib\u00e9, do Avante, e a toda a Lideran\u00e7a do partido. E parabenizo todos os colegas de mandato, todos os pares Deputados Federais.\r\nEstarei aqui lutando realmente pelo desenvolvimento de todo o Pa\u00eds e principalmente do Rio de Janeiro.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2019&txPagina=33&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PRONUNCIAMENTO PARLAMENTAR, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, REVIS\u00c3O.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Defesa de acolhimento e implementa\u00e7\u00e3o pela Casa do conte\u00fado de pronunciamentos parlamentares. Reformula\u00e7\u00e3o do Regimento Interno da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nEu sou o Deputado Chiquinho Braz\u00e3o, sou do Rio de Janeiro, e este \u00e9 o meu primeiro mandato aqui. Gostaria que esta Casa pudesse respeitar mais os seus Deputados. Eu vejo que n\u00f3s estamos aqui numa luta conjunta com todos os Deputados desta Casa pela melhoria de todo o Pa\u00eds. E, devido a esses dias em que estou aqui assistindo a esses discursos, eu vejo que realmente a Casa deve acolher esses discursos que s\u00e3o feitos, discursos em que, muitas vezes, o Parlamentar acredita no que est\u00e1 falando, e s\u00f3 atrav\u00e9s do que acreditamos \u00e9 que vamos melhorar o Pa\u00eds.\r\nVejo Parlamentares abrindo m\u00e3o do direito que t\u00eam como Parlamentares, em termos de estrutura, e esta Casa n\u00e3o toma provid\u00eancia. N\u00f3s temos que modificar o Regimento desta Casa...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=162&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "REFORMA TRIBUT\u00c1RIA, FAVOR\u00c1VEL.\r\nREFORMA PREVIDENCI\u00c1RIA, CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Import\u00e2ncia de realiza\u00e7\u00e3o da reforma tribut\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente. Boa tarde, nobres colegas Deputados. Inicio a minha fala dizendo que precisamos alinhar este Congresso, alinhar a C\u00e2mara Federal. Por qu\u00ea? Precisamos fazer com que este Parlamento seja realmente respeitado, fazer com que este Parlamento tenha voz, porque vai irradiar para todo o Brasil.\r\nDigo isso porque vemos que esta Casa de Leis, este Parlamento n\u00e3o respeita seus pr\u00f3prios membros, seus pr\u00f3prios Parlamentares. \u00c9 um Parlamento onde muitos fazem desta tribuna a sua principal bandeira, chegam aqui e abrem m\u00e3o, muitas vezes, de estruturas desta Casa, estruturas do Parlamento, porque acreditam que, dessa forma, v\u00e3o ser ouvidos ou respeitados pelos seus eleitores.\r\nEu diria aos Parlamentares: se n\u00f3s n\u00e3o alinharmos este Parlamento, atrav\u00e9s do nosso Regimento Interno, tendo uma cl\u00e1usula que garanta \u00e0queles que queiram realmente ser respeitados e atendidos nas suas bandeiras, como \u00e9 que vamos atender \u00e0s bandeiras da popula\u00e7\u00e3o como um todo? Como \u00e9 que n\u00f3s vamos ter uma ferramenta de trabalho para que o cidad\u00e3o nos respeite? N\u00f3s precisamos ter, sim, um entendimento, porque cada um tem a sua vis\u00e3o, cada um tem a sua forma de defender, uns diminuindo, outros tentando ampliar o direito da popula\u00e7\u00e3o, mas todos t\u00eam que ser respeitados.\r\nEu tenho sempre este pensamento: n\u00e3o \u00e9 tirando o ar-condicionado da minha casa que eu vou resolver o problema daquele que n\u00e3o tem; n\u00e3o \u00e9 quebrando a piscina da minha casa que eu vou resolver o problema daquele que n\u00e3o tem. \u00c9 o inverso: tenho que fazer com que aquele que n\u00e3o tem tenha mais. Essa \u00e9 a minha vis\u00e3o, essa \u00e9 a bandeira que n\u00f3s temos que ter aqui, para que possamos ter uma \u00fanica voz, para que possamos seguir num \u00fanico sentimento com todas as discord\u00e2ncias que possamos ter.\r\nPor exemplo, estamos discutindo aqui a reforma da Previd\u00eancia. Eu penso que n\u00f3s dever\u00edamos estar discutindo a reforma tribut\u00e1ria. A reforma da Previd\u00eancia s\u00f3 vem para tirar direitos, s\u00f3 vem para restringir a vida dos cidad\u00e3os. Mas dizem: \"Ah, o cidad\u00e3o agora vive mais 5 anos ou 6 anos\". Se ele n\u00e3o pode aproveitar esses 5 anos ou 6 anos, por ter trabalhado a vida toda, isso \u00e9 um erro. N\u00f3s dever\u00edamos estar discutindo a reforma tribut\u00e1ria, porque ela \u00e9 sim uma verdadeira serpente que tira as empresas do Brasil, as empresas dos Estados, que faz com que cada vez mais tenhamos menos recursos para investimento nos Munic\u00edpios, nos Estados e na Federa\u00e7\u00e3o.\r\nResolvendo esse problema, vamos ter mais empresas internacionais e nacionais, mais dinheiro para trabalhar a vida de cada um.\r\nE mais: atrav\u00e9s da luta por novos investimentos no Brasil, vamos resolver o problema deste Pa\u00eds. N\u00e3o \u00e9 tirando, restringindo, que vamos solucionar o problema. Qual vai ser a nova mensagem restritiva? O cidad\u00e3o vai ficar sem o autom\u00f3vel, sem a casa, para restringir, para n\u00e3o pagar IPTU? N\u00f3s temos que lutar para trazer novos investimentos. E s\u00f3 temos um caminho, a reforma tribut\u00e1ria.\r\nPresidente, gostaria que a minha fala fosse divulgada no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=205&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), CONTRARIO.\r\nREFORMA TRIBUT\u00c1RIA, IMPOSTO \u00daNICO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Contrariedade \u00e0 aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria. Defesa de realiza\u00e7\u00e3o da reforma tribut\u00e1ria com ado\u00e7\u00e3o de imposto \u00fanico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres colegas Deputados e Deputadas, ontem chegou a esta Casa a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, a PEC da reforma da Previd\u00eancia. Trata-se de uma PEC que restringe a todos - portanto, \u00e9 uma PEC restritiva. \r\nAchar que todos os problemas por que atravessa o Pa\u00eds \u00e9 do funcionalismo - ou que o funcionalismo p\u00fablico ganha bem - \u00e9 um tremendo equ\u00edvoco. H\u00e1 casos, evidentemente, mas, de um modo geral, as pessoas ganham o suficiente para ter uma vida digna. Na verdade, 90% dos brasileiros ganham um sal\u00e1rio de mis\u00e9ria.\r\nE querer resolver as quest\u00f5es nivelando todos por baixo n\u00e3o resolve o problema do Pa\u00eds.\r\nEssa PEC \u00e9 a porta dos fundos do problema do Pa\u00eds. Essa PEC n\u00ba 6 \u00e9, infelizmente, a PEC da agonia, do socorro.\r\nN\u00f3s dever\u00edamos estar discutindo, realmente deveria ter sido discutido pelos governos anteriores, era a reforma tribut\u00e1ria. Essa reforma, sim, vai resolver o problema do Brasil, pois o que existe atualmente \u00e9 uma carga tribut\u00e1ria em que o empres\u00e1rio, seja ele de grande ou de pequeno porte, seja ele pequeno comerciante, n\u00e3o consegue ter lucro, porque o Governo \u00e9 o s\u00f3cio majorit\u00e1rio sem mover um m\u00fasculo, tirando todo o lucro do com\u00e9rcio, e \u00e9 o com\u00e9rcio que emprega, que gera impostos, que faz com que o Pa\u00eds consiga crescer. N\u00f3s precisamos, urgentemente, de um imposto \u00fanico, de uma reforma tribut\u00e1ria para resolver os problemas deste Pa\u00eds. \r\nN\u00e3o \u00e9 culpando o funcionalismo p\u00fablico que vamos resolv\u00ea-los. \u00c9 evidente que o militar precisa ter um tratamento modificado, assim como a mulher. Eu concordo que a mulher deveria se aposentar com 57 anos, e o homem, com 62 anos. Isso \u00e9 o ideal para o brasileiro. N\u00e3o podemos achar que, porque o homem tem 5 anos a mais de vida, ele tem que ser escravizado. N\u00f3s precisamos aqui nesta Casa entender que o \u00fanico jeito de resolver o problema do nosso Pa\u00eds \u00e9 por meio de uma reforma tribut\u00e1ria verdadeira, \u00e9 por meio da institui\u00e7\u00e3o do imposto \u00fanico.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=160&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO BRASILEIRO DE AERON\u00c1UTICA, AUMENTO, PARTICIPA\u00c7\u00c3O, CAPITAL ESTRANGEIRO, EMPRESA A\u00c9REA, AVIA\u00c7\u00c3O CIVILL, FAVOR\u00c1VEL.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), DEBATE, NECESSIDADE.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Relev\u00e2ncia do projeto de lei sobre a abertura do setor a\u00e9reo ao capital estrangeiro. Posicionamento do orador acerca da reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, ser contra um projeto de grande import\u00e2ncia como este, um projeto relevante para o Rio de Janeiro, para o Brasil todo, que pode atrair o capital estrangeiro, atrair novos investimentos, \u00e9, sem d\u00favida alguma, falta de informa\u00e7\u00e3o. Na verdade, essas pessoas nunca assinaram uma carteira, n\u00e3o sabem a import\u00e2ncia disso para o Brasil. O empres\u00e1rio n\u00e3o pode ser marginalizado, Presidente, como acontece muito, principalmente nesta Casa.\r\nOutro ponto muito importante \u00e9 que n\u00f3s temos que nos debru\u00e7ar inteiramente sobre a reforma da Previd\u00eancia. N\u00e3o podemos aqui punir aqueles que mais se prepararam, aqueles que muitas vezes n\u00e3o dormiram de madrugada, aquelas fam\u00edlias que mais investiram nas universidades - \u00e9 caro se preparar em qualquer parte do mundo, principalmente aqui no Brasil. E eles v\u00e3o receber uma puni\u00e7\u00e3o, que \u00e9 essa reforma da forma como est\u00e1. N\u00f3s n\u00e3o podemos...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-21T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "RECURSOS H\u00cdDRICOS, RIO, DRAGAGEM, DESASSOREAMENTO, DESOBSTRU\u00c7\u00c3O, WILSON WITZEL, GOVERNADOR, MARCUS DE ALMEIDA LIMA, PRESIDENTE, INSTITUTO ESTADUAL DO AMBIENTE (INEA), RIO DE JANEIRO (ESTADO), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Solicita\u00e7\u00e3o ao Governador Wilson Witzel e ao Presidente do Instituto Estadual do Ambiente - INEA, Marcus de Almeida Lima, de ado\u00e7\u00e3o de provid\u00eancias para a dragagem, desassoreamento e desobstru\u00e7\u00e3o de rios no Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, venho a esta tribuna solicitar ao nosso Governador Wilson Witzel e ao Sr. Marcus de Almeida Lima, Presidente do Instituto Estadual do Ambiente - INEA, do Estado do Rio de Janeiro, provid\u00eancias urgentes para viabilizar a dragagem, o desassoreamento, a desobstru\u00e7\u00e3o dos rios que vou citar a seguir.\r\nHoje a minha fala \u00e9 voltada especificamente para uma \u00e1rea do Rio de Janeiro. Todos n\u00f3s moramos em bairros, n\u00e3o na Federa\u00e7\u00e3o. No Rio de Janeiro, a popula\u00e7\u00e3o local passa por graves problemas. A antiga Superintend\u00eancia Estadual de Rios e Lagoas - SERLA fazia um trabalho de excel\u00eancia, um trabalho muito bom de desobstru\u00e7\u00e3o, de desassoreamento. Infelizmente, com o passar do tempo, esse servi\u00e7o foi se perdendo e hoje est\u00e1 sob responsabilidade do INEA. Eu gostaria que fossem tomadas provid\u00eancias nesse sentido.\r\nRefiro-me aos seguintes rios: Rio Pequeno, no Bairro de Santa Maria, que se inicia no Rio Pequeno, passa pelo Rio Grande e vem sentido Taquara; Rio do Engenho, na Boiuna, que \u00e9 muito pr\u00f3ximo; Rio Guerengu\u00ea, no mesmo bairro,  que sai da Col\u00f4nia, passa por Guerengu\u00ea e Curicica, sentido Lagoa de Jacarepagu\u00e1, onde a popula\u00e7\u00e3o tem sofrido muito com as enchentes. Cito tamb\u00e9m o Rio Tindiba, no Bairro Pechincha, que se encontra com o Rio Grande, na Taquara, e desce sentido Cidade de Deus; o Rio Estiva; o Rio Arroio Fundo; o Rio Covanca, que se inicia na Pra\u00e7a Seca, passa pelo Tanque, em dire\u00e7\u00e3o ao Pechincha, interligando o Rio Sangrador, no Bairro Freguesia. Cito tamb\u00e9m o C\u00f3rrego da Panela, que passa pelo Canal do Anil, no Bairro Gard\u00eania, parte da Freguesia, Jardim Clarice, interligando Rio das Pedras.\r\nSr. Presidente, ressalto a import\u00e2ncia de que seja dada aten\u00e7\u00e3o a este tema por parte dos governantes do Rio de Janeiro. Apesar de parecer fr\u00e1gil, essa popula\u00e7\u00e3o local \u00e9 uma importante m\u00e3o de obra para hot\u00e9is, restaurantes, escrit\u00f3rios, segmentos que precisam funcionar para que, cada vez mais, sejam oferecidas condi\u00e7\u00f5es dignas de vida naquela regi\u00e3o.\r\nMuito obrigado, Sr. Presidente.\r\nUm abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2019&txPagina=140&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-28T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CONTESTA\u00c7\u00c3O,  DEPUTADO FEDERAL, PRONUNCIAMENTO, REN\u00daNCIA, APOSENTADORIA PARLAMENTAR.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Contesta\u00e7\u00e3o a discurso de Deputado sobre a ren\u00fancia ao benef\u00edcio de aposentadoria complementar.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente.\r\nEu estava em meu gabinete quando ouvi um Deputado aqui se pronunciar, abrindo m\u00e3o de uma aposentadoria que n\u00e3o existe, como disse muito bem o nobre colega Deputado Sr. Giovani Cherini. O mundo est\u00e1 cheio desses demagogos. Por que n\u00e3o abrir m\u00e3o da aposentadoria de capit\u00e3o, que, daqui a pouco, quando se aposentar, provavelmente estar\u00e1 com um soldo acima? Por que n\u00e3o participar da previd\u00eancia privada como todos? Acha que a fam\u00edlia dos outros merece menos respeito do que a dele? Se eu n\u00e3o gostar da minha fam\u00edlia, n\u00e3o posso gostar da fam\u00edlia de ningu\u00e9m.\r\nPor causa desses discursos demagogos \u00e9 que o Pa\u00eds est\u00e1 neste problema todo. As pessoas t\u00eam que assumir as suas responsabilidades e saber at\u00e9 onde podem ir. Essa tem que ser uma atitude do Congresso, analisada aqui, respeitando o direito e o pensamento de cada Parlamentar. Eu n\u00e3o posso abrir m\u00e3o dos anos de Parlamento que tive. Enquanto estou nesta Casa, se eu pagar, terei direito \u00e0 aposentadoria \u00e0 frente. Isso tem que ser respeitado. Esses falsos profetas, esses demagogos t\u00eam que aprender a respeitar o direito dos outros.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F3%2F2019&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-28T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "LUIS TIB\u00c9, PRESIDENTE, AVANTE, SAUDA\u00c7\u00c3O.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), AN\u00c1LISE.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Sauda\u00e7\u00f5es ao Presidente do Avante, Deputado Luis Tib\u00e9, e aos demais membros do partido. Maior cautela e seriedade dos Parlamentares no exame da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, a respeito da reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, obrigado.\r\nEu gostaria de iniciar cumprimentando o Presidente do Avante, Luis Tib\u00e9. Ao cumpriment\u00e1-lo, cumprimento todos os colegas Deputados e todos os que est\u00e3o nos vendo neste momento. Gostaria tamb\u00e9m de cumprimentar o Presidente do Avante do Rio de Janeiro, Vinicius Cordeiro. Ao cumpriment\u00e1-lo, cumprimento todos os filiados ao Avante.\r\nN\u00f3s recebemos aqui, Presidente, a mensagem do Governo sobre a reforma da Previd\u00eancia.\r\nA Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, apresentada pela Presid\u00eancia da Rep\u00fablica, revela uma situa\u00e7\u00e3o complicada, mas devemos estar atentos e analis\u00e1-la muito bem, para que possamos saber o que fazer. O que cabe a este Congresso \u00e9 analisar de que forma devemos fazer essa reforma. Temos que debater, temos que realmente nos debru\u00e7ar sobre essa proposta.\r\nNeste primeiro momento, quando a PEC come\u00e7ar a tramitar, haver\u00e1 diversos pontos pol\u00eamicos que merecem nossa aten\u00e7\u00e3o. O BPC, como est\u00e1 na proposta do Governo, dever\u00e1 ser reduzido de um sal\u00e1rio m\u00ednimo para 400 reais e dever\u00e1 ser pago a partir dos 60 anos, e n\u00e3o 65 dos anos. E somente a partir de 70 anos de idade o idoso poder\u00e1 receber um sal\u00e1rio m\u00ednimo. Mas n\u00f3s sabemos que tudo \u00e9 caro hoje. Eles precisam de medicamentos, precisam comprar rem\u00e9dios. A situa\u00e7\u00e3o \u00e9 muito dif\u00edcil. N\u00e3o podemos achar que 400 reais at\u00e9 completar 70 anos v\u00e3o resolver algum problema. Ent\u00e3o, precisamos analisar muito bem essa reforma para que possamos entend\u00ea-la e encontrar o caminho certo.\r\nPor outro lado, n\u00f3s temos o entendimento de que hoje h\u00e1 em torno de 35 milh\u00f5es de aposentados. Tamb\u00e9m temos que ter a seguinte preocupa\u00e7\u00e3o: se acabar o milho, acabar a pipoca, como faremos? Temos que ter responsabilidade com todos os aposentados, os que j\u00e1 est\u00e3o aposentados hoje, e aqueles que ainda v\u00e3o se aposentar. N\u00e3o podemos achar que fomos eleitos, que vamos chegar aqui e vamos optar pela maneira mais f\u00e1cil, que \u00e9 dizer que n\u00e3o queremos saber desse problema, que esse problema \u00e9 ruim, n\u00e3o vamos nos debru\u00e7ar sobre ele e n\u00e3o vamos discutir esse tema. N\u00f3s precisamos discutir esse tema, sim! Aqueles que nos elegeram nos escolheram para que n\u00f3s tomemos posi\u00e7\u00f5es sobre esse tema. \u00c9 o tema mais espinhoso, \u00e9 o tema que vai definir o que vai impactar na vida deles l\u00e1 na frente, quando estiverem aposentados.\r\nAl\u00e9m disso, n\u00e3o podemos achar que todas as mazelas que aconteceram durante anos no Brasil s\u00e3o culpa do funcionalismo.\r\nO funcionalismo p\u00fablico \u00e9 quem sempre paga essa conta l\u00e1 na frente. \u00c9 terr\u00edvel elevarmos de 11% para 14%. E isso n\u00e3o para por a\u00ed. Daqui a pouco, vai para 16%, 17%, ou 20%.\r\nPrecisamos discutir essa reforma com a maior seriedade, envolvendo a todos, sejam de esquerda, sejam de direita. Todos n\u00f3s temos que ter esse compromisso.\r\nVivemos num Pa\u00eds onde temos emprego formal e, por outro lado, temos tamb\u00e9m a informalidade, em que muitos perdem, porque t\u00eam grande dificuldade de comprovar os 20 anos de contribui\u00e7\u00e3o e n\u00e3o conseguem arrumar um novo emprego. E com 40 anos no Brasil voc\u00ea j\u00e1 est\u00e1 velho. Portanto, devemos chamar a responsabilidade, sim, para esta Casa, que \u00e9 local ideal para que n\u00f3s possamos debater tudo isso e achar uma solu\u00e7\u00e3o.\r\nSeria muito f\u00e1cil, Sr. Presidente, se chegasse uma conta de luz cara \u00e0 minha casa, se chegasse uma conta cara com a qual eu n\u00e3o concordasse e eu pudesse bot\u00e1-la na gaveta e, assim, considerar resolvido o problema! N\u00e3o, assim eu s\u00f3 iria aumentar o meu problema! Precisamos debater e ter uma posi\u00e7\u00e3o. Se n\u00e3o votarmos a reforma da Previd\u00eancia, teremos um problema mais grave \u00e0 frente, porque a popula\u00e7\u00e3o mais pobre, toda a sociedade, esses 35 milh\u00f5es de aposentados que existem hoje, certamente ter\u00e3o problemas e ficar\u00e3o sem receber seus benef\u00edcios.\r\nUm abra\u00e7o.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F3%2F2019&txPagina=137&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-25T10:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), DEBATE, NECESSIDADE.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Posicionamento do orador sobre a proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Sem revis\u00e3o do orador.) - Bom dia, Presidente. Cumprimentando V.Exa., cumprimento todos os Deputados deste Parlamento e tamb\u00e9m todos os funcion\u00e1rios desta Casa.\r\nO motivo da minha vinda a esta tribuna \u00e9 a reforma da Previd\u00eancia, mat\u00e9ria que \u00e9 da maior import\u00e2ncia para todos aqueles que v\u00e3o se aposentar e, principalmente, para aqueles que hoje - algo em torno de 40, 45 milh\u00f5es de brasileiros - j\u00e1 est\u00e3o aposentados. \u00c9 da maior import\u00e2ncia que n\u00f3s n\u00e3o percamos o foco do debate.\r\nO debate \u00e9 independente do momento em que esta mat\u00e9ria esteja madura o suficiente para este Plen\u00e1rio, momento em que votam a favor aqueles que concordam com a mudan\u00e7a na Previd\u00eancia; e votam contra aqueles que entendem que a mat\u00e9ria realmente n\u00e3o deve ser votada. Ent\u00e3o n\u00f3s n\u00e3o podemos nos furtar de debater um tema da maior relev\u00e2ncia para o Brasil.\r\nEu entendo que a mat\u00e9ria chegou a esta Casa cheia de inconstitucionalidades e de artigos que n\u00e3o deveriam nem fazer parte dela, mas, certamente, n\u00f3s temos aqui Deputados muito qualificados para identificar, durante o debate, as grandes e as pequenas armadilhas. \u00c9 do que n\u00f3s precisamos.\r\nO tema, desde o in\u00edcio, j\u00e1 \u00e9 espinhoso, por se tratar da reforma da Previd\u00eancia, o que, na minha vis\u00e3o, \u00e9 uma mat\u00e9ria restritiva na vida de todos, e, por ser restritiva, \u00e9 realmente muito dif\u00edcil.\r\nEnt\u00e3o, o que n\u00f3s n\u00e3o podemos \u00e9 nos omitir desse debate. Se for bom para o Brasil, com certeza ser\u00e1 importante para esta Casa, porque \u00e9 esta Casa que realmente vai ter esse aval de aprovar ou reprovar esse tema.\r\nAgora, temos que entender o seguinte: o que for votado nesta Casa \u00e9 o que vai prevalecer na vida de cada brasileiro. N\u00e3o podemos nos furtar desse amplo debate com grande responsabilidade, deixando as brigas partid\u00e1rias. Sobre esse tema, temos que estar todos focados em um \u00fanico entendimento: o de que estamos aqui representando todo o Brasil.\r\nAqui nesta Casa h\u00e1 Deputados de A a Z, de Norte a Sul, todos representando brasileiros que acreditaram que estamos capacitados para justamente debater os temas espinhosos para o nosso Brasil.\r\nSr. Presidente, pe\u00e7o que o meu pronunciamento seja divulgado nos meios de comunica\u00e7\u00e3o e no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F4%2F2019&txPagina=35&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o AVANTE orienta \"n\u00e3o\". \r\n\u00c9 um absurdo ver que a Oposi\u00e7\u00e3o, que deveria ser defensora daqueles que mais precisam, est\u00e1 obstruindo uma mat\u00e9ria com essa relev\u00e2ncia. Essa posi\u00e7\u00e3o de obstruir \u00e9 leg\u00edtima, mas deveria haver crit\u00e9rio, usado por quem se diz defensor daquele que mais precisa.\r\nO AVANTE orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CHIQUINHO BRAZ\u00c3O, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 2981/2019, PROJETO DE LEI ORDIN\u00c1RIA, LOTERIA, LIMITA\u00c7\u00c3O, VALOR, PR\u00caMIO, MEGA-SENA, DEFESA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 2.981, de 2019, sobre altera\u00e7\u00e3o do Decreto-lei n\u00ba 6.259, de 1944, acerca do servi\u00e7o de loterias.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Como L\u00edder. Sem revis\u00e3o do orador.) - Acabo de dar entrada em um projeto para alterar o Decreto-Lei n\u00ba 6.259, de 10 de fevereiro de 1944, que disp\u00f5e sobre os servi\u00e7os de loteria e d\u00e1 outras provid\u00eancias, para estabelecer o teto de 105 milh\u00f5es de reais \u00e0 premia\u00e7\u00e3o da Mega-Sena. O decreto-lei passar\u00e1 a vigorar com o acr\u00e9scimo do seguinte dispositivo:\r\nArt. 32-A. O valor m\u00e1ximo da faixa de premia\u00e7\u00e3o destinada \u00e0s apostas com acerto de seis n\u00fameros sorteados da Loteria de Progn\u00f3sticos Num\u00e9ricos Mega-Sena ser\u00e1 de 30 milh\u00f5es de vezes o valor da aposta de seis n\u00fameros.\r\nI - a quantia excedente a esse valor ser\u00e1 alocada na faixa da premia\u00e7\u00e3o imediatamente inferior, destinada \u00e0s apostas com acertos de cinco n\u00fameros sorteados - no caso, a Quina.\r\nII - quando o pr\u00eamio atingir o montante previsto no caput e n\u00e3o houver vencedor no sorteio dos seis n\u00fameros, o valor arrecadado ser\u00e1 integralmente distribu\u00eddo na faixa da premia\u00e7\u00e3o imediatamente inferior, destinada \u00e0s apostas com acerto de cinco n\u00fameros sorteados - a Quina.\r\nIsso significa que a Mega-Sena funcionar\u00e1 normalmente como hoje, mas, quando o valor do pr\u00eamio atingir o montante de 30 milh\u00f5es de vezes o valor da aposta m\u00ednima, automaticamente, o que exceder esse valor ser\u00e1 destinado \u00e0 distribui\u00e7\u00e3o aos acertadores da Quina. E, caso n\u00e3o haja nenhum sorteado, o pr\u00eamio da Mega-Sena ser\u00e1 automaticamente distribu\u00eddo aos acertadores da Quina, assim como \u00e9 feito no sorteio da Mega-Sena da Virada.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 2981/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, DECRETO-LEI, FIXA\u00c7\u00c3O, VALOR M\u00c1XIMO, PREMIA\u00c7\u00c3O, CONCURSO DE PROGN\u00d3STICO, MEGA-SENA, CRIT\u00c9RIO, DISTRIBUI\u00c7\u00c3O, GANHADOR.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 2.981, de 2019, sobre a altera\u00e7\u00e3o do Decreto-lei n\u00ba 6.259,  de 1944, acerca do servi\u00e7o de loterias , para estabelecimento do teto de R$ 105 milh\u00f5es para as premia\u00e7\u00f5es da Mega-Sena e a previs\u00e3o de divis\u00e3o do pr\u00eamio para os acertadores da quina no caso da inexist\u00eancia de vencedores do sorteio dos seis n\u00fameros.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Sem revis\u00e3o do orador.) - Sr. Presidente, dei entrada esta semana ao Projeto de Lei n\u00ba 2.981, para alterar a Lei n\u00ba 6.259, que disp\u00f5e sobre o servi\u00e7o da Mega-Sena.\r\nNo seu art. 32, ele altera a Mega-Sena para que possamos ter, primeiro, a Mega-Sena funcionando normalmente at\u00e9 que seja atingido o valor do seu tal\u00e3o 30 milh\u00f5es de vezes, que hoje \u00e9 de R$ 3,50 reais e, a partir do momento em que se atingir esse total, hoje em torno de 105 milh\u00f5es de reais, ele automaticamente faria com que o excesso fosse dilu\u00eddo no pr\u00eamio da quina, dividido pelos acertadores da quina.\r\nCaso n\u00e3o haja ganhador, a partir desse ac\u00famulo no pr\u00eamio principal, ele dividiria pela quina o total arrecadado. Exemplo: o total de 120 milh\u00f5es seria dividido por todos os ganhadores da quina. Por exemplo, se houvesse 30 ganhadores, seria em torno de 4 milh\u00f5es para cada ganhador. Com isso, colocar\u00edamos esse dinheiro no mercado imobili\u00e1rio, no mercado automobil\u00edstico, de modo que esse dinheiro n\u00e3o ficaria totalmente concentrado numa \u00fanica conta banc\u00e1ria. Seria uma forma de socializar esse pr\u00eamio e tamb\u00e9m dividi-lo por todas as pessoas que apostam e que, certamente, acompanhariam.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=153&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "PEC 45/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA TRIBUT\u00c1RIA, DEFESA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Apoio \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 45 de 2019, sobre altera\u00e7\u00f5es no sistema tribut\u00e1rio nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, boa tarde a todos os funcion\u00e1rios desta Casa.\r\nOntem tivemos a reuni\u00e3o da CCJ para aprovar o parecer pela admissibilidade da PEC 45, de 2019, que altera o sistema tribut\u00e1rio nacional e d\u00e1 outras provid\u00eancias. Agora ela segue para a Comiss\u00e3o Especial para ser discutida. Ela inclui ali o PIS e COFINS, IPI, ISS, ICMS, Imposto sobre Bens e Servi\u00e7os.\r\nO que acontece? Eu j\u00e1 venho desde a minha posse aqui, Sr. Presidente, falando que o que vai resolver o problema do nosso Pa\u00eds \u00e9 o conjunto de reformas. Hoje est\u00e1 sendo trabalhada aqui nesta Casa a reforma previdenci\u00e1ria, que tem que ser muito bem trabalhada realmente.\r\nO Pa\u00eds precisa dessa reforma, sem d\u00favida nenhuma, mas n\u00e3o da forma que essa mensagem chegou a esta Casa. Da forma restritiva que ela chegou a esta Casa, ela vai, sem d\u00favida nenhuma, penalizar aqueles que s\u00e3o os mais pobres, inclusive aqueles pequenos Munic\u00edpios em que muitos desses aposentados oxigenam a economia, com a aposentadoria que sustenta o neto, a fam\u00edlia, um filho desempregado, e tudo mais. Com as corre\u00e7\u00f5es necess\u00e1rias, este Parlamento, sem d\u00favida nenhuma, vai trabalhar em cima. Estarei acompanhando, e vamos dar a resposta adequada.\r\nEla se junta, \u00e9 claro, \u00e0 reforma trabalhista, que foi votada nesta Casa. H\u00e1 \u00e9poca, diziam que ela ia resolver todas as mazelas e problemas, e n\u00f3s vimos que n\u00e3o resolveu. N\u00e3o resolveu porque uma \u00fanica reforma n\u00e3o consegue resolver, mas, sim, um conjunto de reformas, a que estaremos atentos e que vamos votar nesta Casa. Sim, este conjunto de reformas \u00e9 que vai, sem d\u00favida nenhuma, dar dire\u00e7\u00e3o ao Pa\u00eds.\r\nN\u00f3s sabemos que, por exemplo, ontem, a admissibilidade da PEC 45 foi muito importante. Fa\u00e7o parte tamb\u00e9m da Subcomiss\u00e3o Especial da Reforma Tribut\u00e1ria. Sem d\u00favida nenhuma, esta reforma \u00e9 muito complexa, mas estaremos trabalhando em cima dela, de ponto a ponto, aprovando-a mesmo que seja parcelada. Esta reforma \u00e9 muito ampla. Falar de tributos vai de A a Z e, devido \u00e0 carga tribut\u00e1ria que temos no nosso Pa\u00eds, ela tem que ser realmente trabalhada ponto a ponto.\r\nPe\u00e7o que meu pronunciamento seja divulgado no programa A Voz do Brasil.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-18T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "CONCESSION\u00c1RIO (ADMINISTRA\u00c7\u00c3O P\u00daBLICA), RESSARCIMENTO, PREJUIZO, PREFEITURA, RIO DE JANEIRO (RJ), SINALIZA\u00c7\u00c3O DE TR\u00c2NSITO, VIADUTO,",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Exig\u00eancia de ressarcimento, pela empresa concession\u00e1ria LAMSA - Linha Amarela S/A, dos preju\u00edzos causados \u00e0 Prefeitura Municipal do Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, discordar da Concession\u00e1ria LAMSA, que administra a Linha Amarela, exigir que os cofres p\u00fablicos sejam ressarcidos n\u00e3o \u00e9 um capricho da Prefeitura do Rio de Janeiro e, sim, fazer justi\u00e7a em nome dos cidad\u00e3os cariocas. Os preju\u00edzos causados \u00e0 cidade do Rio de Janeiro pela Concession\u00e1ria LAMSA j\u00e1 chegam a quase 680 milh\u00f5es de reais, segundo auditorias e sindic\u00e2ncias feitas pelos t\u00e9cnicos da Prefeitura. Os preju\u00edzos foram causados por sobrepre\u00e7o nas obras. \r\nA auditoria da Controladoria-Geral do Munic\u00edpio mostrou que, dos 251 milh\u00f5es de reais que a LAMSA afirma ter gasto em obras previstas no 11\u00ba aditivo, foram gastos de fato 117 milh\u00f5es. Na verdade, a Concession\u00e1ria LAMSA, que tem grande import\u00e2ncia na travessia da Linha Amarela no Rio de Janeiro, para aumentar o tempo que tem de sobrevida... Eles deram a contrapartida, mas, na verdade, n\u00e3o conclu\u00edram parte das obras.\r\nSr. Presidente, na altura de \u00c1gua Santa, por exemplo, h\u00e1 um viaduto. Segundo os t\u00e9cnicos da Prefeitura, havia o compromisso de serem realizadas obras de alargamento naquele viaduto. Mas o que eles fizeram? Colocaram gelos-baianos na divis\u00e3o, cortando ali um trecho de cada uma das partes da via.\r\nQuanto ao pre\u00e7o das placas da sinaliza\u00e7\u00e3o, tamb\u00e9m segundo informa\u00e7\u00f5es dos t\u00e9cnicos, houve sobrepre\u00e7o por parte da empresa em todas as placas e servi\u00e7os prestados pela Concession\u00e1ria, trazendo um preju\u00edzo danado ao Munic\u00edpio do Rio de Janeiro. A Concession\u00e1ria tamb\u00e9m comunicava n\u00famero muito inferior ao verdadeiro de ve\u00edculos que transitam naquela via. Com isso, a Prefeitura, que tem participa\u00e7\u00e3o percentual sobre o n\u00famero de ve\u00edculos que passam naquela via, sofreu um preju\u00edzo muito grande. Realmente, \u00e9 muito grave o fato de a LAMSA n\u00e3o passar as mensagens verdadeiras \u00e0 Prefeitura.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-27T11:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "APOSENTADORIA ESPECIAL, PREVID\u00caNCIA SOCIAL, PARLAMENTAR, BENEF\u00cdCIO PREVIDENCI\u00c1RIO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Posicionamento do orador favor\u00e1vel ao regime de aposentadoria especial dos Parlamentares.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Sem revis\u00e3o do orador.) - Bom dia, Sr. Presidente. Cumprimentando V.Exa., sa\u00fado todos os Deputados e funcion\u00e1rios desta Casa.\r\nO motivo da minha vinda hoje aqui, Sr. Presidente, \u00e9 o que j\u00e1 temos ouvido na fala de alguns Deputados, que t\u00eam que ser, com certeza, muito respeitados, porque aqui todos n\u00f3s somos representantes da popula\u00e7\u00e3o. Quando se fala, por exemplo, sobre uma mat\u00e9ria que n\u00f3s teremos que votar - e iremos votar -, referente \u00e0 Previd\u00eancia, que \u00e9 muito importante, h\u00e1 um tema que alguns Deputados abordam: a aposentadoria dos Parlamentares desta Casa. Dizem que \u00e9 um privil\u00e9gio. Realmente, \u00e9 um privil\u00e9gio. S\u00e3o poucos privilegiados, mas esse privil\u00e9gio \u00e9 fruto de uma conquista. \u00c9 preciso lutar para chegar a esta Casa. Eu desafio esses que fazem essa demagogia a me trazerem dez grupos, dez pessoas da sociedade ou institui\u00e7\u00f5es que abram m\u00e3o de seus sal\u00e1rios, de suas aposentadorias ou de seus direitos.\r\nFalar aqui para agradar a popula\u00e7\u00e3o que est\u00e1 nos ouvindo neste momento \u00e9 muito f\u00e1cil. Eu queria v\u00ea-los ganhar 1 sal\u00e1rio m\u00ednimo como o trabalhador. \u00c9 importante que eles defendam uma bandeira nesta Casa e digam: \"Eu vou passar a ganhar 1 sal\u00e1rio m\u00ednimo\". Mas n\u00e3o. Eles n\u00e3o querem, na verdade, \u00e9 contribuir, Presidente.  Eu, para somar aos 14 anos que eu tenho no Rio de Janeiro, na C\u00e2mara Municipal, e ter o direito a um peda\u00e7o dessa aposentadoria dos Deputados - \u00e9 um peda\u00e7o, Presidente -, teria que contribuir hoje com em torno de 20 mil reais. Eu mandei fazer a conta. N\u00e3o \u00e9 de gra\u00e7a, mas eles querem aqui contribuir com 600 reais e dizer que est\u00e1 tudo certo. Eles querem continuar ganhando, na verdade, \u00e9 o sal\u00e1rio de vinte e poucos mil reais. \u00c9 uma vergonha esse sal\u00e1rio deles de vinte e poucos mil reais para o que representam aqui, porque eles n\u00e3o representam a sociedade como um todo. Eles querem que a sociedade continue ganhando mil e poucos reais. Eu quero que a sociedade ganhe um sal\u00e1rio m\u00ednimo de 10 mil reais, mas eles querem que a sociedade ganhe menos. Ent\u00e3o, eu queria ver a proposta deles de abrir m\u00e3o de seus sal\u00e1rios aqui, assim como outras categorias.\r\nProcuraram-me, por exemplo, todo o tempo, diversas associa\u00e7\u00f5es defensoras de suas categorias, pedindo para serem inclu\u00eddas na categoria especial, a exemplo dos militares. Muitos militares aqui, como eu j\u00e1 ouvi discurso, v\u00e3o abrir m\u00e3o. Entretanto, quando eu pergunto se v\u00e3o abrir m\u00e3o da especial que ter\u00e3o, respondem: \"N\u00e3o! Eu tenho que garantir l\u00e1. Se eu abrir m\u00e3o aqui, eu n\u00e3o posso, porque eu tenho fam\u00edlia\". Todos aqui t\u00eam fam\u00edlia. Eu acho que aqueles que t\u00eam esse sentimento, que \u00e9 leg\u00edtimo, devem ter vergonha e dizer o seguinte: \"Eu abro m\u00e3o da minha aposentadoria especial\".\r\nVamos abrir um precedente nesta Casa para que aqueles que queiram abrir m\u00e3o sejam respeitados e possam exercer esse direito. Eu n\u00e3o conhe\u00e7o nenhuma categoria que abra m\u00e3o de seus direitos. E isso \u00e9 o que, infelizmente, vem acontecendo nesta Casa. Isso n\u00e3o ajuda em nada a sociedade, porque s\u00e3o falsos discursos, na verdade. Deveriam ter coragem de abrir m\u00e3o de seus sal\u00e1rios, porque n\u00e3o representam a sociedade l\u00e1 fora. Essa \u00e9 a grande verdade. V\u00eam para c\u00e1 como falsos justiceiros. Isso j\u00e1 \u00e9 b\u00edblico, s\u00e3o falsos profetas.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F6%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-27T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), LIMITA\u00c7\u00c3O, VALOR, APOSENTADORIA.\r\nREFORMA TRIBUT\u00c1RIA, REFORMA TRABALHISTA, DEFESA.\r\nAPOSENTADORIA ESPECIAL, APOSENTADORIA PARLAMENTAR, SUBS\u00cdDIO (REMUNERA\u00c7\u00c3O), DEPUTADO FEDERAL, SAL\u00c1RIO M\u00cdNIMO, REN\u00daNCIA, DIREITOS.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Inadequa\u00e7\u00e3o da proposta governamental de reforma previdenci\u00e1ria. Necessidade da realiza\u00e7\u00e3o de reformas constitucionais para o desenvolvimento do Pa\u00eds. Esclarecimento sobre o regime de aposentadoria especial.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, Srs. Deputados. Cumprimento tamb\u00e9m os funcion\u00e1rios da Casa. \r\nSr. Presidente, j\u00e1 fiz uma fala mais cedo, mas o que me traz aqui neste momento \u00e9 a reforma da Previd\u00eancia, que, no meu entendimento, \u00e9 uma reforma restritiva. \u00c9 claro que ela \u00e9 necess\u00e1ria, mas entendemos que n\u00e3o \u00e9 a reforma adequada para o Brasil, onde, na verdade, o sal\u00e1rio m\u00ednimo que a popula\u00e7\u00e3o recebe n\u00e3o lhe permite contribuir com outro regime para que possa fazer a complementa\u00e7\u00e3o, infelizmente. N\u00f3s entendemos que o teto hoje, de 5 mil e poucos reais, \u00e9 muito baixo para o custo de vida dos brasileiros.\r\nN\u00e3o seria essa a reforma adequada, e sim a reforma tribut\u00e1ria. Na verdade, o que vai resolver o problema do Pa\u00eds \u00e9 o conjunto das reformas: a reforma trabalhista, que j\u00e1 foi votada nesta Casa - eu estou aqui em primeiro mandato de Deputado Federal; e a reforma da Previd\u00eancia, que, infelizmente, tem que ser votada para que 40 milh\u00f5es de brasileiros, talvez dentro de 15 anos, n\u00e3o fiquem sem receber seus benef\u00edcios. Sem d\u00favida nenhuma, quando acabarem os recursos do fundo, acaba o direito \u00e0 aposentadoria de todos. N\u00f3s sabemos como isso funciona. Ent\u00e3o, s\u00f3 com a reforma ser\u00e1 resguardado o direito das atuais e tamb\u00e9m das futuras aposentadorias, cujo regime ser\u00e1 debatido nesta Casa. \r\nEu gostaria de abordar outro tema. Quando cheguei aqui a esta Casa, podia-se optar por um regime especial de aposentadoria. Para que eu pudesse ter o direito a essa aposentadoria, eu teria que juntar os meus 14 anos de contribui\u00e7\u00e3o na C\u00e2mara Municipal do Rio de Janeiro ao tempo do mandato que estou aqui cumprindo. Ent\u00e3o, eu teria que aderir a esse novo sistema. Para aderir a esse novo sistema, \u00e9 l\u00f3gico, h\u00e1 que se contribuir. Essa aposentadoria n\u00e3o \u00e9 da forma como est\u00e3o aqui divulgando, \u00e9 preciso pagar por ela. \r\nVou dar um exemplo, para o esclarecimento das pessoas e para que, quando forem falar desta tribuna, usem da verdade ou pelo menos procurem se informar. Vou citar o meu caso como exemplo: para que eu pudesse ter esse direito a uma aposentadoria de pouco mais de 11 mil reais, ao final desta Legislatura, eu teria que contribuir hoje com aproximadamente 25 mil reais. Logo, n\u00e3o \u00e9 da forma que est\u00e3o dizendo. Muitos que aqui est\u00e3o e abriram m\u00e3o da aposentadoria assim o fizeram porque est\u00e3o em primeiro mandato e veem que ser\u00e1 muito dif\u00edcil completar nove mandatos para alcan\u00e7ar o direito \u00e0 aposentadoria integral de Deputados nesta Casa. \u00c9 preciso completar, pelo menos, nove mandatos consecutivos nesta Casa, para que se alcance o direito \u00e0 integralidade da aposentadoria como Parlamentar. As pessoas veem uma dificuldade, principalmente, os jovens ou aqueles que j\u00e1 chegam aqui com uma idade avan\u00e7ada, muito grande de completar esse total. E a\u00ed optam por levar o dinheiro integralmente. \r\nH\u00e1 muita injusti\u00e7a no Brasil! H\u00e1 pessoas aqui que se mostram como defensoras dos que ganham sal\u00e1rio m\u00ednimo, mas elas ganham 33 mil reais. Vamos fazer uma campanha para que os Deputados possam aderir ao sal\u00e1rio m\u00ednimo. Ao chegarem a esta Casa que eles n\u00e3o se sirvam do Brasil, mas sim sirvam ao Brasil. Ao chegarem a esta Casa, se acreditam realmente que s\u00e3o esses os regimes que devem ser adotados, eles devem chegar aqui e servir ao Brasil, e n\u00e3o se servir do Brasil. Temos que ser verdadeiros. Temos que abrir m\u00e3o desse sal\u00e1rio especial, desse sal\u00e1rio de maraj\u00e1. Mas todos t\u00eam que ser a favor dessa proposta. \r\nSr. Presidente, eu n\u00e3o conhe\u00e7o nenhuma categoria no mundo que abra m\u00e3o dos seus direitos. Eu fui visitado, no m\u00eas passado e no retrasado, por diversas categorias, tanto do Judici\u00e1rio, quanto dos militares - e os militares ter\u00e3o aposentadoria especial. Mas, \u00e0s vezes, ao chegar a esta Casa, o Parlamentar que \u00e9 militar diz: \"Eu abro m\u00e3o, porque acho imoral essa aposentadoria\". A\u00cd, quando voc\u00ea pergunta se ele vai abrir m\u00e3o daquela aposentadoria especial, ele diz: \"A\u00ed, n\u00e3o! Eu tenho fam\u00edlia\". E a\u00ed eu digo: \"Ah, s\u00f3 voc\u00ea que tem, n\u00e3o \u00e9?\"\r\nEnt\u00e3o, quando voc\u00ea n\u00e3o se respeita, voc\u00ea n\u00e3o respeita ningu\u00e9m. Eles poderiam atuar diferentemente e dizer: \"A partir de hoje, eu quero abrir m\u00e3o. Eu quero abrir m\u00e3o\". Assim, eles v\u00e3o l\u00e1 assinar. N\u00f3s Parlamentares temos que ser respeitados no nosso direito. Ent\u00e3o, eles v\u00e3o l\u00e1 e abrem m\u00e3o. Se 200 quiserem abrir m\u00e3o, isso vai ajudar muito o Brasil, porque eles acreditam que, apenas com a abertura do sal\u00e1rio... Muitas vezes, eles nem acreditam no que est\u00e3o fazendo aqui. \r\nPergunte a qualquer trabalhador no Brasil, de qualquer categoria: \"Voc\u00ea quer abrir m\u00e3o de seus direitos, quer abrir m\u00e3o de parte do seu sal\u00e1rio, quer abrir m\u00e3o de parte da sua aposentadoria?\" A resposta todos n\u00f3s j\u00e1 conhecemos: \"N\u00e3o, porque eu lutei muito, porque eu valorizo o que fa\u00e7o\". \u00c9 diferente deste Parlamento, que \u00e9 uma vergonha. As pessoas entram aqui pela porta, com vergonha de ser Parlamentar. As pessoas, na rua, no restaurante t\u00eam vergonha de se apresentar como Parlamentar, mas querem ganhar o sal\u00e1rio daqui. Interessante, eu n\u00e3o vejo isso no Judici\u00e1rio, eu n\u00e3o vejo isso em outras categorias. Eu vejo sim pessoas virem para c\u00e1, com brilho nos olhos, para defender a sua categoria. Mas muitos Parlamentares - evidentemente, h\u00e1 exce\u00e7\u00f5es - chegam a esta Casa com vergonha de ser Parlamentar, e achando maravilhoso.\r\nMaravilhoso \u00e9 pegar a remunera\u00e7\u00e3o daqueles que ganham 1 sal\u00e1rio m\u00ednimo e aument\u00e1-la em 10 vezes. Isso sim \u00e9 maravilhoso! Maravilhoso \u00e9 valorizar o mais pobre, mas valorizar de verdade, e n\u00e3o com esses falsos discursos que aqui s\u00e3o proferidos. Como falei, h\u00e1 os que abrem m\u00e3o, porque est\u00e3o representando uma categoria que j\u00e1 est\u00e1 na \u00e1rea especial; abrem m\u00e3o porque est\u00e3o com direito adquirido, uma vez que j\u00e1 contribuem h\u00e1 muitos anos, j\u00e1 est\u00e3o nesta Casa h\u00e1 mais tempo; abrem m\u00e3o porque veem que n\u00e3o h\u00e1 a menor chance de ter 9 mandatos nesta Casa. Assim, eles abrem m\u00e3o. Por qu\u00ea? Porque querem fazer vidinha com esse sal\u00e1rio.\r\nMas eu vou ter um respeito imenso, Sr. Presidente, pelo primeiro desses que est\u00e3o com essa falsa demagogia que subir aqui e dizer: \"Eu abro m\u00e3o e vou lutar para que o sal\u00e1rio do Deputado Federal seja de 998 reais\". Esse ter\u00e1 o meu respeito. Eu vou, sem d\u00favida nenhuma, respeit\u00e1-lo, porque vejo que ele veio aqui n\u00e3o para se servir do Brasil, mas para servir ao Brasil. \r\nEnt\u00e3o, muitos Deputados que t\u00eam esse direito \u00e0 aposentadoria especial, que est\u00e3o contribuindo, inclusive, porque t\u00eam que contribuir - e os valores s\u00e3o alt\u00edssimos - ficam com vergonha ou dizem assim: \"A popula\u00e7\u00e3o n\u00e3o vai entender que eu estou me defendendo, eu estou defendendo a categoria, eu estou defendendo este Parlamento\". H\u00e1 que ter coragem de botar a cara e dizer isso, porque n\u00f3s estamos aqui eleitos pela popula\u00e7\u00e3o.\r\nE n\u00e3o \u00e9 porque o Deputado vai lutar para diminuir o seu sal\u00e1rio que vai mudar o sentimento da popula\u00e7\u00e3o. N\u00f3s temos que mudar \u00e9 a vida da popula\u00e7\u00e3o. N\u00f3s temos que ser objetivos com a popula\u00e7\u00e3o.\r\nSr. Presidente, agrade\u00e7o a oportunidade e eu gostaria de solicitar a divulga\u00e7\u00e3o do meu discurso no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F6%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-04T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), DEFESA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Necessidade de realiza\u00e7\u00e3o das reformas previdenci\u00e1ria e tribut\u00e1ria. Aperfei\u00e7oamento da proposta de reformula\u00e7\u00e3o da Previd\u00eancia Social encaminhada \u00e0 Casa pelo Poder Executivo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente. Cumprimento tamb\u00e9m todos os nobres colegas Parlamentares e os funcion\u00e1rios desta Casa.\r\nSr. Presidente, est\u00e3o sendo debatidos neste momento os destaques da reforma da Previd\u00eancia, que ser\u00e1 votada hoje e encaminhada para este Plen\u00e1rio, para que aqui possamos corrigir algumas distor\u00e7\u00f5es e fazer com que sejam inclu\u00eddas, por exemplo, as for\u00e7as de seguran\u00e7a, que ficaram de fora. O Rio de Janeiro, infelizmente, sofre muito com o crime organizado e tudo mais.\r\nComo todos sabemos, n\u00e3o temos a garantia da vida - ningu\u00e9m tem essa garantia. Por isso, estamos aqui num dilema diante do qual, pela responsabilidade que temos para com o povo brasileiro, precisamos nos posicionar, evidentemente, a favor da reforma ou contra a reforma. Neste plen\u00e1rio, tenho certeza de que nenhum dos Deputados que aqui est\u00e3o hoje, analisando essa reforma, tem o prazer de votar por votar, e sim por necessidade.\r\nComo j\u00e1 falei aqui anteriormente, Sr. Presidente, quem tem fome tem pressa. N\u00f3s temos hoje em torno de 13,5 milh\u00f5es de desempregados no Pa\u00eds, que t\u00eam fam\u00edlia, que est\u00e3o passando por diversos problemas, com o aluguel vencido, precisando comprar medicamentos para o filho. Esses t\u00eam pressa.\r\nQuanto aos que j\u00e1 est\u00e3o na porta para se aposentar, \u00e9 terr\u00edvel quando voc\u00ea tem que votar contra aqueles que esperavam mais, porque se doaram para o Pa\u00eds, trabalharam, deram a sua contribui\u00e7\u00e3o, e estavam contando que n\u00e3o haveria mudan\u00e7as no meio do jogo, mas se deparam com um momento desses. Mas \u00e9 o momento em que o Pa\u00eds se encontra. Infelizmente, para esses que est\u00e3o muito pr\u00f3ximos de se aposentar, \u00e9 terr\u00edvel. Mas para aqueles que est\u00e3o mais \u00e0 frente, que ir\u00e3o sofrer esse impacto futuramente e n\u00e3o t\u00eam, como disse inicialmente, a garantia da vida, o que eles n\u00e3o querem hoje \u00e9 estar desempregados. E, se nada for feito, Sr. Presidente, n\u00f3s s\u00f3 conseguiremos aumentar o n\u00famero de desempregados, de fam\u00edlias em situa\u00e7\u00e3o complicada.\r\nSendo repetitivo nesta Casa - eu j\u00e1 disse isso anteriormente -, n\u00e3o \u00e9 esta reforma da Previd\u00eancia que vai resolver o problema do Pa\u00eds. \u00c9 com um conjunto de reformas que, sim, iremos resolv\u00ea-lo: com a reforma trabalhista, j\u00e1 votada nesta Casa; com esta reforma previdenci\u00e1ria; e com aquela que, do meu ponto de vista, \u00e9 uma das principais. Refiro-me \u00e0 reforma tribut\u00e1ria, da qual fa\u00e7o parte. \r\nPrecisamos simplificar a legisla\u00e7\u00e3o, precisamos desburocratizar o Pa\u00eds, precisamos fazer com que o Brasil se torne atrativo, para o mundo inteiro vir aqui investir. N\u00f3s precisamos de investimentos, n\u00f3s precisamos que essas pessoas que est\u00e3o desempregadas passem a ter um emprego formal e tamb\u00e9m possam contribuir. Contribuindo, elas ser\u00e3o os pilares para a sustenta\u00e7\u00e3o da aposentadoria de todos no futuro.\r\nN\u00f3s temos hoje uma m\u00e9dia de 40 mil aposentados. e, se nada for feito dentro de, talvez, 15 anos, eles tamb\u00e9m deixar\u00e3o de receber. N\u00f3s temos que ter responsabilidade para com aqueles que j\u00e1 est\u00e3o aposentados, inclusive. N\u00e3o podemos conduzir o Pa\u00eds com a irresponsabilidade de dizer que essa reforma n\u00e3o \u00e9 necess\u00e1ria. Ela \u00e9 necess\u00e1ria, mas n\u00e3o da forma como chegou a esta Casa. Sem d\u00favida nenhuma est\u00e3o sendo corrigidos alguns pontos, Sr. Presidente.\r\nGostaria de agradecer a V.Exa., Sr. Presidente, a oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F7%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de adiamento, por 2 sess\u00f5es, da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, orienta \"n\u00e3o\".\r\nS\u00f3 aqueles que n\u00e3o conhecem esses eventos podem falar sobre maus-tratos. Todos os que conhecem esses eventos sabem que ali aqueles animais, muitas das vezes, s\u00e3o at\u00e9 mais bem tratados do que a pr\u00f3pria fam\u00edlia. Tem uma paix\u00e3o muito grande quem participa desses eventos. Trata-se de um evento cultural, um evento do bem. Aqueles apaixonados utilizam animais, que t\u00eam um tratamento todo especial.\r\nO voto \u00e9 \"n\u00e3o\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Avante entende que talvez haja at\u00e9 uma inoc\u00eancia por parte daqueles que s\u00e3o contr\u00e1rios a esse evento. \u00c9 um evento cultural, \u00e9 um evento de divers\u00e3o para os trabalhadores, \u00e9 um evento em que s\u00f3 aqueles apaixonados participam.\r\nE eles tratam muito bem os seus animais. No caso de todos esses animais da vaquejada, do rodeio, se voc\u00ea os trata bem, consegue obter o alcance principal, que \u00e9, nessa brincadeira, a disputa pelo pr\u00eamio. O animal ali muitas vezes \u00e9 at\u00e9 mais bem tratado do que a pr\u00f3pria fam\u00edlia pelos participantes desse evento. \u00c9 um evento de grande cultura para o Brasil. S\u00f3 posso entender que apenas aqueles que n\u00e3o o acompanham e n\u00e3o t\u00eam vis\u00e3o do que estamos falando aqui s\u00e3o contr\u00e1rios a esse evento.\r\nO voto \u00e9 \"n\u00e3o\"!\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo da admissibilidade dos destaques simples oferecidos ao Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Avante vota \"n\u00e3o\", por entender que muita gente conhece animal \u00e9 por figurinha. Muitos, na verdade, n\u00e3o conhecem os animais, somente por figurinha. Quem realmente conhece a hist\u00f3ria das vaquejadas e dos rodeios tem conhecimento do tratamento que esses animais recebem e do custo que as pessoas pagam para que eles sejam animais de ponta.\r\nVoto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=319&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T13:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da consulta sobre a vota\u00e7\u00e3o, por partes, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6-D, de 2019, acerca da reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, vota \"n\u00e3o\".\r\nN\u00e3o achamos que esta reforma sozinha vai resolver o problema do Brasil, mas o conjunto das reformas. A reforma trabalhista n\u00e3o teve, claro, efeito, porque foi uma medida isolada. Mas, certamente, a reforma da Previd\u00eancia e a reforma tribut\u00e1ria, o conjunto das reformas, v\u00e3o fazer com que o crescimento do Pa\u00eds seja alavancado. Por isso, temos que acelerar esse processo. \u00c9 da maior import\u00e2ncia que a aprova\u00e7\u00e3o desta reforma transcorra da melhor forma poss\u00edvel. Isso s\u00f3 vai trazer, certamente, ganhos para o Brasil. Vai gerar novos empregos e vai fazer com que a economia volte a girar no Pa\u00eds.\r\nO Pa\u00eds precisa desse conjunto de reformas para que aqueles que os 13,5 milh\u00f5es de brasileiros que est\u00e3o hoje sem trabalho e aqueles 30 milh\u00f5es que viraram camel\u00f4s possam ter emprego.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T13:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 4/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), AVANTE, VOTO CONTRARIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 4, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante est\u00e1 votando \"n\u00e3o\", por entender que nada na nossa vida \u00e9 permanente e definitivo. Hoje, o Pa\u00eds est\u00e1 atravessando a maior crise, com 35 milh\u00f5es de idosos. Se continuarmos da forma que est\u00e1, dentro de talvez 15 anos esses idosos n\u00e3o poder\u00e3o receber o que recebem hoje. Hoje temos talvez 25 milh\u00f5es de brasileiros que est\u00e3o na informalidade. Viraram motoristas de Uber, viraram camel\u00f4s. N\u00f3s temos 13,5 milh\u00f5es de desempregados! Para que esse n\u00famero n\u00e3o venha a engrossar ainda mais, temos que neste momento resgatar o crescimento do Pa\u00eds, ir \u00e0 frente, Sr. Presidente, para ent\u00e3o tomarmos a decis\u00e3o correta: justamente se devemos modificar novamente esta mat\u00e9ria em pauta.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T23:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, REQUERIMENTO DE DESTAQUE, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo da admissibilidade dos requerimentos de destaques simples apresentados \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social, em segundo turno de vota\u00e7\u00e3o. Cr\u00edticas ao Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o AVANTE orienta \"sim\", por entender que o que mata o pobre realmente \u00e9 a falta de emprego. O pobre morre trabalhando, na verdade. Ele n\u00e3o se aposenta; ele trabalha at\u00e9 morrer.\r\nEnt\u00e3o, isso da Esquerda de defender o pobre \u00e9 hist\u00f3ria. O problema do pobre hoje \u00e9 a falta de emprego; s\u00e3o os 13 milh\u00f5es e meio de desempregados. O Pa\u00eds precisa avan\u00e7ar, precisa crescer, precisa resgatar a economia. \u00c9 disso que precisamos no momento.\r\nAl\u00e9m disso, quem tem fome tem pressa. O pobre hoje desempregado tem pressa para que o Pa\u00eds possa resgatar realmente a sua economia.\r\n\u00c9 \"sim\", Sr. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=419&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, EMENDA AGLUTINATIVA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda Aglutinativa n\u00ba 1, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, orienta o \"sim\" por entender que hoje temos 13,5 milh\u00f5es de pessoas querendo se comprometer com o trabalho, inclusive aos domingos. A esperan\u00e7a dessas pessoas, hoje, \u00e9 trabalhar. Elas precisam trabalhar para levar para dentro de casa o sustento.\r\nRepito: 13,5 milh\u00f5es de pessoas esperam poder assumir o compromisso de trabalhar, inclusive aos domingos.\r\nA orienta\u00e7\u00e3o \u00e9 pelo voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=311&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE PARA VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, EMENDA AGLUTINATIVA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 70 do Decreto-Lei n\u00ba 5.452, de 1943, com a reda\u00e7\u00e3o dada pelo art. 15 da Emenda Aglutinativa apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O Avante orienta o voto \"sim\". \r\nE, Sr. Presidente, olhe o desespero da Esquerda, porque est\u00e1 vendo que o Brasil vai dar certo. E isso vai acabar com o discurso da Esquerda, que tenta botar de um lado os empres\u00e1rios e, de outro, os funcion\u00e1rios. Como se isso pudesse ser uma coisa normal na nossa vida. Com certeza, s\u00e3o aqueles que nunca assinaram a carteira e que n\u00e3o sabem realmente a realidade por que o Pa\u00eds est\u00e1 passando. Se fizer um an\u00fancio em qualquer jornal dizendo que vai haver postos de trabalho, mas que esse trabalho vai ser de domingo a domingo, vai ter fila de oito voltas no quarteir\u00e3o, porque as pessoas est\u00e3o vivendo uma realidade diferente! \r\nE o Brasil vai dar certo. As pessoas precisam trabalhar. E n\u00e3o h\u00e1 nenhuma receita de bolo que tem de ser feito daquela forma. Cada empresa vai atuar da sua forma. O empres\u00e1rio tem o seu maior patrim\u00f4nio na sua empresa, e esse maior patrim\u00f4nio \u00e9 o funcion\u00e1rio, na verdade.\r\nPor isso o Avante orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=20&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTRARIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 3.715, de 2019, acerca da regulamenta\u00e7\u00e3o da posse de arma de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, indica \"n\u00e3o\", orienta \"n\u00e3o\".\r\nEssa a\u00e7\u00e3o, na verdade, acaba sendo uma a\u00e7\u00e3o preventiva. A partir do momento que sair nos meios de comunica\u00e7\u00e3o que um bandido invadiu uma propriedade rural e ali se deu mal, foi combatido pelo morador daquela propriedade atrav\u00e9s dessa possibilidade de uso de arma, certamente os demais bandidos ir\u00e3o tomar uma medida preventiva, ir\u00e3o para as ruas, n\u00e3o entrar\u00e3o na casa das pessoas, porque eles estar\u00e3o correndo risco.\r\nContudo, para cada a\u00e7\u00e3o h\u00e1 uma rea\u00e7\u00e3o. Aprovando isto aqui, n\u00f3s temos tamb\u00e9m que mexer no C\u00f3digo Penal, porque, quando uma pessoa se defende de um bandido dentro da sua resid\u00eancia, infelizmente \u00e9 penalizada. N\u00f3s teremos que mexer certamente no C\u00f3digo Penal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=20&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-26T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 2981/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, DECRETO-LEI, FIXA\u00c7\u00c3O, VALOR M\u00c1XIMO, PREMIA\u00c7\u00c3O, CONCURSO DE PROGN\u00d3STICO, MEGA-SENA, CRIT\u00c9RIO, DISTRIBUI\u00c7\u00c3O, GANHADOR, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Apresenta\u00e7\u00e3o de projeto de lei sobre altera\u00e7\u00e3o da sistem\u00e1tica de premia\u00e7\u00e3o da Mega-Sena, modalidade lot\u00e9rica mantida pela Caixa Econ\u00f4mica Federal.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente. Boa tarde, colegas Deputados.\r\nNo dia 21 de maio, apresentei um projeto com cunho inteiramente social, que visa alterar dispositivo da Mega-Sena, caso o pr\u00eamio acumule e chegue ao valor de 30 milh\u00f5es de vezes o valor do tal\u00e3o, que hoje custa R$3,50. Essa soma daria o valor de 105 milh\u00f5es de reais, um pr\u00eamio consider\u00e1vel! O projeto trata do excedente desse valor. Por exemplo, vamos supor que a Mega-Sena acumule em 120 milh\u00f5es de reais e haja um ganhador. Ap\u00f3s a aprova\u00e7\u00e3o da lei, esse ganhador levaria os 105 milh\u00f5es de reais, e o excedente, 15 milh\u00f5es de reais, seria automaticamente distribu\u00eddo na Quina, refor\u00e7ando o pr\u00eamio da Mega-Sena.\r\nA principal mudan\u00e7a \u00e9 que, a partir do momento em que a Mega-Sena acumule 30 milh\u00f5es de vezes o valor do tal\u00e3o, n\u00e3o havendo ganhador, o pr\u00eamio integral \u00e9 dilu\u00eddo automaticamente na Quina. Em sendo assim, um n\u00famero maior de apostadores pode dividir esse pr\u00eamio, e o valor do pr\u00eamio realmente vai para o mercado. Se o pr\u00eamio de 120 milh\u00f5es de reais tivesse 40 ganhadores, seriam 3 milh\u00f5es de reais para cada um, e com isso poderia haver a compra de um im\u00f3vel, de um autom\u00f3vel. Certamente, o valor desse pr\u00eamio circularia no mercado, o que tem um cunho social muito forte, em vez de uma concentra\u00e7\u00e3o de renda, como j\u00e1 tivemos caso de pr\u00eamio de quase 280 milh\u00f5es, que hoje est\u00e1 numa \u00fanica conta e n\u00e3o circula no mercado. Com o atual sistema, milhares de fam\u00edlias deixam de ser poss\u00edveis benefici\u00e1rias do uso desses recursos no mercado.\r\nConsiderando 30 milh\u00f5es de vezes o valor do tal\u00e3o, que hoje custa 3,50 reais, o resultado seria um total de 105 milh\u00f5es, que \u00e9 o pr\u00eamio \u00e9 muito atrativo e de uma grande concentra\u00e7\u00e3o de renda ainda. Mas vamos supor que o tal\u00e3o passasse a custar 5 reais, esse pr\u00eamio na verdade acumularia em 150 milh\u00f5es de reais. Ent\u00e3o, o projeto objetiva que a Mega-Sena n\u00e3o mais acumule, mas sim que ela tenha um cunho social e uma redistribui\u00e7\u00e3o de renda mais adequada.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F9%2F2019&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3261/2019, PROJETO DE LEI ORDINARIA, AVANTE, VOTO FAVORAVEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.261, de 2019, sobre atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, sem d\u00favida nenhuma, esse tema \u00e9 da maior relev\u00e2ncia, mas o que realmente n\u00e3o caberia neste primeiro momento \u00e9 a urg\u00eancia desse tema. Trata-se de um tema que deve ser muito bem debatido. Para V.Exa. ter uma ideia, n\u00f3s n\u00e3o podemos perder, e esse tema n\u00e3o seria reconhecido como g\u00eanero de primeira necessidade, a quest\u00e3o do imposto. Por exemplo, o imposto que incide sobre a \u00e1gua mineral \u00e9 o mesmo que incide sobre cacha\u00e7a, a bebida alco\u00f3lica. A cacha\u00e7a tem 76% de imposto; o vinho, 54,73%; e a cerveja, 42,691%. O que eu estou dizendo \u00e9 o seguinte: no aeroporto, uma garrafa de 300 mililitros de \u00e1gua custa 8 reais. E as fam\u00edlias mais pobres do interior, que n\u00e3o t\u00eam \u00e1gua, inclusive, pagam todo esse tributo. A \u00fanica \u00e1gua que est\u00e1 nesse imposto \u00e9 a \u00e1gua vendida no garraf\u00e3o de 20 litros, entendido como g\u00eanero de primeira necessidade. Este tem um imposto realmente baixo. Mas o idoso n\u00e3o consegue manusear esses garraf\u00f5es. Ent\u00e3o n\u00f3s temos que tomar cuidado, porque nada que \u00e9 t\u00e3o ruim n\u00e3o pode piorar um pouco mais. Passando evidentemente para empresas particulares, para grandes empresas, como \u00e9 que n\u00f3s vamos controlar toda essa parte jur\u00eddica, a parte de impostos, uma s\u00e9rie de coisas? \r\nTemos que debater o tema profundamente porque realmente, Sr. Presidente, a \u00e1gua \u00e9 vida.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente.\r\nCumprimento o nosso Presidente do Avante, Deputado Luis Tib\u00e9, e todos os Deputados.\r\nEsta mat\u00e9ria muito importante, Sr. Presidente, j\u00e1 est\u00e1 adormecida no Congresso h\u00e1 20 anos. N\u00f3s precisamos, sim, desburocratizar. Existe uma burocracia muito pesada. Se n\u00f3s avan\u00e7armos, certamente daremos aos Estados de Roraima e do Amap\u00e1 condi\u00e7\u00f5es de se legalizarem. \u00c9 uma etapa de cada vez. N\u00f3s precisamos criar condi\u00e7\u00f5es de legalidade nesses Estados.\r\nH\u00e1 um preju\u00edzo gerado em 20 anos nesses Estados, imagino eu, pela falta de financiamento nessas \u00e1reas, pela falta de seguro, pela falta de investimentos, justamente por falta de legisla\u00e7\u00e3o favor\u00e1vel.\r\nPor isso, o Avante vota \"sim\".\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 8/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 915/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 8, de 2020, adotado pela Comiss\u00e3o Mista, \u00e0 Medida Provis\u00f3ria n\u00ba 915, de 2019, a respeito do aprimoramento dos procedimentos de gest\u00e3o e aliena\u00e7\u00e3o dos im\u00f3veis da Uni\u00e3o, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - O Avante orienta o voto \"sim\" por entender que hoje a Uni\u00e3o tem um patrim\u00f4nio muito grande, mas na verdade n\u00e3o tem o financeiro. Temos \u00e1reas enormes subutilizadas, \u00e1reas sendo invadidas o tempo todo.\r\nTemos, por parte do Governo Federal, grandes conjuntos habitacionais precisando de legalidade, porque n\u00e3o h\u00e1 realmente condi\u00e7\u00f5es de eles conseguirem se legalizar. As pessoas est\u00e3o passando seus apartamentos justamente porque n\u00e3o conseguem acesso \u00e0 Uni\u00e3o, porque ela n\u00e3o consegue se organizar para entender que as pessoas querem se legalizar, que as pessoas precisam ter os im\u00f3veis, precisam compr\u00e1-los.\r\nA Uni\u00e3o precisa fazer dinheiro, e um grande patrim\u00f4nio est\u00e1 subutilizado. Acho que o momento \u00e9 este. Estamos atravessando essa pandemia, e a Uni\u00e3o est\u00e1 precisando fazer o financeiro e, se necess\u00e1rio, alienar grandes \u00e1reas que est\u00e3o subutilizadas.\r\nO Avante orienta \"sim\". Precisamos debater isso e encarar esse problema de frente, neste momento de grande dificuldade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=167&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 27, apresentada ao Projeto de Lei n\u00ba 1.562, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente.\r\nO Avante orienta o voto \"n\u00e3o\".\r\nSr. Presidente, isso \u00e9 uma coisa muito l\u00f3gica. As pessoas t\u00eam responsabilidade e sabem da necessidade do uso da m\u00e1scara, principalmente em ambientes fechados, como os pres\u00eddios. Isso passa no jornal de manh\u00e3, de tarde e de noite. H\u00e1 2 meses, o assunto principal do Brasil e do mundo \u00e9 justamente o coronav\u00edrus, portanto \u00e9 imposs\u00edvel que algu\u00e9m n\u00e3o tenha conhecimento da necessidade do uso da m\u00e1scara. Voc\u00ea n\u00e3o precisa obrigar as pessoas a fazerem o \u00f3bvio. As pessoas t\u00eam de entender que elas precisam preservar a vida de terceiros. Elas precisam ter esse entendimento.\r\nPortanto, o Avante orienta o voto \"n\u00e3o\".\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.\r\nREQUERIMENTO DE URG\u00caNCIA, PL 1376/2020, PROJETO DE LEI ORDIN\u00c1RIA, SUSPENS\u00c3O, LAVRATURA, REGISTRO, PROTESTO EXTRAJUDICIAL, PROTESTO DE T\u00cdTULO, DOCUMENTO, D\u00cdVIDA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.376, de 2020, sobre a suspen\u00e7\u00e3o da lavratura e do registro de protesto extrajudicial de t\u00edtulos e outros documentos de d\u00edvida constantes na Lei n\u00ba 9.492, de 1997, durante o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, ou de emerg\u00eancia de sa\u00fade decorrente da pandemia de coronav\u00edrus. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba-B da Lei n\u00ba 10.260, de 2001, na reda\u00e7\u00e3o dada pelo art. 1\u00ba do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079, de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, para suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, com vista \u00e0 sua rejei\u00e7\u00e3o e consequente restabelecimento do dispositivo equivalente no texto aprovado pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Como L\u00edder. Sem revis\u00e3o do orador.) - Presidente, eu gostaria de pedir a V.Exa. e tamb\u00e9m ao Presidente Rodrigo Maia que pud\u00e9ssemos avaliar o pedido de urg\u00eancia de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.376, de 2020, do Exmo. Sr. Deputado Franco Cartafina, do PP de Minas Gerais, que suspende a lavratura e o registro de protesto extrajudicial de t\u00edtulos e outros documentos de d\u00edvida de que trata a Lei n\u00ba 9.492, de 10 de setembro de 1997, enquanto perdurar o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 20 de mar\u00e7o de 2020, ou de emerg\u00eancia de sa\u00fade internacional decorrente do coronav\u00edrus, respons\u00e1vel pelo surto de 2019 da doen\u00e7a COVID-19, que foi decretada pelo Ministro de Estado da Sa\u00fade, em 3 de fevereiro de 2020, nos termos do disposto na Lei n\u00ba 13.979, de 6 de fevereiro de 2020.\r\nPresidente, n\u00e3o h\u00e1 d\u00favida nenhuma de que a C\u00e2mara tem feito at\u00e9 agora todos os esfor\u00e7os para salvar vidas. A vida est\u00e1 acima de tudo. Todo o Parlamento tem votado em defesa da vida, mas precisamos, a partir deste momento, salvar tamb\u00e9m a vida dos CNPJs. Infelizmente h\u00e1 muitas pequenas e m\u00e9dias empresas que est\u00e3o sendo protestadas. N\u00e3o v\u00e3o conseguir se restabelecer se n\u00e3o tiverem o apoio do nosso Parlamento. E \u00e9 preciso dizer que todo este trabalho - elabora\u00e7\u00e3o do parecer pelo Relator, encaminhamento, vota\u00e7\u00e3o na C\u00e2mara, vota\u00e7\u00e3o no Senado, san\u00e7\u00e3o ou n\u00e3o do nosso Presidente da Rep\u00fablica - leva um tempo.\r\nComo j\u00e1 estamos, gra\u00e7as a Deus, segundo os especialistas, descendo a curva desta pandemia, seria muito importante, Presidente, que j\u00e1 come\u00e7\u00e1ssemos a olhar realmente para a parte de salvamento da vida dos CNPJs.\r\nAqui no Rio de Janeiro h\u00e1 um grande apelo - acredito que haja em todo o Brasil - dos pequenos e m\u00e9dios empres\u00e1rios, que est\u00e3o numa situa\u00e7\u00e3o terr\u00edvel. Se n\u00e3o receberem este olhar atento, que os levaria a suspender esse protesto, eles n\u00e3o conseguir\u00e3o reabrir suas empresas.\r\nCom a MP 977/20 - menciono tamb\u00e9m a MP 975/20 -, o Governo Federal destina 20 bilh\u00f5es a fundo garantidor de cr\u00e9dito. \u00c9 analisado pelo BNDES, h\u00e1 \u00e9 uma burocracia imensa. As empresas n\u00e3o conseguir\u00e3o ter acesso a isso a tempo, mesmo que os bancos, como o Bradesco, o Ita\u00fa, a Caixa Econ\u00f4mica, o Banco do Brasil, todos se envolvam. Desse modo, os empres\u00e1rios n\u00e3o conseguir\u00e3o, infelizmente, reativar suas empresas. Ent\u00e3o, seria muito importante que pud\u00e9ssemos, juntos, reavaliar isso de maneira efetiva.\r\nA orienta\u00e7\u00e3o do Avante \u00e9 \"sim\".\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T12:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, ADMISSIBILIDADE CONSTITUCIONAL,  MPV 931/2020, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.\r\nPESSOA SEM-TETO, RIO DE JANEIRO (RJ), PROVID\u00caNCIA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 931, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 10.406, de 2002 (C\u00f3digo Civil); 5.764, de 1971; e 6.404, de 1976, com vista \u00e0 realiza\u00e7\u00e3o de assembleias de s\u00f3cios e vota\u00e7\u00e3o a dist\u00e2ncia. Apelo \u00e0s autoridades competentes por amparo a moradores de rua no Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a orienta\u00e7\u00e3o do Avante \u00e9 \"sim\".\r\nGostaria de aproveitar esta oportunidade para abordar um tema de todo o Brasil, mas principalmente aqui do Rio de Janeiro. Estive no centro da cidade, num dia da semana, e observei uma coisa terr\u00edvel. Eu tenho visto nas ruas, principalmente no centro da cidade, um n\u00famero imenso de pessoas largadas. Quando por ali passava, vi que a popula\u00e7\u00e3o est\u00e1 realmente abandonada nas ruas.\r\nPor isso, pe\u00e7o que a bancada do Rio de Janeiro se junte \u00e0 Assembleia Legislativa e \u00e0 C\u00e2mara Municipal para que os Poderes retomem o controle e possam recolher essas pessoas para um abrigo ou dar-lhes aten\u00e7\u00e3o. \r\n\u00c9 muito triste e lament\u00e1vel que a popula\u00e7\u00e3o de rua tenha crescido muito no Rio de Janeiro. \u00c9 preciso a aten\u00e7\u00e3o dos Poderes.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "TRANSPORTE P\u00daBLICO COLETIVO, MAT\u00c9RIA, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Necessidade de ado\u00e7\u00e3o, pelo Governo Federal, de medidas em prol das empresas do sistema de transporte coletivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. Eu gostaria de parabenizar V.Exa. pela forma brilhante como vem atuando aqui na C\u00e2mara dos Deputados, junto com todos os Parlamentares.\r\nQuero cumprimentar e deixar um abra\u00e7o para o meu amigo Deputado Luis Tib\u00e9, Presidente do Avante, e para todos os Deputados do Avante.\r\nEsse tema do transporte, na verdade, faz parte da vida das pessoas, faz parte do dia a dia, assim como a moradia, a escola, a sa\u00fade. O transporte faz parte do nosso dia a dia.\r\nCom o crescimento populacional em todas as cidades, em todos os Estados do Brasil - falo especialmente do Rio de Janeiro -, h\u00e1 algo que me preocupa, principalmente neste momento de COVID. N\u00f3s temos o transporte coletivo e o transporte de massa. O transporte de massa \u00e9 feito por trens, barcas, metr\u00f4; o transporte coletivo \u00e9 feito pelos \u00f4nibus, que levam as pessoas para as esta\u00e7\u00f5es.\r\nNo Rio de Janeiro, com os BRTs, o transporte coletivo vem sendo utilizado como transporte de massa. As esta\u00e7\u00f5es est\u00e3o ficando lotadas e as pessoas n\u00e3o est\u00e3o conseguindo ter acesso ao transporte. Fica t\u00e3o cheio, t\u00e3o cheio, que, neste momento de COVID, as pessoas n\u00e3o conseguem entrar nos meios de transporte. As pessoas est\u00e3o se jogando ali.\r\nTudo isso \u00e9 baseado no que se falou aqui. N\u00f3s precisamos ter uma preocupa\u00e7\u00e3o muito grande. A COVID, infelizmente, fez um mal ao mundo todo. No Rio de Janeiro, assim como em S\u00e3o Paulo, \u00e9 imenso o n\u00famero de mortos, o n\u00famero de fam\u00edlias que perderam entes queridos. Mas agora n\u00f3s temos que dar aten\u00e7\u00e3o tamb\u00e9m \u00e0s iniciativas para salvar n\u00e3o somente a vida das pessoas - a vida n\u00e3o tem pre\u00e7o, \u00e9 nosso bem mais precioso -, mas tamb\u00e9m os CNPJs. Temos que salvar os CNPJs. Temos que oferecer condi\u00e7\u00f5es para essas empresas buscarem ajuda do Governo Federal e dos Governos Estaduais e Municipais, para que essas empresas consigam sobreviver. Essas empresas n\u00e3o est\u00e3o conseguindo sobreviver neste momento de pandemia.\r\n\u00c9 muito bom o Governo Federal criar condi\u00e7\u00f5es para essas empresas fazerem empr\u00e9stimos, para essas empresas fazerem um financiamento, mas, na pr\u00e1tica, isso n\u00e3o vai funcionar. N\u00e3o funciona! Na teoria, isso \u00e9 uma maravilha.\r\nMesmo quando as coisas est\u00e3o bem, as empresas n\u00e3o conseguem pagar seus impostos e dificilmente conseguem arcar com todas as responsabilidades, mas, como t\u00eam que arcar, elas v\u00e3o trabalhando. Agora, com esse problema que n\u00f3s estamos vivendo, se n\u00e3o dermos condi\u00e7\u00f5es a essas empresas, se n\u00e3o dermos talvez um prazo para que iniciem o pagamento das d\u00edvidas que ter\u00e3o com o Governo Federal e com o Governos dos Estados, as empresas n\u00e3o v\u00e3o sobreviver. Elas n\u00e3o conseguem pagar o imposto atual, com essa carga tribut\u00e1ria que elas t\u00eam que pagar no dia a dia.\r\nQuando as empresas que est\u00e3o fechadas abrirem, mesmo que se criem condi\u00e7\u00f5es, mesmo que busquem empr\u00e9stimos, n\u00e3o ter\u00e3o como pagar o imposto atual e o refinanciamento. N\u00e3o h\u00e1 condi\u00e7\u00f5es! Eu sou empres\u00e1rio e estou Parlamentar. Portanto, conhe\u00e7o a forma como isso ocorre e sei que n\u00e3o d\u00e1 para pagar o imposto atual e o financiamento. N\u00f3s precisamos dar um prazo de car\u00eancia. N\u00f3s precisamos come\u00e7ar a ter um olhar diferente. S\u00f3 assim vamos conseguir salvar essas empresas.\r\nN\u00e3o adianta n\u00f3s maquiarmos a situa\u00e7\u00e3o dizendo que as empresas v\u00e3o ter 3 meses, 4 meses. Isso n\u00e3o resolve o problema dessas empresas. N\u00f3s precisamos, em primeiro lugar, salvar os CNPJs. N\u00f3s precisamos gerar empregos, gerar impostos, porque muitos est\u00e3o ficando desempregados. Precisamos ter esse cuidado e dar um prazo de car\u00eancia a essas empresas, para depois, sim, elas come\u00e7arem a pagar o financiamento.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  SUBSTITUTIVO, PL 3364/2020, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do inciso V contido no \u00a7 1\u00ba do art. 1\u00ba do substitutivo oferecido ao Projeto de Lei n\u00ba 3.364, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 10.233, de 2001; e o repasse de recursos aos Estados, aos Munic\u00edpios e ao Distrito Federal, em car\u00e1ter emergencial, diante do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, com vista \u00e0 garantia da presta\u00e7\u00e3o dos servi\u00e7os de transporte p\u00fablico coletivo de passageiros, e do reequil\u00edbrio de contratos impactados pela epidemia da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Avante \u00e9 \"sim\".\r\nO que acontece \u00e9 o seguinte. N\u00e3o existe, como disse o meu antecessor, gratuidade. Tudo \u00e9 resultado de impostos, que n\u00f3s pagamos. Agora, em um ano eleitoral, principalmente, deixar que as Prefeituras venham a tratar de um tema t\u00e3o importante neste momento de COVID? Posso falar do Rio de Janeiro. Os \u00f4nibus est\u00e3o desaparecendo das ruas. Empresa n\u00e3o \u00e9 institui\u00e7\u00e3o de caridade. Eles v\u00e3o cobrar realmente.\r\n\u00c9 necess\u00e1rio que neste momento n\u00e3o deixemos os trabalhadores a p\u00e9. \u00c9 preciso esse socorro. N\u00f3s temos que socorrer a popula\u00e7\u00e3o, que depende do transporte p\u00fablico, e, posteriormente a esta pandemia, em um momento adequado, sim, discutir esse tema da maior relev\u00e2ncia, que faz parte da vida do cidad\u00e3o. O transporte hoje n\u00e3o h\u00e1 como separar. N\u00f3s precisamos ter um debate mais profundo para resolver esse problema.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,. EMENDA DE PLEN\u00c1RIO, PL 3364/2020, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 47, apresentada ao Projeto de Lei n\u00ba 3.364, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 10.233, de 2001; e o repasse de recursos aos Estados, aos Munic\u00edpios e ao Distrito Federal, em car\u00e1ter emergencial, diante do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, com vista \u00e0 garantia da presta\u00e7\u00e3o dos servi\u00e7os de transporte p\u00fablico coletivo de passageiros, e do reequil\u00edbrio de contratos impactados pela epidemia da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Avante orienta \"n\u00e3o\", consciente de que esta pandemia n\u00e3o termina agora; esta pandemia vai atravessar o ano.\r\nSe n\u00e3o socorrermos essas empresas, o trabalhador n\u00e3o ter\u00e1 transporte para ir ao trabalho. Ent\u00e3o \u00e9 muito necess\u00e1rio que possamos dar suporte principalmente ao trabalhador. E essas s\u00e3o as a\u00e7\u00f5es concretas que fazem esse divisor de \u00e1guas.\r\nO Avante vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=162&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 6229/2015, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da subemenda substitutiva oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 6.229, de 2005, sobre a altera\u00e7\u00e3o do \u00a7 7\u00ba, art. 6\u00ba, da Lei n\u00ba 11.101, de 2005, relativa \u00e0 regula\u00e7\u00e3o da recupera\u00e7\u00e3o judicial, extrajudicial e da fal\u00eancia do empres\u00e1rio/sociedade empres\u00e1ria, com vista \u00e0 submiss\u00e3o de cr\u00e9ditos tribut\u00e1rios \u00e0 recupera\u00e7\u00e3o judicial, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, vota \"sim\", principalmente pela import\u00e2ncia de resgatarmos os empregos e os impostos que s\u00e3o gerados por essas empresas. Neste momento de dificuldade, n\u00f3s temos que estar juntos, somando for\u00e7as, para que possam se restabelecer todos esses crit\u00e9rios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=170&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 534/2021, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 534, de 2021, sobre a permiss\u00e3o aos Estados e Munic\u00edpios, bem como \u00e0 iniciativa privada, de aquisi\u00e7\u00e3o de vacinas contra a Covid-19 com registro ou autoriza\u00e7\u00e3o tempor\u00e1ria de uso no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante encaminha o voto \"sim\", por entender que n\u00f3s temos que sair logo da in\u00e9rcia em que estamos e precisamos acelerar todo este processo, o que se dar\u00e1, sim, atrav\u00e9s das grandes ind\u00fastrias, por meio da participa\u00e7\u00e3o e da ajuda dos grandes laborat\u00f3rios na compra de vacinas para a popula\u00e7\u00e3o em massa. Assim, poderemos resgatar o Pa\u00eds e dar \u00e0s empresas condi\u00e7\u00f5es para que voltem \u00e0s atividades di\u00e1rias, para que a economia se restabele\u00e7a.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PARECER CONTR\u00c1RIO, PL 534/2021, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 2 a 6, e 9, com parecer contr\u00e1rio, apresentadas ao Projeto de Lei n\u00ba 534, de 2021, sobre a permiss\u00e3o aos Estados e Munic\u00edpios, bem como \u00e0 iniciativa privada, de aquisi\u00e7\u00e3o de vacinas contra a Covid-19 com registro ou autoriza\u00e7\u00e3o tempor\u00e1ria de uso no Brasil, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante vota \"n\u00e3o\" e entende que este momento \u00e9 de uni\u00e3o de todos. Eu ou\u00e7o alguns colegas dizerem que h\u00e1 fura-fila. N\u00e3o existe fura-fila. O privado que estiver autorizado \u00e0 compra n\u00e3o pode doar 100%. Ele doa 50%, e esses 50% j\u00e1 s\u00e3o justamente destinados aos mais idosos. O que n\u00e3o pode \u00e9 uma empresa que tem funcion\u00e1rios, muitas vezes abaixo de 60 anos, com 30 anos, 40 anos, 50 anos, doar todas as suas vacinas.\r\nTem que haver, sim, a uni\u00e3o de todos, e n\u00f3s temos que resolver o problema. A popula\u00e7\u00e3o n\u00e3o quer saber de onde v\u00eam as vacinas, portanto, que venham e sigam os crit\u00e9rios sanit\u00e1rios. Isso \u00e9 a mais importante.\r\nPortanto, o Avante vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-13T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CHIQUINHO BRAZ\u00c3O, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 1380/2021, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE TR\u00c2NSITO BRASILEIRO, ADIAMENTO, EXIG\u00caNCIA, EXAME TOXICOL\u00d3GICO, CATEGORIA DE HABILITA\u00c7\u00c3O, CONDU\u00c7\u00c3O, VE\u00cdCULO, POSTERIORIDADE, ENCERRAMENTO, PANDEMIA, CORONAV\u00cdRUS, MOTORISTA PROFISSIONAL.",
+        "nomeDeputado": "Chiquinho Braz\u00e3o",
+        "sumario": "Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 1.380, de 2021, sobre a suspens\u00e3o da vig\u00eancia do art. 165-B do C\u00f3digo de Tr\u00e2nsito Brasileiro durante a epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CHIQUINHO BRAZ\u00c3O (Bloco/AVANTE - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, entrou em vigor ontem o C\u00f3digo Brasileiro de Tr\u00e2nsito. Eu dei entrada ao Projeto n\u00ba 1.380, de 2021, justamente por entender que ali ter\u00edamos um problema.\r\nO projeto solicita a suspens\u00e3o dos efeitos do art. 165-B, que prev\u00ea infra\u00e7\u00e3o grav\u00edssima a quem conduzir ve\u00edculo para o qual seja exigida habilita\u00e7\u00e3o nas categorias C, D e E sem realiza\u00e7\u00e3o do exame toxicol\u00f3gico, previsto no \u00a7 2\u00ba do art. 148-A deste c\u00f3digo, ap\u00f3s 30 dias do vencimento do prazo.\r\nO que acontece, Presidente? Os motoristas profissionais, seja motoristas de caminh\u00e3o, seja motoristas de transporte coletivo, seja motoristas de t\u00e1xi, todos os motoristas que recebem por trabalho ficar\u00e3o sem condi\u00e7\u00f5es de exercer a fun\u00e7\u00e3o. Os motoristas profissionais ter\u00e3o suspensas suas carteiras por 90 dias. De acordo com este artigo, ser\u00e3o todos os profissionais: motoristas de \u00f4nibus, motoristas de caminh\u00e3o, motoristas de t\u00e1xi - todos os que s\u00e3o remunerados.\r\nN\u00f3s realmente precisamos suspender, em regime de urg\u00eancia, o art. 7\u00ba e o \u00a7 2\u00ba do art. 148, para que eles possam fazer, sim, o exame toxicol\u00f3gico, mas s\u00f3 ap\u00f3s a pandemia.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2021&txPagina=65&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

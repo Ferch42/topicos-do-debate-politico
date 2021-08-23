@@ -1,0 +1,956 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, ARTIGO (TEXTO LEGISLATIVO), MPV 852/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 22, inserido no art. 6\u00ba da Medida Provis\u00f3ria n\u00ba 852, de 2018, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSB orienta o voto \"sim\", porque no art. 22 j\u00e1 est\u00e1 garantido que, se o im\u00f3vel for transferido para a Secretaria do Patrim\u00f4nio da Uni\u00e3o, ser\u00e1 exigida a compensa\u00e7\u00e3o financeira, e o pr\u00f3prio INSS j\u00e1 garante que n\u00e3o consegue gerir o im\u00f3vel. Ent\u00e3o, \u00e9 muito melhor que o im\u00f3vel v\u00e1 para a Secretaria de Patrim\u00f4nio da Uni\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=248&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FELIPE RIGONI, DEPUTADO FEDERAL, CEGO, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), ESP\u00cdRITO SANTO (ESTADO), BIOGRAFIA, ELEI\u00c7\u00d5ES, COOPERA\u00c7\u00c3O POL\u00cdTICA, GEST\u00c3O P\u00daBLICA, DESENVOLVIMENTO SOCIOECON\u00d4MICO, CR\u00cdTICA, OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Supera\u00e7\u00e3o da defici\u00eancia visual pelo orador. Prioridade dos Parlamentares no discurso de cunho pol\u00edtico e nos projetos de interesse pessoal, em detrimento das a\u00e7\u00f5es de atendimento \u00e0s necessidades do povo brasileiro e do desenvolvimento socioecon\u00f4mico do Brasil.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente. Boa tarde, Sras. e Srs. Deputados.\r\nPrimeiro, eu gostaria de agradecer a receptividade de todos. Eu sou Felipe Rigoni, Deputado Federal pelo PSB do Esp\u00edrito Santo. Eu venho de Linhares, uma cidade ao norte do Esp\u00edrito Santo.\r\nComo todos j\u00e1 devem ter percebido, eu sou cego. Eu n\u00e3o nasci cego, mas, sim, fiquei cego depois de 9 anos de muita luta contra v\u00e1rios problemas que me aconteceram. \r\nNo ano de 2006, eu comecei a perceber que, a cada dia que passava, eu enxergava menos; a cada dia que passava, todas as t\u00e9cnicas que eu usava para enxergar melhor j\u00e1 n\u00e3o funcionavam mais. At\u00e9 que, num dia em que eu estava numa aula de portugu\u00eas, escrevendo um exerc\u00edcio, um amigo me falou assim: \"Felipe, voc\u00ea acabou de escrever tr\u00eas vezes na mesma linha\". Eu olhei para o meu caderno e n\u00e3o enxerguei. Foi nesse momento que eu tive que virar para mim e dizer: \"Felipe, vamos parar de se enganar, porque voc\u00ea est\u00e1 cego, n\u00e3o tem mais jeito\".\r\nEu reconheci a cegueira naquele momento, mas n\u00e3o a aceitei. Na verdade, eu fiquei muito revoltado.\r\nNum certo dia, o meu pai me viu chorando na sala de casa, sentou-se ao meu lado e disse assim: \"Felipe, lembre que voc\u00ea tem uma escolha!\" Eu n\u00e3o entendi o que ele falou para mim. Mas, depois de um tempo, comecei a perceber que, de fato, eu n\u00e3o tinha escolha sobre o que estava acontecendo comigo, mas eu tinha, sim, escolha sobre a atitude que eu teria diante daquilo que me acontecia.\r\nAnos depois, eu fui ler na filosofia mais fina o significado das palavras do meu pai. No livro Em Busca de Sentido, o autor austr\u00edaco Viktor Frankl diz que o ser humano pode se desfazer de qualquer coisa, menos da liberdade de escolher que atitude tomar diante das circunst\u00e2ncias. Foi com essa percep\u00e7\u00e3o de que eu tinha liberdade de escolha que me formei como o melhor aluno do curso de engenharia de produ\u00e7\u00e3o da Universidade Federal de Ouro Preto, tendo liderado mais de 10 mil jovens no Movimento Empresa J\u00fanior. Foi com essa mesma escolha que eu acabei de fazer um mestrado em pol\u00edticas p\u00fablicas, na Universidade de Oxford, na Inglaterra. Foi com essa mesma escolha que eu me tornei l\u00edder do movimento Acredito e do RenovaBR e que conquistei o voto de 84.405 capixabas nas \u00faltimas elei\u00e7\u00f5es.\r\nMas por que estou contando essa hist\u00f3ria? Al\u00e9m, \u00e9 claro, de me apresentar, \u00e9 para dizer que o nosso Pa\u00eds n\u00e3o vive um momento f\u00e1cil. Para muitos de n\u00f3s, as escolhas n\u00e3o s\u00e3o muitas. S\u00f3 que milh\u00f5es de brasileiros ainda acreditam que temos uma escolha. As elei\u00e7\u00f5es do ano passado mostraram que os brasileiros e as brasileiras esperam desta Casa uma nova atitude diante dos desafios do nosso Pa\u00eds. \r\nEnquanto ficamos aqui obstruindo o andamento de projetos com os quais concordamos, s\u00f3 para marcar uma posi\u00e7\u00e3o pol\u00edtica, 60 milh\u00f5es de brasileiros est\u00e3o endividados e quase 13 milh\u00f5es est\u00e3o desempregados.(Palmas.)\r\nEnquanto defendemos projetos de interesse pessoal que sequer sabemos se fazem sentido ou n\u00e3o, 100 milh\u00f5es de brasileiros sequer t\u00eam o seu esgoto coletado, qui\u00e7\u00e1 tratado. Enquanto fazemos situa\u00e7\u00e3o pela situa\u00e7\u00e3o ou oposi\u00e7\u00e3o pela oposi\u00e7\u00e3o, h\u00e1 cerca de 1,5 milh\u00e3o de jovens fora da escola.\r\nAcredito que n\u00e3o foi para esse tipo de atitude que os brasileiros depositaram em n\u00f3s as suas esperan\u00e7as, no ano passado.\r\nIndependentemente do nosso campo pol\u00edtico - Direita, Esquerda ou Centro -, \u00e9 necess\u00e1rio entender que precisamos criar e, de fato, produzir uma gest\u00e3o p\u00fablica eficiente e inovadora. N\u00e3o importa se somos Minoria ou Maioria, o que importa \u00e9 que precisamos promover igualdade de oportunidades, especialmente atrav\u00e9s de uma educa\u00e7\u00e3o de qualidade para o nosso Pa\u00eds. Pouco vale se somos Governo ou Oposi\u00e7\u00e3o, quando o desenvolvimento socioecon\u00f4mico do nosso Pa\u00eds est\u00e1 em jogo. N\u00f3s precisamos, sim, nos debru\u00e7ar sobre as evid\u00eancias cient\u00edficas que existem sobre cada coisa, respeitando a vontade popular e, \u00e9 claro, entendendo as consequ\u00eancias de cada pol\u00edtica nos diferentes contextos do nosso Pa\u00eds. S\u00f3 assim, construindo pontes e di\u00e1logo, \u00e9 que n\u00f3s vamos construir um Pa\u00eds mais \u00e9tico, mais justo, mais desenvolvido e mais inclusivo para as pr\u00f3ximas gera\u00e7\u00f5es.\r\nMuito obrigado, Sr. Presidente.(Palmas.)\r\nO SR. PRESIDENTE (Marcos Pereira. Bloco/PRB - SP) - Parab\u00e9ns pelas suas palavras, Deputado Felipe Rigoni.\r\nV.Exa. realmente parou o Plen\u00e1rio. V.Exa. emocionou todo o Plen\u00e1rio.\r\nEu queria dizer ao Plen\u00e1rio que eu tamb\u00e9m nasci na cidade de Linhares - apesar de ser Deputado por S\u00e3o Paulo - e tenho uma hist\u00f3ria semelhante \u00e0 hist\u00f3ria do Deputado Felipe Rigoni.\r\nEu sou adotado. N\u00e3o conhe\u00e7o os meus pais biol\u00f3gicos. Eu fui adotado no dia em que nasci, \u00e0s margens da BR-101, na cidade de Linhares, por uma fam\u00edlia paup\u00e9rrima daquele Munic\u00edpio.\r\nV.Exa., Deputado Felipe Rigoni, assim como eu e muitos aqui, \u00e9 um vencedor. Parab\u00e9ns, Deputado Felipe Rigoni!\r\nEu queria pedir ao Plen\u00e1rio, quebrando o protocolo, mais uma salva de palmas para os brasileiros vencedores.\r\n(O Plen\u00e1rio presta a homenagem solicitada.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 2.724, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSB orienta o voto \"n\u00e3o\" para a retirada de pauta. Todas as diverg\u00eancias que temos j\u00e1 est\u00e3o sendo resolvidas ou o ser\u00e3o nos destaques. Ent\u00e3o, vamos resolver isso nos destaques e no voto.\r\nVamos votar!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=287&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 1.321, de 2019, sobre a autonomia dos partidos pol\u00edticos.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente; boa tarde, Sras. e Srs. Parlamentares.\r\nEu gostaria de chamar aten\u00e7\u00e3o para um ponto bem espec\u00edfico deste projeto. Apesar de eu concordar com que quem tem que definir a dura\u00e7\u00e3o de mandatos nos partidos, nos diret\u00f3rios, somos n\u00f3s, o Congresso Nacional e os partidos, h\u00e1 um ponto no projeto que diz que as comiss\u00f5es, os diret\u00f3rios provis\u00f3rios podem durar at\u00e9 8 anos.\r\nColegas, dessa maneira n\u00f3s estaremos na pr\u00e1tica perpetuando o poder dentro dos partidos, e n\u00f3s n\u00e3o precisamos disso. N\u00f3s precisamos de fato de democracia interna nos partidos, de oxigena\u00e7\u00e3o dentro dos partidos, para que consigamos uma democracia cada vez melhor no Pa\u00eds.\r\nPor isso, eu e outros Parlamentares estamos apresentando uma emenda no sentido de que, al\u00e9m de ter que estar no estatuto do partido a dura\u00e7\u00e3o dos diret\u00f3rios provis\u00f3rios, essa dura\u00e7\u00e3o tem que ser, no m\u00e1ximo, igual \u00e0 metade da dura\u00e7\u00e3o do mandato permanente, para que tenhamos diret\u00f3rios provis\u00f3rios de fato provis\u00f3rios, possibilitando a oxigena\u00e7\u00e3o dos partidos, e dando a eles democracia interna.\r\nAssim, eu me manifesto contra o projeto e apresento emenda para darmos uma solu\u00e7\u00e3o ao problema.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=148&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LEI DE LICITA\u00c7\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Reformula\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es e Contratos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, muito obrigado pela concess\u00e3o do tempo. \r\nEu s\u00f3 quero refor\u00e7ar a fala do meu amigo Deputado Augusto Coutinho sobre a Lei de Licita\u00e7\u00f5es. O tema \u00e9 muito importante. H\u00e1 23 anos n\u00f3s tentamos modificar a Lei n\u00ba 8.666, que foi formulada com uma inten\u00e7\u00e3o, mas n\u00e3o conseguiu cumprir o seu papel. Precisamos reformul\u00e1-la, para dar mais seguran\u00e7a jur\u00eddica \u00e0s empresas, aos Munic\u00edpios e aos Estados brasileiros, bem como dar maios disciplina e efici\u00eancia aos gastos p\u00fablicos no Brasil.\r\nNa segunda-feira da semana que vem iniciaremos a discuss\u00e3o da mat\u00e9ria. Estamos totalmente abertos para reformul\u00e1-la coletivamente com as outras bancadas.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=189&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL, INSTITUTO FEDERAL DE ENSINO (IFE), RECURSOS OR\u00c7AMENT\u00c1RIOS, CONTINGENCIAMENTO, CORTE, CORRELA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, ESCLARECIMENTO, NECESSIDADE.\r\nDISCUSS\u00c3O, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "N\u00e3o esclarecimento, por parte do Governo Federal, do contingenciamento de recursos destinados \u00e0 educa\u00e7\u00e3o p\u00fablica. Discuss\u00e3o do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da  Lei n\u00ba 8.666, de 1993, a respeito das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Boa noite.\r\nEu concordo com muitos dos que est\u00e3o falando aqui: faltaram, sim, crit\u00e9rios; faltou, sim, uma explica\u00e7\u00e3o melhor para o contingenciamento do Minist\u00e9rio da Educa\u00e7\u00e3o.\r\nNo entanto, estamos h\u00e1 24 anos na tentativa da mudan\u00e7a da Lei de Licita\u00e7\u00f5es, e est\u00e1 nas nossas m\u00e3os a oportunidade de revolucionar todo o sistema de compras p\u00fablicas do nosso Pa\u00eds. A nova Lei de Licita\u00e7\u00f5es - eu acompanhei muito de perto a elabora\u00e7\u00e3o do novo relat\u00f3rio, junto com o Relator Augusto Coutinho - traz tr\u00eas grandes inova\u00e7\u00f5es, que eu preciso citar, pois v\u00e3o causar, de fato, uma revolu\u00e7\u00e3o no sistema de compras p\u00fablicas.\r\nPrimeiro, simplificamos muito as etapas, tornamos mais claro o processo e facilitamos que os prazos sejam mais reduzidos, ou seja, ganharemos agilidade nas licita\u00e7\u00f5es brasileiras. Com isso, vamos conseguir combater melhor a corrup\u00e7\u00e3o, vamos tipificar mais crimes nessa lei, vamos conseguir, atrav\u00e9s da invers\u00e3o da fase de licita\u00e7\u00e3o e habilita\u00e7\u00e3o com a fase de lances e pre\u00e7os, reduzir significativamente os prazos, ganhando muito mais agilidade. Vamos facilitar que Prefeituras consigam fazer licita\u00e7\u00f5es pequenas muito mais r\u00e1pido. Isso vai facilitar muito todo o sistema de compras p\u00fablicas.\r\nA segunda grande coisa \u00e9 que a gente praticamente resolve o problema de obras paradas no Brasil. Como o Deputado Augusto Coutinho disse aqui antes, a gente torna obrigat\u00f3ria a medi\u00e7\u00e3o mensal de todas as obras, a gente traz de 90 dias para 30 dias o prazo de pagamento p\u00f3s-medi\u00e7\u00e3o, tornando o sistema de obras p\u00fablicas brasileiras muito mais eficiente e praticamente eliminando o problema das obras paradas.\r\nPor \u00faltimo, o que para mim \u00e9 o mais importante, vamos, de uma vez por todas, tornar o Estado brasileiro capaz de comprar inova\u00e7\u00e3o. Atrav\u00e9s de dispositivos de di\u00e1logo competitivo e de procedimentos de manifesta\u00e7\u00e3o de interesse, n\u00f3s vamos conseguir contratar startups, contratar solu\u00e7\u00f5es para problemas cuja solu\u00e7\u00e3o n\u00e3o conhecemos ainda. Isso vai tornar muito mais f\u00e1cil conseguir que a intelig\u00eancia coletiva da sociedade brasileira ajude o Governo a resolver os seus pr\u00f3prios problemas.\r\nN\u00f3s estamos, como eu disse, h\u00e1 24 anos tentando modificar essa lei. Ent\u00e3o, eu pe\u00e7o a todos aqui que, sim, discutamos essa mat\u00e9ria, mas que a votemos em breve, porque ela \u00e9 muito importante. O Brasil inteiro est\u00e1 esperando por uma nova Lei de Licita\u00e7\u00f5es e um novo sistema de compras p\u00fablicas.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 10/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO CONTR\u00c1RIO.\r\nCOMPET\u00caNCIA, AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL, COMUNICA\u00c7\u00c3O, IND\u00cdCIO, CRIME, MINIST\u00c9RIO P\u00daBLICO, COMBATE, CORRUP\u00c7\u00c3O, DEFESA.\r\nNULIDADE, PROCESSO PENAL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Reconhecimento, pelo PSB, da import\u00e2ncia da Receita Federal do Brasil no combate \u00e0 corrup\u00e7\u00e3o. Protesto contra a vota\u00e7\u00e3o de requerimento de destaque \u00e0 mat\u00e9ria em pauta, relativo \u00e0 atua\u00e7\u00e3o dos Auditores da Receita Federal do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSB acredita que o combate \u00e0 corrup\u00e7\u00e3o \u00e9 algo muito importante a ser feito, e a Receita Federal e os auditores-fiscais t\u00eam um papel important\u00edssimo nisso. Foi por isto que n\u00f3s tamb\u00e9m fizemos um destaque, para manter o texto original, dando \u00e0 Receita Federal e aos auditores sua fun\u00e7\u00e3o.\r\nNo entanto, h\u00e1 um detalhe que as pessoas ainda n\u00e3o est\u00e3o percebendo. Est\u00e1 sendo dito no pr\u00f3prio texto que est\u00e1 destacado que seus efeitos podem ser retroativos. Isso pode significar que processos penais que se originaram de compartilhamento de dados feito por auditores-fiscais no passado podem ser considerados nulos. Ent\u00e3o, vamos estar simplesmente declarando nulos v\u00e1rios processos contra pessoas que j\u00e1 foram presas, uma s\u00e9rie de processos que j\u00e1 est\u00e3o fechados! \u00c9 um absurdo, portanto, o que estamos fazendo aqui. N\u00f3s precisamos...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=215&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1292/95, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DAS LICITA\u00c7\u00d5ES, OBRIGATORIEDADE, CONTRATADO, VOTA\u00c7\u00c3O, AN\u00c1LISE.\r\nCORRUP\u00c7\u00c3O, LEI DAS LICITA\u00c7\u00d5ES, AN\u00c1LISE.\r\nLEI DAS LICITA\u00c7\u00d5ES, CONTROLADORIA-GERAL DA UNI\u00c3O (CGU) (2003-2016), PESQUISA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Defesa de altera\u00e7\u00f5es na Lei n\u00ba 8.666, de 1993, a respeito das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Parlamentares, muito boa noite. \r\nN\u00f3s ouvimos muito nesses \u00faltimos meses aqui na C\u00e2mara que precisamos dar uma resposta muito mais concreta aos brasileiros e brasileiras sobre a crise por que estamos passando. Obviamente, a reforma da Previd\u00eancia \u00e9 algo muito importante, mas estamos com a oportunidade hoje e aqui de dar uma das melhores respostas ao Brasil - refiro-me \u00e0 mudan\u00e7a na Lei de Licita\u00e7\u00f5es. \r\nMuito pouco conhecida pelos brasileiros, a Lei n\u00ba 8.666 tinha um objetivo muito claro de dar maior disciplina \u00e0s compras p\u00fablicas, mas n\u00e3o conseguiu cumprir um de seus papeis centrais, qual seja, o de dar efici\u00eancia e ajudar no combate \u00e0 corrup\u00e7\u00e3o nas licita\u00e7\u00f5es. Por isso, desde 1995, 2 anos depois da implementa\u00e7\u00e3o da Lei n\u00ba 8.666, tent\u00e1vamos mud\u00e1-la. E, hoje, temos essa oportunidade. \r\nConseguimos corrigir uma s\u00e9rie de distor\u00e7\u00f5es que a Lei de Licita\u00e7\u00f5es estava causando no Brasil com a nova lei que est\u00e1 sendo votada aqui e agora. N\u00f3s simplificamos uma s\u00e9rie de processos. Invertemos as fases da licita\u00e7\u00e3o, o que torna mais \u00e1gil, mais eficiente e permite com que obras e servi\u00e7os sejam contratados com muito mais compet\u00eancia. \r\nSegundo levantamento do pr\u00f3prio TCU, cerca de 5 mil obras est\u00e3o paradas no Brasil, dentre elas 1.500 unidades b\u00e1sicas de sa\u00fade e mil escolas. Isso, em grande parte, foi causado por uma s\u00e9rie de distor\u00e7\u00f5es que existem na Lei n\u00ba 8.666.\r\nCom essa nova lei, conseguimos corrigir essas distor\u00e7\u00f5es, estipulando uma frequ\u00eancia mensal para as medi\u00e7\u00f5es e um prazo de pagamento muito mais claro, para que o poder p\u00fablico tamb\u00e9m tenha um compromisso muito maior, obviamente, com as suas obras. Ao mesmo tempo, a gente endurece uma s\u00e9rie de penas, simplifica processos e torna o controle muito mais simples e, por consequ\u00eancia, mais eficaz. \r\nE, para mim, o mais importante de tudo: o Estado brasileiro at\u00e9 ent\u00e3o era incapaz de comprar inova\u00e7\u00e3o, por conta da Lei n\u00ba 8.666. Com essa nova Lei de Licita\u00e7\u00f5es, atrav\u00e9s do di\u00e1logo competitivo e da proposta de manifesta\u00e7\u00e3o de interesse, que s\u00e3o dois dispositivos muito importantes que trazemos e que s\u00e3o inova\u00e7\u00f5es, teremos a possibilidade de contratar inova\u00e7\u00e3o. E vai ser muito mais f\u00e1cil para o Prefeito, para o Governador e, obviamente, para todos os gestores p\u00fablicos contratarem inova\u00e7\u00e3o e serem mais eficientes. \r\nA CGU fez um levantamento e mostrou que 73% de todas as imperfei\u00e7\u00f5es em licita\u00e7\u00f5es s\u00e3o de pequeno porte, ou seja, n\u00e3o se trata de m\u00e1 vontade do gestor p\u00fablico, essas imperfei\u00e7\u00f5es n\u00e3o ocorreram porque o gestor p\u00fablico era ruim ou queria fazer o mal, mas porque a Lei de Licita\u00e7\u00f5es, de fato, \u00e9 muito complexa e traz muitas distor\u00e7\u00f5es, o que torna muito dif\u00edcil para o gestor cumpri-la e ser eficiente ao mesmo tempo. \r\nEnt\u00e3o, pe\u00e7o a todos e todas que, obviamente, avaliemos os destaques, mas entendamos que a nova Lei de Licita\u00e7\u00f5es est\u00e1 muito boa e nos trar\u00e1 um Estado brasileiro capaz de inovar, com processos mais \u00e1geis e mais simples; um Estado brasileiro capaz de entregar servi\u00e7os p\u00fablicos de qualidade na ponta e combater a corrup\u00e7\u00e3o.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-04T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), COMISS\u00c3O ESPECIAL, ALTERA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Apoio \u00e0s altera\u00e7\u00f5es procedidas no parecer oferecido pelo Relator da proposta de reforma previdenci\u00e1ria na respectiva Comiss\u00e3o Especial. Necessidade de reformula\u00e7\u00e3o da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde a todos.\r\nHoje n\u00f3s acabamos de ter um momento muito importante para o nosso Pa\u00eds. Acabamos de aprovar o texto-base da reforma da Previd\u00eancia. Em primeiro lugar, n\u00f3s precisamos entender, e eu preciso dizer, que esse texto foi constru\u00eddo a muitas m\u00e3os. Ele ficou muito melhor do que o texto original enviado pelo Governo. Portanto, ele obviamente tem nosso apoio.\r\nEu preciso dizer que a Previd\u00eancia atual, do jeito que est\u00e1, precisa ser modificada por tr\u00eas grandes raz\u00f5es. Primeiro, a Previd\u00eancia causa desigualdade, 18% da desigualdade de renda no Brasil s\u00e3o causados pela Previd\u00eancia atual, pelo sistema de aposentadorias e pens\u00f5es.\r\nSegundo motivo: o gasto com a Previd\u00eancia cresce 50 bilh\u00f5es por ano. Ele cresce demais, ele \u00e9 incontrol\u00e1vel. O Brasil est\u00e1 envelhecendo muito r\u00e1pido, o que \u00e9 superpositivo, mas, por consequ\u00eancia, o gasto cresce muito r\u00e1pido, e precisamos frear a velocidade com que o gasto cresce.\r\nEm terceiro lugar, o gasto j\u00e1 \u00e9 muito alto. S\u00e3o 767 bilh\u00f5es previstos s\u00f3 para este ano. S\u00e3o 53% de todo o or\u00e7amento federal. Por isso, precisamos de uma reforma da Previd\u00eancia. Se n\u00f3s n\u00e3o fizermos uma reforma da Previd\u00eancia, n\u00e3o vamos conseguir controlar os gastos p\u00fablicos brasileiros e, por consequ\u00eancia, n\u00e3o vamos conseguir cumprir com os nossos compromissos. Os juros n\u00e3o v\u00e3o baixar, e quem vai sofrer com isso especialmente \u00e9 a popula\u00e7\u00e3o mais pobre e os desempregados.\r\n\u00c9 claro que o texto que foi aprovado precisa de mudan\u00e7as. Eu cito algumas aqui, especialmente em rela\u00e7\u00e3o ao tempo m\u00ednimo de contribui\u00e7\u00e3o. Eu acredito que ele tem que voltar para 15 anos, especialmente no caso das mulheres. E n\u00f3s precisamos, de uma vez por todas, acabar com a possibilidade de supersal\u00e1rios e de superaposentadorias. Ainda temos a oportunidade de fazer isso no texto.\r\nFinalmente, precisamos de uma reforma da Previd\u00eancia e, \u00e9 claro, de v\u00e1rias outras medidas, mas essa \u00e9 a primeira e a mais urgente.\r\nMuito obrigado, Sr. Presidente.\r\nQueria que meu pronunciamento fosse divulgado no programa A Voz do Brasil, por favor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F7%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Boa noite a todos.\r\nEsta \u00e9 uma semana muito importante para nosso Pa\u00eds, pois come\u00e7amos a vota\u00e7\u00e3o do projeto mais urgente e mais relevante para o momento que estamos passando. N\u00f3s passamos por um longo caminho desde que a reforma da Previd\u00eancia chegou a esta Casa. Alcan\u00e7amos muitos avan\u00e7os. A t\u00edtulo de exemplifica\u00e7\u00e3o, cito quatro das emendas que eu e os Parlamentares do Movimento Acredito fizemos e que foram acatadas: a emenda que retira o BPC do texto foi totalmente acatada; outras tr\u00eas foram parcialmente acatadas; o tempo m\u00ednimo para as mulheres foi parcialmente acatado; a idade para a aposentadoria dos professores foi parcialmente acatada; e a retirada dos trabalhadores rurais do texto foi parcialmente acatada.\r\nNo entanto, ainda temos, obviamente, um caminho a seguir. Temos que votar nesta semana a reforma da Previd\u00eancia. \u00c9 muito importante que incluamos os Estados na reforma. Segundo o relat\u00f3rio da Federa\u00e7\u00e3o das Ind\u00fastrias do Estado do Rio de Janeiro - FIRJAN, hoje o d\u00e9ficit previdenci\u00e1rio dos Estados chega a 77,8 bilh\u00f5es de reais. Quatro Estados j\u00e1 t\u00eam mais aposentados do que pessoas na ativa. Em outros dez, a cada dez trabalhadores, oito s\u00e3o aposentados. Portanto, n\u00f3s precisamos incluir os Estados e os Munic\u00edpios.\r\nOutra quest\u00e3o que precisamos incluir, para acabar de uma vez por todas com uma s\u00e9rie de privil\u00e9gios que ainda existem, \u00e9 acabar com a possibilidade dos supersal\u00e1rios e das superaposentadorias. Ali\u00e1s, eu sou signat\u00e1rio de uma emenda que trata disso. Atualmente s\u00e3o recebidas, na forma de verbas indenizat\u00f3rias, v\u00e1rias quest\u00f5es, fazendo o sal\u00e1rio ultrapassar o teto constitucional de 39 mil reais. \r\nSe de fato conseguirmos incluir isso na reforma da Previd\u00eancia, poderemos dizer, com muito orgulho, que estamos acabando com praticamente todos os privil\u00e9gios que existem na rela\u00e7\u00e3o que a Previd\u00eancia coloca aos brasileiros e brasileiras.\r\nPortanto, esta \u00e9 uma semana muito importante. Precisamos discutir com base em evid\u00eancias cient\u00edficas e, obviamente, no di\u00e1logo. Por\u00e9m, precisamos aprovar a reforma da Previd\u00eancia, porque v\u00e1rios outros assuntos e mat\u00e9rias muito importantes est\u00e3o a caminho, para fazer o Brasil andar.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=37&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-16T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), RETOMADA, CRESCIMENTO ECON\u00d4MICO.\r\nREFORMA TRIBUT\u00c1RIA, REFORMA ADMINISTRATIVA,  DIGITALIZA\u00c7\u00c3O, SERVI\u00c7O P\u00daBLICO. MARCO REGULATORIO, SANEAMENTO B\u00c1SICO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Import\u00e2ncia da reforma previdenci\u00e1ria para a retomada do crescimento econ\u00f4mico brasileiro. Necessidade de realiza\u00e7\u00e3o das reformas tribut\u00e1ria e do Estado brasileiro. Defesa de digitaliza\u00e7\u00e3o dos servi\u00e7os p\u00fablicos. Implementa\u00e7\u00e3o de projeto de melhoria da infraestrutura brasileira. Estabelecimento do novo marco do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Muito obrigado, Presidente, pelo elogio.\r\nBoa tarde a todos.\r\nA aprova\u00e7\u00e3o, em primeiro turno, da reforma da Previd\u00eancia representa de fato um passo importante para a retomada econ\u00f4mica do nosso Pa\u00eds. No entanto, conforme palavras do pr\u00f3prio economista Marcos Lisboa, a reforma da Previd\u00eancia \u00e9 simplesmente um paraquedas para quem est\u00e1 caindo, e o detalhe \u00e9 que, quando abre o paraquedas, continua caindo. N\u00f3s precisamos de fato come\u00e7ar a pensar para al\u00e9m da reforma da Previd\u00eancia, que obviamente n\u00e3o ser\u00e1 a solu\u00e7\u00e3o dos nossos problemas, precisamos considerar o tipo de Pa\u00eds que n\u00f3s queremos. Qual \u00e9 o projeto de Brasil que n\u00f3s queremos?\r\nA parte fiscal dos problemas brasileiros ainda n\u00e3o terminou. A reforma da Previd\u00eancia trata de despesas, com certeza, mas ainda temos a parte da receita. Por exemplo, ainda precisamos fazer a reforma tribut\u00e1ria, que \u00e9 extremamente importante. Ao simplificar e unificar cinco impostos, a reforma que est\u00e1 proposta ajudar\u00e1 e simplificar\u00e1 muito a vida dos brasileiros e das brasileiras. Ela pavimenta o caminho para conseguirmos fazer da tributa\u00e7\u00e3o brasileira algo de fato progressivo: quem tem menos paga menos e quem tem mais paga mais.\r\nMas n\u00e3o podemos parar por a\u00ed. N\u00f3s ainda precisamos harmonizar todas as regras fiscais que temos no Brasil. N\u00e3o temos uma ferramenta t\u00e3o clara para cumprir a regra de ouro e, por consequ\u00eancia, estabilizar a nossa d\u00edvida, promover uma estabilidade macroecon\u00f4mica.\r\nN\u00f3s ainda precisamos da reforma do Estado, a reforma administrativa. Muitas pesquisas j\u00e1 foram feitas e ainda s\u00e3o feitas sobre isso. Se tudo der certo, o Governo vai encaminh\u00e1-la no segundo semestre. N\u00f3s precisamos, sim, repensar todo o modelo de gest\u00e3o de pessoas e de est\u00edmulo a resultados que o Governo tem.\r\nAl\u00e9m disso, h\u00e1 o que chamamos de transforma\u00e7\u00e3o digital. Inclusive, sou Relator do projeto sobre governo e tecnologia, sobre transforma\u00e7\u00e3o digital. A cada real investido na transforma\u00e7\u00e3o digital no Brasil, 25 reais s\u00e3o economizados dentro do Governo e 109 reais s\u00e3o economizados fora, em efici\u00eancia na economia. Se conseguirmos digitalizar de fato os servi\u00e7os p\u00fablicos, vamos dar uma qualidade muito maior para o servi\u00e7o, uma abrang\u00eancia muito maior para o servi\u00e7o.\r\nAinda h\u00e1 muitas outras coisas a serem feitas, a exemplo do grande projeto de infraestrutura que precisamos fazer. A infraestrutura brasileira ainda \u00e9 muito prec\u00e1ria.\r\nNo segundo semestre, um dos primeiros projetos a serem votados e aprovados ap\u00f3s a reforma da Previd\u00eancia ser\u00e1 o do novo marco do saneamento b\u00e1sico brasileiro. Sozinho, conseguir\u00e1 criar cerca de 700 mil empregos nos pr\u00f3ximos 14 anos. Cada real investido em saneamento, Presidente, resulta em 4 reais economizados na sa\u00fade e em 2,5 reais injetados na economia brasileira.\r\nN\u00f3s precisamos come\u00e7ar a pensar n\u00e3o s\u00f3 os projetos ponto a ponto, mas tamb\u00e9m o projeto de Brasil que n\u00f3s queremos. Obviamente, queremos um Brasil com igualdade de oportunidades para todos, com qualidade na educa\u00e7\u00e3o, na sa\u00fade, na seguran\u00e7a e na infraestrutura, mas, para isso, precisamos priorizar esses projetos e torn\u00e1-los, especialmente no pr\u00f3ximo semestre, uma realidade para os brasileiros e brasileiras.\r\nPresidente, solicito que este pronunciamento seja divulgado no programa A Voz do Brasil.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F7%2F2019&txPagina=20&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-12T13:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3688/2000, PROJETO DE LEI ORDIN\u00c1RIA, ESCOLA P\u00daBLICA, INCLUS\u00c3O, ASSISTENTE SOCIAL, PSIC\u00d3LOGO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.688, de 2000, sobre a presta\u00e7\u00e3o de servi\u00e7os de psicologia e de servi\u00e7o social nas redes p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Eu queria s\u00f3 refor\u00e7ar o que a minha amiga Deputada do Esp\u00edrito Santo acabou de dizer.\r\nN\u00f3s j\u00e1 temos uma s\u00e9rie de evid\u00eancias cient\u00edficas que mostram a import\u00e2ncia que t\u00eam psic\u00f3logos e assistentes sociais quando est\u00e3o na escola para fazer o diagn\u00f3stico precoce, para dar apoio emocional, especialmente em \u00e1reas vulner\u00e1veis. Sabemos que a maioria das escolas p\u00fablicas brasileiras est\u00e3o em \u00e1reas vulner\u00e1veis, e a presen\u00e7a de um psic\u00f3logo e de um assistente social ajuda muito na estabiliza\u00e7\u00e3o, at\u00e9 em favor do aprendizado desse aluno.\r\nEu queria refor\u00e7ar essa ideia porque, de fato, esse \u00e9 um projeto muito importante. Mesmo que exista dificuldade fiscal das Prefeituras em fazer isso, elas v\u00e3o ter a liberdade de estabelecer as suas prioridades para cumprir essa lei e, \u00e9 claro, as outras fiscais e sociais que precisam cumprir. Isso \u00e9 de extrema import\u00e2ncia para o nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F9%2F2019&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "QUEST\u00c3O DE ORDEM, PROCEDIMENTO . VOTA\u00c7\u00c3O, SUBSTITUTIVO, SENADO FEDERAL,  PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Quest\u00e3o de ordem sobre o motivo da n\u00e3o vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 5.029, de 2019, (11.021-B, de 2018, na C\u00e2mara dos Deputados), a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "QUEST\u00c3O DE ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para uma quest\u00e3o de ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, com base no art. 138, \u00a7 4\u00ba, combinado com o art. 190, inciso II, em qualquer emenda que vier do Senado com inten\u00e7\u00e3o de substituir integralmente um projeto de lei enviado ao Senado pela C\u00e2mara, deve vir, em seguida ao n\u00famero do PL, entre par\u00eanteses, o indicativo \"substitutivo\".\r\nNessa emenda que n\u00f3s estamos discutindo, Sr. Presidente, vem claramente \"Emenda ao PL 5.829, de 2019\" e, entre par\u00eanteses, \"substitutivo\", o que nos leva a crer que est\u00e1 claro que a inten\u00e7\u00e3o do substantivo do Senado \u00e9 substituir integralmente.\r\nAdicionado a isso, o art. 190, inciso II, fala que qualquer emenda que houver a qualquer projeto de lei pode ser votada em separado por destaque. No entanto, n\u00e3o temos os n\u00fameros das emendas aqui, para, por exemplo, qualquer partido destacar.\r\nEnt\u00e3o, o nosso questionamento, Sr. Presidente, \u00e9 para entendermos por que n\u00f3s n\u00e3o estamos votando o substitutivo por inteiro, j\u00e1 que n\u00e3o temos formalmente as emendas aqui protocoladas. Pe\u00e7o a considera\u00e7\u00e3o de V.Exa. \u00e0 nossa quest\u00e3o de ordem.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Por uma quest\u00e3o muito simples. O texto que veio do Senado \u00e9 um texto igual ao da C\u00e2mara dos Deputados. Foi por isso que eu disse que o texto do fundo j\u00e1 est\u00e1 aprovado. Ningu\u00e9m est\u00e1 discutindo mais o fundo eleitoral. Ele j\u00e1 est\u00e1 aprovado. Por isso, temos que votar a sequ\u00eancia de emendas supressivas que foram aprovadas pelo Senado Federal, ressalvados os destaques.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=132&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3443/2019, PROJETO DE  LEI ORDIN\u00c1RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.443, de 2019, sobre a presta\u00e7\u00e3o digital dos servi\u00e7os na administra\u00e7\u00e3o p\u00fablica - Governo Digital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSB vota \"sim\" a esta proposta.\r\nEu queria dizer, como futuro Relator desta mat\u00e9ria - V.Exa. me deu a honrosa tarefa de relat\u00e1-la -, inclusive em rela\u00e7\u00e3o ao coment\u00e1rio do Deputado Orlando Silva, que n\u00f3s vamos fazer uma revolu\u00e7\u00e3o de fato no servi\u00e7o p\u00fablico brasileiro. N\u00f3s vamos garantir que todo cidad\u00e3o, independentemente da sua cidade, do seu Estado e da sua condi\u00e7\u00e3o financeira, tenha acesso a um servi\u00e7o p\u00fablico que pode ser solicitado, monitorado e avaliado de maneira digital, se assim o cidad\u00e3o quiser.\r\nUma preocupa\u00e7\u00e3o grande que est\u00e1 havendo em rela\u00e7\u00e3o a esse projeto diz respeito aos pequenos Munic\u00edpios. \u00c9 por isso que n\u00f3s damos prazos diferenciados. Acima de tudo, o Governo Federal vai ser incumbido de orientar t\u00e9cnica e financeiramente os Munic\u00edpios - \u00e9 \u00f3bvio - em toda a quest\u00e3o de tecnologia da informa\u00e7\u00e3o, para que se transformem digitalmente e coloquem as suas plataformas digitais de maneira padronizada e de qualidade...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4162/2019, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, MARCO REGULAT\u00d3RIO, SANEAMENTO B\u00c1SICO,  APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 4.162, de 2019, sobre a atualiza\u00e7\u00e3o do marco regulat\u00f3rio do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, 1 minuto, por favor?\r\nPresidente, n\u00f3s estamos aqui num momento hist\u00f3rico no Brasil. N\u00f3s estamos historicamente retomando o saneamento b\u00e1sico e tamb\u00e9m a sa\u00fade p\u00fablica. E, na empregabilidade dos brasileiros, ser\u00e3o centenas de milhares de brasileiros empregados, com os pr\u00f3ximos investimentos.\r\nN\u00f3s estamos dando aqui a harmoniza\u00e7\u00e3o da regula\u00e7\u00e3o no setor de saneamento. N\u00f3s estamos garantindo que as \u00e1reas remotas, perif\u00e9ricas e mais pobres tenham saneamento, atrav\u00e9s das microrregi\u00f5es de saneamento. E n\u00f3s tamb\u00e9m estamos garantindo seguran\u00e7a jur\u00eddica para as empresas p\u00fablicas e privadas fazerem os investimentos necess\u00e1rios e universalizarem o saneamento, devolvendo a dignidade para dezenas de milh\u00f5es de brasileiros que hoje est\u00e3o sem esse servi\u00e7o, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=355&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO FAVOR\u00c1VEL.\r\nMINIST\u00c9RIO DA SA\u00daDE, PROTOCOLO CL\u00cdNICO, PESSOA COM DEFICI\u00caNCIA, GRUPO DE RISCO, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 848, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos, ressalvados os destaques. Necessidade de publica\u00e7\u00e3o, pelo Minist\u00e9rio da Sa\u00fade, de protocolo de atendimento aos portadores de defici\u00eancia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s do PSB acreditamos ser muito importante este projeto. Ent\u00e3o, j\u00e1 parabenizamos o autor e a Relatora, a Deputada Alice.\r\nAgradecemos \u00e0 Deputada Alice por acatar a nossa sugest\u00e3o para que as pessoas do grupo de risco e as pessoas com defici\u00eancia possam nomear um representante para ir buscar os seus rem\u00e9dios nas farm\u00e1cias, j\u00e1 que elas n\u00e3o devem sair de casa neste momento.\r\nEu queria aproveitar para dizer rapidamente que \u00e9 muito importante que o Minist\u00e9rio da Sa\u00fade publique um protocolo de atendimento \u00e0s pessoas com defici\u00eancia no \u00e2mbito do sistema de sa\u00fade e coloque as pessoas com defici\u00eancia imediatamente no grupo de risco (falha na transmiss\u00e3o).\r\nA nossa orienta\u00e7\u00e3o \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO CONTR\u00c1RIO.\r\nDEMISS\u00c3O, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba-B da Lei n\u00ba 10.260, de 2001, na reda\u00e7\u00e3o dada pelo art. 1\u00ba do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079, de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, para suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, com vista \u00e0 sua rejei\u00e7\u00e3o e consequente restabelecimento do dispositivo equivalente no texto aprovado pela C\u00e2mara dos Deputados. Exonera\u00e7\u00e3o do Ministro da Educa\u00e7\u00e3o, Abraham Weintraub. Expetativa quanto \u00e0 reabertura, pelo novo Titular da Pasta, de di\u00e1logo com representantes do setor.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSB orienta \"n\u00e3o\".\r\nAl\u00e9m desse destaque, quero dizer da import\u00e2ncia do an\u00fancio da sa\u00edda de Abraham Weintraub do Minist\u00e9rio da Educa\u00e7\u00e3o. N\u00f3s que lutamos pela efic\u00e1cia do ensino, por um ensino que de fato consiga ensinar portugu\u00eas, matem\u00e1tica e habilidades importantes para o trabalho, s\u00f3 podemos fazer isso de duas formas: atrav\u00e9s da ci\u00eancia e do di\u00e1logo.\r\nEspero muito que a sa\u00edda do Weintraub seja uma oportunidade de reabertura do di\u00e1logo com o Minist\u00e9rio da Educa\u00e7\u00e3o, para que possamos fazer de novo o resgate da efic\u00e1cia do ensino brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, SEGUNDO TURNO, CONTR\u00c1RIO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 7\u00ba, art. 5\u00ba, do texto do segundo turno da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, eu queria falar sobre a import\u00e2ncia deste destaque, porque ningu\u00e9m aqui que defende a retirada do CAQ da PEC est\u00e1 defendendo que as escolas n\u00e3o tenham uma quadra poliesportiva, n\u00e3o tenham uma biblioteca ou que os professores n\u00e3o ganhem bem. Ningu\u00e9m est\u00e1 defendendo isso. Isso est\u00e1 correto. Isso de fato \u00e9 bom.\r\nO problema \u00e9 constitucionalizar o Custo Aluno-Qualidade, um conceito que ainda n\u00e3o est\u00e1 t\u00e3o bem definido e sobre o qual existam disputas e cuja defini\u00e7\u00e3o n\u00e3o cita a aprendizagem do aluno, e, sim, os insumos que de fato podem influenciar positivamente na qualidade da educa\u00e7\u00e3o. N\u00e3o d\u00e1 para constitucionalizar isso.\r\nSim, precisamos de padr\u00f5es m\u00ednimos qualidade. Mas vamos definir isso na lei complementar. Constitucionalizar o CAQ neste momento ser\u00e1 um erro. Isso vai gerar n\u00e3o s\u00f3 uma judicializa\u00e7\u00e3o enorme como tamb\u00e9m pode nos levar a n\u00e3o ter uma indu\u00e7\u00e3o de qualidade. A indu\u00e7\u00e3o de qualidade j\u00e1 foi colocada na PEC. A indu\u00e7\u00e3o de qualidade j\u00e1 est\u00e1 nos 2,5% vinculados a crit\u00e9rios de gest\u00e3o e a resultados de aprendizagem.\r\nEnt\u00e3o, eu tamb\u00e9m sou a favor da retirada do CAQ do texto da PEC porque ele n\u00e3o vai causar esse efeito positivo que o pessoal que o defende est\u00e1 dizendo que vai ele ter.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=163&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-20T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, VETO 17/2020, VETO PARCIAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, ALTERA\u00c7\u00c3O, LEI DE RESPONSABILIDADE FISCAL, PROIBI\u00c7\u00c3O, AUMENTO, DESPESA TOTAL COM PESSOAL, REAJUSTE, REMUNERA\u00c7\u00c3O, SERVIDOR P\u00daBLICO, PANDEMIA, CORONAV\u00cdRUS, ENFERMEIRO, M\u00c9DICO, PROFISSIONAL DE SA\u00daDE, PROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA, LIMPEZA P\u00daBLICA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Defesa de manuten\u00e7\u00e3o do Veto Parcial n\u00ba 17, de 2020, aposto ao Projeto de Lei  Projeto de Lei Complementar n\u00ba 39, de 2020, sobre o estabelecimento do Programa Federativo de Enfrentamento ao Coronav\u00edrus, e altera\u00e7\u00e3o da Lei Complementar n\u00ba 101, de 2000. (progress\u00e3o funcional e reajuste salarial de servidores p\u00fablicos).",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para discutir. Sem revis\u00e3o do orador.) - Presidente, a manuten\u00e7\u00e3o desse veto \u00e9 de extrema import\u00e2ncia para o nosso Pa\u00eds, porque, se n\u00e3o conseguirmos conter os gastos obrigat\u00f3rios da Uni\u00e3o, dos Estados e dos Munic\u00edpios, n\u00e3o teremos condi\u00e7\u00e3o de financiar pol\u00edticas p\u00fablicas muito importantes que todos queremos.\r\nAs proje\u00e7\u00f5es variam. O Governo fala em 100 bilh\u00f5es de reais, h\u00e1 pessoas que falam em 70 bilh\u00f5es de reais, mas, de qualquer maneira, mantendo esse veto, abre-se um espa\u00e7o fiscal enorme e muito relevante para o nosso Pa\u00eds.\r\nN\u00e3o estamos aqui tratando sobre o m\u00e9rito individual de cada servidor, que est\u00e1 sendo extremamente importante no combate \u00e0 pandemia. De fato, os servidores est\u00e3o salvando o nosso Pa\u00eds neste momento. Como disse, n\u00e3o se trata do m\u00e9rito individual de cada um deles, trata-se da nossa completa incapacidade fiscal para financiar esse custo.\r\nN\u00f3s temos agora que fazer uma escolha. Se escolhermos permitir o aumento salarial, as progress\u00f5es e as promo\u00e7\u00f5es - temporariamente, 1 ano e meio somente -, n\u00e3o vamos ter de fato espa\u00e7o fiscal para fazer uma s\u00e9rie de pol\u00edticas p\u00fablicas necess\u00e1rias ao nosso Pa\u00eds.\r\nNeste momento, na minha opini\u00e3o, a responsabilidade tem que falar mais alto do que os ganhos a curto prazo - e haver\u00e1 ganhos a curto prazo se derrubarmos o veto. Mas \u00e9 muito importante mantermos esse veto pela sanidade fiscal do nosso Pa\u00eds e principalmente pela nossa capacidade de financiar importantes pol\u00edticas p\u00fablicas no futuro, especialmente no p\u00f3s-pandemia.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=21%2F8%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-01T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 961/2020, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 165, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 961, de 2020, sobre a autoriza\u00e7\u00e3o de pagamentos antecipados em licita\u00e7\u00f5es e contratos no \u00e2mbito da administra\u00e7\u00e3o p\u00fablica; a adequa\u00e7\u00e3o dos limites de dispensa de licita\u00e7\u00e3o e a amplia\u00e7\u00e3o do uso do Regime Diferenciado de Contrata\u00e7\u00f5es P\u00fablicas - RDC, durante o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, a MP prev\u00ea a possibilidade de se antecipar o pagamento no caso de licita\u00e7\u00f5es, de compras p\u00fablicas, se houver, por exemplo, significativo desconto. H\u00e1 um problema. O que \u00e9 significativo? Isso n\u00e3o est\u00e1 definido.\r\nEnt\u00e3o, por meio desta emenda, simplesmente fazemos o seguinte: colocamos como refer\u00eancia, na hora de se decidir o que \u00e9 desconto significativo, os pre\u00e7os j\u00e1 praticados pelo poder p\u00fablico. Quando se tratar de produto novo, de servi\u00e7o que o poder p\u00fablico n\u00e3o contrata normalmente, os pre\u00e7os ser\u00e3o verificados por meio de pesquisa em com\u00e9rcio eletr\u00f4nico.\r\nDessa maneira, vamos tornar a decis\u00e3o muito mais objetiva, tirando a margem para poss\u00edveis atos de corrup\u00e7\u00e3o ou preju\u00edzo para o Er\u00e1rio. Estamos simplesmente propiciando que haja objetividade na decis\u00e3o, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F9%2F2020&txPagina=214&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE URG\u00caNCIA, PL 4372/2020, PROJETO DE LEI ORDINARIA, VOTA\u00c7\u00c3O, AGRADECIMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Agradecimento aos Parlamentares pela vota\u00e7\u00e3o do Requerimento n\u00ba 2.867, de 2020, para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Apelo \u00e0 Casa e in\u00edcio da discuss\u00e3o da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, quero agradecer a todos e a todas por estarem votando a urg\u00eancia da regulamenta\u00e7\u00e3o do FUNDEB. Isso \u00e9 muito importante.\r\nComo foi dito inclusive pelos L\u00edderes que agora est\u00e3o discordando do texto, se n\u00e3o votarmos isso agora, n\u00e3o teremos o FUNDEB no ano que vem e ele ter\u00e1 que ser regulamentado por medida provis\u00f3ria.\r\nEu queria dizer algo muito importante que aconteceu ao longo desses meses. A mim foi dada a relatoria no fim de setembro, mais ou menos, e n\u00f3s fizemos cinco audi\u00eancias p\u00fablicas. Mais de 30 mil pessoas assistiram a essas audi\u00eancias. Foram ouvidos 34 especialistas. Foram realizadas oficialmente na C\u00e2mara essas audi\u00eancias p\u00fablicas. Al\u00e9m disso, v\u00e1rias outras reuni\u00f5es bilaterais foram realizadas por mim e pela minha equipe com v\u00e1rios atores da educa\u00e7\u00e3o na nossa sociedade. \r\nN\u00f3s estamos votando um relat\u00f3rio de regulamenta\u00e7\u00e3o. Ele \u00e9 muito mais minucioso do que uma PEC. Ent\u00e3o, \u00e9 natural que tenhamos algumas discord\u00e2ncias.\r\nN\u00f3s fizemos um trabalho muito minucioso. Eu estou muito orgulhoso do nosso relat\u00f3rio neste momento. Com certeza, dialogaremos com a Oposi\u00e7\u00e3o e com aqueles que est\u00e3o discordando de alguma parte do texto, para chegarmos ao texto mais consensual poss\u00edvel na hora de votarmos.\r\nEu fa\u00e7o um pedido: pod\u00edamos come\u00e7ar a discuss\u00e3o hoje, mesmo que n\u00e3o votemos hoje, porque, com certeza, muita gente ir\u00e1 discutir, para colaborar, para contribuir com o texto, Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F12%2F2020&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDINARIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, DEFESA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Import\u00e2ncia do Projeto de Lei n\u00ba 5.387, de 2019, acerca do mercado de c\u00e2mbio brasileiro; do capital brasileiro no exterior; do capital estrangeiro no Pa\u00eds e da presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, a legisla\u00e7\u00e3o cambial brasileira de fato \u00e9 muito complexa h\u00e1 muito tempo e complica muito a nossa quest\u00e3o monet\u00e1ria, o investimento estrangeiro, inclusive o pr\u00f3prio investimento brasileiro no exterior. \r\nEsse projeto, que foi muito bem constru\u00eddo, n\u00e3o s\u00f3 harmoniza todas as regras cambiais, mas tamb\u00e9m vai dar muito mais facilidade e flexibilidade para o estrangeiro investir no Brasil - coisa de que precisamos muito neste momento - e para o brasileiro transitar com dinheiro para o exterior. Vai ser uma grande conquista para a harmoniza\u00e7\u00e3o monet\u00e1ria no Brasil. Vai ser muito bom, Presidente. \u00c9 muito importante esse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F12%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), FONTE DE RECEITA, CRIT\u00c9RIO, DISTRIBUI\u00c7\u00c3O, RECURSOS, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, CRIA\u00c7\u00c3O, COMISS\u00c3O INTERGOVERNAMENTAL DE FINANCIAMENTO PARA A EDUCA\u00c7\u00c3O, B\u00c1SICA DE QUALIDADE, COMPOSI\u00c7\u00c3O, COMPET\u00caNCIA, TRIBUTA\u00c7\u00c3O.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, muito obrigado. Eu pe\u00e7o v\u00eania para explicar o relat\u00f3rio e dar o meu voto, j\u00e1 que ler relat\u00f3rios n\u00e3o \u00e9 o meu forte. \r\nSras. e Srs. Deputados, o FUNDEB foi aprovado por meio de PEC em agosto deste ano, e temos que regulament\u00e1-lo, ou seja, esmiu\u00e7ar as regras do novo FUNDEB. Eu vou, resumidamente, explicar as mudan\u00e7as e os acordos gerais que eu constru\u00ed tanto com o Governo quanto com a Oposi\u00e7\u00e3o. \r\nO FUNDEB tem tr\u00eas grandes pontos, que o tornam maior, mais justo e mais eficiente. Maior: ele, de fato, aumenta de 10% para 23% a complementa\u00e7\u00e3o da Uni\u00e3o, num per\u00edodo de 6 anos, em que gradualmente vamos aumentando essa complementa\u00e7\u00e3o.\r\nN\u00f3s introduzimos uma nova maneira de distribui\u00e7\u00e3o do dinheiro, que \u00e9 o VAAT, o Valor Aluno/Ano Total.\r\nDessa maneira, haver\u00e1 distribui\u00e7\u00e3o do dinheiro de forma a fazer uma compensa\u00e7\u00e3o ou mesmo ser\u00e1 feita uma melhor redistribui\u00e7\u00e3o do dinheiro diretamente nas redes educacionais que t\u00eam o Valor Aluno/Ano menor. Ent\u00e3o, corrige-se muito da desigualdade.\r\nCinquenta por cento desse dinheiro tem que ser aplicado na educa\u00e7\u00e3o infantil. \r\nUm ponto importante a ser explicado: ser\u00e1 constru\u00eddo tecnicamente, pelo INEP, um indicador que levar\u00e1 em conta o d\u00e9ficit de cobertura da educa\u00e7\u00e3o infantil e a realidade socioecon\u00f4mica das crian\u00e7as do local para dizer exatamente qual a porcentagem do VAAT cada Munic\u00edpio que o receber ter\u00e1 que investir na educa\u00e7\u00e3o infantil.\r\nUm segundo ponto em rela\u00e7\u00e3o \u00e0 educa\u00e7\u00e3o infantil \u00e9 que n\u00f3s mudamos os ponderadores aplicados no Valor Aluno/Ano Total - VAAT em 50%, ou seja, multiplicamos todos os ponderadores da educa\u00e7\u00e3o infantil por 1,5%, justamente para conseguirmos dar um incentivo muito maior para a educa\u00e7\u00e3o infantil no VAAT. Ent\u00e3o, n\u00e3o h\u00e1 uma mudan\u00e7a de redistribui\u00e7\u00e3o do dinheiro que j\u00e1 \u00e9 distribu\u00eddo hoje, mas h\u00e1 um incentivo muito maior para a educa\u00e7\u00e3o infantil neste nosso relat\u00f3rio.\r\nOutro ponto \u00e9 o VAAR - Valor Aluno/Ano Resultado, que foi introduzido na PEC por emenda da Deputada Tabata Amaral e diz muito claramente que 2,5% da complementa\u00e7\u00e3o da Uni\u00e3o devem ser distribu\u00eddos \u00e0s redes educacionais que tiverem melhorias nas taxas de atendimento, melhoria no aprendizado e redu\u00e7\u00e3o das desigualdades de aprendizado.\r\nEu vou me ater um pouco mais aos detalhes porque acho essa parte do texto extremamente importante. Ele determina que, cumpridas certas condicionalidades pela gest\u00e3o da rede, aquelas redes que melhorarem os indicadores receber\u00e3o, proporcionalmente, o dinheiro dessa complementa\u00e7\u00e3o.\r\nE o que n\u00f3s colocamos como condicionalidades, j\u00e1 com o conte\u00fado do acordo, que ser\u00e1 apresentado na subemenda substitutiva? A primeira condicionalidade \u00e9 quanto \u00e0 provis\u00e3o dos cargos de gestores das escolas, que poder\u00e1 ser por m\u00e9rito, por desempenho e tamb\u00e9m por gest\u00e3o democr\u00e1tica. Eu abarco aqui todas as modalidades que existem hoje no Brasil. As redes que quiserem escolher os gestores s\u00f3 por m\u00e9rito poder\u00e3o faz\u00ea-lo; se quiserem fazer essa escolha por m\u00e9rito e elei\u00e7\u00e3o, por gest\u00e3o democr\u00e1tica, tamb\u00e9m poder\u00e3o faz\u00ea-lo. \r\nA segunda condicionalidade \u00e9 que 80% dos alunos daquela rede devem participar das avalia\u00e7\u00f5es do SINAEB, justamente para n\u00f3s termos um demonstrativo muito mais representativo daquela rede de fato.\r\nA terceira condicionalidade \u00e9 que deve haver um avan\u00e7o em rela\u00e7\u00e3o \u00e0 desigualdade de aprendizado entre ra\u00e7as naquela rede. Introduzimos essa condicionalidade logo ap\u00f3s esse acordo.\r\nA quarta condicionalidade \u00e9 que os Estados das redes devem cumprir um regime de colabora\u00e7\u00e3o que inclua a aprova\u00e7\u00e3o da lei de distribui\u00e7\u00e3o do ICMS de acordo com os resultados educacionais.\r\nE, por \u00faltimo, as redes devem aprovar curr\u00edculos que estejam alinhados com a BNCC - Base Nacional Comum Curricular. Essas s\u00e3o as condicionalidades.\r\nUma vez cumpridas essas condicionalidades, as redes que evolu\u00edrem nos indicadores recebem os recursos. Um desses indicadores \u00e9 a evolu\u00e7\u00e3o no n\u00edvel e no avan\u00e7o, com maior peso para o avan\u00e7o, em rela\u00e7\u00e3o \u00e0s avalia\u00e7\u00f5es do SINAEB, o Sistema Nacional de Avalia\u00e7\u00e3o da Educa\u00e7\u00e3o B\u00e1sica, ponderados pela taxa de participa\u00e7\u00e3o nos exames - e isso \u00e9, justamente, para penalizar aqueles gestores que desconvidam alunos para participar de exames - e pelo \u00edndice de equidade de aprendizagem. Os outros indicadores s\u00e3o as taxas de aprova\u00e7\u00e3o e as taxas de atendimento escolar.\r\nO \u00edndice de equidade de aprendizagem deve levar em conta a propor\u00e7\u00e3o de alunos que est\u00e3o abaixo do n\u00edvel adequado de aprendizagem, com maior peso para alunos que est\u00e3o mais distantes do n\u00edvel adequado de aprendizagem e tamb\u00e9m maior peso para alunos de baixa renda, negros ou deficientes. Esse \u00e9 o VAAR, um dispositivo com que se evolui muito na melhoria do aprendizado, com um foco espec\u00edfico na redu\u00e7\u00e3o das desigualdades de aprendizagem que n\u00f3s verificamos hoje em nosso Pa\u00eds, em especial, entre rendas, entre ra\u00e7a e entre pessoas com defici\u00eancia e sem defici\u00eancia. \u00c9 muito importante esse ponto que n\u00f3s conseguimos construir junto com todos.\r\nOutro ponto importante do texto \u00e9 a defini\u00e7\u00e3o de profissionais da educa\u00e7\u00e3o. Pelo acordo constru\u00eddo, a defini\u00e7\u00e3o ficou nos termos do art. 61 da LDB, incluindo os profissionais de psicologia e assist\u00eancia social. A lei que aprovamos ano passado define que cada rede educacional deve ter psic\u00f3logos e assistentes sociais para atender os alunos. \r\nOutro ponto extremamente importante do texto, ali\u00e1s, s\u00e3o v\u00e1rios pontos, versam sobre transpar\u00eancia e o controle social. N\u00f3s damos mais robustez aos CACS - Conselhos de Acompanhamento e Controle Social; garantimos a participa\u00e7\u00e3o da sociedade civil; damos, inclusive, mais independ\u00eancia, regras mais claras; exigimos a obrigatoriedade de presta\u00e7\u00e3o de contas por parte dos gestores. Isso foi feito para tornar n\u00e3o s\u00f3 a transpar\u00eancia mais ativa, mas o controle social muito mais eficaz.\r\nUm ponto importante que, inclusive, foi trazido pelo MEC \u00e9 que n\u00e3o haver\u00e1 tempo para regulamentar o FUNDEB at\u00e9 o fim deste ano. Por isso, n\u00f3s introduzimos uma transi\u00e7\u00e3o para o novo FUNDEB. Nessa transi\u00e7\u00e3o, em janeiro, fevereiro e mar\u00e7o, o FUNDEB funcionar\u00e1 exatamente igual ao FUNDEB atual, para dar tempo de o MEC fazer todas as mudan\u00e7as em rela\u00e7\u00e3o aos sistemas. E em abril, o novo FUNDEB de fato come\u00e7a a funcionar e haver\u00e1 uma compensa\u00e7\u00e3o financeira para os entes em rela\u00e7\u00e3o ao novo FUNDEB. Essa \u00e9 uma parte importante do texto que n\u00f3s introduzimos, justamente, para se conseguir fazer uma transi\u00e7\u00e3o suave, e para que o FUNDEB de fato comece a funcionar com todo o seu vigor.\r\nEm rela\u00e7\u00e3o a outros pontos do texto que s\u00e3o importantes, n\u00f3s colocamos que os ponderadores das modalidades dever\u00e3o ser definidos no ano que vem, para dar tempo de estudarmos e entendermos, de fato, os custos reais de cada modalidade, num processo t\u00e9cnico e pol\u00edtico.\r\nO INEP dever\u00e1 protocolar e publicar estudos sobre os custos das modalidades at\u00e9 agosto do ano que vem. E a Comiss\u00e3o Intergovernamental, formada pelo MEC, Secretarias Estaduais e Secretarias Municipais, tomar\u00e1 a decis\u00e3o de acordo com essa proposta do MEC, justamente para garantir a parte t\u00e9cnica e a parte pol\u00edtica. \r\nIsso tamb\u00e9m vale para os tr\u00eas novos ponderadores introduzidos pela PEC, que s\u00e3o os ponderadores de disponibilidade de recursos, de potencial de arrecada\u00e7\u00e3o e de n\u00edvel socioecon\u00f4mico da regi\u00e3o. Esses tr\u00eas ponderadores dever\u00e3o ser revisados no ano que vem pelo INEP e pela Comiss\u00e3o Intergovernamental. Obviamente, n\u00f3s tamb\u00e9m daremos um espa\u00e7o aqui, at\u00e9 o ano que vem, para que esta pr\u00f3pria lei seja revisada pelo Parlamento.\r\nSr. Presidente, acho que esses s\u00e3o os pontos centrais. Se eu tiver esquecido algum ponto, eu volto e explico. Por fim, eu queria, de fato, agradecer ao Presidente por ter me dado a honra de relatar a regulamenta\u00e7\u00e3o do FUNDEB. Foi um trabalho grande e exaustivo, mas muito gratificante. Eu queria agradecer \u00e0 Deputada Raquel Muniz, que come\u00e7ou esse trabalho l\u00e1 em 2015 e introduziu a PEC. Quero agradecer ainda \u00e0 Deputada Professora Dorinha, que \u00e9 a Relatora da nossa PEC, \u00e0 Deputada Tabata, a v\u00e1rios outros Deputados que me ajudaram muito nesse trabalho e, em especial, obviamente, \u00e0s nossas equipes, aos consultores, que fizeram de fato esse trabalho acontecer.\r\nSem mais delongas, ante o exposto, no \u00e2mbito da Comiss\u00e3o de Educa\u00e7\u00e3o, votamos pela aprova\u00e7\u00e3o na forma do substitutivo; no \u00e2mbito da Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, pela aprova\u00e7\u00e3o do substitutivo da Comiss\u00e3o de Educa\u00e7\u00e3o; no \u00e2mbito da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, pela adequa\u00e7\u00e3o or\u00e7ament\u00e1ria; e no \u00e2mbito da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa.\r\nPresidente, este \u00e9 o voto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB).",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 44, apresentadas ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, foram oferecidas 44 emendas ao texto, e eu estou acatando as Emendas n\u00ba 2, n\u00ba 3, n\u00ba 8, n\u00ba 19 e n\u00ba 37 e rejeitando todas as outras emendas.\r\nRapidamente dizendo, nas Emendas n\u00ba 2 e n\u00ba 3, trata-se de regras mais claras e espec\u00edficas de transpar\u00eancia, no caso do SIOPE - Sistema de Informa\u00e7\u00f5es sobre Or\u00e7amentos P\u00fablicos em Educa\u00e7\u00e3o.\r\nA Emenda n\u00ba 8 coloca a possibilidade de educa\u00e7\u00e3o especial, nos casos de defici\u00eancias mais graves, sob a avalia\u00e7\u00e3o biopsicossocial, ou seja, quando a avalia\u00e7\u00e3o biopsicossocial autoriza e diz que \u00e9 correto, a\u00ed sim a pessoa com defici\u00eancia pode ser atendida em escolas especiais.\r\nA Emenda n\u00ba 19 trata da inclus\u00e3o do CAQ no art. 49, que inclusive j\u00e1 estava acatada desde antes.\r\nA Emenda n\u00ba 37 trata da possibilidade de a Caixa Econ\u00f4mica Federal tamb\u00e9m fazer a gest\u00e3o dos recursos do FUNDEB. No meu relat\u00f3rio anterior, isso estava restrito ao Banco do Brasil.\r\nEssas s\u00e3o as emendas, esse \u00e9 o parecer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REFORMULA\u00c7\u00c3O, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB).",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Reformula\u00e7\u00e3o do parecer oferecido pelo orador \u00e0s Emendas de Plen\u00e1rio apresentadas ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, s\u00e3o s\u00f3 dois pontos, \u00e9 s\u00f3 um detalhe.\r\nVou explicar aqui. Muitas das institui\u00e7\u00f5es que fazem educa\u00e7\u00e3o especial acabam n\u00e3o tendo o CEBAS na \u00e1rea da educa\u00e7\u00e3o, e eu havia colocado que precisava ser o CEBAS da educa\u00e7\u00e3o.\r\nEu estou tirando essa parte, que era inclusive parte do acordo que eu tinha feito com o Deputado Eduardo Barbosa.\r\nA outra quest\u00e3o \u00e9 que eu s\u00f3 estou colocando nas condicionalidades do VAAR uma adi\u00e7\u00e3o. Na verdade, estou colocando um complemento na condicionalidade de redu\u00e7\u00e3o de desigualdades raciais em rela\u00e7\u00e3o \u00e0 educa\u00e7\u00e3o ind\u00edgena -- inclusive acabei de falar com a Deputada Joenia, e foi o ponto falado pela Deputada Alice Portugal.\r\nEstamos subindo agora o texto no sistema.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=197&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), ESCLARECIMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Cumprimento pelo orador, na condi\u00e7\u00e3o de Relator, do acordo firmado com os partidos oposicionistas para a aprova\u00e7\u00e3o do relat\u00f3rio oferecido ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - S\u00f3 quero dar um esclarecimento. Acho que est\u00e1 havendo uma d\u00favida por parte dos partidos da Oposi\u00e7\u00e3o sobre a quest\u00e3o do meu acordo.\r\nQuero refor\u00e7ar que a promessa que eu fiz foi cumprida no meu relat\u00f3rio. Fiquei de intermediar com o Governo a tentativa do n\u00e3o destaque, mas n\u00e3o deu certo. Eu avisei o Deputado Waldenor. N\u00e3o estou articulando com os partidos do Centro ou do Governo para voltar com tudo no texto. Agora, s\u00e3o pontos em que existem diverg\u00eancias importantes, tanto na quest\u00e3o do Sistema S quanto nos outros destaques que est\u00e3o vindo.\r\nEnt\u00e3o, s\u00f3 queria refor\u00e7ar isso, porque, em rela\u00e7\u00e3o ao acordo que fiz com os partidos da Oposi\u00e7\u00e3o, estou cumprindo-o integralmente. Inclusive, mesmo concordando com a quest\u00e3o do Sistema S, votarei contra, em nome do acordo. Acho importante citar isso, para refor\u00e7ar e n\u00e3o haver d\u00favida em rela\u00e7\u00e3o a essa quest\u00e3o.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=240&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), ACORDO, VOTA\u00c7\u00c3O, PARECER DO RELATOR.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Cumprimento, pelo orador, de acordo para a vota\u00e7\u00e3o do parecer apresentado ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Perfeito. Obrigado, Sr. Presidente. \r\nQuero somente esclarecer, diante das falas de alguns colegas, como as do PSOL, do PCdoB e outros, que eu n\u00e3o gerei uma expectativa de acordo: eu cumpri um acordo. Nesse acordo, de fato, eu abri m\u00e3o de uma s\u00e9rie de pontos do meu relat\u00f3rio, e constru\u00edmos um relat\u00f3rio que fosse quase consensual. N\u00e3o era satisfat\u00f3rio para um lado nem para outro, mas era um relat\u00f3rio harm\u00f4nico. E n\u00e3o \u00e0 toa foi votado por unanimidade. \r\nE eu avisei ao Deputado Waldenor, que era a pessoa com quem eu estava dialogando com mais frequ\u00eancia, que o Governo n\u00e3o estava querendo n\u00e3o fazer destaques e que, mesmo assim, eu iria cumprir a minha parte do acordo, que era mudar o relat\u00f3rio. Realmente, achei que ficou muito bom. E n\u00e3o \u00e0 toa estou votando aqui contra todos os destaques, em defesa do meu relat\u00f3rio e em respeito a esse acordo.\r\nAgora, eu n\u00e3o sou o Presidente da Rep\u00fablica, n\u00e3o falo em nome do Governo, que de fato escolheu fazer alguns destaques com esses pontos que s\u00e3o importantes para eles. Dizer que eu fiz um acordo com um lado e outro acordo com outro lado, isso eu n\u00e3o fiz. Eu n\u00e3o descumpro a minha palavra. Eu pe\u00e7o respeito e reconhecimento a esse trabalho que tentei fazer junto \u00e0 Oposi\u00e7\u00e3o e tamb\u00e9m junto ao Governo, pois foi um relat\u00f3rio dialogado, para que eu pudesse fazer o melhor relat\u00f3rio poss\u00edvel.\r\nPortanto, quero somente pedir essa v\u00eania dos meus colegas, pois n\u00e3o tenho uma palavra para um e outra palavra para outro; eu tenho uma palavra s\u00f3, e sempre a cumpro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=257&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), RICARDO BARROS, LIDER DO GOVERNO, ESCLARECIMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Esclarecimento ao Deputado Waldenor Pereira sobre o di\u00e1logo mantido com o L\u00edder do Governo, Deputado Ricardo Barros, a respeito da apresenta\u00e7\u00e3o de requerimentos de destaques ao Projeto de Lei n\u00ba 4.372, de 2020, acerca da regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Novamente, com muito respeito ao Deputado Waldenor Pereira, digo que, de fato, naquele momento eu tinha uma sinaliza\u00e7\u00e3o do L\u00edder Ricardo Barros, que estava mais tranquilo para fazer essa negocia\u00e7\u00e3o, e eu n\u00e3o tinha essa sinaliza\u00e7\u00e3o do NOVO, do PSDB e do Cidadania. No entanto, logo depois daquela conversa, o L\u00edder Ricardo sinalizou a mim que queria fazer os destaques. \r\nEu liguei para V.Exa., Deputado Waldenor, no momento em que eu estava fechando o relat\u00f3rio e falei: \"O Governo est\u00e1 querendo fazer destaques, mas, mesmo assim, n\u00e3o tendo essa quest\u00e3o, eu farei a minha parte aqui no relat\u00f3rio.\"  \r\nS\u00f3 quero esclarecer isso porque n\u00e3o houve, no fim das contas, um acordo do n\u00e3o destaque. E eu avisei isso ao Deputado Waldenor, por telefone. N\u00e3o tenho gravado, como V.Exa., que tem gravada a minha mensagem. De fato, eu mandei a mensagem, mas eu lhe avisei isso por telefone. Eu estava aqui no cafezinho, inclusive, fechando o texto do relat\u00f3rio. Eu s\u00f3 gostaria de esclarecer isso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=261&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), EMENDA DE PLENARIO, REJEI\u00c7\u00c3O, ESCLARECIMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Raz\u00f5es do voto do orador pela rejei\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, oferecida ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, temos apenas uma quest\u00e3o em rela\u00e7\u00e3o a esta emenda. N\u00f3s t\u00ednhamos um acordo com o Deputado Eduardo Barbosa, e eu o acatei no texto, que trata da possibilidade de a pessoa com defici\u00eancia - no caso de a avalia\u00e7\u00e3o biopsicossocial dizer que a pessoa com defici\u00eancia precisa - ser atendida em escolas especiais. Mas esse texto, al\u00e9m de eu achar que est\u00e1 um pouco confuso, n\u00e3o faz parte desse acordo. Ele tenta fazer algo e acaba que n\u00e3o se relaciona com a pessoa com defici\u00eancia. Ent\u00e3o, em rela\u00e7\u00e3o a isso, especificamente, eu quero me manifestar contra, porque eu acho que desvirtua um pouco a ideia do texto.\r\nDirijo-me respeitosamente ao Deputado Eduardo, mas a parte da pessoa com defici\u00eancia j\u00e1 est\u00e1 acatada no texto, como foi o nosso acordo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=268&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T20:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), ACORDO, VOTA\u00c7\u00c3O, PARECER DO RELATOR, CRITICA, OPOSI\u00c7\u00c3O POLITICA, CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Inconsist\u00eancia do discurso da Oposi\u00e7\u00e3o sobre o descumprimento, pelo orador, de acordo firmado para a vota\u00e7\u00e3o do parecer oferecido ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Deputado, eu s\u00f3 quero esclarecer algo.\r\nO Deputado Waldenor veio aqui dizer que eu tinha dito que o acordo estava fechado. N\u00e3o gosto de deixar as coisas mal ditas.\r\nComo eu disse, assim que recebi a not\u00edcia de que n\u00e3o haveria acordo de n\u00e3o destaque, liguei para o Deputado Waldenor e avisei a ele que o Governo estava querendo fazer destaques e que mesmo assim o meu relat\u00f3rio iria como combinado com a Oposi\u00e7\u00e3o.\r\nAl\u00e9m disso - e n\u00e3o h\u00e1 como ter prova maior disto -, no in\u00edcio da sess\u00e3o, na hora em que o Deputado Rodrigo come\u00e7ou a ler, a Deputada S\u00e2mia o interrompeu e perguntou sobre o procedimento. Ela falou bem assim: \"Vai ser de acordo com o acordo, para n\u00e3o ter destaques?\". O Deputado Rodrigo disse: \"Sem destaques eu n\u00e3o consigo prometer\". Eu vim ao microfone e falei: \"Pessoal, eu tentei fechar o acordo de n\u00e3o destaque, mas possivelmente haver\u00e1 destaques\". Foi isso o que eu disse. \"E o meu relat\u00f3rio vai como combinado\". Posteriormente a isso, o Deputado Rodrigo disse: \"Beleza. Quem quiser obstruir pode obstruir\". Havia tempo h\u00e1bil para a Oposi\u00e7\u00e3o fazer o kit obstru\u00e7\u00e3o na hora em que esclarecemos isso aqui em plen\u00e1rio.\r\nH\u00e1 v\u00eddeo. Eu pe\u00e7o a todo mundo que assista \u00e0 sess\u00e3o, que est\u00e1 gravada, para ver como foi essa intera\u00e7\u00e3o entre mim, o Deputado Rodrigo e a Deputada S\u00e2mia. N\u00e3o gosto de deixar as coisas mal ditas. Dizer que eu n\u00e3o cumpri o acordo, dizer que eu passei a perna na Oposi\u00e7\u00e3o \u00e9 um desrespeito ao trabalho que fiz, \u00e9 um desrespeito \u00e0 minha tentativa de consenso. Tudo o que estava sob o meu poder, sob a minha al\u00e7ada eu fiz para cumprir o acordo. Eu pe\u00e7o tamb\u00e9m respeito aos meus colegas que est\u00e3o dizendo em alguns f\u00f3runs que eu tra\u00ed a Oposi\u00e7\u00e3o, que eu passei a perna, que eu n\u00e3o cumpri os acordos.\r\nEra o que eu queria esclarecer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=275&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO, AMPLIA\u00c7\u00c3O, PRAZO, REPASSE, RECURSOS FINANCEIROS, UNI\u00c3O, ESTADO (ENTE FEDERADO),  PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB). REJEI\u00c7\u00c3O.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Apelo aos L\u00edderes partid\u00e1rios e aos Deputados de rejei\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 31, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - \u00c9 s\u00f3 uma explica\u00e7\u00e3o. Eu falei bastante com o Governo sobre essa quest\u00e3o. \r\nO que diz esta emenda? No meu relat\u00f3rio, n\u00f3s propusemos que at\u00e9 15% da complementa\u00e7\u00e3o da Uni\u00e3o nos recursos do FUNDEB, em cada ano, poderiam ser repassados para as redes, para os fundos estaduais, at\u00e9 o dia 31 de janeiro. O Governo pede que esse prazo seja 30 de abril. No entanto, isso \u00e9 muito tempo e pode prejudicar o financiamento dos Estados e Munic\u00edpios. Foi por isso que n\u00e3o acatei essa solicita\u00e7\u00e3o do Governo.\r\nEu pediria, encarecidamente, aos L\u00edderes e aos Deputados que n\u00e3o votassem esta mat\u00e9ria, porque 15% do FUNDEB v\u00e3o demorar at\u00e9 abril para chegar l\u00e1 na ponta. Isso pode gerar um problema de planejamento, de previsibilidade dos recursos para os Estados e Munic\u00edpios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=331&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO, DESTINA\u00c7\u00c3O, PERCENTUAL, PROFISSIONAL DA EDUCA\u00c7\u00c3O, ESCOLA, CONV\u00caNIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), REJEI\u00c7\u00c3O.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Raz\u00f5es do voto do orador pela rejei\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 6, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, tenho s\u00f3 um ponto a destacar em rela\u00e7\u00e3o a isso. \r\nEste talvez tenha sido o ponto mais importante do acordo que firmei com os partidos de oposi\u00e7\u00e3o. Eu estava com um conceito mais amplo no relat\u00f3rio original, e eu o restringi. \u00c9 um conceito bem restrito: apenas os j\u00e1 elencados na LDB e psic\u00f3logos e assistentes sociais. \r\nEu vislumbro dois problemas na emenda. Um deles \u00e9 que ela n\u00e3o restringe os profissionais multissetoriais a psic\u00f3logos e assistentes sociais. Isso torna a situa\u00e7\u00e3o problem\u00e1tica, se a emenda passar desse jeito. O Deputado Tiago Mitraud j\u00e1 falou que vai fazer uma emenda de reda\u00e7\u00e3o, mas, se ela passasse desse jeito, haveria um problema: enfermeiros, por exemplo, poderiam ser pagos com dinheiro do FUNDEB, e n\u00e3o \u00e9 esse o caso.\r\nE h\u00e1 ainda essa quest\u00e3o que o pr\u00f3prio L\u00edder do Governo j\u00e1 apontou. A quest\u00e3o dos terceirizados e, especialmente, das filantr\u00f3picas pode gerar um problema, sim, com os 70%, comprometendo o pagamento dos profissionais da educa\u00e7\u00e3o da rede p\u00fablica.\r\nDito isso, vou votar contra, obviamente. Tenho esse ponto para ponderar com os partidos que est\u00e3o levando isso em conta como importante.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=340&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE REDA\u00c7\u00c3O, DEFINA\u00c7\u00c3O, PROFISSIONAL, APROVA\u00c7\u00c3O, EMENDA DE PLEN\u00c1RIO, DESTINA\u00c7\u00c3O, PERCENTUAL, PROFISSIONAL DA EDUCA\u00c7\u00c3O, ESCOLA, CONV\u00caNIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB),",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "An\u00fancio da apresenta\u00e7\u00e3o de emenda de reda\u00e7\u00e3o para corre\u00e7\u00e3o de distor\u00e7\u00f5es no texto da Emenda de Plen\u00e1rio n\u00ba 6, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Expectativa quanto \u00e0 altera\u00e7\u00e3o, pelo Senado Federal, do texto da proposi\u00e7\u00e3o no tocante \u00e0s entidades filantr\u00f3picas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, visto que passou a emenda, informo que ela tem problemas. Um deles n\u00f3s vamos resolver agora com uma emenda de... Precisamos fazer conten\u00e7\u00e3o de danos. Como disse o Deputado Idilvan Alencar, n\u00f3s n\u00e3o podemos correr o risco de colocar o piso em risco, por exemplo. Ent\u00e3o, o que vamos fazer aqui? O Deputado Tiago j\u00e1 se comprometeu a fazer uma emenda de reda\u00e7\u00e3o. Aquilo que est\u00e1 descrito como \"profissionais multissetoriais\" vai estar restrito aos profissionais multissetoriais citados na Lei n\u00ba 13.935, de 2019, que \u00e9 a lei dos psic\u00f3logos e assistentes sociais. Ent\u00e3o, nesse ponto, vai ficar igual ao meu texto.\r\nEm segundo lugar, \u00e9 necess\u00e1rio - e o Deputado Capit\u00e3o Alberto Neto j\u00e1 afirmou isso - um compromisso muito grande do Governo de fazer a modifica\u00e7\u00e3o l\u00e1 no Senado, especialmente em rela\u00e7\u00e3o \u00e0s filantr\u00f3picas, e possivelmente, acho tamb\u00e9m, em rela\u00e7\u00e3o aos terceirizados. Justamente porque j\u00e1 est\u00e1 amplo o suficiente, n\u00e3o \u00e9 necess\u00e1rio ampliar mais. Espero que o Governo fa\u00e7a esse compromisso conosco.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=350&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO, FATOR DE PONDERA\u00c7\u00c3O, ENSINO, TECNOLOGIA,  PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), REJEI\u00c7\u00c3O.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Defesa de rejei\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 35, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Quero fazer s\u00f3 um coment\u00e1rio sobre a emenda.\r\nA inten\u00e7\u00e3o \u00e9 super-relevante. Eu concordo com a inten\u00e7\u00e3o da Deputada Garotinho. A quest\u00e3o \u00e9 que n\u00e3o podemos incluir um novo fator de pondera\u00e7\u00e3o na lei de regulamenta\u00e7\u00e3o. Os fatores de pondera\u00e7\u00e3o foram definidos na Constitui\u00e7\u00e3o, quando aprovamos a PEC. N\u00f3s n\u00e3o podemos fazer isso aqui na regulamenta\u00e7\u00e3o. Ent\u00e3o, pe\u00e7o v\u00eania para dizer que isso \u00e9 muito importante, mas ser\u00e1 considerado quando n\u00f3s formos revisar o tamanho dos fatores de pondera\u00e7\u00e3o. Isso deve ser considerado, inclusive no CAQ. Quando regulamentarmos o CAQ, com certeza estar\u00e1 l\u00e1 a quest\u00e3o envolvendo tecnologias, laborat\u00f3rios, rob\u00f3tica, etc. Mas aqui na regulamenta\u00e7\u00e3o do FUNDEB n\u00e3o \u00e9 o lugar de se fazer isso, at\u00e9 porque a PEC diz muito claramente quais s\u00e3o os fatores de pondera\u00e7\u00e3o.\r\nConcordo com a inten\u00e7\u00e3o, mas a emenda n\u00e3o pode, na verdade, ser admitida. Eu pe\u00e7o v\u00eania e o apoio dos colegas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=352&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T23:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDINARIA,  PARTIDO SOCIALISTA BRASILEIRO (PSB), (1987), VOTO FAVORAVEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio no 20, apresentada ao  Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Quero s\u00f3 refor\u00e7ar o que a Deputada Dorinha disse. De fato, trata-se de uma inten\u00e7\u00e3o muito importante. A Constitui\u00e7\u00e3o j\u00e1 garante o piso, desde que aprovamos a Emenda n\u00ba 108, mas ser\u00e1 preciso, como a Deputada Dorinha bem disse, um complemento, porque a lei atual do piso cita a lei atual do FUNDEB, e n\u00f3s estamos fazendo uma nova lei de regulamenta\u00e7\u00e3o do FUNDEB. Ent\u00e3o, para garantir o piso da forma como ele est\u00e1 previsto atualmente, quando esta lei que estamos aprovando hoje for sancionada, vamos precisar atualizar a Lei do Piso com o n\u00famero desta nova lei de regulamenta\u00e7\u00e3o do FUNDEB, justamente para garantir que o piso se mantenha com a f\u00f3rmula que tem atualmente. \r\nQueria apenas refor\u00e7ar esse ponto e, naturalmente, pedir aos nossos colegas, especialmente aos L\u00edderes, e ao pr\u00f3prio Governo apoiamento para este destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=364&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, SUBSTITUTIVO, SENADO FEDERAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), FINANCIAMENTO P\u00daBLICO, EDUCA\u00c7\u00c3O P\u00daBLICA, EDUCA\u00c7\u00c3O INFANTIL, CRECHE, VALOR ANUAL TOTAL POR ALUNO (VAAT), FONTE DE RECEITA, CRIT\u00c9RIO, DISTRIBUI\u00c7\u00c3O, RECURSOS, DESIGUALDADE EDUCACIONAL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Emiss\u00e3o de parecer ao Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para proferir parecer. Sem revis\u00e3o do orador.) - Primeiramente, obrigado, Presidente. Obrigado a todos e a todas. \r\nEu fico extremamente feliz de a educa\u00e7\u00e3o neste ano, de fato, ter ganhado prioridade, alta prioridade, na discuss\u00e3o do Congresso Nacional. Naturalmente, uma discuss\u00e3o sobre educa\u00e7\u00e3o levanta v\u00e1rios \u00e2nimos. Por isso, n\u00f3s temos que fazer esta discuss\u00e3o com muito equil\u00edbrio, baseados na ci\u00eancia. Foi isso que n\u00f3s constru\u00edmos ao longo desses \u00faltimos 2 meses.\r\nAl\u00e9m de proferir o parecer, Presidente, eu vou retomar, em cerca de 3 minutos, as conquistas que nosso relat\u00f3rio conseguiu trazer para a educa\u00e7\u00e3o brasileira.\r\nN\u00f3s estamos realmente reduzindo as desigualdades no financiamento da educa\u00e7\u00e3o no nosso Pa\u00eds. Com a nova maneira de distribui\u00e7\u00e3o, al\u00e9m de aumentarmos os recursos p\u00fablicos, n\u00f3s estamos conseguindo colocar dinheiro diretamente na rede educacional e nas redes educacionais mais pobres do nosso Pa\u00eds.\r\nCinquenta por cento desse novo dinheiro vai ser investido na educa\u00e7\u00e3o infantil, uma das grandes necessidades do nosso Pa\u00eds. N\u00f3s realmente precisamos melhorar n\u00e3o s\u00f3 a oferta de creches, mas tamb\u00e9m a qualidade do ensino infantil, que agora tem 50% deste novo recurso para a educa\u00e7\u00e3o infantil.\r\nN\u00f3s fazemos a distribui\u00e7\u00e3o VAAR, que estimula os gestores, com uma complementa\u00e7\u00e3o financeira, a reduzirem as desigualdades de aprendizado, melhorando o aprendizado de todos os alunos, mas de um jeito espec\u00edfico, focando os mais vulner\u00e1veis, especialmente os negros, os deficientes e os alunos de baixa renda. Fora isso, h\u00e1 uma s\u00e9rie de outras conquistas que n\u00f3s conseguimos aqui.\r\nPortanto, eu fiquei muito, muito feliz quando o Senado resgatou nosso texto original, que aqui foi aprovado por unanimidade. Por isso, eu acato integralmente as mudan\u00e7as que o Senado fez, resgatando meu texto original, que, repito, foi aqui aprovado por unanimidade.\r\nDito isso, Presidente, na Comiss\u00e3o de Educa\u00e7\u00e3o, sou a favor do substitutivo que o Senado colocou ao PL 4.372. \r\nNa Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, somos a favor do substitutivo do Senado e do parecer da Comiss\u00e3o de Educa\u00e7\u00e3o. \r\nNa Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, somos pela adequa\u00e7\u00e3o or\u00e7ament\u00e1ria do substitutivo do Senado e, no m\u00e9rito, somos pela aprova\u00e7\u00e3o.\r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do substitutivo do Senado.\r\nEste \u00e9 o meu voto, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, FELIPE RIGONI, DEPUTADO FEDERAL, RELATOR, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB).",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Agradecimento aos Parlamentares pela contribui\u00e7\u00e3o com o orador na elabora\u00e7\u00e3o do parecer ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, em primeiro lugar, eu queria lhe agradecer pela honra de ser Relator da regulamenta\u00e7\u00e3o do FUNDEB.\r\nQuero agradecer a todos os Deputados e Deputadas, que me ajudaram muito ao longo dessa discuss\u00e3o da prepara\u00e7\u00e3o do texto. \r\nComo V.Exa. disse, com certeza temos diverg\u00eancia, mas o texto \u00e9 de todos n\u00f3s. N\u00e3o \u00e9 o texto individual ideal de cada um, mas \u00e9 o texto de todos n\u00f3s. Independentemente de qualquer diverg\u00eancia que alguns de n\u00f3s aqui tenhamos com o texto, de fato ele \u00e9 uma enorme conquista para a educa\u00e7\u00e3o brasileira. Damos um enorme passo para melhorar n\u00e3o s\u00f3 o financiamento, mas tamb\u00e9m, e especialmente, a qualidade da educa\u00e7\u00e3o brasileira.\r\nPresidente, muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=163&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 7843/2017, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, NORMA GERAL, EFICI\u00caNCIA, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, DESBUROCRATIZA\u00c7\u00c3O, QUALIDADE, SERVI\u00c7OS P\u00daBLICOS, INFORMATIZA\u00c7\u00c3O, ACESSO \u00c0 INFORMA\u00c7\u00c3O, CIDAD\u00c3O, PARTICIPA\u00c7\u00c3O POPULAR, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA).",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 7.843, de 2017, acerca dos princ\u00edpios, regras e instrumentos para o governo digital e a efici\u00eancia p\u00fablica; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.116, de 1983; 13.460, de 2017; 12.682, de 2012, e 12.527, de 2011.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para proferir parecer. Sem revis\u00e3o do orador.) - Presidente, primeiro, agrade\u00e7o a honra e o prazer de estar relatando o Projeto de Lei n\u00ba 7.843, de 2017, e seus apensados. Esse projeto \u00e9 extremamente importante para dar mais efici\u00eancia aos processos do Governo e para instalar uma transforma\u00e7\u00e3o digital real no Governo brasileiro.\r\nEu vou ser bem resumido no meu relat\u00f3rio, que j\u00e1 est\u00e1 dispon\u00edvel h\u00e1 mais de uma semana para todos. \r\nBasicamente, o que o projeto faz \u00e9 dar muito mais clareza para v\u00e1rios processos que acontecem de forma digital dentro do Governo, dando prazos, obriga\u00e7\u00f5es de transpar\u00eancia e de interoperabilidade de dados.\r\nO projeto determina que, em qualquer lugar do Brasil, seja no Governo Federal, Estadual ou Municipal, ser\u00e1 preciso ter um portal \u00fanico, uma plataforma \u00fanica de presta\u00e7\u00e3o digital dos servi\u00e7os p\u00fablicos, a qual ter\u00e1 a base de servi\u00e7os p\u00fablicos, e o cidad\u00e3o vai poder descobrir e acessar os servi\u00e7os p\u00fablicos daquele ente federativo de maneira digital, com login \u00fanico, para sua pr\u00f3pria facilidade.\r\nAl\u00e9m disso, Presidente, n\u00f3s trazemos uma s\u00e9rie de quest\u00f5es relativas \u00e0s obriga\u00e7\u00f5es de transpar\u00eancia do poder p\u00fablico, justamente para garantirmos a transpar\u00eancia n\u00e3o apenas quando ela \u00e9 pedida, mas tamb\u00e9m a transpar\u00eancia ativa.\r\nN\u00f3s estamos digitalizando os servi\u00e7os p\u00fablicos e, nesse projeto, damos todas as bases necess\u00e1rias para o Governo Federal, os Governos Estaduais e os Governos Municipais fazerem a digitaliza\u00e7\u00e3o de maneira padronizada. Pretendemos que haja uma harmonia no Brasil como um todo, e n\u00e3o que o Governo Federal fa\u00e7a uma digitaliza\u00e7\u00e3o, e os Estados e Munic\u00edpios fa\u00e7am outra, construindo, assim, uma burocracia digital. N\u00e3o \u00e9 isso. N\u00f3s estamos harmonizando todos os processos. \r\nEnt\u00e3o, esse projeto de lei torna o Governo muito mais eficiente, torna a transforma\u00e7\u00e3o digital algo muito mais f\u00e1cil e mais plaus\u00edvel de ser feita em nosso Pa\u00eds e tamb\u00e9m torna, naturalmente, o Governo mais transparente.\r\nEu vou terminar por aqui o resumo do meu relat\u00f3rio e j\u00e1 ir para o voto.\r\nPela Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica, votamos pela aprova\u00e7\u00e3o do projeto, no m\u00e9rito, na forma do substitutivo.\r\nPela Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, votamos pela aprova\u00e7\u00e3o do substitutivo da Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica.\r\nPela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, votamos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do substitutivo.\r\nPresidente, este \u00e9 o meu voto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=317&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T20:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 7843/2017, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, NORMA GERAL, EFICI\u00caNCIA, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, DESBUROCRATIZA\u00c7\u00c3O, QUALIDADE, SERVI\u00c7OS P\u00daBLICOS, INFORMATIZA\u00c7\u00c3O, ACESSO \u00c0 INFORMA\u00c7\u00c3O, CIDAD\u00c3O, PARTICIPA\u00c7\u00c3O POPULAR, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), ESCLARECIMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Esclarecimento sobre pontos do parecer oferecido pelo orador ao Projeto de Lei n\u00ba 7.843, de 2017, acerca dos princ\u00edpios, regras e instrumentos para o governo digital e a efici\u00eancia p\u00fablica; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.116, de 1983; 13.460, de 2017; 12.682, de 2012, e 12.527, de 2011.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, muito rapidamente, quero dizer que, de fato, quando este projeto quase foi \u00e0 vota\u00e7\u00e3o, em outubro deste ano, eu tinha um relat\u00f3rio pr\u00e9vio, v\u00e1rias das bancadas da Oposi\u00e7\u00e3o demonstraram algumas preocupa\u00e7\u00f5es, especialmente em rela\u00e7\u00e3o \u00e0 prote\u00e7\u00e3o de dados, e eu sanei todas essas preocupa\u00e7\u00f5es. Inclusive, eu mandei um documento para as bancadas, na \u00e9poca, dizendo que elas tinham me mandado um documento com v\u00e1rios pontos e mostrando qual dele eu tinha acatado, de que forma eu o tinha acatado e por qu\u00ea.\r\nEm rela\u00e7\u00e3o \u00e0 prote\u00e7\u00e3o de dados, que eu acho que pode ser a grande preocupa\u00e7\u00e3o aqui, n\u00f3s nos preocupamos demais em botar este projeto de lei totalmente alinhado com a LGPD, e ele est\u00e1 totalmente alinhado com ela.\r\nEstou esclarecendo isso porque acho que as preocupa\u00e7\u00f5es do PCdoB, que eram principalmente em rela\u00e7\u00e3o a essas coisas, j\u00e1 est\u00e3o todas sanadas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=321&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO, PL 7843/2017, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, NORMA GERAL, EFICI\u00caNCIA, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, DESBUROCRATIZA\u00c7\u00c3O, QUALIDADE, SERVI\u00c7OS P\u00daBLICOS, INFORMATIZA\u00c7\u00c3O, ACESSO \u00c0 INFORMA\u00c7\u00c3O, CIDAD\u00c3O, PARTICIPA\u00c7\u00c3O POPULAR, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA).",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 e 2, oferecidas ao Projeto de Lei n\u00ba 7.843, de 2017, acerca dos princ\u00edpios, regras e instrumentos para o governo digital e a efici\u00eancia p\u00fablica; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.116, de 1983; 13.460, de 2017; 12.682, de 2012, e 12.527, de 2011.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Para proferir parecer. Sem revis\u00e3o do orador.) - Presidente, antes de dar o parecer exato das duas emendas que foram feitas ao PL 3.443, que est\u00e1 apensado ao PL 7.843, eu queria citar alguns pontos que, na correria da apresenta\u00e7\u00e3o do relat\u00f3rio, eu n\u00e3o pude mencionar.\r\nEu queria s\u00f3 ressaltar e trazer \u00e0 luz dos meus colegas aqui a dimens\u00e3o do que n\u00f3s estamos fazendo com esse projeto de lei. O PL 7.843, de efici\u00eancia p\u00fablica, e o PL 3.443, do Governo Digital, que est\u00e3o juntos, foram apensados um ao outro, trazem uma reforma da efici\u00eancia do servi\u00e7o p\u00fablico. N\u00f3s estamos de fato fazendo uma s\u00e9rie de regramentos, uma s\u00e9rie de bases de transforma\u00e7\u00e3o, para que o servi\u00e7o p\u00fablico brasileiro seja realmente eficiente, para que o cidad\u00e3o n\u00e3o precise entregar o mesmo documento 15 vezes em 12 departamentos diferentes. Com este projeto de lei, uma vez que se deu o documento para um departamento, n\u00e3o \u00e9 preciso d\u00e1-lo mais para nenhum outro departamento, s\u00f3 autorizar sua utiliza\u00e7\u00e3o.\r\nPresidente, a seguinte conta foi feita no Minist\u00e9rio da Economia: para cada real investido nas bases desse projeto, na digitaliza\u00e7\u00e3o dos servi\u00e7os p\u00fablicos, 38 reais s\u00e3o economizados permanentemente. Se digitalizarmos por completo o Governo Federal, vamos economizar 38 bilh\u00f5es de reais por ano permanentemente. Trata-se da metade da economia feita na reforma da Previd\u00eancia, com algo que \u00e9 consensual, com algo que \u00e9 muito simples, que protege o cidad\u00e3o e que simplifica n\u00e3o s\u00f3 a vida do cidad\u00e3o, mas todo o ambiente de neg\u00f3cios brasileiro.\r\nQueria ressaltar isso porque, \u00e0s vezes, na correria - e n\u00f3s estamos trabalhando muito nesses \u00faltimos dias -, n\u00e3o nos damos conta, na cabe\u00e7a, da dimens\u00e3o do que n\u00f3s estamos fazendo aqui.\r\nInformo que foram oferecidas doze emendas ao projeto.\r\nPela Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica, rejeito a Emenda n\u00ba 1 e a Emenda n\u00ba 2 que foram feitas ao PL 3.443/19, que est\u00e1 apensado ao PL 7.843/20.\r\nPela Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, rejeito a Emenda n\u00ba 1 e a Emenda n\u00ba 2, feitas ao PL 3.443/19, que est\u00e1 apensado ao PL 7.843/20.\r\nPela Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, voto pela adequa\u00e7\u00e3o or\u00e7ament\u00e1ria das duas emendas que foram feitas ao PL 3.443/19, apensado ao PL 7.843/20.\r\nPela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, voto pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa das duas emendas.\r\nPresidente, esse \u00e9 o parecer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=329&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-09T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Discuss\u00e3o do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, n\u00e3o h\u00e1 nada melhor para uma pol\u00edtica p\u00fablica do que uma gest\u00e3o t\u00e9cnica que fique \u00e0 frente dela, que toque a pol\u00edtica p\u00fablica, toque as quest\u00f5es t\u00e9cnicas e fa\u00e7a chegar \u00e0 popula\u00e7\u00e3o aquilo que \u00e9 necess\u00e1rio.\r\n\u00c9 exatamente isso que estamos fazendo com este projeto de independ\u00eancia do Banco Central. Na verdade, a independ\u00eancia do Banco Central nada mais \u00e9 do que um seguro para a popula\u00e7\u00e3o brasileira, um seguro contra o populismo monet\u00e1rio barato, \u00e0 esquerda e \u00e0 direita. Qualquer Presidente que seja vai ser tentado a fazer uma pol\u00edtica monet\u00e1ria populista. A independ\u00eancia do Banco Central \u00e9 exatamente um seguro contra isso. Mais importante: \u00e9 a garantia da estabilidade de pre\u00e7os, ou seja, \u00e9 a garantia de que os produtos e servi\u00e7os v\u00e3o ter estabilidade nos pre\u00e7os que v\u00e3o ser cobrados.\r\nEu ouvi de uma Deputada aqui hoje que n\u00f3s viramos as costas para o povo brasileiro. \u00c9 justamente o contr\u00e1rio o que n\u00f3s estamos fazendo aqui. Poucas coisas para a popula\u00e7\u00e3o de baixa renda \u00e9 t\u00e3o ruim quanto a infla\u00e7\u00e3o, que aumenta os pre\u00e7os dos produtos, aumenta os pre\u00e7os dos servi\u00e7os e faz a renda dessas pessoas ter menos valor. O que n\u00f3s estamos fazendo aqui \u00e9 justamente o contr\u00e1rio: \u00e9 manter a estabilidade de pre\u00e7os, evitar a infla\u00e7\u00e3o e, por consequ\u00eancia, valorizar a renda das pessoas, Sr. Presidente.\r\n\u00c9 isso que eu quero dizer. \u00c9 muito importante este projeto que n\u00f3s estamos votando aqui hoje.\r\nParab\u00e9ns pela iniciativa.\r\nMuito obrigado.\r\nSolicito, se for poss\u00edvel, que esta fala seja colocada no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F2%2F2021&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "F\u00c1BRICA, CAF\u00c9, LINHARES (ES), INVESTIMENTO, AUMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "An\u00fancio de instala\u00e7\u00e3o pela empresa Olam, de Singapura, de f\u00e1brica para produ\u00e7\u00e3o de caf\u00e9 sol\u00favel, no Munic\u00edpio de Linhares, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Obrigado, Presidente. Hoje eu venho aqui, embora em meio a este desastre que n\u00f3s estamos vivendo da pandemia da COVID-19, para fazer uma comemora\u00e7\u00e3o. A minha cidade natal, Linhares, tem sido uma refer\u00eancia em investimentos l\u00e1 no norte do Esp\u00edrito Santo. A empresa de caf\u00e9 sol\u00favel Olam, de Cingapura, acabou de confirmar, ontem, inclusive, que vai fazer um investimento de 740 milh\u00f5es de reais na sua f\u00e1brica de caf\u00e9 sol\u00favel em Linhares, no norte do Esp\u00edrito Santo.\r\nIsso \u00e9 uma valoriza\u00e7\u00e3o enorme da nossa regi\u00e3o, valoriza\u00e7\u00e3o, inclusive, para agregar valor ao nosso caf\u00e9, que \u00e9 o caf\u00e9 conilon, produzido por l\u00e1, n\u00e3o s\u00f3 em Linhares, mas em v\u00e1rias outras cidades da regi\u00e3o. E a pr\u00f3pria empresa j\u00e1 confirmou que vai utilizar a produ\u00e7\u00e3o local para fazer o seu caf\u00e9 sol\u00favel. \u00c9 uma grande vit\u00f3ria n\u00e3o s\u00f3 para Linhares, mas para todo o Esp\u00edrito Santo; \u00e9 uma lufada de esperan\u00e7a em meio a tanta confus\u00e3o, a tanta dificuldade que n\u00f3s estamos passando na pandemia.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, AJUSTE FISCAL, PEC EMERGENCIAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, FOME, POBRE, EQUIL\u00cdBRIO FISCAL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Import\u00e2ncia da vota\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, referente \u00e0 cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente!\r\nPresidente, quero refor\u00e7ar a import\u00e2ncia do que estamos fazendo aqui hoje na vota\u00e7\u00e3o desta PEC. \r\n\u00c9 \u00f3bvio que milh\u00f5es de pessoas est\u00e3o passando fome hoje, porque o aux\u00edlio emergencial acabou. Precisamos muito urgentemente colocar de volta algum tipo de aux\u00edlio emergencial, para que as pessoas tenham um alento nesse per\u00edodo mais dif\u00edcil. \r\nMas tamb\u00e9m \u00e9 extremamente importante o que estamos fazendo em termos fiscais agora. Estamos dando um sinal para o Brasil, para os investidores, para o mundo de que o Brasil ter\u00e1 condi\u00e7\u00f5es estruturais no futuro de colocar suas contas em dia. Estamos dizendo aqui que, toda vez que os gastos obrigat\u00f3rios chegarem a 95% dos gastos gerais, vamos ativar certos gatilhos. Isso \u00e9 extremamente importante, porque vamos resolver um problema de fluxo. A trajet\u00f3ria das contas p\u00fablicas brasileiras estar\u00e1 resolvida. A consequ\u00eancia disso \u00e9 que vamos ter menos press\u00e3o na infla\u00e7\u00e3o, e os pobres v\u00e3o ser beneficiados com isso. O d\u00f3lar vai ficar um pouco mais baixo, o que tamb\u00e9m beneficia as pessoas mais pobres. O que n\u00f3s estamos fazendo aqui hoje \u00e9 de extrema import\u00e2ncia.\r\nEu vejo alguns Parlamentares reclamando e falando que dever\u00edamos separar. N\u00e3o dever\u00edamos separar, as duas coisas juntas s\u00e3o de extrema import\u00e2ncia. Estamos dando um alento para quem mais precisa e estamos dando um sinal de que a trajet\u00f3ria das contas p\u00fablicas brasileiras estar\u00e1 equilibrada. \u00c9 muito importante o que estamos fazendo aqui hoje.\r\nPresidente, muito obrigado!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=247&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T13:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, DISPOSITIVO LEGAL,  PERCENTUAL, DESPESA CORRENTE, PROIBI\u00c7\u00c3O, REAJUSTE SALARIAL, SERVIDOR P\u00daBLICO, CONTRATA\u00c7\u00c3O, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, EQUIL\u00cdBRIO FISCAL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Import\u00e2ncia da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado pela concess\u00e3o da palavra.\r\nEu quero dizer apenas uma coisa. \u00c9 extremamente importante o que n\u00f3s estamos fazendo aqui e agora. Eu tenho orgulho de fazer parte do Esp\u00edrito Santo, hoje o Estado mais equilibrado fiscalmente no Pa\u00eds. N\u00f3s s\u00f3 chegamos onde estamos fazendo exatamente o que est\u00e1 nesta PEC. \r\n\u00c9 duro mesmo, n\u00e3o \u00e9 f\u00e1cil n\u00e3o dar reajuste aos servidores. Por\u00e9m, se n\u00f3s quisermos financiar os hospitais, colocar rem\u00e9dios e equipamentos, se quisermos financiar as escolas, colocar material escolar e tudo o que \u00e9 necess\u00e1rio, n\u00e3o temos outra sa\u00edda. N\u00e3o podemos permitir que um Estado que ultrapassa 95% da receita l\u00edquida com suas despesas continue dando reajustes. Sen\u00e3o, ele n\u00e3o vai conseguir custear a m\u00e1quina p\u00fablica. \r\nFora o que o Deputado Marcelo j\u00e1 tinha mencionado, e muito bem, se demonstrarmos leni\u00eancia com o desequil\u00edbrio fiscal, vai haver infla\u00e7\u00e3o, o d\u00f3lar vai estourar e os juros v\u00e3o aumentar. Ali\u00e1s, o aumento de juros custa mais para o Governo, que, com isso, ter\u00e1 ainda menos espa\u00e7o para custear as pol\u00edticas p\u00fablicas. \r\nQuem quer custear pol\u00edtica p\u00fablica, quem quer financiar hospitais, escolas e estradas tem que votar a favor desta mat\u00e9ria. Obviamente, isso n\u00e3o \u00e9 f\u00e1cil, mas n\u00f3s precisamos dar este sinal de equil\u00edbrio fiscal para o futuro, para conseguirmos financiar as pol\u00edticas p\u00fablicas e, \u00e9 claro, para demonstrarmos responsabilidade com nosso futuro.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F3%2F2021&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUPRESS\u00c3O, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987).",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 167-A da Carta Magna, na reda\u00e7\u00e3o dada pelo art. 1\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, obrigado por me conceder a palavra.\r\nEssa exce\u00e7\u00e3o que n\u00f3s estamos fazendo aqui, agora, Presidente, significa o seguinte. O Estado chegou a 95% da sua receita corrente l\u00edquida com despesa obrigat\u00f3ria, completamente lascado fiscalmente. \u00c9 quase a situa\u00e7\u00e3o fiscal em que o Rio de Janeiro se encontra agora. E, ent\u00e3o, n\u00f3s vamos permitir que ele d\u00ea um reajuste para o servidor. O que vai acontecer? Vai haver policiais, mas n\u00e3o vai haver armas; eles v\u00e3o ter que brigar com o bandido no tapa. Vai haver m\u00e9dicos, mas n\u00e3o vai haver rem\u00e9dios; os m\u00e9dicos n\u00e3o v\u00e3o ter o que fazer. O Estado n\u00e3o vai ter condi\u00e7\u00e3o de custear as coisas b\u00e1sicas que fazem a opera\u00e7\u00e3o do servi\u00e7o p\u00fablico andar. \r\n\u00c9 essa a permiss\u00e3o que n\u00f3s estamos dando aqui, Presidente. N\u00e3o d\u00e1 para fazermos isso. Temos que votar \"sim\", sem exce\u00e7\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F3%2F2021&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-16T23:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "G\u00c1S NATURAL, PRE\u00c7O, MONOP\u00d3LIO, DISTRIBUI\u00c7\u00c3O. \r\nREJEI\u00c7\u00c3O, EMENDA, SENADO FEDERAL, BIOMETANO, COMPET\u00caNCIA, REGULA\u00c7\u00c3O, TRANSPORTE, GAS NATURAL, PL 4476/2020, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Elevado pre\u00e7o do g\u00e1s natural no Pa\u00eds. Defesa da rejei\u00e7\u00e3o das Emendas do Senado Federal ao Projeto de Lei n\u00ba 4.476, de 2020, (n\u00ba 6.407-B, de 2013, na C\u00e2mara dos Deputados), sobre o estabelecimento do marco regulat\u00f3rio do g\u00e1s natural.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Como L\u00edder. Sem revis\u00e3o do orador.) - Presidente, o Brasil tem hoje o g\u00e1s natural mais caro do mundo. E \u00e9 claro que as raz\u00f5es s\u00e3o muito simples de se entender. N\u00f3s temos um monop\u00f3lio na distribui\u00e7\u00e3o, temos uma burocracia absurda e temos regras tribut\u00e1rias muito complexas.\r\nNem todo brasileiro consome o g\u00e1s natural diretamente e sabe quais s\u00e3o os efeitos dele, que \u00e9 comercializado em forma de g\u00e1s encanado em algumas cidades e \u00e9 utilizado no transporte, especialmente pelos taxistas. Por\u00e9m, nem todo brasileiro o consome diretamente. E a\u00ed ele acha que n\u00e3o tem nada a ver com isso. Por\u00e9m, isso tem muito a ver com ele.\r\nO pre\u00e7o do g\u00e1s natural tem a ver com o pre\u00e7o da energia el\u00e9trica, tem a ver com o pre\u00e7o do transporte das mercadorias, tem a ver com o pre\u00e7o dos fertilizantes e, por tabela, com o pre\u00e7o dos alimentos.\r\nEnt\u00e3o, falar de pre\u00e7o do g\u00e1s natural \u00e9, naturalmente, falar do dia a dia das pessoas. E \u00e9 isto o que n\u00f3s tentamos fazer aqui com essa lei: descentralizar o mercado de g\u00e1s natural, estimular a competi\u00e7\u00e3o entre os fornecedores e, por consequ\u00eancia, baixar os pre\u00e7os, aumentar os investimentos e aumentar o n\u00edvel de emprego que esse mercado gera no nosso Pa\u00eds.\r\nInfelizmente, o Senado colocou algumas emendas que distorcem ou suprimem partes do texto importantes. Como exemplo, cito a emenda de que estamos tratando aqui, a do biometano. Apesar de o biometano ser muito importante, ela impede terceiros interessados nos gasodutos de escoamento. Isso torna o processo mais burocr\u00e1tico e mais caro.\r\nA Emenda n\u00ba 4, por exemplo, tira da compet\u00eancia da ANP a regula\u00e7\u00e3o do transporte de g\u00e1s por via aqu\u00e1tica, rodovi\u00e1ria ou ferrovi\u00e1ria. E a\u00ed n\u00f3s vamos restringir a forma como podemos distribuir o g\u00e1s, tornando a distribui\u00e7\u00e3o mais cara.\r\nEnt\u00e3o, n\u00f3s precisamos, sim, rejeitar todas as emendas do Senado, para fazer com que o mercado de g\u00e1s seja realmente mais livre, mais competitivo e aumente os investimentos no nosso Pa\u00eds, bem como o n\u00edvel de emprego e a qualidade de vida das pessoas, Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F3%2F2021&txPagina=236&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-19T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VETO 50/2020, VETO PARCIAL, MPV 983/2020, MEDIDA PROVIS\u00d3RIA, ASSINATURA ELETR\u00d4NICA, DOCUMENTO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, COMUNICA\u00c7\u00c3O DIGITAL, CIDAD\u00c3O, PODER P\u00daBLICO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Defesa da manuten\u00e7\u00e3o do veto parcial n\u00ba 50, de 2020, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 32, de 2020 (oriundo da Medida Provis\u00f3ria n\u00ba 983, de 2020), sobre o uso de assinaturas eletr\u00f4nicas em intera\u00e7\u00f5es com entes p\u00fablicos, em atos de pessoas jur\u00eddicas e em quest\u00f5es de sa\u00fade e sobre as licen\u00e7as de softwares desenvolvidos por entes p\u00fablicos; e altera\u00e7\u00e3o da Lei n\u00ba 9.096, de 1995; da Lei n \u00ba 5.991, de 1973; e da Medida Provis\u00f3ria n\u00ba 2.200-2, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, primeiro, muito obrigado por me conceder a palavra.\r\nGostaria de dizer que a manuten\u00e7\u00e3o do Veto n\u00b0 50, que n\u00f3s estamos votando agora, \u00e9 muito importante. Quando n\u00f3s aprovamos essa lei das assinaturas eletr\u00f4nicas, n\u00f3s n\u00e3o est\u00e1vamos entendendo bem qual seria a consequ\u00eancia. N\u00f3s est\u00e1vamos burocratizando demais a vida do cidad\u00e3o e das empresas com rela\u00e7\u00e3o ao Estado. Basicamente, se derrubarmos este veto, n\u00f3s vamos encarecer todas as rela\u00e7\u00f5es. N\u00f3s vamos fazer o Custo Brasil ficar, com certeza, maior. N\u00f3s vamos chegar ao ponto de ter que aprovar um aux\u00edlio relacionado \u00e0 assinatura eletr\u00f4nica para as pessoas pobres, que n\u00e3o v\u00e3o ter condi\u00e7\u00e3o de pagar pelo custo da ICP-Brasil, que fica em torno de 50 reais ou 100 reais por ano. Ent\u00e3o, isso \u00e9 muito importante, Presidente. \r\nEu fui Relator da Lei do Governo Digital, e essa lei depende de n\u00f3s mantermos esse veto, para darmos acesso a um servi\u00e7o p\u00fablico de qualidade, digitalizado, para todos os cidad\u00e3os e empresas do Brasil.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=22%2F4%2F2021&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-28T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, CORONAV\u00cdRUS, PANDEMIA, AN\u00c1LISE.\r\nPL 3477/2020, PROJETO DE LEI ORDIN\u00c1RIA, UNI\u00c3O, GARANTIA, RECURSOS, ACESSO, INTERNET, ALUNO, PROFESSOR, EDUCA\u00c7\u00c3O B\u00c1SICA, REDE P\u00daBLICA DE ENSINO, EDUCA\u00c7\u00c3O A DIST\u00c2NCIA, OPERADORA DE TELEFONIA M\u00d3VEL, GRATUIDADE, SERVI\u00c7OS, FONTE DE RECURSOS, FUNDO DE UNIVERSALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES (FUST), DERRUBADA DE VETO, DEFESA.\r\nDIA DA EDUCA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Transcurso do Dia da Educa\u00e7\u00e3o. Precariedade do acesso ao ensino no Pa\u00eds diante da pandemia de coronav\u00edrus. Cr\u00edtica ao veto integral do Presidente da Rep\u00fablica ao Projeto de Lei n\u00ba 3.477, de 2020, sobre a garantia de acesso \u00e0 internet, com fins educacionais, aos alunos e professores da educa\u00e7\u00e3o b\u00e1sica p\u00fablica. Defesa da promo\u00e7\u00e3o da educa\u00e7\u00e3o de qualidade no Pa\u00eds.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje \u00e9 o Dia da Educa\u00e7\u00e3o, e, infelizmente, temos muito pouco, para n\u00e3o dizer nada, para comemorar no Brasil. \r\nNo ano passado, a educa\u00e7\u00e3o estava sendo oferecida de forma extremamente prec\u00e1ria - isso, quando estava sendo oferecida, quando nossos alunos tinham acesso - e ainda continua a mesma situa\u00e7\u00e3o. N\u00f3s temos, hoje, no Brasil, 18 milh\u00f5es de estudantes sem acesso \u00e0 Internet e, por consequ\u00eancia, sem acesso \u00e0s aulas, a nenhum tipo de educa\u00e7\u00e3o. Esse problema poderia ter sido resolvido com o Projeto de Lei n\u00ba 3.477, de 2020, que aprovamos, mas, infelizmente, ele foi vetado pelo Presidente da Rep\u00fablica na sua integralidade, e estamos adiando a cada dia a derrubada desse veto, o que \u00e9 extremamente importante. \r\nAntes da pandemia, Presidente, s\u00f3 metade dos estudantes conseguiam ter um desempenho m\u00ednimo em Portugu\u00eas e Matem\u00e1tica na prova do PISA. Com a pandemia, houve uma defasagem, segundo estudo da Secretaria de Educa\u00e7\u00e3o de S\u00e3o Paulo, s\u00f3 em Matem\u00e1tica, de mais 20%. Vai ser preciso uma d\u00e9cada, daqui para frente, para recuperarmos esse ano perdido, em que os alunos n\u00e3o tiveram uma educa\u00e7\u00e3o digna e de qualidade. \r\nN\u00f3s vamos ter um desafio muito grande daqui para frente. Est\u00e1 na hora - hoje \u00e9 o Dia da Educa\u00e7\u00e3o - de come\u00e7armos a pensar, de fato, em fazer n\u00e3o s\u00f3 um grande projeto, mas grandes projetos para a educa\u00e7\u00e3o, para, primeiro, recuperar o aprendizado dos alunos, que foi perdido, e, segundo, avan\u00e7ar, e muito, porque todos sabemos que, mesmo antes da pandemia, a educa\u00e7\u00e3o n\u00e3o tinha a qualidade que desej\u00e1vamos.\r\nSe n\u00f3s queremos ser uma Na\u00e7\u00e3o realmente produtiva, competitiva, com uma economia pujante, que oferece novos produtos e novos servi\u00e7os para n\u00f3s e para o mundo, a educa\u00e7\u00e3o \u00e9 a \u00fanica sa\u00edda. Se n\u00f3s queremos ser uma Na\u00e7\u00e3o onde qualquer pessoa, independentemente de onde nas\u00e7a, independentemente da fam\u00edlia em que nas\u00e7a, consiga ter oportunidade de seguir e ser aquilo que quiser na vida, n\u00e3o h\u00e1 outro caminho, a n\u00e3o ser a educa\u00e7\u00e3o. \r\nEnt\u00e3o, neste dia, Sr. Presidente, que \u00e9 o Dia da Educa\u00e7\u00e3o, no qual n\u00f3s n\u00e3o temos muita coisa a comemorar, vale um grande chamado: n\u00f3s vamos ter que nos unir - e o quanto antes melhor - para, primeiro, dar acesso \u00e0 educa\u00e7\u00e3o de qualidade aos nossos alunos, come\u00e7ando, agora, no ensino remoto e depois conseguindo fazer o mesmo no ensino presencial; e, segundo, fazendo avan\u00e7ar - e avan\u00e7ar muito - a qualidade da nossa educa\u00e7\u00e3o. \r\nNunca podemos esquecer que educa\u00e7\u00e3o \u00e9 aprendizado. Temos que evoluir no aprendizado dos nossos alunos. \r\nMuito obrigado, Presidente. \r\nPor favor, solicito que este discurso seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-06T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, FAVOR\u00c1VEL, PAUTA (PROCESSO LEGISLATIVO), ARTHUR LIRA, PRESIDENTE DA REP\u00daBLICA, AGRADECIMENTO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Agradecimento ao Presidente Arthur Lira pelo apoio \u00e0 vota\u00e7\u00e3o de projetos de lei relativos \u00e0 \u00e1rea da educa\u00e7\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Muito obrigado, Presidente.\r\nEu queria s\u00f3 ressaltar a import\u00e2ncia do que n\u00f3s estamos fazendo e agradecer a autoriza\u00e7\u00e3o e a lideran\u00e7a do Presidente Arthur Lira, que nos permitiu fazer, com a Deputada Professora Dorinha, Presidente da Comiss\u00e3o de Educa\u00e7\u00e3o, e o Deputado Professor Israel Batista, Presidente da Frente Parlamentar Mista da Educa\u00e7\u00e3o, que est\u00e3o, junto conosco, na Comiss\u00e3o Externa, as articula\u00e7\u00f5es necess\u00e1rias e entender quais s\u00e3o os projetos para a educa\u00e7\u00e3o que n\u00f3s podemos apreciar nesta semana. \r\nFoi muito importante essa pactua\u00e7\u00e3o que n\u00f3s estamos fazendo pela educa\u00e7\u00e3o. Para al\u00e9m do m\u00e9rito dos projetos, que s\u00e3o muito, muito bons - temos projeto relacionado \u00e0 pandemia, projeto para atacar a evas\u00e3o escolar -, n\u00f3s estamos aqui pactuando pela educa\u00e7\u00e3o brasileira. E isso, infelizmente, nos \u00faltimos 40 anos, foi raro acontecer. \u00c9 muito importante o que estamos fazendo, e isso tem sido poss\u00edvel, repito, gra\u00e7as \u00e0 lideran\u00e7a do Presidente Arthur Lira e \u00e0 articula\u00e7\u00e3o da Deputada Professora Dorinha, do Deputado Professor Israel Batista e de todos os que est\u00e3o envolvidos com a educa\u00e7\u00e3o brasileira.\r\nMuito obrigado, Presidente. E vamos em frente, porque a semana vai ser muito boa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2021&txPagina=65&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 1031/2021, MEDIDA PROVIS\u00d3RIA, RELAT\u00d3RIO (PROCESSO LEGISLATIVO), OBRIGATORIEDAD, UNI\u00c3O, CONTRATA\u00c7\u00c3O, ENERGIA TERMEL\u00c9TRICA, G\u00c1S NATURAL, FIXA\u00c7\u00c3O, PRE\u00c7O, PEQUENA CENTRAL HIDREL\u00c9TRICA (PCH), CR\u00cdTICA.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 1.031, de 2021, sobre a desestatiza\u00e7\u00e3o da empresa Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, h\u00e1 algum tempo j\u00e1, n\u00f3s vimos discutindo a necessidade absurda de fazermos a desestatiza\u00e7\u00e3o da ELETROBRAS. Naturalmente, o Governo conseguiu, na sua medida provis\u00f3ria, um bom modelo para fazer isso, inclusive com v\u00e1rias compensa\u00e7\u00f5es para a modicidade tarif\u00e1ria, dando uma excelente solu\u00e7\u00e3o para essa quest\u00e3o. E, de fato, essa seria uma excelente sinaliza\u00e7\u00e3o n\u00e3o s\u00f3 para investidores, para o mercado, mas tamb\u00e9m para o pr\u00f3prio setor el\u00e9trico, que precisa de grandes reformas para melhorar a sua efici\u00eancia.\r\nAgora n\u00f3s vemos o relat\u00f3rio final do Relator, que traz algumas melhorias, sim, em rela\u00e7\u00e3o \u00e0 MP, mas tamb\u00e9m traz algumas quest\u00f5es que n\u00e3o fazem sentido nenhum e que precisam ser melhoradas, para n\u00f3s podermos votar aqui, com louvor, a nossa medida provis\u00f3ria.\r\nA primeira quest\u00e3o s\u00e3o as t\u00e9rmicas. N\u00f3s estamos for\u00e7ando a Uni\u00e3o a contratar energia gerada e fornecida por t\u00e9rmicas instaladas em lugares onde n\u00e3o h\u00e1 g\u00e1s para gerar essa energia, o que vai aumentar demasiadamente o custo. E j\u00e1 \u00e9 cara a energia gerada a g\u00e1s. Ent\u00e3o, \u00e9 como se me dissessem o seguinte: \"Felipe, voc\u00ea tem que comprar um carro, mas voc\u00ea tem que comprar um carro onde n\u00e3o vende carro. Ent\u00e3o, voc\u00ea vai ter que contratar e financiar a gera\u00e7\u00e3o da concession\u00e1ria, do transporte, etc.\". Isso, de fato, n\u00e3o faz sentido aqui.\r\nN\u00f3s estamos reduzindo a efici\u00eancia do sistema com essa medida espec\u00edfica. N\u00f3s estamos aumentando a efici\u00eancia dele com a MP como um todo, mas essa medida espec\u00edfica est\u00e1 gerando um custo desnecess\u00e1rio. Podemos, sim, gerar energia a partir de t\u00e9rmicas, mas onde h\u00e1 g\u00e1s natural para ser fornecido, onde h\u00e1 gasodutos j\u00e1 constru\u00eddos, inclusive, que podem aumentar bastante a efici\u00eancia do setor como um todo. \r\nOutra coisa que eu acho que pode melhorar este texto \u00e9 n\u00e3o fixar como pre\u00e7o colocado para as PCHs o pre\u00e7o-teto do \u00faltimo leil\u00e3o, que foi feito em 2019, porque hoje esse pre\u00e7o \u00e9 o dobro do praticado no mercado. Se n\u00f3s colocarmos para as PCHs o pre\u00e7o de mercado, vamos, sim, aumentar muito a efici\u00eancia do setor el\u00e9trico.\r\nEnt\u00e3o, Presidente, naturalmente \u00e9 uma conquista muito importante o que n\u00f3s neste momento estamos fazendo, mas ainda d\u00e1, sim, para n\u00f3s melhorarmos este texto e trazermos mais efici\u00eancia para o setor como um todo.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, PROPOSI\u00c7\u00c3O ORIGINAL, MPV 1031/2021, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque de prefer\u00eancia para vota\u00e7\u00e3o do texto original da Medida Provis\u00f3ria n\u00ba 1.031, de 2021, acerca da privatiza\u00e7\u00e3o das Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS, em detrimento do Projeto de Lei de Convers\u00e3o n\u00ba 7, de 2021.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, como eu j\u00e1 disse aqui uma vez ao longo deste dia em que estamos votando esta MP, o projeto original da MP de fato traz avan\u00e7os muito grandes e d\u00e1 um sinal muito bom, n\u00e3o s\u00f3 para o mercado, para os investidores, mas tamb\u00e9m, em especial, para os consumidores, porque n\u00e3o s\u00f3 vai haver capacidade de modicidade tarif\u00e1ria, atrav\u00e9s do valor que vai para a CDE, como tamb\u00e9m vai haver ganhos de efici\u00eancia em toda a rede do sistema el\u00e9trico brasileiro.\r\nAgora, o que fizemos aqui com o novo relat\u00f3rio, infelizmente, por mais que se acate uma emenda ou outra que possa at\u00e9 trazer algum benef\u00edcio, no todo traz uma inefici\u00eancia muito grande para o sistema el\u00e9trico brasileiro. N\u00f3s estamos obrigando o Estado, atrav\u00e9s da privatiza\u00e7\u00e3o da ELETROBRAS, a contratar termoel\u00e9tricas em lugares onde n\u00e3o h\u00e1 g\u00e1s. Por consequ\u00eancia, n\u00f3s vamos ter que pagar pela ida dos gasodutos at\u00e9 l\u00e1, o que vai trazer, naturalmente, uma inefici\u00eancia absurda. Al\u00e9m disso, n\u00f3s estamos dando uma reserva para a contrata\u00e7\u00e3o de energia numa modalidade espec\u00edfica, a das PCH - Pequenas Centrais Hidrel\u00e9tricas. Alguns v\u00e3o falar: \"N\u00e3o, mas pode ser uma op\u00e7\u00e3o\". Pode ser uma op\u00e7\u00e3o, inclusive se voc\u00ea n\u00e3o obrigar a fazerem isso. De qualquer jeito seria uma op\u00e7\u00e3o. Estamos fazendo isso, inclusive dando o pre\u00e7o no teto do \u00faltimo leil\u00e3o, que \u00e9 o dobro do valor de mercado em que hoje \u00e9 comprada essa energia.\r\nSr. Presidente, infelizmente, o novo relat\u00f3rio que foi apresentado aqui ainda traz inefici\u00eancias muito grandes para o sistema el\u00e9trico brasileiro. Vai custar caro para o Brasil, vai custar caro para os consumidores. Por isso \u00e9 t\u00e3o importante votarmos a favor da prefer\u00eancia da MP original, para darmos, sim, um belo sinal para o mercado e come\u00e7armos, de fato, essa reforma do sistema el\u00e9trico, de que tanto precisamos.\r\nEnt\u00e3o, Presidente, o encaminhamento \u00e9 \"sim\", pela prefer\u00eancia da MP original.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 1040/2021, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL, MODERNIZA\u00c7\u00c3O, AMBIENTE DE NEG\u00d3CIOS, DESBUROCRATIZA\u00c7\u00c3O, AUMENTO, COMPETITIVIDADE EMPRESARIAL, PANDEMIA, CORONAV\u00cdRUS, CRISE ECON\u00d4MICA, EMPREENDEDORISMO, CRESCIMENTO ECON\u00d4MICO.",
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 1.040, de 2021, sobre a facilita\u00e7\u00e3o para abertura de empresas, a prote\u00e7\u00e3o de acionistas minorit\u00e1rios, a facilita\u00e7\u00e3o do com\u00e9rcio exterior, o Sistema Integrado de Recupera\u00e7\u00e3o de Ativos, as cobran\u00e7as realizadas pelos conselhos profissionais, a profiss\u00e3o de tradutor e int\u00e9rprete p\u00fablico, a obten\u00e7\u00e3o de eletricidade e a prescri\u00e7\u00e3o intercorrente na Lei n\u00ba 10.406, de 2002 - C\u00f3digo Civil.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Presidente, primeiro, obrigado pela palavra.\r\nN\u00f3s estamos passando por um momento muito dif\u00edcil em nosso Pa\u00eds no combate \u00e0 epidemia. Todos n\u00f3s sabemos que a economia vai ter dificuldades, e n\u00f3s vamos precisar nos esfor\u00e7ar muito para fazer a retomada econ\u00f4mica. \r\nTodas as vezes que os pa\u00edses que passaram por grandes crises internas ou mundiais retomaram a economia, necessariamente fizeram um grande programa de desburocratiza\u00e7\u00e3o. Foi feita sempre uma desburocratiza\u00e7\u00e3o radical nesses pa\u00edses. A Alemanha, no p\u00f3s-guerra, a Su\u00e9cia, quando houve a quebradeira dos bancos nos anos 90, todos eles fizeram a mesma coisa. \r\nE \u00e9 isso que n\u00f3s estamos fazendo aqui nesta MP, atrav\u00e9s de uma s\u00e9rie de medidas, porque, como disse o Deputado Alexis antes de mim, os problemas criados ao longo do tempo s\u00e3o muito grandes, muito extensos, presentes em v\u00e1rias legisla\u00e7\u00f5es. Mas n\u00f3s estamos conseguindo aqui consolidar numa MP um grande avan\u00e7o para o empreendedorismo brasileiro, facilitando a abertura de neg\u00f3cios, dando prazos claros e corretos, fazendo de fato o que sempre tivemos que fazer no Brasil para que se torne um pa\u00eds f\u00e1cil de empreender.\r\nCom isso, Presidente, com certeza n\u00f3s vamos dar uma for\u00e7a danada para essa energia empreendedora que temos nos brasileiros. E \u00e9 isso, no fim das contas, que vai nos tirar desta depress\u00e3o econ\u00f4mica que a pandemia nos trouxe e vai nos levar para uma dire\u00e7\u00e3o de crescimento econ\u00f4mico.\r\nPresidente, muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-18T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": null,
+        "nomeDeputado": "Felipe Rigoni",
+        "sumario": null,
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FELIPE RIGONI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, neste domingo, dia 22 de agosto, Linhares, minha cidade natal, faz 221 de muita hist\u00f3ria.\r\n\u00c9 uma cidade muito linda, com um povo que adora o que faz, muito trabalhador. \u00c9 a cidade, inclusive, onde eu nasci, cresci e aprendi boa parte daquilo que sei hoje.\r\nPresidente, Linhares, no Esp\u00edrito Santo, tem se tornado uma das cidades que mais cresce no Estado. Tem uma for\u00e7a agr\u00edcola muito forte e uma for\u00e7a industrial que tem crescido cada vez mais. \u00c9 uma cidade que promete, ali\u00e1s, n\u00e3o promete mais, ela j\u00e1 entrega a seus cidad\u00e3os uma qualidade de vida muito boa.\r\nEnquanto Deputado, temos tentado e conseguido fazer uma s\u00e9rie de coisas para ajudar no desenvolvimento da nossa cidade. Foram mais de 8 milh\u00f5es de reais em emendas para a sa\u00fade e para a educa\u00e7\u00e3o. Conseguimos v\u00e1rios monitores para os hospitais da cidade durante a pandemia e, em breve, teremos um grande projeto na \u00e1rea da seguran\u00e7a p\u00fablica.\r\nCom certeza, o crescimento de Linhares n\u00e3o vai parar. E a cidade pode contar com este Deputado aqui para continuar nessa dire\u00e7\u00e3o.\r\nParab\u00e9ns \u00e0 cidade! Parab\u00e9ns aos cidad\u00e3os!\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

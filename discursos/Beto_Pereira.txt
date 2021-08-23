@@ -1,0 +1,380 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB),  VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.321, de 2019, sobre autonomia dos partidos pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, pe\u00e7o a palavra para orientar. \r\nO PSDB orienta \"sim\".\r\nDe 2 em 2 anos, novas resolu\u00e7\u00f5es, novo regramento. N\u00f3s temos que cumprir o nosso papel, que \u00e9 legislar tamb\u00e9m nesta causa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=151&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCHA A BRAS\u00cdLIA EM DEFESA DOS MUNIC\u00cdPIOS, BETO PEREIRA, DEPUTADO FEDERAL, ORADOR, PARTICIPA\u00c7\u00c3O.\r\nFUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), AN\u00c1LISE.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Participa\u00e7\u00e3o do orador na Marcha a Bras\u00edlia em Defesa dos Munic\u00edpios. Congratula\u00e7\u00f5es \u00e0 Casa pela aprecia\u00e7\u00e3o de pauta do municipalismo brasileiro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, nobres pares, pela primeira vez venho a esta tribuna na condi\u00e7\u00e3o de Deputado Federal participando da marcha dos Prefeitos a Bras\u00edlia. Por duas vezes participei dessa marcha como Chefe do Executivo, tamb\u00e9m como Presidente da Associa\u00e7\u00e3o dos Munic\u00edpios do meu Estado, o Mato Grosso do Sul, e da \u00faltima vez em que havia participado desse importante e relevante evento tinha sido na condi\u00e7\u00e3o de Vice-Presidente da Confedera\u00e7\u00e3o Nacional de Munic\u00edpios.\r\nQuero parabenizar esta Casa, atrav\u00e9s da sua Mesa, da Presid\u00eancia, e tamb\u00e9m das Frentes Parlamentares aqui constitu\u00eddas pelo exerc\u00edcio constante da busca de pautas que poderiam ser apreciadas pelo Plen\u00e1rio. Hoje estamos apreciando dois projetos de lei que garantem maior mobilidade aos cons\u00f3rcios p\u00fablicos, fazendo com que algo que j\u00e1 \u00e9 de extrema relev\u00e2ncia para a pol\u00edtica p\u00fablica no Brasil, ainda mais no momento de crise em que tem que haver criatividade para desempenhar qualquer fun\u00e7\u00e3o... E hoje estamos aqui dando demonstra\u00e7\u00e3o da import\u00e2ncia do movimento municipalista para esta Casa de Leis.\r\nOntem tamb\u00e9m foi reinstalada nesta Casa a Comiss\u00e3o que vai avaliar a proposta de aumento em 1% no FPM. Acompanhamos aqui durante d\u00e9cadas o aumento de 1% de 22,5% para 23,5% do FPM. Agora buscamos mais 1% para tentar equalizar as contas dos Munic\u00edpios.\r\nA pauta municipalista tem ganhado muita for\u00e7a, porque no come\u00e7o as reformas se faziam necess\u00e1rias apenas para atender aos Munic\u00edpios, que estavam em situa\u00e7\u00e3o agonizante. Agora isso j\u00e1 chegou aos Estados. Hoje mais de 20 Estados passam tamb\u00e9m por dificuldades severas com as suas finan\u00e7as, e n\u00e3o poderia, de forma alguma, deixar de chegar em algum momento \u00e0 Uni\u00e3o. Agora at\u00e9 a pauta municipalista inclui aquela que \u00e9 a reforma das reformas, que \u00e9 a reforma da Previd\u00eancia.\r\nN\u00e3o poderia deixar de registrar e parabenizar esta Casa por ter dado a devida import\u00e2ncia ao movimento mais democr\u00e1tico que existe no Brasil.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=171&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL, MPV 870/2019, REFORMA ADMINISTRATIVA.\r\nDESTAQUE PARA VOTA\u00c7\u00c3O EM SEPARADO, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, PAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, INVESTIGA\u00c7\u00c3O, ALBERTO YOUSSEF, EMPRES\u00c1RIO, FABR\u00cdCIO QUEIROZ, EX-ASSESSOR PARLAMENTAR, LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Defesa, pelo PSDB, de perman\u00eancia do Conselho de Controle de Atividades Financeiras - COAF no \u00e2mbito do Minist\u00e9rio da Economia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres pares, em vez de vir aqui fazer um discurso pol\u00edtico f\u00e1cil, hoje venho fazer a defesa de algo que para n\u00f3s do PSDB \u00e9 conceitual.\r\nN\u00f3s votamos a MP 870 e concordamos, em todos os pontos, com o texto governamental. Mas, com rela\u00e7\u00e3o ao destaque do COAF, n\u00f3s tivemos uma diverg\u00eancia dentro da bancada, que est\u00e1 liberada para votar.\r\nPara o PSDB n\u00e3o existe nenhuma dificuldade em fazer essa discuss\u00e3o interna. Foi no Governo de Fernando Henrique Cardoso, em 1998, atrav\u00e9s da Lei n\u00ba 9.613, que o COAF foi criado, justamente para fiscalizar as movimenta\u00e7\u00f5es financeiras. Portanto, ele foi criado vinculado ao Minist\u00e9rio da Fazenda, que hoje se chama Minist\u00e9rio da Economia. Ent\u00e3o, nossa discuss\u00e3o aqui \u00e9 impessoal. N\u00e3o podemos tratar isso como sendo apenas uma queda de bra\u00e7o entre aqueles que defendem Moro e aqueles que defendem Paulo Guedes no comando desta importante institui\u00e7\u00e3o.\r\nO PSDB, quando criou o COAF vinculado ao Minist\u00e9rio da Economia, fez isso por qu\u00ea? Porque, dentro desta pasta, possu\u00eda os melhores quadros e as maiores expertises quanto \u00e0 fiscaliza\u00e7\u00e3o financeira. Esta realidade mudou? Os melhores quadros n\u00e3o continuam no Minist\u00e9rio da Economia?\r\nN\u00e3o \u00e9 s\u00f3 o Brasil que age desta forma. Pa\u00edses por todo o mundo fazem a defesa das suas divisas no Minist\u00e9rio da Economia. \u00c9 assim na Alemanha, \u00e9 assim na Fran\u00e7a, \u00e9 assim na Espanha, \u00e9 assim nos Estados Unidos, pa\u00eds t\u00e3o idolatrado por muitos ultimamente. Portanto, o COAF, que continua sendo um \u00f3rg\u00e3o de investiga\u00e7\u00e3o financeira e n\u00e3o um \u00f3rg\u00e3o de investiga\u00e7\u00e3o criminal, deve, sim, continuar no Minist\u00e9rio da Economia.\r\nApenas para ilustrar, Sr. Presidente, foi atrav\u00e9s das fiscaliza\u00e7\u00f5es do COAF em maio de 2014 que investiga\u00e7\u00e3o sobre o doleiro Alberto Youssef deu in\u00edcio \u00e0 Lava-Jato. Tamb\u00e9m foi um relat\u00f3rio do COAF que, em junho de 2018, \"startou\" as investiga\u00e7\u00f5es que ligaram Queiroz a Fl\u00e1vio Bolsonaro, o que acarretou a investiga\u00e7\u00e3o do Minist\u00e9rio P\u00fablico do Estado do Rio de Janeiro.\r\nPortanto, Sr. Presidente, o COAF nunca foi acusado de ser um \u00f3rg\u00e3o partid\u00e1rio e muito menos um \u00f3rg\u00e3o inerte. Ele atua como um grande auxiliar nas investiga\u00e7\u00f5es criminais, sem perder o objetivo de fazer a fiscaliza\u00e7\u00e3o financeira. Foram 20 anos de uma hist\u00f3ria sem nenhuma contesta\u00e7\u00e3o no Minist\u00e9rio da Economia. \r\n\u00c9 isso que eu tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REFORMA TRIBUT\u00c1RIA, SISTEMA TRIBUT\u00c1RIO, COMISS\u00c3O ESPECIAL, INSTALA\u00c7\u00c3O.\r\nPARCERIA P\u00daBLICO-PRIVADA, MARCO REGULAT\u00d3RIO, COMISS\u00c3O ESPECIAL, INSTALA\u00c7\u00c3O.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Instala\u00e7\u00e3o de Comiss\u00f5es Especiais destinadas \u00e0 an\u00e1lise de proposta de reforma tribut\u00e1ria e da formula\u00e7\u00e3o de marco regulat\u00f3rio para Parcerias P\u00fablico-Privadas - PPPs. Import\u00e2ncia das proposi\u00e7\u00f5es para a economia brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu solicitei a palavra apenas para constar como lido o discurso que entreguei \u00e0 Taquigrafia. \u00c9 o que queria, Presidente.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BETO PEREIRA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, depois de a C\u00e2mara dos Deputados ter aprovado a reforma da Previd\u00eancia nas Comiss\u00f5es e em Plen\u00e1rio em dois turnos, duas outras Comiss\u00f5es Especiais foram instaladas para dar continuidade ao conjunto de reformas que o Parlamento se prop\u00f4s a fazer para trabalhar em prol de um redimensionamento racional do Estado brasileiro. O grande objetivo \u00e9 tornar a m\u00e1quina p\u00fablica mais eficiente, justa e competitiva.\r\nAl\u00e9m da reforma tribut\u00e1ria, que tem como meta simplificar e desburocratizar o complexo sistema tribut\u00e1rio do Pa\u00eds, uma outra a\u00e7\u00e3o legislativa de grande import\u00e2ncia \u00e9 a formula\u00e7\u00e3o de um marco regulat\u00f3rio para as parcerias p\u00fablico-privadas. Essa a\u00e7\u00e3o ofertar\u00e1 seguran\u00e7a jur\u00eddica ao setor privado e vai assegurar servi\u00e7os de qualidade \u00e0 popula\u00e7\u00e3o. Seguran\u00e7a e qualidade formam o bin\u00f4mio que nortear\u00e1 os trabalhos dos Parlamentares na fundamental tarefa de aproximar investimentos privados da vida real do cidad\u00e3o.\r\nPor vezes, n\u00e3o se d\u00e1 o devido valor, mas aquele aeroporto que foi ampliado e est\u00e1 mais confort\u00e1vel ou aquela rodovia que foi duplicada, recapeada, oferece servi\u00e7os de seguran\u00e7a ao longo de seus quil\u00f4metros, s\u00e3o fruto de uma concess\u00e3o realizada de modo equilibrado, justo, transparente e honesto. Garantir um arcabou\u00e7o legislativo unindo as proposi\u00e7\u00f5es que j\u00e1 tramitam na C\u00e2mara dos Deputados sobre o tema vai favorecer que esses contratos existam independentemente de governos, agentes p\u00fablicos e ideologias.\r\nAo fim dos trabalhos da Comiss\u00e3o que estuda as parcerias p\u00fablico-privadas, depois das audi\u00eancias p\u00fablicas regionais e depois das exposi\u00e7\u00f5es de t\u00e9cnicos do setor p\u00fablico e privado, o Poder Legislativo vai dar uma contribui\u00e7\u00e3o para a retomada de investimentos no Pa\u00eds. Esta \u00e9 a \u00fanica forma de gerar empregos e melhorar a vida do brasileiro da porta para dentro de suas casas. Da porta para fora, j\u00e1 estaremos cuidando para garantir a qualidade dos servi\u00e7os frutos dessas parcerias. \r\nO investimento no Pa\u00eds \u00e9 estrangulado e tende a piorar se nada for feito. De 2000 a 2016 foram investidos apenas 2,1% do PIB do Pa\u00eds, quando o Brasil tem que investir 4,7% durante 20 anos para aproximar os investimentos brasileiros da m\u00e9dia global. No ano passado, o investimento piorou ainda mais e caiu para 0,4% do Produto Interno Bruto.\r\nOs Parlamentares que integram esta Comiss\u00e3o querem terminar os trabalhos neste semestre para que o relat\u00f3rio seja apreciado em Plen\u00e1rio. A proposta compreender\u00e1 uma certa flexibilidade para futuros ajustes, sem colocar em risco contratos cada vez mais perenes, s\u00f3lidos e de qualidade. Modernizar a legisla\u00e7\u00e3o de parcerias p\u00fablico-privadas se faz urgente, necess\u00e1rio e faz parte de uma agenda priorit\u00e1ria para o Pa\u00eds. \r\nEra o que eu tinha a dizer. Muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=99&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 312/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido ao Projeto de Lei n\u00ba 312, de 2015, sobre a Pol\u00edtica Nacional de Pagamento por Servi\u00e7os Ambientais, o Fundo Federal de Pagamento por Servi\u00e7os Ambientais e o Cadastro Nacional de Pagamento por Servi\u00e7os Ambientais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quero destacar aqui a import\u00e2ncia de darmos uma ferramenta para aquele que preserva ter a possibilidade de, em mantendo a floresta em p\u00e9, ter uma remunera\u00e7\u00e3o.\r\nQuero parabenizar todas as Lideran\u00e7as envolvidas, V.Exa. e tamb\u00e9m o Relator, o Deputado Arnaldo Jardim, que conseguiu construir um texto de consenso entre todas as bancadas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=262&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-09T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "LICENCIAMENTO AMBIENTAL, COMISS\u00c3O GERAL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Debate acerca do licenciamento ambiental.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS) - Nobre Presidente, Deputado Kim Kataguiri, antes de mais nada, eu gostaria de parabenizar V.Exa. pela condu\u00e7\u00e3o que vem tendo neste tema de extrema relev\u00e2ncia para o Pa\u00eds.\r\nQuero aqui me somar tamb\u00e9m a uma voz recorrente, tanto de palestrantes quanto tamb\u00e9m dos Parlamentares de Situa\u00e7\u00e3o ou de Centro ou de Oposi\u00e7\u00e3o que me antecederam. Todos eles disseram da necessidade iminente da Lei Geral de Licenciamento Ambiental. \r\nTamb\u00e9m vi que, dentre os princ\u00edpios que norteiam essa proposi\u00e7\u00e3o, justamente \u00e9 o tratamento diferente para os casos desiguais. \u00c9 importante dizer que para empreendimentos de pequeno porte existe, sim, flexibiliza\u00e7\u00e3o, desburocratiza\u00e7\u00e3o. N\u00e3o obstante isso, tamb\u00e9m \u00e9 mantido o rigor para os empreendimentos de grande magnitude neste Pa\u00eds.\r\nQuero aqui tratar do muito do que se diz da dificuldade que se tem hoje ao buscar um licenciamento ambiental. Abro aqui a discuss\u00e3o, dentre v\u00e1rias discuss\u00f5es que foram feitas, nobre Presidente, justamente para chamar a aten\u00e7\u00e3o para dificuldade que hoje os profissionais e aquele que vai chancelar a sua assinatura numa licen\u00e7a ambiental t\u00eam, que \u00e9 justamente o temor pela responsabilidade que lhe ser\u00e1 imputada amanh\u00e3 numa a\u00e7\u00e3o do Minist\u00e9rio P\u00fablico ou numa contesta\u00e7\u00e3o que seja. \r\n\u00c9 importante dizer que esse profissional vai ter que arcar do bolso hoje para responder judicialmente a uma a\u00e7\u00e3o. Isso deve ser levado em considera\u00e7\u00e3o. Muito da morosidade que hoje \u00e9 vista no servi\u00e7o p\u00fablico, tanto estadual quanto municipal e federal, \u00e9 o receio do servidor p\u00fablico em consignar ali, naquele documento, a sua assinatura.\r\nGostaria que V.Exa. tivesse, na sobriedade, na tranquilidade, na responsabilidade que est\u00e1 tendo, isso consignado tamb\u00e9m e, sabedor desta dificuldade, pudesse resguardar tamb\u00e9m essa responsabilidade que tem o servidor em chancelar a sua assinatura. Eu queria dizer que V.Exa. est\u00e1 aberto. Quando V.Exa. conduz esta audi\u00eancia \u00e9 justamente para ouvir, para que possa compilar um texto que seja o mais harm\u00f4nico poss\u00edvel.\r\nAo inv\u00e9s de dividir, n\u00f3s precisamos hoje unir aquilo que \u00e9 de interesse do Pa\u00eds. No texto que V.Exa. vai apresentar a este Plen\u00e1rio, vamos unir aqueles que est\u00e3o interessados em preservar e tamb\u00e9m em produzir.\r\nEra o que tinha a dizer, senhores.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F9%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, INCLUS\u00c3O, SUBEMENDA SUBSTITUTIVA GLOBAL, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO. \r\nPAULO CORR\u00caA, DEPUTADO ESTADUAL, PRESIDENTE, ASSEMBLEIA LEGISLATIVA, MATO GROSSO DO SUL, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba do art. 33 do Substitutivo adotado pela Comiss\u00e3o Especial do  Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica, com vista \u00e0 sua inclus\u00e3o na Subemenda Substitutiva Global apresentada no plen\u00e1rio. Presen\u00e7a no plen\u00e1rio do Presidente da Assembleia Legislativa do Estado de Mato Grosso do Sul, Deputado Paulo Corr\u00eaa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"n\u00e3o\".\r\nGostaria de registrar a presen\u00e7a aqui do Presidente da Assembleia Legislativa do Estado de Mato Grosso do Sul, o Deputado Paulo Corr\u00eaa, que, juntamente com outros vinte Presidentes de Assembleias Legislativas, esteve com o Presidente do Senado, o Senador Davi Alcolumbre, para reivindicar a extin\u00e7\u00e3o da Lei Kandir e tamb\u00e9m a aprova\u00e7\u00e3o da PEC Paralela da Reforma da Previd\u00eancia no Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=233&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA DO PROFESSOR, HOMENAGEM, BETO PEREIRA, PREFEITO,  TERENOS (MS).",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Transcurso do Dia do Professor. Corrobora\u00e7\u00e3o do compromisso do Parlamentar com os educadores brasileiros. Implanta\u00e7\u00e3o pelo orador, na condi\u00e7\u00e3o de Prefeito Municipal de Terenos, Estado de Mato Grosso do Sul, de pol\u00edticas p\u00fablicas em prol da classe docente.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, gostaria s\u00f3 de registrar o pronunciamento que fiz, quero coloc\u00e1-lo sobre a mesa.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Deputado Beto Pereira, o pedido de V.Exa. est\u00e1 deferido e o mesmo ser\u00e1 divulgado nos meios de comunica\u00e7\u00e3o da Casa.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BETO PEREIRA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, tratar a educa\u00e7\u00e3o como uma grande disputa ideol\u00f3gica entre pol\u00edticos e partidos \u00e9 tentar retirar da m\u00e3o dos especialistas a condu\u00e7\u00e3o de um processo complexo, cient\u00edfico e fundamental para qualquer mudan\u00e7a que queremos implementar no Brasil. A educa\u00e7\u00e3o \u00e9 um tema para professores e n\u00e3o para disputas eleitoreiras. Ningu\u00e9m sabe mais sobre a educa\u00e7\u00e3o que os pr\u00f3prios professores. Cabe a n\u00f3s, agentes pol\u00edticos, aproveitarmos este Dia dos Professores para reafirmarmos os nossos compromissos com os educadores no que tange a gest\u00e3o, valoriza\u00e7\u00e3o, capacita\u00e7\u00e3o continuada e m\u00e9rito, por meio dos dados que mensuram a qualidade da nossa educa\u00e7\u00e3o.\r\nEntre os anos de 2005 e 2012, tive o orgulho e a honra de ter sido Prefeito da minha amada Terenos. No Munic\u00edpio, implantamos pol\u00edticas p\u00fablicas com o objetivo de incentivar a melhoria dos \u00edndices educacionais atrav\u00e9s de dois eixos fundamentais: a valoriza\u00e7\u00e3o dos professores e a oportunidade de capacita\u00e7\u00e3o para aqueles educadores que queriam se especializar ainda mais. Essa pol\u00edtica de m\u00e9rito tinha como l\u00f3gica n\u00e3o julgar de onde o professor saiu em termos de preparo, estudo e desempenho, mas, sim, sinalizar para o profissional que a Prefeitura era parceira de seus sonhos e de seus objetivos futuros. Enquanto o professor acalenta o sonho dos seus alunos, os agentes pol\u00edticos podem fomentar os caminhos para o futuro dos educadores.\r\nAlgumas das pol\u00edticas que implementamos no Munic\u00edpio de Terenos naquele per\u00edodo, que podem ser replicadas para todo o Pa\u00eds, s\u00e3o: adicionais salariais de 15% e 30% para os professores de escolas integrais; criamos uma gratifica\u00e7\u00e3o como um d\u00e9cimo-quarto sal\u00e1rio para toda a comunidade escolar, do porteiro ao professor que atuassem em escolas onde o IDEB viesse a crescer acima de 20%; criamos um sistema de apostilados com o mesmo material did\u00e1tico-pedag\u00f3gico utilizado nas escolas particulares; por meio de parcerias com institui\u00e7\u00f5es de ensino superior, custeamos cursos de p\u00f3s-gradua\u00e7\u00e3o para os nossos professores; todos os professores, assim como todos os alunos daquela \u00e9poca receberam computadores port\u00e1teis para que nossos professores n\u00e3o perdessem o bonde dos novos tempos tecnol\u00f3gicos; e criamos a primeira escola em tempo integral do Mato Grosso do Sul.\r\nEssa prioridade na educa\u00e7\u00e3o, assim como a gest\u00e3o como um todo, fez com que a boa avalia\u00e7\u00e3o se transformasse em um mandato bem-sucedido como Deputado Estadual. Como Parlamentar na Assembleia Legislativa, todos os anos, destinava emendas para equipar escolas com aparelhos de ar-condicionado, reformas de escolas e quadras esportivas. Agora, como Deputado Federal n\u00e3o \u00e9 diferente, este trabalho, com prioridade na educa\u00e7\u00e3o, vai se transformar em investimentos para ofertar mais condi\u00e7\u00f5es para o of\u00edcio mais importante para o desenvolvimento de um pa\u00eds: o of\u00edcio do professor.\r\nNeste Dia dos Professores, reitero os meus agradecimentos aos |educadores que passaram na minha vida. Reafirmo o meu compromisso com a educa\u00e7\u00e3o por ter a clareza de sua for\u00e7a transformadora. Coloco-me distante de discuss\u00f5es que n\u00e3o promovem a qualidade da gest\u00e3o da educa\u00e7\u00e3o, a valoriza\u00e7\u00e3o dos professores, mas sim um debate mi\u00fado visando \u00e0s pr\u00f3ximas elei\u00e7\u00f5es. E me posiciono na trincheira da defesa dos nossos mais valorosos mestres.\r\nEra o que eu tinha a dizer.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ISNALDO BULH\u00d5ES JR. DEPUTADO FEDERAL, ANIVERS\u00c1RIO DE NASCIMENTO.\r\nEVANDER VENDRAMINI, DEPUTADO ESTADUAL, MATO GROSSO SUL, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS,  CORUMB\u00c1 (MS), INC\u00caNCIA, PREJU\u00cdZO, PRESTA\u00c7\u00c3O DE SERVI\u00c7O P\u00daBLICO RELEVANTE.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Transcurso do anivers\u00e1rio natal\u00edcio do Presidente em exerc\u00edcio dos trabalhos. Presen\u00e7a, na Casa, do Deputado Estadual de Mato Grosso do Sul, Evander Vendramini. Apoio ao restabelecimento dos servi\u00e7os p\u00fablicos b\u00e1sicos no Munic\u00edpio de Corumb\u00e1.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, gostaria de parabenizar V.Exa. pelo anivers\u00e1rio. Segundo, quero fazer um registro importante. Estamos recebendo na C\u00e2mara Federal o Deputado Estadual Evander Vendramini, de Corumb\u00e1, Mato Grosso do Sul.\r\nEstamos aqui justamente fazendo uma vig\u00edlia em busca de ajuda para uma cidade que est\u00e1 em chamas. Corumb\u00e1 est\u00e1 ilhada pelo fogo e j\u00e1 est\u00e1 com os fornecimentos de Internet, energia el\u00e9trica e \u00e1gua comprometidos.\r\nPortanto, o Deputado Estadual Evander Vendramini, juntamente conosco, recorre ao Governo Federal, ao Minist\u00e9rio da Defesa, para solicitar apoio, a fim de que n\u00f3s tenhamos restabelecidos os servi\u00e7os p\u00fablicos b\u00e1sicos na cidade de Corumb\u00e1.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REFORMA ADMINISTRATIVA, FAVORAVEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Import\u00e2ncia do debate, pelo Congresso Nacional, da proposta governamental de reforma administrativa.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria apenas de fazer o registro de discurso que fiz sobre a reforma administrativa.\r\nObrigado, Sr. Presidente.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BETO PEREIRA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, uma das agendas mais importantes no Congresso Nacional \u00e9 a reforma administrativa. Construir um marco de mudan\u00e7as do Estado brasileiro \u00e9 uma prioridade dos Parlamentares e uma exig\u00eancia da sociedade - e parece contar com o apoio do Governo Federal. Fazer com que o Estado brasileiro funcione melhor, oferte servi\u00e7os p\u00fablicos de qualidade, tenha capacidade de investimentos estruturantes, promova equil\u00edbrios com a esfera privada, e n\u00e3o distor\u00e7\u00f5es, e construa parcerias prof\u00edcuas com o empresariado \u00e9 fundamental para atingirmos outro patamar de desenvolvimento.\r\nO Governo Federal tenta construir sua proposta harmonizando as diversas contribui\u00e7\u00f5es dentro do seu Minist\u00e9rio. O Parlamento, o Poder mais democr\u00e1tico da nossa Rep\u00fablica, \u00e9 certamente a Casa apropriada para debater a proposta, melhor\u00e1-la e contemplar os plurais segmentos da sociedade. Nesse contexto, faz-se fundamental j\u00e1 se posicionar contrariamente a qualquer iniciativa que vise modificar a vida profissional dos atuais funcion\u00e1rios p\u00fablicos, e, sim, estabelecer regras claras e inovadoras, com racionalidade, inspiradas tamb\u00e9m no que acontece no meio privado, para os futuros servidores p\u00fablicos. \r\nA iniciativa privada nos ensina a import\u00e2ncia da produtividade e do rendimento para ascens\u00e3o na carreira. O dif\u00edcil concurso pelo qual estudiosos homens e mulheres ingressam no servi\u00e7o p\u00fablico nivela esses capacitados profissionais. O instante posterior ao certame possibilita a ascens\u00e3o na carreira por uma verdadeira e justa meritocracia em igualdade de condi\u00e7\u00f5es. Garantidas as estruturas necess\u00e1rias para um bom rendimento, o Estado tem o dever de cobrar resultados, efici\u00eancia e entrega. \u00c9 o que espera o cidad\u00e3o brasileiro.\r\nReformar o Estado brasileiro n\u00e3o significa acabar com ele. N\u00e3o se mudam as regras no meio do jogo e n\u00e3o se pode demonizar o nosso valente funcionalismo p\u00fablico como se fosse parasita. Os m\u00e9dicos, enfermeiros, professores, policiais, bombeiros, t\u00e9cnicos administrativos, analistas, advogados, t\u00e9cnicos de enfermagem e outros tantos profissionais, na maioria das vezes, enfrentam condi\u00e7\u00f5es de trabalho muito dif\u00edceis para atender os brasileiros que mais precisam. \r\nA burocracia estatal necessita de uma reforma para colocar em patamar de igualdade seu tamanho e sua efici\u00eancia. Burocracia n\u00e3o \u00e9 palavr\u00e3o, como pregam alguns, mas excesso de burocracia, sim. A burocracia organiza os processos, sistematiza as a\u00e7\u00f5es e d\u00e1 seguran\u00e7a jur\u00eddica e previsibilidade. O excesso de burocracia \u00e9 a porta de entrada da corrup\u00e7\u00e3o, mas a sua inexist\u00eancia tamb\u00e9m.\r\nAproximar e fazer parcerias com a iniciativa privada \u00e9 um dos alicerces de uma discuss\u00e3o sobre reforma administrativa, mas n\u00e3o \u00e9 o \u00fanico. Fazer parcerias em \u00e1reas em que o conhecimento e a experi\u00eancia empresarial comprovadamente dar\u00e3o um ganho de qualidade no setor p\u00fablico \u00e9 o melhor caminho. Mas naquilo que o Estado brasileiro faz, que \u00e9 apenas v\u00edtima de preconceito ideol\u00f3gico, \u00e9 melhor implementarmos outras reformas. A \u00fanica metodologia que pode sanar os pontos enumerados aqui \u00e9 o di\u00e1logo plural e democr\u00e1tico. E o Parlamento brasileiro, assim como fez na reforma da Previd\u00eancia, est\u00e1 amplamente preparado para esse desafio. \r\n Era o que eu tinha a dizer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba-G, da Lei n\u00ba 10.260, de 2001, alterado pelo art. 1\u00ba, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079 de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, para suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, com vista \u00e0 sua rejei\u00e7\u00e3o e consequente restabelecimento do dispositivo equivalente no texto aprovado pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vai orientar \"sim\", de acordo com o texto apresentado pelo Relator, o texto vindo do Senado.\r\nAcreditamos que, neste momento, muito mais importante do que discutirmos o valor - at\u00e9 porque esses valores n\u00e3o ser\u00e3o aportados de imediato -, \u00e9 importante aprovarmos o projeto para garantir os recursos da Uni\u00e3o para o FIES.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para manuten\u00e7\u00e3o da supress\u00e3o do \u00a7 2\u00ba, art. 15-D, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079 de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, com vista \u00e0 suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Nobre Presidente, o PSDB vai orientar \"n\u00e3o\", vai acompanhar o voto proferido pelo eminente Relator.\r\nQuero dizer que seria muito inoportuno n\u00f3s conferirmos apenas para alunos de alguns cursos a possibilidade de acesso aos recursos do FIES. Portanto, esta \u00e9 a melhor resposta que temos para a crise, para a pandemia: a de todos poderem acessar os recursos do FIES.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1494/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.494, de 2020, acerca da permiss\u00e3o do atendimento na modalidade telessa\u00fade para fins fisioterap\u00eauticos e terap\u00eauticos ocupacionais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de orientar favoravelmente ao projeto. \r\nEu queria destacar e agradecer o relat\u00f3rio da Deputada Aline e dizer da sensibilidade do nosso Deputado Ruy Carneiro ao corrigir algo que se fazia necess\u00e1rio neste momento, at\u00e9 porque n\u00f3s, em plen\u00e1rio, aprovamos a medida da telemedicina. Tamb\u00e9m precis\u00e1vamos dar aos terapeutas ocupacionais e fisioterapeutas a mesma oportunidade neste momento de pandemia.\r\nE eu tamb\u00e9m queria destacar o empenho do nosso L\u00edder Carlos Sampaio para que o projeto fosse pautado e para que hoje tiv\u00e9ssemos a oportunidade de estar apreciando a mat\u00e9ria.\r\nEra o que eu tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vai orientar \"n\u00e3o\", pela manuten\u00e7\u00e3o do texto da Relatora, haja vista que n\u00f3s acreditamos ser desnecess\u00e1rio que mais outros \u00f3rg\u00e3os participem disso, tendo em vista que j\u00e1 temos o Conselho Nacional de Educa\u00e7\u00e3o, que j\u00e1 \u00e9 o \u00f3rg\u00e3o consultivo do Minist\u00e9rio da Educa\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 18, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vai orientar \"sim\", acatando o destaque apresentado pelo Deputado L\u00e9o Moraes, do Podemos.\r\nN\u00f3s acreditamos que, cientificamente, ser\u00e1 necess\u00e1rio o prazo m\u00ednimo estabelecido de 15 dias entre um ano letivo e outro. Observa-se que o que est\u00e1 previsto em destaque \u00e9 justamente um per\u00edodo m\u00ednimo para que Estados e Munic\u00edpios possam deliberar sobre per\u00edodos maiores sempre que entenderem que assim \u00e9 poss\u00edvel e necess\u00e1rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 12, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB orienta \"n\u00e3o\", entendendo que n\u00e3o podemos colocar no texto algo que, na ponta, pode ser inexequ\u00edvel e tamb\u00e9m ferir a autonomia de Estados e Munic\u00edpios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 22/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 8\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 22, de 2020, da Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s tamb\u00e9m vamos orientar \"sim\". Acreditamos que a Relatora j\u00e1 conseguiu contemplar a contento aqueles pais, aquelas fam\u00edlias que ir\u00e3o ser benefici\u00e1rios diretos do PNAE.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 984/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL. \r\nMATO GROSSO DO SUL, CRISE SANIT\u00c1RIA, PANDEMIA, CORONAV\u00cdRUS, PACIENTE CONTAMINADO, UNIDADE DE TERAPIA INTENSIVA (UTI), LEITO DE UNIDADE DE TRATAMENTO INTENSIVO - UTI, SOLICITA\u00c7\u00c3O, MINIST\u00c9RIO DA SA\u00daDE, VACINA, VACINA\u00c7\u00c3O.",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 984, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.985, de 2000, com vista \u00e0 cria\u00e7\u00e3o da Estrada-Parque Caminho do Colono, no Parque Nacional do Igua\u00e7u, Estado do Paran\u00e1. Imin\u00eancia de colapso do sistema de sa\u00fade do Estado do Mato Grosso do Sul em decorr\u00eancia da Covid-19. Apelo ao Minist\u00e9rio da Sa\u00fade de envio da vacina Janssen ao Estado.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSDB orienta \"sim\", mas tamb\u00e9m gostaria de utilizar este momento para fazer um registro. \r\nMato Grosso do Sul vive o seu pior momento da pandemia. N\u00f3s tivemos 16 transfer\u00eancias de pacientes para dois Estados que abra\u00e7aram essas pessoas que clamavam por atendimento. Outros 231 sul-mato-grossenses esperam por uma vaga ou de UTI, ou de respira\u00e7\u00e3o assistida.\r\nMato Grosso do Sul pede socorro ao Minist\u00e9rio da Sa\u00fade. Fizemos uma solicita\u00e7\u00e3o hoje, respaldada por toda a bancada, pelo Governador Reinaldo Azambuja e tamb\u00e9m pelo nosso Secret\u00e1rio de Sa\u00fade, Geraldo Resende, para que n\u00f3s recebamos, a t\u00edtulo de adiantamento, pelo menos 1 milh\u00e3o e 200 mil doses da vacina da Johnson, que est\u00e3o sendo disponibilizadas pelos Estados Unidos. N\u00f3s as queremos para que tenhamos efici\u00eancia na aplica\u00e7\u00e3o o quanto antes para a imuniza\u00e7\u00e3o total da nossa popula\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-22T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, VOTA\u00c7\u00c3O, PL 2215/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, CRIA\u00c7\u00c3O, REGULA\u00c7\u00c3O, SISTEMA DE COMPENSA\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA, MICROGERA\u00c7\u00c3O DISTRIBU\u00cdDA, MINIGERA\u00c7\u00c3O DISTRIBU\u00cdDA.\r\nPL 5829/2019, PROJETO DE LEI ORDIN\u00c1RIA, MARCO REGULAT\u00d3RIO, ENERGIA SOLAR FOTOVOLTAICA, FONTE ALTERNATIVA DE ENERGIA, DEFESA, VOTA\u00c7\u00c3O, MATRIZ ENERG\u00c9TICA, SUSTENTABILIDADE ENERG\u00c9TICA, GERA\u00c7\u00c3O DE EMPREGO, INVESTIMENTO.\r\nCRISE ENERG\u00c9TICA, ANDR\u00c9 PEPITONE, DIRETOR-GERAL, AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), AUDI\u00caNCIA P\u00daBLICA, COMISS\u00c3O DE MINAS E ENERGIA (CME), CRISE H\u00cdDRICA, BANDEIRA TARIF\u00c1RIA VERMELHA, CONSUMIDOR, CONTA DE ENERGIA EL\u00c9TRICA,",
+        "nomeDeputado": "Beto Pereira",
+        "sumario": "Imediata vota\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 2.215, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.074, de 1995, com vista ao estabelecimento do Sistema de Compensa\u00e7\u00e3o de Energia El\u00e9trica, apensado ao Projeto de Lei n\u00ba 5.829, de 2019, a respeito da produ\u00e7\u00e3o e distribui\u00e7\u00e3o de energia renov\u00e1vel. Possibilidade da ocorr\u00eancia de crise energ\u00e9tica no Pa\u00eds. Queda do n\u00edvel dos reservat\u00f3rios brasileiros. Reajuste de tarifas de energia el\u00e9trica em 20%. Vantagens advindas da realiza\u00e7\u00e3o de investimentos em fontes de energias renov\u00e1veis, notadamente na energia solar.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Como L\u00edder. Sem revis\u00e3o do orador.) - Nobre Presidente, nobres pares, subo a esta tribuna hoje para fazer um apelo \u00e0s Lideran\u00e7as partid\u00e1rias, \u00e0 Presid\u00eancia desta Casa, para que possamos o quanto antes apreciar o Projeto de Lei n\u00ba 2.215, de 2020, que est\u00e1 apensado ao Projeto de Lei n\u00ba 5.829, de 2019, que trata de um novo marco regulat\u00f3rio para a gera\u00e7\u00e3o distribu\u00edda, para a energia fotovoltaica no Pa\u00eds.\r\nNa \u00faltima quarta-feira, nobre Presidente, nobres pares, numa reuni\u00e3o na Comiss\u00e3o de Minas e Energia desta Casa, o Presidente da ANEEL veio \u00e0 Comiss\u00e3o e, naquela ocasi\u00e3o, despertou algo que para n\u00f3s j\u00e1 \u00e9 recorrente: uma crise energ\u00e9tica est\u00e1 \u00e0 vista, est\u00e1 por acontecer. Naquela ocasi\u00e3o, o Sr. Andr\u00e9 Pepitone se mostrou preocupado e disse inclusive que ser\u00e3o necess\u00e1rias, para que tenhamos amenizada esta crise, obras de gera\u00e7\u00e3o de energia aceleradas e que vamos precisar tamb\u00e9m de uma pol\u00edtica educacional, para que a nossa popula\u00e7\u00e3o consuma menos energia.\r\nOra, n\u00f3s estamos vivendo um contrassenso. No momento em que existe um d\u00e9ficit energ\u00e9tico latente no Pa\u00eds, esta Casa poderia estar dando \u00e0 sociedade brasileira uma legisla\u00e7\u00e3o que garantisse seguran\u00e7a jur\u00eddica e investimentos em energia limpa, em energia solar, em energia e\u00f3lica, algo que est\u00e1 presente nas grandes na\u00e7\u00f5es. Por isso, destaco a import\u00e2ncia de criarmos uma regra clara, para ajudarmos a combater esse d\u00e9ficit de energia do nosso Pa\u00eds.\r\nEste ano as condi\u00e7\u00f5es s\u00e3o ainda piores. H\u00e1 91 anos n\u00e3o temos um d\u00e9ficit h\u00eddrico t\u00e3o grande como os que est\u00e3o sendo registrados neste momento. Gente, esta \u00e9 a realidade. \u00c9 recorrente essa afirma\u00e7\u00e3o. Com a escassez de chuvas deste ano, os reservat\u00f3rios est\u00e3o baixos, e n\u00f3s vamos ter uma sobretaxa no bolso de todos os consumidores brasileiros, na bandeira vermelha, 20% maior do que a que tivemos no ano passado.\r\nOu seja, s\u00e3o 20% a mais no bolso de cada um dos consumidores brasileiros.\r\nQual \u00e9 a import\u00e2ncia de votarmos esse importante projeto relatado pelo nobre Deputado Lafayette de Andrada? A proposi\u00e7\u00e3o, al\u00e9m de criar uma nova matriz energ\u00e9tica no Pa\u00eds, uma matriz energ\u00e9tica consistente, uma matriz energ\u00e9tica que vai apoiar as demais matrizes existentes, vai beneficiar 15 mil novas empresas, vai gerar mais empregos. Atualmente, 150 mil pessoas dependem diretamente dessa importante matriz energ\u00e9tica no Pa\u00eds. A perspectiva \u00e9 de que, em 2050, isso possa fomentar 1 milh\u00e3o de novos empregos e 139 bilh\u00f5es de reais em investimentos.\r\nA energia solar reduz a necessidade dos investimentos em linhas de transmiss\u00e3o, reduz as perdas el\u00e9tricas na transmiss\u00e3o. A energia solar poupa os reservat\u00f3rios h\u00eddricos. Com a GD, a Gera\u00e7\u00e3o Distribu\u00edda, o Tesouro investe menos na gera\u00e7\u00e3o, pois quem investe \u00e9 o pr\u00f3prio consumidor, \u00e9 aquele que vai se utilizar do seu telhado para gerar a sua pr\u00f3pria energia. Portanto, n\u00e3o \u00e9 verdade e n\u00e3o pode prosperar a afirma\u00e7\u00e3o de que a Gera\u00e7\u00e3o Distribu\u00edda trouxe ou trar\u00e1 distor\u00e7\u00f5es ou desequil\u00edbrio ao sistema. Ora, estamos falando de uma matriz que n\u00e3o corresponde a 1% da energia consumida e que corrige v\u00e1rias distor\u00e7\u00f5es.\r\nRepito: o marco regulat\u00f3rio da energia renov\u00e1vel garante produ\u00e7\u00e3o de energia limpa, sustent\u00e1vel e de forma democr\u00e1tica. Democr\u00e1tica por qu\u00ea? Porque prev\u00ea a gera\u00e7\u00e3o em diversas localidades, uma produ\u00e7\u00e3o de diversos tamanhos e em todos os cantos do Pa\u00eds.\r\nNo dia 15 de agosto de 2019, a ANEEL abriu uma consulta p\u00fablica, e esta Casa se rebelou - todas as Comiss\u00f5es, todos os partidos pol\u00edticos. Ora, n\u00f3s precisamos dar uma resposta. N\u00f3s precisamos dar \u00e0 popula\u00e7\u00e3o brasileira a garantia de investir em energia limpa, em energia que garanta sustentabilidade ao nosso sistema energ\u00e9tico.\r\nPor isso, nobre Presidente, fa\u00e7o este apelo a esta Mesa Diretora. N\u00f3s n\u00e3o podemos ir na contram\u00e3o da hist\u00f3ria. Taxar o sol \u00e9 ir na contram\u00e3o da hist\u00f3ria. Precisamos pautar, precisamos aprovar, e \u00e9 preciso entrar em vigor uma lei que garanta os investimentos em energia solar neste Pa\u00eds.\r\nEra o que tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-18T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Beto Pereira",
+        "sumario": null,
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres pares, \u00e9 motivo de muita felicidade podermos hoje comemorar a entrega de um novo marco regulat\u00f3rio para a energia solar no Brasil.\r\nDa mesma forma que esta Casa, hoje, \u00e9 un\u00e2nime em aprovar medida de tamanha import\u00e2ncia, ela tamb\u00e9m teve a mesma unidade no momento em que a ANEEL, outrora, em 2019, teve a pretens\u00e3o, por meio de medida \u00fanica e exclusiva, unilateral, de fazer com que todo o setor fosse devastado. \r\nAquela medida, contra a qual esta Casa se rebelou, inviabilizaria qualquer tipo de investimento em energia renov\u00e1vel neste Pa\u00eds. Mas a nossa uni\u00e3o, os nossos esfor\u00e7os, o nosso trabalho, n\u00e3o s\u00f3 em Plen\u00e1rio, mas em Comiss\u00e3o, estancaram aquela medida, que seria avassaladora para todo o Pa\u00eds.\r\nTodos n\u00f3s  tanto o Deputado autor, Silas C\u00e2mara, nosso projeto de lei apensado ao do Deputado Silas C\u00e2mara e demais autores  estamos neste momento de parab\u00e9ns. Parabenizo, tamb\u00e9m, o nosso Relator Lafayette de Andrada. S.Exa. teve o equil\u00edbrio e o bom senso de fazer de um texto a medida razo\u00e1vel, m\u00e9dia, equilibrada para que hoje pud\u00e9ssemos ter essa unidade em Plen\u00e1rio. Os Deputados Roman, Marcelo Ramos, Eduardo da Fonte, Danilo Forte e tantos outros mobilizaram-se para que hoje estiv\u00e9ssemos comungando deste momento, quando vivemos dois lados que s\u00e3o de extrema relev\u00e2ncia e que foram considerados. \r\nO primeiro \u00e9 o d\u00e9ficit energ\u00e9tico que o Pa\u00eds vive. Precisamos diversificar a nossa matriz energ\u00e9tica, e as energias renov\u00e1veis s\u00e3o o melhor caminho, aquele que traz o equil\u00edbrio. Neste Parlamento, n\u00e3o poder\u00edamos, de forma alguma, virar as costas para as quest\u00f5es ambientais. O mundo clama por a\u00e7\u00f5es que v\u00e3o ao encontro do anseio ambiental, e o Brasil hoje d\u00e1 uma demonstra\u00e7\u00e3o contr\u00e1ria a diversas outras, mas em favor do nosso meio ambiente. \r\nN\u00e3o prosperou nesta Casa, nobre Presidente, a iniciativa em que s\u00f3 haveria incentivo na gera\u00e7\u00e3o distribu\u00edda. Sabemos que a gera\u00e7\u00e3o, quando feita de forma distribu\u00edda, \u00e9 democr\u00e1tica. N\u00e3o existe transmiss\u00e3o. Sabemos que quem faz o investimento na gera\u00e7\u00e3o \u00e9 o pr\u00f3prio consumidor, e, em diversos locais, neste Pa\u00eds continental, h\u00e1 uma aptid\u00e3o inquestion\u00e1vel para a produ\u00e7\u00e3o de energia limpa. \r\nPortanto, nobres pares, hoje fico feliz, porque daremos, sim, seguran\u00e7a jur\u00eddica para quem quer investir em um pa\u00eds que clama por energia, em um pa\u00eds que tem uma responsabilidade enorme com o meio ambiente do mundo. Como representantes do povo, estamos dando uma resposta ao povo brasileiro. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-18T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Beto Pereira",
+        "sumario": null,
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BETO PEREIRA (PSDB - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu s\u00f3 gostaria de corrigir uma impropriedade que cometi em meu pronunciamento: a participa\u00e7\u00e3o das associa\u00e7\u00f5es ABGD e ABSOLAR e do Movimento Solar Livre, em nome do meu amigo Hewerton Martins, part\u00edcipes de extrema relev\u00e2ncia nesse processo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

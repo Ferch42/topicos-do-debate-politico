@@ -1,0 +1,884 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "AUMENTO, DESPESA P\u00daBLICA, MUNICIPIO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Convite aos Deputados para participa\u00e7\u00e3o no ato de reinstala\u00e7\u00e3o da Frente Parlamentar Mista em Defesa dos Munic\u00edpios Brasileiros. Cr\u00edticas ao Governo Federal pela apresenta\u00e7\u00e3o de projeto de lei acerca da cria\u00e7\u00e3o de novas despesas para os Munic\u00edpios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero fazer um convite aos colegas porque na semana que vem, no dia 13, n\u00f3s iremos reinstalar a Frente Parlamentar Mista em Defesa dos Munic\u00edpios Brasileiros.\r\nEm rela\u00e7\u00e3o a esse tema, est\u00e1 em tramita\u00e7\u00e3o o Projeto de Lei n\u00ba 9.617, de 2018, que \u00e9 favor\u00e1vel \u00e0 transpar\u00eancia e \u00e0 amplia\u00e7\u00e3o da participa\u00e7\u00e3o do cidad\u00e3o no acompanhamento da execu\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira das obras. Por\u00e9m, o Governo est\u00e1 encaminhando para esta Casa um projeto que vai, com certeza, prejudicar os Munic\u00edpios porque estes ter\u00e3o que gastar com as plataformas para implantar equipamentos. Assim, o Governo est\u00e1 criando mais uma despesa para os Munic\u00edpios. E os Munic\u00edpios n\u00e3o aguentam mais essas despesas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, DEPUTADO FEDERAL, DECIS\u00c3O, DISPENSA, VISTO CONSULAR, TURISTA, ESTADOS UNIDOS, AUSTR\u00c1LIA, CANAD\u00c1, JAP\u00c3O.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Aplausos ao Presidente Jair Bolsonaro pela decis\u00e3o de dispensa da exig\u00eancia de visto para entrada no Brasil de turistas dos Estados Unidos, Austr\u00e1lia, Canad\u00e1 e Jap\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu queria aqui contrapor posi\u00e7\u00f5es em rela\u00e7\u00e3o \u00e0 n\u00e3o exig\u00eancia dos vistos que o Presidente Jair Bolsonaro, l\u00e1 nos Estados Unidos, fez por meio de decreto. N\u00e3o exigir visto de americanos, japoneses, canadenses e australianos foi uma medida important\u00edssima para aumentar a vinda de turistas estrangeiros para o Brasil. Isso vai fortalecer o turismo, vai desenvolver o nosso Pa\u00eds.\r\nAconteceu na \u00e9poca das Olimp\u00edadas a n\u00e3o exig\u00eancia dos vistos para esses quatro pa\u00edses, e eu esperava que isso fosse continuar. E agora o acontece? O Presidente Jair Bolsonaro adotou essa medida, e o Brasil vai ganhar muito, e o turismo vai ser mais fortalecido.\r\nParab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA,  AUMENTO, PARTICIPA\u00c7\u00c3O, CAPITAL ESTRANGEIRO, EMPRESA A\u00c9REA, AVIA\u00c7\u00c3O CIVIL, INCENTIVO, TURISMO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta do Projeto de Lei n\u00b0 2.724-A, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Estou representando o MDB, Sr. Presidente.\r\nEm rela\u00e7\u00e3o a esse projeto, foi pedida, no dia 25 de agosto de 2017, a urg\u00eancia da vota\u00e7\u00e3o da abertura do capital estrangeiro para investimento nas companhias a\u00e9reas. Esse projeto j\u00e1 foi discutido na Comiss\u00e3o de Turismo, j\u00e1 foi discutido em v\u00e1rios semin\u00e1rios, e chegou-se \u00e0 conclus\u00e3o de que a abertura do capital estrangeiro para as companhias a\u00e9reas, que hoje \u00e9 limitado em 20% - e todos os outros segmentos j\u00e1 foram liberados e abertos -, vai desenvolver o turismo. Por qu\u00ea? Porque vir\u00e3o investimentos estrangeiros para as companhias a\u00e9reas, vir\u00e3o novas companhias a\u00e9reas para competir aqui no Brasil, vai aumentar a concorr\u00eancia, consequentemente isso vai melhorar o servi\u00e7o. E vai...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LEI GERAL DO TURISMO, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o da Lei Geral do Turismo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, para complementar eu s\u00f3 queria dizer que dentro desse projeto de abertura do capital estrangeiro est\u00e1 tamb\u00e9m a Lei Geral do Turismo, que vai modificar 118 artigos e vai atender todo o trade do turismo, o turismo nacional. Consequentemente, vai gerar mais emprego, mais renda, e o Brasil precisa disso.\r\nO turismo \u00e9 ind\u00fastria limpa. A aprova\u00e7\u00e3o da Lei Geral do Turismo vai desenvolver o turismo como um todo. Por isso, a import\u00e2ncia de aprovar essa mat\u00e9ria, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=150&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.\r\nLEI GERAL DO TURISMO, ESCRIT\u00d3RIO CENTRAL DE ARRECADA\u00c7\u00c3O E DISTRIBUI\u00c7\u00c3O (ECAD), AN\u00c1LISE.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00b0 2.724-A, de 2015, sobre a eleva\u00e7\u00e3o da participa\u00e7\u00e3o do capital estrangeiro com direito a voto nas empresas de transporte a\u00e9reo.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, eu queria me colocar como Presidente da Frente Parlamentar Mista em Defesa do Turismo.\r\nO Presidente Jair Bolsonaro foi a Davos e falou que o turismo gera emprego e renda. Eu concordo com ele, porque o turismo \u00e9 um fator de desenvolvimento econ\u00f4mico e social que gera oportunidade para as pessoas.\r\nEste projeto que est\u00e1 em discuss\u00e3o prop\u00f5e a abertura das companhias a\u00e9reas nacionais ao capital estrangeiro. Ele vai fazer com que essas companhias concorram mais. Hoje, s\u00f3 h\u00e1 quatro companhias no Brasil: Avianca, Azul, TAM e Gol. Poderia haver muito mais companhias.\r\nAbrindo o capital aos estrangeiros, vir\u00e3o investimentos de fora.\r\nConsequentemente, com a concorr\u00eancia, vai melhorar o servi\u00e7o e tamb\u00e9m vai diminuir o valor da passagem a\u00e9rea. Hoje, o turismo nacional, num pa\u00eds continental como o Brasil, precisa do transporte a\u00e9reo. Ent\u00e3o, \u00e9 muito importante a aprova\u00e7\u00e3o desta mat\u00e9ria.\r\nJunto com a abertura ao capital estrangeiro est\u00e1 a Lei Geral do Turismo, que vai modificar 118 artigos. Falou-se aqui sobre a quest\u00e3o da hospedagem de deficientes em hot\u00e9is. A lei foi aprovada de forma equivocada: n\u00e3o h\u00e1 necessidade da reserva de 10% para deficiente. Em todos os pa\u00edses esse percentual \u00e9 de 2%. Nos pa\u00edses em que h\u00e1 pessoas mutiladas pela guerra essa ocupa\u00e7\u00e3o \u00e9 s\u00f3 de 2%. Vai ser um preju\u00edzo enorme para a rede hoteleira ter que adaptar 10% dos quartos para portadores de defici\u00eancia se n\u00e3o vai utiliz\u00e1-los.\r\nA Lei Geral do Turismo tamb\u00e9m fala sobre a cobran\u00e7a do Escrit\u00f3rio Central de Arrecada\u00e7\u00e3o e Distribui\u00e7\u00e3o - ECAD pelos r\u00e1dios-rel\u00f3gios e televisores dos apartamentos, o que \u00e9 outro absurdo.\r\nO Deputado Paulo Azi, Relator do projeto, foi feliz em apresentar um relat\u00f3rio moderno, atendendo ao trade do turismo, melhorando o turismo nacional, que vai gerar mais emprego, renda, desenvolvimento.\r\nEnt\u00e3o, representando o turismo nacional, como Presidente da Frente Parlamentar Mista em Defesa do Turismo, eu pe\u00e7o aos Deputados que olhem com aten\u00e7\u00e3o esse projeto...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=169&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI GERAL DO TURISMO, AUMENTO, PARTICIPA\u00c7\u00c3O ACION\u00c1RIA, CAPITAL ESTRANGEIRO, EMPRESA DE TRANSPORTE A\u00c9REO, GERA\u00c7\u00c3O DE EMPREGO, CONTR\u00c1RIO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 2.724, de 2015, a respeito da abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria falar sobre este requerimento de retirada de pauta. Pe\u00e7o aos Deputados que votem contra a retirada de pauta, porque a Lei Geral do Turismo \u00e9 que vai modernizar o setor - todos os artigos dessa lei. Consequentemente, isso vai gerar emprego e renda, num momento em que n\u00f3s estamos passando por dificuldade.\r\nPor isso, \u00e9 muito importante o voto \"n\u00e3o\" \u00e0 retirada de pauta. A abertura do capital estrangeiro para as companhias a\u00e9reas far\u00e1 com que haja concorr\u00eancia entre elas, melhore o servi\u00e7o e tamb\u00e9m diminua o valor da passagem a\u00e9rea. Os Deputados reclamam que toda semana pagam caro por passagem a\u00e9rea para virem a Bras\u00edlia. O momento agora \u00e9 de votarmos para que o turismo se movimente no Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "APROVA\u00c7\u00c3O, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, AUMENTO, ABERTURA, PARTICIPA\u00c7\u00c3O, CAPITAL ESTRANGEIRO, EMPRESA A\u00c9REA, AVIA\u00c7\u00c3O CIVIL, ALTERA\u00c7\u00c3O, LEI GERAL DO TURISMO, AGRADECIMENTO, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Agradecimento aos Deputados pela aprova\u00e7\u00e3o de mat\u00e9ria de interesse do setor tur\u00edstico nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu s\u00f3 queria agradecer o apoio de todos os Deputados ao votarem esta mat\u00e9ria t\u00e3o importante.\r\nO turismo brasileiro agradece essa vota\u00e7\u00e3o da abertura do capital estrangeiro para as companhias a\u00e9reas e a Lei Geral do Turismo. Com certeza, n\u00f3s vamos desenvolver um grande trabalho. Todo o trade do turismo agradece, o Brasil agradece porque v\u00e3o ser gerados emprego e renda.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=311&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DAVI ALCOLUMBRE, PRESIDENTE, SENADO FEDERAL, APROVA\u00c7\u00c3O, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, AUMENTO, PARTICIPA\u00c7\u00c3O, CAPITAL ESTRANGEIRO, EMPRESA A\u00c9REA, AVIA\u00c7\u00c3O CIVIL, ALTERA\u00c7\u00c3O, LEI GERAL DO TURISMO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Solicita\u00e7\u00e3o ao Presidente do Senado Federal, Senador Davi Alcolumbre, de imediata aprova\u00e7\u00e3o do projeto relativo \u00e0 nova Lei Geral do Turismo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente Geovania de S\u00e1.\r\nEu queria dizer que estivemos hoje \u00e0 tarde com o Presidente Davi Alcolumbre, no Senado, junto com o trade do turismo e o Ministro do Turismo, Marcelo \u00c1lvaro Ant\u00f4nio, e pedimos urg\u00eancia na aprova\u00e7\u00e3o do projeto j\u00e1 aprovado aqui da Lei Geral do Turismo e na abertura do capital estrangeiro para as companhias a\u00e9reas.\r\nCom certeza, o projeto vai andar com velocidade no Senado.\r\nIsso vai gerar oportunidade de emprego e renda e com certeza vai levar o nosso Pa\u00eds ao progresso e ao desenvolvimento. O turismo \u00e9 um fator de desenvolvimento econ\u00f4mico e social sustent\u00e1vel. Isso vai ser muito importante para o nosso Pa\u00eds.\r\nObrigado, Sra. Presidente Geovania.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 2543/2015, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 2.543-A, de 2015, sobre a altera\u00e7\u00e3o da Lei n\u00ba 11.107, de 2005, com vista \u00e0 inclus\u00e3o, no regime celetista, de servidores de cons\u00f3rcio p\u00fablico com personalidade jur\u00eddica de direito p\u00fablico.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Obrigado, Presidente Marcos Pereira.\r\nTrato desse projeto important\u00edssimo, que fala sobre a CLT e o regime estatut\u00e1rio. Hoje, os Prefeitos que s\u00e3o presidentes de cons\u00f3rcios, muitas vezes, ficam at\u00e9 sem poder disputar a elei\u00e7\u00e3o, porque s\u00e3o reprovadas as contas dos cons\u00f3rcios. Para se contratar uma pessoa para trabalhar no cons\u00f3rcio, ela teria que ser contratada no regime celetista, e hoje a legisla\u00e7\u00e3o diz que tem que ser estatut\u00e1rio. Sendo estatut\u00e1rio, quando dissolver o cons\u00f3rcio, o Prefeito n\u00e3o pode mandar a pessoa embora. Ou seja, ele fica com o abacaxi na m\u00e3o.\r\nEnt\u00e3o \u00e9 necess\u00e1rio que se aprove essa mat\u00e9ria, para dar seguran\u00e7a jur\u00eddica para os Prefeitos, para que seja modificado do sistema estatut\u00e1rio para o regime celetista.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=165&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 muito importante aprovar essa medida provis\u00f3ria, por\u00e9m ela foi modificada. Ela foi encaminhada pelo Presidente Michel Temer no ano passado para abertura do capital estrangeiro, que \u00e9 limitado em 20%, para 100%. N\u00f3s concordamos. \u00c9 importante para o turismo, \u00e9 importante que haja uma concorr\u00eancia entre as companhias a\u00e9reas. Por\u00e9m, foi modificada, foi deixado de cobrar as malas. Isso vai inviabilizar o projeto. Tamb\u00e9m se exige 5% para voos dom\u00e9sticos, voos regionais. Isso vai atrapalhar toda a medida provis\u00f3ria.\r\nEnt\u00e3o n\u00f3s vamos votar \"n\u00e3o\", porque n\u00f3s queremos votar, mas n\u00e3o da forma que est\u00e1 sendo apresentada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=148&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 863/2018, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO BRASILEIRO DE AERON\u00c1UTICA, EXPLORA\u00c7\u00c3O, SERVI\u00c7OS A\u00c9REOS P\u00daBLICOS, EMPRESA ESTRANGEIRA, APROVA\u00c7\u00c3O, VOTA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nFRANQUIA DE BAGAGEM, AN\u00c1LISE.\r\nTURISMO, FAVOR\u00c1VEL, FRENTE PARLAMENTAR MISTA EM DEFESA DO TURISMO, HERCULANO PASSOS, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Defesa da aprova\u00e7\u00e3o da medida provis\u00f3ria sobre a abertura do setor a\u00e9reo ao capital estrangeiro. Contrariedade a modifica\u00e7\u00f5es na proposta original, especialmente quanto \u00e0  proibi\u00e7\u00e3o da cobran\u00e7a de bagagem pelas companhias a\u00e9reas brasileiras.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente Isnaldo Bulh\u00f5es Jr., Sras. Deputadas e Srs. Deputados, n\u00f3s estamos aqui para votar uma mat\u00e9ria important\u00edssima, que \u00e9 justamente esta medida provis\u00f3ria para a abertura do capital estrangeiro para as companhias a\u00e9reas, passando de 20% para 100%.\r\nN\u00f3s votamos nesta Casa uma lei que \u00e9 a abertura ao capital estrangeiro. Votamos e aprovamos. E junto com a abertura ao capital estrangeiro, n\u00f3s votamos a Lei Geral do Turismo, que modernizou e atualizou todo o trade do turismo e o turismo nacional. E vemos que essa medida provis\u00f3ria, que foi encaminhada no ano passado, cujo texto estava redondinho, foi modificada pela relatoria do Senado, prejudicando a possibilidade de virem novas companhias para o Brasil, criando a possibilidade da n\u00e3o cobran\u00e7a de bagagem e estabelecendo que 5% dos voos sejam regionais.\r\nH\u00e1 companhia que j\u00e1 est\u00e1 vindo para c\u00e1 e precisa da seguran\u00e7a jur\u00eddica. E n\u00f3s precisamos aprovar a medida provis\u00f3ria. Por\u00e9m esses entraves v\u00e3o prejudicar a vinda de companhias que querem vir para c\u00e1, at\u00e9 porque a cobran\u00e7a de bagagem \u00e9 feita por todo o Brasil e por todo o mundo. Se deixarmos de cobrar, isso vai dificultar a vinda de novas companhias para c\u00e1. Consequentemente, vai haver um monop\u00f3lio de companhias a\u00e9reas no Brasil, como est\u00e1 acontecendo, pois s\u00f3 h\u00e1 tr\u00eas companhias. N\u00f3s queremos que venham mais companhias a\u00e9reas para c\u00e1, Deputado Bibo Nunes, at\u00e9 porque vai haver concorr\u00eancia, vai melhorar o servi\u00e7o e vai abaixar o valor da passagem.\r\nEstamos vendo o que est\u00e1 acontecendo l\u00e1 no Senado. Hoje conversei com o Senador Randolfe Rodrigues, que est\u00e1 favor\u00e1vel a votar o texto da forma como n\u00f3s o encaminhamos para l\u00e1. Se n\u00f3s aqui aprovarmos essa medida provis\u00f3ria da forma como est\u00e1, modificada, vamos prejudicar o turismo nacional. \r\nPortanto, n\u00f3s somos favor\u00e1veis \u00e0 medida provis\u00f3ria, por\u00e9m somos contra o que foi acrescentado, aumentado. Quiseram fazer pol\u00edtica para n\u00e3o se cobrar pela bagagem, para n\u00e3o se cobrar pela mala. Por\u00e9m, se n\u00e3o se cobrar pela mala, quem vai pagar vai ser aquela pessoa que vai viajar sem mala, porque a companhia tem a despesa. \u00c9 uma coisa l\u00f3gica: quem paga pela mala \u00e9 quem usa a mala. Se voc\u00ea deixou de cobrar pela mala, isso vai ser embutido na passagem. E quem n\u00e3o viajar com mala, este vai pagar por quem est\u00e1 com mala. Isso \u00e9 uma coisa l\u00f3gica.\r\nN\u00f3s n\u00e3o podemos aprovar essa medida provis\u00f3ria da forma como est\u00e1. Vamos aprov\u00e1-la do jeito como foi encaminhada do Governo para a C\u00e2mara dos Deputados, para o Congresso Nacional.\r\nEu sou favor\u00e1vel \u00e0 medida provis\u00f3ria da forma como foi encaminhada para o Congresso Nacional, at\u00e9 porque...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. PRESIDENTE (Isnaldo Bulh\u00f5es Jr. Bloco/MDB - AL) - O Deputado Herculano tinha 10 minutos. Fizemos um acordo de que S.Exa. economizaria. Usaria somente 6 minutos. Portanto, \u00e9 justo que concedamos a S.Exa. 1 minuto, para que conclua.\r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - Concluirei, Sr. Presidente. Entendo que eu j\u00e1 passei a mensagem. \r\nSou Presidente da Frente Parlamentar Mista em Defesa do Turismo. Defendo o turismo, e o queremos forte. O Brasil, que \u00e9 um pa\u00eds continental, precisa de um transporte a\u00e9reo organizado, que fa\u00e7a com que o sonho do brasileiro de conhecer o Brasil seja realizado atrav\u00e9s dessas propostas neste Congresso Nacional.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=246&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DAS LICITA\u00c7\u00d5ES.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Defesa da aprova\u00e7\u00e3o pela Casa do projeto de lei sobre a atualiza\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es e Contratos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, em rela\u00e7\u00e3o \u00e0 Lei de Licita\u00e7\u00f5es, temos o compromisso de aprovar essa mat\u00e9ria.\r\nEu, que fui Vereador e Prefeito, sei da import\u00e2ncia de aumentar o teto de todos os contratos de compra direta, de licita\u00e7\u00f5es, de carta-convite, e de melhorar o tratamento das licita\u00e7\u00f5es. O gestor municipal, estadual ou federal poder\u00e1 chamar os interessados para dialogar e fazer a licita\u00e7\u00e3o. Depois de feita a licita\u00e7\u00e3o \u00e9 que a documenta\u00e7\u00e3o ser\u00e1 recebida, o que vai agilizar os processos e facilitar a gest\u00e3o municipal, estadual e federal. \r\nEnt\u00e3o, \u00e9 muito importante aprovarmos essa mat\u00e9ria, Sra. Presidente. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, APOIO POL\u00cdTICO, TURISMO, DECRETO, DISPENSA, VISTO CONSULAR, ESTADOS UNIDOS, JAP\u00c3O, AUSTR\u00c1LIA, CANAD\u00c1, FRENTE PARLAMENTAR MISTA EM DEFESA DO TURISMO (FRENTUR), VETO PARCIAL, GRATUIDADE, ISEN\u00c7\u00c3O, COBRAN\u00c7A, FRANQUIA DE BAGAGEM, BAGAGEM DESPACHADA, PLV 12/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO BRASILEIRO DE AERON\u00c1UTICA, EXPLORA\u00c7\u00c3O, SERVI\u00c7OS A\u00c9REOS P\u00daBLICOS, EMPRESA ESTRANGEIRA, ABERTURA, CAPITAL ESTRANGEIRO, EMPRESA DE TRANSPORTE A\u00c9REO, DEFESA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Congratula\u00e7\u00e3o ao Presidente Jair Bolsonaro pela revoga\u00e7\u00e3o da exig\u00eancia de visto para entrada no Brasil de cidad\u00e3os dos Estados Unidos da Am\u00e9rica, da Austr\u00e1lia, do Jap\u00e3o e do Canad\u00e1, e pela aposi\u00e7\u00e3o de veto \u00e0 proposta de isen\u00e7\u00e3o da cobran\u00e7a de bagagens despachadas pelas companhias a\u00e9reas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu quero aqui cumprimentar o Presidente Jair Bolsonaro, porque come\u00e7ou a vigorar o decreto da n\u00e3o exig\u00eancia de visto para Estados Unidos, Jap\u00e3o, Austr\u00e1lia e Canad\u00e1. N\u00f3s conseguimos esse feito na \u00e9poca da Copa do Mundo, para que esses pa\u00edses ficassem isentos. Depois, n\u00f3s da Frente Parlamentar do Turismo entendemos que deveria ser continuada a n\u00e3o exig\u00eancia desses vistos. Por\u00e9m, com o problema da reciprocidade, o Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores achava que estava ferindo a soberania nacional. Depois, vimos que o Presidente Jair Bolsonaro est\u00e1 sendo o homem do turismo, porque fez esse decreto, que est\u00e1 vigorando a partir de hoje.\r\nAconteceu hoje tamb\u00e9m mais uma medida muito importante para o turismo. O Presidente vetou a n\u00e3o cobran\u00e7a do transporte de bagagens. Isso vai ser muito importante, porque vai pagar pelo transporte de bagagem quem usa bagagem, e n\u00e3o aquele que n\u00e3o a usa. Com essa nova medida, novas companhias a\u00e9reas vir\u00e3o para o Brasil. Da forma como foi modificada essa mat\u00e9ria na medida provis\u00f3ria, isso iria prejudicar muito o turismo.\r\nEu diria hoje que Bolsonaro \u00e9 o Presidente do turismo, porque est\u00e1 voltado ao turismo.\r\nParab\u00e9ns, Presidente Bolsonaro!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=201&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "HERCULANO PASSOS, VICE-L\u00cdDER DO GOVERNO NA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Escolha do orador para Vice-L\u00edder do Governo na C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado Presidente Bibo Nunes.\r\nVenho a esta tribuna para dizer que estou muito contente hoje, muito feliz, e tamb\u00e9m muito honrado por ter sido escolhido pelo Presidente Jair Bolsonaro Vice-L\u00edder do Governo na C\u00e2mara dos Deputados.\r\nTemos trabalhado para que toda a pauta do Governo avance, temos defendido as reformas importantes para o futuro do nosso Pa\u00eds. N\u00f3s estamos num barco, estamos todos os brasileiros juntos, e queremos o melhor para o Brasil. Vamos continuar o nosso trabalho com mais intensidade na defesa n\u00e3o s\u00f3 do Governo, mas na defesa do nosso Pa\u00eds.\r\nEste \u00e9 um momento de agradecimento ao Presidente Jair Bolsonaro pela indica\u00e7\u00e3o do meu nome para a Vice-Lideran\u00e7a do Governo nesta Casa. Com certeza, com o nosso L\u00edder, Deputado Major Vitor Hugo, n\u00f3s vamos construir aqui uma articula\u00e7\u00e3o para que possamos avan\u00e7ar em todos os projetos que beneficiam o nosso Pa\u00eds e que, consequentemente, v\u00e3o atender a popula\u00e7\u00e3o l\u00e1 na ponta.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), COMISS\u00c3O ESPECIAL, REQUERIMENTO DE DESTAQUE, REJEI\u00c7\u00c3O, HERCULANO PASSOS, DEPUTADO FEDERAL, ORADOR, CR\u00cdTICA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Protesto contra a rejei\u00e7\u00e3o, pela Comiss\u00e3o Especial da reforma previdenci\u00e1ria, de requerimento de destaque apresentado pelo orador em prol de pensionistas.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu estava ouvindo o pronunciamento do Deputado que me antecedeu. Ele tem toda raz\u00e3o. Inclusive, eu apresentei um destaque na Comiss\u00e3o Especial da Reforma da Previd\u00eancia que era justamente sobre esse assunto. As vi\u00favas, com o texto de agora, v\u00e3o receber metade da aposentadoria do marido e mais 10% para cada dependente menor de idade. \r\nA nossa proposta era a seguinte: a cada ano que a mulher vivesse com o marido, receberia 1% a mais na aposentadoria com a morte dele; se ela vivesse 30 anos com o marido, passaria a receber, em vez de 50%, 80%; se vivesse 50 anos com o marido, receberia a aposentadoria integral. Essa era minha proposta, por\u00e9m n\u00e3o foi acatada na Comiss\u00e3o Especial. Seria uma justi\u00e7a com as vi\u00favas e as pensionistas no Brasil. Tentamos melhorar o texto para defender essas pessoas, que poderiam ser prejudicadas. A mulher que se casasse muito cedo receberia menos aposentadoria do marido, mas as mais velhas receberiam mais e provavelmente morreriam mais cedo, porque viveram 50 anos casadas - \u00e9 um pequeno espa\u00e7o de tempo.\r\nEnt\u00e3o, a nossa proposta n\u00e3o afetaria a Previd\u00eancia como um todo, n\u00e3o afetaria o or\u00e7amento do que seria arrecadado e seria uma justi\u00e7a. Infelizmente, n\u00e3o foi aceito o nosso encaminhamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Apoio \u00e0 pr\u00e1tica de vaquejada no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, a vaquejada \u00e9 um costume nacional.\r\nQuanto ao rodeio, fala-se em maus-tratos aos animais no rodeio, mas os touros do rodeio s\u00e3o bem alimentados e vivem muito mais do que os bois que v\u00e3o para o corte. Ent\u00e3o, \u00e9 muito mais importante cuidar dos animais, e quem cuida desses animais \u00e9 quem usa os animais.\r\nEu tenho cavalo e esta semana vou numa romaria para Pirapora. S\u00e3o 50 quil\u00f4metros para ir e 50 quil\u00f4metros para voltar. Do jeito que est\u00e3o caminhando as coisas, com esses ambientalistas e com essas pessoas que falam em prote\u00e7\u00e3o dos animais, n\u00f3s n\u00e3o vamos poder mais andar a cavalo, e desde que o mundo \u00e9 mundo n\u00f3s andamos a cavalo!\r\nUm viva ao cavalo, ao touro e aos animais!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=294&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL, INVESTIMENTO ESTRANGEIRO, AN\u00c1LISE.\r\nREFORMA TRIBUT\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Retomada da credibilidade dos investidores internos e estrangeiros no Brasil, ap\u00f3s a aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu s\u00f3 queria falar um minutinho, at\u00e9 porque, como Coordenador da bancada de S\u00e3o Paulo, eu tenho acompanhado o Governador Jo\u00e3o Doria, que est\u00e1 em Londres fechando v\u00e1rios neg\u00f3cios important\u00edssimos para o Estado de S\u00e3o Paulo e para o Brasil, ap\u00f3s a aprova\u00e7\u00e3o da reforma da Previd\u00eancia e do encaminhamento e da instala\u00e7\u00e3o da reforma tribut\u00e1ria. Por isso, os investidores internacionais j\u00e1 est\u00e3o dando credibilidade ao Brasil e est\u00e3o investindo aqui. E os investidores nacionais, aqui do Brasil, tamb\u00e9m ir\u00e3o investir, porque est\u00e3o acreditando neste Parlamento, na aprova\u00e7\u00e3o da reforma da Previd\u00eancia e, na sequ\u00eancia, na reforma tribut\u00e1ria, que foi encaminhada pelo nosso L\u00edder Baleia Rossi.\r\nParab\u00e9ns, Sr. Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=137&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 881/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, DECLARA\u00c7\u00c3O DE DIREITOS DE LIBERDADE ECON\u00d4MICA, GARANTIA, LIVRE-INICIATIVA, LIVRE EXERC\u00cdCIO PROFISSIONAL, ATIVIDADE ECON\u00d4MICA, DESBUROCRATIZA\u00c7\u00c3O, APRECIA\u00c7\u00c3O.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta da medida provis\u00f3ria sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria fazer um apelo \u00e0 diretoria da nossa C\u00e2mara dos Deputados, principalmente a V.Exa., nosso Presidente Rodrigo Maia, para que pautasse o mais r\u00e1pido poss\u00edvel a medida provis\u00f3ria que diz respeito \u00e0 liberdade econ\u00f4mica.\r\nHoje, na frente parlamentar em defesa do com\u00e9rcio, bens e servi\u00e7os, presidida pelo Deputado Efraim Filho, n\u00f3s debatemos esse assunto, que vai fazer avan\u00e7ar muito a economia do nosso Pa\u00eds, at\u00e9 porque n\u00f3s poderemos, com essa medida provis\u00f3ria, fazer com que haja a possibilidade de as concession\u00e1rias venderem ve\u00edculos no domingo. Isso vai melhorar o turismo, aquecer o com\u00e9rcio, gerar mais empregos e oportunidades para todos. \r\nPor isso, \u00e9 muito importante pautarmos essa medida provis\u00f3ria, que vai vencer no dia 27. Ela tem que ir o quanto antes para o Senado Federal, para que haja tempo de o Senado debater, discutir e votar. Ent\u00e3o, esse \u00e9 um apelo que eu fa\u00e7o, para que possamos aprovar o mais r\u00e1pido poss\u00edvel essa mat\u00e9ria, que vai trazer desenvolvimento para o nosso Pa\u00eds.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=159&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CIRO BATELLI, EMPRES\u00c1RIO, RIBEIR\u00c3O PRETO (SP), FALECIMENTO, HOMENAGEM P\u00d3STUMA. \r\nCASSINO, JOGO DE AZAR, LEGALIZA\u00c7\u00c3O.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Falecimento do empres\u00e1rio Ciro Batelli, do Estado de S\u00e3o Paulo. Defesa da legaliza\u00e7\u00e3o dos jogos de cassinos no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria fazer o registro de que o empres\u00e1rio paulista Ciro Batelli morreu aos 85 anos nesta segunda-feira, em Las Vegas, nos Estados Unidos. Natural de Ribeir\u00e3o Preto, Ciro era figura onipotente nas rodas da sociedade paulistana. Ficou conhecido ao assumir a Vice-Presid\u00eancia da rede de hot\u00e9is-cassino Caesar Palace, em Las Vegas, levando ao lugar uma leva de brasileiros para curtir a cidade. Na lideran\u00e7a do Caesar, foi pioneiro ao levantar a bandeira da legaliza\u00e7\u00e3o dos jogos no Brasil.\r\nEu queria aqui dizer que, como Presidente da Frente Parlamentar em Defesa do Turismo, eu entendo que j\u00e1 passou da hora de fazermos a legaliza\u00e7\u00e3o dos cassinos no Brasil, para gerar emprego, desenvolvimento e, com certeza, trazer progresso para o nosso Pa\u00eds.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRENTE PARLAMENTAR MISTA EM DEFESA DOS MUNIC\u00cdPIOS BRASILEIROS (FMB), FRENTE PARLAMENTAR, PACTO FEDERATIVO, CONFEDERA\u00c7\u00c3O NACIONAL DE MUNIC\u00cdPIOS (CNM), REUNI\u00c3O, LUIZ EDUARDO RAMOS, MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESID\u00caNCIA DA REP\u00daBLICA, INCLUS\u00c3O, ESTADO (ENTE FEDERADO), PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), D\u00cdVIDA P\u00daBLICA, PEC 391/2017, DISTRIBUI\u00c7\u00c3O, RECURSOS, FUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), IMPOSTO SOBRE SERVI\u00c7OS DE QUALQUER NATUREZA (ISS).",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Relato de reuni\u00e3o da Frente Parlamentar Mista em Defesa dos Munic\u00edpios Brasileiros e da Frente Parlamentar Mista em Defesa do Pacto Federativo com a Confedera\u00e7\u00e3o Nacional dos Munic\u00edpios. Import\u00e2ncia da participa\u00e7\u00e3o, no evento, do Ministro-Chefe da Secretaria de Governo da Presid\u00eancia da Rep\u00fablica, General Luiz Eduardo Ramos.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero aqui agradecer a V.Exa. este espa\u00e7o e dizer que n\u00f3s acabamos de sair de uma reuni\u00e3o da Confedera\u00e7\u00e3o Nacional de Munic\u00edpios. A Frente Parlamentar Mista em Defesa dos Munic\u00edpios Brasileiros e a Frente Parlamentar do Pacto Federativo receberam o Ministro Ramos, respons\u00e1vel pela articula\u00e7\u00e3o pol\u00edtica com o nosso Congresso.\r\nQueria dizer que foi muito importante a participa\u00e7\u00e3o dele, porque n\u00f3s debatemos a pauta municipalista, uma pauta importante. A reforma da Previd\u00eancia precisa atingir Estados e Munic\u00edpios. Ap\u00f3s passar pelo Senado, a mat\u00e9ria voltar\u00e1 para a C\u00e2mara. N\u00f3s debatemos tamb\u00e9m o encontro de contas das d\u00edvidas dos Munic\u00edpios com o Governo Federal com vistas \u00e0 constitui\u00e7\u00e3o de um comit\u00ea gestor para que o saldo devedor seja pago pelos Munic\u00edpios. Debatemos ainda outras mat\u00e9rias importantes, como o aumento de 1% sobre o repasse do FPM, o que vai aumentar o repasse aos Munic\u00edpios, e como o ISS sobre cobran\u00e7a de cr\u00e9dito, cart\u00e3o de cr\u00e9dito, cart\u00e3o de d\u00e9bito, plano de sa\u00fade, leasing, factory e cons\u00f3rcio, que vai ser pautado aqui brevemente, atrav\u00e9s do nosso trabalho.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=8&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-27T20:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 2999/2019, PROJETO DE LEI ORDIN\u00c1RIA, ANTECIPA\u00c7\u00c3O, PAGAMENTO, HONOR\u00c1RIOS PERICIAIS, A\u00c7\u00c3O JUDICIAL, INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), SENADO FEDERAL, SUBSTITUTIVO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o do substitutivo do Senado Federal ao Projeto de Lei n\u00ba 2.999, de 2019, sobre a antecipa\u00e7\u00e3o do pagamento dos honor\u00e1rios periciais em a\u00e7\u00f5es do Instituto Nacional do Seguro Social - INSS.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Deputado Soraya Santos, muito obrigado.\r\nEu s\u00f3 queria dizer, em rela\u00e7\u00e3o ao PL 2.999, que o texto que veio do Senado vai fazer com que o Governo economize bastante. At\u00e9 2020, tudo o que for contratado relativamente a peritos ser\u00e1 pago normalmente. O Governo vai oferecer os peritos do Governo pelo valor de 61 reais. Hoje, um perito judicial indicado pelo Poder Judici\u00e1rio ganha por volta de mil reais. O Judici\u00e1rio vai ter a prerrogativa de contratar o perito indicado por ele ou o do Governo at\u00e9 2021. Depois de 2021, o que vai acontecer? O Governo vai oferecer os peritos e vai tamb\u00e9m cobrir...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - Vou encerrar em 1 minuto o discurso, Sra. Presidente.\r\nO projeto \u00e9 bom, o projeto trar\u00e1 uma economicidade grande, e o Poder Judici\u00e1rio n\u00e3o vai atingir o limite do teto de gastos. Ent\u00e3o, eu concordo com o projeto do Senado, porque vai ser mais econ\u00f4mico. O Judici\u00e1rio n\u00e3o vai precisar gastar tanto, e o Governo vai oferecer aquele servi\u00e7o de menor custo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F8%2F2019&txPagina=229&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER, PLP 461/2017, PROJETO DE LEI COMPLEMENTAR,  OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), CART\u00c3O DE CR\u00c9DITO, CART\u00c3O DE D\u00c9BITO, LEASING, CONS\u00d3RCIO, FACTORING, SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei Complementar n\u00ba 461, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 2003.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Para proferir parecer. Sem revis\u00e3o do orador.) - Sra. Presidente, trata-se de uma mat\u00e9ria importante que diz respeito \u00e0 cobran\u00e7a do ISS sobre cart\u00e3o de cr\u00e9dito, cart\u00e3o de d\u00e9bito, plano de sa\u00fade, leasing, cons\u00f3rcio, factoring. \u00c9, portanto, uma mat\u00e9ria important\u00edssima que vai ajudar todos os Munic\u00edpios do Brasil.\r\nVou direto ao voto, Sra. Presidente.\r\n\"II - Voto do Relator\r\nII.1 - Exame de constitucionalidade, da legalidade, da juridicidade, da regimentalidade e da t\u00e9cnica legislativa\r\nEm rela\u00e7\u00e3o \u00e0 constitucionalidade das proposi\u00e7\u00f5es, apontamos que o art. 24, I, e o art. 146, III, da Constitui\u00e7\u00e3o Federal estabelecem a compet\u00eancia da lei complementar federal para edi\u00e7\u00e3o de normas gerais em mat\u00e9ria tribut\u00e1ria, inclusive as relativas a obriga\u00e7\u00f5es tribut\u00e1rias acess\u00f3rias.\r\nA iniciativa parlamentar para propositura de projetos que tratem de temas tribut\u00e1rios, por sua vez, encontra respaldo no art. 61 da Constitui\u00e7\u00e3o, conforme entendimento pac\u00edfico do Supremo Tribunal Federal (STF).\r\nOs projetos ora examinados, por\u00e9m, n\u00e3o se limitam a prever regramentos gerais tribut\u00e1rios, mas restringem muito significativamente a possibilidade de os Munic\u00edpios exercerem sua compet\u00eancia tribut\u00e1ria ao submet\u00ea-los a um sistema unificado do recolhimento do ISSQN e ao limitar sua faculdade de editar obriga\u00e7\u00f5es tribut\u00e1rias acess\u00f3rias.\r\nAssim como os autores do projeto, entendemos que a converg\u00eancia das obriga\u00e7\u00f5es tribut\u00e1rias acess\u00f3rias institu\u00eddas pelos entes federativos para um patamar comum e a redu\u00e7\u00e3o de complexidade da respectiva legisla\u00e7\u00e3o tribut\u00e1ria s\u00e3o importantes para o desenvolvimento do Pa\u00eds.\r\nContudo, o instrumento estabelecido pela Constitui\u00e7\u00e3o Federal para a concretiza\u00e7\u00e3o dessa diretriz, sem comprometimento da autonomia federativa, \u00e9 a atua\u00e7\u00e3o integrada das administra\u00e7\u00f5es tribut\u00e1rias, imposta pelo art. 37, XXII, da Carta Pol\u00edtica.\r\nDesse modo, entendemos que a normatiza\u00e7\u00e3o federal sobre o assunto deve se limitar \u00e0 facilita\u00e7\u00e3o da integra\u00e7\u00e3o exigida pela Constitui\u00e7\u00e3o.\r\nPor essas raz\u00f5es, apresentamos o substitutivo anexo, que sana a referida inconstitucionalidade ao suprir as diversas disposi\u00e7\u00f5es espec\u00edficas de ambos os projetos que comprometiam a autonomia municipal.\r\nEm complemento, cabe apontar que o STF, nos autos da A\u00e7\u00e3o Direta de Inconstitucionalidade n\u00ba 5.835, suspendeu a modifica\u00e7\u00e3o do local da tributa\u00e7\u00e3o dos servi\u00e7os previstos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista anexa \u00e0 Lei Complementar n\u00ba 116, de 2003, condicionando-a \u00e0 defini\u00e7\u00e3o do conceito de tomador dos referidos servi\u00e7os.\r\nQuanto \u00e0 quest\u00e3o, entendemos que eventuais diverg\u00eancias na interpreta\u00e7\u00e3o da lei n\u00e3o s\u00e3o causa da sua inconstitucionalidade, ainda que por omiss\u00e3o. Contudo, com o intuito de fazer cessar a suspens\u00e3o liminar da efic\u00e1cia da Lei Complementar n\u00ba 157, de 2016, e de prevenir eventual declara\u00e7\u00e3o de inconstitucionalidade por arrastamento, o nosso substitutivo cumpre os par\u00e2metros exigidos pela Corte Suprema, definindo os tomadores dos referidos servi\u00e7os.\r\nPor fim, apontamos que o STF tem entendido que, do princ\u00edpio de seguran\u00e7a jur\u00eddica, previsto no art. 5\u00ba, XXXVI, da Constitui\u00e7\u00e3o, decorre a necessidade de estabelecimento de regra de transi\u00e7\u00e3o razo\u00e1vel nas modifica\u00e7\u00f5es legislativas ou interpretativas que acarretem impacto profundo sobre os destinat\u00e1rios das normas jur\u00eddicas.\r\nPor essas raz\u00f5es, nosso substitutivo estabelece, em cumprimento \u00e0 Constitui\u00e7\u00e3o Federal, regra de transi\u00e7\u00e3o destinada a mitigar os impactos causados pela modifica\u00e7\u00e3o de compet\u00eancia sobre os Munic\u00edpios nos quais se situam os estabelecimentos prestadores de servi\u00e7o tratados na Lei Complementar n\u00ba 157, de 2016.\r\nPontuamos que a regra estabelecida n\u00e3o afronta a regra constitucional da reparti\u00e7\u00e3o das receitas, porque busca garantir a efic\u00e1cia do princ\u00edpio federativo e porque decorre de comando impl\u00edcito na pr\u00f3pria Constitui\u00e7\u00e3o e reconhecido pelo STF.\r\nOs projetos, na forma de nosso substitutivo, atendem igualmente ao requisito da juridicidade e da legalidade, pois se amoldam aos princ\u00edpios maiores que informam a ordem jur\u00eddica, sendo, ainda, adequados e necess\u00e1rios em rela\u00e7\u00e3o ao ordenamento posto.\r\nA reda\u00e7\u00e3o dos projetos, no substitutivo apresentado juntamente com este parecer, outrossim, apresenta boa t\u00e9cnica legislativa e obedece ao disposto na Lei Complementar n\u00b0 95, de 1998.\r\nPortanto, conclu\u00edmos pela constitucionalidade, legalidade, juridicidade, regimentalidade e boa t\u00e9cnica legislativa dos projetos analisados, na forma do substitutivo ora apresentado.\r\nII.2 - Compatibilidade e adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria\r\nO art. 1\u00ba, \u00a71\u00b0, da Norma Interna da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o (Nl/CFT), define como compat\u00edvel, sob o ponto de vista or\u00e7ament\u00e1rio e financeiro, \"a proposi\u00e7\u00e3o que n\u00e3o conflite com as normas do plano plurianual, da lei de diretrizes or\u00e7ament\u00e1rias, da lei or\u00e7ament\u00e1ria anual e das demais disposi\u00e7\u00f5es legais em vigor\" e como adequada \"a proposi\u00e7\u00e3o que se adapte, se ajuste ou esteja abrangida pelo plano plurianual, pela lei de diretrizes or\u00e7ament\u00e1rias e pela lei or\u00e7ament\u00e1ria anual\".\r\nO seu art. 9\u00ba, por sua vez, define que, quando a mat\u00e9ria n\u00e3o tiver implica\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira da Uni\u00e3o Federal, deve-se \"concluir no voto final que \u00e0 comiss\u00e3o n\u00e3o cabe afirmar se a proposi\u00e7\u00e3o \u00e9 adequada ou n\u00e3o\".\r\nOs projetos em an\u00e1lise, na forma de nosso substitutivo, n\u00e3o conflitam com a legisla\u00e7\u00e3o or\u00e7ament\u00e1ria, pois tratam essencialmente de obriga\u00e7\u00f5es tribut\u00e1rias acess\u00f3rias e da defini\u00e7\u00e3o de conceitos gerais de direito tribut\u00e1rio aplic\u00e1veis ao ISSQN, mat\u00e9rias que n\u00e3o t\u00eam implica\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira da Uni\u00e3o.\r\nPortanto, somos pela n\u00e3o implica\u00e7\u00e3o da mat\u00e9ria em aumento ou diminui\u00e7\u00e3o da receita ou da despesa da Uni\u00e3o Federal, n\u00e3o cabendo pronunciamento quanto \u00e0 adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria.\r\nII.3 - M\u00e9rito\r\nNo m\u00e9rito, entendemos que o PLP 461/17 e o PLP 485/18 devem ser aprovados, com os ajustes realizados no substitutivo apresentado juntamente com este parecer.\r\nCom efeito, a Lei Complementar n\u00b0 157, de 2016, transferiu ao Munic\u00edpio do domic\u00edlio do tomador a compet\u00eancia para tributa\u00e7\u00e3o dos servi\u00e7os indicados nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00b0 116, de 2003.\r\nTal modifica\u00e7\u00e3o, por\u00e9m, trouxe profundas dificuldades para os contribuintes que prestam tais servi\u00e7os, que passaram a ter que se adequar a milhares de legisla\u00e7\u00f5es municipais, as quais estabelecem obriga\u00e7\u00f5es acess\u00f3rias variadas.\r\nEmbora essa multiplicidade de legisla\u00e7\u00f5es seja inerente ao nosso federalismo fiscal e decorra de decis\u00e3o expressa do Constituinte de 1987, entendemos que os projetos analisados trazem a solu\u00e7\u00e3o poss\u00edvel para tais problemas, devendo ser aprovados na forma de nosso substitutivo, o qual prev\u00ea a cria\u00e7\u00e3o de um comit\u00ea gestor de obriga\u00e7\u00f5es acess\u00f3rias e traz a defini\u00e7\u00e3o de tomador dos mencionados servi\u00e7os.\r\nEm nosso substitutivo, estabelecemos que, como regra geral, o tomador \u00e9 a parte contratante do servi\u00e7o, acolhendo o mesmo conceito j\u00e1 adotado pela legisla\u00e7\u00e3o tribut\u00e1ria federal (como se depreende, por exemplo, do art. 22, I, da Lei n\u00b0 8.212, de 1991, e do art. 25, \u00a7 3\u00ba, I, da Lei n\u00b0 12.546, de 2011), trabalhista (art. 5\u00b0 da Lei n\u00b0 6.019) e pela Receita Federal, na Solu\u00e7\u00e3o de Consulta COSIT n\u00b0 504, de 2017.\r\nContudo, buscando concretizar os objetivos do Congresso Nacional, de pulveriza\u00e7\u00e3o da arrecada\u00e7\u00e3o, em algumas hip\u00f3teses, definimos o tomador como pessoa diversa do contratante.\r\nAl\u00e9m disso, buscando evitar questionamentos judiciais futuros, realizamos especifica\u00e7\u00f5es na defini\u00e7\u00e3o, considerando as peculiaridades de algumas atividades econ\u00f4micas.\r\nDessa forma, no substitutivo, esclarecemos que o tomador dos servi\u00e7os de administra\u00e7\u00e3o de cart\u00f5es de cr\u00e9dito e d\u00e9bito prestados ao usu\u00e1rio do cart\u00e3o \u00e9 o pr\u00f3prio titular do cart\u00e3o.\r\nPor outro lado, em rela\u00e7\u00e3o aos servi\u00e7os prestados pelas credenciadoras, subcredenciadoras, pelas bandeiras e pelos emissores, buscando a pulveriza\u00e7\u00e3o da arrecada\u00e7\u00e3o, definimos que o tomador \u00e9 a pessoa f\u00edsica ou jur\u00eddica que det\u00e9m a posse das m\u00e1quinas de cart\u00f5es, terminais eletr\u00f4nicos e/ou leitores.\r\nNo caso dos servi\u00e7os prestados pelas operadoras de planos de sa\u00fade, estabelecemos que o tomador \u00e9 a pessoa f\u00edsica benefici\u00e1ria, vinculada \u00e0 operadora por meio de contrato de plano de sa\u00fade individual ou familiar, coletivo empresarial ou coletivo por ades\u00e3o.\r\nNo caso dos servi\u00e7os de administra\u00e7\u00e3o de fundos e dos servi\u00e7os de administra\u00e7\u00e3o de carteira de valores mobili\u00e1rios, esclarecemos que tomador do servi\u00e7o \u00e9 o investidor, tendo em vista que o fundo n\u00e3o det\u00e9m personalidade jur\u00eddica e nem domic\u00edlio, consistindo em mera massa patrimonial destinada a gerar renda para seus investidores.\r\nDe forma semelhante, no caso dos servi\u00e7os prestados pelas administradoras de cons\u00f3rcios, entendemos que o consorciado \u00e9 o tomador do servi\u00e7o, pois o grupo de cons\u00f3rcio n\u00e3o \u00e9 uma entidade personificada, n\u00e3o possuindo domic\u00edlio.\r\nEm adi\u00e7\u00e3o, considerando que (i) alguns dos servi\u00e7os previstos no item 10.04 da lista anexa \u00e0 Lei Complementar n\u00ba 116, de 2003, s\u00e3o prestados por pessoas naturais e tributados pelo ISSQN por valores fixos, na forma do art. 9\u00ba do Decreto-Lei n\u00ba 406, de 1968, e que (ii) a tributa\u00e7\u00e3o da intermedia\u00e7\u00e3o do leasing no estabelecimento do seu prestador (concession\u00e1ria de ve\u00edculos) j\u00e1 possibilitaria a pulveriza\u00e7\u00e3o da arrecada\u00e7\u00e3o pretendida, entendemos prudente estabelecer a compet\u00eancia do Munic\u00edpio do local do prestador para a cobran\u00e7a do imposto sobre tais servi\u00e7os, atendendo a pleito da pr\u00f3pria CNM.\r\nPor fim, estabelecemos regras de transi\u00e7\u00e3o destinadas a tornar gradativos os impactos decorrentes da modifica\u00e7\u00e3o de compet\u00eancia promovida pela Lei Complementar n\u00ba 157, de 2016.\r\nDe acordo com a regra proposta, a arrecada\u00e7\u00e3o do ISSQN ser\u00e1 repartida entre o Munic\u00edpio do domic\u00edlio do tomador do servi\u00e7o e o do local do estabelecimento prestador, na seguinte propor\u00e7\u00e3o: at\u00e9 o ano de 2020, 25% da arrecada\u00e7\u00e3o caber\u00e3o ao Munic\u00edpio do tomador e 75%, ao Munic\u00edpio do estabelecimento prestador; no ano de 2021, 50% da arrecada\u00e7\u00e3o caber\u00e3o ao Munic\u00edpio do tomador e 50%, ao Munic\u00edpio do estabelecimento prestador; no ano de 2022, 75% da arrecada\u00e7\u00e3o caber\u00e3o ao Munic\u00edpio do tomador e 25%, ao Munic\u00edpio do estabelecimento prestador; a partir de 2023, a arrecada\u00e7\u00e3o total caber\u00e1 ao Munic\u00edpio do domic\u00edlio do tomador.\r\nPor essas raz\u00f5es, no m\u00e9rito, somos favor\u00e1veis \u00e0 aprova\u00e7\u00e3o do projeto e de seu apenso, na forma do substitutivo apresentado.\r\nII.4 - Conclus\u00e3o\r\nDiante do exposto, votamos:\r\na) pela constitucionalidade, legalidade, juridicidade, regimentalidade e boa t\u00e9cnica legislativa dos Projetos de Lei Complementar n\u00bas 461, de 2017, e 485, de 2018, na forma do substitutivo que acompanha este parecer;\r\nb) pela n\u00e3o implica\u00e7\u00e3o da mat\u00e9ria em aumento ou diminui\u00e7\u00e3o da receita ou da despesa da Uni\u00e3o, n\u00e3o cabendo pronunciamento quanto \u00e0 adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria dos referidos projetos de lei complementar, na forma do substitutivo apresentado; e\r\nc) no m\u00e9rito, pela aprova\u00e7\u00e3o do PLP 461/17 e do PLP 485/18, na forma do substitutivo apresentado.\"\r\nVou ler o substitutivo, Sr. Presidente.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - N\u00e3o precisa, Deputado. Obrigado.\r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - N\u00e3o precisa?\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - N\u00e3o.\r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - Sras. e Srs. Deputados, essa lei \u00e9 important\u00edssima para o municipalismo.\r\nO Deputado Hildo Rocha ajudou-me a montar esse relat\u00f3rio junto com a Confedera\u00e7\u00e3o Nacional de Munic\u00edpios. O que vem a ser isso? Hoje, o ISS cobrado do cart\u00e3o de cr\u00e9dito, cart\u00e3o de d\u00e9bito, plano de sa\u00fade, leasing, cons\u00f3rcio vai para a sede da cidade onde est\u00e1 o banco. O ISS fica l\u00e1, s\u00e3o cobrados 2%.\r\nN\u00f3s aprovamos isso aqui nesta Casa e no Senado. O Presidente Michel Temer vetou, e n\u00f3s derrubamos o veto. O Ministro Alexandre de Moraes impetrou uma liminar. N\u00f3s estamos aprovando essa mat\u00e9ria para dar seguran\u00e7a jur\u00eddica ao Ministro, a fim de que derrube essa liminar, e os Munic\u00edpios passem a receber aquele ISS sobre o qual \u00e9 realizada a opera\u00e7\u00e3o financeira. Quando a pessoa paga com cart\u00e3o de cr\u00e9dito ou cart\u00e3o de d\u00e9bito, a opera\u00e7\u00e3o financeira fica no Munic\u00edpio tomador. \u00c9 isso que diz essa lei. O que acontece? Aquela pessoa usa a sa\u00fade no Munic\u00edpio, destr\u00f3i a rua e precisa de todos os servi\u00e7os de l\u00e1, e o dinheiro vai para outro Munic\u00edpio.\r\nEnt\u00e3o, n\u00f3s estamos cometendo justi\u00e7a, aprovando essa lei.\r\nEu pe\u00e7o o apoio de todos os municipalistas. Com certeza, com a aprova\u00e7\u00e3o dessa mat\u00e9ria, as Prefeituras v\u00e3o receber dinheiro novo no or\u00e7amento. Os Prefeitos est\u00e3o com dificuldades. Esse recurso vai ajudar na sa\u00fade, na educa\u00e7\u00e3o, na infraestrutura. Por isso, eu pe\u00e7o o apoio de todos os Parlamentares para aprovarmos essa mat\u00e9ria nesta noite, que vai ser hist\u00f3rica para o municipalismo brasileiro.\r\nConto com o apoio de todos.\r\nMuito obrigado, Sr. Presidente.\r\n\r\nPARECER ESCRITO ENCAMINHADO \u00c0 MESA PELO SR. DEPUTADO HERCULANO PASSOS.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 5385/2019, PROJETO DE LEI ORDIN\u00c1RIA, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.385, de 2019, a respeito da adultera\u00e7\u00e3o de sinal identificador de ve\u00edculo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria orientar pelo Governo.\r\nO Governo entende que \u00e9 muito importante aprovarmos essa urg\u00eancia para votarmos esse projeto que trata da tipifica\u00e7\u00e3o do crime de adultera\u00e7\u00e3o de sinal identificador de ve\u00edculo. \u00c9 muito importante que seja aprovada o mais r\u00e1pido poss\u00edvel essa urg\u00eancia para que possamos votar a mat\u00e9ria.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=167&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "F\u00d3RUM BRASILEIRO DE TURISMO (4:2019, ITU (SP)), FRENTE PARLAMENTAR MISTA EM DEFESA DO TURISMO (FRENTUR), GERALDO ALCKMIN, EX-GOVERNADOR, MICHEL TEMER, EX-PRESIDENTE DA REP\u00daBLICA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "An\u00fancio de realiza\u00e7\u00e3o do 4\u00ba F\u00f3rum Brasileiro de Turismo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu quero fazer um comunicado. Na pr\u00f3xima sexta-feira, dia 1\u00ba de novembro, n\u00f3s vamos realizar em Itu o 4\u00ba F\u00f3rum Brasileiro de Turismo.\r\nComo Presidente da Frente Parlamentar Mista em Defesa do Turismo, estou muito otimista, tendo em vista as autoridades que v\u00e3o prestigiar esse evento, como o Ministro do Turismo, Marcelo \u00c1lvaro Ant\u00f4nio; o Secret\u00e1rio Estadual de Turismo Vin\u00edcius Lummertz, que tamb\u00e9m foi Ministro; e tantas outras autoridades, como o Presidente Nacional do SEBRAE, Carlos Melles, que foi colega nosso e tamb\u00e9m Ministro; Prefeitos; gestores municipais e Secret\u00e1rios de Turismo de toda regi\u00e3o. Tamb\u00e9m confirmaram presen\u00e7a dois Vice-Governadores: a L\u00edgia, da Para\u00edba, e o Paco, do Distrito Federal.\r\nA primeira palestra ser\u00e1 ministrada pelo ex-Governador de S\u00e3o Paulo, Geraldo Alckmin, e o encerramento ser\u00e1 feito pelo ex-Presidente da Rep\u00fablica Michel Temer.\r\nA perspectiva em rela\u00e7\u00e3o ao p\u00fablico \u00e9 muito otimista. Espera-se a presen\u00e7a de alunos das universidades, sempre com foco no turismo.\r\nMuito obrigado pela oportunidade de fazer este comunicado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 410/2018, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, R\u00c9U, CONDENA\u00c7\u00c3O CRIMINAL, CONFIRMA\u00c7\u00c3O, SENTEN\u00c7A CONDENAT\u00d3RIA, PRIS\u00c3O, SEGUNDA INST\u00c2NCIA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 410, de 2018, favor\u00e1vel \u00e0 pris\u00e3o do r\u00e9u ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu estou acompanhando agora a PEC que vai julgar a pris\u00e3o em segunda inst\u00e2ncia. Como sou titular da CCJ, quero aqui declarar meu voto na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e tamb\u00e9m no Plen\u00e1rio, quando esse projeto vier para c\u00e1, at\u00e9 porque n\u00f3s entendemos que o Brasil precisa mudar, que a Constitui\u00e7\u00e3o precisa ser mudada. Pris\u00e3o em terceira, quarta inst\u00e2ncia \u00e9 um absurdo, at\u00e9 porque o m\u00e9rito \u00e9 julgado na primeira e segunda inst\u00e2ncias. A terceira inst\u00e2ncia n\u00e3o \u00e9 mais julgamento de m\u00e9rito, e sim constitucional.\r\nPor isso, quem foi julgado em segunda inst\u00e2ncia e condenado tem que ir para cadeia. Essa \u00e9 a minha posi\u00e7\u00e3o. Sou muito firme e vou votar dessa forma.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 48/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, EMENDA INDIVIDUAL, EMENDA IMPOSITIVA, PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, TRANSFER\u00caNCIA, RECURSOS, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL (BRASIL), MUNIC\u00cdPIO, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 48, de 2019, sobre a transfer\u00eancia de recursos federais a Estados, ao Distrito Federal e a Munic\u00edpios mediante emendas ao projeto de lei do or\u00e7amento anual.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidenta Geovania, hoje \u00e9 um dia de muita comemora\u00e7\u00e3o, at\u00e9 porque, como Prefeito que fui, sofri muito com a quest\u00e3o dos repasses da Caixa Econ\u00f4mica para as obras no meu Munic\u00edpio. Hoje, com aprova\u00e7\u00e3o da PEC 48, ser\u00e1 fundo a fundo, ou seja, os repasses n\u00e3o precisar\u00e3o mais passar pela Caixa Econ\u00f4mica Federal. N\u00f3s n\u00e3o teremos que sofrer a interveni\u00eancia daqueles funcion\u00e1rios da Caixa que faziam corpo mole e n\u00e3o passavam os recursos para as obras. Consequentemente, isso ser\u00e1 muito importante para o municipalismo.\r\nComo Presidente da Frente Parlamentar Mista em Defesa dos Munic\u00edpios Brasileiros, eu digo aos Prefeitos: agora n\u00f3s economizaremos 12%, porque a Caixa ficava com o recurso; haver\u00e1 agilidade nas obras, porque o repasse ser\u00e1 fundo a fundo, como \u00e9 o repasse do FPM.\r\nParab\u00e9ns aos Deputados que votaram essa mat\u00e9ria!\r\nParab\u00e9ns ao municipalismo e tamb\u00e9m a todos os gestores municipais!\r\nO recurso chegar\u00e1 rapidamente e quem ganhar\u00e1 com isso ser\u00e1 a popula\u00e7\u00e3o, que ver\u00e1 a obra sendo realizada.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=246&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "OSMAR TERRA, MINISTRO DE ESTADO DA CIDADANIA, VISITA, ITAPETININGA (SP), ITU (SP), SALTO (SP).",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Relato da visita do Ministro da Cidadania, Osmar Terra, aos Munic\u00edpios de Itapetininga, Itu e Salto, no Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, queria registrar a ida do Ministro Osmar Terra \u00e0 nossa regi\u00e3o. Esta semana, ele esteve em Itapetininga, onde inaugurou uma Esta\u00e7\u00e3o da Cidadania numa cidade vizinha \u00e0 minha, que \u00e9 a cidade de Itu. Depois foi a Itu, onde visitou a APAE e o hospital. Ele fez uma palestra sobre preven\u00e7\u00e3o do uso de drogas e foi aplaudido em p\u00e9 numa escola estadual.\r\nDa mesma forma, na cidade vizinha, Salto, ele visitou tamb\u00e9m a cooperativa dos caminhoneiros, porque o Minist\u00e9rio da Cidadania tem um projeto important\u00edssimo, que s\u00e3o as cooperativas que melhoram os custos dos equipamentos, de pneu, de \u00f3leo, de gasolina, de \u00f3leo diesel para os caminhoneiros. Depois, terminou no Centro Universit\u00e1rio Nossa Senhora do Patroc\u00ednio - CEUNSP, em Salto, com uma palestra sobre preven\u00e7\u00e3o de drogas, em que foi aplaudido tamb\u00e9m.\r\nEste \u00e9 um registro relativo ao Ministro, que est\u00e1 trabalhando com intensidade e trazendo resultados positivos para o Brasil.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO, CONTRIBUINTE, COMIT\u00ca GESTOR DAS OBRIGA\u00c7\u00d5ES ACESS\u00d3RIAS DO ISSQN (CGOA), COMPET\u00caNCIA, COMPOSI\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Defesa de aprova\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 461-A, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 31 de julho de 2003. Apelo aos Deputados de comparecimento ao plen\u00e1rio para aprova\u00e7\u00e3o da mat\u00e9ria.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Para proferir parecer. Sem revis\u00e3o do orador.) - Sra. Presidente, nobres Deputados e Deputadas, eu diria que este projeto \u00e9 fundamental para o municipalismo. Acredito que a grande maioria dos Deputados e Deputadas tem interesse em aprovar esta mat\u00e9ria, porque n\u00f3s vamos melhorar a vida do Brasil todo atrav\u00e9s das Prefeituras, que v\u00e3o receber um dinheiro novo, num momento de crise, num momento de dificuldade. Elas receber\u00e3o o ISS - Imposto sobre Servi\u00e7o que incide sobre a cobran\u00e7a de cart\u00e3o de cr\u00e9dito, de cart\u00e3o de d\u00e9bito, de plano de sa\u00fade, de leasing, de factoring e de cons\u00f3rcio. Todos esses servi\u00e7os s\u00e3o prestados no Munic\u00edpio. O ISS hoje vai para a cidade sede do banco. \u00c9 s\u00f3 essa cidade que recebe, e recebe um percentual menor, de 2%. Agora, com a mudan\u00e7a no C\u00f3digo Tribut\u00e1rio em todos os Munic\u00edpios, o percentual passou, em quase todos os Munic\u00edpios, para 5%. Esse recurso vai direto para o Munic\u00edpio onde \u00e9 realizada a opera\u00e7\u00e3o financeira. Isso vai ser justo, porque, se a pessoa est\u00e1 fazendo a movimenta\u00e7\u00e3o financeira no Munic\u00edpio, ela est\u00e1 usando a sa\u00fade no Munic\u00edpio, ela est\u00e1 usando e estragando a rua no Munic\u00edpio, ela est\u00e1 usando todos os servi\u00e7os que o Munic\u00edpio propicia.\r\nConsequentemente, aprovando esta mat\u00e9ria, n\u00f3s vamos derrubar a liminar do Ministro Alexandre de Moraes, que n\u00e3o tem seguran\u00e7a jur\u00eddica, para que a nossa lei, que foi aprovada na C\u00e2mara e no Senado, possa vigorar. E j\u00e1 deveria estar vigorando h\u00e1 muito tempo. Portanto, n\u00f3s temos que aprovar neste ano, porque, se n\u00e3o aprovarmos neste ano, n\u00f3s vamos perder 1 ano de receita para todos os Munic\u00edpios brasileiros!\r\nPor isso, eu pe\u00e7o a todos que venham votar esta mat\u00e9ria, porque ela precisa de qu\u00f3rum qualificado de 257 votos a favor.\r\nEu j\u00e1 conversei com a Lideran\u00e7a do PT, do PSOL, do PCdoB, do Centr\u00e3o, da Direita, da Esquerda. Neste projeto, n\u00e3o pode haver diverg\u00eancia, \u00e9 preciso que a vota\u00e7\u00e3o seja un\u00e2nime, porque o projeto defende todos os Munic\u00edpios brasileiros. Estamos temer\u00e1rios com o qu\u00f3rum de 351 Deputados, porque vamos precisar de 257 votos a favor.\r\nPor isso, quero pedir aos Deputados que est\u00e3o fora da C\u00e2mara que venham votar, que venham dar o seu voto de confian\u00e7a para a sua base, que \u00e9 um Munic\u00edpio e precisa do apoio de todos.\r\nSra. Presidente, quero dizer que este relat\u00f3rio est\u00e1 completo. Os ajustes que tinham que ser feitos foram feitos. Queremos aprovar esta mat\u00e9ria.\r\nObrigado, Presidente Soraya Santos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T21:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO, CONTRIBUINTE, COMIT\u00ca GESTOR DAS OBRIGA\u00c7\u00d5ES ACESS\u00d3RIAS DO ISSQN (CGOA), COMPET\u00caNCIA, COMPOSI\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, EMENDA DE PLEN\u00c1RIO, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), HERCULANO PASSOS, DEPUTADO FEDERAL, ORADOR, PARECER DO RELATOR, LEITURA.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 5, oferecidas ao Projeto de Lei Complementar n\u00ba 461-A, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 31 de julho de 2003.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Para proferir parecer. Sem revis\u00e3o do orador.) - Eu vou ler o relat\u00f3rio.\r\nRespondendo, quero dizer que cada Munic\u00edpio tem a sua autonomia de definir qual \u00e9 o percentual do ISS. E ele tamb\u00e9m vai ser o tomador. N\u00f3s n\u00e3o podemos legislar sobre a al\u00edquota municipal. Cada Munic\u00edpio tem a sua autonomia. E n\u00f3s n\u00e3o estamos subindo nenhum imposto, s\u00f3 estamos mudando o lugar onde se vai receber o imposto, o ISS - Imposto sobre Servi\u00e7os. Vai ser o Munic\u00edpio onde \u00e9 realizada a opera\u00e7\u00e3o financeira. Portanto, estamos muito tranquilos em rela\u00e7\u00e3o a isso.\r\nVou passar agora, Sra. Presidente, a ler o parecer das emendas de plen\u00e1rio.\r\n\"Ao parecer lido em plen\u00e1rio, foram apresentadas cinco emendas de plen\u00e1rio.\r\nDeixamos de acolher a Emenda de Plen\u00e1rio n\u00ba 1, pois entendemos inoportuna a veda\u00e7\u00e3o proposta \u00e0 atribui\u00e7\u00e3o de responsabilidade tribut\u00e1ria pelo Munic\u00edpio, bem como a Emenda de Plen\u00e1rio n\u00ba 4, pois restabelece a obrigatoriedade da ado\u00e7\u00e3o do sistema unificado, reputada inoportuna.\r\nPor outro lado, entendemos que devem ser parcialmente acolhidas as Emendas de Plen\u00e1rio n\u00ba 2, n\u00ba 3 e n\u00ba 5, raz\u00e3o pela qual apresentamos a subemenda substitutiva anexa, que aperfei\u00e7oa, outrossim, a defini\u00e7\u00e3o de tomador, incorporando a ele o crit\u00e9rio da unidade econ\u00f4mica ou profissional, referido no art. 4\u00ba da Lei Complementar n\u00ba 116, de 2003.\r\nDiante do exposto, votamos:\r\n(i) pela constitucionalidade, legalidade, juridicidade, regimentalidade e boa t\u00e9cnica legislativa das Emendas de Plen\u00e1rio n\u00ba 1, n\u00ba 2, n\u00ba 3, n\u00ba 4 e n\u00ba 5, na forma da subemenda substitutiva;\r\n(ii) pela n\u00e3o implica\u00e7\u00e3o da mat\u00e9ria em aumento ou diminui\u00e7\u00e3o da receita ou da despesa da Uni\u00e3o, n\u00e3o cabendo pronunciamento quanto \u00e0 sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria; e,\r\n(iii) no m\u00e9rito, pela aprova\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00ba 2, n\u00ba 3 e n\u00ba 5 e pela rejei\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00ba 1 e n\u00ba 4, na forma da subemenda substitutiva ora apresentada.\"\r\nEssa \u00e9 a leitura do parecer das emendas de plen\u00e1rio, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=127&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T21:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO, CONTRIBUINTE, COMIT\u00ca GESTOR DAS OBRIGA\u00c7\u00d5ES ACESS\u00d3RIAS DO ISSQN (CGOA), COMPET\u00caNCIA, COMPOSI\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, COMISS\u00c3O ESPECIAL, SUBEMENDA SUBSTITUTIVA, PERCENTUAL, HERCULANO PASSOS, DEPUTADO FEDERAL, ORADOR, RELATOR, RETIFICA\u00c7\u00c3O.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Retifica\u00e7\u00e3o do parecer oferecido  pelo orador ao Projeto de Lei Complementar n\u00ba 461-A, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 31 de julho de 2003.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, quero apenas explicar uma coisa, porque houve um erro de reda\u00e7\u00e3o que vai ser corrigido agora. \u00c9 a coisa mais tranquila e simples o que n\u00f3s estamos resolvendo. E o que \u00e9? No projeto inicial, a regra de transi\u00e7\u00e3o era 25%, 50% e 75%, ou seja, 25% no primeiro; 50% no segundo e 75% na transi\u00e7\u00e3o. Ou seja, 25% iriam para todos os Munic\u00edpios; 50% para os Munic\u00edpios sedes e, outros Munic\u00edpios, 75%. Foi modificado o percentual para 33,5% no primeiro ano, para distribuir para todos os Munic\u00edpios; depois, 65,5%...\r\nO SR. PEDRO UCZAI (PT - SC) - Para 66,5%...\r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - ...para o segundo ano; e 85% no terceiro ano. \r\nFoi feito exatamente assim. Por\u00e9m, houve um erro de digita\u00e7\u00e3o quanto aos 85%, pois iriam sobrar 15% para os Munic\u00edpios da sede do banco, e n\u00e3o 25%. Ent\u00e3o, \u00e9 s\u00f3 corrigir essa reda\u00e7\u00e3o, passando o percentual para 15%. \r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - Ou melhor, Deputado Herculano Passos, V.Exa. est\u00e1 retificando verbalmente o relat\u00f3rio. \r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - Exatamente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO, CONTRIBUINTE, COMIT\u00ca GESTOR DAS OBRIGA\u00c7\u00d5ES ACESS\u00d3RIAS DO ISSQN (CGOA), COMPET\u00caNCIA, COMPOSI\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, APROVA\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O, CONFEDERA\u00c7\u00c3O NACIONAL DE MUNIC\u00cdPIOS (CNM), ATUA\u00c7\u00c3O, AGRADECIMENTO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 461-A, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 31 de julho de 2003.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente Soraya.\r\nHoje \u00e9 um dia de muita alegria. Eu diria que \u00e9 uma conquista deste Parlamento.\r\nQuero me dirigir a todos os Prefeitos do Brasil.\r\nPrefeitos, os senhores v\u00e3o receber mais dinheiro agora do que em todas as emendas parlamentares individuais juntas. \u00c9 dinheiro novo. Os senhores n\u00e3o v\u00e3o precisar mais ficar pedindo esmola aqui em Bras\u00edlia, porque t\u00eam direito de receber o ISS sobre a cobran\u00e7a do cart\u00e3o de cr\u00e9dito, do cart\u00e3o de d\u00e9bito, do plano de sa\u00fade, do leasing, do factoring, do cons\u00f3rcio.\r\nTodas essas opera\u00e7\u00f5es s\u00e3o realizadas no Munic\u00edpio, e o Munic\u00edpio tem que legislar sobre sua receita pr\u00f3pria, fazendo a cobran\u00e7a. As pessoas moram no Munic\u00edpio, usam a sa\u00fade do Munic\u00edpio, usam o transporte p\u00fablico, precisam da limpeza das pra\u00e7as e das ruas, e o Munic\u00edpio \u00e9 que gasta o dinheiro. Com este projeto, o Munic\u00edpio vai receber o ISS de tudo que \u00e9 movimentado nos seus limites, que antes ia para o Munic\u00edpio onde o banco tinha sede. Os Munic\u00edpios tur\u00edsticos, al\u00e9m de receberem toda a movimenta\u00e7\u00e3o financeira dos seus moradores, v\u00e3o tamb\u00e9m receber o que \u00e9 gasto pelos turistas que os visitam.\r\nEsse projeto de lei foi resultado de uma constru\u00e7\u00e3o feita pela Confedera\u00e7\u00e3o Nacional de Munic\u00edpios e por Deputados municipalistas. Estou vendo aqui o Deputado Benes Leoc\u00e1dio e tantos outros que lutaram ao nosso lado. O Deputado Hildo Rocha n\u00e3o est\u00e1 aqui agora, mas quero dizer que S.Exa. foi um grande lutador, um Deputado que trabalhou e me ajudou a construir este texto. Quero referenciar tamb\u00e9m o meu amigo Deputado Rubens Bueno, que tamb\u00e9m me ajudou a trabalhar nesse projeto. A Confedera\u00e7\u00e3o Nacional de Munic\u00edpios, que representa todos os Munic\u00edpios do Brasil, ajudou a planejar esse projeto junto conosco, da Frente Parlamentar em Defesa dos Munic\u00edpios.\r\nEste \u00e9 um momento de muita alegria para o Brasil. Fui Prefeito e senti o problema na pele, quando deix\u00e1vamos de receber um recurso que era nosso, que era do Munic\u00edpio. Os Prefeitos precisam atender \u00e0s demandas dos Munic\u00edpios.\r\nParab\u00e9ns ao municipalismo! Parab\u00e9ns ao Brasil!\r\nMuito obrigado, Deputada Soraya, pela oportunidade e pela condu\u00e7\u00e3o dos trabalhos. Corremos um risco. Arriscamos um pouco, mas, se n\u00e3o aprov\u00e1ssemos neste ano, os Munic\u00edpios todos n\u00e3o receberiam os recursos no ano que vem. Esta foi uma grande conquista da C\u00e2mara dos Deputados. Com certeza, quem vai ganhar com isso \u00e9 o mun\u00edcipe, o eleitor, o cidad\u00e3o que precisa dos servi\u00e7os p\u00fablicos realizados nos Munic\u00edpios.\r\nUm forte abra\u00e7o a todos!\r\nEu quero agradecer a todos os Deputados que constru\u00edram esse projeto e que permitiram que, numa segunda-feira, tiv\u00e9ssemos qu\u00f3rum qualificado para fazer esta vota\u00e7\u00e3o.\r\nViva o Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=160&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RETIRADA, DESTAQUE, EMENDA AGLUTINATIVA, PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS).",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Apelo ao PSL e ao NOVO de retirada de requerimentos de destaques e de emenda aglutinativa oferecidos ao Projeto de Lei Complementar n\u00ba 461, de 2017, a respeito do padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza (ISSQN), de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 2003.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer um pedido a este Plen\u00e1rio para que n\u00e3o votemos. Eu pe\u00e7o encarecidamente ao PSL e ao NOVO que retirem os destaques e a emenda aglutinativa do projeto do ISS, que foi aprovado. De 313 Parlamentares, 312 votaram a favor. O texto est\u00e1 redondinho, est\u00e1 aprovado.\r\nEstes destaques v\u00e3o ficar para a semana que vem e podem atrasar, porque t\u00eam que ser votados no Senado, para a lei vigorar no come\u00e7o do ano que vem. Nossa preocupa\u00e7\u00e3o \u00e9 que haja um poss\u00edvel atraso do projeto. \r\nPortanto, pe\u00e7o aos partidos que apresentaram os quatro destaques e a emenda aglutinativa que os retirem.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=278&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DESASTRE AMBIENTAL, MANCHA DE \u00d3LEO, REGI\u00c3O NORDESTE, INVESTIGA\u00c7\u00c3O, COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Relato de atividades da CPI destinada \u00e0 investiga\u00e7\u00e3o das causas e responsabilidades pelo desastre ambiental decorrente do derramamento de petr\u00f3leo no litoral da Regi\u00e3o Nordeste.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria fazer uma manifesta\u00e7\u00e3o.\r\nParabenizo V.Exa., nosso Presidente da C\u00e2mara dos Deputados, por ter instalado, com coragem e determina\u00e7\u00e3o, a CPI que investigar\u00e1 o derramamento de \u00f3leo no Nordeste, a qual, por indica\u00e7\u00e3o do meu partido, o MDB, eu tenho a honra de presidir.\r\nA C\u00e2mara est\u00e1 fazendo sua parte. N\u00f3s teremos audi\u00eancia p\u00fablica amanh\u00e3 e quarta-feira aqui na C\u00e2mara dos Deputados.\r\nNa quinta-feira estaremos em Natal, na Pol\u00edcia Federal, para colher informa\u00e7\u00f5es. Na sexta-feira ocorrer\u00e1 uma audi\u00eancia p\u00fablica no Rio Grande do Norte, na Assembleia Legislativa, onde n\u00f3s ouviremos todos os \u00f3rg\u00e3os de investiga\u00e7\u00e3o.\r\nA C\u00e2mara est\u00e1 fazendo seu papel e, com certeza, vai dar uma resposta \u00e0 sociedade.\r\nSr. Presidente, muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=127&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T22:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "HERCULANO PASSOS, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Balan\u00e7o da atua\u00e7\u00e3o parlamentar do orador na C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO HERCULANO PASSOS.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, com a proximidade do fim do primeiro ano desta Legislatura, quero fazer um r\u00e1pido balan\u00e7o das atividades desenvolvidas at\u00e9 aqui. \r\nRecentemente, fui eleito Presidente da CPI do Derramamento de \u00d3leo.  Esta \u00e9 uma das miss\u00f5es mais importantes que assumi nesta Casa nestes 5 anos como Deputado Federal. Esta CPI tem como objetivo descobrir as causas e punir os poss\u00edveis culpados deste desastre ambiental, que atingiu nosso litoral nordeste e sudeste. Ao fim, queremos ainda apresentar o resultado dos nossos trabalhos ao Governo Federal, no intuito de ajud\u00e1-lo a elaborar estrat\u00e9gias para evitar outros casos como este.   \r\nComo Presidente da Frente dos Munic\u00edpios, assumi a relatoria de plen\u00e1rio do projeto de lei complementar sobre o ISS, que teve seu texto-base aprovado agora em dezembro. Ele trata da distribui\u00e7\u00e3o da arrecada\u00e7\u00e3o deste imposto nas opera\u00e7\u00f5es de cart\u00f5es de cr\u00e9dito e d\u00e9bito, leasing, cons\u00f3rcios, factoring e planos de sa\u00fade. A aprova\u00e7\u00e3o desta mat\u00e9ria vai injetar nos Munic\u00edpios brasileiros milh\u00f5es de reais, pois os recursos arrecadados ser\u00e3o divididos com todo o Brasil, ao contr\u00e1rio do que acontece hoje. Atualmente, o dinheiro vai apenas para as cidades que s\u00e3o sedes das empresas que fazem estas opera\u00e7\u00f5es.\r\nTamb\u00e9m estamos trabalhando para pautar a PEC do aumento de 1% do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios, a ser repassado, anualmente, no m\u00eas de setembro. Aprovamos os crit\u00e9rios para a distribui\u00e7\u00e3o dos recursos da cess\u00e3o onerosa, que s\u00e3o recursos dos royalties do petr\u00f3leo, distribu\u00eddos para todos os Munic\u00edpios brasileiros. \r\nJ\u00e1 como Presidente da Frente do Turismo, estamos comemorando muitas vit\u00f3rias neste 2019. Desde meu primeiro mandato, v\u00ednhamos trabalhando para convencer o Executivo a acabar com a exig\u00eancia de vistos para turistas de alguns pa\u00edses. At\u00e9 agora, o Presidente Bolsonaro j\u00e1 autorizou a libera\u00e7\u00e3o de entrada para visitantes dos Estados Unidos, da Austr\u00e1lia, do Canad\u00e1, do Jap\u00e3o e tem protocolo de inten\u00e7\u00e3o assinado para a libera\u00e7\u00e3o da China, da \u00cdndia e do Catar.\r\nTamb\u00e9m foi assinada h\u00e1 poucos dias a medida provis\u00f3ria que transforma a EMBRATUR de autarquia a ag\u00eancia, o que vai aumentar o or\u00e7amento para a promo\u00e7\u00e3o do Brasil no exterior, sem aumento de gastos para o contribuinte, pois os recursos vir\u00e3o de parcerias com o setor privado, por exemplo. Al\u00e9m disso, a MP tamb\u00e9m p\u00f5em fim a uma luta antiga do setor hoteleiro: ela acaba com a cobran\u00e7a de direitos autorais sobre a programa\u00e7\u00e3o assistida ou ouvida por h\u00f3spedes nos televisores e r\u00e1dios dentro dos quartos de hot\u00e9is. A cobran\u00e7a ser\u00e1 feita apenas nas \u00e1reas comuns destes estabelecimentos. Fa\u00e7o parte da Comiss\u00e3o Especial que trata desta importante medida provis\u00f3ria.\r\nComo coordenador da bancada paulista no Congresso Nacional, neste ano indicamos 120 milh\u00f5es de reais em emendas impositivas para hospitais do nosso Estado. S\u00e3o institui\u00e7\u00f5es como o Hospital das Cl\u00ednicas; o Hospital do Amor, em Barretos; o Hospital Amaral Carvalho, em Ja\u00fa; e o Hospital do Cora\u00e7\u00e3o, em S\u00e3o Paulo. Estas institui\u00e7\u00f5es atendem a pacientes do Brasil todo. Indicamos outros 25 milh\u00f5es de reais para investimentos nas unidades de sa\u00fade da Capital.\r\nDestinamos mais 49,5 milh\u00f5es de reais para as Universidades Federais do ABC, de S\u00e3o Carlos e de S\u00e3o Paulo; para o Instituto Federal e o Instituto Tecnol\u00f3gico da Aeron\u00e1utica e para a UNESP. A agricultura receber\u00e1 22 milh\u00f5es de reais, por meio de investimentos na Empresa Brasileira de Pesquisa Agropecu\u00e1ria - EMBRAPA, que desenvolve tecnologias, conhecimentos e informa\u00e7\u00f5es t\u00e9cnico-cient\u00edficas voltadas para a agricultura e a pecu\u00e1ria brasileiras. J\u00e1 para a \u00e1rea de seguran\u00e7a p\u00fablica destinamos outros 22 milh\u00f5es de reais, que ser\u00e3o investidos no corpo de bombeiros.\r\nAinda poderia falar sobre v\u00e1rias outras atua\u00e7\u00f5es, como meu projeto de lei que prev\u00ea a venda de medicamentos veterin\u00e1rios em farm\u00e1cias populares, com pre\u00e7os at\u00e9 80% menores. Este projeto vai facilitar a vida de quem tem animais de estima\u00e7\u00e3o e ajudar\u00e1 a reduzir zoonoses que podem, inclusive, afetar seriamente os seres humanos.\r\nEu poderia tamb\u00e9m falar do projeto de lei que abre as escolas p\u00fablicas aos fins de semana para a realiza\u00e7\u00e3o de atividades de escotismo, que promovem valores como amizade, responsabilidade, honra, lealdade, coragem, presteza, autoconfian\u00e7a, disciplina e respeito pela natureza. Por falar em escolas, sou autor de um projeto de lei que agrava a pena para quem cometer crimes dentro de unidades de ensino. O endurecimento da puni\u00e7\u00e3o abranger\u00e1 tanto crimes como vandalismo ou roubos, at\u00e9 tr\u00e1fico de drogas e viol\u00eancia f\u00edsica.\r\nQuero terminar dizendo que, nos pr\u00f3ximos 3 anos de mandato, ainda teremos muitas conquistas. Continuarei trabalhando pelo bem do Brasil, em especial pelo bem da popula\u00e7\u00e3o do meu querido Estado de S\u00e3o Paulo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=488&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-16T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "IMPOSTO SOBRE SERVI\u00c7OS DE QUALQUER NATUREZA (ISS), PAUTA (PROCESSO LEGISLATIVO), SUGEST\u00c3O.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta do Projeto de Lei Complementar n\u00ba 461, de 2017,  aceca do  Imposto Sobre Servi\u00e7os de Qualquer Natureza (ISSQN), de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 2003; da institui\u00e7\u00e3o do Comit\u00ea Gestor das Obriga\u00e7\u00f5es Acess\u00f3rias do Imposto Sobre Servi\u00e7os de Qualquer Natureza (CGOA); e da altera\u00e7\u00e3o da referida Lei Complementar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Marcos Pereira, eu gostaria de dizer que \u00e9 important\u00edssimo pautarmos nesta semana, se poss\u00edvel para amanh\u00e3, o projeto do ISS sobre a cobran\u00e7a do cart\u00e3o de cr\u00e9dito, do cart\u00e3o de d\u00e9bito, do plano de sa\u00fade, de leasing, de factoring, de cons\u00f3rcio, porque o recurso s\u00f3 vai entrar no cofre das Prefeituras no ano que vem se for aprovado este ano. Do contr\u00e1rio, vamos perder um ano, e os Munic\u00edpios precisam deste recurso. S\u00e3o 6 bilh\u00f5es de reais. Se o recurso n\u00e3o for aprovado, os bancos \u00e9 que ser\u00e3o beneficiados, e n\u00e3o os Munic\u00edpios brasileiros, a popula\u00e7\u00e3o brasileira.\r\nPortanto, \u00e9 muito importante que esta mat\u00e9ria seja pautada. \r\nEu pe\u00e7o o apoio da Mesa Diretora para que paute este projeto para amanh\u00e3, sem falta.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2019&txPagina=235&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T12:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "GUSTAVO BORGES, EX-ATLETA, PRESIDENTE, ASSOCIA\u00c7\u00c3O BRASILEIRA DE ACADEMIAS (ACAD BRASIL), C\u00c2MARA DOS DEUTADOS, PRESEN\u00c7A.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Presen\u00e7a no plen\u00e1rio do ex-nadador Gustavo Borges, Presidente da ACAD Brasil - Associa\u00e7\u00e3o Brasileira de Academias.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria aqui fazer um registro.\r\nEstou ao lado de um grande atleta que representou o Brasil, o Gustavo Borges. Ele \u00e9 um orgulho para a nossa Na\u00e7\u00e3o e hoje est\u00e1 presidindo a Associa\u00e7\u00e3o Brasileira de Academias - ACAD.\r\nO Brasil \u00e9 o quinto pa\u00eds mais sedent\u00e1rio do mundo, e o Gustavo Borges est\u00e1 fazendo um grande trabalho contra o sedentarismo. Com certeza, n\u00f3s Parlamentares o apoiaremos nesse trabalho, porque o esporte \u00e9 importante para a sa\u00fade e para a confraterniza\u00e7\u00e3o.\r\nQuando eu fui Prefeito em Itu, Gustavo Borges fez l\u00e1 um grande trabalho com o esporte, principalmente com a nata\u00e7\u00e3o. Agora, ele est\u00e1 cuidando das academias e est\u00e1 representando os atletas do Brasil todo que praticam esporte, como tamb\u00e9m est\u00e1 lutando contra o sedentarismo.\r\nParab\u00e9ns, Gustavo Borges! Conte conosco.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA AGLUTINATIVA, PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda Aglutinativa n\u00ba 3, oferecida ao Projeto de Lei Complementar n\u00ba 461, de 2017, sobre o Imposto Sobre Servi\u00e7os de Qualquer Natureza (ISSQN), de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, julho de 2003; a institui\u00e7\u00e3o do Comit\u00ea Gestor das Obriga\u00e7\u00f5es Acess\u00f3rias do Imposto Sobre Servi\u00e7os de Qualquer Natureza (CGOA) e a altera\u00e7\u00e3o da referida Lei Complementar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero encaminhar pelo Governo.\r\nSe aprovarmos este destaque, n\u00f3s vamos tirar a seguran\u00e7a jur\u00eddica do Ministro Alexandre de Moraes. E com certeza, do jeito que foi aprovado o substitutivo, d\u00e1-se a seguran\u00e7a jur\u00eddica para se derrubar essa liminar.\r\nSe fizermos essa modifica\u00e7\u00e3o, vamos tirar a autonomia do Munic\u00edpio. O Munic\u00edpio tem que legislar sobre o ISS, que \u00e9 um imposto municipal. N\u00f3s n\u00e3o podemos fazer essa modifica\u00e7\u00e3o.\r\nEnt\u00e3o, eu vou fazer um pedido aos Parlamentares. N\u00f3s estudamos essa mat\u00e9ria e fizemos um relat\u00f3rio que foi aprovado nesta Casa. Dos 513 Deputados, 312 votaram a favor do substitutivo, e esse destaque vai prejudicar todo o projeto.\r\nPor isso, eu pe\u00e7o...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=319&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, BASE DE APOIO POLITICO, GOVERNO, VOTO FAVORAVEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 2\u00ba do Substitutivo apresentado ao Projeto de Lei Complementar n\u00ba 461, de 2017, sobre o Imposto Sobre Servi\u00e7os de Qualquer Natureza (ISSQN), de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, julho de 2003; a institui\u00e7\u00e3o do Comit\u00ea Gestor das Obriga\u00e7\u00f5es Acess\u00f3rias do Imposto Sobre Servi\u00e7os de Qualquer Natureza (CGOA) e a altera\u00e7\u00e3o da referida Lei Complementar, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero encaminhar pelo Governo. \r\nEu s\u00f3 queria dizer que hoje \u00e9 um dia de vit\u00f3ria para o municipalismo. \u00c9 um dinheiro novo que vai entrar nos cofres das Prefeituras, a partir do ano que vem, se essa mat\u00e9ria for aprovada no Senado Federal, ainda neste ano. Eu estou indo para l\u00e1, junto com o Deputado Rubens Bueno e o Deputado Hildo Rocha, que ajudaram a construir esse texto. Com certeza, se o Senado Federal tiver sensibilidade e votar esta mat\u00e9ria ainda neste ano, a partir do ano que vem, 33,5% de todos esses impostos ir\u00e3o para os cofres das Prefeituras.\r\nQuero agradecer ao Deputado Pedro Uczai, que foi um grande lutador da Oposi\u00e7\u00e3o e contribuiu com o debate e com a constru\u00e7\u00e3o deste projeto. \r\nParab\u00e9ns \u00e0 Confedera\u00e7\u00e3o Nacional de Munic\u00edpios - CNM, aos Munic\u00edpios brasileiros! Hoje \u00e9 um dia de muita alegria. \u00c9 um presente de Natal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=336&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "ITU (SP), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Transcurso do 410\u00ba anivers\u00e1rio de funda\u00e7\u00e3o do Munic\u00edpio de Itu, no Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente JHC, grande amigo, queria fazer um comunicado, at\u00e9 porque foi anivers\u00e1rio da minha cidade de Itu, onde fui Vereador, Prefeito, duas vezes. No dia 2 de fevereiro, a Est\u00e2ncia Tur\u00edstica de Itu completou 410 anos. A cidade \u00e9 conhecida no Brasil todo pela sua hospitalidade. Dizem que tudo \u00e9 grande em Itu, mas a hospitalidade dos ituanos \u00e9 enorme.\r\nEstive com minha esposa, Rita Passos, na missa, em 2 de fevereiro, que tamb\u00e9m \u00e9 o Dia de Nossa Senhora da Candel\u00e1ria. Estivemos juntos comemorando o Dia de Nossa Senhora da Candel\u00e1ria e o anivers\u00e1rio da cidade de Itu, que \u00e9 o ber\u00e7o da Rep\u00fablica. O primeiro Presidente civil brasileiro, Prudente de Morais, \u00e9 ituano. A cidade tem v\u00e1rias nomenclaturas: Fidel\u00edssima, Vale do Sol. \u00c9 uma cidade tur\u00edstica que recebe todo mundo de bra\u00e7os abertos.\r\nParab\u00e9ns, Itu!\r\nMuito obrigado, Sr. Presidente, pela oportunidade de falar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre a institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O Governo encaminha \"sim\", Sr. Presidente, at\u00e9 porque s\u00e3o muito importantes as linhas de cr\u00e9dito para a atividade rural no Brasil, que produz, que leva mantimentos para todos os lugares do mundo. E todo mundo tem a oportunidade de escolher o cr\u00e9dito, tanto dos bancos estatais, como dos bancos particulares.\r\nEnt\u00e3o, o Governo encaminha \"sim\", Sr. Presidente.\r\nO SR. AFONSO MOTTA (PDT - RS) - O Governo n\u00e3o pode votar \"sim\".\r\nO SR. HERCULANO PASSOS (Bloco/MDB - SP) - O Governo encaminha \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , VETO 52/2019, VETO PARCIAL, PLN 51/2019. PROJETO DE LEI DO CONGRESSO NACIONAL, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 51, de 2019, acerca de altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, a respeito das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o Governo entende que, como n\u00f3s estamos num regime presidencialista, o Governo tem que ter a liberdade de gerenciar o seu or\u00e7amento. O Parlamento querer gerenciar 30 bilh\u00f5es de reais de recursos do Governo \u00e9 um absurdo!\r\nEnt\u00e3o, o Governo pede para os Parlamentares votarem pela manuten\u00e7\u00e3o do veto do Sr. Presidente, at\u00e9 porque ele e a sua equipe \u00e9 que t\u00eam que ter a liberdade destinar os recursos, para o bem da sociedade brasileira.\r\nO Governo vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, ADEQUA\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.\r\nDEFESA, VOTA\u00c7\u00c3O, ALTERA\u00c7\u00c3O, LEI DOS DIREITOS AUTORAIS (1998), EXTIN\u00c7\u00c3O, COBRAN\u00c7A, TAXA, ESCRIT\u00d3RIO CENTRAL DE ARRECADA\u00c7\u00c3O E DISTRIBUI\u00c7\u00c3O (ECAD), OBRA LITER\u00c1RIA, OBRA DE ARTE, OBRA CIENT\u00cdFICA, QUARTO DE HOTEL, CABINE DE EMBARCA\u00c7\u00c3O, MPV 948/2020, MEDIDA PROVIS\u00d3RIA, RELA\u00c7\u00d5ES DE CONSUMO, DIRETRIZES, CANCELAMENTO, EVENTO, TURISMO, CULTURA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, CARACTERIZA\u00c7\u00c3O, CASO FORTUITO, CASO DE FOR\u00c7A MAIOR, DIREITO DO CONSUMIDOR.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu aqui quero me colocar como sempre fui: um defensor do turismo.\r\n\u00c9 important\u00edssimo que votemos essa medida provis\u00f3ria. Ela \u00e9 necess\u00e1ria e vai com certeza fortalecer a EMBRATUR, dar condi\u00e7\u00e3o \u00e0 EMBRATUR de divulgar o Brasil fora do Brasil para atrair mais turistas. O momento n\u00e3o \u00e9 oportuno, mas \u00e9 importante que seja feita essa legisla\u00e7\u00e3o para que haja possibilidade de se trabalhar para que melhore essa condi\u00e7\u00e3o.\r\nEu tamb\u00e9m quero parabenizar o Gilson, porque ele lutou muito para que o Presidente mandasse essa medida provis\u00f3ria. E sinto muito, porque apresentei uma emenda para incluir o ECAD, para que n\u00e3o se cobrassem taxas dos apartamentos, dos hot\u00e9is, das navega\u00e7\u00f5es e das embarca\u00e7\u00f5es, mas infelizmente a emenda foi retirada. No entanto, espero que seja votada na Medida Provis\u00f3ria n\u00ba 948 a quest\u00e3o do ECAD.\r\nPe\u00e7o o apoio de todos para que aprovem essa medida provis\u00f3ria e tamb\u00e9m a MP 948, posteriormente, com a inclus\u00e3o da n\u00e3o cobran\u00e7a do ECAD dos apartamentos, hot\u00e9is, embarca\u00e7\u00f5es e navios.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-23T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva, oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB vai encaminhar \"sim\" ao texto, porque foi aperfei\u00e7oado pelo Deputado Juscelino.\r\nEntendemos que a emenda do Deputado Ricardo Silva melhorou o projeto. N\u00f3s a discutiremos adiante, mas eu j\u00e1 quero me posicionar a favor da modifica\u00e7\u00e3o proposta por meio dessa emenda.\r\nO MDB encaminha \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T11:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL, VOTA\u00c7\u00c3O NOMINAL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 33, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro. Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o nominal da Emenda de Plen\u00e1rio n\u00ba 33.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Soraya Santos, o MDB vai encaminhar favor\u00e1vel \u00e0 emenda do Deputado Hildo Rocha, at\u00e9 para manter a transpar\u00eancia das contrata\u00e7\u00f5es, e ele est\u00e1 corrigindo alguns erros da relatoria.\r\nEnt\u00e3o, o MDB est\u00e1 encaminhando a favor da emenda do Deputado Hildo Rocha.\r\nEu quero aproveitar o momento e pedir que seja uma vota\u00e7\u00e3o nominal, Sra. Presidente, porque essa emenda \u00e9 muito importante - que tenhamos vota\u00e7\u00e3o nominal.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=47&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T13:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 10, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu queria, primeiramente, fazer um agradecimento a V.Exa. pela sua atitude em rela\u00e7\u00e3o \u00e0 vota\u00e7\u00e3o anterior. Muito obrigado, Deputada Soraya. V.Exa. conduz t\u00e3o bem este Plen\u00e1rio. \u00c0 frente dessa Presid\u00eancia, V.Exa. sempre faz um grande trabalho. Parab\u00e9ns, Deputada Soraya, pela sua atua\u00e7\u00e3o.\r\nEm rela\u00e7\u00e3o a esta emenda, n\u00f3s do MDB entendemos que o Deputado Ricardo Silva, acertadamente, procurou dar condi\u00e7\u00f5es para que haja um processo de obten\u00e7\u00e3o da carta mais rigoroso, ou seja, com t\u00e9cnicos mais especializados, que, para dar autoriza\u00e7\u00e3o para a carta, precisam fazer especializa\u00e7\u00e3o por meio de cursos. Isso \u00e9 importante, porque a responsabilidade do m\u00e9dico, do psic\u00f3logo ou do psiquiatra que autoriza uma pessoa a dirigir \u00e9 muito grande. Essa autoriza\u00e7\u00e3o n\u00e3o \u00e9 como um atestado m\u00e9dico. Atualmente, qualquer m\u00e9dico pode dar autoriza\u00e7\u00e3o para qualquer um dirigir. N\u00f3s entendemos que isso \u00e9 errado.\r\nPor isso, somos favor\u00e1veis \u00e0 emenda do Deputado Ricardo Silva.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL SUBSTITUTIVO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 261, da Lei n\u00ba 9.503, de 1997, constante do art. 1\u00ba do substitutivo apresentado ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB se coloca contra a emenda e vota \"sim\" ao texto, at\u00e9 porque o limite de 40 pontos \u00e9 importante; 20 pontos \u00e9 muito pouco. Muita gente perde a carteira por pouca coisa que acontece no tr\u00e2nsito.\r\nEnt\u00e3o, n\u00f3s somos a favor do texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=223&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), VOTO FAVOR\u00c1VEL. \r\nPRORROGA\u00c7\u00c3O, ELEI\u00c7\u00c3O MUNICIPAL.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do inciso I, do caput do art. 261, da Lei n\u00ba 9.503, de 1997, e, por decorr\u00eancia, dos \u00a7\u00a7 3\u00ba e 5\u00ba do mesmo art., na reda\u00e7\u00e3o dada pelo art. 1\u00ba do substitutivo oferecido ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro. Posicionamento do orador contr\u00e1rio \u00e0 prorroga\u00e7\u00e3o das elei\u00e7\u00f5es municipais de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (Bloco/MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o MDB encaminha \"sim\" ao texto, porque entende que o texto foi atualizado, melhorado, e que n\u00f3s temos que acompanhar a modernidade.\r\nQuero aproveitar estes segundos, Sr. Presidente, para dizer que n\u00f3s iremos discutir e votar a quest\u00e3o do calend\u00e1rio eleitoral. Eu j\u00e1 quero colocar que sou favor\u00e1vel \u00e0s elei\u00e7\u00f5es no dia 4 de outubro, at\u00e9 porque n\u00f3s queremos que esta pandemia n\u00e3o nos prejudique mais. Se prorrogarem as elei\u00e7\u00f5es, vai haver mais tempo de campanha, e vamos estar incentivando a pandemia. Ent\u00e3o, somos favor\u00e1veis ao calend\u00e1rio eleitoral do dia 4 de outubro, a que as elei\u00e7\u00f5es sejam realizadas nessa \u00e9poca.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=236&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-11-18T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VOTO CONTR\u00c1RIO, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 993/2020, MEDIDA PROVIS\u00d3RIA,",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Registro de voto do orador contr\u00e1rio ao requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 993, de 2020, sobre a prorroga\u00e7\u00e3o de contratos por tempo determinado no \u00e2mbito do Instituto Nacional de Coloniza\u00e7\u00e3o e Reforma Agr\u00e1ria - INCRA.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HERCULANO PASSOS (MDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu sofri um acidente 3 meses atr\u00e1s, peguei uma licen\u00e7a, e esta \u00e9 primeira sess\u00e3o aqui na C\u00e2mara de que participo depois do acidente. No meu celular, o sistema de vota\u00e7\u00e3o est\u00e1 sendo atualizado agora, mas eu queria registrar aqui o meu voto \"n\u00e3o\" \u00e0 retirada de pauta da Medida Provis\u00f3ria n\u00ba 993, de 2020.\r\nEnt\u00e3o, eu queria s\u00f3 fazer esse comunicado. Gostaria que a Mesa registrasse o voto.\r\nJ\u00e1 vou fazer o registro de presen\u00e7a neste momento, porque estamos preparando o processo de atualiza\u00e7\u00e3o do celular.\r\nMuito obrigado, Sr. Presidente.\r\nO SR. PRESIDENTE (Jo\u00e3o Roma. REPUBLICANOS - BA) - N\u00f3s que agradecemos a V.Exa. Ficamos muito felizes com o seu pronto restabelecimento e com o seu retorno ao nosso conv\u00edvio. O seu pedido ser\u00e1 acatado, mas, para tanto, gostaria que V.Exa. manifestasse como \u00e9 o seu voto. \r\nO SR. HERCULANO PASSOS (MDB - SP) - Voto \"n\u00e3o\", Sr. Presidente, \u00e0 retirada de pauta.\r\nO SR. PRESIDENTE (Jo\u00e3o Roma. REPUBLICANOS - BA) - Muito obrigado, Deputado Herculano Passos. Seja muito bem-vindo \u00e0 C\u00e2mara dos Deputados. \r\nO SR. HERCULANO PASSOS (MDB - SP) - Obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F11%2F2020&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-11-18T16:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELEI\u00c7\u00d5ES, CR\u00cdTICA, URNA ELETR\u00d4NICA, FRAUDE, ELEI\u00c7\u00c3O MUNICIPAL, HACKER, DEFESA, VOTO IMPRESSO.",
+        "nomeDeputado": "Herculano Passos",
+        "sumario": "Convic\u00e7\u00e3o do orador na ocorr\u00eancia de fraudes em urnas de vota\u00e7\u00e3o eletr\u00f4nica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. HERCULANO PASSOS (MDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer um pronunciamento em rela\u00e7\u00e3o a se acredito ou n\u00e3o na urna eletr\u00f4nica. De forma bem tranquila, quero mostrar aqui o meu posicionamento e dizer que n\u00e3o acredito na urna eletr\u00f4nica, n\u00e3o confio na urna eletr\u00f4nica. Quando n\u00f3s suspeitamos, \u00e9 uma coisa; agora, quando temos certeza de que foi \"hackeada\", de que foi fraudada e conseguimos falar com essa confian\u00e7a, ficamos muito tranquilos.\r\nAntes da elei\u00e7\u00e3o, l\u00e1 na minha cidade, que eu acompanhei, na \u00faltima semana, fizemos v\u00e1rias pesquisas e vimos que a candidata nossa estava \u00e0 frente, em todas as pesquisas, de metodologias diferentes. A\u00ed foi feita uma pesquisa de boca de urna, por uma institui\u00e7\u00e3o de credibilidade da cidade. A nossa candidata estava na frente. O que aconteceu? Quando se abriu a urna, viu-se que o candidato oposicionista disparou na frente. Isso, para mim, \u00e9 fraude, \u00e9 \"hackeamento\", em alguns lugares. Eu tenho certeza disso.\r\nN\u00f3s aprovamos aqui, na legislatura passada, o voto impresso, um projeto do Presidente Jair Bolsonaro. Infelizmente, fomos surpreendidos pelo Supremo Tribunal Federal, que n\u00e3o aceitou essa vota\u00e7\u00e3o, a aprova\u00e7\u00e3o dessa legisla\u00e7\u00e3o nesta Casa de Leis. Agora n\u00e3o temos para quem reclamar, n\u00e3o temos como investigar e como saber se houve fraude ou n\u00e3o. Ent\u00e3o, fica o dito pelo n\u00e3o dito. Mas eu estou muito convicto de que n\u00f3s estamos passando por um momento de fraude eleitoral aqui no nosso Pais.\r\nO meu pronunciamento \u00e9 de rep\u00fadio \u00e0 urna eletr\u00f4nica. N\u00f3s temos que rever esta forma de vota\u00e7\u00e3o neste Pa\u00eds.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F11%2F2020&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

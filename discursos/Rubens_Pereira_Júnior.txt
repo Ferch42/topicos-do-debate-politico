@@ -1,0 +1,326 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DECIS\u00c3O JUDICIAL, TRIBUNAL DE CONTAS DA UNI\u00c3O (TCU), SUSPENS\u00c3O, DUPLICA\u00c7\u00c3O, BR-135, RODOVIA FEDERAL, MARANH\u00c3O, PROTESTO. .",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Suspens\u00e3o, pelo Tribunal de Contas da Uni\u00e3o - TCU, das obras de duplica\u00e7\u00e3o da BR-135 no Estado do Maranh\u00e3o. Atua\u00e7\u00e3o da bancada federal maranhense em prol da retomada da duplica\u00e7\u00e3o da rodovia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Sem revis\u00e3o do orador.) - Agrade\u00e7o a V.Exa., Sra. Presidente.\r\nEu gostaria apenas de registrar a decis\u00e3o do Tribunal de Contas da Uni\u00e3o, que cautelarmente suspendeu as obras de duplica\u00e7\u00e3o da BR-135, no Maranh\u00e3o. O motivo - pasmem, Srs. Deputados - \u00e9 que o projeto est\u00e1 desatualizado. Isso chega a ser ofensivo, Sra. Presidente!\r\nH\u00e1 uma emenda parlamentar impositiva da bancada do Maranh\u00e3o, e a responsabilidade, neste caso, \u00e9 \u00fanica e exclusiva do DNIT. Portanto, estamos aqui para reiterar a cobran\u00e7a ao Minist\u00e9rio dos Transportes e ao DNIT, a fim de que atualize o projeto.\r\nA bancada do Maranh\u00e3o atuar\u00e1 unida em defesa das causas do nosso Estado e, especialmente neste momento, para que haja a duplica\u00e7\u00e3o da BR-135.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=40&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, MPV 852/2018, MEDIDA PROVISORIA, FAVORAVEL.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 22, inserido no art. 6\u00ba da Medida Provis\u00f3ria n\u00ba 852, de 2018, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA) - Sr. Presidente, uma quest\u00e3o de ordem: s\u00e3o dois ou tr\u00eas a fazer encaminhamento?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Estamos no inciso I, Deputado.\r\nOrienta\u00e7\u00e3o de bancada.\r\nO SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA) - Sr. Presidente, pe\u00e7o a palavra para quest\u00e3o de ordem, com base no art. 192, \u00a7 1\u00ba.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Est\u00e1 bem. \r\nQuem \u00e9 o segundo orador?(Pausa.)\r\nO SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA) - Agrade\u00e7o, Sr. Presidente.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Tem a palavra o Deputado Rubens Pereira J\u00fanior.\r\nO SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, a quem pe\u00e7o a aten\u00e7\u00e3o, como liberal convicto que \u00e9, nobres colegas Deputados, imprensa, galerias, funcion\u00e1rios da Casa, h\u00e1 um fundo para gerir todo o Regime Geral da Previd\u00eancia Social. Esse fundo deve fazer investiga\u00e7\u00e3o preferencialmente a longo prazo, afinal de contas, estamos falando de previd\u00eancia. Um dos mais importante investimentos a longo prazo que a iniciativa privada utiliza \u00e9 investimento em im\u00f3veis. E o Regime Geral da Previd\u00eancia tamb\u00e9m assim o faz e tem, dentro de seus ativos, diversos im\u00f3veis.\r\nQual o desejo do Governo? Quer praticamente acabar com os investimentos em im\u00f3veis do Regime Geral da Previd\u00eancia e dar uma compensa\u00e7\u00e3o financeira, um trocado, que se acabar\u00e1 daqui para ali. Ou n\u00e3o \u00e9 assim, Sras. e Srs. Deputados?\r\nA iniciativa privada, se for investir a longo prazo, vai investir preferencialmente em im\u00f3veis. O texto da lei diz \"poder\u00e3o ser transferidos\". N\u00e3o se enganem: onde est\u00e1 dito \"poder\u00e3o ser transferidos\", ser\u00e3o transferidos. N\u00f3s n\u00e3o podemos permitir que o Regime Geral da Previd\u00eancia Social, que j\u00e1 \u00e9 deficit\u00e1rio, deixe de constar com investimento em im\u00f3veis. \r\nEu duvido que os Sras. e Srs. Parlamentares, especialmente os mais bem aquinhoados, quando t\u00eam um dinheiro para investir a longo prazo, n\u00e3o invistam em im\u00f3veis. A declara\u00e7\u00e3o de Imposto de Renda de todos n\u00f3s \u00e9 p\u00fablica. Ora, ent\u00e3o isso vale na vida de todos n\u00f3s, nas rela\u00e7\u00f5es privadas, mas n\u00e3o deve valer para o Regime Geral da Previd\u00eancia? O que diz a Lei n\u00ba 13.240, de 2015, no seu art. 22? Diz que, havendo im\u00f3vel sem uso ou com uso irregular, a Uni\u00e3o poder\u00e1 adquiri-los e compensar o fundo. Se o im\u00f3vel estiver sem uso ou com uso irregular, a Uni\u00e3o pode, sim, compensar o fundo - est\u00e1 certo -, mas proibir, dilapidar, abrir a porteira para que o Regime Geral n\u00e3o possa fazer investimento em im\u00f3veis \u00e9 um atentado.\r\nEu pe\u00e7o a aten\u00e7\u00e3o em especial dos liberais, para que n\u00e3o digam que para o mercado vale uma coisa e para o Poder P\u00fablico, outra. Proibir o investimento em im\u00f3veis \u00e9 dilapidar o patrim\u00f4nio do Fundo de Regime Geral da Previd\u00eancia, o que \u00e9 um atentado contra seus filiados, que s\u00e3o justamente os mais pobres.\r\nSr. Presidente, mantenhamos a reda\u00e7\u00e3o de hoje e permitamos que o Fundo de Regime Geral da Previd\u00eancia possa contar com im\u00f3veis.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=243&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T10:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OSMAR FILHO, VEREADOR, S\u00c3O LU\u00cdS (MA), PLEN\u00c1RIO DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Presen\u00e7a, na Casa, do Vereador Osmar Filho, Presidente da C\u00e2mara Municipal de S\u00e3o Lu\u00eds, Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero aproveitar a oportunidade para registrar a presen\u00e7a, entre n\u00f3s, do Presidente da C\u00e2mara Municipal de S\u00e3o Lu\u00eds, Vereador Osmar Filho. Essa C\u00e2mara completa 400 anos este ano e certamente contar\u00e1 com o apoio de toda a bancada federal maranhense no Congresso Nacional. \r\nRegistro, portanto, a ilustre presen\u00e7a do Vereador Osmar Filho.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=59&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PAUTA, PDL 3/2019, PROJETO DE DECRETO LEGISLATIVO, PARTIDO COMUNISTA DO BRASIL (PC DO B), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Decreto Legislativo n\u00ba 3, de 2019, sobre a susta\u00e7\u00e3o da aplica\u00e7\u00e3o do Decreto n\u00ba 7.724, de 2012, acerca da delega\u00e7\u00e3o da compet\u00eancia de classifica\u00e7\u00e3o de informa\u00e7\u00f5es p\u00fablicas nos graus de sigilo ultrassecreto ou secreto.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, esta \u00e9 a oportunidade de votarmos a susta\u00e7\u00e3o do decreto. E o decreto, tanto no m\u00e9rito quanto no seu aspecto formal, deve ser rejeitado. No m\u00e9rito, porque dificulta o acesso ilimitado \u00e0 transpar\u00eancia. Quem tem medo da transpar\u00eancia deve estar fazendo alguma coisa errada. Portanto, \u00e9 indispens\u00e1vel que n\u00f3s votemos no sentido de ampliar, ao m\u00e1ximo, a transpar\u00eancia na gest\u00e3o p\u00fablica.\r\nNeste caso, o decreto contraria a lei. A lei tem um esp\u00edrito de dar publicidade. O decreto, infelizmente, permite que at\u00e9 mesmo alguns servidores, com cargos comissionados, decretem o sigilo de alguns documentos. Quando o decreto fere o esp\u00edrito da lei, esta Casa deve se posicionar e sustar o decreto do Poder Executivo, porque ele exorbita o poder de regulamentar.\r\nPor isso que no m\u00e9rito temos que derrubar este decreto do Poder Executivo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, CONTRA, JOICE HASSELMANN, DEPUTADA FEDERAL, CR\u00cdTICA.\r\nREFORMA PREVIDENCI\u00c1RIA, CONTR\u00c1RIO.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Contesta\u00e7\u00e3o \u00e0s declara\u00e7\u00f5es da Deputada Joice Hasselmann ofensivas ao Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino. Cr\u00edticas \u00e0 proposta de emenda \u00e0 Constitui\u00e7\u00e3o sobre a reforma previdenci\u00e1ria, encaminhada \u00e0 Casa pelo Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, a Deputada Joice, em vez de tentar defender a proposta da reforma da Previd\u00eancia, que tira direitos dos trabalhadores, que piora as condi\u00e7\u00f5es para que consiga a aposentadoria o trabalhador rural, o servidor p\u00fablico, os professores, os policiais, tenta agredir o Governador Fl\u00e1vio Dino, at\u00e9 mesmo insinuando que ele teria se aposentado como juiz em condi\u00e7\u00f5es especiais.\r\nEla desconhece que, no Maranh\u00e3o, o juiz, para fazer pol\u00edtica, pede exonera\u00e7\u00e3o do cargo, sem aposentadoria nenhuma. O erro ocorre quando o juiz vai fazer pol\u00edtica usando a toga para perseguir os outros. Quanto a isso, ela sabe o que acontece, e acontece muito.\r\nQuem \u00e9 a Deputada Joice para falar da previd\u00eancia do Maranh\u00e3o? N\u00f3s procuramos debater a PEC que chegou aqui hoje. E eu duvido que este Plen\u00e1rio aprove essa proposta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=173&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOSPITAL P\u00daBLICO, MAT\u00d5ES DO NORTE (MA), FECHAMENTO, REFORMA, ESCLARECIMENTO, EDIL\u00c1ZIO J\u00daNIOR, DEPUTADO FEDERAL. \r\nRODOVIA FEDERAL, MARANH\u00c3O, RECUPERA\u00c7\u00c3O, BR 135.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Informa\u00e7\u00e3o ao Deputado Edil\u00e1zio J\u00fanior sobre o motivo do fechamento do Hospital Regional de Mat\u00f5es do Norte, no Estado do Maranh\u00e3o. Empenho da bancada federal maranhense na recupera\u00e7\u00e3o da BR-135. Lentid\u00e3o das obras da BR-226. Precariedade das rodovias federais no Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Deputado Edil\u00e1zio J\u00fanior comentou sobre o fechamento de um hospital na cidade de Mat\u00f5es do Norte. Quero tranquiliz\u00e1-lo, porque haver\u00e1 apenas uma reforma nesse hospital. O Governador Fl\u00e1vio Dino \u00e9 um Governador que j\u00e1 construiu oito hospitais macrorregionais, que est\u00e1 entregando o Hospital da Crian\u00e7a, em S\u00e3o Lu\u00eds, al\u00e9m do novo Hospital do Servidor, que tem investido com seriedade na sa\u00fade p\u00fablica do Maranh\u00e3o.\r\nFalando em Mat\u00f5es do Norte, Sr. Presidente, tenho de registrar que \u00e9 interesse de toda a bancada federal do Maranh\u00e3o lutar pela recupera\u00e7\u00e3o imediata da BR-135, tanto no trecho rec\u00e9m-duplicado quanto no trecho \u00e0 frente, de Miranda at\u00e9 o Povoado de Caxuxa. O trecho est\u00e1 intrafeg\u00e1vel. Isso \u00e9 um verdadeiro descaso. Ou n\u00f3s aumentamos o tom na cobran\u00e7a ao Governo Federal, ou infelizmente o Maranh\u00e3o continuar\u00e1 tendo as piores rodovias federais de todo o nosso Pa\u00eds. Em rela\u00e7\u00e3o \u00e0 BR-226, a obra est\u00e1 a passos de tartaruga. A emenda de bancada impositiva foi garantida, e a empresa n\u00e3o a conclui. Est\u00e1 feita a cobran\u00e7a.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=220&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 16 da Lei n\u00ba 12.414, de 2011, com a reda\u00e7\u00e3o dada pelo art. 2\u00ba do Substitutivo apresentado ao Projeto de Lei Complementar n\u00ba 441, de 2017, sobre os cadastros positivos de cr\u00e9dito e a regula\u00e7\u00e3o da responsabilidade civil dos operadores.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (Bloco/PCdoB - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, passemos \u00e0 discuss\u00e3o do projeto.\r\nHoje, Sras. Deputadas e Srs. Deputados, j\u00e1 h\u00e1 um cadastro. J\u00e1 h\u00e1 um cadastro positivo. E ele \u00e9 opcional: se o consumidor desejar se alistar nesse cadastro, para, eventualmente, ter alguns benef\u00edcios, a lei j\u00e1 prev\u00ea. O que o projeto altera? O que \u00e9 uma op\u00e7\u00e3o passar\u00e1 a ser a regra; e o cadastro passar\u00e1 a ser impositivo. O nome Cadastro Positivo \u00e9 equivocado. O nome deveria ser \"cadastro impositivo\". \r\nMas qual \u00e9 a quest\u00e3o? Esses dados s\u00e3o muito importantes para qualquer um, inclusive do ponto de vista econ\u00f4mico. Voc\u00ea saber\u00e1 absolutamente tudo sobre a vida de todos os consumidores: extrato banc\u00e1rio, cart\u00e3o de cr\u00e9dito, conta de telefone. Voc\u00ea ter\u00e1 acesso a todas essas informa\u00e7\u00f5es.\r\nA pergunta que fa\u00e7o aos Srs. e \u00e0s Sras. Parlamentares: o detentor dessas informa\u00e7\u00f5es deve ser responsabilizado duramente ou de forma frouxa?\r\nO combate \u00e0 corrup\u00e7\u00e3o, t\u00e3o pregado aqui, s\u00f3 alcan\u00e7ar\u00e1 os pretos e os pobres ou deve alcan\u00e7ar tamb\u00e9m os grandes banqueiros e quem opera no sistema financeiro?\r\nEssa \u00e9 a resposta que d\u00e1 este destaque em espec\u00edfico. O destaque diz o seguinte: o banco de dados, a fonte e o consulente s\u00e3o respons\u00e1veis, objetiva e solidariamente, pelos danos materiais e morais que causaram ao cadastrado. O projeto quer flexibilizar isso para dizer que, se houver algum problema no vazamento dessas informa\u00e7\u00f5es, no furto dessas informa\u00e7\u00f5es, a apura\u00e7\u00e3o da responsabilidade vai ser mais frouxa.\r\nO que justifica afrouxar na apura\u00e7\u00e3o de responsabilidade de quem vai guardar esses dados? Essa \u00e9 a pergunta que o Plen\u00e1rio deve responder. O banco de dados, a fonte e quem consulta esses dados de todos consumidores devem responder severamente ou frouxamente?\r\nO nosso destaque visa a esse endurecimento. O objetivo \u00e9 deixar claro que essa \u00e9 uma atividade de risco, para esses grandes empres\u00e1rios n\u00e3o botarem essas informa\u00e7\u00f5es na m\u00e3o de qualquer terceirizada, sem nenhuma responsabilidade, porque a responsabiliza\u00e7\u00e3o os alcan\u00e7ar\u00e1.\r\nPortanto, Sras. e Srs. Deputados, acolhamos este destaque, endure\u00e7amos a responsabiliza\u00e7\u00e3o contra quem vai guardar as informa\u00e7\u00f5es dos consumidores.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=238&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T20:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 2633/2020, PROJETO DE LEI ORDINARIA, PARTIDO COMUNISTA DO BRASIL ( PC DO B).\r\nRUBENS PEREIRA J\u00daNIOR, EX-SECRETARIO DE ESTADO,  MARANH\u00c3O, BALAN\u00c7O, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Agradecimento ao Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino, pelo exerc\u00edcio dos cargos de Secret\u00e1rio de Estado das Cidades e Desenvolvimento Urbano e de Secret\u00e1rio de Estado de Articula\u00e7\u00e3o Pol\u00edtica. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do caput do art. 13 da Lei n\u00ba 11.952, de 2009, na reda\u00e7\u00e3o proposta pelo art. 2\u00ba do Substitutivo oferecido ao Projeto de Lei n\u00ba 2.633, de 2020, sobre a regulariza\u00e7\u00e3o fundi\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro quero dizer que \u00e9 uma enorme alegria estar de volta ao mandato.\r\nAgrade\u00e7o ao Governador Fl\u00e1vio Dino pela experi\u00eancia de ter sido Secret\u00e1rio das Cidades e Desenvolvimento Urbano, inclusive tratando da pauta de regulariza\u00e7\u00e3o fundi\u00e1ria. Fui tamb\u00e9m Secret\u00e1rio de Articula\u00e7\u00e3o Pol\u00edtica. Tive ainda a experi\u00eancia de ter sido candidato a Prefeito da minha cidade e a experi\u00eancia de ter vencido um c\u00e2ncer.\r\nIsso me mudou como homem e me torna ainda mais preparado para exercer esse mandato. E reencontrar os pares, com tantas pautas boas no segundo semestre, enche-me de alegria e de energia para essa luta.\r\nNessa mat\u00e9ria, o PCdoB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 2633/2020, PROJETO DE LEI ORDINARIA, PARTIDO COMUNISTA DO BRASIL (PC DO B),  VOTO FAVORAVEL.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 18, apresentada ao Projeto de Lei n\u00ba 2.633, de 2020, sobre a regulariza\u00e7\u00e3o fundi\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s somos favor\u00e1veis a todo o processo de regulariza\u00e7\u00e3o fundi\u00e1ria. A regulariza\u00e7\u00e3o fundi\u00e1ria vem reconhecer o direito de quem j\u00e1 est\u00e1 ali, para que possa ter a situa\u00e7\u00e3o jur\u00eddica esclarecida, mas h\u00e1 um por\u00e9m. E se tal pessoa tiver cometido desmatamento naquela \u00e1rea? Ainda assim ela tem que ser beneficiada com a regulariza\u00e7\u00e3o fundi\u00e1ria? A nosso ver, a resposta \u00e9 negativa. Se ela praticou o desmatamento, ela n\u00e3o pode ser benefici\u00e1ria do direito \u00e0 regulariza\u00e7\u00e3o fundi\u00e1ria. A emenda ainda prev\u00ea que basta ela acessar o Programa de Regulariza\u00e7\u00e3o Ambiental ou fazer um TAC, que ela estar\u00e1 contemplada.\r\nN\u00f3s n\u00e3o queremos prejudicar, mas prestigiar, premiar aquela pessoa que vem cometendo desmatamento com a regulariza\u00e7\u00e3o fundi\u00e1ria seria um contrassenso.\r\nPortanto, a orienta\u00e7\u00e3o do PCdoB \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 2633/2020, PROJETO DE LEI ORDINARIA, PARTIDO COMUNISTA DO BRASIL (PC DO B),  VOTO FAVORAVEL.\r\nJAIR BOLSONARO, PRESIDENTE DA REPUBLICA, CRITICA, FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O,  RECUPERA\u00c7\u00c3O, RODOVIA FEDERAL, PROTESTO.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 14, apresentada ao Projeto de Lei n\u00ba 2.633, de 2020, sobre a regulariza\u00e7\u00e3o fundi\u00e1ria. Natureza preconceituosa da resposta do Presidente Jair Bolsonaro \u00e0 proposta do Governador Fl\u00e1vio Dino de estabelecimento de parceria com o Governo Federal para recupera\u00e7\u00e3o da malha rodovi\u00e1ria federal maranhense.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PCdoB vota \"sim\".\r\nEu queria aproveitar para registrar um fato lament\u00e1vel ocorrido no dia de hoje. O Governador Fl\u00e1vio Dino apresentou uma proposta de parceria com o Governo Federal com o objetivo de recuperar as BR do Maranh\u00e3o. Com muita dificuldade, n\u00f3s j\u00e1 vimos requalificando as MA e vimos, atrav\u00e9s do Programa Mais Asfalto, ajudando os Munic\u00edpios. Tamb\u00e9m nos colocamos \u00e0 disposi\u00e7\u00e3o para ajudar o Governo Federal. Afinal de contas, a situa\u00e7\u00e3o no Maranh\u00e3o hoje \u00e9 de intrafegabilidade nas BRs.\r\nComo respondeu o Presidente da Rep\u00fablica, Jair Bolsonaro? Ele respondeu com desdenho, ele respondeu com preconceito, ele respondeu com gordofobia. N\u00e3o \u00e9 essa a atitude que esperamos de um Presidente da Rep\u00fablica, em especial quando o momento \u00e9 de parcerias. Deixamos as quizilas eleitorais de lado para qu\u00ea? Com um prop\u00f3sito: trabalhar a favor do povo. Mas, infelizmente, n\u00e3o \u00e9 esse o objetivo do Presidente da Rep\u00fablica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ARTHUR LIRA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, PAUTA (PROCESSO LEGISLATIVO),  PROJETO DE LEI ORDIN\u00c1RIA, DEMARCA\u00c7\u00c3O,  \u00c1REA DE PRESERVA\u00c7\u00c3O PERMANENTE (APP), CURSO DE \u00c1GUA, AREA URBANA, DEFESA.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Aplausos ao Presidente Arthur Lira pela decis\u00e3o de inclus\u00e3o na pauta de projeto de lei a respeito da regulamenta\u00e7\u00e3o de faixas marginais de curso d'\u00e1gua em \u00e1reas urbanas e regi\u00f5es metropolitanas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Arthur, o STJ e o Judici\u00e1rio podem muito, mas eles n\u00e3o podem tudo.\r\nO SR. PRESIDENTE (Arthur Lira. PP - AL) - \u00c9 claro.\r\nO SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA) - O poder mais importante \u00e9 o poder de pauta, que inclusive V.Exa. det\u00e9m. Quando V.Exa. diz que vai pautar o projeto, para regularizar a situa\u00e7\u00e3o, h\u00e1 um entendimento no plen\u00e1rio - Governo, Oposi\u00e7\u00e3o e todo mundo na mesma dire\u00e7\u00e3o.\r\nQuero parabenizar V.Exa. pela iniciativa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-04T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ALEXANDRE DE MORAES, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, INCLUS\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, INQU\u00c9RITO, NOT\u00cdCIA FALSA (FAKE NEWS).",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Inclus\u00e3o do Presidente Jair Bolsonaro no Inqu\u00e9rito n\u00ba 4.781, o chamado inqu\u00e9rito das fake news, pelo Ministro do Supremo Tribunal Federal, Alexandre de Moraes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero chamar a aten\u00e7\u00e3o desta Casa, porque o Ministro Alexandre de Moraes, do Supremo Tribunal Federal, acabou de transformar o Presidente Jair Bolsonaro em investigado no Inqu\u00e9rito n\u00ba 4.781.\r\n\u00c9 impressionante o rol de crimes que ser\u00e3o investigados pelo Supremo Tribunal Federal. Onde se abre o C\u00f3digo Penal, h\u00e1 uma conduta delituosa por parte do Presidente da Rep\u00fablica. Vejamos: \"As condutas noticiadas, portanto, configuram, em tese, os crimes previstos nos arts. 138 (cal\u00fania), 139 (difama\u00e7\u00e3o), 140 (inj\u00faria), 286 (incita\u00e7\u00e3o ao crime), 287 (apologia ao crime ou criminoso), 288 (associa\u00e7\u00e3o criminosa), 339 (denuncia\u00e7\u00e3o caluniosa)\". Esses s\u00e3o os fatos investigados do Presidente da Rep\u00fablica.\r\nProssigamos: \"(...) bem como os delitos previstos nos arts. 17, 22, I, e 23, I, da Lei de Seguran\u00e7a Nacional (...) e o previsto no art. 326-A da Lei 4.737/65 (C\u00f3digo Eleitoral)\".\r\nSabe qual \u00e9 o futuro desse inqu\u00e9rito, Sr. Presidente? Ele ir\u00e1 ser transformado possivelmente numa den\u00fancia, e esta Casa ter\u00e1 a obriga\u00e7\u00e3o de afastar o Presidente da Rep\u00fablica enquanto durar o processo.\r\nPortanto, \u00e9 um fato grave que esta Casa deve acompanhar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SOLICITA\u00c7\u00c3O, MESA DIRETORA DA C\u00c2MARA DOS DEPUTADOS, DISCURSO DADO COMO LIDO, DISCURSO PARLAMENTAR, DEPARTAMENTO DE TAQUIGRAFIA, REVIS\u00c3O E REDA\u00c7\u00c3O (DETAQ).",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Consulta \u00e0 Presid\u00eancia sobre a possibilidade encaminhamento, pelos Parlamentares, de discursos dados como lidos digitalizados ao Departamento de Taquigrafia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu queria fazer um pedido \u00e0 Mesa, se V.Exa. permitir.\r\nSr. Presidente, com as mudan\u00e7as no Regimento, mudou a ordem de fala da Casa. E eu pe\u00e7o permiss\u00e3o a V.Exa., porque eu estou retornando ao mandato agora. E hoje tem um instituto, digamos assim, que n\u00e3o consta no Regimento.\r\nNa verdade, nunca constou. Trata-se do dar por lido, que \u00e9 t\u00e3o somente a manifesta\u00e7\u00e3o escrita, p\u00fablica, oficial do Parlamentar. Hoje, conforme o SDR, n\u00e3o temos essa possibilidade. Eu queria pedir \u00e0 Mesa Diretora que avaliasse, por resolu\u00e7\u00e3o, se for o caso, permitir que o Parlamentar possa se manifestar pelo dar por lido. Seria encaminhado do gabinete digitalmente direto para a Taquigrafia, publicado no Di\u00e1rio Oficial da C\u00e2mara, se assim for, o que permite orientar a R\u00e1dio C\u00e2mara, a TV C\u00e2mara. Essa \u00e9 mais uma ferramenta que ajuda o Parlamentar a mostrar o que pensa, o que defende, qual de fato s\u00e3o os seus posicionamentos. N\u00e3o h\u00e1 custo para a C\u00e2mara, afinal de contas \u00e9 tudo digital e fortalece os mandatos parlamentares.\r\nFica o pedido a V.Exa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 1045/2021, MEDIDA PROVIS\u00d3RIA, PARTIDO COMUNISTA DO BRASIL (PC DO B), VOTO FAVOR\u00c1VEL.\r\nDIA DO ADVOGADO, DIA DO ESTUDANTE, HOMENAGEM.\r\nEDUCA\u00c7\u00c3O, POL\u00cdTICA EDUCACIONAL, AUS\u00caNCIA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, CR\u00cdTICA.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 1.045, de 2021, sobre o novo Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda; as medidas complementares de enfrentamento das consequ\u00eancias da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da Covid-19, no \u00e2mbito das rela\u00e7\u00f5es de trabalho; o Programa Primeira Oportunidade e Reinser\u00e7\u00e3o no Emprego - PRIORE; o Regime Especial de Trabalho Incentivado, Qualifica\u00e7\u00e3o e Inclus\u00e3o Produtiva - REQUIP; o Programa Nacional de Presta\u00e7\u00e3o de Servi\u00e7o Social Volunt\u00e1rio; e a altera\u00e7\u00e3o de diplomas legais. Transcurso do Dia do Advogado e do Estudante. Inexist\u00eancia de pol\u00edtica educacional no \u00e2mbito do Governo Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PCdoB encaminha \"sim\".\r\nEu queria fazer um registro, Sr. Presidente. Hoje \u00e9 o Dia do Advogado, o Dia do Magistrado, e \u00e9 tamb\u00e9m o Dia do Estudante. \u00c9 inevit\u00e1vel que coloquemos na ordem do dia, na C\u00e2mara e, principalmente, na sociedade, a defesa de uma educa\u00e7\u00e3o p\u00fablica forte, que, de fato, possa garantir a reden\u00e7\u00e3o das pr\u00f3ximas gera\u00e7\u00f5es.\r\nSou obrigado a fazer uma pergunta, Sr. Presidente: qual \u00e9 a pol\u00edtica de educa\u00e7\u00e3o do Governo Bolsonaro? N\u00e3o h\u00e1! Ele j\u00e1 passou da metade do mandato, mas n\u00e3o sinaliza o que ir\u00e1 fazer, onde e para quem, pelo contr\u00e1rio. O Sr. Ministro da Educa\u00e7\u00e3o disse algo no sentido de que a universidade tem que ser para poucos. N\u00e3o, n\u00e3o \u00e9 isso que o Brasil quer, n\u00e3o \u00e9 disso que o Brasil precisa. Temos que repudiar isso e seguir acreditando em que, s\u00f3 atrav\u00e9s da educa\u00e7\u00e3o, teremos, de fato, motivo para comemorar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T23:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA POL\u00cdTICA, SISTEMA ELEITORAL PROPORCIONAL, MANUTEN\u00c7\u00c3O, FINANCIAMENTO ELEITORAL, MULHER, NEGRO, AUMENTO, COLIGA\u00c7\u00c3O PARTID\u00c1RIA, JUSTI\u00c7A ELEITORAL, ALTERA\u00c7\u00c3O, ELEI\u00c7\u00d5ES, ANUALIDADE.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Aplausos \u00e0 C\u00e2mara dos Deputados pela realiza\u00e7\u00e3o da reforma pol\u00edtico-eleitoral.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, este \u00e9 um momento de vit\u00f3ria da C\u00e2mara dos Deputados, afinal de contas o resultado final da reforma pol\u00edtica aprovada por esta Casa \u00e9 extremamente positivo.\r\nH\u00e1, primeiro, a manuten\u00e7\u00e3o do sistema proporcional na elei\u00e7\u00e3o do Legislativo; segundo, maior financiamento para as candidaturas e para o Fundo Partid\u00e1rio das candidaturas de mulheres e de negros; terceiro, a anualidade eleitoral para a Justi\u00e7a Eleitoral - a Justi\u00e7a Eleitoral n\u00e3o poder\u00e1 mudar as regras do jogo em cima da hora ; quarto, a volta da coliga\u00e7\u00e3o, que, em nosso modo de pensar, o do PCdoB, pode ser aperfei\u00e7oada com a federa\u00e7\u00e3o. E o que seria isso? Aquilo que \u00e9 pactuado durante a campanha entre dois partidos pol\u00edticos vale para o mandato inteiro.\r\nPortanto, falta apenas isso a ser votado no dia de amanh\u00e3, mas este \u00e9 um momento de vit\u00f3ria. Esta \u00e9 uma reforma pol\u00edtica democr\u00e1tica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-12T09:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FL\u00c1VIO DINO, GOVERNADOR, MARANH\u00c3O, ATUA\u00c7\u00c3O, GEST\u00c3O, OBRA P\u00daBLICA, INVESTIMENTO, ELOGIO. \r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O, CR\u00cdTICA.",
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Realiza\u00e7\u00f5es do Governador do Estado do Maranh\u00e3o, Fl\u00e1vio Dino. Incompet\u00eancia administrativa do Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Sem revis\u00e3o do orador.) - Sra. Presidente, senhores membros da Mesa, \u00e9 impressionante a agenda de realiza\u00e7\u00f5es do Governador Fl\u00e1vio Dino no Estado do Maranh\u00e3o. N\u00e3o \u00e9 algo pontual, n\u00e3o \u00e9 algo ocasional, \u00e9 algo permanente. Vejamos a agenda desta semana do Governador Fl\u00e1vio Dino: ele esteve em Penalva, em Santa Luzia do Paru\u00e1, e, dentre tantas a\u00e7\u00f5es, destacaria a entrega de maternidade que atender\u00e1 a toda uma regi\u00e3o no Estado do Maranh\u00e3o; a entrega de um IEMA, que \u00e9 uma escola t\u00e9cnica profissionalizante em tempo integral, similar aos IFMAs; a entrega de escola e de est\u00e1dio na cidade de Penalva; a entrega de alimenta\u00e7\u00e3o pelo Programa Comida na Mesa, que ajuda a combater a fome (\u00e9 um dos mais perversos impactos da pandemia, a popula\u00e7\u00e3o mais pobre tem sofrido bastante com a fome no nosso Pa\u00eds e no nosso Estado); o lan\u00e7amento do Programa Agente Jovem Ambiental, por meio do qual 2 mil jovens recebem remunera\u00e7\u00e3o para ajudar na preserva\u00e7\u00e3o do meio ambiente.\r\nAlgu\u00e9m pode dizer: \"Foi uma semana at\u00edpica\". N\u00e3o! A semana n\u00e3o acabou! Amanh\u00e3 haver\u00e1 a entrega de uma creche de tempo integral na cidade de S\u00e3o Lu\u00eds; a entrega de uma escola em Ros\u00e1rio; a ordem de servi\u00e7o da reforma do hospital daquela cidade; a inaugura\u00e7\u00e3o de uma rodovia, a MA que liga o Munic\u00edpio de Santa Luzia a Altamira.\r\nPor que eu quero chamar a aten\u00e7\u00e3o desta Casa, senhores? Porque isso n\u00e3o \u00e9 comum hoje no Brasil. Em per\u00edodo de pandemia, em per\u00edodo de crise econ\u00f4mica, em per\u00edodo de crise fiscal, apesar de todas as dificuldades, o Governador Fl\u00e1vio Dino vem fazendo hist\u00f3ria no nosso Estado. Isso merece ser repercutido. Desafio algu\u00e9m a comparar a agenda do Governador Fl\u00e1vio Dino com a dos outros Governadores Brasil afora.\r\nCom todo o respeito, digo que praticamente nenhum Estado tem uma agenda de obras e investimentos como a do Estado do Maranh\u00e3o. A diferen\u00e7a \u00e9 ainda mais gritante quando a agenda do Maranh\u00e3o \u00e9 comparada com a do Governo Bolsonaro - na verdade, com a falta de agenda do Governo Bolsonaro.\r\nNesta semana, a agenda do Presidente foi defender o voto impresso, foi bater foto no cercadinho. Qual \u00e9 a pol\u00edtica de educa\u00e7\u00e3o defendida por ele, at\u00e9 em comemora\u00e7\u00e3o ao Dia do Estudante? Qual \u00e9 a pol\u00edtica de retomada do crescimento, de recupera\u00e7\u00e3o dos empregos? Nada disso acontece.\r\nEnquanto o Governo Federal foca a confus\u00e3o, o Governo Fl\u00e1vio Dino prioriza a boa gest\u00e3o, aquela que melhora a vida dos maranhenses.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": null,
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": null,
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres colegas Deputados, eu queria registrar que demos entrada, no dia de hoje, a um projeto de lei segundo o qual, daqui para a frente, impedir o direito de ir e vir de uma pessoa com defici\u00eancia ser\u00e1 considerado crime. O projeto prop\u00f5e a penalidade a quem se recusar a transportar pessoas com defici\u00eancia em transporte coletivo. \r\nDe onde vem a ideia deste projeto? Vem de um caso que aconteceu com a advogada Irenice C\u00e2ndido Lima, que repercutiu nas redes sociais em todo o Estado do Maranh\u00e3o, qui\u00e7\u00e1 no Pa\u00eds inteiro. A Irenice sofre de uma doen\u00e7a degenerativa: esclerose lateral prim\u00e1ria. O que aconteceu? Ela foi impedida ou proibida de embarcar num voo para Imperatriz. A proposta que a companhia a\u00e9rea lhe deu foi que ela fizesse o traslado sem a cadeira de rodas.\r\nSr. Presidente, n\u00f3s sabemos que os materiais de apoio s\u00e3o, na verdade, uma extens\u00e3o do corpo da pessoa com defici\u00eancia. N\u00e3o \u00e9 razo\u00e1vel se exigir que se apartem. O pior \u00e9 que a cadeira da Irenice estava dentro das regras pr\u00f3prias das exig\u00eancias t\u00e9cnicas. Ali\u00e1s, a fabricante da cadeira se manifestou a esse respeito nas redes sociais. A sugest\u00e3o de que ela fizesse a viagem sem a cadeira, a meu ver, al\u00e9m de inconceb\u00edvel, \u00e9 uma atitude criminosa. \r\nInfelizmente, n\u00e3o h\u00e1, no Estatuto da Pessoa com Defici\u00eancia, tal previs\u00e3o. O que n\u00f3s fizemos? Apresentamos um projeto de lei para criminalizar aqueles que impedem o direito de ir e vir das pessoas com defici\u00eancia. Daqui para a frente, ser\u00e1 crime, com pena de reclus\u00e3o de 6 meses a 3 anos e multa para quem n\u00e3o prover as necessidades b\u00e1sicas da pessoa com defici\u00eancia. Isso j\u00e1 est\u00e1 previsto na lei atualmente. N\u00f3s estamos apenas acrescentando um inciso para dizer que tamb\u00e9m ser\u00e1 considerado crime impedir a locomo\u00e7\u00e3o em transportes coletivos. \r\nNeste momento, o projeto se contrap\u00f5e \u00e0 vis\u00e3o do Ministro da Educa\u00e7\u00e3o, que disse que pessoas com defici\u00eancia atrapalham a sociedade.\r\n Sr. Presidente, n\u00f3s manifestamos nosso rep\u00fadio e pedimos o apoio desta Casa para a aprova\u00e7\u00e3o deste projeto, que aperfei\u00e7oa o Estatuto da Pessoa com Defici\u00eancia, o que, sem d\u00favida alguma, gerar\u00e1 ganhos para a sociedade brasileira.\r\n\u00c9 este o pronunciamento que fa\u00e7o. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Rubens Pereira J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, sobre a inser\u00e7\u00e3o de dispositivo no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, e a altera\u00e7\u00e3o da Constitui\u00e7\u00e3o Federal para fins de reforma pol\u00edtico-eleitoral, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUBENS PEREIRA J\u00daNIOR (PCdoB - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero registrar o seguinte: por for\u00e7a da Constitui\u00e7\u00e3o, em seu art. 16, da anualidade eleitoral, a regra do jogo do ano que vem tem que ser decidida at\u00e9 1 ano antes. Em toda legislatura, a C\u00e2mara debate uma reforma ou uma minirreforma pol\u00edtico-eleitoral.\r\nJusti\u00e7a seja feita, Sr. Presidente, com esta legislatura. Esta ser\u00e1 uma das vezes em que a C\u00e2mara encerrar\u00e1 esta discuss\u00e3o mais cedo. N\u00f3s estamos em meados de agosto, e esse assunto j\u00e1 est\u00e1 maduro para ser decidido peremptoriamente na C\u00e2mara dos Deputados, o que permitir\u00e1 mais transpar\u00eancia, mais tranquilidade e mais democracia na defini\u00e7\u00e3o dessas regras do jogo.\r\nReconhecemos muitos avan\u00e7os, especialmente o fim do distrit\u00e3o, o financiamento diferenciado para mulheres e negros, a anualidade eleitoral para o Judici\u00e1rio. \r\nPor isso, o PCdoB vota \"sim\", vota favoravelmente \u00e0 PEC.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

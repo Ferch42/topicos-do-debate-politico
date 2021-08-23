@@ -1,0 +1,848 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE QUEBRA DE INTERST\u00cdCIO, VERIFICA\u00c7\u00c3O DE VOTA\u00c7\u00c3O, DESTAQUE, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de quebra de interst\u00edcio para vota\u00e7\u00e3o do Requerimento de Destaque n\u00ba 29.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (Bloco/PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, isso n\u00e3o incrementa em nada o turismo. Olhe l\u00e1 se n\u00e3o vai prejudic\u00e1-lo.\r\nO PDT vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=218&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE VOTA\u00c7\u00c3O, PL 888/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT),   VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 888, de 2019, a respeito da altera\u00e7\u00e3o das Leis de n\u00bas 10.931, de 2004, e 2.024, de 2009, respectivamente, sobre o patrim\u00f4nio de afeta\u00e7\u00e3o de incorpora\u00e7\u00f5es imobili\u00e1rias, e sobre o tratamento tribut\u00e1rio dado \u00e0s receitas mensais auferidas pelas empresas construtoras nos contratos de constru\u00e7\u00e3o de moradias firmados no \u00e2mbito do Programa Minha Casa, Minha Vida.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (Bloco/PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Programa Minha Casa, Minha Vida \u00e9 o mais importante programa social de habita\u00e7\u00e3o do Pa\u00eds. A constru\u00e7\u00e3o civil \u00e9 o setor que mais emprega.\r\nO PDT vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, MPV 861/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT)), OBSTRU\u00c7\u00c3O PARLAMENTAR.\r\nFRENTE PARLAMENTAR MISTA PELA VALORIZA\u00c7\u00c3O DAS UNIVERSIDADES FEDERAIS, OBSTRU\u00c7\u00c3O PARLAMENTAR, DEFESA, OR\u00c7AMENTO, EDUCA\u00c7\u00c3O SUPERIOR.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Pedido aos membros da Frente Parlamentar pela Valoriza\u00e7\u00e3o das Universidades Federais de obstru\u00e7\u00e3o das vota\u00e7\u00f5es na Casa at\u00e9 a recomposi\u00e7\u00e3o das dota\u00e7\u00f5es or\u00e7ament\u00e1rias das universidades p\u00fablicas. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 861, de 2018, sobre a transfer\u00eancia, da Uni\u00e3o para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro p\u00fablico de empresas mercantis e atividades afins no Distrito Federal, e a altera\u00e7\u00e3o da Lei n\u00ba 8.934, de 1994, acerca do Registro P\u00fablico de Empresas Mercantis e Atividades Afins.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, hoje pela manh\u00e3, eu entrei com uma solicita\u00e7\u00e3o junto \u00e0 Frente Parlamentar em Defesa da Universidade P\u00fablica para que os partidos entrem em obstru\u00e7\u00e3o at\u00e9 que seja recomposto o or\u00e7amento das universidades. N\u00f3s n\u00e3o podemos aceitar esse corte de verbas. Esta quest\u00e3o est\u00e1 acima dos partidos. Esse corte tornar\u00e1 invi\u00e1vel a educa\u00e7\u00e3o p\u00fablica de ensino superior.\r\nO PDT orienta pela obstru\u00e7\u00e3o. A Presidente Margarida vai levar essa orienta\u00e7\u00e3o para os L\u00edderes, para que eles decidam isso. \u00c9 importante que o Congresso n\u00e3o fique omisso, n\u00e3o se cale diante do fim da educa\u00e7\u00e3o do ensino superior neste Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, CR\u00cdTICA, CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENT\u00c1RIOS, EDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL,  INSTITUTO FEDERAL DE EDUCA\u00c7\u00c3O, CI\u00caNCIA E TECNOLOGIA (INSTITUTO FEDERAL).\r\nDEFESA, SOCIOLOGIA, FILOSOFIA, EDUCA\u00c7\u00c3O SUPERIOR, EDUCA\u00c7\u00c3O B\u00c1SICA.\r\nIDILVAN ALENCAR, DEPUTADO FEDERAL, EX-SECRET\u00c1RIO DE ESTADO, EDUCA\u00c7\u00c3O, CEAR\u00c1.\r\nREFORMA PREVIDENCI\u00c1RIA, PREJU\u00cdZO, PROFESSOR, CR\u00cdTICA.\r\nAPOIO POL\u00cdTICO, MOVIMENTO DE PROTESTO, DEFESA, EDUCA\u00c7\u00c3O.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Corte de recursos or\u00e7ament\u00e1rios destinados \u00e0 educa\u00e7\u00e3o brasileira.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE) - Ministro, eu sou cearense, fui Secret\u00e1rio da Educa\u00e7\u00e3o do Estado.\r\nO senhor disse que no seu sobrenome tinha Vasconcellos, l\u00e1 de Sobral, primeiro lugar no IDEB. Eu estou preocupado com esse seu lado cearense! O senhor n\u00e3o est\u00e1 honrando esse sangue cearense! Pare de falar em corte!(Palmas.)\r\nO senhor \u00e9 o Ministro da Educa\u00e7\u00e3o, e tem \u00e9 que ir atr\u00e1s de mais recursos! Quando eu era Secret\u00e1rio, fazia isso todo o dia, ia falar com o Governador. Mas o senhor \u00e9 o primeiro a defender os cortes?! Pare de dizer que Filosofia nem Sociologia s\u00e3o importantes, porque elas s\u00e3o a base do pensamento cr\u00edtico, Ministro. O senhor tem que acabar com essa disputa da educa\u00e7\u00e3o b\u00e1sica com a educa\u00e7\u00e3o superior. Elas s\u00e3o complementares e interdependentes.\r\nEu lhe dou duas recomenda\u00e7\u00f5es: primeira, v\u00e1 ao Presidente da Rep\u00fablica e diga assim: \"Presidente, vamos tirar professor da reforma previdenci\u00e1ria!\". Professor nunca foi privilegiado neste Pa\u00eds. Nunca! Segunda, diga para esta Casa que quem estavam nas ruas n\u00e3o eram idiotas!\r\nRespeitem as pessoas. Se o senhor n\u00e3o tiver respeito nunca vai conseguir resultados. \u00c9 preciso respeitar professor, estudante, reitor, sen\u00e3o nenhum plano para a educa\u00e7\u00e3o vai dar certo. \r\nEu acho que o senhor tem que voltar para o Cear\u00e1, dan\u00e7ar forr\u00f3, tomar banho no Rio Acara\u00fa, arejar suas ideias, Ministro. N\u00f3s estamos dispostos a lhe ajudar. \r\nHonre seu sangue cearense! Boa sorte em sua gest\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 10/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.\r\nCOMPET\u00caNCIA, AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL, COMUNICA\u00c7\u00c3O, IND\u00cdCIO, CRIME, MINIST\u00c9RIO P\u00daBLICO, DEFESA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 64-A do projeto de lei de convers\u00e3o \u00e0 Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre o estabelecimento da organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT entende que esse \u00e9 um dever do auditor-fiscal. N\u00e3o podemos transformar um dever numa veda\u00e7\u00e3o. A proibi\u00e7\u00e3o de o auditor informar crime ao Minist\u00e9rio P\u00fablico vai ampliar a corrup\u00e7\u00e3o neste Pa\u00eds.\r\nO PDT orienta \"n\u00e3o\", para o fortalecimento da auditoria fiscal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=209&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENT\u00c1RIOS, EDUCA\u00c7\u00c3O, POLITICA ECONOMICA, GOVERNO, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, CRITICA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Indigna\u00e7\u00e3o com o descaso do Ministro da Economia, Paulo Guedes, com os professores e a \u00e1rea da educa\u00e7\u00e3o. Questionamento sobre a exist\u00eancia de projeto de desenvolvimento para o Pa\u00eds no Governo Jair Bolsonaro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Parlamentares, agora h\u00e1 pouco eu estive na Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, em conjunto com a Comiss\u00e3o de Educa\u00e7\u00e3o, e estava l\u00e1 o Sr. Paulo Guedes. Eu dirigi tr\u00eas perguntas ao Ministro. Na primeira delas, eu falei sobre a reforma da Previd\u00eancia no tocante aos professores, porque o Ministro disse que a reforma era para combater privil\u00e9gios, e at\u00e9 citou exemplos de privil\u00e9gios. Disse que eram as aposentadorias dos Parlamentares - inclusive eu n\u00e3o visto essa carapu\u00e7a, porque eu n\u00e3o tenho aposentadoria de Parlamentar, n\u00e3o fiz requerimento -, disse que privilegiados eram os servidores desta Casa. E eu perguntei: \"Ministro, para ser coerente com a sua defini\u00e7\u00e3o de privil\u00e9gios, o senhor topa tirar o professor dessa reforma? Professor \u00e9 privilegiado? Professor j\u00e1 foi privilegiado em toda a hist\u00f3ria deste Pa\u00eds? Professor \u00e9 mal remunerado, \u00e9 uma profiss\u00e3o que exige muito do profissional\". E ele n\u00e3o respondeu, se esquivou. Ele disse assim: \"Eu acho que professor gosta de dar aula, quando se aposentar, deve voltar para a sala de aula, porque eles amam a escola\". Eu disse: Ministro, os professores s\u00e3o carinhosamente chamados neste Pa\u00eds, pelas crian\u00e7as, de tios: a tia Maria, a tia... Eles v\u00e3o ser chamados, ap\u00f3s essa reforma, de vozinha: vozinha Fulana de Tal, vozinho Fulano de Tal, porque v\u00e3o chegar aos 60 anos. \r\nEnt\u00e3o, isso \u00e9 uma incoer\u00eancia. Eu acho que \u00e9 um grande desrespeito do Ministro com os professores do Pa\u00eds inteiro defender essa proposta. \u00c9 uma incoer\u00eancia total e absoluta, quando diz que \u00e9 uma reforma para combater privil\u00e9gio e coloca os professores. Eu tenho uma emenda, com apoio de v\u00e1rios Parlamentares, para retirar professor dessa proposta.\r\nA segunda pergunta que eu fiz foi em rela\u00e7\u00e3o ao FUNDEB. Eu sou 1\u00ba Vice-Presidente da Comiss\u00e3o do FUNDEB. Eu perguntei: \"Ministro, o senhor fala em mais Brasil e menos Bras\u00edlia. Vamos come\u00e7ar esse exerc\u00edcio colocando mais recursos da Uni\u00e3o no FUNDEB. O FUNDEB s\u00f3 tem 10% de recursos da Uni\u00e3o. Ent\u00e3o, o melhor exerc\u00edcio de menos Bras\u00edlia e mais Brasil \u00e9 colocar mais dinheiro no FUNDEB. Ministro, o que o senhor acha da vincula\u00e7\u00e3o dos recursos para a educa\u00e7\u00e3o, o Estado aplicar 25%, o Munic\u00edpio, a Uni\u00e3o, 18%?\" Sabem o que ele respondeu, para meu espanto? \"Isso fica a crit\u00e9rio do gestor e da necessidade\", ou seja, defendeu a desvincula\u00e7\u00e3o. O Prefeito pode gastar 30%, 15%. Isso \u00e9 o desmonte da educa\u00e7\u00e3o p\u00fablica. Eu fiquei abismado com essa resposta dele. Mas publicamente ele fez essa defesa.\r\nA minha terceira pergunta disse respeito a um projeto de lei que eu apresentei para trazer os recursos da Lava-Jato, da Odebrecht, recursos provenientes de acordo de leni\u00eancia para serem aplicados em educa\u00e7\u00e3o. Isso resolveria grande parte desses problemas. Eu acho que ele n\u00e3o entendeu a pergunta. N\u00e3o fez a defesa e se esquivou.\r\nEnfim, eu, que tenho uma trajet\u00f3ria ligada \u00e0 educa\u00e7\u00e3o, sa\u00ed muito preocupado com a fala do Ministro. Ele n\u00e3o est\u00e1 disposto, ele n\u00e3o entende que professor \u00e9 uma classe importante para este Pa\u00eds, entende que \u00e9 privilegiado. Ele n\u00e3o acha que seja importante manter a vincula\u00e7\u00e3o dos recursos para a educa\u00e7\u00e3o. E ele tamb\u00e9m n\u00e3o fez a defesa de trazer os recursos provenientes de acordo de leni\u00eancia, como os da PETROBRAS - j\u00e1 h\u00e1 2,6 bilh\u00f5es de reais -, para se investir em educa\u00e7\u00e3o.\r\nEnt\u00e3o, que Pa\u00eds \u00e9 esse que s\u00f3 fala em reforma da Previd\u00eancia? Cad\u00ea o projeto de desenvolvimento para o Pa\u00eds deste Governo? Eu me preocupo com isso.\r\nBoa tarde a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba do Projeto de Lei n\u00ba 10.985 , de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, para fins de sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, mais uma vez querem tirar recursos da educa\u00e7\u00e3o. O Plano Nacional de Educa\u00e7\u00e3o completou 5 anos ontem. As pessoas dizem \"A educa\u00e7\u00e3o \u00e9 prioridade\" no discurso. Na pr\u00e1tica, mais uma vez querem penalizar a educa\u00e7\u00e3o neste Pa\u00eds.\r\nO PDT est\u00e1 em obstru\u00e7\u00e3o, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=188&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 176/2019, EMENDA DE COMISS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 176, oferecida \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PDT \u00e9 um partido que tem origem trabalhista, fundamentado na educa\u00e7\u00e3o; tem Brizola, tem Darcy Ribeiro.\r\nN\u00f3s temos que honrar este Parlamento. N\u00e3o podemos de forma alguma acabar com a aposentadoria diferenciada dos professores, porque \u00e9 uma categoria diferenciada, que ganha pouco neste Pa\u00eds e n\u00e3o tem privil\u00e9gios.\r\nN\u00f3s estamos acabando com a carreira docente. Quem defende a educa\u00e7\u00e3o tem que ser coerente, n\u00e3o pode votar contra os professores. \r\nEu fa\u00e7o um apelo para todos os Deputados, pois essa pauta \u00e9 suprapartid\u00e1ria. Deputados, sejam do PSL, sejam do Centr\u00e3o, n\u00e3o interessa, vamos defender a educa\u00e7\u00e3o e os professores deste Pa\u00eds!\r\nPresidente, o PDT orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=296&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, ART 20, ARTIGO (TEXTO LEGISLATIVO), COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o em dois anos  constante do \u00a7 1\u00ba, do art. 20, do Substitutivo adotado pela Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Sem revis\u00e3o do orador.) - Presidente, Deputados e Deputadas, \u00e9 uma honra estar aqui, neste momento muito especial para n\u00f3s que gostamos de educa\u00e7\u00e3o neste Pa\u00eds. \r\nO Parlamento \u00e9 uma Casa plural. Quem quer fazer carreira solo n\u00e3o tem muito espa\u00e7o aqui. Ent\u00e3o, minha primeira fala \u00e9 para dividir com os colegas da bancada da educa\u00e7\u00e3o este momento e o m\u00e9rito deste requerimento. Quero dividir em especial com a Eneida, uma assessora do PT, que nos orientou em rela\u00e7\u00e3o a isso. \r\nQuero tamb\u00e9m agradecer aos amigos do PDT, que tinham muitos destaques para escolher, mas escolheram exatamente o da educa\u00e7\u00e3o, porque n\u00f3s temos uma hist\u00f3ria ligada \u00e0 educa\u00e7\u00e3o.\r\nQuero fazer duas ressalvas. Primeira: n\u00e3o \u00e9 o que n\u00f3s gostar\u00edamos. Segunda: \u00e9 muito pouco em rela\u00e7\u00e3o ao que os professores merecem. N\u00e3o \u00e9 o que eles merecem mesmo. Eles merecem muito mais. Mas, neste momento, \u00e9 a forma como n\u00f3s podemos ajud\u00e1-los.\r\nEu n\u00e3o entendo e nunca vou entender a aprova\u00e7\u00e3o desta reforma, mas eu respeito. Eu acho que \u00e9 dever nosso, enquanto Parlamentares, respeitar o voto da maioria. Agora, hoje, Deputados e Deputadas, a nossa bancada \u00e9 pequena, mas eu pe\u00e7o permiss\u00e3o ao Presidente da Comiss\u00e3o de Educa\u00e7\u00e3o, o Deputado Pedro Cunha Lima, para que, de forma simb\u00f3lica, a bancada da educa\u00e7\u00e3o sejamos todos n\u00f3s - hoje, a bancada da educa\u00e7\u00e3o em Bras\u00edlia \u00e9 todo o Congresso Nacional -, para dizermos \"sim\" e respeitarmos o professor.\r\nEsta emenda n\u00e3o beneficia s\u00f3 o professor, n\u00e3o. Ela beneficia a crian\u00e7a, o jovem, o adulto, o Brasil.\r\nGostar de professor e respeitar a educa\u00e7\u00e3o deveria ser um pr\u00e9-requisito para ser pol\u00edtico neste Pa\u00eds. E respeito se mostra de forma tang\u00edvel.\r\n Eu vou passar a palavra \u00e0 Deputada Professora Dorinha, que luta muito pela educa\u00e7\u00e3o neste Pa\u00eds.\r\nVamos votar \"sim\" e aprovar o Destaque n\u00ba 43!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=158&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O, VOTA\u00c7\u00c3O POR ARTIGO, PL 2999/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.\r\nFORTALEZA (CE)\r\nNOT\u00cdCIA FALSA (FAKE NEWS), EDUCA\u00c7\u00c3O, INF\u00c2NCIA, G\u00caNERO, EROTIZA\u00c7\u00c3O PRECOCE, PREFEITURA, FORTALEZA (CE), CR\u00cdTICA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Contesta\u00e7\u00e3o a pronunciamento de Deputado sobre den\u00fancia de distribui\u00e7\u00e3o de cartilha com conte\u00fado sexual na rede municipal de educa\u00e7\u00e3o infantil de Fortaleza, Estado do Cear\u00e1. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o artigo por artigo do Projeto de Lei n\u00ba 2.999, de 2019, sobre a antecipa\u00e7\u00e3o do pagamento dos honor\u00e1rios periciais em a\u00e7\u00f5es do Instituto Nacional do Seguro Social - INSS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, um Deputado veio a esta tribuna de forma mentirosa, irrespons\u00e1vel, dizer que o Munic\u00edpio de Fortaleza est\u00e1 colocando cartilha com conte\u00fado sexual na educa\u00e7\u00e3o infantil. Isso \u00e9 mentira, \u00e9 fake news. Eu desafio o Parlamentar a trazer aqui esse material.\r\nO Munic\u00edpio de Fortaleza foi o Munic\u00edpio que mais aumentou o n\u00famero de matr\u00edculas em creches. Quando ele faz essa agress\u00e3o, pensa que est\u00e1 agredindo o Prefeito Roberto Cl\u00e1udio, mas est\u00e1 agredindo todo professor de Fortaleza. \u00c9 hora de come\u00e7ar a prender e processar quem divulga fake news.\r\nO PDT orienta \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "SETEMBRO AMARELO, JUVENTUDE, PREVEN\u00c7\u00c3O, SUIC\u00cdDIO, CEAR\u00c1, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB).\r\nPL 3688/2000, PROJETO DE LEI ORDIN\u00c1RIA, EDUCA\u00c7\u00c3O B\u00c1SICA, ESCOLA, PSIC\u00d3LOGO, ASSISTENTE SOCIAL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Import\u00e2ncia da campanha nacional Setembro Amarelo, destinada \u00e0 preven\u00e7\u00e3o do suic\u00eddio. Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.688, de 2000, relativo \u00e0 presta\u00e7\u00e3o de servi\u00e7os de psicologia e de servi\u00e7o social nas redes p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Sem revis\u00e3o do orador.) - Sr. Presidente, a pauta da juventude \u00e9 muito importante para o meu mandato, e n\u00f3s estamos no Setembro Amarelo. S\u00e3o v\u00e1rias campanhas de preven\u00e7\u00e3o ao suic\u00eddio. O Brasil \u00e9 o oitavo pa\u00eds do mundo em rela\u00e7\u00e3o a essa pauta, o que \u00e9 triste. No Brasil, o Cear\u00e1 \u00e9 o quinto Estado, quando se trata desse assunto. Eu acho importantes as campanhas, como a que a Assembleia Legislativa do Estado do Cear\u00e1 est\u00e1 realizando, juntamente com v\u00e1rios professores. Mas quero chamar a aten\u00e7\u00e3o para o Projeto de Lei n\u00ba 3.688, de 2000, que coloca na educa\u00e7\u00e3o b\u00e1sica psic\u00f3logo e assistente social. Eu acho que isto, sim, \u00e9 uma grande a\u00e7\u00e3o, at\u00e9 porque os sinais com rela\u00e7\u00e3o \u00e0 juventude s\u00e3o dados com anteced\u00eancia. Fala-se assim: \"Ah, mas n\u00e3o h\u00e1 recursos!\" O novo FUNDEB - Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o pode vir com mais recursos da Uni\u00e3o. Estradas e obras s\u00e3o importantes, sim, mas eu falo de vidas humanas, de preven\u00e7\u00e3o para que se salvem vidas humanas! Fica aqui o meu apelo para que as escolas contem com psic\u00f3logo e assistente social.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-23T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "IDILVAN ALENCAR, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 1497/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, FUNDO PARA EXPANS\u00c3O DA EDUCA\u00c7\u00c3O INFANTIL (FEEI), AMPLIA\u00c7\u00c3O, VAGA, EDUCA\u00c7\u00c3O INFANTIL, FONTE DE RECURSOS, COMIT\u00ca GESTOR, COMPOSI\u00c7\u00c3O, COMPET\u00caNCIA, RECURSOS P\u00daBLICOS, OPERA\u00c7\u00c3O LAVA JATO, PETR\u00d3LEO BRASILEIRO (PETROBRAS), SUPREMO TRIBUNAL FEDERAL (STF), ACORDO DE LENI\u00caNCIA.\r\nORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, PLN 7/2019, PLN 11/2019, PLN 17/2019, PLN 12/2019, PLN 14/2019, PLN 13/2019, PLN 20/2019, PLN 8/2019, PLN 23/2019, PLN 19/2019, PLN 16/2019, PLN 38/2019, PLN 40/2019, PLN 41/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo dos Projetos de Lei do Congresso Nacional de n\u00bas 7, 11, 17, 12, 14, 13, 20, 8, 23, 19, 16, 38, 40 e 41, de 2019.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Sem revis\u00e3o do orador.) - Presidente, eu apresentei um PL que criava um fundo para a educa\u00e7\u00e3o infantil com esse recurso da Lava-Jato, um fundo para ser usado na educa\u00e7\u00e3o. Infelizmente, esse PL n\u00e3o avan\u00e7ou, mas o Supremo tomou uma decis\u00e3o acertada: investir em educa\u00e7\u00e3o, investir em educa\u00e7\u00e3o infantil e tamb\u00e9m colocar recurso numa pauta priorit\u00e1ria, meio ambiente.\r\nEnt\u00e3o, eu fico feliz em saber que esse recurso est\u00e1 indo para a educa\u00e7\u00e3o.\r\nAgora, esse fundo que eu estava propondo era para que os outros recursos provenientes de acordos de leni\u00eancia tamb\u00e9m fossem para a educa\u00e7\u00e3o. Isso \u00e9 importante, porque outros dever\u00e3o vir.\r\nO PDT orienta o voto \"sim\" e fica feliz com a aplica\u00e7\u00e3o desse recurso. Mas precisamos criar inst\u00e2ncias para saber em que o recurso vai ser aplicado realmente, para garantir que isso vai chegar \u00e0 educa\u00e7\u00e3o infantil, vai chegar \u00e0s bolsas da CAPES.\r\nEnt\u00e3o, a orienta\u00e7\u00e3o do PDT \u00e9 o voto \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F10%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA DA EDUCA\u00c7\u00c3O, ADIAMENTO, EXAME NACIONAL DO ENSINO M\u00c9DIO (ENEM).\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE, INCLUS\u00c3O, DISPOSITIVO LEGAL, EMENDA DE PLENARIO, PL 1O79/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Transcurso do Dia Internacional da Educa\u00e7\u00e3o. Pedido ao Minist\u00e9rio da Educa\u00e7\u00e3o de adiamento da data de realiza\u00e7\u00e3o do Exame Nacional do Ensino M\u00e9dio - ENEM. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para inclus\u00e3o, onde couber, do art. 12 da Emenda n\u00ba 22, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje \u00e9 o Dia Internacional da Educa\u00e7\u00e3o. No Brasil a educa\u00e7\u00e3o s\u00f3 passou a ser vista em 1988. N\u00f3s temos uma d\u00edvida hist\u00f3rica. Essa anistia n\u00e3o enfraquece o Fundo de Garantia de Opera\u00e7\u00f5es de Cr\u00e9dito Educacional - FGEDUC e o Fundo Nacional de Desenvolvimento da Educa\u00e7\u00e3o - FNDE; muito pelo contr\u00e1rio, fortalece a educa\u00e7\u00e3o p\u00fablica. N\u00f3s temos poucas vagas nas universidade p\u00fablicas, por isso temos o Fundo de Financiamento Estudantil - FIES.\r\nEnt\u00e3o, o PDT, que \u00e9 um partido cuja origem est\u00e1 ligada \u00e0 educa\u00e7\u00e3o e que tem hist\u00f3ria, orienta \"sim\".\r\nAproveito para fazer um apelo para que o ENEM seja adiado. N\u00e3o faz sentido o Minist\u00e9rio da Educa\u00e7\u00e3o ficar insens\u00edvel a essa causa e manter um calend\u00e1rio normal para o ENEM. N\u00f3s temos no Pa\u00eds uma desigualdade digital que fere o princ\u00edpio da isonomia.\r\nEnt\u00e3o, o PDT orienta \"sim\" e tamb\u00e9m pede o apoio dos Parlamentares para o engajamento nessa luta em favor do adiamento do ENEM.\r\nEnt\u00e3o, o voto \u00e9 \"sim\" ao destaque, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=65&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.\r\nDEFESA, VOTA\u00c7\u00c3O, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), ESTADO (NA\u00c7\u00c3O), PLANEJAMENTO, POL\u00cdTICA SOCIAL, PARTICIPA\u00c7\u00c3O, SOCIEDADE, FORMULA\u00c7\u00c3O, ACOMPANHAMENTO, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, TEXTO CONSTITUCIONAL, REVOGA\u00c7\u00c3O, DISPOSITIVO, ATO DAS DISPOSI\u00c7\u00d5ES CONSTITUCIONAIS TRANSIT\u00d3RIAS.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica. Apelo \u00e0 Presid\u00eancia de inclus\u00e3o na pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - (Falha na transmiss\u00e3o) destaque do PSB que suspende esses encargos do FIES at\u00e9 o fim da pandemia.\r\nEu vejo algumas falas dizendo que vamos quebrar o Brasil. Engra\u00e7ado que, quando \u00e9 para investir em educa\u00e7\u00e3o p\u00fablica e quando se fala de alunos mais pobres, vamos quebrar o Brasil. N\u00e3o \u00e9 verdade.\r\nO PDT orienta \"sim\".\r\nMas aproveito, Presidente Rodrigo Maia, para fazer um apelo no sentido de pautarmos e votarmos o FUNDEB o mais r\u00e1pido poss\u00edvel.\r\nEstamos numa crise, mas n\u00e3o podemos contratar uma crise para o futuro, e contratar essa crise para o futuro \u00e9 n\u00e3o aprovar o FUNDEB o mais r\u00e1pido poss\u00edvel. A\u00ed n\u00f3s estamos numa crise da sa\u00fade e vamos come\u00e7ar 2020 com uma crise.\r\nEnt\u00e3o eu fa\u00e7o um apelo em nome dos Deputados que fazem a bancada da educa\u00e7\u00e3o e dos educadores do Brasil para, junto com os L\u00edderes partid\u00e1rios, pautar essa PEC do FUNDEB de que a Deputada Professora Dorinha Seabra Rezende \u00e9 Relatora.\r\nO PDT orienta \"sim\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-28T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EXPRESS\u00c3O TEXTUAL, EMENDA DE PLEN\u00c1RIO, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.\r\nDIA DA EDUCA\u00c7\u00c3O, VOTA\u00c7\u00c3O, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, ADIAMENTO, EXAME NACIONAL DO ENSINO M\u00c9DIO (ENEM).",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Transcurso do Dia Mundial da Educa\u00e7\u00e3o. Defesa da realiza\u00e7\u00e3o de investimentos no setor educacional. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o Fica o Poder Executivo autorizado a suspender por 6 meses a cobran\u00e7a das parcelas de amortiza\u00e7\u00e3o das d\u00edvidas provenientes do programa FIES, no per\u00edodo de restri\u00e7\u00e3o \u00e0 locomo\u00e7\u00e3o, emerg\u00eancia e/ou calamidade provocados pela pandemia da Covid-19, contida na Emenda n\u00ba 5, apresentada ao Projeto de Lei n\u00ba 1.079, de 2020, sobre a suspens\u00e3o das obriga\u00e7\u00f5es de benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES, durante estado de calamidade p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT orienta o voto \"sim\" a este destaque por considerar que n\u00e3o ser\u00e3o s\u00f3 4 ou 6 meses as consequ\u00eancias dessa pandemia. Esses jovens estudantes ter\u00e3o dificuldade, sim, para pagar o FIES. Eu n\u00e3o entendo por que n\u00e3o podemos conceder essa ajuda para os estudantes brasileiros, inclusive estudantes de medicina que, quando formarem, ir\u00e3o ajudar os profissionais da sa\u00fade.\r\nEu acho que o Congresso poderia fazer um gesto. Hoje \u00e9 o Dia Internacional da Educa\u00e7\u00e3o e n\u00f3s continuamos insens\u00edveis \u00e0 pauta da educa\u00e7\u00e3o. O Ministro insiste em manter as datas do ENEM, e o FUNDEB n\u00e3o entra em pauta. Eu acho que o Deputado Zeca Dirceu tem raz\u00e3o: \u00e9 importante sabermos quem de fato est\u00e1 preocupado com a escola p\u00fablica, com o aluno de baixa renda e com a educa\u00e7\u00e3o deste Pa\u00eds. Investir em educa\u00e7\u00e3o n\u00e3o quebra pa\u00eds nenhum. Pelo contr\u00e1rio, educa\u00e7\u00e3o \u00e9 o vetor do desenvolvimento.\r\nPortanto, oriento o voto \"sim\" ao destaque, para adiar o pagamento do FIES por mais 6 meses .",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2020&txPagina=99&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, OPOSI\u00c7\u00c3O POL\u00cdTICA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 11, apresentada ao Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, quero cumprimentar V.Exa. e agradecer ao Deputado Andr\u00e9 a oportunidade de fazer esta orienta\u00e7\u00e3o.\r\nEu queria perguntar o seguinte: o que est\u00e1 acontecendo neste Pa\u00eds? Professores tempor\u00e1rios, em muitos Munic\u00edpios, j\u00e1 est\u00e3o sendo demitidos. N\u00f3s temos que ter a consci\u00eancia de que professores de 20 horas ganham mil e poucos reais, o que n\u00e3o \u00e9 um valor alto. Isso n\u00e3o vai causar esse impacto todo nas despesas, nessa conta p\u00fablica.\r\nA Deputada Dorinha foi muito clara ao dizer que os professores v\u00e3o, sim, ter contato com os alunos. \u00c9 uma quest\u00e3o de tempo. Condenar o ano 2021 inteiro? Isso n\u00e3o faz sentido.\r\nFa\u00e7o um apelo enorme a todo Parlamentar para que pense na educa\u00e7\u00e3o neste Pa\u00eds. \u00c9 um momento diferente, at\u00edpico, as pessoas est\u00e3o dando aula a dist\u00e2ncia. N\u00f3s n\u00e3o podemos penalizar os professores - que ganham muito pouco, \u00e9 bom deixar isso claro -, que a\u00ed v\u00e3o passar 2 anos sem reajuste. Existe Estado inclusive precisando convocar professor, e n\u00e3o pode.\r\nEu fa\u00e7o um apelo, em nome dos educadores deste Pa\u00eds: vamos, sim, dar reajuste para professor.\r\nE a Lei do Piso, como fica nesse contexto? Repito, 90% dos professores deste Pa\u00eds ganham muito pouco.\r\nPortanto, a minha orienta\u00e7\u00e3o \u00e9 para que esse texto seja alterado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=308&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-20T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 2623/2020, PROJETO DE LEI ORDIN\u00c1RIA, ADIAMENTO, EXAME NACIONAL DO ENSINO M\u00c9DIO (ENEM), EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Apelo ao Presidente Rodrigo Maia por imediata vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.623, de 2020, relativo ao adiamento do Exame Nacional do Ensino M\u00e9dio - ENEM, diante da pandemia do coronav\u00edrus. (proposi\u00e7\u00e3o apensada ao Projeto de Lei n\u00ba 1.277, de 2020, do Senado Federal).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, sa\u00fado V.Exa. e os demais Parlamentares.\r\nQuero falar sobre a vota\u00e7\u00e3o referente ao ENEM. N\u00f3s n\u00e3o podemos aceitar que a C\u00e2mara deixe de votar o adiamento do ENEM. Seria uma vergonha para a C\u00e2mara. O Senado fez sua parte. N\u00e3o h\u00e1 motivo nenhum para deixarmos de votar essa mat\u00e9ria.\r\nA nota do INEP \u00e9 vaga, fala em 30 ou 60 dias. S\u00e3o 30, 31 ou 59 dias? As escolas est\u00e3o paradas, n\u00e3o est\u00e1 havendo aula neste Pa\u00eds. Essa luta para adiar o ENEM vem acontecendo h\u00e1 algum tempo. J\u00e1 fomos ao STF, ao Tribunal de Contas, em uma luta coletiva. O Senado fez um bonito papel ontem. Realizou a vota\u00e7\u00e3o, e o placar foi magn\u00edfico. A C\u00e2mara vai passar vergonha, n\u00e3o vai votar essa mat\u00e9ria? Eu n\u00e3o estou entendendo o que est\u00e1 acontecendo. N\u00e3o consigo entender por que esse projeto n\u00e3o est\u00e1 pautado.\r\n\u00c9 importante votarmos a favor do estudante brasileiro, especialmente o mais humilde, da escola p\u00fablica. N\u00f3s mostramos, com dados, que neste Pa\u00eds existe desigualdade digital. S\u00f3 para se ter uma ideia, no Nordeste s\u00f3 35% dos estudantes da zona rural t\u00eam Internet.\r\nEnt\u00e3o, eu fa\u00e7o um apelo ao Presidente Rodrigo Maia e aos Parlamentares para que possamos votar esse adiamento do ENEM. \u00c9 importante, os estudantes querem isso. O Ministro da Educa\u00e7\u00e3o n\u00e3o \u00e9 confi\u00e1vel, j\u00e1 temos in\u00fameras provas. Essa nota que o INEP soltou n\u00e3o d\u00e1 seguran\u00e7a nenhuma. \u00c9 importante uma lei.\r\nReitero o meu apelo aos Parlamentares para que n\u00e3o deixem de pautar esse projeto. Digo mais uma vez: seria vergonhoso para a C\u00e2mara deixar sem lei nenhuma essa quest\u00e3o. Amanh\u00e3, podemos pagar muito caro por isso. E se o INEP disser que o adiamento ser\u00e1 de 31 dias? N\u00e3o houve aula no m\u00eas de mar\u00e7o, n\u00e3o houve em abril, n\u00e3o houve em maio. Quanto vai acontecer a volta \u00e0s aulas? Ent\u00e3o, pe\u00e7o encarecidamente que pautemos esse projeto e votemos a favor do adiamento do ENEM.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2020&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-03T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE URG\u00caNCIA, PL 2949/2020, PROJETO DE LEI ORDIN\u00c1RIA, ESTRAT\u00c9GIA PARA O RETORNO \u00c0S AULAS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), DIRETRIZES, ISOLAMENTO SOCIAL, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 2.949, de 2020, acerca da estrat\u00e9gia para o retorno \u00e0s aulas diante da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Projeto de Lei n\u00ba 2.949, de 2020, diz respeito a uma quest\u00e3o fundamental neste momento, exatamente para criar a inst\u00e2ncia de pactua\u00e7\u00e3o, a fim de que possamos definir com seguran\u00e7a as estrat\u00e9gias e diretrizes para esse retorno \u00e0s aulas.\r\nPor exemplo, dar seguran\u00e7a a profissionais, a estudantes, a familiares, garantir aprendizado nesse contexto de pandemia.\r\nO projeto de lei cria inst\u00e2ncias intersetoriais: educa\u00e7\u00e3o, sa\u00fade, assist\u00eancia social. Ele \u00e9 intersetorial, \u00e9 colaborativo, faz um pacto com a Uni\u00e3o, Estados e Munic\u00edpios. Ele \u00e9 participativo para que possamos ter comiss\u00e3o dentro das escolas, com representa\u00e7\u00e3o de profissionais, de pais, de estudantes, de conselhos, diretores.\r\nOlhem s\u00f3 como essa quest\u00e3o \u00e9 grave. S\u00f3 na educa\u00e7\u00e3o b\u00e1sica, s\u00e3o 48 milh\u00f5es de estudantes. Se imaginarmos que, numa casa, h\u00e1 um pai, uma m\u00e3e e um filho, isto \u00e9, tr\u00eas pessoas, n\u00f3s estamos conversando sobre 150 milh\u00f5es de pessoas. Assim, \u00e9 muito importante definirmos quando n\u00f3s vamos retornar \u00e0s aulas. Para resolver isso, n\u00f3s temos que ter autoridade sanit\u00e1ria. Por exemplo, segundo dados de pandemia local, h\u00e1 alguns bairros que est\u00e3o em situa\u00e7\u00e3o pior do que os outros. A escola est\u00e1 preparada? Vamos ent\u00e3o criar protocolos sanit\u00e1rios. \r\nHoje, eu conversava com professores de Portugal. Eles me contaram que l\u00e1 voltaram \u00e0s aulas com certa tranquilidade, porque eles t\u00eam protocolos r\u00edgidos.\r\nE, se um aluno aparecer com coronav\u00edrus, a escola vai ser fechada, ou apenas a turma ser\u00e1 fechada, ou ser\u00e1 levado o aluno \u00e0 unidade de sa\u00fade? E quanto \u00e0s estrat\u00e9gias de distanciamento? Quantos alunos teremos por turma? Todo mundo vai entrar no mesmo hor\u00e1rio? E o hor\u00e1rio da merenda, e o hor\u00e1rio da educa\u00e7\u00e3o f\u00edsica e o transporte escolar?\r\nO que eu quero \u00e9 colocar esse debate em discuss\u00e3o. \r\nN\u00f3s vamos ter escola com higieniza\u00e7\u00e3o, com equipamento de prote\u00e7\u00e3o, vamos fazer medi\u00e7\u00e3o de temperatura de professores regularmente? Esse projeto, ent\u00e3o \u00e9 suprapartid\u00e1rio. Ele diz respeito \u00e0 garantia dos direitos sagrados. Primeiro, a seguran\u00e7a com a vida das pessoas. Eu falo de profissionais, estudantes, familiares e o direito \u00e0 aprendizagem. J\u00e1 imaginou se uma crian\u00e7a vai para a escola e contrai COVID-19, volta para a casa, e a\u00ed vem um av\u00f4 a \u00f3bito. Como iremos ficar nessa quest\u00e3o?\r\nQuero pedir encarecidamente que votemos a urg\u00eancia, porque essa situa\u00e7\u00e3o \u00e9 grave, \u00e9 uma coisa da mais alta relev\u00e2ncia, e n\u00f3s temos muita pressa em rela\u00e7\u00e3o a isso. Esse debate deve ser aberto a todos os Parlamentares.\r\nPe\u00e7o, ent\u00e3o, Presidente, que possamos votar a urg\u00eancia desse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F6%2F2020&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T11:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.\r\nPANDEMIA, CORONAV\u00cdRUS, SA\u00daDE P\u00daBLICA, DADOS, FALECIMENTO, ECONOMIA, ATUA\u00c7\u00c3O PARLAMENTAR, CONGRESSO NACIONAL, AGENDA LEGISLATIVA, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, EDUCA\u00c7\u00c3O, ESTUDANTE, EXCLUS\u00c3O, EDUCA\u00c7\u00c3O \u00c0 DIST\u00c2NCIA.\r\nVETO PRESIDENCIAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PROGRAMA FEDERATIVO DE ENFRENTAMENTO AO CORONAV\u00cdRUS SARS-COV-2 - COVID-19, SUSPENS\u00c3O, PAGAMENTO D\u00cdVIDA P\u00daBLICA, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, UNI\u00c3O.\r\nPEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, TEXTO CONSTITUCIONAL, REVOGA\u00c7\u00c3O, DISPOSITIVO, ATO DAS DISPOSI\u00c7\u00d5ES CONSTITUCIONAIS TRANSIT\u00d3RIAS, DEFESA, VOTA\u00c7\u00c3O.\r\nPL 2949/2020, PROJETO DE LEI ORDIN\u00c1RIA, ESTRAT\u00c9GIA PARA O RETORNO \u00c0S AULAS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), DIRETRIZES, ISOLAMENTO SOCIAL, PANDEMIA, CORONAV\u00cdRUS, DEFESA, VOTA\u00c7\u00c3O.\r\nPL 3165/2020, PROJETO DE LEI ORDIN\u00c1RIA, EDUCA\u00c7\u00c3O B\u00c1SICA, EDUCA\u00c7\u00c3O P\u00daBLICA, CALAMIDADE P\u00daBLICA, AUX\u00cdLIO EMERGENCIAL FINANCEIRO, DEFESA, VOTA\u00c7\u00c3O.\r\nPL 3477/2020, PROJETO DE LEI ORDIN\u00c1RIA, UNI\u00c3O, GARANTIA, RECURSOS, ACESSO, INTERNET, ALUNO, PROFESSOR, EDUCA\u00c7\u00c3O B\u00c1SICA, REDE P\u00daBLICA DE ENSINO, EDUCA\u00c7\u00c3O A DIST\u00c2NCIA, OPERADORA DE TELEFONIA M\u00d3VEL, GRATUIDADE, SERVI\u00c7OS, FONTE DE RECURSOS, FUNDO DE UNIVERSALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES (FUST).",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Consequ\u00eancias da pandemia de coronav\u00edrus sobre as \u00e1reas de sa\u00fade, educa\u00e7\u00e3o e econ\u00f4mica. Urgente necessidade de vota\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, acerca de transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o p\u00fablica b\u00e1sica. Defesa de vota\u00e7\u00e3o dos Projetos de Lei de n\u00bas 2.949, de 2020, a respeito da estrat\u00e9gia para o retorno \u00e0s aulas no \u00e2mbito do enfrentamento da pandemia do coronav\u00edrus; 3.165, de 2020, acerca da cria\u00e7\u00e3o do aux\u00edlio emergencial de 31 bilh\u00f5es de reais com a vista \u00e0 implementa\u00e7\u00e3o, pelos Estados e Munic\u00edpios, de a\u00e7\u00f5es voltadas \u00e0 educa\u00e7\u00e3o b\u00e1sica p\u00fablica durante \u00e0 pandemia da Covid-19; e 3.477, de 2020, sobre a garantia de acesso \u00e0 Internet, com fins educacionais, aos alunos e professores da educa\u00e7\u00e3o b\u00e1sica p\u00fablica. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 33, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Como L\u00edder. Sem revis\u00e3o do orador.) - Boa tarde, Presidenta Soraya Santos e colegas Parlamentares.\r\nOs efeitos da pandemia na sa\u00fade s\u00e3o vis\u00edveis: \u00f3bitos, sequelas, popula\u00e7\u00e3o do Brasil sofrendo, assim como a do mundo inteiro.\r\nOs efeitos da economia tamb\u00e9m s\u00e3o vis\u00edveis: desemprego, queda do PIB, baixa arrecada\u00e7\u00e3o da Uni\u00e3o, Estados e Munic\u00edpios.\r\nO Congresso tem feito a sua parte, aprovou o aux\u00edlio emergencial de 600 reais, aprovou o socorro financeiro com o PLP 39/20 para Estados e Munic\u00edpios. Agora, os efeitos da pandemia na educa\u00e7\u00e3o parece que s\u00e3o invis\u00edveis para muitos brasileiros - parece que s\u00e3o invis\u00edveis.\r\nAs pessoas n\u00e3o conseguem mensurar qual \u00e9 o pre\u00e7o, qual \u00e9 o custo social de ter estudantes meses e meses sem aulas, inclusive por conta da exclus\u00e3o digital.\r\nEnt\u00e3o, a minha fala vem exatamente nesse sentido, para dizer que o Congresso precisa priorizar urgentemente essas pautas da educa\u00e7\u00e3o, porque, sen\u00e3o, esse preju\u00edzo vai ser enorme ao longo do tempo. As pessoas n\u00e3o conseguem enxergar o que \u00e9 uma crian\u00e7a passar 5 meses, 6 meses sem creche, e um jovem sem escola.\r\nEu queria colocar esta pauta posta a\u00ed e que n\u00e3o consegue avan\u00e7ar.\r\nO FUNDEB, desde 2015, ningu\u00e9m vota. N\u00f3s j\u00e1 vamos chegar \u00e0 metade do ano. O FUNDEB acaba em 2020. Isso \u00e9 t\u00e3o claro! Sem FUNDEB, n\u00f3s n\u00e3o temos escola em 2021.\r\nN\u00f3s j\u00e1 temos uma crise na sa\u00fade, uma crise pol\u00edtica, com a amea\u00e7a \u00e0 democracia, uma crise econ\u00f4mica. Ent\u00e3o, n\u00f3s vamos contratar uma crise na educa\u00e7\u00e3o, com data marcada para iniciar?\r\nFa\u00e7o este apelo para que se vote o FUNDEB urgentemente.\r\nSegunda pauta: o retorno \u00e0s aula, como ser\u00e1? N\u00f3s vamos dar seguran\u00e7a \u00e0s fam\u00edlias, \u00e0s crian\u00e7as e aos jovens? N\u00f3s temos o PL 2.949/20, para o qual j\u00e1 foi votada a urg\u00eancia. N\u00f3s temos que nos reunir para deliberar. Essa n\u00e3o \u00e9 uma decis\u00e3o singular, \u00e9 intersetorial, passa por sa\u00fade, assist\u00eancia social e educa\u00e7\u00e3o. Temos que aprovar esse PL.\r\nOutro PL \u00e9 o 3.165. A educa\u00e7\u00e3o perdeu, s\u00f3 em 2020, 31 bilh\u00f5es. Esse n\u00famero foi um estudo de Todos pela Educa\u00e7\u00e3o, do Instituto Unibanco e da Consultoria desta Casa. O PLP 39/20 n\u00e3o tem vincula\u00e7\u00e3o com a educa\u00e7\u00e3o, ou seja, os Prefeitos e Governadores n\u00e3o s\u00e3o obrigados a gastar os 25%. Ent\u00e3o, v\u00e3o gastar com o qu\u00ea? Com a sa\u00fade, \u00e9 l\u00f3gico!\r\nOntem, foi apresentado um novo PL, que \u00e9 o PL 3.477, que pega o dinheiro do FUST, que tem cerca de 30 bilh\u00f5es, para comprar equipamento e dar Internet aos estudantes e professores. N\u00f3s n\u00e3o sabemos por quanto tempo vai haver aula n\u00e3o presencial.\r\nEnt\u00e3o, essa exclus\u00e3o \u00e9 terr\u00edvel. Por isso, pe\u00e7o o apoio.\r\nH\u00e1 outras pautas, como os precat\u00f3rios dos professores, que est\u00e3o l\u00e1 no Senado, pedindo vincula\u00e7\u00e3o de 60% para professores. Esse dinheiro est\u00e1 l\u00e1 h\u00e1 muito tempo, e essa discuss\u00e3o n\u00e3o avan\u00e7a.\r\nNesse aux\u00edlio emergencial para Estados e Munic\u00edpios, o Presidente vetou o reajuste para o servidor da educa\u00e7\u00e3o, tamb\u00e9m proibiu concurso e proibiu convoca\u00e7\u00e3o dos aprovados. Isso \u00e9 um absurdo!\r\nEnt\u00e3o, n\u00f3s vamos ficar parados na educa\u00e7\u00e3o, sa\u00fade e seguran\u00e7a p\u00fablica? Imagine, numa cidade em que o m\u00e9dico teve que se aposentar, n\u00f3s vamos ficar sem esse profissional? E o professor que se aposentou, n\u00e3o vai ter substituto durante 2 anos?\r\nFica aqui o meu apelo. As pessoas n\u00e3o est\u00e3o entendendo, n\u00e3o est\u00e3o visualizando o preju\u00edzo que este Pa\u00eds vai ter se n\u00e3o forem votadas as pautas da educa\u00e7\u00e3o. Financiamento p\u00fablico sempre foi importante, agora mais do que nunca \u00e9 quest\u00e3o de sobreviv\u00eancia.\r\nPresidente Soraya, Parlamentares, aqui fica o meu apelo veemente para que o Brasil veja o que est\u00e1 parecendo invis\u00edvel. Os efeitos da pandemia na educa\u00e7\u00e3o ser\u00e3o danosos. Se o Brasil quiser sair melhor desta pandemia, ter\u00e1 que apostar muito no pilar chamado educa\u00e7\u00e3o.\r\nBoa tarde a todos.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - Boa tarde, Deputado.\r\nO SR. IDILVAN ALENCAR (PDT - CE) - O PDT encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica,",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Deputado Andr\u00e9.\r\nPresidente Rodrigo Maia, meus parab\u00e9ns! Quando eu assumi este mandato, V.Exa. me chamou na sua casa e disse: \"Idilvan, os professores do Rio gostam muito do meu pai\". Eu quero dar o testemunho do seu empenho neste processo. V.Exa. est\u00e1 de parab\u00e9ns por conduzir esta vota\u00e7\u00e3o!\r\nEu queria saudar o Deputado Bacelar; a Comiss\u00e3o de Educa\u00e7\u00e3o; a minha amiga Deputada Professora Dorinha, forte, guerreira, competente; os demais Parlamentares da Comiss\u00e3o de Educa\u00e7\u00e3o; o CONSED; a UNDIME; o Todos pela Educa\u00e7\u00e3o; a Campanha Nacional pelo Direito \u00e0 Educa\u00e7\u00e3o; o Reginaldo, do APEOC; a Ana Cristina, do SINDIUTE; estudantes e educadores, em especial do meu Cear\u00e1.\r\nPor que FUNDEB? Porque o Brasil \u00e9 desigual, porque tem Munic\u00edpio rico e Munic\u00edpio pobre. Antes do FUNDEB, o Munic\u00edpio de Altaneira investia quase nada, e o de Juazeiro do Norte investia bem mais.\r\nPor que FUNDEB? Porque tem gente que acha que escola, para pobre, serve qualquer uma. Mas n\u00e3o serve, n\u00e3o. Tem que ter dinheiro para contratar professor bom, para construir biblioteca, para ter quadra, para ter acesso \u00e0 Internet.\r\nPor que FUNDEB permanente? Porque a educa\u00e7\u00e3o n\u00e3o vai ser menos importante no futuro. Porque, pelo contr\u00e1rio, aprender \u00e9 cada vez mais importante. N\u00f3s come\u00e7amos muito tarde. S\u00f3 em 1988 que educa\u00e7\u00e3o come\u00e7ou a ser direito de fato. Isso n\u00e3o pode acabar nunca. N\u00f3s nunca vamos ter igualdade de oportunidades sem igualdade na educa\u00e7\u00e3o. \u00c9 um desafio hoje e vai ser sempre.\r\nPor que mais recursos da Uni\u00e3o? Educa\u00e7\u00e3o \u00e9 um direito das pessoas e um dever da Uni\u00e3o, de Estados e Munic\u00edpios. Se \u00e9 um dever dos tr\u00eas, por que n\u00e3o racham essa conta, essa despesa? Tinha que ser 33%. A Uni\u00e3o \u00e9 que arrecada mais. Estamos saindo de 10% para 23%. Era o que quer\u00edamos? N\u00e3o. Mas, com um governo que n\u00e3o prioriza a educa\u00e7\u00e3o, est\u00e1 bom.\r\nPor que 70% para professores e profissionais? Porque \u00e9 assim em todo o mundo. Segundo a OCDE, nos pa\u00edses ricos, 79% v\u00e3o para a educa\u00e7\u00e3o e para professores tamb\u00e9m.\r\nEscola \u00e9 feita de estudantes, de professores e de outros trabalhadores. A escola tem secret\u00e1rio escolar, tem pessoas na limpeza, tem cuidador.\r\nPor que 70%? Porque temos que contratar mais professores e chamar concursados. Nas creches, de cada 10 crian\u00e7as, s\u00f3 3 est\u00e3o na unidade. Temos que criar mais creches. E como se cria sem professor?\r\nEscola em tempo integral. De cada 100 matr\u00edculas, s\u00f3 14 s\u00e3o em escolas em tempo integral. V.Exas. sabiam que esse nome, \"tempo integral\", \u00e9 brasileiro? L\u00e1 fora \u00e9 s\u00f3 escola - todas j\u00e1 s\u00e3o em tempo integral. As nossas crian\u00e7as ficam menos tempo na escola, com professor mal remunerado e com forma\u00e7\u00e3o prec\u00e1ria. A\u00ed querem somente comparar os dados do PISA. Como? Por que n\u00e3o comparam o sal\u00e1rio tamb\u00e9m? Tem que aumentar sal\u00e1rio de professor, sim. Hoje ele ganha 23% menos, em m\u00e9dia, do que as outras profiss\u00f5es.\r\nPor que defendo escola p\u00fablica? Escola particular \u00e9 12 mil reais por ano; escola p\u00fablica \u00e9 mais ou menos 4 mil por ano. E a complexidade? Dos alunos da escola particular os pais s\u00e3o formados, t\u00eam Internet, t\u00eam livro em casa, comem direitinho no almo\u00e7o e na janta.\r\nOs alunos das escolas p\u00fablicas muitas vezes moram em casas sem conforto, passam fome, sofrem ass\u00e9dio. O crime e as drogas moram ao lado. Esses meninos merecem ter educa\u00e7\u00e3o pior? N\u00e3o. A\u00ed \u00e9 que surgem a escola p\u00fablica e o professor.\r\nProfessor pode ser chamado de professor, de psic\u00f3logo, de assistente social, de pai, de m\u00e3e, de irm\u00e3o, e ainda tem que ser educador.\r\n\u00c9 duro ouvir, nesta Casa, Deputado falar mal de professor, que ele ganha demais. Gente que nunca pisou na escola p\u00fablica \u00e9 que diz isso. Nunca pisou na escola p\u00fablica.\r\nEu quero que, l\u00e1 em Fortaleza, os meninos que moram do lado direito da Treze de Maio tenham o mesmo direito dos que moram do lado esquerdo, a mesma educa\u00e7\u00e3o, que os que moram na Aguanambi tenham o mesmo direito, tanto os que moram do lado esquerdo quanto os que moram do lado direito. Isso n\u00e3o acontece.\r\nEu dedico, Presidente Rodrigo Maia, a aprova\u00e7\u00e3o do FUNDEB neste momento hist\u00f3rico aos estudantes brasileiros. Mas, se eu dedicasse aos estudantes, eles iriam dedic\u00e1-la aos professores, porque eles gostam muito dos professores - quem n\u00e3o gosta de professor? Ent\u00e3o, dedico logo aos professores, de forma direta, na pessoa de duas professoras: de uma delas in memoriam, da D. Consuelo, m\u00e3e da Deputada Professora Dorinha; e da minha m\u00e3e, que est\u00e1 viva e \u00e9 aposentada do Estado.\r\nEste momento, para mim, \u00e9 muito importante.\r\nVence o Brasil, vence a educa\u00e7\u00e3o.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3477/2020, PROJETO DE LEI ORDINARIA,  PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento n\u00ba 2.156, de 2020, para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.477, de 2020, acerca de medidas de garantia do acesso \u00e0 internet, com fins educacionais, aos alunos e professores da educa\u00e7\u00e3o de educa\u00e7\u00e3o b\u00e1sica p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - V.Exa. me escuta, Presidente?\r\nO SR. PRESIDENTE (Marcel Van Hattem. NOVO - RS) - Sim.\r\nO SR. IDILVAN ALENCAR (PDT - CE) - Sr. Presidente, esse projeto \u00e9 important\u00edssimo. Ele \u00e9 de minha autoria, em conjunto com v\u00e1rios Deputados, como a Deputada Dorinha e a Deputada Rosa Neide, e a Deputada Tabata \u00e9 a Relatora.\r\nNo in\u00edcio dessa pandemia, n\u00f3s tivemos s\u00e9rios problemas. E as escolas est\u00e3o fechadas h\u00e1 8 meses. N\u00f3s estamos com dificuldade de conex\u00e3o exatamente para quem \u00e9 mais pobre neste Pa\u00eds.\r\nA pesquisa do IBGE mostra que, em Bras\u00edlia, 97% t\u00eam acesso \u00e0 Internet; no Nordeste, na zona rural, s\u00f3 35% t\u00eam acesso. Ent\u00e3o, queremos que uma parte do recurso do FUST - quer\u00edamos ele todo, mas talvez n\u00e3o seja poss\u00edvel - v\u00e1 para a compra de tablets e para a conex\u00e3o de professores e estudantes, especialmente para quem est\u00e1 no Cadastro \u00danico.\r\nEnt\u00e3o, o PDT orienta \"sim\". \r\nEsse \u00e9 um projeto important\u00edssimo para a educa\u00e7\u00e3o brasileira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F12%2F2020&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), OPOSI\u00c7\u00c3O POL\u00cdTICA, VOTO FAVOR\u00c1VEL. \r\nPL 3477/2020, PROJETO DE LEI ORDIN\u00c1RIA, UNI\u00c3O, GARANTIA, RECURSOS, ACESSO, INTERNET, ALUNO, PROFESSOR, EDUCA\u00c7\u00c3O B\u00c1SICA, REDE P\u00daBLICA DE ENSINO, EDUCA\u00c7\u00c3O A DIST\u00c2NCIA, OPERADORA DE TELEFONIA M\u00d3VEL, GRATUIDADE, SERVI\u00c7OS, FONTE DE RECURSOS, FUNDO DE UNIVERSALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES (FUST)",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia e ao Relator Felipe Rigoni. Necessidade de observ\u00e2ncia do disposto na Emenda Constitucional n\u00ba 108, de 2020, no processo de regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Confian\u00e7a do orador na vota\u00e7\u00e3o pela Casa, no exerc\u00edcio de 2020, do Projeto de Lei n\u00ba 3.477, de 2020, acerca da garantia do acesso \u00e0 Internet, com fins educacionais, aos alunos e professores da educa\u00e7\u00e3o b\u00e1sica p\u00fablica. Convoca\u00e7\u00e3o dos Parlamentares e da sociedade civil para celebra\u00e7\u00e3o de grande pacto pela garantia da aprendizagem do alunato brasileiro. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o de Educa\u00e7\u00e3o ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Bom, primeiro, eu queria dizer que vou orientar pelo PDT e pela Oposi\u00e7\u00e3o.\r\nQueria parabeniz\u00e1-lo, Presidente Rodrigo Maia, pelo seu compromisso para com a emenda constitucional e agora para garantir essa regulamenta\u00e7\u00e3o, evitando que seja por uma medida provis\u00f3ria ou pelo Minist\u00e9rio da Educa\u00e7\u00e3o, no qual n\u00f3s n\u00e3o confiamos.\r\nQueria agradecer ao Deputado Rigoni, que foi muito flex\u00edvel e aberto ao di\u00e1logo. S.Exa. est\u00e1 de parab\u00e9ns pela sua disposi\u00e7\u00e3o.\r\nO importante nesta lei \u00e9 manter o esp\u00edrito da emenda constitucional, o FUNDEB permanente, que \u00e9 importante hoje e vai ser no futuro, vai garantir mais dinheiro da Uni\u00e3o para o apoio \u00e0 educa\u00e7\u00e3o infantil, para o refor\u00e7o \u00e0 equidade e para a qualidade e valoriza\u00e7\u00e3o dos profissionais da educa\u00e7\u00e3o.\r\nA escola \u00e9, sim, um espa\u00e7o democr\u00e1tico. O gestor escolar, por mais inteligente, por mais sabido que seja, se n\u00e3o tiver apoio da comunidade, n\u00e3o consegue fazer a escola caminhar. Ent\u00e3o, s\u00e3o importantes esses valores.\r\nUm aspecto importante nesta lei \u00e9 que a educa\u00e7\u00e3o profissional est\u00e1 sendo valorizada, e o Brasil precisa muito disso. E n\u00f3s conseguimos barrar essa hist\u00f3ria de dizer que dinheiro p\u00fablico \u00e9 para voucher, \u00e9 para escola particular. N\u00e3o! Dinheiro p\u00fablico \u00e9 para escola p\u00fablica. Quem quiser investir em escola privada que procure outro recurso. Ent\u00e3o, isso \u00e9 muito importante.\r\nEu ainda aposto que este ano vamos conseguir votar o Projeto Lei n\u00ba 3.477, de 2020, que trata de recursos do FUST para conex\u00e3o. A Deputada Tabata \u00e9 Relatora e aprimorou o projeto. Ainda \u00e9 importante, Presidente Rodrigo Maia, votarmos esse projeto.\r\nAntes de encerrar a minha fala, convoco o mundo pol\u00edtico e a sociedade civil para essa quest\u00e3o que o Deputado Pedro alerta. Este ano de 2020 foi uma trag\u00e9dia para a educa\u00e7\u00e3o. Quem minimizou foi os professores, que se esfor\u00e7aram para manter o v\u00ednculo entre escola e aluno. Mas o pr\u00f3ximo ano ser\u00e1 muito dif\u00edcil. N\u00f3s temos que garantir que o aluno n\u00e3o saia da escola, que fique na escola e que tenha o direito de aprendizagem garantido. \u00c9 preciso um pacto grande. Aqui convoco Parlamentares e sociedade civil para fazer esse pacto.\r\nEu encerro a minha dizendo o seguinte: h\u00e1 dias em que eu sinto orgulho de ser Parlamentar. Hoje \u00e9 um deles. Eu acho que o Parlamento Federal d\u00e1 exemplo para o Brasil e diz que escola p\u00fablica \u00e9 importante, o professor \u00e9 importante ao aprovar esta lei.\r\nOriento \"sim\" pela Oposi\u00e7\u00e3o e pelo PDT.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), OPOSI\u00c7\u00c3O POL\u00cdTICA, CONTESTA\u00c7\u00c3O, DESTINA\u00c7\u00c3O, RECURSOS FINANCEIROS, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), EDUCA\u00c7\u00c3O PRIVADA, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA.\r\nFILANTROPIA, DEFINA\u00c7\u00c3O.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Gratid\u00e3o do orador para com os filantr\u00f3picos. Posicionamento do PDT e da Oposi\u00e7\u00e3o contr\u00e1rio \u00e0 destina\u00e7\u00e3o, ao ensino privado, de recursos preconizados no Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Defesa de rejei\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 5.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Israel, segundo o Aur\u00e9lio, o conceito de filantropia \u00e9: \"Profundo amor \u00e0 humanidade, desprendimento, generosidade, caridade com os outros\". Este \u00e9 o conceito de filantropia. No mundo inteiro se faz filantropia com os pr\u00f3prios recursos, e n\u00e3o com recurso p\u00fablico. \r\nN\u00f3s somos muito gratos a quem faz filantropia no Pa\u00eds, a quem aposta em educa\u00e7\u00e3o, a quem quer melhorar o Pa\u00eds, mas este destaque do PSOL simplesmente acaba com o ganho que n\u00f3s tivemos no FUNDEB. Se algum Deputado deste Pa\u00eds votar a favor do destaque e disser que votou a favor da escola p\u00fablica e dos professores, ser\u00e1 mentira. Este destaque n\u00e3o aposta em escola p\u00fablica. Isso j\u00e1 havia sido derrotado na PEC, mas agora volta com toda a for\u00e7a. \u00c9 bom entendermos que isso foi derrotado. Foi feito um amplo debate, com a realiza\u00e7\u00e3o de audi\u00eancias p\u00fablicas. O Deputado que \u00e9 a favor do uso de recursos p\u00fablicos nessas institui\u00e7\u00f5es n\u00e3o aposta em escola p\u00fablica, n\u00e3o aposta em professor. \u00c9 bom deixar isso bem claro. Ent\u00e3o, vamos exercer a filantropia, a humanidade, a generosidade. N\u00f3s somos gratos a quem faz filantropia.\r\nO PDT e a Oposi\u00e7\u00e3o s\u00e3o veementemente contra isso, porque acaba com o ganho que tivemos naquela vota\u00e7\u00e3o do FUNDEB, quando isso foi derrotado. \u00c9 bom que fique muito claro. O Governo at\u00e9 desistiu no meio do caminho dessa hist\u00f3ria, mas agora ela retorna com toda essa for\u00e7a, toda essa pol\u00eamica. \u00c9 uma pena! Por que est\u00e1 retornando? Ser\u00e1 que \u00e9 porque estamos em final de ano, e est\u00e3o desmobilizados os professores, a educa\u00e7\u00e3o p\u00fablica deste Pa\u00eds? Isso n\u00e3o vai ser visto com bons olhos por nenhum professor de escola p\u00fablica deste Pa\u00eds. Nenhum deles vai entender como algu\u00e9m que defendeu o FUNDEB um tempo atr\u00e1s agora \u00e9 a favor de usar o recurso em todas as institui\u00e7\u00f5es. N\u00f3s n\u00e3o apostamos na escola p\u00fablica, n\u00e3o?\r\nEsta \u00e9 a posi\u00e7\u00e3o do PDT e da Oposi\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=222&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCRATICO TRABALHISTA (PDT), VOTO CONTRARIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 40, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - A quest\u00e3o da educa\u00e7\u00e3o profissionalizante deve ser uma prioridade. O Deputado Pedro Cunha tem raz\u00e3o, o Brasil precisa investir muito em educa\u00e7\u00e3o profissional. S\u00f3 que temos que ter um debate mais profundo sobre como viabilizar o aumento dessa oferta. O Brasil tem que ter bem mais t\u00e9cnicos, pelo tamanho da economia, e a op\u00e7\u00e3o parte de uma an\u00e1lise mais ampla, debatendo o papel do Sistema S, dos Institutos Federais, das autarquias e da iniciativa privada nessa oferta.\r\nAqui no Cear\u00e1 n\u00f3s temos educa\u00e7\u00e3o profissionalizante em mais de 120 escolas. Fazemos a oferta na pr\u00f3pria rede estadual, igual o Estado de Pernambuco e o Estado de S\u00e3o Paulo.\r\nRetirar dinheiro do FUNDEB, da educa\u00e7\u00e3o b\u00e1sica, para financiar a educa\u00e7\u00e3o profissionalizante, por meio de parcerias, n\u00e3o \u00e9 muito pertinente. N\u00e3o \u00e9 este o momento. Para a educa\u00e7\u00e3o b\u00e1sica, urge mais financiamento.\r\nO PDT e a Oposi\u00e7\u00e3o orientam \"n\u00e3o\", seguindo a mesma l\u00f3gica da orienta\u00e7\u00e3o anterior: os recursos da educa\u00e7\u00e3o p\u00fablica s\u00e3o para a escola p\u00fablica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=236&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCRATICO TRABALHISTA (PDT),  VOTO CONTRARIO, RECURSOS, EDUCA\u00c7\u00c3O PRIVADA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 10, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Contrariedade \u00e0 destina\u00e7\u00e3o de recursos do FUNDEB para o setor privado.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - O FUNDEB \u00e9 para a escola p\u00fablica. Quando se fala em creche, \u00e9 bom lembrarmos que no Brasil h\u00e1 oferta de ensino fundamental e de ensino m\u00e9dio, mas n\u00e3o de creche, e \u00e9 por isso que h\u00e1 conveniamento. N\u00f3s aceitamos porque \u00e9 assim mesmo.\r\nAs escolas filantr\u00f3picas deveriam buscar dinheiro de doa\u00e7\u00f5es para aumentar os recursos investidos na educa\u00e7\u00e3o. Agora, querer tirar dinheiro da escola p\u00fablica... \u00c9 isso que essa emenda est\u00e1 fazendo. Querem tirar dinheiro da escola p\u00fablica para a escola filantr\u00f3pica. \u00c9 isso que est\u00e3o votando. V\u00e3o tirar dinheiro e depois v\u00e3o falar mal da escola p\u00fablica, dizendo que n\u00e3o tem resultado, que n\u00e3o presta. O FUNDEB era uma esperan\u00e7a, e agora est\u00e3o tirando recursos: estavam tirando 100%, mas agora v\u00e3o tirar 10%. N\u00f3s somos contra.\r\nFoi dito que a sa\u00fade n\u00e3o tem leitos, que o SUS \u00e9 filantropia. \u00c9 verdade, h\u00e1 falta de leito, e por isso se faz parceria com filantropia. Na educa\u00e7\u00e3o b\u00e1sica n\u00e3o falta vaga no ensino fundamental e no ensino m\u00e9dio. Como bem disse a Deputada Professora Dorinha, o per capita ainda \u00e9 muito baixo. Ent\u00e3o, n\u00f3s vamos tirar dinheiro da escola p\u00fablica para a filantr\u00f3pica e piorar a escola de milh\u00f5es para resolver o problema de alguns?!\r\nA orienta\u00e7\u00e3o do PDT e da Oposi\u00e7\u00e3o \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=248&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), EMENDA DE PLENARIO, EDUCA\u00c7\u00c3O PRIVADA, CRITICA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Protesto contra a aprova\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 10, sobre a destina\u00e7\u00e3o de recursos do FUNDEB para as institui\u00e7\u00f5es filantr\u00f3picas de ensino, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, acerca da regulamenta\u00e7\u00e3o  do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Como L\u00edder. Sem revis\u00e3o do orador.) - Eu queria prestar minha solidariedade \u00e0 escola p\u00fablica brasileira, que perdeu a\u00ed uma quest\u00e3o fundamental, que era exercer a sua atividade de prestar a oferta do ensino fundamental e do ensino m\u00e9dio. Perdeu parcialmente? Sim, parcialmente, 10%. Quanto isso representa? N\u00e3o \u00e9 bem a quest\u00e3o do valor em si, mas a quest\u00e3o dessa abertura que foi feita.\r\n\u00c9 importante que os Deputados brasileiros assumam essa quest\u00e3o. Bem, ent\u00e3o, as pessoas que fazem a escola p\u00fablica do ensino fundamental e do ensino m\u00e9dio n\u00e3o t\u00eam compet\u00eancia para fazer essa oferta de forma benfeita? Pegamos o recurso p\u00fablico e colocamos na filantropia? \u00c9 bom que cada um assuma isso.\r\nPortanto, quem mais merece solidariedade \u00e9 a escola p\u00fablica brasileira, s\u00e3o os professores, que nesta pandemia fizeram todo o esfor\u00e7o do mundo para n\u00e3o deixar acabar o v\u00ednculo entre escola e estudante e se viraram nos trinta. Do dia para a noite, come\u00e7aram a fazer videoaula, fizeram todo esse esfor\u00e7o! \r\nHoje \u00e9 um dia triste para a educa\u00e7\u00e3o brasileira, n\u00f3s n\u00e3o temos o que celebrar. N\u00f3s perdemos muito, perdemos uma quest\u00e3o conceitual. N\u00f3s perdemos recursos da FUNDEB e perdemos uma quest\u00e3o conceitual. \u00c9 bom que se deixe isso muito claro. Hoje foi 10%. Amanh\u00e3 - quem sabe? - algu\u00e9m vai achar que \u00e9 20% ou 30%. O conceito de filantropia no Brasil \u00e9 outro. Filantropia n\u00e3o \u00e9 caridade, n\u00e3o \u00e9 benevol\u00eancia, filantropia \u00e9 pegar o recurso p\u00fablico agora e prestar a oferta do ensino fundamental e do ensino m\u00e9dio.\r\nN\u00f3s, que fazemos o PDT, um partido que tem liga\u00e7\u00e3o hist\u00f3rica com a educa\u00e7\u00e3o, e estamos na Oposi\u00e7\u00e3o, realmente estamos muito tristes com o que aconteceu hoje. Por\u00e9m, n\u00f3s n\u00e3o perdemos sem lutar, sem nos posicionar, sem dizer o nosso ponto de vista, mas \u00e9 importante que cada um assuma essa sua posi\u00e7\u00e3o. Muitas pessoas v\u00e3o dizer assim, nessa retrospectiva de final de ano: \"Eu votei pelo FUNDEB, eu votei pela educa\u00e7\u00e3o p\u00fablica\". Coloquem uma v\u00edrgula nessa sua fala. Votou pelo FUNDEB - v\u00edrgula -, mas tamb\u00e9m acha que 10% desse valor pode ser feito por filantropia, por outras institui\u00e7\u00e3o. Por qu\u00ea? N\u00e3o h\u00e1 escola de ensino fundamental e ensino m\u00e9dio, n\u00e3o? Ou \u00e9 melhor fazer com escola... Isso \u00e9 uma quest\u00e3o de princ\u00edpio. Para essas pessoas que est\u00e3o votando para que 10% do FUNDEB possa ser conveniado com essas organiza\u00e7\u00f5es, digo que essa \u00e9 uma quest\u00e3o de princ\u00edpio.\r\nPortanto, eu quero lamentar profundamente. E quero dizer que n\u00f3s vamos continuar a defender a escola p\u00fablica, a acreditar em professor em escola p\u00fablica.\r\nEssa \u00e9 a minha fala, de tristeza, mas n\u00e3o pode nos abater, de forma alguma. Temos que estar cada vez mais atentos, ter cuidado com acordo, com reuni\u00e3o. Isso tamb\u00e9m foi um aprendizado para n\u00f3s que somos da Oposi\u00e7\u00e3o. Precisamos ter muito cuidado, quando formos para o plen\u00e1rio, com o que escutamos.\r\nPor exemplo, tenho muito respeito pelo Relator, mas eu acho que ele poderia defender mais seu relat\u00f3rio, com mais \u00eanfase, afinal, o relat\u00f3rio \u00e9 dele. Isso infelizmente n\u00e3o aconteceu.\r\nFica o aprendizado para a Oposi\u00e7\u00e3o e fica, digamos assim, o nosso rep\u00fadio e a nossa tristeza. E eu termino me solidarizando n\u00e3o com a pessoa A, B ou C, mas com a escola p\u00fablica brasileira.\r\nEssa \u00e9 a minha fala. Depois eu passarei a orientar.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=264&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - O Brasil conheceu algumas terminologias chulas, como \"passar a boiada\". N\u00f3s aprendemos esse vocabul\u00e1rio terr\u00edvel. Passar a boiada \u00e9 isto: aproveitar o final de ano e desmontar uma parte do FUNDEB.\r\nEnt\u00e3o, o PDT tamb\u00e9m orienta \"obstru\u00e7\u00e3o\", para retirar de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=324&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, OPOSI\u00c7\u00c3O POL\u00cdTICA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, uma rep\u00f3rter me perguntou: \"Por que as pessoas votaram para que a prerrogativa de ofertar os ensinos fundamental e m\u00e9dio n\u00e3o fosse mais somente da escola p\u00fablica?\" Assim eu respondi: \"Isso \u00e9 uma quest\u00e3o de cren\u00e7a, isso \u00e9 uma quest\u00e3o de princ\u00edpios\".\r\nPessoas n\u00e3o gostam da escola p\u00fablica, n\u00e3o apostam nela, falam mal da escola p\u00fablica, enchem a boca para falar dos resultados do PISA e do IDEB, sem nem conhecer a realidade. E, o que \u00e9 mais grave, essas pessoas que n\u00e3o gostam da escola p\u00fablica acham que o professor n\u00e3o tem compet\u00eancia. Elas acham que professor da escola p\u00fablica n\u00e3o tem compet\u00eancia. Muitas n\u00e3o t\u00eam coragem de dizer isso, mas acham. Mas os atos falam. \r\nE hoje os atos, infelizmente, mostraram a posi\u00e7\u00e3o de muitas pessoas. \r\nA Oposi\u00e7\u00e3o orienta \"sim\", para retirar a mat\u00e9ria de pauta, a fim de salvar o que resta dos princ\u00edpios do FUNDEB.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=329&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T21:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 31, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidenta Soraya, \u00e9 impressionante essa vontade de destruir a escola p\u00fablica, de fazer mal \u00e0 escola p\u00fablica. \u00c9 incr\u00edvel! Eles n\u00e3o param!\r\n\u00c9 l\u00f3gico que isso \u00e9 muito ruim. Eu fui Secret\u00e1rio de Educa\u00e7\u00e3o por dez anos no Cear\u00e1. Ora, um recurso que chegava em janeiro agora vai chegar em 30 de abril? As pessoas n\u00e3o falam tanto em efici\u00eancia no servi\u00e7o p\u00fablico? N\u00e3o, de forma alguma!\r\nO PDT orienta \"n\u00e3o\", porque isso \u00e9 mais um desservi\u00e7o \u00e0 educa\u00e7\u00e3o p\u00fablica brasileira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=332&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T21:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, OPOSI\u00c7\u00c3O POL\u00cdTICA, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 31, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - A Oposi\u00e7\u00e3o orienta \"n\u00e3o\", para tentarmos minimizar uma s\u00e9rie de retrocessos que querem colocar no FUNDEB: um recurso que era para janeiro agora querem passar para abril. S\u00f3 coisa ruim nesta noite!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=334&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 6, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Registro de voto do Deputado Afonso Motta.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, essa emenda \u00e9 a pior de todas, \u00e9 a mais danosa. Ela vem para acabar com o piso salarial, vem para desvalorizar professor. Uma pesquisa recente do INEP mostra que professor ganha 25% menos do que quem tem a mesma forma\u00e7\u00e3o.\r\nA coer\u00eancia e a conson\u00e2ncia dessa emenda \u00e9 com quem est\u00e1 no Congresso somente para defender interesse privado, quem tem raiva de servidor p\u00fablico, quem tem raiva de professor. Essa emenda \u00e9 terr\u00edvel, \u00e9 a pior de todas.\r\nAproveito para registrar que o Deputado Afonso votou com o partido na vota\u00e7\u00e3o anterior.\r\nOrientamos o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=342&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, OPOSI\u00c7\u00c3O POL\u00cdTICA, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 6, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB. Defesa de preserva\u00e7\u00e3o do piso salarial nacional dos profissionais do magist\u00e9rio p\u00fablico da educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Eu acho engra\u00e7ado que alguns Parlamentares dizem assim: \"N\u00f3s estamos aqui defendendo os alunos\". Perguntem aos alunos das escolas p\u00fablicas o que eles acham dos professores, se eles n\u00e3o reconhecem a dedica\u00e7\u00e3o, o conhecimento e o empenho dos professores, diferentemente de muitos de V.Exas., que n\u00e3o reconhecem. Isso os alunos das escolas p\u00fablicas reconhecem. Ent\u00e3o, V.Exas. n\u00e3o falam por alunos de escolas p\u00fablicas cois\u00edssima nenhuma!\r\n\u00c9 bom que fique claro: esta emenda \u00e9 para destruir o piso dos professores.\r\nA Oposi\u00e7\u00e3o orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=346&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T22:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDINARIA,  PARTIDO DEMOCRATICO TRABALHISTA (PDT), VOTO CONTRARIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 35, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Eu gosto muito desta modalidade de ensino, com programa\u00e7\u00e3o, rob\u00f3tica e produ\u00e7\u00e3o de jogos eletr\u00f4nicos. Inclusive, implantamos essas modalidades em muitas escolas aqui no Estado do Cear\u00e1. Mas este debate n\u00e3o deve ser feito na regulamenta\u00e7\u00e3o do FUNDEB, e sim na discuss\u00e3o da BNCC - Base Nacional Comum Curricular. Se se colocar isso na lei de regulamenta\u00e7\u00e3o do FUNDEB, haver\u00e1 um engessamento do FUNDEB, que \u00e9 um fundo de financiamento m\u00ednimo para Estados e Munic\u00edpios. Ent\u00e3o, adoro essa tem\u00e1tica, pois trata de ferramentas aliadas da aprendizagem, mas este debate n\u00e3o deve se dar na regulamenta\u00e7\u00e3o do FUNDEB. Por isso, oriento \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=353&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T23:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDINARIA,  PARTIDO DEMOCRATICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio no 20, apresentada ao  Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidenta Deputada Soraya, a Lei n\u00ba 11.494, de 2007, que regulamenta o FUNDEB, fez refer\u00eancia ao piso. Ent\u00e3o, acho que traz coer\u00eancia e seguran\u00e7a jur\u00eddica essa emenda do PCdoB. Eu acho que ela faz bem como garantia, quando n\u00f3s j\u00e1 estamos t\u00e3o desconfiados com essas mudan\u00e7as ruins para a educa\u00e7\u00e3o.\r\nO PDT vota \"sim\" ao destaque, e a Oposi\u00e7\u00e3o tamb\u00e9m vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=367&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZA\u00c7\u00c3O DO MAGIST\u00c9RIO (FUNDEF), CONGRESSO NACIONAL, PARLAMENTO, DEFESA, FINANCIAMENTO, ESCOLA P\u00daBLICA, EDUCA\u00c7\u00c3O P\u00daBLICA, EMENDA CONSTITUCIONAL, EDUCA\u00c7\u00c3O INFANTIL, PROFESSOR, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), APROVA\u00c7\u00c3O, RELAT\u00d3RIO (PROCESSO LEGISLATIVO), FELIPE RIGONI, RELATOR, SUBSTITUTIVO, SENADO FEDERAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB).",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Retrospectiva do financiamento da educa\u00e7\u00e3o p\u00fablica brasileira. Conclama\u00e7\u00e3o aos Deputados para aprova\u00e7\u00e3o do parecer oferecido pelo Deputado Felipe Rigoni ao Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Como L\u00edder. Sem revis\u00e3o do orador.) - Presidenta Tabata, eu falo em nome de todo o PDT, partido que tem uma hist\u00f3ria ligada \u00e0 educa\u00e7\u00e3o. O L\u00edder Wolney Queiroz me d\u00e1 esta honra e me pede que deixe clara sua posi\u00e7\u00e3o, assim como o Deputado Andr\u00e9 Figueiredo.\r\nN\u00f3s tivemos uma vit\u00f3ria nos meses de julho e de agosto muito celebrada no Brasil inteiro, quando o Parlamento deu uma demonstra\u00e7\u00e3o de uni\u00e3o e de respeito \u00e0 escola p\u00fablica. Foi um momento muito bonito! O Parlamento inteiro ficou unido para dizer sim \u00e0 escola p\u00fablica.\r\nO financiamento da educa\u00e7\u00e3o neste Pa\u00eds \u00e9 recente: come\u00e7a em 1996, com o FUNDEF, e depois com o FUNDEB. Nos \u00faltimos 30 anos, o financiamento FUNDEB/FUNDEF foi a pol\u00edtica mais assertiva feita na educa\u00e7\u00e3o, e muita coisa boa aconteceu em fun\u00e7\u00e3o disso, como a universaliza\u00e7\u00e3o do ensino fundamental. H\u00e1 muito pouco tempo, n\u00e3o havia escola p\u00fablica para todo mundo, n\u00e3o havia mesmo. Numa cidade como Fortaleza, contavam-se nos dedos as escolas p\u00fablicas. Agora, s\u00e3o 187 apenas no ensino m\u00e9dio. \r\nO que n\u00f3s fizemos em julho e em agosto? Eu digo \"n\u00f3s\" porque se trata de uma vit\u00f3ria coletiva. N\u00f3s fizemos o FUNDEB permanente na Constitui\u00e7\u00e3o. Por que permanente? Porque educa\u00e7\u00e3o \u00e9 importante e ser\u00e1 sempre no futuro. N\u00f3s fizemos um FUNDEB com mais recursos da Uni\u00e3o. Por que com mais recursos da Uni\u00e3o? Porque a Uni\u00e3o \u00e9 a que mais arrecada. N\u00f3s passamos o FUNDEB de 10% para 23%, a educa\u00e7\u00e3o infantil ganhou prioridade, ganhou-se em equidade, porque o FUNDEB existe para dar mais equidade \u00e0s redes. \r\nV.Exa., Deputada Tabata, contribuiu bastante. Eu elogio V.Exa., que colocou a quest\u00e3o da qualidade do FUNDEB, o que \u00e9 muito importante. Ali\u00e1s, a Deputada se inspirou na educa\u00e7\u00e3o do Cear\u00e1, como V.Exa. bem disse. \r\nNa \u00faltima semana, n\u00f3s ficamos tristes, porque realmente se desconfigurou e, no momento, n\u00f3s perdemos 10%. A escola p\u00fablica precisa de mais recursos. O custo/aluno \u00e9 baixo. Basta comparar uma escola particular com uma escola p\u00fablica: numa escola particular, pagam-se mil reais pela mensalidade - s\u00e3o 12 mil por ano. Com o FUNDEB, em 2026, dever\u00e1 ser de 5.500, e hoje s\u00e3o 3 mil e pouco.\r\nPortanto, quando n\u00f3s defendemos recurso p\u00fablico para a escola p\u00fablica, n\u00f3s o fazemos porque existe car\u00eancia na estrutura f\u00edsica, no pagamento e na valoriza\u00e7\u00e3o dos professores.\r\nMinha fala em nome do PDT \u00e9 em prol da uni\u00e3o, \u00e9 uma conclama\u00e7\u00e3o ao Parlamento brasileiro, especialmente \u00e0 C\u00e2mara dos Deputados. O Senado Federal j\u00e1 foi muito claro com rela\u00e7\u00e3o ao que disse \u00e0 popula\u00e7\u00e3o. O Senado n\u00e3o deixou d\u00favida: o Senado aposta na escola p\u00fablica. O Senado respeita os professores e atende ao chamamento dos alunos. \r\nEsta pauta do FUNDEB \u00e9 uma pauta do professor, do aluno, do secret\u00e1rio municipal de educa\u00e7\u00e3o, do secret\u00e1rio estadual de educa\u00e7\u00e3o, do terceiro setor, que apoia fortemente o relat\u00f3rio do Deputado Felipe Rigoni.\r\nMinha fala \u00e9 para pedir encarecidamente aos Parlamentares que n\u00f3s encerremos o ano de uma forma digna. Isso, a meu ver, \u00e9 importante. N\u00e3o fica legal para a C\u00e2mara dos Deputados dizer n\u00e3o ao FUNDEB para a escola p\u00fablica.\r\nDirijo-me, Sra. Presidente, especialmente aos Deputados do Cear\u00e1, Estado que sei que tem uma bancada de pessoas de valor. Eu acho que ficaria muito bonito se o Cear\u00e1 votasse de forma un\u00e2nime, defendendo a escola p\u00fablica e o FUNDEB.\r\nO momento n\u00e3o \u00e9 para uma fala ofensiva ou uma fala que venha a dizer que esta vit\u00f3ria \u00e9 de A, de B ou de C. Esta vit\u00f3ria n\u00e3o \u00e9 da Deputada Tabata Amaral, do Deputado Felipe Rigoni, da Deputada Professora Dorinha Seabra Rezende, da Deputada Professora Rosa Neide, do Deputado Idilvan Alencar. Esta vit\u00f3ria \u00e9 do conjunto da educa\u00e7\u00e3o p\u00fablica.\r\nPortanto, eu pe\u00e7o a cada Deputado que analise e pense na escola p\u00fablica que h\u00e1 na sua cidade, uma escola que pode melhorar. Pe\u00e7o que pense nos professores que conhece e respeita. Pe\u00e7o que pense nos estudantes filhos do trabalhador, do agricultor e da dona de casa.\r\nToda esta nossa luta e esta nossa veem\u00eancia visam a termos uma escola p\u00fablica melhor, e, para termos uma escola p\u00fablica melhor, \u00e9 preciso mais recurso. \u00c9 isso que o PDT faz esta defesa, com o L\u00edder Wolney Queiroz, com o Deputado Andr\u00e9 Figueiredo e com os demais Parlamentares, em nome do FUNDEB e da escola p\u00fablica.\r\nVamos apostar que a escola p\u00fablica pode, sim, ser melhor, ter mais qualidade e mais equidade e pode mudar a vida das pessoas.\r\nEu falo aqui em defesa do relat\u00f3rio, na \u00edntegra, do Deputado Felipe Rigoni.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, SENADO FEDERAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.\r\nANA CRISTINA, ANIZIO MELO, DIRIGENTE SINDICAL, FORTALEZA (CE), CEAR\u00c1, HOMENAGEM, SINDICATO, EDUCA\u00c7\u00c3O P\u00daBLICA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Homenagem \u00e0 Presidenta do Sindicato \u00danico dos Trabalhadores em Educa\u00e7\u00e3o no Estado do Cear\u00e1 - SINDIUTE, Ana Cristina Guilherme, e ao Presidente do Sindicato dos Servidores P\u00fablicos lotados nas Secretarias de Educa\u00e7\u00e3o e de Cultura do Estado do Cear\u00e1 e nas Secretarias ou Departamentos de Educa\u00e7\u00e3o e/ou Cultura dos Munic\u00edpios do Cear\u00e1 - APEOC, Anizio Melo. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Tabata, j\u00e1 que os sindicatos foram citados, aproveito para fazer uma homenagem \u00e0 Ana Cristina, do SINDIUTE de Fortaleza, e ao Anizio Melo, da APEOC, aqui do Estado do Cear\u00e1.\r\nEsse desejo do FUNDEB \u00e9 dos professores, que os sindicatos representam e fazem grande mobiliza\u00e7\u00e3o no Pa\u00eds inteiro, dos estudantes, dos secret\u00e1rios municipais e dos secret\u00e1rios estaduais.\r\nO PDT vota \"sim\", pelo relat\u00f3rio do Deputado Rigoni.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o, no Substitutivo do Senado Federal, da al\u00ednea f, inciso I, \u00a7 3\u00ba, art. 7\u00ba, do texto da C\u00e2mara dos Deputados ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Este destaque desconfigura totalmente o relat\u00f3rio do Deputado Felipe Rigoni e \u00e9 o ponto principal da discuss\u00e3o. Foi contra isso que o Senado votou por unanimidade. Se este destaque for aprovado, n\u00e3o haver\u00e1 vit\u00f3ria nenhuma. N\u00f3s perderemos muitos recursos. Votar a favor deste destaque significa dizer que a educa\u00e7\u00e3o p\u00fablica tem muito dinheiro e n\u00e3o est\u00e1 precisando de mais recursos.\r\nN\u00f3s somos veementes a favor de manter o texto. Inclusive, Deputado nenhum pode dizer que defende a educa\u00e7\u00e3o p\u00fablica, se votar a favor deste destaque. Ele destr\u00f3i completamente o texto do Deputado Rigoni. Esse \u00e9 o ponto principal.\r\nO PDT vota, com veem\u00eancia, \"sim\", para manter o texto do Deputado Rigoni, em defesa da C\u00e2mara dos Deputados, do Senado e da educa\u00e7\u00e3o p\u00fablica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=151&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-18T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "INCLUS\u00c3O DIGITAL, EDUCA\u00c7\u00c3O, NECESSIDADE, CORONAV\u00cdRUS, PANDEMIA, AN\u00c1LISE.\r\nPL 3477/2020, PROJETO DE LEI ORDIN\u00c1RIA, UNI\u00c3O, GARANTIA, RECURSOS, ACESSO, INTERNET, ALUNO, PROFESSOR, EDUCA\u00c7\u00c3O B\u00c1SICA, REDE P\u00daBLICA DE ENSINO, EDUCA\u00c7\u00c3O A DIST\u00c2NCIA, OPERADORA DE TELEFONIA M\u00d3VEL, GRATUIDADE, SERVI\u00c7OS, FONTE DE RECURSOS, FUNDO DE UNIVERSALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES (FUST), TABATA AMARAL, DEPUTADA FEDERAL, RELATORA, ATUA\u00c7\u00c3O PARLAMENTAR, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Desigualdades regionais brasileiras quanto ao acesso aos meios digitais. Elevado n\u00famero de estudantes desconectados da Internet durante o fechamento das escolas. Elogio ao professorado brasileiro pelo empenho na manuten\u00e7\u00e3o do v\u00ednculo entre a escola e o aluno durante a epidemia de coronav\u00edrus. Relev\u00e2ncia do Projeto de Lei n\u00ba 3.477, de 2020, sobre a garantia de acesso \u00e0 Internet, com fins educacionais, aos alunos e professores da educa\u00e7\u00e3o b\u00e1sica p\u00fablica. Congratula\u00e7\u00f5es \u00e0 Deputada Tabata  Amaral, Relatora a mat\u00e9ria, e a outros Parlamentares envolvidos na constru\u00e7\u00e3o da propositura.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Como L\u00edder. Sem revis\u00e3o do orador.) - Presidente, a PNAD - Pesquisa Nacional por Amostra de Domic\u00edlios, do IBGE, mostra que o Brasil \u00e9 um pa\u00eds desigual n\u00e3o s\u00f3 quanto a distribui\u00e7\u00e3o de renda, mas tamb\u00e9m quanto a acesso aos meios digitais.\r\nS\u00f3 para terem uma ideia, Bras\u00edlia tem conex\u00e3o para 97% das pessoas, e a zona rural do Nordeste, s\u00f3 para 35% das pessoas.\r\nN\u00f3s estamos com escolas fechadas h\u00e1 8 meses. Recentemente, n\u00f3s tivemos a PNAD COVID-19, que mostrou que 6 milh\u00f5es de jovens n\u00e3o tiveram acesso a nenhum conte\u00fado nesse per\u00edodo. Isso \u00e9 muito grave. Eu tenho alertado que esses s\u00e3o os efeitos invis\u00edveis da pandemia - invis\u00edveis para alguns, n\u00e3o para n\u00f3s que estamos na educa\u00e7\u00e3o. N\u00f3s lamentamos e contamos os mortos, estamos vendo o aumento do desemprego, estamos vendo empresas fechando, e, em rela\u00e7\u00e3o \u00e0 educa\u00e7\u00e3o, parece que est\u00e1 tudo bem, mas n\u00e3o est\u00e1. \r\nAproveito a oportunidade, neste fim de ano, para elogiar os professores, que fizeram um esfor\u00e7o sobre-humano para, do dia para a noite, manter esse v\u00ednculo entre escola e aluno, gravando v\u00eddeo, dando aula, indo de casa em casa para entregar material. Isso foi feito sem prepara\u00e7\u00e3o, sem forma\u00e7\u00e3o, da noite para o dia.\r\nEste projeto \u00e9 important\u00edssimo. Ter conex\u00e3o, como disse a Deputada Tabata Amaral, significa ter acesso \u00e0 educa\u00e7\u00e3o. Isso tem que ter uma relev\u00e2ncia igual \u00e0 energia na escola, \u00e0 \u00e1gua, \u00e0 merenda escolar. Isso \u00e9 fundante. Isso \u00e9 importante demais para as pessoas. As escolas j\u00e1 deveriam ter conex\u00e3o. Eu concordo com o Deputado Tiago: devem ter mesmo! Deve ser assim em Minas Gerais, no Cear\u00e1. \r\nPortanto, quero ressaltar o quanto isso \u00e9 relevante. \r\nEm 2021, as coisas n\u00e3o ser\u00e3o f\u00e1ceis, porque existe um passivo. N\u00f3s perdemos muito neste ano. Como faremos para recuperar isso? N\u00f3s temos a ideia de um pacto de aprendizagem, uma proposta para que as pessoas possam ter uma carga hor\u00e1ria presencial e outra a dist\u00e2ncia. Por isso, ressalto a import\u00e2ncia do projeto.\r\nAqui no Estado do Cear\u00e1, o Governador Camilo j\u00e1 comprou chip para todos os estudantes da rede estadual. Falta comprar para os Munic\u00edpios.\r\nN\u00e3o era esse o texto que n\u00f3s quer\u00edamos. N\u00f3s quer\u00edamos muito mais recursos, quer\u00edamos 20 bilh\u00f5es de reais. Com 3,5 bilh\u00f5es de reais, n\u00e3o conseguimos atender grande parte. \r\nEu aproveito a oportunidade para cumprimentar fortemente a Deputada Tabata, que foi pragm\u00e1tica, que lutou muito. Como diz o meu assessor Rog\u00e9rio, ela literalmente botou o projeto embaixo do bra\u00e7o e saiu para discutir com diversos segmentos, com o Governo. A Deputada Tabata est\u00e1 de parab\u00e9ns pelo esfor\u00e7o para aprovar este projeto, que \u00e9 coletivo. Eu sou o Autor deste projeto, mas h\u00e1 pessoas importantes trabalhando comigo: a Deputada Professora Dorinha Seabra Rezende, a Deputada Professora Rosa Neide, o Deputado Danilo Cabral, o Deputado Pedro Cunha Lima. Muitos Deputados constru\u00edram este projeto com a Deputada Tabata. Por isso, eu o julgo muito importante. Para o Brasil, isso \u00e9 essencial. \r\nEu fico muito feliz com o Parlamento, que, depois de ter demonstrado ontem a import\u00e2ncia do FUNDEB, hoje trata da conex\u00e3o. Eu queria agradecer o apoio de Parlamentares como a Deputada Tabata, a Deputada Professora Dorinha, enfim, de todos os que fazem parte da bancada da educa\u00e7\u00e3o, que \u00e9 pequena, mas muito aguerrida.\r\nEncerrar o ano de 2020 com essa vit\u00f3ria \u00e9 importante, mas n\u00e3o vamos deixar de lutar por mais recursos para a conex\u00e3o. N\u00f3s aprovamos o projeto com todo o empenho e todo o apoio, mas queremos mais recursos.\r\nObrigado, Presidente, pela oportunidade de falar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F12%2F2020&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-13T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5595/2020, PROJETO DE LEI ORDIN\u00c1RIA, PROIBI\u00c7\u00c3O, SUSPENS\u00c3O, AULA PRESENCIAL, EDUCA\u00c7\u00c3O B\u00c1SICA, EDUCA\u00c7\u00c3O SUPERIOR, SERVI\u00c7OS ESSENCIAIS, CR\u00cdTICA.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Contrariedade \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, a palavra \"essencial\" \u00e9 trai\u00e7oeira nesse projeto. Ningu\u00e9m tem d\u00favida de que a educa\u00e7\u00e3o \u00e9 essencial, a n\u00e3o ser o Governo Federal, que vetou um projeto que levaria conex\u00e3o de Internet para estudantes e professores. A\u00ed ele n\u00e3o acha essencial. \r\nNa verdade, o termo \"essencial\" est\u00e1 sendo usado de forma trai\u00e7oeira para obrigar o retorno das aulas presenciais. O Deputado que vota a favor disso \u00e9 Deputado que n\u00e3o est\u00e1 preocupado se professor vai morrer ou n\u00e3o. Todo dia eu recebo not\u00edcia de morte de professor que trabalha em casa, imaginem se ele for para a escola.\r\nEnt\u00e3o, n\u00f3s temos que ter cuidado com essa palavra. Isso \u00e9 um perigo. E a categoria dos professores \u00e9 organizada, eles n\u00e3o v\u00e3o voltar - n\u00e3o sem vacina, sem um retorno seguro. \u00c9 bom que saibam disso.\r\nO Deputado tem que ter consci\u00eancia ao dizer que a educa\u00e7\u00e3o \u00e9 essencial. Ningu\u00e9m \u00e9 besta nem burro. Querem obrigar a volta...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2021&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5595/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL, CONTR\u00c1RIO, PROIBI\u00c7\u00c3O, SUSPENS\u00c3O, AULA PRESENCIAL, EDUCA\u00c7\u00c3O B\u00c1SICA, EDUCA\u00c7\u00c3O SUPERIOR, SERVI\u00c7OS ESSENCIAIS, PROFESSOR, MUNIC\u00cdPIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT orienta pela retirada de pauta. A primeira quest\u00e3o \u00e9 que este n\u00e3o \u00e9 um projeto que torna a educa\u00e7\u00e3o essencial, mas um projeto que obriga o retorno imediato \u00e0s aulas. Esse \u00e9 o objetivo deste projeto. Est\u00e1 errado o uso do termo \"essencial\". N\u00e3o \u00e9 por a\u00ed.\r\nCada Deputado vai prestar contas aos professores do seu Munic\u00edpio. Eles querem isso? Srs. Deputados, os pais dos alunos querem isso, os professores querem isso? Cada um vai prestar contas disso no seu Munic\u00edpio.\r\nN\u00f3s somos veementemente contra a vota\u00e7\u00e3o deste projeto. H\u00e1 aqui um projeto que respeita a escola e a chama para o debate sobre o retorno \u00e0s aulas. Ele est\u00e1 aqui h\u00e1 1 ano e, estranhamente, n\u00e3o vem para a pauta. Por que este que apareceu agora veio para a pauta t\u00e3o r\u00e1pido? O outro tamb\u00e9m teve votada a urg\u00eancia. Ent\u00e3o, n\u00f3s estranhamos o porqu\u00ea de este projeto ter atropelado tudo, inclusive o projeto anterior. Mas, repito, cada Deputado vai se ver com o professor l\u00e1 no seu Munic\u00edpio.\r\nO PDT orienta pela retirada de pauta deste projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 5595/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por 2 sess\u00f5es, da discuss\u00e3o do Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais, e o estabelecimento das diretrizes para o retorno seguro \u00e0s aulas presenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quando eu ouvi a fala do L\u00edder do Governo dizendo que os professores n\u00e3o querem trabalhar, entendi melhor este PL, a ideia, a for\u00e7a que concebe esse PL. A origem dele est\u00e1 a\u00ed: achar que professor \u00e9 vagabundo. Trata-se de um projeto para desrespeitar e perseguir professor, como se os professores fossem inimigos a serem vencidos. \u00c9 dessa forma que est\u00e3o vendo o professor. Est\u00e3o dizendo que ele n\u00e3o quer trabalhar.\r\nO professor est\u00e1 trabalhando e quer, sim, retornar \u00e0s aulas presenciais, mas com escola segura, com a vacina\u00e7\u00e3o, com os protocolos estabelecidos.\r\nEnt\u00e3o, n\u00f3s queremos, sim, o adiamento desta vota\u00e7\u00e3o por duas sess\u00f5es.\r\nO PDT orienta pelo adiamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 5595/2020, \r\nPROJETO DE LEI ORDINARIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por 1 sess\u00e3o, da discuss\u00e3o do \r\nProjeto de Lei n\u00ba 5.595, de 2020, relativo ao reconhecimento da Educa\u00e7\u00e3o B\u00e1sica e de Ensino Superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s estamos fazendo esse enfrentamento aqui, posicionando-nos contra este projeto. E, se ele for aprovado, n\u00f3s vamos continuar no enfrentamento.\r\nN\u00e3o imaginem que acaba aqui esta discuss\u00e3o. Professores s\u00e3o categoria organizada. Eles pensam, discutem, debatem. N\u00f3s n\u00e3o vamos nos render a isso.\r\nEste projeto \u00e9 a cara do Bolsonaro: autorit\u00e1rio, sem discuss\u00e3o, negacionista. Eu quero ver a cara dos Deputados que votarem a favor quando come\u00e7arem a morrer professores. Eu quero saber como v\u00e3o ficar essas caras perante os seus Munic\u00edpios, perante os professores.\r\nN\u00f3s orientamos pelo adiamento desta discuss\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 5595/2020, PROJETO DE LEI ORDINARIA, PARTIDO DEMOCRATICO TRABALHISTA (PDT), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada da vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o do Projeto de Lei n\u00ba 5.595, de 2020, relativo ao reconhecimento da Educa\u00e7\u00e3o B\u00e1sica e de Ensino Superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu acho engra\u00e7ado: aqueles que defendem o retorno \u00e0s aulas n\u00e3o t\u00eam a coragem de conversar com os professores, n\u00e3o abrem o di\u00e1logo. V.Exas. t\u00eam medo de conversar com os professores? Ficam dizendo: \"Ah, mas o sindicato...\". Por\u00e9m, n\u00e3o t\u00eam a coragem de conversar com os professores. Como \u00e9 que querem defender a educa\u00e7\u00e3o, mas s\u00f3 fazem oposi\u00e7\u00e3o aos professores? Esta equa\u00e7\u00e3o n\u00e3o fecha. V.Exas. est\u00e3o completamente equivocados.\r\nAs palavras tamb\u00e9m traem V.Exas. H\u00e1 pouco, n\u00f3s ouvimos: \"\u00c9 preciso votar imediatamente\". Imediatamente?! N\u00e3o h\u00e1 protocolo, n\u00e3o h\u00e1 vacina, n\u00e3o h\u00e1 prepara\u00e7\u00e3o das escolas. V.Exas. est\u00e3o equivocados. Querem falar em educa\u00e7\u00e3o p\u00fablica sem respeitar os professores, sem ter a coragem de conversar com eles. N\u00f3s nunca vamos conseguir resultados em educa\u00e7\u00e3o, em lugar nenhum, se n\u00e3o respeitarem o professor.\r\nTenham a coragem de conversar com o professor sobre este assunto. V.Exas. t\u00eam medo?\r\nO PDT vai obstruir esta vota\u00e7\u00e3o.\r\n\"Obstru\u00e7\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T20:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5595/2020, PROJETO DE LEI ORDINARIA, PARTIDO DEMOCRATICO TRABALHISTA (PDT), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Minist\u00e9rio da Educa\u00e7\u00e3o n\u00e3o est\u00e1 nem a\u00ed para o que est\u00e1 acontecendo na educa\u00e7\u00e3o brasileira: em 1 ano, n\u00e3o tem nada a dizer. Ningu\u00e9m diz nada: nem o Ministro nem o MEC. N\u00e3o dizem nada.\r\nEnt\u00e3o, um grupo de Deputados da base do Governo, aliado do Minist\u00e9rio da Educa\u00e7\u00e3o, resolveu achar a solu\u00e7\u00e3o: retorno imediato \u00e0s aulas, atrav\u00e9s de projeto de lei. \r\nN\u00e3o v\u00e3o conseguir, n\u00e3o! Sem discuss\u00e3o com professor, n\u00e3o v\u00e3o a lugar nenhum! N\u00f3s vamos ao Senado, vamos organizar a categoria em cada Munic\u00edpio, vamos formar uma comiss\u00e3o em cada Munic\u00edpio, em cada escola deste Pa\u00eds! \r\nO PDT obstrui esta vota\u00e7\u00e3o. Queremos que este projeto n\u00e3o seja votado. Somos contra a aprecia\u00e7\u00e3o. O PDT est\u00e1 em obstru\u00e7\u00e3o, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PL 5595/2020, PROJETO DE LEI ORDINARIA, PARTIDO DEMOCRATICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento para vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Conselho Nacional de Secret\u00e1rios de Educa\u00e7\u00e3o divulgou nota contr\u00e1ria; dos 27 Secret\u00e1rios, s\u00f3 3 ou 4 discordaram. A Uni\u00e3o Nacional dos Dirigentes Municipais de Educa\u00e7\u00e3o - UNDIME, tamb\u00e9m divulgou nota contr\u00e1ria; o Todos pela Educa\u00e7\u00e3o, nota contr\u00e1ria; a Campanha Nacional pelo Direito \u00e0 Educa\u00e7\u00e3o, nota contr\u00e1ria; representantes dos professores, contr\u00e1rios; todas as pesquisas com os pais, contr\u00e1rios. No entanto, os representantes do povo no Congresso Nacional s\u00e3o favor\u00e1veis.\r\nVejam V.Exas. o paradoxo! Que coisa esquisita! Todo mundo \u00e9 contr\u00e1rio, mas os Deputados s\u00e3o favor\u00e1veis. Fazer o qu\u00ea, n\u00e3o \u00e9? \u00c9 por isto que o Congresso \u00e9 desrespeitado, o Parlamento \u00e9 desrespeitado: n\u00e3o respeita as entidades, os leg\u00edtimos representantes. N\u00f3s somos favor\u00e1veis ao retorno imediato? \r\nEnt\u00e3o, o PDT \u00e9 favor\u00e1vel a este requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=185&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, EMENDA DE PLENARIO, PL 5595/2020, PROJETO DE LEI ORDINARIA, PARTIDO LIBERAL (PL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque de prefer\u00eancia para a vota\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 11, apresentada ao Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Marcelo, esse PL, quando eles deram entrada a ele, recentemente, n\u00e3o tinha praticamente conte\u00fado nenhum, era s\u00f3 servi\u00e7o essencial. Ent\u00e3o, eles foram l\u00e1, aproveitaram tudo o que estava no nosso PL, que foi uma constru\u00e7\u00e3o coletiva. Eu poderia at\u00e9 pedir para se apensar, mas eu tinha vergonha de botar meu nome junto com esse projeto de lei que poder\u00e1 ser aprovado.\r\nEnt\u00e3o, esse destaque da Deputada Professora Rosa Neide resgata a ess\u00eancia do que \u00e9 um retorno \u00e0s aulas respons\u00e1vel, com todos os cuidados, com as diretrizes, com os protocolos, ouvindo a escola. Esse destaque resgataria a ess\u00eancia de quem pensa em professor, de quem se preocupa realmente com o retorno \u00e0s aulas e de quem realmente acha educa\u00e7\u00e3o essencial.\r\n\u00c9 por isso que n\u00f3s somos favor\u00e1veis a esse destaque do PT, da Deputada Professora Rosa Neide.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=202&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 5595/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Idilvan Alencar",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo relator da Comiss\u00e3o de Educa\u00e7\u00e3o ao Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. IDILVAN ALENCAR (PDT - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, vamos ao resumo do dia. Existia um PL que era sobre o retorno respons\u00e1vel e seguro \u00e0s aulas. N\u00e3o votaram. Depois atropelaram com um novo PL, com a palavra \"essencial\", para disfar\u00e7ar a verdade. S\u00f3 que o L\u00edder do Governo entregou o jogo. Ele disse, textualmente, que o professor n\u00e3o quer trabalhar. Ent\u00e3o, na verdade, era um PL para reafirmar o desrespeito que eles t\u00eam pelo professor. A\u00ed, para encerrar, eles pensam que ganharam. S\u00f3 que n\u00e3o. H\u00e1 o Senado e h\u00e1 a for\u00e7a de cada escola que \u00e9 organizada neste Pa\u00eds. Como bem disse o Deputado do Republicanos, esta \u00e9 uma decis\u00e3o do conselho escolar de cada Munic\u00edpio.\r\nEnt\u00e3o, n\u00e3o celebrem vit\u00f3ria nenhuma, Deputados. Pelo contr\u00e1rio. V.Exas. a\u00ed est\u00e3o fazendo um grande mal \u00e0 educa\u00e7\u00e3o p\u00fablica. N\u00e3o h\u00e1 defesa nenhuma da educa\u00e7\u00e3o por parte de V.Exas. Essencial \u00e9 a vacina, \u00e9 a vida.\r\nN\u00f3s somos veementemente contr\u00e1rios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=218&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

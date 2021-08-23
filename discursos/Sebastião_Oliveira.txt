@@ -1,0 +1,56 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-17T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 30/2020, VETO PARCIAL, PL 4162/2019, PROJETO DE LEI ORDINARIA, AVANTE,  LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Sebasti\u00e3o Oliveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 30, de 2020, aposto ao art. 16 do Projeto de Lei n\u00ba 4.162, de 2019, a respeito da atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. SEBASTI\u00c3O OLIVEIRA (Bloco/AVANTE - PE. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante vai liberar a bancada. \r\nMinha posi\u00e7\u00e3o pessoal \u00e9 de n\u00e3o acreditar que o sistema privado vai investir em Munic\u00edpios deficit\u00e1rios. Aqui em Pernambuco, 80% dos Munic\u00edpios s\u00e3o deficit\u00e1rios, e eu nunca vi o sistema privado investir em sistema deficit\u00e1rio.\r\nMas respeito as diferen\u00e7as de pensamento dentro da nossa bancada. Eu vou votar pela derrubada do veto, mas a bancada est\u00e1 liberada. \r\nEnt\u00e3o, a posi\u00e7\u00e3o do Avante \u00e9 a de liberar a bancada quanto ao Veto 30/20.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=18%2F3%2F2021&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-24T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1010/2021, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Sebasti\u00e3o Oliveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.010, de 2021, referente \u00e0 cria\u00e7\u00e3o do Programa Pr\u00f3-Leitos durante a emerg\u00eancia da sa\u00fade p\u00fablica decorrente da Covid-19, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SEBASTI\u00c3O OLIVEIRA (Bloco/AVANTE - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante orienta \"sim\" ao Projeto de Lei n\u00ba 1.010, de 2021, ao Programa Pr\u00f3-Leitos. \r\nFicamos tranquilos, porque o texto mostra que a regula\u00e7\u00e3o ser\u00e1 feita pelo SUS. Cada Estado tem sua central de regula\u00e7\u00e3o de leitos do SUS. Obviamente, isso amplia o n\u00famero de vagas em UTIs para as pessoas que mais precisam.\r\nPor isso, o Avante vota a favor do PL 1.010/21.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F3%2F2021&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-08T13:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, LICEN\u00c7A COMPULS\u00d3RIA, QUEBRA, PATENTE DE INVEN\u00c7\u00c3O, PATENTE DE PRODUTO, VACINA, PANDEMIA, CORONAV\u00cdRUS.\r\nMEDICAMENTO, AIDS.",
+        "nomeDeputado": "Sebasti\u00e3o Oliveira",
+        "sumario": "Quebra de patentes de vacinas contra a Covid-19.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. SEBASTI\u00c3O OLIVEIRA (Bloco/AVANTE - PE) - Boa tarde, Sr. Presidente.\r\nCumprimento todos os Parlamentares participantes desta reuni\u00e3o.\r\nQuero cumprimentar, especialmente, a Deputada Alice Portugal, a quem fa\u00e7o v\u00eania, e todas as Parlamentares da nossa C\u00e2mara.\r\nQuero dizer, Presidente, que \u00e9 uma satisfa\u00e7\u00e3o falar daqui, mesmo no momento da fome, como m\u00e9dico que sou, graduado e p\u00f3s-graduado pelo SUS. Tenho o maior respeito pelo SUS e defendo o SUS. Quero primeiro elogiar o pronunciamento de V.Exa. No come\u00e7o, V.Exa. estava totalmente sintonizado com a comunidade cient\u00edfica atual.\r\nNo dia de hoje, a revista New England, uma das maiores revistas m\u00e9dicas do mundo, publicou na se\u00e7\u00e3o Perspectivas um texto liderado pela m\u00e9dica Ingrid Katz, da Harvard Medical School, em que exp\u00f4s alguns assuntos que foram fundamentais para a tomada de decis\u00e3o a respeito da ren\u00fancia tempor\u00e1ria aos direitos de propriedade intelectual. Ela trouxe algumas informa\u00e7\u00f5es que foram fundamentais para nortear a nossa decis\u00e3o. Uma delas \u00e9 a de que o mundo hoje s\u00f3 consegue vacinar cerca de 6,7 milh\u00f5es de pessoas por dia, ou seja, s\u00e3o 6,7 milh\u00f5es de doses por dia. Se formos transpor isso para a realidade, apenas imaginando que de 70% a 85% da popula\u00e7\u00e3o mundial precisa ser vacinada, para que tenhamos efici\u00eancia, efic\u00e1cia e efetividade, isso levaria 4,6 anos.\r\nA distribui\u00e7\u00e3o em muito pa\u00edses pobres inexiste: 80% da popula\u00e7\u00e3o dos pa\u00edses pobres n\u00e3o receber\u00e3o a vacina este ano. A Covax Facility foi um grande passo para que isso fosse globalizado, mas s\u00f3 vai conseguir atingir 20% da popula\u00e7\u00e3o dos pa\u00edses participantes.\r\nH\u00e1 press\u00e3o da Organiza\u00e7\u00e3o Mundial de Com\u00e9rcio, da OMC, de que V.Exa. bem falou, Presidente, liderada pela \u00cdndia e pela \u00c1frica do Sul, com a participa\u00e7\u00e3o de mais de 90 pa\u00edses. J\u00e1 falam da quebra de patentes, da ren\u00fancia tempor\u00e1ria aos direitos de propriedade intelectual.\r\nA quem defende a n\u00e3o quebra das patentes eu quero lembrar que 18 bilh\u00f5es de d\u00f3lares foram utilizados no financiamento p\u00fablico para o desenvolvimento da vacina. Vacinar o mundo \u00e9 uma obriga\u00e7\u00e3o moral de cada um de n\u00f3s, n\u00e3o s\u00f3 para a nossa prote\u00e7\u00e3o, mas tamb\u00e9m para a prote\u00e7\u00e3o dos pa\u00edses vizinhos.\r\nEu tenho um sonho: o de que o Brasil possa n\u00e3o s\u00f3 produzir e vacinar, como tamb\u00e9m ajudar o mundo a sair desta crise em que nos encontramos hoje.\r\nSr. Presidente, eu quero dizer que o que foi feito em rela\u00e7\u00e3o \u00e0 AIDS hoje d\u00e1 demonstra\u00e7\u00f5es de efetividade. Se n\u00f3s quisermos fazer uma compara\u00e7\u00e3o, veremos que, em 1 ano, tivemos mais de 340 mil mortes por COVID, e, de 1995 para c\u00e1, em 25 anos, 26 anos, tivemos 286 mil mortes por AIDS. As mortes por COVID em 1 ano mais que superam as mortes em 26 anos por AIDS, ap\u00f3s a quebra das patentes. Deu resultado para esses pacientes, porque deixaram de ser agudos e passaram a ser pacientes de tratamento cr\u00f4nico.\r\nEu quero utilizar aqui um aforisma do Deputado Vice-Presidente Marcelo Ramos, meu ex-companheiro de partido, que diz que \u00e9 vacina no bra\u00e7o e comida no prato. Quero s\u00f3 acrescentar que \u00e9 vacina no bra\u00e7o, comida no prato, ter\u00e7o na m\u00e3o, joelho no ch\u00e3o e Deus no cora\u00e7\u00e3o, que as boas pr\u00e1ticas m\u00e9dicas e a ci\u00eancia t\u00eam que andar lado a lado, como as teclas de um piano. Como diz o querido Paul McCartney em uma can\u00e7\u00e3o, d\u00e1 para as teclas brancas e pretas do piano andarem lado a lado, em perfeita harmonia. Eu digo que os princ\u00edpios crist\u00e3os e a ci\u00eancia podem andar lado a lado e salvar vidas.\r\nQue Deus nos aben\u00e7oe. At\u00e9 a pr\u00f3xima oportunidade.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F4%2F2021&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

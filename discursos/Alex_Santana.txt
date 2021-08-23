@@ -1,0 +1,146 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-15T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CONGRESSO UMADSAL (29:2019, SALVADOR (BA)), JOVEM, IGREJA EVANG\u00c9LICA.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Realiza\u00e7\u00e3o do encontro da juventude das Igrejas Evang\u00e9licas Assembleias de Deus, em Salvador, Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ALEX SANTANA (Bloco/PDT - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, quero cumprimentar a todos e desejar uma boa tarde. Para mim, \u00e9 uma alegria estar falando aqui com V.Exas. e fazendo men\u00e7\u00e3o \u00e0 minha querida Bahia, especialmente a Salvador, que, entre os dias 6 e 8 de abril, comemorou a maior concentra\u00e7\u00e3o de jovens assembleianos - jovens que foram retirados das drogas, jovens que trabalham para o incentivo principalmente do cumprimento do dever como cidad\u00e3o. Neste final de semana, eles est\u00e3o todos reunidos, como tamb\u00e9m os filhos de ministros, que est\u00e3o em outra concentra\u00e7\u00e3o do Estado da Bahia.\r\nPara n\u00f3s, \u00e9 uma alegria ter essa representa\u00e7\u00e3o, essa for\u00e7a de jovens cidad\u00e3os baianos, que contribuem com seu Estado, com seu Munic\u00edpio. Damos o maior incentivo e parabenizamos a todos os jovens da UMADSAL e a todos os filhos de ministros que est\u00e3o concentrados nessa grande festa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=&Datain=16%2F4%2F2019&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "LOURIVAL PEREIRA MAIA, EDIVAN FERNANDES DE ALMEIDA, PREFEITO, FILAD\u00c9LFIA (BA), MONTE SANTO (BA), LEANDRO DE ARA\u00daJO FERNANDES, DEPUTADO ESTADUAL, BAHIA, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Presen\u00e7a, na Casa, dos Prefeitos Lourival Pereira Maia e Edivan Fernandes de Almeida, respectivamente, dos Munic\u00edpios de Filad\u00e9lfia e Monte Santo, e do Deputado Estadual Laerte Leandro de Ara\u00fajo Fernandes, Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, quero registrar, com muita alegria, a presen\u00e7a do Prefeito Louro Maia, do Munic\u00edpio de Filad\u00e9lfia, e do Prefeito Vando e do Deputado Estadual Laerte, de Monte Santo, que solicitam sejam tomadas provid\u00eancias com rela\u00e7\u00e3o ao a\u00e7ude, que est\u00e1 para se romper, e \u00e0 igreja, pelo IPHAN, j\u00e1 que Monte Santo \u00e9 uma cidade hist\u00f3rica na Bahia. Eles pedem que o Governo Federal volte os olhos para estes dois pleitos.\r\nFa\u00e7o quest\u00e3o de registrar a presen\u00e7a destes tr\u00eas amigos, muito atuantes na Bahia.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HOMIC\u00cdDIO, V\u00cdTIMA, ANDERSON DO CARMO, PASTOR, FLORDELIS, DEPUTADA FEDERAL, SOLIDARIEDADE.\r\nALEX SANTANA, DEPUTADO FEDERAL, BENEDITA DA SILVA, DEPUTADA FEDERAL, APOSENTADORIA PARLAMENTAR, APOSENTADORIA ESPECIAL, DEFESA, DIREITO \u00c0 PREVID\u00caNCIA SOCIAL.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Solidariedade \u00e0 Deputada Flordelis, diante da morte do seu esposo, Pastor Anderson do Carmo de Souza. Legalidade do recebimento de aposentadoria especial por Deputados.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, primeiro, quero me solidarizar com a Deputada Flordelis pela morte do Pastor Anderson. N\u00f3s sabemos o quanto ele era importante para a Frente Parlamentar. A forma tr\u00e1gica como ele morreu representa muito para n\u00f3s evang\u00e9licos, para a comunidade do Rio de Janeiro e, em especial, para todos os assembleianos e crist\u00e3os de forma geral.\r\nEm segundo lugar, quero me solidarizar com a Deputada Benedita da Silva e com os demais Deputados, porque parece que n\u00f3s, Deputados, termos aposentadoria especial \u00e9 um crime. Sem um discurso consistente, querem criminalizar quem faz esta op\u00e7\u00e3o, que \u00e9 um instrumento legal, n\u00f3s somos tributados por isso, pagamos para ter aposentadoria especial. No entanto, alguns Deputados que n\u00e3o t\u00eam argumento querem nos pechar por fazermos esta escolha. \r\nPortanto, fica minha indigna\u00e7\u00e3o com estas pessoas que n\u00e3o t\u00eam o que falar e querem nos colocar na vala de pessoas marcadas por esta escolha.\r\nEu tenho aposentadoria especial, n\u00e3o me arrependo de ter, pago por isso, tampouco me acho menos digno do que quem n\u00e3o fez esta op\u00e7\u00e3o. N\u00e3o estou tendo nenhuma vantagem al\u00e9m daquela que representa um direito pessoal, uma escolha que eu fiz como Deputado e contribuo para isso. \r\nN\u00f3s percebemos que alguns Deputados, que infelizmente n\u00e3o t\u00eam argumento, ficam querendo jogar todo mundo na vala comum, achando que somos iguais \u00e0s pessoas que n\u00e3o t\u00eam argumento e, ainda assim, querem desmoralizar e desqualificar as pessoas que constru\u00edram uma hist\u00f3ria.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FAM\u00cdLIA, DEFSA, EDVALDO LIMA, VEREADOR, FEIRA DE SANTANA (BA), SOLIDARIEDADE.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Solidariedade ao Vereador Edvaldo Lima, do Munic\u00edpio de Feira de Santana, Estado da Bahia, diante de amea\u00e7as por sua atua\u00e7\u00e3o em defesa da fam\u00edlia tradicional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Marcos Pereira, eu queria me solidarizar com o Vereador Edvaldo Lima, que, nesta semana, foi amea\u00e7ado. Picharam a C\u00e2mara de Vereadores de Feira de Santana. Por defender a fam\u00edlia tradicional, os valores morais da fam\u00edlia, Edvaldo Lima est\u00e1 sendo, l\u00e1 em Feira de Santana, ridicularizado por esse grupo que n\u00e3o representa o grande desejo da maioria.\r\nDeixo aqui a minha solidariedade ao Vereador Edvaldo Lima. Que ele continue firme, defendendo os princ\u00edpios morais da fam\u00edlia tradicional, sem sofrer retalia\u00e7\u00e3o por parte desse tipo de grupo, que n\u00e3o representa o maior anseio da sociedade.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "IGREJA EVANG\u00c9LICA, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, BAHIA, HOMENAGEM.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Transcurso do centen\u00e1rio da instala\u00e7\u00e3o da Igreja Evang\u00e9lica Assembleia de Deus no Estado da Bahia. Sauda\u00e7\u00f5es aos pastores, evangelistas, mission\u00e1rios e seus familiares.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer um convite aos meus pares.\r\nEsta semana, a Igreja Evang\u00e9lica Assembleia de Deus completa cem anos no Estado da Bahia. Convido meus pares da Bahia, assim como ao Governador do Estado, que \u00e9 nosso amigo, a estarem presentes, \u00e0s 17 horas de s\u00e1bado pr\u00f3ximo, dia 7, na Arena Fonte Nova. Vamos receber 50 mil assembleianos, aproximadamente, para celebrar os cem anos desta Igreja pujante que atua nas bases, nas periferias, fazendo trabalho social. Com certeza \u00e9 uma data importante.\r\nAproveito o momento para parabenizar todos os pastores, evangelistas, mission\u00e1rios, filhos e esposas de pastores - est\u00e3o concentrados, esta semana, mais de 2 mil e 500 pastores na cidade de Salvador - que celebram essa data importante.\r\nEu espero que n\u00f3s sejamos assistidos por nosso Governador, e tamb\u00e9m por V.Exa., Sr. Presidente, que \u00e9 baiano tamb\u00e9m. V.Exa. est\u00e1 convidado a celebrar essa data importante da pujante Igreja que \u00e9 a Assembleia de Deus no Estado da Bahia, que tem mais de 500 mil assembleianos.\r\nContamos com a participa\u00e7\u00e3o do Governador, dos Secret\u00e1rios e dos Parlamentares que fazem parte da bancada baiana, para, repito, celebrar, \u00e0s 17 horas do dia 7, no Arena Fonte Nova, juntamente com no m\u00ednimo 50 mil assembleianos, os cem anos da Assembleia de Deus.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-10T22:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.\r\nFILME BRASILEIRO, OFENSA, CRISTIANISMO.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo dos Projetos de Lei do Congresso Nacional de n\u00bas 10, 15, 21, 24, 25, 26, 29, 30, 31, 32, 34, 35, 36, 37, 39, 40, 43, 44, 46, 47, 49 e 50, de 2019. Exig\u00eancia de retrata\u00e7\u00e3o pelo canal Netflix de ofensa aos seguidores da f\u00e9 crist\u00e3.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT vota \"sim\".\r\nAproveito a oportunidade para dizer que respeitamos toda a diversidade. Como evang\u00e9licos, n\u00e3o incentivamos a viol\u00eancia contra o grupo LGBTI, mas exigimos, como evang\u00e9licos, cat\u00f3licos, esp\u00edritas, respeito \u00e0 nossa f\u00e9, respeito ao nosso Cristo, respeito \u00e0quilo que entendemos ser sagrado, assim como devemos ter respeito pelos grupos que pensam diferente de n\u00f3s.\r\nQuanto \u00e0quilo que a Netflix faz com seus autores, exigimos que pelo menos haja respeito e retrata\u00e7\u00e3o, por entender que h\u00e1 uma a\u00e7\u00e3o desrespeitosa ao princ\u00edpio de f\u00e9.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=12%2F12%2F2019&txPagina=168&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-16T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 873/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, ao Projeto de Lei n\u00ba 873, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista \u00e0 mudan\u00e7a nas regras do aux\u00edlio emergencial; \u00e0 veda\u00e7\u00e3o da suspens\u00e3o de benef\u00edcios previdenci\u00e1rios e assistenciais concedidos aos idosos, \u00e0s pessoas com defici\u00eancia ou com enfermidade grave, durante a pandemia da Covid-19, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, agrade\u00e7o a oportunidade de fazer este encaminhamento. \r\nQuero parabenizar o Deputado Cezinha de Madureira pela sensibilidade que teve em rela\u00e7\u00e3o a esta quest\u00e3o da renda m\u00ednima e \u00e0 possibilidade de aumentarmos o n\u00famero de v\u00e1rias classes de trabalhadores que estavam desassistidas. Para n\u00f3s, \u00e9 muito importante essa sensibilidade. Eu sei que ele viveu momentos de muita press\u00e3o nestes dias, especialmente no dia de hoje, mas, gra\u00e7as a Deus, pela intelig\u00eancia que tem, pela capacidade que tem, conseguiu encontrar um texto para trazer a renda m\u00ednima para diversos trabalhadores aut\u00f4nomos, diversas pessoas que estavam desassistidas. \r\nPor isso, o PDT vota \"sim\". \r\nMuito obrigado, Presidente. Mais uma vez quero parabenizar V.Exa. pelo trabalho, assim como toda a C\u00e2mara e o meu L\u00edder Wolney.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2020&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-23T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOMENAGEM, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, POL\u00cdCIA MILITAR, BAHIA, PAULO JOS\u00c9 REIS DE AZEVEDO COUTINHO, CORONEL DA POL\u00cdCIA MILITAR.",
+        "nomeDeputado": "Alex Santana",
+        "sumario": "Transcurso do 196\u00ba anivers\u00e1rio de cria\u00e7\u00e3o da Pol\u00edcia Militar do Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ALEX SANTANA (PDT - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, no dia 17 de fevereiro de 1825, o Imperador Dom Pedro I, por meio de um decreto, instituiu o Corpo de Pol\u00edcia da Bahia, com 238 homens.\r\nNo dia 17 de fevereiro, a nossa Pol\u00edcia Militar da Bahia fez 196 anos. Eu quero, na pessoa do Coronel Paulo Jos\u00e9 Reis de Azevedo Coutinho, parabenizar toda a corpora\u00e7\u00e3o da Pol\u00edcia Militar da Bahia, todos os homens e mulheres que atuam na seguran\u00e7a p\u00fablica do Estado, esses entes que cooperam com a seguran\u00e7a, fazendo com que tenhamos uma sociedade mais equilibrada.\r\nUm abra\u00e7o a todos os policiais militares, a toda a corpora\u00e7\u00e3o.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F2%2F2021&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

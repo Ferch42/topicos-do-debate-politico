@@ -1,0 +1,740 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-21T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "LUCAS GONZALEZ, DEPUTADO FEDERAL, ORADOR, ELEI\u00c7\u00d5ES, MINAS GERAIS, AGRADECIMENTO, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Agradecimento aos eleitores do Estado de Minas Gerais pela elei\u00e7\u00e3o do orador. Plataforma de sua atua\u00e7\u00e3o parlamentar.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente Alexandre Frota, obrigado. \r\nNeste dia 21 de mar\u00e7o, subo a esta tribuna pela primeira vez ap\u00f3s ter sido eleito por Minas Gerais, pelo Partido Novo. Neste dia pol\u00eamico no mundo pol\u00edtico brasileiro, que reiterar os meus valores de f\u00e9, de verdade, de transpar\u00eancia, de trabalho e de prop\u00f3sito. Quero agradecer aos mais de 64 mil mineiros que me d\u00e3o a honra, o privil\u00e9gio, a alegria e tamb\u00e9m a responsabilidade de ocupar uma das 513 cadeiras desta Corte, neste Congresso Nacional.\r\nMuito obrigado, mineiros. Muito obrigado, colegas do Partido Novo, que muito t\u00eam contribu\u00eddo para o meu trabalho e para o meu crescimento como Parlamentar.\r\nDe forma especial, quero reiterar a minha luta por um Pa\u00eds mais justo, mais \u00e9tico, com melhor educa\u00e7\u00e3o, com sa\u00fade mais acess\u00edvel, com leis que promovam a liberdade, a livre iniciativa e o empoderamento do cidad\u00e3o, n\u00e3o do Estado. Vou ocupar, com muita responsabilidade, uma vaga na Comiss\u00e3o de Via\u00e7\u00e3o e Transportes. Como suplente, estarei na Comiss\u00e3o de Trabalho e na Comiss\u00e3o de Minas e Energia. Vou trabalhar n\u00e3o apenas por Minas Gerais, mas por todo o Brasil. Reitero o meu compromisso com o Pa\u00eds, com a gera\u00e7\u00e3o de emprego, com a gera\u00e7\u00e3o de renda, com o crescimento econ\u00f4mico, em defesa da paz nas fam\u00edlias, da seguran\u00e7a nas ruas e da sa\u00fade para todos os cidad\u00e3os brasileiros.\r\nReitero esses compromissos para os pr\u00f3ximos 4 anos no Congresso Nacional. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2019&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, DESTAQUE DE EXPRESS\u00c3O, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o estabelecidos na legisla\u00e7\u00e3o e regulamenta\u00e7\u00e3o exclusivamente federal, cujos termos prevalecer\u00e3o sobre quaisquer regras estaduais e/ou municipais acerca do mesmo tema, constante no art. 27, \u00a7 7\u00ba, da Lei n\u00ba 11.771, de 2008, inserido no art. 4\u00ba da Subemenda Substitutiva Global.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - O NOVO, Presidente, ainda que seja boa a inten\u00e7\u00e3o do legislador, n\u00e3o acredita que pode e deve influenciar os Munic\u00edpios, os trechos, os v\u00e1rios Brasis que existem dentro do Brasil.\r\nPortanto, a nossa orienta\u00e7\u00e3o \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, RECURSO (PROPOSI\u00c7\u00c3O LEGISLATIVA), CONTRA, DECLARA\u00c7\u00c3O DE INCONSTITUCIONALIDADE, EMP 6/2019, EMENDA DE PLEN\u00c1RIO, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do recurso contra a declara\u00e7\u00e3o de inconstitucionalidade da Emenda de Plen\u00e1rio n\u00ba 6, oferecida ao Projeto de Lei n\u00ba 1.321, de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, foi dito pela bancada do PT, h\u00e1 pouco, que o povo quer emprego, quer educa\u00e7\u00e3o, quer sa\u00fade, o que \u00e9 uma verdade. Mas o povo tamb\u00e9m quer transpar\u00eancia e combate \u00e0 corrup\u00e7\u00e3o.\r\nEsta Casa n\u00e3o pode se omitir, pois \u00e9 de sua responsabilidade permitir que a Lava-Jato continue suas investiga\u00e7\u00f5es, que t\u00eam sido feitas de forma s\u00e9ria e apartid\u00e1ria. \r\nPor isso, o NOVO encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=179&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T20:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DA BANCADA, PL 1354/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVORAVEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.354, de 2019, sobre a prioridade na tramita\u00e7\u00e3o de processos de interesse da pessoa autista.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o NOVO orienta \"sim\" a esta pauta, mas deixa registrado que mais importante do que priorizar a justi\u00e7a em alguns casos \u00e9 priorizar a justi\u00e7a como um todo, que precisa ser mais c\u00e9lere, mais r\u00e1pida, mais eficiente para todos os brasileiros.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=229&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, CRIA\u00c7\u00c3O, ESTADO (NA\u00c7\u00c3O), ISRAEL, ANIVERS\u00c1RIO, HOMENAGEM.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Comemora\u00e7\u00e3o do 71\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Estado de Israel.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Bom dia a todos. \r\nSr. Presidente, bom dia. Sr. Embaixador Yossi, bom dia.\r\nNesta data t\u00e3o especial, celebramos aqui, na C\u00e2mara dos Deputados, os 71 anos do Estado de Israel. Para mim \u00e9 uma honra muito grande representar o meu Estado, Minas Gerais, representar o meu partido, o Partido Novo, e poder falar tamb\u00e9m como cidad\u00e3o brasileiro jovem, no meu primeiro mandato, nesta cerim\u00f4nia t\u00e3o especial aqui, na C\u00e2mara dos Deputados, homenageando os 71 anos da cria\u00e7\u00e3o do Estado de Israel.(Pausa.)\r\nSr. Embaixador, neste momento, nesta celebra\u00e7\u00e3o, acredito serem importantes pelo menos tr\u00eas coisas: relembrar a hist\u00f3ria, celebrar o presente e planejar o futuro.\r\nQuando falamos de hist\u00f3ria, n\u00f3s sabemos que a Na\u00e7\u00e3o de Israel, o Estado de Israel, completa 71 anos, mas a minha mem\u00f3ria vai a muito antes disso. Minha mem\u00f3ria vai \u00e0queles do livro dos crist\u00e3os, chamado B\u00edblia Sagrada, vai at\u00e9 Abra\u00e3o, pai da f\u00e9, aquele que foi chamado para ser o empreendedor, pois dele viria a ser chamada a Na\u00e7\u00e3o de Israel. Abra\u00e3o foi um homem de coragem. Abra\u00e3o foi um homem de vis\u00e3o. Abra\u00e3o foi um homem atento ao momento que ele estava vivendo. \u00c9 isso o que n\u00f3s temos que valorizar na Na\u00e7\u00e3o de Israel. Temos que aprender com o povo de Israel e com o Estado de Israel a valorizarmos homens corajosos, atentos aos sinais dos tempos. \u00c9 isso que a minha mem\u00f3ria sempre celebra, quando eu me lembro da hist\u00f3ria de Israel.\r\nQuando n\u00f3s falamos de presente, Sr. Embaixador, celebrar o presente n\u00e3o pode ser diferente. Lembramos que Israel hoje \u00e9 um polo tecnol\u00f3gico, \u00e9 uma refer\u00eancia mundial em v\u00e1rios assuntos, dentre eles, seguran\u00e7a p\u00fablica. N\u00e3o podemos esquecer, para celebrar o presente, daquilo que a na\u00e7\u00e3o passou na sua hist\u00f3ria, pelo que lutou, trabalhou, perseverou, para que hoje fosse uma refer\u00eancia mundial de Estado Democr\u00e1tico de Direito. Por isso, celebramos o presente e celebramos os 71 anos da hist\u00f3ria de Israel.\r\nPor \u00faltimo, planejar o futuro. Relembrar a hist\u00f3ria, celebrar o presente, planejar o futuro. Abra\u00e3o, em toda a sua hist\u00f3ria, em todo o seu tempo, sempre olhou para a frente, sempre olhou para o futuro, sempre olhou com os olhos sobrenaturais da f\u00e9. E \u00e9 com isso que n\u00f3s precisamos sonhar, n\u00e3o apenas Israel, mas tamb\u00e9m o nosso pa\u00eds, o Brasil. Quero aqui deixar claro, ali\u00e1s, que, mais do que pautas t\u00e9cnicas e pol\u00edticas, do nosso cora\u00e7\u00e3o jamais devem se apartar a f\u00e9 e a esperan\u00e7a por dias melhores. Desejo que Israel nos guie para esses dias melhores, n\u00e3o s\u00f3 para Israel, mas tamb\u00e9m para todo o mundo e toda a humanidade.\r\nMuito obrigado a todos! Parab\u00e9ns para o Estado de Israel. Shalom! Que a paz de Deus esteja com todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=38&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 21/2019, EMENDA DE COMISS\u00c3O, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda n\u00ba 21, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a altera\u00e7\u00e3o do C\u00f3digo Brasileiro de Aeron\u00e1utica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o NOVO orienta \"n\u00e3o\".\r\nQuero deixar claro que h\u00e1 pouco foi dito que a reforma trabalhista n\u00e3o adiantou nada e que o novo regulamento tamb\u00e9m n\u00e3o aumentou o n\u00famero de passageiros. \r\n\u00c9 claro, porque o \u00faltimo Governo, em 16 anos, afundou o Brasil. Houve uma recess\u00e3o t\u00e3o grande que o desemprego continua alto. \r\nN\u00f3s precisamos aumentar o volume de op\u00e7\u00f5es, para que n\u00f3s cidad\u00e3os, possamos, sim, escolher qual companhia a\u00e9rea e qual servi\u00e7o queremos utilizar.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=340&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-11T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, PLN 4/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 4, de 2019, sobre a abertura dos Or\u00e7amentos Fiscal e da Seguridade Social da Uni\u00e3o, em favor dos Minist\u00e9rios da Economia e da Cidadania, de Encargos Financeiros da Uni\u00e3o e de Opera\u00e7\u00f5es Oficiais de Cr\u00e9dito, cr\u00e9dito suplementar para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Para encaminhar. Sem revis\u00e3o do orador.) - Sr. Presidente, o NOVO encaminha \"sim\" porque sabe da import\u00e2ncia do BPC, do Bolsa Fam\u00edlia, do Plano Safra.\r\nQuero, entretanto, recordar que n\u00f3s somos favor\u00e1veis ao PLN 4 desde antes do acordo - que foi muito bem conduzido, inclusive. \r\nPortanto, somos favor\u00e1veis ao PLN 4. O nosso encaminhamento \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=13%2F6%2F2019&txPagina=87&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 2787/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 2.787, de 2019, sobre a tipifica\u00e7\u00e3o do crime de ecoc\u00eddio e a conduta delitiva do respons\u00e1vel por desastre relativo a rompimento de barragem.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - O NOVO vota pela retirada do projeto de pauta, Sr. Presidente, porque n\u00f3s acreditamos que \u00e9 preciso discutir melhor o assunto, inclusive enviamos agora, com os meus colegas Deputados mineiros, as nossas propostas para melhoria do texto.\r\nO nosso voto \u00e9 \"sim\".\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "NOVO (PARTIDO NOVO), VOTA\u00c7\u00c3O, PL 2787/2019, PROJETO DE LEI ORDIN\u00c1RIA,  TIPICIDADE PENAL, ECOC\u00cdDIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Apoio do partido NOVO \u00e0 vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.787, de 2019, sobre a tipifica\u00e7\u00e3o do crime de ecoc\u00eddio e a conduta delitiva do respons\u00e1vel por desastre relativo a rompimento de barragem.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o NOVO concorda com o que foi dito aqui h\u00e1 pouco, inclusive fiz parte da Comiss\u00e3o Externa Desastre de Brumadinho, que longa e arduamente trabalhou o assunto.\r\nQuanto a esse projeto especificamente - digo isto apenas para resgatar a mem\u00f3ria dos meus colegas mineiros que fizeram parte da Comiss\u00e3o comigo -, n\u00f3s votamos favoravelmente a ele. Na ocasi\u00e3o das discuss\u00f5es, fizemos algumas reuni\u00f5es, mas agora, feita a atualiza\u00e7\u00e3o do relat\u00f3rio pelo Deputado Andr\u00e9 Janones, n\u00f3s concordamos tamb\u00e9m com o texto a fim de irmos adiante com essa tem\u00e1tica. N\u00f3s, inclusive, retiramos o nosso destaque que havia sido apresentado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=143&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 2791/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 17, \u00a7 2\u00ba, da Lei n\u00ba 12.334, de 2010, constante do art. 2\u00ba  do Projeto de Lei n\u00ba 2.791, de 2019, sobre a Pol\u00edtica Nacional de Seguran\u00e7a de Barragens - PNSB e o C\u00f3digo de Minas, para fins de sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - O NOVO, n\u00e3o! O NOVO inclusive concorda com o que foi relatado agora pelo Deputado Passarinho...\r\nO SR. JOAQUIM PASSARINHO (PSD - PA) - Presidente...\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - S\u00f3 1 minutinho, Deputado Joaquim.\r\nO SR. LUCAS GONZALEZ (NOVO - MG) - O Deputado Passarinho \u00e9 meu colega na Comiss\u00e3o de Minas e Energia, onde j\u00e1 discutimos o assunto exaustivamente, inclusive mais do que na Comiss\u00e3o Externa de Brumadinho.\r\nEnt\u00e3o, acompanhamos o Deputado Passarinho e votamos \"n\u00e3o\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=301&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 4\u00ba do Projeto de Lei n\u00ba 10.985, de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, \u00e9 impens\u00e1vel imaginar que n\u00f3s estamos tirando recurso da educa\u00e7\u00e3o e da sa\u00fade para aplicar num projeto que, ainda que seja importante, n\u00e3o deve receber recurso que vai prioritariamente para a educa\u00e7\u00e3o e para a sa\u00fade.\r\nPortanto, o NOVO orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=279&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-02T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SUIC\u00cdDIO, AUTOMUTILA\u00c7\u00c3O, COMBATE, FRENTE PARLAMENTAR DE COMBATE AO SUIC\u00cdDIO E AUTOMUTILA\u00c7\u00c3O NO BRASIL, LAN\u00c7AMENTO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Lan\u00e7amento da Frente Parlamentar de Combate ao Suic\u00eddio e Automutila\u00e7\u00e3o no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, obrigado.\r\nQuero registrar que hoje, dia 2 de julho, foi lan\u00e7ada a Frente Parlamentar de Combate ao Suic\u00eddio e Automutila\u00e7\u00e3o no Brasil, que contou com o apoio maci\u00e7o desta Casa, de Deputados de todas as regi\u00f5es do nosso Pa\u00eds, de todos os Estados, de todos os partidos. Juntos, n\u00e3o apenas aqui no Poder Legislativo, mas tamb\u00e9m com di\u00e1logo com o Poder Executivo e o Poder Judici\u00e1rio e com outros entes da Federa\u00e7\u00e3o, vamos pensar pol\u00edticas p\u00fablicas assertivas de combate e preven\u00e7\u00e3o a essa pandemia que infelizmente tem crescido no nosso Pa\u00eds.\r\nEssa frente parlamentar, que tenho a responsabilidade de presidir, vai lutar pela vida, promover a vida e defender a vida, seja na inf\u00e2ncia, seja na adolesc\u00eancia, seja na juventude, at\u00e9 mesmo a mais tenra idade. Vamos sempre promover a vida no nosso Pa\u00eds.\r\nSr. Presidente, gostaria muito que o meu pronunciamento fosse divulgado no programa A Voz do Brasil, para que a popula\u00e7\u00e3o brasileira soubesse que no Congresso Nacional h\u00e1 uma frente parlamentar de combate e preven\u00e7\u00e3o \u00e0 automutila\u00e7\u00e3o e ao suic\u00eddio.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F7%2F2019&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), INCLUS\u00c3O, ESTADO (ENTE FEDERADO), MUNIC\u00cdPIO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Pedido aos Parlamentares de inclus\u00e3o dos Estados e Munic\u00edpios na proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, venho \u00e0 tribuna fazer coro ao discurso do nosso Deputado Lucas Redecker, meu xar\u00e1. \r\nO Partido Novo tamb\u00e9m pede aos nossos colegas a coragem e a responsabilidade de incluirmos na nova Previd\u00eancia os Estados e os Munic\u00edpios, que hoje est\u00e3o altamente dependentes da Uni\u00e3o. Seria um descaso da nossa parte votarmos a nova Previd\u00eancia sem incluirmos Estados e Munic\u00edpios. S\u00f3 em Minas Gerais, meu Estado, o d\u00e9ficit anual da Previd\u00eancia \u00e9 de cerca de 17 bilh\u00f5es de reais.\r\nPortanto, fazendo coro \u00e0s palavras do Deputado Lucas Redecker, pe\u00e7o aos colegas Parlamentares que incluamos os Estados e os Munic\u00edpios na nova Previd\u00eancia.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL, PARTIDO NOVO (NOVO), POSI\u00c7\u00c3O.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Apresenta\u00e7\u00e3o, pelo partido NOVO, de emenda aglutinativa \u00e0 proposta de reforma previdenci\u00e1ria para inclus\u00e3o de Estados e Munic\u00edpios no bojo da proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, informo ao Plen\u00e1rio que o Partido Novo acabou de protocolar na Mesa emenda aglutinativa que inclui Estados e Munic\u00edpios \u00e0 nova Previd\u00eancia. \u00c9 importante que os nossos colegas saibam disso. Foi dito aqui ontem, pelo Partido Novo, que ser\u00edamos incans\u00e1veis nessa retomada de inclus\u00e3o de Estados e de Munic\u00edpios. \r\nH\u00e1 centenas de Prefeitos e Governadores que nos assistem, nos ouvem e participam desta sess\u00e3o. \u00c9 importante eles saberem que o NOVO, juntamente com outras 62 assinaturas - a esses 62 Parlamentares, nosso muito obrigado pelo apoiamento -, seremos incans\u00e1veis para aprovar a nova Previd\u00eancia com Estados e Munic\u00edpios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=223&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, pe\u00e7o v\u00eania aos meus irm\u00e3os e colegas da bancada evang\u00e9lica - tamb\u00e9m sou membro -, mas o nosso encaminhamento ser\u00e1 \"n\u00e3o\", porque acredito que a quest\u00e3o n\u00e3o \u00e9 o abono, a quest\u00e3o \u00e9 a renda. Precisamos fazer com que o nosso Pa\u00eds melhore a renda, para que os nossos olhos n\u00e3o estejam apenas no abono. O Brasil precisa ganhar produtividade, competitividade, gerar riqueza, para que um dia, Presidente, possamos sonhar com um Brasil melhor, com renda melhor para todos.\r\nPor isso, o NOVO encaminha \"n\u00e3o\" ao destaque e \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, a bancada do NOVO acabou de conversar com o Secret\u00e1rio Rog\u00e9rio. Entendemos melhor esse destaque. Continuamos acreditando que o Brasil precisa retomar a agenda do crescimento econ\u00f4mico e da produtividade e ganhar renda, mas mudamos o nosso encaminhamento, pois acreditamos que esse destaque n\u00e3o vai ter o impacto fiscal que imaginamos que teria, ap\u00f3s um esclarecimento da bancada do NOVO, junto com o nosso Secret\u00e1rio Rog\u00e9rio.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - O NOVO vota \"sim\".\r\nO SR. LUCAS GONZALEZ (NOVO - MG) - Pe\u00e7o 1 minuto para mudarmos o nosso voto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-16T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AUMENTO, DOTA\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, FUNDOS, ELEI\u00c7\u00c3O, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO) .\r\n,",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Apelo ao Plen\u00e1rio de rejei\u00e7\u00e3o da proposta de aumento das dota\u00e7\u00f5es do Fundo Eleitoral, preconizada no projeto sobre a Lei de Diretrizes Or\u00e7ament\u00e1rias - LDO de 2019/2020.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, eu estou indo para Belo Horizonte daqui a pouco, mas n\u00e3o poderia ir para o recesso parlamentar sem fazer um apelo a este Plen\u00e1rio, em especial aos meus colegas Deputados que aqui est\u00e3o. \r\nDeputado Felipe Rigoni, que acabou de chegar ao plen\u00e1rio; Deputado Luiz Lima, que vai se pronunciar daqui a pouco da tribuna; meu colega de partido, Deputado Paulo; e outros, fa\u00e7amos uma reflex\u00e3o, neste recesso parlamentar, sobre o que foi descrito na Lei de Diretrizes Or\u00e7ament\u00e1rias pelo Relator Cac\u00e1 Le\u00e3o. Refiro-me ao aumento do Fundo Eleitoral para 4 bilh\u00f5es de reais. H\u00e1 13 milh\u00f5es de desempregados no nosso Pa\u00eds. Recentemente, no corredor de acesso a este plen\u00e1rio, uma exposi\u00e7\u00e3o mostrou que 50% da nossa popula\u00e7\u00e3o n\u00e3o t\u00eam sequer saneamento b\u00e1sico. Diante disso, \u00e9 impens\u00e1vel, \u00e9 inimagin\u00e1vel cogitar que n\u00f3s aprovaremos o aumento do Fundo Eleitoral para 4 bilh\u00f5es de reais.\r\nFa\u00e7o esse apelo a V.Exas., para que fa\u00e7am essa reflex\u00e3o durante o recesso parlamentar. Em agosto, a mat\u00e9ria ser\u00e1 apreciada na Comiss\u00e3o Mista de Or\u00e7amento e, depois, neste plen\u00e1rio.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F7%2F2019&txPagina=16&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-08T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO), COMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO), VOTA\u00c7\u00c3O, AN\u00c1LISE.\r\nFUNDO PARTID\u00c1RIO, RECURSOS, AUMENTO, CONTR\u00c1RIO, PARTIDO NOVO (NOVO), POSI\u00c7\u00c3O.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Reitera\u00e7\u00e3o do posicionamento do partido NOVO contr\u00e1rio ao aumento dos recursos do Fundo Partid\u00e1rio.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, no meu \u00faltimo discurso neste plen\u00e1rio antes do recesso parlamentar, pedi aos nobres colegas Deputados aten\u00e7\u00e3o \u00e0 mat\u00e9ria que foi votada hoje pela manh\u00e3 na Comiss\u00e3o Mista de Or\u00e7amento. Eu me refiro \u00e0 LDO, em especial ao destaque do Partido Novo contra o fundo eleitoral.\r\nNeste plen\u00e1rio, a Oposi\u00e7\u00e3o, a Situa\u00e7\u00e3o, o Governo, v\u00e1rios partidos diferentes v\u00eam pedindo de maneira reiterada recursos para aplicarmos em educa\u00e7\u00e3o, em sa\u00fade, em seguran\u00e7a, em infraestrutura. Mas hoje, em oportunidade \u00edmpar que tivemos para provar que a popula\u00e7\u00e3o \u00e9 mais importante do que a elei\u00e7\u00e3o, infelizmente declinamos, na CMO, na Comiss\u00e3o Mista de Or\u00e7amento, de votar com transpar\u00eancia. A vota\u00e7\u00e3o foi simb\u00f3lica, n\u00e3o tive o apoiamento necess\u00e1rio para pedir vota\u00e7\u00e3o nominal. Depois disso, o m\u00e9rito foi rejeitado. \u00c9 importante a popula\u00e7\u00e3o saber que, de forma simb\u00f3lica, o fundo eleitoral passou para 3,7 bilh\u00f5es de reais, com que o NOVO n\u00e3o concorda.\r\nDesde j\u00e1 deixo registrado que continuaremos a lutar neste plen\u00e1rio e, depois, no fim do ano, no debate sobre a LOA, para que possamos, com transpar\u00eancia, mostrar \u00e0 popula\u00e7\u00e3o que mais importante que o fundo eleitoral \u00e9 o saneamento b\u00e1sico, \u00e9 a educa\u00e7\u00e3o de qualidade, \u00e9 uma sa\u00fade moderna, \u00e9 a finaliza\u00e7\u00e3o das obras exatamente dentro do prazo estabelecido.\r\nO NOVO reitera a sua posi\u00e7\u00e3o de brigar at\u00e9 o fim contra esse abuso, essa irresponsabilidade, que \u00e9 o fundo eleitoral.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F8%2F2019&txPagina=29&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre aprova\u00e7\u00e3o do texto do Acordo entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica Sobre Salvaguardas Tecnol\u00f3gicas Relacionadas \u00e0 Participa\u00e7\u00e3o dos Estados Unidos da Am\u00e9rica em Lan\u00e7amentos a partir do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o NOVO sabe da relev\u00e2ncia desse projeto, n\u00e3o apenas para o Maranh\u00e3o, mas para todo o Brasil, porque vai colocar o Brasil em outro patamar estrat\u00e9gico no que tange \u00e0 economia aeroespacial.\r\nPortanto, o NOVO encaminha o voto \"sim\", porque isso vai gerar riqueza, emprego e renda numa regi\u00e3o t\u00e3o importante para o nosso Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=340&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ACORDO, SUPRESS\u00c3O, FERROVIA, VOTA\u00c7\u00c3O, PL 693/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO PARCELAMENTO DO SOLO URBANO, REDU\u00c7\u00c3O, FAIXA DE DOM\u00cdNIO, DOM\u00cdNIO P\u00daBLICO, RODOVIA, CRIT\u00c9RIO, PERMAN\u00caNCIA, EDIFICA\u00c7\u00c3O, PER\u00cdMETRO URBANO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Celebra\u00e7\u00e3o de acordo para vota\u00e7\u00e3o do Projeto de Lei n\u00ba 693, de 2019, de autoria do Deputado Jorginho Mello, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.766, de 1979 (Lei do Parcelamento do Solo Urbano), com vista \u00e0 garantia do direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias e ferrovias, e para possibilidade da redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, quero informar a V.Exa. que, conversando aqui no plen\u00e1rio com colegas, inclusive com o Senador Jorginho, autor do Projeto de Lei n\u00ba 693, de 2019, h\u00e1 um acordo entre n\u00f3s para que retiremos as ferrovias e votemos ainda hoje esse projeto de lei que vai oferecer benef\u00edcios aos in\u00fameros quil\u00f4metros ao redor das milhares rodovias do nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-10T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PARTIDO SOCIAL LIBERAL (PSL), PARTIDO NOVO (NOVO), FAVOR\u00c1VEL, ACORDO, PL 693/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO PARCELAMENTO DO SOLO URBANO, REDU\u00c7\u00c3O, FAIXA DE DOM\u00cdNIO, DOM\u00cdNIO P\u00daBLICO, FERROVIA, RODOVIA, CRIT\u00c9RIO, PERMAN\u00caNCIA, EDIFICA\u00c7\u00c3O, PER\u00cdMETRO URBANO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "N\u00e3o comparecimento dos Deputados do PSL ao plen\u00e1rio para vota\u00e7\u00e3o do Projeto de Lei n\u00ba 693, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.766, de 1979 (Lei do Parcelamento do Solo Urbano), com vista \u00e0 garantia do direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias e ferrovias e possibilidade de redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital. Declara\u00e7\u00e3o de voto favor\u00e1vel \u00e0 aprova\u00e7\u00e3o da propositura.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero lamentar a posi\u00e7\u00e3o do PSL. Ontem foi constru\u00eddo um acordo nesse plen\u00e1rio para votarmos o projeto de rodovias e ferrovias nesta manh\u00e3. N\u00f3s estamos h\u00e1 1 hora, eu e outros colegas, tentando contato com os Parlamentares do PSL, mas eles n\u00e3o nos respondem, n\u00e3o atendem.\r\nE, quanto ao m\u00e9rito, n\u00e3o h\u00e1 qualquer tipo de obje\u00e7\u00e3o, pelo que sabemos. Ent\u00e3o, queremos manter o acordo.\r\nVotamos \"sim\" a essa mat\u00e9ria, em que pese o posicionamento contr\u00e1rio do PSL, que, uma vez mais, prejudica o bom andamento dos nossos trabalhos aqui na C\u00e2mara dos Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F10%2F2019&txPagina=17&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER, APROVA\u00c7\u00c3O, PL 693/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO PARCELAMENTO DO SOLO URBANO, REDU\u00c7\u00c3O, FAIXA DE DOM\u00cdNIO, DOM\u00cdNIO P\u00daBLICO, FERROVIA, RODOVIA, CRIT\u00c9RIO, PERMAN\u00caNCIA, EDIFICA\u00c7\u00c3O, PER\u00cdMETRO URBANO, SUBSTITUTIVO, COMISS\u00c3O DE VIA\u00c7\u00c3O E TRANSPORTES (CVT).",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 693, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.766, de 1979 (Lei do Parcelamento do Solo Urbano), com vista \u00e0 garantia do direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias, e para possibilidade de redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Para proferir parecer. Sem revis\u00e3o do orador.) - Presidente, obrigado. Boa tarde a todos.\r\nTrata-se do Projeto de Lei n\u00ba 693, de 2019, de autoria do Senador Jorginho Mello, que esteve conosco nas \u00faltimas sess\u00f5es da C\u00e2mara dos Deputados.\r\nPasso \u00e0 leitura do relat\u00f3rio.\r\n\"Chega para o exame deste Plen\u00e1rio o projeto de lei (...) que altera a Lei n\u00ba 6.766, de 19 de dezembro de 1979, que disp\u00f5e sobre o parcelamento do solo urbano, para assegurar o direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias e ferrovias e para possibilitar a redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital.\r\nDessa forma, a proposi\u00e7\u00e3o em tela pretende alterar o art. 4\u00ba da mencionada lei, para dispor que, ao longo das faixas de dom\u00ednio p\u00fablico das rodovias e ferrovias, ser\u00e1 obrigat\u00f3ria a reserva de faixa n\u00e3o edific\u00e1vel de 15 metros de cada lado, que poder\u00e1 ser reduzida at\u00e9 o limite de 5 metros de cada lado pela lei municipal ou distrital que aprovar o plano diretor.\r\nPretende-se excepcionar dessa exig\u00eancia as edifica\u00e7\u00f5es localizadas nas \u00e1reas cont\u00edguas \u00e0s faixas de dom\u00ednio p\u00fablico dos trechos das rodovias e ferrovias que atravessem per\u00edmetros urbanos ou \u00e1reas urbanizadas pass\u00edveis de serem inclu\u00eddas em per\u00edmetro urbano, desde que constru\u00eddas at\u00e9 a data de 31 de julho de 2018, salvo ato devidamente fundamentado do poder p\u00fablico municipal ou distrital.\"\r\nEsse \u00e9 o relat\u00f3rio.\r\nPasso ao voto do Relator.\r\n\"Em rela\u00e7\u00e3o ao parecer pelo m\u00e9rito do projeto, votamos pela aprova\u00e7\u00e3o da proposi\u00e7\u00e3o pela Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel por se tratar de pequena altera\u00e7\u00e3o que n\u00e3o trar\u00e1 maiores impactos ao meio ambiente atrav\u00e9s da redu\u00e7\u00e3o das faixas n\u00e3o edific\u00e1veis, mantendo as regras para as faixas de dom\u00ednio.\r\nNa Comiss\u00e3o de Via\u00e7\u00e3o e Transportes, votamos pela aprova\u00e7\u00e3o do projeto, que ir\u00e1 contribuir para uma nova legisla\u00e7\u00e3o, menos burocr\u00e1tica e ao mesmo tempo segura, atrav\u00e9s das altera\u00e7\u00f5es previstas pelo substitutivo apresentado.\r\nPela Comiss\u00e3o de Desenvolvimento Urbano votamos pela aprova\u00e7\u00e3o do projeto de lei por se tratar de mat\u00e9ria que ir\u00e1 contribuir para a regulariza\u00e7\u00e3o e adequa\u00e7\u00e3o dos projetos urban\u00edsticos demandados pelo processo de crescimento urbano e do substitutivo apresentado pela Comiss\u00e3o de Via\u00e7\u00e3o e Transporte.\r\nQuanto aos aspectos constitucional e jur\u00eddico, a proposi\u00e7\u00e3o em quest\u00e3o atende aos pressupostos formais e materiais previstos na Constitui\u00e7\u00e3o Federal e est\u00e1 em conformidade com os princ\u00edpios e normas do ordenamento jur\u00eddico brasileiro.\r\nTamb\u00e9m foram observadas as normas regimentais e de t\u00e9cnica legislativa.\r\nPasso a expor breves considera\u00e7\u00f5es acerca da pertin\u00eancia da proposi\u00e7\u00e3o em an\u00e1lise, amparada por fundamentos constitucionais e jur\u00eddicos que justificam o m\u00e9rito.\r\nA proposta em pauta modifica a Lei n\u00ba 6.766, de 19 de dezembro de 1979, a qual disp\u00f5e sobre o parcelamento do solo urbano, de forma a determinar que, ao longo das faixas de dom\u00ednio p\u00fablico das rodovias e ferrovias, seja obrigat\u00f3ria a reserva de faixa n\u00e3o edific\u00e1vel de 15 metros de cada lado, a qual pode ser reduzida at\u00e9 o limite m\u00ednimo de 5 metros de cada lado pela lei municipal ou distrital que aprovar o plano diretor.\r\nEntretanto, excepciona dessa exig\u00eancia as edifica\u00e7\u00f5es localizadas nas \u00e1reas cont\u00edguas \u00e0s faixas de dom\u00ednio p\u00fablico dos trechos das rodovias e ferrovias que estejam em \u00e1rea urbana, desde que constru\u00eddas at\u00e9 a data de 31 de julho de 2018, salvo ato devidamente fundamentado do poder p\u00fablico municipal ou distrital.\r\n\u00c9 importante salientar que, atualmente, a citada lei define que, ao longo de \u00e1guas correntes e dormentes, rodovias e ferrovias, a faixa n\u00e3o edific\u00e1vel deve ser de 15 metros em cada lado. Destacamos que essa \u00e1rea n\u00e3o edific\u00e1vel \u00e9 aquela que fica ap\u00f3s a faixa de dom\u00ednio.\r\nSabemos que a faixa de dom\u00ednio \u00e9 a base f\u00edsica sobre a qual se assenta uma rodovia, constitu\u00edda pelas pistas de rolamento, canteiros, obras de arte, acostamentos, sinaliza\u00e7\u00e3o e faixa lateral de seguran\u00e7a, at\u00e9 o alinhamento das cercas que separam a rodovia ou ferrovia dos im\u00f3veis marginais ou da faixa do recuo. A propriedade da faixa de dom\u00ednio \u00e9 do Estado ou da Uni\u00e3o e, sobre ela, n\u00e3o \u00e9 permitido nenhum tipo de constru\u00e7\u00e3o. A sua exist\u00eancia \u00e9 necess\u00e1ria para a seguran\u00e7a e para os casos em que seja necess\u00e1rio aumentar as faixas de rodagem.\r\nEm rela\u00e7\u00e3o \u00e0 faixa n\u00e3o edific\u00e1vel, h\u00e1 o direito \u00e0 propriedade particular, por\u00e9m esta dever\u00e1 ser exercida, caso haja interesse em edifica\u00e7\u00e3o, com a reserva de 15 metros da faixa de dom\u00ednio.\r\nEntendemos que esses 15 metros poderiam ser diminu\u00eddos, em muitos casos, uma vez que acreditamos que a margem de seguran\u00e7a j\u00e1 est\u00e1 inserida na faixa de dom\u00ednio. Caso os \u00f3rg\u00e3os de tr\u00e2nsito concluam que \u00e9 necess\u00e1rio um espa\u00e7o maior para seguran\u00e7a, poder\u00e1 a administra\u00e7\u00e3o p\u00fablica desapropriar, visando ao bem comum e \u00e0 seguran\u00e7a da popula\u00e7\u00e3o. Por\u00e9m, na maioria das vezes, \u00e9 suficiente a soma da faixa de dom\u00ednio com 5 metros, para conceder seguran\u00e7a aos cidad\u00e3os.\r\n\u00c9 importante notar que a proposta de mudan\u00e7a das regras atuais parte da premissa de que a faixa de dom\u00ednio das rodovias e ferrovias j\u00e1 seria suficiente e bastante para garantir a seguran\u00e7a operacional plena e evitar todo tipo de conflito e risco \u00e0 popula\u00e7\u00e3o.\r\nOcorre que, da mesma forma como o texto original da lei possui motivos e finalidades diversos para cada uma das suas hip\u00f3teses, \u00e9 necess\u00e1rio analisar os impactos da altera\u00e7\u00e3o legislativa tamb\u00e9m em cada uma das hip\u00f3teses distintas, pois as consequ\u00eancias s\u00e3o igualmente diversas.\r\nA complexidade e multiplicidade de fundamentos sociais j\u00e1 contam com um primeiro reconhecimento por parte do legislador do Senado, quando mant\u00e9m a disciplina atual no caso de \u00e1reas ao longo de \u00e1guas correntes e dormentes. Mas \u00e9 necess\u00e1rio, nesse mesmo sentido, sopesar algumas considera\u00e7\u00f5es pr\u00f3prias do setor ferrovi\u00e1rio que inspiram aten\u00e7\u00e3o e cuidado.\r\nAo contr\u00e1rio do que normalmente ocorre com as rodovias, a faixa de dom\u00ednio das ferrovias tem grande varia\u00e7\u00e3o de largura a depender do trecho. Assim, a premissa de que a faixa de dom\u00ednio possui \u00e1rea e condi\u00e7\u00f5es suficientes de, por si s\u00f3, garantir a plena seguran\u00e7a da opera\u00e7\u00e3o e de terceiros n\u00e3o se confirma no setor ferrovi\u00e1rio nas mesmas condi\u00e7\u00f5es do que poderia se aplicar ao setor rodovi\u00e1rio.\r\nPor uma s\u00e9rie de fatores, entre eles a idade de boa parte dos trechos, muitos deles constru\u00eddos h\u00e1 mais de 100 anos, as faixas de dom\u00ednio ferrovi\u00e1rias n\u00e3o seguem um padr\u00e3o \u00fanico, podendo, em diversos trechos, ser de apenas 5 metros, por exemplo, em contraste com a premissa de 40 metros mencionada na justifica\u00e7\u00e3o da proposta original, que pode ser adequada no caso de rodovias, mas n\u00e3o \u00e9 a realidade do setor ferrovi\u00e1rio. Nesses casos, que n\u00e3o s\u00e3o raros, a exist\u00eancia de uma \u00e1rea n\u00e3o edific\u00e1vel, a despeito de seu car\u00e1ter eminentemente privado, \u00e9 uma garantia \u00e0 popula\u00e7\u00e3o do entorno para a mitiga\u00e7\u00e3o de riscos relacionados \u00e0 atividade e seus impactos potenciais. Assim, tanto a redu\u00e7\u00e3o da \u00e1rea objeto da limita\u00e7\u00e3o administrativa, quanto a anistia \u00e0s constru\u00e7\u00f5es irregulares constituem fator de risco ao mun\u00edcipe e ao modo de vida urbano no que tange \u00e0 rela\u00e7\u00e3o entre cidade e ferrovia, seja no dia a dia da opera\u00e7\u00e3o, seja na ocorr\u00eancia de um evento extraordin\u00e1rio, como um acidente ferrovi\u00e1rio, lembrando que h\u00e1 composi\u00e7\u00f5es que possuem mais de 3 quil\u00f4metros de extens\u00e3o da locomotiva at\u00e9 o \u00faltimo vag\u00e3o, o que torna o impacto potencial de seguran\u00e7a relevante, a despeito das melhores pr\u00e1ticas empregadas e da substancial diminui\u00e7\u00e3o de \u00edndices de sinistros do g\u00eanero nos \u00faltimos anos decorrentes de investimentos constantemente realizados. Dessa maneira, mostra-se imprescind\u00edvel a manuten\u00e7\u00e3o de pelo menos 15 metros de \u00e1rea n\u00e3o edific\u00e1vel ao longo das ferrovias para garantia do interesse p\u00fablico, especialmente a seguran\u00e7a dos mun\u00edcipes em geral.\r\nA manuten\u00e7\u00e3o da atual disciplina \u00e9 essencial tamb\u00e9m para que n\u00e3o se estimulem ou se criem conflitos urbanos decorrentes da rela\u00e7\u00e3o entre cidade e ferrovia, j\u00e1 que, quanto mais edifica\u00e7\u00f5es muito pr\u00f3ximas \u00e0s linhas f\u00e9rreas, maior o potencial de pessoas adentrarem a pr\u00f3pria faixa de dom\u00ednio ou permanecerem mais pr\u00f3ximas \u00e0 opera\u00e7\u00e3o desnecessariamente. Al\u00e9m disso, deve-se atentar para um dos objetivos da \u00e1rea n\u00e3o-edific\u00e1vel definido no art. 4\u00ba, inciso III, da Lei 6.766/1979, de proteger as proximidades das \u00e1guas correntes e dormentes ou reservar espa\u00e7os de seguran\u00e7a nas rodovias p\u00fablicas, ferrovias e dutos.\r\nDesta forma \u00e9 importante a manuten\u00e7\u00e3o da reserva de 15 metros para cada lado da faixa n\u00e3o edific\u00e1vel para as ferrovias, de forma a possibilitar melhor interven\u00e7\u00f5es futuras, para minimizar poss\u00edveis impactos negativos e promover o uso eficiente do solo urbano, observando o plano diretor do Munic\u00edpio e, nas regi\u00f5es metropolitanas, o plano de desenvolvimento urbano integrado.\r\nOutro ponto alterado foi a data de corte para as edifica\u00e7\u00f5es constru\u00eddas at\u00e9 a data da promulga\u00e7\u00e3o da lei. Essa altera\u00e7\u00e3o permitir\u00e1 uma melhor avalia\u00e7\u00e3o, controle e fiscaliza\u00e7\u00e3o dessas edifica\u00e7\u00f5es, trazendo maior efetividade \u00e0 legisla\u00e7\u00e3o.\r\nPortanto, temos a convic\u00e7\u00e3o de que a proposi\u00e7\u00e3o ora analisada possui um nobre motivo, por reconhecer que o Pa\u00eds possui ocupa\u00e7\u00e3o urbana diversificada e que esse assunto ser\u00e1 melhor equacionado se for tratado de forma local.\r\nA Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania resolve dar parecer pela constitucionalidade, legalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 693, de 2019, e do substitutivo apresentado pela Comiss\u00e3o de Via\u00e7\u00e3o e Transporte.\"\r\nAo substitutivo agora.\r\n\"O Congresso Nacional decreta:\r\nArt. 1\u00ba Esta Lei assegura o direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias e possibilita a redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital.\r\nArt. 2\u00ba O art. 4\u00ba da Lei n\u00ba 6.766, de 19 de dezembro de 1979 (Lei do Parcelamento do Solo Urbano), passa a vigorar com a seguinte reda\u00e7\u00e3o:\r\nArt. 4\u00ba................................................................................\r\n..........................................................................................\r\nIII - ao longo das faixas de dom\u00ednio p\u00fablico das rodovias, de, no m\u00ednimo, 15 (quinze) metros de cada lado, a reserva da faixa n\u00e3o edific\u00e1vel poder\u00e1 ser reduzida por lei municipal que aprovar o plano diretor ou legisla\u00e7\u00e3o espec\u00edfica para os casos de Munic\u00edpios com menos de 20 mil habitantes, at\u00e9 o limite de 5 (cinco) metros de cada lado.\r\nIII-A - ao longo das \u00e1guas correntes e dormentes e da faixa de dom\u00ednio das ferrovias, ser\u00e1 obrigat\u00f3ria a reserva de faixa n\u00e3o edific\u00e1vel de, no m\u00ednimo, 15 (quinze) metros.\r\n...........................................................................................\r\n\u00a7 5\u00ba As edifica\u00e7\u00f5es localizadas nas \u00e1reas cont\u00edguas \u00e0s faixas de dom\u00ednio p\u00fablico dos trechos de rodovia que atravessem per\u00edmetros urbanos ou \u00e1reas urbanizadas pass\u00edveis de serem inclu\u00eddas em per\u00edmetro urbano, desde que constru\u00eddas at\u00e9 a data promulga\u00e7\u00e3o da lei, ficam dispensadas da observ\u00e2ncia da exig\u00eancia prevista no inciso III do caput deste artigo, salvo ato devidamente fundamentado do poder p\u00fablico municipal.\r\nArt. 3\u00ba Esta Lei entra em vigor na data de sua publica\u00e7\u00e3o.\r\nBras\u00edlia, 16 de outubro de 2019.\"\r\n\u00c9 o voto do Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER FAVORAVEL, PL 693/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO PARCELAMENTO DO SOLO URBANO, REDU\u00c7\u00c3O, FAIXA DE DOM\u00cdNIO, DOM\u00cdNIO P\u00daBLICO, FERROVIA, RODOVIA, CRIT\u00c9RIO, PERMAN\u00caNCIA, EDIFICA\u00c7\u00c3O, PER\u00cdMETRO URBANO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Reformula\u00e7\u00e3o do parecer oferecido pelo orador ao Projeto de Lei n\u00ba 693, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.766, de 1979 (Lei do Parcelamento do Solo Urbano), com vista \u00e0 garantia do direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias, e para possibilidade de redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Para proferir parecer. Sem revis\u00e3o do orador.) - Sra. Presidente, obrigado. Como houve uma quest\u00e3o de reda\u00e7\u00e3o, vou ler de novo s\u00f3 o projeto.\r\n\"O Congresso Nacional decreta:\r\nArt. 1\u00ba Esta Lei assegura o direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias e possibilita a redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital.\r\nArt. 2\u00ba O art. 4\u00ba da Lei n\u00ba 6.766, de 19 de dezembro de 1979 (Lei do Parcelamento do Solo Urbano), passa a vigorar com a seguinte reda\u00e7\u00e3o:\r\nArt. 4\u00ba.................................................................................\r\n...........................................................................................\r\nIII - ao longo das faixas de dom\u00ednio p\u00fablico das rodovias, a reserva de faixa n\u00e3o edific\u00e1vel, de, no m\u00ednimo, 15 (quinze) metros de cada lado, poder\u00e1 ser reduzida por lei municipal ou distrital que aprovar o instrumento do planejamento territorial, at\u00e9 o limite m\u00ednimo de 5 (cinco) metros de cada lado.\r\nIII-A - ao longo das \u00e1guas correntes e dormentes e da faixa de dom\u00ednio das ferrovias, ser\u00e1 obrigat\u00f3ria a reserva de uma faixa n\u00e3o edific\u00e1vel de, no m\u00ednimo, 15 (quinze) metros de cada lado.\r\n...........................................................................................\r\n\u00a7 5\u00ba As edifica\u00e7\u00f5es localizadas nas \u00e1reas cont\u00edguas \u00e0s faixas de dom\u00ednio p\u00fablico dos trechos de rodovia que atravessem per\u00edmetros urbanos ou \u00e1reas urbanizadas pass\u00edveis de serem inclu\u00eddas em per\u00edmetro urbano, desde que constru\u00eddas at\u00e9 a data da promulga\u00e7\u00e3o da lei, ficam dispensadas da observ\u00e2ncia da exig\u00eancia prevista no inciso III do caput deste artigo, salvo ato devidamente fundamentado do poder p\u00fablico municipal e distrital.\r\nArt. 3\u00ba Esta Lei entra em vigor na data de sua publica\u00e7\u00e3o.\r\nBras\u00edlia, 16 de outubro de 2019.\"\r\nPela Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel, manifesto-me, quanto ao m\u00e9rito, pela rejei\u00e7\u00e3o das emendas apresentadas ao projeto.\r\nPela Comiss\u00e3o de Via\u00e7\u00e3o e Transportes, manifesto-me, quanto ao m\u00e9rito, pela rejei\u00e7\u00e3o das emendas apresentadas ao projeto.\r\nPela Comiss\u00e3o de Desenvolvimento Urbano, manifesto-me, quanto ao m\u00e9rito, pela rejei\u00e7\u00e3o das emendas apresentadas ao projeto.\r\nPela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, manifesto parecer pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa das emendas apresentadas.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 693/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVORAVEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Via\u00e7\u00e3o e Transportes ao Projeto de Lei n\u00ba 693, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.766, de 1979 (Lei do Parcelamento do Solo Urbano), com vista \u00e0 garantia do direito de perman\u00eancia de edifica\u00e7\u00f5es na faixa n\u00e3o edific\u00e1vel cont\u00edgua \u00e0s faixas de dom\u00ednio p\u00fablico de rodovias, e para possibilidade de redu\u00e7\u00e3o da extens\u00e3o dessa faixa n\u00e3o edific\u00e1vel por lei municipal ou distrital, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o NOVO orienta \"sim\", e aproveito para agradecer a presen\u00e7a aqui do Senador Jorginho Mello, autor do projeto, parabenizando-o pela iniciativa.\r\nTamb\u00e9m agrade\u00e7o \u00e0 Oposi\u00e7\u00e3o, ao Governo e aos demais partidos que colaboraram na constru\u00e7\u00e3o do acordo, para que pudesse ser votado hoje, em especial ao Deputado Santini, que me ajudou na articula\u00e7\u00e3o desse acordo.\r\nEnt\u00e3o, o NOVO orienta \"sim\" a esse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-23T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, PLN 7/2019, PLN 11/2019, PLN 17/2019, PLN 12/2019, PLN 14/2019, PLN 13/2019, PLN 20/2019, PLN 8/2019, PLN 23/2019, PLN 19/2019, PLN 16/2019, PLN 38/2019, PLN 40/2019, PLN 41/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO NOVO (NOVO)), VOTO FAVOR\u00c1VEL.\r\nCONTR\u00c1RIO, PLN 38/2019, PLN 23/2019, PROJETO DE LEI DO CONGRESSO NACIONAL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo dos Projetos de Lei do Congresso Nacional de n\u00bas 7, 11, 17, 12, 14, 13, 20, 8, 23, 19, 16, 38, 40 e 41, de 2019. Posicionamento do orador contr\u00e1rio \u00e0 aprova\u00e7\u00e3o dos Projetos de Lei do Congresso Nacional de n\u00bas 8, de 2019, sobre a abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor das Justi\u00e7as Federal, Eleitoral e do Trabalho, cr\u00e9dito especial no valor de R$ 89.660.000,00, para os fins especificados, e 11, de 2019, a respeito da abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor das Justi\u00e7as Federal e Eleitoral, cr\u00e9dito especial no valor de R$ 3.665.000,00, para os fins especificados.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, apesar de tamb\u00e9m sermos contr\u00e1rios aos itens 8 e 11, do globo, concordamos com o acordo que feito, foi constru\u00eddo pela Lideran\u00e7a, para avan\u00e7armos nesses 13 itens. Mas quero deixar claro para todo o Plen\u00e1rio que o Partido Novo \u00e9 contra os itens 8 e 11, do globo, uma vez que essas obras ou aquisi\u00e7\u00f5es, no que tange ao item 8, s\u00e3o mais valorizadas ou superfaturadas do que a realidade dos projetos descritos.\r\nPortanto, votamos \"sim\" ao globo, mas com ressalva aos itens 8 e 11, concordando com o acordo que foi feito.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F10%2F2019&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-24T11:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LUCAS GONZALEZ, PRESIDENTE, FRENTE PARLAMENTAR DE COMBATE AO SUIC\u00cdDIO E AUTOMUTILA\u00c7\u00c3O NO BRASIL, PARTIDO SOCIALISMO E LIBERDADE (PSOL), VOTA\u00c7\u00c3O, PL 8833/2017, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DA CRIAN\u00c7A E DO ADOLESCENTE (ECA),TIPICIDADE PENAL, INDUZIMENTO \u00c0 AUTOMUTILA\u00c7\u00c3O, AUX\u00cdLIO \u00c0 AUTOMUTILA\u00c7\u00c3O, INSTIGA\u00c7\u00c3O \u00c0 AUTOMUTILA\u00c7\u00c3O, CRIAN\u00c7A, ADOLESCENTE, DETEN\u00c7\u00c3O, AGRAVA\u00c7\u00c3O PENAL, LES\u00c3O CORPORAL GRAVE, FALECIMENTO, DESCARACTERIZA\u00c7\u00c3O, ATO INFRACIONAL, AUTOR (PROCESSO CIVIL), CRIAN\u00c7A, ADOLESCENTE.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Necessidade de comparecimento de Deputado do PSOL ao plen\u00e1rio para a realiza\u00e7\u00e3o de acordo sobre a vota\u00e7\u00e3o de projeto de lei de interesse da juventude brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, na condi\u00e7\u00e3o de Presidente da Frente Parlamentar de Combate ao Suic\u00eddio e Automutila\u00e7\u00e3o no Brasil, quero fazer coro a V.Exa. e pedir \u00e0 assessoria do PSOL para que, de fato, algum representante do partido venha ao plen\u00e1rio para, juntos, acordarmos e votarmos hoje o projeto de lei relatado pela minha colega Deputada Caroline de Toni. E assim esse projeto t\u00e3o importante para a juventude brasileira poder\u00e1 ser aprovado hoje na C\u00e2mara dos Deputados.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2019&txPagina=30&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 8833/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.\r\nFRENTE PARLAMENTAR DE COMBATE AO SUIC\u00cdDIO E AUTOMUTILA\u00c7\u00c3O NO BRASIL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica ao Projeto de Lei n\u00ba 8.833, de 2017, a respeito da tipifica\u00e7\u00e3o como crime a indu\u00e7\u00e3o de crian\u00e7as e adolescentes ao suic\u00eddio e \u00e0 automutila\u00e7\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, vou orientar da tribuna. Por gentileza, eu queria que se agregasse o tempo de Lideran\u00e7a do NOVO. Serei breve.\r\nComo Presidente da Frente Parlamentar de Combate ao Suic\u00eddio e Automutila\u00e7\u00e3o no Brasil, eu queria parabenizar a Deputada Caroline de Toni pelo relat\u00f3rio apresentado; agradecer ao Deputado Felipe Francischini, que deu celeridade a este projeto t\u00e3o importante l\u00e1 na CCJ; e informar ao Plen\u00e1rio que temos dados de que no Brasil um de cada cinco adolescentes j\u00e1 se automutilou.\r\nAqui no Distrito Federal a automutila\u00e7\u00e3o cresceu quase 100% nos \u00faltimos 4 anos. Estima-se que no Brasil h\u00e1 casos j\u00e1 comprovados de automutila\u00e7\u00e3o de crian\u00e7as de 6 e 7 anos.\r\nQuero agradecer tamb\u00e9m ao Plen\u00e1rio, aos L\u00edderes e aos membros da Frente Parlamentar de Combate ao Suic\u00eddio e Automutila\u00e7\u00e3o no Brasil que t\u00eam lutado pela valoriza\u00e7\u00e3o da vida, para juntos aprovarmos projetos como este, que v\u00e3o mitigar a automutila\u00e7\u00e3o no nosso Pa\u00eds.\r\nNo mundo, senhoras e senhoras, o suic\u00eddio j\u00e1 \u00e9 a segunda causa de morte de jovens e, no nosso Pa\u00eds, a quarta. Muitas das vezes o sinal que leva ao suic\u00eddio \u00e9 a automutila\u00e7\u00e3o e muitas das vezes iniciada com o incentivo de algumas pessoas m\u00e1s, de mau car\u00e1ter, criminosas, a partir da aprova\u00e7\u00e3o desta lei.\r\nPor isso, como bancada do NOVO, dizemos \"sim\" a este projeto. E, como Presidente dessa Frente Parlamentar, convido os colegas a nos engajarmos cada vez mais na valoriza\u00e7\u00e3o da vida, na preven\u00e7\u00e3o ao suic\u00eddio e no combate \u00e0 automutila\u00e7\u00e3o.\r\nE concordo com o que foi dito agora h\u00e1 pouco. O Deputado disse que o maior combate \u00e9 o amor dentro de casa. Que possamos, cada um de n\u00f3s, ao sairmos do plen\u00e1rio, viver essa pr\u00e1tica! \u00c9 assim que vamos construir v\u00ednculos familiares mais fortes, valorizando a vida. \r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=240&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-12T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 410/2018, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), R\u00c9U, CONDENA\u00c7\u00c3O CRIMINAL, CONFIRMA\u00c7\u00c3O, SENTEN\u00c7A CONDENAT\u00d3RIA, SEGUNDA INST\u00c2NCIA, VOTA\u00c7\u00c3O, CORRUP\u00c7\u00c3O, COMBATE, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Urgente necessidade de vota\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 410, de 2018, sobre a considera\u00e7\u00e3o da inculpabilidade at\u00e9 a confirma\u00e7\u00e3o de senten\u00e7a penal condenat\u00f3ria em grau de recurso. Compromisso do partido NOVO de combate \u00e0 impunidade no Pa\u00eds.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Sem revis\u00e3o do orador.) - Presidente, obrigado e boa tarde.\r\nQuero reiterar a minha posi\u00e7\u00e3o e a dos meus colegas do Partido Novo, no sentido de que n\u00f3s seremos incans\u00e1veis no combate \u00e0 corrup\u00e7\u00e3o e \u00e0 impunidade no nosso Pa\u00eds.\r\nPor isso, anunciamos, desde o \u00faltimo s\u00e1bado, obstru\u00e7\u00e3o aqui na C\u00e2mara dos Deputados, para que se ganhe velocidade e agilidade na vota\u00e7\u00e3o da PEC 410, que garantir\u00e1 a pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia, trazendo para o Brasil o fim da impunidade e da farra, n\u00e3o apenas da corrup\u00e7\u00e3o, mas tamb\u00e9m de outros crimes.\r\nRepito: n\u00f3s do Partido Novo seremos incans\u00e1veis no combate \u00e0 impunidade no nosso Pa\u00eds.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F11%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-12T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MPV 905/2019, MEDIDA PROVIS\u00d3RIA, CONTRATO DE TRABALHO VERDE E AMARELO, GERA\u00c7\u00c3O DE EMPREGO, JOVEM, FAVOR\u00c1VEL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Apoio \u00e0 Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nNa pessoa do Secret\u00e1rio Rog\u00e9rio Marinho, quero parabenizar o Presidente Bolsonaro pela assinatura, no dia de ontem, a Medida Provis\u00f3ria n\u00ba 905, de 2019, que cria a carteira de trabalho agora conhecida como Verde e Amarelo. A medida vai impulsionar e incentivar a inser\u00e7\u00e3o de milhares de jovens, ou quase 2 milh\u00f5es de jovens, no mercado de trabalho at\u00e9 o final da validade da medida, em dezembro de 2022.\r\nEu quero lembrar aos meus colegas Parlamentares que um em cada quatro brasileiros s\u00e3o jovens e, desse n\u00famero de aproximadamente 50 milh\u00f5es de brasileiros, quase 25% n\u00e3o trabalham e tamb\u00e9m n\u00e3o estudam. Esses jovens est\u00e3o completamente desamparados no nosso Pa\u00eds. Essa medida provis\u00f3ria abre n\u00e3o apenas uma oportunidade de trabalho, mas uma oportunidade de vida.\r\nAqueles que falam que o trabalho \u00e9 basicamente um contrato por meio do qual se presta um servi\u00e7o e se recebe um valor em pec\u00fania em contrapartida est\u00e3o errados. O trabalho \u00e9 muito mais do que isso. O trabalho \u00e9 uma oportunidade para se escrever uma hist\u00f3ria. O trabalho \u00e9 uma oportunidade para se resgatar a dignidade da vida humana. O trabalho \u00e9 uma oportunidade para se viver com um prop\u00f3sito e se deixar um legado para a sua fam\u00edlia.\r\nEu quero aqui lembrar algo. Muitos partidos - a maioria deles de esquerda - valorizam as pessoas que chegam l\u00e1 sem nunca ter trabalhado. O trabalho deve, sim, ser valorizado no nosso Pa\u00eds. Chega de admiramos aqueles que chegam l\u00e1 sem nunca terem trabalhado, os malandros, que s\u00e3o tidos como l\u00edderes na nossa Na\u00e7\u00e3o.\r\nEssa medida provis\u00f3ria, portanto, abre para muitos jovens a oportunidade de construir uma hist\u00f3ria bonita, uma hist\u00f3ria de dignidade, uma hist\u00f3ria de trabalho, e n\u00e3o apenas pelo sal\u00e1rio que podem e v\u00e3o receber, mas, mais do que isso, pela valoriza\u00e7\u00e3o do trabalho que realizam. Tenho a convic\u00e7\u00e3o de que, com a aprova\u00e7\u00e3o dessa medida provis\u00f3ria pelo Congresso Nacional, vamos diminuir o desemprego, em especial o desemprego na juventude.\r\nQuero lembrar que a falta de perspectiva profissional \u00e9 um dos fatores que tem levado o Brasil a ocupar uma triste posi\u00e7\u00e3o no ranking de suic\u00eddios: no Brasil, o suic\u00eddio desponta na quarta posi\u00e7\u00e3o entre as causas que mais matam os jovens. E um dos fatores que nos levam a esses n\u00fameros \u00e9 a falta de perspectiva profissional.\r\nPor isso, j\u00e1 manifesto o meu apoio \u00e0 Medida Provis\u00f3ria n\u00ba 905, de 2019, para que n\u00f3s possamos aprov\u00e1-la o mais r\u00e1pido poss\u00edvel neste Congresso Nacional, a fim de incentivarmos milh\u00f5es de jovens a entrarem no mercado de trabalho e de combatermos o desemprego, o desalento, a falta de perspectiva profissional na juventude brasileira.\r\nE tenho certeza de que o mercado de trabalho, que ser\u00e1 agora permeado por novas mentes, mentes de pessoas trabalhadoras que querem construir uma hist\u00f3ria, vai gerar muita inova\u00e7\u00e3o, vai gerar muita tecnologia, vai gerar muita competitividade, permitindo que o Brasil alcance novos lugares no que tange \u00e0 economia mundial. Tudo isso se dar\u00e1 gra\u00e7as a essas mentes jovens que v\u00e3o encharcar o mercado de trabalho, a partir da aprova\u00e7\u00e3o dessa medida provis\u00f3ria no Congresso Nacional.\r\nPortanto, encerro, Sr. Presidente, deixando o meu total apoio \u00e0 Medida Provis\u00f3ria n\u00ba 905, de 2019.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F11%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-03T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRENTE PARLAMENTAR MISTA EM DEFESA DA PRIS\u00c3O EM SEGUNDA INST\u00c2NCIA, SEGUNDA INST\u00c2NCIA, PRIS\u00c3O, FRENTE PARLAMENTAR, LAN\u00c7AMENTO.\r\nLEI ANTICRIME, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Lan\u00e7amento da Frente Parlamentar Mista em Defesa da Pris\u00e3o em Segunda Inst\u00e2ncia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Sr. Presidente, neste exato momento, no Sal\u00e3o Verde da C\u00e2mara dos Deputados, est\u00e1 sendo lan\u00e7ada a Frente Parlamentar Mista em Defesa da Pris\u00e3o em Segunda Inst\u00e2ncia. Quero relembrar aos meus colegas Parlamentares e, em especial, a todo o Brasil que nos acompanha pela TV C\u00e2mara, que n\u00f3s da bancada do NOVO e v\u00e1rios outros Parlamentares seremos incans\u00e1veis na luta para que o Brasil n\u00e3o continue a ser o Pa\u00eds da impunidade. Da\u00ed a import\u00e2ncia dessa Frente Parlamentar, que vai apoiar amplamente e de forma c\u00e9lere a pris\u00e3o ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia e tamb\u00e9m, na sua integridade, o pacote anticrime para, repito, acabar com a impunidade em nosso Pa\u00eds.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F12%2F2019&txPagina=18&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-16T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.919, de 2019, sobre da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - O NOVO orienta \"sim\". N\u00f3s sabemos que isso n\u00e3o implicar\u00e1 aumento de custo fiscal para o Estado e vai trazer importante celeridade a todos os usu\u00e1rios do sistema judici\u00e1rio brasileiro, n\u00e3o apenas para Minas Gerais. Todos os que v\u00e3o usar esse tribunal a ser criado em Minas Gerais ser\u00e3o beneficiados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2019&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 9236/2017, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), CAR\u00c1TER EXCEPCIONAL, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), TRABALHO INFORMAL, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia pela manuten\u00e7\u00e3o do funcionamento da Casa durante a pandemia de coronav\u00edrus. Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 9.236, de 2017, sobre a altera\u00e7\u00e3o do \u00a7 11 e a inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 no art. 20 da Lei n\u00ba 8.742, de 1993, com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, boa noite. Quero parabeniz\u00e1-lo pela coragem e determina\u00e7\u00e3o em manter o Congresso Nacional aberto, funcionando, trabalhando e votando medidas t\u00e3o importantes neste tempo t\u00e3o cr\u00edtico n\u00e3o apenas para o Brasil, como tamb\u00e9m para o mundo inteiro.\r\nPara mim \u00e9 uma honra muito grande encaminhar este voto daqui de Minas Gerais, na segunda sess\u00e3o totalmente on-line da C\u00e2mara dos Deputados. Quem sabe este n\u00e3o seja um passo rumo a mais moderniza\u00e7\u00e3o e digitaliza\u00e7\u00e3o do Pa\u00eds. Este \u00e9 um exemplo que n\u00f3s no Congresso Nacional podemos dar a todo o Brasil.\r\nSr. Presidente, sabemos da import\u00e2ncia desta mat\u00e9ria. Quero parabenizar os L\u00edderes partid\u00e1rios e, em especial, o Relator, o colega mineiro Deputado Marcelo Aro, pelo trabalho \u00e0 frente desta mat\u00e9ria.\r\nO nosso encaminhamento \u00e9 favor\u00e1vel a este projeto. S\u00e3o 600 reais por m\u00eas para cada uma dessas pessoas, trabalhadores informais e alguns outros que merecem e precisam desse recurso para sobreviver, juntamente com as suas fam\u00edlias.\r\nEu sei que 600 reais podem parecer - e s\u00e3o, na verdade - muito pouco, mas me assusta o n\u00famero de pessoas que precisa disso. O nosso desafio no Brasil \u00e9 gerar renda, atrair riqueza para que, quem sabe, um dia n\u00f3s n\u00e3o tenhamos tantas pessoas precisando desse recurso. E \u00e9 importante, com essa mesma dilig\u00eancia, com essa mesma coragem, com essa mesma vontade de trabalhar, ouvirmos o povo brasileiro, que quer voltar a trabalhar o quanto antes, quer voltar a exercer o seu trabalho com dignidade, com alegria, com zelo, o quanto antes.\r\nE este Congresso Nacional, permeado desta atmosfera de respeito, de unidade, juntamente com o Executivo, tenho certeza que encontrar\u00e1 caminhos equilibrados para que o povo brasileiro volte a trabalhar o quanto antes, Sr. Presidente.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, boa tarde! Boa tarde aos colegas que me ouvem! \r\nEstou falando de Belo Horizonte, uma vez mais, para deixar claro o meu posicionamento a favor da Medida Provis\u00f3ria n\u00ba 905, de 2019.\r\nE tenho dito, Sr. Presidente, desde que a MP foi publicada, no segundo semestre do ano passado: a Medida Provis\u00f3ria n\u00ba 905, de 2019, que cria a Carteira de Trabalho Verde e Amarela, \u00e9 a medida provis\u00f3ria do emprego.\r\nO emprego, para muitos jovens, n\u00e3o \u00e9 apenas o trabalho, mas principalmente a possibilidade de perspectiva de vida, de prop\u00f3sito de vida, de dignidade de vida. N\u00f3s temos milh\u00f5es de jovens desempregados no Brasil, que, al\u00e9m do mais, est\u00e3o sem nenhuma perspectiva de futuro, sem nenhuma perspectiva de esperan\u00e7a em rela\u00e7\u00e3o \u00e0 sua vida profissional.\r\nAo aprovarmos esta medida provis\u00f3ria - j\u00e1 quero ressaltar -, o NOVO vai tentar, por meio de seu destaque, voltar o quanto poss\u00edvel ao texto original, para promovermos a facilita\u00e7\u00e3o do ingresso do jovem no mercado de trabalho. Esse trabalho n\u00e3o \u00e9 apenas o trabalho pelo trabalho, mas o trabalho que vai dar perspectiva, esperan\u00e7a, prop\u00f3sito e, de alguma forma, alento para esses milh\u00f5es de jovens que hoje se encontram fora do mercado de trabalho. N\u00f3s precisamos, atrav\u00e9s da aprova\u00e7\u00e3o desta MP, facilitar o ingresso desses jovens no mercado de trabalho e promover mudan\u00e7a na nossa juventude brasileira. \r\nPor isso, manifesto o meu posicionamento favor\u00e1vel a esta MP e parabenizo V.Exa. por ter pautado esta mat\u00e9ria na sess\u00e3o de hoje, ainda que tenha havido embates pol\u00edticos, embates democr\u00e1ticos, \u00e9 verdade. Superaremos a obstru\u00e7\u00e3o, para aprovarmos a mat\u00e9ria o quanto antes e divulgarmos isso para a juventude do nosso Brasil. A nossa juventude poder\u00e1, a partir da aprova\u00e7\u00e3o desta MP pelo Congresso Nacional - a medida j\u00e1 est\u00e1 valendo, \u00e9 verdade -, ter mais convic\u00e7\u00e3o, certeza, clareza e seguran\u00e7a jur\u00eddica de sua contrata\u00e7\u00e3o e ingresso no mercado de trabalho.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-16T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 873/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, ao Projeto de Lei n\u00ba 873, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista \u00e0 mudan\u00e7a nas regras do aux\u00edlio emergencial; \u00e0 veda\u00e7\u00e3o da suspens\u00e3o de benef\u00edcios previdenci\u00e1rios e assistenciais concedidos aos idosos, \u00e0s pessoas com defici\u00eancia ou com enfermidade grave, durante a pandemia da Covid-19, ressalvados os destaques. Congratula\u00e7\u00f5es ao Relator da mat\u00e9ria, Deputado Cezinha de Madureira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa noite.\r\nPrimeiro, parabenizo o Deputado Cezinha de Madureira pelo trabalho, pela agilidade na relatoria desse projeto t\u00e3o importante, que amplia esse aux\u00edlio emergencial para mais 10 milh\u00f5es de pessoas. S\u00e3o milh\u00f5es de brasileiros que precisam desse recurso, desses 600 reais. S\u00e3o m\u00e3es menores de 18 anos, s\u00e3o pais que criam sozinhos os seus filhos, s\u00e3o pessoas que tiveram, sim, uma renda boa at\u00e9 2018, mas que hoje se encontram numa situa\u00e7\u00e3o completamente diferente. Por isso, precisam desse recurso.\r\n\u00c9 bom esclarecer que, independentemente da atividade profissional de cada trabalhador, de cada trabalhadora Brasil afora, se ele se encaixa nos crit\u00e9rios da lei, de ser contribuinte individual, de ser um MEI, de estar desempregado, por\u00e9m sem receber o aux\u00edlio-desemprego, de ser um trabalhador informal, ele far\u00e1, sim, jus a esse benef\u00edcio para ampar\u00e1-lo neste momento t\u00e3o cr\u00edtico que n\u00f3s estamos vivendo.\r\nParabenizo tamb\u00e9m o Relator pela inclus\u00e3o da suspens\u00e3o do FIES. Isso vai, sim, fazer diferen\u00e7a no bolso de tantas pessoas que pagam essas parcelas mensalmente. E agora v\u00e3o poder usar esse recurso para o seu sustento e o da sua fam\u00edlia.\r\nO NOVO parabeniza o Relator e parabeniza V.Exa. por ter pautado essa mat\u00e9ria. E, desde j\u00e1, parabenizamos tamb\u00e9m o Presidente do Senado, que fez o compromisso de paut\u00e1-la amanh\u00e3, para que milh\u00f5es de pessoas sejam beneficiadas o quanto antes.\r\nO NOVO encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2020&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-16T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 873/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 1\u00ba do texto original do Projeto de Lei n\u00ba 873, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista \u00e0 mudan\u00e7a nas regras do aux\u00edlio emergencial; \u00e0 veda\u00e7\u00e3o da suspens\u00e3o de benef\u00edcios previdenci\u00e1rios e assistenciais concedidos aos idosos, \u00e0s pessoas com defici\u00eancia ou com enfermidade grave durante a pandemia da Covid-19, para a sua inclus\u00e3o no Substitutivo oferecido pelo Relator da proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s estamos convictos de que precisamos, sim, fazer um trabalho intenso e profundo para ver como focalizar mais os programas de pol\u00edticas p\u00fablicas e os programas sociais no nosso Pa\u00eds, inclusive o BPC. \r\nO NOVO, inclusive, se coloca \u00e0 disposi\u00e7\u00e3o para fazer parte de um grupo de trabalho para avaliar como melhorar e como focalizar n\u00e3o apenas o BPC, mas tamb\u00e9m as outras pol\u00edticas p\u00fablicas de cunho social no Brasil. Mas, neste momento, n\u00f3s estamos diante de um plano emergencial tempor\u00e1rio e provis\u00f3rio, que vai amparar milh\u00f5es de fam\u00edlias no Brasil. \r\nEnt\u00e3o, n\u00f3s votamos \"n\u00e3o\" ao destaque e \"sim\" ao texto, mas j\u00e1 fazendo esse compromisso de participar ativamente da melhoria e da focaliza\u00e7\u00e3o tanto do BPC quanto dos outros programas de pol\u00edticas p\u00fablicas e sociais.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2020&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-16T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 873/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 43, apresentada ao Projeto de Lei n\u00ba 873, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista \u00e0 mudan\u00e7a nas regras do aux\u00edlio emergencial; \u00e0 veda\u00e7\u00e3o da suspens\u00e3o de benef\u00edcios previdenci\u00e1rios e assistenciais concedidos aos idosos, \u00e0s pessoas com defici\u00eancia ou com enfermidade grave, durante a pandemia da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, boa noite. \u00c9 uma alegria v\u00ea-lo nesta cadeira, presidindo esta sess\u00e3o, V.Exa. que \u00e9 o nosso professor na Comiss\u00e3o Mista de Or\u00e7amento.\r\nO NOVO, em rela\u00e7\u00e3o a esse destaque, encaminha \"sim\", acreditando que \u00e9 miss\u00e3o tamb\u00e9m da C\u00e2mara dos Deputados simplificar o acesso ao recurso emergencial que n\u00f3s aprovamos para milh\u00f5es de fam\u00edlias que dependem desse aux\u00edlio.\r\nEnt\u00e3o, queremos simplificar o acesso, votando \"n\u00e3o\" ao texto e \"sim\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2020&txPagina=165&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, ADEQUA\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO NOVO (NOVO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa tarde a todos.\r\nPresidente, o NOVO reconhece, juntamente com os demais colegas partid\u00e1rios, o potencial que o Brasil tem no que tange ao turismo. S\u00e3o 6 milh\u00f5es de turistas ao ano aproximadamente, mas o n\u00famero pode ser de 40 milh\u00f5es de turistas ao ano nesta terra t\u00e3o linda, que \u00e9 o Brasil.\r\nN\u00e3o apenas a MP 907 ser\u00e1 importante mas tamb\u00e9m os investimentos em seguran\u00e7a e infraestrutura, que certamente v\u00e3o auxiliar, e muito, a atra\u00e7\u00e3o de turistas para o nosso Pa\u00eds.\r\nN\u00f3s votamos \"sim\", sabendo da relev\u00e2ncia da mat\u00e9ria.\r\nLamentamos a retirada do ECAD, mas fica o compromisso de restabelecermos o tema na Medida Provis\u00f3ria n\u00ba 948. Seria muito bom o debate sobre a privatiza\u00e7\u00e3o desses servi\u00e7os, n\u00e3o apenas os da EMBRATUR mas tamb\u00e9m outros servi\u00e7os, para tornar o Estado brasileiro ainda mais eficiente e enxuto, permitindo que esses recursos sejam investidos (falha na transmiss\u00e3o), que tamb\u00e9m v\u00e3o intensificar o turismo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 8/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, como eu j\u00e1 disse, o NOVO entende que o ideal seria a privatiza\u00e7\u00e3o da EMBRATUR. Se n\u00e3o estamos votando isso ainda, acreditamos que essa transforma\u00e7\u00e3o pautada pela MP 907 \u00e9 um caminho para um dia chegarmos l\u00e1 e amadurecermos esse debate da privatiza\u00e7\u00e3o.\r\nPor isso, votamos \"n\u00e3o\" ao destaque e \"sim\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-28T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 15/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 936/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do inciso IV, art. 17, do Projeto de Lei de Convers\u00e3o n\u00ba 15, de 2020, da Medida Provis\u00f3ria n\u00ba 936, de 2020, acerca da institui\u00e7\u00e3o do Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda, e de medidas trabalhistas complementares para enfrentamento do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Boa noite a todos.\r\nEu quero encaminhar favoravelmente ao nosso destaque, porque a g\u00eanese dessa medida provis\u00f3ria aprovada h\u00e1 pouco, ressalvados os destaques, \u00e9 exatamente a preserva\u00e7\u00e3o de empregos. \r\nN\u00f3s estamos aqui falando de acordos coletivos que foram constru\u00eddos em outro cen\u00e1rio. N\u00e3o muitos meses atr\u00e1s, a previs\u00e3o era de um crescimento econ\u00f4mico para o nosso Pa\u00eds, neste ano de 2020. E a\u00ed fomos surpreendidos por essa pandemia, que jogou por terra toda essa previs\u00e3o.\r\n\u00c9 exatamente por isso que os acordos coletivos constru\u00eddos em outro contexto econ\u00f4mico precisam sim ser revistos, exatamente para que empregos sejam preservados. Essa \u00e9 a g\u00eanese, o foco, o prop\u00f3sito desta medida provis\u00f3ria.\r\nEnt\u00e3o, o nosso destaque est\u00e1 de acordo com o parecer do Relator na medida provis\u00f3ria.\r\nPor isso, Sr. Presidente, eu queria fazer um apelo aos L\u00edderes para reverterem a sua posi\u00e7\u00e3o e encoraj\u00e1-los, n\u00e3o apenas para a preserva\u00e7\u00e3o de empregos, mas tamb\u00e9m para a gera\u00e7\u00e3o de empregos, a apreciarmos a reforma tribut\u00e1ria, a reforma administrativa e as demais reformas importantes para o Pa\u00eds.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2020&txPagina=125&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-28T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 936/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 60, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 936, de 2020, acerca da institui\u00e7\u00e3o do Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda, e de medidas trabalhistas complementares para enfrentamento do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o NOVO encaminha \"n\u00e3o\" a esta emenda, entendendo que o que garante ou deve garantir emprego n\u00e3o \u00e9 a letra da lei, e sim a pr\u00f3pria demanda da economia em nosso Pa\u00eds.\r\n\u00c9 por isso, Presidente, que eu quero encorajar de novo V.Exa., como toda a base do Governo que est\u00e1 nos ouvindo, uma vez que estamos aprovando a prorroga\u00e7\u00e3o da desonera\u00e7\u00e3o de folha, a tamb\u00e9m retomarmos a t\u00e3o importante discuss\u00e3o da reforma tribut\u00e1ria, para simplificarmos o ambiente de neg\u00f3cios em nosso Pa\u00eds, atraindo novos investimentos e gerando ainda mais empregos.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2020&txPagina=157&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4199/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO NOVO (NOVO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Gonzalez",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 88, apresentada ao Projeto de Lei n\u00ba 4.199, de 2020, sobre a institui\u00e7\u00e3o do Programa de Est\u00edmulo ao Transporte por Cabotagem - BR do Mar, e a altera\u00e7\u00e3o das Leis de n\u00bas 5.474, de 1968; 9.432, de 1997; 10.233, de 2001, e 10.893, de 2004.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS GONZALEZ (NOVO - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o NOVO encaminha \"n\u00e3o\" ao Destaque n\u00ba 14. Entendemos que a BR do Mar vem para facilitar, simplificar esse servi\u00e7o de cabotagem no Brasil. Ent\u00e3o, todo o nosso esfor\u00e7o \u00e9 para mantermos simplificada a cabotagem, para facilitar e inovar a log\u00edstica nacional.\r\nPresidente, aproveito para parabenizar a equipe do Ministro Tarc\u00edsio, toda a equipe de infraestrutura, que tem feito um esfor\u00e7o muito grande para, juntos, melhorarmos a log\u00edstica nacional, criarmos uma log\u00edstica mais competitiva, reduzindo custos, reduzindo fretes, reduzindo o pre\u00e7o do servi\u00e7o pago pela popula\u00e7\u00e3o brasileira no fim das contas.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F12%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

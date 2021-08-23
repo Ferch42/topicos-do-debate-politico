@@ -1,0 +1,74 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-09T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "CUIAB\u00c1 (MT), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Juarez Costa",
+        "sumario": "Transcurso do 300\u00ba anivers\u00e1rio de funda\u00e7\u00e3o de Cuiab\u00e1, Estado de Mato Grosso.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUAREZ COSTA (Bloco/MDB - MT. Pela ordem. Sem revis\u00e3o do orador.) - Agrade\u00e7o.\r\nEu quero registrar aqui, com muito orgulho, o anivers\u00e1rio de Cuiab\u00e1, Capital do Estado de Mato Grosso, que completou ontem 300 anos. Trata-se de uma cidade com muita miscigena\u00e7\u00e3o, com um povo ordeiro, trabalhador e acima de tudo muito acolhedor.\r\nEu deixo aqui os meus parab\u00e9ns \u00e0 cidade de Cuiab\u00e1 pelo transcurso dos seus 300 anos!\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2019&txPagina=99&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JUAREZ COSTA, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO CENTRO-OESTE (FCO), EMPR\u00c9STIMO, ESTADO (ENTE FEDERADO), INVESTIMENTO, AGRICULTURA, DEFESA.",
+        "nomeDeputado": "Juarez Costa",
+        "sumario": "Pedido aos Deputados de apoio \u00e0 proposta de emenda \u00e0 Constitui\u00e7\u00e3o sobre a destina\u00e7\u00e3o aos Estados brasileiros, a t\u00edtulo de empr\u00e9stimo, de recursos do Fundo Constitucional de Financiamento do Centro-Oeste - FCO.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JUAREZ COSTA (Bloco/MDB - MT. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, fa\u00e7o uso da tribuna para pedir o apoio de todos os colegas Parlamentares, em especial os do Nordeste, Centro-Oeste e Norte do Pa\u00eds, a uma PEC que n\u00f3s estamos apresentando. H\u00e1 fundo constitucional que, no meu Estado do Mato Grosso, se chama FCO. Todos os anos sobram recursos desse fundo n\u00e3o s\u00f3 no Mato Grosso, no Centro-Oeste, como tamb\u00e9m no Norte e no Nordeste. Ministro Neri Geller, a nossa PEC prev\u00ea que at\u00e9 30% desses recursos sejam destinados aos Estados como tomadores desse empr\u00e9stimo, com juros de 6% ao ano, podendo ser pago em at\u00e9 20 anos, somente para infraestrutura. Tanto o Centro-Oeste quanto o Norte e o Nordeste, que da ponta do Maranh\u00e3o at\u00e9 o oeste da Bahia, t\u00eam investido muito em agricultura.\r\nPortanto, eu pe\u00e7o a ajuda dos nobre pares para que possamos aprovar essa PEC.\r\nAgrade\u00e7o, Sra. Presidente, a oportunidade. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=47&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-25T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PORTARIA, SECRETARIA DO TESOURO NACIONAL (STN), REGISTRO CONT\u00c1BIL, LAN\u00c7AMENTO CONT\u00c1BIL, CUSTEIO, DESPESA TOTAL COM PESSOAL, CONV\u00caNIO, ORGANIZA\u00c7\u00c3O N\u00c3O GOVERNAMENTAL (ONG), CR\u00cdTICA. \r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), TRANSPAR\u00caNCIA P\u00daBLICA, DADOS, PARECER T\u00c9CNICO.\r\nSOLIDARIEDADE, CORONEL TADEU, DEPUTADO FEDERAL, PRONUNCIAMENTO, SAL\u00c1RIO, POL\u00cdCIA MILITAR, S\u00c3O PAULO (SP).",
+        "nomeDeputado": "Juarez Costa",
+        "sumario": "Preju\u00edzos causados \u00e0s Prefeituras Municipais pela Portaria n\u00ba 233, de 2019, da Secretaria do Tesouro Nacional, sobre o estabelecimento de regra transit\u00f3ria em raz\u00e3o da necessidade de defini\u00e7\u00e3o de rotinas e contas cont\u00e1beis, bem como classifica\u00e7\u00f5es or\u00e7ament\u00e1rias. Falta de transpar\u00eancia da proposta governamental de reforma previdenci\u00e1ria. Solidariedade ao Deputado Coronel Tadeu, pelo discurso proferido a favor da recomposi\u00e7\u00e3o salarial da Pol\u00edcia Militar do Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JUAREZ COSTA (Bloco/MDB - MT. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado.\r\nEu ouvi atentamente o Deputado Afonso Florence, da Bahia. Eu fui ex-Prefeito da cidade de Sinop, em Mato Grosso, por dois mandatos, de 2009 a 2016. Essa portaria, Sr. Presidente, torna-se insana, para n\u00f3s acompanharmos as demandas, principalmente para Sinop, que cresceu em torno de 11% ao ano, um crescimento acima do crescimento chin\u00eas. Para atender \u00e0 sa\u00fade - eu constru\u00ed, nesse per\u00edodo, 19 postos de sa\u00fade, com duas equipes cada um - n\u00f3s precisamos lidar com organiza\u00e7\u00f5es sociais, as OS, buscar fora do quadro funcional da Prefeitura uma estrutura para poder atender \u00e0 sa\u00fade. O Governo cria aqui um exemplo de 30 horas para a assist\u00eancia social. Isso faz com que voc\u00ea tenha que contratar mais. E a Prefeitura acaba assumindo o que \u00e9 de responsabilidade do Governo Federal e do Governo do Estado. \r\nL\u00e1 temos um exemplo. N\u00f3s repassamos 1,6 milh\u00e3o de reais anual para a Associa\u00e7\u00e3o de Pais e Amigos dos Excepcionais - APAE. Se o valor for computado como folha de pagamento - eu assumi a Prefeitura j\u00e1 com quase 56%, e entreguei com 47% -, n\u00e3o haver\u00e1 quem toque a Prefeitura, e ningu\u00e9m consegue faz\u00ea-lo sem ajuda, sem a companhia dessas OS para atender na educa\u00e7\u00e3o, na sa\u00fade, nos servi\u00e7os b\u00e1sicos da sociedade.\r\nEst\u00e1 aqui a Portaria n\u00ba 233, de 2019. Obrigado, Deputado. \r\nSr. Presidente, quero dizer tamb\u00e9m que eu quero votar na Previd\u00eancia, mas n\u00e3o \u00e9 poss\u00edvel. Falou-se tanto em pol\u00edtica velha e nova pol\u00edtica, e at\u00e9 agora n\u00e3o entendi isso: eu entendo de pol\u00edtica. E quero votar, mas votar com n\u00fameros. Esses n\u00fameros n\u00e3o apareceram at\u00e9 agora.\r\nN\u00f3s precisamos ter muita responsabilidade ao votarmos a Previd\u00eancia, porque n\u00f3s estamos mexendo com a totalidade do povo brasileiro. Eu sei que 90% vai se dar mal, pelos n\u00fameros que conhe\u00e7o at\u00e9 agora; 1% vai se dar bem e 9% vai ficar no meio-termo. O que n\u00f3s queremos \u00e9 que a transpar\u00eancia ocorra principalmente agora, nessa Comiss\u00e3o Especial. Que os n\u00fameros possam aparecer, para que a sociedade possa ter conhecimento do que ser\u00e1 essa Previd\u00eancia e de onde vir\u00e1 essa economia, em 10 anos, de 1 trilh\u00e3o de reais. At\u00e9 agora, infelizmente, n\u00f3s n\u00e3o conseguimos visualizar.\r\nPara encerrar, quero manifestar a minha solidariedade ao Deputado Coronel Tadeu. Pela segunda vez, eu ou\u00e7o falar sobre a Pol\u00edcia Militar de S\u00e3o Paulo por interm\u00e9dio de V.Exa., na tribuna. Eu sou de Mato Grosso, onde o ganho da Pol\u00edcia Militar daquele Estado \u00e9 bem diferente do ganho da Pol\u00edcia Militar do Estado de S\u00e3o Paulo. Portanto, eu sou solid\u00e1rio \u00e0 causa de V.Exa. Conte conosco!\r\nEu acho que o Governo de S\u00e3o Paulo tem, sim, que olhar com carinho para o assunto. Eu, como Deputado Estadual e Prefeito de Sinop, tive um relacionamento muito forte com a Pol\u00edcia Militar. Fizemos um grande trabalho com a Pol\u00edcia Militar, que ganha bem e, por isso, trabalha bem.\r\nConte conosco!\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F4%2F2019&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-27T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "CRISE FINANCEIRA, MUNICIPIO, NOVO REGIME FISCAL.",
+        "nomeDeputado": "Juarez Costa",
+        "sumario": "Crise financeira dos Munic\u00edpios brasileiros, provocada pela Emenda Constitucional n\u00ba 95, de 2016, acerca do congelamento por 20 anos dos gastos p\u00fablicos na \u00e1rea social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JUAREZ COSTA (Bloco/MDB - MT. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nSr. Presidente, Sras. e Srs. Deputados, fa\u00e7o uso da tribuna neste momento para chamar a aten\u00e7\u00e3o par o que vem acontecendo em todos os Munic\u00edpios brasileiros. \r\nN\u00e3o h\u00e1 mais a m\u00ednima possibilidade de ser Prefeito neste Pa\u00eds. Passei pelo Poder Executivo municipal por dois mandatos consecutivos e sei da dificuldade dos Prefeitos, que se tornou muito grande hoje. Foi aprovada aqui, em 2016, a Emenda Constitucional n\u00ba 95, que congela o repasse de recursos p\u00fablicos para as \u00e1reas de sa\u00fade, educa\u00e7\u00e3o e infraestrutura.\r\nDeputado, n\u00f3s temos no Pa\u00eds Munic\u00edpios que crescem demais e Munic\u00edpios que diminuem. Os que diminuem passam a receber menos. A\u00ed cai a receita, e vem a chamada Lei de Responsabilidade Fiscal, e vem o limite prudencial de 51,3 %.\r\nQuando \u00e9 um Munic\u00edpio como Sinop, em Mato Grosso, onde fui Prefeito de 2009 a 2016, verificamos que teve um crescimento, em 8 anos, acima do crescimento chin\u00eas. \u00c9 uma cidade onde abrimos 19 postos de sa\u00fade, um hospital de 108 leitos e 26 UTIs, uma UPA n\u00edvel 2, e ainda dobramos a capacidade das creches que existiam. Dessa forma, a folha de pagamento tende a subir e a ultrapassar o limite prudencial. E assim acontece na maioria dos Munic\u00edpios brasileiros de uma maneira ou de outra.\r\nPor isso, n\u00f3s aqui temos que legislar pelos Munic\u00edpios. N\u00f3s n\u00e3o podemos ver o Minist\u00e9rio P\u00fablico, o controle interno, o controle externo fazendo normativas e decretos, legislando sobre aquilo que \u00e9 de nossa compet\u00eancia. N\u00f3s temos que dar seguran\u00e7a a quem hoje est\u00e1 no Executivo. N\u00e3o \u00e9 mais poss\u00edvel isso. Com o congelamento de investimentos em sa\u00fade, n\u00e3o h\u00e1 Munic\u00edpio brasileiro que gaste menos de 28% de toda sua arrecada\u00e7\u00e3o nessa \u00e1rea. A lei determina que o Munic\u00edpio tem que gastar 15%, e hoje os Munic\u00edpios brasileiros gastam de 28% a 37% em sa\u00fade. N\u00e3o h\u00e1 mais repasse do Governo Federal, que est\u00e1 congelado. Mas as cidades continuam crescendo, e os problemas continuam acontecendo e chegando aos Munic\u00edpios.\r\nNa minha cidade, polo de 32 Munic\u00edpios, as pessoas v\u00e3o para l\u00e1 para se tratar. E todas t\u00eam que ser atendidas, todas devem ter acesso e direito a tratamento. E quem banca \u00e9 o Munic\u00edpio, que tem que contratar mais m\u00e9dicos, mais enfermeiros, mais agentes de sa\u00fade, enfim, bancar o custeio. Assim, a folha explode, e a situa\u00e7\u00e3o financeira da maioria dos Munic\u00edpios torna-se ca\u00f3tica.\r\n\u00c9 preciso que fa\u00e7amos aqui um entendimento entre todas as Lideran\u00e7as para que olhem pelos Executivos municipais. Se n\u00e3o dermos conta de legislar, de fazer leis que assegurem a administra\u00e7\u00e3o das cidades brasileiras, passemos ent\u00e3o essa incumb\u00eancia aos Parlamentos Estaduais ou aos Parlamentos Municipais.\r\nPe\u00e7o a compreens\u00e3o dos Srs. Deputados e das Sras. Deputadas. \u00c9 momento de olharmos com carinho para os Munic\u00edpios; \u00e9 momento de olharmos com carinho para os Srs. Prefeitos, que est\u00e3o administrando com a mais ampla dificuldade, com a interfer\u00eancia do Minist\u00e9rio P\u00fablico, com o posicionamento errado, a meu ver, de um controle interno que deveria ajudar, e n\u00e3o atrapalhar. E tamb\u00e9m temos que cuidar dos Tribunais de Contas, que, a seu bel prazer, todos os dias, fazem normativas e leis diferentes sem passar por onde deveriam passar, que \u00e9 esta Casa.\r\nAgrade\u00e7o a oportunidade, Sr. Presidente, e pe\u00e7o que divulgue meu pronunciamento no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F8%2F2019&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

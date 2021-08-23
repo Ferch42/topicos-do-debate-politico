@@ -1,0 +1,686 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "QUESTIONAMENTO, EFRAIM FILHO, DEPUTADO FEDERAL, RELATOR, PL 10431/2018, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ARTIGO (TEXTO LEGISLATIVO), VIOLA\u00c7\u00c3O, SOBERANIA NACIONAL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Consulta ao Deputado Efraim Filho, Relator do Projeto de Lei n\u00ba 10.431, de 2018, sobre o cumprimento de san\u00e7\u00f5es impostas por resolu\u00e7\u00f5es do Conselho de Seguran\u00e7a das Na\u00e7\u00f5es Unidas, inclu\u00edda a indisponibilidade de ativos de pessoas naturais e jur\u00eddicas e de entidades, e a designa\u00e7\u00e3o nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados; e revoga\u00e7\u00e3o da Lei n\u00ba 13.170, de 16 de outubro de 2015.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (Bloco/PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pelo PRB, eu queria perguntar ao Relator, o Deputado Efraim Filho, se ele vai fazer as modifica\u00e7\u00f5es no art. 6\u00ba e no art. 8\u00ba, que ferem a soberania nacional. Eu gostaria de ouvir o Deputado Efraim Filho falar sobre essas mudan\u00e7as, se ele vai concordar com essas mudan\u00e7as.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DA BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei Complementar n\u00ba 441-D, de 2017, sobre a cria\u00e7\u00e3o do cadastro positivo de cr\u00e9dito e a regulamenta\u00e7\u00e3o da responsabilidade civil dos operadores, ressalvados os votos dos Deputados M\u00e1rcio Marinho, Deputado Celso Russomanno e Deputado Vinicius Carvalho.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (Bloco/PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PRB, cumprindo o acordo que foi firmado ontem no Col\u00e9gio de L\u00edderes, vai deliberar favoravelmente \u00e0 mat\u00e9ria, ressaltados aqui tr\u00eas votos, do Deputado M\u00e1rcio Marinho, do Deputado Celso Russomanno e do Deputado Vinicius Carvalho.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONSULTA, SENADO FEDERAL, ARQUIVAMENTO DE PROPOSI\u00c7\u00c3O, PEC 171/1993, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, MAIORIDADE PENAL, REDU\u00c7\u00c3O, LIMITE DE IDADE, INIMPUTABILIDADE PENAL, MENOR, ADOLESCENTE, CR\u00cdTICA.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Protesto contra o arquivamento, pelo Senado Federal, da proposta de emenda \u00e0 Constitui\u00e7\u00e3o relativa \u00e0 redu\u00e7\u00e3o da maioridade penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria fazer uma consulta a V.Exa.\r\nEu fiquei sabendo que a PEC da maioridade penal, j\u00e1 votada aqui, foi arquivada pelo Senado. Eu queria que V.Exa. conversasse com o Senador Davi Alcolumbre, porque o Senado n\u00e3o pode simplesmente arquivar uma PEC que foi votada pela C\u00e2mara. Sen\u00e3o, a nossa sugest\u00e3o \u00e9 que n\u00f3s arquivemos tamb\u00e9m os projetos que vierem do Senado. N\u00e3o \u00e9 assim que funciona a harmonia entre as duas Casas, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SUBEMENDA SUBSTITUTIVA GLOBAL, VOTA\u00c7\u00c3O, SUGEST\u00c3O.\r\nREQUERIMENTO DE DESTAQUE, VOTA\u00c7\u00c3O, ADIAMENTO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Proposta \u00e0 Presid\u00eancia de vota\u00e7\u00e3o da Subemenda Substitutiva Global e adiamento da vota\u00e7\u00e3o de requerimentos de destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Eu queria lhe fazer uma proposta. N\u00f3s estamos em processo de vota\u00e7\u00e3o, e h\u00e1 12 destaques. Para que a vota\u00e7\u00e3o n\u00e3o fique muito longa, eu queria propor que vot\u00e1ssemos essa subemenda, fiz\u00e9ssemos um acordo para a vota\u00e7\u00e3o dessa subemenda substitutiva global, e depois vot\u00e1ssemos o projeto dos partidos. Amanh\u00e3 n\u00f3s retornar\u00edamos e votar\u00edamos os 12 destaques que faltam. Eu queria pedir a V.Exa. sensibilidade, no sentido de votarmos, logo em seguida, o projeto dos partidos e, amanh\u00e3, a partir das 10 horas, os 12 destaques a esse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=199&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PROCESSO LEGISLATIVO FEDERAL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Proposta \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do projeto de lei a respeito dos partidos pol\u00edticos e adiamento da vota\u00e7\u00e3o de requerimentos de destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Rodrigo Maia, eu queria propor um acordo a V.Exa. Hoje n\u00f3s temos 12 destaques. Eu tinha falado com o Deputado F\u00e1bio Faria, quando S.Exa. estava presidindo esta sess\u00e3o, para n\u00f3s construirmos um acordo e votarmos esses destaques amanh\u00e3, a partir das 10 horas. Hoje votar\u00edamos o projeto do Deputado Elmar Nascimento, sobre partidos pol\u00edticos, para o qual eu acho que h\u00e1 acordo nesta Casa para ser deliberado hoje.\r\nEu queria propor a V.Exa. que votemos amanh\u00e3 os destaques e hoje votemos o projeto dos partidos. Queria ouvir V.Exa. sobre isso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=218&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-04T11:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DA BANCADA, PDC 860/2017, PROJETO DE DECRETO LEGISLATIVO, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 860-A, de 2017, sobre a aprova\u00e7\u00e3o dos textos do Protocolo referente ao Acordo de Madri relativo ao Registro Internacional de Marcas, adotado em Madri, em 27 de junho de 1989, e do respectivo Regulamento Comum do Acordo de Madri relativo ao Registro Internacional de Marcas e do Protocolo referente a esse Acordo, bem como a formula\u00e7\u00e3o das declara\u00e7\u00f5es e notifica\u00e7\u00f5es especificadas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, esse projeto foi iniciativa do ent\u00e3o Ministro Marcos Pereira, e o PRB se orgulha disso. Hoje, ter o Deputado Marcos Pereira como Relator neste plen\u00e1rio mostra ainda mais o envolvimento de S.Exa., o trabalho que foi feito enquanto S.Exa. era Ministro da Ind\u00fastria Com\u00e9rcio e Servi\u00e7o, juntamente com Marcos Jorge. \r\nN\u00f3s temos hoje um grande desenvolvimento para o nosso Pa\u00eds, porque o que demorava em torno de 3 anos, a partir da pol\u00edtica p\u00fablica desenvolvida pelo Minist\u00e9rio, passou a levar 3 meses. Este acordo que estamos votando hoje representa um desenvolvimento muito grande para o nosso Pa\u00eds. \r\nPortanto, parabenizo todos os partidos por estarem apoiando essa iniciativa do PRB e do ent\u00e3o Ministro Marcos Pereira.\r\nO PRB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F4%2F2019&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JHONATAN DE JESUS, L\u00cdDER DO PARTIDO, PARTIDO REPUBLICANO BRASILEIRO (PRB), NEGA\u00c7\u00c3O, ENTREVISTA, JORNAL, ARTIGO DE JORNAL, GOVERNO FEDERAL, APOIO POL\u00cdTICO, REFORMA PREVIDENCI\u00c1RIA, LIBERA\u00c7\u00c3O, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, EMENDA, SENADO FEDERAL, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "N\u00e3o participa\u00e7\u00e3o do orador, na qualidade de L\u00edder do PRB, em suposta enquete do jornal Folha de S.Paulo  para publica\u00e7\u00e3o de mat\u00e9ria sobre a libera\u00e7\u00e3o de emendas or\u00e7ament\u00e1rias para aprova\u00e7\u00e3o da admissibilidade da proposta de reforma previdenci\u00e1ria na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta das Emendas do Senado Federal ao Projeto de Lei n\u00ba 1.321-B, de 2019, sobre a autonomia dos partidos pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu ouvi o colega Deputado Glauber citando a reportagem da Folha de S.Paulo. Na reportagem, a Folha disse que conversou com Deputados. Eu sou L\u00edder do PRB e n\u00e3o falei com ningu\u00e9m da Folha sobre esse assunto. N\u00e3o falei com ningu\u00e9m da Folha sobre esse assunto. Eu s\u00f3 quero deixar isso bem claro, Sr. Presidente.\r\nO PRB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 216/2019, EMENDA DE COMISS\u00c3O, MPV 870/2019, MEDIDA PROVISORIA,  PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTRARIO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 216, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PRB entende que este \u00e9 um novo momento para o Brasil. O PRB n\u00e3o acha interessante recriar o Minist\u00e9rio da Cultura num momento em que o Presidente Bolsonaro fala de uma nova estrutura da m\u00e1quina p\u00fablica.\r\nVamos votar contra.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL, PARTIDO REPUBLICANO BRASILEIRO (PRB).",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Decis\u00e3o do PRB de apoiamento \u00e0 proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (PRB - RR. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, subo a esta tribuna para anunciar uma decis\u00e3o do colegiado do PRB. Na semana retrasada, n\u00f3s fizemos uma reuni\u00e3o, quando ficou acertado o seguinte: a bancada do PRB, na sua unanimidade, resolveu fechar quest\u00e3o e votar a reforma da Previd\u00eancia.\r\nN\u00f3s vamos votar a reforma da Previd\u00eancia, porque os termos que n\u00f3s pedimos, com v\u00e1rios partidos, foram atendidos. N\u00f3s retiramos dali os trabalhadores rurais, n\u00f3s retiramos dali o BPC, n\u00f3s retiramos tamb\u00e9m a capitaliza\u00e7\u00e3o. N\u00f3s fizemos um trabalho para preparar a Previd\u00eancia e o futuro das pessoas que v\u00e3o utiliz\u00e1-la. A bancada do PRB n\u00e3o \u00e9 para ser a primeira nem para ser a \u00faltima, mas \u00e9 a bancada que est\u00e1 coesa, pensando no desenvolvimento do Pa\u00eds.\r\nEstamos agora ouvindo os nossos colegas. Agora h\u00e1 pouco, conversei com as Deputadas Rosangela Gomes, Maria Rosas e Aline Gurgel, e n\u00f3s vamos acatar as sugest\u00f5es das mulheres. N\u00f3s estamos construindo um destaque para que seja aceita a solu\u00e7\u00e3o das mulheres. Eu n\u00e3o tenho d\u00favida de que a bancada do PRB, junto com os outros partidos, queremos votar hoje, iniciar a discuss\u00e3o, encerrar a discuss\u00e3o e deliberar pela aprova\u00e7\u00e3o da reforma da Previd\u00eancia.\r\nEsse \u00e9 um tema que j\u00e1 foi muito usado e debatido neste Plen\u00e1rio. Em 2016, come\u00e7ou com o Governo Temer, e agora se concretiza com o Presidente Jair Bolsonaro, que mostra que a reforma da Previd\u00eancia se tornou uma reforma do Parlamento brasileiro, ao constru\u00ed-la com car\u00e1ter profissional, acima de tudo, aceitando todas as demandas que foram pedidas pela sociedade. \r\nAqui n\u00f3s n\u00e3o estamos falando quem \u00e9 a favor ou quem \u00e9 contra, n\u00e3o estamos fazendo progn\u00f3stico pol\u00edtico. N\u00f3s estamos defendendo a reforma da Previd\u00eancia, que \u00e9 fundamental para o crescimento do Pa\u00eds. \r\nSr. Presidente, a bancada do PRB decidiu, e assim n\u00f3s vamos fazer: n\u00f3s vamos votar, em grande maioria, pela aprova\u00e7\u00e3o do texto e pela reforma da Previd\u00eancia.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "IMIGRA\u00c7\u00c3O, VENEZUELA, RORAIMA, CR\u00cdTICA, AUS\u00caNCIA, APOIO POL\u00cdTICO, GOVERNO FEDERAL, RESTRI\u00c7\u00c3O, FRONTEIRA, ENTRADA, ESTRANGEIRO, REMESSA, RECURSOS P\u00daBLICOS.\r\nREPUBLICANOS (PARTIDO POL\u00cdTICO), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Pedido ao Presidente Jair Bolsonaro de apoio ao Estado de Roraima para enfrentamento da imigra\u00e7\u00e3o descontrolada de venezuelanos. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia el\u00e9trica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Como L\u00edder. Sem revis\u00e3o do orador.) - Obrigado.\r\nSra. Presidente, eu falei no Col\u00e9gio de L\u00edderes e j\u00e1 comuniquei isso a alguns colegas L\u00edderes. O que acontece? A quest\u00e3o da imigra\u00e7\u00e3o em Roraima chegou a um ponto em que n\u00e3o tem mais controle. Hoje mais de 40 mil venezuelanos est\u00e3o nas ruas de Roraima, e n\u00e3o h\u00e1 manifesta\u00e7\u00e3o do Governo Federal sobre o que ir\u00e1 fazer com esses venezuelanos e, principalmente, sobre o suporte que vai dar ao Estado de Roraima.\r\nSe meu tempo estiver acabando, Sra. Presidente, pe\u00e7o que seja somado a ele o tempo de L\u00edder do PRB.\r\nAlguns v\u00e3o usar a tribuna daqui a pouco para dizer: \"Mas j\u00e1 mandaram 480 milh\u00f5es!\" V\u00e3o dizer que mandaram 480 milh\u00f5es para o Estado de Roraima, para a Opera\u00e7\u00e3o Acolhida, que est\u00e1 cuidando de mais de 7 mil venezuelanos que est\u00e3o hoje em 12 ou 13 abrigos. Mas a popula\u00e7\u00e3o do Estado, em geral, n\u00e3o est\u00e1 se beneficiando. O nosso hospital geral est\u00e1 cheio, a nossa maternidade est\u00e1 cheia, as frentes das lojas e dos com\u00e9rcios est\u00e3o obstru\u00eddas hoje porque n\u00e3o t\u00eam o suporte, o apoio do Governo Federal. O Governo Federal ainda n\u00e3o acordou para o fato de que Roraima faz parte do territ\u00f3rio brasileiro!\r\nEnt\u00e3o, Sra. Presidente, pedi o apoio do L\u00edder do PP, que tem o nosso amigo Deputado Hiran como membro da bancada; do L\u00edder Wellington Roberto, do partido a que pertence o nosso amigo Deputado Edio; do L\u00edder Carlos Sampaio, cuja bancada \u00e9 integrada tamb\u00e9m pela Deputada Sh\u00e9ridan; do L\u00edder Andr\u00e9 de Paula, do PSD, de que faz parte tamb\u00e9m o Deputado Haroldo Cathedral. Pedi o apoio deles, e todos n\u00f3s chegamos a um consenso.\r\nSra. Presidente, n\u00e3o d\u00e1 para continuar como est\u00e1. A nossa obstru\u00e7\u00e3o n\u00e3o \u00e9 contra o Governo. A nossa obstru\u00e7\u00e3o n\u00e3o visa prejudicar a pauta do Governo. O que n\u00f3s queremos \u00e9 um posicionamento sobre o que vai fazer com a fronteira. Quarta-feira agora, 1.200 pessoas entraram l\u00e1 num \u00fanico dia! E entram como refugiados. N\u00f3s n\u00e3o estamos aqui sendo xenof\u00f3bicos. Estamos aqui pedindo o apoio do nosso Presidente Jair Bolsonaro. Estamos pedindo apoio.\r\nEu j\u00e1 me reuni com o Ministro Moro, j\u00e1 me reuni com o Ministro Ramos, j\u00e1 comentei este assunto com o Ministro Onyx Lorenzoni. N\u00f3s queremos algum suporte, queremos que digam: \"Vamos limitar a entrada a tantas pessoas por dia\", como fizeram outros pa\u00edses. \"N\u00f3s vamos mandar suporte financeiro para o Estado de Roraima para que possa suprir a sa\u00fade, a educa\u00e7\u00e3o, a seguran\u00e7a p\u00fablica! N\u00f3s vamos mandar suporte financeiro para que se possa fazer a interioriza\u00e7\u00e3o em outros Estados\". H\u00e1 outros Estados brasileiros que podem receb\u00ea-las.\r\nSra. Presidente, vou encerrar minhas palavras dizendo que o PRB, o Republicanos, neste momento, entra em obstru\u00e7\u00e3o. E n\u00e3o vamos deliberar nenhuma mat\u00e9ria que venha do Governo Federal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=18&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 879/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.\r\nGOVERNO, REUNI\u00c3O, DEPUTADO FEDERAL, FOR\u00c7A-TAREFA, RORAIMA.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "An\u00fancio da cria\u00e7\u00e3o de for\u00e7a-tarefa em prol do Estado de Roraima. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 879, de 2019, a respeito do reembolso de despesas de distribuidoras de energia el\u00e9trica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, ouvi atentamente o que disse a L\u00edder Joice e conversei com o Deputado Major Vitor Hugo, que se comprometeu, em nome do Governo, a, na pr\u00f3xima semana, montar uma for\u00e7a-tarefa, numa reuni\u00e3o no Pal\u00e1cio, com a bancada de Roraima. \r\nE eu sugeri ainda convidar o Presidente do Tribunal de Justi\u00e7a, convidar o Governador do Estado de Roraima, convidar o Minist\u00e9rio P\u00fablico Federal e o Minist\u00e9rio P\u00fablico Estadual e montar uma for\u00e7a-tarefa para tentar resolver essa quest\u00e3o.\r\nO Republicanos, ent\u00e3o, vota \"n\u00e3o\", Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=21&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-24T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ACORDO, APRECIA\u00c7\u00c3O, DESTAQUE, VETO PRESIDENCIAL, PROPOSI\u00c7\u00c3O LEGISLATIVA, INVERS\u00c3O DE PAUTA, PROJETO DE LEI DO CONGRESSO NACIONAL, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO).",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Defesa de invers\u00e3o da pauta para vota\u00e7\u00e3o do projeto sobre a Lei de Diretrizes Or\u00e7ament\u00e1rias - LDO e de projetos de lei do Congresso Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu estava conversando agora com o Deputado Jos\u00e9 Guimar\u00e3es, pedindo a participa\u00e7\u00e3o, a parceria, para que pud\u00e9ssemos inverter a pauta e votar a LDO e os PLNs.\r\nEu acho que estamos chegando a esse acordo para poder fazer essa invers\u00e3o. Eu queria que o PT tamb\u00e9m se manifestasse, falasse, para que pud\u00e9ssemos votar o PLN e a LDO.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=26%2F9%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "POSSE, RONALDO MARTINS, DEPUTADO FEDERAL, REPUBLICANOS (PARTIDO POL\u00cdTICO), CEAR\u00c1, HOMENAGEM.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Votos de sucesso da bancada do Republicanos ao Deputado Ronaldo Martins.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Sem revis\u00e3o do orador.) - Sr. Presidente, eu fico muito feliz com a bancada do Republicanos por, mais uma vez, receber o nosso amigo Deputado Ronaldo Martins, um defensor dos direitos do povo de Fortaleza, dos direitos do povo do Brasil.\r\nNos \u00faltimos 4 anos, S.Exa. mostrou a sua capacidade neste Parlamento representando seu Estado.\r\nPortanto, a bancada do Republicanos, em nome de todos os colegas, d\u00e1 boas-vindas ao nosso amigo Ronaldo Martins. Desejamos que o seu mandato seja de mais luta e de muito mais vit\u00f3rias para o povo do Cear\u00e1.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 3.723, de 2019, sobre o registro, a posse e a comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINARM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria fazer um breve coment\u00e1rio pelo Republicanos. N\u00f3s temos, dentro do partido, pessoas que s\u00e3o favor\u00e1veis e pessoas que s\u00e3o contr\u00e1rias \u00e0 mat\u00e9ria. Ent\u00e3o, hoje o Republicanos resolveu que vai liberar a sua bancada, e cada um votar\u00e1 de acordo com a sua convic\u00e7\u00e3o. \r\nEu queria fazer um acordo, porque agora h\u00e1 pouco estava falando com o Deputado Daniel Coelho, L\u00edder do Cidadania, para tirar esse kit obstru\u00e7\u00e3o, para podermos fazer apenas discuss\u00e3o da mat\u00e9ria e n\u00e3o a delibera\u00e7\u00e3o hoje. Ent\u00e3o, deixamos para vot\u00e1-la amanh\u00e3 e hoje s\u00f3 fazemos essa discuss\u00e3o. Eu acho que fica bom para todo mundo. E n\u00f3s fazemos a discuss\u00e3o da mat\u00e9ria de forma tranquila.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONTESTA\u00c7\u00c3O, DISCURSO PARLAMENTAR, CAPIT\u00c3O AUGUSTO, DEPUTADO FEDERAL, REPUBLICANOS (PARTIDO POL\u00cdTICO), REQUERIMENTO DE URG\u00caNCIA, PARLAMENTO, VOTA\u00c7\u00c3O, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE PROCESSO PENAL, LEI ANTICRIME.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Contesta\u00e7\u00e3o ao pronunciamento do Deputado Capit\u00e3o Augusto sobre o desinteresse da Casa de vota\u00e7\u00e3o de projetos de lei anticrime, encaminhados pelo Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o que eu dizer era exatamente nesse sentido, ou seja, ouvi aqui o Deputado Capit\u00e3o Augusto falar, v\u00e1rias vezes, sobre o projeto anticrime, como se o Parlamento n\u00e3o quisesse vot\u00e1-lo, o que n\u00e3o \u00e9 verdade. Foi formado um Grupo de Trabalho na C\u00e2mara - est\u00e3o aqui a Deputada Margarete Coelho, que foi a Presidente, e os Deputados Lafayette de Andrada e Gilberto Abramo, membros pelo Republicanos. N\u00f3s n\u00e3o est\u00e1vamos nos furtando a assinar. Pelo contr\u00e1rio: se quiserem, n\u00f3s do Republicanos apresentamos o pedido de urg\u00eancia, assinado por todos os L\u00edderes, para votarmos o trabalho feito pelos Parlamentares da C\u00e2mara.\r\nO que n\u00e3o podemos admitir \u00e9 que fiquem repetindo aqui que n\u00e3o queremos assinar, de modo a sair assim na imprensa, para jogarem a sociedade contra o Parlamento. Estamos cansados disso, Presidente.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=197&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-10T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, PLN 28/2019, PLN 42/2019, PLN 48/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVORAVEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo dos Projetos de Lei do Congresso Nacional de n\u00bas 28, 42 e 48, de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, fui pego de surpresa, mais uma vez, por esse acordo, que n\u00e3o passou por mim. Mas fa\u00e7o parte de um bloco, e h\u00e1 a orienta\u00e7\u00e3o do meu partido. N\u00e3o vou prejudicar a maioria por causa de um desentendimento e de acordo que n\u00e3o foi firmado com o Republicanos.\r\nO SR. VERMELHO (PSD - PR) - \u00c9 isso a\u00ed.\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR) - Eu quero deixar isto bem claro, para que fato como esse n\u00e3o se repita: da pr\u00f3xima vez em que for firmado um acordo neste plen\u00e1rio, devem ser chamados os L\u00edderes, e n\u00e3o se diga simplesmente que est\u00e1 feito o acordo. O acordo tem que ser feito e ratificado por todos.\r\nVamos votar \"sim\", mas n\u00e3o acreditamos que ser\u00e1 cumprido o acordo que foi feito.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=12%2F12%2F2019&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 22/2019, EMENDA DE PLEN\u00c1RIO, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda 22 oferecida ao Projeto de Lei n\u00ba 4.162, 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos entende que esta emenda n\u00e3o vai chegar a lugar nenhum, porque n\u00e3o garante a efetividade desse licenciamento em 90 dias. Ent\u00e3o, ela vai servir s\u00f3 como um prazo escrito, porque n\u00e3o vai haver nenhuma jurisprud\u00eancia garantindo que, dentro de 90 dias, se fa\u00e7a o processo de licenciamento.\r\nPor isso, n\u00f3s vamos votar \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=433&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RETIRADA, REQUERIMENTO DE DESTAQUE, VOTA\u00c7\u00c3O.\r\nVETO 52/2019, VETO PARCIAL, PLN 51/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, ALTERA\u00c7\u00c3O, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO), VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Apoio dos partidos de centro \u00e0 retirada de requerimentos de destaques, com vista \u00e0 vota\u00e7\u00e3o das mat\u00e9rias constantes na pauta, especialmente do Veto Parcial n\u00ba 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 51, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, acerca das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (Bloco/REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu conversei h\u00e1 pouco com o L\u00edder do PP, o Deputado Arthur, e com o L\u00edder da Maioria na C\u00e2mara, o Deputado Aguinaldo. O entendimento dos partidos de centro \u00e9 que n\u00f3s devemos limpar a pauta do Congresso Nacional. Por isso, n\u00f3s acordamos fazer este entendimento, para retirar todos os destaques e tentar votar de forma consensual. \r\nVamos votar o Veto n\u00ba 52, este \u00e9 o clamor da popula\u00e7\u00e3o! \r\nAdianto que o Republicanos vai votar para manter o veto do Presidente, segundo o clamor da popula\u00e7\u00e3o e o acordo do PLN que chegou \u00e0 Casa.\r\nHoje nosso objetivo \u00e9 limpar a pauta para, na pr\u00f3xima semana, deliberarmos os PLNs.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 53/2020, VETO PARCIAL, MPV 890/2019, MEDIDA PROVISORIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVORAVEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 53, de 2019, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019 (oriundo da MPV n\u00ba 890, de 2019), sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade (SUS), e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (ADAPS).",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. JHONATAN DE JESUS (Bloco/REPUBLICANOS - RR. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos, como est\u00e1 em bloco ainda, vai liberar a bancada para que cada um vote como queira.\r\nQuero dizer, contudo, que eu, na condi\u00e7\u00e3o de m\u00e9dico, sei da necessidade e quanto se precisa de m\u00e9dico no interior. E n\u00e3o se trata do REVALIDA. O Presidente Bolsonaro manteve o REVALIDA, que vai acontecer duas vezes ao ano. \u00c9 uma fal\u00e1cia dizer que n\u00e3o vai haver REVALIDA. O exame vai acontecer nas universidades p\u00fablicas, apenas n\u00e3o queremos que aconte\u00e7a nas universidades particulares. As universidades p\u00fablicas podem realiz\u00e1-lo com todo o crit\u00e9rio, com toda a categoria que t\u00eam as nossas universidades p\u00fablicas.\r\nMas para que envolver as universidades particulares numa prova feita pelo MEC? N\u00e3o sabemos qual \u00e9 a proced\u00eancia e a qualidade dos m\u00e9dicos que para c\u00e1 est\u00e3o vindo. Querem democratizar a medicina, levar m\u00e9dicos para o interior? Ent\u00e3o, vamos aumentar a oferta de vagas para a forma\u00e7\u00e3o de m\u00e9dicos nas universidades federais para resolvermos o problema.\r\nPortanto, votamos pela manuten\u00e7\u00e3o do veto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=185&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-11T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, PREVEN\u00c7\u00c3O, COMBATE, PANDEMIA, CORONAV\u00cdRUS.\r\nEMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, OR\u00c7AMENTO IMPOSITIVO, MINIST\u00c9RIO DA SA\u00daDE, COMBATE, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Debate de medidas preventivas de enfrentamento da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. JHONATAN DE JESUS (Bloco/REPUBLICANOS - RR) - Sr. Presidente Rodrigo Maia, Ministro Mandetta, Deputada Carmen Zanotto, caros colegas Deputados e Deputadas, falo agora como Parlamentar e como m\u00e9dico tamb\u00e9m.\r\nCom a Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS declarando essa pandemia, h\u00e1 necessidade de fortalecimento da economia brasileira atrav\u00e9s de pol\u00edticas p\u00fablicas. N\u00f3s estamos vivendo um momento em que n\u00e3o sabemos aonde o coronav\u00edrus vai chegar nem o per\u00edodo em que esta doen\u00e7a vai se alastrar cada vez mais pelo nosso Pa\u00eds.\r\nQuero falar como L\u00edder e fazer um pedido aos nossos colegas. N\u00f3s temos um or\u00e7amento impositivo. O Minist\u00e9rio da Sa\u00fade n\u00e3o estava preparado para uma pandemia nem para esse clima criado pelo coronav\u00edrus, que est\u00e1 se espalhando pelo Brasil e pelo mundo. N\u00f3s temos agora a emenda de Relator, que pode destinar v\u00e1rios recursos. Eu quero propor aqui, Ministro e Deputada Carmen, uma frente formada por L\u00edderes - espero que a senhora tamb\u00e9m fa\u00e7a parte dela -, para que possamos usar essas emendas de Relator, 3 bilh\u00f5es, 4 bilh\u00f5es, 5 bilh\u00f5es de reais, conforme a necessidade do Minist\u00e9rio da Sa\u00fade, para fazer pol\u00edticas p\u00fablicas para diagn\u00f3stico, para produ\u00e7\u00e3o de testes, para comunica\u00e7\u00e3o, para preven\u00e7\u00e3o. \u00c9 preciso levar para a ponta do sistema SUS o atendimento.\r\nPor que isso me preocupa? Eu sou do Estado de Roraima, que hoje tem uma fronteira dupla totalmente aberta, sem um sistema sanit\u00e1rio eficaz. Come\u00e7ou com o sarampo, j\u00e1 entrou a dengue do tipo 3 e v\u00e1rias outras doen\u00e7as v\u00eam se alastrando. Se o Brasil n\u00e3o se preparar, Roraima pode ser hoje uma grande entrada, como v\u00e1rios outros Estados brasileiros que t\u00eam a porta aberta para o mundo.\r\nEnt\u00e3o, eu quero fazer essa proposi\u00e7\u00e3o, Ministro. Quero me colocar \u00e0 disposi\u00e7\u00e3o e trabalhar com os L\u00edderes dos partidos de centro, de direita, de esquerda, porque isso deixou de ser uma quest\u00e3o partid\u00e1ria e passou a ser uma quest\u00e3o de sa\u00fade p\u00fablica do nosso Pa\u00eds.\r\nDeputado Antonio Brito, quero dizer que estamos \u00e0 disposi\u00e7\u00e3o para trabalhar com os L\u00edderes. Com rela\u00e7\u00e3o a esses 3 bilh\u00f5es, 4 bilh\u00f5es de reais, seja qual for a necessidade do Ministro Mandetta, estamos aqui para trabalhar com o Relator, Deputado Domingos Neto, com os partidos e com o Presidente Rodrigo Maia, para que esse recurso chegue \u00e0 ponta e V.Exa. possa aplic\u00e1-lo e continuar esse trabalho.\r\nObrigado, Ministro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2020&txPagina=15&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 786/2020, PROJETO DE LEI ORDINARIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 786, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.947, de 2009, com vista \u00e0 autoriza\u00e7\u00e3o, em car\u00e1ter excepcional, da distribui\u00e7\u00e3o de g\u00eaneros aliment\u00edcios adquiridos com recursos do Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE aos pais ou respons\u00e1veis de estudantes das escolas p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, este \u00e9 um momento muito importante para o nosso Pa\u00eds. N\u00f3s estamos vendo a uni\u00e3o do povo brasileiro ao decidir ficar em casa, resguardando a sua sa\u00fade. \r\nEu parto do princ\u00edpio de que esse pequeno projeto vai tomar uma propor\u00e7\u00e3o muito grande, ao autorizar que os alimentos que seriam consumidos na escola sejam repassados \u00e0s fam\u00edlias que hoje t\u00eam necessidade. \r\nAcho que a C\u00e2mara dos Deputados hoje est\u00e1 dando um passo muito grande, com esta sua primeira sess\u00e3o virtual. \r\nQuero encarecidamente pedir aten\u00e7\u00e3o \u00e0 popula\u00e7\u00e3o brasileira. O que vemos n\u00e3o \u00e9 uma simples gripe, n\u00e3o \u00e9 um simples v\u00edrus. N\u00f3s temos que cuidar das pessoas, como disse o Deputado Marcelo Ramos, e depois vamos ter muito tempo para cuidar da economia. N\u00f3s n\u00e3o podemos subestimar esse v\u00edrus. \r\nSr. Presidente, vou fazer de tudo para na pr\u00f3xima semana estar a\u00ed no plen\u00e1rio, junto com os L\u00edderes, para que possamos aprovar mat\u00e9rias. \r\nO Republicanos vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=40&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS,ATUA\u00c7\u00c3O, COMBATE, PADEMIA, CORONAV\u00cdRUS.\r\nPROPOSI\u00c7\u00c3O LEGISLATIVA, SUSPENS\u00c3O, PAGAMENTO, D\u00cdVIDA, PREFEITURA, UNI\u00c3O, PREVIDENCIA SOCIAL. \r\nLUIZ HENRIQUE MANDETTA, MINISTRO DE ESTADO DA SA\u00daDE, ATUA\u00c7\u00c3O, COMBATE, PANDEMIA, CORONAV\u00cdRUS. \r\nPL 750/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, PROGRAMA M\u00c9DICOS PELO BRASIL, COMPET\u00caNCIA ,AG\u00caNCIA PARA O DESENVOLVIMENTO DA ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE (ADAPS), CONTRATO ADMINISTRATIVO, SUBCONTRATA\u00c7\u00c3O, M\u00c9DICO, MUNIC\u00cdPIO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Congratula\u00e7\u00e3o ao Presidente Rodrigo Maia pela condu\u00e7\u00e3o dos trabalhos de enfrentamento da epidemia de coronav\u00edrus. Solicita\u00e7\u00e3o aos Deputados de apoio \u00e0 proposta de suspens\u00e3o do pagamento de d\u00edvidas das Prefeituras Municipais junto \u00e0 Uni\u00e3o. Excel\u00eancia da atua\u00e7\u00e3o do Ministro da Sa\u00fade, Luiz Henrique Mandetta, no comando das a\u00e7\u00f5es contra a Covid-19. Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta dos projetos de lei sobre a amplia\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil e sobre a isen\u00e7\u00e3o da cobran\u00e7a de tarifas de energia el\u00e9trica para a popula\u00e7\u00e3o de baixa renda. Apoio ao projeto de lei relativo \u00e0 concess\u00e3o de empr\u00e9stimo compuls\u00f3rio pelo sistema banc\u00e1rio diante da crise gerada pelo coronav\u00edrus.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o momento \u00e9 muito importante. N\u00f3s estamos discutindo nesta Casa as condutas adotadas pelo Parlamento brasileiro sobre essa pandemia que est\u00e1 devastando o mundo, com mortes em todas as \u00e1reas, em todas as idades, apesar de alguns dizerem que ela s\u00f3 afeta idosos.\r\nN\u00e3o \u00e9 verdade, Presidente. N\u00f3s temos alguns relatos de pessoas mais jovens que tamb\u00e9m ficaram bastante sofridas com o processo da doen\u00e7a.\r\nEnt\u00e3o eu quero aqui parabenizar V.Exa., mas quero tamb\u00e9m dizer que n\u00f3s precisamos, Presidente Rodrigo Maia e meus caros colegas Deputados, fazer mais pol\u00edticas p\u00fablicas para ajudar os nossos Prefeitos.\r\nPara isso, estamos apresentando um projeto de urg\u00eancia na Casa, para o qual pe\u00e7o o apoio de todos os L\u00edderes, a fim de que possamos liberar os Prefeitos que t\u00eam d\u00edvidas hoje com a Uni\u00e3o, liberar os Prefeitos que t\u00eam hoje d\u00edvidas com a Previd\u00eancia, e liber\u00e1-los para que possam manter a sua folha salarial, porque muitos deles j\u00e1 t\u00eam a conta do seu FPM segurada na ponta pelo Governo.\r\nEnt\u00e3o n\u00f3s precisamos desobstruir essa pauta e dar aos Prefeitos a oportunidade de fazerem a gest\u00e3o pol\u00edtica.\r\nParabenizo aqui, mais uma vez, o Governo por estar permitindo realocar as emendas de bancada para uma a\u00e7\u00e3o exclusiva.\r\nQuero saudar o Ministro da Sa\u00fade, o Ministro Mandetta, que est\u00e1 dando um show de gest\u00e3o quando fala como Ministro da Sa\u00fade. O Ministro Mandetta est\u00e1 sendo um verdadeiro le\u00e3o ao defender a popula\u00e7\u00e3o, a sa\u00fade m\u00e9dica, mais recursos, mais equipamentos para a sa\u00fade brasileira.\r\nN\u00f3s precisamos fazer isso, Presidente, e V.Exa. est\u00e1 de parab\u00e9ns, assim como os t\u00e9cnicos da Casa, a quem gostaria de parabenizar um a um por essa gigantesca a\u00e7\u00e3o que est\u00e1 beneficiando o Parlamento brasileiro, com essas sess\u00f5es virtuais.\r\nN\u00f3s estamos dando um exemplo talvez para o mundo, de uma gest\u00e3o que est\u00e1 sendo feita e conduzida por V.Exa.\r\nE quero aqui, Sr. Presidente, ressaltar alguns projetos. O Deputado Jo\u00e3o Roma, colega de bancada do Republicanos, apresentou um projeto que amplia o M\u00e9dicos pelo Brasil.\r\nEnt\u00e3o, Presidente, eu quero pedir a V.Exa. que paute esse projeto, porque ele \u00e9 importante. Agora, com a telemedicina que n\u00f3s j\u00e1 aprovamos, quanto mais m\u00e9dicos n\u00f3s tivermos, quanto mais oportunidade n\u00f3s dermos ao Minist\u00e9rio da Sa\u00fade de levar atendimento m\u00e9dico para os locais onde n\u00e3o h\u00e1 atendimento, vamos estar ajudando muito, e o projeto do Deputado Jo\u00e3o Roma visa a isso.\r\nH\u00e1 tamb\u00e9m um projeto do Deputado Silas C\u00e2mara. Apesar de a ANEEL j\u00e1 ter feito uma resolu\u00e7\u00e3o que suspende os cortes das tarifas, Presidente, \u00e9 fundamental que o Parlamento brasileiro regule como vai ficar isso, porque n\u00e3o \u00e9 s\u00f3 suspender. Ao suspender o corte, depois de 3 meses, um pai de fam\u00edlia n\u00e3o vai ter condi\u00e7\u00f5es de pagar. Ele vai estar com tr\u00eas ou quatro contas acumuladas.\r\nN\u00f3s precisamos tamb\u00e9m arrumar uma forma de isen\u00e7\u00e3o para as fam\u00edlias de baixa renda, que t\u00eam um consumo m\u00ednimo, a fim de que elas tenham esse benef\u00edcio, porque, sen\u00e3o, al\u00e9m da reclus\u00e3o para fazermos a curva do v\u00edrus diminuir, vamos extrapolar ainda mais a capacidade desse pai de fam\u00edlia, que j\u00e1 n\u00e3o est\u00e1 podendo trabalhar, que j\u00e1 n\u00e3o est\u00e1 podendo pagar suas contas, e ainda vai ter essa dificuldade.\r\nEnt\u00e3o, Sr. Presidente, esses dois projetos s\u00e3o fundamentais hoje para propiciarmos mais sa\u00fade ao nosso Pa\u00eds: o projeto do Deputado Jo\u00e3o Roma, que vai levar e ampliar o programa M\u00e9dicos pelo Brasil, e o projeto do Deputado Silas C\u00e2mara, que quer, al\u00e9m da suspens\u00e3o, a isen\u00e7\u00e3o para aquelas pessoas de baixa renda, que n\u00e3o t\u00eam condi\u00e7\u00e3o.\r\nO Partido Republicano apoia a pauta que V.Exa. apresentou, mas, acima de tudo, n\u00f3s queremos dizer que h\u00e1 um projeto do Deputado Wellington Roberto que \u00e9 fundamental. N\u00f3s precisamos fazer esse empr\u00e9stimo compuls\u00f3rio e colocar quem tem grandes fortunas para ajudar. Os bancos s\u00e3o os que mais se beneficiam hoje das pol\u00edticas que s\u00e3o feitas pelo Governo. Est\u00e1 na hora de n\u00f3s pedirmos a eles uma parcela de contribui\u00e7\u00e3o. S\u00f3 nesse processo, mais de 80 bilh\u00f5es de reais podem ajudar o processo e toda a estrutura do Minist\u00e9rio da Sa\u00fade, o Governo Federal, o Presidente Bolsonaro e os Governadores no combate ao coronav\u00edrus.\r\nQuero agradecer-lhe, Sr. Presidente, e mais uma vez parabeniz\u00e1-lo pelo gigante que V.Exa. se tornou nesse processo de condu\u00e7\u00e3o da C\u00e2mara e do Parlamento brasileiro.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORONAV\u00cdRUS, PANDEMIA, COMBATE, PROVID\u00caNCIAS.\r\nORIENTA\u00c7\u00c3O DE BANCADA, PL 9236/2017, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Alerta sobre a possibilidade de cont\u00e1gio do coronav\u00edrus pelo toque de cotovelo. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 9.236, de 2017, sobre a altera\u00e7\u00e3o do \u00a7 11 e a inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 no art. 20 da Lei n\u00ba 8.742, de 1993,  com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - \u00c9 preciso que se tenha bastante cuidado. A recomenda\u00e7\u00e3o hoje do Minist\u00e9rio da Sa\u00fade, a recomenda\u00e7\u00e3o dos m\u00e9dicos, da classe m\u00e9dica, dos agentes de sa\u00fade de maneira geral \u00e9 usarmos desta forma o bra\u00e7o quando formos tossir ou espirrar. (O orador aproxima da boca o cotovelo.) Essa parte do bra\u00e7o vai ficar contaminada. Quando algu\u00e9m que agiu dessa maneira tocar com o cotovelo o de outra pessoa na hora do cumprimento, ele a contaminar\u00e1. Ent\u00e3o, tamb\u00e9m nesse caso h\u00e1 contamina\u00e7\u00e3o. \u00c9 totalmente higi\u00eanico fazer isto. (O orador aproxima da boca o cotovelo.) Mas h\u00e1 possibilidade de cont\u00e1gio ao se fazer esse tipo de cumprimento.\r\nOs abra\u00e7os v\u00e3o voltar, os apertos de m\u00e3o v\u00e3o voltar. N\u00e3o \u00e9 feio hoje cumprimentar a dist\u00e2ncia: \"Tudo bem, meu irm\u00e3o? Sinta-se cumprimentado\". Pronto, \u00e9 uma forma de se cumprimentar. Um metro e meio de dist\u00e2ncia \u00e9 o recomend\u00e1vel. Procurem ficar o m\u00e1ximo poss\u00edvel em isolamento domiciliar.(Manifesta\u00e7\u00e3o no plen\u00e1rio: Ele est\u00e1 falando com outra pessoa!)(Pausa.)\r\nColocaram-me a\u00ed ao vivo?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Sim, pode falar.(Risos.)\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - (Riso.) Presidente, enquanto aguardava para me manifestar na sess\u00e3o, eu estava aqui fazendo uma live no Instagram. Estava dizendo ao pessoal que se quer usar, na hora do cumprimento, um dos cotovelos, mas essa \u00e9 justamente a parte do corpo que, segundo recomenda\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade, dos \u00f3rg\u00e3os de sa\u00fade e de controle, deve ser aproximada da boca no momento da tosse ou do espirro.\r\nEsse projeto, Presidente, \u00e9 muito importante. N\u00f3s vemos hoje o BPC como uma forma de se levar recurso ao cidad\u00e3o brasileiro mais carente, que comp\u00f5e exatamente o grupo de risco. Pessoas que enfrentam essa dificuldade precisam hoje desse recurso para garantir o sustento.\r\nEu quero parabenizar tanto o Relator quanto o autor do projeto. O Partido Republicanos apoia integralmente esse projeto.\r\nQuero parabenizar V.Exa., Presidente da C\u00e2mara, que ajudou a formatar, junto com os L\u00edderes do Congresso, esse ajuste.\r\nN\u00f3s estamos votando \"sim\", Presidente. Vamos votar favoravelmente a esse projeto, pois h\u00e1 necessidade de que essas pol\u00edticas p\u00fablicas sejam implantadas, considerando-se a quest\u00e3o do coronav\u00edrus.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-03T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FALECIMENTO, V\u00cdTIMA, CORONAV\u00cdRUS, RORAIMA.\r\nPARLAMENTO, CONGRESSO NACIONAL, CORONAV\u00cdRUS, SA\u00daDE P\u00daBLICA, APROVA\u00c7\u00c3O, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19.\r\nPEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REGIME EXTRAORDIN\u00c1RIO FISCAL, FINANCEIRO E DE CONTRATA\u00c7\u00d5ES, SISTEMA TRIBUT\u00c1RIO, CALAMIDADE P\u00daBLICA, COMIT\u00ca GESTOR.\r\nGOVERNO FEDERAL, MPV 936/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE MANUTEN\u00c7\u00c3O DO EMPREGO E DA RENDA, ENFRENTAMENTO, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, CRISE ECON\u00d4MICA, MERCADO DE TRABALHO.\r\nPLN 2/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, OR\u00c7AMENTO IMPOSITIVO, ALTERA\u00c7\u00c3O, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, MARCOS PEREIRA, DEPUTADO FEDERAL, REPUBLICANOS (PARTIDO POL\u00cdTICO).\r\nDEFESA, REMUNERA\u00c7\u00c3O, SERVIDOR P\u00daBLICO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Gravidade da crise mundial provocada pela Covid-19. Import\u00e2ncia do isolamento social como medida de preven\u00e7\u00e3o da doen\u00e7a. Aprova\u00e7\u00e3o, pelo Congresso Nacional, da proposta de concess\u00e3o de aux\u00edlio pecuni\u00e1rio emergencial a trabalhadores informais, aut\u00f4nomos, fam\u00edlias carentes e mulheres chefes de fam\u00edlia. Import\u00e2ncia da libera\u00e7\u00e3o de recursos aos microempreendedores individuais. Elogio ao Deputado Hugo Motta pelo substitutivo apresentado \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o de regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es, para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus. Edi\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 936, de 2020, sobre a cria\u00e7\u00e3o do Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda, e a ado\u00e7\u00e3o de medidas trabalhistas complementares para enfrentamento do estado de calamidade p\u00fablica decretado em face da pandemia de coronav\u00edrus. Aprova\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 2, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, acerca das diretrizes de elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020. Posicionamento contr\u00e1rio \u00e0 redu\u00e7\u00e3o dos sal\u00e1rios dos servidores p\u00fablicos. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o de regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es, para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s estamos passando por um momento muito dif\u00edcil no nosso Pa\u00eds, e o Parlamento tem feito o poss\u00edvel para tentar ajudar o Presidente da Rep\u00fablica a cumprir o seu papel de proteger a popula\u00e7\u00e3o neste momento de crise.\r\n\u00c9 muito dif\u00edcil, Sr. Presidente.\r\nInfelizmente, eu tenho de notificar que acabamos de confirmar o primeiro \u00f3bito decorrente da COVID-19 aqui em Roraima. Quando n\u00f3s pedimos para que as pessoas fiquem em casa, fa\u00e7am o isolamento e sigam as orienta\u00e7\u00f5es, \u00e9 porque esse \u00e9 um v\u00edrus que pouco conhecemos. \r\nE o Parlamento, Sr. Presidente, tem dado a sua contribui\u00e7\u00e3o nesse processo t\u00e3o doloroso. N\u00f3s votamos o ''coronavoucher'' - e quero aqui parabenizar V.Exa. e os demais L\u00edderes que assinaram essa medida -, uma iniciativa que vai destinar em torno de 600 reais para ajudar os membros da fam\u00edlia. N\u00f3s vamos levar aux\u00edlio para os trabalhadores formais e informais; para as mulheres chefes de fam\u00edlia, que v\u00e3o poder se beneficiar tamb\u00e9m neste momento de crise; para o microempreendedor individual. \r\nAl\u00e9m disso, Sr. Presidente, h\u00e1 v\u00e1rias outras medidas, como essa pr\u00f3pria PEC. E aqui eu quero saudar o Deputado Hugo Motta, que, com sua compet\u00eancia e maestria ao conduzir o texto da PEC, conseguiu fazer um relat\u00f3rio enxuto, um relat\u00f3rio que d\u00e1 ao Presidente da Rep\u00fablica a forma\u00e7\u00e3o desse comit\u00ea, que d\u00e1 ao Presidente da Rep\u00fablica a responsabilidade de fazer com que todas as a\u00e7\u00f5es que foram anunciadas pelo Governo, quer sejam os 750 bilh\u00f5es de reais, quer sejam os 500 bilh\u00f5es de reais, possam sair do papel. \r\nO Parlamento est\u00e1 fazendo a sua parte. N\u00f3s estamos fazendo o nosso trabalho e encaminhando todas as a\u00e7\u00f5es necess\u00e1rias. O Minist\u00e9rio da Cidadania j\u00e1 anuncia que est\u00e1 criando um aplicativo e que vai come\u00e7ar a pagar o ''coronavoucher'' aos trabalhadores informais, \u00e0s pessoas que precisam. O Governo acabou de editar outra MP tamb\u00e9m. Eu falei com o Ministro Marinho ontem, que me disse: ''Deputado Jhonatan, n\u00f3s estamos encaminhando nesse momento a MP 936/20, que vai fazer com que a massa trabalhadora do nosso Pa\u00eds possa ter o seu emprego preservado''. \u00c9 importante a preserva\u00e7\u00e3o do emprego e da renda e a viabiliza\u00e7\u00e3o da atividade econ\u00f4mica diante da diminui\u00e7\u00e3o da carga trabalhada, e o Governo vai suprir essa necessidade do trabalhador. \r\nN\u00f3s estamos fazendo a nossa parte no Parlamento brasileiro, por meio desse Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda. E eu fa\u00e7o quest\u00e3o, Sr. Presidente, de que nas pr\u00f3ximas semanas o Republicanos, juntamente com os L\u00edderes da Maioria, com os L\u00edderes da Oposi\u00e7\u00e3o... Essa n\u00e3o \u00e9 uma crise de direita ou de esquerda, essa \u00e9 uma crise que atinge o povo brasileiro. N\u00f3s j\u00e1 vimos na China, na It\u00e1lia e, agora, nos Estados Unidos os casos de infec\u00e7\u00e3o crescendo, e a doen\u00e7a se alastrando ainda mais pelo mundo. \r\nH\u00e1, Sr. Presidente, a necessidade de fazermos pol\u00edticas p\u00fablicas que v\u00e3o ajudar a popula\u00e7\u00e3o brasileira. N\u00f3s sabemos muito bem disso. Ontem o Deputado Marcos Pereira, Presidente do Republicanos e 1\u00ba Vice-Presidente da C\u00e2mara dos Deputados e do Congresso Nacional, conseguiu a aprova\u00e7\u00e3o do PLN 2/20, dando ao Governo tamb\u00e9m as diretrizes do or\u00e7amento impositivo.\r\nAgora, somadas com o decreto de calamidade, j\u00e1 aprovado nas duas Casas, n\u00f3s temos grandes a\u00e7\u00f5es que v\u00e3o possibilitar que o Ministro da Economia, atrav\u00e9s da MP 936/20, e o Ministro da Cidadania, o Ministro Onyx, deem seguimento \u00e0s medidas do \"coronavoucher\". Assim, n\u00f3s vamos fazer o passo a passo.\r\nMas aqui, Sr. Presidente, eu quero fazer um coment\u00e1rio: n\u00e3o d\u00e1, neste momento de dor da popula\u00e7\u00e3o brasileira, para reduzirmos o sal\u00e1rio do trabalhador. Eu sou de um Estado em que 50% da folha \u00e9 de servidor p\u00fablico. N\u00f3s n\u00e3o podemos culpar o servidor por este momento de crise. Por isso, o Governo est\u00e1 mandando a MP para tentar segurar o emprego. O objetivo \u00e9 ajudar os empres\u00e1rios a fazerem o sistema andar, mesmo neste momento de crise.\r\nEnt\u00e3o, Sr. Presidente, n\u00f3s vamos votar \"sim\" ao texto relatado pelo Deputado Hugo Motta, mas, se for feito o destaque da redu\u00e7\u00e3o salarial, o que eu acho que n\u00e3o vai mais acontecer, n\u00f3s iremos orientar o voto \"n\u00e3o\".\r\nEu quero passar a orienta\u00e7\u00e3o do partido ao Deputado Lafayette de Andrada. Falando pela Lideran\u00e7a, o Deputado Lafayette de Andrada vai orientar o Republicanos.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2020&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-08T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PROGRAMA DE ACOMPANHAMENTO E TRANSPAR\u00caNCIA FISCAL, POL\u00cdTICA FISCAL, TRANSPAR\u00caNCIA P\u00daBLICA, PLANO DE PROMO\u00c7\u00c3O DO EQUIL\u00cdBRIO FISCAL, AJUSTE FISCAL, UNI\u00c3O, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL (BRASIL), MUNIC\u00cdPIO, EQUIL\u00cdBRIO FISCAL, RESPONSABILIDADE FISCAL, VOTA\u00c7\u00c3O, ACORDO, NECESSIDADE.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Inexist\u00eancia de acordo para vota\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 149, de 2019 (Plano Mansueto) sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, Sras. e Srs. Deputados, eu pe\u00e7o que d\u00edvida meu tempo. Vou falar por 1 minuto e passar a palavra ao Deputado Jo\u00e3o Roma, que est\u00e1, nesta semana, representando a Lideran\u00e7a.\r\nEu s\u00f3 quero dizer que n\u00e3o houve acordo. N\u00f3s ainda n\u00e3o constru\u00edmos acordo neste texto. N\u00f3s precisamos rever alguns pontos. Eu acho que o Relator tem de ser mais sens\u00edvel a esses pontos, atender mais as bancadas. N\u00f3s queremos ajudar os Governadores, queremos ajudar no refinanciamento das d\u00edvidas, mas n\u00e3o fizemos acordo para votar este texto da forma como ele est\u00e1.\r\nEnt\u00e3o, se n\u00e3o houver um ajuste, n\u00f3s devemos entrar no processo de obstru\u00e7\u00e3o.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Eu j\u00e1 anunciei que n\u00f3s vamos continuar amanh\u00e3 pela manh\u00e3, Deputado. V.Exa. foi o primeiro a colocar d\u00favidas. Vamos tentar construir um acordo at\u00e9 amanh\u00e3 pela manh\u00e3, incluindo as suas emendas.\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Muito bem, Sr. Presidente.\r\nEnt\u00e3o, se n\u00e3o houver acordo no texto... Conforme falei com o L\u00edder Deputado Wellington, o L\u00edder Deputado Arthur e com v\u00e1rios L\u00edderes, h\u00e1 algumas pend\u00eancias que n\u00f3s temos de tentar corrigir. Por isso, n\u00f3s temos de ajustar este texto.\r\nN\u00f3s entendemos as afli\u00e7\u00f5es dos Governadores, entendemos que \u00e9 necess\u00e1rio corrigir, neste momento de calamidade. Mas n\u00f3s tamb\u00e9m n\u00e3o podemos sufocar a Uni\u00e3o da forma como est\u00e1. Alguns temas t\u00eam de ser ajustados para conduzir esta reuni\u00e3o.\r\nSr. Presidente, como o Deputado Jo\u00e3o Roma est\u00e1 representando a Lideran\u00e7a tamb\u00e9m, passo a palavra agora, no tempo da Lideran\u00e7a, a S.Exa., para que possa complementar a fala.\r\nEnt\u00e3o, se n\u00e3o houver nenhum acordo, n\u00f3s vamos entrar com o kit obstru\u00e7\u00e3o completo nesta mat\u00e9ria, at\u00e9 que consigamos resolver.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F4%2F2020&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o e supress\u00e3o do art. 1\u00ba do substitutivo apresentado ao Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, vamos orientar \"sim\" quanto ao texto e \"n\u00e3o\" quanto ao destaque, porque n\u00f3s entendemos que n\u00e3o estamos alterando a faixa de fronteira. Existem glebas que j\u00e1 foram repassadas pelo Estado e que precisam desse assentimento pr\u00e9vio do Conselho de Seguran\u00e7a Nacional, e isso demora s\u00e9culos e s\u00e9culos, n\u00e3o vai se resolver. Ent\u00e3o, a \u00fanica forma de repassarmos de fato para o Estado de Roraima e do Amap\u00e1 essas terras, Sr. Presidente, \u00e9 aprovar esse texto da maneira como foi colocado pelo Relator.\r\nO Republicanos orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, VOTA\u00c7\u00c3O, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, UNI\u00c3O, DOA\u00c7\u00c3O, TERRAS P\u00daBLICAS, GLEBA, RORAIMA, AMAP\u00c1, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, MPV 901/2019, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, UNI\u00c3O, SIMPLIFICA\u00c7\u00c3O, DOA\u00c7\u00c3O, TERRAS P\u00daBLICAS, GLEBA, RORAIMA, AMAP\u00c1, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA. \r\nANT\u00d4NIO DENARIUM, GOVERNADOR, RORAIMA, PANDEMIA, CORONAV\u00cdRUS, PLANO DE CARGOS, CARREIRAS E SAL\u00c1RIOS, PROFISSIONAL DE SA\u00daDE.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Agradecimento ao Presidente Rodrigo Maia, ao Senador Mecias de Jesus, ao Governador do Estado de Roraima, Antonio Denarium, e Deputados pela vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira. Import\u00e2ncia de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente de pandemia de coronav\u00edrus, a chamada PEC do Or\u00e7amento de Guerra. Pedido ao Governador Antonio Denarium de cria\u00e7\u00e3o do plano de cargos e sal\u00e1rios dos servidores do Estado de Roraima.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu tenho a satisfa\u00e7\u00e3o de, neste momento, acompanhar a vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.304, de 2020.\r\nEu quero come\u00e7ar este discurso com um agradecimento, primeiro, ao Presidente da C\u00e2mara, Deputado Rodrigo Maia, que, em momento muito oportuno, nos possibilitou a vota\u00e7\u00e3o desse projeto, que traz dignidade e altivez ao povo de Roraima. Fa\u00e7o um agradecimento tamb\u00e9m ao Senador Mecias de Jesus, meu pai. Junto \u00e0 bancada federal, n\u00f3s fizemos um esfor\u00e7o muito grande. Neste momento, n\u00f3s estamos cumprindo uma promessa que todos n\u00f3s da bancada de Roraima fizemos ao povo do Estado.\r\nH\u00e1 mais de 30 anos promete-se que essas terras ser\u00e3o transferidas; h\u00e1 mais de 30 anos mentiras e mentiras s\u00e3o repassadas ao povo do Estado. Mas n\u00f3s estamos agora com esse projeto, que tamb\u00e9m foi uma promessa do Presidente Bolsonaro ao lan\u00e7ar a MP 901. Quando Nabhan Garcia foi a Roraima, em reuni\u00e3o com o Governador do Estado, disse: \"O Presidente vai editar uma MP para tratar sobre o tema da transfer\u00eancia das terras\". Mais de oito glebas j\u00e1 foram repassadas pelo Estado nos \u00faltimos anos, mas v\u00e1rias delas ainda est\u00e3o travadas, precisando de um consentimento pr\u00e9vio do Conselho Nacional.\r\nHouve uma vota\u00e7\u00e3o muito apertada aqui, mas eu quero agradecer \u00e0 C\u00e2mara dos Deputados, que, mais uma vez, fez justi\u00e7a aos Estados de Roraima e do Amap\u00e1.\r\nQuero agradecer ainda aos meus companheiros e autores desse projeto, o Deputado Hiran Gon\u00e7alves, a Deputada Sh\u00e9ridan e o Deputado Ottaci Nascimento. Quero agradecer tamb\u00e9m a minha amiga e Deputada republicana Aline Gurgel, que assinou junto conosco esse projeto t\u00e3o importante para os Estados de Roraima e do Amap\u00e1.\r\nSr. Presidente, neste momento em que o mundo est\u00e1 sendo devastado pelo coronav\u00edrus, n\u00f3s estamos repassando terras dos Estados de Roraima e do Amap\u00e1 para esse povo, dando a ele a certeza de que, ap\u00f3s essa pandemia, vai poder buscar o sustento de sua fam\u00edlia. Isso representa somente 8% de terras no Estado de Roraima, porque todo o restante foi demarcado como \u00e1rea ind\u00edgena e \u00e1rea de preserva\u00e7\u00e3o ambiental.\r\nO povo de Roraima n\u00e3o aguentava mais sofrer; o povo do Amap\u00e1 tamb\u00e9m n\u00e3o. Ent\u00e3o, com esse projeto de lei, a bancada federal do Amap\u00e1 - tr\u00eas Senadores e oito Deputados -, a C\u00e2mara dos Deputados e, n\u00e3o tenho d\u00favida, o Presidente do Senado Federal, Senador Davi Alcolumbre, v\u00e3o fazer com esse projeto seja votado com urg\u00eancia tamb\u00e9m no Senado, porque vai ser levada mais capacidade de investimento ao Estado. As empresas agora v\u00e3o ter seguran\u00e7a ao dizer que o Estado tem as suas terras e que elas podem ser tituladas. Quem j\u00e1 \u00e9 propriet\u00e1rio de suas \u00e1reas hoje vai poder ter o seu usufruto, pegar financiamento e gerar riqueza; vai ainda gerar empregos e colocar o sustento na mesa dos cidad\u00e3os de Roraima.\r\nEu n\u00e3o posso deixar de ressaltar aqui a import\u00e2ncia que teve o Parlamento brasileiro nesse contexto, na pessoa do Presidente Rodrigo Maia, que muitas vezes foi atacado. Essa est\u00e1 sendo tachada de \"pauta do Maia\", o que n\u00e3o \u00e9 verdade. A PEC do Or\u00e7amento de Guerra vem para defender o Or\u00e7amento e dar poder ao Governo Federal para trabalhar e levar riqueza e benef\u00edcios ao povo. Os projetos que est\u00e3o sendo votados aqui, assim como as MPs, tamb\u00e9m defendem essa pauta.\r\nEu quero, Sr. Presidente, lhe agradecer, em nome do povo de Roraima, pela vit\u00f3ria que V.Exa. est\u00e1 nos concedendo. Ainda faltam alguns destaques, mas eu tenho certeza de que a vota\u00e7\u00e3o do relat\u00f3rio, que est\u00e1 sendo conclu\u00edda agora, vai dar ao povo dos Estados de Roraima e do Amap\u00e1 a certeza de que suas propriedades ser\u00e3o f\u00e9rteis com a passagem dessas terras.\r\nEu quero ainda agradecer ao meu Governador, Ant\u00f4nio Denarium, que, muitas vezes, disse ao seu povo, em discursos na \u00e9poca da campanha: \"N\u00f3s vamos lutar junto com o Deputado Jhonatan, com o Senador Mecias e com os Deputados eleitos. N\u00f3s vamos lutar para conseguir mais e mais recursos para o Estado, quando as terras forem transferidas. Essa \u00e9 a minha bandeira\". \r\nGovernador, n\u00f3s estamos aqui cumprindo aquilo que foi prometido.\r\nEm nome do Governador Denarium, quero agradecer aos funcion\u00e1rios da SEPLAN, por meio do ex-Ministro Marcos Jorge, que hoje \u00e9 Secret\u00e1rio de Planejamento e Desenvolvimento do Estado, e de Ronald Brasil. Ambos nos ajudaram muito.\r\nQuero aqui nominar tamb\u00e9m Wesley de Souza, do ITERAIMA, e M\u00e1rcio Grangeiro, que nos ajudaram muito nesse relat\u00f3rio. Fizemos v\u00e1rias e v\u00e1rias reuni\u00f5es tratando do tema. N\u00f3s estamos aqui, em nome do Governador, agradecendo ao Instituto de Terras e Coloniza\u00e7\u00e3o do Estado de Roraima.\r\nSr. Governador Ant\u00f4nio Denarium, caros amigos e amigas de Roraima, n\u00f3s estamos aqui transferindo as terras. Essa \u00e9 uma grande vit\u00f3ria, pela qual n\u00f3s agradecemos. Estamos entregando hoje ao Estado de Roraima, com a confian\u00e7a que os roraimenses a mim atribu\u00edram com este mandato, as suas terras. \r\nPara finalizar este discurso, Sr. Presidente, eu quero pedir ao Governador Ant\u00f4nio Denarium, neste momento em que a COVID-19, essa pandemia, est\u00e1 devastando o mundo, algo especial para a sa\u00fade do povo de Roraima: a aprova\u00e7\u00e3o do plano de cargos e sal\u00e1rios dos servidores da sa\u00fade do Estado! Eles est\u00e3o saindo de casa para cuidar da sa\u00fade dos cidad\u00e3os roraimenses. N\u00e3o h\u00e1 nada mais justo a se fazer neste momento, quando as terras v\u00e3o ajudar a devolver ao Estado a capacidade de gerar riqueza. Isso \u00e9 justo e fundamental neste momento. Digo ao meu Governador e amigo Ant\u00f4nio Denarium: vamos aprovar o plano de cargos e sal\u00e1rios dos servidores do Estado de Roraima! E aqui n\u00e3o falo somente como Deputado, mas tamb\u00e9m como m\u00e9dico. Sei a batalha que os colegas da \u00e1rea da sa\u00fade est\u00e3o enfrentando no Estado. Ent\u00e3o, esse \u00e9 um pedido que fa\u00e7o.\r\nVit\u00f3ria! Vit\u00f3ria \u00e9 o que n\u00f3s pedimos. Presidente Rodrigo Maia, mais uma vez, obrigado por essa vit\u00f3ria que V.Exa. nos permite dar ao povo de Roraima.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-01T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER,  ADMISSIBILIDADE, PEC 18/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), DISCIPLINAMENTO, ADIAMENTO, ELEI\u00c7\u00c3O MUNICIPAL, CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, a respeito do adiamento das elei\u00e7\u00f5es municipais de 2020, em decorr\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus, declarada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Para proferir parecer. Sem revis\u00e3o do orador.) - Presidente, pe\u00e7o permiss\u00e3o para ir direto ao voto do Relator.\r\n\"II - Voto do Relator\r\nConforme determina o Regimento Interno da C\u00e2mara dos Deputados em seus arts. 32, IV, \"b\" e 202, caput, cumpre \u00e0 Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania an\u00e1lise dos aspectos de admissibilidade das propostas de emenda \u00e0 Constitui\u00e7\u00e3o.\r\nA Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, todavia, ser\u00e1 submetida diretamente ao Plen\u00e1rio, excepcionalmente, em virtude da suspens\u00e3o, determinada pelo \u00a7 1\u00ba do art. 2\u00ba da Resolu\u00e7\u00e3o da C\u00e2mara dos Deputados n\u00ba 14, de 2020, das reuni\u00f5es de Comiss\u00f5es durante a emerg\u00eancia de sa\u00fade p\u00fablica de import\u00e2ncia internacional relacionada ao coronav\u00edrus (COVID-19).\r\nNesse contexto, passamos a proferir o parecer de plen\u00e1rio apenas no tocante \u00e0 admissibilidade da proposi\u00e7\u00e3o, em substitui\u00e7\u00e3o \u00e0 Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania.\r\nQuanto aos aspectos formais, notadamente no que se refere \u00e0 iniciativa, constata-se que a proposi\u00e7\u00e3o atende ao requisito inscrito no art. 60, I, da Constitui\u00e7\u00e3o de 1988, sendo a proposta origin\u00e1ria do Senado Federal.\r\nO assunto constante na proposta em exame n\u00e3o foi objeto de nenhuma outra proposi\u00e7\u00e3o que tenha sido rejeitada ou tida por prejudicada na presente sess\u00e3o legislativa, n\u00e3o se aplicando, pois, o impedimento de que trata o \u00a7 5\u00ba do art. 60 da Lei Maior.\r\nNo que concerne \u00e0s limita\u00e7\u00f5es circunstanciais impostas pela Constitui\u00e7\u00e3o da Rep\u00fablica (art. 60, \u00a7 1\u00ba), nada h\u00e1 que se possa objetar, uma vez que, embora estejamos em meio a uma emerg\u00eancia de sa\u00fade p\u00fablica, com o enfrentamento da pandemia do novo coronav\u00edrus, o Pa\u00eds se encontra em normalidade pol\u00edtico-institucional, n\u00e3o vigendo decreto de interven\u00e7\u00e3o federal, de estado de defesa ou de estado de s\u00edtio.\r\nSobre as limita\u00e7\u00f5es materiais, n\u00e3o se vislumbra na PEC 18/20 nenhuma tend\u00eancia para aboli\u00e7\u00e3o da forma federativa do Estado, do voto direto, secreto, universal e peri\u00f3dico, da separa\u00e7\u00e3o dos Poderes ou dos direitos e garantias individuais, tendo sido respeitado o n\u00facleo expresso no \u00a7 4\u00ba do art. 60 do texto constitucional.\r\nCom efeito, n\u00e3o observamos qualquer inconstitucionalidade no teor da PEC 18/20, que estabelece novos prazos para o calend\u00e1rio das elei\u00e7\u00f5es municipais deste ano, mat\u00e9ria regulada pela legisla\u00e7\u00e3o infraconstitucional (Leis n\u00bas 9.504, de 1997, e 4.737, de 1965), tendo em vista o contexto de pandemia da COVID-19 e a necessidade de isolamento social da popula\u00e7\u00e3o, que podem comprometer a realiza\u00e7\u00e3o do pleito, das conven\u00e7\u00f5es partid\u00e1rias e dos atos de campanha.\r\nN\u00e3o obstante a determina\u00e7\u00e3o do art. 16 da Constitui\u00e7\u00e3o da Rep\u00fablica, que impede a aplica\u00e7\u00e3o da lei que alterar o processo eleitoral \u00e0 elei\u00e7\u00e3o que ocorra at\u00e9 um ano da data de sua vig\u00eancia, entendemos que a norma n\u00e3o tem aplicabilidade, no caso, tendo em vista que a altera\u00e7\u00e3o do calend\u00e1rio eleitoral foi veiculada por meio de proposta de emenda \u00e0 Constitui\u00e7\u00e3o, cujo art. 2\u00ba da proposi\u00e7\u00e3o expressamente excepciona a incid\u00eancia da regra do art. 16 da Lei Maior.\r\nFinalmente, no que se refere \u00e0 t\u00e9cnica legislativa, n\u00e3o h\u00e1 reparos a serem sugeridos, uma vez que a PEC se encontra em conformidade com a Lei Complementar n\u00ba 95, de 1998, que disp\u00f5e sobre as normas de reda\u00e7\u00e3o, elabora\u00e7\u00e3o, altera\u00e7\u00e3o e consolida\u00e7\u00e3o das leis.\r\nDiante do exposto, conclu\u00edmos o voto no sentido da admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020.\" \r\n\u00c9 assim que voto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2020&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-01T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, PEC 18/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), DISCIPLINAMENTO, ADIAMENTO, ELEI\u00c7\u00c3O MUNICIPAL, PROCESSO ELEITORAL, PARTIDO POL\u00cdTICO, AMBIENTE VIRTUAL, CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, a respeito do adiamento das elei\u00e7\u00f5es municipais de 2020, em decorr\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus, declarada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS, e \u00e0s emendas apresentadas conforme o caput do art. 3\u00ba do Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o autoriza\u00e7\u00e3o para ir direto ao voto.\r\n\"II - Voto do Relator\r\nVem ao exame desta Casa a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, submetida diretamente ao Plen\u00e1rio, em virtude da suspens\u00e3o, determinada pelo \u00a7 1\u00ba do art. 2\u00ba da Resolu\u00e7\u00e3o da C\u00e2mara dos Deputados n\u00ba 14, de 2020, das reuni\u00f5es de Comiss\u00f5es durante a emerg\u00eancia de sa\u00fade p\u00fablica de import\u00e2ncia internacional relacionada ao coronav\u00edrus, COVID-19.\r\nA proposi\u00e7\u00e3o recebeu parecer de Plen\u00e1rio, em substitui\u00e7\u00e3o \u00e0 Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, no sentido de sua admissibilidade. Damos sequ\u00eancia ao exame da mat\u00e9ria, em substitui\u00e7\u00e3o \u00e0 Comiss\u00e3o Especial, para a an\u00e1lise do m\u00e9rito, conforme o art. 202, \u00a7 2\u00ba, do Regimento Interno.\r\nEstamos vivendo um ano at\u00edpico no Brasil e no mundo. O novo coronav\u00edrus se revelou altamente contagioso, com complica\u00e7\u00f5es severas \u00e0 sa\u00fade de grande parte daqueles que s\u00e3o acometidos pela doen\u00e7a, gerando sobrecarga aos sistemas de sa\u00fade. Este quadro motivou muitos governos a adotarem medidas de restri\u00e7\u00e3o ao funcionamento de locais que pudessem gerar aglomera\u00e7\u00f5es de pessoas e a recomendarem o isolamento social.\r\nNeste contexto de pandemia, contudo, dever\u00e3o ser realizadas as elei\u00e7\u00f5es municipais de 2020, quando os eleitores brasileiros ser\u00e3o chamados \u00e0s urnas para a escolha de prefeitos e de vereadores. Se, por um lado, entendemos que o pleito peri\u00f3dico \u00e9 inerente ao princ\u00edpio democr\u00e1tico, alicerce do sistema constitucional brasileiro, e integra as cl\u00e1usulas p\u00e9treas da Constitui\u00e7\u00e3o de 1988 no seu art. 60, \u00a7 4\u00ba, II, por outro lado, h\u00e1 grande preocupa\u00e7\u00e3o com a seguran\u00e7a sanit\u00e1ria de todo o processo eleitoral.\r\nNeste diapas\u00e3o, a proposta contida na PEC em exame parece contemplar ambos os valores em quest\u00e3o, todos muito caros ao ordenamento constitucional vigente.\r\nTendo em vista que a realiza\u00e7\u00e3o n\u00e3o apenas do pleito, mas de todos os atos que o precedem, como as conven\u00e7\u00f5es partid\u00e1rias e os atos de campanha, \u00e9 apta a promover aglomera\u00e7\u00f5es de pessoas, indesej\u00e1veis no momento em que se busca o achatamento da curva de contamina\u00e7\u00f5es pelo coronav\u00edrus, COVID-19, o adiamento da data das elei\u00e7\u00f5es para os dias 15 e 29 de novembro do corrente ano, em primeiro e segundo turnos respectivamente, bem como o adiamento de outras datas do calend\u00e1rio eleitoral s\u00e3o medidas prudentes de prote\u00e7\u00e3o \u00e0 vida e \u00e0 sa\u00fade dos cidad\u00e3os e de manuten\u00e7\u00e3o da capacidade de atendimento do sistema de sa\u00fade no contexto pand\u00eamico em que vivemos.\r\nA op\u00e7\u00e3o parece ser a mais acertada, por assegurar tanto a realiza\u00e7\u00e3o das elei\u00e7\u00f5es ainda neste ano de 2020, sem a necessidade de altera\u00e7\u00e3o dos mandatos dos atuais prefeitos e vereadores e dos pr\u00f3ximos mandat\u00e1rios, como a concess\u00e3o de maior lapso temporal para a administra\u00e7\u00e3o da curva de contamina\u00e7\u00f5es em paralelo com a capacidade de atendimento dos doentes.\r\nAl\u00e9m disso, a proposta incentiva a ado\u00e7\u00e3o, sempre que poss\u00edvel, do uso de recursos tecnol\u00f3gicos que possam substituir o contato interpessoal para a realiza\u00e7\u00e3o de atos inerentes ao processo eleitoral, autorizando todos os partidos pol\u00edticos a realizar, por meio virtual, independentemente de qualquer disposi\u00e7\u00e3o estatut\u00e1ria, conven\u00e7\u00f5es ou reuni\u00f5es para a escolha de candidatos e a formaliza\u00e7\u00e3o de coliga\u00e7\u00f5es, bem como para a defini\u00e7\u00e3o dos crit\u00e9rios de distribui\u00e7\u00e3o dos recursos do Fundo Especial de Financiamento de Campanha.\r\nAdicionalmente, tendo em vista as peculiaridades de cada regi\u00e3o ou Munic\u00edpio no contexto da pandemia da COVID-19, a proposi\u00e7\u00e3o \u00e9 merit\u00f3ria ao conferir flexibilidade \u00e0 data de realiza\u00e7\u00e3o do pleito, permitindo a fixa\u00e7\u00e3o de data diversa, observado o limite do dia 27 de dezembro de 2020, caso determinado Munic\u00edpio ou mesmo todo o Estado esteja passando por crise sanit\u00e1ria de grande envergadura que impe\u00e7a a realiza\u00e7\u00e3o das elei\u00e7\u00f5es na data estabelecida pela emenda, bem como ao possibilitar \u00e0 Justi\u00e7a Eleitoral a disciplina do hor\u00e1rio de funcionamento das se\u00e7\u00f5es eleitorais e da distribui\u00e7\u00e3o dos eleitores no per\u00edodo, a fim de reduzir as aglomera\u00e7\u00f5es e o risco de contamina\u00e7\u00f5es.\r\nAs datas e medidas estabelecidas na proposi\u00e7\u00e3o em apre\u00e7o foram fruto de amplos debates entre membros da C\u00e2mara dos Deputados, do Senado Federal, do Tribunal Superior Eleitoral, al\u00e9m de representantes de entidades da sociedade civil e de institutos de pesquisa e atua\u00e7\u00e3o no \u00e2mbito do direito eleitoral, e infectologistas, epidemiologistas e outros especialistas da \u00e1rea da sa\u00fade.\r\nEstamos convencidos de que a altera\u00e7\u00e3o do calend\u00e1rio eleitoral de 2020 \u00e9 medida necess\u00e1ria no atual contexto da emerg\u00eancia de sa\u00fade p\u00fablica que se imp\u00f5e e que os novos prazos e datas propostos s\u00e3o adequados e prestigiam os princ\u00edpios democr\u00e1tico e republicano, ao garantir a manuten\u00e7\u00e3o das elei\u00e7\u00f5es sem altera\u00e7\u00e3o nos per\u00edodos dos mandatos.\r\nDiante do exposto, no m\u00e9rito, conclu\u00edmos o voto no sentido aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020.\"\r\nSr. Presidente, este \u00e9 o voto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2020&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-22T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 938/2020, MEDIDA PROVIS\u00d3RIA, UNI\u00c3O, AUX\u00cdLIO FINANCEIRO, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, FUNDO DE PARTICIPA\u00c7\u00c3O DOS ESTADOS E DO DISTRITO FEDERAL (FPE), FUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), REDU\u00c7\u00c3O, ARRECADA\u00c7\u00c3O TRIBUT\u00c1RIA, CRISE ECON\u00d4MICA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, RETIRADA, OBSTRU\u00c7\u00c3O PARLAMENTAR, REPUBLICANOS (PARTIDO POL\u00cdTICO).",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Retirada, pelo Republicanos, da obstru\u00e7\u00e3o da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 938, de 2020, relativa \u00e0 concess\u00e3o, pela Uni\u00e3o, de apoio financeiro aos entes federativos contemplados com recursos do Fundo de Participa\u00e7\u00e3o dos Estados - FPE, e do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios - FPM, para mitiga\u00e7\u00e3o das dificuldades financeiras decorrentes do estado de calamidade p\u00fablica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, e da emerg\u00eancia de sa\u00fade p\u00fablica provocada pela Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s temos requerimentos, mas, como j\u00e1 foi feito o acordo com o Deputado Hildo Rocha, n\u00f3s vamos retirar o kit obstru\u00e7\u00e3o que n\u00f3s t\u00ednhamos apresentado, e o Deputado Silvinho continua coordenando, porque n\u00f3s entendemos que na pr\u00f3xima semana n\u00f3s ainda temos que discutir melhor esse projeto. Eu sei que o setor de mobilidade est\u00e1 precisando, mas h\u00e1 tamb\u00e9m outros setores que est\u00e3o precisando. N\u00e3o h\u00e1 como ficar concedendo benef\u00edcio atr\u00e1s de benef\u00edcio para cada categoria de uma vez. Eu acho que n\u00f3s temos que pensar em um projeto mais amplo, para poder atender a todo mundo. Ent\u00e3o, n\u00f3s do Republicanos estamos retirando o kit obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F7%2F2020&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-19T10:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, VETO 11/2020, VETO TOTAL, PL 8302/2017, PROJETO DE LEI ORDIN\u00c1RIA, VETO 12/2020, VETO PARCIAL, PLV 5/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 903/2019, MEDIDA PROVOS\u00d3RIA, VETO 15/2020, PLV 8/2020, MPV 907/2019, VETO 16/2020, PL 1304/2020, VETO 18/2020, PL 864/2020, VETO 19/2020, PLV 10/2020, MPV 909/2019, VETO 21/2020, PLV 9/2020, MPV 915/2019, VETO 22/2020, PL 1075/2020, VETO 23/2020, PL 1888/2020,  VETO 24/2020, PL 675/2020, VETO 25/2020, PL 1562/2020, VETO 26/2020, PLV 15/2020, MPV 936/2020, VETO 27/2020, PL 1142/2020, VETO 28/2020, PL 1079/2020, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo do Veto Total n\u00ba 11, de 2020, ao Projeto de Lei n\u00ba 2.129, de 2019 (n\u00ba 8.302, 2017, na C\u00e2mara dos Deputados); do Veto Parcial n\u00ba 12, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 5, de 2020, da Medida Provis\u00f3ria n\u00ba 903, de 2019; do Veto Parcial n\u00ba 15, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 8, de 2020, da Medida Provis\u00f3ria n\u00ba 907, de 2019; do Veto Parcial n\u00ba 16, de 2020, ao Projeto de Lei n\u00ba 1.304, de 2020; do Veto Parcial n\u00ba 18, de 2020, ao Projeto de Lei n\u00ba 864, de 2020; do Veto Parcial n\u00ba 19, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 10, de 2020, da Medida Provis\u00f3ria n\u00ba 909, de 2019); do Veto Parcial n\u00ba 21, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2020, da Medida Provis\u00f3ria n\u00ba 915, de 2019; do Veto Parcial n\u00ba 22, de 2020,ao Projeto de Lei n\u00ba 1.075, de 2020; do Veto Parcial n\u00ba 23, de 2020, ao Projeto de Lei n\u00ba 1.888, de 2020; do Veto Total n\u00ba 24, de 2020, ao Projeto de Lei n\u00ba 675, de 2020; do Veto Parcial n\u00ba 25, de 2020, ao Projeto de Lei n\u00ba 1.562, de 2020; do Veto Parcial n\u00ba 26, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 15, de 2020, da Medida Provis\u00f3ria n\u00ba 936, de 2020; do Veto Parcial n\u00ba 27, de 2020, ao Projeto de Lei n\u00ba 1.142, de 2020; e do Veto Parcial n\u00ba 28, de 2020, ao Projeto de Lei n\u00ba 1.079, de 2020.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, h\u00e1 um veto muito importante para o nosso Estado, que \u00e9 o Veto n\u00ba 16, porque se refere \u00e0s terras de Roraima. \r\nH\u00e1 quase 30 anos, lutamos com promessas obscuras para o povo de Roraima e conseguimos apresentar esse projeto que \u00e9 de minha autoria, do Deputado Ottaci Nascimento, da Deputada Sh\u00e9ridan, do Deputado Hiran Gon\u00e7alves, entre outros. Com o apoio de toda a bancada federal conseguimos vot\u00e1-lo. A derrubada desses vetos \u00e9 fundamental para que o nosso Estado tenha direito \u00e0s suas terras.\r\nVamos votar esses destaques em globo para derrubar esses vetos. O trabalho feito pelo Senado juntamente com o Senador Mecias de Jesus j\u00e1 garantiu tamb\u00e9m os recursos no INCRA para poder fazer o georreferenciamento e entregar ao Governador Antonio Denarium o direito de titular as terras.\r\nO Republicanos vota os destaques em globo para poder derrubar os vetos.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=20%2F8%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-19T11:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VOTA\u00c7\u00c3O EM GLOBO, VETO 11/2020, VETO TOTAL, PL 8302/2017, PROJETO DE LEI ORDIN\u00c1RIA, VETO 12/2020, VETO PARCIAL, PLV 5/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 903/2019, MEDIDA PROVIS\u00d3RIA, VETO 15/2020, PLV 8/2020, MPV 907/2019, VETO 19/2020, PLV 10/2020, MPV 909/2019, VETO 21/2020, PLV 9/2020, MPV 915/2019, VETO 22/2020, PL 1075/2020, VETO 23/2020, PL 1888/2020, VETO 25/2020, PL 1562/2020, VETO 27/2020, PL 1142/2020, VETO 28/2020, PL 1079/2020, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.\r\nDERRUBADA DE VETO, VETO 16/2020, VETO PARCIAL, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, UNI\u00c3O, DOA\u00c7\u00c3O, TERRAS P\u00daBLICAS, GLEBA, RORAIMA, AMAP\u00c1, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA, AC\u00c1CIO FAVACHO, DEPUTADO FEDERAL, RELATOR.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o em globo do Veto Total n\u00ba 11, de 2020, ao Projeto de Lei n\u00ba 2.129, de 2019 (n\u00ba 8.302, 2017, na C\u00e2mara dos Deputados); do Veto Parcial n\u00ba 12, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 5, de 2020, da Medida Provis\u00f3ria n\u00ba 903, de 2019; do Veto Parcial n\u00ba 15, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 8, de 2020, da Medida Provis\u00f3ria n\u00ba 907, de 2019; do Veto Parcial n\u00ba 19, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 10, de 2020, da Medida Provis\u00f3ria n\u00ba 909, de 2019); do Veto Parcial n\u00ba 21, de 2020, ao Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2020, da Medida Provis\u00f3ria n\u00ba 915, de 2019; do Veto Parcial n\u00ba 22, de 2020,ao Projeto de Lei n\u00ba 1.075, de 2020; do Veto Parcial n\u00ba 23, de 2020, ao Projeto de Lei n\u00ba 1.888, de 2020; do Veto Parcial n\u00ba 25, de 2020, ao Projeto de Lei n\u00ba 1.562, de 2020;  do Veto Parcial n\u00ba 27, de 2020, ao Projeto de Lei n\u00ba 1.142, de 2020; e do Veto Parcial n\u00ba 28, de 2020, ao Projeto de Lei n\u00ba 1.079, de 2020.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Para orientar a bancada. Sem revis\u00e3o do orador.) - Presidente, o Republicanos vai encaminhar favoravelmente ao acordo. \r\nQuero ainda ressaltar aqui o trabalho do Deputado Ac\u00e1cio como Relator. O veto que foi derrubado \u00e9 muito importante. N\u00f3s fizemos v\u00e1rias reuni\u00f5es com os institutos de terras dos dois Estados e estamos agora passando para o Senado a responsabilidade de dar vida, voz e vez ao Estados do Amap\u00e1 e de Roraima. \r\nEnt\u00e3o, Presidente, quero parabenizar mais uma vez o meu amigo, L\u00edder e Deputado Ac\u00e1cio Favacho e dizer que o Republicanos vota com o acordo firmado no Col\u00e9gio de L\u00edderes.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=20%2F8%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-20T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, VETO PRESIDENCIAL, SESS\u00c3O CONJUNTA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.\r\nVOTO FAVOR\u00c1VEL, VETO 17/2020, VETO PARCIAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, ALTERA\u00c7\u00c3O, LEI DE RESPONSABILIDADE FISCAL, PROIBI\u00c7\u00c3O, AUMENTO, DESPESA TOTAL COM PESSOAL, REAJUSTE, REMUNERA\u00c7\u00c3O, SERVIDOR P\u00daBLICO, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Defesa de manuten\u00e7\u00e3o do Veto Parcial n\u00ba 17, de 2020, aposto ao Projeto de Lei Complementar n\u00ba 39, de 2020, relativo \u00e0 cria\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus, e altera\u00e7\u00e3o da Lei Complementar n\u00ba 101, de 2000 (progress\u00e3o funcional e reajuste salarial de servidores p\u00fablicos).",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sra. Presidente, o Republicanos debateu esta mat\u00e9ria. N\u00f3s estamos mais do que preparados para votar. Neste momento que o Brasil est\u00e1 vivendo, em que muitos est\u00e3o passando fome e com dificuldades, em que o povo foi para casa para se proteger da pandemia, n\u00f3s n\u00e3o podemos dar esse aumento.\r\nN\u00e3o h\u00e1 nada contra o servidor. H\u00e1, sim, responsabilidade com as contas p\u00fablicas e o atendimento a um pedido do Presidente Bolsonaro, que tem a voz popular, que tem a defesa do povo. E o povo em geral sabe da necessidade e da dificuldade que o Presidente Jair Bolsonaro est\u00e1 enfrentando para manter as contas p\u00fablicas e fazer o Pa\u00eds crescer.\r\nEnt\u00e3o, n\u00f3s vamos votar \"n\u00e3o\", Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=21%2F8%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-20T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, PRORROGA\u00c7\u00c3O, FAVOR\u00c1VEL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O.\r\nORIENTA\u00c7\u00c3O DE BANCADA, VETO 17/2020, VETO PARCIAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Empenho do Presidente Jair Bolsonaro na prorroga\u00e7\u00e3o do aux\u00edlio pecuni\u00e1rio emergencial concedido a trabalhadores informais, aut\u00f4nomos e fam\u00edlias carentes para enfrentamento da crise gerada pela Covid-19. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 17, de 2020, aposto ao Projeto de Lei Complementar n\u00ba 39, de 2020, sobre o estabelecimento do Programa Federativo de Enfrentamento ao Coronav\u00edrus, e a altera\u00e7\u00e3o da Lei Complementar n\u00ba 101, de 2000, (progress\u00e3o funcional e reajuste salarial de servidores p\u00fablicos). Apoio do partido Republicanos \u00e0 manuten\u00e7\u00e3o do Veto Parcial n\u00ba 17, de 2020.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, eu fiz quest\u00e3o de falar hoje com a imprensa que o Republicanos pensa em nosso Pa\u00eds, pensa no Brasil. \r\nN\u00f3s estamos passando por um momento muito dif\u00edcil com esta pandemia. Como disse o meu colega, agora h\u00e1 pouco, o Deputado Samuel, n\u00f3s n\u00e3o pedimos esta pandemia, n\u00e3o pedimos que os funcion\u00e1rios fossem para casa e que aqueles que t\u00eam micro e pequena empresa tivessem o seu com\u00e9rcio fechado.\r\nQuando n\u00f3s votamos e criamos o \"coronavoucher\"...\r\nQueria pedir, Presidente, que acrescente o tempo da Lideran\u00e7a.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - Eu naturalmente j\u00e1 estou fazendo isso para cada Lideran\u00e7a. Est\u00e1 acrescentado. Pode falar, Deputado Jhonatan.\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR) - Eu queria salientar a luta do Parlamento brasileiro, porque a proposta inicial do \"coronavoucher\" foi de 200 reais, mas n\u00f3s aumentamos para 600 reais, com o apoio do Presidente Jair Bolsonaro. Ao contr\u00e1rio do que muitos dizem, o Presidente Jair Bolsonaro foi um dos maiores entusiastas para que isso acontecesse. \r\nTenho que parabenizar aqui o Presidente Marcos Pereira, Presidente do meu partido e Vice-Presidente desta Casa, que sempre esteve ao lado das pautas boas e para o desenvolvimento do nosso Pa\u00eds, e, acima de tudo, o muito criticado Presidente Rodrigo Maia, que, em todas as pautas, sempre quis o desenvolvimento econ\u00f4mico do nosso Pa\u00eds.\r\nQuando se fala dos grupos de partidos aliados, quero ressaltar aqui o trabalho feito pelo meu amigo Deputado Arthur Lira. \r\nApesar de estarmos hoje defendendo a manuten\u00e7\u00e3o deste veto, n\u00f3s estamos defendendo o desenvolvimento do Pa\u00eds, porque n\u00e3o podemos ser irrespons\u00e1veis de autorizar esses aumentos no momento em que o Pa\u00eds mais precisa do controle das contas p\u00fablicas.\r\nO \"coronavoucher\" veio para ajudar \u00e0queles que n\u00e3o t\u00eam... O Presidente Jair Messias Bolsonaro est\u00e1 tentando achar uma solu\u00e7\u00e3o para prorrogar o \"coronavoucher\" e tentando poder ampli\u00e1-lo por mais 2 meses. N\u00f3s precisamos disso, porque essas pessoas n\u00e3o t\u00eam um emprego formal. S\u00e3o 13 milh\u00f5es de desempregados em nosso Pa\u00eds. A economia precisa voltar a crescer, e n\u00f3s n\u00e3o podemos engessar ainda mais as contas p\u00fablicas.\r\nEu sou totalmente favor\u00e1vel... Sou de um Estado com servidores p\u00fablicos, onde as nossas pequenas empresas ainda fazem a diferen\u00e7a dentro do nosso Estado. Eu sei que os servidores p\u00fablicos do meu Estado v\u00e3o entender isso, eu n\u00e3o tenho d\u00favida, porque seria uma pauta do Presidente Bolsonaro, uma pauta do Presidente Rodrigo Maia, do Deputado Marcos Pereira, uma pauta do Senador Davi Alcolumbre fazer com que o Brasil gere emprego e renda para a nossa popula\u00e7\u00e3o.\r\nEu, como L\u00edder do Republicanos, n\u00e3o poderia fazer diferente. Tenho que defender o desenvolvimento do nosso Pa\u00eds da maneira correta, n\u00e3o sendo irrespons\u00e1vel de pregar que o nosso Pa\u00eds est\u00e1 bloqueando, retirando direitos dos nossos servidores.\r\nN\u00f3s n\u00e3o estamos retirando, Sra. Presidente. Pelo contr\u00e1rio, n\u00f3s estamos pedindo \u00e0 popula\u00e7\u00e3o brasileira que entenda o momento pelo qual o Pa\u00eds est\u00e1 passando.\r\nPor isso, Presidente, eu quero salientar a decis\u00e3o do partido Republicano de, na sua maioria, votar pela manuten\u00e7\u00e3o do veto do Presidente Jair Messias Bolsonaro, porque o Presidente tem o apoio da popula\u00e7\u00e3o brasileira, e a popula\u00e7\u00e3o brasileira sabe a dificuldade por que n\u00f3s estamos passando, sabe a dificuldade por que aquele pequeno e microempres\u00e1rio est\u00e1 passando.\r\nEnt\u00e3o, Presidente, vou encerrar as minhas palavras dizendo que n\u00f3s vamos votar pela manuten\u00e7\u00e3o, n\u00e3o contra o funcion\u00e1rio p\u00fablico, como muitos est\u00e3o pregando. N\u00f3s estamos votando pelo controle das contas p\u00fablicas, e, no momento correto, todos os aumentos e reajustes dos planos de cargos e sal\u00e1rios de todas as categorias ser\u00e3o dados. Que o Brasil cres\u00e7a da forma correta e saud\u00e1vel, para n\u00e3o aumentar o d\u00e9ficit das contas p\u00fablicas!\r\nO Republicanos orienta o voto \"n\u00e3o\", orienta a manuten\u00e7\u00e3o do veto.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - Como orienta o PSB, Deputado Alessandro Molon?\r\nO SR. ALESSANDRO MOLON (PSB - RJ) - Presidente, eu pe\u00e7o a V.Exa. que tamb\u00e9m agregue o tempo de Lideran\u00e7a.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - S\u00f3 um momentinho, Deputado Molon.\r\nDeputado Jhonatan...\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR) - Eu estou ouvindo, Presidente.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - O discurso de V.Exa. foi num sentido, mas a orienta\u00e7\u00e3o foi contr\u00e1ria. Sua orienta\u00e7\u00e3o \u00e9 pela manuten\u00e7\u00e3o do veto?\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR) - \u00c9 pela manuten\u00e7\u00e3o do veto, Presidente, \u00e9 pela manuten\u00e7\u00e3o do veto.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - Obrigada.\r\nEnt\u00e3o, \u00e9 \"sim\".\r\nO SR. JHONATAN DE JESUS (REPUBLICANOS - RR) - \"Sim\", pela manuten\u00e7\u00e3o.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=21%2F8%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "TIA ERON, DEPUTADA FEDERAL, MANDATO PARLAMENTAR, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Sauda\u00e7\u00e3o \u00e0 Deputada Tia Eron, ao ensejo da reassun\u00e7\u00e3o do mandato parlamentar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu quero saudar a minha amiga Deputada Tia Eron, de volta a esta Casa, em nome do nosso L\u00edder Hugo Motta, em nome do nosso Presidente Marcos Pereira, da bancada dos Republicanos, e da bancada feminina da C\u00e2mara dos Deputados.\r\nQuero agradecer ao povo da Bahia por, mais uma vez, conceder que V.Exa. fa\u00e7a parte, junto conosco, de um grande trabalho que n\u00f3s vamos fazer pelo Brasil.\r\nParab\u00e9ns, Deputada Tia Eron! Parab\u00e9ns \u00e0 Bahia! Parab\u00e9ns ao Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T10:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, REGULAMENTA\u00c7\u00c3O, VOTO IMPRESSO, SISTEMA ELEITORAL, SISTEMA ELETR\u00d4NICO DE VOTA\u00c7\u00c3O, LEGISLA\u00c7\u00c3O ELEITORAL, DEBATE, LU\u00cdS ROBERTO BARROSO, PRESIDENTE, TRIBUNAL SUPERIOR ELEITORAL (TSE), SAUDA\u00c7\u00c3O, ARTHUR LIRA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, C\u00d3DIGO ELEITORAL (1950), GRUPO DE TRABALHO, AGRADECIMENTO.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Sauda\u00e7\u00f5es ao Presidente Arthur Lira, ao Presidente do Tribunal Superior Eleitoral, Ministro Lu\u00eds Roberto Barroso, e aos demais participantes na Comiss\u00e3o Geral. Unifica\u00e7\u00e3o da legisla\u00e7\u00e3o pol\u00edtico-eleitoral. An\u00fancio de conclus\u00e3o do texto-base do novo C\u00f3digo Eleitoral brasileiro. Agradecimento ao Presidente Arthur Lira pela cria\u00e7\u00e3o do Grupo de Trabalho destinado ao exame do tema.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR) - Presidente, indago a V.Exa. se nossa Relatora, Deputada Margarete Coelho, que tamb\u00e9m est\u00e1 inscrita pelo Partido Progressistas, pode somar o tempo durante a fala dela. \r\nCumprimento os integrantes desta Comiss\u00e3o Geral, o Presidente da C\u00e2mara dos Deputados, Deputado Arthur Lira, e o Presidente do Tribunal Superior Eleitoral, Ministro Lu\u00eds Roberto Barroso.\r\nFoi a mim incumbida a honra e o desafio, juntamente com a nossa Relatora, Deputada Margarete Coelho, de presidir esse Grupo de Trabalho, que tem como membros a Deputada Celina Le\u00e3o, o Deputado Celso Sabino, a Deputada Dulce Miranda, o Deputado Efraim Filho, o Deputado Giovani Cherini, o Deputado Lafaiete Andrada, a Deputada Liziane Bayer, o Deputado Orlando Silva, o Deputado Otto Alencar Filho, o Deputado Paulo Teixeira, a Deputada Soraya Santos e o Deputado Vitor Hugo.\r\n\u00c9 uma honrosa miss\u00e3o, por duas raz\u00f5es. Primeira, pelo seleto grupo de Parlamentares que dele fazem parte, cuja biografia pol\u00edtica representa e evidencia muito bem a qualidade de representantes da sociedade civil. Segunda, pela envergadura da tem\u00e1tica t\u00e3o did\u00e1tica, mas muito cara ao nosso Estado Democr\u00e1tico de Direito, que \u00e9 a sistematiza\u00e7\u00e3o de um c\u00f3digo eleitoral e toda a disciplina normativa pol\u00edtica eleitoral. \u00c9 de igual modo desafiadora, desafio inerente ao pr\u00f3prio objetivo desse Grupo de Trabalho. Dele vem os princ\u00edpios fundamentais que n\u00f3s vamos procurar inserir nessa sistematiza\u00e7\u00e3o, passando pela inelegibilidade e pelo financiamento de campanha, e at\u00e9 mesmo \u00e1ridos temas, mas poderosos, para serem debatidos, como presta\u00e7\u00e3o de contas e as regras do plano de m\u00eddia. \r\nMinistro Barroso, apesar de ambicioso, \u00e9 preciso que o trabalho seja bem feito; \u00e9 preciso unificar a legisla\u00e7\u00e3o eleitoral e partid\u00e1ria; \u00e9 preciso simplificar as regras eleitorais; \u00e9 preciso conferir maior clareza a todas essas regras; \u00e9 preciso trazer racionalidade e sistematiza\u00e7\u00e3o a um caos normativo eleitoral.\r\n\u00c9 preciso, portanto, torn\u00e1-las compreens\u00edveis n\u00e3o s\u00f3 ao universo jur\u00eddico, mas tamb\u00e9m aos eleitores, em particular, os seus destinat\u00e1rios prim\u00e1rios e mais relevantes \u00e0 nossa democracia.\r\nAviso a todo o Congresso Nacional que o nosso GT, juntamente com a nossa Relatora, entregar\u00e1, no dia 15 agora, o texto-base do novo C\u00f3digo Eleitoral brasileiro, o c\u00f3digo da democracia brasileira, o c\u00f3digo que merece ser tratado nesta Casa e que \u00e9 t\u00e3o relevante quanto as demais PECs que distribuem o sistema eleitoral. Mas n\u00f3s precisamos trabalhar juntos aqui para podermos faz\u00ea-lo.\r\nN\u00f3s j\u00e1 ouvimos em audi\u00eancia p\u00fablica a OAB, o Movimento de Combate \u00e0 Corrup\u00e7\u00e3o Eleitoral, a EDUCAFRO, o Instituto Brasileiro Partid\u00e1rios, a Academia Brasileira de Direito Eleitoral e Pol\u00edtico, o Instituto Brasileiro de Direito Eleitoral, entre outros. Foram v\u00e1rias audi\u00eancias p\u00fablicas.\r\nN\u00f3s j\u00e1 estivemos com o pr\u00f3prio Presidente Barroso, com o Vice-Presidente Fachin, com o Ministro Toffoli, j\u00e1 estivemos com o Ministro Fux, e todos eles pedem tamb\u00e9m a colabora\u00e7\u00e3o na sistematiza\u00e7\u00e3o desse tema.\r\nO pilar \u00e9 a soberania popular, como diz a nossa Constitui\u00e7\u00e3o de 1988. A ideia de um autogoverno e de um governo da maioria, respeitando sempre o direito das minorias, deve ser regra, e n\u00e3o exce\u00e7\u00e3o.\r\nVale ressaltar uma frase do pr\u00f3prio Ministro Barroso, que disse: \"Quando se judicializa o terceiro turno, n\u00e3o foram investidos em seus mandatos pelo batismo da urna\". Quando n\u00f3s falamos aqui da elei\u00e7\u00e3o, os eleitos s\u00e3o aqueles escolhidos pelo povo. Da\u00ed, uma hip\u00f3tese excepcional pode ser tolhida: as regras da soberania.\r\nEu quero agradecer ao Presidente Arthur Lira pela sua capacidade de montar esse Grupo de Trabalho, que foi a sua promessa de campanha para a Presid\u00eancia da C\u00e2mara de Deputados. Dizia que n\u00f3s precis\u00e1vamos refazer e reorientar a C\u00e2mara dos Deputados e o Congresso no sistema eleitoral.\r\nA nossa Relatora, Presidente, a Deputada Margarete Coelho, \u00e9 doutora em Direito Eleitoral e est\u00e1 preparada. Eu a convido, agora, para continuar falando sobre esse tema.\r\nObrigado, Presidente.\r\nQue Deus aben\u00e7oe a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-21T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, EMENDA, SENADO FEDERAL, PLV 07/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1031/2021, MEDIDA PROVISORIA.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 9\u00ba, art. 1\u00ba, do Projeto de Lei de Convers\u00e3o n\u00ba 7, de 2021, da Medida Provis\u00f3ria n\u00ba 1.031, de 2021, constante da Emenda do Senado Federal n\u00ba 3, e, por decorr\u00eancia, dos \u00a7\u00a7 10 e 11 do mesmo dispositivo.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Sem revis\u00e3o do orador.) - Meu querido amigo e L\u00edder Danilo Cabral, eu acho que quem orientou V.Exa. est\u00e1 totalmente enganado. Esta obra nunca se iniciou. Esta \u00e9 uma discuss\u00e3o que vem da \u00e9poca do Governo anterior.\r\nO Estado de Roraima sofre. Est\u00e1 aqui, em mat\u00e9ria do G1, que Roraima sofre 40% de reajuste de energia. N\u00f3s n\u00e3o estamos interligados ao sistema nacional. Est\u00e1 aqui, no G1: \"Dilma anuncia licen\u00e7a para a constru\u00e7\u00e3o do Linh\u00e3o de Tucuru\u00ed\".\r\nO que n\u00f3s estamos pedindo aqui \u00e9 simplesmente a autoriza\u00e7\u00e3o. N\u00f3s estamos dizendo que, para fins do que trata o \u00a7 9\u00ba deste artigo, uma vez conclu\u00eddo o Plano B\u00e1sico Ambiental, traduzido para a l\u00edngua origin\u00e1ria e apresentado, fica a Uni\u00e3o autorizada a construir o Linh\u00e3o de Tucuru\u00ed.\r\nJ\u00e1 chega de Roraima estar sempre pagando as custas, sem estar interligada ao sistema nacional! J\u00e1 chega de o povo de Roraima sofrer com apag\u00f5es! O que n\u00f3s estamos pedindo aqui s\u00e3o direitos iguais. O povo de Roraima est\u00e1 querendo o Linh\u00e3o de Tucuru\u00ed para que o Estado seja interligado. Hoje n\u00f3s gastamos quase 1 bilh\u00e3o de reais com termoel\u00e9trica. Quase 1 bilh\u00e3o de reais se gasta para se manter a termoel\u00e9trica. Para construir o linh\u00e3o, que j\u00e1 era para estar pronto, na \u00e9poca estava or\u00e7ado um bilh\u00e3o e pouco.\r\nDeputado Hildo Rocha, eu conhe\u00e7o V.Exa. e sei que V.Exa. vai pensar com carinho. N\u00f3s estamos a favor da emenda do Senado para levar justi\u00e7a ao povo de Roraima e contra o destaque, porque esta n\u00e3o \u00e9 a verdade. Eu sei que a verdade vai prevalecer daqui a pouco no painel e pe\u00e7o o voto de cada um dos amigos para que n\u00f3s possamos levar energia de qualidade e infraestrutura para Roraima.\r\nDeputado Elmar, parab\u00e9ns pelo relat\u00f3rio!\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-29T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ACORDO, PAUTA (PROCESSO LEGISLATIVO), APRECIA\u00c7\u00c3O, PDCL 28/2019, PROJETO DE DECRETO LEGISLATIVO, EXCLUS\u00c3O, \u00c1REA IND\u00cdGENA S\u00c3O MARCOS, \u00c1REA URBANA, MUNIC\u00cdPIO, PACARAIMA (RR), RORAIMA, RESULTADO, AUDI\u00caNCIA P\u00daBLICA.",
+        "nomeDeputado": "Jhonatan de Jesus",
+        "sumario": "Pedido \u00e0 Presid\u00eancia para n\u00e3o vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 28, de 2019, sobre a exclus\u00e3o, da \u00c1rea Ind\u00edgena S\u00e3o Marcos, da \u00e1rea urbana da sede do Munic\u00edpio de Pacaraima, no Estado de Roraima, at\u00e9 a realiza\u00e7\u00e3o de audi\u00eancia p\u00fablica com representantes de comunidades interessadas na vota\u00e7\u00e3o da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JHONATAN DE JESUS (REPUBLICANOS - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de propor um ajuste na nossa pauta. Eu estava conversando com as Deputadas Erika Kokay e Joenia Wapichana sobre o Projeto de Decreto Legislativo n\u00ba 28, de 2019, do Senador Mecias de Jesus, que est\u00e1 na pauta de hoje. \r\nGostar\u00edamos de propor um ajuste, conforme o que nos foi sugerido. Na semana que vem, ser\u00e1 pedida uma audi\u00eancia p\u00fablica somente para ouvir as comunidades, para os representantes do Norte poderem falar. Acontecendo a audi\u00eancia p\u00fablica, n\u00f3s vamos trazer o projeto para o plen\u00e1rio. O que se quer \u00e9 fazer uma audi\u00eancia p\u00fablica, e isso j\u00e1 foi conversado com a Esquerda. \r\nEu estou aqui para dizer que n\u00f3s n\u00e3o vamos retirar o projeto de pauta. Pedimos a V.Exa. que mantenha o projeto na pauta. Se n\u00e3o acontecer a audi\u00eancia p\u00fablica, n\u00f3s pediremos que volte o projeto. Acontecendo a audi\u00eancia p\u00fablica, n\u00f3s vamos votar da mesma forma. Isso que foi conversado aqui. \r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

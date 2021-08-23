@@ -1,0 +1,308 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, ARTIGO (TEXTO LEGISLATIVO), PROJETO DE LEI DE CONVERS\u00c3O, MPV 852/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento de Destaque n\u00ba 16 para vota\u00e7\u00e3o em separado do art. 21 do projeto de lei de convers\u00e3o apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 852, de 2018, com vista \u00e0 sua inser\u00e7\u00e3o no texto com prefer\u00eancia regimental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (Bloco/PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, num pacto de amor e de carinho com as Oposi\u00e7\u00f5es, o Governo Bolsonaro, atrav\u00e9s do Ministro Sergio Moro, j\u00e1 tinha mandado for\u00e7as de seguran\u00e7a nacionais para ajudar o Governador do Cear\u00e1, do PT. E, neste momento, mais de 270 fam\u00edlias pobres - os pobres que o PT ama, os pobres que o PSL ama -, pessoas humildes, v\u00e3o ter garantida a dignidade de sua moradia.\r\nEm apoio a esta medida de carinho e de amor, sem \u00f3dio, o PSL, que cumpre acordos, vai cumprir o acordo com o PT e votar \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=278&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FOR\u00c7AS ARMADAS, ESTADOS UNIDOS, ALCIDES VALERIANO DE FARIA J\u00daNIOR, GENERAL DE EX\u00c9RCITO, NOMEA\u00c7\u00c3O, CONTR\u00c1RIO.\r\nALCIDES VALERIANO DE FARIA J\u00daNIOR, GENERAL DE EX\u00c9RCITO, BRASIL, VENEZUELA, ASSIST\u00caNCIA HUMANIT\u00c1RIA INTERNACIONAL, MISS\u00c3O MILITAR, ESTADOS UNIDOS, ATUA\u00c7\u00c3O, DELEGADO WALDIR, DEPUTADO FEDERAL, L\u00cdDER DO PARTIDO, ORADOR, PARTIDO SOCIAL LIBERAL (PSL), ESCLARECIMENTO.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Esclarecimento aos Deputados oposicionistas sobre a participa\u00e7\u00e3o de Oficial das For\u00e7as Armadas brasileiras em miss\u00e3o de assist\u00eancia humanit\u00e1ria promovida pelos Estados Unidos da Am\u00e9rica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (Bloco/PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado pelo carinho de V.Exas. Venho aqui dizer, Sra. Presidente, do nosso respeito total \u00e0 Oposi\u00e7\u00e3o - ao PSOL, ao PDT e ao PT - e, tamb\u00e9m, aos Parlamentares do PSDB, do DEM e do PP, que mais cedo hoje orientaram pelo convite ao general. O nosso Ex\u00e9rcito, que \u00e9 extremamente prestativo - prestou \u00e0 esquerda e hoje serve \u00e0 direita - pediu para dizer a V.Exas., ao Parlamento, que eles agem na legalidade.\r\nEsse convite ao general para participar de um evento nos Estados Unidos \u00e9 apenas um interc\u00e2mbio cultural. Eu acredito que este Parlamento conhece e sabe o que \u00e9 um interc\u00e2mbio cultural. Um comandante sem poder de comandar tropas americanas...\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. Bloco/PSDB - SC) - Pe\u00e7o que encerre, Deputado.\r\nO SR. DELEGADO WALDIR (Bloco/PSL - GO) - Este comandante que ocupa o cargo de Oficial General de Brigada tem fun\u00e7\u00f5es relacionadas \u00e0 assessoramento a exerc\u00edcios de opera\u00e7\u00f5es de assist\u00eancia humanit\u00e1ria. Esse general vai para assist\u00eancia humanit\u00e1ria em socorro a desastres.\r\nEu ouvi alguns Parlamentares preocupados com a invas\u00e3o da Venezuela. O Brasil \u00e9 um pa\u00eds pac\u00edfico.\r\nVenho aqui trazer a mensagem do nosso Ministro do Ex\u00e9rcito e do Governo Bolsonaro.\r\nO PSL, Sra. Presidente, n\u00e3o vai tratar com \u00f3dio nenhuma dessas quest\u00f5es.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=149&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL, RECURSOS OR\u00c7AMENT\u00c1RIOS, CONTINGENCIAMENTO, CORTE, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, MINIST\u00c9RIO DA EDUCA\u00c7\u00c3O, GEST\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, AGRADECIMENTO.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Agradecimento do Presidente Jair Bolsonaro aos partidos do Centro e da Oposi\u00e7\u00e3o pela convoca\u00e7\u00e3o do Ministro da Educa\u00e7\u00e3o \u00e0 C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO) - Sr. Presidente, Sras. e Srs. Parlamentares, como L\u00edder do PSL, tivemos ontem uma reuni\u00e3o com nosso Presidente Bolsonaro, que pediu que eu viesse hoje aqui para agradecer aos partidos do Centro e da Oposi\u00e7\u00e3o a oportunidade de nosso Ministro da Educa\u00e7\u00e3o estar presente hoje na Casa. Nosso Presidente me pediu que agradecesse. (Palmas.)\r\nTodos os nossos Ministros podem ser convocados. Eles v\u00e3o vir aqui falar do nosso Governo. N\u00f3s n\u00e3o temos nada a esconder. Nossa prioridade s\u00e3o os mais pobres.\r\nEu queria chamar o povo brasileiro \u00e0 reflex\u00e3o. Hoje muitas universidades est\u00e3o paradas. Por qu\u00ea? Ser\u00e1 que esses estudantes est\u00e3o de folga? \u00c9 feriado? H\u00e1 muitos alunos nas escolas particulares que s\u00e3o pobres. Os estudantes das universidades p\u00fablicas, pagas com nosso dinheiro, est\u00e3o parados. Vamos inverter esta l\u00f3gica!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PRONUNCIAMENTO, DEPUTADA FEDERAL, COMISS\u00c3O DE EDUCA\u00c7\u00c3O (CE), VIOL\u00caNCIA F\u00cdSICA, WALDIR, DEPUTADO FEDERAL, CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Contesta\u00e7\u00e3o de den\u00fancia de Deputada da Casa relativa a agress\u00e3o verbal proferida pelo orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. \r\nEu n\u00e3o sabia que foram trazidos das hist\u00f3rias em quadrinhos alguns personagens para c\u00e1, como o Pin\u00f3quio. Uma Deputada acaba de mencionar o meu nome aqui, dizendo que fui agredido e que agredi algu\u00e9m. Eu pe\u00e7o que ela veja o v\u00eddeo. Um Presidente desta Casa, quando foi a uma CPI, j\u00e1 mentiu e foi cassado. Eu acho que essa Deputada n\u00e3o conhece o Conselho de \u00c9tica. Pe\u00e7o que ela converse com os seus assessores e respeite os demais Parlamentares. \u00c9 muito feio falar mentira nesta Casa. Eu pe\u00e7o que ela me respeite.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T13:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), COMISS\u00c3O ESPECIAL, MARCELO RAMOS, PRESIDENTE DE COMISS\u00c3O, PARTIDO SOCIAL LIBERAL (PSL), ATUA\u00c7\u00c3O.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, AVALIA\u00c7\u00c3O POSITIVA.\r\nDELEGADO WALDIR, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Apresenta\u00e7\u00e3o, em nome do PSL, de pedido de desculpas ao Presidente da Comiss\u00e3o Especial destinada ao exame da proposta de reforma previdenci\u00e1ria, Deputado Marcelo Ramos, por conduta inapropriada de Parlamentar da legenda. Exalta\u00e7\u00e3o do comprometimento do Presidente Rodrigo Maia e do Deputado Marcelo Ramos com a aprova\u00e7\u00e3o da mat\u00e9ria. Atua\u00e7\u00e3o do orador junto \u00e0 bancada governista para melhoria do relacionamento com os demais membros do Parlamento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Parlamentares, brasileiros e brasileiras, eu venho aqui de p\u00fablico pedir desculpas pela conduta do Parlamentar que agrediu o Deputado Marcelo. Eu sou testemunha pessoal da conduta do nosso Presidente Rodrigo Maia, dos partidos do centro, da import\u00e2ncia deles na reforma, em todas as mudan\u00e7as deste Parlamento. \r\nSei em especial do seu comprometimento, Sr. Presidente, com a reforma da Previd\u00eancia. Eu sou testemunha de que V.Exa. tem feito por ela mais do que muitas pessoas que est\u00e3o no Governo. Eu sou testemunha disso.(Palmas.)\r\nEnt\u00e3o, eu quero pedir desculpas por alguns atos que aconteceram e dizer que, se o relat\u00f3rio foi aprovado na CCJ, com 48 votos, n\u00f3s devemos isso, sim, aos partidos do centro.\r\nHoje eu queria s\u00f3 elogiar a conduta do Deputado Marcelo, um cara espetacular, que ouve todo mundo, e dos demais L\u00edderes do centro. Eu tenho um excelente relacionamento com todos eles. \r\nEnt\u00e3o, eu queria pedir a V.Exas. que n\u00e3o me\u00e7am, por favor, a conduta do PSL pela conduta individual de um ou de outro Parlamentar. Estamos dialogando dentro da bancada e vamos pacific\u00e1-la. Tenho alertado sobre a necessidade de outro tipo de relacionamento com o Parlamento.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DELEGADO WALDIR, DEPUTADO FEDERAL, ORADOR, CONTRA, NOT\u00cdCIA FALSA (FAKE NEWS), V\u00cdDEO, EDI\u00c7\u00c3O.\r\nDELEGADO WALDIR, DEPUTADO FEDERAL, ORADOR, GOVERNO ESTADUAL, BAHIA, CANDIDATO A CARGO ELETIVO,  ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Divulga\u00e7\u00e3o por Deputado da Oposi\u00e7\u00e3o de v\u00eddeo com edi\u00e7\u00e3o fraudulenta sobre manifesta\u00e7\u00e3o do orador ofensiva ao Estado da Bahia. Esclarecimento sobre cr\u00edtica do orador \u00e0 gest\u00e3o do Governador baiano, filiado ao PT.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, servidores, brasileiras e brasileiros que nos assistem, eu queria fazer uma den\u00fancia. Nesta semana, recebemos o Ministro da Educa\u00e7\u00e3o na Comiss\u00e3o Especial. Um Deputado da Oposi\u00e7\u00e3o, gravando um v\u00eddeo, fez uma fraude, usando uma fala minha em que eu criticava o Governo do PT na Bahia, dizendo que aquele Governo era um lixo. Ele fez uma montagem. \u00c9 um Deputado que j\u00e1 processei no Conselho de \u00c9tica e me ama. Fez uma fraude, fez uma fake news, disse uma mentira. Disse que eu atacava o povo baiano.\r\nO povo baiano \u00e9 um povo maravilhoso, trabalhador, diferenciado! Tem o ACM Neto, que faz um trabalho espetacular em Salvador, tornando aquela uma das cidades mais tur\u00edsticas do Pa\u00eds.\r\nContudo, o restante do Estado da Bahia est\u00e1 abandonado, n\u00e3o tem esgoto, n\u00e3o tem seguran\u00e7a. As pessoas est\u00e3o morrendo por falta de m\u00e9dico e de medicamento. As universidades est\u00e3o em greve. O Estado est\u00e1 num caos pol\u00edtico. \r\nPortanto, o Governo da Bahia \u00e9 um lixo; o povo baiano \u00e9 um povo maravilhoso, meu Presidente, \u00e9 um povo maravilhoso! \r\nMais uma vez, esse grupo de Parlamentares da Bahia vem aqui e prega mentiras, faz uma covardia. Contudo, eles podem ficar tranquilos. Com o ibope que eles est\u00e3o me dando l\u00e1 na Bahia, eu acho que n\u00e3o vou ser mais candidato a Governador de Goi\u00e1s, n\u00e3o: vou ser candidato a Governador da Bahia, para poder acabar com a bagun\u00e7a, com a baderna, com a corrup\u00e7\u00e3o que esses Governos do PT fizeram na Bahia.\r\nO SR. EDMILSON RODRIGUES (PSOL - PA) - No Par\u00e1, eu n\u00e3o deixo. No Par\u00e1, V.Exa. n\u00e3o entra.\r\nO SR. DELEGADO WALDIR (PSL - GO) - Acabaram com a Bahia! \u00c9 corrup\u00e7\u00e3o pura! \u00c9 bandidagem! O povo baiano n\u00e3o merece os Parlamentares que tem, n\u00e3o merece, principalmente porque v\u00eam a esta Casa para plantar mentiras e criar fake news.\r\nSr. Presidente, eu queria agradecer a grande publicidade que os Parlamentares me deram. At\u00e9 o Governador da Bahia fez um tu\u00edte em minha homenagem. Obrigado!\r\nVou ser concorrente. Vou ser candidato a Governador da Bahia. E n\u00f3s vamos consertar a Bahia, em seguran\u00e7a, sa\u00fade, educa\u00e7\u00e3o. O povo baiano vai ser tratado de forma diferente. Aqui fica a verdade em rela\u00e7\u00e3o ao povo baiano, que eu conhe\u00e7o muito bem.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 29/2019, EMENDA DE COMISS\u00c3O, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 29, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 875, de 2019, sobre o Aux\u00edlio Emergencial Pecuni\u00e1rio para fam\u00edlias de Brumadinho,  Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, essas trag\u00e9dias que aconteceram em Minas Gerais, tanto em Brumadinho como em Mariana, foram trazidas por uma empresa particular, a Vale, que, sem d\u00favida nenhuma, deveria arcar com todas as consequ\u00eancias.\r\nMas aqui, no di\u00e1logo formado pelo Deputado Orlando e outros Parlamentares, o PSL vai liberar a sua bancada. Sem d\u00favida, achamos extremamente importante a responsabiliza\u00e7\u00e3o da empresa causadora de tantas v\u00edtimas. \r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=178&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 2\u00ba-D da Lei 13.203, de 2018, alterado pelo art. 2\u00ba do Projeto de Lei n\u00ba 10.985 , de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, para fins de sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSL vota \"n\u00e3o\". Lembro que isso causaria um preju\u00edzo de 4 bilh\u00f5es aos cofres do Governo Federal. Ent\u00e3o, o PSL vota \"n\u00e3o\" ao perd\u00e3o das d\u00edvidas da CEMIG.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=183&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTRARIO.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba do Projeto de Lei n\u00ba 10.985 , de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, para fins de sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - O PSL vota \"n\u00e3o\", Presidente. S\u00e3o 16 bilh\u00f5es de reais que v\u00e3o ser retirados da sa\u00fade e da educa\u00e7\u00e3o. \u00c9 algo extremamente importante. Amanh\u00e3, nas manchetes, os jornais estar\u00e3o estampando: \"O Congresso aprova um fundo de 16 bilh\u00f5es, tirando dinheiro das pessoas mais pobres deste Pa\u00eds\". \u00c9 isso o que n\u00f3s queremos? Este Congresso vai carregar essa responsabilidade?\r\nO PSL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=187&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio. Agradecimento ao Presidente Rodrigo Maia pelo empenho na aprova\u00e7\u00e3o da mat\u00e9ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Como L\u00edder. Sem revis\u00e3o do orador.) - Brasileiras e brasileiros, neste momento importante nesta Casa, eu quero primeiramente agradecer a Deus, porque sem Ele nenhum de n\u00f3s estaria aqui neste local. Neste momento, n\u00f3s n\u00e3o viemos falar de \u00f3dio, falar de confronto, mas, sim, de respeito. N\u00e3o somente respeito \u00e0 Oposi\u00e7\u00e3o, mas a todos os partidos de Oposi\u00e7\u00e3o e a cada Parlamentar que se prop\u00f4s a debater a reforma da Previd\u00eancia. N\u00e3o temos \u00f3dio. N\u00f3s estamos aqui pelo Brasil.\r\nNeste momento, quero fazer um agradecimento todo especial ao grande condutor desta reforma. Sem essa pessoa, com certeza, n\u00f3s n\u00e3o ter\u00edamos chegado a este momento t\u00e3o importante. Minha especial homenagem \u00e9 ao Presidente desta Casa, o Deputado Rodrigo Maia. Sem o Presidente Rodrigo Maia, n\u00f3s n\u00e3o chegar\u00edamos a este momento.(Palmas.)\r\nEle \u00e9 um liberal que respeita todos os partidos, todos os Parlamentares, da Oposi\u00e7\u00e3o ou n\u00e3o.(Palmas.)\r\n(Manifesta\u00e7\u00e3o no plen\u00e1rio: Boa, Rodrigo! Brasil! Brasil! A\u00ed, Presidente! Orgulho, Rodrigo! Valeu, Presidente! Rodrigo! Rodrigo!)\r\nSem o nosso Presidente, com certeza, n\u00f3s n\u00e3o ter\u00edamos chegado a este momento.\r\nEu me emociono ao dizer que o nosso Presidente \u00e9 um cara liberal, diferenciado. \u00c9, sem d\u00favida, a pessoa que eu mais admiro neste momento, que est\u00e1 fazendo uma transforma\u00e7\u00e3o no Brasil, devolvendo o Brasil \u00e0s pessoas mais pobres. Ele vai devolver ao Brasil a sa\u00fade, a educa\u00e7\u00e3o, a seguran\u00e7a. \u00c9 ele, ele \u00e9 o cara! O meu respeito, Deputado Rodrigo!\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Obrigado.\r\nO SR. DELEGADO WALDIR (PSL - GO) - E eu queria ir adiante. Eu queria agradecer a cada Parlamentar do PSL pela fidelidade. Gostaria de agradecer a cada Parlamentar que trabalhou em cada Comiss\u00e3o. Queria come\u00e7ar pelo Deputado Felipe Francischini, jovem, ousado, que deu um show na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a, e pelo Deputado Delegado Marcelo Freitas. N\u00e3o poderia deixar de falar do meu amigo Deputado Marcelo Ramos, que est\u00e1 ali ao centro da mesa e que fez uma condu\u00e7\u00e3o magistral na Comiss\u00e3o Especial. E, agora, ressalto o nosso Relator, o Deputado Samuel Moreira, meu companheiro, meu parceiro do PSDB.(Palmas.)\r\nEspetacular, Deputado Samuel! Obrigado.\r\nGostaria de agradecer a cada uma dessas mulheres maravilhosas que ajudaram na condu\u00e7\u00e3o desse projeto.\r\nQuero agradecer ao Deputado Arthur Lira, um cara fant\u00e1stico, um grande condutor tamb\u00e9m, que afian\u00e7ou essa reforma. Agrade\u00e7o ao Deputado Wellington Roberto, ao Deputado Andr\u00e9 de Paula, ao Deputado Jhonatan de Jesus, ao Deputado Carlos Sampaio, meu L\u00edder no PSDB, ao Deputado Elmar Nascimento, do DEM, um cara espetacular, que ouviu e permitiu avan\u00e7ar na quest\u00e3o da seguran\u00e7a p\u00fablica, ao Deputado Augusto Coutinho, ao Deputado Jos\u00e9 Nelto, ao Deputado Andr\u00e9 Ferreira, ao Deputado Daniel Coelho, ao Deputado Pedro Lucas - desculpem-me por citar os nomes, mas eu gostaria de fazer um testemunho sobre cada uma dessas pessoas -, ao Deputado Baleia Rossi, ao Deputado Luis Tib\u00e9, ao Deputado Fred Costa, ao Deputado Marcelo, do NOVO, \u00e0 Deputada Leandre, que, mesmo com a divis\u00e3o no partido, votou favoravelmente \u00e0 reforma.\r\nE eu n\u00e3o poderia esquecer o nosso L\u00edder do Governo, Deputado Major Vitor Hugo, que est\u00e1 aqui comigo. Tamb\u00e9m quero lembrar do meu irm\u00e3o Deputado Agnaldo, um cara fant\u00e1stico, sem o qual n\u00f3s n\u00e3o ter\u00edamos essa condu\u00e7\u00e3o. Tamb\u00e9m quero citar a nossa L\u00edder Deputada Joice Hasselmann.\r\nA cada um de V.Exas. o agradecimento n\u00e3o meu, mas do Brasil. N\u00f3s vamos devolver o Brasil aos brasileiros. N\u00f3s vamos fazer isso de forma pacificada, com a possibilidade de amanh\u00e3 ou depois a Bolsa de Valores arrebentar em mais um pique e o d\u00f3lar cair.\r\nLembrei-me de todos - eu fiz uma cola aqui, porque sem a cola n\u00e3o seria poss\u00edvel fazer esse agradecimento.\r\nEnt\u00e3o, passo aqui s\u00f3 para deixar o meu agradecimento. N\u00f3s vamos devolver o Brasil aos brasileiros. E queria lembrar a V.Exas. que esta n\u00e3o \u00e9 uma reforma; reforma quem fez foi Lula e Dilma. N\u00f3s estamos trazendo uma nova Previd\u00eancia. N\u00f3s estamos fazendo uma nova Previd\u00eancia.(Palmas.)\r\nE aqueles que falam \"n\u00e3o\" \u00e0 reforma da Previd\u00eancia est\u00e3o falando \"n\u00e3o\" aos mais pobres, \"n\u00e3o\" \u00e0 seguran\u00e7a p\u00fablica, \"n\u00e3o\" \u00e0 sa\u00fade, \"n\u00e3o\" \u00e0 educa\u00e7\u00e3o e \"n\u00e3o\" \u00e0 seguran\u00e7a.\r\nS\u00f3 para finalizar, Sr. Presidente, eu queria fazer um apelo aos Presidentes dos partidos de Oposi\u00e7\u00e3o. Por favor! Eu queria fazer um apelo aos Presidentes dos partidos de Oposi\u00e7\u00e3o: por favor, n\u00e3o punam os Deputados que v\u00e3o votar com o Brasil, com as pessoas mais pobres.(Palmas.)\r\nPor favor, n\u00e3o punam! Se por acaso algum Parlamentar for punido, eu garanto que em qualquer dos partidos do Centro e no PSL haver\u00e1 portas abertas e vagas, para eles migrarem para o Brasil.\r\nMuito obrigado, Srs. Parlamentares! Muito obrigado, povo brasileiro! Agrade\u00e7o a cada um de V.Exas.! Fiquem com Deus!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=261&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019),  APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, \u00e9 extremamente importante que avancemos no di\u00e1logo. N\u00e3o podemos esquecer que a mudan\u00e7a do Pa\u00eds depende de cada Parlamentar que est\u00e1 aqui neste momento. O cidad\u00e3o, em sua casa, est\u00e1 assistindo ao que est\u00e1 acontecendo aqui. N\u00e3o \u00e9 o Governo Bolsonaro que precisa de 1 trilh\u00e3o. \u00c9 o Brasil que precisa deste dinheiro. \r\nEm cada vota\u00e7\u00e3o aqui, quando desidratamos esta reforma da Previd\u00eancia, eu queria lembrar que V.Exas., Srs. Parlamentares, est\u00e3o retirando dinheiro das pessoas mais pobres deste Pa\u00eds, das pessoas do Nordeste, daquelas que n\u00e3o t\u00eam seguran\u00e7a, das que est\u00e3o morrendo nos hospitais, das crian\u00e7as que n\u00e3o t\u00eam escola nem creche.\r\nO que estamos fazendo aqui est\u00e1 sendo acompanhado por toda a sociedade. Portanto, buscarmos vantagens para determinados segmentos pode gerar v\u00e1rias consequ\u00eancias. V.Exas. j\u00e1 perceberam, nas \u00faltimas elei\u00e7\u00f5es, que a falta de compromisso de muitos Parlamentares os tirou desta Casa. Em 2020, teremos um novo compromisso com as urnas, tanto quanto em 2022. \r\nPrecisamos, portanto, do compromisso deste Parlamento. Ontem V.Exas. perceberam nosso compromisso com o recado que demos neste plen\u00e1rio.\r\nV. Exas. perceberam que o recado que n\u00f3s demos movimentou a Bolsa de Valores, baixou o d\u00f3lar, est\u00e1 vindo investimento para o Pa\u00eds. Vamos jogar fora tudo isso? N\u00f3s precisamos avan\u00e7ar. Cada brasileiro, principalmente os mais pobres, precisa do compromisso de V. Exas.\r\nPor isso, venho pedir aos L\u00edderes partid\u00e1rios, aos segmentos, que pensem: podemos entregar aos brasileiros um novo momento.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, DEFINI\u00c7\u00c3O, CRIME, ABUSO DE AUTORIDADE, CONTRARIO.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Penaliza\u00e7\u00e3o dos policiais brasileiros pelo Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 4\u00ba da proposi\u00e7\u00e3o, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, servidores, brasileiros e brasileiras que nos assistem neste momento, venho aqui lhes dar um testemunho.\r\nSem d\u00favida nenhuma, essa lei de abuso de autoridade traz avan\u00e7os. Sem d\u00favida nenhuma, ela traz avan\u00e7os. Eu concordo com isso. Mas ela tamb\u00e9m \u00e9 uma legisla\u00e7\u00e3o extremamente madrasta - extremamente madrasta! - do policial brasileiro.\r\nQuando colocamos numa mesma panela, no mesmo saco, o Executivo, o Legislativo e o Judici\u00e1rio, n\u00f3s estamos esquecendo que cada um tem um papel diferente. N\u00f3s temos que lembrar, Sras. e Srs. Parlamentares, brasileiras e brasileiros, que o policial brasileiro est\u00e1 na linha de frente.\r\nV.Exas. acham que, quando acaba um tiroteio ou acontece uma pris\u00e3o, o policial vai pensar em quem vai colocar a algema? V.Exas. acham que, no momento de uma investiga\u00e7\u00e3o na rua, em que o policial aborda um malandro e tem que tirar uma fotografia dele para compartilhar nos grupos dos policiais, ele deve ser penalizado por isso? O policial compartilhou a foto no grupo de policiais para saber se aquele mala \u00e9 reconhecido em alguma outra conduta, em algum outro crime, e vai ter que responder por abuso de autoridade.\r\nE h\u00e1 mais, meus amigos Deputados: a lei \u00e9 muito boa, mas ferra com os policiais, aqueles que defendem a fam\u00edlia de V.Exas. - os filhos, a m\u00e3e, o pai, o av\u00f4 -, aqueles que est\u00e3o na linha de frente. V.Exas. est\u00e3o penalizando os policiais brasileiros, aqueles que acordam de manh\u00e3 e n\u00e3o sabem se voltam para casa.\r\nEssa lei \u00e9 madrasta dos policiais brasileiros. Ela \u00e9 covarde! Ela \u00e9 covarde com os policiais brasileiros!\r\nQuero ver qual policial, a partir da san\u00e7\u00e3o dessa lei, vai sair e encarar as ruas quando V.Exas. ligarem para a pol\u00edcia, porque foram assaltados, porque um filho foi violentado. Qual policial vai sair e vai algemar malandro?\r\nEu vi um Deputado subir naquela tribuna mais cedo e dizer: \"Coitadinho do Cabral! Algemaram o Cabral!\" Cabral \u00e9 aquele que meteu a m\u00e3o no Rio de Janeiro.\r\nDigam-me uma coisa: V.Exas. acham que o Cabral, coitadinho, n\u00e3o precisava ser algemado? Ent\u00e3o, aqueles assassinos de uma jovem Vereadora do Rio de janeiro, aqueles assassinos, coitadinhos, tamb\u00e9m n\u00e3o precisavam ser algemados! \u00c9 isso que V.Exas. defendem? Mas que quest\u00e3o mais absurda!\r\nEnt\u00e3o, eu pe\u00e7o a reflex\u00e3o dos Srs. Parlamentares. Pensem bem! Se um policial civil, militar, rodovi\u00e1rio, guarda municipal praticar duas condutas pequenas, com pena de deten\u00e7\u00e3o de 2 anos, ele vai para a rua. \u00c9 isso o que V.Exas. querem? Com duas puni\u00e7\u00f5es, ele vai para a rua. \u00c9 isso o que V.Exas. defendem?\r\nPor isso, eu pe\u00e7o que votem \"n\u00e3o\", que votem pelos policiais brasileiros, porque, se votarem contra os policiais brasileiros, amanh\u00e3 n\u00e3o adianta ligarem para o 190. Eles n\u00e3o v\u00e3o, em duas latas, em duas broncas, sair para a rua.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=258&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "NOT\u00cdCIA FALSA (FAKE NEWS), COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), FAVOR\u00c1VEL.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, LEI, SUBSTITUTIVO, PL 11021/2019, PROJETO DE LEI ORDIN\u00c1RIA, SUPRESS\u00c3O, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso II do art. 16-C da Lei n\u00ba 9.504, de 1997, alterado pelo art. 2\u00ba do substitutivo apresentado ao Projeto de Lei n\u00ba 11.021, de 2018, sobre a remunera\u00e7\u00e3o recebida por funcion\u00e1rio de partido pol\u00edtico com recursos do fundo partid\u00e1rio, para fins de supress\u00e3o. Ataques proferidos por movimentos sociais contra o orador em decorr\u00eancia da manifesta\u00e7\u00e3o de posicionamento favor\u00e1vel ao projeto. Import\u00e2ncia dos trabalhos da CPMI das Fake News para coibi\u00e7\u00e3o dos excessos cometidos na Internet e nas redes sociais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria lembrar a este Parlamento que ontem, em raz\u00e3o da posi\u00e7\u00e3o deste L\u00edder favor\u00e1vel \u00e0 vota\u00e7\u00e3o deste projeto, fui duramente atacado nas redes sociais por movimentos como MBL, Vem Pra Rua e v\u00e1rios outros. Eles me atacaram pessoalmente, atacaram a minha honra. Por qu\u00ea? Por que desconhecem que este projeto traz mudan\u00e7as essenciais para a pol\u00edtica brasileira, ajuda a combater o caixa dois, a corrup\u00e7\u00e3o. Existem os covardes das redes sociais, Sr. Presidente, escondidos atr\u00e1s do teclado, que n\u00e3o entendem o que se passa nesta Casa.\r\nSr. Presidente, eu queria deixar aqui o meu testemunho a V.Exa. de que este L\u00edder do PSL n\u00e3o \u00e9 covarde, n\u00e3o \u00e9 bandido. Eu estou aqui defendendo o Brasil. Esta vota\u00e7\u00e3o n\u00e3o \u00e9 para colocar ningu\u00e9m em liberdade, n\u00e3o.\r\nSr. Presidente, n\u00f3s temos que avan\u00e7ar, sim, com essa CPI das fake news, para punir esses movimentos sociais que t\u00eam se passado por justiceiros. H\u00e1 neles, na verdade, covardes, bandidos, que est\u00e3o atr\u00e1s das redes sociais! Eles t\u00eam que aprender a respeitar homens como eu, como V.Exa. e como muitos outros Parlamentares que est\u00e3o aqui, onde ficamos at\u00e9 tarde da noite.\r\nDeixo aqui o meu recado.\r\nObrigado, Sr. Presidente, pela concess\u00e3o do tempo.\r\nO PSL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=135&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-03T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SUBSTITUTIVO, SENADO FEDERAL,  PL 510/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI MARIA DA PENHA, AUTORIZA\u00c7\u00c3O, REQUERIMENTO, V\u00cdTIMA, JUIZ DE DIREITO, JUIZADO DE VIOL\u00caNCIA DOM\u00c9STICA E FAMILIAR CONTRA A MULHER, DECRETA\u00c7\u00c3O, DIV\u00d3RCIO, ROMPIMENTO, UNI\u00c3O EST\u00c1VEL, VIOL\u00caNCIA DOM\u00c9STICA, VIOL\u00caNCIA CONTRA A MULHER, DEFESA.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Relev\u00e2ncia do Projeto de Lei n\u00ba 510-A, de 2019, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.340, de 2006, (Lei Maria da Penha), com vista \u00e0 atribui\u00e7\u00e3o aos Juizados de Viol\u00eancia Dom\u00e9stica e Familiar contra a Mulher da compet\u00eancia para julgamento de a\u00e7\u00f5es de div\u00f3rcio e de dissolu\u00e7\u00e3o de uni\u00e3o est\u00e1vel, a pedido da ofendida, bem como da Lei n\u00ba 13.105, de 2015 (C\u00f3digo de Processo Civil).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Eu queria parabenizar o Deputado Luiz Lima e a Deputada Erika Kokay.\r\nMuito obrigado, Deputada Erika, pela relatoria. Muito obrigado. Foi brilhante este trabalho seu e do Deputado Luiz Lima.\r\nEu, que fui delegado nas periferias, sei da grande viol\u00eancia que as mulheres sofrem principalmente l\u00e1, tendo que continuar a conviver com o homem ou ent\u00e3o enfrentar um processo de div\u00f3rcio demorado, que tinha \u00f4nus, e a mulher n\u00e3o tem dinheiro. No momento da viol\u00eancia, ela n\u00e3o tem dinheiro, n\u00e3o tem rumo, n\u00e3o tem nada e precisa da ajuda do poder p\u00fablico.\r\nEsse seu projeto \u00e9 maravilhoso, \u00e9 diferenciado e, com certeza, Maria da Penha deve estar muito orgulhosa de V.Exa. l\u00e1 em Pernambuco. Todas as mulheres do Rio de Janeiro, todas as mulheres do Brasil est\u00e3o muito orgulhosas do seu projeto, que \u00e9 a nossa cara, a cara da mudan\u00e7a neste novo Brasil.\r\nParab\u00e9ns, Luiz!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F10%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1645/2019, PROJETO DE LEI ORDIN\u00c1RIA, REFORMA PREVIDENCI\u00c1RIA (2019), MILITAR, REESTRUTURA\u00c7\u00c3O, CARREIRA DOS MILITARES, FOR\u00c7AS ARMADAS, SOLDO, PATENTE MILITAR.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Desigualdade entre os soldos de oficiais e pra\u00e7as no processo de reforma previdenci\u00e1ria  dos militares, preconizada no texto do Projeto de Lei n\u00ba 1.645, de 2019, do Poder Executivo, sobre altera\u00e7\u00e3o das Leis de n\u00bas 6.880, de 1980, acerca do Estatuto dos Militares; 3.765, de 1960, relativa \u00e0s pens\u00f5es militares; 4.375, de 1964, referente ao servi\u00e7o militar; 5.821, de 1972, sobre as promo\u00e7\u00f5es dos Oficiais da ativa das For\u00e7as Armadas brasileiras, e 12.705, de 2012, concernente aos requisitos para ingresso nos cursos de forma\u00e7\u00e3o de militares de carreira do Ex\u00e9rcito brasileiro (reforma previdenci\u00e1ria dos militares das For\u00e7as Armadas brasileiras).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Brasileiras e brasileiros, \u00e9 uma pena que eu tenha que vir a plen\u00e1rio neste momento para dizer que o Presidente da Rep\u00fablica, Jair Bolsonaro, afasta-se das suas bases. Ele se afasta, Sr. Presidente, Deputado Rodrigo Maia, dos soldados, cabos e sargentos. S\u00e3o mais de 350 mil pra\u00e7as.\r\nNessa reestrutura\u00e7\u00e3o, apenas generais s\u00e3o beneficiados. Eu quero ver quais oficiais, a partir de amanh\u00e3, v\u00e3o entrar nos quart\u00e9is da Marinha e da Aeron\u00e1utica, nas suas bases, para pedir voto.\r\nV\u00e3o deixar filhos de soldados, cabos e sargentos passando fome. Est\u00e3o tirando o p\u00e3o da boca dessas crian\u00e7as. \u00c9 uma covardia o que est\u00e1 sendo feito hoje aqui neste plen\u00e1rio. Essa reestrutura\u00e7\u00e3o n\u00e3o vai beneficiar todos. A reforma da previd\u00eancia dos militares deveria ter sido trazida para c\u00e1 para dar igualdade, mas est\u00e1 criando uma classe favorecida e outra desfavorecida.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-06T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOSPITAL DE CAMPANHA, \u00c1GUAS LINDAS DE GOI\u00c1S (GO), PANDEMIA, CORONAV\u00cdRUS, DADOS, FALECIMENTO, CR\u00cdTICA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNADOR, GOI\u00c1S, OBRA P\u00daBLICA INACABADA, SANTO ANT\u00d4NIO DO DESCOBERTO (GO).",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Apelo ao Presidente da Rep\u00fablica e ao Governador do Estado de Goi\u00e1s, por imediata conclus\u00e3o do hospital de campanha destinado ao tratamento dos portadores de coronav\u00edrus, no Munic\u00edpio de \u00c1guas Lindas de Goi\u00e1s.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, V.Exa. me concede a palavra por 1 minutinho?\r\nCaro Presidente, acabei de chegar de \u00c1guas Lindas de Goi\u00e1s, cidade do Entorno de Bras\u00edlia. \u00c9 uma das cidades mais carentes do Pa\u00eds e, cerca de 30 dias atr\u00e1s, o Governador de Goi\u00e1s e o Presidente da Rep\u00fablica foram at\u00e9 l\u00e1 para levantar um hospital de campanha, neste momento de grande crise.\r\nPresidente, goianos, brasileiros, na verdade isso se trata de um grande estelionato. S\u00e3o 10 milh\u00f5es investidos! Cheguei l\u00e1, n\u00e3o tem \u00e1gua, n\u00e3o tem luz, n\u00e3o tem energia, \u00e9 um grande barrac\u00e3o armado, sem nenhum equipamento, sem nenhum respirador, sem fazer nenhum atendimento.\r\nOntem, n\u00f3s tivemos cerca de 600 mortes no Pa\u00eds, mais as acumuladas dos outros dias.\r\nEnt\u00e3o, realmente, \u00e9 uma vergonha!\r\nSr. Presidente, saia do casulo! Saia do casulo e v\u00e1 ver as pessoas no cemit\u00e9rio, v\u00e1 visitar as fam\u00edlias!\r\nSr. Presidente, pare de fazer circo e trabalhe! N\u00e3o fique apenas na Esplanada, n\u00e3o! Est\u00e1 na hora de V.Exa. visitar as fam\u00edlias das pessoas que est\u00e3o morrendo ou de ir aos cemit\u00e9rios. Fa\u00e7a como n\u00f3s Deputados.\r\nV.Exa., Sr. Presidente, desafiou os Deputados a irem \u00e0s ruas, pois bem, eu desafio o senhor agora a ir a um cemit\u00e9rio comigo ou a visitar as fam\u00edlias.\r\nEu desafio V.Exa. a ir ao hospital inacabado de \u00c1guas Lindas ou de Santo Ant\u00f4nio do Descoberto. \r\nEu desafio o senhor a andar pelas ruas para visitar as fam\u00edlias, Sr. Presidente.\r\nAceita meu desafio, Sr. Presidente?\r\nQue nojeira! N\u00f3s t\u00ednhamos em \u00c1guas Lindas, Presidente, um hospital que est\u00e1 inacabado h\u00e1 20 anos, e agora investiram 10 milh\u00f5es em um circo. Que vergonha!\r\nEu estava apenas querendo passar o meu recado e fazer essa cobran\u00e7a do Governador de Goi\u00e1s e do Presidente da Rep\u00fablica, porque ambos foram, juntos, inaugurar um hospital de campanha que ficaria pronto em 15 dias.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.\r\nGOVERNADOR, GOI\u00c1S, APREENS\u00c3O, VE\u00cdCULO, FISCALIZA\u00c7\u00c3O, IMPOSTO SOBRE A PROPRIEDADE DE VE\u00cdCULOS AUTOMOTORES (IPVA), ILEGALIDADE, C\u00d3DIGO DE TR\u00c2NSITO BRASILEIRO.",
+        "nomeDeputado": "Delegado Waldir",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 50, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DELEGADO WALDIR (PSL - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a V.Exa., ent\u00e3o, que some o tempo de orienta\u00e7\u00e3o.\r\nNeste primeiro momento, Sr. Presidente, quero cumpriment\u00e1-lo e dialogar com os Srs. L\u00edderes partid\u00e1rios, com os Srs. Parlamentares e com o cidad\u00e3o brasileiro. \r\nQuero pedir n\u00e3o apenas a valoriza\u00e7\u00e3o do relat\u00f3rio - muito bem feito - dessa mudan\u00e7a legislativa que estamos fazendo, mas, principalmente, a valoriza\u00e7\u00e3o do povo brasileiro.\r\nEu gostaria de fazer uma pergunta: qual Deputado Federal, qual cidad\u00e3o n\u00e3o ouviu falar em seu Estado da blitz do IPVA?\r\nO que \u00e9 essa blitz do IPVA? S\u00e3o a\u00e7\u00f5es de Governadores de Estados, inclusive do meu Estado de Goi\u00e1s, que rasgam a Constitui\u00e7\u00e3o Federal, embasados no art. 131 do C\u00f3digo de Tr\u00e2nsito Brasileiro, e utilizam a Pol\u00edcia Rodovi\u00e1ria Federal, o Governo Federal e as Pol\u00edcias Estaduais, as PMs, para, com a for\u00e7a do Estado, fazer apreens\u00e3o de ve\u00edculos. \r\nSr. Presidente, brasileiros e brasileiras, essa apreens\u00e3o de ve\u00edculos \u00e9 ilegal; ela fere o direito de propriedade. Tanto isso \u00e9 tranquilo, que existem centenas de a\u00e7\u00f5es judiciais, hoje, tentando impedir que se prorrogue essa conduta que coage o cidad\u00e3o, privando-o.\r\n\u00c9 uma conduta abusiva, \u00e9 uma conduta arbitr\u00e1ria, \u00e9 uma conduta inconstitucional. \u00c9 ilegal, Sr. Presidente. \u00c9 um estelionato jur\u00eddico que n\u00f3s temos permitido, e eu espero que esta Casa nos ajude a consertar isso.\r\nPor que ela \u00e9 inconstitucional? Porque ela fere o direito de locomo\u00e7\u00e3o. Ela fere o princ\u00edpio do devido processo legal, segundo o qual ningu\u00e9m ser\u00e1 privado de seus bens; o princ\u00edpio do contradit\u00f3rio e da ampla defesa e o princ\u00edpio do duplo grau de jurisdi\u00e7\u00e3o. E pro\u00edbe tamb\u00e9m a Constitui\u00e7\u00e3o o confisco. E \u00e9 isto o que os Estados, ou alguns Governadores, t\u00eam feito. \r\nN\u00f3s sabemos que o valor do licenciamento \u00e9 irris\u00f3rio e que qualquer cidad\u00e3o teria condi\u00e7\u00f5es de pag\u00e1-lo. N\u00f3s sabemos que o valor do IPVA \u00e9 alto e que existem, sim, para a cobran\u00e7a do IPVA, a Procuradoria-Geral de cada Estado e os respectivos auditores fiscais. \r\nE \u00e9 poss\u00edvel - o C\u00f3digo Tribut\u00e1rio prev\u00ea isso - a inscri\u00e7\u00e3o na D\u00edvida Ativa e na Serasa e tamb\u00e9m fazer a execu\u00e7\u00e3o fiscal.\r\nMas a pol\u00edcia \u00e9 utilizada como um modelo antigo, um modelo de pau de arara. Antigamente, a pol\u00edcia usava como meio de condu\u00e7\u00e3o o pau de arara. Hoje, os Estados utilizam o Fisco para apreender ve\u00edculos. Isso \u00e9 uma vergonha, porque apreendem o ve\u00edculo, obrigam o pagamento de todos os d\u00e9bitos, cobram di\u00e1rias no p\u00e1tio, e o cidad\u00e3o n\u00e3o consegue pagar.\r\nPrecisamos retornar \u00e0 legalidade, Sr. Presidente! Por isso, eu oriento \"sim\" a este destaque e \"n\u00e3o\" ao texto. Sr. Presidente, precisamos corrigir essa inconstitucionalidade, essa ilegalidade, e esta Casa tem esse papel. \r\nMuito obrigado, Sr. Presidente.\r\nConto com o voto de todos os Parlamentares para consertamos esse absurdo jur\u00eddico.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

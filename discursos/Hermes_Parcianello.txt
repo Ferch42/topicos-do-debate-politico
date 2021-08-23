@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "HOST\u00cdLIO LUSTOSA, EX-VICE-PREFEITO, CASCAVEL (PR), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Hermes Parcianello",
+        "sumario": "Falecimento do l\u00edder pol\u00edtico Host\u00edlio Lustosa, do Munic\u00edpio de Cascavel, Estado do Paran\u00e1.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO HERMES PARCIANELLO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, registramos hoje, 22 de maio, com profundo pesar, o falecimento de Host\u00edlio Lustosa.\r\nHost\u00edlio foi uma das mais destacadas lideran\u00e7as pol\u00edticas da hist\u00f3ria de Cascavel, no Paran\u00e1. Foi Vice-Prefeito e Vereador, contempor\u00e2neo deste Parlamentar na C\u00e2mara de Vereadores daquela cidade. Ele deixa um grande legado de dignidade e trabalho.\r\nDeixo aqui minhas condol\u00eancias a todos os seus familiares, unindo-me \u00e0 dor que lhes oprime e ao desconforto que lhes abate, mas conscientes de que, ao nos despedirmos do Host\u00edlio, destacamos seu exemplo de lealdade, simpatia e simplicidade, dentre tantos outros predicados que nosso bom amigo Hostilinho armazenava em sua biografia e em seu comportamento.\r\nCom certeza, Deus j\u00e1 recebeu o Host\u00edlio e o colocou na Tribuna de Honra dos idealistas e dos benfeitores da humanidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=231&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

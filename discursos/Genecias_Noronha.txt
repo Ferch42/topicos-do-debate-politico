@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Genecias Noronha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo da admissibilidade dos destaques simples oferecidos ao Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. GENECIAS NORONHA (SOLIDARIEDADE - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade vota \"sim\" \u00e0 regulamenta\u00e7\u00e3o dos esportes equestres em todo o Brasil, para dar seguran\u00e7a aos defensores e amantes desses esportes e assegurar os milhares de empregos em todo o Pa\u00eds, j\u00e1 que vivemos uma grande crise econ\u00f4mica. Isso vai dar tranquilidade e seguran\u00e7a para quem trabalha nos esportes equestres, na vaquejada em todo o Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=291&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

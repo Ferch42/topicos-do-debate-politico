@@ -1,0 +1,128 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 534/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 534, de 2021, sobre a permiss\u00e3o aos Estados e  Munic\u00edpios, bem como \u00e0 iniciativa privada, de aquisi\u00e7\u00e3o de vacinas contra a Covid-19 com registro ou autoriza\u00e7\u00e3o tempor\u00e1ria de uso no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha \"sim\", pela aprova\u00e7\u00e3o do requerimento de urg\u00eancia, entendendo que \u00e9 obriga\u00e7\u00e3o do Congresso Nacional concentrar seus esfor\u00e7os para acelerar o Plano Nacional da Imuniza\u00e7\u00e3o.\r\nO PSDB orienta \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=44&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 4554/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 4.554, de 2020, sobre a altera\u00e7\u00e3o do C\u00f3digo Penal, para agravamento dos crimes de viola\u00e7\u00e3o de dispositivo inform\u00e1tico, furto e estelionato cometidos de forma eletr\u00f4nica ou pela internet; bem como a altera\u00e7\u00e3o do C\u00f3digo de Processo Penal, com vista \u00e0 previs\u00e3o da compet\u00eancia dos crimes cometidos pela Internet ou de forma eletr\u00f4nica pelo lugar de domic\u00edlio ou resid\u00eancia da v\u00edtima.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha o voto \"sim\", entendendo, como V.Exa. bem colocou, que esse tipo de crime, esse tipo de golpe cresceu muito nos tempos de pandemia.\r\nPor isso, h\u00e1 a necessidade da aprova\u00e7\u00e3o deste requerimento de urg\u00eancia. Ent\u00e3o, o PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AUMENTO, PACIENTE CONTAMINADO, PANDEMIA, CORONAVIRUS, MORTALIDADE, PROGRAMA NACIONAL DE IMUNIZA\u00c7\u00d5ES (PNI).\r\nMPV 1026/2021, MEDIDA PROVISORIA, DIRETRIZES, PLANO NACIONAL DE OPERACIONALIZA\u00c7\u00c3O DA VACINA\u00c7\u00c3O CONTRA A COVID-19, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Registro de 1.910 mortes no Pa\u00eds nas \u00faltimas 24 horas em decorr\u00eancia da Covid-19. Acelera\u00e7\u00e3o do Plano Nacional de Imuniza\u00e7\u00f5es. Aprova\u00e7\u00e3o pela Casa de medida provis\u00f3ria e projeto de lei destinados \u00e0 aquisi\u00e7\u00e3o de vacinas contra o coronav\u00edrus. Imediata retomada do pagamento do aux\u00edlio emergencial a trabalhadores e fam\u00edlias carentes, para enfrentamento da crise gerada pelo coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, neste momento em que o Brasil enfrenta certamente o momento mais grave da pandemia, n\u00f3s atingimos 1.910 mortes nas \u00faltimas 24 horas. \u00c9 fundamental, portanto, que este Congresso Nacional se debruce e se dedique \u00e0 acelera\u00e7\u00e3o do Plano Nacional de Imuniza\u00e7\u00f5es. N\u00e3o h\u00e1 outra forma de passarmos por esta pandemia que n\u00e3o seja pela ampla vacina\u00e7\u00e3o da nossa popula\u00e7\u00e3o. \r\nN\u00f3s avan\u00e7amos muito nesta semana com a aprova\u00e7\u00e3o da medida provis\u00f3ria que garantiu mais 2,5 bilh\u00f5es de reais para o Minist\u00e9rio da Sa\u00fade adquirir vacinas. N\u00f3s avan\u00e7amos com a aprova\u00e7\u00e3o do projeto de lei que autoriza Estados e Munic\u00edpios a comprarem diretamente as vacinas para sua popula\u00e7\u00e3o. Este \u00e9 o caminho.\r\nFica o apelo deste Parlamentar \u00e0 Mesa Diretora e ao Governo Federal, no sentido de que tratemos, o quanto antes, do projeto de lei ou da medida provis\u00f3ria que venha a trazer de volta o aux\u00edlio emergencial. Desde dezembro, as fam\u00edlias brasileiras est\u00e3o sem nenhum tipo de aux\u00edlio do Governo Federal. A pandemia continua, ela n\u00e3o foi embora. Mais de 14% dos brasileiros est\u00e3o sem nenhuma fonte de renda, sem emprego, portanto eles precisam do aux\u00edlio emergencial para ter alguma chance de sobreviver neste momento.\r\nMais uma vez, apelo para que o Congresso Nacional se dedique a este tema e o trate como prioridade absoluta.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-04T11:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PANDEMIA, CORONAVIRUS, ALAGOAS, LOCKDOWN, CONTRARIO, RETOMADA AUXILIO EMERGENCIAL, DEFESA.",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Apelo ao Governador do Estado de Alagoas, Renan Calheiros Filho, por n\u00e3o inclus\u00e3o do lockdown  entre as medidas de combate \u00e0 dissemina\u00e7\u00e3o da Covid-19. Necessidade de retomada do pagamento do aux\u00edlio pecuni\u00e1rio emergencial.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Sem revis\u00e3o do orador.) - Muito obrigado.\r\nSr. Presidente, neste momento em que o Governo do Estado de Alagoas est\u00e1 prestes a decretar uma nova s\u00e9rie de medidas relacionadas \u00e0 COVID-19 - e eu reconhe\u00e7o a gravidade deste momento, em que a pandemia atinge, talvez, o seu ponto mais grave no Brasil -, eu fa\u00e7o um apelo ao Governador Renan Filho para que, neste novo decreto, n\u00e3o se estabele\u00e7a o lockdown.\r\nSinceramente, Sr. Presidente, eu acho que o lockdown n\u00e3o \u00e9 o caminho para que enfrentemos a pandemia. N\u00f3s estamos falando, no Estado de Alagoas, de mais de 850 estabelecimentos comerciais que j\u00e1 foram fechados, gerando milhares de desempregados, pessoas que perderam a sua fonte de renda.\r\nEu acredito que o dever do Estado \u00e9 fiscalizar. Que o Governador possa dobrar, triplicar a fiscaliza\u00e7\u00e3o, para punir, sim, quem n\u00e3o respeita as regras, quem n\u00e3o cumpre com os hor\u00e1rios, a capacidade m\u00e1xima e o distanciamento estabelecidos, mas que ele possa tamb\u00e9m valorizar e respeitar quem trabalha seguindo rigorosamente as regras sanit\u00e1rias. \u00c9 dever do Governo, \u00e9 dever do Estado respeitar quem precisa trabalhar, Sr. Presidente.\r\nPor isso, pe\u00e7o que, nessas novas medidas, nesse novo decreto, n\u00e3o se decida pelo lockdown, e, sim, haja respeito \u00e0s pessoas que j\u00e1 est\u00e3o h\u00e1 mais de 1 ano enfrentando uma s\u00e9rie de dificuldades relacionadas ao seu emprego, ao seu com\u00e9rcio. Estamos diante de uma situa\u00e7\u00e3o em que, desde dezembro, j\u00e1 n\u00e3o h\u00e1 qualquer tipo de aux\u00edlio do Governo Federal para aqueles que mais precisam - inclusive, eu tratei desse assunto nesta semana aqui neste plen\u00e1rio, fazendo apelo para que o Congresso Nacional, o quanto antes, possa se debru\u00e7ar sobre um projeto de lei ou uma medida provis\u00f3ria que traga de volta o aux\u00edlio emergencial.\r\nO Governo do Estado pode ter certeza de que a bancada federal, eu em particular, estar\u00e1 absolutamente empenhada em agir no sentido da \u00fanica sa\u00edda para a pandemia, que \u00e9 a ampla vacina\u00e7\u00e3o da nossa popula\u00e7\u00e3o, Sr. Presidente.\r\nNesta semana, aprovamos duas importantes medidas para agilizar o processo de vacina\u00e7\u00e3o, garantindo mais recursos para a aquisi\u00e7\u00e3o de vacinas e garantindo que Estados e Munic\u00edpios possam adquirir diretamente as vacinas para a sua popula\u00e7\u00e3o.\r\nEstive no Minist\u00e9rio da Sa\u00fade cobrando agilidade no envio de vacinas para Alagoas, cobrando refor\u00e7o na nossa estrutura hospitalar, com o envio de respiradores. E eu sei que esse \u00e9 um pleito tamb\u00e9m do Governo do Estado.\r\nEnt\u00e3o, tem que haver esfor\u00e7o conjunto no sentido de vacinar a popula\u00e7\u00e3o, mas sem decreta\u00e7\u00e3o de qualquer lockdown. Temos que deixar trabalhar quem precisa trabalhar e quem trabalha cumprindo as regras.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-01T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELEITOR, REGI\u00c3O NORDESTE, ELEI\u00c7\u00d5ES, CONTESTA\u00c7\u00c3O, PRONUNCIAMENTO, OTONI DE PAULA, DEPUTADO FEDERAL. \r\nAUX\u00cdLIO-MUDAN\u00c7A, ENTIDADE, DEFESA DOS DIREITOS ANIMAIS, DESTINA\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIO, PEDRO VILELA, DEPUTADO FEDERAL. \r\nPEDRO VILELA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, BALAN\u00c7O.",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Contesta\u00e7\u00e3o ao discurso do Deputado Otoni de Paula, no tocante \u00e0 escolha de candidatos a cargos eletivos pelo eleitorado nordestino. Destina\u00e7\u00e3o, pelo orador, do aux\u00edlio-mudan\u00e7a para entidades de amparo aos animais.  Balan\u00e7o dos 6 meses da retomada do mandato parlamentar pelo orador.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Como L\u00edder. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente, pela oportunidade de usar esta tribuna.\r\nN\u00e3o estava prevista a fala que farei inicialmente, mas eu n\u00e3o vou deixar de faz\u00ea-la. Eu quero repudiar a fala que o Deputado Otoni de Paula fez h\u00e1 pouco, dizendo que o povo do Nordeste elege canalhas. Eu acho que o povo do Nordeste, em sua grande maioria, sabe muito bem escolher os seus representantes. E h\u00e1 muitos Parlamentares do Nordeste que cumprem um bom papel, um bom trabalho aqui nesta Casa. Um deles est\u00e1 aqui na minha frente, o Deputado Felipe Carreras, por exemplo, que muito bem representa o Estado de Pernambuco.\r\nA m\u00e9dia de quem \u00e9 eleito pelo Nordeste - e \u00e9 claro que h\u00e1 bons e maus Parlamentares, dependendo do ponto de vista de cada um - podem ter certeza de que n\u00e3o \u00e9 diferente da m\u00e9dia do Brasil. Ent\u00e3o, n\u00e3o faz sentido colocar como um fato que o nordestino elege maus Parlamentares ou maus-caracteres, como ele colocou.\r\nSr. Presidente, voltando \u00e0 tem\u00e1tica original da minha fala, eu quero aqui fazer um balan\u00e7o desses 6 meses do meu retorno \u00e0 C\u00e2mara dos Deputados. Eu reassumi o mandato de Deputado Federal no dia 1\u00ba de janeiro, num momento muito dif\u00edcil, num momento em que enfrentamos uma pandemia. Gra\u00e7as a Deus, eu tenho levado essa tarefa com muito entusiasmo e muita motiva\u00e7\u00e3o.\r\nCome\u00e7ou l\u00e1 atr\u00e1s, por exemplo, quando recebi o famigerado aux\u00edlio-mudan\u00e7a, que na minha opini\u00e3o n\u00e3o deveria mais existir, e n\u00e3o fiz uso desse recurso. Destinei o valor de 24 mil reais para uma causa mais nobre, que era justamente a da defesa dos animais, a causa animal. Foram beneficiadas com esse recurso de 24 mil reais 16 entidades, que prestaram contas de forma absolutamente transparente dos valores recebidos. Inclusive, eu tenho mantido intera\u00e7\u00e3o constante com essas entidades desde ent\u00e3o. E n\u00e3o fiz s\u00f3 isso nessa seara, Sr. Presidente. Tamb\u00e9m apresentei projetos de lei em benef\u00edcio e para a defesa dos animais, com garantia de recursos para essa causa, como, por exemplo, para a compra de Castram\u00f3veis para Alagoas. Ent\u00e3o, essa \u00e9 uma bandeira muito importante do nosso mandato, que ter\u00e1 sempre o meu acompanhamento.\r\nAl\u00e9m disso, j\u00e1 s\u00e3o 46 proposi\u00e7\u00f5es legislativas apresentadas desde o meu retorno \u00e0 C\u00e2mara dos Deputados. Eu sou membro da Comiss\u00e3o de Educa\u00e7\u00e3o, da Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica, da Comiss\u00e3o de Defesa do Consumidor e da Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e Defesa Nacional. Em todas elas, eu tenho buscado atuar de forma bastante presente - e s\u00e3o quatro as Comiss\u00f5es Permanentes das quais sou membro. Tenho trabalhado bastante. Inclusive, V.Exa., Presidente, \u00e9 meu colega na Comiss\u00e3o de Educa\u00e7\u00e3o, com muita honra.\r\nEnt\u00e3o, como eu dizia, j\u00e1 s\u00e3o 46 proposi\u00e7\u00f5es legislativas apresentadas. Por exemplo, o Projeto de Lei n\u00ba 1.967, de 2021, que tratou da isen\u00e7\u00e3o de taxa para inscri\u00e7\u00e3o no ENEM. Todos n\u00f3s sabemos as dificuldades que os alunos tiveram este ano, devido \u00e0 pandemia, para realizar o ENEM. Ent\u00e3o, tratamos disso no PL 1.967. Outro exemplo \u00e9 o Projeto de Lei n\u00ba 680, de 2021, que tratou da prorroga\u00e7\u00e3o da Lei Aldir Blanc, que foi fundamental para garantir um aux\u00edlio, um recurso para toda a classe art\u00edstica do Brasil.\r\nTrabalhei ativamente pela derrubada do Veto 48, aqui no Congresso Nacional, o que permitiu que n\u00f3s pud\u00e9ssemos avan\u00e7ar na quest\u00e3o de justi\u00e7a nos precat\u00f3rios do FUNDEF para os professores, em especial da minha Alagoas. Tenho conversado bastante com os professores do meu Estado. Essa quest\u00e3o relativa aos precat\u00f3rios \u00e9 uma quest\u00e3o de justi\u00e7a, mas nem todos os professores conseguiram assegurar esse direito. Ent\u00e3o, n\u00f3s n\u00e3o vamos descansar enquanto esse direito n\u00e3o estiver assegurado para todos os professores.\r\nEm rela\u00e7\u00e3o \u00e0s emendas parlamentares, Sr. Presidente, gra\u00e7as a Deus, ao trabalho da minha equipe e ao nosso empenho, consegui nesse pouco tempo garantir recursos e a\u00e7\u00f5es para os 102 dois Munic\u00edpios de Alagoas. Cada Munic\u00edpio do meu Estado, da Capital e Regi\u00e3o Metropolitana at\u00e9 todo o Litoral, a Zona da Mata, o Agreste, o Sert\u00e3o, enfim, todos eles ter\u00e3o, em breve, uma a\u00e7\u00e3o garantida pelo mandato do Deputado Pedro Vilela em \u00e1reas como sa\u00fade, educa\u00e7\u00e3o, conectividade, agricultura familiar, esporte, etc. E n\u00e3o s\u00f3 os 102 Munic\u00edpios estar\u00e3o devidamente beneficiados pelo nosso trabalho. Institui\u00e7\u00f5es s\u00e9rias tamb\u00e9m ser\u00e3o beneficiadas, como, por exemplo, o Ex\u00e9rcito. N\u00e3o \u00e9 de hoje que eu fa\u00e7o quest\u00e3o de alocar emendas parlamentares para o Ex\u00e9rcito, em especial o batalh\u00e3o que se localiza em Macei\u00f3, Alagoas, e dessa vez n\u00e3o foi diferente. Tamb\u00e9m h\u00e1 uma emenda nossa com essa destina\u00e7\u00e3o. E destinei recursos tamb\u00e9m a entidades sociais e ao Instituto Federal de Alagoas, privilegiando o investimento na educa\u00e7\u00e3o. Enfim, s\u00e3o a\u00e7\u00f5es transparentes, eficazes, atrav\u00e9s de emendas parlamentares que v\u00e3o beneficiar milhares, milh\u00f5es de alagoanos.\r\nAl\u00e9m disso, Sr. Presidente, eu fa\u00e7o quest\u00e3o de ter muita parcim\u00f4nia no uso da verba de gabinete. J\u00e1 s\u00e3o mais de 60% de economia feita no uso da verba de gabinete. Tenho muito crit\u00e9rio no uso desse recurso. Esse crit\u00e9rio \u00e9 algo que devemos \u00e0 sociedade e deve ser estimulado cada vez mais.\r\nTemos muito ainda a enfrentar. Falei aqui um pouquinho desses 6 meses que se passaram. Agora, quero falar um pouquinho do que nos espera \u00e0 frente.\r\nN\u00f3s continuamos num momento dif\u00edcil, enfrentando uma crise. Gra\u00e7as a Deus, ela est\u00e1 mais perto do fim do que do seu in\u00edcio. A minha expectativa \u00e9 de que at\u00e9 o final do ano todos os adultos pelo menos estejam vacinados. E vou trabalhar muito neste Congresso Nacional para que possamos dar condi\u00e7\u00e3o de trabalho, de estudo, de vida para o povo brasileiro.\r\nEu sou um defensor da tese de que o Estado tem que ser do tamanho certo. O Estado tem que dar condi\u00e7\u00e3o ao brasileiro para trabalhar e estudar e tem tamb\u00e9m que estender a m\u00e3o \u00e0quele necessitado no momento de dificuldade. N\u00e3o pode ser um Estado m\u00ednimo, nem pode ser um Estado perdul\u00e1rio. \u00c9 essa l\u00f3gica que eu vou defender aqui no Congresso Nacional, e eu tenho certeza de que muitos pensam como eu penso.\r\nA pandemia n\u00e3o pode ser minimizada, como alguns fazem, nem pode ser usada para fazer a pol\u00edtica do \"quanto pior, melhor\", como outros tantos fazem. N\u00f3s temos que ter no\u00e7\u00e3o da gravidade da situa\u00e7\u00e3o e enfrent\u00e1-la com a seriedade que o momento exige. E n\u00e3o \u00e9 fazendo pol\u00edtica em cima dela, n\u00e3o \u00e9 minimizando a pandemia, \u00e9 trabalhando, aprovando projetos de lei, medidas legislativas como a do aux\u00edlio emergencial, medidas que efetivamente garantam condi\u00e7\u00e3o de vida, condi\u00e7\u00e3o de sobreviv\u00eancia para cada brasileiro.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T12:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PDL 292/2021, PROJETO DE DECRETO LEGISLATIVO, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\nSOLO, AFUNDAMENTO, BRASKEM, PETROQU\u00cdMICA, CONTRA, PINHEIRO, MUTANGE, BEBEDOURO, BOM PARTO, BAIRRO, MACEI\u00d3 (AL), MANIFESTA\u00c7\u00c3O P\u00daBLICA.\r\nANIMAL ABANDONADO, ALAGOAS, SERVI\u00c7O VOLUNT\u00c1RIO.",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 292, de 2021, para susta\u00e7\u00e3o dos efeitos do art. 38 da Portaria GM/SM n\u00ba 1.263, de 2021, ressalvados os destaques. Manifesta\u00e7\u00e3o dos moradores dos Bairros Pinheiro, Mutange, Bebedouro e Bom Parto, atingidos pelo afundamento do solo em decorr\u00eancia das atividades da empresa petroqu\u00edmica Braskem, em Macei\u00f3, Estado de Alagoas.  Apoio ao Projeto SOS Pet Pinheiro, destinado ao recolhimento de animais abandonados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB orienta \"sim\" a esta mat\u00e9ria. \u00c9 importante a sua aprova\u00e7\u00e3o, para que possamos fortalecer o combate \u00e0 pandemia.\r\nAproveito este momento para falar um pouco de um assunto muito importante para Macei\u00f3 e para Alagoas: o afundamento de solo que atinge parte da nossa cidade. Estou falando dos Bairros Pinheiro, Mutange, Bebedouro e Bom Parto.\r\nA popula\u00e7\u00e3o que mora nesses bairros fez uma importante manifesta\u00e7\u00e3o no dia de ontem. \u00c9 importante que o Minist\u00e9rio P\u00fablico esteja muito atento a essa situa\u00e7\u00e3o.\r\nTamb\u00e9m \u00e9 importante que a BRASKEM, que \u00e9 a empresa implicada nesse problema, possa ter uma postura mais efetiva no sentido de encontrar uma solu\u00e7\u00e3o que atenda esses milhares de moradores, essas milhares de fam\u00edlias afetadas por esse grave problema do afundamento do Bairro Pinheiro e dos bairros vizinhos. Esse alerta \u00e9 fundamental.\r\nSr. Presidente, h\u00e1 um projeto volunt\u00e1rio chamado SOS Pet Pinheiro, que eu tive a oportunidade de ajudar. Esse projeto recolhe animais abandonados na regi\u00e3o. Eles n\u00e3o conseguiram avan\u00e7ar numa parceria mais firme, num apoio mais concreto com a BRASKEM.\r\nEnt\u00e3o, \u00e9 importante que os \u00f3rg\u00e3os p\u00fablicos de Alagoas e este Congresso Nacional estejam muito atentos a esse problema, cuja solu\u00e7\u00e3o est\u00e1 longe de ser encontrada.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T13:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 2112/2021, PROJETO DE LEI ORDINARIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Vilela",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.112, de 2021,sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.124, de 2021, com vista \u00e0 inclus\u00e3o, em grupo priorit\u00e1rio de vacina\u00e7\u00e3o da Covid-19, de gestantes, pu\u00e9rperas e lactantes, bem como de crian\u00e7as e adolescentes com defici\u00eancia permanente, comorbidades ou privados de liberdade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO VILELA (PSDB - AL. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o partido orienta \"sim\", favoravelmente ao projeto.\r\nQuero cumprimentar a Relatora, a Deputada Luisa Canziani, pelo brilhante trabalho e pela sensibilidade de fazer um projeto que atende \u00e0s gestantes, \u00e0s pu\u00e9rperas e \u00e0s lactantes, assim como \u00e0s crian\u00e7as e aos adolescentes com defici\u00eancia permanente ou comorbidades.\r\nEsse \u00e9 um tema muito importante para a bancada do nosso partido. O Deputado Eduardo Barbosa, por exemplo, acompanha isso muito de perto, assim como o Deputado Rafaf\u00e1, da Para\u00edba, que tamb\u00e9m fez quest\u00e3o de estar presente no plen\u00e1rio comigo acompanhando esta importante vota\u00e7\u00e3o.\r\nCom muita alegria, n\u00f3s encaminhamos o voto \"sim\" ao projeto.\r\nDeputada Luisa, esta \u00e9 uma pauta importante para um grupo muito organizado de Alagoas, o Lactantes pela Vacina. Parab\u00e9ns pelo relat\u00f3rio!\r\nO PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

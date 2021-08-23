@@ -1,0 +1,992 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO DA REP\u00daBLICA (PR), FERNANDO RODOLFO, GELSON AZEVEDO, J\u00daNIOR MANO, AB\u00cdLIO SANTANA, RAIMUNDO COSTA, DEPUTADO FEDERAL, FILIA\u00c7\u00c3O PARTID\u00c1RIA.\r\nREFORMA PREVIDENCI\u00c1RIA, DEFESA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Filia\u00e7\u00e3o dos Deputados Fernando Rodolfo, Gelson Azevedo, J\u00fanior Mano, Ab\u00edlio Santana e Raimundo Costa aos quadros do PR. Import\u00e2ncia de realiza\u00e7\u00e3o da reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PR - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, venho a esta tribuna para fazer um registro importante. Tivemos hoje a grande satisfa\u00e7\u00e3o e a grande honra de receber nos quadros do PR mais cinco valorosos Deputados desta Casa: o Deputado Fernando Rodolfo, de Pernambuco; o Deputado Gelson Azevedo, do Rio de Janeiro; o Deputado J\u00fanior Mano, do Cear\u00e1; o Deputado Ab\u00edlio Santana, da Bahia, e o Deputado Raimundo Costa, tamb\u00e9m da Bahia, dois conterr\u00e2neos nossos.\r\nPortanto, a partir de hoje, Sr. Presidente, o Partido da Rep\u00fablica passa a contar, nos seus quadros, com 38 Sras. e Srs. Deputados.\r\nIsso \u00e9 de uma import\u00e2ncia muito grande, porque chegam ao nosso partido, o PR, pessoas qualificadas para se somarem \u00e0queles que j\u00e1 fazem do PR um dos maiores partidos desta Casa.\r\nSr. Presidente, quero tamb\u00e9m me referir \u00e0 proposta de emenda \u00e0 Constitui\u00e7\u00e3o que trata da reforma da Previd\u00eancia. Chegou a esta Casa hoje, trazida pelo Exmo. Sr. Presidente da Rep\u00fablica, e foi entregue ao Sr. Presidente da C\u00e2mara dos Deputados, com a participa\u00e7\u00e3o do Presidente do Senado e dos L\u00edderes dos partidos que estiveram nesse momento solene no gabinete da Presid\u00eancia. Isso \u00e9 de uma import\u00e2ncia muito grande. N\u00f3s temos que ter a consci\u00eancia e a responsabilidade de aprovar a reforma da Previd\u00eancia.\r\nQuero dizer \u00e0 ilustre colega Deputada Jandira Feghali que, em rela\u00e7\u00e3o ao inteiro teor da proposta que veio do Executivo, n\u00f3s temos sim a oportunidade e o direito de apresentar as modifica\u00e7\u00f5es que acharmos que devam ser feitas e de lutar por sua efetiva\u00e7\u00e3o.\r\nCertamente, a proposta que chegou a esta Casa tira privil\u00e9gios, e mant\u00e9m direitos daqueles que mais necessitam. Se entendermos que precisamos alter\u00e1-la, vamos sim alter\u00e1-la, porque esse \u00e9 um direito e um dever nosso como representantes do povo brasileiro nesta Casa. Por exemplo, n\u00f3s Deputados temos que nos enquadrar nas condi\u00e7\u00f5es do trabalhador comum brasileiro. N\u00e3o h\u00e1 por que o Deputado ter uma aposentadoria diferente. N\u00f3s nos enquadraremos neste projeto de reforma da Previd\u00eancia, como outros que det\u00eam privil\u00e9gios. N\u00e3o \u00e9 mais poss\u00edvel manter privil\u00e9gios hoje na previd\u00eancia de qualquer categoria. Temos sim que lutar e trabalhar para que o Brasil possa voltar a crescer, a gerar emprego, m\u00e3o de obra, para que possamos melhorar a qualidade de vida do povo brasileiro, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "BELO CAMPO (BA), CARA\u00cdBAS (BA), ABA\u00cdRA (BA), S\u00c3O DESID\u00c9RIO (BA), FEIRA DA MATA (BA), TANQUE NOVO (BA), S\u00c3O GABRIEL (BA), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Comemora\u00e7\u00e3o dos anivers\u00e1rios de emancipa\u00e7\u00e3o pol\u00edtico-administrativa dos Munic\u00edpios de Belo Campo, Cara\u00edbas, Aba\u00edra, S\u00e3o Desid\u00e9rio, Feira da Mata, Tanque Novo e S\u00e3o Gabriel, no Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PR - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria apenas de registrar que, no dia 22, visitei alguns Munic\u00edpios do meu Estado que comemoraram anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtica. \r\nEstive em Belo Campo, onde participei das comemora\u00e7\u00e3o pelos 57 anos de emancipa\u00e7\u00e3o pol\u00edtica do Munic\u00edpio, com o Prefeito Jos\u00e9 Henrique Silva Tigre, o Quinho. Reitero meus parab\u00e9ns \u00e0quela popula\u00e7\u00e3o!\r\nTamb\u00e9m estive no Munic\u00edpio de Cara\u00edbas, com o Prefeito Jones, o Vice-Prefeito, Vereadores e toda a comunidade.\r\nSra. Presidente, eu quero que este meu pronunciamento seja divulgado por todos os meios de comunica\u00e7\u00e3o da Casa.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOS\u00c9 ROCHA.\r\n\r\nSra. Presidente, Sras. e Srs. Deputados, desta tribuna quero agradecer a acolhida que recebi dos moradores de Belo Campo, Munic\u00edpio que tenho a honra de representar nesta Casa.\r\nNa \u00faltima sexta-feira, dia 22, visitei Belo Campo e participei das comemora\u00e7\u00f5es pelos seus 57 anos de emancipa\u00e7\u00e3o pol\u00edtica. Na pessoa do Prefeito Jos\u00e9 Henrique Silva Tigre, o Quinho, reitero meus parab\u00e9ns a toda a popula\u00e7\u00e3o!\r\nAl\u00e9m do Prefeito Quinho, tamb\u00e9m destaco o Vice-Prefeito Roberto Lima, o Deputado Estadual Marquinho Viana, a primeira-dama, L\u00e9ia Meira, o ex-Prefeito C\u00e9sar, Secret\u00e1rios Municipais, Vereadores e autoridades de Munic\u00edpios da regi\u00e3o, como o Prefeito de Coribe, Manuel Rocha.\r\nOutro Munic\u00edpio que tive a satisfa\u00e7\u00e3o de visitar foi Cara\u00edbas, do nosso amigo e competente homem p\u00fablico Jones e do Vice-Prefeito Carlinhos. \r\nTivemos um encontro muito prof\u00edcuo com o Prefeito Jones, Secret\u00e1rios e Vereadores. Tamb\u00e9m participamos das comemora\u00e7\u00f5es pelos 30 anos de emancipa\u00e7\u00e3o pol\u00edtica daquele Munic\u00edpio, transcorridos no domingo, dia 24.\r\nSra. Presidente, tamb\u00e9m quero registrar desta tribuna os meus parab\u00e9ns pelos 57 anos de emancipa\u00e7\u00e3o pol\u00edtica de Aba\u00edra e S\u00e3o Desid\u00e9rio, comemorados na \u00faltima sexta-feira, dia 22. \r\nOutros tr\u00eas Munic\u00edpios tamb\u00e9m completaram mais 1 ano de emancipa\u00e7\u00e3o pol\u00edtica. No dia 24, Feira da Mata chegou aos 30 anos e, no dia 25, segunda-feira, Tanque Novo e S\u00e3o Gabriel comemoraram 34 anos de emancipa\u00e7\u00e3o pol\u00edtica.\r\nParab\u00e9ns e muito sucesso \u00e0s moradoras e aos moradores de cada um dos Munic\u00edpios aqui citados!\r\nAgrade\u00e7o, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGROROS\u00c1RIO (2019,CORRENTINA (BA)), AGROPECU\u00c1RIA, TECNOLOGIA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Realiza\u00e7\u00e3o da Feira Agro Ros\u00e1rio, no Munic\u00edpio de Correntina, Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PR - BA. Pela ordem. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputada Alice Portugal, com muita honra, nossa conterr\u00e2nea, Sras. e Srs. Parlamentares, quero aqui fazer o registro de um evento importante que ocorreu no Distrito de Ros\u00e1rio, no Munic\u00edpio de Correntina, a AGROROS\u00c1RIO. \r\nPela segunda vez foi realizada essa feira, na qual estiveram presentes v\u00e1rias autoridades, representantes do Ministro da Infraestrutura, do Governo do Estado, colegas Deputados e os produtores do oeste da Bahia.\r\nA feira aconteceu nos dias 15, 16 e 17 deste m\u00eas. Os produtores rurais e visitantes puderam conhecer o que h\u00e1 de mais avan\u00e7ado em termos de m\u00e1quinas e equipamentos agr\u00edcolas, sementes e insumos. Destaco tamb\u00e9m realiza\u00e7\u00e3o de palestras e demonstra\u00e7\u00f5es de campo que levaram aos produtores a mais avan\u00e7ada tecnologia de produ\u00e7\u00e3o. \r\nTenho que registrar desta tribuna, Sra. Presidente, que pude constatar pessoalmente o evento, ao visitar o Parque de Exposi\u00e7\u00f5es da AGROROS\u00c1RIO, no \u00faltimo s\u00e1bado, dia 16, na companhia de produtores. Sa\u00ed de l\u00e1 orgulhoso pela capacidade dos homens e mulheres que movimentam o agroneg\u00f3cio na Bahia e no Brasil.\r\nParab\u00e9ns aos organizadores da AGROROS\u00c1RIO e tamb\u00e9m aos produtores da regi\u00e3o no nosso Estado pelo exemplo que d\u00e3o com o trabalho de sol a sol, com a determina\u00e7\u00e3o para superar os in\u00fameros obst\u00e1culos e pela grande capacidade empreendedora.\r\nMuito obrigado.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOS\u00c9 ROCHA.\r\n\r\nSra. Presidente, Sras. e Srs. Deputados, a Bahia propiciou ao Pa\u00eds mais uma demonstra\u00e7\u00e3o da pujan\u00e7a do agroneg\u00f3cio no Estado com a realiza\u00e7\u00e3o da AGROROS\u00c1RIO 2019, uma das principais feiras do setor no Brasil, realizada anualmente no Distrito de Ros\u00e1rio, \u00e0s margens da BR-020, no Munic\u00edpio de Correntina.\r\nAo longo de 3 dias - 15, 16 e 17 deste m\u00eas -, os produtores rurais e visitantes puderam conhecer o que h\u00e1 de mais avan\u00e7ado em termos de m\u00e1quinas e equipamentos agr\u00edcolas, sementes e insumos.\r\nDestaco tamb\u00e9m a realiza\u00e7\u00e3o de palestras e demonstra\u00e7\u00f5es de campo que levaram at\u00e9 os produtores as mais avan\u00e7adas tecnologias de produ\u00e7\u00e3o, novos insumos e sementes, equipamentos de alta produtividade e o cuidado com o meio ambiente, al\u00e9m de t\u00e9cnicas modernas para o gerenciamento das propriedades.\r\nTudo que registro desta tribuna eu pude constatar pessoalmente ao visitar o Parque de Exposi\u00e7\u00f5es da AGROROS\u00c1RIO, no \u00faltimo s\u00e1bado, dia 16, na companhia de produtores, autoridades do Estado e lideran\u00e7as pol\u00edticas da regi\u00e3o, al\u00e9m de empres\u00e1rios do setor. Sa\u00ed de l\u00e1 orgulhoso da capacidade dos homens e mulheres que movimentam o agroneg\u00f3cio na Bahia e no Brasil.\r\nParab\u00e9ns aos organizadores da AGROROS\u00c1RIO e tamb\u00e9m aos produtores da regi\u00e3o e do nosso Estado pelo exemplo que d\u00e3o com o trabalho de sol a sol, com a determina\u00e7\u00e3o para superar os in\u00fameros obst\u00e1culos e a grande capacidade empreendedora.\r\nAgrade\u00e7o, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SA\u00daDE, DONA MARIA AUGUSTA PINTO, CL\u00cdNICA ESPECIALIZADA, ESPECIALIDADE M\u00c9DICA, TEODORO SAMPAIO (BA), INAUGURA\u00c7\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Inaugura\u00e7\u00e3o da Cl\u00ednica Municipal de Especialidades M\u00e9dicas Dona Maria Augusta Pinto, no Munic\u00edpio de Deodoro Sampaio, Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PR - BA. Pela ordem. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputada Geovania de S\u00e1, Sras. e Srs. Parlamentares, fa\u00e7o aqui o registro de que o dia 2 de abril, ter\u00e7a-feira, passou a ter um grande significado para a popula\u00e7\u00e3o do Munic\u00edpio de Deodoro Sampaio, especialmente para o Prefeito Jos\u00e9 Alves da Cruz, o Bitinho, quando foi inaugurada a Cl\u00ednica Municipal de Especialidades M\u00e9dicas Dona Maria Augusta Pinto, uma homenagem \u00e0 mem\u00f3ria dessa cidad\u00e3 de intensa atividade na vida p\u00fablica do nosso Estado.\r\nConhecida como D. Augusta, exerceu dois mandatos de Vereadora no Munic\u00edpio de Lauro de Freitas e ocupou a 2\u00aa Vice-Presid\u00eancia na C\u00e2mara, e desfrutava de um amplo reconhecimento pelo seu trabalho principalmente em benef\u00edcio da popula\u00e7\u00e3o mais necessitada, inclusive na \u00e1rea de assist\u00eancia social.\r\nAo inaugurar a Cl\u00ednica Municipal de Especialidades M\u00e9dicas Dona Maria Augusta Pinto, o Prefeito Bitinho e os teodorenses realizaram uma justa e merecida homenagem \u00e0 mem\u00f3ria de uma m\u00e3e, esposa e cidad\u00e3 baiana que prestou relevantes servi\u00e7os \u00e0 popula\u00e7\u00e3o do nosso Estado.\r\nParab\u00e9ns, Prefeito Bitinho!\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "WALMOR OLIVEIRA DE AZEVEDO, PADRE, ELEI\u00c7\u00c3O, PRESIDENTE, CONFER\u00caNCIA NACIONAL DOS BISPOS DO BRASIL (CNBB).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Regozijo com a elei\u00e7\u00e3o de Dom Walmor Oliveira de Azevedo para a Presid\u00eancia da Confer\u00eancia Nacional dos Bispos do Brasil - CNBB.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PR - BA. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania de S\u00e1, que ora preside esta sess\u00e3o, Sras. e Srs. Deputados, nesta semana, n\u00f3s baianos recebemos uma not\u00edcia que nos encheu de alegria e tamb\u00e9m de orgulho. No \u00faltimo dia 6, ap\u00f3s 67 anos de funda\u00e7\u00e3o da Confer\u00eancia Nacional dos Bispos do Brasil - CNBB, a entidade elegeu, pela primeira vez, um baiano Presidente, Dom Walmor Oliveira de Azevedo, atual Arcebispo Metropolitano de Belo Horizonte, que nasceu em Cocos, Munic\u00edpio vizinho \u00e0 minha terra natal, Coribe, no meu Estado da Bahia.\r\nEu privo da amizade da fam\u00edlia de Dom Walmor, que foi eleito Presidente da CNBB durante a 57\u00aa Assembleia Geral da Confer\u00eancia Nacional dos Bispos do Brasil, realizada em Aparecida, interior de S\u00e3o Paulo.\r\nO novo Presidente da CNBB \u00e9 doutor em teologia b\u00edblica pela Pontif\u00edcia Universidade Gregoriana de Roma e mestre em ci\u00eancias b\u00edblicas pelo Pontif\u00edcio Instituto B\u00edblico de Roma. \r\nNascido em 26 de abril de 1954, Dom Walmor iniciou sua forma\u00e7\u00e3o em Juiz de Fora e S\u00e3o Jo\u00e3o del Rei e foi ordenado sacerdote em setembro de 1977. Sua prof\u00edcua dedica\u00e7\u00e3o ao sacerd\u00f3cio foi coroada pelo Papa Jo\u00e3o Paulo II, que o nomeou Bispo Auxiliar de Salvador em janeiro de 1998. J\u00e1 no ano seguinte, assumiu os cargos de Secret\u00e1rio da Regional Nordeste 3 e membro da Comiss\u00e3o Episcopal de Doutrina da CNBB. Desde 2004, \u00e9 Arcebispo Metropolitano de Belo Horizonte.\r\nDesta tribuna, parabenizo o Bispo Dom Walmor pela sua elei\u00e7\u00e3o e rogo ao Criador que ilumine seus passos na Presid\u00eancia da CNBB. \r\nNa pessoa do Prefeito de Cocos, Dr. Marcelo Emerenciano, sa\u00fado todos os conterr\u00e2neos do novo Presidente da Confer\u00eancia Nacional dos Bispos do Brasil e, por extens\u00e3o, todos os baianos.\r\nAgrade\u00e7o, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO DA REP\u00daBLICA (PR), VOTO CONTR\u00c1RIO.\r\nFRENTE PARLAMENTAR MISTA DE APOIO AO PROGRAMA ANT\u00c1RTICO BRASILEIRO, INSTALA\u00c7\u00c3O, CONVITE.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por atigo, do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social. Convite aos Deputados para o ato de instala\u00e7\u00e3o da Frente Parlamentar Mista de Apoio ao Programa Ant\u00e1rtico Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PR - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PR encaminha o voto \"n\u00e3o\".\r\nQuero aproveitar, Sr. Presidente - V.Exa. j\u00e1 \u00e9 o convidado de honra -, e convidar todos os colegas para a instala\u00e7\u00e3o da Frente Parlamentar Mista de Apoio ao Programa Ant\u00e1rtico Brasileiro, que se dar\u00e1 amanh\u00e3, no Sal\u00e3o Nobre, \u00e0s 10 horas. Desejaria contar com a presen\u00e7a de todos os colegas Deputados e Deputadas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=190&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, JABORANDI (BA), S\u00c3O F\u00c9LIX DO CORIBI (BA),  CONDE\u00daBA (BA), HOMENAGEM.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Transcurso do 33\u00ba e do 30\u00ba anivers\u00e1rios de emancipa\u00e7\u00e3o pol\u00edtico-administrativa, respectivamente, dos Munic\u00edpios de Jaborandi e S\u00e3o F\u00e9lix do Coribi, Estado do Bahia. Comemora\u00e7\u00e3o do 158\u00ba anivers\u00e1rio do Munic\u00edpio de Conde\u00faba, no Estado.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PR - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, deste plen\u00e1rio sa\u00fado Munic\u00edpios que tenho a honra de representar aqui no Congresso Nacional e que acabam de comemorar os respectivos anivers\u00e1rios de emancipa\u00e7\u00e3o pol\u00edtica.\r\nNo \u00faltimo dia 12 deste m\u00eas, Jaborandi comemorou 33 anos de exist\u00eancia. Tenho o orgulho de ter participado do movimento pela emancipa\u00e7\u00e3o de Jaborandi, tendo sido, inclusive, o autor do projeto de emancipa\u00e7\u00e3o pol\u00edtica.\r\nNo dia 14, comemorou 30 anos de emancipa\u00e7\u00e3o S\u00e3o F\u00e9lix do Coribe, que, assim como Jaborandi, \u00e9 lim\u00edtrofe \u00e0 minha terra natal, Coribe.\r\nTamb\u00e9m nesta ter\u00e7a, dia 14, Conde\u00faba chegou aos 158 anos de exist\u00eancia. Fa\u00e7o uma sauda\u00e7\u00e3o especial ao Prefeito Silvan Baleeiro e ao ex-Prefeito Ant\u00f4nio Ter\u00eancio.\r\nTermino registrando os mais efusivos parab\u00e9ns aos moradores de Jaborandi, S\u00e3o F\u00e9lix do Coribe e Conde\u00faba.\r\nAgrade\u00e7o a V.Exa., Sr. Presidente.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOS\u00c9 ROCHA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, deste plen\u00e1rio sa\u00fado Munic\u00edpios que tenho a honra de representar no Congresso Nacional e que acabam de comemorar os respectivos anivers\u00e1rios de emancipa\u00e7\u00e3o pol\u00edtica.\r\nNo \u00faltimo dia 12, Jaborandi comemorou 33 anos de exist\u00eancia. Tenho o orgulho de ter participado do movimento pela emancipa\u00e7\u00e3o de Jaborandi sendo, inclusive, o Relator do projeto na Assembleia Legislativa da Bahia, sendo a emancipa\u00e7\u00e3o oficializada pela Lei n\u00ba 4.438 de 1985. Neste dia 14, quem comemorou 30 anos de emancipa\u00e7\u00e3o foi S\u00e3o F\u00e9lix do Coribe que, assim como Jaborandi, \u00e9 lim\u00edtrofe \u00e0 minha terra natal, Coribe.\r\nTamb\u00e9m nesta ter\u00e7a, 14, Conde\u00faba chegou aos 158 anos de exist\u00eancia. Fa\u00e7o uma sauda\u00e7\u00e3o especial ao Prefeito Silvan Baleeiro e ao ex-Prefeito Ant\u00f4nio Ter\u00eancio.\r\nTermino, registrando os mais efusivos parab\u00e9ns aos moradores de Jaborandi, S\u00e3o F\u00e9lix do Coribe e Conde\u00faba.\r\n\tAgrade\u00e7o, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=231&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PALMAS DE MONTE ALTO (BA), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM, FERNANDO LARANJEIRA, EX-PREFEITO, ROSE DA BARRIGUDA, VEREADORA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Comemora\u00e7\u00f5es pelo transcurso do anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de Palmas de Monte Alto, Estado da Bahia. Sauda\u00e7\u00f5es a lideran\u00e7as pol\u00edticas do Munic\u00edpio.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PR - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente Geovania de S\u00e1, Sras. e Srs. Parlamentares, quero registrar que, no \u00faltimo dia 19, foi comemorado o anivers\u00e1rio de emancipa\u00e7\u00e3o municipal de Palmas de Monte Alto, um Munic\u00edpio centen\u00e1rio, com mais de 100 anos, que tem belezas naturais e uma reserva ambiental de beleza incompar\u00e1vel.\r\nQuero mandar um abra\u00e7o para o ex-Prefeito, o meu querido amigo Fernando Laranjeira, para a Vereadora Rose e para todos aqueles que t\u00eam a alegria de nascer e de morar em uma cidade como Palmas de Monte Alto, dotada de toda uma beleza natural e de um desenvolvimento que honra a todos os monte-altenses.\r\nPortanto, fica aqui este registro. Desejo ao povo de Palmas de Monte Alto muito sucesso. Meus parab\u00e9ns pela data importante do dia 19 de maio!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=87&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T09:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JOS\u00c9 ROCHA, DEPUTADO FEDERAL, COMEMORA\u00c7\u00c3O, ANIVERS\u00c1RIO DE NASCIMENTO, D\u00c1CIO OLIVEIRA, EX-PREFEITO, CAETIT\u00c9 (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "An\u00fancio da participa\u00e7\u00e3o do orador nas comemora\u00e7\u00f5es pelo transcurso do 79\u00ba anivers\u00e1rio natal\u00edcio do ex-Prefeito D\u00e1cio Oliveira, do Munic\u00edpio de Caetit\u00e9, Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Deputado Charles Fernandes, que preside esta sess\u00e3o, Sras. e Srs. Deputados, eu quero aqui fazer o registro de que no pr\u00f3ximo domingo vou participar da comemora\u00e7\u00e3o do anivers\u00e1rio do ex-Prefeito de Caetit\u00e9 D\u00e1cio Oliveira, que estar\u00e1 completando 79 anos.\r\nD\u00e1cio foi o melhor Prefeito de todos os tempos e \u00e9 uma figura pol\u00edtica importante para Caetit\u00e9, onde fez uma administra\u00e7\u00e3o revolucion\u00e1ria na infraestrutura, na educa\u00e7\u00e3o, na sa\u00fade e na \u00e1rea social. Ele completa 79 anos no dia 25, s\u00e1bado, e a comemora\u00e7\u00e3o vai se dar em sua fazenda, com toda a sua fam\u00edlia. Estarei l\u00e1 para dar o meu abra\u00e7o a D\u00e1cio Oliveira e a todos os seus familiares e amigos presentes.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=38&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JOS\u00c9 ROCHA, DEPUTADO FEDERAL, PARTICIPA\u00c7\u00c3O, VAQUEJADA DE LAGOA REAL (29:2019), PEDRO CARDOSO, PREFEITO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Participa\u00e7\u00e3o do orador na 29\u00aa Vaquejada de Lagoa Real, Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Charles Fernandes, Sras. e Srs. Parlamentares, quero registrar que nesse final de semana, no s\u00e1bado passado, estive participando da 29\u00aa Vaquejada de Lagoa Real, a convite do Prefeito Pedro Cardoso, quando tive a oportunidade de estar com o Vereador Arl\u00e9cio e com os demais Vereadores do Munic\u00edpio. Tamb\u00e9m tive a oportunidade de reencontrar v\u00e1rios amigos de v\u00e1rios outros Munic\u00edpios, que estavam prestigiando aquela vaquejada, uma das maiores do nosso Estado, que contou com um p\u00fablico de mais de 50 mil pessoas.\r\nQuero parabenizar o Prefeito Pedro Cardoso, os Vereadores e todo o povo de Lagoa Real pela vaquejada que realiza todos os anos e especialmente pela 29\u00aa Vaquejada, que contou com a participa\u00e7\u00e3o do povo de toda a regi\u00e3o. A Pol\u00edcia Militar deu toda a seguran\u00e7a a essa festa muito bonita e digna de ser visitada por todos os que gostam desse evento cultural e esportivo que \u00e9 a vaquejada.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JOS\u00c9 ROCHA, DEPUTADO FEDERAL, PARTICIPA\u00c7\u00c3O, FESTA POPULAR, BAHIA, PO\u00c7\u00d5ES (BA), CAVALGADA, SANTA MARIA DA VIT\u00d3RIA (BA), CARA\u00cdBAS (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Participa\u00e7\u00e3o na Festa do Divino Esp\u00edrito Santo realizada no Munic\u00edpio de Po\u00e7\u00f5es e no Distrito de \u00c1gua Quente, Munic\u00edpio de Santa Maria da Vit\u00f3ria, e nos festejos de Santo Ant\u00f4nio realizados no Munic\u00edpio de Cara\u00edbas, Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sra. Presidente Deputada Geovania de S\u00e1, que preside esta sess\u00e3o, Sras. e Srs. Parlamentares, quero aqui fazer o registro de visitas que fiz no fim de semana passado aos Munic\u00edpios do meu Estado que comemoram o Divino Esp\u00edrito Santo, uma tradi\u00e7\u00e3o cultural religiosa do meu Estado.\r\nNo dia 7, sexta-feira, estive no Munic\u00edpio de Po\u00e7\u00f5es com o l\u00edder pol\u00edtico Val Cunha e o seu irm\u00e3o Ivo Cunha. Participamos da celebra\u00e7\u00e3o de uma missa campal com uma cavalgada. A pra\u00e7a estava lotada de pessoas que foram l\u00e1 professar a sua f\u00e9.\r\nEstive tamb\u00e9m em Santa Maria da Vit\u00f3ria, no Distrito de \u00c1gua Quente, com a presen\u00e7a do Vereador Jo\u00e3o Marques, do Vereador C\u00f3 de A\u00e7udina e do l\u00edder pol\u00edtico Tonho de Z\u00e9 de Agd\u00f4nio, participando dos festejos do Divino.\r\nDepois fui a Cara\u00edbas participar dos festejos de Santo Ant\u00f4nio com a presen\u00e7a do Prefeito Jones, do ex-Prefeito Lourinho, da ex-Prefeita Norma, do ex-Prefeito Orlando, do Vice-Prefeito Carlinhos e de toda a comunidade. Festejamos Santo Ant\u00f4nio, o padroeiro do Munic\u00edpio de Cara\u00edbas. Foi uma festa muito participativa, que contou com toda a popula\u00e7\u00e3o n\u00e3o s\u00f3 do Munic\u00edpio, mas tamb\u00e9m de toda a regi\u00e3o.\r\nMuito obrigado, Sra. Presidente e Srs. Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=217&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-04T12:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SOFIA FERREIRA, EX-PRIMEIRA-DAMA, CORIBE (BA), FALECIMENTO, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Falecimento da ex-Primeira-Dama do Munic\u00edpio de Coribe, Sofia Ferreira, no Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Governadora Benedita da Silva, Sras. e Srs. Parlamentares, quero neste instante fazer aqui um registro de pesar pelo falecimento de uma tia minha, Sofia Ferreira, da minha cidade, Coribe, ex-Primeira-Dama do Munic\u00edpio.\r\nVi\u00fava do ex-Prefeito Dio e m\u00e3e do ex-Prefeito Jos\u00e9 Alves Ferreira, o Nino de Dio, Sofia deixa tamb\u00e9m mais dois filhos homens, Valdivino e Sinvaldo, e duas filhas mulheres, Maria e Nilda, al\u00e9m de v\u00e1rios netos e bisnetos. Ela faleceu no dia de ontem, e tive a oportunidade de estar presente no vel\u00f3rio hoje pela manh\u00e3.\r\nFa\u00e7o aqui, Sra. Presidente, Governadora Benedita da Silva, este registro pela import\u00e2ncia que Sofia teve no Munic\u00edpio de Coribe como Primeira-Dama do Munic\u00edpio e como m\u00e3e do Prefeito Jos\u00e9 Alves Ferreira, o Nino de Dio. Era uma pessoa muito querida, irm\u00e3 da minha saudosa m\u00e3e, e nos deixou no dia de ontem. A cidade hoje est\u00e1 toda chorosa e pesarosa pelo falecimento de Sofia Alves Lopes, que deixa um legado muito grande e tamb\u00e9m muita saudade na fam\u00edlia e na sociedade coribense.\r\nEra esse o registro que queria fazer neste momento, em que chego do vel\u00f3rio da minha querida tia Sofia Alves Lopes.\r\nMuito obrigado, Presidente.\r\nA SRA. PRESIDENTE (Benedita da Silva. PT - RJ) - A Mesa se solidariza com V.Exa. e deseja que ela tenha o seu descanso em paz.\r\nO SR. JOS\u00c9 ROCHA (PL - BA) - Obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F7%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, REQUERIMENTO DE URG\u00caNCIA, FAVOR\u00c1VEL.\r\nSA\u00daDE, RECURSOS, LIBERA\u00c7\u00c3O, MUNIC\u00cdPIO, DEFESA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Perplexidade ante o posicionamento do Deputado Ivan Valente contr\u00e1rio \u00e0 libera\u00e7\u00e3o de recursos para a \u00e1rea de sa\u00fade de Munic\u00edpios brasileiros. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania de S\u00e1, surpreende-me muito que o Deputado Ivan Valente se coloque contrariamente \u00e0 libera\u00e7\u00e3o de recursos para a sa\u00fade de v\u00e1rios Munic\u00edpios do Pa\u00eds. Acho que S.Exa. vai ter que se explicar com os Prefeitos por estar contra a libera\u00e7\u00e3o de recursos para Munic\u00edpios que tanto precisam de ajuda, quer seja do Estado, quer seja da Uni\u00e3o, para atender \u00e0s demandas da \u00e1rea de sa\u00fade. Em vez de o Deputado Ivan Valente recorrer \u00e0 Justi\u00e7a para impedir que Munic\u00edpios recebam recursos, ele deveria recorrer \u00e0 Justi\u00e7a para aumentar os recursos destinados a Munic\u00edpios.\r\nSra. Presidente, quero registrar minha satisfa\u00e7\u00e3o e meu apoio ao requerimento de urg\u00eancia para o PL 8.240/2017, que diz respeito \u00e0 vaquejada, evento cultural e esportivo de grande aceita\u00e7\u00e3o no meu Estado da Bahia e em todo o Nordeste. As vaquejadas s\u00e3o uma festa cultural e um esporte que agradam a todos e que protegem os animais que fazem parte do evento - n\u00e3o h\u00e1 maus-tratos; pelo contr\u00e1rio, h\u00e1 muito carinho e muita alegria para todos aqueles que participam desse evento esportivo e cultural.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Registro de voto. Apoio \u00e0 pr\u00e1tica de vaquejada no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Deputado Jos\u00e9 Rocha, nas vota\u00e7\u00f5es anteriores, acompanhou o partido.\r\nQuero dizer que nas vota\u00e7\u00f5es n\u00f3s tivemos a oportunidade de sempre estar ao lado da vaquejada, que \u00e9 um esporte, que \u00e9 cultura no Nordeste. Aqueles que s\u00e3o contra certamente n\u00e3o gostam de cavalo, n\u00e3o gostam de montar, mas n\u00f3s gostamos de montar a cavalo, de ter a oportunidade de participar desse grande esporte, que tamb\u00e9m \u00e9 cultura, a vaquejada, e nos sentimos bastante recompensados com as vota\u00e7\u00f5es feitas aqui na tarde de hoje.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=298&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T00:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO LIBERAL (PL) (1987), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Governo, ao orientar que se vote \"sim\" ao requerimento de encerramento da discuss\u00e3o, reconhece a import\u00e2ncia do trabalho de V.Exa. na condu\u00e7\u00e3o desse processo. De igual modo, reconhece tamb\u00e9m o trabalho do Presidente da Comiss\u00e3o, o Deputado Marcelo Ramos, do Relator Samuel Moreira e de todos os membros da Comiss\u00e3o, bem como, neste plen\u00e1rio, dos Deputados que entenderam ser esta proposta importante para o Pa\u00eds, ser ela um projeto de pa\u00eds que com certeza vai melhorar a condi\u00e7\u00e3o de vida do povo brasileiro, aumentando a oferta de emprego e renda e fazendo justi\u00e7a aos que mais precisam.\r\nPortanto, Sr. Presidente, o PL vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=490&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "COMISS\u00c3O DE RELA\u00c7\u00d5ES EXTERIORES E DE DEFESA NACIONAL (CREDN), ACORDO DE SALVAGUARDAS TECNOL\u00d3GICAS, GOVERNO, BRASIL, CENTRO ESPACIAL DE ALC\u00c2NTARA (CEA), ATUA\u00c7\u00c3O, EDUARDO BOLSONARO, DEPUTADO FEDERAL. \r\nCORIBE (BA), COCOS (BA), RIACHO DE SANTANA (BA), GUANAMBI (BA), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Aprova\u00e7\u00e3o, pela Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional, do parecer oferecido pelo Deputado Hildo Rocha ao Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre os Governos do Brasil e dos Estados Unidos da Am\u00e9rica, para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, no Estado do Maranh\u00e3o. Comemora\u00e7\u00e3o do 61\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa dos Munic\u00edpios de Coribe e Cocos, no Estado da Bahia. Transcurso do 100\u00ba e do 141\u00ba anivers\u00e1rios de emancipa\u00e7\u00e3o pol\u00edtico-administrativa, respectivamente, dos Munic\u00edpios de Guanambi e Riacho de Santana, no Estado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Hildo Rocha, quero primeiro parabenizar V.Exa. pela aprova\u00e7\u00e3o, hoje, na Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores e de Defesa Nacional, do seu relat\u00f3rio sobre o acordo entre o Brasil e os Estados Unidos em rela\u00e7\u00e3o ao Centro Espacial de Alc\u00e2ntara, que \u00e9 muito importante para o Pa\u00eds e para o povo maranhense. E tamb\u00e9m quero parabenizar o nosso Presidente da Comiss\u00e3o, Deputado Eduardo Bolsonaro, que j\u00e1 demonstrou habilidade na condu\u00e7\u00e3o desses trabalhos, mostrando que realmente ser\u00e1 um grande Embaixador nos Estados Unidos.\r\nEu quero aqui tamb\u00e9m registrar que o dia 14 de agosto foi uma data muito especial para minha terra natal, Coribe, e v\u00e1rios Munic\u00edpios da minha querida Bahia. Milhares de cidad\u00e3os e cidad\u00e3s, que tenho a honra de representar nesta Casa e no Congresso Nacional, comemoraram o anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtica das cidades citadas. O Munic\u00edpio de Cocos tamb\u00e9m comemorou seus 61 anos de emancipa\u00e7\u00e3o pol\u00edtica.\r\nQuero aqui parabenizar tanto o jovem Prefeito de Coribe, minha terra, Manuel Rocha, quanto o Prefeito do Munic\u00edpio de Cocos, Dr. Marcelo.\r\nTamb\u00e9m tivemos a oportunidade de comemorar os 141 anos de emancipa\u00e7\u00e3o pol\u00edtica de Riacho de Santana, dirigida pelo jovem Prefeito Alan. E Guanambi completou 1 s\u00e9culo de emancipa\u00e7\u00e3o pol\u00edtica.\r\nPortanto, deixo aqui os meus parab\u00e9ns, as minhas congratula\u00e7\u00f5es ao querido povo desses Munic\u00edpios pelos festejos que foram realizados nessas comemora\u00e7\u00f5es.\r\nO SR. PRESIDENTE (Hildo Rocha. Bloco/MDB - MA) - Obrigado, Deputado Jos\u00e9 Rocha. O pronunciamento de V.Exa. ser\u00e1 divulgado no programa A Voz do Brasil.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOS\u00c9 ROCHA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, hoje, 14 de agosto, \u00e9 uma data muita especial para minha terra natal, Coribe, e v\u00e1rios Munic\u00edpios da minha querida Bahia. Milhares de cidad\u00e3s e cidad\u00e3os, que tenho a honra de representar nesta Casa e no Congresso Nacional, est\u00e3o comemorando o anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtica das cidades onde moram.\r\nCoribe, liderado pelo jovem Prefeito Manuel Rocha, e o Munic\u00edpio vizinho, Cocos, do grande Prefeito Dr. Marcelo, completam 61 anos de emancipa\u00e7\u00e3o pol\u00edtica neste dia.\r\nOs dois Munic\u00edpios experimentam dias promissores com diversas melhorias que est\u00e3o sendo executadas pelas duas administra\u00e7\u00f5es e novos projetos que devem propiciar um grande salto no desenvolvimento de ambos.\r\nDesta tribuna registro tamb\u00e9m que hoje Guanambi comemora o centen\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtica. S\u00e3o 100 anos de uma bela hist\u00f3ria, que honra todos os moradores de Guanambi.\r\nDestaco ainda os 141 anos de emancipa\u00e7\u00e3o pol\u00edtica de Riacho de Santana, transcorridos ontem, dia 13.\r\nParabenizo todos moradores dos Munic\u00edpios aqui citados e fa\u00e7o de votos de que tenham dias cada vez melhores e de muito desenvolvimento.\r\n\tObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=13&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JOS\u00c9 ROCHA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, BRUMADO (BA), CORDEIROS (BA), CONDE\u00daBA (BA), ITUA\u00c7U (BA)",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Relato sobre visita do orador aos Munic\u00edpios de Brumado, Cordeiros, Conde\u00faba e Itua\u00e7u, Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Sra. Presidente desta sess\u00e3o, Deputada Geovania de S\u00e1, Sras. e Srs. Parlamentares, eu quero fazer o registro da visita que fiz ao Munic\u00edpio de Brumado, no meu Estado, onde tive a oportunidade, com o Prefeito Eduardo Vasconcelos e com a Vereadora Ilka Abreu, de inaugurar uma Unidade B\u00e1sica de Sa\u00fade, entregue ao povo do Bairro S\u00e3o Jorge. A popula\u00e7\u00e3o agradeceu o feito ao Prefeito Eduardo Vasconcelos, que estava acompanhado pelo Vice-Prefeito \u00c9dio Continha e por Vereadores.\r\nEstive tamb\u00e9m no Munic\u00edpio de Cordeiros, com o Prefeito Delci. L\u00e1 tive oportunidade de me reunir com os Vereadores e participar de um evento importante, junto com a comunidade.\r\nDe l\u00e1, fui ao Munic\u00edpio de Conde\u00faba, onde estive com o Prefeito Silvan, apresentando um importante projeto para o sistema de abastecimento de \u00e1gua, na sede do Munic\u00edpio.\r\nPosteriormente, estive no Munic\u00edpio de Itua\u00e7u, com o Prefeito Adalberto, com o Vice-Prefeito e com os Vereadores, quando participamos, juntamente com a comunidade, dos festejos do Sagrado Cora\u00e7\u00e3o de Jesus, uma romaria importante para aquele Munic\u00edpio e para aquela regi\u00e3o. D\u00e1 oportunidade para investimentos na \u00e1rea do turismo, n\u00e3o s\u00f3 no turismo religioso mas tamb\u00e9m no ecoturismo. O Munic\u00edpio fica na Chapada Diamantina. Trata-se, portanto, de uma regi\u00e3o privilegiada pela natureza para se exercitar e exercer o ecoturismo.\r\nFico feliz em estar hoje, nesta Casa, registrando esses eventos dos quais tive a oportunidade de participar durante o final de semana.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, REQUERIMENTO DE URG\u00caNCIA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, APROVA\u00c7\u00c3O, ATO INTERNACIONAL, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTO A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA, OPOSI\u00c7\u00c3O POL\u00cdTICA, LU\u00cdZA ERUNDINA, DEPUTADA FEDERAL, MARANH\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Expectativa quanto \u00e0 aprova\u00e7\u00e3o do requerimento de urg\u00eancia para a aprecia\u00e7\u00e3o do texto do Acordo entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica Sobre Salvaguardas Tecnol\u00f3gicas Relacionadas \u00e0 Participa\u00e7\u00e3o dos Estados Unidos da Am\u00e9rica em Lan\u00e7amentos a partir do Centro Espacial de Alc\u00e2ntara.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, n\u00f3s estamos aqui hoje votando o requerimento de urg\u00eancia de uma mat\u00e9ria da mais alta import\u00e2ncia para o Pa\u00eds.\r\nQuero cumprimentar o Presidente da Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores, o Deputado Eduardo Bolsonaro, e o Relator desse acordo na Comiss\u00e3o, o Deputado Hildo Rocha, que teve o apoiamento quase que un\u00e2nime na Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores. E falo aqui como quem foi o Relator dessa mat\u00e9ria h\u00e1 18 anos, na Comiss\u00e3o de Ci\u00eancia e Tecnologia, quando l\u00e1 tivemos uma aprova\u00e7\u00e3o apenas com 2 votos contr\u00e1rios. Inclusive tivemos a participa\u00e7\u00e3o muito dedicada e competente da Deputada Luiza Erundina, que hoje n\u00e3o se faz presente nesta sess\u00e3o, mas que coordenou uma Subcomiss\u00e3o para ir conversar com toda a comunidade de Alc\u00e2ntara, com quilombolas, com todos aqueles que estavam realmente envolvidos no processo, para darem a sua opini\u00e3o em rela\u00e7\u00e3o ao referido acordo. A Deputada Erundina, que era do PT na \u00e9poca, votou favoravelmente a esse acordo na Comiss\u00e3o. \r\nPortanto, n\u00e3o venham aqui os Deputados da Oposi\u00e7\u00e3o querer dizer que esse acordo tem, vamos dizer assim, uma restri\u00e7\u00e3o dentro da Esquerda brasileira, porque a Deputada Erundina, do PT \u00e0 \u00e9poca, participou da vota\u00e7\u00e3o desse acordo na Comiss\u00e3o de Ci\u00eancia e Tecnologia e n\u00e3o se posicionou contrariamente.\r\nPortanto, n\u00f3s entendemos que o Governo apresentou a esta Casa esse acordo assinado com os Estados Unidos para haver sim transfer\u00eancia de tecnologia e obter recursos para investimento, o que vai melhorar, sem d\u00favida nenhuma, a condi\u00e7\u00e3o das comunidades de quilombolas e de toda a comunidade de Alc\u00e2ntara.\r\nE eu tive a oportunidade de l\u00e1 estar presente quando era Relator dessa mat\u00e9ria e agora tamb\u00e9m, como membro da Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores.\r\nPortanto, esperamos que hoje haja uma vota\u00e7\u00e3o expressiva a favor desse acordo, que \u00e9 de interesse do Pa\u00eds e tamb\u00e9m de interesse do Estado do Maranh\u00e3o. Com certeza, poderemos contar com aqueles que apoiam, inclusive, o Governador do Estado, e aqui j\u00e1 se manifestaram favoravelmente ao m\u00e9rito. Se s\u00e3o favor\u00e1veis ao m\u00e9rito, por que n\u00e3o o ser\u00e3o \u00e0 urg\u00eancia, que \u00e9 para se chegar ao m\u00e9rito o mais r\u00e1pido poss\u00edvel? Portanto, que sejamos favor\u00e1veis todos \u00e0 urg\u00eancia e tamb\u00e9m ao m\u00e9rito dessa mat\u00e9ria, por ser de grande import\u00e2ncia para o Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=345&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JOS\u00c9 ROCHA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, PAVIMENTA\u00c7\u00c3O ASF\u00c1LTICA, JUSSIAPE (BA), DOM BAS\u00cdLIO (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Relato de atividades desenvolvidas pelo orador nos Munic\u00edpios de Dom Bas\u00edlio e Jussiape, Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Parlamentares, quero registrar que, no \u00faltimo final semana, nas comemora\u00e7\u00f5es do 7 de Setembro, dia em que se comemora a independ\u00eancia do nosso Pa\u00eds, estive no Munic\u00edpio de Dom Bas\u00edlio, acompanhando o Prefeito Roberval, o Vice-Prefeito Fernando, os Vereadores e toda a comunidade, na inaugura\u00e7\u00e3o de uma pavimenta\u00e7\u00e3o asf\u00e1ltica no Povoado Alto do Ros\u00e1rio. \r\nQuero tamb\u00e9m registrar que estive no Munic\u00edpio de Jussiape, com o Prefeito Dr. \u00c9der, os Vereadores e a comunidade, participando da entrega de uma ambul\u00e2ncia e de um trator agr\u00edcola, em companhia da Deputada Estadual Ivana Bastos. \r\nPortanto, quero aqui parabenizar tanto o Munic\u00edpio de Dom Bas\u00edlio quanto o Munic\u00edpio de Jussiape.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "JOS\u00c9 ROCHA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, RUI GOSTA, GOVERNADOR, BAHIA, PAVIMENTA\u00c7\u00c3O ASF\u00c1LTICA, BA-263, BA- 162, BA- 142, RODOVIA ESTADUAL, URANDI (BA), ITUA\u00c7U (BA), ABASTECIMENTO DE \u00c1GUA, CAATINGA, OBRA P\u00daBLICA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Participa\u00e7\u00e3o do orador em atos oficiais do Governador do Estado da Bahia, Rui Costa, nos Munic\u00edpios de Urandi e Itua\u00e7u. Realiza\u00e7\u00e3o das obras da BA-142.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente Geovania de S\u00e1, quero registrar a minha passagem, no final de semana, pelo Munic\u00edpio de Urandi - e l\u00e1 estava o Deputado Charles Fernandes -, quando o Governador Rui Costa assinou a ordem de servi\u00e7o da BA que ligar\u00e1 Urandi ao Munic\u00edpio de Lic\u00ednio de Almeida, uma aspira\u00e7\u00e3o de muito tempo. L\u00e1 tamb\u00e9m estavam o Prefeito Dorival, o ex-Prefeito Z\u00e9 Humberto, o ex-Prefeito Adonai, e toda a comunidade, participando desse ato importante para aquele Munic\u00edpio. Isso foi na sexta-feira.\r\nNo s\u00e1bado, estive na Chapada Diamantina, no portal de entrada do Circuito do Diamante, no Munic\u00edpio de Itua\u00e7u, acompanhando o Governador Rui Costa e o Prefeito Adalberto, quando o Governador tamb\u00e9m assinou a ordem de servi\u00e7o da BA-162, ligando Su\u00e7uarana, um distrito de Tanha\u00e7u, Itua\u00e7u, at\u00e9 a BR-242. Portanto, registro esse ato importante.\r\nO Governador ainda assinou a ordem de servi\u00e7o para a constru\u00e7\u00e3o de um sistema de abastecimento de \u00e1gua da Caatinga, atendendo a dez comunidades, uma reivindica\u00e7\u00e3o feita pelo Prefeito Adalberto e pela comunidade, al\u00e9m do Deputado Estadual Nelson Leal. \r\nQuanto \u00e0 BA-142, a ordem de servi\u00e7o foi marcada para o dia 6 de novembro pr\u00f3ximo, quando teremos tamb\u00e9m essas duas obras importantes para o desenvolvimento do Estado e para o turismo da Chapada Diamantina.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=63&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ABNER BRITO SANTOS, FERNANDA COIMBRA PACHECO, M\u00c9DICO, S\u00c3O PAULO (ESTADO), FALECIMENTO, ACIDENTE DE TR\u00c2NSITO.\r\nSUPERIOR TRIBUNAL DE JUSTI\u00c7A (STJ), AUTORIZA\u00c7\u00c3O, CRIA\u00c7\u00c3O, TRIBUNAL REGIONAL FEDERAL (TRF), BAHIA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Falecimento dos m\u00e9dicos Abner Brito Santos e Fernanda Coimbra Pacheco, em decorr\u00eancia de acidente automobil\u00edstico. Exig\u00eancia de autoriza\u00e7\u00e3o, pelo Superior Tribunal de Justi\u00e7a, da cria\u00e7\u00e3o do Tribunal Regional Federal do Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania de S\u00e1, Sras. e Srs. Deputados, venho \u00e0 tribuna para registar um fato e lamentar o falecimento de um casal de jovens: o Dr. Abner Brito Santos e a Dra. Fernanda Coimbra Pacheco. O Dr. Abner tinha 31 anos e a jovem doutora tamb\u00e9m tinha 31 anos. Era um casal de m\u00e9dicos que teve a infelicidade de sofrer um acidente de carro, indo a \u00f3bito essa madrugada, em S\u00e3o Paulo.\r\nS\u00e3o pessoas do meu relacionamento. O Dr. Abner era filho de um grande amigo meu, o empres\u00e1rio Rubens Donato, da cidade de Guanambi. A fam\u00edlia toda est\u00e1 consternada em fun\u00e7\u00e3o dessa perda irrepar\u00e1vel, de uma maneira tr\u00e1gica.\r\nPortanto, apresento aqui as minhas condol\u00eancias, o meu pesar \u00e0 fam\u00edlia de Rubens Donato pela perda irrepar\u00e1vel do jovem Dr. Abner, seu filho, e de sua namorada, tamb\u00e9m m\u00e9dica, Dra. Fernanda. \u00c9 realmente um momento de muita tristeza n\u00e3o s\u00f3 no seio da fam\u00edlia do empres\u00e1rio Rubens Donato mas tamb\u00e9m de toda a comunidade de Guanambi.\r\nSra. Presidente Geovania de S\u00e1, quero dar como lido um pronunciamento que fa\u00e7o no sentido de que o Tribunal Regional Federal tenha com a Bahia o mesmo procedimento que teve em rela\u00e7\u00e3o a Minas Gerais, liberando o nosso TRF.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Deferido, Deputado.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOS\u00c9 ROCHA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, h\u00e1 poucos dias fomos surpreendidos por uma decis\u00e3o do Superior Tribunal de Justi\u00e7a, STJ, que autorizou a cria\u00e7\u00e3o do sexto Tribunal Regional Federal, TRF, com sede em Belo Horizonte.\r\nRespeito a decis\u00e3o do Judici\u00e1rio e tamb\u00e9m considero justa a cria\u00e7\u00e3o do TRF de Minas Gerais, mas n\u00e3o posso aceitar que a Bahia tenha sido exclu\u00edda.\r\nA bancada federal do nosso Estado, em un\u00edssono, j\u00e1 manifestou que n\u00e3o admite a cria\u00e7\u00e3o de um TRF, sem que a Bahia seja contemplada.\r\nN\u00e3o aceitamos a decis\u00e3o do STJ que autoriza a cria\u00e7\u00e3o do TRF em Minas, mas n\u00e3o faz o mesmo com a Bahia.\r\nQuero lembrar que aprovamos aqui no Congresso Nacional, em 2013, emenda constitucional criando quatro novos tribunais com sedes em Salvador, Belo Horizonte, Manaus e Curitiba.\r\nLamentavelmente, o ent\u00e3o Presidente do Supremo Tribunal Federal, Ministro Joaquim Barbosa, em decis\u00e3o monocr\u00e1tica, concedeu liminar suspendendo os efeitos da emenda constitucional aprovada pelo Congresso Nacional.\r\nHoje, todos os processos judiciais da Bahia, que s\u00e3o de compet\u00eancia dos Tribunais Regionais, tramitam no TRF da 1\u00aa Regi\u00e3o com sede em Bras\u00edlia. O problema \u00e9 que esse TRF atende treze Estados, al\u00e9m da Bahia.\r\nCom tamanha demanda, O TRF-1 leva at\u00e9 20 anos para decidir sobre processos, inclusive sobre pedidos de aposentadoria, com preju\u00edzos incalcul\u00e1veis para a popula\u00e7\u00e3o desses 14 Estados. Assim, reafirmamos nossa luta e firme decis\u00e3o pela cria\u00e7\u00e3o de um Tribunal Regional Federal na Bahia.\r\nAgrade\u00e7o, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, ATO INTERNACIONAL, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTO A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA, MARANH\u00c3O, MARCELO RAMOS, HILDO ROCHA, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, a respeito da aprova\u00e7\u00e3o do texto do Acordo sobre Salvaguardas Tecnol\u00f3gicas, celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputada Soraya Santos, Sras. e Srs. Deputados, eu quero me somar a todos os Deputados que se posicionaram favoravelmente a esse acordo da base de Alc\u00e2ntara enviado a este Congresso e a esta Casa pelo Presidente Jair Bolsonaro. E quero dizer que realmente \u00e9 da maior import\u00e2ncia essa mat\u00e9ria para o nosso Pa\u00eds, para o Estado do Maranh\u00e3o, onde o Brasil se insere na tecnologia de lan\u00e7amentos de foguetes no Centro Espacial de Alc\u00e2ntara.\r\nEu tive a honra de ser Relator dessa mat\u00e9ria quando ela tramitou, durante o Governo Fernando Henrique, na Comiss\u00e3o de Ci\u00eancia e Tecnologia, e foi l\u00e1 aprovada por unanimidade.\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. CAMILO CAPIBERIBE (PSB - AP. Pela ordem. Sem revis\u00e3o do orador.) - O Deputado Camilo Capiberibe votou conforme a orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o anterior.\r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - Deputado Jos\u00e9 Rocha, eu preciso seguir com a mat\u00e9ria, portanto pe\u00e7o a V.Exa. que conclua.\r\nO SR. JOS\u00c9 ROCHA (PL - BA) - O ilustre Deputado Hildo Rocha, meu primo rico, do Maranh\u00e3o, foi o Relator na Comiss\u00e3o de Rela\u00e7\u00f5es Exteriores, onde tamb\u00e9m a aprovamos. Agora h\u00e1 o relat\u00f3rio ao PDL do nosso companheiro de partido, o Deputado Marcelo Ramos.\r\nEnt\u00e3o, acredito que daremos uma grande contribui\u00e7\u00e3o ao Pa\u00eds votando essa mat\u00e9ria no dia de hoje.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=258&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-24T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, TEODORO SAMPAIO (BA), HOMENAGEM, JOS\u00c9 ALVES DA CRUZ, PREFEITO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Transcurso do 58\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de Teodoro Sampaio, Estado da Bahia. Sauda\u00e7\u00f5es aos Prefeito Jos\u00e9 Alves da Cruz e \u00e0 popula\u00e7\u00e3o da localidade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputada Dra. Soraya Manato, Sras. e Srs. Deputados, eu venho \u00e0 tribuna, na tarde de hoje, para registrar que o Munic\u00edpio de Teodoro Sampaio completou 58 anos de emancipa\u00e7\u00e3o pol\u00edtica no \u00faltimo dia 20. A data foi marcada por ampla programa\u00e7\u00e3o, com atividades culturais, educativas e c\u00edvicas, al\u00e9m de v\u00e1rias inaugura\u00e7\u00f5es.\r\nTodos os eventos tiveram expressiva participa\u00e7\u00e3o popular, notadamente apresenta\u00e7\u00f5es musicais realizadas na Pra\u00e7a Jaime Barros. Milhares de pessoas, inclusive de cidades vizinhas, prestigiaram os shows, ao longo de 3 dias. \r\nDesta tribuna, parabenizo todos os moradores de Teodoro Sampaio, especialmente o grande amigo e Prefeito Jos\u00e9 Alves da Cruz, o nosso querido Bitinho.\r\nA gest\u00e3o do Prefeito Bitinho merece o meu aplauso pelo dinamismo, efici\u00eancia e di\u00e1logo com os moradores, sobretudo pelo trabalho eficiente que realiza no Munic\u00edpio. N\u00e3o tenho d\u00favidas de que o Munic\u00edpio vive dias promissores, inclusive, com a execu\u00e7\u00e3o de in\u00fameras obras que h\u00e1 anos eram reivindicadas pelos moradores.\r\nParab\u00e9ns, Prefeito Bitinho, que tem se constitu\u00eddo no melhor Prefeito de todos os tempos do Munic\u00edpio de Teodoro Sampaio!\r\nParab\u00e9ns, moradores de Teodoro Sampaio!\r\nSra. Presidente Dra. Soraya Manato, agrade\u00e7o a V.Exa. esta oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PAI, VALMIR ASSUN\u00c7\u00c3O, DEPUTADO FEDERAL, BAHIA, ANIVERS\u00c1RIO DE NASCIMENTO, HOMENAGEM.\r\nAM\u00c1RIO DOS SANTOS SANTANA, PADRE, MUQU\u00c9M DE S\u00c3O FRANCISCO (BA), HOMENAGEM, EX-PREFEITO, SANTA MARIA DA VIT\u00d3RIA (BA).\r\nJOS\u00c9 ROCHA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, RIO DE CONTAS (BA), JUSSIAPE (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Transcurso do 88\u00ba anivers\u00e1rio natal\u00edcio do pai do Deputado Valmir Assun\u00e7\u00e3o. Participa\u00e7\u00e3o do orador nas comemora\u00e7\u00f5es das Bodas de Prata de sacerd\u00f3cio do Padre Am\u00e1rio dos Santos Santana, da Par\u00f3quia de Santa Luzia, no Munic\u00edpio de Muqu\u00e9m de S\u00e3o Francisco, Estado da Bahia. Relato da visita do Parlamentar aos Munic\u00edpios de Rio de Contas e Jussiape.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Charles Fernandes, quero aqui cumprimentar o pai do nosso colega por seus 88 anos de vida bem vividos, pela bonita fam\u00edlia que criou e que tem nesta Casa um representante n\u00e3o s\u00f3 da fam\u00edlia, mas tamb\u00e9m da Bahia, que \u00e9 o querido amigo Deputado Valmir Assun\u00e7\u00e3o.\r\nSr. Presidente, quero aqui registar que, neste final de semana, eu pude participar de um evento importante: a celebra\u00e7\u00e3o em comemora\u00e7\u00e3o \u00e0s bodas de prata de sacerd\u00f3cio do Padre Am\u00e1rio, da Par\u00f3quia de Santa Luzia, em Javi, no Munic\u00edpio de Muqu\u00e9m de S\u00e3o Francisco. Padre Am\u00e1rio foi Prefeito de Santa Maria da Vit\u00f3ria, fez uma administra\u00e7\u00e3o exitosa, com muita a\u00e7\u00e3o, trabalho social e de infraestrutura e hoje se dedica ao sacerd\u00f3cio.\r\nTamb\u00e9m quero registrar que estive no Munic\u00edpio de Rio de Contas, acompanhando o Prefeito Cristiano Azevedo, em um caf\u00e9 da manh\u00e3 no Distrito de Marcolino Moura. Estive tamb\u00e9m, no Munic\u00edpio de Jussiape, durante a entrega de um trator agr\u00edcola para a comunidade do povoado de Carneiro. Fui muito bem recebido pela popula\u00e7\u00e3o dos Munic\u00edpios e quero agradecer o acolhimento que tive tanto do Prefeito Cristiano, em Rio de Contas, quanto do Prefeito Dr. \u00c9der, em Jussiape.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CANONIZA\u00c7\u00c3O, IRM\u00c3 DULCE, FREIRA, IGREJA CAT\u00d3LICA, SALVADOR (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Regozijo com a canoniza\u00e7\u00e3o da Irm\u00e3 Dulce.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sr. Presidente desta sess\u00e3o Otoni de Paula, Sras. e Srs. Parlamentares, a Bahia e o Brasil viveram momentos hist\u00f3ricos no dia 13 de outubro. Foi nessa data, numa manh\u00e3 ensolarada na Pra\u00e7a de S\u00e3o Pedro, Cidade do Vaticano, em Roma, que o Papa Francisco canonizou a primeira santa brasileira. O Anjo Bom da Bahia, a nossa eterna Irm\u00e3 Dulce, foi santificada com o nome de Santa Dulce dos Pobres. \r\nAgrade\u00e7o muito a Deus, pois tive a honra de estar presente na Pra\u00e7a S\u00e3o Pedro durante essa cerim\u00f4nia emocionante, de muito simbolismo, religiosidade e f\u00e9 que foi transmitida para o Brasil e o mundo, al\u00e9m de contar com a presen\u00e7a de milhares de pessoas. Confesso que a cerim\u00f4nia de santifica\u00e7\u00e3o foi um momento de muita emo\u00e7\u00e3o para mim, pois tive a gra\u00e7a de conviver com Irm\u00e3 Dulce, de trabalhar ao seu lado, de testemunhar o carinho e a aten\u00e7\u00e3o que ela dedicava a todos que a procuravam. M\u00e9dico, trabalhei com Irm\u00e3 Dulce no Hospital Santo Ant\u00f4nio e, \u00e0s ter\u00e7as-feiras, almo\u00e7ava com ela. O prato era um cozido, certamente o melhor que j\u00e1 comi at\u00e9 hoje. A cada dia, ficava mais impressionado como aquele corpo franzino esbanjava energia, dedica\u00e7\u00e3o incans\u00e1vel, palavras de motiva\u00e7\u00e3o, f\u00e9 e esperan\u00e7a, gestos de extrema caridade para cada necessitado. N\u00e3o tenho d\u00favidas: Irm\u00e3 Dulce foi uma santa em vida.\r\nN\u00f3s baianos e baianas estamos orgulhosos e com nossa f\u00e9 renovada por saber que a primeira santa brasileira nasceu em Salvador e ali realizou uma obra social e humanit\u00e1ria reconhecida no Brasil e no mundo. Felizmente, essa ajuda aos mais necessitados continua com o trabalho das Obras Sociais Irm\u00e3 Dulce, entidade a que parabenizo desta tribuna.\r\nViva Santa Dulce dos Pobres!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FEIRA CIDAD\u00c3 (2019, COCOS (BA), EXAME OFTALMOL\u00d3GICO, CIRURGIA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Participa\u00e7\u00e3o do orador na Feira Cidad\u00e3, no Munic\u00edpio de Cocos, Estado da Bahia. Realiza\u00e7\u00e3o, na municipalidade, de mutir\u00e3o de cirurgias e exames oftalmol\u00f3gicos, promovido pelas Volunt\u00e1rias Sociais da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Charles Fernandes, Sras. e Srs. Deputados, assomo a esta tribuna neste momento para registrar que participei, na quinta-feira, da Feira Cidad\u00e3, no Munic\u00edpio de Cocos, juntamente com o Prefeito Marcelo, com a Vice-Prefeita Ivana Gouveia e com Vereadores, quando houve um movimento que realmente me chamou muito a aten\u00e7\u00e3o, pela quantidade de pessoas que ali estavam recebendo a\u00e7\u00f5es sociais, na \u00e1rea de cirurgias e exames oftalmol\u00f3gicos. Foram atendidas mais de 8 mil pessoas em 2 dias, o que demonstra ser aquele um programa importante, de iniciativa das Volunt\u00e1rias Sociais da Bahia.\r\nPortanto, quero cumprimentar n\u00e3o s\u00f3 a Primeira-Dama do Estado como tamb\u00e9m o Prefeito de Cocos, a Vice-Prefeita, os Vereadores e toda a comunidade. Cumprimento-os pela participa\u00e7\u00e3o nesse evento social, muito importante para o povo do Munic\u00edpio de Cocos.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "IMPRENSA, JORNAL, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, BAHIA, PETR\u00d3LEO, HOMENAGEM.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Comemora\u00e7\u00e3o do 107\u00ba e do 50\u00ba anivers\u00e1rios de funda\u00e7\u00e3o, respectivamente, dos jornais A Tarde  eTribuna da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Charles Fernandes, Sras. e Srs. Parlamentares, a hist\u00f3ria da imprensa do nosso Estado foi marcada por duas datas muito especiais no m\u00eas de outubro.\r\nNo dia 15, o jornal A Tarde comemorou 107 anos de funda\u00e7\u00e3o. Foi nesta data, em 1912, que o jornal come\u00e7ou a circular, fruto de uma iniciativa arrojada e apaixonada do seu fundador, Ernesto Sim\u00f5es Filho. \r\nNa capa da primeira edi\u00e7\u00e3o, o fundador expressou o compromisso maior do jornal: \"A luta pelos mais nobres deveres da civiliza\u00e7\u00e3o n\u00e3o pode deixar de ser a nossa preocupa\u00e7\u00e3o ass\u00eddua e constante (...) praticar a honra, a franqueza, a liberdade mais livre no uso da palavra escrita, eis o nosso compromisso com o nobre povo baiano\". \r\nMenos de 3 anos ap\u00f3s sua funda\u00e7\u00e3o, o jornal deu uma mostra da sua disposi\u00e7\u00e3o para enfrentar novos desafios e lan\u00e7ou a sua primeira grande campanha. Na edi\u00e7\u00e3o de 26 de agosto de 1915, o jornal questionava: \"Por que n\u00e3o exploramos nosso petr\u00f3leo?\". Essa iniciativa, bem anterior \u00e0 campanha nacional \"O petr\u00f3leo \u00e9 nosso!\", muito contribuiu para que, em janeiro de 1939, finalmente jorrasse petr\u00f3leo pela primeira vez em solo brasileiro, solo baiano, em Lobato, periferia de Salvador.\r\nAo longo de seus 107 anos de hist\u00f3ria, o jornal sempre manteve em suas p\u00e1ginas colunistas e articulistas com ideologias e credos os mais diversos. Podemos destacar o Governador Lu\u00eds Viana Filho, o ge\u00f3grafo Milton Santos, o historiador Luiz Alberto Moniz Bandeira e o professor Roberto Santos, entre outros.\r\nDesta tribuna parabenizo a dire\u00e7\u00e3o, os funcion\u00e1rios, enfim, todos que fizeram a fazem parte da bela hist\u00f3ria do jornal A Tarde.\r\nA outra data que marcou a hist\u00f3ria da imprensa do nosso Estado foi no dia 21, quando se comemoraram os 50 anos de funda\u00e7\u00e3o do jornal Tribuna da Bahia. Fundado por Elmano Silveira Castro, o jornal nasceu em 1969, durante a ditadura militar, defendendo o respeito aos leitores e o compromisso de pluralidade nas not\u00edcias publicadas. A inova\u00e7\u00e3o e o compromisso com a democracia s\u00e3o marcas que acompanham o jornal desde a sua funda\u00e7\u00e3o.\r\nA Tribuna da Bahia foi o primeiro jornal do Pa\u00eds a ser impresso no sistema offset. A reda\u00e7\u00e3o sempre se pautou por uma linguagem jornal\u00edstica moderna, aliada a um padr\u00e3o gr\u00e1fico inovador e a um tratamento diferenciado na abordagem das not\u00edcias. Nas p\u00e1ginas do jornal j\u00e1 estiveram nomes com Jo\u00e3o Ubaldo Ribeiro, Bob Fernandes, Ant\u00f4nio Ris\u00e9rio e o destacado chefe de reda\u00e7\u00e3o Joaci G\u00f3es, entre outros.\r\n\tNa pessoa do Presidente do jornal, Ant\u00f4nio Walter Pinheiro, de Marcelo Sacramento e Paulo Roberto Sampaio, parabenizo toda a dire\u00e7\u00e3o e todos os funcion\u00e1rios da Tribuna da Bahia.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BASE DE APOIO POLITICO, GOVERNO, OPOSI\u00c7\u00c3O POLITICA, VOTA\u00c7\u00c3O, MPV 890/2019, MEDIDA PROVISORIA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Concord\u00e2ncia da base governista com a proposta de acordo da Oposi\u00e7\u00e3o para a vota\u00e7\u00e3o do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Governo concorda com a proposta feita pela Oposi\u00e7\u00e3o, ou seja, pelo PT e pelo PCdoB: colocar em vota\u00e7\u00e3o o PLV aprovado na Comiss\u00e3o, com o acordo de todos da Comiss\u00e3o. Vota-se primeiro a prefer\u00eancia do PSOL e depois o PLV, ressalvados os destaques. Ent\u00e3o, n\u00f3s votamos os destaques nominalmente. O Governo concorda com essa proposta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONTRARIO, VOTA\u00c7\u00c3O, MPV 890/2019, MEDIDA PROVISORIA, PROGRAMA M\u00c9DICOS PELO BRASIL, PL 4067/2015, PROJETO DE LEI ORDIN\u00c1RIA, EXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA),.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Contraproposta do Governo para vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, e do Projeto de Lei n\u00ba 4.067, de 2015, a respeito da institui\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Institui\u00e7\u00e3o de Educa\u00e7\u00e3o Superior Estrangeira - REVALIDA.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA) - Sra. Presidente, o Governo faz uma contraproposta e pede a compreens\u00e3o do L\u00edder Arthur Lira e da Oposi\u00e7\u00e3o, no sentido de votarmos primeiro a medida provis\u00f3ria e, logo em seguida, retirarmos o REVALIDA da MP, votarmos a MP e, na sequ\u00eancia, votarmos o REVALIDA como est\u00e1 proposto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T09:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ NORMANHA JUNIOR, ENGENHEIRO AGR\u00d4NOMO, ANIVERS\u00c1RIO DE NASCIMENTO. HOMENAGEM.\r\nPAVIMENTA\u00c7\u00c3O ASF\u00c1LTICA, RIACHO DE SANTANA (BA), INAUGURA\u00c7\u00c3O.\r\nCOMPANHIA DE DESENVOLVIMENTO DOS VALES DO S\u00c3O FRANCISCO E DO PARNA\u00cdBA (CODEVASF), ADUTORA, IGAPOR\u00c3 (BA), RIACHO DE SANTANA (BA), LICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Participa\u00e7\u00e3o em evento comemorativo do anivers\u00e1rio natal\u00edcio e da formatura do engenheiro agr\u00f4nomo Luiz Normanha Junior, no Munic\u00edpio de Santa Maria da Vit\u00f3ria, Estado da Bahia. Participa\u00e7\u00e3o no ato de inaugura\u00e7\u00e3o do asfaltamento de Bairro Alto da Belo Vista, no Munic\u00edpio de Riacho de Santana. Licita\u00e7\u00e3o das obras de adutora destinada ao abastecimento de \u00e1guas aos Riacho de Santana e Igapor\u00e3, na Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sra. Presidenta desta sess\u00e3o, Deputada Benedita da Silva, ilustre ex-Governadora do Rio de Janeiro e colega querida por todos, Sras. e Srs. Parlamentares, quero desta tribuna fazer o registro de que, no s\u00e1bado passado, eu estive no Munic\u00edpio de Santa Maria da Vit\u00f3ria participando do evento de comemora\u00e7\u00e3o da formatura do jovem Luiz Normanha Junior e do seu anivers\u00e1rio. Ele se formou engenheiro agr\u00f4nomo, para felicidade do seu pai, o Coronel Normanha, de sua m\u00e3e, de seus irm\u00e3os e de todos os seus familiares.\r\nDepois, tive a oportunidade de participar, em Riacho de Santana, de uma inaugura\u00e7\u00e3o muito importante para o povo daquele Munic\u00edpio, que foi a do asfaltamento de todo um bairro, o Bairro do Alto da Bela Vista, realizado na gest\u00e3o do Prefeito Alan Vieira e do Vice-Prefeito Daniel, que tamb\u00e9m \u00e9 Secret\u00e1rio de Obras. \u00c0 inaugura\u00e7\u00e3o estava presente o ex-Prefeito, o Dr. Paulo Gondim, tamb\u00e9m uma pessoa muito querida naquele Munic\u00edpio, assim como todos os Vereadores e a Deputada Estadual Ivana Bastos. A pra\u00e7a estava lotada para comemorar e agradecer ao Prefeito Alan Vieira a entrega do asfaltamento de todo o bairro. Foram 17 ruas asfaltadas, numa obra realmente importante de saneamento, que vai dar melhores condi\u00e7\u00f5es de vida a todos aqueles que habitam o bairro.\r\nEu quero tamb\u00e9m aqui, Sra. Presidenta, registrar que, para alegria da popula\u00e7\u00e3o, tanto de Riacho de Santana quanto de Igapor\u00e3, foi publicada na Di\u00e1rio Oficial a licita\u00e7\u00e3o do projeto para levar \u00e1gua do Rio S\u00e3o Francisco para abastecer as sedes daqueles Munic\u00edpios, que sofrem muito com a falta de \u00e1gua. Nos momentos cr\u00edticos, a popula\u00e7\u00e3o \u00e9 abastecida por carros-pipa, realmente uma coisa inconceb\u00edvel nos dias de hoje. Agora n\u00f3s vamos ter a oportunidade de ter a \u00e1gua vindo do Rio S\u00e3o Francisco para abastecer as duas sedes municipais, tanto de Riacho de Santana quanto de Igapor\u00e3.\r\nQuero aqui parabenizar todo o povo de Riacho de Santana e de Igapor\u00e3 por essa vit\u00f3ria, gra\u00e7as a uma emenda que n\u00f3s conseguimos viabilizar na aprova\u00e7\u00e3o da LDO. N\u00f3s conseguimos alocar os recursos para que aquelas duas comunidades possam ter o seu sistema de abastecimento de \u00e1gua regularizado, essa realmente \u00e9 uma vit\u00f3ria muito grande.\r\nEu quero agradecer aqui ao Senador Eduardo Gomes, que no PLN conseguiu recuperar esses recursos cuja retirada havia sido proposta. N\u00f3s conseguirmos manter os recursos para a licita\u00e7\u00e3o dos projetos.\r\nFelizmente, a CODEVASF j\u00e1 providenciou e publicou a licita\u00e7\u00e3o para a elabora\u00e7\u00e3o dos projetos e, depois, para a constru\u00e7\u00e3o do sistema.\r\nPortanto, quero parabenizar o povo de Riacho de Santana, na pessoa do Prefeito Alan Vieira, o povo de Igapor\u00e3, na pessoa do ex-Prefeito Deusdete Fagundes, bem como a todos os que realmente desejam o melhor para o seu Munic\u00edpio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=23&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "SESS\u00c3O LEGISLATIVA ORDIN\u00c1RIA, RETOMADA, ATIVIDADE, REFORMA TRIBUT\u00c1RIA, REFORMA ADMINISTRATIVA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Regozijo com a retomada dos trabalhos na Casa na 2\u00aa Sess\u00e3o Legislativa Ordin\u00e1ria da 56\u00ba Legislatura. Realiza\u00e7\u00e3o das reformas tribut\u00e1ria e administrativa.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Charles Fernandes, que honra o nosso Estado aqui, nesta Casa; ilustre Deputado Hildo Rocha, meu primo rico l\u00e1 do Maranh\u00e3o, que tamb\u00e9m honra o seu Estado aqui nesta Casa Legislativa; Sras. e Srs. Deputados, quero manifestar minha alegria de retornar \u00e0 Cassa para esta 2\u00aa Sess\u00e3o Legislativa Ordin\u00e1ria da 56\u00ba Legislatura e podermos iniciar nossos trabalhos com mat\u00e9rias importantes a serem debatidas, discutidas, a exemplo da reforma tribut\u00e1ria e da reforma administrativa, temas que, com certeza, haver\u00e3o de ocupar o maior espa\u00e7o nos debates e nas discuss\u00f5es nesta Casa durante este ano.\r\nQuero agradecer ao ilustre Presidente Charles Fernandes e aos demais colegas deste Parlamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=22&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "ACIDENTE DE TR\u00c2NSITO, BR-349, RODOVIA FEDERAL, CORRENTINA (BA), ANEL RODOVI\u00c1RIO, CONSTRU\u00c7\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Ocorr\u00eancia de acidente com v\u00edtimas fatais na BR-349, no per\u00edodo urbano do Munic\u00edpio de Correntina, Estada da Bahia. Urgente necessidade de constru\u00e7\u00e3o do contorno rodovi\u00e1rio de Correntina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Charles Fernandes, Sras. e Srs. Parlamentares, venho \u00e0 tribuna para lamentar um fato tr\u00e1gico que ocorreu na cidade de Correntina, no meu Estado, a Bahia. Uma carreta boiadeira tombou dentro da cidade de Correntina, o que levou a \u00f3bito duas crian\u00e7as, dois jovens. Isso enlutou a cidade, criou um momento de pesar e de sofrimento para as suas fam\u00edlias, em toda a regi\u00e3o.\r\nSr. Presidente, eu j\u00e1 me dirigi ao Superintendente do DNIT - Departamento Nacional de Infraestrutura de Transportes na Bahia e pedi que agilize a constru\u00e7\u00e3o do contorno rodovi\u00e1rio em Correntina. Duas rodovias, a BR-349 e a BR-135, encontram-se dentro da cidade. Torna-se necess\u00e1rio e urgente que esse contorno rodovi\u00e1rio seja constru\u00eddo, para evitar novos acidentes. Esse \u00e9 o segundo acidente de grande repercuss\u00e3o que ocorre l\u00e1 e que leva a \u00f3bito v\u00e1rias pessoas. Outro acidente aconteceu na BR-349 - agora de novo ocorreu na BR-349 -, dentro da cidade. Isso consternou a popula\u00e7\u00e3o e me trouxe aqui para dizer que solicitei ao DNIT e ao Minist\u00e9rio da Infraestrutura que tomem provid\u00eancias o mais rapidamente poss\u00edvel.\r\nEnvio daqui o meu abra\u00e7o aos familiares enlutados com a grande trag\u00e9dia e a toda a fam\u00edlia correntinense, que sofre neste momento com esse tr\u00e1gico acidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CHUVA, FRED MUNIZ BARRETO ANDRADE, PREFEITO, UBA\u00cdRA (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Encontro do Prefeito Fred Muniz Barreto Andrade, do Munic\u00edpio de Uba\u00edra, Estado da Bahia, com o Ministro do Desenvolvimento Regional, Rog\u00e9rio Marinho, para debate de medidas de revers\u00e3o de danos causados pelas chuvas torrenciais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Sr. Presidente desta sess\u00e3o, Deputado Charles Fernandes, quero aqui fazer um apelo ao Ministro Rog\u00e9rio Marinho, que acaba de assumir o Minist\u00e9rio do Desenvolvimento Regional, no sentido de atender aos reclamos do povo de Uba\u00edra, Munic\u00edpio que se encontra em estado de emerg\u00eancia em virtude das fortes chuvas que se abateram sobre a cidade, levando desassossego \u00e0s fam\u00edlias e preju\u00edzo muito grande \u00e0 infraestrutura do Munic\u00edpio, com a destrui\u00e7\u00e3o da pavimenta\u00e7\u00e3o das ruas. \r\nO Prefeito Fred est\u00e1 muito preocupado. S.Exa. est\u00e1 vindo a Bras\u00edlia para ter audi\u00eancia com o Ministro Rog\u00e9rio Marinho, a fim de que n\u00e3o s\u00f3 sejam socorridas as fam\u00edlias desabrigadas, mas tamb\u00e9m a Prefeitura possa fazer a recupera\u00e7\u00e3o de toda a infraestrutura deteriorada pelas fortes chuvas que se abateram sobre a cidade.\r\nEra isso, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-19T10:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE AVIA\u00c7\u00c3O CIVIL (ANAC), LIBERA\u00c7\u00c3O, FUNCIONAMENTO, AEROPORTO, GUANAMBI (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Regozijo com a libera\u00e7\u00e3o, pela Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil - ANAC, do Certificado Operacional Provis\u00f3rio ao Aeroporto Isaac Moura Rocha, no Munic\u00edpio de Guanambi, Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Charles Fernandes, quero compartilhar com V.Exa. a alegria de ter recebido uma comunica\u00e7\u00e3o do Diretor da ANAC a respeito da libera\u00e7\u00e3o do Aeroporto de Guanambi, sua querida cidade, da qual V.Exa. foi Prefeito e que hoje representa nesta Casa.\r\nA ANAC concedeu Certificado Operacional Provis\u00f3rio de Aeroporto \u00e0 Prefeitura Municipal de Guanambi, operador do Aeroporto Municipal Isaac Moura Rocha. Agora, Deputado Charles Fernandes, resta-nos lutar para que tenhamos uma linha a\u00e9rea regular nos trechos Guanambi/Salvador e Salvador/Guanambi e de Guanambi para outros aeroportos.\r\nEsse aeroporto \u00e9 muito importante para aquela regi\u00e3o que n\u00f3s representamos. Tenho certeza de que essa linha a\u00e9rea vai nos dar maior mobilidade e vai desenvolver ainda mais a nossa regi\u00e3o. Afinal, n\u00f3s lutamos muito para que a nossa regi\u00e3o possa se desenvolver cada vez mais.\r\n\u00c9 uma alegria compartilhar com V.Exa. essa informa\u00e7\u00e3o a respeito da homologa\u00e7\u00e3o desse aeroporto. Agora vamos lutar para que n\u00f3s tenhamos uma linha a\u00e9rea regular no trecho Salvador/Guanambi.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2020&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-03T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FALECIMENTO, JOS\u00c9 CAIRES DE ARA\u00daJO, EX-PREFEITO, DOM BAS\u00cdLIO (BA), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Falecimento do ex-Prefeito Jos\u00e9 Caires de Ara\u00fajo, do Munic\u00edpio de Dom Bas\u00edlio, Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Para discursar. Sem revis\u00e3o do orador.) - Sr. Deputado Marcos Pereira, que preside esta sess\u00e3o do Congresso Nacional, quero anunciar que o Munic\u00edpio de Dom Bas\u00edlio anoiteceu na quarta-feira passada, dia 26, de luto com a perda do ex-Prefeito e ex-Vereador Jos\u00e9 Caires de Ara\u00fajo.\r\nJos\u00e9 Caires de Ara\u00fajo deixou um grande legado ao Munic\u00edpio tanto como Prefeito quanto como Vereador, e deixou tamb\u00e9m uma fam\u00edlia muito bonita - hoje, seu genro, Roberval Meira, \u00e9 Prefeito do Munic\u00edpio.\r\nN\u00f3s nos sentimos pesarosos pelo fato de o Munic\u00edpio ter perdido um grande administrador e de o Partido Liberal ter perdido um grande companheiro e Presidente do partido naquele Munic\u00edpio.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-12T12:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 909/2019, MEDIDA PROVISORIA, EXTIN\u00c7\u00c3O, RESERVA MONET\u00c1RIA, BANCO CENTRAL DO BRASIL (BACEN), DESTINA\u00c7\u00c3O, RECURSOS FINANCEIROS, COMBATE, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, DEFESA.\r\nLUIS MIRANDA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, AVALIA\u00c7\u00c3O POSITIVA.\r\nRODRIGO MAIA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, AVALIA\u00c7\u00c3O POSITIVA.\r\nDIA DO ENFERMEIRO, ENFERMEIRO, HOMENAGEM.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 909, de 2019, sobre a extin\u00e7\u00e3o do fundo formado pelas reservas monet\u00e1rias constante no art. 12 da Lei n\u00ba 5.143, de 1966, bem como a destina\u00e7\u00e3o dos recursos remanescentes e a revoga\u00e7\u00e3o do dispositivo mencionado. Elogio ao Relator da mat\u00e9ria, Deputado Luis Miranda, e ao Presidente Rodrigo Maia. Homenagem aos profissionais da sa\u00fade engajados na luta contra o novo coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, a MP 909, que estamos discutindo, tem como objetivo alocar recursos do extinto fundo de reserva monet\u00e1ria para o combate \u00e0 COVID-19. Essa \u00e9 uma a\u00e7\u00e3o do Presidente Jair Bolsonaro que todos n\u00f3s apoiamos, em fun\u00e7\u00e3o da import\u00e2ncia da inje\u00e7\u00e3o de mais 8,7 bilh\u00f5es de reais no combate \u00e0 COVID-19. Portanto, s\u00e3o mais recursos. H\u00e1 a preocupa\u00e7\u00e3o do Governo em alocar recursos para minimizar os efeitos dessa pandemia que nos traz todo tipo de dificuldade.\r\nQueremos aqui elogiar o trabalho realizado pelo Relator Luis Miranda, que acolheu sugest\u00f5es da Lideran\u00e7a do Governo - nosso L\u00edder, Major Vitor Hugo -, para que esses recursos n\u00e3o fossem dispersados, e, sim, todos alocados para o combate \u00e0 COVID-19.\r\nMas, Sr. Presidente, tamb\u00e9m quero aqui parabenizar V.Exa. pela condu\u00e7\u00e3o dos trabalhos que esta Casa realiza virtualmente, dando resultados positivos importantes para o Pa\u00eds ao aprovar mat\u00e9rias relevantes e que n\u00e3o poderiam ficar sem a aten\u00e7\u00e3o desta Casa.\r\nV.Exa., como um grande comandante, tem procurado envidar todos os esfor\u00e7os, participando tamb\u00e9m da coordena\u00e7\u00e3o, para que essas mat\u00e9rias possam ser discutidas e aprovadas. O saldo \u00e9 positivo para esta Casa durante este per\u00edodo de sess\u00f5es virtuais. Mat\u00e9rias da mais alta relev\u00e2ncia est\u00e3o sendo aprovadas.\r\nEu tamb\u00e9m n\u00e3o poderia, como m\u00e9dico que sou, deixar de homenagear a classe m\u00e9dica, enfermeiros, agentes de sa\u00fade e todos os colaboradores que doam suas vidas para salvar milh\u00f5es de vidas em todo o mundo e milhares de vidas no nosso Pa\u00eds. Quero aqui homenagear todos os m\u00e9dicos, enfermeiros e todos aqueles que est\u00e3o no embate, no confronto direto em rela\u00e7\u00e3o \u00e0 COVID-19, para preservar a vida do povo brasileiro.\r\nMuito obrigado, Sr. Presidente, pela oportunidade de colocar essas quest\u00f5es fundamentais para a vida do povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2020&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-16T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 932/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.\r\nOSVALDO L\u00c9LIS LIMA, EX-PREFEITO, SEBASTI\u00c3O LARANJEIRAS (BA), CL\u00c1UDIO BORGES, VEREADOR, CAETIT\u00c9 (BA), JOS\u00c9 FERNANDES DA CUNHA, SANTA MARIA DA VIT\u00d3RIA (BA), JOS\u00c9 SILVEIRA L\u00c9DO, COCOS (BA), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 932, de 2020, sobre a altera\u00e7\u00e3o das al\u00edquotas de contribui\u00e7\u00e3o aos servi\u00e7os sociais aut\u00f4nomos especificados. Congratula\u00e7\u00e3o aos Relator da mat\u00e9ria, Deputado Hugo Leal. Falecimento do ex-Prefeito Osvaldo L\u00e9lis Lima, do Munic\u00edpio de Sebasti\u00e3o Laranjeiras; do Vereador Cl\u00e1udio Borges, da C\u00e2mara Municipal de Caetit\u00e9; do Sr. Jos\u00e9 Fernandes da Cunha, do Munic\u00edpio de Santa Maria da Vit\u00f3ria;  e do Sr. Jos\u00e9 Silveira L\u00e9do, do Munic\u00edpio de Cocos, no Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o PL encaminha o voto \"sim\" ao tempo em que parabeniza o Deputado Hugo Leal pelo seu brilhante relat\u00f3rio. \r\nAproveito a oportunidade para registrar o falecimento do ex-Prefeito de Sebasti\u00e3o Laranjeiras, Osvaldo L\u00e9lis Lima, mais conhecido por Vav\u00e1 Lima, que deixa quatro filhos, entre os quais, o estimado amigo de longa data, Carlos Laranjeiras Lima, o Betinho. Ele era sogro da ex-Prefeita do Munic\u00edpio, Luciana Le\u00e3o Muniz, atual suplente de Senadora.\r\nQuero tamb\u00e9m registrar o falecimento do Vereador do Munic\u00edpio de Caetit\u00e9, Cl\u00e1udio Borges, aos 66 anos, no dia 14; o falecimento de um grande amigo e parente, Jos\u00e9 Fernandes da Cunha, em Santa Maria da Vit\u00f3ria; e o de Jos\u00e9 Silveira L\u00e9do, no Munic\u00edpio de Cocos.\r\nMuito obrigado, Sr. Presidente.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO JOS\u00c9 ROCHA.\r\n\r\nSr. Presidente, Sras. Deputadas, Srs. Deputados, desta tribuna registro falecimentos recentes de pessoas da nossa mais elevada estima. \r\nRecebi, com muito pesar, a not\u00edcia da morte do Vereador de Caetit\u00e9 Cl\u00e1udio Borges, aos 66 anos, no \u00faltimo domingo, dia 14. Lamentavelmente, o Vereador Cl\u00e1udio Borges foi v\u00edtima de um acidente automobil\u00edstico, tendo sido atropelado pelo pr\u00f3prio ve\u00edculo quando se encontrava na sua resid\u00eancia, no Distrito de Brejinho das Ametistas. \r\nO Vereador fazia parte da base do Prefeito Aldo Gondim e estava em seu terceiro mandato. Deixou esposa, a Profa. Alexandrina dos Santos Borges, e 8 filhos. \r\nAinda no domingo, para nossa tristeza, faleceu o ex-Prefeito de Sebasti\u00e3o Laranjeiras, Osvaldo L\u00e9lis Lima, mais conhecido pelos moradores por Vav\u00e1 Lima. V\u00edtima de insufici\u00eancia respirat\u00f3ria, Vav\u00e1 Lima faleceu aos 87 anos e deixou um legado de grandes realiza\u00e7\u00f5es nas \u00e1reas urbana e rural do Munic\u00edpio durante seus dois mandatos como Prefeito, entre 1971 e 1972 e de 1993 a 1996. \r\nVav\u00e1 Lima, que tamb\u00e9m exerceu dois mandatos de Vereador, tendo presidido a C\u00e2mara em duas ocasi\u00f5es, deixou 4 filhos, inclusive o estimado amigo de longa data Carlos Laranjeira Lima, o Betinho. Era sogro de Luciana Le\u00e3o Muniz, ex-Prefeita do Munic\u00edpio por dois mandatos e atual suplente de Senadora.\r\nInfelizmente, ainda no dia 14, tivemos o falecimento de Jos\u00e9 Fernandes da Cunha, amigo e pessoa muito prezada, em Santa Maria da Vit\u00f3ria. Ele faleceu aos 84 anos, em decorr\u00eancia de problemas de sa\u00fade. Jos\u00e9 Fernandes deixa sua esposa, D. Dina, e os filhos Vilson Cunha e Wagner Cunha. \r\nPor \u00faltimo, registro o falecimento de Jos\u00e9 Silveira L\u00e9do, no Munic\u00edpio de Cocos. \r\nNeste plen\u00e1rio, manifesto meus p\u00easames aos falecidos aqui nominados e rogo ao Criador para que todas as fam\u00edlias tenham for\u00e7as e muita uni\u00e3o para superar tamanhas perdas. \r\nAgrade\u00e7o Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-10-06T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELEI\u00c7\u00c3O, PRESIDENTE DE COMISS\u00c3O, COMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO), CANCELAMENTO, REUNI\u00c3O, PRESIDENTE, CONGRESSO NACIONAL, DEFESA, INSTALA\u00c7\u00c3O, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Apelo \u00e0 Presid\u00eancia do Congresso Nacional de instala\u00e7\u00e3o da Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o, e elei\u00e7\u00e3o dos membros da respectiva Mesa Diretora.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero cumpriment\u00e1-lo, bem como a todos os pares desta Casa, e lamentar que n\u00e3o tenha ocorrido hoje a elei\u00e7\u00e3o para a Presid\u00eancia da Comiss\u00e3o de Or\u00e7amento da Casa, que j\u00e1 est\u00e1 h\u00e1 muito tempo sem ser instalada. Estava convocada a reuni\u00e3o da Comiss\u00e3o de Or\u00e7amento pelo Sr. Presidente do Congresso, para que houvesse a instala\u00e7\u00e3o e, consequentemente, a elei\u00e7\u00e3o da Mesa, mas infelizmente, antes de come\u00e7armos, j\u00e1 com qu\u00f3rum assegurado, o Presidente do Congresso resolveu cancelar a reuni\u00e3o da CMO e n\u00e3o marcou a nova data para a sua instala\u00e7\u00e3o.\r\nEu quero fazer um apelo ao Presidente do Congresso, Sr. Presidente, para que possa marcar novamente a reuni\u00e3o da Comiss\u00e3o de Or\u00e7amento, a fim de que n\u00f3s possamos n\u00e3o s\u00f3 instalar a Comiss\u00e3o e eleger a Mesa Diretora, mas tamb\u00e9m iniciar os trabalhos. O Or\u00e7amento j\u00e1 est\u00e1 na Casa. N\u00f3s temos projetos que j\u00e1 est\u00e3o na Casa e que dependem da instala\u00e7\u00e3o da Comiss\u00e3o.\r\nO SR. PRESIDENTE (Luis Miranda. DEM - DF) - Pe\u00e7o que conclua, Deputado.\r\nO SR. JOS\u00c9 ROCHA (Bloco/PL - BA) - Portanto, este \u00e9 o apelo que fa\u00e7o ao Presidente do Congresso Nacional, para que possa realmente destravar, vamos dizer assim, essas mat\u00e9rias, instalando a Comiss\u00e3o de Or\u00e7amento do Congresso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F10%2F2020&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-10-06T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MULHER, PARTICIPA\u00c7\u00c3O POL\u00cdTICA, ELEI\u00c7\u00c3O MUNICIPAL, BAHIA, CANDIDATO A CARGO ELETIVO, PREFEITA, MUNIC\u00cdPIO, BANCADA FEMININA, ATUA\u00c7\u00c3O PARLAMENTAR, C\u00c2MARA DOS DEPUTADOS, ELOGIO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Participa\u00e7\u00e3o feminina na pol\u00edtica brasileira. Elevado n\u00famero de candidatas ao cargo de Prefeita Municipal no Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu quero aqui enaltecer a participa\u00e7\u00e3o das mulheres na pol\u00edtica brasileira.\r\nNo meu Estado, nas elei\u00e7\u00f5es que v\u00e3o acontecer no dia 15 de novembro, n\u00f3s teremos uma participa\u00e7\u00e3o muito grande das mulheres. N\u00f3s temos, por exemplo, no Munic\u00edpio de Sebasti\u00e3o Laranjeiras, uma candidata a Prefeita, a Dra. Luciana Muniz, que inclusive \u00e9 suplente, no Senado Federal, do Senador Jaques Wagner. Em Maetinga, temos a Aline como candidata a Prefeita, assim como em Matina temos a D. Olga, que tamb\u00e9m \u00e9 candidata a Prefeita. Em Itamb\u00e9, Andreia Malta \u00e9 candidata a Prefeita; em Jaborandi, M\u00e1rcia...\r\nO SR. PRESIDENTE (Luis Miranda. DEM - DF) - Deputado, o seu tempo acabou, mas lhe concederei mais tempo se V.Exa. colocar a m\u00e1scara, para n\u00e3o abrirmos nenhum precedente, por favor.(Pausa.)\r\nObrigado. Pode seguir.\r\nO SR. JOS\u00c9 ROCHA (Bloco/PL - BA) - Agrade\u00e7o, Sr. Presidente.\r\nEm Jaborandi, M\u00e1rcia tamb\u00e9m \u00e9 candidata a Prefeita, uma jovem; em Feira da Mata, Nery; em Macarani, Selma, que, por sinal, faz anivers\u00e1rio hoje. Mando a ela os parab\u00e9ns, desejando muita sa\u00fade e muito sucesso. N\u00f3s temos, em S\u00edtio do Mato, Marcinha de Alfredinho tamb\u00e9m como candidata a Prefeita. Temos candidatas a Vice-Prefeitas: em Livramento, Joanina; em Oliveira dos Brejinhos, Francina; em Cocos, Ivana; em Caetit\u00e9, Dra. Kelly; em Barra da Estiva, D. L\u00facia, que inclusive j\u00e1 foi Prefeita.\r\nEnt\u00e3o, Sr. Presidente, h\u00e1 realmente uma participa\u00e7\u00e3o fant\u00e1stica das mulheres da Bahia na pol\u00edtica, candidatando-se a cargos majorit\u00e1rios, e agora, nas elei\u00e7\u00f5es municipais, a Prefeitas. Isso fortalece muito a participa\u00e7\u00e3o das mulheres na pol\u00edtica. Assim como temos o exemplo nesta Casa, onde a bancada feminina \u00e9 muito ativa, competente, defensora dos interesses da mulher, n\u00f3s vamos ter agora, em v\u00e1rios Munic\u00edpios da Bahia, tamb\u00e9m mulheres Prefeitas defendendo os interesses das mulheres e os maiores interesses dos Munic\u00edpios, onde, com certeza, elas estar\u00e3o representando o povo.\r\nQuero agradecer, Sr. Presidente, a oportunidade de poder aqui enaltecer a participa\u00e7\u00e3o da mulher baiana na pol\u00edtica do nosso Estado.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F10%2F2020&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-02T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOMENAGEM P\u00d3STUMA, L\u00daCIA VIANA, EX-PREFEITO, BARRA DA ESTIVA (BA).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Homenagem p\u00f3stuma \u00e0 ex-Prefeita L\u00facia Viana, do Munic\u00edpio de Barra da Estiva, Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, venho a esta tribuna tomado por um sentimento de profundo pesar.\r\nInfelizmente, no \u00faltimo dia 29, faleceu a ex-Prefeita de Barra da Estiva D. L\u00facia Viana, aos 75 anos.\r\nA not\u00edcia da morte s\u00fabita comoveu familiares, moradores de Barra da Estiva e a mim, pessoalmente. Tive o privil\u00e9gio de trabalhar em parceria com D. L\u00facia nos mandatos que ela conquistou nas elei\u00e7\u00f5es de 2004 e 2008.\r\nForam tantas as realiza\u00e7\u00f5es da Prefeita que seu trabalho \u00e9 reconhecido por todos at\u00e9 os dias atuais. Al\u00e9m dos feitos como Prefeita, D. L\u00facia tinha um grande prest\u00edgio na cidade pela forma am\u00e1vel como tratava a todos, inclusive no per\u00edodo em que foi professora.\r\nDeste plen\u00e1rio, registro minhas condol\u00eancias aos familiares - especialmente aos filhos: o Deputado Estadual Marquinho Viana e o Marcelo Viana, por quem tenho considera\u00e7\u00e3o como se eu fosse um filho, algu\u00e9m da fam\u00edlia -, aos amigos e tamb\u00e9m aos moradores de Barra da Estiva, que nutrem um grande apre\u00e7o por D. L\u00facia. Que Deus conforte a fam\u00edlia e fortale\u00e7a os la\u00e7os de uni\u00e3o entre todos!\r\nUm abra\u00e7o realmente fraternal a todos os filhos de D. L\u00facia, com quem tive o prazer de ter uma conviv\u00eancia familiar. Ela me considerava como filho, como algu\u00e9m da fam\u00edlia, assim como eu os considero.\r\nAgrade\u00e7o, Sr. Presidente, a oportunidade de externar esse meu sentimento, e o fa\u00e7o em nome de todos os baianos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2020&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-07T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "JOSE ROCHA, DEPUTADO FEDERAL, RUI COSTA, GOVERNADOR, BAHIA, EURES RIBEIRO, PREFEITO, INAUGURA\u00c7\u00c3O, PAVIMENTA\u00c7\u00c3O ASF\u00c1TICA, BOM JESUS DA LAPA (BA), PARATINGA (BA), IBOTIRAMA (BA). \r\nEURES RIBEIRO, PREFEITO, BOM JESUS DA LAPA (BA), PROJETO (ADMINISTRA\u00c7\u00c3O), DESENVOLVIMENTO, TURISMO RELIGIOSO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Relato da visita do orador ao Munic\u00edpio de Bom Jesus da Lapa, Estado da Bahia, em companhia do Governador Rui Costa. Congratula\u00e7\u00e3o ao Prefeito Eures Ribeiro pela apresenta\u00e7\u00e3o de projeto de desenvolvimento do turismo religioso e cultural na municipalidade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero registrar que, na \u00faltima sexta-feira, n\u00f3s estivemos no Munic\u00edpio de Bom Jesus da Lapa, acompanhados do Governador do Estado e do Prefeito do Munic\u00edpio, Eures Ribeiro. L\u00e1 foi entregue o asfaltamento da BR que liga o Munic\u00edpio Bom Jesus da Lapa a Paratinga e Ibotirama e o in\u00edcio da constru\u00e7\u00e3o do aeroporto em Bom Jesus da Lapa. O aeroporto tem 1.600 metros de extens\u00e3o e vai proporcionar uma avia\u00e7\u00e3o regional regular, dando a oportunidade de que a Romaria do Bom Jesus da Lapa, a terceira maior romaria do Pa\u00eds, passe a ser a primeira.\r\nEst\u00e1 sendo apresentado pelo Prefeito Eures Ribeiro um projeto ousado de descortina\u00e7\u00e3o de todo o morro onde se encontra a Gruta do Bom Jesus da Lapa, o que dar\u00e1 a oportunidade de se criar um espa\u00e7o para receber romeiros n\u00e3o s\u00f3 de todo o Pa\u00eds, como ocorre atualmente, mas tamb\u00e9m da Europa, que gosta muito do turismo religioso e cultural. \r\nO Munic\u00edpio de Bom Jesus da Lapa vai oferecer todas as oportunidades.\r\nCom a requalifica\u00e7\u00e3o do morro e de seu entorno, com a desapropria\u00e7\u00e3o de todas as edifica\u00e7\u00f5es em volta do morro, vai ser criado ali um ambiente religioso de visita\u00e7\u00e3o.\r\nPortanto, quero parabenizar o Prefeito Eures Ribeiro pelo projeto em parceria com a Diocese, com o Bispo Diocesano Jo\u00e3o Cardoso, que est\u00e1 muito empenhado nessa iniciativa. Com certeza, vamos ter uma romaria em Bom Jesus da Lapa que vai superar todas as demais romarias em nosso Pa\u00eds.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=204&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T00:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 4199/2020, PROJETO DE LEI ORDINARIA, PARTIDO LIBERAL  (PL), VOTO FAVORAVEL",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 6\u00b0 da Lei n\u00ba 10.893, de 2004, alterado pelo art. 18 do substitutivo apresentado ao Projeto de Lei n\u00ba 4.199, de 2020, sobre a institui\u00e7\u00e3o do Programa de Est\u00edmulo ao Transporte por Cabotagem - BR do Mar, e a altera\u00e7\u00e3o das Leis de n\u00bas 5.474, de 1968; 9.432, de 1997; 10.233, de 2001, e 10.893, de 2004.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, o PL entende perfeitamente a posi\u00e7\u00e3o do colega Deputado Marcelo Ramos. Ele tem sido aqui um intransigente defensor dos interesses do seu Estado, o Amazonas, e um grande debatedor nesta Casa, mas compreende que o partido vai encaminhar \"sim\" com o entendimento de que, realmente, n\u00f3s estamos promovendo uma diminui\u00e7\u00e3o do Custo Brasil. Apesar disso, entendemos a posi\u00e7\u00e3o do nosso colega Deputado Marcelo Ramos.\r\nEnt\u00e3o, o PL encaminha \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=258&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T01:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4199/2020, PROJETO DE LEI ORDINARIA, PROGRAMA DE EST\u00cdMULO AO TRANSPORTE POR CABOTAGEM (BR DO MAR), FAUSTO PINATO, DEPUTADO FEDERAL, DENUNCIA, IRREGULARIDADE, TARC\u00cdSIO GOMES DE FREITAS. MINISTRO DE ESTADO DA INFRAESTRUTURA, CONTESTA\u00c7\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Contesta\u00e7\u00e3o \u00e0s acusa\u00e7\u00f5es do Deputado Fausto Pinato contra o Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, n\u00e3o tenho procura\u00e7\u00e3o do Ministro Tarc\u00edsio para defend\u00ea-lo, mas eu o fa\u00e7o porque o conhe\u00e7o e sei da sua capacidade, sei do quanto tem feito pelo Pa\u00eds em sua Pasta, dando uma din\u00e2mica importante a todos os segmentos do Minist\u00e9rio da Infraestrutura e realizando um grande trabalho na \u00e1rea rodovi\u00e1ria, na \u00e1rea portu\u00e1ria, na \u00e1rea aeroportu\u00e1ria, na \u00e1rea ferrovi\u00e1ria e, agora, na cabotagem, com esse projeto que estamos aqui a debater e a votar.\r\nPortanto, o Ministro Tarc\u00edsio de Freitas merece o respeito desta Casa e de todos os Parlamentares.\r\nQuero refutar as palavras do colega Fausto Pinato em rela\u00e7\u00e3o ao Ministro Tarc\u00edsio, porque S.Exa. \u00e9 verdadeiro e realiza um grande trabalho em defesa dos interesses do Pa\u00eds e dos brasileiros.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=278&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T01:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ILQUES BARBOSA JUNIOR, COMANDANTE DA MARINHA, DEFESA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Integridade do Comandante da Marinha do Brasil, Almirante Ilques Barbosa Junior.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu retorno a esta tribuna para dizer que tamb\u00e9m n\u00e3o tenho procura\u00e7\u00e3o do Comandante da Marinha, o Almirante Ilques Barbosa Junior, mas o fa\u00e7o porque o conhe\u00e7o e sei da seriedade dele. Certamente, ele n\u00e3o estar\u00e1 defendendo nem grandes nem pequenas empresas. O que o Almirante Ilques defende \u00e9 a corpora\u00e7\u00e3o, a Marinha, que nos honra muito, pelo trabalho que realiza pelo nosso Pa\u00eds, em todos os setores de suas atividades. Portanto, conhe\u00e7o bem o Almirante Ilques e sei da sua integridade, da sua moral e da sua seriedade, sobretudo, como ele conduz esta corpora\u00e7\u00e3o que tantos bons e relevantes servi\u00e7os tem prestado ao nosso Pa\u00eds.\r\nEu tenho a honra de presidir, Sr. Presidente, a Frente Parlamentar Mista de Apoio ao Programa Ant\u00e1rtico Brasileiro, o PROANTAR, e sei o quanto a Marinha vem realizando em pesquisa, ci\u00eancia e tecnologia. \r\nPortanto, s\u00f3 tenho a elogiar o trabalho do Almirante Ilques e o quanto ele tem feito por nosso Pa\u00eds.\r\nVou votar agora, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=286&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T01:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "IVAN VALENTE, DEPUTADO FEDERAL, CORRUP\u00c7\u00c3O, PL 4199/2020, PROJETO DE LEI ORDINARIA, DENUNCIA, IRREGULARIDADE, FAUSTO PINATO, REPUDIO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Pedido ao Deputado Ivan Valente de retirada do termo corrup\u00e7\u00e3o, constante em seu pronunciamento anterior.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, se n\u00f3s estamos aqui a esta hora da manh\u00e3 trabalhando, certamente essa contribui\u00e7\u00e3o est\u00e1 sendo dada pela Oposi\u00e7\u00e3o com o seu trabalho de obstru\u00e7\u00e3o. N\u00e3o tenho d\u00favida de que esse \u00e9 o trabalho da Oposi\u00e7\u00e3o, que n\u00f3s respeitamos e que nos faz companhia at\u00e9 esta hora da manh\u00e3.\r\nSr. Presidente, eu queria que o L\u00edder Ivan Valente retirasse das suas falas a palavra \"corrup\u00e7\u00e3o\", que n\u00e3o foi dita aqui pelo Deputado Fausto Pinato. Eu estou aqui desde o in\u00edcio da sess\u00e3o, e, em momento algum, o Deputado Pinato falou em corrup\u00e7\u00e3o no Governo.\r\nPortanto, eu solicitaria ao L\u00edder Deputado Ivan Valente que retirasse das suas falas esse termo, porque ele n\u00e3o estaria sendo fidedigno \u00e0s palavras aqui proferidas pelo Deputado Fausto Pinato. Gostaria que esse termo tamb\u00e9m fosse retirado das notas taquigr\u00e1ficas.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=295&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-08T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "UNIDADE DE SA\u00daDE, HEMODI\u00c1LISE, INAUGURA\u00c7\u00c3O, BOM JESUS DA LAPA (BA). \r\nEURES RIBEIRO, PREFEITO, BOM JESUS DA LAPA (BA), GEST\u00c3O, ELOGIO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Instala\u00e7\u00e3o de unidade de hemodi\u00e1lise no Munic\u00edpio Bom Jesus da Lapa, Estado da Bahia. Aplausos ao Prefeito Eures Ribeiro pelo sucesso de sua gest\u00e3o, notadamente na \u00e1rea de assist\u00eancia social.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Sem revis\u00e3o do orador.) - Ilustre Presidente desta sess\u00e3o, Deputado Marcel van Hattem, quero agradecer a cess\u00e3o que V.Exa. faz de parte do seu tempo.\r\nRegistro, Sr. Presidente, Sras. e Srs. Deputados, a inaugura\u00e7\u00e3o de uma unidade, muito importante, de hemodi\u00e1lise no Munic\u00edpio de Bom Jesus da Lapa, pelo Governador do Estado, Rui Costa, e pelo Secret\u00e1rio da Sa\u00fade, F\u00e1bio Vilas-Boas. Essa unidade vai atender a mais de 40 Munic\u00edpios da regi\u00e3o. Funcionar\u00e1 em tr\u00eas turnos e atender\u00e1, por m\u00eas, mais de 210 pacientes que hoje seriam atendidos em Barreiras, que est\u00e1 a mais de 300 quil\u00f4metros de dist\u00e2ncia dali. Representa um grande benef\u00edcio para as pessoas que necessitam de hemodi\u00e1lise naquela regi\u00e3o, especialmente nessa unidade no Munic\u00edpio de Bom Jesus da Lapa.\r\nAproveito a oportunidade para parabenizar o Prefeito Eures Ribeiro pelo grande trabalho que vem realizando no Munic\u00edpio, inclusive na \u00e1rea de assist\u00eancia \u00e0 sa\u00fade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F12%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-15T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA DO MARINHEIRO,   HUMBERTO CALDAS DA SILVEIRA JUNIOR, VICE-ALMIRANTE, SALVADOR (BA), SUBMARINO, MARINHA DO BRASIL, ESTA\u00c7\u00c3O ANT\u00c1RTICA COMANDANTE FERRAZ,  ILQUES BARBOSA JUNIOR, COMANDANTE DA MARINHA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Transcurso do Dia do Marinheiro. Sauda\u00e7\u00e3o ao Comandante do 2\u00ba Distrito Naval, Vice-Almirante Humberto Caldas da Silveira Junior, sediado em Salvador, Estado da Bahia. Papel estrat\u00e9gico desenvolvido pela Marinha do Brasil. Relev\u00e2ncia do Programa de Desenvolvimento de Submarinos - PROSUB. Lan\u00e7amento do Submarino Humait\u00e1. Import\u00e2ncia dos trabalhos realizados pela Marinha do Brasil na Esta\u00e7\u00e3o Ant\u00e1rtica Comandante Ferraz, localizada na Ilha Rei George, na Ba\u00eda do Almirantado, no Continente Ant\u00e1rtico. Congratula\u00e7\u00f5es \u00e0 Marinha do Brasil, na pessoa do seu Comandante, Almirante de Esquadra Ilques Barbosa Junior.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, comemoramos no \u00faltimo dia 13 o Dia do Marinheiro, uma data muito importante para engrandecer o trabalho das marinheiras e dos marinheiros em todas as regi\u00f5es do nosso Pa\u00eds. A data tamb\u00e9m marca o nascimento do Almirante Joaquim Marques Lisboa, o Marqu\u00eas de Tamandar\u00e9, Patrono da Marinha do Brasil.\r\nPor sinal, a hist\u00f3ria nos lembra de que o Almirante Tamandar\u00e9 comandou, entre 1844 e 1846, a Divis\u00e3o Naval do Centro, que ficava sediada em Salvador, minha querida cidade. Ainda nos mares da Bahia, Tamandar\u00e9 teve seu batismo de fogo aos 16 anos, como volunt\u00e1rio da rec\u00e9m-criada Armada Imperial.\r\nDiante dessa rela\u00e7\u00e3o \u00edmpar do povo baiano com o mar e a Marinha, registro aqui uma sauda\u00e7\u00e3o especial ao Comandante do 2\u00ba Distrito Naval, sediado em Salvador, o Vice-Almirante Humberto Caldas da Silveira Junior.\r\nSr. Presidente, o papel da Marinha \u00e9 fundamental e estrat\u00e9gico para o nosso Pa\u00eds. \u00c9 a Marinha que zela por um grande patrim\u00f4nio nosso, a chamada Amaz\u00f4nia Azul, a \u00e1rea da plataforma continental, com mais de 5,7 milh\u00f5es de quil\u00f4metros quadrados. \u00c9 nessa \u00e1rea que se encontram mais de 90% das nossas reservas de petr\u00f3leo e g\u00e1s natural, fontes alternativas de energia e imenso potencial pesqueiro. Tamb\u00e9m \u00e9 pelo mar territorial que passa a maior parte do com\u00e9rcio exterior do Pa\u00eds.\r\nOutra \u00e1rea com destacada atua\u00e7\u00e3o da Marinha \u00e9 a navega\u00e7\u00e3o interior. Ela administra e fiscaliza cerca de 60 mil quil\u00f4metros de hidrovias em todas as regi\u00f5es do Pa\u00eds, inclusive na \u00e1rea de fronteira. Por sinal, \u00e9 no interior do Pa\u00eds que a Marinha realiza diversas a\u00e7\u00f5es de sa\u00fade, atendendo a popula\u00e7\u00e3o ribeirinha de comunidades isoladas e ind\u00edgenas.\r\nSr. Presidente, como parte de sua atua\u00e7\u00e3o estrat\u00e9gica, a Marinha comanda o Programa de Desenvolvimento de Submarinos - PROSUB, que tem como objetivos o dom\u00ednio da tecnologia e a constru\u00e7\u00e3o de um submarino de propuls\u00e3o nuclear, al\u00e9m de outros quatro submarinos com propuls\u00e3o diesel el\u00e9trica.\r\nRegistro aqui que, no \u00faltimo dia 11, a Marinha lan\u00e7ou o Submarino Humait\u00e1, a segunda embarca\u00e7\u00e3o entregue pelo PROSUB. Com 71 metros de comprimento, 1.850 toneladas e capacidade para receber 35 militares, o submarino tem autonomia para permanecer at\u00e9 70 dias em alto-mar.\r\nPor \u00faltimo, como Presidente da Frente Parlamentar de Apoio ao Programa Ant\u00e1rtico Brasileiro, destaco o grande trabalho da Marinha na Esta\u00e7\u00e3o Ant\u00e1rtica Comandante Ferraz, localizada na Ilha Rei George, na Ba\u00eda do Almirantado, Continente Ant\u00e1rtico. \r\n\u00c9 o pessoal da Marinha que garante o funcionamento ininterrupto da Base, mesmo nas situa\u00e7\u00f5es em que a temperatura externa atinge 25 graus negativos.\r\nA Marinha tamb\u00e9m foi decisiva para a constru\u00e7\u00e3o da nova Esta\u00e7\u00e3o Ant\u00e1rtica, inaugurada em janeiro deste ano.\r\nPor todas essas a\u00e7\u00f5es, parabenizo a Marinha do Brasil, na pessoa do seu Comandante, o Almirante de Esquadra Ilques Barbosa Junior, que tem feito um trabalho digno de nossa admira\u00e7\u00e3o.\r\nParab\u00e9ns, marinheiras e marinheiros!\r\nParab\u00e9ns, Marinha do Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2020&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-15T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EDITAL, CONCESS\u00c3O (ADMINISTRA\u00c7\u00c3O P\u00daBLICA), FERROVIA DE INTEGRA\u00c7\u00c3O CENTRO-OESTE (FICO), BAHIA, CONGRATULA\u00c7\u00c3, TARC\u00cdSIO FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "An\u00fancio de lan\u00e7amento do edital de concess\u00e3o da Ferrovia da Integra\u00e7\u00e3o Oeste-Leste, no Estado da Bahia. Prioridade do Minist\u00e9rio da Infraestrutura no asfaltamento da BR-030, trechos Carinhanha-Feira da Mata Cocos e Cocos-Mamba\u00ed, na Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, amanh\u00e3 ser\u00e1 um dia importante para a Bahia e para os baianos, quando o Presidente da Rep\u00fablica vai lan\u00e7ar o edital de concess\u00e3o da Ferrovia de Integra\u00e7\u00e3o Oeste-Leste no nosso Estado.\r\nO Ministro Tarc\u00edsio Freitas tem se debru\u00e7ado muito sobre esse projeto. A ferrovia, que est\u00e1 sob a dire\u00e7\u00e3o da VALEC, agora vai ser privatizada, vai ser concedida a um grupo privado, para que sua constru\u00e7\u00e3o possa ter seguimento.\r\nTrata-se de uma ferrovia da mais alta import\u00e2ncia para a economia n\u00e3o s\u00f3 do Estado da Bahia, mas tamb\u00e9m de todo o Pa\u00eds. Ela vai ligar Caetit\u00e9, uma cidade que tem tido o benef\u00edcio da natureza em termos de potencial mineral e de pedras preciosas, ao Porto de Ilh\u00e9us. Em Caetit\u00e9 temos tamb\u00e9m ferro, que vai ser exportado via Porto de Ilh\u00e9us. Essa ferrovia \u00e9 da mais alta import\u00e2ncia para que esse mineral possa ser exportado. Falo n\u00e3o s\u00f3 da concess\u00e3o do trecho 1 da ferrovia, como tamb\u00e9m do Porto de Ilh\u00e9us. Portanto, est\u00e3o sendo unidas as pontas e dada toda a infraestrutura para que n\u00f3s possamos exportar esse mineral, que temos em abund\u00e2ncia no Munic\u00edpio de Caetit\u00e9 e em toda a regi\u00e3o.\r\nSr. Presidente, essa ferrovia vai ser utilizada tamb\u00e9m para o transporte de gr\u00e3os que est\u00e3o sendo produzidos no oeste da Bahia, mais ao sudoeste, nos Munic\u00edpios de Cocos, Jaborandi, Correntina. Eles v\u00e3o se utilizar da BR-030, que ser\u00e1 pavimentada pelo Governo.\r\nEsse programa j\u00e1 me foi comunicado pelo Ministro Tarc\u00edsio, e \u00e9 prioridade o asfaltamento do trecho Carinhanha-Feira da Mata-Cocos. O trecho de Cocos at\u00e9 Mamba\u00ed \u00e9 outro segmento que tamb\u00e9m j\u00e1 est\u00e1 em processo de abertura e vai ligar, portanto, a BR-030, em Carinhanha, a Mamba\u00ed e \u00e0 BR-020. Esse \u00e9 um empreendimento da mais alta import\u00e2ncia para o nosso Estado e para o Pa\u00eds.\r\nSr. Presidente, a iniciativa privada vai fazer um investimento de 3,3 bilh\u00f5es de reais nesse projeto. S\u00e3o 537 quil\u00f4metros de ferrovia a ser constru\u00edda.\r\nO SR. PRESIDENTE (Kim Kataguiri. DEM - SP) - Pe\u00e7o que conclua, Deputado.\r\nO SR. JOS\u00c9 ROCHA (Bloco/PL - BA) - Grande parte da obra j\u00e1 foi feita pela VALEC, e a empresa privada que conseguir a concess\u00e3o vai concluir todo esse trecho.\r\nPortanto, quero parabenizar o Ministro Tarc\u00edsio Freitas pela sua decis\u00e3o, pelo seu compromisso com a infraestrutura ferrovi\u00e1ria em meu Estado.\r\nSr. Presidente, tamb\u00e9m quero dizer que o Tribunal de Contas da Uni\u00e3o foi muito c\u00e9lere, atrav\u00e9s do nosso Ministro baiano Aroldo Cedraz, na libera\u00e7\u00e3o desse projeto para que ele seja concedido \u00e0 iniciativa privada.\r\nPortanto, amanh\u00e3, ser\u00e1 o lan\u00e7amento do edital e, no primeiro trimestre de 2021, teremos a concess\u00e3o da ferrovia.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2020&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REUNI\u00c3O DE INSTALA\u00c7\u00c3O DE COMISS\u00c3O, COMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO), ENCERRAMENTO, DAVI ALCOLUMBRE, SENADOR, DECIS\u00c3O, CR\u00cdTICA.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Protesto contra a decis\u00e3o Presidente do Congresso Nacional, Senador Davi Alcolumbre, de encerramento de reuni\u00e3o destinada \u00e0 instala\u00e7\u00e3o da Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu quero aqui tamb\u00e9m fazer o meu protesto em rela\u00e7\u00e3o ao Presidente do Congresso Nacional.\r\nN\u00f3s tivemos uma convoca\u00e7\u00e3o para a instala\u00e7\u00e3o da CMO com qu\u00f3rum estabelecido, e o Presidente, assim que se estabeleceu o qu\u00f3rum, desautorizou a reuni\u00e3o da CMO. Um absurdo, Sra. Presidente! Foi um absurdo isso!\r\nEu acho que o Presidente do Congresso n\u00e3o deveria ter suspendido a reuni\u00e3o da CMO, desde quando j\u00e1 havia qu\u00f3rum estabelecido, simplesmente porque a reuni\u00e3o certamente n\u00e3o daria o resultado que o Presidente desejaria. Isso \u00e9 muito ruim para o Presidente de um Poder, para o nosso Presidente do Congresso Nacional.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=17%2F12%2F2020&txPagina=32&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O, ARTHUR LIRA,  PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS,  ATUA\u00c7\u00c3O, APROVA\u00c7\u00c3O,  PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, AUTONOMIA, INDEPEND\u00caNCIA, BANCO CENTRAL DO BRASIL (BACEN).\r\nCOGRATULA\u00c7\u00c3O, FL\u00c1VIA ARRUDA, DEPUTADA FEDERAL, ELEI\u00c7\u00c3O, PRESIDENTE DE COMISS\u00c3O, COMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Aplausos ao Presidente Arthur Lira pela aprova\u00e7\u00e3o de mat\u00e9rias de relevante interesse da economia brasileira, a exemplo da autonomia do Banco Central do Brasil. Congratula\u00e7\u00f5es \u00e0 Deputada Fl\u00e1via Arruda pela elei\u00e7\u00e3o \u00e0 Presid\u00eancia da Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o. Import\u00e2ncia da vota\u00e7\u00e3o do Or\u00e7amento Geral da Uni\u00e3o de 2021.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Arthur Lira, quero aqui parabenizar V.Exa. pela implementa\u00e7\u00e3o da din\u00e2mica dos trabalhos desta Casa, aprovando projetos importantes para a economia do nosso Pa\u00eds, a exemplo da autonomia do Banco Central, que hoje estamos aprovando.\r\nEsta mat\u00e9ria, como foi dito aqui, est\u00e1 h\u00e1 muito tempo nesta Casa sem uma decis\u00e3o. E V.Exa. assume, decide, coloca para votar, e ganha tem tiver maior n\u00famero de votos. \u00c9 isso o que diz a democracia.\r\nV. Exa. est\u00e1 sendo um grande democrata na Presid\u00eancia desta Casa.\r\nQuero tamb\u00e9m parabenizar a colega Fl\u00e1via Arruda, eleita hoje Presidente da Comiss\u00e3o Mista de Or\u00e7amento. V.Exa. teve uma participa\u00e7\u00e3o importante, junto com o Presidente do Congresso, para pautar a instala\u00e7\u00e3o dessa Comiss\u00e3o, que h\u00e1 muito tempo se fazia necess\u00e1ria.\r\nAgora, sim, n\u00f3s vamos apreciar o projeto de lei mais importante do Congresso Nacional, que \u00e9 o Or\u00e7amento da Uni\u00e3o.\r\nQuero aqui reafirmar, Sr. Presidente, essa sua posi\u00e7\u00e3o que agrada todos n\u00f3s.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 5638/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, apresentada ao Projeto de Lei n\u00ba 5.638, de 2020, sobre as a\u00e7\u00f5es emergenciais e tempor\u00e1rias destinadas ao setor de eventos, para compensa\u00e7\u00e3o dos efeitos decorrentes das medidas de combate \u00e0 epidemia de coronav\u00edrus. Import\u00e2ncia da proposi\u00e7\u00e3o para a economia do Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL encaminha \"n\u00e3o\" \u00e0 emenda. \r\nEu quero aproveitar a oportunidade para ressaltar a import\u00e2ncia do Projeto de Lei n\u00ba 5.638, de 2020, para o nosso Estado da Bahia, assim como para todo o Brasil. \r\nA Bahia \u00e9 uma das maiores produtoras de eventos e tem um turismo muito forte, n\u00e3o s\u00f3 na Capital do Estado, Salvador, mas em todo o interior do Estado. Tanto o segmento de eventos quanto o de turismo passam pelas maiores dificuldades em fun\u00e7\u00e3o desse momento de pandemia que vivemos.\r\nPortanto, como baiano, quero me somar a todos os que est\u00e3o contribuindo para minorar as condi\u00e7\u00f5es de sofrimento na \u00e1rea financeira desses dois segmentos: de eventos e de turismo.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "TIA ERON, DEPUTADA FEDERAL, MANDATO PARLAMENTAR, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Regozijo com a reassun\u00e7\u00e3o do mandato parlamentar pela Deputada Tia Eron.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, tenho a grata satisfa\u00e7\u00e3o de ver o retorno da Deputada Tia Eron - essa Deputada brava, atuante, corajosa - a esta Casa, da qual ela n\u00e3o deveria ter sa\u00eddo. Ela retorna ainda mais vibrante, com a experi\u00eancia que lhe deu o Executivo Municipal.\r\nCom certeza, Deputada Tia Eron, sua presen\u00e7a traz alegria a todos n\u00f3s, porque aprendemos a conviver com V.Exa. com respeito e, sobretudo, com admira\u00e7\u00e3o pelo seu trabalho, pela sua determina\u00e7\u00e3o e pela sua firmeza. V.Exa., Deputada Tia Eron, representa n\u00e3o s\u00f3 as mulheres deste Parlamento, mas representa a todos n\u00f3s.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-06T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 948/2021, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA VACINA, PESSOA JUR\u00cdDICA DE DIREITO PRIVADO, AQUISI\u00c7\u00c3O, IMPORTA\u00c7\u00c3O, VACINA, CORONAV\u00cdRUS, DEDU\u00c7\u00c3O, DESPESA, IMPOSTO DE RENDA DAS PESSOAS JUR\u00cdDICAS (IRPJ), TRIBUTA\u00c7\u00c3O, BENEF\u00cdCIO FISCAL, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nFL\u00c1VIA ARRUDA, DEPUTADA FEDERAL, SECRET\u00c1RIA DE ESTADO, SECRETARIA DE GOVERNO DA PRESID\u00caNCIA DA REP\u00daBLICA, ASSUN\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 948, de 2021, sobre a altera\u00e7\u00e3o do art. 2\u00ba da Lei n\u00ba 14.125, de 2021, com vista ao estabelecimento de regras de aquisi\u00e7\u00e3o e doa\u00e7\u00e3o de vacinas por pessoas jur\u00eddicas de direito privado. Congratula\u00e7\u00f5es \u00e0 Deputada Fl\u00e1via Arruda pela assun\u00e7\u00e3o da Secretaria de Governo da Presid\u00eancia da Rep\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, este projeto \u00e9 de uma import\u00e2ncia muito grande, porque cria a oportunidade de se vacinar mais no Pa\u00eds. Os empres\u00e1rios est\u00e3o se oferecendo para vacinar os seus empregados, que dificilmente teriam a oportunidade de serem vacinados a curto prazo. Temos que elogiar o empresariado brasileiro que se prop\u00f5e a oferecer vacina para os seus empregados, desde que o SUS tenha a oportunidade de manter o seu estoque de vacinas para as entidades p\u00fablicas.\r\nSr. Presidente, eu quero aproveitar esta oportunidade para parabenizar a nossa querida colega Fl\u00e1via Arruda, que hoje assumiu a Secretaria de Governo, que vai manter o relacionamento entre o Governo Federal, esta Casa, entre todos os Poderes. \u00c9 uma colega dotada de todos os predicados para ocupar essa fun\u00e7\u00e3o importante para o nosso Pa\u00eds e para o relacionamento pol\u00edtico entre os Poderes. Portanto, meus parab\u00e9ns \u00e0 colega Fl\u00e1via Arruda por assumir a Secretaria de Governo neste momento em que se precisa, sim, de mais mulheres ocupando cargos importantes! Ela representa n\u00e3o s\u00f3 a mulher brasileira, mas tamb\u00e9m todos n\u00f3s nesse relacionamento entre o Poder Executivo e o Poder Legislativo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F4%2F2021&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-08T20:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOMENAGEM P\u00d3STUMA, MOZART VIANNA DE PAIVA, EX-SECRET\u00c1RIO-GERAL DA MESA, VOTA\u00c7\u00c3O, PRC 46/2021, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, DENOMINA\u00c7\u00c3O, SECRETARIA-GERAL DA MESA (SGM). GABINETE DA SECRETARIA-GERAL DA MESA (SGM/GAB).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Resolu\u00e7\u00e3o n\u00ba 46, de 2021, sobre a denomina\u00e7\u00e3o, de Gabinete Mozart Vianna de Paiva, do Gabinete do Secret\u00e1rio-Geral da Mesa da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (Bloco/PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Eduardo Bismarck, que preside esta sess\u00e3o, Sras. e Srs. Parlamentares, eu hoje sinto muito a perda de Mozart Vianna, que conheci quando aqui cheguei, em 1994. Convivi com ele todos esses anos dentro desta Casa. Depois ele foi para a iniciativa privada, depois foi trabalhar no Pal\u00e1cio do Planalto, com o ex-Presidente Michel Temer. E, em todos os lugares em que Mozart trabalhou, ele deixou um legado de capacidade, de seriedade e, sobretudo, de compromisso com a verdade.\r\nEra um homem discreto no seu relacionamento, demonstrando uma humildade muito grande, que escondia uma intelig\u00eancia e uma capacidade imensa.\r\nEnt\u00e3o, eu participo desta homenagem, homenageando os familiares de Mozart e os amigos dele, como eu, que tive a honra de conviver com ele por tantos anos. Realmente esta Casa faz justi\u00e7a a um servidor p\u00fablico que primou pela \u00e9tica, pelo seu trabalho e, sobretudo, por dar conta do recado. Faz muito bem a C\u00e2mara dos Deputados ao homenagear nesta sess\u00e3o n\u00e3o s\u00f3 Mozart Vianna, mas tamb\u00e9m toda a sua fam\u00edlia, dando \u00e0 sala do Secret\u00e1rio-Geral da Mesa o nome dessa figura que nos deixa tanta saudade, mas deixa tamb\u00e9m o legado de um funcion\u00e1rio p\u00fablico exemplar.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T22:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, VOTA\u00c7\u00c3O. \r\nTARC\u00cdSIO GOMES DE FREITA, MINISTRO DE ESTADO DA INFRAESTRUTURA, LICITA\u00c7\u00c3O, RODOVIA FEDERAL, BR 030, BR 020, OBRAS P\u00daBLICA, BAHIA., ATUA\u00c7\u00c3O, CONCLUS\u00c3O, BR 135, FERROVIA DE INTEGRA\u00c7\u00c3O OESTE-LESTE (FIOL).",
+        "nomeDeputado": "Jos\u00e9 Rocha",
+        "sumario": "Posicionamento dos Parlamentares na vota\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade de emiss\u00e3o de c\u00e9dulas f\u00edsicas de vota\u00e7\u00e3o em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso). Congratula\u00e7\u00f5es ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, pelo an\u00fancio de licita\u00e7\u00e3o das obras da BR-030, trecho Carinhanha-Feira da Mata-Cocos, e de prepara\u00e7\u00e3o do segmento da rodovia de Cocos a Mamba\u00ed at\u00e9 a BR-020, no Estado da Bahia. Empenho do Titular da Pasta na conclus\u00e3o da BR-135, nos trechos Jaborandi-Correntina e Correntina-S\u00e3o Dem\u00e9trio, no Estado. Concess\u00e3o do trecho FIOL I da Ferrovia de Integra\u00e7\u00e3o Oeste-Leste, de Caetit\u00e9 a Porto de Ilh\u00e9us, na Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOS\u00c9 ROCHA (PL - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Marcelo Ramos, Sras. e Srs. Parlamentares, esta vota\u00e7\u00e3o de hoje n\u00e3o reflete nem ganhador nem perdedor; ela reflete apenas o voto de cada um, com a sua posi\u00e7\u00e3o em rela\u00e7\u00e3o ao processo eleitoral.\r\nQuero, Sr. Presidente, agradecer e parabenizar o Ministro Tarc\u00edsio de Freitas, da Infraestrutura, por anunciar que vai licitar ainda este ano as obras de pavimenta\u00e7\u00e3o da BR-030, no trecho de Carinhanha a Feira da Mata e Cocos, e de prepara\u00e7\u00e3o para o segmento da BR-030 de Cocos at\u00e9 Mamba\u00ed, chegando \u00e0 BR-020, em Formosa.\r\nTamb\u00e9m quero dizer, Sr. Presidente, que o Ministro Tarc\u00edsio de Freitas est\u00e1 empenhado na conclus\u00e3o de obras da BR-135, uma estrada importante do oeste da Bahia, nos trechos de Jaborandi a Correntina e de Correntina a S\u00e3o Desid\u00e9rio, obras que dar\u00e3o ao oeste da Bahia a infraestrutura vi\u00e1ria necess\u00e1ria para o escoamento da produ\u00e7\u00e3o local atrav\u00e9s da Ferrovia de Integra\u00e7\u00e3o Oeste-Leste, j\u00e1 que o Governo assinar\u00e1 no dia 2 de setembro a concess\u00e3o do trecho FIOL I, de Caetit\u00e9 at\u00e9 o Porto de Ilh\u00e9us.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

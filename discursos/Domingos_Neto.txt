@@ -1,0 +1,614 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "QUEST\u00c3O DE ORDEM, JUSTIFICATIVA, FALTA JUSTIFICADA,  VOTA\u00c7\u00c3O, ALTERA\u00c7\u00c3O, VOTO, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Quest\u00e3o de ordem sobre a necessidade de esclarecimento pela Presid\u00eancia a respeito da justificativa de voto.",
+        "tipoDiscurso": "QUEST\u00c3O DE ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Para uma quest\u00e3o de ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria que a Mesa respondesse a uma quest\u00e3o de ordem.\r\nDesde a Legislatura anterior, sabemos que n\u00e3o existe no Regimento a previs\u00e3o de que a justificativa de voto ao microfone represente mudan\u00e7a no voto, na presen\u00e7a ou at\u00e9 mesmo no nosso posicionamento; vale apenas para as notas taquigr\u00e1ficas. Da vez passada, isso facilitou, porque diminuiu esse corre-corre aos microfones para justificar a posi\u00e7\u00e3o de cada Parlamentar.\r\nPor isso, eu fa\u00e7o, em forma de quest\u00e3o de ordem, o pedido para que a Mesa se posicione sobre o assunto, a fim de que, de fato, isso seja resolvido. Evidentemente, aqueles que perderam a vota\u00e7\u00e3o, pensam que vindo ao microfone podem, de alguma forma, substituir o voto que n\u00e3o puderam registrar, mas no Regimento n\u00e3o h\u00e1 essa previs\u00e3o.\r\nEu fa\u00e7o esta quest\u00e3o de ordem para que a Secretaria da Mesa e o Presidente possam resolver isso para todo o Plen\u00e1rio, e \u00e9 bom que isso seja feito logo na primeira sess\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=125&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PDL 3/2019, PROJETO DE DECRETO LEGISLATIVO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 3, de 2019, sobre a susta\u00e7\u00e3o da aplica\u00e7\u00e3o do Decreto n\u00ba 7.724, de 2012, acerca da delega\u00e7\u00e3o da compet\u00eancia de classifica\u00e7\u00e3o de informa\u00e7\u00f5es p\u00fablicas nos graus de sigilo ultrassecreto ou secreto.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a bancada do PSD faz parte do bloco, que est\u00e1 orientando a libera\u00e7\u00e3o. Mas a posi\u00e7\u00e3o do PSD \u00e9 \"sim\", favor\u00e1vel ao projeto de decreto legislativo, sustando essa medida que \u00e9 um risco \u00e0 transpar\u00eancia. Ampliar a permiss\u00e3o de tornar secretos documentos p\u00fablicos a muito e muitos agentes p\u00fablicos \u00e9 um risco iminente \u00e0 transpar\u00eancia e tamb\u00e9m \u00e0 democracia.\r\nPor isso, diferentemente do bloco, o PSD orienta \u00e0 sua bancada o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=161&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER CONTR\u00c1RIO, EMP 6/2018, EMP 8/2018, EMENDA DE PLEN\u00c1RIO, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011).",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 6 e 8, com parecer contr\u00e1rio, oferecidas ao Projeto de Lei Complementar n\u00ba 441, de 2017, sobre os cadastros positivos de cr\u00e9dito e a responsabilidade civil do operadores, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a palavra s\u00f3 para enriquecer o debate.\r\nEu percebo que alguns falam em direito do consumidor, mas, quando todos n\u00f3s falamos em cr\u00e9dito no Brasil, falamos das alt\u00edssimas taxas de juros praticadas em nosso Pa\u00eds. N\u00e3o vamos conseguir baixar as nossas taxas de juros se n\u00e3o diminuirmos o risco. Em outros pa\u00edses, essa taxa de fidelidade, digamos assim, dentro do cadastro positivo, onde h\u00e1 uma nota para o bom pagador, o que o ajuda a ter acesso a menores taxas, tem sido fundamental e algo de sucesso. Ent\u00e3o, acredito que, para diminuirmos as taxas de juros, que ainda s\u00e3o muito altas em nosso Pa\u00eds, precisamos diminuir o risco para quem est\u00e1 operando o cr\u00e9dito.\r\nPor isso, precisamos votar \"n\u00e3o\" e garantir este projeto, que vai ser, sim, muito bom para o consumidor, muito bom para o povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=176&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "TECNOLOGIA, UNIVERSIDADE ESTADUAL DO CEAR\u00c1 (UECE), ELOGIO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Comemora\u00e7\u00e3o do 20\u00ba anivers\u00e1rio de formatura da primeira turma do Centro de Educa\u00e7\u00e3o, Ci\u00eancias e Tecnologia da Regi\u00e3o de Inhamuns - CECITEC, vinculado \u00e0 Universidade Estadual do Cear\u00e1 - UECE.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO DOMINGOS NETO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, neste m\u00eas de fevereiro, completou o anivers\u00e1rio de 20 anos da primeira cola\u00e7\u00e3o de grau do ensino superior da Regi\u00e3o dos Inhamuns, no Cear\u00e1. Era a turma de 18 alunos do curso de Ci\u00eancias e mais 32 do curso de Pedagogia do Centro de Educa\u00e7\u00e3o, Ci\u00eancias e Tecnologia da Regi\u00e3o dos Inhamuns (CECITEC), vinculado \u00e0 Universidade Estadual do Cear\u00e1 (UECE), que conclu\u00edram seus estudos em 26 de fevereiro de 1999.\r\nOs pioneiros do Ensino Superior dos Inhamuns, como ficaram conhecidos os integrantes dessas primeiras turmas de concludentes, protagonizaram, portanto, um momento hist\u00f3rico para a educa\u00e7\u00e3o cearense. H\u00e1 quem diga que existe um Tau\u00e1 e uma Regi\u00e3o dos Inhamuns antes e depois do CECITEC. \r\nVale destacar que aproximadamente 90% dos 50 formados da turma de 1999 atuam na \u00e1rea da educa\u00e7\u00e3o, principalmente nos Munic\u00edpios que integram os Inhamuns: Aiuaba, Arneiroz, Catarina, Parambu, Quiterian\u00f3polis e Tau\u00e1, com destacadas atua\u00e7\u00f5es no magist\u00e9rio da educa\u00e7\u00e3o b\u00e1sica e educa\u00e7\u00e3o superior, bem como em outras fun\u00e7\u00f5es p\u00fablicas. Isso atesta um retorno imensur\u00e1vel sob o ponto de vista socioeducacional e, sobretudo, da constru\u00e7\u00e3o de uma nova realidade para uma das regi\u00f5es mais carentes do Brasil. \r\nA formatura dessas duas turmas j\u00e1 fazem parte da hist\u00f3ria da Regi\u00e3o dos Inhamuns. Aproveito para lembrar que o paraninfo foi o ent\u00e3o Governador do Cear\u00e1 Ciro Ferreira Gomes, e o ex-Deputado Estadual J\u00falio Gon\u00e7alves R\u00eago foi o patrono. As homenagens se estenderam aos homens e mulheres que nunca desistiram de levar o ensino superior para a Regi\u00e3o dos Inhamuns: os Deputados Estaduais na \u00e9poca Domingos Filho e Idemar Cit\u00f3; o primeiro Diretor do CECITEC, Jo\u00e3o \u00c1lcimo Viana Lima; Joaquim de Castro Feitosa, Maria Dolores Andrade Feitosa e J\u00falia Ribeiro Feitosa Lima (integrantes do grupo de apoio de cria\u00e7\u00e3o do CECITEC). \r\nO CECITEC foi criado em maio de 1994 e em junho de 1995 foi iniciado. Atualmente, o Centro oferece os cursos de Licenciatura em Pedagogia, Qu\u00edmica e Ci\u00eancias Biol\u00f3gicas, perfazendo 297 alunos. O corpo docente \u00e9 constitu\u00eddo por 24 professores efetivos e 6 professores substitutos, totalizando 17 doutores, 11 mestres e 2 especialistas. \r\nNesse per\u00edodo de funcionamento, o CECITEC j\u00e1 formou 832 graduados e p\u00f3s-graduados. Na gradua\u00e7\u00e3o, foram 384 em Pedagogia, 142 em Ci\u00eancias (antiga forma\u00e7\u00e3o), 73 em Qu\u00edmica e 121 em Ci\u00eancias Biol\u00f3gicas. Na p\u00f3s-gradua\u00e7\u00e3o lato sensu, modalidade especializa\u00e7\u00e3o, foram 27 em Psicomotricidade, 22 em Educa\u00e7\u00e3o Especial e 22 em Gest\u00e3o Educacional. \r\nO CECITEC registra atualmente 206 estudantes benefici\u00e1rios de bolsas em diversos programas: inicia\u00e7\u00e3o cient\u00edfica, extens\u00e3o, inicia\u00e7\u00e3o \u00e0 doc\u00eancia e assist\u00eancia estudantil. \r\nAo completar esses 20 anos da primeira cola\u00e7\u00e3o de grau, podemos ter a certeza de que o CECITEC exerce com maestria a sua fun\u00e7\u00e3o social de estimular e promover a melhoria na qualidade de vida de toda a Regi\u00e3o dos Inhamuns.\r\nSolicito a divulga\u00e7\u00e3o deste pronunciamento no programa A Voz do Brasil, na TV C\u00e2mara e demais ve\u00edculos de comunica\u00e7\u00e3o desta Casa.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=142&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSIBILIDADE, DESTAQUE, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo da admissibilidade dos requerimentos de destaques simples.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nosso Pa\u00eds tem quatro grandes empresas a\u00e9reas: uma delas em recupera\u00e7\u00e3o judicial, sendo comprada por outra que \u00e9 de um brasileiro que n\u00e3o fala portugu\u00eas - achou uma brecha na lei para conseguir criar a empresa -, e sobram duas.\r\n\u00c9 evidente que n\u00f3s n\u00e3o temos concorr\u00eancia suficiente para que a briga de mercado fa\u00e7a com que caia o pre\u00e7o, melhore o servi\u00e7o, aumente a oferta para o nosso povo. Atrav\u00e9s do capital internacional, que precisa entrar, n\u00f3s vamos melhorar a qualidade dos nossos aeroportos, os servi\u00e7os nos nossos voos, a oferta de voos no Brasil, e ainda vamos reduzir o pre\u00e7o das passagens. Temos aqui Deputados da nossa bancada do Norte que gastam mais de 3 mil reais por semana para se deslocar at\u00e9 Bras\u00edlia. Sem concorr\u00eancia, esse pre\u00e7o n\u00e3o cai, por isso o PSD vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, LEI, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o brasileiros mediante contrato de trabalho regido pela legisla\u00e7\u00e3o brasileira, ressalvada a possibilidade de no m\u00e1ximo 1/3 (um ter\u00e7o) de comiss\u00e1rios estrangeiros, alterado pelo \u00a7 3\u00ba do art. 156, constante da Lei n\u00ba 7.565, de 1986, e no art. 2\u00ba da Subemenda Substitutiva Global oferecida ao Projeto de Lei n\u00ba 2.724, de 2015, acerca da abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 com certa tristeza que eu vejo debates t\u00e3o importantes serem todos reduzidos a ideologia, porque n\u00e3o \u00e9 o caso.\r\nA SRA. L\u00cdDICE DA MATA (PSB - BA) - O Deputado Azi \u00e9 o novo comunista do Brasil!\r\nO SR. DOMINGOS NETO (Bloco/PSD - CE) - O Relator que colocou este texto \u00e9 o Deputado Paulo Azi, do DEM, e n\u00e3o um Deputado de esquerda, por favor!\r\nN\u00f3s estamos aqui abrindo o capital, e eu sou a favor, mas poder defender que pelo menos o crescimento econ\u00f4mico dessa \u00e1rea possa empregar brasileiros \u00e9 pensar no nosso Pa\u00eds. Isso n\u00e3o tem nada a ver com ideologia! Do jeito que vamos, Sr. Presidente, em toda discuss\u00e3o que \u00e9 trazida para o Plen\u00e1rio, em todo tema, um chama o outro de direita, o outro chama de esquerdopata, e perdemos a discuss\u00e3o do m\u00e9rito. Por favor!\r\nChegamos ao consenso de que \u00e9 preciso abrir, e a maioria votou. Agora precisamos que essa riqueza seja distribu\u00edda entre os trabalhadores brasileiros. Por isso, eu voto com o Relator.\r\nVotamos \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=225&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, ALTERA\u00c7\u00c3O, GRUPO DE TRABALHO, CRIA\u00c7\u00c3O.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de cria\u00e7\u00e3o de grupo de trabalho para altera\u00e7\u00e3o do Regimento Interno da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, queria fazer um apelo a V.Exa.: que pudesse criar um grupo para discutir a reforma do Regimento. Digo isso porque o que est\u00e1 acontecendo aqui hoje faz com que o cidad\u00e3o que est\u00e1 nos assistindo em casa n\u00e3o consiga compreender bem como funciona a C\u00e2mara dos Deputados.\r\nDesde ontem n\u00f3s tentamos votar uma mat\u00e9ria de que mais de 300 Deputados s\u00e3o a favor. Hoje n\u00f3s estamos numa sess\u00e3o extraordin\u00e1ria, s\u00e3o 8 horas da noite, e tenho observado que os partidos dos extremos usam 100% do seu tempo para criticar o outro e zero para falar sobre a mat\u00e9ria que est\u00e1 sendo apreciada.\r\nSr. Presidente, o Brasil quer saber de resolver os nossos problemas na economia, no emprego, e n\u00e3o de um chamar o outro de esquerdopata e o outro chamar de entreguista. Por favor, vamos focar no que \u00e9 importante para o Brasil.\r\nPor isso, Presidente, quero pedir a V.Exa. que pe\u00e7a aos L\u00edderes que fa\u00e7am suas indica\u00e7\u00f5es para formarmos um grupo para discutir a reforma do Regimento, o que \u00e9 mais do que necess\u00e1rio no momento em que vivemos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=288&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, DECIS\u00c3O, VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 15/2019, EMENDA DE PLEN\u00c1RIO, PL 23724/2015, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela realiza\u00e7\u00e3o de nova vota\u00e7\u00e3o do Requerimento de Destaque n\u00ba 35.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Quero parabenizar V.Exa., porque esse era um destaque de interesse do Partido Progressista. No momento em que precisava verificar a vota\u00e7\u00e3o, o L\u00edder se dirigia ao microfone. Realmente, n\u00e3o deu tempo.\r\nMais uma vez, V.Exa. faz um gesto com esta Casa para que essa posi\u00e7\u00e3o venha a plen\u00e1rio e n\u00e3o se crie uma divis\u00e3o maior do que o tema.\r\nEu estava l\u00e1 e percebi que o L\u00edder Arthur estava indo em dire\u00e7\u00e3o ao microfone e n\u00e3o chegou a tempo. \r\nQuero s\u00f3 refor\u00e7ar que acho justa essa vota\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "L\u00cdDER DO GOVERNO, ATUA\u00c7\u00c3O, POL\u00cdTICA, ARTICULA\u00c7\u00c3O, CR\u00cdTICA. \r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), APOSENTADORIA, TRABALHADOR RURAL, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), DEBATE, DEFESA. \r\nPEC 2/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, OR\u00c7AMENTO IMPOSITIVO, ELOGIO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Incapacidade de articula\u00e7\u00e3o pol\u00edtica do L\u00edder do Governo na Casa, Deputado Major Vitor Hugo. Import\u00e2ncia da articula\u00e7\u00e3o pol\u00edtica para a discuss\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero agradecer ao bloco e ao meu partido, que me deu este tempo para que eu falasse de um tema importante para toda a Casa.\r\nO escritor Peter Drucker, considerado o pai da teoria da administra\u00e7\u00e3o, diz que apenas tr\u00eas coisas acontecem naturalmente nas organiza\u00e7\u00f5es: fric\u00e7\u00e3o, confus\u00e3o e baixo desempenho. Tudo o mais requer lideran\u00e7a.\r\nEu digo isto porque iniciamos a semana com o L\u00edder do Governo na C\u00e2mara dos Deputados atacando genericamente a nossa institui\u00e7\u00e3o. Como parte de um dos maiores partidos e do maior bloco desta Casa, n\u00e3o me sentiria confort\u00e1vel em passar esta semana sem registrar esta quest\u00e3o.\r\n\u00c9 imprescind\u00edvel que o Governo perceba que o seu L\u00edder tem a responsabilidade de conduzir, inspirar, mobilizar, organizar a sua base, ora inexistente. Quando nega e criminaliza a articula\u00e7\u00e3o pol\u00edtica, ele esquece que \u00e9 papel de todos ir ao Minist\u00e9rio da Infraestrutura e brigar por recursos para renovar e melhorar as BRs dos nossos Estados; ir ao Minist\u00e9rio do Desenvolvimento Regional e cobrar que seja conclu\u00edda a transposi\u00e7\u00e3o do S\u00e3o Francisco; ir \u00e0 FUNASA e buscar abastecimento de \u00e1gua para as comunidades que n\u00e3o t\u00eam \u00e1gua em nosso Estado e em todo o Pa\u00eds. \r\nPara al\u00e9m disso, existe a articula\u00e7\u00e3o pol\u00edtica legislativa. A Presid\u00eancia da Rep\u00fablica tem o poder de veto. Por isso, muitos dos nossos projetos exigem articula\u00e7\u00e3o pol\u00edtica com as lideran\u00e7as do Governo, para que possamos aperfei\u00e7o\u00e1-los, emend\u00e1-los e prepar\u00e1-los para que n\u00e3o sejam vetados e tenhamos que derrubar vetos.\r\nA postura tomada pelo L\u00edder do Governo de tentar tratar todo tipo de di\u00e1logo como sendo corrupto, como sendo vinculado ao dinheiro mostra que ele se aproveitou de um discurso f\u00e1cil.\r\n\u00c9 dif\u00edcil fazer articula\u00e7\u00e3o pol\u00edtica; d\u00e1 trabalho. N\u00e3o porque \u00e9 ilegal, n\u00e3o porque tem nada de errado, mas porque demanda di\u00e1logo, demanda ouvir, demanda conhecer cada um dos Deputados e a realidade de quem eles representam; demanda saber as necessidades dos nossos Estados e dos segmentos que nos elegeram. Mas mais f\u00e1cil do que conversar com todo mundo \u00e9 demonizar a articula\u00e7\u00e3o pol\u00edtica e, para justificar a sua pr\u00f3pria in\u00e9pcia, dizer que a articula\u00e7\u00e3o pol\u00edtica \u00e9, como um todo, corrupta.\r\nFa\u00e7o este pronunciamento, Sr. Presidente, porque n\u00f3s estamos diante de um momento fundamental para o nosso Pa\u00eds. Temos aqui a reforma da Previd\u00eancia para votar, e hoje os partidos se uniram para retirar da proposta as quest\u00f5es que mais mexem com o povo carente do nosso Pa\u00eds, como o trabalhador rural e o benefici\u00e1rio do BPC. E, num momento em que discutimos um tema t\u00e3o importante, o L\u00edder do Governo, Deputado Major Vitor Hugo, repito, chama todos n\u00f3s de corruptos!\r\nImaginem do que n\u00f3s nos estamos avizinhando nos pr\u00f3ximos 4 anos, se quando precisamos apreciar a primeira pauta, que j\u00e1 \u00e9 uma pauta de import\u00e2ncia nacional, vivemos esta situa\u00e7\u00e3o!\r\nTodos n\u00f3s sabemos o qu\u00e3o importante \u00e9 revisarmos a Previd\u00eancia. Se n\u00e3o o fizermos, o aumento do seu rombo vai inviabilizar o nosso Pa\u00eds, mas temos que discuti-la com muita articula\u00e7\u00e3o pol\u00edtica - leg\u00edtima, legal, honesta, mas aberta. Temos que ver que aquela emenda ou aquele artigo est\u00e1 sendo injusto com o professor, ou que a parte que mexe com o trabalhador rural vai causar um grande impacto em Estados como o meu, o Cear\u00e1, onde mais da metade dos aposentados s\u00e3o rurais. Mas o L\u00edder do Governo simplesmente nega a pol\u00edtica.\r\nEu fa\u00e7o isso n\u00e3o num desafio de quem quer bater no Governo, nem como um Deputado da Oposi\u00e7\u00e3o. Mas, se algu\u00e9m neste Congresso torce para que o Pa\u00eds cres\u00e7a, ser\u00e1 preciso que o Governo respeite a fun\u00e7\u00e3o primordial da C\u00e2mara dos Deputados e do Congresso Nacional.\r\nPor exemplo, essa PEC que n\u00f3s estamos votando hoje \u00e9 a PEC que vai acabar com o toma l\u00e1, d\u00e1 c\u00e1. Por muitos anos, depois de editarmos o Or\u00e7amento, t\u00ednhamos que passar o ano todo bajulando Ministro para conseguir o financeiro e que ele fosse empenhado.\r\nS\u00e3o atos como este de hoje que mostram que quem det\u00e9m o poder de resolver os problemas desta Na\u00e7\u00e3o \u00e9 o Congresso Nacional. N\u00f3s precisamos de di\u00e1logo n\u00e3o s\u00f3 com o Executivo, mas tamb\u00e9m com o Judici\u00e1rio. Toda democracia firme deste mundo, do nosso planeta, persegue a estreita intera\u00e7\u00e3o entre os Poderes, e n\u00e3o criminaliza essa rela\u00e7\u00e3o. \r\nNingu\u00e9m aqui est\u00e1 pedindo cargo, ningu\u00e9m aqui est\u00e1 pedindo emenda. N\u00f3s precisamos mesmo \u00e9 que, a partir de hoje, estejamos unidos em defesa da C\u00e2mara dos Deputados e do Congresso Nacional.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=354&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), OBSTRU\u00c7\u00c3O PARLAMENTAR, ESCLARECIMENTO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Informa\u00e7\u00e3o \u00e0 Presid\u00eancia sobre obstru\u00e7\u00e3o das vota\u00e7\u00f5es pelo PSD para efeitos administrativos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu queria comunicar que, depois que a Lideran\u00e7a do Governo patrocina a obstru\u00e7\u00e3o da Oposi\u00e7\u00e3o e faz uso do tempo de L\u00edder por 10 minutos, fazendo obstru\u00e7\u00e3o, o PSD, mesmo sendo a favor da mat\u00e9ria, vai tamb\u00e9m indicar, nas vota\u00e7\u00f5es futuras, a obstru\u00e7\u00e3o para efeitos administrativos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=373&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL, INSTITUTO FEDERAL DE EDUCA\u00c7\u00c3O, CI\u00caNCIA E TECNOLOGIA (INSTITUTO FEDERAL), INSTITUTO FEDERAL DE ENSINO (IFE), RECURSOS OR\u00c7AMENT\u00c1RIOS, CONTINGENCIAMENTO, CORTE, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, MINIST\u00c9RIO DA EDUCA\u00c7\u00c3O, GOVERNO FEDERAL, GEST\u00c3O, CONTR\u00c1RIO.\r\nPETR\u00d3LEO BRASILEIRO (PETROBRAS), CORRELA\u00c7\u00c3O, PODER JUDICI\u00c1RIO, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Corte de recursos or\u00e7ament\u00e1rios das universidades federais e dos Institutos Federais de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE) - Sr. Presidente, Sras. e Srs. Parlamentares, \u00e9 com grande preocupa\u00e7\u00e3o que eu assisto a esta sess\u00e3o de hoje, quando esper\u00e1vamos ter respostas mais claras do que seria feito com o risco iminente de institutos federais e de universidades federais fecharem suas portas por n\u00e3o poderem pagar vigilantes at\u00e9 o m\u00eas de setembro. Mas, como diversas outras discuss\u00f5es que t\u00eam ocorrido nesta Casa, mais uma vez o foco do problema n\u00e3o \u00e9 atacado no debate. Tudo acaba no discurso ideol\u00f3gico.\r\nAqui, Ministro, com todo o respeito ao plano de V.Exa., fica claro, tamb\u00e9m pelas palavras dos que vieram aqui defender a posi\u00e7\u00e3o do Governo, que \u00e9 uma afronta ideol\u00f3gica \u00e0s universidades federais e aos institutos federais. O senhor disse que n\u00e3o houve amplia\u00e7\u00e3o nos institutos federais. Mas v\u00e1rios dos nossos Munic\u00edpios, inclusive o meu, tiveram institutos federais que hoje prestam grandes servi\u00e7os a todo o Munic\u00edpio e a minha regi\u00e3o.\r\nSaiba que este \u00e9 um tema t\u00e3o importante para este Congresso que, no ano passado, a Comiss\u00e3o de Or\u00e7amento destinou 674 milh\u00f5es de reais para essa \u00e1rea, sabendo da import\u00e2ncia das universidades federais e dos institutos federais.\r\nSaiba que aqui, por mais que alguns tenham vindo agradecer a sua presen\u00e7a, o seu prest\u00edgio, \u00e9 bom lembrar, Ministro, pelo quanto \u00e9 importante este tema, que o senhor est\u00e1 aqui hoje por convoca\u00e7\u00e3o, e convocado pela maioria quase un\u00e2nime desta Casa, porque \u00e9 um tema muito grave.(Palmas.)\r\nSaiba que n\u00f3s sabemos que o Governo passa por dificuldades financeiras. No entanto, n\u00e3o esper\u00e1vamos que o in\u00edcio dos cortes seria logo na educa\u00e7\u00e3o, e ainda mais nas universidades. Se h\u00e1 erro, devemos olhar caso a caso, mas n\u00e3o fazer um corte, como no meu Estado, no Instituto Federal do Cear\u00e1 de mais de 40% Isso que vai fazer com que alguns tenham que fechar as suas portas.\r\nMinistro, quero aqui tamb\u00e9m lembrar... O senhor falou da quest\u00e3o do fundo dos recursos que est\u00e3o vindo da PETROBRAS. Essa n\u00e3o \u00e9 uma quest\u00e3o de que o Governo est\u00e1 tratando. O Judici\u00e1rio est\u00e1 tratando. Existe um acordo internacional inclusive que veda que esse recurso venha para a Uni\u00e3o. Ele deve ter uma destina\u00e7\u00e3o pr\u00f3pria. Defendo que a Comiss\u00e3o de Or\u00e7amento possa criar essa dota\u00e7\u00e3o, para que ela seja fiscalizada com independ\u00eancia. Participei da reuni\u00e3o no Supremo para defender que esse recurso v\u00e1 para a educa\u00e7\u00e3o para poder ajudar.\r\nMas, o principal que eu esperava mesmo que o senhor pudesse levar hoje \u00e9 sentir que este Plen\u00e1rio, que este Congresso Nacional n\u00e3o vai pactuar com cortes em \u00e1reas t\u00e3o sens\u00edveis como s\u00e3o os cortes nas universidades federais e nos institutos federais, principalmente porque s\u00e3o os maiores cortes da hist\u00f3ria. Isso nos traz grande preocupa\u00e7\u00e3o.\r\nEu quero finalizar, Ministro, fazendo uma pergunta de forma objetiva. Saiu na imprensa e em v\u00e1rios meios de comunica\u00e7\u00e3o - eu pude conversar com alguns Parlamentares que participaram - que o Presidente Bolsonaro ligou para V.Exa. pedindo que revisse esses cortes, mostrando - isso na frente de um grupo de Parlamentares - que isso era uma preocupa\u00e7\u00e3o. E determinou a V.Exa. que pudesse revogar esses cortes. Falei com Parlamentares que estavam presentes. Eu gostaria de uma confirma\u00e7\u00e3o, porque, \u00e9 evidente, isso me deu uma esperan\u00e7a de que o foco do Governo era proteger o estudante, proteger a educa\u00e7\u00e3o. Mas isso foi rapidamente desmentido.\r\nQuero agradecer ao meu partido este tempo.\r\nAqui fica o meu questionamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO SOCIAL LIBERAL (PSL), RETIRADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 2787/2019, PROJETO DE LEI ORDIN\u00c1RIA, TIPICIDADE PENAL, ECOC\u00cdDIO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Apelo ao PSL de retirada do requerimento de retirada de pauta do Projeto de Lei n\u00ba 2.787, de 2019, sobre a tipifica\u00e7\u00e3o do crime de ecoc\u00eddio e a conduta delitiva do respons\u00e1vel por desastre relativo a rompimento de barragem.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria s\u00f3 fazer um apelo ao PSL. Quem est\u00e1 falando aqui \u00e9 um Deputado do PSD, do partido de centro. Fazer obstru\u00e7\u00e3o a um tema como este, no momento atual, vai significar apenas mais uma derrota acachapante para o Governo, na noite de hoje. S\u00f3 o PSL est\u00e1 orientando a retirada de pauta de um projeto como este nesta tarde. Isso n\u00e3o faz nenhum sentido pol\u00edtico, num momento em que precisamos demonstrar que tentamos serenar o ambiente neste plen\u00e1rio.\r\nPortanto, \u00e9 preciso sensibilidade pol\u00edtica. \u00c9 necess\u00e1rio que algu\u00e9m tenha o m\u00ednimo de preocupa\u00e7\u00e3o com a imagem que n\u00f3s vamos passar nesta tarde. O partido do Governo \u00e9 contra um acordo do qual membros do Governo dele fizeram parte e faz obstru\u00e7\u00e3o a essa vota\u00e7\u00e3o. Isso \u00e9 simplesmente inacredit\u00e1vel! Seria mais justo se retirasse o requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T21:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "CONGRESSO DA SOCIEDADE BRASILEIRA DE TRANSPLANTE DE MEDULA \u00d3SSEA (23:2019, BRAS\u00cdLIA (DF)), HOMENAGEM, VANDERSON ROCHA, M\u00c9DICO, LAN\u00c7AMENTO, LIVRO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Realiza\u00e7\u00e3o do XXIII Congresso Brasileiro de Transplante de Medula \u00d3ssea, em Bras\u00edlia, Distrito Federal. Participa\u00e7\u00e3o, no evento, do m\u00e9dico e professor Vanderson Rocha, refer\u00eancia em transplante de medula \u00f3ssea no Brasil. Breve hist\u00f3rico da biografia do profissional da medicina.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO DOMINGOS NETO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, \u00e9 com satisfa\u00e7\u00e3o que fa\u00e7o o registro de um importante evento da \u00e1rea m\u00e9dica, realizado na semana passada aqui em Bras\u00edlia. Refiro-me ao XXIII Congresso Brasileiro de Transplante de Medula \u00d3ssea.\r\nAquele foi o primeiro evento cient\u00edfico no Brasil a abrir espa\u00e7o para o p\u00fablico em geral, no qual pacientes, familiares e demais interessados no tema tiveram um dia inteiro de palestras, debates e muita troca de experi\u00eancias.\r\nApesar de complexo e delicado, o transplante de medula \u00f3ssea pode beneficiar o tratamento de cerca de 80 doen\u00e7as, como leucemia, anemias graves, linfomas, e doen\u00e7as relacionadas aos sistemas sangu\u00edneos e imunol\u00f3gico, dentre outras. Na verdade, estamos falando de um procedimento m\u00e9dico das \u00e1reas da hematologia e da oncologia que vem contribuindo para a salva\u00e7\u00e3o de vidas pelo mundo afora, e aqui no Brasil n\u00e3o tem sido diferente.\r\nPara se ter ideia, de acordo com dados do Sistema Nacional de Transplantes, do Minist\u00e9rio da Sa\u00fade, a quantidade de transplantes no Pa\u00eds vem aumentando consideravelmente. Em 2010, por exemplo, foram realizadas 1.695 cirurgias; em 2017, 2.388; em 2018, atingimos o recorde, com 2.684 procedimentos.\r\nN\u00e3o poderia deixar de destacar a participa\u00e7\u00e3o naquele congresso do nosso amigo m\u00e9dico Prof. Dr. Vanderson Rocha, refer\u00eancia em transplante de medula \u00f3ssea no Brasil, que teve a honra de lan\u00e7ar durante aquele grandioso acontecimento o seu livro, intitulado Esquadr\u00e3o dos Anjos. A obra teve a coautoria do jornalista Nalu Saad.\r\nSr. Presidente, conhe\u00e7o bem o Prof. Dr. Vanderson Rocha e sei do seu comprometimento com a vida e a ci\u00eancia. Prova disso \u00e9 que seu livro tem uma mensagem de coragem e de car\u00e1ter social, haja vista que a renda \u00e9 destinada a apoiar pacientes p\u00f3s-transplantados e financiar pesquisas de terapia celular no Brasil.\r\nO pronunciamento que fa\u00e7o hoje n\u00e3o \u00e9 apenas uma simples men\u00e7\u00e3o a uma personalidade renomada. \u00c9 muito mais que isso. \u00c9 o reconhecimento de um ser humano que, verdadeiramente, doa o seu tempo e os seus conhecimentos ao pr\u00f3ximo. Por diversas vezes vi o quanto ele se preocupava e se envolvia com os seus pacientes. Dizia que a luta deles era a sua tamb\u00e9m.\r\nPosso afirmar com seguran\u00e7a que o pagamento de seus honor\u00e1rios n\u00e3o se limitava ao dinheiro. Bastava um sorriso, um abra\u00e7o, uma cartinha amassada escrita por uma crian\u00e7a, um olhar de gratid\u00e3o pela vida. Essas, sim, s\u00e3o as suas melhores recompensas at\u00e9 hoje.\r\nQuero que fique registrado nos Anais desta Casa um breve hist\u00f3rico de sua biografia, especialmente no tocante \u00e0 sua trajet\u00f3ria, compet\u00eancia e generosidade. N\u00e3o \u00e9 \u00e0 toa que possui diversos t\u00edtulos acad\u00eamicos e realizou, exitosamente, in\u00fameras cirurgias complicad\u00edssimas.\r\nO Dr. Vanderson Rocha \u00e9 realmente um m\u00e9dico fora da m\u00e9dia e com reputa\u00e7\u00e3o internacional. Aqui no Brasil, ele atua como professor titular da Faculdade de Medicina da Universidade de S\u00e3o Paulo; diretor do Servi\u00e7o de Hematologia, Hemoterapia e Terapia Celular da Divis\u00e3o de Cl\u00ednica M\u00e9dica do Instituto Central do Hospital das Cl\u00ednicas; coordenador m\u00e9dico da Unidade de Doen\u00e7as Hematol\u00f3gicas e Transplante de Medula \u00d3ssea do Hospital S\u00edrio Liban\u00eas; diretor-presidente da Funda\u00e7\u00e3o Pr\u00f3-Sangue Hemocentro de S\u00e3o Paulo; e especialista em medicina interna em Hematologia e Hemoterapia pela Universidade Federal de Minas Gerais - UFMG.\r\nNo \u00e2mbito internacional, trabalha como professor de hematologia no Churchill Hospital, Oxford University Hospitals - NHS Trust, no Reino Unido. \u00c9 especialista em TMO - Transplante de Medula \u00d3ssea pela Universidade de Paris; doutor em ci\u00eancias biol\u00f3gicas e m\u00e9dicas pela Universidade de Paris; e doutor em Biotecnologia Terap\u00eautica pela Universidade de Paris Jussieu-Diderot.\r\nPortanto, Sr. Presidente, parabenizo o Prof. Dr. Vanderson Rocha por mais essa nova empreitada de lan\u00e7ar um livro t\u00e3o significativo como \u00e9 o Esquadr\u00e3o dos Anjos, bem como pelos servi\u00e7os prestados em prol da esperan\u00e7a e da manuten\u00e7\u00e3o da vida. N\u00e3o foi por acaso que conseguiu publicar mais de 328 artigos, al\u00e9m de ter sido o pesquisador respons\u00e1vel de 25 projetos de pesquisa aprovados pela Comiss\u00e3o de \u00c9tica para An\u00e1lise de Projetos de Pesquisa - CAPPesq, do Hospital das Cl\u00ednicas da Faculdade de Medicina da Universidade de S\u00e3o Paulo, e de outros 26 projetos em an\u00e1lise.\r\nTenho certeza que o XXIII Congresso Brasileiro de Transplante de Medula \u00d3ssea foi engrandecido com sua presen\u00e7a. Parab\u00e9ns, amigo!\r\nSr. Presidente, solicito a V.Exa. que autorize a divulga\u00e7\u00e3o deste meu pronunciamento nos \u00f3rg\u00e3os de comunica\u00e7\u00e3o desta Casa, especialmente no programa A Voz do Brasil.\r\nEra o que tinha a dizer.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=330&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONTESTA\u00c7\u00c3O, DISCURSO PARLAMENTAR, L\u00cdDER DO PARTIDO, PODEMOS (PODE) (2016), VOTA\u00c7\u00c3O, SENADO FEDERAL, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ORG\u00c2NICA DOS PARTIDOS POL\u00cdTICOS (1995), ELEI\u00c7\u00d5ES, DESTAQUE DE BANCADA, FUNDO PARTID\u00c1RIO, FUNDO ESPECIAL DE FINANCIAMENTO DE CAMPANHA (FEFC).",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Defesa de vota\u00e7\u00e3o da proposta de aumento dos recursos do Fundo Partid\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s participamos de todas as conversas sobre esse projeto, e confesso que me senti pessoalmente atingido com a fala do L\u00edder do Podemos.\r\nTodos nesta Casa sabemos que esta vota\u00e7\u00e3o n\u00e3o prosperou no Senado Federal devido ao lobby do partido dele, que queria mudar a data de contagem de quantos Parlamentares havia em cada partido, por causa de dinheiro, que briga para trazer Deputado ou para trazer Senador oferecendo dinheiro, que tenta aprovar aqui um destaque para abrir uma janela levando tempo do fundo eleitoral para crescer o seu Fundo Partid\u00e1rio e fundo eleitoral.\r\nN\u00f3s temos que cessar o falso moralismo, porque foi o financiamento eleitoral que afastou a aproxima\u00e7\u00e3o das empresas da pol\u00edtica. Isso tem um custo para a democracia. Mas \u00e9 um custo que sai muito mais barato, porque faz com que os Parlamentares e os partidos tenham liberdade, sem dever satisfa\u00e7\u00e3o ao grande poder econ\u00f4mico.\r\nEnt\u00e3o, vamos acabar com essa conversa e vamos votar o projeto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO SOCIAL LIBERAL (PSL), UTILIZA\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIOS,  FUNDO ESPECIAL DE ASSIST\u00caNCIA FINANCEIRA AOS PARTIDOS POL\u00cdTICOS, FUNDO PARTID\u00c1RIO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de registro em ata da abdica\u00e7\u00e3o do PSL \u00e0 utiliza\u00e7\u00e3o de recursos do Fundo Eleitoral.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quero s\u00f3 pedir a V.Exa. que fa\u00e7a constar em ata, da mesma forma como fez em rela\u00e7\u00e3o ao Podemos, que o PSL no ano que vem vai abrir m\u00e3o de gastar todo o fundo eleitoral a que tem direito - nas palavras de todos os que falaram aqui, eles consideram isso criminoso - e que no Estado do Rio Grande do Sul, de onde \u00e9 o Deputado que acabou de falar, nenhum candidato do PSL vai us\u00e1-lo. Pe\u00e7o que fa\u00e7a constar em ata.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=185&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RECURSOS P\u00daBLICOS, FUNDO PARTID\u00c1RIO, PAGAMENTO, HONOR\u00c1RIOS ADVOCAT\u00cdCIOS, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ORG\u00c2NICA DOS PARTIDOS POL\u00cdTICOS (1995), ELEI\u00c7\u00d5ES.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Incoer\u00eancia do posicionamento do PSDB no tocante \u00e0 vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.029, de 2019, (11.021, de 2018, na C\u00e2mara dos Deputados), sobre as regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, s\u00f3 para fim de registro, na vota\u00e7\u00e3o anterior, que tratava sobre o pagamento de servi\u00e7os advocat\u00edcios e dos demais - coisas de que os partidos precisam -, alguns partidos que votaram aqui, como o PSDB, que acabou de falar, t\u00eam uma despesa alt\u00edssima com esse servi\u00e7o, mas v\u00eam aqui e votam contra.\r\nEra s\u00f3 para registrar isso. E que aqueles que fazem propaganda em cima da gente possam olhar para o povo e trat\u00e1-lo sem falso moralismo. \u00c9 isso o que est\u00e1 acontecendo muito nesta noite.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=338&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 2\u00ba-A do art. 23 da Lei n\u00ba 9.504, de 1997, constante do art. 1\u00ba do Substitutivo apresentado ao Projeto de Lei n\u00ba 4.121, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.504, de 1997, com vista ao estabelecimento dos limites de gastos de campanha para as elei\u00e7\u00f5es municipais, para a sua supress\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Sem revis\u00e3o do orador.) - Sr. Presidente, fica claro nesta noite que o destaque do NOVO nessa mat\u00e9ria constitui uma verdadeira burla \u00e0 decis\u00e3o do Supremo Tribunal Federal. N\u00f3s estamos discutindo esta mat\u00e9ria nesta noite porque o Supremo Tribunal Federal decidiu, na ADI 4.650, que era proibida a doa\u00e7\u00e3o empresarial. E eis o voto vencedor do Ministro Luiz Fux: \"A doa\u00e7\u00e3o por pessoas jur\u00eddicas a campanhas eleitorais, antes de refletir eventuais prefer\u00eancias pol\u00edticas, denota um agir estrat\u00e9gico destes grandes doadores, no af\u00e3 de estreitar suas rela\u00e7\u00f5es com o poder p\u00fablico, em pactos, muitas vezes, desprovidos de esp\u00edrito republicano\".\r\nO que o NOVO tenta fazer nesta noite \u00e9 criar uma burla: deixam de doar os CNPJs e passam a doar os CPFs dos donos dos mesmos CNPJs. Criamos uma regra de que apenas aqueles que s\u00e3o amigos dos mais milion\u00e1rios ou os propriet\u00e1rios dos grandes patrim\u00f4nios econ\u00f4micos do Brasil tomar\u00e3o de conta das Prefeituras, das C\u00e2maras Municipais e, no futuro, do Congresso Nacional, da Presid\u00eancia da Rep\u00fablica, dos Governos e das Assembleias Legislativas. \r\nPodem ter certeza de que, com a cria\u00e7\u00e3o de um limitador, n\u00f3s estamos nesta noite criando uma regra de que a decis\u00e3o do Supremo na ADI 4.650 possa ser respeitada pelo Congresso Nacional, tendo, na verdade, de afastar o poder econ\u00f4mico das decis\u00f5es pol\u00edticas. Esse foi o tema central da decis\u00e3o do Supremo Tribunal Federal. Esse limitador pode n\u00e3o ser perfeito, pode n\u00e3o ser o melhor, mas \u00e9 um limitador.\r\nDefendo ainda que, se teremos um destaque para ser 10% do teto, fa\u00e7amos, mas retirar qualquer tipo de teto de autofinanciamento s\u00f3 beneficiar\u00e1 partidos que s\u00e3o feitos por milion\u00e1rios, patrocinados por milion\u00e1rios e criados por milion\u00e1rios, como \u00e9 o Partido Novo, autor do destaque.\r\nPara o brasileiro que queira entrar na pol\u00edtica e se destacar pelo trabalho, enfrentar dificuldade nas elei\u00e7\u00f5es, mas se manter distante do capital econ\u00f4mico, sem enfrentar essa dificuldade de disputar contra aqueles que t\u00eam grande patrim\u00f4nio, n\u00f3s precisamos criar um limitador do autofinanciamento, sen\u00e3o deixaremos na pol\u00edtica apenas os milion\u00e1rios.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=303&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 2\u00ba-A do art. 23 da Lei n\u00ba 9.504, de 1997, constante do art. 1\u00ba do Substitutivo apresentado ao Projeto de Lei n\u00ba 4.121, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.504, de 1997, com vista ao estabelecimento dos limites de gastos de campanha para as elei\u00e7\u00f5es municipais, para a sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD quer parabenizar o nosso Relator, o Deputado F\u00e1bio Trad, e por isso orienta \"sim\", pela manuten\u00e7\u00e3o do seu texto.\r\nEsse destaque constitui uma verdadeira burla \u00e0 decis\u00e3o do Supremo Tribunal Federal que pro\u00edbe o financiamento empresarial nas campanhas. E esse destaque se prop\u00f5e a tentar que, tirando-se das empresas as doa\u00e7\u00f5es eleitorais, passem a constar como doadores os donos dessas empresas. O pior \u00e9 que isso cria a figura dos compradores de mandato, que s\u00e3o aqueles que, milion\u00e1rios, t\u00eam a condi\u00e7\u00e3o de arcar, como um todo, dentro do teto, com o financiamento.\r\nEsse teto poderia ser ainda mais reduzido. Pode at\u00e9 n\u00e3o ser o perfeito, mas \u00e9 melhor do que n\u00e3o ter teto algum. Por isso, o PSD orienta \"sim\", pela manuten\u00e7\u00e3o do texto do Relator F\u00e1bio Trad.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=306&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-02T00:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTRARIO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 2, apresentada ao Projeto de Lei n\u00ba 4.121, de 2019, sobre o estabelecimento de limite de gastos de campanha nas elei\u00e7\u00f5es municipais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, para refor\u00e7ar a fala do L\u00edder Arthur Lira, eu tamb\u00e9m defendo que n\u00f3s n\u00e3o podemos deixar que os milion\u00e1rios tomem de conta, comprando os mandatos.\r\nN\u00f3s j\u00e1 assistimos no passado ao TSE legislar sobre o financiamento de campanha eleitoral \u00e0s v\u00e9speras da elei\u00e7\u00e3o, com as margens, com as brechas que deixamos na legisla\u00e7\u00e3o que fizemos no Congresso Nacional. Isso aconteceu com o financiamento de campanha das mulheres, que dever\u00edamos ter resolvido no Congresso Nacional, e o TSE fez uma resolu\u00e7\u00e3o \u00e0s v\u00e9speras da elei\u00e7\u00e3o, n\u00e3o dando tempo para os partidos se organizarem.\r\nNeste caso, deixaremos o mesmo ocorrer, ficar\u00e3o margens para que o TSE interprete essa emenda, que ainda \u00e9 muito vaga e n\u00e3o explicita todos os problemas. Por exemplo, n\u00e3o vai ao caso dos Vereadores, limita-se aos Prefeitos.\r\nPor isso, n\u00f3s vamos manter o texto do Relator, votando \"n\u00e3o\" \u00e0 emenda do PSL.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=317&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-02T00:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIREITO ELEITORAL, ANUALIDADE, ALTERA\u00c7\u00c3O, TRIBUNAL SUPERIOR ELEITORAL (TSE).",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Inobserv\u00e2ncia, pelo Tribunal Superior Eleitoral, do princ\u00edpio do direito eleitoral da anualidade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Quero s\u00f3 trazer uma lembran\u00e7a, Sr. Presidente. Muitos falaram aqui: \"\u00c9 l\u00f3gico que o TSE deve fazer isso, \u00e9 l\u00f3gico que o TSE deve fazer aquilo\". Existe um princ\u00edpio do direito eleitoral que \u00e9 a anualidade. E, em todos os anos eleitorais, o TSE mexeu nas regras \u00e0s v\u00e9speras das elei\u00e7\u00f5es, sem respeitar esse princ\u00edpio.\r\nPortanto, s\u00f3 para ficar registrado, essa l\u00f3gica que est\u00e3o pensando para todos pode se virar contra n\u00f3s.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=323&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DESABAMENTO, EDIF\u00cdCIO, FORTALEZA (CE), CAMILO SANTANA, GOVERNADOR, PREFEITO, BANCADA ESTADUAL, CEAR\u00c1, SOLIDARIEDADE, V\u00cdTIMA.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Solidariedade da bancada federal cearense aos familiares das v\u00edtimas de desabamento de edif\u00edcio residencial ocorrido na Capital Fortaleza.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, como Coordenador da bancada, em nome da bancada, quero me solidarizar com as fam\u00edlias que hoje sofreram com a tr\u00e1gica queda do pr\u00e9dio em Fortaleza.\r\nO Governador Camilo Santana chegou hoje a Bras\u00edlia para uma reuni\u00e3o com a bancada e teve que imediatamente voltar para o Estado, diante dessa trag\u00e9dia.\r\nFiz uma liga\u00e7\u00e3o ao Prefeito de Fortaleza, para nos colocar \u00e0 sua disposi\u00e7\u00e3o, para o que pud\u00e9ssemos ajudar. Diversas fam\u00edlias foram atingidas, e j\u00e1 h\u00e1 v\u00edtimas fatais confirmadas.\r\nSem d\u00favida, enquanto bancada, n\u00f3s precisamos fazer de tudo para que epis\u00f3dios como esse n\u00e3o se repitam.\r\nComo Coordenador da bancada cearense, em nome de toda a bancada, deixo aqui a nossa solidariedade \u00e0s fam\u00edlias que sofreram hoje com esse tr\u00e1gico acidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=208&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ACORDO, VOTA\u00c7\u00c3O, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTO A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA, FALTA JUSTIFICADA, DEPUTADO FEDERAL, SESS\u00c3O DELIBERATIVA.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Apelo \u00e0 Presid\u00eancia de registro da presen\u00e7a dos Deputados ausentes nas vota\u00e7\u00f5es no plen\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu quero s\u00f3 ajudar. O que aconteceu foi o seguinte: como houve um acordo anunciado, v\u00e1rios Deputados foram embora, porque sabiam que havia um acordo. Eu compreendo. A preocupa\u00e7\u00e3o com a obstru\u00e7\u00e3o \u00e9 em fun\u00e7\u00e3o disso. Como foi anunciado que havia um acordo, muitos Deputados foram embora, inclusive da nossa bancada.\r\nEnt\u00e3o, j\u00e1 que h\u00e1 um acordo, fa\u00e7o um apelo \u00e0 Mesa para que n\u00e3o d\u00ea falta aos Deputados que n\u00e3o votaram nesta sess\u00e3o. O PT mudaria sua posi\u00e7\u00e3o, nesta vota\u00e7\u00e3o espec\u00edfica, porque h\u00e1 acordo.\r\nSe n\u00e3o houver a prejudicialidade com a falta administrativa, n\u00f3s conseguiremos proteger a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=296&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "VICENTE ARRUDA, EX-DEPUTADO FEDERAL, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Homenagem p\u00f3stuma ao ex-Deputado Federal Vicente Arruda.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO DOMINGOS NETO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, quero registrar meu lamento pela morte do nosso querido Deputado Vicente Arruda, que nos deixou nesta madrugada em Fortaleza. Fui testemunha da dedica\u00e7\u00e3o de Vicente Arruda pelo Brasil e pelo nosso povo do Cear\u00e1 nos anos em que fomos colegas aqui na C\u00e2mara.\r\nHoje, o Munic\u00edpio de Granja, terra natal de Vicente Arruda, lamenta a perda de um de seus filhos mais ilustres. Sr. Presidente, eu cheguei aqui muito jovem e vi pelos olhos dele como trabalhar pelos nossos Munic\u00edpios. \r\nFica a nossa saudade. Deixo aqui as minhas condol\u00eancias aos familiares, amigos e ao povo de Granja.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=178&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLN 22/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, OR\u00c7AMENTO IMPOSITIVO, PARECER DO RELATOR, VOTA\u00c7\u00c3O, DOMINGOS NETO, DEPUTADO FEDERAL, ORADOR, AGRADECIMENTO.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Agradecimento aos congressistas pela vota\u00e7\u00e3o do parecer oferecido pelo orador ao primeiro or\u00e7amento impositivo do Pa\u00eds.",
+        "tipoDiscurso": "COMO RELATOR",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Como Relator. Sem revis\u00e3o do orador.) - Sr. Presidente Davi Alcolumbre, nesta noite, sob a sua condu\u00e7\u00e3o, o Plen\u00e1rio do Congresso Nacional faz hist\u00f3ria: estamos votando o primeiro or\u00e7amento impositivo da hist\u00f3ria do nosso Pa\u00eds.\r\nO nosso relat\u00f3rio expressa algumas premissas, e a primeira se refere \u00e0s Emendas Constitucionais n\u00bas 100 e 102, votadas no plen\u00e1rio do Congresso. Em ambas n\u00f3s regulamentamos que o Or\u00e7amento era impositivo, por determina\u00e7\u00e3o do Congresso Nacional.\r\nMais do que isso, Presidente, a Comiss\u00e3o de Or\u00e7amento fez um estudo profundo de todas as \u00e1reas em que havia excesso de or\u00e7amento e baix\u00edssima execu\u00e7\u00e3o para remanejar esses recursos para \u00e1reas que mais precisam. Ao final, n\u00f3s estamos ampliando, em quase todas as \u00e1reas, mas sobretudo nas mais sens\u00edveis, as despesas discricion\u00e1rias, que s\u00e3o as que entregam bens e servi\u00e7os \u00e0 sociedade: mais de 5 bilh\u00f5es de reais na sa\u00fade; mais de 8 bilh\u00f5es de reais no Minist\u00e9rio do Desenvolvimento Regional - MDR; mais de 2 bilh\u00f5es de reais na educa\u00e7\u00e3o. Tamb\u00e9m aumentamos o or\u00e7amento da infraestrutura; aumentamos o or\u00e7amento para as nossas rodovias; aumentamos o or\u00e7amento do Minha Casa, Minha Vida; aumentamos o or\u00e7amento da agricultura; aumentamos o or\u00e7amento do turismo.\r\nEsse trabalho foi constru\u00eddo na Comiss\u00e3o de Or\u00e7amento. Eu queria chamar aqui, inicialmente, o nosso Presidente, o Senador Marcelo Castro - n\u00e3o o estou vendo daqui -, que conduziu, com sua forma serena e firme, a Comiss\u00e3o, para que ela pudesse fazer os avan\u00e7os necess\u00e1rios.\r\nQuem efetivamente nos ajuda e faz as coisas acontecerem no Or\u00e7amento n\u00e3o s\u00e3o os Deputados, mas a nossa Consultoria. Presidente, a Consultoria do Congresso tem, sem d\u00favida, os melhores quadros para acompanhar o Or\u00e7amento do nosso Pa\u00eds. Eu quero agradecer a toda a Consultoria, tanto os consultores da C\u00e2mara quanto os do Senado. Quero chamar ao p\u00falpito o Wagner, o Marcelo, o H\u00e9lio, a Ana Cl\u00e1udia, a Ana Paula, para que o Plen\u00e1rio os conhe\u00e7a. S\u00e3o esses que, durante o ano inteiro, acompanham a execu\u00e7\u00e3o do Or\u00e7amento.\r\nS\u00e3o esses que, quando precisamos encontrar dinheiro para a sa\u00fade, passam um pente-fino para dizer para o Relator onde \u00e9 que tem dinheiro sobrando. E s\u00e3o esses que conseguiram construir o texto que hoje n\u00f3s aprovamos por consenso no Congresso Nacional - j\u00e1 foi aprovado na Comiss\u00e3o e na C\u00e2mara -, com apenas um destaque.\r\nQuero dizer a V.Exas. que hoje houve uma virada de chave na rela\u00e7\u00e3o do Congresso com o Or\u00e7amento. N\u00f3s passamos a ter a responsabilidade da indica\u00e7\u00e3o, mas teremos de ter tamb\u00e9m a responsabilidade do acompanhamento da sua execu\u00e7\u00e3o. \u00c9 por isso que apresentei, em conjunto, o projeto de resolu\u00e7\u00e3o que obriga todas as Comiss\u00f5es Tem\u00e1ticas a ter uma Subcomiss\u00e3o de acompanhamento de execu\u00e7\u00e3o or\u00e7ament\u00e1ria que possa produzir relat\u00f3rios trimestrais e envi\u00e1-los \u00e0 Comiss\u00e3o de Or\u00e7amento, que, ao final do ano, poder\u00e1 fazer com que o Or\u00e7amento seja cada vez mais justo e privilegie as \u00e1reas que mais precisam.\r\nQuero dizer tamb\u00e9m a V.Exas. que o acordo que fizemos aqui, mantendo a proposta do Fundo Eleitoral - este fundo que estamos votando -, \u00e9 a mesma proposta do Governo. Desses 2 bilh\u00f5es de reais, 1,3 bilh\u00f5es de reais v\u00eam dos recursos das emendas de bancada. Portanto, o Congresso est\u00e1 dando a sua contribui\u00e7\u00e3o e n\u00e3o est\u00e1 tirando de \u00e1rea alguma, pelo contr\u00e1rio: como j\u00e1 falei, em praticamente todas as \u00e1reas da mensagem que veio do Governo, o Congresso vai entregar ao nosso Pa\u00eds mais recursos, mais investimentos, partindo do princ\u00edpio de que, muitas vezes, o Governo fala muito de \"mais Brasil e menos Bras\u00edlia\", fortalecendo a atua\u00e7\u00e3o nos Munic\u00edpios, fortalecendo as obras que est\u00e3o nos Estados e amarrando isso, Presidente Davi, sob a sua lideran\u00e7a.\r\nEste foi o primeiro or\u00e7amento impositivo. A nossa responsabilidade e o consenso que conseguimos construir aqui hoje \u00e9 hist\u00f3rico: \u00e9 o Congresso Nacional que evitou a paralisia do Programa Minha Casa, Minha Vida, porque est\u00e1 colocando mais de 600 milh\u00f5es de reais nele; \u00e9 o Congresso Nacional que vai evitar o fechamento de hospitais, porque est\u00e1 aumentando recursos para custeio fixo, custeio vari\u00e1vel, custeio de aten\u00e7\u00e3o b\u00e1sica; \u00e9 o Congresso Nacional que vai dar ao FNDE condi\u00e7\u00f5es de reformar escolas e avan\u00e7ar em transporte escolar, porque tamb\u00e9m colocou recursos nesse fundo; \u00e9 o Congresso Nacional que est\u00e1 suplementando o valor que vinha do Governo para a agricultura, numa a\u00e7\u00e3o do Pr\u00f3-Defesa que impedia o Brasil de acessar um financiamento j\u00e1 aprovado de quase 200 milh\u00f5es de d\u00f3lares, porque n\u00e3o havia nenhum capital de giro inicial.\r\nTudo isso, Presidente, s\u00e3o vit\u00f3rias conquistadas pelo Congresso Nacional, ampliando o or\u00e7amento que veio na mensagem modificativa, fazendo cortes nas \u00e1reas que menos precisam, nas \u00e1reas que t\u00eam sobra de or\u00e7amento, e fazendo a quebra do piso. Em vez de se brigar para estourar o teto, fez-se a quebra do piso, estimando os cortes que precisamos fazer para aumentar o investimento. Por isso, estamos hoje fazendo hist\u00f3ria. O \u00fanico tema que, ao final, nos dividiu foi o que \u00e9 o objeto deste destaque.\r\nPor fim, eu quero agradecer a confian\u00e7a a todos os partidos; ao bloco, que me fez Relator; ao meu partido; ao Presidente do meu partido, Gilberto Kassab; ao meu L\u00edder; ao Presidente da C\u00e2mara dos Deputados, Deputado Rodrigo Maia; aos membros da CMO - j\u00e1 falei do Presidente Marcelo Castro, mas quero agradecer aos demais na pessoa do Deputado Cac\u00e1 Le\u00e3o.\r\nAgrade\u00e7o, sobretudo, Presidente, a V.Exa., que, como Presidente do Congresso, trouxe para si essa responsabilidade. Foi sob a sua condu\u00e7\u00e3o que n\u00f3s aprovamos as emendas constitucionais do or\u00e7amento impositivo. Foi sob a sua condu\u00e7\u00e3o que n\u00f3s aprovamos o PLN 51. E \u00e9 sob a sua condu\u00e7\u00e3o que n\u00f3s estamos aprovando o primeiro or\u00e7amento impositivo da hist\u00f3ria. Fazemos hist\u00f3ria neste plen\u00e1rio hoje. Parabenizo V.Exa., Presidente. Foi sob a sua condu\u00e7\u00e3o que n\u00f3s tivemos condi\u00e7\u00e3o de chegar a este grande consenso nesta noite, resolvendo problemas estruturais do nosso Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=19%2F12%2F2019&txPagina=99&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 786/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.\r\nRODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, SESS\u00c3O DELIBERATIVA, SISTEMA DE DELIBERA\u00c7\u00c3O REMOTA (SDR).",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Aplausos ao Presidente Rodrigo Maia pela lideran\u00e7a exercida nos trabalhos de combate ao coronav\u00edrus. Discuss\u00e3o do Projeto de Lei n\u00ba 786, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.947, de 2009, com vista \u00e0 autoriza\u00e7\u00e3o, em car\u00e1ter excepcional, da distribui\u00e7\u00e3o de g\u00eaneros aliment\u00edcios adquiridos com recursos do Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE aos pais ou respons\u00e1veis de estudantes das escolas p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, quero parabenizar V.Exa. por, neste momento, fazer um trabalho hist\u00f3rico do reunir, mesmo diante do confinamento que estamos vivendo, nossa C\u00e2mara, uma Casa com 513 Parlamentares, para deliberar mat\u00e9rias importantes como a de hoje. Parabenizo V.Exa. pela lideran\u00e7a, Presidente Rodrigo Maia!\r\nQuero parabenizar, igualmente, a Deputada Professora Dorinha e o Deputado Hildo Rocha por esta iniciativa e agradecer ao meu L\u00edder Diego Andrade e ao Relator Z\u00e9 Silva, que acataram nossa sugest\u00e3o: a vota\u00e7\u00e3o de uma emenda para usarmos o estoque j\u00e1 adquirido de merenda escolar. Como temos as escolas fechadas, v\u00e1rios Munic\u00edpios e Governos Estaduais utilizaram recursos do PNAE destinados \u00e0 compra de merenda escolar, fizeram aquisi\u00e7\u00f5es e compraram mantimentos, mas estes mantimentos continuam estocados. \r\nCom as escolas fechadas, estes mantimentos correm o risco de estragar se n\u00e3o forem utilizados. Nossa emenda busca, portanto, garantir que o recurso j\u00e1 gasto no passado, que est\u00e1 estocado, seja enviado a quem mais precisa: as fam\u00edlias que, neste momento, est\u00e3o vivendo na mis\u00e9ria. Al\u00e9m disso, a emenda busca permitir que o Conselho de Alimenta\u00e7\u00e3o Escolar fiscalize a destina\u00e7\u00e3o da merenda escolar, garantindo que o recurso seja enviado aos que mais precisam, a quem faz parte do Cadastro \u00danico para Programas Sociais, o Cad\u00danico, e do Bolsa Fam\u00edlia, que s\u00e3o as pessoas que mais t\u00eam sofrido com esta crise. Esta foi a inten\u00e7\u00e3o da nossa emenda.\r\nQuero agradecer ao Relator Z\u00e9 Silva por acatar nossa emenda e ao meu partido por me permitir faz\u00ea-la. \r\nMeus parab\u00e9ns a V.Exa., Sr. Presidente, mais uma vez, por deliberar neste momento projetos importantes que beneficiam o povo brasileiro.\r\nMuito obrigado. \r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Deputado Domingos Neto, como o Relator acatou sua emenda, eu a estou retirando.\r\nO SR. DOMINGOS NETO (Bloco/PSD - CE. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Perfeito, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-02T12:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OR\u00c7AMENTO IMPOSITIVO, REGULAMENTA\u00c7\u00c3O.\r\nCONGRESSO NACIONAL, ATUA\u00c7\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Import\u00e2ncia da regulamenta\u00e7\u00e3o do or\u00e7amento imposiivo. Transforma\u00e7\u00e3o da tribuna do plen\u00e1rio em palanque eleitoral, em detrimento da aprova\u00e7\u00e3o de mat\u00e9rias de relevante interesse da popula\u00e7\u00e3o brasileira.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Para orientar a bancada. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, eu at\u00e9 preparei um discurso para explicar detalhadamente o impacto do PLN 2, mas diante do que foi debatido mais cedo, quero deixar claro que o regulamento do or\u00e7amento impositivo nos d\u00e1 tranquilidade sobre os Restos a Pagar. Esse \u00e9 um pleito do Governo, \u00e9 uma discuss\u00e3o de natureza t\u00e9cnica importante que vai dar seguran\u00e7a \u00e0 execu\u00e7\u00e3o do or\u00e7amento e resolver tamb\u00e9m a parte do d\u00e9ficit dos Estados. \r\nMas eu queria aproveitar esta oportunidade para fazer um coment\u00e1rio sobre outra pauta que tem criado muita intranquilidade neste momento de grave crise que existe hoje. N\u00f3s assistimos outros discursos nesta manh\u00e3, muitos querem fazer politicagem, defendendo seu posicionamento contr\u00e1rio, quando n\u00f3s precisamos ficar unidos, e outros cegamente defendendo seu posicionamento favor\u00e1vel. Essa polariza\u00e7\u00e3o tem prejudicado o Brasil, Presidente. \r\nPe\u00e7o ao Congresso Nacional, aos nossos pares, que possamos discutir esses temas friamente para resolver os problemas do Brasil. \u00c9 isso que o telespectador da TV C\u00e2mara espera, \u00e9 isso que o eleitor brasileiro espera, e n\u00e3o que fa\u00e7amos dos nossos microfones palanques eleitorais. O momento \u00e9 muito complicado, \u00e9 muito s\u00e9rio. \r\nAquele que \u00e9 ligado diretamente ao Presidente tem que aprovar tudo, do jeito que ele faz, indiscriminadamente? E o que \u00e9 contra tem que rejeitar tudo que ele faz? Pelo amor de Deus! Se ele est\u00e1 certo, vamos aplaudi-lo; se ele est\u00e1 errado, vamos corrigi-lo, mas vamos pelo menos tentar ajudar o Brasil de forma mais s\u00e9ria, sem politicagem, s\u00f3 com a pol\u00edtica. \r\nS\u00f3 a boa pol\u00edtica, com P mai\u00fasculo, vai poder resolver os problemas do Brasil neste momento.\r\nMuito obrigado, Presidente, pela oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=9%2F4%2F2020&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, MPV 998/2020, MEDIDA PROVISORIA,  FAVORAVEL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 1, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 998, de 2020, acerca da altera\u00e7\u00e3o de diplomas legais e da transfer\u00eancia, para a Uni\u00e3o, das a\u00e7\u00f5es de titularidade da Comiss\u00e3o Nacional de Energia Nuclear, representativas do capital social das Ind\u00fastrias Nucleares do Brasil S/A e da Nuclebr\u00e1s Equipamentos Pesados S/A.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Sem revis\u00e3o do orador.) - Sr. Presidente, eu vou orientar em nome do nosso L\u00edder Diego Andrade, que foi tamb\u00e9m o autor desse destaque.\r\nEsse destaque altera a reda\u00e7\u00e3o que ficou falha no projeto j\u00e1 aprovado e que vai especificamente para o Estado de Minas, regularizar a quest\u00e3o das usinas no Estado de Minas Gerais. Esse \u00e9 um pleito que j\u00e1 foi feito pelo L\u00edder Diego, como coordenador da bancada de Minas, junto ao Governo.\r\nHoje de manh\u00e3 j\u00e1 chequei com o L\u00edder Ricardo Barros, e esse assunto \u00e9 algo para o qual o Governo tamb\u00e9m j\u00e1 conseguiu construir com o L\u00edder Diego um acordo. Portanto, n\u00f3s votaremos a favor da emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T13:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, PLN 29/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, CR\u00c9DITO SUPLEMENTAR, APROVA\u00c7\u00c3O, SUBSTITUTIVO, COMPLEMENTA\u00c7\u00c3O, VOTO, RELAT\u00d3RIO (PROCESSO LEGISLATIVO).",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei do Congresso Nacional n\u00ba 29, de 2020, sobre a abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor dos Minist\u00e9rios da Agricultura, Pecu\u00e1ria e Abastecimento, do Desenvolvimento Regional e do Turismo, de cr\u00e9dito suplementar no valor de R$ 48.338.517,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Para proferir parecer. Sem revis\u00e3o do orador.) - Sra. Presidente Soraya Santos, pares Parlamentares aqui presentes, pe\u00e7o licen\u00e7a para ir direto ao voto do Relator, vez que o relat\u00f3rio j\u00e1 est\u00e1 disponibilizado no sistema desde ontem. Ent\u00e3o todos j\u00e1 t\u00eam conhecimento do seu teor.\r\n\"III. Voto do Relator\r\nDo exame da proposi\u00e7\u00e3o, verifica-se que a iniciativa do Poder Executivo se encontra articulada na modalidade apropriada de cr\u00e9dito adicional, isto \u00e9, cr\u00e9dito suplementar, uma vez que objetiva exclusivamente refor\u00e7ar categoria de programa\u00e7\u00e3o na Lei Or\u00e7ament\u00e1ria Anual vigente - LOA 2020.\r\nDo exame do projeto, verificamos que a iniciativa n\u00e3o contraria os dispositivos constitucionais e os preceitos legais pertinentes, em particular no que diz respeito \u00e0 sua compatibilidade com as disposi\u00e7\u00f5es da Lei de Diretrizes Or\u00e7ament\u00e1rias - LDO 2020 e do Plano Plurianual - PPA 2020-2023 e \u00e0 sua conformidade com a LOA 2020.\r\nEm 14 de dezembro de 2020, o Ministro da Economia encaminhou o Of\u00edcio SEI n\u00ba 589/2020/ME solicitando as seguintes altera\u00e7\u00f5es no PLN:\r\nI - no Minist\u00e9rio da Agricultura, Pecu\u00e1ria e Abastecimento, inclus\u00e3o das programa\u00e7\u00f5es constantes no Anexo I (suplementa\u00e7\u00e3o), no \u00e2mbito do Instituto Nacional de Coloniza\u00e7\u00e3o e Reforma Agr\u00e1ria - INCRA, no valor de R$ 21.000.000,00 (vinte e um milh\u00f5es de reais);\r\nII - no Minist\u00e9rio da Economia, inclus\u00e3o das programa\u00e7\u00f5es constantes no Anexo I (suplementa\u00e7\u00e3o), no \u00e2mbito da Secretaria Especial da Receita Federal do Brasil, no valor de R$ 165.800.000,00 (cento e sessenta e cinco milh\u00f5es e oitocentos mil reais); da Funda\u00e7\u00e3o Instituto Brasileiro de Geografia e Estat\u00edstica, no valor de R$ 9.392.099,00 (nove milh\u00f5es, trezentos e noventa e dois mil e noventa e nove reais); e do Instituto Nacional do Seguro Social, no valor de R$ 133.775.101,00 (cento e trinta e tr\u00eas milh\u00f5es, setecentos e setenta e cinco mil, cento e um reais);\r\nIII - no Minist\u00e9rio da Infraestrutura, inclus\u00e3o das programa\u00e7\u00f5es constantes no Anexo I (suplementa\u00e7\u00e3o), no \u00e2mbito do Departamento Nacional de Infraestrutura de Transportes - DNIT, no valor de R$ 46.404.972,00 (quarenta e seis milh\u00f5es, quatrocentos e quatro mil, novecentos e setenta e dois reais);\r\nIV - no Minist\u00e9rio da Defesa, inclus\u00e3o das programa\u00e7\u00f5es constantes no Anexo I (suplementa\u00e7\u00e3o), no \u00e2mbito da Administra\u00e7\u00e3o Direta, no valor de R$ 39.400.000,00 (trinta e nove milh\u00f5es e quatrocentos mil reais);\r\nV - em Encargos Financeiros da Uni\u00e3o, inclus\u00e3o das programa\u00e7\u00f5es constantes no Anexo I (suplementa\u00e7\u00e3o), no \u00e2mbito de Recursos sob Supervis\u00e3o do Minist\u00e9rio da Economia, no valor de R$ 2.838.862.418,00 (dois bilh\u00f5es, oitocentos e trinta e oito milh\u00f5es, oitocentos e sessenta e dois mil, quatrocentos e dezoito reais);\r\nVI - inclus\u00f5es de programa\u00e7\u00f5es no Anexo II, que evidencia cancelamentos em diversos Minist\u00e9rios.\r\nDiante do exposto, somos pela aprova\u00e7\u00e3o do PLN n\u00ba 29, de 2020-CN, na forma do Substitutivo em anexo, incorporando o of\u00edcio encaminhado pelo Minist\u00e9rio da Economia, com alguns ajustes para priorizar a\u00e7\u00f5es que contribuir\u00e3o para a retomada do crescimento e do n\u00edvel de emprego e pela aprova\u00e7\u00e3o da emenda apresentada.\"\r\nEsse \u00e9 o relat\u00f3rio, Sra. Presidente, com a complementa\u00e7\u00e3o de voto que j\u00e1 fiz e que tamb\u00e9m j\u00e1 est\u00e1 disponibilizada no sistema.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F12%2F2020&txPagina=29&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T13:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ESCLARECIMENTO, PARECER DO RELATOR, PLN 29/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, CR\u00c9DITO SUPLEMENTAR, COMPLEMENTA\u00c7\u00c3O, MINIST\u00c9RIO DO TURISMO, DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS (DNOCS), INSTITUTO NACIONAL DE COLONIZA\u00c7\u00c3O E REFORMA AGR\u00c1RIA (INCRA), CORTE, RECURSOS OR\u00c7AMENT\u00c1RIOS, EDUCA\u00c7\u00c3O, ORGANISMO INTERNACIONAL, DEFESA, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Esclarecimento ao Plen\u00e1rio sobre o parecer oferecido pelo orador ao Projeto de Lei do Congresso Nacional n\u00ba 29, de 2020, sobre a abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor dos Minist\u00e9rios da Agricultura, Pecu\u00e1ria e Abastecimento, do Desenvolvimento Regional e do Turismo, de cr\u00e9dito suplementar no valor de R$ 48.338.517,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente. Necessidade de vota\u00e7\u00e3o e aprova\u00e7\u00e3o da propositura.",
+        "tipoDiscurso": "COMO RELATOR",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Como Relator. Sem revis\u00e3o do orador.) - Sem nenhum problema.\r\nSra. Presidente, n\u00f3s s\u00f3 podemos fazer a suplementa\u00e7\u00e3o nos Minist\u00e9rios que j\u00e1 estavam dentro, como j\u00e1 estava o Minist\u00e9rio da Agricultura, atrav\u00e9s do INCRA, como j\u00e1 estava o Minist\u00e9rio do Desenvolvimento Regional, atrav\u00e9s do DNOCS, e como j\u00e1 estava o Minist\u00e9rio do Turismo. Assim fizemos para podermos fazer todos esses atendimentos.\r\nAl\u00e9m do mais, n\u00f3s utilizamos as fontes de cancelamento porque temos um problema grande com a educa\u00e7\u00e3o. Sabemos do corte que houve, de mais de 1 bilh\u00e3o e 400 milh\u00f5es, na educa\u00e7\u00e3o e que todos aqui tentamos fazer essa recomposi\u00e7\u00e3o. Onde? Procurando as bancadas mais ligadas \u00e0 educa\u00e7\u00e3o, sobretudo da Oposi\u00e7\u00e3o. Fizemos a suplementa\u00e7\u00e3o nas fontes da educa\u00e7\u00e3o que mais precisavam: dos institutos federais e das universidades federais. Ent\u00e3o, tenho a convic\u00e7\u00e3o de que estamos fazendo o necess\u00e1rio.\r\nSem falar no m\u00e9rito, Presidente. \u00c9 bom que os nossos pares entendam que a n\u00e3o vota\u00e7\u00e3o do PLN 29 incorrer\u00e1, nos organismos internacionais... Estamos quitando d\u00edvidas com organismos internacionais. Ser\u00e1 uma desmoraliza\u00e7\u00e3o do Brasil perder direito a voto na ONU, perder direito a voto na UNESCO, perder direito a voto na OEA, perder direito a voto no MERCOSUL, deixar de participar das reuni\u00f5es do IICA. S\u00e3o mais de dez organismos internacionais em que o Brasil vai passar por um momento quase humilhante, se n\u00e3o votarmos o PLN 29.\r\nPortanto, \u00e9 algo fundamental a agilizarmos nesta vota\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F12%2F2020&txPagina=32&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RESPOSTA, ESCLARECIMENTO, QUEST\u00c3O DE ORDEM, PAULO GANIME, DEPUTADO FEDERAL, RELAT\u00d3RIO (PROCESSO LEGISLATIVO), PLN 29/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, CR\u00c9DITO SUPLEMENTAR, MINIST\u00c9RIO DA AGRICULTURA, PECU\u00c1RIA E ABASTECIMENTO, MINIST\u00c9RIO DO DESENVOLVIMENTO REGIONAL.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Reitera\u00e7\u00e3o de esclarecimento ao Deputado Paulo Ganime, a respeito de t\u00f3pico do parecer oferecido ao Projeto de Lei do Congresso Nacional n\u00ba 29, de 2020, sobre a abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor dos Minist\u00e9rios da Agricultura, Pecu\u00e1ria e Abastecimento, do Desenvolvimento Regional e do Turismo, de cr\u00e9dito suplementar no valor de R$ 48.338.517,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "COMO RELATOR",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Como Relator. Sem revis\u00e3o do orador.) - Bom, Presidente, eu acho que essa resposta eu j\u00e1 havia fornecido. \u00c9 a vincula\u00e7\u00e3o dos Minist\u00e9rios. Todos os \u00f3rg\u00e3os de que se est\u00e1 falando s\u00e3o desses Minist\u00e9rios, do MDE e do MAPA, que s\u00e3o as duas quest\u00f5es que foram feitas.\r\nBasicamente, eu j\u00e1 respondi \u00e0 pergunta do Deputado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F12%2F2020&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PLN 29/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, PRORROGA\u00c7\u00c3O, PRAZO, CR\u00c9DITO SUPLEMENTAR,  SUPRESS\u00c3O, REJEI\u00c7\u00c3O.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Defesa de rejei\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 3\u00ba do substitutivo oferecido ao Projeto de Lei do Congresso Nacional n\u00ba 29, de 2020, sobre a abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor dos Minist\u00e9rios da Agricultura, Pecu\u00e1ria e Abastecimento, do Desenvolvimento Regional e do Turismo, cr\u00e9dito suplementar no valor de R$ 48.338.517,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "COMO RELATOR",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Como Relator. Sem revis\u00e3o do orador.) - Sra. Presidente, o texto do art. 3\u00ba trata apenas de uma quest\u00e3o de prazo. Esse prazo, quando o colocamos na LOA, da qual fui o Relator, ia at\u00e9 o dia 15 de dezembro. Essa altera\u00e7\u00e3o meramente burocr\u00e1tica se faz necess\u00e1ria porque, diante de um ano t\u00e3o at\u00edpico como o de 2020, a execu\u00e7\u00e3o or\u00e7ament\u00e1ria dos Minist\u00e9rios ficou muito comprometida. Ent\u00e3o, deixar isso como uma trava a mais sinceramente n\u00e3o tem motivo de ser. \r\nEnt\u00e3o, repito: coloquei isso no PLN corrigindo o meu pr\u00f3prio relat\u00f3rio, que fiz como Relator da LOA, e trata-se de algo meramente burocr\u00e1tico.\r\n\u00c9 importante manter o texto, e manter o texto \u00e9 votar \"sim\" neste destaque, pois o destaque \u00e9 supressivo - \u00e9 importante que fa\u00e7amos essa orienta\u00e7\u00e3o. N\u00f3s somos contra o destaque, e quem \u00e9 contra o destaque, no caso, deve votar \"sim\", mantendo o texto do relat\u00f3rio original.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F12%2F2020&txPagina=63&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-25T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REPUBLICA,  TARC\u00cdSIO GOMES DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, VIAGEM, CEAR\u00c1, LIBERA\u00c7\u00c3O, RECURSOS OR\u00c7AMENTARIOS, OBRA VI\u00c1RIA.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Presen\u00e7a do Presidente Jair Bolsonaro e do Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, no Estado do Cear\u00e1, para assinatura de ordens de servi\u00e7o  de obras vi\u00e1rias.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, amanh\u00e3 ser\u00e1 um dia hist\u00f3rico para o Estado do Cear\u00e1, sobretudo para Ibiapaba, que vai receber o Presidente Jair Bolsonaro, acompanhado do Ministro Tarc\u00edsio de Freitas - n\u00f3s tamb\u00e9m estaremos na comitiva -, para que sejam dadas ordens de servi\u00e7os de obras important\u00edssimas. S\u00e3o tr\u00eas as ordens de servi\u00e7os, em rela\u00e7\u00e3o aos elefantes brancos que existiam nas obras do Departamento Nacional de Infraestrutura de Transportes - DNIT do Estado do Cear\u00e1.\r\nComo Relator do Or\u00e7amento de 2020, estive com o Ministro Tarc\u00edsio e o general Santos Filho, Diretor-Geral do DNIT, acompanhando de perto os grandes desafios das obras de infraestrutura no Estado do Cear\u00e1. N\u00f3s t\u00ednhamos tr\u00eas grandes elefantes brancos. Um deles \u00e9 o viaduto da Travessia, na BR-222, no Munic\u00edpio de Tiangu\u00e1, onde o Presidente dar\u00e1, amanh\u00e3, uma ordem de servi\u00e7os.\r\nPara que os senhores tenham no\u00e7\u00e3o, n\u00f3s j\u00e1 t\u00ednhamos um viaduto praticamente levantado h\u00e1 muito mais de uma d\u00e9cada, um grande elefante branco, que envergonhava o povo cearense e que, por muitos anos, v\u00e1rias gest\u00f5es, n\u00e3o tinha sido resolvido ou sa\u00eddo do papel.\r\nAmanh\u00e3, o Prefeito de Tiangu\u00e1, Luiz Menezes, vai recepcionar o Presidente Bolsonaro, o Ministro Tarc\u00edsio e nossa comitiva, para que no evento sejam dadas as tr\u00eas ordens de servi\u00e7os no Munic\u00edpio de Tiangu\u00e1: uma, j\u00e1 licitada e contratada para o viaduto de Tiangu\u00e1; outra, para a travessia de Frios e Umirim, tamb\u00e9m j\u00e1 licitada e contratada; e a terceira, para o viaduto de Horizonte. Todas elas receberam recursos com emendas de Relator, na nossa parceria com o Ministro Tarc\u00edsio de Freitas, j\u00e1 que o planejamento do DNIT era tirar as obras que estavam paradas e os elefantes brancos do Estado do Cear\u00e1.\r\nPortanto, ser\u00e1 um momento marcante, um momento para fazer hist\u00f3ria no Estado do Cear\u00e1. N\u00f3s temos a certeza de que estas tr\u00eas obras e a visita que faremos ao anel vi\u00e1rio e \u00e0 BR-222, que conta com a proposta de duplica\u00e7\u00e3o, v\u00e3o melhorar muito a infraestrutura no Estado do Cear\u00e1, sobretudo na \u00e1rea de transportes, e, fundamentalmente, com a repercuss\u00e3o positiva de retirar os elefantes brancos que estavam parados ao longo de muitos anos e, efetivamente, dar as ordens de servi\u00e7o. \r\nEu fico muito feliz por poder contribuir como Relator-Geral do Or\u00e7amento para que o DNIT tenha o or\u00e7amento necess\u00e1rio para realizar estes sonhos do povo cearense.\r\nSr. Presidente, pe\u00e7o a V.Exa. que este pronunciamento seja divulgado pelo programa A Voz do Brasil.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-17T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, VETO 59/2020, VETO PARCIAL, PLN 9/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIA, APRESENTA\u00c7\u00c3O, POSSIBILIDADE.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Consulta \u00e0 Presid\u00eancia sobre a possibilidade da apresenta\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do item 10 do Veto Parcial n\u00ba 59, de 2020, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 9, de 2020, acerca das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2021.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DOMINGOS NETO (Bloco/PSD - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na realidade, n\u00f3s nos deparamos agora com uma falha do ponto de vista formal. O acordo constru\u00eddo para a vota\u00e7\u00e3o dos vetos, sobretudo do Veto n\u00ba 59, da LDO, estabelecia entre todos n\u00f3s um consenso a respeito da derrubada do item 10, que \u00e9 o Veto n\u00ba 59.\r\nEsse item \u00e9 fundamental para a continuidade de v\u00e1rias obras em andamento em nosso Pa\u00eds. Isso era um consenso, e n\u00f3s seguimos \u00e0 risca o que veio no acordo proposto pelo L\u00edder Eduardo Gomes. No entanto, n\u00f3s checamos que, por alguma falha formal, esse item acabou entrando no bloco de manuten\u00e7\u00e3o, em vez de entrar no bloco de rejei\u00e7\u00e3o.\r\nEnt\u00e3o, n\u00f3s queremos apelar a V.Exa. a respeito da possibilidade de destacar esse item para vota\u00e7\u00e3o em separado, porque constitui uma falha com preju\u00edzo imensur\u00e1vel para o nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=18%2F3%2F2021&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, REGULAMENTA\u00c7\u00c3O, COMBATE, DESINFORMA\u00c7\u00c3O, NOT\u00cdCIA FALSA (FAKE NEWS), VOTO IMPRESSO, SISTEMA ELEITORAL.\r\nLUIS ROBERTO BARROSO, MINISTRO DO TRIBUNAL SUPERIOR ELEITORAL, REUNI\u00c3O, COMISS\u00c3O ESPECIAL, PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA POL\u00cdTICA. \r\nVOTO IMPRESSO, CONTR\u00c1RIO, CONFIAN\u00c7A, URNA ELETR\u00d4NICA.",
+        "nomeDeputado": "Domingos Neto",
+        "sumario": "Convite ao Presidente do Tribunal Superior Eleitoral, Ministro Lu\u00eds Roberto Barroso, para participa\u00e7\u00e3o em reuni\u00e3o da Comiss\u00e3o Especial destinada ao exame da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, no tocante \u00e0 reforma pol\u00edtica. Apoio ao posicionamento do Ministro Lu\u00eds Roberto Barroso, contr\u00e1rio \u00e0 retomada do voto impresso nas elei\u00e7\u00f5es brasileiras. Confiabilidade das urnas eletr\u00f4nicas de vota\u00e7\u00e3o.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. DOMINGOS NETO (PSD - CE) - Sr. Presidente Arthur Lira, Presidente e Ministro Barroso, agrade\u00e7o ao Presidente do meu partido, Gilberto Kassab, e ao meu L\u00edder Antonio Brito, pela delega\u00e7\u00e3o.\r\nHoje, Ministro, 3 minutos certamente \u00e9 muito pouco para que possamos discutir uma pluralidade de temas que foram trazidos nesta manh\u00e3. Focarei dois. Um \u00e9 sobre a reforma pol\u00edtica.\r\nA prop\u00f3sito, apresentamos requerimento, que foi aprovado na Comiss\u00e3o, convidando V.Exa. a participar de reuni\u00e3o em que possamos discutir mudan\u00e7as em sistemas.\r\nPara o PSD, a reforma pol\u00edtica de que o Brasil precisava j\u00e1 conseguimos fazer, em sua grande parte, em 2017, quando acabamos com coliga\u00e7\u00e3o, quando criamos cl\u00e1usula de barreira. Isso s\u00f3 ocorreu nas elei\u00e7\u00f5es municipais. Na pr\u00f3xima elei\u00e7\u00e3o nacional, valer\u00e1 esse modelo, em que \u00e9 mantido o voto proporcional, sem coliga\u00e7\u00e3o e com cl\u00e1usula de barreira. Entendemos que manter esse modelo \u00e9 o ideal e \u00e9 o que vai fazer com que possamos caminhar no sentido de um voto proporcional, j\u00e1 sem coliga\u00e7\u00e3o, e de cria\u00e7\u00e3o, pelos partidos, de identidade. Ao longo do tempo, isso vai tamb\u00e9m diminuir o n\u00famero de partidos. Acho que isso tamb\u00e9m \u00e9 importante num per\u00edodo em que h\u00e1 mais de 35 partidos no nosso Pa\u00eds. Essa \u00e9 a nossa posi\u00e7\u00e3o sobre a reforma.\r\nSobre o voto impresso, Ministro, concordamos inteiramente com a fala de V.Exa. N\u00f3s entendemos que podemos, sim, at\u00e9 pensar, como disse aqui o Deputado A\u00e9cio Neves, em melhorar o sistema em algum momento. Mas isso teria que ser feito depois de se estabelecer a vacatio legis necess\u00e1ria, o tempo para se tratar de procedimentos necess\u00e1rios, e n\u00e3o agora, no ambiente que temos hoje, Ministro. Preocupa-nos que o que se esteja discutindo seja muito mais uma campanha para se desacreditar a urna eletr\u00f4nica do que efetivamente um movimento que facilite a fiscaliza\u00e7\u00e3o por meio do voto impresso.\r\nA pol\u00edtica acabou assumindo mais relev\u00e2ncia do que a t\u00e9cnica, quanto \u00e0 apura\u00e7\u00e3o desses votos. Isso \u00e9 um risco para a nossa democracia. Se queremos mesmo discutir com mais seriedade o voto impresso, precisamos dar mais tempo ao TSE, um prazo maior. A mudan\u00e7a, caso aconte\u00e7a, valeria para uma pr\u00f3xima elei\u00e7\u00e3o. \u00c9 preciso que sejam estudados os procedimentos, a forma, os meios. N\u00e3o se deve fazer um debate a\u00e7odado, que, evidentemente, s\u00f3 vai servir para aumentar a ang\u00fastia da popula\u00e7\u00e3o, desacreditar a urna eletr\u00f4nica, por meio da qual todos n\u00f3s aqui nos elegemos e na qual acreditamos.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

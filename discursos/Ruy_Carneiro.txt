@@ -1,0 +1,272 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "GEOVANIA DE S\u00c1, DEPUTADA FEDERAL, ATUA\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O.\r\nSA\u00daDE, CRUZ VERMELHA BRASILEIRA, CRUZ VERMELHA, INVESTIGA\u00c7\u00c3O.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Deputada Geovania de S\u00e1 por sua elei\u00e7\u00e3o para membro da Mesa Diretora da Casa e pelo exerc\u00edcio da Presid\u00eancia dos trabalhos no plen\u00e1rio. Sauda\u00e7\u00f5es aos Parlamentares e ao povo paraibano. Exig\u00eancia de apura\u00e7\u00e3o e puni\u00e7\u00e3o dos envolvidos no esc\u00e2ndalo da Cruz Vermelha, acerca do desvio de recursos da \u00e1rea da sa\u00fade, no Estado da Para\u00edba. Pedido de prote\u00e7\u00e3o policial para os envolvidos no esc\u00e2ndalo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (Bloco/PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Deputada Geovania, quero parabeniz\u00e1-la pela elei\u00e7\u00e3o para a Mesa e por estar dirigindo os trabalhos hoje. Para n\u00f3s, do PSDB, \u00e9 uma grande satisfa\u00e7\u00e3o. Cumprimento os colegas, os novos colegas, agrade\u00e7o a Deus a oportunidade de mais uma vez estar aqui na C\u00e2mara dos Deputados, agrade\u00e7o ao povo da Para\u00edba.\r\nTrago um tema a esta Casa um tanto quanto triste, mas que \u00e9 necess\u00e1rio ser debatido, Deputado Julian Lemos. Estamos vivendo na Para\u00edba hoje o maior esc\u00e2ndalo p\u00f3s-Lava-Jato no Brasil, o esc\u00e2ndalo da Cruz Vermelha, que foi mat\u00e9ria no Fant\u00e1stico nesse domingo, do JPB de hoje, o jornal local, um esc\u00e2ndalo de mais de 1,1 bilh\u00e3o de reais na sa\u00fade de v\u00e1rios hospitais do nosso Estado.\r\nInicio pedindo a prote\u00e7\u00e3o policial para aqueles que j\u00e1 est\u00e3o sendo acusados dentro do tema, porque recentemente na Para\u00edba tivemos um outro esc\u00e2ndalo, o Jampa Digital, em que houve o assassinato, a queima de arquivo, de um funcion\u00e1rio p\u00fablico chamado Bruno Ernesto. E n\u00f3s tememos que isso se repita pela segunda vez. Ent\u00e3o, \u00e9 importante que essas pessoas tenham uma prote\u00e7\u00e3o policial para que a hist\u00f3ria n\u00e3o se repita.\r\nAs mat\u00e9rias em rela\u00e7\u00e3o a esses hospitais se sucederam ao longo do Governo passado, falta de maca, problema de medicamento, problemas com funcion\u00e1rios, e a\u00ed veio \u00e0 tona esse esc\u00e2ndalo milion\u00e1rio com entrega de propina, envolvimento de propina em campanha eleitoral, e n\u00f3s esperamos inclusive que a Assembleia Legislativa da Para\u00edba, para contribuir com esses trabalhos, abra uma CPI. \r\nEste assunto tem que ser apurado, \u00e9 um esc\u00e2ndalo gigantesco, numa \u00e1rea cr\u00edtica de um Estado pobre, como a Para\u00edba, que \u00e9 a sa\u00fade, onde as pessoas clamam, muitas vezes, nos corredores. N\u00f3s temos que dar uma resposta a tudo isso, punindo aqueles que foram culpados, colocando na cadeia quem tiver que ir para a cadeia.\r\nN\u00f3s parabenizamos inclusive o Minist\u00e9rio P\u00fablico do Rio de Janeiro e o da Para\u00edba, que entrou no caso, esperamos ver definitivamente este caso desvendado pelo uso do dinheiro p\u00fablico numa \u00e1rea t\u00e3o carente, volto a repetir, que \u00e9 a sa\u00fade do nosso Estado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "EXTIN\u00c7\u00c3O, AJUDA DE CUSTO, MEMBRO, CONGRESSO NACIONAL, REMO\u00c7\u00c3O DE OF\u00cdCIO.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Apresenta\u00e7\u00e3o de projeto de decreto legislativo sobre a extin\u00e7\u00e3o da ajuda de custo concedida aos membros do Congresso Nacional para mudan\u00e7a domiciliar.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. RUY CARNEIRO (Bloco/PSDB - PB. Sem revis\u00e3o do orador.) - Sra. Presidente, Deputada Geovania de S\u00e1, Sras. e Srs. Deputados, no nosso entendimento, tivemos na elei\u00e7\u00e3o passada no Brasil um recado das urnas, um recado de busca de mudan\u00e7a, de busca de novos procedimentos. E na C\u00e2mara dos Deputados e no Senado Federal temos procedimentos que particularmente considero extremamente atrasados.\r\nEstava aqui conversando com o Deputado Julian Lemos sobre a verba de mudan\u00e7a, quando, na verdade, n\u00e3o existe mudan\u00e7a. Se o Parlamentar j\u00e1 est\u00e1 no mandato, ele j\u00e1 est\u00e1 instalado num hotel com mob\u00edlia ou num apartamento com mob\u00edlia. Que mudan\u00e7a foi essa? E o Parlamentar que est\u00e1 chegando tamb\u00e9m vai ter acesso a um apartamento mobiliado ou vai morar num hotel mobiliado. E a passagem que o traz para c\u00e1 j\u00e1 pode ser abatida da sua verba indenizat\u00f3ria. Ent\u00e3o, \u00e9 importante que esta Casa tome determinadas decis\u00f5es de mudan\u00e7a. \r\nE a\u00ed, para n\u00e3o sermos apenas cr\u00edticos, mas para buscarmos solu\u00e7\u00e3o em rela\u00e7\u00e3o ao tema, n\u00f3s apresentamos um projeto de decreto legislativo que eu acho importante que esta Casa estude e analise, para acabar com essa excresc\u00eancia - n\u00e3o existe outro termo. Talvez seja por isso que, muitas vezes, os Parlamentares, a C\u00e2mara e o Senado s\u00e3o t\u00e3o criticados. H\u00e1 certos fatos que acontecem aqui que n\u00e3o t\u00eam justificativa. N\u00e3o pode existir verba de mudan\u00e7a quando nem sequer a mudan\u00e7a existe.\r\nN\u00f3s estamos seguindo uma linha de atua\u00e7\u00e3o pol\u00edtica. Abrimos m\u00e3o aqui, no passado, do 14\u00ba e do 15\u00ba sal\u00e1rios. Deixamos de receber isso quando muitos ainda recebiam. Depois a Casa acordou e acabou com esse benef\u00edcio. Avan\u00e7amos nas vota\u00e7\u00f5es abertas. Avan\u00e7amos, no Brasil, na quest\u00e3o do nepotismo. Agora \u00e9 importante avan\u00e7ar nesse tema.\r\nEnt\u00e3o, eu pe\u00e7o reflex\u00e3o a todos para que acabemos com esse constrangimento ao Parlamentar. Pe\u00e7o que analisemos que, muitas vezes, a popula\u00e7\u00e3o realmente tem raz\u00e3o quanto a benef\u00edcios como esse, que s\u00e3o inconceb\u00edveis.\r\nDeputada, obrigado pelo tempo que me foi concedido.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "GOVERNO, CORTE, CONTINGENCIAMENTO, EDUDA\u00c7\u00c3O, UNIVERSIDADE FEDERAL, UNIVERSIDADE P\u00daBLICA, CR\u00cdTICA.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Inadmissibilidade de corte dos recursos or\u00e7ament\u00e1rios destinados \u00e0s universidades federais.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Como L\u00edder. Sem revis\u00e3o do orador.) - Deputada Geovania, Srs. Deputados, \u00e9 imposs\u00edvel, depois de ter recebido aqui o relat\u00f3rio da Lideran\u00e7a do partido, com os cortes em todas as universidades do Brasil - no caso da Universidade Federal da Para\u00edba, houve um corte de mais de 30% -, deixar de tratar desse assunto, que, no meu entendimento, foge do \u00e2mbito pol\u00edtico e cai na quest\u00e3o da cidadania.\r\nAs universidades federais no Brasil s\u00e3o um celeiro de talentos ao longo dos tempos. N\u00f3s temos que resistir a essa medida. \u00c9 uma medida estranha, que foi anunciada no formato at\u00e9 de boa not\u00edcia. \u00c9 mais estranha ainda porque o corte \u00e9 linear, e a realidade das universidades logicamente \u00e9 diferente. Posteriormente, houve a desculpa de que esse recurso vai ser gasto na educa\u00e7\u00e3o b\u00e1sica, como se existisse sobra nos recursos das universidades. Se existe uma outra necessidade, vamos fazer uma discuss\u00e3o, ver de onde tirar verba, e n\u00e3o fazer corte de uma hora para outra.\r\nEu digo de uma hora para outra porque o novo Ministro est\u00e1 na Pasta h\u00e1 pouco tempo, e de repente vem uma medida como essa, em que, como outras, \u00e9 importante que o Governo tenha a humildade de rever. A humildade de rever equ\u00edvocos \u00e9 um gesto, neste caso, mais do que de cidadania.\r\nN\u00f3s somos do PSDB, e eu acho que os Parlamentares de qualquer cor partid\u00e1ria t\u00eam que resistir a essa quest\u00e3o. Volto a dizer: as universidades no Brasil, as universidades p\u00fablicas s\u00e3o um celeiro de talentos que n\u00e3o podem, de uma hora para outra, viver uma situa\u00e7\u00e3o de p\u00e2nico. Essa \u00e9 a realidade de hoje nas universidades. \r\nIsso \u00e9 um clima constrangedor, desagrad\u00e1vel. Isso foi discutido hoje na reuni\u00e3o da bancada do partido. Eu acho que isso independe de cor partid\u00e1ria, porque aqui n\u00e3o se trata de um jogo de governo e de oposi\u00e7\u00e3o, trata-se de um compromisso com o Pa\u00eds, um compromisso com a educa\u00e7\u00e3o. N\u00f3s temos todos que resistir a essa quest\u00e3o.\r\nMuito obrigado.\r\nBoa noite a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=383&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER DE COMISS\u00c3O, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e da adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro, nos termos do art. 8\u00ba da Resolu\u00e7\u00e3o n\u00ba 1, de 2002, do Congresso Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, as companhias venderam para o Brasil a ideia de que, se pag\u00e1ssemos pela bagagem, o pre\u00e7o das passagens cairia. Isso n\u00e3o aconteceu. N\u00f3s vivemos aqui num verdadeiro monop\u00f3lio. Com a quebra da Avianca, a situa\u00e7\u00e3o piorou enormemente. S\u00f3 existe um ant\u00eddoto para isso, que \u00e9 a livre concorr\u00eancia, para que os pre\u00e7os das passagens caiam.\r\nO PSDB encaminha o voto \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=310&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-12T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, M\u00c9DICO, MUNIC\u00cdPIO, VULNERABILIDADE SOCIAL, MEDICINA DE FAM\u00cdLIA E COMUNIDADE, SISTEMA \u00daNICO DE SA\u00daDE (SUS), AUTORIZA\u00c7\u00c3O, CRIA\u00c7\u00c3O, AG\u00caNCIA PARA O DESENVOLVIMENTO DA ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE (ADAPS), FAVOR\u00c1VEL.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Relev\u00e2ncia da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s temos um dia importante nesta Casa: hoje haver\u00e1 a vota\u00e7\u00e3o da MP 890. \u00c9 importante que seja conclu\u00edda hoje, nesta Casa, a fim de que v\u00e1 para o Senado. \r\nTivemos a satisfa\u00e7\u00e3o de presidir a Comiss\u00e3o do Programa M\u00e9dicos pelo Brasil. Temos uma MP que realmente melhora a vida das comunidades mais humildes e mais distantes, que traz um bom sal\u00e1rio para o m\u00e9dico iniciante e depois a carteira assinada, resolvendo tamb\u00e9m, de uma vez por todas, a quest\u00e3o do REVALIDA, que d\u00e1 a quem estudou no exterior a oportunidade de revalidar o seu diploma, coisa que n\u00e3o acontece no Brasil j\u00e1 h\u00e1 alguns anos.\r\nPortanto, pe\u00e7o a presen\u00e7a e o esfor\u00e7o dos Parlamentares no dia de hoje para que concluamos essa medida provis\u00f3ria nesta quarta-feira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F11%2F2019&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-12T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 410/2018, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, R\u00c9U, CONDENA\u00c7\u00c3O CRIMINAL, CONFIRMA\u00c7\u00c3O, SENTEN\u00c7A CONDENAT\u00d3RIA, SEGUNDA INST\u00c2NCIA, PRIS\u00c3O, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Posicionamento do orador favor\u00e1vel \u00e0 aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 410, de 2018,  sobre considera\u00e7\u00e3o da inculpabilidade at\u00e9 a confirma\u00e7\u00e3o de senten\u00e7a penal condenat\u00f3ria em grau de recurso.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, aproveito este momento para deixar clara a nossa posi\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 410, de 2018, que possibilita a pris\u00e3o em segunda inst\u00e2ncia. As redes sociais de todo o Brasil v\u00eam divulgando a posi\u00e7\u00e3o de Parlamentares sobre essa quest\u00e3o, e eu tive a oportunidade de ver algumas postagens em que o meu nome estava indevidamente colocado como indeciso. N\u00f3s somos favor\u00e1veis \u00e0 PEC 410/2018. Trabalharemos junto \u00e0 bancada e \u00e0 C\u00e2mara para que ela seja aprovada o mais r\u00e1pido poss\u00edvel. \u00c9 um anseio desta Casa. \u00c9 um anseio do Brasil. N\u00e3o h\u00e1 tempo a perder.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F11%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-20T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, CRIA\u00c7\u00c3O, AG\u00caNCIA PARA O DESENVOLVIMENTO DA ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE (ADAPS), VOTA\u00c7\u00c3O, EXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA), DEFESA.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Urgente necessidade de vota\u00e7\u00e3o, pela Casa, da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, eu gostaria de chamar a aten\u00e7\u00e3o desta Casa para um fato que me parece grav\u00edssimo. Vejo aqui os Deputados Jorge Solla, Carmen Zanotto e Alexandre Padilha, que trabalharam comigo na Comiss\u00e3o da MP 890, do M\u00e9dicos pelo Brasil, que est\u00e1 para caducar na pr\u00f3xima semana e nem sequer foi votada na C\u00e2mara.\r\nTodo mundo aqui tem um plano de sa\u00fade. Aqui na Casa existe um mini-hospital. Uns v\u00e3o para o S\u00edrio-Liban\u00eas ou para o Albert Einstein. \u00c9 uma irresponsabilidade completa de alguns L\u00edderes desta Casa de, por quest\u00f5es com o Governo, quererem boicotar a vota\u00e7\u00e3o dessa medida provis\u00f3ria!\r\nNeste instante, Deputado Alexandre Padilha, n\u00f3s temos que chamar esta Casa \u00e0 responsabilidade, n\u00f3s temos que chamar os L\u00edderes \u00e0 responsabilidade, para que parem de olhar para os seus umbigos e se lembrem daquela pessoa mais humilde l\u00e1 da Para\u00edba, l\u00e1 do Piau\u00ed, l\u00e1 do Amazonas e tamb\u00e9m de S\u00e3o Paulo, que j\u00e1 poderia contar, no final deste ano ou no in\u00edcio do pr\u00f3ximo ano, com a sele\u00e7\u00e3o de mais m\u00e9dicos, e n\u00e3o vai ter nada. Isso \u00e9 uma irresponsabilidade da C\u00e2mara! \r\nN\u00f3s temos que lutar at\u00e9 o \u00faltimo momento contra isso. Ainda temos a semana que vem, Deputado Hiran Gon\u00e7alves, para tentar votar essa MP na ter\u00e7a-feira, na C\u00e2mara, e na quarta-feira, no Senado, para que a medida provis\u00f3ria n\u00e3o caduque. Com isso, n\u00f3s poder\u00edamos ter a oportunidade de colocar no mercado 18 mil m\u00e9dicos, melhorando a situa\u00e7\u00e3o, por exemplo, do Norte e do Nordeste, com um aumento de 55% dessas profissionais.\r\nOs Parlamentares, principalmente aqueles que trabalharam na Comiss\u00e3o, assim como o Senador Conf\u00facio Moura, que fez o relat\u00f3rio, n\u00e3o podem se calar diante de um descalabro desses. Volto a repetir, se existe problema com o Governo, que pague o Governo, n\u00e3o os pobres, que precisam de sa\u00fade.\r\nSra. Presidente, n\u00e3o sei se eu posso, dentro do meu tempo, ceder um aparte, mas acho importante a fala do Deputado Alexandre Padilha, do PT, que participou da Comiss\u00e3o.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - V.Exa. n\u00e3o pode ceder seu tempo, Deputado.\r\nO SR. RUY CARNEIRO (PSDB - PB) - Pe\u00e7o que, depois que eu encerrar - e j\u00e1 estou encerrando -, V.Exa. d\u00ea a palavra a alguns Parlamentares que fizeram parte da Comiss\u00e3o, para que possam externar sua posi\u00e7\u00e3o.\r\nN\u00f3s estamos misturando aqui alhos com bugalhos. Se existe problema com o Governo, que se tome uma medida. Contudo, boicotar a sa\u00fade do Pa\u00eds, prejudicar as pessoas mais pobres, que tinham um programa pronto, cuja sele\u00e7\u00e3o ia come\u00e7ar no pr\u00f3ximo m\u00eas, fazer ir tudo por \u00e1gua abaixo de repente, isso \u00e9 uma irresponsabilidade grandiosa!\r\nMuito obrigado aos Parlamentares pela aten\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F11%2F2019&txPagina=21&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB orienta \"n\u00e3o\". Lembro apenas que todo o PT votou favor\u00e1vel ao relat\u00f3rio na Comiss\u00e3o.\r\nEu fui Presidente da Comiss\u00e3o. Por isso, eu particularmente estranho a obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), PL 4067/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo apresentado pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 4.067-A, de 2015, sobre a institui\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Institui\u00e7\u00e3o de Educa\u00e7\u00e3o Superior Estrangeira - REVALIDA, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB pensa que seria melhor se fossem s\u00f3 faculdades p\u00fablicas, mas, j\u00e1 que o acordo foi nesse sentido, de requerer uma nota qualificada 4 ou 5, o PSDB tamb\u00e9m encaminha \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=167&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, EMENDA DE COMISS\u00c3O, SUBSTITUI\u00c7\u00c3O, PLV 25/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 890/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DOS TRABALHADORES (PT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 1\u00ba da Emenda n\u00ba 50, para substitui\u00e7\u00e3o do art. 1\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS, e por consequ\u00eancia a devida altera\u00e7\u00e3o do art. 6\u00ba do respectivo projeto de lei de convers\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha o voto \"n\u00e3o\".\r\nEu gostaria, rapidamente, de fazer alguns coment\u00e1rios. Essa Ag\u00eancia tem um custo de apenas 0,3% do programa. E, no novo programa, depois de 2 anos, os m\u00e9dicos t\u00eam a carteira assinada, ao contr\u00e1rio do que acontecia no programa passado, que tinha um contrato fr\u00e1gil.\r\nO voto \u00e9 \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=294&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T23:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 25/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 36 do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019, da Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB orienta \"n\u00e3o\".\r\nA aprova\u00e7\u00e3o do texto como est\u00e1 \u00e9 um completo equ\u00edvoco, destr\u00f3i o Programa M\u00e9dicos pelo Brasil, que perde completamente o sentido.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=351&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T23:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 890/2019, MEDIDA PROVISORIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o pela Casa da Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS. Acerto da realiza\u00e7\u00e3o semestral do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Institui\u00e7\u00f5es de Educa\u00e7\u00e3o Superior Estrangeiras - REVALIDA.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, estamos chegando ao fim desta sess\u00e3o, s\u00f3 h\u00e1 mais um destaque, o que inclusive cria a carreira m\u00e9dica. Estranhamente, isso est\u00e1 sendo proposto pelo PT, que quando teve oportunidade n\u00e3o a criou. \r\nAgora, o M\u00e9dicos pelo Brasil cria a carteira assinada, num contrato de trabalho leg\u00edtimo, e n\u00e3o num contrato fr\u00e1gil.\r\nTemos muito o que comemorar hoje \u00e0 noite. Depois da vota\u00e7\u00e3o da C\u00e2mara, eu acredito que amanh\u00e3, no Senado, n\u00f3s teremos uma sele\u00e7\u00e3o no Brasil para 18 mil m\u00e9dicos. Regi\u00f5es como a minha, no Nordeste e no Norte, v\u00e3o aumentar o n\u00famero de m\u00e9dicos nas \u00e1reas mais distantes em 55%. Eu acho que \u00e9 um gol de placa que esta Casa faz hoje \u00e0 noite, independente de quest\u00f5es partid\u00e1rias. Tanto \u00e9 assim que esse relat\u00f3rio foi aprovado sem destaques na Comiss\u00e3o, por todos os Parlamentares. Acho que a Casa ganha muito com isso, assim como a sa\u00fade do Brasil.\r\nO REVALIDA, que n\u00e3o acontece h\u00e1 2 anos, \u00e9 um grande avan\u00e7o. E vai acontecer duas vezes por ano daqui para frente. Tenho certeza de que esta Casa hoje \u00e0 noite d\u00e1 uma grande contribui\u00e7\u00e3o \u00e0 sa\u00fade do Brasil, porque n\u00e3o existe sa\u00fade sem m\u00e9dico de qualidade.\r\nMuito obrigado. \r\nBoa noite a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=355&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LEI ANTICRIME, PROPOSI\u00c7\u00c3O LEGISLATIVA, APRECIA\u00c7\u00c3O.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Necessidade de vota\u00e7\u00e3o pela Casa dos projetos de lei anticrime, encaminhados ao Congresso Nacional pelo Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, uso este breve tempo hoje para tratar da quest\u00e3o do pacote anticrime, que eu espero que seja votado ainda este ano na Casa. Essa mat\u00e9ria chegou aqui faz praticamente 1 ano.\r\nEu estive reunido agora h\u00e1 pouco com a equipe do Minist\u00e9rio da Justi\u00e7a e fiquei estarrecido diante de como o projeto foi deformado na Comiss\u00e3o Especial. \u00c9 importante que os Parlamentares desta Casa atentem para cada um dos pontos dessa mat\u00e9ria. N\u00e3o vou dizer que o texto \u00e9 perfeito, mas existem trechos importantes para diminuir a criminalidade no Brasil e apertar o cerco aos marginais.\r\nEnt\u00e3o, pe\u00e7o a aten\u00e7\u00e3o desta Casa. N\u00e3o h\u00e1 tempo a perder. \u00c9 importante que cada um traga para si a responsabilidade de virar esse jogo em rela\u00e7\u00e3o \u00e0 criminalidade no nosso Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "BANCO INTERAMERICANO DE DESENVOLVIMENTO (BID), MO\u00c7\u00c3O DE LOUVOR, GEST\u00c3O, PREFEITURA, JO\u00c3O PESSOA (PB), HOMENAGEM.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Apresenta\u00e7\u00e3o pelo orador de mo\u00e7\u00e3o de aplausos \u00e0 Prefeitura Municipal de Jo\u00e3o Pessoa, Estado da Para\u00edba, pelo recebimento do Pr\u00eamio Gest\u00e3o de Resultados para o Desenvolvimento, conferido pelo Banco Interamericano de Desenvolvimento - BID.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, j\u00e1 foi dada entrada a uma mo\u00e7\u00e3o de aplauso \u00e0 Prefeitura de Jo\u00e3o Pessoa pelo recebimento do Pr\u00eamio Gest\u00e3o de Resultados para o Desenvolvimento, conferido pelo Banco Interamericano de Desenvolvimento. Isso acontece, pela segunda vez, pelas boas pr\u00e1ticas adotadas pela gest\u00e3o de projetos apresentados durante o semin\u00e1rio internacional em Belo Horizonte. Essa premia\u00e7\u00e3o foi disputada com v\u00e1rios pa\u00edses: Peru, M\u00e9xico, Argentina, Equador, Honduras, Costa Rica, Col\u00f4mbia.\r\nN\u00f3s, que somos daquele Munic\u00edpio, temos visto o esfor\u00e7o do Prefeito Luciano Cartaxo, com as mais diversas a\u00e7\u00f5es, como, por exemplo, o Parque da Lagoa, com 9.500 habita\u00e7\u00f5es, quatro UPAs constru\u00eddas, uma s\u00e9rie de a\u00e7\u00f5es positivas, que contribu\u00edram com essa vit\u00f3ria da cidade, essa vit\u00f3ria de todos n\u00f3s, de todos os pessoenses.\r\nQue esse trabalho seja continuado!\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, BLOCO PARLAMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Ruy Carneiro",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 3\u00ba-B, constante do art. 3\u00ba do Substitutivo oferecido no Projeto de Lei n\u00ba 10.372, de 2018, e, por decorr\u00eancia, dos artigos 3\u00ba-C, 3\u00ba-D, 3\u00ba-E e 3\u00ba-F, para fins de supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. RUY CARNEIRO (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Brasil n\u00e3o tem condi\u00e7\u00f5es de ter essa legisla\u00e7\u00e3o. Existem comarcas no Brasil em que sequer h\u00e1 um juiz. Ent\u00e3o, se for preciso que haja dois ju\u00edzes para que o processo chegue ao fim, vai haver impunidade.\r\nO PSDB vota \"n\u00e3o\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=345&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

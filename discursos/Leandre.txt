@@ -1,0 +1,1460 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BLOCO PARLAMENTAR, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), SA\u00cdDA, PARTIDO VERDE (PV), AGRADECIMENTO.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, EMENDA, SENADO FEDERAL, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "An\u00fancio de desligamento do PV do respectivo bloco parlamentar. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta das Emendas do Senado Federal ao Projeto de Lei n\u00ba 1.321-B, de 2019, sobre a autonomia dos partidos pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, primeiro eu quero informar a nossa sa\u00edda do bloco. Quero registrar a nossa gratid\u00e3o a todos os partidos que estiveram junto conosco, ao PDT. O L\u00edder Andr\u00e9 nos encabe\u00e7ou. Externo o meu respeito, a minha admira\u00e7\u00e3o pelos L\u00edderes e pelos Parlamentares.\r\nInclusive, quero fazer um agradecimento a V.Exa., que fez valer o Regimento quando das composi\u00e7\u00f5es partid\u00e1rias em funcionamento dentro da Casa. Ent\u00e3o, em nome da bancada verde, agrade\u00e7o a V.Exa. e a todos os Parlamentares que compuseram o bloco conosco.\r\nN\u00f3s temos algumas ressalvas em rela\u00e7\u00e3o a este projeto, mas n\u00e3o queremos que ele seja retirado da pauta. A nossa orienta\u00e7\u00e3o \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMS 4/2019, EMENDA, SENADO FEDERAL, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda n\u00ba 4, do Senado Federal, com parecer favor\u00e1vel, ressalvados os destaques. Conveni\u00eancia de aproveitamento da Emenda n\u00ba 1, do Senado Federal, pelo Relator Paulo Pereira da Silva.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV vota \"sim\" nesta orienta\u00e7\u00e3o, mas acredita que o Deputado Paulinho da For\u00e7a poderia aproveitar a Emenda n\u00ba 1, que veio do Senado. Como se trata de algo provis\u00f3rio, 2 anos n\u00f3s acreditamos que \u00e9 um tempo extremamente razo\u00e1vel para se organizar alguma coisa que vai se tornar definitiva.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMS 5/2019, EMENDA, SENADO FEDERAL, PL 1321/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 5, do Senado Federal, oferecida ao Projeto de Lei n\u00ba 1.321, de 2019, sobre a autonomia dos partidos pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, quero fazer uma considera\u00e7\u00e3o em rela\u00e7\u00e3o a essa emenda do NOVO. N\u00e3o significa que os partidos n\u00e3o ter\u00e3o puni\u00e7\u00e3o a partir de 2019 na aplica\u00e7\u00e3o dos recursos que s\u00e3o destinados para as mulheres. O que se fez foi um acordo com o Relator da proposta para que, em contrapartida de S.Exa. deixar este artigo da reprova\u00e7\u00e3o de contas pela n\u00e3o aplica\u00e7\u00e3o dos recursos, seja retirada a dos anos anteriores, dando a eles uma oportunidade de se organizarem daqui para frente.\r\nO PV, cumprindo o acordo, orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EMC 8/2019, EMENDA DE COMISS\u00c3O, MPV 859/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 8, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 859, de 2018, sobre a utiliza\u00e7\u00e3o de recursos do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS para financiamento de entidades hospitalares filantr\u00f3picas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - N\u00f3s conhecemos a realidade da sa\u00fade p\u00fablica do Brasil, conhecemos o que representam as Santas Casas para o sistema de sa\u00fade p\u00fablica do Brasil. O que estamos fazendo \u00e9 uma medida tardia. J\u00e1 discutimos isso h\u00e1 muitos anos. Inclusive, foi at\u00e9 feito um acordo nesta Casa, o que n\u00e3o foi cumprido.\r\nN\u00e3o est\u00e1 sendo feito nenhum tipo de favor \u00e0s Santas Casas, at\u00e9 porque o dinheiro que elas tomarem como empr\u00e9stimos elas ter\u00e3o que devolver, e o risco que essa opera\u00e7\u00e3o financeira representa \u00e9 muito pequeno.\r\nEnt\u00e3o, realmente, a medida apresentada pela Deputada Carmen Zanotto \u00e9 extremamente importante e merece o apoio de todos os Parlamentares aqui, porque as Santas Casas precisam, merecem. Elas fazem um trabalho que muitas vezes \u00e9 dever do Estado, que n\u00e3o tem condi\u00e7\u00e3o de faz\u00ea-lo. Se as Santas Casas se retirarem do sistema p\u00fablico, eu quero ver como \u00e9 que o Governo vai fazer para atender toda a popula\u00e7\u00e3o brasileira.\r\n\tO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=186&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.\r\nFRENTE PARLAMENTAR MISTA DA PRIMEIRA INF\u00c2NCIA, DEBATE, MARCO LEGAL DA PRIMEIRA INF\u00c2NCIA, CONVITE.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social. Convite aos Deputados para reuni\u00e3o da Frente Parlamentar Mista da Primeira Inf\u00e2ncia, no Plen\u00e1rio 15, da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, o PV orienta \"n\u00e3o\".\r\nEu quero aproveitar esta oportunidade para fazer um comunicado e tamb\u00e9m um convite a todos os Parlamentares desta Casa. Amanh\u00e3 a Frente Parlamentar Mista da Primeira Inf\u00e2ncia organizar\u00e1 mais uma s\u00e9rie de di\u00e1logos com especialistas sobre o tema. Estar\u00e3o na Casa especialistas que desenvolveram o Marco Legal da Primeira Inf\u00e2ncia, uma lei muito importante que foi aprovada por esta Casa e que abre uma janela de oportunidades para que possamos mudar a hist\u00f3ria do nosso Pa\u00eds.\r\nSabemos que todas as mat\u00e9rias que tramitam nesta Casa t\u00eam a sua relev\u00e2ncia, mas precisamos pensar no futuro olhando para ele agora. N\u00f3s precisamos mudar a hist\u00f3ria mudando o come\u00e7o da hist\u00f3ria. Ent\u00e3o, eu queria convidar, em nome da Frente Parlamentar da Primeira Inf\u00e2ncia, todos os Parlamentares para participarem amanh\u00e3, a partir das 10 horas, da s\u00e9rie Di\u00e1logos com Especialistas, no Plen\u00e1rio 15.\r\nPresidente, gostaria que este pronunciamento fosse divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-28T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV entende que a medida provis\u00f3ria para ampliar o prazo do Programa de Regulariza\u00e7\u00e3o Ambiental \u00e9 necess\u00e1ria. N\u00e3o temos contrariedade na quest\u00e3o da medida provis\u00f3ria original. Por\u00e9m nos posicionamos a favor da vota\u00e7\u00e3o nominal, porque entendemos que, se n\u00f3s votarmos o PLV, traremos muito dano ao meio ambiente e, principalmente, iremos desconstruir um trabalho que levou mais de 10 anos para ser constru\u00eddo nesta Casa. N\u00f3s estaremos deseducando e mostrando que muitas vezes fazer o que \u00e9 errado compensa, quando damos anistia para in\u00fameros crimes ambientais que foram cometidos.\r\nEnt\u00e3o, o PV orienta \"sim\" para votar a medida provis\u00f3ria original. Percebendo que n\u00e3o haja consenso para votarmos a medida provis\u00f3ria original, n\u00f3s vamos obstruir todas as vota\u00e7\u00f5es tamb\u00e9m.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2019&txPagina=161&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PROPOSI\u00c7\u00c3O ORIGINAL, MPV 867/2018, MEDIDA PROVISORIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO FLORESTAL (2012), CADASTRO AMBIENTAL RURAL (CAR), IM\u00d3VEL RURAL, PRAZO, ADES\u00c3O, PROGRAMA DE REGULARIZA\u00c7\u00c3O AMBIENTAL (PRA). APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Posicionamento do PV favor\u00e1vel \u00e0 aprova\u00e7\u00e3o do texto original da medida provis\u00f3ria sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental. Contrariedade do partido ao projeto de lei de convers\u00e3o apresentado \u00e0 mat\u00e9ria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Como L\u00edder. Sem revis\u00e3o da oradora.) - Presidente, primeiro eu quero dizer que a bancada do Partido Verde tem atuado de maneira muito respons\u00e1vel em tudo aquilo que garante a melhoria da qualidade de vida do povo brasileiro.\r\nQuando a medida provis\u00f3ria veio ao plen\u00e1rio, n\u00f3s entendemos a import\u00e2ncia, a relev\u00e2ncia e a urg\u00eancia que ela tem para prorrogar o prazo de ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental. At\u00e9 a\u00ed somos favor\u00e1veis ao texto original da medida provis\u00f3ria.\r\nAgora, com todo o respeito, eu quero me dirigir ao excelente Deputado Sergio Souza, que \u00e9 o Relator, pessoa pela qual n\u00f3s temos um enorme respeito. Sabemos do trabalho de S.Exa. Sabemos que S.Exa. fez um grande esfor\u00e7o nesse trabalho. Mas eu tamb\u00e9m quero falar para aqueles Deputados que dizem que aqui n\u00f3s estamos falando mentiras.\r\nA grande verdade \u00e9 que o art. 59 do C\u00f3digo Florestal diz que as multas anteriores a 22 de julho de 2008 ser\u00e3o convertidas em recupera\u00e7\u00e3o, em servi\u00e7os ambientais, que \u00e9 o nosso grande interesse. Ent\u00e3o, n\u00e3o se vai pagar a multa, mas vai precisar recuperar a \u00e1rea que se degradou.\r\nPor\u00e9m, traz-se um novo elemento e se cria um novo marco florestal dentro da medida provis\u00f3ria quando se altera a ordem das coisas e se traz a lei dos biomas, que diz que, a partir dela, n\u00e3o se precisa mais recuperar o que ficou para tr\u00e1s. Por exemplo, na Lei da Mata Atl\u00e2ntica, tudo que foi desmatado antes de 2016, al\u00e9m de n\u00e3o se precisar pagar multa n\u00e3o \u00e9 preciso recuperar.\r\nEnt\u00e3o, n\u00f3s entendemos que isso, sim, \u00e9 realmente uma anistia. Isso traz um desequil\u00edbrio para o sistema, novas vari\u00e1veis. N\u00f3s entendemos que temos que discutir isso. Estamos abertos a fazer essa discuss\u00e3o, mas n\u00e3o dentro da medida provis\u00f3ria.\r\nPor isso, o Partido Verde apoia o destaque do Cidadania.\r\nE mais: infelizmente isso traz para a sociedade uma mensagem de que quem cumpre a lei \u00e9 ot\u00e1rio.\r\nN\u00f3s precisamos sair deste cen\u00e1rio em que h\u00e1 um verdadeiro convite ao descumprimento da lei. N\u00f3s fazemos uma lei e, quando ela entra em vigor e n\u00f3s come\u00e7amos a ver algum resultado, acabamos fazendo um convite para as pessoas descumprirem a lei.\r\nPor isso, o PV \u00e9 contra o projeto de convers\u00e3o e a favor da medida provis\u00f3ria como ela est\u00e1. N\u00f3s entendemos que se trata de uma iniciativa do Governo, algo que foi acertado, um instrumento leg\u00edtimo que tem relev\u00e2ncia e urg\u00eancia.\r\nPortanto, o PV vota a favor da medida provis\u00f3ria e contra o projeto de convers\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 871/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00b0 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, n\u00f3s entendemos que, se existem irregularidades, fraudes, qualquer coisa il\u00edcita, \u00e9 necess\u00e1rio, sim, que sejam apuradas, mas entendemos tamb\u00e9m que a medida provis\u00f3ria tem muitas coisas que precisam ser questionadas.\r\nN\u00e3o vamos obstruir agora, mas queremos que seja votado o projeto de convers\u00e3o, para que n\u00f3s possamos, inclusive, votar destaques de vota\u00e7\u00e3o em separado em muitas quest\u00f5es com que n\u00e3o concordamos.\r\nO PV orienta, neste momento, \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=483&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T22:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA. PARTIDO VERDE (PV), VOTO CONTRARIO.\r\nPROPOSI\u00c7\u00c3O LEGISLATIVA, ROMPIMENTO, BARRAGEM,BRUMADINHO (MG), VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento da vota\u00e7\u00e3o, por duas sess\u00f5es, do Projeto de Lei n\u00ba 1.292, de 1995, sobre altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, a respeito da institui\u00e7\u00e3o das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica. Imediata vota\u00e7\u00e3o pela Casa de projetos de lei elaborados pela CPI destinada \u00e0 investiga\u00e7\u00e3o de causas e responsabilidades pela trag\u00e9dia socioambiental ocorrida no Munic\u00edpio de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, \u00e9 ineg\u00e1vel que a Lei de Licita\u00e7\u00f5es \u00e9 importante e que \u00e9 importante que n\u00f3s avancemos. O PV vota contra o adiamento. Por\u00e9m, n\u00f3s tamb\u00e9m n\u00e3o podemos nos esquecer da situa\u00e7\u00e3o de Brumadinho. Quando tudo aquilo aconteceu, a trag\u00e9dia j\u00e1 estava anunciada, mas, quando houve a trag\u00e9dia, ningu\u00e9m estava preparado.\r\nN\u00f3s concordamos integralmente com a quest\u00e3o de Brumadinho. Faz mais de 2 semanas que estamos protelando isso. Temos certeza de que n\u00e3o podemos sair esta semana das sess\u00f5es sem uma resposta aos projetos de Brumadinho, mas que sejam claros, transparentes, que defendam o meio ambiente e principalmente que defendam as pessoas que est\u00e3o em situa\u00e7\u00e3o de vulnerabilidade ambiental - sabemos o pre\u00e7o que cada uma delas paga quando est\u00e3o sendo afetadas. Se n\u00e3o formos n\u00f3s aqui para defender as pessoas que est\u00e3o l\u00e1 pagando o pre\u00e7o, quem ser\u00e1 que vai defend\u00ea-las?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=228&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVORAVEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 10.985, de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV concorda com o projeto, por\u00e9m n\u00e3o concorda com a mudan\u00e7a do Fundo Social. O Fundo Social \u00e9 destinado para educa\u00e7\u00e3o, sa\u00fade p\u00fablica, cultura, esporte, ci\u00eancia e tecnologia, meio ambiente, mitiga\u00e7\u00e3o de mudan\u00e7as clim\u00e1ticas, \u00e1reas que j\u00e1 n\u00e3o t\u00eam recursos suficientes. Se n\u00f3s mexermos nesse fundo, seguramente o preju\u00edzo vai ser muito maior do que o ganho que possamos ter. \r\nEnt\u00e3o, n\u00f3s orientamos \"sim\" ao projeto, mas queremos deixar registrado que n\u00e3o concordamos com a mudan\u00e7a do Fundo Social. Apoiamos o destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=181&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 4\u00ba do Projeto de Lei n\u00ba 10.985, de 2018, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.427, de 1996; 13.203, de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, reconhecendo o trabalho que o Deputado Andr\u00e9 Figueiredo est\u00e1 fazendo aqui no plen\u00e1rio, uma solu\u00e7\u00e3o que traz melhorias, principalmente para os Munic\u00edpios, e operacionalizando um dinheiro que muitas vezes fica parado e vai, com certeza contribuir, nesse destaque n\u00f3s vamos votar \"n\u00e3o\", mas queremos ressaltar que na emenda posterior n\u00f3s apoiamos o trabalho feito pelo PDT.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=280&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMP 1/2019, EMENDA DE PLEN\u00c1RIO, PL 10985/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 1, oferecida ao Projeto de Lei n\u00ba 10.985, de 2018, sobre altera\u00e7\u00e3o das Leis de n\u00ba 9.427, de 1996; 13.203 de 2015; 11.909, de 2009; 12.351, de 2010 e 12.783, de 2013.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, n\u00f3s entendemos que a emenda, al\u00e9m de preservar os recursos da sa\u00fade e da educa\u00e7\u00e3o, aprimora sua aplica\u00e7\u00e3o.\r\nEnt\u00e3o, o PV orienta \"sim\" e parabeniza mais uma vez o caminho que foi constru\u00eddo atrav\u00e9s da Lideran\u00e7a do PDT. Estamos juntos para aprovar o projeto de lei, ressalvado aquilo com que n\u00f3s t\u00ednhamos preocupa\u00e7\u00e3o. E essa emenda recupera a nossa preocupa\u00e7\u00e3o em manter os recursos para a sa\u00fade e para a educa\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=308&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O,  REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, embora haja diverg\u00eancias dentro da nossa bancada quanto ao m\u00e9rito da mat\u00e9ria, h\u00e1 unidade entre os nossos Parlamentares no sentido de que o tema da reforma da Previd\u00eancia seja uma agenda que precisa ser enfrentada e precisa ser superada por esta Casa.\r\nPor isso, a orienta\u00e7\u00e3o do nosso partido \u00e9 contr\u00e1ria \u00e0 obstru\u00e7\u00e3o, tanto neste requerimento, quanto nos demais que vir\u00e3o nesta noite.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=426&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, RECURSO (PROPOSI\u00c7\u00c3O LEGISLATIVA), REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O,  REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO VERDE (PV), VOTO CONTRARIO",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do recurso contra o indeferimento do requerimento de discuss\u00e3o artigo por artigo da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PV orienta \"n\u00e3o\" \u00e0 obstru\u00e7\u00e3o, a esse requerimento.\r\nNo entanto, queremos refor\u00e7ar a apresenta\u00e7\u00e3o do destaque que foi acordado sobre a quest\u00e3o das mulheres.\r\nA esse requerimento o nosso voto \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=452&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T00:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO COMUNISTA DO BRASIL (PC DO B), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, \u00e9 l\u00f3gico que uma mat\u00e9ria dessa envergadura merece um amplo debate, mas n\u00f3s tamb\u00e9m temos que reconhecer que n\u00e3o faltou por parte de V.Exa. empenho para que esse debate pudesse ser feito quando fez a proposta hoje no Col\u00e9gio de L\u00edderes para que as duas sess\u00f5es fossem de debate. E tamb\u00e9m n\u00e3o tem faltado esfor\u00e7o por parte da Mesa para que o debate possa ser ampliado amanh\u00e3, mesmo ocorrendo o encerramento da discuss\u00e3o hoje.\r\nEnt\u00e3o, o PV orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=486&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO VERDE (PV), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo adotado pela Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio,  em primeiro turno, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, \u00e9 importante ressaltar que este texto que n\u00f3s votamos hoje \u00e9 bem diferente daquele apresentado pelo Governo. Significativas foram as mudan\u00e7as trazidas por esta nova proposta. A nossa bancada tem diverg\u00eancias em pontos espec\u00edficos da reforma. Isso porque todos n\u00f3s do PV queremos o melhor para as pessoas, mas tamb\u00e9m temos consci\u00eancia de que o sistema previdenci\u00e1rio tem que ter crit\u00e9rios que seja capaz de cumprir. Do contr\u00e1rio, l\u00e1 na frente vai ser muito pior para aqueles que ainda n\u00e3o se aposentaram e, principalmente, vai comprometer aqueles que j\u00e1 est\u00e3o aposentados.\r\nEnt\u00e3o, Sr. Presidente, o PV vai liberar a sua bancada, para que os seus Parlamentares votem de acordo com a sua consci\u00eancia. \r\nO PV libera a bancada. \r\nO tempo da Lideran\u00e7a n\u00f3s vamos usar mais para a frente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=261&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidenta, \u00e9 importante registrarmos que estamos votando esta emenda aglutinativa para corrigir algo que j\u00e1 deveria estar no relat\u00f3rio. Quando n\u00f3s lutamos para que as mulheres tivessem tempo diferenciado de contribui\u00e7\u00e3o, n\u00e3o foi porque as mulheres precisam ser diferentes, foi porque, no mercado de trabalho, elas s\u00e3o preteridas, foi porque elas t\u00eam condi\u00e7\u00f5es realmente diferentes.\r\nS\u00e3o as mulheres que abrem m\u00e3o de suas carreiras para que possam cuidar de um doente, para que possam cuidar de um idoso, para que possam cuidar dos filhos. Lutamos para que as mulheres tivessem essa diferencia\u00e7\u00e3o no tempo de contribui\u00e7\u00e3o a fim de garantir que elas tivessem a oportunidade de som\u00e1-lo, mas infelizmente no relat\u00f3rio veio uma diferen\u00e7a de 5 anos sobre aquilo que defend\u00edamos. E, hoje, agora, \u00e9 no m\u00ednimo constrangedor termos que votar esta emenda aglutinativa, que realmente corrige o texto do Relator, em detrimento do destaque do PCdoB, que faz justi\u00e7a no que se refere \u00e0 quest\u00e3o das pens\u00f5es.\r\nO PV vai orientar \"sim\", mas registra a sua indigna\u00e7\u00e3o com esse acordo, que n\u00e3o era acordo que a nossa emenda aglutinativa prejudicasse o destaque do PCdoB.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PAR\u00c1GRAFO (TEXTO LEGISLATIVO), CONSTITUI\u00c7\u00c3O FEDERAL (1988), ARTIGO (TEXTO LEGISLATIVO), SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 14 do art. 195 da Constitui\u00e7\u00e3o Federal, contido no art. 1\u00ba do Substitutivo da Comiss\u00e3o Especial oferecido \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, n\u00f3s entendemos que traz para o texto sim uma seguran\u00e7a maior para o agrupamento das contribui\u00e7\u00f5es. Inclusive o art. 29 prev\u00ea todas as condi\u00e7\u00f5es de agrupamento.\r\nEnt\u00e3o, o PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T00:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO,PARTIDO VERDE (PV), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, n\u00f3s t\u00ednhamos a expectativa de, na vota\u00e7\u00e3o dos destaques, construir uma maioria para que pud\u00e9ssemos fazer uma orienta\u00e7\u00e3o na vota\u00e7\u00e3o do segundo turno. Ali nos destaques havia justamente aquilo que divergia em nossa bancada. Como n\u00e3o foi poss\u00edvel o acatamento dos destaques defendidos pela nossa bancada, vamos liberar a bancada do Partido Verde.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=458&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE, DESTAQUE SUPRESSIVO SIMPLES, DISPOSITIVO LEGAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo do inciso V, do art. 201, constante no art. 1\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria, na vota\u00e7\u00e3o da mat\u00e9ria em segundo turno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, \u00e9 ineg\u00e1vel a sua condu\u00e7\u00e3o neste processo - n\u00f3s reconhecemos isso -, mas quero lembrar que, no dia da vota\u00e7\u00e3o deste destaque, V.Exa. n\u00e3o presidia a Mesa. Na ocasi\u00e3o, deixei registrada minha indigna\u00e7\u00e3o, porque, relativamente \u00e0 Emenda Aglutinativa n\u00ba 5, foi-nos tolhido o direito de votarmos este destaque, dado o entendimento de que, votando a emenda, o destaque seria descartado. Hoje temos a possibilidade de corrigir isso.\r\nPe\u00e7o aos Parlamentares que est\u00e3o aqui hoje possam votar \"n\u00e3o\" a este destaque, para que possamos garantir a dignidade das pessoas, porque esse era um dos pontos da reforma de dificuldade de entendimento para todos os Parlamentares, era um dos pontos a que se tinha mais resist\u00eancia.\r\nAgora que, feito um acordo, o Governo publicou uma portaria, depois de perceber o quanto isso seria ruim para a popula\u00e7\u00e3o brasileira, pe\u00e7o que todos os Parlamentares apoiem o destaque do PCdoB...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, PARTIDO VERDE (PV), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 26 da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria, na vota\u00e7\u00e3o da mat\u00e9ria em segundo turno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, primeiro, eu quero cumprimentar os Deputados da nossa bancada que contribu\u00edram muito, desde a CCJ e a Comiss\u00e3o Especial, para que este texto sa\u00edsse o melhor poss\u00edvel. Mesmo pensando diferente, acredito que, com respeito, conseguimos conviver num ambiente em que as ideias podem divergir, mas o respeito se estabelece.\r\nAgrade\u00e7o aos nossos Parlamentares e libero a bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=385&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER DE COMISS\u00c3O, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV encaminha o voto \"sim\". \r\nE \u00e9 importante tamb\u00e9m registrar que o ato que V.Exa. assinou retira toda mat\u00e9ria estranha ao projeto, em especial o que diz respeito ao meio ambiente. \r\nO PV orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=290&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, quando se fala que este assunto \u00e9 debatido aqui na Casa h\u00e1 muito tempo, sim, \u00e9 verdade, mas \u00e9 importante lembrar que a maioria das pessoas que est\u00e3o aqui neste plen\u00e1rio hoje n\u00e3o tiveram oportunidade de discutir isso anteriormente. \r\nPor isso, o PV acompanha a posi\u00e7\u00e3o de se retirar de pauta a mat\u00e9ria. N\u00e3o vemos que haja preju\u00edzo, quando todo mundo concorda que n\u00e3o deve existir abuso de autoridade, em n\u00f3s discutirmos isso entre todos os Parlamentares. Tenho certeza de que muitos n\u00e3o se sentem confort\u00e1veis em votar isso hoje, dessa maneira. Essa mat\u00e9ria n\u00e3o precisa ser votada de maneira atropelada.\r\nO PV orienta \"sim\" \u00e0 retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=252&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV orienta \"n\u00e3o\", n\u00e3o por n\u00e3o concordar com o m\u00e9rito da mat\u00e9ria, mas pela forma como estamos votando. Eu acredito que abusos tamb\u00e9m podem acontecer nesta noite. \r\nPor isso, n\u00f3s dizemos \"n\u00e3o\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=254&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTRARIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, n\u00f3s somos contra o abuso de autoridade. Isso \u00e9 unanimidade na nossa bancada. O problema \u00e9 que 75% da nossa bancada \u00e9 de Deputados de primeiro mandato, que gostariam de discutir esta mat\u00e9ria. Eu acredito que a grande maioria dos Parlamentares desta Casa \u00e9 formada por Deputados que n\u00e3o estavam aqui quando est\u00e1vamos discutindo isso anteriormente.\r\nO PV quer orientar \"n\u00e3o\", e n\u00e3o por n\u00e3o concordar com uma regra que trata do abuso de autoridade, mas sim por n\u00e3o concordar com a maneira como estamos discutindo um assunto t\u00e3o importante. Tamb\u00e9m se torna um abuso o que estamos fazendo hoje: n\u00e3o realizando esta discuss\u00e3o aqui na Casa e aprovando este projeto como veio do Senado.\r\n\u00c9 um direito tamb\u00e9m desta Casa discutir este mat\u00e9ria. N\u00f3s queremos lutar por esse direito.\r\nInclusive, Presidente, n\u00f3s gostar\u00edamos que a vota\u00e7\u00e3o fosse nominal.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.715, de 2019, a respeito da posse de arma de fogo na \u00e1rea rural.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, n\u00f3s vivemos tempos de intoler\u00e2ncia. Entendemos que n\u00e3o se pode dar como resposta a um sistema ineficiente, a um Estado ineficiente, \u00e0 falta de pol\u00edticas p\u00fablicas que venham proteger a popula\u00e7\u00e3o o armamento das pessoas.\r\nO PV orienta o voto \"n\u00e3o\" \u00e0 urg\u00eancia, porque tamb\u00e9m \u00e9 contr\u00e1rio ao m\u00e9rito da mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTRARIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.715, de 2019, acerca da regulamenta\u00e7\u00e3o da posse de arma de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, se existe algo que concordamos que precisa ser feito \u00e9 armar as for\u00e7as policiais. N\u00e3o d\u00e1 para aceitarmos um sistema ineficiente que quer transferir para o cidad\u00e3o a responsabilidade do Estado de proteger as pessoas.\r\nO PV \u00e9 um partido pacifista e \u00e9 contra qualquer tipo de mat\u00e9ria que possa promover o armamento da popula\u00e7\u00e3o.\r\nO PV orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=209&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRENTE PARLAMENTAR DA PRIMEIRA INF\u00c2NCIA, GOVERNO FEDERAL, PLANO PLURIANUAL (PPA), PRIORIDADE, DESTINA\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIOS, AUDI\u00caNCIA P\u00daBLICA, COMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO), INVESTIMENTO P\u00daBLICO, PRIMEIRA INF\u00c2NCIA, ELOGIO.\r\nSEMIN\u00c1RIO INTERNACIONAL DO MARCO LEGAL DA PRIMEIRA INF\u00c2NCIA (7:2019, BRAS\u00cdLIA (DF)).",
+        "nomeDeputado": "Leandre",
+        "sumario": "Regozijo com o acolhimento pelo Governo Federal de indica\u00e7\u00e3o de Parlamentares para a prioriza\u00e7\u00e3o da primeira inf\u00e2ncia no Plano Plurianual - PPA 2020/2023. An\u00fancio da realiza\u00e7\u00e3o de audi\u00eancia p\u00fablica pela Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o destinada ao debate sobre a import\u00e2ncia de investimentos na primeira inf\u00e2ncia e da realiza\u00e7\u00e3o, na Casa, do 7\u00ba Semin\u00e1rio Internacional do Marco Legal da Primeira Inf\u00e2ncia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Sem revis\u00e3o da oradora.) - Obrigada, Sr. Presidente, Sras. e Srs. Parlamentares.\r\nEu gostaria de compartilhar com V.Exas. uma boa not\u00edcia que tivemos no final desta semana. Algum tempo atr\u00e1s, a Frente Parlamentar da Primeira Inf\u00e2ncia, a qual tenho a honra de presidir nesta Casa, apresentou indica\u00e7\u00e3o ao Governo Federal, com apoiamento de mais de 200 Parlamentares, para que a primeira inf\u00e2ncia fosse uma das prioridades do PPA 2020/2023. Recebemos agora o documento da aceita\u00e7\u00e3o do Governo Federal. Ent\u00e3o, sim, a primeira inf\u00e2ncia ser\u00e1 a maior prioridade do plano.\r\nN\u00f3s queremos agradecer aos Parlamentares que apoiaram a indica\u00e7\u00e3o e queremos tamb\u00e9m parabenizar o Governo por assumir essa agenda t\u00e3o importante para o nosso Pa\u00eds, porque, se h\u00e1 algo de que n\u00e3o podemos ter d\u00favida \u00e9 que, se queremos mudar a realidade em que vivemos, precisamos mudar o come\u00e7o da hist\u00f3ria, para que possamos mudar toda a hist\u00f3ria.\r\nInvestir na primeira inf\u00e2ncia, com certeza, \u00e9 indispens\u00e1vel a qualquer governo que entenda a necessidade de um pa\u00eds. Estudos comprovam que cada d\u00f3lar investido na primeira inf\u00e2ncia d\u00e1 um retorno ao Governo de mais de 7 d\u00f3lares no longo prazo.\r\nN\u00f3s tamb\u00e9m gostar\u00edamos de compartilhar com V.Exas. que, no dia 19 de setembro, a Comiss\u00e3o Mista de Or\u00e7amento desta Casa far\u00e1 uma audi\u00eancia p\u00fablica com v\u00e1rios especialistas, principalmente economistas, sobre a import\u00e2ncia do investimento na primeira inf\u00e2ncia. Convido a todos para participar desse evento.\r\nE quero divulgar o 7\u00ba Semin\u00e1rio Internacional do Marco Legal da Primeira Inf\u00e2ncia, que vai acontecer nesta Casa e ter\u00e1 a presen\u00e7a de diversas autoridades internacionais. Este \u00e9 um tema muitas vezes esquecido, mas de import\u00e2ncia significativa para o nosso Pa\u00eds.\r\nFicamos bastante felizes quando percebemos que o Governo come\u00e7a a lan\u00e7ar luz sobre essa mat\u00e9ria e esperamos que os Minist\u00e9rios, a partir dessa sinaliza\u00e7\u00e3o do Governo Federal, passem a implementar pol\u00edticas transformadoras para as nossas crian\u00e7as, com investimentos na primeira inf\u00e2ncia.\r\nMuito obrigada, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=58&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 312/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido ao Projeto de Lei n\u00ba 312, de 2015, sobre a Pol\u00edtica Nacional de Pagamento por Servi\u00e7os Ambientais, o Fundo Federal de Pagamento por Servi\u00e7os Ambientais e o Cadastro Nacional de Pagamento por Servi\u00e7os Ambientais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, ao mesmo tempo em que declaramos que \u00e9 necess\u00e1rio punir aquele que destr\u00f3i o meio ambiente, mat\u00e9ria em que o nosso partido tem grande interesse e pela qual luta h\u00e1 muito tempo, \u00e9 importante tamb\u00e9m valorizar aquelas pessoas que preservam o meio ambiente. \r\nPortanto, o PV orienta \"sim\". \r\nEstamos extremamente satisfeitos com o acordo feito e queremos parabenizar V.Exa., Sr. Presidente, por conduzir esta vota\u00e7\u00e3o nesta noite, num momento t\u00e3o importante para o nosso Pa\u00eds. Obrigada, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE PARA VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITITO LEGAL, SUBSTITUTIVO, PL  312/2015, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 19 do substitutivo oferecido ao Projeto de Lei n\u00ba 312, de 2015, sobre a Pol\u00edtica Nacional de Pagamento por Servi\u00e7os Ambientais, o Fundo Federal de Pagamento por Servi\u00e7os Ambientais e o Cadastro Nacional de Pagamento por Servi\u00e7os Ambientais, com vistas \u00e0 supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV orienta \"sim\" porque entende que o texto, na sua totalidade, pretende favorecer e valorizar aquela pessoa que cuida do meio ambiente, principalmente no que diz respeito ao art. 19, que tamb\u00e9m trata de benef\u00edcio para aqueles que querem recuperar \u00e1reas degradadas. Ent\u00e3o, \u00e9 muito importante manter o texto.\r\nO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=275&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 171 da Subemenda Substitutiva Global apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, relativa \u00e0s normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, n\u00f3s votamos \"sim\" porque entendemos que \u00e9 preciso haver essa padroniza\u00e7\u00e3o. Principalmente nos conv\u00eanios que s\u00e3o feitos com o Governo Federal, h\u00e1 um desentendimento com os Tribunais de Contas dos Estados.\r\nEnt\u00e3o, o PV vota \"sim\" e acha muito positivo que haja essa padroniza\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=195&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T21:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR EMENDA, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, emenda por emenda, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 5.029-C, de 2019 (11.021, de 2018, na C\u00e2mara dos Deputados) sobre as regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, quando este projeto foi votado, houve muita dificuldade para n\u00f3s fazermos destaques. Eu acho que se n\u00f3s tiv\u00e9ssemos dado tempo suficiente para a discuss\u00e3o e para a apresenta\u00e7\u00e3o de todos os destaques que fossem necess\u00e1rios, de modo que pud\u00e9ssemos manifestar, claramente, os pontos a que somos contr\u00e1rios e os pontos a que somos favor\u00e1veis, talvez isso n\u00e3o estivesse acontecendo hoje.\r\nPor isso, o PV est\u00e1 em obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=266&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA SUPRESSIVA, SENADO FEDERAL, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da emenda supressiva do art. 44 da Lei n\u00ba 9.096, de 1995, alterada pelo art. 1\u00ba do Projeto de Lei n\u00ba 5.029, de 2019, (11.021, de 2018, na C\u00e2mara dos Deputados), sobre as regras aplicadas \u00e0s elei\u00e7\u00f5es, aprovado pela C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, eu acho que \u00e9 importante deixarmos claro o porqu\u00ea do voto \"sim\", para n\u00e3o haver outro tipo de questionamento como o que j\u00e1 vimos. O voto \"sim\" \u00e9 para que n\u00e3o se amplie a utiliza\u00e7\u00e3o dos recursos. O voto \"n\u00e3o\" \u00e9 para manter aquilo que havia sido aprovado aqui, que ampliava as possibilidades de uso dos recursos.\r\nEnt\u00e3o, o PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=308&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 4.121, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.504, de 1997, com vista ao estabelecimento dos limites de gastos de campanha para as elei\u00e7\u00f5es municipais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, n\u00f3s tamb\u00e9m preferimos a proposta anterior, na qual havia um escalonamento de acordo com o tamanho do col\u00e9gio eleitoral. Por\u00e9m, entendemos que a mat\u00e9ria \u00e9 urgente e, infelizmente, deixamos sempre para votar na \u00faltima hora esse tipo de assunto.\r\nPor isso, o PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=300&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-02T00:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVORAVEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 2, apresentada ao Projeto de Lei n\u00ba 4.121, de 2019, sobre o estabelecimento de limite de gastos de campanha nas elei\u00e7\u00f5es municipais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, n\u00f3s consideramos um avan\u00e7o poder regular o autofinanciamento, por\u00e9m entendemos que tamb\u00e9m deveria ser regulada toda doa\u00e7\u00e3o de pessoa f\u00edsica para campanha, porque acaba ocorrendo o mesmo problema ao se regular o autofinanciamento, mas deixando livres as doa\u00e7\u00f5es a campanhas para pessoas f\u00edsicas.\r\nO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=318&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 3.723, de 2019, sobre o registro, a posse e a comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINARM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, \u00e9 inclusive louv\u00e1vel a sua imparcialidade ao colocar esse projeto em pauta, mas n\u00f3s n\u00e3o podemos usar esta Casa para votar projetos que s\u00e3o de interesse pessoal do Presidente. Acho que, se olharmos as pesquisas que est\u00e3o sendo feitas com a sociedade, veremos que a maioria, mais de 70%, \u00e9 contra.\r\nEnt\u00e3o, o PV est\u00e1 em obstru\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=153&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), TRIBUTA\u00c7\u00c3O, ENERGIA SOLAR FOTOVOLTAICA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Rep\u00fadio do Partido Verde \u00e0 proposta de taxa\u00e7\u00e3o da energia solar, defendida pela Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Sem revis\u00e3o da oradora.) - Sra. Presidente, caros Parlamentares, acho que todos observaram que \u00e9 grande o n\u00famero de Parlamentares contr\u00e1rios e at\u00e9 mesmo indignados com a decis\u00e3o da ANEEL de abrir consulta p\u00fablica para taxar a energia solar. \u00c9 claro o porqu\u00ea dessa indigna\u00e7\u00e3o: pa\u00edses desenvolvidos investem cada vez mais em energia solar.\r\n Sabemos que, em 2023, as energias renov\u00e1veis ser\u00e3o respons\u00e1veis por atender 30% da nossa demanda. O Minist\u00e9rio de Minas e Energia atesta que o Brasil tem um grande potencial de produ\u00e7\u00e3o de energia solar, at\u00e9 porque a taxa m\u00e9dia de insola\u00e7\u00e3o no Pa\u00eds \u00e9 muito maior do que a dos pa\u00edses que hoje investem em energia solar.\r\nHoje foi realizada uma audi\u00eancia p\u00fablica extremamente concorrida. Os argumentos trazidos pela ANEEL n\u00e3o foram suficientes para convencer os Parlamentares da necessidade de realizar uma taxa\u00e7\u00e3o sobre o produtor de energia el\u00e9trica. At\u00e9 porque \u00e9 frequente sermos tarifados em bandeira vermelha, por conta da escassez dos recursos h\u00eddricos. Entendemos que a produ\u00e7\u00e3o de energia solar contribui com as empresas distribuidoras de energia el\u00e9trica, em raz\u00e3o dos gargalos existentes no Pa\u00eds.\r\nHoje houve uma conven\u00e7\u00e3o Partido Verde, que repudia a iniciativa da ANEEL de taxar energia solar. Entendemos que isso \u00e9 um retrocesso no que se refere \u00e0 quest\u00e3o ambiental, econ\u00f4mica e social. Somos a favor do desenvolvimento sustent\u00e1vel do Brasil.\r\nSra. Presidente, gostaria que nossa indigna\u00e7\u00e3o ficasse registrada e nosso pronunciamento fosse divulgado no programa A Voz do Brasil. \r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SEMIN\u00c1RIO INTERNACIONAL DO MARCO LEGAL DA PRIMEIRA INF\u00c2NCIA (7; 2019, BRAS\u00cdLIA (DF)).",
+        "nomeDeputado": "Leandre",
+        "sumario": "Convite aos Parlamentares para participa\u00e7\u00e3o no VII Semin\u00e1rio Internacional do Marco Legal da Primeira Inf\u00e2ncia com o tema Intersetorialidade: conex\u00f5es para o alcance da prioridade absoluta \u00e0 primeira inf\u00e2ncia, realizado pela Frente Parlamentar Mista da Primeira Inf\u00e2ncia na C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, Srs. Parlamentares, eu gostaria de convidar V.Exas. para participarem, nos dias 12 e 13 de novembro, do VII Semin\u00e1rio Internacional do Marco Legal da Primeira Inf\u00e2ncia, fruto de todo um trabalho feito desde 2009 nesta Casa.\r\nFoi apresentado um projeto de lei que tramitou por uma Comiss\u00e3o Especial e foi aprovado por unanimidade. A lei foi sancionada em 2016, sem vetos, e ficou conhecida como o Marco Legal da Primeira Inf\u00e2ncia. Com certeza, esta Casa teve o maior protagonismo, pois aprovou um instrumento estrat\u00e9gico para que n\u00f3s possamos abrir a maior janela de oportunidades e construir pol\u00edticas p\u00fablicas transformadoras. J\u00e1 de longa data, especialistas comprovaram que a melhor fase para se fazer investimento no ser humano \u00e9 no come\u00e7o da sua vida.\r\nSe n\u00f3s queremos mudar a hist\u00f3ria do nosso Pa\u00eds, precisamos, sim, mudar o come\u00e7o da hist\u00f3ria e garantir que nossas crian\u00e7as tenham oportunidades iguais e um come\u00e7o brilhante, para que elas possam ter um futuro melhor ainda.\r\nPortanto, convido V.Exas. para esse semin\u00e1rio. Conto com a presen\u00e7a de todos.\r\nSra. Presidente, solicito que o meu discurso seja divulgado nos meios de comunica\u00e7\u00e3o oficiais desta Casa.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.723-D, de 2019, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 10.826, de 2003, sobre o registro, a posse e a comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINAM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PV vota \"n\u00e3o\", \u00e9 contra a libera\u00e7\u00e3o das armas al\u00e9m do que se tem hoje liberado. Entendemos que precisamos trabalhar programas, projetos que diminuam a desigualdade social, que viol\u00eancia s\u00f3 traz mais viol\u00eancia. A falsa sensa\u00e7\u00e3o de seguran\u00e7a trazida pela arma, para um cidad\u00e3o despreparado, com certeza trar\u00e1 muito mais consequ\u00eancias para um sistema de seguran\u00e7a que j\u00e1 \u00e9 complexo.\r\nO PV vota \"sim\", pelo adiamento da vota\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , SUBEMENDA SUBSTITUTIVA GLOBAL, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA,PARTIDO VERDE (PV), VOTO CONTRARIO..",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 3.723, de 2019, sobre o registro, posse e comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINARM e a defini\u00e7\u00e3o de crimes, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, somos contra ao projeto, porque entendemos que ele n\u00e3o vai trazer mais seguran\u00e7a; ao contr\u00e1rio, vai produzir mais viol\u00eancia. Seguran\u00e7a p\u00fablica \u00e9 dever do Estado. N\u00e3o podemos transferir ao cidad\u00e3o essa responsabilidade.\r\nEu tenho certeza absoluta de que, neste momento de intoler\u00e2ncia que vivemos, muitos ir\u00e3o matar e morrer pelo simples desconforto de ter que conviver com aquele com que n\u00e3o concorda.\r\nTemos convic\u00e7\u00e3o de que armar a sociedade n\u00e3o ser\u00e1 a solu\u00e7\u00e3o para os nossos problemas. Com certeza, isso s\u00f3 vai aprofundar ainda mais os problemas de seguran\u00e7a que h\u00e1 nosso Pa\u00eds.\r\nEnt\u00e3o, o PV orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=262&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 25/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 890/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019, adotado pela Comiss\u00e3o Mista \u00e0 Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, s\u00f3 quem conhece a realidade da maioria dos Munic\u00edpios brasileiros sabe o quanto esse programa \u00e9 importante.\r\nO PV orienta \"sim\", ressalvados os destaques.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=279&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-03T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 35/2019, VETO PARCIAL, PL 5029/2019,  PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 35, de 2019, aposto ao Projeto de Lei n\u00ba 5.029, de 2019 (n\u00ba 11.021, de 2018, na Casa de Origem), acerca de altera\u00e7\u00e3o das Leis de n\u00b0s 9.096, de 1995; 9.504, de 1997; 4.737, de 1965 (C\u00f3digo Eleitoral); 13.831, de 2019; da Consolida\u00e7\u00e3o das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei n\u00ba 5.452, de 1943, com vista ao estabelecimento de regras \u00e0s elei\u00e7\u00f5es, e da revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 13.488, de 2017.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Para orientar a bancada. Sem revis\u00e3o da oradora.) - Sr. Presidente, quero fazer duas considera\u00e7\u00f5es.\r\nA primeira: quando o Fundo Eleitoral foi criado, foi justamente das propagandas partid\u00e1rias que foi retirada a receita; a segunda: n\u00e3o estamos falando aqui em propaganda eleitoral, estamos falando em propaganda partid\u00e1ria. Aqueles que querem participar das elei\u00e7\u00f5es ter\u00e3o acesso, sim, \u00e0 propaganda eleitoral.\r\nO PV vota \"sim\" ao veto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F12%2F2019&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1481/2007, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Submenda Substitutiva Global oferecida ao Projeto de Lei n\u00ba 1.481-A, de 2007, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, para o PV foi importante retirar do texto a poss\u00edvel extin\u00e7\u00e3o do FUST.\r\nAcreditamos que movimentar esse dinheiro que h\u00e1 tempos est\u00e1 parado vai ser uma coisa extremamente ben\u00e9fica. Tamb\u00e9m acreditamos que \u00e9 preciso levar inclus\u00e3o digital para todos os cantos do nosso Pa\u00eds, com a universaliza\u00e7\u00e3o num per\u00edodo razo\u00e1vel.\r\nPor isso, s\u00f3 podemos votar \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=208&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA AGLUTINATIVA, PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda Aglutinativa n\u00ba 3, oferecida ao Projeto de Lei Complementar n\u00ba 461, de 2017, sobre o Imposto Sobre Servi\u00e7os de Qualquer Natureza (ISSQN), de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os previstos nos subitens 4.22, 4.23, 5.09, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, julho de 2003; a institui\u00e7\u00e3o do Comit\u00ea Gestor das Obriga\u00e7\u00f5es Acess\u00f3rias do Imposto Sobre Servi\u00e7os de Qualquer Natureza (CGOA) e a altera\u00e7\u00e3o da referida Lei Complementar. Agradecimento aos Parlamentares pelo apoio \u00e0 Frente Parlamentar Mista da Primeira Inf\u00e2ncia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PV orienta o voto \"n\u00e3o\".\r\nEu quero aproveitar para fazer um agradecimento a todos os Deputados e as Deputadas que ajudaram a Frente Parlamentar e tamb\u00e9m a trazer a primeira inf\u00e2ncia para agenda pol\u00edtica.\r\nQuero agradecer a V.Exa., Sr. Presidente, por todo o apoio que tem dado n\u00e3o s\u00f3 \u00e0 nossa bancada, mas tamb\u00e9m a todos os Parlamentares, independentemente do tempo de Casa que tenham e do partido a que perten\u00e7am, e pela forma republicana de tratar a nossa Casa, principalmente levando ao povo brasileiro um sinal de respeito e responsabilidade pelo Parlamento brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=321&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, PLN 22/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da emenda destinada \u00e0 redu\u00e7\u00e3o do valor do Fundo Especial de Financiamento de Campanha - Fundo Eleitoral, para o m\u00ednimo obrigat\u00f3rio determinado pela legisla\u00e7\u00e3o.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Para orientar a bancada. Sem revis\u00e3o da oradora.) - Sr. Presidente, o Partido Verde \u00e9 contra o aumento do Fundo Eleitoral, assim como, em 2017, tamb\u00e9m foi contra a cria\u00e7\u00e3o do Fundo.\r\nO PV orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=19%2F12%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, CMC 1/2020, COMUNICA\u00c7\u00c3O DE MEDIDA CAUTELAR DEFERIDA EM DESFAVOR DE DEPUTADO (CMC), AFASTAMENTO CAUTELAR, EXERC\u00cdCIO DO MANDATO, WILSON SANTIAGO, DEPUTADO FEDERAL, PARTIDO VERDE (PV), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania \u00e0 Comunica\u00e7\u00e3o de Medida Cautelar n\u00ba 1, de 2020, do Supremo Tribunal Federal, acerca do afastamento do Deputado Wilson Santiago.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o Partido Verde d\u00e1 autonomia a sua bancada, inclusive tem no seu estatuto uma cl\u00e1usula de consci\u00eancia. Por isso, cabe a cada Parlamentar decidir, de maneira individual, sobre esse processo.\r\nVamos liberar a bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 30/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 897/2019, MEDIDA PROVISORIA, PARTIDO VERDE (PV), VOTO FAVORAVEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 60 do projeto de lei de convers\u00e3o oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre a institui\u00e7\u00e3o do Fundo de Aval Fraterno e sobre o patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais, a C\u00e9dula Imobili\u00e1ria Rural, a escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e a concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, diversas vezes aqui na Casa n\u00f3s aprovamos REFIS para grandes empresas, sem muita dificuldade. O PV orienta \"sim\", porque entende que o pequeno agricultor passa pelas mesmas dificuldades ou por outras muito maiores do que as das grandes empresas, em favor das quais, apesar de muitas vezes serem m\u00e1s pagadoras, n\u00f3s aprovamos o REFIS.\r\nEnt\u00e3o, votamos \"sim\", pelo destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=288&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , VETO 52/2019, VETO PARCIAL, PLN 51/2019. PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO VERDE (PV), VOTO CONTRARIO.\r\nENRICO MISACI, LIDER DO PARTIDO,  PARTIDO VERDE (PV), SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Agradecimento aos membros do PV, aos L\u00edderes partid\u00e1rios e ao Presidente Rodrigo Maia pelo apoio prestado ao orador no exerc\u00edcio da Lideran\u00e7a da agremia\u00e7\u00e3o partid\u00e1ria. Votos de sucesso ao novo L\u00edder do PV, Deputado Enrico Misaci. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 51, de 2019, acerca de altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, a respeito das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Para orientar a bancada. Sem revis\u00e3o da oradora.) - Presidente, ao orientar a nossa bancada, quero aproveitar a oportunidade para agradecer a cada Deputado do Partido Verde e a todos os L\u00edderes o apoio que recebi durante o per\u00edodo em que conduzi a bancada aqui na C\u00e2mara, em especial ao Presidente Rodrigo Maia.\r\nCom alegria, quero acolher e anunciar nosso novo L\u00edder, o Deputado Enrico Misasi. Tenho certeza de que, assim como eu, ao longo dos quase 4 anos que fiquei \u00e0 frente da bancada do Partido Verde na Casa, S.Exa. receber\u00e1 o apoio de todos os L\u00edderes e de todos os Parlamentares.\r\nMuito obrigada a nossa bancada, muito obrigada a todos os Deputados.\r\nParab\u00e9ns, Deputado Enrico. Desejo que S.Exa. tenha muita sorte. Pode contar, com toda certeza, com a nossa bancada.\r\nA orienta\u00e7\u00e3o do Partido Verde \u00e9 \"n\u00e3o\" ao veto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=158&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 9236/2017, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), CAR\u00c1TER EXCEPCIONAL, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), TRABALHO INFORMAL, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 9.236, de 2017, sobre a altera\u00e7\u00e3o do \u00a7 11 e a inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 no art. 20 da Lei n\u00ba 8.742, de 1993, com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Deputadas e Deputados que, assim como eu, participam desta sess\u00e3o remotamente, isso se d\u00e1 gra\u00e7as \u00e0 atitude desta Casa em garantir o andamento dos trabalhos neste momento em que, mais do que nunca, o Pa\u00eds precisa de n\u00f3s.\r\nSr. Presidente, n\u00e3o \u00e9 sem raz\u00e3o que a LOAS, entre os seus princ\u00edpios, traz, para a supremacia do atendimento \u00e0s necessidades sociais, a exig\u00eancia da renda m\u00ednima - ou seja, a vida vem primeiro. Por isso este projeto \u00e9 muito importante e oportuno. Ele traz significativas altera\u00e7\u00f5es, principalmente para aqueles que mais precisam, em especial, Sr. Presidente, quando diz que mais de um idoso da fam\u00edlia pode ser beneficiado pelo BPC. Quem tem um idoso em casa sabe o quanto isso far\u00e1 diferen\u00e7a na vida da fam\u00edlia.\r\nEu quero parabenizar o Deputado Eduardo Barbosa, autor do projeto. Gostaria de agradecer tamb\u00e9m ao Relator Marcelo Aro, que acatou a nossa sugest\u00e3o sobre as pessoas idosas. \r\nEu n\u00e3o vi a \u00faltima vers\u00e3o do relat\u00f3rio, mas ainda se faz necess\u00e1rio um aprimoramento no texto. No par\u00e1grafo \u00fanico do art. 3\u00ba, que trata da antecipa\u00e7\u00e3o do BPC pelo INSS, o texto alcan\u00e7a somente as pessoas com defici\u00eancia, deixando os idosos de fora.\r\nRefor\u00e7o ao Relator que esse ajuste se faz necess\u00e1rio para que n\u00e3o reste nenhuma d\u00favida de que os direitos de antecipa\u00e7\u00e3o tamb\u00e9m alcan\u00e7ar\u00e3o as pessoas idosas, que, neste momento, s\u00e3o as que mais precisam de prote\u00e7\u00e3o, por serem os mais vulner\u00e1veis na batalha contra o coronav\u00edrus.\r\n\tAgrade\u00e7o tamb\u00e9m, Sr. Presidente, a todos os Parlamentares que se mobilizaram na C\u00e2mara para fazermos essa modifica\u00e7\u00e3o no projeto.\r\n\tO Partido Verde orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T12:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 4, com parecer contr\u00e1rio, oferecidas ao Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Presidente, primeiro, eu gostaria de agradecer a V.Exa. por estar acolhendo as solicita\u00e7\u00f5es da nossa Comiss\u00e3o Externa que acompanha a\u00e7\u00f5es de preven\u00e7\u00e3o ao coronav\u00edrus. N\u00f3s n\u00e3o esper\u00e1vamos outra coisa de V.Exa. A Comiss\u00e3o Externa tem trabalhado muito para ajudar o Brasil a atravessar esta situa\u00e7\u00e3o t\u00e3o dif\u00edcil.\r\nQuem milita na \u00e1rea da sa\u00fade, como eu e os Deputados que fazem parte da bancada da sa\u00fade, da Frente Parlamentar da Sa\u00fade e da Frente Parlamentar de Apoio as Santas Casas, Hospitais e Entidades Filantr\u00f3picas, sabe que muitas Santas Casas v\u00eam enfrentando dificuldades h\u00e1 muito tempo.\r\nO projeto \u00e9 extremamente importante, mas n\u00e3o \u00e9 a primeira vez que n\u00f3s estamos votando mat\u00e9rias de ajuda para as Santas Casas. Infelizmente, s\u00e3o colocados tantos obst\u00e1culos, tanta burocracia, que as Santas Casas muitas vezes s\u00e3o vencidas, n\u00e3o tendo oportunidade de acessar esses recursos t\u00e3o necess\u00e1rios.\r\nO PV orienta o voto \"n\u00e3o\" \u00e0s emendas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=87&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Sr. Presidente, pe\u00e7o a V.Exa. que seja agregado o tempo da Lideran\u00e7a do Partido Verde. \r\nEste projeto, mais do que importante, \u00e9 urgente. Hoje as Santas Casas s\u00e3o respons\u00e1veis, junto com o sistema de sa\u00fade, pela complementa\u00e7\u00e3o de tudo o que precisamos para enfrentar este momento t\u00e3o dif\u00edcil em que se encontra a popula\u00e7\u00e3o brasileira. As Santas Casas prestam um servi\u00e7o de complementa\u00e7\u00e3o, mas, com certeza, aquilo que o SUS tem capacidade de pagar \u00e9 muito menor que o que os servi\u00e7os custam, para que as Santas Casas possam prestar um atendimento de qualidade \u00e0 popula\u00e7\u00e3o do nosso Pa\u00eds.\r\nNo Paran\u00e1, acredito que a situa\u00e7\u00e3o n\u00e3o \u00e9 diferente em rela\u00e7\u00e3o \u00e0 dos outros Estados. N\u00f3s temos ajudado as Santas Casas e os hospitais filantr\u00f3picos, por meio de nossas emendas parlamentares, como podemos, mas sabemos que n\u00e3o \u00e9 o suficiente. \u00c9 preciso que, al\u00e9m de aprovarmos este projeto, a celeridade que estamos tendo na C\u00e2mara e que houve no Senado ocorra tamb\u00e9m da parte do Governo, fazendo chegar o quanto antes os recursos, porque a situa\u00e7\u00e3o em que vivem os hospitais filantr\u00f3picos e as Santas Casas exige, n\u00e3o \u00e9 de hoje, urg\u00eancia.\r\nN\u00f3s militamos na \u00e1rea da sa\u00fade e fazemos parte da Frente Parlamentar das Santas Casas, portanto sabemos h\u00e1 quanto tempo as Santas Casas v\u00eam aguentando este problema, diante da falta de recursos que enfrentam, por conta do grande d\u00e9ficit que elas encaram para ajudar o sistema p\u00fablico de sa\u00fade.\r\nPortanto, o Partido Verde e toda a nossa bancada orientam o voto \"sim\". Solicitamos, igualmente, a todos os L\u00edderes, em especial aos Parlamentares do Governo, que lutem para que este recurso chegue o quanto antes \u00e0s Santas Casas.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T20:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 94, apresentada ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Sr. Presidente, reconhecemos a import\u00e2ncia que tem este projeto, principalmente porque as pessoas vivem nos Munic\u00edpios. Ent\u00e3o, \u00e9 extremamente importante a ajuda desta Casa aos Munic\u00edpios e aos Estados.\r\nA nossa bancada, por unanimidade, votou a favor do projeto, mas a este destaque n\u00f3s votamos \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-22T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1389/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.\r\nPL 1888/2020, PROJETO DE LEI ORDIN\u00c1RIA, MINIST\u00c9RIO DA MULHER, DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, RATEIO, AUX\u00cdLIO EMERGENCIAL FINANCEIRO, UNI\u00c3O, INSTITUI\u00c7\u00c3O DE LONGA PERMAN\u00caNCIA PARA IDOSOS (ILPI), EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.389, de 2020, sobre a transposi\u00e7\u00e3o e a transfer\u00eancia de saldos financeiros constantes dos Fundos de Assist\u00eancia Social dos Estados, do Distrito Federal e dos Munic\u00edpios, provenientes de repasses federais, apurados at\u00e9 dezembro de 2019. Pedido \u00e0 Presid\u00eancia de prioridade na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.888, de 2020, sobre a concess\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Institui\u00e7\u00f5es de Longa Perman\u00eancia para Idosos - ILPI, no exerc\u00edcio de 2020, para enfrentamento do estado de emerg\u00eancia de sa\u00fade p\u00fablica decorrente da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Boa tarde a todos.\r\nPresidente, \u00e9 extremamente importante o projeto cuja urg\u00eancia n\u00f3s estamos votando hoje, em especial o seu m\u00e9rito, porque as pessoas que hoje n\u00f3s computamos nas estat\u00edsticas como n\u00fameros de \u00f3bitos com certeza deixaram fam\u00edlias, t\u00eam endere\u00e7o, s\u00e3o seres humanos que infelizmente foram privados inclusive de uma despedida dos seus familiares. Ent\u00e3o, o PV orienta \"sim\" pela urg\u00eancia e \"sim\" pelo m\u00e9rito.\r\nEu quero aproveitar, Presidente, e j\u00e1 havia adiantado isso a V.Exa., para tratar da quest\u00e3o que n\u00f3s vivemos hoje nas institui\u00e7\u00f5es de longa perman\u00eancia, onde vive uma boa parcela de pessoas idosas e principalmente pessoas idosas com muita vulnerabilidade.\r\nN\u00f3s apresentamos o Projeto de Lei n\u00ba 1.888, de 2020, e gostar\u00edamos que V.Exa. o priorizasse na pauta. Ele j\u00e1 foi recomendado inclusive pela Comiss\u00e3o Externa que est\u00e1 trabalhando as a\u00e7\u00f5es do coronav\u00edrus, porque, no momento em que o v\u00edrus entra numa institui\u00e7\u00e3o de longa perman\u00eancia, ele com certeza tem o efeito de p\u00f3lvora. \u00c9 dif\u00edcil conseguir cont\u00ea-lo. N\u00f3s n\u00e3o temos fluxo hoje.\r\nEnt\u00e3o, n\u00f3s estamos propondo que o Fundo Nacional do Idoso possa ser destinado, talvez at\u00e9 atrav\u00e9s de uma medida provis\u00f3ria, se for mais r\u00e1pido, ou por este projeto que n\u00f3s apresentamos, e utilizado hoje no apoio \u00e0s institui\u00e7\u00f5es de longa perman\u00eancia, para conter e combater o coronav\u00edrus.\r\nMuito obrigada, Presidente. Se V.Exa. puder nos atender...\r\nO PV orienta \"sim\" ao m\u00e9rito desta mat\u00e9ria que libera os fundos de assist\u00eancia social.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2020&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-23T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1389/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.389, de 2020, sobre a transposi\u00e7\u00e3o e a transfer\u00eancia de saldos financeiros constantes dos Fundos de Assist\u00eancia Social dos Estados, do Distrito Federal e dos Munic\u00edpios, provenientes de repasses federais, apurados at\u00e9 dezembro de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, justi\u00e7a seja feita: se existe uma \u00e1rea que sabe fazer muito com muito pouco, \u00e9 a \u00e1rea social do nosso Pa\u00eds. Qualquer saldo que possa ser remanejado, ainda que insuficiente para tudo o que temos que fazer na \u00e1rea social, ser\u00e1 com certeza de grande ajuda.\r\nEste projeto \u00e9 muito importante, mas tamb\u00e9m \u00e9 importante que fa\u00e7amos um justo reconhecimento a todos os profissionais do servi\u00e7o social, que diariamente lutam para diminuir as desigualdades que temos em nosso Pa\u00eds, que s\u00e3o in\u00fameras e s\u00e3o imensas. Agora, em tempo de pandemia, n\u00f3s vemos esses profissionais redobrarem o trabalho, as visitas e os atendimentos, para auxiliar, neste momento t\u00e3o dif\u00edcil que atravessamos, os cidad\u00e3os mais vulner\u00e1veis do nosso Pa\u00eds a terem acesso a algum tipo de aux\u00edlio emergencial. Os profissionais do servi\u00e7o social, \u00e9 bom nunca esquecermos, s\u00e3o aqueles que melhor conhecem a realidade em que vivem milh\u00f5es de brasileiros. Eles cuidam, na maioria das vezes no anonimato, daqueles que mais precisam. Fica registrada, Sr. Presidente, a nossa gratid\u00e3o a cada um dos profissionais da \u00e1rea social que cuida da nossa gente com tanta dedica\u00e7\u00e3o.\r\nO Partido Verde vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVORAVEL.\r\nREQUERIMENTO DE URG\u00caNCIA, PL 1888/2020, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL FINANCEIRO, UNI\u00c3O, INSTITUI\u00c7\u00c3O DE LONGA PERMAN\u00caNCIA PARA IDOSOS (ILPI), EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, DEFESA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 3, apresentada ao Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira. Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de inclus\u00e3o na pauta do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.888, de 2020, sobre a concess\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Institui\u00e7\u00f5es de Longa Perman\u00eancia para Idosos no exerc\u00edcio de 2020, em face da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Sr. Presidente, boa noite. Boa noite a todos os colegas Parlamentares. O PV vota \"sim\" a essa emenda.\r\nSr. Presidente, eu gostaria de fazer uma solicita\u00e7\u00e3o a V.Exa. Faz alguns dias que estamos conversando a respeito da situa\u00e7\u00e3o em que se encontram as Institui\u00e7\u00f5es de Longa Perman\u00eancia para Idosos em nosso Pa\u00eds. N\u00f3s apresentamos neste momento um requerimento de urg\u00eancia para a Mesa Diretora da C\u00e2mara para que possamos votar o PL 1.888/20, que trata de um aux\u00edlio emergencial para os asilos, locais onde vivem pessoas idosas em situa\u00e7\u00e3o de grande vulnerabilidade. Inclusive, Sr. Presidente, mat\u00e9ria publicada no jornal Estad\u00e3o diz que mais de 30 pessoas j\u00e1 est\u00e3o contaminadas numa institui\u00e7\u00e3o que abriga 82 idosos na cidade de Piracicaba. Foram registradas at\u00e9 ontem sete mortes nessa institui\u00e7\u00e3o. N\u00f3s n\u00e3o podemos permitir que aqui no Brasil aconte\u00e7a o mesmo que ocorreu em diversos pa\u00edses do mundo.\r\nEnt\u00e3o, Sr. Presidente, pe\u00e7o a V.Exa. que coloque em pauta o requerimento de urg\u00eancia para que possamos votar com a maior brevidade poss\u00edvel esse projeto que prev\u00ea a utiliza\u00e7\u00e3o dos recursos do Fundo Nacional do Idoso que est\u00e3o contingenciados. Seguramente isso n\u00e3o vai resolver toda a situa\u00e7\u00e3o que enfrentamos nas Institui\u00e7\u00f5es de Longa Perman\u00eancia, mas vai ajudar muito.\r\nAproveito para fazer um agradecimento a um grupo de especialistas que produziram um excelente material com orienta\u00e7\u00f5es, atrav\u00e9s de um documento orientador, para que as Institui\u00e7\u00f5es de Longa Perman\u00eancia possam enfrentar essa pandemia, inclusive subsidiando a nossa Casa. Mas as orienta\u00e7\u00f5es s\u00f3 fazem sentido se houver recursos para que essas institui\u00e7\u00f5es coloquem as orienta\u00e7\u00f5es em pr\u00e1tica.\r\nSr. Presidente, pe\u00e7o a V.Exa. que coloque em pauta o requerimento de urg\u00eancia para que possamos votar esse projeto.\r\nObrigada, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo,   do Projeto de Lei Complementar n\u00ba 39, de 2020, acerca da institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - Sr. Presidente, \u00e9 urgente que esses recursos cheguem aos Munic\u00edpios, para que possamos salvar a vida das pessoas. O PV vota \"n\u00e3o\" a este requerimento de vota\u00e7\u00e3o artigo por artigo, porque tem pressa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-20T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1333/2020, PROJETO DE LEI ORDIN\u00c1RIA, RATEIO, AUX\u00cdLIO EMERGENCIAL FINANCEIRO, UNI\u00c3O, INSTITUI\u00c7\u00c3O DE LONGA PERMAN\u00caNCIA PARA IDOSOS (ILPI), EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.888, de 2020, a respeito da concess\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Institui\u00e7\u00f5es de Longa Perman\u00eancia para Idosos - ILPI, no exerc\u00edcio de 2020, para enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia p\u00fablica decorrente da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, primeiro eu gostaria de ressaltar a import\u00e2ncia que teve o trabalho da Deputada Carmen Zanotto, da Deputada Tereza Nelma, da Deputada Mariana Carvalho e do Deputado Rodrigo Coelho, que, junto comigo, constru\u00edram uma proposta para atender \u00e0s institui\u00e7\u00f5es de longa perman\u00eancia do nosso Pa\u00eds.\r\nNessas casas vivem idosos, v\u00e1rios t\u00eam m\u00faltiplas complica\u00e7\u00f5es de sa\u00fade, baixa capacidade funcional, s\u00e3o altamente dependentes de cuidados de terceiros. Comp\u00f5em grupo de risco que tem, com certeza, maior vulnerabilidade ao coronav\u00edrus.\r\nEu quero agradecer a V.Exa., que teve a sensibilidade de pautar esta mat\u00e9ria, que nos deu apoio e que conseguiu construir esse acordo. Quero agradecer tamb\u00e9m aos L\u00edderes, que entenderam a relev\u00e2ncia e a urg\u00eancia desta mat\u00e9ria e que temos que dar resposta a milhares de idosos que esperam pelo nosso olhar e j\u00e1 vivem em institui\u00e7\u00f5es de longa perman\u00eancia, sem suas fam\u00edlias.\r\nQuero parabenizar a nossa Relatora, a Deputada Margarete Coelho, que, com sua lideran\u00e7a, conseguiu construir um substitutivo atendendo \u00e0s solicita\u00e7\u00f5es dos partidos, mas sem descaracterizar o nosso projeto. Com muita capacidade, dedica\u00e7\u00e3o e responsabilidade, ela trouxe um aprimoramento a essa proposta.\r\nEnt\u00e3o, muito obrigada, Deputada Margarete, pela sua dedica\u00e7\u00e3o a esse trabalho em defesa das pessoas idosas.\r\nSr. Presidente, embora aprovar esta proposta na nossa Casa seja muito importante, sabemos que \u00e9 apenas o primeiro passo que damos. N\u00f3s precisamos, para que ela chegue \u00e0 ponta, que outros passos sejam dados. Eu gostaria de pedir mais uma vez, Sr. Presidente, o seu apoio e a sua lideran\u00e7a junto ao Presidente do Senado, para que l\u00e1 ela tamb\u00e9m tramite com celeridade e para que ela chegue o mais rapidamente poss\u00edvel ao Poder Executivo. A nossa insist\u00eancia nesta mat\u00e9ria, Sr. Presidente, \u00e9 porque esse aux\u00edlio n\u00e3o pode chegar tarde demais para aqueles que, neste momento, tanto precisam. Eu entendo que, nessas horas, os idosos n\u00e3o podem esperar. \r\nMais uma vez agrade\u00e7o e pe\u00e7o o seu apoio, para que este projete tramite com celeridade no Senado.\r\nObrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2020&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-21T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 1291/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.291, de 2020, acerca da defini\u00e7\u00e3o como essenciais de servi\u00e7os e atividades abrangidos pelo inciso II, \u00a7 1\u00ba, art. 3\u00ba, do Decreto n\u00ba 10.282, de 2020, relacionados \u00e0s mulheres em situa\u00e7\u00e3o de viol\u00eancia dom\u00e9stica ou familiar, aos casos de suspeita ou confirma\u00e7\u00e3o de viol\u00eancia praticada contra idosos, crian\u00e7as ou adolescentes; e do estabelecimento da forma de cumprimento de medidas de combate e preven\u00e7\u00e3o \u00e0 viol\u00eancia dom\u00e9stica e familiar previstas na Lei n\u00ba 11.340, de 2006 (Lei Maria da Penha), e no Decreto-Lei n\u00ba 2.848, de 1940 (C\u00f3digo Penal), durante a vig\u00eancia da Lei n\u00b0 13.979, de 2020, ou durante a declara\u00e7\u00e3o de estado de emerg\u00eancia de car\u00e1ter humanit\u00e1rio e sanit\u00e1rio no territ\u00f3rio nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Boa noite a todas. Quero saudar a nossa Presidente, a Deputada Fernanda. \u00c9 um prazer poder participar desta sess\u00e3o de hoje, t\u00e3o importante para a Na\u00e7\u00e3o brasileira. \r\nQuero fazer um destaque sobre a vota\u00e7\u00e3o desse projeto. Todo mundo sabe que o isolamento, mesmo sendo uma medida extremamente necess\u00e1ria, como todo rem\u00e9dio, tamb\u00e9m traz seus efeitos colaterais, e a viol\u00eancia dom\u00e9stica, que j\u00e1 era bastante presente no nosso Pa\u00eds, um grande mal para as mulheres, para as crian\u00e7as e para os idosos, agora se fortalece mais ainda, infelizmente.\r\nMas eu quero fazer um destaque especial ao trabalho que foi desenvolvido ao longo desta semana pelas vozes femininas da nossa Casa. Refiro-me \u00e0s propostas apresentadas pelas Deputadas, que v\u00e3o desde a pauta do emprego, da economia, como as que tratam de trabalhadores da cultura e de profissionais de sa\u00fade, que aprovamos hoje, at\u00e9 as que tratam dos nossos idosos, que aprovamos ontem, e agora as propostas que tratam das mulheres brasileiras.\r\nAcredito que se mais mulheres participarem da pol\u00edtica, n\u00f3s n\u00e3o vamos mudar as mulheres, mas vamos sim mudar a pol\u00edtica. Eu quero dizer que esse foi um grande trabalho feito pela bancada feminina. Quando as mulheres se juntam, \u00e9 isto que acontece: temos essa unidade em prol da vida, em prol das pessoas, em prol da sociedade brasileira.\r\nO PV orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2020&txPagina=169&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-26T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 1075/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.075, de 2020, acerca das a\u00e7\u00f5es emergenciais para o setor cultural, adotadas durante o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, primeiro, cumprimentando V.Exa., cumprimento tamb\u00e9m todos os Parlamentares. Mas, de uma maneira muito especial, quero cumprimentar todos os profissionais da \u00e1rea da cultura, que acompanham muito ansiosos esta sess\u00e3o.\r\nAcredito que n\u00e3o s\u00f3 eu, mas todos os Deputados presentes neste momento sabem como est\u00e3o vivendo os artistas, todos aqueles que fazem parte da \u00e1rea cultural, que foram os primeiros a ser afetados por esta crise sanit\u00e1ria e, seguramente, ser\u00e3o dos \u00faltimos a sair dela.\r\nEnt\u00e3o, pela import\u00e2ncia dessa mat\u00e9ria, junto com a Deputada Aline Gurgel, tamb\u00e9m apresentei um projeto, que foi acatado pela Deputada Jandira, a quem eu quero agradecer. E a parabenizo pelo relat\u00f3rio.\r\nQuero tamb\u00e9m, Presidente, falar que as suas palavras, hoje, demonstram que \u00e9 poss\u00edvel, sim, conviver de forma harmoniosa e respeitosa com aqueles que pensam diferente de n\u00f3s. A nossa Casa tem dado o exemplo de que pensar diferente constr\u00f3i, e constr\u00f3i grandes pontes. Esse projeto \u00e9 uma delas. E h\u00e1 tantos outros que a C\u00e2mara dos Deputados conseguiu construir, fruto de tantas pessoas que pensam diferente.\r\nEnt\u00e3o, parab\u00e9ns, Presidente, pela sua fala inicial na nossa sess\u00e3o de hoje.\r\nO Partido Verde tem um compromisso com a cultura e orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2020&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-26T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1075/2020, PROJETO DE LEI ORDIN\u00c1RIA, MEDIDA DE EMERG\u00caNCIA, ATIVIDADE CULTURAL, ISOLAMENTO SOCIAL, QUARENTENA (SA\u00daDE), PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, AUX\u00cdLIO FINANCEIRO, CULTURA NACIONAL, APROVA\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.075, de 2020, acerca das a\u00e7\u00f5es emergenciais para o setor cultural, adotadas durante o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, como todos j\u00e1 falaram, o projeto \u00e9 de extrema import\u00e2ncia. N\u00f3s temos aqui no Paran\u00e1 milhares de pessoas que sobrevivem da arte e da cultura. Eu mesma conhe\u00e7o centenas delas. Recebemos mensagens todos os dias! De uma hora para outra, assim como milh\u00f5es de outros brasileiros, essas pessoas tamb\u00e9m foram afetadas fortemente.\r\nJunto com a Deputada Aline Gurgel, tivemos a iniciativa de fazer um projeto de lei, para que pudesse ser apreciado junto ao relat\u00f3rio da Deputada Jandira Feghali. Eu tenho certeza de que esta iniciativa da nossa Casa vai ajudar muito o setor e, com toda a certeza, vai ajudar aqueles menores que mais precisam, que normalmente fazem da arte a sua subsist\u00eancia. \r\nO Partido Verde tem esse compromisso. N\u00f3s nos focamos sempre em ajudar aqueles que mais precisam. Ficamos felizes em ter mais um projeto de lei aprovado na C\u00e2mara dos Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2020&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-17T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 2125/2020, APENSA\u00c7\u00c3O, PL 1013/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada ao Projeto de Lei n\u00ba 2.125, de 2020, apensado ao Projeto de Lei n\u00ba 1.013, de 2020, sobre a suspens\u00e3o do pagamento de d\u00edvidas parceladas no \u00e2mbito do Programa de Moderniza\u00e7\u00e3o da Gest\u00e3o e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, institu\u00eddo pela Lei n\u00ba 13.155, de 2015, durante a vig\u00eancia do estado de calamidade p\u00fablica reconhecido pelo Congresso Nacional; e a altera\u00e7\u00e3o das Leis de n\u00bas 9.615, de 1998, e 10.671, de 2003.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Boa noite, Sr. Presidente. \r\nEspero encontrar V.Exa. bem, assim como todos os demais Parlamentares da nossa Casa.\r\nQuero tamb\u00e9m fazer um destaque sobre como est\u00e1 sendo importante a resili\u00eancia de V.Exa. neste momento dif\u00edcil pelo qual estamos passando, assim como a resili\u00eancia dos Parlamentares que comp\u00f5em a Comiss\u00e3o Externa que acompanha as a\u00e7\u00f5es de combate ao coronav\u00edrus, em especial aqueles que est\u00e3o presencialmente na Casa. \r\nQuanto ao destaque, o PV orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2020&txPagina=310&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 21/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 930/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.\r\nCORONAV\u00cdRUS, PANDEMIA, INSTITUI\u00c7\u00c3O DE LONGA PERMAN\u00caNCIA PARA IDOSOS (ILPI), AUX\u00cdLIO FINANCEIRO, CONCESS\u00c3O, LEI, PUBLICA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 21, de 2020, oferecido pela Comiss\u00e3o Mista \u00e0  Medida Provis\u00f3ria n\u00ba 930, de 2020, a respeito do tratamento tribut\u00e1rio incidente sobre a varia\u00e7\u00e3o cambial do valor de investimento, realizado por institui\u00e7\u00f5es financeiras e pelas demais institui\u00e7\u00f5es autorizadas pelo Banco Central do Brasil, em sociedade controlada, coligada, filial, sucursal ou ag\u00eancia domiciliada no exterior; e da altera\u00e7\u00e3o das Leis de n\u00bas 12.865, de 2013, e 12.249, de 2010, ressalvados os destaques. Regozijo com a publica\u00e7\u00e3o da Lei n\u00ba 14.018, de 2020, acerca da concess\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Institui\u00e7\u00f5es de Longa Perman\u00eancia para Idosos - ILPIs, no exerc\u00edcio de 2020, diante da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da pandemia de coronav\u00edrus. (Lei origin\u00e1ria do Projeto de Lei n\u00ba 1.888, de 2020, de autoria do orador)",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Como L\u00edder. Sem revis\u00e3o da oradora.) - Al\u00e9m de votar favoravelmente a esta mat\u00e9ria, eu tamb\u00e9m gostaria de comunicar aos nossos colegas da C\u00e2mara, a todos aqueles que nos ajudaram, que foi publicada hoje a lei que disponibiliza recursos para as institui\u00e7\u00f5es de longa perman\u00eancia, fruto de um projeto de lei de minha autoria, que prev\u00ea um valor de 160 milh\u00f5es de reais para que idosos do nosso Pa\u00eds que est\u00e3o hoje em sistema de acolhimento possam ser tratados por essas institui\u00e7\u00f5es e para que elas tamb\u00e9m possam vencer o desafio de cuidar para que outros n\u00e3o adoe\u00e7am.\r\nIsso s\u00f3 foi poss\u00edvel, Presidente, gra\u00e7as \u00e0 sua ajuda, porque, mesmo antes de apresentarmos o projeto, quando levei a V.Exa. minha preocupa\u00e7\u00e3o com o que estava acontecendo no Pa\u00eds com os idosos, V.Exa. mostrou-se muito sol\u00edcito, manifestou sua solidariedade e ajudou-nos a aprovar este projeto na C\u00e2mara e no Senado.\r\nQuero tamb\u00e9m registrar o meu agradecimento a todos os L\u00edderes e aos Parlamentares da C\u00e2mara e do Senado e fazer uma refer\u00eancia ao esfor\u00e7o e empenho da Ministra Damares e do Secret\u00e1rio Toninho Costa, da Secretaria de Promo\u00e7\u00e3o e Defesa dos Direitos da Pessoa Idosa, que conseguiram, junto ao Minist\u00e9rio da Economia, manter o valor que n\u00f3s hav\u00edamos indicado.\r\n\u00c9 muito triste, Presidente, ver o que est\u00e1 acontecendo em nosso Pa\u00eds. Talvez muitas pessoas n\u00e3o se importem, mas, no meu Estado, agora, que est\u00e3o fazendo testes nas institui\u00e7\u00f5es de longa perman\u00eancia, vemos que a maior parte dos idosos j\u00e1 est\u00e3o contaminados, e n\u00f3s sabemos que n\u00e3o vamos conseguir frear isso para os demais. Ao olhar a situa\u00e7\u00e3o do Brasil, vemos milhares de casas, de asilos, e eu n\u00e3o gostaria de ver esse problema se ampliar.\r\nPortanto, quero agradecer-lhe, Presidente, por nos ter ajudado nesta pauta da pessoa idosa e pedir que Deus nos ajude, porque este dinheiro n\u00e3o vai resolver o problema, mas tenho certeza de que vai ajudar muito.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=132&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em primeiro turno, do Substitutivo oferecido pela Relatora da Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, boa noite. Quero, em primeiro lugar, parabenizar a Deputada Professora Dorinha pelos avan\u00e7os que ela trouxe ao relat\u00f3rio do novo FUNDEB, em especial quando traz a import\u00e2ncia da primeira inf\u00e2ncia. Isso demonstra a preocupa\u00e7\u00e3o em propiciar a educa\u00e7\u00e3o e o aprendizado em seu tempo oportuno, sem negligenciar a educa\u00e7\u00e3o e o aprendizado ao longo da vida.\r\nA primeira inf\u00e2ncia \u00e9 uma fase da nossa vida que passa muito r\u00e1pido e n\u00e3o volta mais. E, principalmente, Presidente...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Ou n\u00f3s paramos a sess\u00e3o e vamos organizar o plen\u00e1rio ou os Deputados e as Deputadas v\u00e3o organizar o plen\u00e1rio para n\u00f3s. H\u00e1 cadeiras autorizadas para serem usadas, com o distanciamento necess\u00e1rio.\r\nAs Deputadas geralmente s\u00e3o mais organizadas e mais disciplinadas do que os homens. Neste momento, a desorganiza\u00e7\u00e3o \u00e9 mais das Deputadas do que dos Deputados.\r\nSe V.Exas. puderem se sentar, eu agrade\u00e7o. H\u00e1 lugar para todo mundo, com dist\u00e2ncia organizada.\r\nComo vota...\r\nA SRA. LEANDRE (PV - PR) - Presidente, eu estava falando e V.Exa. me interrompeu.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Desculpe-me. Desculpe-me mesmo, Deputada. O barulho aqui estava grande. Pe\u00e7o-lhe perd\u00e3o.\r\nTem V.Exa. a palavra, por 1 minuto.\r\nA SRA. LEANDRE (PV - PR) - Eu quero parabenizar a Deputada Professora Dorinha pelo aprimoramento que ela traz ao novo FUNDEB, em especial quando ela trata da import\u00e2ncia da primeira inf\u00e2ncia. Ela demonstra uma preocupa\u00e7\u00e3o em propiciar a aprendizagem em tempo oportuno, sem negligenciar o direito \u00e0 aprendizagem e \u00e0 educa\u00e7\u00e3o ao longo da vida. \r\nA primeira inf\u00e2ncia \u00e9 uma das fases mais importantes da nossa vida, mas ela passa muito r\u00e1pido e n\u00e3o volta mais. As experi\u00eancias vividas na primeira inf\u00e2ncia s\u00e3o levadas para a vida inteira. Ent\u00e3o, essa \u00e9 uma janela de oportunidades que temos para reduzir a pobreza, para combater as desigualdades e, principalmente, para garantir os direitos humanos e tamb\u00e9m desenvolver o nosso Pa\u00eds. \r\n\u00c9 sabido que, de cada dez crian\u00e7as, quatro n\u00e3o v\u00e3o ter a oportunidade de desenvolver todo o seu potencial; quatro vivem na extrema pobreza. Garantir renda para essas fam\u00edlias \u00e9 fundamental, mas garantir \u00e0 crian\u00e7a o direito constitucional de ter acesso \u00e0 educa\u00e7\u00e3o de qualidade no tempo oportuno, com toda certeza, \u00e9 a maior oportunidade que n\u00f3s temos para que essa crian\u00e7a desenvolva todo o seu potencial e consiga, sim, romper o ciclo de pobreza que se reproduz de gera\u00e7\u00e3o em gera\u00e7\u00e3o.\r\nO Partido Verde orienta \"sim\".\r\nEu pe\u00e7o a V.Exa. que passe o restante do tempo ao Deputado Professor Israel Batista, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 948/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.\r\nDEFESA, VOTA\u00c7\u00c3O, REQUERIMENTO DE URG\u00caNCIA, PL 3114/2020, PROJETO DE LEI ORDIN\u00c1RIA, CONCESS\u00c3O, AUX\u00cdLIO EMERGENCIAL FINANCEIRO, ENTIDADE BENEFICENTE, ACOLHIMENTO INSTITUCIONAL, CRIAN\u00c7A, ADOLESCENTE, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 948, de 2020, acerca do cancelamento de servi\u00e7os, reservas e eventos dos setores de turismo e cultura, em face do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da pandemia de coronav\u00edrus. Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.114, de 2020, acerca da presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Institui\u00e7\u00f5es de Acolhimento de Crian\u00e7as e Adolescentes - IACA, no exerc\u00edcio de 2020, em face da emerg\u00eancia de sa\u00fade p\u00fablica decorrente do coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PV orienta \"sim\".\r\nEu queria aproveitar para pedir a V.Exa. que coloque em vota\u00e7\u00e3o o requerimento de urg\u00eancia do Projeto de Lei n\u00ba 3.114, de 2020, que trata da libera\u00e7\u00e3o de recursos do Fundo Nacional para a Crian\u00e7a e o Adolescente, a fim de que possamos atender \u00e0s institui\u00e7\u00f5es de acolhimento de crian\u00e7as que precisam neste momento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=182&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO, CRIA\u00c7\u00c3O, TRIBUNAL REGIONAL FEDERAL (TRF), MINAS GERAIS.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Inoportunidade de cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 5.919, de 2019, acerca da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, n\u00f3s do Partido Verde, com todo o respeito que temos pela bancada mineira, entendemos ser leg\u00edtima a demanda que ela traz e tamb\u00e9m reconhecemos todo o trabalho feito pelo Deputado Fabinho Ramalho, por quem tamb\u00e9m temos uma grande admira\u00e7\u00e3o. O Deputado foi nosso companheiro de bancada. \r\nA nossa contrariedade quanto ao projeto \u00e9 pela quest\u00e3o de ser inoportuno, dado o momento que estamos vivendo. Agora, com a pandemia, quantas fraturas expostas n\u00f3s temos visto em nosso Pa\u00eds? Se formos falar de prioridades, eu tenho certeza de que temos outras prioridades. N\u00f3s gostar\u00edamos de discutir esse assunto mais para frente, at\u00e9 porque, se todos os que me antecederam falaram que isso n\u00e3o tem custos adicionais, n\u00e3o haver\u00e1 gastos, por que, ent\u00e3o, n\u00e3o criar os tribunais das outras regi\u00f5es? N\u00f3s aqui no Paran\u00e1 tamb\u00e9m temos esse sonho. N\u00f3s tamb\u00e9m gostar\u00edamos de ter o TRF aqui em nosso Estado. N\u00f3s tamb\u00e9m temos problemas, assim como Minas Gerais os tem. E eu acredito que os demais que pleiteiam isso tamb\u00e9m t\u00eam esses problemas. \r\nN\u00f3s entendemos que, neste momento, o Brasil precisa dar conta desses problemas, mas n\u00e3o sabemos como. A nossa Casa, principalmente, precisa se debru\u00e7ar em cima de assuntos que est\u00e3o pedindo urg\u00eancia. \r\nEnt\u00e3o, por isso, o Partido Verde orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, oferecida ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Deputado Professor Israel Batista, boa noite. Fico feliz de ver V.Exa. presidindo uma sess\u00e3o t\u00e3o importante, V.Exa. que j\u00e1 \u00e9 uma refer\u00eancia para todos n\u00f3s na \u00e1rea da educa\u00e7\u00e3o. Conhecemos a sua luta.\r\nBoa noite a todos.\r\nN\u00f3s estamos vivendo um ano muito dif\u00edcil. Acredito que 2020 deve ser o ano mais desafiador da nossa exist\u00eancia, mas eu acho que n\u00e3o \u00e9 demais reafirmarmos os avan\u00e7os que tivemos neste ano tamb\u00e9m, em especial quando falamos da aprova\u00e7\u00e3o do FUNDEB como um ato constitucional, e trazendo muitos aprimoramentos, fruto do trabalho \u00e1rduo de todos os Deputados.\r\n\u00c9 l\u00f3gico que n\u00f3s teremos diverg\u00eancias em alguns pontos espec\u00edficos, agora na regulamenta\u00e7\u00e3o, mas temos muito, sim, que comemorar. Primeiro, por ser agora uma pol\u00edtica de Estado. Acho que foi a maior conquista que tivemos ao longo de toda essa discuss\u00e3o, ao longo deste ano, principalmente, podermos constitucionalizar algo que \u00e9 importante para o Brasil, que \u00e9 importante para o futuro, que \u00e9 importante para as nossas crian\u00e7as. Avan\u00e7amos no acesso \u00e0 educa\u00e7\u00e3o infantil, quando foram conquistados mais recursos, para que possamos ampliar as vagas em creches. \u00c9 um alento para n\u00f3s, diante de tanta tristeza, diante de tantos problemas que estamos enfrentando no nosso Pa\u00eds, que as fam\u00edlias brasileiras enfrentam, ter hoje o FUNDEB como algo permanente.\r\nQuero parabenizar a todos os Deputados que est\u00e3o trabalhando, cada um defendendo, com os seus argumentos, aquilo que acredita ser correto. Acredito que todos os argumentos s\u00e3o v\u00e1lidos, at\u00e9 porque aqui n\u00f3s temos muitas pessoas doutoras no assunto, expertas no assunto. Todas as argumenta\u00e7\u00f5es s\u00e3o valorizadas.\r\nDentro do nosso partido, n\u00f3s temos diverg\u00eancias e vamos liberar a bancada, mas queremos enaltecer o trabalho feito pela Deputada Dorinha Rezende no projeto do FUNDEB e, agora, o trabalho feito pelo Deputado Felipe Rigoni e pelo conjunto dos Deputados, de todos os partidos, que no fundo querem o melhor para a educa\u00e7\u00e3o brasileira.\r\nDeputado Israel Batista, a nossa bancada est\u00e1 liberada.\r\nMais uma vez quero enaltecer e agradecer o apoio que tivemos de todos os Parlamentares para a inclus\u00e3o da educa\u00e7\u00e3o infantil, em especial para as crian\u00e7as, na primeira inf\u00e2ncia, porque sabemos que as crian\u00e7as precisam tamb\u00e9m ter oportunidades. Se, quando somos grandes, \u00e9 dif\u00edcil buscar essas oportunidades, imaginem quando somos pequenos e dependemos da decis\u00e3o dos adultos.\r\nEnt\u00e3o, eu agrade\u00e7o a todos os Deputados que decidiram ajudar, sim, a educa\u00e7\u00e3o infantil no Brasil, com o acesso das nossas crian\u00e7as.\r\nA orienta\u00e7\u00e3o do PV \u00e9 de liberar a bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=270&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-23T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DIA NACIONAL DO ROTARY, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, PARANA, HOMENAGEM.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Comemora\u00e7\u00e3o do Dia Mundial do Rotary, e do 116\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da entidade. Sauda\u00e7\u00f5es aos rotarianos brasileiros, em especial aos do Distrito 4.640, no Estado do Paran\u00e1.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Sem revis\u00e3o da oradora.) - Sr. Presidente, hoje, 23 de fevereiro, \u00e9 o Dia Internacional do Rotary, uma institui\u00e7\u00e3o que comemora neste ano 116 anos de excelentes servi\u00e7os prestados a toda a humanidade.\r\nEu quero aproveitar este momento para registrar minha gratid\u00e3o e o reconhecimento a todos os rotarianos brasileiros, em especial aos que comp\u00f5em o Distrito 4.640, do Estado do Paran\u00e1, que tem feito um grande trabalho de ajuda aos Munic\u00edpios paranaenses para se transformarem em cidades amigas das pessoas idosas. Manifesto aqui, hoje, minha gratid\u00e3o e meu reconhecimento \u00e0s pessoas que est\u00e3o engajadas em fazer o bem e em prestar um servi\u00e7o solid\u00e1rio \u00e0 nossa comunidade. \r\nParab\u00e9ns ao Rotary e a todos os rotarianos do Paran\u00e1, do Brasil e da comunidade mundial rotariana!\r\nMeus cumprimentos a todos pelo trabalho desenvolvido por esta importante institui\u00e7\u00e3o, reiterando que sempre podem contar com nosso mandato e com nosso trabalho.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F2%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-08T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCO LEGAL DA PRIMEIRA INF\u00c2NCIA, ANIVERS\u00c1RIO, PROMULGA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Transcurso do 5\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Marco Legal da Primeira Inf\u00e2ncia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (Bloco/PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, ao cumprimentar V.Exa., quero cumprimentar todas as colegas Parlamentares e todas as mulheres brasileiras.\r\nQuero lembrar que hoje tamb\u00e9m, dia 8 de mar\u00e7o, o Marco Legal da Primeira Inf\u00e2ncia, uma das leis mais importantes do nosso Pa\u00eds, completa 5 anos. E, ao longo desse per\u00edodo, eu tive a miss\u00e3o de levar \u00e0s pessoas a compreens\u00e3o da import\u00e2ncia que tem esse per\u00edodo que compreende os 6 primeiros anos de exist\u00eancia do indiv\u00edduo para a forma\u00e7\u00e3o do cidad\u00e3o.\r\nA primeira inf\u00e2ncia \u00e9 a oportunidade que n\u00f3s temos para diminuir as desigualdades sociais, combater a pobreza e, principalmente, mudar a hist\u00f3ria de vida das pessoas. Temos trabalhado projetos e programas para que as nossas crian\u00e7as tenham oportunidades. Inspirar pessoas, mobilizar lideran\u00e7as, sensibilizar a sociedade da import\u00e2ncia que tem o per\u00edodo da primeira inf\u00e2ncia tem sido a nossa miss\u00e3o desde o come\u00e7o.\r\nEu quero, em nome da Frente Parlamentar Mista da Primeira Inf\u00e2ncia, agradecer a todos os Parlamentares que sempre nos ajudaram nessa grande luta em defesa da primeira inf\u00e2ncia brasileira, que \u00e9 a oportunidade que temos, inclusive, para construir um Pa\u00eds melhor. Mudar a realidade com que cuidamos das nossas crian\u00e7as seguramente vai mudar a realidade que queremos no Brasil. Ent\u00e3o, 5 anos se passaram, muitos avan\u00e7os tivemos, mas temos ainda muito por fazer, porque uma lei por si s\u00f3 n\u00e3o vai sair do papel. Ela precisa da nossa dedica\u00e7\u00e3o e do nosso empenho.\r\nParab\u00e9ns a todas as mulheres brasileiras, em especial \u00e0s paranaenses, que s\u00e3o grandes guerreiras!\r\nMuita obrigada, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F3%2F2021&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, ADMISSIBILIDADE CONSTITUCIONAL, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.\r\nRELATOR, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, FUNDO NACIONAL DO IDOSO, DESVINCULA\u00c7\u00c3O, ENVELHECIMENTO, POPULA\u00c7\u00c3O.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por 10 sess\u00f5es, da discuss\u00e3o da admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal. Apelo ao Relator Daniel Freitas por n\u00e3o desvincula\u00e7\u00e3o de recursos do Fundo Nacional da Pessoa Idosa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, boa tarde. \r\nA orienta\u00e7\u00e3o do partido \u00e9 \"n\u00e3o\".\r\nMas quero fazer um apelo ao nosso Relator, para que ele coloque, nas exce\u00e7\u00f5es de desvincula\u00e7\u00e3o dos recursos, tamb\u00e9m o Fundo Nacional da Pessoa Idosa. O Brasil precisa acordar urgentemente para os desafios que n\u00f3s vamos enfrentar com o envelhecimento populacional. N\u00f3s precisamos preparar as cidades para que acolham as pessoas \u00e0 medida que elas envelhecem e ofere\u00e7am uma oportunidade para que elas possam continuar ativas e saud\u00e1veis, mas para isso n\u00f3s precisamos de investimento. Deixarmos sem exce\u00e7\u00e3o de vincula\u00e7\u00e3o os recursos para a pessoa idosa, que j\u00e1 s\u00e3o escassos, vai ser um grande equ\u00edvoco, e o tempo vai cobrar um juro muito alto.\r\nEnt\u00e3o, fa\u00e7o este apelo, Presidente, esperando que o Relator acate no seu relat\u00f3rio, dentro das exce\u00e7\u00f5es das desvincula\u00e7\u00f5es, os recursos destinados ao Fundo Nacional da Pessoa Idosa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-18T12:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 2939/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de inclus\u00e3o autom\u00e1tica na Ordem do Dia do Projeto de Lei n\u00ba 2.939, de 2019, a respeito da altera\u00e7\u00e3o da Lei n\u00ba 8.072, de 1990, (Lei de Crimes Hediondos), com vista ao estabelecimento da progress\u00e3o de regime nos crimes de feminic\u00eddio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente Soraya, \u00e9 importante debatermos este assunto. \r\nEu concordo com o aumento de pena, concordo com medidas mais dr\u00e1sticas, porque vivemos um momento em que os crimes est\u00e3o sendo cometidos com requinte de perversidade, muitas vezes na frente das fam\u00edlias. Temos casos de mulheres que foram assassinadas, al\u00e9m de terem sido assassinadas por crime de \u00f3dio, com 72 facadas. Veja a perversidade com que esse agressor matou sua v\u00edtima. Portanto, n\u00f3s precisamos, sim, de medidas mais en\u00e9rgicas, mais duras. \r\nO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F3%2F2021&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-22T12:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1295/2021, PROJETO DE LEI ORDINARIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL. \r\nPL 1433/2021, PROJETO DE LEI ORDIN\u00c1RIA, CRIT\u00c9RIO, DISPENSA DE LICITA\u00c7\u00c3O, AQUISI\u00c7\u00c3O, CONTRATA\u00c7\u00c3O, BENS, SERVI\u00c7OS, ENGENHARIA, INSUMOS, CAR\u00c1TER TEMPOR\u00c1RIO, SITUA\u00c7\u00c3O DE EMERG\u00caNCIA, COMBATE, PANDEMIA, CORONAV\u00cdRUS, APENSA\u00c7AO, PL 1295/2021.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.295, de 2021, sobre autoriza\u00e7\u00e3o \u00e0 administra\u00e7\u00e3o p\u00fablica direta e indireta de todos os entes da Federa\u00e7\u00e3o, na const\u00e2ncia da Emerg\u00eancia em Sa\u00fade P\u00fablica de Import\u00e2ncia Nacional declarada em decorr\u00eancia da infec\u00e7\u00e3o humana pelo novo coronav\u00edrus (SARS-CoV-2), da celebra\u00e7\u00e3o de contratos ou outros instrumentos cong\u00eaneres, com dispensa de licita\u00e7\u00e3o, para a aquisi\u00e7\u00e3o de insumos e medicamentos de efic\u00e1cia comprovada, al\u00e9m de bens e servi\u00e7os utilizados no tratamento de sa\u00fade em regime hospitalar de pacientes infectados pelo novo coronav\u00edrus. Apensa\u00e7\u00e3o \u00e0 mat\u00e9ria do Projeto de Lei n\u00ba 1.433, de 2021, sobre medidas para o enfrentamento da emerg\u00eancia de sa\u00fade p\u00fablica de import\u00e2ncia internacional decorrente do coronav\u00edrus pelos gestores municipais, estaduais e federal, por meio de regras especiais de licita\u00e7\u00e3o relacionadas a bens e servi\u00e7os ligados \u00e0 Covid-19, de autoria da oradora.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o Partido Verde orienta \"sim\".\r\nEst\u00e1 apensado o Projeto n\u00ba 1.433, que \u00e9 de minha autoria, principalmente para atendermos a centenas de Prefeitos. O Governador do nosso Estado, Ratinho J\u00fanior, tem feito essa demanda junto ao Minist\u00e9rio da Sa\u00fade.\r\nEstamos enfrentando diversas dificuldades em fun\u00e7\u00e3o da burocracia que temos. Isso n\u00e3o significa abrir para que o dinheiro seja gasto de maneira irrespons\u00e1vel, mas, sim, com a celeridade necess\u00e1ria para salvar vidas.\r\nO PV orienta \"sim\".\r\nPe\u00e7o tamb\u00e9m ao futuro Relator que olhe para o nosso projeto que est\u00e1 apensado e que traz um aprimoramento ao projeto principal. Pe\u00e7o para que ele tamb\u00e9m seja acolhido no seu relat\u00f3rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2021&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-04T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3430/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.\r\nPL 3430/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO FLORESTAL (2012), DISCIPLINAMENTO, INSTALA\u00c7\u00c3O, RECUPERA\u00c7\u00c3O, NASCENTE D'\u00c1GUA, PRESERVA\u00c7\u00c3O, RECURSOS H\u00cdDRICOS.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.430, de 2019, sobre altera\u00e7\u00e3o de dispositivos da Lei n\u00ba 12.651, de 2012, para disciplinamento da interven\u00e7\u00e3o e implanta\u00e7\u00e3o de instala\u00e7\u00f5es necess\u00e1rias \u00e0 recupera\u00e7\u00e3o e prote\u00e7\u00e3o de nascentes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, eu apresentei requerimento de urg\u00eancia a este projeto, pois estamos passando por uma escassez muito grande de \u00e1gua. A prote\u00e7\u00e3o das nascentes \u00e9 extremamente importante, mas tamb\u00e9m precisamos dar seguran\u00e7a jur\u00eddica para aquele que quer proteger as nascentes, para que o propriet\u00e1rio rural seja desobrigado de pedir autoriza\u00e7\u00e3o para fazer um servi\u00e7o relacionado ao meio ambiente.\r\nNosso projeto prev\u00ea que se possa cuidar do meio ambiente sem sofrer san\u00e7\u00f5es. Infelizmente, temos visto muitos produtores que querem fazer a prote\u00e7\u00e3o das suas nascentes sendo autuados por n\u00e3o terem pedido autoriza\u00e7\u00e3o ao \u00f3rg\u00e3o licenciador, o que \u00e9 um excesso de preciosismo. Estamos incentivando as pessoas a cuidarem da \u00e1gua, algo que est\u00e1 em grande escassez em todo o Pa\u00eds. No nosso Estado do Paran\u00e1, estamos enfrentando uma dificuldade muito grave de racionamento de \u00e1gua, inclusive nos meios rurais, onde os produtores rurais est\u00e3o tendo que ser abastecidos por caminh\u00f5es-pipa.\r\nPor isso pedi a urg\u00eancia para a aprecia\u00e7\u00e3o desse projeto.\r\nSe houver consenso, que possamos aprovar a mat\u00e9ria quanto ao m\u00e9rito.\r\nO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2021&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 1023/2020, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, RENDA MENSAL, RENDA FAMILIAR PER CAPITA, IDOSO, PESSOA COM DEFICI\u00caNCIA, BENEFICI\u00c1RIO, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), EDUARDO BARBOSA, RELATOR, ELOGIO.\r\nPL 1011/2020, PROJETO DE LEI ORDINARIA, GARANTIA, VACINA\u00c7\u00c3O, MOTORISTA, TRANSPORTE DE CARGA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Eduardo Barbosa, Relator da Medida Provis\u00f3ria n\u00ba 1.023, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.742, de 1993, com vista ao estabelecimento do crit\u00e9rio de renda familiar per capita para acesso ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada - BPC. Pedido \u00e0 Presid\u00eancia de conclus\u00e3o das vota\u00e7\u00f5es do Projeto de Lei n\u00ba 1.011, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.259, de 2020, para garantia do acesso de caminhoneiros \u00e0 vacina\u00e7\u00e3o contra a Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, primeiro, eu quero parabenizar o Deputado Eduardo Barbosa e reconhecer a luta dele quando se trata de Benef\u00edcio de Presta\u00e7\u00e3o Continuada.\r\nRessalto o grande avan\u00e7o que conseguimos com a amplia\u00e7\u00e3o para meio sal\u00e1rio m\u00ednimo.\r\nTamb\u00e9m quero agradecer ao Relator por ter acatado a emenda que apresentei. Como admitir que uma pessoa consegue sobreviver com uma renda inferior a 275 reais? N\u00e3o \u00e9 tudo o que esper\u00e1vamos, mas, com certeza, foi uma grande conquista.\r\nParab\u00e9ns, Deputado Eduardo Barbosa, pela luta, que sempre teve o apoio de todos n\u00f3s que fazemos parte da Comiss\u00e3o de Seguridade Social!\r\nQuero pedir a V.Exa., Sr. Presidente, que voltemos \u00e0 conclus\u00e3o da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.011, de 2020, que amplia os grupos priorit\u00e1rios para a vacina\u00e7\u00e3o, podendo incluir entre eles os profissionais de assist\u00eancia social. S\u00e3o pessoas que est\u00e3o na linha de frente desde o come\u00e7o da pandemia e que precisam ser vistas como prioridade na vacina\u00e7\u00e3o nos Estados e nos Munic\u00edpios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, MPV 1021/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.\r\nDEFESA, VOTA\u00c7\u00c3O, PL 1011/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DE VIGIL\u00c2NCIA EPIDEMIOL\u00d3GICA, GARANTIA, VACINA\u00c7\u00c3O, MOTORISTA, TRANSPORTE DE CARGA, PANDEMIA, CORONAV\u00cdRUS, GRUPO PRIORIT\u00c1RIO, ASSIST\u00caNCIA SOCIAL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.021, de 2020, sobre a fixa\u00e7\u00e3o do valor do sal\u00e1rio m\u00ednimo em 1.100 reais, com vig\u00eancia a partir de 1\u00ba de janeiro de 2021, ressalvados os destaques. Apelo \u00e0 Casa de conclus\u00e3o das vota\u00e7\u00f5es do Projeto de Lei n\u00ba 1.011, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 6.259, de 2020, para garantia do acesso de caminhoneiros \u00e0 vacina\u00e7\u00e3o contra a Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PV orienta \"sim\". \r\nComo j\u00e1 encerraremos a vota\u00e7\u00e3o, eu quero aproveitar o momento para pedir o apoio de todos os Parlamentares no sentido de que concluamos a vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.011, de 2020, que visa incluir novos profissionais no grupo priorit\u00e1rio de vacina\u00e7\u00e3o contra a COVID-19, em especial os profissionais de assist\u00eancia social, da \u00e1rea social, que, desde o in\u00edcio da pandemia, est\u00e3o \u00e0 frente de muitos programas, atendendo a popula\u00e7\u00e3o, principalmente os mais vulner\u00e1veis, correndo risco, assim como tantos outros.\r\nEnt\u00e3o, pe\u00e7o o apoio dos Parlamentares. E pe\u00e7o \u00e0 Presid\u00eancia desta Casa que possamos concluir a vota\u00e7\u00e3o, que foi iniciada h\u00e1 algumas semanas, do projeto que inclui os profissionais da \u00e1rea social no grupo priorit\u00e1rio de vacina\u00e7\u00e3o contra a COVID-19.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, APOIO POL\u00cdTICO, BANCADA FEMININA, APROVA\u00c7\u00c3O, PL 2466/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, MAIO LARANJA, ATIVIDADE, CONSCIENTIZA\u00c7\u00c3O, PREVEN\u00c7\u00c3O, COMBATE, EXPLORA\u00c7\u00c3O SEXUAL, VIOL\u00caNCIA SEXUAL, CRIAN\u00c7A, ADOLESCENTE.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 2.466, de 2019, relativo \u00e0 institui\u00e7\u00e3o da campanha Maio Laranja, destinada \u00e0 implementa\u00e7\u00e3o de a\u00e7\u00f5es efetivas de combate ao abuso e \u00e0 explora\u00e7\u00e3o sexual de crian\u00e7as e adolescentes. Agradecimento aos Parlamentares pela aprova\u00e7\u00e3o da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Obrigada, Presidente. \r\nQuero agradecer a todos que apoiaram este projeto, em especial \u00e0 bancada feminina, que pediu que ele entrasse em pauta. Agrade\u00e7o \u00e0 Relatora e tamb\u00e9m aos demais autores dos projetos que est\u00e3o apensados. \r\nE quero lembrar que a viol\u00eancia infantil est\u00e1 sempre dentro de uma cortina de medo. A crian\u00e7a n\u00e3o tem defesa, mas emite sinais. E \u00e9 importante estarmos atentos a esses sinais. Por isso, acreditamos que o ambiente escolar \u00e9 muito importante, inclusive, nessa investiga\u00e7\u00e3o, porque uma simples aten\u00e7\u00e3o \u00e0 crian\u00e7a pode evitar algo muito pior. \r\nA viol\u00eancia contra crian\u00e7as e adolescentes \u00e9 um tema de sa\u00fade p\u00fablica e tem graves consequ\u00eancias. N\u00f3s que trabalhamos com o tema da primeira inf\u00e2ncia sabemos que aqueles que sofrem levam marcas vis\u00edveis e invis\u00edveis, tanto no corpo quanto na mente - e s\u00e3o crian\u00e7as. O abuso infantil \u00e9 um crime muito mais comum do que podemos imaginar. Ele pode...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. PRESIDENTE (Eduardo Bismarck. PDT - CE) - Pode concluir, Deputada.\r\nA SRA. LEANDRE (PV - PR) - Esse crime \u00e9 muito mais comum do que imaginamos e ele pode estar sendo cometido por algu\u00e9m que deveria defender a crian\u00e7a.\r\nN\u00f3s quisemos colaborar com a Lei n\u00ba 9.970, de 2000, que instituiu o dia 18 de maio como Dia Nacional de Combate ao Abuso e \u00e0 Explora\u00e7\u00e3o Sexual de Crian\u00e7as e Adolescentes, acreditando que \u00e9 necess\u00e1rio mais tempo para darmos visibilidade a esse tema t\u00e3o delicado. Um \u00fanico dia n\u00e3o basta, precisamos estar atentos todos os dias do ano, at\u00e9 porque come\u00e7amos a perceber que esse tipo de abuso tem sido cometido numa rede criminosa de neg\u00f3cios. Sabemos que crian\u00e7as est\u00e3o sendo usadas para a produ\u00e7\u00e3o de v\u00eddeos pornogr\u00e1ficos, vendidos a pre\u00e7os exorbitantes: quanto menor \u00e9 a crian\u00e7a abusada, maior o valor. N\u00f3s n\u00e3o podemos aceitar com isso. Temos que fortalecer cada vez mais essa luta.\r\nEu tenho certeza de que a melhor lei \u00e9 aquela que \u00e9 cumprida. Nem deveria ser preciso uma lei para garantir essa defesa, mas sabemos que a nossa Casa \u00e9 muitas vezes pautada por temas relacionados ao m\u00eas em refer\u00eancia. Tenho certeza de que a aprova\u00e7\u00e3o desta lei inclusive rememora o caso da Araceli, que aconteceu h\u00e1 tantos anos, mas que ainda emite sinais de alerta para a necessidade de rompermos esse ciclo de viol\u00eancia contra as crian\u00e7as e os adolescentes, em especial os casos de abuso e de explora\u00e7\u00e3o sexual.\r\nEu agrade\u00e7o, mais uma vez, a todas as Deputadas e Deputados o apoio para a aprova\u00e7\u00e3o desta mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-02T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 741/2021, PROJETO DE LEI ORDINARIA, PARTIDO VERDE (PV), VOTO FAVORAVEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pela Relatora da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 741, de 2021, sobre a cria\u00e7\u00e3o do Programa de Coopera\u00e7\u00e3o Sinal Vermelho Contra a Viol\u00eancia Dom\u00e9stica, como medida de enfrentamento da viol\u00eancia dom\u00e9stica e familiar contra a mulher prevista na Lei n\u00ba 11.340, de 2006, (Lei Maria da Penha), ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, boa noite a V.Exa. e a todos que nos acompanham.\r\nHoje n\u00f3s damos um passo muito importante no combate \u00e0 viol\u00eancia contra a mulher. Seguramente, a institui\u00e7\u00e3o desse programa de combate \u00e0 viol\u00eancia traz para n\u00f3s uma grande ferramenta para que possamos proteger as mulheres e garantir os seus direitos. Colocar luz sobre a viol\u00eancia psicol\u00f3gica, que \u00e9 uma viol\u00eancia t\u00e3o dif\u00edcil de ser identificada e, por isso, muito subnotificada e negligenciada aqui no Brasil, representa, com certeza, uma a\u00e7\u00e3o de combate a um grande risco. A viol\u00eancia psicol\u00f3gica \u00e9 a porta de entrada de atos muito mais violentos contra a mulher, seja na quest\u00e3o da agress\u00e3o, seja principalmente na quest\u00e3o do feminic\u00eddio.\r\nQuero parabenizar a Deputada Soraya Santos, a Deputada Margarete Coelho, a Deputada Carla Dickson e a Deputada Greyce Elias pela iniciativa deste projeto. Quero tamb\u00e9m dizer a elas que, cada vez que aprovamos um projeto como este na Casa, n\u00f3s inspiramos outras Parlamentares de \u00e2mbito estadual e municipal.\r\nEu quero tamb\u00e9m aproveitar para saudar todas as Vereadoras do Estado do Paran\u00e1 que hoje est\u00e3o instalando a Procuradoria da Mulher nas C\u00e2maras de Vereadores e se somando a n\u00f3s nessa luta, no combate \u00e0 viol\u00eancia contra a mulher e na garantia de seus direitos.\r\nQuero tamb\u00e9m parabenizar a Deputada Perp\u00e9tua Almeida, que fez um grande relat\u00f3rio e, com certeza, conseguiu trazer este projeto, que anteriormente tinha tanta diverg\u00eancia, para uma converg\u00eancia e uma unanimidade.\r\nO PV, com toda a sua bancada, orienta o voto \"sim\" e tamb\u00e9m quer dizer um basta \u00e0 viol\u00eancia contra a mulher.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-08T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 3430/2019, PROJETO DE LE ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel ao Projeto de Lei n\u00ba 3.430, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 12.651, de 2012, e 14.119, de 2021, para disciplinamento da interven\u00e7\u00e3o e da implanta\u00e7\u00e3o de instala\u00e7\u00f5es necess\u00e1rias \u00e0 recupera\u00e7\u00e3o e \u00e0 prote\u00e7\u00e3o de nascentes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, primeiro, eu quero agradecer a V.Exa. por ter pautado o projeto, pelo apoio de todos os L\u00edderes, para que n\u00f3s pud\u00e9ssemos, na Semana do Meio Ambiente, trazer um pauta t\u00e3o positiva. Tamb\u00e9m quero parabenizar o Relator pelo aprimoramento da mat\u00e9ria.\r\nN\u00f3s estamos vivendo novamente uma grande crise h\u00eddrica, com racionamento de \u00e1gua em diversas cidades do Pa\u00eds, falta de \u00e1gua no campo, imin\u00eancia de um apag\u00e3o. J\u00e1 estamos dependendo de termel\u00e9tricas, o que, al\u00e9m de encarecer o custo da energia, traz muitos danos para o meio ambiente, para as pessoas. Ent\u00e3o, aprovar esta proposta \u00e9 uma oportunidade que n\u00f3s temos de tratar das causas dos problemas. Ademais, eu n\u00e3o tenho d\u00favida de que isso ser\u00e1 fundamental para contribuir para o processo de retomada do crescimento no Brasil p\u00f3s- pandemia. Ela vai conferir, com certeza, seguran\u00e7a jur\u00eddica ao projeto de recupera\u00e7\u00e3o e prote\u00e7\u00e3o das nascentes e legitimar essas interven\u00e7\u00f5es, porque ela traz, com certeza, a valoriza\u00e7\u00e3o de quem presta um servi\u00e7o ambiental para as nossas nascentes.\r\nO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1605/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.605, de 2019, sobre a institui\u00e7\u00e3o do Estatuto da Pessoa com C\u00e2ncer.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, boa tarde! \r\nO Partido Verde orienta o voto \"sim\". Existe hoje um n\u00famero muito significativo de pessoas portadoras de c\u00e2ncer. Sabemos que, no futuro, muitas pessoas, entre os brasileiros, tamb\u00e9m passar\u00e3o por essa experi\u00eancia terr\u00edvel. Quanto mais n\u00f3s pudermos aprimorar a nossa legisla\u00e7\u00e3o, para poder acolher e proteger as pessoas e as fam\u00edlias, melhor ser\u00e1. Isso \u00e9 importante. Trata-se de uma doen\u00e7a que age com requinte de perversidade. Eu tenho certeza absoluta de que a nossa Casa ainda pode fazer muito mais por aqueles que mais precisam do tratamento.\r\nO PV orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-16T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 10887/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO VERDE (PV), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 10.887, de 2018, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00b0 8.429, de 1992, acerca da improbidade administrativa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, a Lei de Improbidade \u00e9 uma lei extremamente importante para o nosso Pa\u00eds. \u00c9 um instrumento importante. O PV tem essa pol\u00edtica de combate \u00e0 corrup\u00e7\u00e3o com toda a certeza, mas n\u00f3s entendemos que ela tamb\u00e9m precisa de aprimoramentos.\r\nAo longo desse tempo, n\u00f3s temos percebido isso, acompanhando as gest\u00f5es municipais, em especial aquelas que s\u00e3o gest\u00f5es l\u00edcitas, transparentes. N\u00e3o nos furtamos ao debate.\r\nPor isso, somos contr\u00e1rios \u00e0 retirada de pauta; por\u00e9m, temos tamb\u00e9m ressalvas, que discutiremos ao longo dos destaques ao m\u00e9rito da mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PRC 5/2020, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, PARTIDO VERDE (PV), VOTO FAVORAVEL.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Resolu\u00e7\u00e3o n\u00ba 5, de 2020, sobre a institui\u00e7\u00e3o do Pr\u00eamio Medalha Amigo da Primeira Inf\u00e2ncia. Agradecimento aos L\u00edderes partid\u00e1rios pelo apoio \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, muito obrigada.\r\nEu quero agradecer inicialmente a todos os L\u00edderes que apoiaram esse projeto nosso. N\u00f3s temos feito um esfor\u00e7o tremendo para que cada brasileiro e brasileira entenda a import\u00e2ncia que tem a primeira inf\u00e2ncia e como isso representa uma grande janela de oportunidade para o pa\u00eds que queremos no futuro. Mas esse pa\u00eds precisa ser garantido agora. O pr\u00eamio \u00e9 apenas uma iniciativa para que possamos contemplar e reconhecer o esfor\u00e7o da sociedade, das pessoas que t\u00eam trabalhado em prol dessa mat\u00e9ria. \r\nMas eu tamb\u00e9m reconhe\u00e7o - e quero aqui refor\u00e7ar isto - que n\u00f3s precisamos, sim, de or\u00e7amento para a primeira inf\u00e2ncia. Inclusive, estamos encaminhando uma emenda \u00e0 LDO para que tenha a primeira inf\u00e2ncia como uma prioridade, assim como foi feito no PPA. \r\nPe\u00e7o, Presidente, o apoiamento de todos os Parlamentares para que possamos votar o m\u00e9rito do projeto na sess\u00e3o de amanh\u00e3. \r\nO PV orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-15T23:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, APOIO POL\u00cdTICO, APROVA\u00c7\u00c3O, PRC 5/2020, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, CRIA\u00c7\u00c3O, MEDALHA AMIGO DA PRIMEIRA INF\u00c2NCIA, CRIAN\u00c7A, PAULA BELMONTE, RELATORA.",
+        "nomeDeputado": "Leandre",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o do substitutivo oferecido pela Relatora da Mesa Diretora ao Projeto de Resolu\u00e7\u00e3o n\u00ba 5, de 2020, sobre a institui\u00e7\u00e3o do Pr\u00eamio Medalha Amigo da Primeira Inf\u00e2ncia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LEANDRE (PV - PR. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, eu queria falar sobre o sonho que temos de que cada brasileiro e cada brasileira possa compreender a import\u00e2ncia que tem esse per\u00edodo t\u00e3o especial na vida do ser humano. \u00c9 a partir de bases s\u00f3lidas que n\u00f3s conseguiremos construir um futuro muito melhor para o Pa\u00eds. \u00c9 a partir da primeira inf\u00e2ncia que se determina o que a pessoa ser\u00e1 ao longo da sua vida.\r\nEnt\u00e3o, \u00e9 muito importante que possamos, al\u00e9m de ter todo esse cuidado com as nossas crian\u00e7as de forma integral, valorizar aqueles que trabalham na atividade.\r\nQuero agradecer \u00e0 Deputada Paula e a todos os coautores o apoio a este projeto, para que possamos oferecer essa medalha de honra ao m\u00e9rito a quem realmente faz um trabalho muito importante pelas crian\u00e7as do Brasil.\r\nObrigado, Presidente Marcelo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

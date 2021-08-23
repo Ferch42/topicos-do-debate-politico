@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-07T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "AGRADECIMENTO, ELEITOR, ELEI\u00c7\u00c3O, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Ab\u00edlio Santana",
+        "sumario": "Agradecimento aos eleitores do Estado da Bahia, especialmente aos evang\u00e9licos, pela elei\u00e7\u00e3o do orador para a C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AB\u00cdLIO SANTANA (PHS - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, douta Mesa, senhoras e senhores, trago uma sauda\u00e7\u00e3o de paz.\r\nEu sou oriundo da Bahia, o quarto Estado brasileiro em popula\u00e7\u00e3o e o sexto maior Estado, geograficamente falando, do nosso querido Brasil. Eu tenho o privil\u00e9gio de proferir com muita seguran\u00e7a que nasci no Estado onde tudo come\u00e7ou, onde as caravelas ancoraram, onde Cabral bradou: \"Terra \u00e0 vista!\" \r\nDos 417 Munic\u00edpios do meu querido Estado da Bahia, 410 acreditaram em mim e me agraciaram com seus votos. Quando me enviaram para Bras\u00edlia, Capital da nossa Na\u00e7\u00e3o, fizeram-no acreditando no que eu proferi durante a campanha: eu serei radicalmente contra todos os que se levantarem contra a \u00e9tica e a fam\u00edlia tradicional. Levantar-me-ei contra quem \u00e9 a favor da chamada ideologia de g\u00eanero, que, pela minha \u00f3tica, at\u00e9 que me provem o contr\u00e1rio, tem sido uma cat\u00e1strofe para nossa querida Na\u00e7\u00e3o.\r\nAgrade\u00e7o ao Deus dos c\u00e9us por ter me agraciado ao me enviar como um dos representantes da minha querida Bahia e muito especialmente como um dos representantes do povo evang\u00e9lico, at\u00e9 porque eu profiro a f\u00e9 num \u00fanico Deus.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

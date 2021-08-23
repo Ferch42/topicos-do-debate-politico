@@ -1,0 +1,614 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 861/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.\r\nGOVERNO FEDERAL, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENT\u00c1RIOS, UNIVERSIDADE FEDERAL, DIREITO \u00c0 EDUCA\u00c7\u00c3O, EDUCA\u00c7\u00c3O SUPERIOR, POPULA\u00c7\u00c3O DE BAIXA RENDA, AUMENTO, PASSAGEM A\u00c9REA, G\u00c1S LIQUEFEITO DE PETR\u00d3LEO (GLP), GASOLINA, CR\u00cdTICA.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Protesto contra o corte de recursos das universidades federais pelo Governo Jair Bolsonaro. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 861, de 2018, sobre a transfer\u00eancia, da Uni\u00e3o para o Distrito Federal, da Junta Comercial do Distrito Federal e das atividades de registro p\u00fablico de empresas mercantis e atividades afins no Distrito Federal, e a altera\u00e7\u00e3o da Lei n\u00ba 8.934, de 1994, acerca do Registro P\u00fablico de Empresas Mercantis e Atividades Afins.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, antes de encaminhar o meu voto, eu quero repudiar a a\u00e7\u00e3o do Governo Federal que corta verba das universidades federais. A \u00fanica maneira de os mais carentes ascenderem na vida \u00e9 atrav\u00e9s de uma forma\u00e7\u00e3o, e de uma forma\u00e7\u00e3o gratuita. Est\u00e1 na hora de o Governo Federal tomar medidas simp\u00e1ticas, porque at\u00e9 agora s\u00f3 tomou medidas antip\u00e1ticas para a popula\u00e7\u00e3o brasileira. Hoje os voos dom\u00e9sticos aumentam o seu pre\u00e7o em 14%. Toda semana h\u00e1 aumento da gasolina e do g\u00e1s de cozinha. Queremos ajudar o Governo Federal, mas este tem que querer a nossa ajuda. O povo brasileiro est\u00e1 sufocado, esperando provid\u00eancias do Governo para o bem de todos.\r\nO PSDB encaminha \"n\u00e3o\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=305&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-09T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JUSTIFICATIVA, VOTO, COMISS\u00c3O MISTA, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, REFORMA ADMINISTRATIVA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), ORIENTA\u00c7\u00c3O DE BANCADA, TRANSFER\u00caNCIA, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), MINIST\u00c9RIO DA ECONOMIA, MINIST\u00c9RIO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, COMBATE, CORRUP\u00c7\u00c3O, LAVAGEM DE DINHEIRO, ORGANIZA\u00c7\u00c3O CRIMINOSA.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Voto do orador pela manuten\u00e7\u00e3o do Conselho de Controle de Atividades Financeiras - COAF no \u00e2mbito do Minist\u00e9rio da Economia, na Comiss\u00e3o Mista destinada ao exame da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios. Declara\u00e7\u00e3o de voto do Parlamentar, no plen\u00e1rio, pela integra\u00e7\u00e3o do COAF na estrutura do Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje de manh\u00e3, estive representando o PSDB, na Comiss\u00e3o Mista que trata da MP 870/19. O partido entendeu que o COAF deveria ficar no Minist\u00e9rio da Economia, e eu, na condi\u00e7\u00e3o de representante do partido naquela Comiss\u00e3o, n\u00e3o poderia votar contra a orienta\u00e7\u00e3o partid\u00e1ria. Mas quero dizer a todos os meus eleitores, a todos os meus seguidores que no plen\u00e1rio votarei para que o COAF fique no Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica, que \u00e9 muito bem coordenado pelo Ministro Sergio Moro.\r\nPortanto, seguindo orienta\u00e7\u00e3o partid\u00e1ria, tive que votar na Comiss\u00e3o para que o COAF ficasse no Minist\u00e9rio da Economia, mas em plen\u00e1rio votarei para que o COAF fique no Minist\u00e9rio da Justi\u00e7a, para que o Ministro Moro tome todas as medidas cab\u00edveis para que a corrup\u00e7\u00e3o, a lavagem de dinheiro e o crime organizado seja combatidos em nosso Pa\u00eds.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F5%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento para vota\u00e7\u00e3o da mat\u00e9ria artigo por artigo, apresentado \u00e0 Medida Provis\u00f3ria n\u00b0 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"n\u00e3o\". Queremos votar para acabar, de uma vez por todas, com esse monop\u00f3lio de tr\u00eas empresas que dominam a avia\u00e7\u00e3o brasileira. Queremos passagens mais baratas, queremos gera\u00e7\u00e3o de emprego e renda para o nosso Pa\u00eds.\r\nO PSDB vota \"n\u00e3o\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=221&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"n\u00e3o\". N\u00f3s estamos aqui para votar tudo o que for necess\u00e1rio para o Pa\u00eds crescer e se desenvolver, inclusive a quest\u00e3o do COAF, que hoje se tornou mat\u00e9ria nacional. \r\nO PSDB orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB vota \"sim\", Sra. Presidente. O PSDB est\u00e1 aqui para votar tudo o que for importante para o desenvolvimento do Pa\u00eds. O povo brasileiro n\u00e3o aguenta mais engana\u00e7\u00e3o. O povo brasileiro quer emprego, quer trabalho, quer renda.\r\nO PSDB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 216/2019, EMENDA DE COMISS\u00c3O, MPV 870/2019, MEDIDA PROVISORIA,  PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 216, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB entende que quem ganhou as elei\u00e7\u00f5es tem o direito de fazer o enxugamento da m\u00e1quina p\u00fablica e quem perdeu tem o direito de reclamar.\r\nPor isso, o PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMC 440/2019, EMENDA DE COMISS\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda n\u00ba 440, apresentada ao projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre o estabelecimento da organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s n\u00e3o precisamos de mais Minist\u00e9rios. Temos que profissionalizar os que j\u00e1 existem, para prestarem um bom servi\u00e7o \u00e0 popula\u00e7\u00e3o. \r\nPor isso, o PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORRUP\u00c7\u00c3O, COMBATE, MINIST\u00c9RIO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Declara\u00e7\u00e3o de voto favor\u00e1vel \u00e0 perman\u00eancia do Conselho de Controle de Atividades Financeiras - COAF no \u00e2mbito do Minist\u00e9rio da Justi\u00e7a e Seguran\u00e7a P\u00fablica, para o combate \u00e0 corrup\u00e7\u00e3o e \u00e0 lavagem de dinheiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, representando o PSDB, um partido democr\u00e1tico, na Comiss\u00e3o, no momento da vota\u00e7\u00e3o, votei para o COAF ficar na Economia. Aqui dou o meu voto pessoal: acho que ele tem que ficar na Justi\u00e7a, porque o Sergio Moro \u00e9 especializado em combater corrup\u00e7\u00e3o, combater lavagem de dinheiro e crime organizado.\r\nO Minist\u00e9rio da Economia tem que cuidar da reforma da Previd\u00eancia, da reforma tribut\u00e1ria e do pacto federativo, mas, como o nosso partido \u00e9 democr\u00e1tico e tem Deputados com opini\u00f5es divergentes, o PSDB libera a bancada.\r\nO meu voto, para que fique registrado, \u00e9 para que o COAF fique com o Minist\u00e9rio da Justi\u00e7a para combater a corrup\u00e7\u00e3o e a lavagem de dinheiro.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=168&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-22T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 10/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.\r\nCOMPET\u00caNCIA, AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL, COMUNICA\u00c7\u00c3O, IND\u00cdCIO, CRIME, MINIST\u00c9RIO P\u00daBLICO, DEFESA.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 64-A do projeto de lei de convers\u00e3o \u00e0 Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre o estabelecimento da organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB orienta \"n\u00e3o\" ao PLV, a favor dos auditores, que s\u00e3o homens e mulheres comprometidos com o Pa\u00eds. N\u00e3o vemos auditores envolvidos em a\u00e7\u00f5es espetaculosas. Os auditores t\u00eam o respeito da popula\u00e7\u00e3o. N\u00f3s temos, na nossa bancada, um auditor respeitado em seu Estado, o Deputado Celso Sabino. Fica registrado o nosso apoio a todos os auditores brasileiros.\r\nMorda\u00e7a no Estado Democr\u00e1tico de Direito n\u00e3o pode existir, Sr. Presidente.\r\nO PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F5%2F2019&txPagina=209&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 13/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 13, de 2019, adotado pela Comiss\u00e3o Mista, \u00e0 Medida Provis\u00f3ria n\u00ba 875, de 2019, sobre o Aux\u00edlio Emergencial Pecuni\u00e1rio para fam\u00edlias de Brumadinho, Estado de Minas Gerais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidenta, n\u00f3s do PSDB orientamos o voto \"sim\", porque achamos que o valor \u00e9 muito pequeno para atender a tantas fam\u00edlias que sofrem com essas trag\u00e9dias. Pedimos tamb\u00e9m aos Governos Estaduais e ao Governo Federal que sejam mais r\u00edgidos na fiscaliza\u00e7\u00e3o, para que trag\u00e9dias como essas n\u00e3o ocorram mais em nosso Pa\u00eds. \u00c9 uma pena que isso esteja acontecendo constantemente. Pedimos maior rigor na fiscaliza\u00e7\u00e3o.\r\nO PSDB orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=167&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, VOTO FAVOR\u00c1VEL, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Apoio do orador \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, como morador do Nordeste brasileiro por v\u00e1rios anos, e sabendo quanto os nordestinos amam as vaquejadas e o tanto de recurso, emprego e renda que as vaquejadas trazem para a popula\u00e7\u00e3o do Nordeste, eu quero manifestar o meu voto totalmente favor\u00e1vel \u00e0s vaquejadas, principalmente as do Nordeste brasileiro. \u00c9 muito melhor ao boi ir \u00e0s vaquejadas do que ao matadouro.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=268&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T00:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSDB vota \"sim\", porque o Brasil tem pressa em ter boas estradas, bons hospitais e em acolher 15 milh\u00f5es de desempregados. Quem n\u00e3o \u00e9 a favor da reforma da Previd\u00eancia \u00e9 quem quebrou, quem arrombou o Pa\u00eds. \r\nQuero aqui tamb\u00e9m cumprimentar V.Exa. pela condu\u00e7\u00e3o dos trabalhos, pois fez com que cheg\u00e1ssemos a esta hora, quase 1 hora da manh\u00e3, votando a mais importante reforma para o nosso Pa\u00eds: a reforma da Previd\u00eancia. \r\nPor isso, o PSDB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=488&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB vota \"n\u00e3o\", Sr. Presidente, porque o PSDB quer destravar o desenvolvimento do Pa\u00eds, quer acabar com o desemprego e quer dias melhores para toda a popula\u00e7\u00e3o. \r\nPor isso, o voto \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=211&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ HENRIQUE MANDETTA, MINISTRO DE ESTADO DA SA\u00daDE, PROGRAMA M\u00c9DICOS PELO BRASIL, PLANO DE CARGOS, CARREIRAS E SAL\u00c1RIOS, M\u00c9DICO, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Aplausos ao Ministro da Sa\u00fade, Luiz Henrique Mandetta, pelo lan\u00e7amento do Programa M\u00e9dicos pelo Brasil.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Sem revis\u00e3o do orador.) - Sra. Presidente, venho cumprimentar o Ministro da Sa\u00fade, Luiz Henrique Mandetta, pelo Programa M\u00e9dicos pelo Brasil, um programa que vai levar m\u00e9dicos a todos os rinc\u00f5es do Pa\u00eds, um programa que vai valorizar os m\u00e9dicos brasileiros que foram t\u00e3o maltratados nos Governos do PT. Os m\u00e9dicos, agora, v\u00e3o ter plano de cargos e sal\u00e1rios e sal\u00e1rios dignos com esse novo programa do bom Ministro Mandetta.\r\nQuero dizer que, para n\u00f3s, \u00e9 uma grande honra fazer parte da Associa\u00e7\u00e3o M\u00e9dica Brasileira. Esse novo programa do Ministro da Sa\u00fade vem ao encontro dos anseios da Associa\u00e7\u00e3o M\u00e9dica Brasileira e do Conselho Federal de Medicina. Todos aprovam esse grande projeto do Ministro Mandetta, respaldado pelo Presidente da Rep\u00fablica Jair Bolsonaro. Agora sim vamos ter m\u00e9dicos valorizados, tratando bem de quem precisa ser tratado neste Pa\u00eds. \r\nMuito obrigado, Deputada Geovania de S\u00e1, a quem parabenizo pela condu\u00e7\u00e3o dos trabalhos, a melhor Deputada de Santa Catarina, com certeza.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB vota \"sim\", para encerrar as discuss\u00f5es, porque entende que o Pa\u00eds precisa avan\u00e7ar.\r\nEssa reforma precisa ser aprovada urgentemente, para que o emprego apare\u00e7a para os brasileiros, para que a conta de energia tenha o seu pre\u00e7o diminu\u00eddo e para que o povo brasileiro seja mais feliz.\r\nPor isso, o PSDB vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=284&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PSDB tamb\u00e9m vota \"n\u00e3o\", porque entende que este projeto est\u00e1 aqui h\u00e1 muitos meses e \u00e9 uma moderniza\u00e7\u00e3o para o Pa\u00eds.\r\nA atual Lei de Licita\u00e7\u00f5es \u00e9 ultrapassada e retr\u00f3grada e atrapalha os Munic\u00edpios. \r\nN\u00f3s queremos votar. Estamos aqui para isso.\r\nPor isso, o PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-08T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PLN 6/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por 48 horas, da vota\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 6, de 2019, sobre abertura ao Or\u00e7amento Fiscal da Uni\u00e3o, em favor das Justi\u00e7as Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territ\u00f3rios, do Minist\u00e9rio P\u00fablico da Uni\u00e3o e do Conselho Nacional do Minist\u00e9rio P\u00fablico, de cr\u00e9dito suplementar no valor de R$ 236.566.628,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Para encaminhar. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha \"n\u00e3o\", porque entende que o Pa\u00eds est\u00e1 travado, h\u00e1 milh\u00f5es de desempregados, e o Congresso Nacional tem que dar a sua contribui\u00e7\u00e3o para sairmos da crise. As esquerdas n\u00e3o podem e n\u00e3o devem travar o Pa\u00eds.\r\nO PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=10%2F10%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penal federal, estaduais e distrital. Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de abertura do painel de vota\u00e7\u00e3o eletr\u00f4nica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"n\u00e3o\" \u00e0 retirada, porque quer votar e entende que os agentes penais prestam um grande servi\u00e7o a todo o Brasil.\r\nEu quero cumprimentar todos os agentes presentes, na pessoa do Pastor Otoniel, que presta um grande trabalho na minha cidade de Luzi\u00e2nia. \r\nSe poss\u00edvel, Sr. Presidente, pe\u00e7o a V.Exa. que abra o painel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=207&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JO\u00c3O D\u00d3RIA, GOVERNADOR, S\u00c3O PAULO (ESTADO), ELOGIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Relato de reuni\u00e3o do orador com o Governador do Estado de S\u00e3o Paulo, Jo\u00e3o Doria. Excel\u00eancia da gest\u00e3o do  Governador Estadual.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. Quero parabeniz\u00e1-lo pela condu\u00e7\u00e3o dos trabalhos. Espero que muito brevemente V.Exa. assuma verdadeiramente essa cadeira, pois tem capacidade para isso.\r\nSr. Presidente, eu estive, na \u00faltima sexta-feira, em S\u00e3o Paulo, e fui recebido pelo Governador Jo\u00e3o Doria. Quero parabenizar o Governador Doria. Por mais de 2 horas conversamos acerca das coisas que est\u00e3o acontecendo no Estado, conversamos muito acerca das dificuldades por que passa o Brasil hoje. O Governador Doria est\u00e1 muito consciente e muito bem orientado a respeito do trabalho que tem que fazer por S\u00e3o Paulo e pelo Brasil.\r\nFicam aqui os meus parab\u00e9ns ao Governador Jo\u00e3o Doria, que est\u00e1 revolucionando o Estado de S\u00e3o Paulo. Muito me impressionou a sua fala. Trabalho e honestidade s\u00e3o os seus lemas.\r\nParab\u00e9ns, Governador Doria! Muito obrigado por ter-nos recebido.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ZILDA REZENDE, PREFEITO, DOVERL\u00c2NDIA (GO), FALECIMENTO, PESAMES.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Falecimento da Prefeita Zilda Rezende, do Munic\u00edpio de Doverl\u00e2ndia, Estado de Goi\u00e1s.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, quero lamentar a perda da Prefeita de Doverl\u00e2ndia, em Goi\u00e1s, a Zildinha, uma grande l\u00edder do nosso Estado, que sofreu um acidente ao cair de uma mula em um evento e muito precocemente deixa todos os goianos consternados neste dia.\r\nFica aqui, na C\u00e2mara, atrav\u00e9s desta minha participa\u00e7\u00e3o, um abra\u00e7o a toda a fam\u00edlia da Zildinha, a toda a grande fam\u00edlia de Doverl\u00e2ndia pela perda dessa Prefeita que fez um grande trabalho na cidade e que era revolucion\u00e1ria nas ideias e nas a\u00e7\u00f5es.\r\nHoje Goi\u00e1s perde, o Brasil perde e as mulheres que est\u00e3o envolvidas com a pol\u00edtica tamb\u00e9m perdem uma grande mulher, uma grande gestora.\r\nGoi\u00e1s est\u00e1 triste, Doverl\u00e2ndia est\u00e1 triste, n\u00f3s goianos estamos tristes.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=249&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-12T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, EXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA), FAVOR\u00c1VEL.\r\nCONSELHO FEDERAL DE MEDICINA (CFM), AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Posicionamento favor\u00e1vel \u00e0 aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nHoje vamos votar nesta Casa uma medida provis\u00f3ria muito importante para todos os brasileiros, a MP 890, que trata do Programa M\u00e9dicos pelo Brasil. \r\nQueremos manifestar nossa posi\u00e7\u00e3o a favor do Conselho Federal de Medicina e de todos os Conselhos Regionais de Medicina, que nada t\u00eam contra m\u00e9dico boliviano, contra m\u00e9dico cubano, nem contra m\u00e9dico venezuelano. N\u00f3s somos a favor da boa medicina no Brasil. Uma boa medicina exige a realiza\u00e7\u00e3o do REVALIDA duas vezes por ano, uma boa medicina no Brasil exige m\u00e9dicos qualificados e preparados para atenderem, e bem, ao povo brasileiro.\r\nPor isso, n\u00f3s somos favor\u00e1veis ao texto que veio do Governo. Somos favor\u00e1veis a todos os bons m\u00e9dicos, para que trabalhem bem pelo povo brasileiro. Somos a favor do REVALIDA. Somos a favor, principalmente, de que todos os m\u00e9dicos sejam registrados nos Conselhos Regionais de Medicina. Um advogado n\u00e3o pode exercer a profiss\u00e3o se n\u00e3o for registrado na OAB, assim como um engenheiro, que precisa ser registrado no CREA. Os m\u00e9dicos tamb\u00e9m, Deputado Charles Fernandes, precisam ser registrados no Conselho Regional de Medicina.\r\nValorizemos a boa medicina brasileira! O Conselho Federal de Medicina tem credibilidade neste Pa\u00eds e quer o melhor para todos os brasileiros.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F11%2F2019&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O MPV 890/2019, MEDIDA PROVISORIA, FAVORAVEL.\r\nEXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA), DEFESA.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade. Posicionamento do orador favor\u00e1vel \u00e0 realiza\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Institui\u00e7\u00e3o de Educa\u00e7\u00e3o Superior Estrangeira - REVALIDA.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, n\u00f3s estamos preocupados com a situa\u00e7\u00e3o da medicina brasileira ao ver que existem Parlamentares que ainda querem acabar com a j\u00e1 combalida medicina brasileira.\r\nSra. Presidente, querer m\u00e9dico sem inscri\u00e7\u00e3o no CRM - Conselho Regional de Medicina \u00e9 o maior dos absurdos que j\u00e1 vi nesta Casa. Quem se responsabiliza por uma consulta errada, por uma cirurgia que d\u00ea dificuldades para o m\u00e9dico que n\u00e3o tem CRM? Quem vai ser o respons\u00e1vel por isso? Ser\u00e1 que vamos encontrar algum Parlamentar que queira m\u00e9dico sem CRM na hora em que acontecerem grandes desastres neste Pa\u00eds? N\u00e3o vamos encontrar.\r\nN\u00f3s somos a favor de uma medicina de qualidade, com m\u00e9dicos que saibam, atrav\u00e9s da ci\u00eancia, resolver as dificuldades dos milh\u00f5es e milh\u00f5es de brasileiros que ainda n\u00e3o t\u00eam m\u00e9dicos. Talvez seja pior ficar sem m\u00e9dico do que ter um que n\u00e3o tenha capacita\u00e7\u00e3o, que n\u00e3o tenha qualidade.\r\nPor isso, somos a favor do REVALIDA duas vezes ao ano, mas em faculdade p\u00fablica, porque n\u00f3s sabemos que nem todas as faculdades particulares deste Pa\u00eds s\u00e3o id\u00f4neas.\r\nExistem boas faculdades particulares, muitas, mas n\u00e3o s\u00e3o todas. Pode acontecer o vende-vende de vagas e de cursos, como acontece neste Pa\u00eds afora.\r\n Por isso, estou aqui para defender a boa medicina, para defender o que prega o Conselho Federal de Medicina: m\u00e9dicos com qualidade, m\u00e9dicos com CRM, m\u00e9dicos que deem conta de resolver as dificuldades dos milh\u00f5es de brasileiros.\r\nN\u00e3o a m\u00e9dicos sem CRM! Sim ao REVALIDA! E que faculdades p\u00fablicas fa\u00e7am a vigil\u00e2ncia!\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB vota \"n\u00e3o\", Sr. Presidente. O PSDB quer uma medicina de qualidade no Brasil, REVALIDA duas vezes ao ano, em faculdades p\u00fabicas, para que n\u00e3o se torne com\u00e9rcio, m\u00e9dicos com CRM, para garantir que a nossa popula\u00e7\u00e3o seja atendida por m\u00e9dicos capacitados.\r\nO PSDB vota \"n\u00e3o\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T20:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PL 4805/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 1, apresentada ao Projeto de Lei n\u00ba 4.805, de 2019, sobre a pol\u00edtica industrial para os setores de tecnologia da informa\u00e7\u00e3o e comunica\u00e7\u00e3o e de semicondutores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"sim\", porque o Centro-Oeste h\u00e1 muito deixou de ser uma regi\u00e3o agropecu\u00e1ria e est\u00e1 investindo muito nas ind\u00fastrias automobil\u00edsticas. Em Goi\u00e1s, grandes ind\u00fastrias automobil\u00edsticas precisam de incentivos. E o Centro-Oeste quer os mesmos incentivos que t\u00eam as Regi\u00f5es Sudeste e Sul do Pa\u00eds.\r\nPor isso, o PSDB vota \"sim\", a favor do Centro-Oeste brasileiro.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=216&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DIA DO PERITO CRIMINAL OFICIAL, GOI\u00c1S, HOMENAGEM.\r\nPERITO CRIMINAL, VALORIZA\u00c7\u00c3O, RONALDO CAIADO, GOVERNADOR, GOI\u00c1S, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, SOLITICA\u00c7\u00c3O.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Transcurso do Dia do Perito Criminal. Sauda\u00e7\u00f5es aos peritos criminais brasileiros, em especial aos do Estado de Goi\u00e1s. Pedido ao Governo Federal e ao Governador Ronaldo Caiado de valoriza\u00e7\u00e3o da categoria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje \u00e9 data muito importante porque se comemora o Dia do Perito Criminal. N\u00f3s sabemos que n\u00e3o existe Justi\u00e7a sem o trabalho dos peritos criminais, que em todos os instantes elucidam crimes de grande vulto nos Estados.\r\nAproveito aqui para parabenizar todos os peritos criminais do Brasil, em especial os peritos criminais do Estado de Goi\u00e1s, que prestam um grande servi\u00e7o a toda a sociedade goiana na elucida\u00e7\u00e3o de grandes crimes.\r\nTamb\u00e9m quero pedir ao Governo Federal que valorize os peritos criminais pelo importante trabalho que eles prestam \u00e0 Na\u00e7\u00e3o, em especial pe\u00e7o ao Governador de Goi\u00e1s, Ronaldo Caiado, que saiba valorizar o trabalho dos peritos criminais no Estado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "DIA NACIONAL DO PERITO CRIMINAL, HOMENAGEM.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Transcurso do Dia do Perito Criminal Oficial.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO C\u00c9LIO SILVEIRA.\r\n\r\nSra. Presidente, Sras. e Srs. Deputados, 4 de dezembro \u00e9 o Dia do Perito Criminal, categoria da qual orgulhosamente fa\u00e7o parte, como m\u00e9dico-legista da Pol\u00edcia Civil de Goi\u00e1s.\r\nPeritos criminais s\u00e3o servidores p\u00fablicos dedicados \u00e0 elucida\u00e7\u00e3o de crimes de todos os tipos e t\u00eam compet\u00eancia de n\u00edvel superior em \u00e1reas como biologia, biomedicina, biotecnologia, computa\u00e7\u00e3o, contabilidade, engenharia, farm\u00e1cia, f\u00edsica, fonoaudiologia, matem\u00e1tica, medicina, medicina veterin\u00e1ria, odontologia, psicologia e qu\u00edmica, entre outras.\r\nTendo uma dessas forma\u00e7\u00f5es, o candidato ainda precisa passar em concurso p\u00fablico que geralmente envolve tr\u00eas fases. A primeira fase tem provas objetivas, discursivas e de t\u00edtulos. Na segunda fase, geralmente s\u00e3o aplicadas provas f\u00edsicas, psicol\u00f3gicas, m\u00e9dicas e de investiga\u00e7\u00e3o social. Os aprovados nas primeiras duas fases, se forem candidatos a peritos criminais federais, ainda ficar\u00e3o meses num curso de forma\u00e7\u00e3o na Academia Nacional de Pol\u00edcia, estudando mais de 30 disciplinas da Criminal\u00edstica e do Direito e praticando tiro, defesa pessoal e outros requisitos da vida policial.\r\nSe o candidato n\u00e3o for reprovado em nenhuma disciplina, \u00e9 nomeado perito e passa a exercer a sua fun\u00e7\u00e3o. Federais ou estaduais, esses profissionais trabalham nos institutos de criminal\u00edstica, per\u00edcias e identifica\u00e7\u00e3o e tamb\u00e9m nos \u00f3rg\u00e3os de pol\u00edcia cient\u00edfica e afins. A servi\u00e7o da Justi\u00e7a, do Minist\u00e9rio P\u00fablico ou da autoridade policial, analisam cientificamente os vest\u00edgios deixados por criminosos. Identificam, registram, coletam e interpretam objetos, fragmentos, manchas de sangue ou de comida, condi\u00e7\u00f5es dos cad\u00e1veres ou das v\u00edtimas n\u00e3o fatais, extratos banc\u00e1rios, liga\u00e7\u00f5es telef\u00f4nicas, registros de inform\u00e1tica, fotografias, escrituras, agendas. Exames laboratoriais, bal\u00edsticos, cont\u00e1beis ou cartoriais podem ser requeridos, usando-se t\u00e9cnicas de documentoscopia, engenharia legal, computa\u00e7\u00e3o forense, qu\u00edmica forense, entre outras.\r\nEssas t\u00e9cnicas materializam as chamadas provas t\u00e9cnicas, ou periciais. A partir delas, s\u00e3o formuladas hip\u00f3teses sobre como o crime foi cometido e por quem. \u00c9 um trabalho de enorme complexidade, que levar\u00e1 \u00e0 condena\u00e7\u00e3o ou \u00e0 absolvi\u00e7\u00e3o dos suspeitos.\r\nGra\u00e7as a sua autoridade t\u00e9cnica, e para preservar sua responsabilidade, o perito criminal tem autonomia garantida. Ele n\u00e3o \u00e9 subordinado funcional ou t\u00e9cnico da autoridade requisitante. Como os ju\u00edzes, os peritos agem somente quando s\u00e3o provocados, e, uma vez provocados, agem de forma independente. Para garantir essa independ\u00eancia, em v\u00e1rios Estados os institutos de per\u00edcias e de criminal\u00edstica n\u00e3o fazem mais parte da estrutura da Pol\u00edcia Civil.\r\nEste \u00e9 o melhor desenho institucional: a per\u00edcia criminal\u00edstica com estrutura administrativa pr\u00f3pria, para se tornar imune \u00e0s vontades de Prefeitos, Governadores, Presidentes e outras autoridades da Rep\u00fablica. Foi por isso que o Programa Nacional de Direitos Humanos de 2009 previu como um de seus objetivos estrat\u00e9gicos a proposi\u00e7\u00e3o de projeto de lei para proporcionar autonomia administrativa e funcional aos \u00f3rg\u00e3os periciais federais.\r\nA per\u00edcia criminal \u00e9 a base decis\u00f3ria que direciona a investiga\u00e7\u00e3o policial e o processo criminal e n\u00e3o pode ser dispensada nem quando o acusado confessa o crime. O laudo pericial n\u00e3o \u00e9 a \u00fanica prova nem \u00e9 hierarquicamente superior \u00e0s outras provas. Mas o laudo acaba prevalecendo sobre as chamadas provas subjetivas, como as testemunhas, pois a per\u00edcia tende a ser mais imparcial, em fun\u00e7\u00e3o de seu car\u00e1ter t\u00e9cnico-cient\u00edfico.\r\nSenhoras e senhores, o trabalho dos peritos \u00e9 indispens\u00e1vel na investiga\u00e7\u00e3o de acidentes de tr\u00e2nsito, de crimes ambientais, de pequenos roubos ou de grandes desvios de verbas p\u00fablicas. Nosso reconhecimento, portanto, a esses profissionais!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=215&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "PL 213/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), COMBATE, CORONAV\u00cdRUS, ISOLAMENTO, QUARENTENA (SA\u00daDE), APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Relev\u00e2ncia da aprova\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 23, de 2020, relativo \u00e0s medidas para enfrentamento da emerg\u00eancia de sa\u00fade p\u00fablica de import\u00e2ncia internacional decorrente do coronav\u00edrus respons\u00e1vel pelo surto de 2019.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO C\u00c9LIO SILVEIRA.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, venho a esta tribuna desejar aos meus nobres colegas uma excelente atua\u00e7\u00e3o parlamentar neste ano legislativo de 2020. S\u00e3o muitos os desafios a serem enfrentados nesta 2\u00aa Sess\u00e3o Legislativa da 56\u00aa Legislatura.\r\nSabemos que este ano ser\u00e1 marcado por muito trabalho nesta Casa, pois temos a miss\u00e3o de retomar o crescimento do Brasil, lutar pela gera\u00e7\u00e3o de emprego, reduzir as desigualdades, discutir e votar projetos nas \u00e1reas de sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a. Temos o compromisso de devolver ao povo brasileiro confian\u00e7a e esperan\u00e7a de um pa\u00eds melhor para se viver.\r\nOutro ponto de extrema relev\u00e2ncia que tem preocupado o Brasil e o mundo \u00e9 o surgimento do coronav\u00edrus, que apareceu na China e tem se espalhado com rapidez. Em resposta c\u00e9lere \u00e0 popula\u00e7\u00e3o brasileira, o Plen\u00e1rio da C\u00e2mara dos Deputados aprovou o Projeto de Lei n\u00ba 23, de 2020, que estabelece medidas a serem adotadas pelas autoridades sanit\u00e1rias em caso de emerg\u00eancia de sa\u00fade p\u00fablica provocada pelo coronav\u00edrus. Como m\u00e9dico, apoiei a iniciativa e continuo \u00e0 disposi\u00e7\u00e3o para debater o tema em quest\u00e3o.\r\nDito isso, senhoras e senhores, acredito que cumpriremos o nosso papel ao debatermos e aprovarmos projetos relevantes e de interesse da popula\u00e7\u00e3o brasileira. Darei a minha parcela de contribui\u00e7\u00e3o em prol do povo brasileiro, em especial, dos goianos que me elegeram, neste processo legislativo e democr\u00e1tico.\r\nDeus aben\u00e7oe o nosso ano!\r\nEra o que tinha a dizer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T20:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre o Projeto de Lei de Convers\u00e3o n\u00ba 30, de 2019.\r\nAcerto da nomea\u00e7\u00e3o do ex-Deputado Rog\u00e9rio Marinho para o Minist\u00e9rio do Desenvolvimento Regional. Associa\u00e7\u00e3o do PSDB ao pronunciamento do Deputado Cunha Lima sobre altera\u00e7\u00e3o do Regimento Interno da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"n\u00e3o\" e aproveita a oportunidade para cumprimentar o Presidente Bolsonaro pela escolha do nosso amigo e companheiro desta Casa Rog\u00e9rio Marinho para o MDR. Temos certeza de que esta Casa ser\u00e1 valorizada e respeitada por Rog\u00e9rio Marinho, que \u00e9 um grande democrata e foi um grande Parlamentar.\r\nAproveitamos a oportunidade tamb\u00e9m para dizer que o PSDB est\u00e1 de acordo com o Deputado Pedro Cunha Lima. Esta Casa deve ter mais agilidade, para dar mais benef\u00edcios ao Brasil.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=259&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca da institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB vota \"n\u00e3o\" porque quer votar todos os destaques para ajudar os produtores rurais, que muito esperam desta Casa. Diferentemente, o PT, embora esteja aqui para votar, fica obstruindo as vota\u00e7\u00f5es, atrasando o desenvolvimento do Pa\u00eds.\r\nVamos votar!\r\nO PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 53/2020, VETO PARCIAL, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 53, de 2019, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019 (oriundo da MPV n\u00ba 890, de 2019), sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade (SUS), e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (ADAPS).",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (Bloco/PSDB - GO. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota pela manuten\u00e7\u00e3o do veto. Somos a favor do REVALIDA. N\u00e3o queremos que o REVALIDA vire um balc\u00e3o de neg\u00f3cios. Sabemos que muitas faculdades particulares s\u00e3o verdadeiros balc\u00f5es de neg\u00f3cios. E n\u00f3s queremos bons m\u00e9dicos para atender o povo brasileiro.\r\nMuita gente neste Pa\u00eds j\u00e1 acabou com muita coisa e agora quer acabar com a medicina brasileira, mas n\u00e3o vai conseguir. Estamos com o Conselho Federal de Medicina e com todos os Conselhos Estaduais de Medicina, a favor da manuten\u00e7\u00e3o do veto, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=186&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 987/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, da Medida Provis\u00f3ria n\u00ba 987, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de 1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, essa medida provis\u00f3ria \u00e9 muito importante para n\u00f3s do Centro-Oeste, neste momento de grande dificuldade por que passa n\u00e3o s\u00f3 Brasil como o restante do mundo, um momento em que todo o mundo est\u00e1 procurando dar incentivos. E n\u00f3s tamb\u00e9m precisamos desses incentivos no Centro-Oeste, como os que recentemente foram dados para o Nordeste. N\u00f3s fomos totalmente a favor dos incentivos para a ind\u00fastria automotiva do Nordeste.\r\nPara os senhores terem uma ideia, Sr. Presidente, Sras. e Srs. Deputados, n\u00f3s perdemos mais de 23 mil empregos na nossa regi\u00e3o, e isso num momento de dificuldade \u00e9 extremamente prejudicial para a nossa regi\u00e3o. O que estamos pedindo \u00e9 isonomia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=65&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O, ARTHUR LIRA,  PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA. \r\nENEL DISTRIBUI\u00c7\u00c3O GOI\u00c1S,  FORNECIMENTO, ENERGIA EL\u00c9TRICA, GOI\u00c1S, DESRESPEITO, CONSUMIDOR. \r\nPRIVATIZA\u00c7\u00c3O, AN\u00c1LISE, C\u00c2MARA DOS DEPUTADOS, DEFESA.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Arthur Lira pela celeridade das vota\u00e7\u00f5es. Descumprimento de obriga\u00e7\u00f5es junto aos consumidores pela empresa de energia el\u00e9trica Enel SpA, no Estado de Goi\u00e1s. Necessidade de submiss\u00e3o de privatiza\u00e7\u00f5es ao crivo da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em primeiro lugar, quero parabeniz\u00e1-lo pelo ritmo acelerado que est\u00e1 dando, nesta Casa, aos trabalhos e por todas as vit\u00f3rias que tem obtido.\r\nEm segundo lugar, Sr. Presidente, tamb\u00e9m pe\u00e7o socorro para o Estado de Goi\u00e1s. A privatiza\u00e7\u00e3o da antiga CELG foi feita, veio uma empresa italiana, que n\u00e3o cumpre com as suas obriga\u00e7\u00f5es, e o povo de Goi\u00e1s fica sem energia por at\u00e9 uma semana, principalmente na zona rural, perdendo o leite e tudo que os produtores rurais produzem.\r\nEnt\u00e3o, Sr. Presidente, pe\u00e7o o apoio para que as privatiza\u00e7\u00f5es passem por esta Casa e se tornem mais dif\u00edceis, para que empresas t\u00e3o ruins como a ENEL, em Goi\u00e1s, n\u00e3o privatizem mais nenhuma estatal no nosso Pa\u00eds.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-24T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 3/2021, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, IMUNIDADE PARLAMENTAR,  VOTO CONTRARIO.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Registro de voto do orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (PSDB - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em primeiro lugar, cumprimento V.Exa. pela bela condu\u00e7\u00e3o dos trabalhos.\r\nEu lhe pe\u00e7o, Sr. Presidente, que registre o meu voto \"n\u00e3o\", porque estou com dificuldades com o telefone celular. Quero que deixe registrado o meu voto \"n\u00e3o\", conforme a orienta\u00e7\u00e3o do meu partido.\r\nO Deputado C\u00e9lio Silveira vota \"n\u00e3o\".\r\nO SR. PRESIDENTE (Marcelo Ramos. PL - AM) - O Deputado C\u00e9lio Silveira vota \"n\u00e3o\".\r\nVamos fazer o registro, Deputado.\r\nO SR. C\u00c9LIO SILVEIRA (PSDB - GO) - Muito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F2%2F2021&txPagina=63&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-29T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, PL 1295/2021, PROJETO DE LEI ORDIN\u00c1RIA, CRIT\u00c9RIO, DISPENSA DE LICITA\u00c7\u00c3O, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, CONTRATO ADMINISTRATIVO, AQUISI\u00c7\u00c3O, INSUMO, MEDICAMENTO, BENS, SERVI\u00c7OS, TRATAMENTO DE SA\u00daDE, INTERNA\u00c7\u00c3O HOSPITALAR, PACIENTE, CONTAMINA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, SUBSTITUTIVO, RODRIGO DE CASTRO, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA).\r\nSOLIDARIEDADE, FAM\u00cdLIA, FALECIMENTO, PACIENTE CONTAMINADO, MORTALIDADE, V\u00cdTIMA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "C\u00e9lio Silveira",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 1.295, de 2021, sobre autoriza\u00e7\u00e3o \u00e0 administra\u00e7\u00e3o p\u00fablica direta e indireta de todos os entes da Federa\u00e7\u00e3o, na const\u00e2ncia da Emerg\u00eancia em Sa\u00fade P\u00fablica de Import\u00e2ncia Nacional declarada em decorr\u00eancia da infec\u00e7\u00e3o humana pelo novo coronav\u00edrus (SARS-CoV-2), a celebra\u00e7\u00e3o de contratos ou outros instrumentos cong\u00eaneres, com dispensa de licita\u00e7\u00e3o, para a aquisi\u00e7\u00e3o de insumos e medicamentos de efic\u00e1cia comprovada, al\u00e9m de bens e servi\u00e7os utilizados no tratamento de sa\u00fade em regime hospitalar de pacientes infectados pelo novo coronav\u00edrus.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. C\u00c9LIO SILVEIRA (Bloco/PSDB - GO. Para proferir parecer. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\n\"II.1 - Conclus\u00e3o do voto\r\nAnte o exposto, no \u00e2mbito da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, somos pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.295, de 2021, e do projeto de lei apensado, na forma do substitutivo anexo.\r\nNa Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o, somos pela n\u00e3o repercuss\u00e3o sobre a receita ou a despesa da Uni\u00e3o, n\u00e3o havendo implica\u00e7\u00e3o or\u00e7ament\u00e1ria ou financeira do Projeto de Lei n\u00ba 1.295, de 2021, e do projeto de lei apensado, na forma do substitutivo da Comiss\u00e3o de Seguridade Social e Fam\u00edlia e, no m\u00e9rito, pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.295, de 2021 e do projeto de lei apensado, na forma do substitutivo da CSSF. \r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 1.295, de 2021, e do projeto de lei apensado, na forma do substitutivo da Comiss\u00e3o de Seguridade Social e Fam\u00edlia.\r\nAnte o exposto, votamos pela aprova\u00e7\u00e3o do projeto principal e da proposi\u00e7\u00e3o a ele apensada, nos termos do substitutivo anexo.\"\r\nSr. Presidente, ainda em tempo, parabenizo o L\u00edder Rodrigo de Castro por essa boa iniciativa, j\u00e1 que \u00e9 uma pretens\u00e3o de todos os entes federados que t\u00eam muita dificuldade para comprar medica\u00e7\u00e3o e outras coisas que precisam para combater a pandemia. \r\nAinda em tempo, quero me solidarizar com as 400 mil fam\u00edlias do Brasil que perderam seus entes queridos para este terr\u00edvel v\u00edrus.\r\nE aqui desejo a todos que tenham muita compreens\u00e3o para entender este momento grave que o Brasil vive.\r\n\u00c9 essa a conclus\u00e3o do voto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2021&txPagina=122&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

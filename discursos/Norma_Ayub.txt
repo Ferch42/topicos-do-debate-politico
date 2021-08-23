@@ -1,0 +1,92 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-06T11:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ANDRESSA MUSSI SOARES, MEDICO, ELOGIO.\r\nTHEODORICO FERRA\u00c7O, EX-PREFEITO, CACHOEIRO DE ITAPEMIRIM (ES), ELOGIO.\r\nDIA NACIONAL DE CONSCIENTIZA\u00c7\u00c3O DA CARDIOPATIA CONG\u00caNITA.",
+        "nomeDeputado": "Norma Ayub",
+        "sumario": "Import\u00e2ncia dos trabalhos desenvolvidos pela cardiologista e pediatra Andressa Mussi Soares. Elogio ao ex-Prefeito Theodorico Ferra\u00e7o, do Munic\u00edpio de Cachoeiro de Itapemirim, Estado do Esp\u00edrito Santo, pela constru\u00e7\u00e3o do Instituto do Cora\u00e7\u00e3o. Transcurso do Dia Nacional de Conscientiza\u00e7\u00e3o da Cardiopatia Cong\u00eanita. Realiza\u00e7\u00e3o da 1\u00aa Olimp\u00edada do Dia Nacional de Conscientiza\u00e7\u00e3o da Cardiopatia Cong\u00eanita, no Munic\u00edpio capixaba de Cachoeiro do Itapemirim.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. NORMA AYUB (DEM - ES. Sem revis\u00e3o da oradora.) - Sra. Presidente, Sras. e Srs. Deputados, volto a esta tribuna para lembrar uma data muito importante para a Sociedade Brasileira de Cardiologia, a qual, atrav\u00e9s do seu Departamento de Cardiopatias Cong\u00eanitas e Cardiologia Pedi\u00e1trica, cuida de rec\u00e9m-nascidos e crian\u00e7as com problemas card\u00edacos cong\u00eanitos. \r\nEssa \u00e1rea cresceu muito nas \u00faltimas d\u00e9cadas, com avan\u00e7os impressionantes na cardiologia fetal, imagem cardiovascular, arritmia, cirurgia card\u00edaca, hemodin\u00e2mica e terapia intensiva. \r\nTem sido de fundamental import\u00e2ncia o trabalho da Dra. Andressa Mussi Soares, a qual parabenizo pela nobre miss\u00e3o de manter o cora\u00e7\u00e3o de nossas crian\u00e7as cada vez mais saud\u00e1vel, assim como parabenizo o ex-Prefeito e atual Deputado Estadual Theodorico Ferra\u00e7o, pela constru\u00e7\u00e3o do Instituto do Cora\u00e7\u00e3o de Cachoeiro de Itapemirim. \r\nO dia 12 de junho \u00e9 dedicado \u00e0 Conscientiza\u00e7\u00e3o da Cardiopatia Cong\u00eanita e tem o objetivo de alertar a sociedade quanto \u00e0 import\u00e2ncia do diagn\u00f3stico precoce e dos desafios para o acesso integral \u00e0 sa\u00fade dos portadores de cardiopatias, como tamb\u00e9m homenagear os pais, familiares, profissionais e demais pessoas que lutam pela vida e enfrentam as dificuldades dessas doen\u00e7as. \r\nEm Cachoeiro de Itapemirim ser\u00e1 realizada no dia 8 de junho, das 8 \u00e0s 11 horas, no antigo Polivalente do Aquidab\u00e3, a 1\u00aa Olimp\u00edada do Dia Nacional de Conscientiza\u00e7\u00e3o da Cardiopatia Cong\u00eanita. Convido a todos para participarem das comemora\u00e7\u00f5es e pe\u00e7o a Deus que continue iluminando os cora\u00e7\u00f5es dos profissionais que atuam nessa \u00e1rea.\r\nSra. Presidente, pe\u00e7o a V.Exa. a divulga\u00e7\u00e3o deste pronunciamento no programa A Voz do Brasil e pelos demais meios de comunica\u00e7\u00e3o desta Casa. \r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F6%2F2019&txPagina=31&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARATA\u00cdZES (ES), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM.",
+        "nomeDeputado": "Norma Ayub",
+        "sumario": "Transcurso do 22\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de Marata\u00edzes, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. NORMA AYUB (DEM - ES. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, Sras. e Srs. Deputados, hoje, quando comemoramos o 22\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtica de Marata\u00edzes, no meu Estado do Esp\u00edrito Santo, quero destacar e valorizar os produtores de abacaxi da nossa P\u00e9rola Capixaba.\r\nQuem neste plen\u00e1rio ainda n\u00e3o ouviu uma express\u00e3o que o Brasil inteiro conhece e com a qual se diverte: \"\u00c9 o abacaxi de Marata\u00edzes, doce, doce, que parece um mel!\"?\r\n\u00c9 com orgulho que posso falar que, onde cresci, eu frequentei uma das mais belas praias do nosso litoral capixaba, com as nossas fal\u00e9sias, com o entardecer do Pontal da Barra e com o pero\u00e1 frito mais gostoso na beira da praia. Em nossa mem\u00f3ria, vem a lembran\u00e7a do Pal\u00e1cio das \u00c1guias, que conserva a cultura do nosso povo. E por que n\u00e3o falar da beleza natural das nossas lagoas?\r\nFoi por tudo isso que a nossa P\u00e9rola Capixaba se desenvolveu e se transformou em um Munic\u00edpio, isso sem perder o que tem de melhor: o carinho desse povo t\u00e3o acolhedor.\r\nO nosso abacaxi leva o nome de Marata\u00edzes para todo o Brasil, e as nossas belezas naturais atraem para a nossa terra turistas de diversos Estados. Muitas das vezes, acabam escolhendo a nossa cidade para viver.\r\nFinalizando, quero saudar toda a popula\u00e7\u00e3o de Marata\u00edzes pelo anivers\u00e1rio da cidade.\r\nParab\u00e9ns, Marata\u00edzes!\r\nPe\u00e7o a divulga\u00e7\u00e3o do meu pronunciamento no programa A Voz do Brasil.\r\nMuito obrigada, Sra. Presidenta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "DESASTRE AMBIENTAL, TEMPESTADE, ALAGAMENTO, CHUVA, ESP\u00cdRITO SANTO (ESTADO), RECURSOS, LIBERA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, NECESSIDADE.",
+        "nomeDeputado": "Norma Ayub",
+        "sumario": "Urgente necessidade de libera\u00e7\u00e3o, pelo Presidente da Rep\u00fablica, de recursos ao Estado do Esp\u00edrito Santo e seus Munic\u00edpios para revers\u00e3o de danos causados por temporais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. NORMA AYUB (DEM - ES. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, ap\u00f3s vivenciarmos tanto sofrimento, mortes e perdas materiais causadas pelas fortes chuvas e enchentes que afetaram todo o nosso Estado e muitos outros em todo o Brasil, estamos iniciando mais um ano legislativo.\r\nTrata-se da maior calamidade clim\u00e1tica em nosso Estado, onde testemunhamos, com ang\u00fastia, o sofrimento da nossa popula\u00e7\u00e3o.\r\nProtocolei, em apoio aos desabrigados, aos pequenos e grandes empres\u00e1rios, mas principalmente, em respeito \u00e0s fam\u00edlias que perderam seus entes queridos, solicita\u00e7\u00e3o ao Sr. Presidente da Rep\u00fablica pedindo atendimento aos encaminhamentos oficiados pelo Estado e pelos Munic\u00edpios, em car\u00e1ter de prioridade m\u00e1xima na libera\u00e7\u00e3o dos recursos para a reconstru\u00e7\u00e3o do nosso Estado.\r\nCom a extens\u00e3o da calamidade, em virtude das cheias do Rio Itapemirim e do Rio Doce, encaminhei novo apelo ao Presidente Bolsonaro para que visitasse pessoalmente as cidades mais atingidas pelas chuvas em nosso Estado.\r\nConcluo, agradecendo ao Presidente Bolsonaro suas determina\u00e7\u00f5es para a libera\u00e7\u00e3o dos recursos para os Estados afetados pelas chuvas; ao Ministro Gustavo Canuto pelo apoio incondicional e presencial do Minist\u00e9rio de Desenvolvimento Regional; aos integrantes dos \u00f3rg\u00e3os de Defesa Civil da Uni\u00e3o, do Estado e dos Munic\u00edpios afetados; ao Governador do Estado que, em momento algum, deixou de se fazer presente, procurando atender \u00e0s demandas apresentadas; e \u00e0 bancada capixaba, que sempre esteve unida na busca de solu\u00e7\u00f5es para nosso Esp\u00edrito Santo.\r\nA solidariedade do nosso povo foi emocionante. \u00c9 importante que fa\u00e7amos uma corrente de f\u00e9 para, juntos, nessa fase p\u00f3s-trag\u00e9dia, recuperarmos nosso Estado. \r\nUm beijo no cora\u00e7\u00e3o de cada um de voc\u00eas, capixabas e brasileiros.\r\nSr. Presidente, eu pe\u00e7o a divulga\u00e7\u00e3o deste pronunciamento no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=87&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "EMENDA, NORMA AYUB, DEPUTADO FEDERAL, FALTA, UTILIZA\u00c7\u00c3O, PREFEITO,  MARATA\u00cdZES (ES).",
+        "nomeDeputado": "Norma Ayub",
+        "sumario": "Indigna\u00e7\u00e3o da oradora com a n\u00e3o utiliza\u00e7\u00e3o pelo Prefeito Municipal de Marata\u00edzes, Estado do Esp\u00edrito Santo, de recursos de emendas or\u00e7ament\u00e1rias da oradora destinadas \u00e0s obras de pavimenta\u00e7\u00e3o e drenagem e \u00e0s guardas municipais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. NORMA AYUB (DEM - ES. Sem revis\u00e3o da oradora.) - Sra. Presidente, Sras. e Srs. Deputados, \u00e9 com muita tristeza que subo a esta tribuna para falar sobre a falta de interesse de um gestor municipal em receber as emendas impositivas que destinamos aos Munic\u00edpios. Indiquei para o Munic\u00edpio de Marata\u00edzes, no meu primeiro mandato, em 2017, meio milh\u00e3o de reais para obras de pavimenta\u00e7\u00e3o e drenagem. Esse recurso estava empenhado desde 13 de junho de 2018, aguardando a apresenta\u00e7\u00e3o de documentos pendentes na cl\u00e1usula suspensiva. O prazo para apresenta\u00e7\u00e3o era o dia 27 de dezembro de 2019, e a Prefeitura n\u00e3o os apresentou. O respons\u00e1vel poderia ter pedido prorroga\u00e7\u00e3o, mas n\u00e3o pediu. Preferiu perder meio milh\u00e3o de reais. Em 5 de fevereiro deste ano, o empenho foi cancelado porque o Munic\u00edpio n\u00e3o apresentou os documentos pendentes.\r\nExpresso minha indigna\u00e7\u00e3o, em nome da popula\u00e7\u00e3o de Marata\u00edzes, porque \u00e9 a popula\u00e7\u00e3o que se v\u00ea obrigada a transitar em ruas esburacadas e sem nenhuma drenagem para escoamento das \u00e1guas das chuvas!\r\nPerdemos ainda mais 400 mil reais da nossa emenda de bancada impositiva para a Guarda Municipal de Marata\u00edzes, totalizando 900 mil reais. N\u00e3o acredito, Sra. Presidente, que falhas t\u00e3o graves como essas ocorram por defici\u00eancia da estrutura da administra\u00e7\u00e3o!\r\nSei do empenho e da qualidade do servidor municipal. \u00c9 claro para todos n\u00f3s, e \u00e9 preciso que fique claro para a popula\u00e7\u00e3o de Marata\u00edzes, o desprezo do Prefeito Municipal em rela\u00e7\u00e3o a essas emendas, simplesmente por quest\u00f5es pol\u00edticas, para n\u00e3o dar cr\u00e9dito ao meu trabalho parlamentar.\r\nPe\u00e7o que se divulgue este discurso no programa A Voz do Brasil.\r\nMuito obrigada, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MAUS-TRATOS, C\u00c1RCERE PRIVADO, TRABALHO ESCRAVO, IDOSO, ITAPEMIRIM (ES), COMISS\u00c3O DE DIREITOS HUMANOS E MINORIAS (CDHM), AUDI\u00caNCIA P\u00daBLICA.",
+        "nomeDeputado": "Norma Ayub",
+        "sumario": "Den\u00fancia da ocorr\u00eancia de maus-tratos, c\u00e1rcere privado, trabalho escravo e mortes de idosos no Centro de Acolhimento M\u00e3os Estendidas, no Distrito de Itaipava, Munic\u00edpio de Itapemirim, Estado do Esp\u00edrito Santo. Pedido \u00e0 Comiss\u00e3o dos Direitos da Pessoa Idosa de realiza\u00e7\u00e3o de audi\u00eancia p\u00fablica para debate do caso.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. NORMA AYUB (DEM - ES. Sem revis\u00e3o da oradora.) - Boa tarde, meu querido Presidente Gilberto. Estou morrendo de saudade de V.Exa.\r\nSr. Presidente, expresso minha indigna\u00e7\u00e3o com o ocorrido em Itaipava, uma comunidade do Munic\u00edpio de Itapemirim, onde resido. Veja bem, ap\u00f3s den\u00fancia sobre a morte de quatro idosos no Centro de Acolhimento M\u00e3os Estendidas, um asilo particular, ele foi interditado pela Pol\u00edcia Civil, pois era uma institui\u00e7\u00e3o clandestina. L\u00e1 estavam 19 idosos, que viviam em condi\u00e7\u00f5es sub-humanas. Medicamentos e alimentos estavam com a data de validade vencida.\r\nAs den\u00fancias ao Minist\u00e9rio P\u00fablico indicam uma mission\u00e1ria, que j\u00e1 est\u00e1 presa, como a respons\u00e1vel pelo lugar. De acordo com o delegado que est\u00e1 \u00e0 frente das investiga\u00e7\u00f5es, h\u00e1 registro de seis mortes, sendo quatro em apenas 1 semana.\r\nEntre os crimes apurados, est\u00e3o reten\u00e7\u00e3o de documentos, maus-tratos, c\u00e1rcere privado e trabalho escravo. O delegado relatou que n\u00e3o havia faxineira, cuidadora, enfermeira, assistente social, nada! Os pr\u00f3prios internos cuidavam de tudo.\r\nEu fiquei estarrecida, Sr. Presidente. J\u00e1 enviei um requerimento \u00e0 Comiss\u00e3o dos Direitos da Pessoa Idosa para que fa\u00e7amos uma audi\u00eancia p\u00fablica, com a presen\u00e7a do delegado e demais envolvidos, para ajudar na investiga\u00e7\u00e3o do caso.\r\nTenho certeza de que aqui muitos comungam da preserva\u00e7\u00e3o dos direitos fundamentais da pessoa humana, em especial se ela for idosa.\r\nDeixo aqui o meu pedido antecipado para a aprova\u00e7\u00e3o do meu requerimento aos Deputados que comp\u00f5em a Comiss\u00e3o dos Direitos da Pessoa Idosa.\r\nTamb\u00e9m rogo aos novos Parlamentares desta Casa que nunca deixemos de buscar a Justi\u00e7a para garantir que os direitos constitucionais dos idosos sejam preservados.\r\nMuito obrigada, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

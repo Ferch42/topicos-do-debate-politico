@@ -1,0 +1,1208 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "BANCADA PARLAMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), ORIENTA\u00c7\u00c3O DE BANCADA, L\u00cdDER DO PARTIDO.\r\nPL 10431/2018, PROJETO DE LEI ORDIN\u00c1RIA, CUMPRIMENTO, SAN\u00c7\u00c3O, CONSELHO DE SEGURAN\u00c7A DAS NA\u00c7\u00d5ES UNIDAS (CSNU), FINANCIAMENTO, TERRORISMO, INDISPONIBILIDADE DE BENS, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Comunica\u00e7\u00e3o \u00e0 bancada do PSDB sobre o hor\u00e1rio das reuni\u00f5es do Col\u00e9gio de L\u00edderes. Apoio ao Projeto de Lei n\u00ba 10.431, de 2018, sobre o cumprimento de san\u00e7\u00f5es impostas por resolu\u00e7\u00f5es do Conselho de Seguran\u00e7a das Na\u00e7\u00f5es Unidas, inclu\u00edda a indisponibilidade de ativos de pessoas naturais e jur\u00eddicas e de entidades, e a designa\u00e7\u00e3o nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados; e revoga\u00e7\u00e3o da Lei n\u00ba 13.170, de 2015. Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de concess\u00e3o da palavra aos L\u00edderes partid\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (Bloco/PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer duas pondera\u00e7\u00f5es importantes.\r\nA primeira delas \u00e9 que a reuni\u00e3o do Col\u00e9gio de L\u00edderes hoje ocorreu \u00e0s 15 horas, e, portanto, n\u00f3s, que t\u00ednhamos que fazer uma reuni\u00e3o de bancada para orient\u00e1-la n\u00e3o tivemos sequer tempo de faz\u00ea-la. E projetos est\u00e3o sendo votados agora sem que a bancada tenha discutido o tema. Sei que V.Exa. tem essa preocupa\u00e7\u00e3o.\r\nAproveito para dizer a todos da nossa bancada que, a partir da semana que vem, as reuni\u00f5es ser\u00e3o \u00e0s 11 horas, ou seja, n\u00f3s teremos o tempo necess\u00e1rio para orientar e debater os temas com a bancada, o que n\u00e3o aconteceu hoje.\r\nA segunda pondera\u00e7\u00e3o \u00e9 para dizer da import\u00e2ncia deste projeto, que facilita muito a quest\u00e3o do terrorismo com rela\u00e7\u00e3o aos bens que ser\u00e3o apreendidos.\r\nPresidente, pe\u00e7o a V.Exa. e aos demais L\u00edderes que deem a devida aten\u00e7\u00e3o a este tema. E pe\u00e7o particularmente a V.Exa. que, enquanto o bloco permanecer, libere a manifesta\u00e7\u00e3o dos L\u00edderes.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Assim como V.Exa. faz agora.\r\nO SR. CARLOS SAMPAIO (Bloco/PSDB - SP) - Perfeito. Digo isso porque sen\u00e3o passa-se uma impress\u00e3o de que n\u00f3s teremos a orienta\u00e7\u00e3o do bloco, e a orienta\u00e7\u00e3o sempre ser\u00e1 do L\u00edder.\r\nAgrade\u00e7o a V.Exa. \r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Deputado, como n\u00f3s t\u00ednhamos dificuldade de hor\u00e1rio nesta tarde, s\u00f3 est\u00e3o sendo votados hoje projetos que vinham sendo debatidos no ano passado. Este projeto j\u00e1 tinha urg\u00eancia do ano passado, e as medidas provis\u00f3rias foram aprovadas nas Comiss\u00f5es Especiais no ano passado. Ent\u00e3o, n\u00e3o h\u00e1 novidade em nenhum texto que ser\u00e1 votado no dia de hoje.\r\nO SR. CARLOS SAMPAIO (Bloco/PSDB - SP) - Perfeito. S\u00f3 fiz esse esclarecimento para que a pr\u00f3pria bancada tenha ci\u00eancia de que esse n\u00e3o \u00e9 o nosso dia a dia. N\u00f3s sempre debatemos os temas antes de vot\u00e1-los em plen\u00e1rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=99&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQ 1464/2019, REQUERIMENTO DE CONVOCA\u00c7\u00c3O, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de convoca\u00e7\u00e3o do Ministro da Educa\u00e7\u00e3o, Abraham Weintraub, para esclarecimento \u00e0 Casa do corte de recursos or\u00e7ament\u00e1rios destinados ao ensino p\u00fablico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a educa\u00e7\u00e3o \u00e9 um assunto importante para o desenvolvimento do Pa\u00eds. Quando o Ministro se predisp\u00f5e a contingenciar recursos da educa\u00e7\u00e3o, \u00e9 evidente que ele deve explica\u00e7\u00f5es \u00e0 Na\u00e7\u00e3o. \r\nMuito melhor do que ele ir, de forma segmentada, numa ou noutra Comiss\u00e3o, o ideal \u00e9 que ele venha ao Plen\u00e1rio desta C\u00e2mara e esclare\u00e7a todas as suas a\u00e7\u00f5es governamentais como Ministro da Educa\u00e7\u00e3o.\r\nPortanto, o PSDB encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  PLV 9/2019, PROJETO DE LEI DE CONVERS\u00c3O , MPV 867/2018, MEDIDA PROVISORIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO FLORESTAL (2012), CADASTRO AMBIENTAL RURAL (CAR), IM\u00d3VEL RURAL, PRAZO, ADES\u00c3O, PROGRAMA DE REGULARIZA\u00c7\u00c3O AMBIENTAL (PRA).\r\nOFENSA, GEOVANIA DE S\u00c1, DEPUTADO FEDERAL, REPUDIO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Posicionamento do orador contr\u00e1rio ao requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba do art. 68 da Lei n\u00ba 12.651, de 2012, contido no art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2019, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental, com vistas \u00e0 sua supress\u00e3o. Solidariedade \u00e0 Deputada Geovania de S\u00e1 diante de ataques proferidos por Parlamentar da Casa.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu estou fazendo o encaminhamento aqui n\u00e3o na condi\u00e7\u00e3o de L\u00edder, mas na condi\u00e7\u00e3o de Deputado, uma vez que a bancada foi liberada.\r\nVou fazer um registro importante, Sr. Presidente. Essa medida provis\u00f3ria veio para c\u00e1 com a finalidade de ampliar o prazo de regulariza\u00e7\u00e3o ambiental. Muitos artigos, incisos e al\u00edneas foram acrescidos. Ouvi atentamente os argumentos daqueles que diziam que n\u00e3o havia ali jabutis, mat\u00e9rias estranhas; outros diziam da total pertin\u00eancia do tema com o C\u00f3digo Florestal. Concordo com ambos os argumentos. E ainda havia aqueles que diziam que a mat\u00e9ria precisaria ser complementada, o C\u00f3digo Florestal precisaria ser complementado, por isso os acr\u00e9scimos por medida provis\u00f3ria. Tamb\u00e9m compreendo que essa complementa\u00e7\u00e3o deva existir.\r\nAcontece, Sr. Presidente, que a forma n\u00e3o \u00e9 atrav\u00e9s de uma medida provis\u00f3ria. O que aconteceu com o C\u00f3digo Florestal foi um debate, por 7 anos, do m\u00e9rito do C\u00f3digo que se queria para o Pa\u00eds. Uma medida provis\u00f3ria n\u00e3o pode alterar seus artigos sem que efetivamente n\u00f3s tenhamos debatido nesta Casa com a necess\u00e1ria profundidade que o tema est\u00e1 a exigir.\r\nPortanto, meu voto pessoal \u00e9 contr\u00e1rio a esse destaque, que ele n\u00e3o seja aprovado e que, portanto, n\u00f3s n\u00e3o tenhamos essa defini\u00e7\u00e3o do art. 68.\r\nMas, agora, fa\u00e7o uso da palavra por uma outra raz\u00e3o, Sr. Presidente. Na tarde de hoje, enquanto presidia esta sess\u00e3o, a Deputada Geovania de S\u00e1 foi, de forma vexat\u00f3ria, eu diria, indelicada e indecorosa, instada por um Deputado que chegou a acus\u00e1-la de fraca. E ele fez isso aos gritos, Sr. Presidente.\r\nA Deputada Geovania foi escolhida para integrar a Mesa em raz\u00e3o da sua postura equilibrada, do bom senso, em raz\u00e3o do preparo intelectual, em raz\u00e3o da forma cort\u00eas como trata os pares. N\u00e3o tem o menor sentido o que fez esse Deputado. Eu queria dizer a esse Deputado que n\u00e3o \u00e9 no grito que se vence um argumento. Ao contr\u00e1rio, quando se grita, se perde e se demonstra a fragilidade da voz para o argumento.\r\nO bom debate se d\u00e1, Sr. Presidente, quando h\u00e1 uma estatura moral e n\u00e3o uma estatura f\u00edsica a sobrepor um homem a uma mulher. Este Parlamentar vem aqui para dizer que, em hip\u00f3tese alguma, vai aceitar ataque \u00e0s mulheres deste Parlamento, seja do partido que for! Vamos repudiar com veem\u00eancia, como repudiamos o que foi feito hoje com a Deputada Geovania.\r\nFica aqui a nossa solidariedade absoluta \u00e0 Deputada Geovania, que, com muita eleg\u00e2ncia, representa o PSDB na Mesa desta Casa.\r\nMuito obrigado, Sr. Presidente.\r\nO SR. PEDRO LUPION (DEM - PR) - Sr. Presidente, pela ordem.\r\nO SR. IVAN VALENTE (PSOL - SP) - Presidente...\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - A Deputada Geovania de S\u00e1 n\u00e3o representa apenas o PSDB; representa todos n\u00f3s da Mesa Diretora. Preside sempre com muita compet\u00eancia e respeito a cada um dos Deputados e Deputadas desta Casa. Eu tenho muita tranquilidade de me ausentar durante as sess\u00f5es, Deputado Carlos Sampaio, porque sei que posso ser substitu\u00eddo com muita compet\u00eancia pela Deputada Geovania, al\u00e9m dos outros Deputados.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Muito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=228&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, INCISO V, INCISO (TEXTO LEGISLATIVO), ART 8\u00ba, ARTIGO (TEXTO LEGISLATIVO), PLV 11/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 871/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB),  VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso V do art. 8\u00ba, constante do projeto de lei de convers\u00e3o apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB foi o primeiro partido, no dia 26 de fevereiro deste ano, a solicitar a retirada do BPC da reforma da Previd\u00eancia. Defendemos com veem\u00eancia o BPC. No entanto, a fraude n\u00f3s n\u00e3o defendemos em nenhum dos segmentos, seja no BPC, seja na aposentadoria rural. Se fraude existe, o segmento tem arcar com as consequ\u00eancias.\r\nN\u00f3s votamos, portanto, \"sim\". Esse destaque sugerido pelo PT referenda a fraude. N\u00f3s somos contra a fraude.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=531&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T21:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 11/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 871/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 22 do Projeto de Lei de Convers\u00e3o n\u00ba 11, de 2019, oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o esclarecimento feito agora pelo Deputado Arthur Lira \u00e9 importante, mas n\u00f3s estamos diante de uma exce\u00e7\u00e3o, permitindo a penhorabilidade de um bem de fam\u00edlia quando ele foi adquirido por fraude, por coa\u00e7\u00e3o, por dolo. Isso pressup\u00f5e condena\u00e7\u00e3o criminal nesse sentido. Esse bem n\u00e3o foi adquirido de forma l\u00edcita - foi adquirido de forma il\u00edcita. \u00c9 evidente que n\u00e3o se pode dizer: \"Esse \u00e9 um resguardo meu\". Seu? Feito com dinheiro alheio? Feito com roubo, com crime, com coa\u00e7\u00e3o? \u00c9 evidente que n\u00f3s n\u00e3o podemos conceber isso.\r\nMas existe um equ\u00edvoco aqui que precisaria ser corrigido. Quando se diz que a pessoa tem conhecimento ou deveria ter, a\u00ed voc\u00ea entra numa \u00e1rea de subjetividade absoluta. Ou eu tenho conhecimento do dolo que algu\u00e9m praticou, ou eu n\u00e3o tenho. Agora, eu \"deveria\" saber? \u00c9 um problema.\r\nA bancada do PSDB encaminha o voto \"sim\" entendendo aqueles que votarem \"n\u00e3o\", mas essa parte do texto precisaria ter do Relator um compromisso de veto por parte da Presid\u00eancia da Rep\u00fablica, porque est\u00e1 se falando daquele que \"deveria ter ci\u00eancia\". Isso \u00e9 de uma subjetividade inaceit\u00e1vel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=552&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 11/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 871/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA ESPECIAL PARA AN\u00c1LISE DE BENEF\u00cdCIOS COM IND\u00cdCIOS DE IRREGULARIDADE (PROGRAMA ESPECIAL), IRREGULARIDADE, CONCESS\u00c3O, BENEF\u00cdCIO PREVIDENCI\u00c1RIO, PROGRAMA DE REVIS\u00c3O DE BENEF\u00cdCIOS POR INCAPACIDADE (PROGRAMA DE REVIS\u00c3O), INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), COMPROMISSO, ACORDO, RELATOR, VETO PARCIAL, EXPRESS\u00c3O TEXTUAL, PENHORA, BEM DE FAM\u00cdLIA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 22 do Projeto de Lei de Convers\u00e3o n\u00ba 11, de 2019, oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, houve uma confus\u00e3o aqui no plen\u00e1rio. Muitos est\u00e3o em d\u00favida sobre a vota\u00e7\u00e3o, sobre o encaminhamento \"sim\" ou \"n\u00e3o\". Num primeiro momento se disse que quem queria que penhorasse o bem que foi adquirido com dolo ou por crime deveria votar \"sim\", agora est\u00e3o dizendo que \u00e9 o inverso, teria que votar \"n\u00e3o\". Eu fiz uma proposta na qual o Relator teria que assumir o compromisso conosco, atrav\u00e9s do Deputado Rog\u00e9rio Marinho tamb\u00e9m, de que houvesse o veto da express\u00e3o \"ou deveria saber\". Se n\u00e3o houver esse compromisso, a bancada mant\u00e9m o \"sim\", mas no sentido da n\u00e3o possibilidade de penhorar. Ou ele assume o compromisso conosco ou vamos votar \"sim\", a favor do destaque. Se ele assumir o compromisso, desfazemos a posi\u00e7\u00e3o e mudamos para \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=555&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T22:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 254/2019,  EMENDA DE COMISS\u00c3O,  EXPRESS\u00c3O TEXTUAL, PLV 11/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 871/2019,  MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado de parte da Emenda n\u00ba 254, para a inclus\u00e3o da express\u00e3o sendo vedado o compartilhamento dos dados com demais entidades de direito privado  no final do texto do par\u00e1grafo 5\u00ba, do art. 124-B, da Lei n\u00ba 8.213, de 1991, constante do art. 25, do Projeto de Lei de Convers\u00e3o n\u00ba 11, da Medida Provis\u00f3ria n\u00ba 871, de 2019, sobre o combate a irregularidades em benef\u00edcios previdenci\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em que pese a pondera\u00e7\u00e3o feita pelo L\u00edder do PP, no sentido de que j\u00e1 se v\u00ea contemplado, o destaque \u00e9 saud\u00e1vel.\r\nSe o INSS pode ter acesso a dados sigilosos da Receita, do FGTS e de tantos outros, impedir que os dados que venham da iniciativa privada sejam compartilhados com qualquer outra entidade privada \u00e9 salutar e saud\u00e1vel.\r\nO PSDB vota \"sim\" \u00e0 emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=640&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. L\u00edderes, Deputadas e Deputados, confesso que hoje subo a esta tribuna n\u00e3o com um sentimento de comemora\u00e7\u00e3o ou mesmo de alegria. Ao contr\u00e1rio, tomado pela sensa\u00e7\u00e3o de um dever cumprido. N\u00e3o venho a esta tribuna para fazer discursos para dizer da alegria do nosso posicionamento. Ao contr\u00e1rio, venho trazer serenidade e dizer a todos que estamos fazendo aquilo que o Brasil esperava que fiz\u00e9ssemos.\r\nQuando assumi a Lideran\u00e7a do PSDB, deixei claro que n\u00e3o integr\u00e1vamos a base do Governo, deixei claro que n\u00e3o quer\u00edamos participar do Governo, mas que de todas as medidas que viessem deste Governo em defesa do Pa\u00eds, o PSDB estaria ao lado deste pleito e desta reivindica\u00e7\u00e3o apresentada pelo Governo Federal.\r\nN\u00e3o acho que \u00e9 o dia - confesso a todos - de trazermos aqui este sentimento de que estamos a vencer; n\u00e3o, o Brasil \u00e9 quem est\u00e1 vencendo. Quando indicamos o Relator do PSDB para formatar a reforma da Previd\u00eancia, n\u00f3s o fizemos convencidos de que ele faria, sim, o ajuste fiscal necess\u00e1rio, mas com a justi\u00e7a social que deveria ocorrer nesta reforma da Previd\u00eancia.\r\nQuando me falam que n\u00f3s estamos a cortar direitos dos trabalhadores, perdoem-me: eu quero evitar que sejam cortados os mais importantes destes mesmos direitos, que \u00e9 o direito do trabalhador de envelhecer com dignidade. E \u00e9 isto que o PSDB faz nesta tarde: defender a dignidade dos futuros aposentados.\r\nO Brasil, se est\u00e1 na situa\u00e7\u00e3o em que est\u00e1 - e muitos dizem: \"\u00e9 pelas fraudes, \u00e9 pelos desmandos, \u00e9 por tudo que aconteceu de desvios na Previd\u00eancia\" -, sim, pode ser. E os respons\u00e1veis devem ser punidos. Perseguirei essa puni\u00e7\u00e3o com todas as minhas for\u00e7as, mas \u00e9 mentira dizer \u00e0 popula\u00e7\u00e3o brasileira que, no momento em que punirmos esses criminosos, salvamos a Previd\u00eancia. N\u00e3o, a Previd\u00eancia precisa de um ajuste fiscal s\u00e9rio, sob pena de aviltar o direito de todos os brasileiros que buscam futuras aposentadorias.\r\nTenham certeza absoluta de que estamos aqui hoje, a bancada do PSDB, a quem fa\u00e7o um agradecimento especial por, em todos os momentos, estar ao nosso lado; e estamos aqui hoje ao lado do Presidente Rodrigo Maia, a quem fa\u00e7o um agradecimento especial e reitero: Sr. Presidente, V.Exa. vai entrar para a hist\u00f3ria deste Pa\u00eds por ter impedido que esta reforma deixasse de acontecer, por ter impedido que o caos reinasse neste Pa\u00eds. V.Exa. teve a coragem de conduzir um conjunto de L\u00edderes que, antes de pensar em si mesmos, pensaram no futuro da nossa Na\u00e7\u00e3o.\r\nVenho aqui com a tranquilidade de olhar para os olhos dos meus filhos, para todos aqueles que aqui est\u00e3o, para familiares e amigos e para popula\u00e7\u00e3o brasileira, para dizer: o PSDB se comprometeu em defender a popula\u00e7\u00e3o brasileira e, ao defender a reforma da Previd\u00eancia, est\u00e1 cumprindo o seu compromisso com o Pa\u00eds. Vamos defender o nosso Pa\u00eds a qualquer custo! Eu prefiro ser mal interpretado hoje a permitir que futuros direitos dos brasileiros sejam aviltados.\r\nE todos aqueles que, com serenidade, com equil\u00edbrio - n\u00e3o com um sentimento de alegria, repito, porque ningu\u00e9m est\u00e1 feliz a cortar direitos de quem quer que seja -, esta \u00e9 a sensa\u00e7\u00e3o que n\u00f3s temos: fazemos aquilo que \u00e9 melhor para o Pa\u00eds, aquilo que o Brasil espera deste Parlamento. E pela primeira vez digo com muito orgulho que sou Deputado Federal mudando a hist\u00f3ria deste Pa\u00eds com a reforma da Previd\u00eancia, ao lado de vinte outros Deputados do PSDB que est\u00e3o tendo a coragem de dizer \"sim\" \u00e0 reforma, \"sim\" ao futuro deste Pa\u00eds, \"sim\" \u00e0 dignidade dos aposentados, \"sim\" aos trabalhadores, que sabem que, se n\u00e3o fosse a reforma da Previd\u00eancia, a partir de 2027 sequer aposentadorias seriam pagas neste Pa\u00eds.\r\nN\u00e3o vim aqui para defender interesses desta ou daquela corpora\u00e7\u00e3o - essas corpora\u00e7\u00f5es n\u00e3o ir\u00e3o sucumbir, elas sabem se defender -, ao contr\u00e1rio, eu venho aqui para defender a popula\u00e7\u00e3o brasileira. E defender a popula\u00e7\u00e3o brasileira \u00e9 dizer \"sim\" \u00e0 reforma da Previd\u00eancia.\r\nMuito obrigado, Sr. Presidente. Muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PSDB tem a clareza de que esta emenda n\u00e3o gera todas essas distor\u00e7\u00f5es que v\u00eam sendo colocadas pela Esquerda. A pens\u00e3o est\u00e1 garantida em um sal\u00e1rio m\u00ednimo, e sempre, exceto se ela tiver outra renda.\r\nDa\u00ed deram um exemplo, o de um casal. Cada qual recebe um sal\u00e1rio m\u00ednimo. A\u00ed um deles vem a falecer. Ela vai viver com 60%. N\u00e3o \u00e9 real. Ela vai viver com um sal\u00e1rio, que \u00e9 o dela, e mais 60%. Ent\u00e3o, \u00e9 importante esclarecer e estabelecer a verdade. A \u00fanica d\u00favida que existia aqui era se a renda dela seria considerada renda formal. Foi corrigido o texto, com a ajuda das mulheres da bancada evang\u00e9lica, e inseriu-se no texto o valor que ela recebe, formalmente.\r\n\"Sim\", Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  DISPOSITIVO LEGAL, SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PAR\u00c1GRAFO (TEXTO LEGISLATIVO), CONSTITUI\u00c7\u00c3O FEDERAL (1988), EXCLUS\u00c3O, ARTIGO (TEXTO LEGISLATIVO), SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), MAIORIA PARLAMENTAR, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o de requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 \u00fanico do art. 203 da Constitui\u00e7\u00e3o Federal, constante no art. 1\u00ba do Substitutivo adotado pela Comiss\u00e3o Especial \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6-A, de 2019, sobre a reforma previdenci\u00e1ria, com vista \u00e0 sua exclus\u00e3o.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, quero dizer que eu compreendo a preocupa\u00e7\u00e3o da Deputada Alice Portugal. \u00c9 uma preocupa\u00e7\u00e3o parecida com a do Deputado Eduardo Barbosa e da hoje Senadora Mara Gabrilli, porque, quando se constitucionalizou o BPC, quando pura e simplesmente se constitucionalizou o tema, retirou-se dos ju\u00edzes a possibilidade de formar entendimento sobre o que \u00e9 o conceito de quarto de sal\u00e1rio m\u00ednimo per capita de renda familiar.\r\nS\u00f3 que esse assunto foi devidamente corrigido com a inclus\u00e3o de um par\u00e1grafo, que est\u00e1 no pr\u00f3prio relat\u00f3rio do Deputado Samuel, no qual se diz que esse conceito de renda de um quarto do sal\u00e1rio m\u00ednimo \u00e9 um conceito que admite interpreta\u00e7\u00f5es. Se admite interpreta\u00e7\u00f5es, Sr. Presidente, os magistrados, mais do que nunca - e agora, constitucionalmente -, podem fazer a sua an\u00e1lise sobre o conceito dessa regra.\r\nSe em determinada fam\u00edlia a renda familiar d\u00e1 um quarto de sal\u00e1rio m\u00ednimo per capita, mas essa fam\u00edlia \u00e9 obrigada a comprar rem\u00e9dios, o conceito de um quarto vai ser modificado. Se a fam\u00edlia \u00e9 obrigada a comprar fraldas, esse conceito de um quarto vai ser modificado.\r\nEu expliquei isso ao Deputado Daniel, a quem fa\u00e7o um agradecimento p\u00fablico, porque compreendeu que, com a inser\u00e7\u00e3o do par\u00e1grafo da lavra do Deputado Eduardo Barbosa e da ex-Deputada Mara Gabrilli no texto constitucional, corrigiu-se o erro que se cometeria com a constitucionaliza\u00e7\u00e3o pura e simples do BPC. N\u00e3o foi isso que ocorreu.\r\nAl\u00e9m disso, Sr. Presidente, V.Exa. assumiu um compromisso comigo, com o L\u00edder da Maioria e com outros Deputados de que, em agosto, colocar\u00e1 em vota\u00e7\u00e3o exatamente o projeto do Deputado Eduardo Barbosa, um projeto important\u00edssimo, porque cria o conceito de vulnerabilidade.\r\nEnt\u00e3o, meus agradecimentos ao Deputado Daniel, meu agradecimento especial ao Deputado Eduardo Barbosa e \u00e0 Senadora Mara Gabrilli.\r\nEu sei que eu n\u00e3o tenho o cond\u00e3o de levar tranquilidade aos partidos que se afligem, ao PT, ao PCdoB, mas digo \u00e0 colega Deputada Alice Portugal que esse par\u00e1grafo, ao estar no texto, tranquiliza os ju\u00edzes, porque agora, constitucionalmente, eles podem interpretar o conceito de um quarto de renda familiar.\r\nO PSDB encaminha, portanto, \"sim\", em nome da Maioria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.\r\nEMENDA DE REDA\u00c7\u00c3O, ALTERA\u00c7\u00c3O, JUSTA CAUSA (PROCESSO PENAL), CRIME, HERMEN\u00caUTICA JUR\u00cdDICA, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, DEFINI\u00c7\u00c3O, ABUSO DE AUTORIDADE, DEFESA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, analisei o projeto de abuso de autoridade e disse que iria conversar com a bancada. Primeiro, quero deixar muito claro que o abuso de autoridade de per si, por \u00f3bvio, \u00e9 abomin\u00e1vel. O projeto de lei efetivamente, ao abordar os tr\u00eas Poderes, traz um avan\u00e7o porque, num dado momento, quis se votar um projeto de lei especificamente para promotores e ju\u00edzes.\r\nEsse n\u00e3o. Quem abusar da sua autoridade, esteja no cargo ou fun\u00e7\u00e3o p\u00fablica que estiver, responder\u00e1 pelo seu ato, responder\u00e1 por extrapolar os limites da lei.\r\nEvidentemente, esse projeto poderia ser mais debatido? Poderia, mas n\u00e3o foi. E ele est\u00e1 nesta Casa h\u00e1 muitos anos. Veio por interm\u00e9dio do Senador Randolfe Rodrigues, e lhe foram feitas modifica\u00e7\u00f5es pelo Senador Roberto Requi\u00e3o. V\u00e1rios membros do Minist\u00e9rio P\u00fablico, magistrados e outros \u00f3rg\u00e3os puderam opinar l\u00e1 no Senado.\r\nOutros aprimoramentos poderiam ser feitos aqui? Poderiam. Poderia haver um debate mais aprofundado, por exemplo, para que os novos membros da bancada o conhecessem, porque metade da bancada n\u00e3o conhece com profundidade esse tema. Reconhe\u00e7o tamb\u00e9m, mas n\u00e3o posso deixar de dizer que o Relator agiu com a coes\u00e3o e com o necess\u00e1rio equil\u00edbrio ao ouvir todos na elabora\u00e7\u00e3o do seu relat\u00f3rio. \r\nAgora, ao final, fiz duas sugest\u00f5es. Uma das coisas que preocupa muito o Minist\u00e9rio P\u00fablico, a magistratura e a fam\u00edlia forense como um todo \u00e9 que antes se previa o crime de hermen\u00eautica. O que \u00e9 isso? Ao interpretar uma lei, o juiz poderia responder criminalmente pela sua interpreta\u00e7\u00e3o. Isso foi retirado do texto, foi um avan\u00e7o. Mas permaneceu a express\u00e3o que, em tese, diz o seguinte: n\u00e3o existe o crime de hermen\u00eautica por si s\u00f3. \r\nEu sei que a express\u00e3o \"por si s\u00f3\" pode gerar uma celeuma. \u00c9 uma quest\u00e3o que gera subjetividade na an\u00e1lise e que, portanto, deveria ser exclu\u00edda. Ponderei com o Relator e ponderei com V.Exa., Presidente, que poderia haver uma emenda redacional retirando a express\u00e3o \"por si s\u00f3\". Acho que isso ajusta o texto, porque todos aqui s\u00e3o contr\u00e1rios ao crime de hermen\u00eautica.\r\nA segunda sugest\u00e3o que fiz foi uma sugest\u00e3o para tamb\u00e9m evitar o chamado tipo aberto, um tipo cuja interpreta\u00e7\u00e3o vai depender de cada um que est\u00e1 analisando o caso. Ao oferecer uma den\u00fancia, o promotor n\u00e3o pode faz\u00ea-la sem justa causa. O pr\u00f3prio Supremo Tribunal Federal j\u00e1 deliberou nesse sentido. Evidentemente, o conceito de justa causa n\u00e3o \u00e9 o mesmo para mim, para um advogado ou para um juiz. \r\nEnt\u00e3o, se fosse retirada - tamb\u00e9m numa modifica\u00e7\u00e3o redacional -, essa express\u00e3o aprimoraria o texto. Disse isso ao Relator, de quem tive boa vontade. Tamb\u00e9m tive boa vontade de V.Exa. Portanto, n\u00e3o posso vir aqui fazer a cr\u00edtica pela cr\u00edtica, por fazer parte de uma institui\u00e7\u00e3o que poderia, em tese, estar sendo afetada.\r\nOs aprimoramentos foram feitos, e eu os reconhe\u00e7o. A bancada tem posi\u00e7\u00f5es diferentes, o que respeito. Por essa raz\u00e3o - cumprimentando o Relator, por ter ouvido todos, e deixando claro que \u00e9 evidente que outros aprimoramentos poderiam haver -, eu acho que os que n\u00f3s propusemos e aqueles que foram acolhidos j\u00e1 demonstraram bastante bom senso ao nobre Relator.\r\nPortanto, em respeito \u00e0s posi\u00e7\u00f5es divergentes da bancada, o PSDB libera a bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 30 do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vai liberar a bancada, mas sinceramente torcendo muito para que esta Mesa, para que o Relator acolha a sugest\u00e3o que fizemos no sentido da supress\u00e3o do termo \"sem justa causa\", para que possa vir uma emenda redacional, sem que se altere o real teor desse artigo. Ou seja, tem que ser punido quem processa algu\u00e9m que se sabe inocente. A quest\u00e3o da justa causa quem afere \u00e9 o juiz. O conceito de justa causa n\u00e3o pode ser do Minist\u00e9rio P\u00fablico, do advogado ou da magistratura.\r\nPortanto, liberamos a bancada, mas na torcida de que V.Exa. receba a emenda redacional que fizemos com a supress\u00e3o desse trecho.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=259&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO, ENCAMINHAMENTO, PRESIDENTE, SENADO FEDERAL, EXCLUS\u00c3O, EXPRESS\u00c3O TEXTUAL, PL 5029/2019,  PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DOS PARTIDOS POL\u00cdTICOS, CONTRATA\u00c7\u00c3O, ADVOGADO, CONTADOR.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de encaminhamento de expediente ao Presidente do Senado Federal para exclus\u00e3o de express\u00f5es contidas na Lei dos Partidos Pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu chamo a aten\u00e7\u00e3o dos colegas Deputados para um tema de extrema relev\u00e2ncia. Na semana passada, n\u00f3s aprovamos importantes modifica\u00e7\u00f5es na Lei dos Partidos Pol\u00edticos, e essas modifica\u00e7\u00f5es foram feitas para, em grande parte, garantir que resolu\u00e7\u00f5es e decis\u00f5es do TSE fossem normatizadas e se tornassem leis.\r\nDentro dessas mudan\u00e7as, Sr. Presidente, ficou definido que os partidos pol\u00edticos poderiam contratar advogados e contadores, em ambos os casos, para garantir seguran\u00e7a jur\u00eddica ao processo eleitoral e o princ\u00edpio da ampla defesa. At\u00e9 a\u00ed, tudo perfeito, Sr. Presidente. Acontece que existem dois dispositivos nessa lei. Eu conversei com o Deputado Paulinho e com outros L\u00edderes, que subscreveram o requerimento que apresentei a V.Exa. H\u00e1 dois itens que permitem uma interpreta\u00e7\u00e3o duvidosa e que possibilitariam, em tese, que advogados que cuidem de quest\u00f5es criminais fossem custeados com dinheiro p\u00fablico.\r\nA Mesa nos esclareceu que n\u00e3o \u00e9 esse o objetivo, que a lei \u00e9 clara ao definir que s\u00f3 se podem contratar advogados para o processo eleitoral. Mas, Sr. Presidente, quando a d\u00favida persiste, \u00e9 melhor dar um fim a ela, dirimi-la de uma vez por todas.\r\nO requerimento que encaminhei a V.Exa. \u00e9 para que fosse oficiado ao Presidente do Senado a exclus\u00e3o de duas express\u00f5es. Para isso, temos o apoio de grande parte dos L\u00edderes, que subscreveram o requerimento, e do pr\u00f3prio autor, Paulinho da For\u00e7a, que fez as modifica\u00e7\u00f5es na Lei dos Partidos Pol\u00edticos. A primeira altera\u00e7\u00e3o: quando l\u00e1 consta que se pode contratar advogado para assuntos de interesse direto ou indireto do partido, a express\u00e3o \"indireto\" tinha que ser suprimida. A segunda \u00e9 a seguinte: ali se diz que podem contratar advogados para quaisquer a\u00e7\u00f5es que gerem inelegibilidade, mas todas as a\u00e7\u00f5es criminais dolosas podem gerar inelegibilidade; por consequ\u00eancia, estar\u00edamos a permitir que recursos p\u00fablicos bancassem advogados daquele que est\u00e1 sendo processado criminalmente. Isso \u00e9 um absurdo e n\u00e3o \u00e9 o esp\u00edrito da lei!\r\nPor essa raz\u00e3o, pe\u00e7o a V.Exa. que oficie ao Presidente do Senado pedido de exclus\u00e3o dessas duas express\u00f5es, pondo fim a qualquer d\u00favida sobre a possibilidade nefasta e inaceit\u00e1vel de que dinheiro p\u00fablico custeie a defesa criminal dentro de um processo eleitoral.\r\nEra o que tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=330&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ORG\u00c2NICA DOS PARTIDOS POL\u00cdTICOS (1995), DISCIPLINAMENTO, REMUNERA\u00c7\u00c3O, SERVIDOR P\u00daBLICO, PARTIDO POL\u00cdTICO, RECURSOS, FUNDO PARTID\u00c1RIO, DESCUMPRIMENTO, PECULATO, VOTA\u00c7\u00c3O, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), POSI\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Condi\u00e7\u00e3o imposta pelo PSDB para a vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.029, de 2019, a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s acabamos de fazer uma reuni\u00e3o com a bancada do PSDB. Eu queria dizer aos colegas Deputados e Deputadas e a V.Exa. que reconhe\u00e7o que, na semana passada, quando votamos a Lei dos Partidos Pol\u00edticos, muitos pontos que l\u00e1 estavam suscitavam d\u00favidas. Esses pontos que suscitavam d\u00favidas foram aqui votados, a meu sentir, de forma a\u00e7odada. N\u00f3s dever\u00edamos fazer um detalhamento, item por item, para que n\u00e3o houvesse mais d\u00favidas a respeito das mudan\u00e7as na Lei dos Partidos Pol\u00edticos.\r\nSe n\u00f3s queremos normatizar coisas que hoje s\u00e3o objeto de resolu\u00e7\u00e3o do TSE, que fa\u00e7amos com a calma necess\u00e1ria. Apesar de sabermos que temos o limite do dia 4 de outubro, n\u00e3o \u00e9 poss\u00edvel permitirmos que a Lei dos Partidos Pol\u00edticos seja novamente votada por esta Casa, com as supress\u00f5es que vieram do Senado, sem que haja uma an\u00e1lise minuciosamente feita para que todas as d\u00favidas sejam dirimidas.\r\nAssim sendo, Sr. Presidente, se n\u00e3o houver a possibilidade do encaminhamento - e eu compreendo - para que decidamos essa quest\u00e3o e venhamos a decidir o tema na pr\u00f3xima ter\u00e7a-feira, o PSDB vai encaminhar contrariamente \u00e0 proposta do Relator. Por qu\u00ea? A proposta n\u00e3o comporta todas as d\u00favidas que ainda existem sobre o tema. O PSDB n\u00e3o vai votar a Lei dos Partidos Pol\u00edticos, a modifica\u00e7\u00e3o da Lei dos Partidos Pol\u00edticos, sem que haja clareza em cada um dos itens. Sobre v\u00e1rios itens, pairam d\u00favidas. Se d\u00favidas existem, temos que as dirimir. N\u00e3o podemos vot\u00e1-las no Plen\u00e1rio desta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, SUBSTITUTIVO, SENADO FEDERAL, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 5.029, de 2019, (11.021-B, de 2018, na C\u00e2mara dos Deputados), a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB tem clareza de que as mudan\u00e7as sugeridas para a Lei dos Partidos Pol\u00edticos v\u00eam no sentido de aperfei\u00e7oar, no sentido de normatizar muitas das decis\u00f5es que j\u00e1 foram tomadas pelo TRE, s\u00f3 que em resolu\u00e7\u00f5es. Mas o que disse, repito: o PSDB n\u00e3o tem a tranquilidade de que n\u00e3o pairam d\u00favidas sobre determinados pontos. O ideal seria adiarmos esta vota\u00e7\u00e3o para a semana que vem e fazermos um texto com clareza, com transpar\u00eancia, sem que houvesse qualquer d\u00favida.\r\nSe n\u00e3o houver essa possibilidade do adiamento para a semana que vem, a fim de que cheguemos a um acordo sobre o texto, de modo que n\u00e3o haja qualquer d\u00favida, o PSDB vai encaminhar contrariamente.\r\nCom rela\u00e7\u00e3o \u00e0 retirada de pauta, o PSDB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 5082/2016, PROJETO DE LEI ORDINARIA,  PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.082, de 2016, sobre a cria\u00e7\u00e3o da via societ\u00e1ria e o estabelecimento de procedimentos de governan\u00e7a e de natureza tribut\u00e1ria para moderniza\u00e7\u00e3o do futebol.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a bancada do PSDB est\u00e1 reunida, e, por essa raz\u00e3o, n\u00e3o est\u00e1vamos no plen\u00e1rio. Somos favor\u00e1veis \u00e0 urg\u00eancia e ao projeto. Foi um trabalho bastante zeloso do Deputado Pedro Paulo, que ouviu a todos os clubes, a todos os l\u00edderes, conversou com todas as bancadas. Ent\u00e3o, deixo aqui meus parab\u00e9ns ao Deputado Pedro Paulo, que soube conduzir com maestria esse processo.\r\nO PSDB encaminha \"sim\" n\u00e3o s\u00f3 \u00e0 urg\u00eancia, mas tamb\u00e9m ao projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T20:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL  9356/2017, PROJETO DE LEI ORDINARIA, EXPEDI\u00c7\u00c3O, CARTEIRA DE IDENTIDADE, AGENTE DE POL\u00cdCIA LEGISLATIVA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Defesa de restri\u00e7\u00e3o aos agentes de seguran\u00e7a legislativos, no processo de aprecia\u00e7\u00e3o do Projeto de Lei n\u00ba 9.356, de 2017, da carteira de identidade com f\u00e9 p\u00fablica emitida pela C\u00e2mara dos Deputados e pelo Senado Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, veja, com toda a sinceridade, eu acho que existem temas mais relevantes para aprovarmos nesta Casa. N\u00e3o acho que o reconhecimento de f\u00e9 p\u00fablica para as carteiras de identifica\u00e7\u00e3o de Deputados e Senadores seja um assunto de interesse para o Pa\u00eds, nem que tenha qualquer tipo de relev\u00e2ncia para n\u00f3s Parlamentares.\r\nComo me foi dito agora, quando cheguei de viagem, esse n\u00e3o me parece um tema relevante a ponto de n\u00f3s aprovarmos, simbolicamente, algo que d\u00e1 f\u00e9 p\u00fablica \u00e0quilo que, na verdade, temos na condi\u00e7\u00e3o de Parlamentares e cidad\u00e3os.\r\nN\u00e3o temos por que ter uma carteira que nos distinga dos demais. \u00c9 o pensamento que tenho e levo a V.Exa., em nome do PSDB.\r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - Deputado Carlos Sampaio, a t\u00edtulo de esclarecimento, quero dizer que n\u00f3s j\u00e1 votamos a quest\u00e3o das carteiras dos Parlamentares com reconhecimento nacional. Trata-se apenas de um ajuste, porque o pessoal que faz a seguran\u00e7a dos Parlamentares precisa ter esse documento. Portanto, n\u00f3s apenas fazemos um ajuste, em complementa\u00e7\u00e3o ao que n\u00f3s j\u00e1 votamos. Como j\u00e1 foi assinado por praticamente todos os L\u00edderes, seria apenas um requerimento de urg\u00eancia para garantirmos, at\u00e9 o fim do ano, f\u00e9 p\u00fablica a esses agentes de seguran\u00e7a que fazem inclusive a seguran\u00e7a dos Parlamentares.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - N\u00e3o h\u00e1 nenhum tipo de problema com rela\u00e7\u00e3o aos agentes de seguran\u00e7a. Eu n\u00e3o acho pertinente a inclus\u00e3o de Deputados e Senadores, para que tenham f\u00e9 p\u00fablica nas suas carteiras. Isso est\u00e1 sendo corrigido agora, com um novo projeto que inclui agentes, Deputados e Senadores. Deixe-me apenas perguntar, Sra. Presidente. Deputados, Senadores e agentes, \u00e9 isso o que est\u00e1 sendo feito agora?\r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - \u00c9 basicamente dos agentes, porque Deputados e Senadores j\u00e1 t\u00eam.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Eu sei, mas est\u00e3o nesse projeto tamb\u00e9m Deputados...(Manifesta\u00e7\u00e3o no plen\u00e1rio.)\r\nPor gentileza, deixe-me ouvir a Presidente.\r\nNesse projeto tamb\u00e9m constam Deputados e Senadores?\r\nA SRA. PRESIDENTE (Soraya Santos. PL - RJ) - N\u00e3o, \u00e9 s\u00f3 dos agentes, Deputado.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Na verdade, estou sendo informado pela nossa assessoria que est\u00e3o. Desculpe-me pedir um tempo a V.Exa. para analisar o projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=120&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), SANTA CATARINA, PRESID\u00caNCIA, GEOVANIA DE S\u00c1, DEPUTADA FEDERAL, ORADORA, ELEI\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O.\r\nPL 9356/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA CARTEIRA DE IDENTIDADE, F\u00c9 P\u00daBLICA, CARTEIRA DE IDENTIDADE PARLAMENTAR , MESA DIRETORA DA C\u00c2MARA DOS DEPUTADOS, MESA DIRETORA DO SENADO FEDERAL, EXPEDI\u00c7\u00c3O, CARTEIRA DE IDENTIDADE, AGENTE DE POL\u00cdCIA LEGISLATIVA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Elei\u00e7\u00e3o da Deputada Geovania de S\u00e1 para a Presid\u00eancia do PSDB no Estado de Santa Catarina. Apoio ao Projeto de Lei n\u00ba 9.356, de 2017, acerca da atribui\u00e7\u00e3o de f\u00e9 p\u00fablica \u00e0s carteiras de identidade emitidas pela C\u00e2mara dos Deputados e pelo Senado Federal, com extens\u00e3o aos agentes de seguran\u00e7a legislativos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, em primeiro lugar quero cumprimentar publicamente a colega Deputada Geovania de S\u00e1, que foi eleita Presidente do PSDB de Santa Catarina. Trata-se de uma mulher que tem uma postura maravilhosa, n\u00e3o s\u00f3 para n\u00f3s tucanos, mas para toda esta Casa, e n\u00e3o s\u00f3 como suplente, mas como Presidente, j\u00e1 que muitas vezes presidiu as sess\u00f5es na C\u00e2mara dos Deputados. Para n\u00f3s, \u00e9 um orgulho t\u00ea-la na bancada, porque sabemos que agora o PSDB de Santa Catarina tem uma mulher guerreira, s\u00e9ria e competente conduzindo os rumos do nosso partido naquele Estado. Portanto, publicamente, fa\u00e7o minhas felicita\u00e7\u00f5es \u00e0 amiga Geovania!\r\nSra. Presidente, desculpe-me, pois houve um erro da minha parte. Realmente, s\u00e3o s\u00f3 os agentes. O PSDB est\u00e1 favor\u00e1vel a que agentes da C\u00e2mara e do Senado tenham esse reconhecimento da f\u00e9 p\u00fablica. Pe\u00e7o desculpas a V.Exa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HAROLDO RAHM, EX-PADRE, FALECIMENTO, S\u00c3O PAULO (ESTADO), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Manifesta\u00e7\u00e3o de voto de pesar pelo falecimento do Padre Haroldo Rahm, em S\u00e3o Paulo, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, quero apenas fazer um requerimento para registro nos Anais da C\u00e2mara dos Deputados de um voto de pesar pelo falecimento do Padre Haroldo. O Padre Haroldo, um santo padre, faleceu aos 100 anos de idade. Presidiu um dos mais importantes institutos que cuida de dependentes qu\u00edmicos. Por isso, fa\u00e7o este registro para que conste nos Anais desta Casa, desejando boa sorte ao Beto, que sucedeu ao Padre Beto na presid\u00eancia do Instituto Padre Haroldo. Desejo-lhe boa sorte nesse salvamento de vidas, pois foi o que o Padre Haroldo fez ao longo de toda a sua hist\u00f3ria!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=129&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CARLOS SAMPAIO, DEPUTADO FEDERAL, RECONDU\u00c7\u00c3O, L\u00cdDER DO PARTIDO, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Recondu\u00e7\u00e3o do orador ao cargo de L\u00edder do PSDB na C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer apenas uma comunica\u00e7\u00e3o da Lideran\u00e7a.\r\nEu queria comunicar a todos os colegas do Parlamento que, para minha alegria e honra, acabo de ser reconduzido por aclama\u00e7\u00e3o \u00e0 Lideran\u00e7a do PSDB, para o exerc\u00edcio de 2020. Eu queria agradecer imensamente n\u00e3o s\u00f3 aos Deputados que me concederam, repito, essa honra, mas tamb\u00e9m aos Deputados que participaram dessa disputa, tanto o Deputado Celso Sabino como o Deputado Beto Pereira. Quero dizer a todos que caminhamos para o ano de 2020 com uma bancada pacificada e com a certeza de que seus valores, como a transpar\u00eancia e a dec\u00eancia, v\u00e3o continuar a ser perseguidos por mim e por todos que integram a bancada do PSDB. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-13T11:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DAM\u00c1SIO EVANGELISTA DE JESUS, PROFESSOR, PROMOTOR DE JUSTI\u00c7A, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Falecimento do jurista Dam\u00e1sio Evangelista de Jesus.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de registrar com pesar o falecimento de um dos maiores juristas deste Pa\u00eds, de Dam\u00e1sio Evangelista de Jesus.\r\nO Prof. Dam\u00e1sio foi um dos maiores nomes do Pa\u00eds e do mundo na \u00e1rea do direito penal e do direito processual penal. Confesso, Sr. Presidente, que ingressei no Minist\u00e9rio P\u00fablico justamente inspirado pelo Prof. Dam\u00e1sio Evangelista de Jesus.\r\nAo longo de muitos anos, ele foi professor, promotor de justi\u00e7a e deixou uma marca indel\u00e9vel em todos os seus alunos.\r\nJ\u00e1 como Deputado Federal, tive o prazer de reencontr\u00e1-lo, uma vez que se tornou amigo de minha irm\u00e3, Ana Lia. Eles conviveram por um longo per\u00edodo acad\u00eamico.\r\nTenho certeza absoluta de que ele deixa uma saudade muito grande em seus familiares e alunos. Que o Prof. Dam\u00e1sio descanse em paz.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2020&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\nREUNI\u00c3O, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia e aos Deputados Professora Dorinha Seabra Rezende e Jo\u00e3o Bacelar pela reuni\u00e3o destinada ao debate da tramita\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB em instrumento de financiamento permanente da educa\u00e7\u00e3o b\u00e1sica. Empenho dos Deputados Pedro Cunha Lima, Mariana Carvalho e Rose Modesto na aprova\u00e7\u00e3o da mat\u00e9ria. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 28 do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca da institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente eu gostaria de cumprimentar o Presidente Rodrigo Maia, a Deputada Professora Dorinha e o Deputado Jo\u00e3o Bacelar pela bel\u00edssima reuni\u00e3o, de alt\u00edssimo n\u00edvel, que foi feita agora na Presid\u00eancia sobre a PEC do FUNDEB, da qual eu tive a honra de participar. Os nossos Deputados do PSDB Pedro Cunha Lima, Mariana Carvalho e Rose Modesto certamente estar\u00e3o, como de fato est\u00e3o, envolvidos na importante agiliza\u00e7\u00e3o da aprova\u00e7\u00e3o dessa PEC.\r\nQuanto \u00e0 orienta\u00e7\u00e3o, o PSDB vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=147&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ESCLARECIMENTO, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, RECUPERA\u00c7\u00c3O JUDICIAL, PAGAMENTO, DIV\u00cdDA, PLV 30/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 897/2019, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Solicita\u00e7\u00e3o aos Deputados Arnaldo Jardim e Kim Kataguiri de esclarecimento da parte relativa \u00e0 recupera\u00e7\u00e3o judicial preconizada na Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre a institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Eu tenho uma d\u00favida, e talvez o Deputado Arnaldo Jardim ou o Deputado Kim Kataguiri possa me ajudar.\r\nO que est\u00e1 acontecendo? Existe o tomador, que toma o empr\u00e9stimo do banco. Suponhamos que esse tomador tenha uma problema e venha a quebrar. Na recupera\u00e7\u00e3o judicial, existe uma ordem de pagamento: paga-se a d\u00edvida trabalhista, depois os impostos, depois os demais credores. \r\nEsse destaque \u00e9 para que o banco entre nessa ordem ou para que ele saia dessa ordem natural, que come\u00e7a com trabalhista, impostos e da\u00ed por diante?\r\nO SR. BACELAR (PODE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Podemos vota \"n\u00e3o\".\r\nO SR. PRESIDENTE (Marcos Pereira. REPUBLICANOS - SP) - Deputado Carlos Sampaio, eu pe\u00e7o ao Deputado Arnaldo Jardim ou ao Deputado Kim ou mesmo ao Deputado Pedro Lupion, que tamb\u00e9m est\u00e1 inteirado do assunto, que possa esclarecer a V.Exa.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Repetindo a d\u00favida: o tomador faz um empr\u00e9stimo no banco, vem a quebrar e entra em recupera\u00e7\u00e3o judicial. Existe uma ordem a ser cumprida: paga-se o trabalhador, pagam-se os impostos e depois os credores. A pergunta \u00e9: com essa proposta, o banco sairia dessa ordem de cronologia, que facilita a vida do trabalhador, a cobran\u00e7a de impostos e s\u00f3 depois o banco, ou seria o contr\u00e1rio?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=116&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CARLOS SAMPAIO, DEPUTADO FEDERAL, ASSUN\u00c7\u00c3O, VICE-LIDERAN\u00c7A PARTID\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Assun\u00e7\u00e3o pelo Deputado Samuel Moreira do cargo de 1\u00b0 Vice-L\u00edder do PSDB na Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, cumprimento V.Exa. por estar na presid\u00eancia dos trabalhos desta Casa.\r\nQuero comunicar aos L\u00edderes e demais Deputadas e Deputados que assumiu hoje a 1\u00aa Vice-Lideran\u00e7a do PSDB o Deputado Samuel Moreira, conhecido de todos n\u00f3s. Portanto, a partir de agora, todas as vezes em que eu n\u00e3o estiver neste plen\u00e1rio, falar\u00e1 em nome da Lideran\u00e7a do PSDB o Deputado e amigo Samuel Moreira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=143&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , VETO 52/2019, VETO PARCIAL, PLN 51/2019. PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 51, de 2019, acerca de altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, a respeito das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. CARLOS SAMPAIO (Bloco/PSDB - SP. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, apenas para esclarecer, quero dizer que o PSDB encaminha \"sim\", porque sempre entendeu que o equil\u00edbrio e o entendimento devem pautar as rela\u00e7\u00f5es entre o Congresso e a Presid\u00eancia. Mas eu falarei no tempo de L\u00edder, porque n\u00f3s estamos num bloco - ele ser\u00e1 desfeito amanh\u00e3, mas, por enquanto, h\u00e1 um bloco formado nesta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CARLOS SAMPAIO, DEPUTADO FEDERAL, EXECU\u00c7\u00c3O OR\u00c7AMENT\u00c1RIA, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, GOVERNO, PARTIDO DOS TRABALHADORES (PT). \r\nOR\u00c7AMENTO IMPOSITIVO, ELOGIO.\r\nVETO 52/2019, VETO PARCIAL, PLN 51/2019. PROJETO DE LEI DO CONGRESSO NACIONAL, ALTERA\u00c7\u00c3O, LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS (LDO), FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Baixa libera\u00e7\u00e3o de recursos de emendas or\u00e7ament\u00e1rias do orador durante os governos petistas. Import\u00e2ncia da implanta\u00e7\u00e3o do or\u00e7amento impositivo. Declara\u00e7\u00e3o de voto pela manuten\u00e7\u00e3o do Veto Parcial n\u00ba 52, de 2019, aposto ao Projeto de Lei do Congresso Nacional n\u00ba 51, de 2019, acerca de altera\u00e7\u00e3o da Lei n\u00ba 13.898, de 2019, a respeito das diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2020. Defesa da realiza\u00e7\u00e3o de reformas constitucionais, necess\u00e1rias para o desenvolvimento do Pa\u00eds.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (Bloco/PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, vivemos momentos de tens\u00e3o nesta Casa na rela\u00e7\u00e3o entre o Governo e o Congresso Nacional. Eu queria neste momento fazer um testemunho pessoal aos colegas do Parlamento, uma vez que ingressei nesta Casa em 2003.\r\nCheguei a esta Casa desde ent\u00e3o pelo \u00fanico partido a que me afiliei, o PSDB, num governo ao qual eu, por convic\u00e7\u00e3o, fazia uma oposi\u00e7\u00e3o ferrenha. Por que estou contando esta hist\u00f3ria de que aqui cheguei como oposi\u00e7\u00e3o? Porque, \u00e0 \u00e9poca, meu relacionamento com o Governo era nenhum, ou melhor, era de cobran\u00e7a, de cr\u00edtica, e eu perseverava nesta cr\u00edtica convicto de que o Governo n\u00e3o fazia bem ao Pa\u00eds. \r\nA consequ\u00eancia disso, Sras. e Srs. Deputados, foi que nos 16 anos - repito, 16 anos - em que estive na Oposi\u00e7\u00e3o as emendas que eu fazia n\u00e3o eram pagas. Hoje eu puxei, para exemplificar a V.Exas., um hist\u00f3rico de 2003 a 2015. Das minhas emendas parlamentares no per\u00edodo, menos de 20% eram pagas.\r\nPor qu\u00ea? Porque n\u00e3o havia o or\u00e7amento impositivo. O que \u00e9 o or\u00e7amento impositivo? Como o pr\u00f3prio nome diz, \u00e9 um or\u00e7amento que se imp\u00f5e. O Governo \u00e9 obrigado a pag\u00e1-lo. Sen\u00e3o, comete crime de responsabilidade. O or\u00e7amento impositivo \u00e9 relevante para o Parlamento? N\u00e3o. Ele \u00e9 relevante para o Pa\u00eds. Por qu\u00ea? Pelo simples fato de que minha voz, quando fosse levantada nesta Casa, em nome de milhares de brasileiros, n\u00e3o poderia, de forma alguma, trazer preju\u00edzos para nenhuns dos Munic\u00edpios que eu representava, como aconteceu em todo o Governo do PT, Lula e Dilma. Esses Munic\u00edpios eram prejudicados pela minha voz, pela minha postura, pela minha consci\u00eancia e pelo meu voto. \r\nEm 2015, no Governo da Presidente Dilma, registro que tivemos o primeiro avan\u00e7o, e as emendas individuais se tornaram impositivas. Vit\u00f3ria do Congresso! Vit\u00f3ria dos Munic\u00edpios de todo o Pa\u00eds! Vit\u00f3ria do Governo Federal, que passou a reconhecer a import\u00e2ncia do papel do Deputado ao designar emendas para seus Munic\u00edpios!\r\nNaquela \u00e9poca, o Presidente Bolsonaro, ent\u00e3o Deputado Federal, n\u00e3o s\u00f3 elogiou mas tamb\u00e9m enalteceu o avan\u00e7o do or\u00e7amento impositivo. Ele sabia que o or\u00e7amento impositivo era importante, nunca negou isso, sempre o defendeu, tanto \u00e9 verdade que em 2019, j\u00e1 no Governo do Presidente Jair Bolsonaro, as emendas de bancada e todo o or\u00e7amento se tornaram impositivos. \r\nParab\u00e9ns ao Presidente Bolsonaro, que, de acordo com o que sempre defendeu, permitiu que esta Casa aprovasse as PECs 100 e 102, fazendo com que as emendas de Comiss\u00f5es e as emendas de Relator tamb\u00e9m fossem impositivas!\r\nEm prol de um registro importante, percebam V.Exas. que toda esta celeuma em torno do Veto n\u00ba 52 n\u00e3o se deveu ao seu fato de termos nesta Casa o or\u00e7amento impositivo. N\u00e3o! Foi um ganho, como todos sabemos, ganho que o Governo Federal reconhece. Houve um equ\u00edvoco, um erro? Sim, um erro no pensamento da bancada do PSDB, no formato em que se deu a quest\u00e3o dos 30 bilh\u00f5es de reais, que, na verdade, eram 15 bilh\u00f5es de reais. Houve um excesso. Excesso em que sentido? Por aus\u00eancia de uma regulamenta\u00e7\u00e3o efetiva, avan\u00e7ou-se, em parte, sobre investimentos que eram da autoria do Governo Federal.\r\nEste engessamento gerou uma indigna\u00e7\u00e3o, penso eu, correta por parte do Governo, mas externada de forma equivocada. Repito, \u00e9 no di\u00e1logo, no equil\u00edbrio e no entendimento que se busca a solu\u00e7\u00e3o das coisas, e n\u00e3o no afrontamento nem na convoca\u00e7\u00e3o a movimentos que tenham descabimento em raz\u00e3o do que se est\u00e1 lutando e em defesa do que se est\u00e1 lutando.\r\nVotamos a favor da manuten\u00e7\u00e3o do veto. A orienta\u00e7\u00e3o da bancada foi dada ontem, \u00e0s 11 horas da manh\u00e3, inclusive no grupo de WhatsApp da bancada. O PSDB orientou \"sim\" \u00e0 manuten\u00e7\u00e3o do veto. No entanto, nem sequer um texto do Governo tinha chegado a esta Casa.\r\nN\u00e3o t\u00ednhamos o teor desse entendimento, n\u00e3o t\u00ednhamos o teor do que seria enviado, mas t\u00ednhamos a convic\u00e7\u00e3o de que o voto \"sim\" ao veto era para restabelecermos o di\u00e1logo que precisa existir entre o Parlamento e o Poder Executivo.\r\nPor esta raz\u00e3o, aproveitemos este momento, em vez de fazermos cr\u00edticas descabidas. Aproveitemos este momento para trazer aquilo que o Brasil quer: transpar\u00eancia no or\u00e7amento desta Casa e no Or\u00e7amento da Uni\u00e3o. Se agora temos um or\u00e7amento impositivo, devemos parabenizar o Congresso, que est\u00e1 exigindo a realiza\u00e7\u00e3o de uma instru\u00e7\u00e3o normativa. Esperamos que esta instru\u00e7\u00e3o normativa, sob orienta\u00e7\u00e3o e comando do Presidente da Comiss\u00e3o Mista de Or\u00e7amentos, o Deputado e amigo Elmar, realmente venha trazer igualdade nesta Casa, venha trazer a todos o sentimento de que n\u00e3o se tem mais ou menos por ser amigo do rei: tem-se mais ou menos igualitariamente, porque \u00e9 direito desta Casa indicar suas emendas e favorecer seus Munic\u00edpios.\r\nQue este momento venha para esta transpar\u00eancia, para que reine este sentimento de igualdade, e n\u00e3o a aproxima\u00e7\u00e3o ou n\u00e3o das pessoas do poder! Que as emendas de Comiss\u00e3o, que antes eram emendas desconsideradas e muitas vezes corrigiam equ\u00edvocos do Governo, sejam respeitadas e ouvidas pelo Governo Federal! Os integrantes das Comiss\u00f5es Permanentes desta Casa sabem o que dizem, conhecem do tema, representam a Na\u00e7\u00e3o e, quando corrigem um or\u00e7amento, as emendas de Comiss\u00e3o precisam ser respeitadas. Agora o ser\u00e3o!\r\nGanhos n\u00f3s tivemos, e continuaremos tendo, em raz\u00e3o do or\u00e7amento impositivo. Parab\u00e9ns ao Presidente Bolsonaro, que j\u00e1 o defendia, com muita for\u00e7a e muita veem\u00eancia em 2015! Parab\u00e9ns a este Parlamento, que conseguiu, em 2019, transformar as emendas impositivas, as emendas de Relator e as emendas de Comiss\u00f5es! Que todos tenhamos a partir de agora o sentimento de que o Brasil quer tranquilidade e serenidade para aprovar as reformas de que o Pa\u00eds necessita.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=151&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-17T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PAUTA (PROCESSO LEGISLATIVO), APRECIA\u00c7\u00c3O DE PROPOSI\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Sugest\u00e3o \u00e0 Presid\u00eancia de convoca\u00e7\u00e3o de reuni\u00e3o de L\u00edderes para delibera\u00e7\u00e3o sobre as mat\u00e9rias da pauta.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em primeiro lugar, quero cumprimentar V.Exa. pela condu\u00e7\u00e3o dos trabalhos.\r\nEu conversei com alguns L\u00edderes e com Deputados e Deputadas desta Casa. Realmente, em rela\u00e7\u00e3o a esse trin\u00f4mio - prote\u00e7\u00e3o social, sa\u00fade p\u00fablica e tentativa de minimizar os impactos na economia -, esta Casa tem que estar a postos. N\u00f3s estamos aqui ao lado de V.Exa. para contribuir com as iniciativas do Governo e com as iniciativas que o Congresso tiver.\r\nAgora pergunto a V.Exa. - os L\u00edderes, penso eu, todos eles, permanecer\u00e3o semanalmente em Bras\u00edlia, ao lado de V.Exa. - se amanh\u00e3 seria poss\u00edvel, tamb\u00e9m de acordo com V.Exa., formularmos uma reuni\u00e3o, fazermos uma reuni\u00e3o dos L\u00edderes, porque v\u00e1rios temas foram tratados no Col\u00e9gio de L\u00edderes. Se fiz\u00e9ssemos uma reuni\u00e3o amanh\u00e3 pela manh\u00e3, poder\u00edamos pautar os pr\u00f3ximos dias para que as pessoas fossem para suas bases sabendo os temas que j\u00e1 foram deliberados no Col\u00e9gio de L\u00edderes. \u00c9 a sugest\u00e3o que fa\u00e7o a V.Exa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F3%2F2020&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-18T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRESSO NACIONAL, ATUA\u00c7\u00c3O, APROVA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, COMBATE, CORONAV\u00cdRUS, PANDEMIA. \r\n MSC 93/2020, MENSAGEM DO PODER EXECUTIVO, PDL 88/2020, PROJETO DE DECRETO LEGISLATIVO, RECONHECIMENTO, CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Vota\u00e7\u00e3o, pelo Congresso Nacional, de mat\u00e9rias destinadas ao enfrentamento da crise gerada pela epidemia de coronav\u00edrus e dos seus efeitos sobre a economia nacional. Import\u00e2ncia de aprova\u00e7\u00e3o do decreto presidencial sobre o reconhecimento de estado de calamidade no Pa\u00eds em decorr\u00eancia da doen\u00e7a.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, vivemos sem d\u00favida momentos dif\u00edceis, com o surgimento de uma doen\u00e7a altamente transmiss\u00edvel que tem trazido consequ\u00eancias absolutamente nefastas para a economia do Pa\u00eds.\r\nDiante do caos econ\u00f4mico gerado por essa pandemia, que, como diz o nome, atingiu o mundo todo, este Parlamento n\u00e3o se curvou. Ao contr\u00e1rio, aqui est\u00e1, de p\u00e9, votando medidas importantes para o Pa\u00eds.\r\nOntem, aprovamos medidas fundamentais. Nos pr\u00f3ximos dias, vamos aprovar cr\u00e9ditos extraordin\u00e1rios da ordem de 5 bilh\u00f5es para o Minist\u00e9rio da Sa\u00fade. Hoje, Sr. Presidente, estamos a aprovar uma solicita\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica para que esta Casa reconhe\u00e7a o estado de calamidade p\u00fablica.\r\n\u00c9 uma medida grave, \u00e9 uma medida excepcional? Sim, n\u00e3o se compara a um estado de emerg\u00eancia, decretado quando existe um risco iminente no Pa\u00eds. Estamos falando de estado de calamidade, quando o risco \u00e9 real. Ele j\u00e1 existe e j\u00e1 atinge a sa\u00fade p\u00fablica, j\u00e1 atinge a economia e j\u00e1 atinge os menos favorecidos.\r\nSr. Presidente, o que representa o estado de calamidade p\u00fablica reconhecido por este Parlamento? O Governo tem um teto de gastos e n\u00e3o pode ultrapass\u00e1-lo. O que n\u00f3s estamos fazendo \u00e9 abrindo uma brecha nesse teto, estamos abrindo um espa\u00e7o fiscal para que o Governo possa fazer os investimentos necess\u00e1rios em favor do trin\u00f4mio fundamental nos dias de hoje: sa\u00fade p\u00fablica, prote\u00e7\u00e3o social e salvaguarda da economia.\r\nO Parlamento, Sr. Presidente, sempre correspondeu \u00e0s expectativas do Pa\u00eds e novamente o est\u00e1 fazendo. Estamos aprovando o estado de calamidade? Sim. Estamos reconhecendo a import\u00e2ncia de declarar estado de calamidade hoje no Pa\u00eds? Sim. Mas estamos aprovando tamb\u00e9m, junto com esta medida, uma comiss\u00e3o espec\u00edfica deste Parlamento que n\u00e3o s\u00f3 vai acompanhar o que vai ser feito pelo Governo Federal, mas tamb\u00e9m ter\u00e1 a obriga\u00e7\u00e3o, Deputado Lippi, de sugerir medidas fundamentais que atingem os mais variados setores do Pa\u00eds. Fui procurado hoje pelos v\u00e1rios setores: setor cal\u00e7adista, setores informais, setores das empresas e da ind\u00fastria como um todo. Todos est\u00e3o preocupados, todos est\u00e3o buscando uma decis\u00e3o, e, em momento algum, os L\u00edderes partid\u00e1rios deixaram de corresponder \u00e0s expectativas e ao clamor da Na\u00e7\u00e3o. N\u00f3s daremos uma resposta, mais uma vez, ao Governo Federal, atendendo aos anseios da popula\u00e7\u00e3o brasileira.\r\nN\u00e3o \u00e9 hora de fazermos conchavos e nem discuss\u00f5es pol\u00edticas, n\u00e3o \u00e9 hora de agirmos com irresponsabilidade. N\u00e3o podemos dar as cotas ao Pa\u00eds, e este Parlamento est\u00e1 de parab\u00e9ns, porque, todas as vezes em que foi instado pela Na\u00e7\u00e3o, em que foi instado pelo Governo Federal, colocou os interesses do Pa\u00eds acima da discuss\u00e3o pol\u00edtica.\r\n\u00c9 isso o que o Brasil espera de n\u00f3s, que n\u00f3s tenhamos sensatez, equil\u00edbrio e que, como l\u00edderes, n\u00f3s saibamos de fato n\u00e3o s\u00f3 liderar os nossos partidos, mas que saibamos todos juntos liderar esta Na\u00e7\u00e3o.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F3%2F2020&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 786/2020, PROJETO DE LEI ORDINARIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 786, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 11.947, de 2009, com vista \u00e0 autoriza\u00e7\u00e3o, em car\u00e1ter excepcional, da distribui\u00e7\u00e3o de g\u00eaneros aliment\u00edcios adquiridos com recursos do Programa Nacional de Alimenta\u00e7\u00e3o Escolar - PNAE aos pais ou respons\u00e1veis de estudantes das escolas p\u00fablicas de educa\u00e7\u00e3o b\u00e1sica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria cumprimentar o Deputado Hildo e a Deputada Professora Dorinha pela iniciativa, uma iniciativa de um alcance social inquestion\u00e1vel, por se garantir alimenta\u00e7\u00e3o \u00e0s crian\u00e7as que est\u00e3o impossibilitadas de ir \u00e0 aula, numa preven\u00e7\u00e3o mais do que efetiva, necess\u00e1ria, para a sa\u00fade p\u00fablica.\r\nEu queria cumprimentar tamb\u00e9m os colegas L\u00edderes e os pares que est\u00e3o aqui hoje, em raz\u00e3o de estarmos priorizando hoje projetos voltados para a sa\u00fade e a prote\u00e7\u00e3o social.\r\nAcho que um trin\u00f4mio est\u00e1 envolvendo o Pa\u00eds como um todo neste momento: em primeiro lugar, obviamente, a prote\u00e7\u00e3o \u00e0 vida; em segundo lugar, medidas que possam minimizar o impacto da doen\u00e7a na economia; e, em terceiro lugar, medidas de prote\u00e7\u00e3o social, que ser\u00e3o votadas hoje tamb\u00e9m, atrav\u00e9s do projeto do Deputado Eduardo Barbosa.\r\n\tO PSDB encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-25T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 696/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo apresentado pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 696, de 2020, sobre o uso da telemedicina durante a crise causada pelo coronav\u00edrus (SARS-CoV-2), ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha favoravelmente ao projeto da telemedicina, uma inova\u00e7\u00e3o que, penso eu, n\u00e3o deveria durar por um per\u00edodo, mas deveria prevalecer, como disse a Deputada Joice, uma vez que implica um avan\u00e7o efetivo, ainda mais agora, neste momento, em tempos de coronav\u00edrus. Eu diria que, guardadas as devidas propor\u00e7\u00f5es, \u00e9 um m\u00e9dico de fam\u00edlia on-line, uma vez que a pessoa pode ser assistida por algu\u00e9m em quem confia, mesmo a dist\u00e2ncia, num momento em que esse isolamento \u00e9 necess\u00e1rio e imprescind\u00edvel para que possamos salvar vidas. A telemedicina vem como um marco importante aprovado por este Parlamento.\r\nCumprimento os autores pela iniciativa do projeto e todos os pares que est\u00e3o aprovando por unanimidade este projeto de lei.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F3%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O,ALEXANDRE PADILHA, LUIZ ANTONIO TEIXEIRA JR, DEPUTAO FEDERAL,  PL 702/2020, PROJETO DE LEI ORDIN\u00c1RIA, , REPOUSO REMUNERADO, EMPREGADO, EMERG\u00caNCIA EM SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA NACIONAL (ESPIN), EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), EPIDEMIA, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, ATESTADO M\u00c9DICO,",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Congratula\u00e7\u00f5es aos Deputados Alexandre Padilha e Dr. Luiz Antonio Teixeira Jr pela apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 702, de 2020, sobre a inser\u00e7\u00e3o de dispositivo na Lei n\u00ba 605, de 1949, para garantia ao empregado infectado com coronav\u00edrus de afastamento do trabalho por sete dias, com dispensa de atestado m\u00e9dico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Apenas para um esclarecimento, Sr. Presidente. \r\nPrimeiro quero cumprimentar o Deputado Padilha e o Deputado Dr. Luizinho pela excelente iniciativa. \r\nH\u00e1 uma sugest\u00e3o da nossa assessoria t\u00e9cnica quanto \u00e0 parte em que se diz que, ap\u00f3s o oitavo dia, ele ter\u00e1 que comprovar a doen\u00e7a que teve. Como esse afastamento pode ter sido n\u00e3o em decorr\u00eancia da doen\u00e7a, mas de algum sintoma, que se mudasse o texto para dizer: \"at\u00e9 o oitavo dia de afastamento, apresentar o documento que justifique a sua falta\".\r\nPode ser um atestado m\u00e9dico por uma doen\u00e7a pr\u00e9via, ou, como V.Exas. preveem, a hip\u00f3tese de ele ter tido contato com algu\u00e9m que teve a doen\u00e7a ou ter sintomas leves. N\u00e3o necessariamente o atestado m\u00e9dico vai falar da doen\u00e7a. Poder\u00e1 ser um documento que justifique a falta e n\u00e3o necessariamente a exist\u00eancia da doen\u00e7a.\r\nO SR. ALEXANDRE PADILHA (PT - SP) - Est\u00e1 certo! Sem problema algum...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Deputado, s\u00f3 um minutinho, para sermos democr\u00e1ticos. \r\nH\u00e1 algu\u00e9m que queira, de forma remota, fazer alguma cr\u00edtica em rela\u00e7\u00e3o a essa urg\u00eancia?(Pausa.)\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Posso concluir, Sr. Presidente?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Pode. Achei que V.Exa. tinha acabado. \r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Apenas quero dizer que o Deputado Dr. Luizinho completou a nossa argumenta\u00e7\u00e3o, porque inclusive o teste pode ser negativo ou nem sequer pode ter sa\u00eddo o resultado do teste. \u00c9 importante essa corre\u00e7\u00e3o, de natureza \u00fanica e exclusivamente redacional.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 702/2020, PROJETO DE LEI ORDIN\u00c1RIA, , REPOUSO REMUNERADO, EMPREGADO, EMERG\u00caNCIA EM SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA NACIONAL (ESPIN), EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), EPIDEMIA, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, ATESTADO M\u00c9DICO,",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Sugest\u00e3o ao Deputado Alexandre Padilha para aperfei\u00e7oamento do Projeto de Lei n\u00ba 702, de 2020, sobre a inser\u00e7\u00e3o de dispositivo na Lei n\u00ba 605, de 1949, para garantia ao empregado infectado com coronav\u00edrus de afastamento do trabalho por sete dias, com dispensa de atestado m\u00e9dico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, estava falando agora com o Deputado Alexandre Padilha, autor do projeto, e aproveito para falar tamb\u00e9m com o Deputado Dr. Luizinho.\r\nH\u00e1 outra sugest\u00e3o da assessoria t\u00e9cnica do PSDB, e o Deputado Padilha a recebeu com muito bons olhos. Realmente n\u00e3o h\u00e1 necessidade, nesses 7 dias, da juntada do atestado. Tal como n\u00f3s hav\u00edamos dito, n\u00e3o precisa justificar qual a doen\u00e7a, basta justificar a falta.\r\nMas a comunica\u00e7\u00e3o ao empregador, seja ela por e-mail, seja ela por telefone, precisaria ser feita de alguma forma, porque, normalmente, quando o trabalhador falta, num per\u00edodo de normalidade, essa falta \u00e9 por um per\u00edodo e junta-se o atestado, mas \u00e9 um caso, dois casos, tr\u00eas casos em uma empresa. Agora pode ser que a grande maioria dos trabalhadores da empresa esteja de fato contaminada, ou tenha algum sintoma, ou tenha tido algum contato com quem teve, e tenha que se ausentar. Portanto, h\u00e1 a necessidade de que haja uma comunica\u00e7\u00e3o por qualquer meio ao empregador. Essa \u00e9 uma sugest\u00e3o de acr\u00e9scimo que foi acolhida pelo Deputado Padilha.\r\nMuito obrigado, Deputado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=38&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMP 2/2020, EMENDA DE PLEN\u00c1RIO, INCLUS\u00c3O, HOSPITAL UNIVERSIT\u00c1RIO,  PL 805/2020, PROJETO DE LEI ORDIN\u00c1RA, SUSPENS\u00c3O, META, PRESTADOR DE SERVI\u00c7O,  SISTEMA \u00daNICO DE SA\u00daDE (SUS).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Solicita\u00e7\u00e3o aos Deputados de apoio \u00e0 emenda destinada \u00e0 inclus\u00e3o dos hospitais universit\u00e1rios no texto do Projeto de Lei n\u00ba 805, de 2020, sobre a suspens\u00e3o por 120 dias, a partir de 1\u00ba de mar\u00e7o de 2020, da obrigatoriedade da manuten\u00e7\u00e3o das metas quantitativas e qualitativas contratualizadas pelos prestadores de servi\u00e7os no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, tenho uma d\u00favida do PSDB com rela\u00e7\u00e3o \u00e0 proposta, que fala em hospitais privados, Santas Casas, filantr\u00f3picos, mas n\u00e3o faz refer\u00eancia expressa aos hospitais universit\u00e1rios. Eu apresentei uma emenda, e solicito o apoiamento dos demais L\u00edderes, para os hospitais universit\u00e1rios; refiro-me ao da USP, ao da UNICAMP e a tantos outros de outros Estados. Em que pese estarem ali prestadores de servi\u00e7os do SUS, eu acho que \u00e9 melhor esclarecer que os universit\u00e1rios fazem parte. \r\nEu pediria o apoiamento para esta emenda aos nossos pares e L\u00edderes.\r\nO SR. DR. LUIZ ANTONIO TEIXEIRA JR. (Bloco/PP - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Deputado, todos os hospitais universit\u00e1rios tamb\u00e9m s\u00e3o contratualizados. Eles estariam inclusos nessa reda\u00e7\u00e3o. Mas, se V.Exa. quiser deixar expl\u00edcito, vamos acatar a emenda e fazer uma reda\u00e7\u00e3o que deixe de forma expl\u00edcita, a fim de V.Exa. ficar garantido.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 9236/2017, PROJETO DE LEI ORDIN\u00c1RIA, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), CAR\u00c1TER EXCEPCIONAL, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), TRABALHO INFORMAL, CORONAV\u00cdRUS,  APROVA\u00c7\u00c3O, EDUARDO BARBOSA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia e aos L\u00edderes partid\u00e1rios pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 9.236, de 2017, sobre a altera\u00e7\u00e3o do \u00a7 11 e a inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 no art. 20 da Lei n\u00ba 8.742, de 1993,  com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa. Atua\u00e7\u00e3o do Deputado Eduardo Barbosa, autor da proposi\u00e7\u00e3o, em defesa das classes menos favorecidas.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, vou falar por 3 minutos apenas. O tempo restante ser\u00e1 do Deputado Eduardo Barbosa. Ele poder\u00e1 falar ao final do meu pronunciamento, uma vez que est\u00e1 com problemas para fazer contato conosco.\r\nQuero cumprimentar o Deputado Eduardo Barbosa por seu projeto, que \u00e9 de 2017. Todos nesta Casa conhecem a hist\u00f3ria do Deputado em defesa dos menos favorecidos.\r\nEsse projeto traz um conceito de vulnerabilidade que, hoje, \u00e9 um conceito perdido em nosso Pa\u00eds. Isso causa uma s\u00e9rie de implica\u00e7\u00f5es n\u00e3o s\u00f3 de ordem pr\u00e1tica mas tamb\u00e9m de ordem judicial, Sr. Presidente. Por qu\u00ea? Porque cada juiz decide conforme o seu conceito, na maioria da vezes em defesa da pessoa com defici\u00eancia, mas, em muitas outras vezes, em detrimento dessa pessoa.\r\nCom a universaliza\u00e7\u00e3o, dentro nosso Pa\u00eds, com um conceito \u00fanico de vulnerabilidade, permitindo-se aferir as condi\u00e7\u00f5es dessa vulnerabilidade, certamente teremos muito mais acertos no nosso Pa\u00eds.\r\nQuero cumprimentar todos os L\u00edderes e V.Exa. por terem se valido desse projeto, que \u00e9 um important\u00edssimo projeto de prote\u00e7\u00e3o social, e n\u00e3o s\u00f3 para as pessoas com defici\u00eancia. A emenda acolhida - tamb\u00e9m foi comentada pela Deputada Fl\u00e1via Arruda, a quem agrade\u00e7o - incluiu o idoso entre aqueles que est\u00e3o nessa lista de espera e que v\u00e3o receber por 3 meses esse valor.\r\nCumprimento todos os L\u00edderes tamb\u00e9m porque, nesta oportunidade, estamos incluindo igualmente todos os que exercem atividade informal. O trabalhador informal, que, conforme a pretens\u00e3o inicial do Governo, receberia, no m\u00e1ximo, 200 reais, vai poder receber 500 reais. Foi estabelecido o limite de mil reais por fam\u00edlia - via de regra, duas pessoas trabalham nessa fam\u00edlia.\r\nEstabelecemos minimamente ent\u00e3o um aux\u00edlio. Digo minimamente porque mil reais, cerca de um sal\u00e1rio m\u00ednimo, representam um sal\u00e1rio de subsist\u00eancia, um sal\u00e1rio de sobreviv\u00eancia, Sr. Presidente.\r\nQuero cumprimentar a todos por terem chegado a esse acordo, que permite que seja esse o valor a ser efetivamente pago a essas fam\u00edlias durante este per\u00edodo de caos em que vivemos. Merecem um aplauso especial todos os L\u00edderes por esse entendimento.\r\nTomo a liberdade de falar aqui em nome de todas as Deputadas do nosso partido, que lutaram para que esse valor fosse o mesmo a ser pago no caso de m\u00e3e chefe de fam\u00edlia. A m\u00e3e chefe de fam\u00edlia n\u00e3o ter\u00e1 que contar com mais um integrante da fam\u00edlia para poder receber 500 reais a mais. Ela vai receber sozinha os mil reais, para dar conta da cria\u00e7\u00e3o e do sustento dos seus filhos. Esse \u00e9 mais um grande avan\u00e7o do projeto.\r\nAgrade\u00e7o a V.Exas.\r\nO meu tempo restante, Presidente, deixarei para o Deputado Eduardo Barbosa, que poder\u00e1 se manifestar assim que for resolvido o problema dele quanto \u00e0 comunica\u00e7\u00e3o on-line conosco.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-31T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ESCLARECIMENTO, PL 668/2020, PROJETO DE LEI ORDIN\u00c1RIA,  PROIBI\u00c7\u00c3O, EXPORTA\u00c7\u00c3O, MATERIAL M\u00c9DICO-HOSPITALAR, PRODUTO DE HIGIENE PESSOAL, EQUIPAMENTO M\u00c9DICO-HOSPITALAR, EQUIPAMENTO DE PROTE\u00c7\u00c3O INDIVIDUAL, COMBATE, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), TEXTO LEGISLATIVO, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Posicionamento do orador sobre a vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 668, de 2020, proibitivo da exporta\u00e7\u00e3o de produtos m\u00e9dicos, hospitalares e de higiene essenciais ao combate \u00e0 epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na verdade, acho que aqui no plen\u00e1rio alguns L\u00edderes est\u00e3o com uma certa d\u00favida. Pelo menos a mim assiste uma d\u00favida: o rol apresentado por n\u00f3s na C\u00e2mara \u00e9 um rol taxativo e, al\u00e9m disso, abre a perspectiva para o Ministro poder tamb\u00e9m incluir outros itens? Se isso \u00e9 o que de fato existe no texto - eu n\u00e3o o tenho aqui em m\u00e3o -, estou convencido de que o melhor projeto \u00e9 o da Casa. Mas, se o nosso rol for taxativo, n\u00e3o dando qualquer liberdade ao Ministro para incluir outro item de relev\u00e2ncia, eu ficaria com a vota\u00e7\u00e3o do Senado. \r\nPor isso, digo a V.Exa. que eu precisaria de um esclarecimento - n\u00e3o sei se por parte da Mesa - sobre a taxatividade do projeto da C\u00e2mara e sobre a perspectiva de o projeto tamb\u00e9m abrir para o Ministro ir al\u00e9m desse rol. Se o pr\u00f3prio projeto da C\u00e2mara abrir para o Ministro ir al\u00e9m, eu fico com o projeto da C\u00e2mara, e orientamos o voto \"n\u00e3o\" para o substitutivo do Senado.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - \u00c9 o Relator ou o texto. A Mesa n\u00e3o tem como ajudar V.Exa. no m\u00e9rito da mat\u00e9ria.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - N\u00e3o se trata do m\u00e9rito. Eu indago se o texto da C\u00e2mara, ao exemplificar com respiradores, m\u00e1scaras, luvas, tamb\u00e9m abre a perspectiva para que o Ministro o fa\u00e7a. Se for assim, o projeto da C\u00e2mara...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Foi o que eu disse. Trata-se do m\u00e9rito. Portanto, quem tem que lhe falar \u00e9 o Relator.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Ent\u00e3o, eu pergunto ao Relator, Sr. Presidente. \r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Eu acho que tinha que ter perguntado...\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Sr. Presidente, eu fui at\u00e9 V.Exa. antes de come\u00e7ar a discuss\u00e3o, para colocar a d\u00favida, e V.Exa. me pediu que aguardasse o momento de falar.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Sim. Est\u00e1vamos na discuss\u00e3o. Havia inscritos. Eu dei a palavra a quem estava inscrito.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2020&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-31T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, SENADO FEDERAL, PL 668/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 668, de 2020, proibitivo da exporta\u00e7\u00e3o de produtos m\u00e9dicos, hospitalares e de higiene essenciais ao combate \u00e0 epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, diante do esclarecimento prestado - eu agrade\u00e7o -, como o PSDB votou favoravelmente a este projeto na C\u00e2mara, porque n\u00e3o \u00e9 poss\u00edvel exportarmos produtos e equipamentos que sejam essenciais \u00e0 utiliza\u00e7\u00e3o dos brasileiros, n\u00f3s ficamos com o projeto da C\u00e2mara.\r\nO encaminhamento \u00e9 \"n\u00e3o\" ao substitutivo do Senado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2020&txPagina=51&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-31T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA, SENADO FEDERAL, PLP 232/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\nMPV 903/2019, MEDIDA PROVIS\u00d3RIA, AUTORIZA\u00c7\u00c3O, MINIST\u00c9RIO DA AGRICULTURA, PECU\u00c1RIA E ABASTECIMENTO, PRORROGA\u00c7\u00c3O DO CONTRATO, CONTRATO POR PRAZO DETERMINADO, M\u00c9DICO VETERIN\u00c1RIO, FISCALIZA\u00c7\u00c3O AGROPECU\u00c1RIA, AGRONEG\u00d3CIO, DISCUSS\u00c3O, QUESTIONAMENTO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda do Senado Federal ao Projeto de Lei Complementar n\u00ba 232, de 2019, sobre a transposi\u00e7\u00e3o e transfer\u00eancia de recursos/saldos financeiros, oriundos de repasses federais, dos fundos de sa\u00fade dos Estados, do Distrito Federal e dos Munic\u00edpios. Consulta \u00e0 Presid\u00eancia sobre a vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 903, de 2019, acerca da prorroga\u00e7\u00e3o, por tempo determinado, de contratos firmados pelo Minist\u00e9rio da Agricultura, Pecu\u00e1ria e Abastecimento com m\u00e9dicos veterin\u00e1rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"sim\".\r\nEu queria fazer tamb\u00e9m uma reflex\u00e3o, junto com os demais L\u00edderes e com V.Exa., Sr. Presidente.\r\nEm seguida n\u00f3s vamos votar a MP 903/19. Poderia haver um n\u00famero menor de inscritos para a discuss\u00e3o?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - N\u00e3o estamos com a pauta organizada ainda. Estamos votando esses dois projetos e depois vamos organizar as outras mat\u00e9rias.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Na pauta que recebemos e que eu encaminhei para a bancada estava a MP 903.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Sim, Deputado.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Houve alguma mudan\u00e7a?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - \u00c9 porque os outros projetos precisam ter a urg\u00eancia aprovada. Com as urg\u00eancias aprovadas, eles automaticamente s\u00e3o pautados para a atual sess\u00e3o. Foi esse o acordo que fizemos ontem no Col\u00e9gio de L\u00edderes.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Sr. Presidente, eu entendo o que V.Exa. est\u00e1 dizendo, mas \u00e9 muito importante que, quando a pauta venha, e o L\u00edder transmita essa pauta...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - L\u00edder, V.Exa. participou de uma reuni\u00e3o...\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Eu s\u00f3 preciso concluir a minha fala. Todas as vezes que eu tento concluir, V.Exa. faz outra pondera\u00e7\u00e3o.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - N\u00e3o \u00e9 isso. De jeito nenhum.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Eu s\u00f3 queria deixar isto registrado: n\u00f3s discutimos um assunto - e eu participo da reuni\u00e3o da tarde; decide-se que o assunto vai ser votado esta semana; da\u00ed vem uma pauta. Todos do PSDB sabem o que vai ser votado na semana, mas o que vai ser votado hoje, amanh\u00e3 e depois de amanh\u00e3... Existem mudan\u00e7as ao longo do dia. Isso faz com que haja certa confus\u00e3o. A MP 903 t\u00ednhamos todos certeza de que seria votada hoje. Se n\u00e3o vai, para mim \u00e9 uma novidade. Ent\u00e3o pergunto a V.Exa. o que dever\u00e1 ser votado ainda hoje.\r\nQuando falo de procedimentos para agilizar as discuss\u00f5es, \u00e9 em defesa do Pa\u00eds, n\u00e3o \u00e9 contra. Eu falo isso n\u00e3o s\u00f3 para V.Exa., mas tamb\u00e9m para todos os que est\u00e3o me ouvindo, que s\u00e3o de v\u00e1rios partidos. Se n\u00f3s pudermos reduzir o n\u00famero de inscritos para discuss\u00e3o de mat\u00e9rias consensuais, ganha o Parlamento e ganha o Brasil, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ FL\u00c1VIO GOMES, EX-DEPUTADO FEDERAL, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Homenagem p\u00f3stuma ao Deputado Federal Luiz Fl\u00e1vio Gomes.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de me somar a todos os que me antecederam nesta homenagem ao Prof. Luiz Fl\u00e1vio Gomes.\r\nSua trajet\u00f3ria de vida \u00e9 \u00edmpar dentro da fam\u00edlia forense. Ele foi delegado de pol\u00edcia, promotor de Justi\u00e7a, juiz de Direito. Em todas as \u00e1reas em que a fam\u00edlia forense atua ele foi um expoente: professor de Direito Penal, professor de Direito Processual Penal e um dos maiores juristas do Pa\u00eds -- al\u00e9m de ilustre Parlamentar, o que nos deu, ainda que brevemente, o privil\u00e9gio de t\u00ea-lo conosco nesta Casa legislativa.\r\nDeixo aqui a homenagem do PSDB ao Prof. Dr. Luiz Fl\u00e1vio Gomes, que deixa uma marca indel\u00e9vel na Justi\u00e7a brasileira, na fam\u00edlia forense e no Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 864/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DE VIGIL\u00c2NCIA SANIT\u00c1RIA SOBRE PRODUTOS FARMAC\u00caUTICOS, OBRIGA\u00c7\u00c3O, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), URG\u00caNCIA, LIBERA\u00c7\u00c3O, PRODUTO PARA SA\u00daDE, MEDICAMENTO, EQUIPAMENTO M\u00c9DICO-HOSPITALAR, INSUMO, APROVA\u00c7\u00c3O, VALIDA\u00c7\u00c3O, FOOD AND DRUG ADMINISTRATION (FDA), AG\u00caNCIA EUROPEIA DE MEDICAMENTOS, PHARMACEUTICALS AND MEDICAL DEVICES AGENCY (PMDA), NATIONAL MEDICAL PRODUCTS ADMINISTRATION (NMPA), COMBATE, PANDEMIA, CORONAV\u00cdRUS, EMENDA DE PLEN\u00c1RIO, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), ESCLARECIMENTO, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Consulta ao Relator Hiran Gon\u00e7alves sobre a consigna\u00e7\u00e3o de men\u00e7\u00e3o expressa \u00e0s ag\u00eancias mundiais no parecer oferecido ao Projeto de Lei n\u00ba 864, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.360, de 1976, com vista \u00e0 libera\u00e7\u00e3o imediata do uso de materiais, medicamentos, equipamentos e insumos da \u00e1rea da sa\u00fade para aux\u00edlio no combate \u00e0 Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Relator, tenho apenas uma d\u00favida: ent\u00e3o houve a men\u00e7\u00e3o expressa \u00e0s quatro ag\u00eancias mundiais?\r\nO SR. HIRAN GON\u00c7ALVES (Bloco/PP - RR) - Houve. Ela estava at\u00e9 consignada. Eu acho que houve um erro na hora que me apresentaram aqui o relat\u00f3rio. N\u00f3s t\u00ednhamos discutido isso com muito cuidado, com muito crit\u00e9rio, na Comiss\u00e3o. A nossa Deputada Alice Portugal foi quem nos ajudou. Ouvimos todas as pondera\u00e7\u00f5es dos L\u00edderes, deixamos \u00e0 disposi\u00e7\u00e3o de todos. E eu quero, al\u00e9m de agradecer a todos os L\u00edderes - porque n\u00f3s temos dado aqui um exemplo de uni\u00e3o, de sintonia, que nunca vi existir neste Parlamento -, parabenizar mais uma vez o nosso querido Presidente, que tem comandado com maestria as nossas deliberativas aqui.\r\nQuero tamb\u00e9m agradecer o cuidado e a preocupa\u00e7\u00e3o do Deputado Marcelo Ramos, que logo me ligou e disse: \"V.Exa. me mostrou o texto; eu estava de acordo; mas se esqueceu de colocar as ag\u00eancias\", e eu disse: \"Todo mundo j\u00e1 me chamou a aten\u00e7\u00e3o\", de forma que eu quero agradecer a todos pelo cuidado, pela aten\u00e7\u00e3o. Isso s\u00f3 denota que est\u00e1 todo mundo aqui preocupado com a seguran\u00e7a do povo brasileiro.\r\nMuito obrigado, Sr. Presidente, Sras. e Srs. Deputados.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 864/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global apresentada pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 864, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.360, de 1976, com vista \u00e0 libera\u00e7\u00e3o imediata do uso de materiais, medicamentos, equipamentos e insumos da \u00e1rea da sa\u00fade para auxiliar no combate \u00e0 pandemia do Covid-19, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha favoravelmente ao projeto, cumprimentando o seu Relator, porque \u00e9 um projeto que faz com que a ANVISA tenha um prazo de 48 horas para que, de fato, insumos, medicamentos e equipamentos que j\u00e1 foram aprovados em outros Estados, ou melhor, em outros pa\u00edses, possam ser aqui aprovados nesse per\u00edodo curto, a fim de que possamos utiliz\u00e1-los no Pa\u00eds.\r\nParab\u00e9ns ao Relator e \u00e0 Comiss\u00e3o Externa desta Casa sobre o coronav\u00edrus pela iniciativa!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 864/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 5, apresentada ao Projeto de Lei 864, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 6.360, de 1976, com vista \u00e0 libera\u00e7\u00e3o imediata do uso de materiais, medicamentos, equipamentos e insumos da \u00e1rea da sa\u00fade para aux\u00edlio no combate \u00e0 pandemia do Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na linha do que foi dito pelo Relator, Deputado Hiran Gon\u00e7alves, em que pese entender as nobres raz\u00f5es do Deputado Celso Russomanno, a biosseguran\u00e7a tem que ser levada em considera\u00e7\u00e3o.\r\nPortanto, o PSDB encaminha \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T19:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 985/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL, ELOGIO, LUIS MIRANDA, DEPUTADO FEDERAL, RELATOR.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global apresentada pelo Relator da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o ao Projeto de Lei n\u00ba 985, de 2020, acerca das medidas excepcionais adotadas em situa\u00e7\u00e3o de emerg\u00eancia p\u00fablica nos termos da Lei n\u00ba 13.979, de 2020, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, quero cumprimentar o Relator, Deputado Luis Miranda, que soube acolher as sugest\u00f5es dos Deputados e ajustar o projeto \u00e0 ideia do pr\u00f3prio Governo, fazendo um trabalho a quatro m\u00e3os, o que \u00e9 importante para garantirmos a aprova\u00e7\u00e3o.\r\nEssa medida, sem d\u00favida, vai ao encontro do que se espera neste momento. Se as empresas t\u00eam gastos trabalhistas que as impedem de exercer sua atividade e de manter empregos, se postergamos por 60 dias esse pagamento, prorrog\u00e1veis por mais 30 dias, d\u00e1-se um f\u00f4lego para que essas empresas possam naturalmente manter esses empregos.\r\nO PSDB encaminha \"sim\", cumprimentando o Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=138&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VOTA\u00c7\u00c3O, MIP 1/2020, MINUTO ADE PROPOSI\u00c7\u00c3O LEGISLATIVA, QU\u00d3RUM, INICIATIVA, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REGIME EXTRAODIN\u00c1RIO FISCAL FINANCEIRO E DE CONTRATA\u00c7\u00d5ES, CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Defesa de vota\u00e7\u00e3o da Proposi\u00e7\u00e3o Legislativa n\u00ba 1, de 2020, para cumprimento ao qu\u00f3rum de iniciativa previsto no art. 60 da Constitui\u00e7\u00e3o Federal \u00e0 proposta de emenda \u00e0 Constitui\u00e7\u00e3o relativa \u00e0 institui\u00e7\u00e3o do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente de pandemia internacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na verdade, como a pr\u00f3pria Deputada disse, houve um acordo dos L\u00edderes com rela\u00e7\u00e3o a essa PEC.\r\nEssa PEC \u00e9 de import\u00e2ncia, \u00e9 imprescind\u00edvel, eu diria, at\u00e9 para que os servidores tenham a tranquilidade de poder subscrever todas as medidas excepcionais que est\u00e3o acontecendo neste momento.\r\nE mais um registro: n\u00f3s vamos submeter hoje, Deputada Gleisi, a minuta. Na minuta, n\u00f3s vamos ter o apoiamento de 171 assinaturas. Quanto \u00e0 vota\u00e7\u00e3o do m\u00e9rito, s\u00e3o duas vota\u00e7\u00f5es, essa n\u00e3o se pode mudar pelo Regimento da Casa, temos que respeitar o texto constitucional: tr\u00eas quintos e duas vota\u00e7\u00f5es. Da\u00ed, sim, n\u00f3s ter\u00edamos esse cuidado todo especial na an\u00e1lise.\r\nMas agora, para que tenhamos o apoiamento de 171 assinaturas, eu sugiro, Sr. Presidente, que prossigamos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=246&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REGIME EXTRAORDIN\u00c1RIO FISCAL, FINANCEIRO E DE CONTRATA\u00c7\u00d5ES, CORONAV\u00cdRUS, PANDEMIA, COMBATE, CALAMIDADE P\u00daBLICA, PROVID\u00caNCIAS, EMENDA, RETIRADA DE PROPOSI\u00c7\u00c3O, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Retirada de emenda apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente de pandemia internacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer o registro de uma emenda importante que nos foi encaminhada, que foi para mim apresentada pelo Deputado Eduardo Barbosa.\r\nN\u00f3s temos hoje as emendas individuais, que, quando encaminhadas aos Munic\u00edpios, para custeio, n\u00e3o podem ser utilizadas para contrata\u00e7\u00e3o de pessoal.\r\nCorretamente. Elas podem ser usadas para compra de insumos, de equipamentos. Mas, neste caso, s\u00e3o muitos os profissionais da sa\u00fade que est\u00e3o saindo em raz\u00e3o de suspeita de contamina\u00e7\u00e3o por coronav\u00edrus ou de contamina\u00e7\u00e3o por coronav\u00edrus. Equipes est\u00e3o sendo contratadas.\r\nComentei com o Deputado Relator Hugo Motta que seria importante essa emenda, para que, neste per\u00edodo de pandemia, tamb\u00e9m pudesse ser utilizado esse recurso enviado para custeio na contrata\u00e7\u00e3o de pessoal, especificamente para o combate ao coronav\u00edrus.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - S\u00f3 acho que n\u00e3o \u00e9 nesta PEC, Deputado. N\u00f3s estamos criando um regime fiscal. Vamos come\u00e7ar a colocar coisas pontuais?\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Sr. Presidente, com toda a sinceridade, isso \u00e9 de uma amplitude brutal. Todas as emendas...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - N\u00e3o sei se \u00e9 preciso fazer isso por PEC, n\u00e3o. Por que por PEC?\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Mas, dentro desta PEC emergencial, n\u00f3s vamos ter um per\u00edodo... Ela vai ter validade: at\u00e9 o fim do decreto.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Esse pleito n\u00e3o precisa de PEC.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Sr. Presidente, n\u00f3s estamos votando a PEC - estou falando da quest\u00e3o, do princ\u00edpio da oportunidade. Quando vamos permitir aos Prefeitos utilizarem o valor de custeio para contrata\u00e7\u00e3o de pessoal, o que, hoje, pela primeira vez, eles est\u00e3o tendo que fazer? Vamos aproveitar esta oportunidade, atrav\u00e9s de uma discuss\u00e3o transit\u00f3ria...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Recurso de emenda para pagar sal\u00e1rio \u00e9 permitido. N\u00e3o \u00e9 preciso PEC para isso. \u00c9 isso o que eu estou dizendo. As emendas \u00e9 que servem para isso.\r\nO SR. HILDO ROCHA (Bloco/MDB - MA) - Sr. Presidente, n\u00f3s podemos fazer isso amanh\u00e3, no PLN 2, tranquilamente. Fica melhor.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - No PLN 2, Deputado.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Se podemos fazer amanh\u00e3, no PLN 2, eu retiro a emenda. Fazemos isso amanh\u00e3.\r\nAgrade\u00e7o ao Deputado Hildo Rocha pela sugest\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=255&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-01T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REGIME EXTRAORDIN\u00c1RIO FISCAL, FINANCEIRO E DE CONTRATA\u00c7\u00d5ES, CORONAV\u00cdRUS, PANDEMIA, COMBATE, CALAMIDADE P\u00daBLICA, PROVID\u00caNCIAS, EMENDA, APRESENTA\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Apresenta\u00e7\u00e3o de emenda \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, sobre a institui\u00e7\u00e3o do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es para enfrentamento da calamidade p\u00fablica nacional decorrente de pandemia internacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a nossa assessoria t\u00e9cnica insiste, inclusive ouvindo a Consultoria da Casa, que a veda\u00e7\u00e3o para pagamento de pessoal \u00e9 constitucional - e fala em veda\u00e7\u00e3o da contrata\u00e7\u00e3o de pessoal, expressamente.\r\nEu pediria a V.Exa. que consultasse,...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Vou consultar, vou consultar.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - ... porque se est\u00e1 permitindo...\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Deputado, ent\u00e3o fa\u00e7a o seguinte: apresente a emenda.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Pode ser apresentada at\u00e9 amanh\u00e3?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Como \u00e9 emenda, ela pode ser retirada durante o processo de vota\u00e7\u00e3o.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Pode ser apresentada at\u00e9 amanh\u00e3?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - \u00c9 bom que apresente ent\u00e3o agora.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Ela j\u00e1 foi apresentada e est\u00e1 mantida.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F4%2F2020&txPagina=261&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-07T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 848/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 848, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 5.991, de 1973, acerca do Controle Sanit\u00e1rio do Com\u00e9rcio de Drogas, Medicamentos, Insumos Farmac\u00eauticos e Correlatos, com vista \u00e0 validade de receita de f\u00e1rmacos durante surtos epid\u00eamicos, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, sem d\u00favida esta \u00e9 uma bel\u00edssima iniciativa do Deputado Kim Kataguiri, ainda mais em tempos de pandemia.\r\nSendo bastante breve, o PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T10:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\nPL 1106/2020, PROJETO DE LEI ORDIN\u00c1RIA, TARIFA SOCIAL DE ENERGIA EL\u00c9TRICA (TSEE), INSCRI\u00c7\u00c3O, SIMPLIFICA\u00c7\u00c3O, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nPL 1960/2020, PROJETO DE LEI ORDIN\u00c1RIA, ISEN\u00c7\u00c3O, TARIFA DE ENERGIA EL\u00c9TRICA, PANDEMIA, CALAMIDADE P\u00daBLICA, CORONAV\u00cdRUS, PAUTA (PROCESSO LEGISLATIVO), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus. Apoio \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.106, de 2020, acerca da altera\u00e7\u00e3o do \u00a7 \u00fanico do art. 4\u00ba da Lei n\u00ba 12.212, de 2010, com vista \u00e0 simplifica\u00e7\u00e3o da inscri\u00e7\u00e3o no Programa de Tarifa Social da Conta de Energia. Pedido \u00e0 Presid\u00eancia de exame do projeto de lei apresentado pelo orador em conjunto com o Deputado Marcelo Freixo e outros, sobre o disciplinamento da suspens\u00e3o do corte no fornecimento de energia el\u00e9trica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, demais Deputados, cumprimento a todos.\r\nSei da import\u00e2ncia desses projetos que n\u00f3s votaremos no dia de hoje. Evidentemente, a quest\u00e3o das Santas Casas \u00e9 fundamental. Todo Munic\u00edpio de m\u00e9dio porte, como regra, tem a sua Santa Casa, que \u00e9 o local que realmente atende a popula\u00e7\u00e3o como um todo. O projeto veio em boa hora, e eu cumprimento de p\u00fablico o Senador Jos\u00e9 Serra por sua sensibilidade.\r\nQuanto aos outros projetos em pauta hoje, instru\u00ed nossa bancada a se manifestar rapidamente, porque s\u00e3o mat\u00e9rias consensuais e important\u00edssimas para o Brasil.\r\nRelativamente ao projeto do Deputado Andr\u00e9, que d\u00e1 agilidade \u00e0 inclus\u00e3o da tarifa social da energia, n\u00f3s votaremos favoravelmente a ele -- achamos important\u00edssimo, aproveitando para fazer um pedido a V.Exa., Sr. Presidente.\r\nGostaria de pedir a V.Exa. que analisasse com carinho, na semana que vem, um projeto apresentado por mim, pelo Deputado Marcelo Freixo e coautores no qual propomos um tratamento diferenciado - a ANEEL suspendeu, por 3 meses, o corte da luz em todo o Brasil, mas o fez de maneira uniforme -, incluindo nas tarifas sociais os beneficiados pela lei do Deputado Eduardo Barbosa, que acabou dando prote\u00e7\u00e3o social.\r\nN\u00e3o \u00e9 poss\u00edvel que haja a suspens\u00e3o do pagamento para todos indiscriminadamente, tanto para a pessoa que, l\u00e1 na ponta, vai receber a ajuda de 600 reais, quanto para a pessoa que continuar\u00e1 recebendo seu sal\u00e1rio de 20 mil, 25 mil reais. Apenas os que v\u00e3o receber recursos sociais de fato n\u00e3o podem pagar pela energia nestes 3 meses, e tamb\u00e9m dificilmente ter\u00e3o condi\u00e7\u00f5es de faz\u00ea-lo depois. \r\nPe\u00e7o a V.Exa. que analise, com carinho especial, esse projeto.\r\nEu pe\u00e7o desculpas aos colegas, mas vou deixar a sess\u00e3o. Estou indo a Campinas, depois de 21 dias em Bras\u00edlia. Ser\u00e3o 10 horas e meia de carro.\r\nO Deputado Samuel Moreira, meu 1\u00ba Vice-L\u00edder, vai conduzir a bancada nesta manh\u00e3. Obviamente, estarei conectado no caminho e poderei participar das vota\u00e7\u00f5es remotas.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.\r\nCONGRESSO NACIONAL, ATUA\u00c7\u00c3O PARLAMENTAR, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, COMBATE, PANDEMIA, CORONAV\u00cdRUS, ECONOMIA, SA\u00daDE P\u00daBLICA, PROTE\u00c7\u00c3O, POPULA\u00c7\u00c3O DE BAIXA RENDA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira. Defesa de aprova\u00e7\u00e3o da mat\u00e9ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s sabemos, desde o in\u00edcio desta pandemia, que existe um trip\u00e9 que alicer\u00e7a a a\u00e7\u00e3o do Congresso Nacional. O primeiro deles \u00e9 o combate ao coronav\u00edrus; o segundo \u00e9 a prote\u00e7\u00e3o social aos menos favorecidos; e o terceiro \u00e9 a aprova\u00e7\u00e3o de medidas que minimizem o impacto da doen\u00e7a na economia. \r\nN\u00f3s estamos falando de um projeto que pode gerar milhares de empregos. Aproveito para cumprimentar o Relator Christino Aureo por todo o seu esfor\u00e7o. A quem esses empregos podem beneficiar? Os jovens de 18 anos a 29 anos, exatamente os que ainda n\u00e3o t\u00eam emprego; e aquelas pessoas com mais de 55 anos e, por isso, t\u00eam dificuldade de aloca\u00e7\u00e3o no mercado de trabalho. N\u00f3s estamos falando de pessoas que hoje se encontram na informalidade.\r\nQuando alguns dizem que vamos ter uma redu\u00e7\u00e3o tempor\u00e1ria do recolhimento do FGTS de 8% para 2%, ou mesmo uma redu\u00e7\u00e3o do pagamento da multa de 40% para 20%, o que representa uma perda para o trabalhador, eu lembro que, entre trabalhar ou ter os direitos reduzidos por um determinado per\u00edodo, \u00e9 muito melhor trabalhar. Eu registro que nenhum direito constitucional, como f\u00e9rias, d\u00e9cimo terceiro sal\u00e1rio, adicionais, horas extras, est\u00e1 sendo afetado neste relat\u00f3rio.\r\nPortanto, o PSDB \u00e9 contra a retirada de pauta desta mat\u00e9ria e v\u00ea com muito bons olhos a aprova\u00e7\u00e3o da MPV 905.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, EMENDA DE PLEN\u00c1RIO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 4, em detrimento do texto original do Projeto de Lei Complementar n\u00ba 39, de 2020, acerca da institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o presente destaque resgata o texto da C\u00e2mara, que, ao nosso sentir, sem d\u00favida, era o melhor texto. Mas o que veio do Senado foi o que foi poss\u00edvel ser constru\u00eddo, e a necessidade emergencial de Estados e Munic\u00edpios nos faz rejeitar o destaque, para que possamos, com celeridade, aprovar o projeto, sem mudan\u00e7a no m\u00e9rito, mas com as mudan\u00e7as redacionais necess\u00e1rias ao aprimoramento do texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo do art. 8\u00ba do Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB tem clareza da import\u00e2ncia da aprova\u00e7\u00e3o deste projeto para os Estados e Munic\u00edpios. Trata-se de uma ajuda emergencial, necess\u00e1ria, que precisa ser agilizada. Mas, convenhamos, esse projeto retornar\u00e1 ao Senado, e, como ele retornar\u00e1, em raz\u00e3o de uma an\u00e1lise e de uma reflex\u00e3o mais cuidadosa sobre o tema, temos uma divis\u00e3o na bancada.\r\nO PSDB, portanto, libera a bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-14T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1179/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 53, apresentada ao Projeto de Lei n\u00ba 1.179, de 2020, sobre a institui\u00e7\u00e3o de normas de car\u00e1ter transit\u00f3rio e emergencial para a regula\u00e7\u00e3o de rela\u00e7\u00f5es jur\u00eddicas de direito privado, diante da pandemia de coronav\u00edrus, e a altera\u00e7\u00e3o da Lei n\u00ba 13.709, de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB tamb\u00e9m encaminha \"n\u00e3o\", reconhecendo publicamente o esfor\u00e7o, o empenho do L\u00edder do PV, Deputado Enrico Misasi, na constru\u00e7\u00e3o dessa unidade de prop\u00f3sito em torno de um projeto important\u00edssimo para o Pa\u00eds. \r\n\u00c9 evidente que mudan\u00e7as poderiam ocorrer, mudan\u00e7as poderiam existir, mas deixemos para um segundo momento. O texto \u00e9 fruto de um consenso, tem o respaldo do Presidente do Supremo Tribunal Federal, bem como o respaldo do Senador Anastasia, cuja hist\u00f3ria todos conhecem. \r\nPortanto, orientamos \"n\u00e3o\" ao destaque. \r\nPe\u00e7o a V.Exa. que conceda o tempo de L\u00edder para a manifesta\u00e7\u00e3o do Deputado Roberto Pessoa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2020&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), FAVOR\u00c1VEL, PL 1194/2020, PROJETO DE LEI ORDIN\u00c1RIA, DIRETRIZES, COMBATE, DESPERD\u00cdCIO DE ALIMENTOS, ESTABELECIMENTO COMERCIAL, DOA\u00c7\u00c3O, ALIMENTO, BANCO DE ALIMENTOS, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987).",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.194, de 2020, sobre a doa\u00e7\u00e3o e combate ao desperd\u00edcio de alimentos no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Primeiro, quero elogiar a iniciativa do Senador Collor de Mello. Esse tema h\u00e1 muitos anos se tenta regulamentar, para definir quem pode ser doador, o que pode ser doado, o que \u00e9 pr\u00f3prio para consumo humano e o que n\u00e3o \u00e9. Enfim, \u00e9 um tema que demandou uma an\u00e1lise muito detalhada. Portanto, somos favor\u00e1veis ao projeto.\r\nN\u00e3o vemos nenhum problema no destaque sugerido pelo Deputado Alessandro Molon - pelo PSB, melhor dizendo.\r\nA \u00fanica pondera\u00e7\u00e3o que fa\u00e7o, porque n\u00e3o sei se essa emenda vai ser analisada agora, \u00e9 que houve uma sugest\u00e3o do Deputado Paulo Teixeira, que disse especificamente o seguinte: \"Durante a vig\u00eancia do estado de emerg\u00eancia, o Governo Federal proceder\u00e1 preferencialmente \u00e0 compra de alimentos em Programa de Aquisi\u00e7\u00e3o de Alimentos de agricultores familiares e pescadores artesanais\". Acho uma excelente iniciativa, mas n\u00e3o tem nenhuma pertin\u00eancia tem\u00e1tica com isso. Ali\u00e1s, eu diria at\u00e9 que tem muito mais pertin\u00eancia com um projeto do pr\u00f3prio PT, o Projeto de Lei n\u00ba 1.685, de 2020. Ent\u00e3o, eu pediria ao Relator que fizesse essa an\u00e1lise.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Ele rejeitou as emendas, Deputado.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - J\u00e1 foram rejeitadas?\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Ele rejeitou todas as emendas.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Ent\u00e3o, perfeito, Sr. Presidente. O PSDB \u00e9 favor\u00e1vel \u00e0 proposta e ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-19T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1562/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.\r\nPEDRO LUCAS FERNANDES, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), GIL CUTRIM, RELATOR, ELOGIO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada ao Projeto de Lei n\u00ba 1.562, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista \u00e0 obrigatoriedade do uso de m\u00e1scaras para circula\u00e7\u00e3o em locais p\u00fablicos, durante a vig\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus. Congratula\u00e7\u00f5es aos Deputados Gil Cutrim e Pedro Lucas Fernandes, respectivamente, relator e autor da proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, inicialmente quero cumprimentar o Deputado Pedro Lucas, meu amigo, pela iniciativa legislativa, e, particularmente, o Deputado Gil Cutrim, por ter ouvido pacientemente todos os L\u00edderes. N\u00f3s t\u00ednhamos sugest\u00f5es que poderiam virar emendas e destaques, mas elas foram por ele incorporadas.\r\nEu agrade\u00e7o o fato de ele ter realmente obrigado o poder p\u00fablico a fornecer m\u00e1scaras a toda a popula\u00e7\u00e3o vulner\u00e1vel. Portanto, se o poder p\u00fablico n\u00e3o fornec\u00ea-las, n\u00e3o poder\u00e1 multar.\r\nQuero agradecer-lhe tamb\u00e9m pelo fato de ele ter feito com que as autonomias dos entes federados, Munic\u00edpios e Estados, fossem respeitadas, ou seja, se houver legisla\u00e7\u00e3o diversa nesses entes federados, vale a legisla\u00e7\u00e3o do Munic\u00edpio e do Estado.\r\nCom rela\u00e7\u00e3o ao destaque, em que pese o m\u00e9rito, entendemos que n\u00e3o h\u00e1 uma pertin\u00eancia tem\u00e1tica plena, porque h\u00e1 um excesso naquilo que se quer garantir, e esse projeto se refere \u00fanica e exclusivamente a m\u00e1scaras. Ent\u00e3o, votamos \"n\u00e3o\" ao destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2020&txPagina=73&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-26T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, PRONUNCIAMENTO PARLAMENTAR.\r\nCRISE SANIT\u00c1RIA, CRISE HUMANIT\u00c1RIA, PANDEMIA, CORONAV\u00cdRUS, FALECIMENTO, PACIENTE, PROFISSIONAL DE SA\u00daDE.\r\nC\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, ECONOMIA..\r\nPRINC\u00cdPIO DA HARMONIA ENTRE OS PODERES, DI\u00c1LOGO POL\u00cdTICO, GOVERNADOR, PODER EXECUTIVO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Elogio ao Presidente Rodrigo Maia pelo discurso proferido sobre o papel da C\u00e2mara dos Deputados diante da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quero cumpriment\u00e1-lo por sua oportuna fala. V.Exa. reconheceu a gravidade do momento que vivemos, em que h\u00e1 uma crise humanit\u00e1ria e sanit\u00e1ria sem precedentes. V.Exa., em nosso nome, solidarizou-se com os familiares de mais de 24 mil mortos em raz\u00e3o da COVID.\r\nV.Exa., tamb\u00e9m em nosso nome, homenageou os verdadeiros her\u00f3is no combate ao coronav\u00edrus, que s\u00e3o os profissionais da sa\u00fade.\r\nV.Exa. enalteceu o papel da C\u00e2mara, deixando claro que, a todo momento, estamos juntos, ombreados com a popula\u00e7\u00e3o brasileira, minimizando os impactos dessa doen\u00e7a na economia, buscando alternativas de prote\u00e7\u00e3o social, enfim, fazendo o que esperam do Parlamento.\r\nV.Exa. conclamou os Poderes para realizarem um trabalho em harmonia. V.Exa. deixou claro que \u00e9 de di\u00e1logo que o Brasil precisa, di\u00e1logo entre os Poderes e entre o Executivo e os Governadores. V.Exa. falou com o cora\u00e7\u00e3o, refletiu o nosso sentimento.\r\nEu finalizo dizendo que V.Exa. nos representa. Muito obrigado por essa sua fala, em nome de todos os Deputados Federais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2020&txPagina=47&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-28T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 15/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 936/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 15, de 2020, adotado pela Comiss\u00e3o Mista \u00e0 Medida Provis\u00f3ria n\u00ba 936, de 2020, acerca da institui\u00e7\u00e3o do Programa Emergencial de Manuten\u00e7\u00e3o do Emprego e da Renda, e de medidas trabalhistas complementares para enfrentamento do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, queria, inicialmente, enaltecer de fato a postura do Deputado Orlando Silva, que ouviu a todos. \r\nDurante os \u00faltimos 15 dias, tivemos conversas quase que di\u00e1rias, n\u00e3o s\u00f3 com ele, mas tamb\u00e9m com a assessoria t\u00e9cnica do PSDB, a quem cumprimento na pessoa do Dr. Wilson Calvo.\r\nEu acho que foi um momento importante de constru\u00e7\u00e3o de uma unidade de proposta em torno da MP 936/20, que \u00e9 important\u00edssima para o Pa\u00eds, porque n\u00f3s estamos falando da manuten\u00e7\u00e3o de empregos, quer atrav\u00e9s da suspens\u00e3o dos contratos de trabalho, quer atrav\u00e9s da redu\u00e7\u00e3o da jornada e da redu\u00e7\u00e3o do respectivo sal\u00e1rio, com a ajuda e o complemento do Governo.\r\nO PSDB encaminha ''sim''.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-03T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSTIVO LEGAL, PLV 16/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 923/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo do \u00a7 6\u00b0, art. 1-A, da Lei n\u00b0 5.768, de 1971, constante do art. 2\u00b0 do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 923, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 5.768, de 1971, relativa \u00e0 distribui\u00e7\u00e3o gratuita de pr\u00eamios mediante sorteio, vale-brinde ou concurso, a t\u00edtulo de propaganda, e o estabelecimento de normas de prote\u00e7\u00e3o \u00e0 poupan\u00e7a popular.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB vota \"sim\" ao mesmo tempo em que cumprimentamos o Relator pela sensibilidade de ouvir todos os partidos e pelo acolhimento de uma emenda nossa, da lavra do Deputado Eduardo Barbosa, por meio da qual ele incluiu, al\u00e9m de TVs e r\u00e1dios, as entidades assistenciais, que precisam desses sorteios at\u00e9 para a sua sobreviv\u00eancia e subsist\u00eancia.\r\nAgrade\u00e7o ao Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F6%2F2020&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-16T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 932/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 932, de 2020, sobre a altera\u00e7\u00e3o das al\u00edquotas de contribui\u00e7\u00e3o aos servi\u00e7os sociais aut\u00f4nomos especificados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB encaminha \"sim\" ao acordo constru\u00eddo pelo Deputado Hugo Leal, a quem cumprimento por ter tido esse discernimento de ter um olhar diferenciado para o Sistema S, respeitando o acordo feito com os L\u00edderes na semana passada.\r\nPortanto, o encaminhamento \u00e9 \"sim\", somos a favor do relat\u00f3rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F6%2F2020&txPagina=47&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-14T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 25/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 926/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\n\r\nVOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da al\u00ednea b, inciso VI, art. 3\u00ba, da Lei n\u00ba 13.979, de 2020, constante do art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2020, apresentado \u00e0 Medida Provis\u00f3ria  n\u00ba 926, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.979, de 2020, com vista ao estabelecimento dos procedimentos para aquisi\u00e7\u00e3o de bens, servi\u00e7os e insumos destinados ao enfrentamento da emerg\u00eancia de sa\u00fade p\u00fablica decorrente do coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o uma corre\u00e7\u00e3o. Na verdade, houve um encaminhamento por parte do Deputado Samuel, por uma orienta\u00e7\u00e3o equivocada da minha parte, porque eu havia entendido, pela vis\u00e3o que eu tinha tido do assunto, que o PLV retirava essa compet\u00eancia concorrente, e \u00e9 importante que ela exista. Mas, n\u00e3o, o texto mant\u00e9m essa compet\u00eancia concorrente, reconhece a compet\u00eancia dos entes federativos. Portanto, n\u00f3s vamos mudar o encaminhamento.\r\nEu pe\u00e7o escusas ao Deputado Samuel Moreira, que est\u00e1 encaminhando em nosso nome. Pe\u00e7o tamb\u00e9m a reflex\u00e3o dos colegas do PSOL, do PDT e do PTB, porque realmente o PLV preserva a compet\u00eancia concorrente. \r\nEnt\u00e3o, mudamos o nosso voto para \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2020&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-16T12:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 2824/2020, PROJETO DE LEI ORDIN\u00c1RIA, MEDIDA DE EMERG\u00caNCIA, SETOR ESPORTIVO, PRORROGA\u00c7\u00c3O, PRAZO, APLICA\u00c7\u00c3O, RECURSOS, PROJETO ESPORTIVO, MORAT\u00d3RIA, D\u00c9BITO TRIBUT\u00c1RIO, ENTIDADE DESPORTIVA, COMPLEMENTA\u00c7\u00c3O, RENDA MENSAL, PROFISSIONAL, TRABALHO DESPORTIVO, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, DIRETRIZES, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Congratula\u00e7\u00f5es aos Deputados Felipe Carreras e Alexandre Frota, respectivamente, autor e relator do Projeto de Lei n\u00ba 2.824, de 2020, acerca das a\u00e7\u00f5es emergenciais para o setor esportivo, adotadas durante o estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e da altera\u00e7\u00e3o das Leis de n\u00bas 9.615, de 1998, e 13.756, de 2018. Oportunidade do pronunciamento do Deputado Marcelo Freixo a respeito da proposi\u00e7\u00e3o. Agradecimento ao Deputado Coronel Armando, pela colabora\u00e7\u00e3o no fechamento de acordo para a aprova\u00e7\u00e3o da mat\u00e9ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Rapidamente, Sr. Presidente, quero apenas cumprimentar o autor do projeto, Deputado Felipe Carreras, e particularmente tamb\u00e9m cumprimentar o nosso Relator, Deputado Alexandre Frota, que teve o equil\u00edbrio necess\u00e1rio n\u00e3o s\u00f3 para buscar o Governo para formatar esse projeto a quatro m\u00e3os, mas tamb\u00e9m procurar todas as entidades, federa\u00e7\u00f5es, confedera\u00e7\u00f5es, comunidades desportivas.\r\nAcho que a fala do Deputado Marcelo Freixo foi muito oportuna. N\u00f3s n\u00e3o estamos falando s\u00f3 do esporte de clube, s\u00f3 do esporte competitivo, mas do esporte com um alcance social. Essa comunidade vai passar a ter agora um aux\u00edlio emergencial gra\u00e7as ao projeto do Deputado Felipe Carreras, e particularmente, repito, ao relat\u00f3rio apresentado pelo Deputado Alexandre Frota. Essa foi uma oportunidade \u00edmpar.\r\nQuero fazer um agradecimento especial ao Coronel Armando, que aqui est\u00e1 substituindo o Deputado Vitor Hugo. Ele foi de uma gentileza \u00edmpar para comigo, para com este L\u00edder, permitindo que n\u00f3s continu\u00e1ssemos essa vota\u00e7\u00e3o at\u00e9 que fech\u00e1ssemos um acordo com o Governo. Aqui anuncio tamb\u00e9m que esse acordo foi fechado com o Governo, portanto, esse \u00e9 um projeto que ser\u00e1 aprovado nesta Casa, ser\u00e1 aprovado no Senado e ser\u00e1 de fato sancionado pelo Presidente da Rep\u00fablica, porque temos o aval do Governo e do Congresso Nacional para esse importante projeto.\r\nParab\u00e9ns, Deputado Alexandre Frota!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F7%2F2020&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-16T12:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RETIRADA, PL 3042/2020, PROJETO DE LEI ORDIN\u00c1RIA,  PERCENTUAL, RECURSOS, LOTERIA, CONCURSO DE PROGN\u00d3STICO, LOTERIA FEDERAL, FUNDO NACIONAL DE SA\u00daDE (FNS), CALAMIDADE P\u00daBLICA, PANDEMIA, COROAV\u00cdRUS.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de retirada de pauta do Projeto de Lei n\u00ba 3.042, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.756, de 2018, com vista \u00e0 destina\u00e7\u00e3o, ao Fundo Nacional de Sa\u00fade, de parcela dos recursos oriundos de loterias.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 apenas para um r\u00e1pido registro.\r\nFicou combinado com o Governo que, em raz\u00e3o da aprova\u00e7\u00e3o agora deste projeto relatado pelo Deputado Alexandre Frota, n\u00f3s retirar\u00edamos de pauta o Projeto de Lei n\u00ba 3.042, de 2020, um projeto de autoria do Deputado Alexandre Frota e, registro, important\u00edssimo, na medida em que busca recursos para o Fundo Nacional de Sa\u00fade com vistas ao combate ao coronav\u00edrus. \u00c9 que nos foi explicado pelo Governo, e n\u00f3s compreendemos, que n\u00e3o se pode mexer na quest\u00e3o das loterias federais. Por esta raz\u00e3o, n\u00f3s estamos solicitando a retirada do projeto de pauta, em que pese o bel\u00edssimo relat\u00f3rio que j\u00e1 havia sido elaborado pelo Deputado Freixo, que ouviu todos os segmentos envolvidos no tema, ouviu o Governo, ouviu a C\u00e2mara. Portanto, \u00e9 um relat\u00f3rio que deve ficar a\u00ed em stand by para que possamos buscar outra fonte de custeio que n\u00e3o essa especificamente das loterias federais.\r\nEnt\u00e3o, registro o meu agradecimento ao Deputado Freixo pela compreens\u00e3o e ao Deputado Alexandre Frota, autor do projeto. Ambos concordaram com a retirada do projeto da pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F7%2F2020&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-20T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 735/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 735, de 2020, a respeito da concess\u00e3o de abono pecuni\u00e1rio a feirantes e agricultores familiares, em isolamento social ou quarentena decorrente da pandemia de coronav\u00edrus, consoante \u00e0 Lei n\u00ba 13.979, de 2020, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o escusas pelo atraso - eu estava em reuni\u00e3o com o Presidente desta Casa.\r\nO PSDB encaminha \"sim\", ao mesmo tempo em que cumprimenta o Relator Z\u00e9 Silva pela constru\u00e7\u00e3o do relat\u00f3rio, fruto de conversa com todos os L\u00edderes e muito bem explicado no Col\u00e9gio de L\u00edderes hoje, quando todas as d\u00favidas foram dissipadas.\r\nO PSDB encaminha \"sim\".\r\nSr. Presidente, doravante permanecerei em plen\u00e1rio, mas o encaminhamento ser\u00e1 feito pelo Deputado Samuel Moreira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F7%2F2020&txPagina=59&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-22T10:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 938/2020, MEDIDA PROVIS\u00d3RIA, UNI\u00c3O, AUX\u00cdLIO FINANCEIRO, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, FUNDO DE PARTICIPA\u00c7\u00c3O DOS ESTADOS E DO DISTRITO FEDERAL (FPE), FUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), REDU\u00c7\u00c3O, ARRECADA\u00c7\u00c3O TRIBUT\u00c1RIA, CRISE ECON\u00d4MICA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, ACORDO, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Realiza\u00e7\u00e3o de acordo de L\u00edderes para a vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 938, de 2020, relativa \u00e0 concess\u00e3o, pela Uni\u00e3o, de apoio financeiro aos entes federativos contemplados com recursos do Fundo de Participa\u00e7\u00e3o dos Estados - FPE, e do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios - FPM, para mitiga\u00e7\u00e3o das dificuldades financeiras decorrentes do estado de calamidade p\u00fabica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, e da emerg\u00eancia de sa\u00fade p\u00fablica provocada pela Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s est\u00e1vamos conversando aqui com os demais L\u00edderes para buscarmos um acordo para a vota\u00e7\u00e3o da MP 938/20.\r\nEssa medida provis\u00f3ria, que, na semana que vem, caduca, ou seja, seus efeitos deixam de ter validade, precisaria ser aprovada no dia de hoje, porque trata de um aporte ao setor de transporte. \u00c9 inquestion\u00e1vel que todos os Estados e Munic\u00edpios est\u00e3o enfrentando dificuldades nessa \u00e1rea. \u00c9 uma coisa not\u00f3ria, \u00f3bvia, e seria desnecess\u00e1rio qualquer tipo de prova nesse sentido. Basta vermos as televis\u00f5es, ouvirmos as r\u00e1dios. H\u00e1 um desespero desse setor, que precisa realmente desse aporte.\r\nConvers\u00e1vamos aqui com a L\u00edder do PSOL. Ela falava de contrapartidas importantes. Uma delas, por exemplo, \u00e9 a manuten\u00e7\u00e3o do emprego enquanto houvesse o decreto de calamidade p\u00fablica. J\u00e1 que estamos dando uma ajuda, que aqueles empregos que hoje est\u00e3o previstos fossem mantidos.\r\nEu entendo que seria fundamental chegarmos a esse acordo. Conversei com o Relator Hildo Rocha, a quem j\u00e1 fa\u00e7o um agradecimento especial, Sr. Presidente. Eu tive a honra de ter sido o primeiro Promotor de Justi\u00e7a de Campinas a criar uma Promotoria de Justi\u00e7a de apoio \u00e0s pessoas com defici\u00eancia. Por conta disso, tenho uma liga\u00e7\u00e3o muito grande com esse grande segmento.\r\nColocando o assunto para o Deputado Hildo Rocha, S.Exa. acolheu a nossa emenda para que o transporte coletivo pudesse ser contratado, como tamb\u00e9m aquele transporte espec\u00edfico para as pessoas com defici\u00eancia ou com mobilidade reduzida. Ent\u00e3o, fa\u00e7o esse agradecimento p\u00fablico ao Deputado Hildo Rocha.\r\nContinuando, em conversa com o Relator, S.Exa. se colocou a favor de acolher determinadas contrapartidas. Eu acho que, com isso, colocamos um fim \u00e0 celeuma e podemos votar essa MP essencial para o Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F7%2F2020&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-22T11:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 938/2020, MEDIDA PROVIS\u00d3RIA, UNI\u00c3O, AUX\u00cdLIO FINANCEIRO, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, FUNDO DE PARTICIPA\u00c7\u00c3O DOS ESTADOS E DO DISTRITO FEDERAL (FPE), FUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), REDU\u00c7\u00c3O, ARRECADA\u00c7\u00c3O TRIBUT\u00c1RIA, CRISE ECON\u00d4MICA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Proposta para vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 938, de 2020, relativa \u00e0 concess\u00e3o, pela Uni\u00e3o, de apoio financeiro aos entes federativos contemplados com recursos do Fundo de Participa\u00e7\u00e3o dos Estados - FPE, e do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios - FPM, para mitiga\u00e7\u00e3o das dificuldades financeiras decorrentes do estado de calamidade p\u00fabica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, e da emerg\u00eancia de sa\u00fade p\u00fablica provocada pela Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - V.Exa. me permite, Presidente?\r\nVeja: na outra sexta-feira vence o prazo no Senado.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - \u00c9 o risco que vamos ter pela proposta feita pelo Deputado Enio Verri.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Ent\u00e3o, eu s\u00f3 queria fazer uma pondera\u00e7\u00e3o ao Deputado Enio Verri, se V.Exa. me permite, rapidamente.\r\nEu concordo com as preocupa\u00e7\u00f5es dele. Ele se referiu a duas.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - \u00c9 verdade.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Referiu-se \u00e0 inexist\u00eancia de contrapartida e \u00e0 permiss\u00e3o para prorrogar os contratos sem licita\u00e7\u00e3o.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Isso.\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Eu apenas digo que essa situa\u00e7\u00e3o ca\u00f3tica que vivemos tem um car\u00e1ter emergencial.\r\nO que n\u00f3s poder\u00edamos propor, em contrapartida, \u00e9 a manuten\u00e7\u00e3o dos empregos at\u00e9 o fim do decreto de calamidade, at\u00e9 o fim do ano. Ent\u00e3o, eventuais prorroga\u00e7\u00f5es seriam at\u00e9 o fim do decreto de calamidade, at\u00e9 o fim do ano.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Sim, mas temos que ver se haver\u00e1 acordo ou n\u00e3o. Temos que esperar os...\r\nO SR. CARLOS SAMPAIO (PSDB - SP) - Eu s\u00f3 estou fazendo uma pondera\u00e7\u00e3o, porque as preocupa\u00e7\u00f5es do Deputado Enio Verri s\u00e3o as nossas preocupa\u00e7\u00f5es, bem como as dos nossos Deputados.\r\nSe n\u00f3s temos um prazo para isso, que \u00e9 o fim de dezembro, que \u00e9 o prazo do decreto de calamidade, deixa de ser uma prorroga\u00e7\u00e3o de contratos sine die, sem dia certo, e deixa de ser algo em que n\u00e3o haja contrapartida, porque haver\u00e1 a contrapartida com a manuten\u00e7\u00e3o dos empregos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F7%2F2020&txPagina=40&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-22T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 938/2020, MEDIDA PROVIS\u00d3RIA, UNI\u00c3O, AUX\u00cdLIO FINANCEIRO, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, FUNDO DE PARTICIPA\u00c7\u00c3O DOS ESTADOS E DO DISTRITO FEDERAL (FPE), FUNDO DE PARTICIPA\u00c7\u00c3O DOS MUNIC\u00cdPIOS (FPM), REDU\u00c7\u00c3O, ARRECADA\u00c7\u00c3O TRIBUT\u00c1RIA, CRISE ECON\u00d4MICA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Apoio do PSDB \u00e0 sugest\u00e3o apresentada para a vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 938, de 2020, relativa \u00e0 concess\u00e3o, pela Uni\u00e3o, de apoio financeiro aos entes federativos contemplados com recursos do Fundo de Participa\u00e7\u00e3o dos Estados - FPE, e do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios - FPM, para mitiga\u00e7\u00e3o das dificuldades financeiras decorrentes do estado de calamidade p\u00fablica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, e da emerg\u00eancia de sa\u00fade p\u00fablica provocada pela Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSDB concorda com a sugest\u00e3o da vota\u00e7\u00e3o da MP, que, obviamente, vai favorecer Estados do Norte e do Nordeste que necessitam desses recursos. Mas o acordo que fizemos aqui, eu falei com o Deputado Silvinho e tantos outros, \u00e9 para que realmente, na pr\u00f3xima quarta-feira, votemos um projeto que possa de alguma forma subsidiar o transporte dos Estados e Munic\u00edpios das grandes cidades, das capitais - isso \u00e9 fundamental, porque n\u00f3s estamos com problema de mobilidade urbana no Pa\u00eds inteiro -, sempre resguardando o direito das pessoas com necessidades especiais e com mobilidade reduzida.\r\nO PSDB concorda, desde que votemos na pr\u00f3xima semana esse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F7%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-15T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VACINA\u00c7\u00c3O, VACINA, CORONAV\u00cdRUS. \r\nREQUERIMENTO DE URG\u00caNCIA, PL 5503/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, IMPORTA\u00c7\u00c3O, CAR\u00c1TER EXCEPCIONAL, MEDICAMENTO, INSUMO, EQUIPAMENTO M\u00c9DICO, VACINA, AUS\u00caNCIA, AUTORIZA\u00c7\u00c3O, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), AUTORIZA\u00c7\u00c3O, CAR\u00c1TER EMERGENCIAL, AUTORIDADE SANIT\u00c1RIA, PA\u00cdS ESTRANGEIRO, COMBATE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Relev\u00e2ncia do debate a respeito da vacina da Covid-19. Apelo \u00e0 Casa de aprova\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.503, de 2020, a respeito da aquisi\u00e7\u00e3o de vacinas contra a Covid-19.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, cumprimento V.Exa. e todos os L\u00edderes.\r\nEstamos vendo que o tema da vacina \u00e9 recorrente neste plen\u00e1rio. Obviamente, esse \u00e9 um dos assuntos mais importantes, se n\u00e3o o mais relevante, do Pa\u00eds neste momento, em que vivenciamos novamente o aumento do surto de COVID-19 em tod o o Pa\u00eds.\r\nPe\u00e7o v\u00eania para dizer aos colegas que ontem, preocupado evidentemente com o tema, protocolizei o Projeto de Lei n\u00ba 5.503, de 2020 - e n\u00f3s conseguimos 287 assinaturas, mais do que as 257 necess\u00e1rias -, para que pud\u00e9ssemos votar hoje, em regime de urg\u00eancia, o dispositivo sobre o qual falarei agora.\r\n\u00c9 um projeto de lei que na verdade n\u00e3o muda muito a realidade que n\u00f3s temos no Brasil hoje, aprovada pelo Congresso Nacional, sobre distribui\u00e7\u00e3o de medicamentos. Como \u00e9 que funciona hoje a quest\u00e3o dos medicamentos? O Congresso Nacional autorizou, por meio de uma medida provis\u00f3ria que se tornou lei, que todo e qualquer medicamento aprovado por quaisquer das quatro ag\u00eancias mais importantes do mundo ter\u00e1 condi\u00e7\u00f5es de ser vendido no Pa\u00eds. A ANVISA ter\u00e1 exatamente o per\u00edodo de 72 horas para aprov\u00e1-lo. Se ela n\u00e3o aprovar esse mesmo medicamento aprovado por uma das quatro ag\u00eancias, a aprova\u00e7\u00e3o ser\u00e1 por decurso de prazo. Passadas 72 horas, ser\u00e1 poss\u00edvel a venda desse medicamento no Pa\u00eds. E por qu\u00ea? Porque o medicamento contra COVID \u00e9 uma realidade \u00e0 qual n\u00f3s temos que dar total respaldo no Pa\u00eds.\r\nCom rela\u00e7\u00e3o \u00e0 vacina, n\u00f3s queremos o mesmo protagonismo. Toda e qualquer vacina que for autorizada ou registrada em qualquer uma dessas ag\u00eancias poder\u00e1 ser adquirida pelo Pa\u00eds, tendo a ANVISA o prazo de 72 horas para aprov\u00e1-la e, em n\u00e3o o fazendo, ela estar\u00e1 automaticamente aprovada por decurso de prazo.\r\nIsso n\u00e3o tem nada a ver com a MP que o Governo acaba de enviar, porque ele n\u00e3o exige nem o registro nem a autoriza\u00e7\u00e3o emergencial, como n\u00f3s estamos propondo no projeto de lei. A MP prop\u00f5e que haja a aprova\u00e7\u00e3o, e o conceito de aprova\u00e7\u00e3o por uma dessas ag\u00eancias tem a quest\u00e3o de interpreta\u00e7\u00e3o por tr\u00e1s, que faz com que a ANVISA possa demorar dias ou at\u00e9 1 m\u00eas para dar a aprova\u00e7\u00e3o eventual.\r\nLouvo aqui o esfor\u00e7o do Deputado Geninho Zuliani, que est\u00e1 relatando a MP, mas ela, tal como colocada, n\u00e3o d\u00e1 seguran\u00e7a nem tranquilidade ao Pa\u00eds de que as vacinas aprovadas por outras ag\u00eancias respeitadas mundialmente possam ser aqui aprovadas.\r\nSe aprovarmos o projeto de lei em regime de urg\u00eancia, da\u00ed sim, repito, a ANVISA ter\u00e1 72 horas e, em n\u00e3o o fazendo, a aprova\u00e7\u00e3o dar-se-\u00e1 por decurso de prazo. Pe\u00e7o a todos que se somem a n\u00f3s neste esfor\u00e7o para aprovar o regime de urg\u00eancia. Eu j\u00e1 falei com o Presidente Rodrigo Maia e ele se prontificou a coloc\u00e1-lo na pauta.\r\nConversando ainda com o Deputado Alessandro Molon, verifiquei que S.Exa. tem um projeto que diz respeito exatamente ao tema em quest\u00e3o. Por essa raz\u00e3o, o Deputado Molon pediu para subscrever o projeto que apresentamos. N\u00f3s n\u00e3o s\u00f3 acatamos esse pedido, como lhe agradecemos pelo fato de poder ser coautor desse projeto. Eu tamb\u00e9m convido os demais pares, para que fa\u00e7amos um projeto de coautoria. \u00c9 fundamental que n\u00f3s tenhamos esse instrumento objetivo para a aquisi\u00e7\u00e3o de vacinas (falha na transmiss\u00e3o) que o mundo, para podermos prover e ter as vacinas necess\u00e1rias para aplicar em todos os cidad\u00e3os.\r\nN\u00f3s aqui ainda estamos discutindo com o Supremo Tribunal Federal, j\u00e1 tendo essa corte inclusive determinado que haja uma defini\u00e7\u00e3o do plano de vacina\u00e7\u00e3o. S\u00f3 que se n\u00e3o dermos autoriza\u00e7\u00e3o para que possam ser adquiridas as vacinas aprovadas por essas quatro ag\u00eancias de respeitabilidade internacional, a ANVISA pode tornar-se inerte diante de uma a\u00e7\u00e3o concreta para a aquisi\u00e7\u00e3o dessas vacinas.\r\nPor isso, eu pe\u00e7o aos colegas e demais L\u00edderes apoio para que possamos aprovar, o quanto antes, a urg\u00eancia da proposta que temos para facilitar a vinda de vacinas para o Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, AUDITORIA, VOTO, CONTRARIO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Contrariedade \u00e0 retomada do voto impresso nas elei\u00e7\u00f5es brasileiras. Seguran\u00e7a do sistema eleitoral brasileiro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, quando vinha a esta tribuna para debater um tema t\u00e3o caro \u00e0 sociedade brasileira, confesso a V.Exas. que n\u00e3o foram poucos os que me aconselharam a n\u00e3o vir externar o meu posicionamento de p\u00fablico. Pois penso o contr\u00e1rio. Tendo sido o autor, e o \u00fanico autor, de um pedido de auditoria ao TSE nas elei\u00e7\u00f5es de 2014, justamente para que demonstrasse se havia ou n\u00e3o perspectiva de fraude junto \u00e0s urnas eletr\u00f4nicas, senti que tinha o dever moral de estar nesta Casa e dizer como os fatos se passaram. Talvez poucos aqui tenham conhecimento desses fatos, para os quais pe\u00e7o aten\u00e7\u00e3o, porque fazem parte da hist\u00f3ria deste Parlamento. \r\nN\u00e3o quero tratar o tema aqui ridicularizando a quest\u00e3o ou politizando a quest\u00e3o. N\u00e3o quero falar se tanques vieram aqui pressionar ou n\u00e3o o Congresso. N\u00e3o quero falar se o Presidente Bolsonaro pretende ou n\u00e3o, com sua postura,  desviar o foco dos assuntos importantes do Pa\u00eds. Quero falar sobre auditoria das urnas e voto impresso.\r\nEm 2014, diante de tantas fraudes que eram sugeridas nas redes sociais, como Vice-Presidente Nacional do meu partido, solicitei ao Presidente do TSE uma auditoria nas urnas. Esse pedido foi autorizado. S\u00f3 para que V.Exas. saibam o tempo que durou essa auditoria, que tive a honra de coordenar, foi 1 ano com t\u00e9cnicos do exterior, com t\u00e9cnicos do Brasil e com t\u00e9cnicos do TSE.\r\nNesse 1 ano, ao final de 2015, lemos numa entrevista coletiva o resultado dessa auditoria. Havia alguma fraude? N\u00e3o, nenhuma fraude foi constatada. \r\nE o sistema \u00e9 audit\u00e1vel? Em 2015, numa entrevista coletiva, eu disse: \"N\u00e3o, o sistema tal como est\u00e1 n\u00e3o \u00e9 audit\u00e1vel\". E eu explico. Os nossos t\u00e9cnicos tentaram entrar no sistema de criptografia. O TSE n\u00e3o autorizou. Os nossos t\u00e9cnicos quiseram entrar no BIOS - que eu nem sabia o que era -, que \u00e9 o sistema de inicializa\u00e7\u00e3o de um computador. Os t\u00e9cnicos do TSE disseram: \"N\u00e3o\". Tentamos fazer, em 2015, ataques simulados por hackers. Oficialmente, o TSE respondeu: \"N\u00e3o\". Ent\u00e3o, dissemos: \"O sistema n\u00e3o demonstrou fraude, mas ele n\u00e3o \u00e9 audit\u00e1vel\".\r\nEm 2015 mesmo, no final daquele ano, a primeira resolu\u00e7\u00e3o do TSE veio para tentar dar mais transpar\u00eancia ao processo, que at\u00e9 ent\u00e3o para n\u00f3s era inaudit\u00e1vel. Mas n\u00e3o me convenceu, e eu confesso que, nas elei\u00e7\u00f5es 2018, continuava com as mesmas d\u00favidas e com o mesmo posicionamento. O melhor seria o voto eletr\u00f4nico, com um voto impresso acoplado que cairia numa caixa, algo que n\u00e3o poderia ser devass\u00e1vel. E n\u00f3s ter\u00edamos ali como conferir e auditar. \r\nFoi ent\u00e3o que, em dezembro tamb\u00e9m de 2019, veio uma nova resolu\u00e7\u00e3o do TSE. Eu nunca vi uma resolu\u00e7\u00e3o t\u00e3o pormenorizada e cuidadosa nos aspectos da auditoria, com v\u00e1rias p\u00e1ginas. Isso ocorreu em dezembro de 2019. \r\nPara que V.Exas. tenham uma ideia, quem participava na \u00e9poca em que pedimos auditoria? O Minist\u00e9rio P\u00fablico, partidos pol\u00edticos e a OAB. O que foi feito pelo TSE? Ampliou para que pudessem participar, al\u00e9m desses tr\u00eas \u00f3rg\u00e3os, todos os departamentos de ci\u00eancia e tecnologia das universidades brasileiras - n\u00famero 1. N\u00famero 2: chamou tamb\u00e9m a posicionar-se a Associa\u00e7\u00e3o Nacional de Computa\u00e7\u00e3o. Por fim, oficialmente convidou a participar, e est\u00e1 na resolu\u00e7\u00e3o, as For\u00e7as Armadas Brasileiras, em dezembro de 2019. E, naquele mesmo momento, autorizou que ataques simulados fossem feitos quantas vezes fossem solicitados, para aferir que realmente a urna era audit\u00e1vel.\r\nSenhores, tudo o que o nosso partido colocou na auditoria de 2014, ou melhor, finalizada em 2015, constou dessa resolu\u00e7\u00e3o. Pode n\u00e3o agradar grande parte dos que est\u00e3o me ouvindo, talvez grande parte dos meus eleitores, mas esses s\u00e3o os fatos como eles s\u00e3o. E quando eu disse que o TSE tinha, em 2015, urnas n\u00e3o audit\u00e1veis, eu disse com embasamento t\u00e9cnico e cient\u00edfico, com base em per\u00edcias. E se hoje venho aqui dizer que esse voto \u00e9 audit\u00e1vel e \u00e9 afer\u00edvel, \u00e9 porque tenho a mesma resolu\u00e7\u00e3o, essa de 2019, a respaldar o que eu estou dizendo. \r\nEu n\u00e3o quero convencer V.Exas. N\u00e3o podemos dizer aqui: \"Mas vamos votar o voto audit\u00e1vel?\" Como assim, o voto audit\u00e1vel?! Algu\u00e9m em s\u00e3 consci\u00eancia indagaria para que voto audit\u00e1vel? Todos n\u00f3s queremos o voto audit\u00e1vel! A sociedade quer o voto audit\u00e1vel! Aqui n\u00f3s estamos falando de voto impresso.\r\nE o voto impresso era aquele que exigia a participa\u00e7\u00e3o de uma comiss\u00e3o de mes\u00e1rios, de milhares de homens pelo Brasil conferindo n\u00famero e nome, porque a fraude era vergonhosa em todo o Pa\u00eds. Urnas eram desviadas, no transporte desses votos. E esses votos eram conferidos por milhares de seres humanos aqui no Brasil, pessoas que tinham vincula\u00e7\u00f5es partid\u00e1rias. \r\nOptamos pela urna eletr\u00f4nica. E, enquanto ela n\u00e3o foi afer\u00edvel e audit\u00e1vel, denunciei isso, e o fiz publicamente. Mas tamb\u00e9m tenho que ter a coragem de vir aqui e dizer: em 2019, na Resolu\u00e7\u00e3o n\u00ba 23.603, o tema foi debelado. N\u00f3s n\u00e3o temos mais d\u00favidas. N\u00f3s do nosso partido, eu enquanto Deputado, eu com a minha hist\u00f3ria de Promotor de Justi\u00e7a n\u00e3o tenho mais a menor d\u00favida de que o sistema \u00e9 seguro. Volto a dizer: universidades brasileiras, Minist\u00e9rio P\u00fablico, OAB, todos os centros de tecnologia das universidades, For\u00e7as Armadas, todos integram essa comiss\u00e3o. \r\nEu precisaria fazer este relato aos meus colegas e \u00e0s minhas colegas, para que V.Exas. soubessem do hist\u00f3rico diretamente daquele que teve a honra de coordenar o \u00fanico pedido de auditoria feito ao TSE.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB). \r\nCONTESTA\u00c7\u00c3O, PRONUNCIAMENTO, MAJOR VITOR HUGO, DEPUTADO FEDERAL, ALTERA\u00c7\u00c3O, POSI\u00c7\u00c3O, CARLOS SAMPAIO, VOTO IMPRESSO.",
+        "nomeDeputado": "Carlos Sampaio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade de emiss\u00e3o de c\u00e9dulas f\u00edsicas de vota\u00e7\u00e3o em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso), ressalvados os destaques. Contesta\u00e7\u00e3o ao pronunciamento do Deputado Vitor Hugo, a respeito do posicionamento do orador na vota\u00e7\u00e3o da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CARLOS SAMPAIO (PSDB - SP. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB encaminha \"n\u00e3o\", Sr. Presidente. \r\nFa\u00e7o aqui apenas um reparo na fala do Major Vitor Hugo, que disse que o Deputado Carlos Sampaio acabou por mudar de posi\u00e7\u00e3o. N\u00e3o. Ocorreu o contr\u00e1rio. Quando entend\u00edamos que o voto era inaudit\u00e1vel, dissemos isso em alto e bom som ao TSE, em 2014, em 2015, em 2016, em 2017 e em 2018. Em 2019, veio uma nova resolu\u00e7\u00e3o, permitindo que o voto fosse audit\u00e1vel, afer\u00edvel, com a participa\u00e7\u00e3o de membros das universidades, OAB, Minist\u00e9rio P\u00fablico, partidos pol\u00edticos e, tamb\u00e9m - devo fazer este registro aqui, Major Vitor Hugo -, For\u00e7as Armadas. \r\nA prop\u00f3sito, na auditagem de 2021, quando da verifica\u00e7\u00e3o digital, estava presente um representante das For\u00e7as Armadas, em 2020. Fica o registro. Se V.Exa. quiser, leio o nome de quem estava presente nessa reuni\u00e3o de marca\u00e7\u00e3o digital para a elei\u00e7\u00e3o de 2020.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

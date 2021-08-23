@@ -1,0 +1,578 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "H\u00c9LIO COSTA, DEPUTADO FEDERAL, COMPROMISSO, INTERESSE, SANTA CATARINA. \r\nREP\u00daDIO, REFORMA PREVIDENCI\u00c1RIA, SANTA CATARINA, ALTERA\u00c7\u00c3O, LEI DE RESPONSABILIDADE FISCAL.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Inefic\u00e1cia da reforma previdenci\u00e1ria realizada  no Estado de Santa Catarina. Efeitos negativos da flexibiliza\u00e7\u00e3o da Lei de Responsabilidade Fiscal no Estado. Compromisso de atua\u00e7\u00e3o parlamentar em defesa dos interesses do povo catarinense.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (Bloco/PRB - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, parece que n\u00e3o se respeita o tempo aqui, mas eu estou na tribuna e lhe agrade\u00e7o o espa\u00e7o.\r\nMeu nome \u00e9 H\u00e9lio Costa, sou natural de Florian\u00f3polis e fui o Deputado Federal mais votado em Santa Catarina. Quero dizer aos catarinenses que estou aqui nesta Casa para fazer a diferen\u00e7a. V\u00e1rias vezes eu fui convidado, mas nunca aceitei ser candidato, porque eu tinha que fazer ou terminar alguma coisa. Dessa vez eu resolvi sair candidato, porque senti que tinha que mudar, que come\u00e7ar um Brasil novo. E n\u00f3s vamos come\u00e7ar um Brasil novo.\r\nSr. Presidente, Srs. Deputados, Sras. Deputadas, no meu Estado fizeram a reforma da Previd\u00eancia, mas h\u00e1 cada vez mais d\u00edvidas, cada vez mais d\u00edvidas. Flexibilizar a Lei de Responsabilidade Fiscal \u00e9 premiar o mau administrador. O Governo que saiu deixou o Estado cheio de d\u00edvidas e sem dinheiro no Tesouro. O atual Governador, eleito pelo PSL, est\u00e1 passando por dificuldades. Temos duas pontes que podem cair a qualquer momento - essa ser\u00e1 mais uma desgra\u00e7a neste Pa\u00eds. H\u00e1 dinheiro para fazer essas obras? N\u00e3o h\u00e1 dinheiro para faz\u00ea-las. Desde 2015 que n\u00f3s da imprensa e Deputados estamos alertando para isso. Mas, infelizmente, nada foi feito.\r\nQuero dizer ao povo de Santa Catarina que estarei aqui nesta Casa acompanhando tudo. Eu sei das necessidades de Santa Catarina. E todos n\u00f3s sabemos do potencial do nosso Estado. Quero agradecer aos catarinenses que me deram praticamente 180 mil votos, fazendo-me assim o Deputado Federal mais votado do nosso Estado. Podem contar comigo!\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "S\u00c3O JOS\u00c9 (SC), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Transcurso do 269\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de S\u00e3o Jos\u00e9 , Estado de Santa Catarina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (Bloco/PRB - SC. Pela ordem. Sem revis\u00e3o do orador.) - Aproveitando para dar uma pausa, quero me dirigir \u00e0 cidade de S\u00e3o Jos\u00e9, na Grande Florian\u00f3polis, que hoje est\u00e1 comemorando 269 anos de emancipa\u00e7\u00e3o pol\u00edtica.\r\nS\u00e3o Jos\u00e9, hoje, \u00e9 uma das maiores cidades de Santa Catarina e a que mais gera emprego em nosso Estado. Ent\u00e3o, quero daqui, do microfone da C\u00e2mara dos Deputados, mandar o meu abra\u00e7o, os meus parab\u00e9ns aos josefenses que tanto t\u00eam feito para que a cidade se desenvolva. E hoje este Munic\u00edpio est\u00e1 realmente num plano especial entre os Munic\u00edpios de Santa Catarina. S\u00e3o Jos\u00e9 de Terra Firme, \u00e0 nossa S\u00e3o Jos\u00e9 aquele abra\u00e7o!\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-23T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "MARCELLO CORR\u00caA PETRELLI, PRESIDENTE, ASSOCIA\u00c7\u00c3O CATARINENSE DE EMISSORAS DE R\u00c1DIO E TELEVIS\u00c3O (ACAERT), ATUA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nRODOVIA TRANSLITOR\u00c2NEA, RODOVIA, ANEL RODOVI\u00c1RIO, FLORIAN\u00d3POLIS (SC), TARC\u00cdSIO GOMES DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, AUDI\u00caNCIA P\u00daBLICA.\r\nAG\u00caNCIA NACIONAL DE TRANSPORTES TERRESTRES (ANTT), GEST\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Encaminhamento ao orador, pela Associa\u00e7\u00e3o Catarinense  de Emissoras de R\u00e1dio e Televis\u00e3o - ACAERT, de correspond\u00eancia sobre a campanha Jeito Catarinense. Sauda\u00e7\u00e3o ao empres\u00e1rio Marcello Corr\u00eaa Petrelli. Reuni\u00e3o do orador  com o Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, para debate das obras da BR-101 e do anel vi\u00e1rio da Grande Florian\u00f3polis, Estado de Santa Catarina. Atua\u00e7\u00e3o insatisfat\u00f3ria da Ag\u00eancia Nacional de Transportes Terrestres - ANTT.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nCumprimento as Sras. Deputadas e os Srs. Deputados.\r\nSr. Presidente, menciono correspond\u00eancia que recebi da ACAERT - Associa\u00e7\u00e3o Catarinense de Emissoras de R\u00e1dio e Televis\u00e3o. Ela lan\u00e7ou, em 2018, uma campanha espetacular, denominada Jeito Catarinense. Foram distribu\u00eddos 400 mil cart\u00f5es e 10 mil cartilhas em todo o Estado de Santa Catarina. O objetivo da iniciativa foi resgatar valores b\u00e1sicos, como a gentileza, a educa\u00e7\u00e3o, a solidariedade, a colabora\u00e7\u00e3o e a cidadania. Foram desenvolvidas a\u00e7\u00f5es nas escolas p\u00fablicas e privadas com atividades que completaram o projeto pedag\u00f3gico da unidade escolar. Trata-se de um trabalho realmente espetacular, e j\u00e1 come\u00e7ou novamente em 2019. Como jornalista, quero cumprimentar o Presidente da Associa\u00e7\u00e3o Catarinense de Emissoras de R\u00e1dio e Televis\u00e3o, o empres\u00e1rio Marcello Corr\u00eaa Petrelli. \r\nSr. Presidente, Sras. e Srs. Deputados, tamb\u00e9m quero falar sobre a ANTT. N\u00f3s teremos hoje uma audi\u00eancia com o Ministro Tarc\u00edsio Freitas para falar justamente da BR-101 e o anel vi\u00e1rio que corta a grande Florian\u00f3polis. Nesse trecho da Grande Florian\u00f3polis \u00e9 onde se registra o maior n\u00famero de acidentes. Vamos levar a S.Exa. a nossa preocupa\u00e7\u00e3o.\r\nA minha preocupa\u00e7\u00e3o agora \u00e9 com a a\u00e7\u00e3o da ANTT, Sr. Presidente, Sras. e Srs. Deputados, que n\u00e3o fiscaliza, n\u00e3o acompanha. Parece que olha mais para o empres\u00e1rio do que para o cidad\u00e3o. Francamente! Deixo o meu rep\u00fadio a essa autarquia, porque n\u00e3o tem feito aquilo para o que ela foi criada. V\u00e1rias falcatruas foram feitas pelas empresas nesse trecho da BR-101, que n\u00e3o \u00e9 interessante s\u00f3 para os Munic\u00edpios da Grande Florian\u00f3polis, mas tamb\u00e9m para S\u00e3o Jos\u00e9, Bigua\u00e7u, Palho\u00e7a, Santo Amaro da Imperatriz. Ser\u00e1 importante para todo o Brasil, porque por ali passa toda a produ\u00e7\u00e3o brasileira que vai para o sul ou que vem do sul para outro lugar.\r\nO SR. PRESIDENTE (Otoni de Paula. PSC - RJ) - Pe\u00e7o que conclua, Deputado.\r\nO SR. H\u00c9LIO COSTA (PRB - SC) - Vou concluir, Sr. Presidente.\r\nN\u00f3s teremos hoje uma audi\u00eancia com o Ministro a partir das 18 horas. Esperamos que S.Exa. nos traga uma solu\u00e7\u00e3o, porque os catarinenses esperam h\u00e1 muito tempo a conclus\u00e3o desse trecho do anel vi\u00e1rio da regi\u00e3o da Grande Florian\u00f3polis, que, repito, est\u00e1 nas estat\u00edsticas da Pol\u00edcia Rodovi\u00e1ria Federal como um dos trechos em que mais se registram acidentes no Brasil. O n\u00famero de autom\u00f3veis e de caminh\u00f5es que passa por ali \u00e9 muito grande, principalmente de caminh\u00f5es, e ela corta cidades importantes.\r\nSr. Presidente, muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CENTRAIS EL\u00c9TRICAS DO SUL DO BRASIL (ELETROSUL), PRIVATIZA\u00c7\u00c3O, CONTR\u00c1RIO.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Apelo ao Presidente da Rep\u00fablica e ao Ministro de Minas e Energia por n\u00e3o privatiza\u00e7\u00e3o da empresa Centrais El\u00e9tricas S/A - ELETROSUL.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente. Boa tarde, Sras. e Srs. Deputados.\r\nEu estou aqui para fazer uma den\u00fancia. Prestem aten\u00e7\u00e3o, Srs. Deputados! A ELETROSUL, do sistema ELETROBRAS, \u00e9 a \u00fanica que est\u00e1 no azul. Isso quer dizer que \u00e9 a \u00fanica que d\u00e1 lucro. Querem transformar a ELETROSUL, levando-a para a Companhia de Gera\u00e7\u00e3o T\u00e9rmica de Energia El\u00e9trica de Candiota. Isso quer dizer que \u00e9 uma minhoca engolindo uma jiboia. Ent\u00e3o, eu fa\u00e7o aqui um apelo ao Presidente, ao Ministro de Minas e Energia: pare com essa coisa.\r\nQuero dizer a voc\u00eas que ela vai ser vendida e quem vai comprar \u00e9 um grupo chin\u00eas. Est\u00e1 tudo orquestrado. A ELETROSUL atende os Estados de Mato Grosso do Sul, Paran\u00e1, Santa Catarina e Rio Grande do Sul. A pequena termel\u00e9trica de Candiota, que \u00e9 uma minhoca, vai engolir um jiboia. N\u00e3o conseguimos entender isso.\r\nDigo mais: v\u00e3o vender tamb\u00e9m todo o sistema el\u00e9trico do Brasil. Mas a nossa ELETROSUL \u00e9 positiva, est\u00e1 no azul, como dizem, e d\u00e1 uma aten\u00e7\u00e3o incr\u00edvel aos Estados do Sul.\r\nSra. Presidente, V.Exa. tamb\u00e9m \u00e9 de Santa Catarina. Tomara que V.Exa. fa\u00e7a coro com a minha voz!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "APOIO POL\u00cdTICO, DANIEL FREITAS, PRESIDENTE, FRENTE PARLAMENTAR, CARV\u00c3O MINERAL, SANTA CATARINA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Daniel Freitas pela cria\u00e7\u00e3o da Frente Parlamentar Mista em Apoio ao Carv\u00e3o Mineral.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, quero cumprimentar o Deputado Daniel Freitas pela iniciativa de cria\u00e7\u00e3o da Frente em Apoio ao Carv\u00e3o. O carv\u00e3o hoje \u00e9 utilizado em todo o mundo, e no Brasil ainda existem problemas.\r\nDeputado Daniel, eu trabalhei no Grupo Deom\u00edcio Freitas, conheci o Sr. Deom\u00edcio, grande homem, conheci o seu pai tamb\u00e9m, e essa Frente ser\u00e1 muito importante para Santa Catarina, um Estado onde h\u00e1 grande produ\u00e7\u00e3o de carv\u00e3o. Eu tenho certeza de que ela vai dar certo. Se V.Exa. me convidar, farei parte dessa Frente tamb\u00e9m, para levar a extra\u00e7\u00e3o de carv\u00e3o \u00e0 nossa regi\u00e3o sul do Estado. \r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 29/2019, EMENDA DE COMISS\u00c3O, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 29, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 875, de 2019, sobre o Aux\u00edlio Emergencial Pecuni\u00e1rio para fam\u00edlias de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Pela ordem. Sem revis\u00e3o do orador.) - O PRB orienta o voto \"n\u00e3o\" e explico o porqu\u00ea. O Estado de Minas Gerais tem culpa, tem participa\u00e7\u00e3o, porque deixou aquela situa\u00e7\u00e3o se criar, mas a indeniza\u00e7\u00e3o vai ficar para o Estado de Minas Gerais. \r\nO PRB votaria a favor se fosse para a Vale fazer a indeniza\u00e7\u00e3o, e n\u00e3o o Governo de Minas Gerais, que j\u00e1 est\u00e1 com problemas. Por isso, o PRB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=172&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T00:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 8/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORAVEL.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 8, oferecida \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu sou jornalista de Santa Catarina e acompanho o trabalho de todas as pol\u00edcias. N\u00f3s vemos, nas pesquisas, que todos os crimes tiveram queda, gra\u00e7as ao trabalho dos policiais. Eu n\u00e3o vou falar da Pol\u00edcia Federal ou da Pol\u00edcia Civil, mas de todos os que colocam sua vida \u00e0 frente quando saem de casa para nos proteger.\r\nEu queria agradecer a todas as Lideran\u00e7as, porque no painel todos os partidos est\u00e3o orientando \"sim\", o que significa uma vit\u00f3ria da seguran\u00e7a p\u00fablica e das pol\u00edcias de Santa Catarina.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=286&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T13:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SEGURAN\u00c7A P\u00daBLICA, SANTA CATARINA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Elogio \u00e0s for\u00e7as de seguran\u00e7a p\u00fablica do Estado de Santa Catarina.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania de S\u00e1, Sras. e Srs. Parlamentares, assumo a tribuna para homenagear as pol\u00edcias e a seguran\u00e7a p\u00fablica de Santa Catarina pelo desempenho nos \u00faltimos meses e nos \u00faltimos anos.\r\nQuero cumprimentar o Secret\u00e1rio e Comandante da Pol\u00edcia Militar, o Coronel Gomes, que faz um trabalho espetacular, bem como o Delegado-Geral da Pol\u00edcia Civil, o Sr. Paulo Norberto Koerich.\r\nOs policiais civis e militares de Santa Catarina, os bombeiros e os policiais da Pol\u00edcia Rodovi\u00e1ria Federal do nosso Estado t\u00eam feito um trabalho realmente espetacular.\r\nDurante o recesso, mantive contato com as Pol\u00edcias Civil e Militar, com o Corpo de Bombeiros, com a Pol\u00edcia Rodovi\u00e1ria Federal, li relat\u00f3rios e vi reportagens de esclarecimento de feminic\u00eddios, homic\u00eddios e roubos que ocorreram no nosso Estado. O resultado foi positivo: pris\u00f5es de assassinos e de ladr\u00f5es.\r\nHoje a seguran\u00e7a em Santa Catarina vai bem, gra\u00e7as a Deus, mas tamb\u00e9m gra\u00e7as aos esfor\u00e7os dos nossos policiais e tiras. Quando eu falo tiras, estou falando das tr\u00eas pol\u00edcias, que realmente desenvolvem um trabalho espetacular. \r\nSe pesarmos o que as pol\u00edcias de Santa Catarina, em poucos dias de atua\u00e7\u00e3o, apreenderam em maconha nos \u00faltimos dias, \u00e9 mais de uma tonelada! Opera\u00e7\u00f5es especiais foram feitas para proteger o dinheiro p\u00fablico. Gente do passado que havia posto a m\u00e3o nos cofres das nossas Centrais El\u00e9tricas de Santa Catarina - CELESC acabou sendo descoberta e ter\u00e1 que devolver ao Estado o dinheiro que tirou indevidamente da empresa em Santa Catarina. Isso \u00e9 fruto do trabalho feito pelo pessoal da DEIC em Santa Catarina, numa opera\u00e7\u00e3o para recuperar dinheiro da CELESC.\r\nPortanto, meus cumprimentos aos policiais de Santa Catarina.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T12:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SOLICITA\u00c7\u00c3O, GOVERNO FEDERAL, INCENTIVO, IND\u00daSTRIA PESQUEIRA, PESCADOR, DEFESA, PESCA, CR\u00cdTICA, RESTRI\u00c7\u00c3O, ATIVIDADE PESQUEIRA, GOVERNO ESTADUAL, RIO GRANDE DO SUL.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Solicita\u00e7\u00e3o ao Governo Federal de apoio aos pescadores e \u00e0 ind\u00fastria pesqueira do Brasil.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (PRB - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero falar sobre a situa\u00e7\u00e3o do pescador brasileiro, n\u00e3o s\u00f3 do pescador de Santa Catarina, o meu Estado.\r\nOntem foi realizada aqui uma sess\u00e3o em homenagem os pescadores, mas os pescadores n\u00e3o t\u00eam nada a comemorar - se muito, t\u00eam a lamentar.\r\nO Estado do Rio Grande do Sul limitou o espa\u00e7o de pesca do pescador no extremo sul do Brasil. O pescador \u00e9 muito prejudicado porque todos os anos s\u00e3o feitas normas diferentes. Por exemplo, a temporada de pesca da tainha est\u00e1 cada vez mais prejudicada.\r\nPediria ao Sr. Presidente que interviesse junto ao Governo Federal, para que os pescadores tenham mais tranquilidade para pescar.\r\nNo meu Estado, Sr. Presidente, a ind\u00fastria pesqueira emprega mais de 1 milh\u00e3o de pessoas. Nas embarca\u00e7\u00f5es milhares de homens pescam. Tanto o pescador artesanal quanto o pescador industrial est\u00e3o tendo preju\u00edzos, porque o Minist\u00e9rio n\u00e3o sabe o que faz com rela\u00e7\u00e3o \u00e0 pesca no Brasil.\r\nN\u00e3o falo s\u00f3 da Regi\u00e3o Sul, Sr. Presidente. Eu falo tamb\u00e9m das Regi\u00f5es Norte e Nordeste, que t\u00eam preju\u00edzo porque o Governo Federal esquece a categoria. Muitos querem trabalhar e outros querem trabalhar como os pescadores, mas t\u00eam seus espa\u00e7os diminu\u00eddos, e n\u00e3o t\u00eam a aten\u00e7\u00e3o devida do Governo Federal.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=49&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "BR 282, BR 163,, RODOVIA FEDERAL, SANTA CATARINA, PRECARIEDADE.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Estado de abandono das BRs-282 e 163, no Estado de Santa Catarina. Pedido ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, de recupera\u00e7\u00e3o das rodovias.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, eu estive no oeste de Santa Catarina e estou aqui para fazer um relato testemunhal e o meu lamento por causa da situa\u00e7\u00e3o em que encontrei a BR-282, que corta o Estado de Santa Catarina, e a BR-163. Ambas est\u00e3o completamente abandonadas.\r\nPor essas duas rodovias passam a produ\u00e7\u00e3o de Santa Catarina e a do Rio Grande do Sul, mas a BR-282 \u00e9 a Estrada da Integra\u00e7\u00e3o de Santa Catarina, e bilh\u00f5es e bilh\u00f5es de reais passam toda semana por ela.\r\nInfelizmente, Sr. Presidente, Srs. Deputados, as duas estradas est\u00e3o abandonadas, e os caminhoneiros e produtores da regi\u00e3o est\u00e3o pedindo socorro ao Governo Federal. Por isso, pe\u00e7o ao Ministro que o DNIT d\u00ea uma aten\u00e7\u00e3o especial a essas duas rodovias de Santa Catarina, que transportam toda a produ\u00e7\u00e3o agr\u00edcola do Oeste do Estado e est\u00e3o em situa\u00e7\u00e3o lament\u00e1vel.\r\nA BR-163, Sr. Presidente, tem um viaduto na cidade de S\u00e3o Jos\u00e9 do Cedro que o povo est\u00e1 pedindo que seja derrubado, porque ele est\u00e1 atrapalhando o desenvolvimento da regi\u00e3o - ele foi constru\u00eddo h\u00e1 5 anos, e a obra n\u00e3o foi conclu\u00edda.\r\nEu n\u00e3o fui \u00e0 BR-153, mas imagino que a situa\u00e7\u00e3o seja a mesma.\r\nNosso Estado produz, mas quer condi\u00e7\u00f5es, Sr. Presidente, de levar e trazer as mercadorias para serem distribu\u00eddas pelo Brasil.\r\nMuito obrigado, Sr. Presidente.\r\nUm abra\u00e7o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, MPV 885/2019, MEDIDA PROVISORIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVORAVEL.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 885, de 2019, a respeito da venda de bens apreendidos de traficantes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, esta medida provis\u00f3ria \u00e9 de suma import\u00e2ncia tamb\u00e9m para a seguran\u00e7a p\u00fablica, porque ve\u00edculos utilizados pelos traficantes que ficam apodrecendo em p\u00e1tios de delegacias ou em p\u00e1tios de Prefeituras poderiam ser repassados rapidamente para a Pol\u00edcia Militar, para a Pol\u00edcia Civil, e assim se renovaria, aumentaria a frota, com os ve\u00edculos utilizados pelos traficantes.\r\nDo meu ponto de vista, \u00e9 muito boa esta medida provis\u00f3ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T21:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DO DEPUTADOS,  CONGRATULA\u00c7\u00c3O, PAUTA (PROCESSO LEGISLATIVO), PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CRIA\u00c7\u00c3O, POL\u00cdCIA PENITENCI\u00c1RIA .",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela inclus\u00e3o na pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero cumpriment\u00e1-lo por colocar em vota\u00e7\u00e3o a PEC 372. Eu falo pelo meu Estado, o Estado de Santa Catarina, cujo Departamento de Administra\u00e7\u00e3o Penal \u00e9 modelo para o Brasil. L\u00e1 se formaram os excelentes profissionais que trabalham em penitenci\u00e1rias e pres\u00eddios em nosso Estado. No Brasil tamb\u00e9m h\u00e1 muita gente boa que corre risco de vida todos os dias.\r\n Quero cumprimentar os agentes penitenci\u00e1rios, os agente penais, que estiveram aqui conversando conosco at\u00e9 se formar essa PEC, de n\u00ba 372. Hoje \u00e9 um dia muito especial para o sistema prisional em nosso Estado.\r\nEnt\u00e3o, vamos a ela, Sr. Presidente! Vamos votar essa PEC! Este \u00e9 um dia todo especial para esta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=268&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REPUBLICANOS (PARTIDO POL\u00cdTICO).",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penal federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, temos que colocar essa PEC em vota\u00e7\u00e3o. \r\nA categoria est\u00e1 h\u00e1 15 anos esperando! \u00c9 considerada pela Organiza\u00e7\u00e3o Internacional do Trabalho a que sofre mais com a periculosidade. \u00c9 uma categoria que precisa do nosso apoio e que h\u00e1 15 anos vem discutindo isso.\r\nVamos criar a Pol\u00edcia Penal, Presidente, para a seguran\u00e7a desses profissionais, que j\u00e1 s\u00e3o de seguran\u00e7a! Como Deputado Federal mais votado em Santa Catarina fa\u00e7o esse pedido.\r\nO Republicanos vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=205&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, MPV 886/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.\r\nDIA DO PROFESSOR, HOMENAGEM.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Transcurso do Dia do Professor. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, da Medida Provis\u00f3ria n\u00ba 886, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, com rela\u00e7\u00e3o aos professores, acho que eles n\u00e3o t\u00eam nada a comemorar no dia de hoje, o Dia do Professor, porque nenhum Governo, nem este nem os outros que passaram e que eu acompanhei, privilegiou essa classe t\u00e3o importante para o desenvolvimento de qualquer na\u00e7\u00e3o. Mas desejo a eles, pela dedica\u00e7\u00e3o deles no dia a dia, dentro da sala de aula, seja na escola p\u00fablica municipal, seja na escola p\u00fablica estadual, seja na universidade, um bom dia. Desejo felicidades a eles, porque n\u00f3s vamos ajudar a melhorar sua situa\u00e7\u00e3o.\r\nCom rela\u00e7\u00e3o \u00e0 indica\u00e7\u00e3o do Republicanos, o partido recomenda \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=222&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de  Salvaguardas Tecnol\u00f3gicas entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s do Republicanos achamos que \u00e9 de grande import\u00e2ncia para o Brasil e para o Estado do Maranh\u00e3o a base de lan\u00e7amentos de Alc\u00e2ntara, que vai trazer milh\u00f5es de reais para aquele Estado.\r\nEnt\u00e3o, n\u00f3s do Republicanos somos contra a retirada de pauta. Votamos \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "ANEL RODOVI\u00c1RIO, FLORIAN\u00d3POLIS (SC), RODOVIA FEDERAL, RECUPERA\u00c7\u00c3O.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Apelo ao Governo Federal por recupera\u00e7\u00e3o das BRs-163, 153 e 282, e conclus\u00e3o das obras do Anel Vi\u00e1rio da Grande Florian\u00f3polis, no Estado de Santa Catarina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, cumprimento toda a Mesa, meus amigos Deputados e minhas amigas Deputadas presentes a esta sess\u00e3o.\r\nEu fa\u00e7o uso desta tribuna para falar sobre as rodovias federais de Santa Catarina, principalmente a BR-163, que vem do Rio Grande do Sul e atravessa Santa Cantarina. A rodovia encontra-se num estado lament\u00e1vel, dif\u00edcil de passar caminh\u00f5es. A coisa est\u00e1 muito complicada, a estrada est\u00e1 totalmente destru\u00edda, e n\u00f3s vemos pouca a\u00e7\u00e3o do Governo Federal no sentido de repar\u00e1-la.\r\nAl\u00e9m desta rodovia, temos a BR-153, que tamb\u00e9m atravessa o Estado de Santa Catarina, que vem do Rio Grande do Sul com destino a S\u00e3o Paulo - seu estado \u00e9 igualmente lament\u00e1vel; e a BR-282, no oeste do Estado, uma estrada de liga\u00e7\u00e3o que leva a produ\u00e7\u00e3o do oeste de Santa Catarina para os portos ou outros Estados. Ela tamb\u00e9m est\u00e1 em estado lament\u00e1vel, principalmente na regi\u00e3o de S\u00e3o Miguel do Oeste at\u00e9 Chapec\u00f3. A situa\u00e7\u00e3o est\u00e1 complicada.\r\nPor isso, chamo a aten\u00e7\u00e3o do Minist\u00e9rio para que tome as provid\u00eancias necess\u00e1rias, come\u00e7ando pelos servi\u00e7os que n\u00e3o terminou, porque o oeste do Estado \u00e9 o celeiro n\u00e3o de Santa Catarina, mas de todo o Brasil. \u00c9 nele que est\u00e3o as maiores cooperativas, \u00e9 nele que est\u00e1 a produ\u00e7\u00e3o de carne su\u00edna, bovina e da carne de frango. Como eu disse, a situa\u00e7\u00e3o \u00e9 bastante complicada.\r\nAl\u00e9m disso, temos o Anel Vi\u00e1rio da Grande Florian\u00f3polis. A construtora que est\u00e1 trabalhando no local est\u00e1 fazendo um trabalho muito lento, e eu denuncio para o Minist\u00e9rio P\u00fablico do Trabalho a situa\u00e7\u00e3o dos oper\u00e1rios que trabalham no trecho. Eles est\u00e3o trabalhando pouco, j\u00e1 que n\u00e3o h\u00e1 condi\u00e7\u00f5es de trabalho, n\u00e3o h\u00e1 refeit\u00f3rio, n\u00e3o h\u00e1 banheiro. A situa\u00e7\u00e3o \u00e9 realmente complicada. H\u00e1 uma grande demora por parte da concession\u00e1ria da BR-101, a empresa contratada, para fazer o rodoanel. O ritmo dos trabalhos est\u00e1 bastante lento.\r\nPortanto, eu pediria a aten\u00e7\u00e3o dos Deputados de Santa Catarina, do Minist\u00e9rio P\u00fablico do Trabalho e do Governo Federal para a conclus\u00e3o, principalmente, do Anel Vi\u00e1rio da Grande Florian\u00f3polis. No oeste do Estado, as rodovias est\u00e3o em estado de precariedade. Portanto, est\u00e1 cada vez mais dif\u00edcil levar a produ\u00e7\u00e3o de Santa Catarina para os portos e para outros Estados.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ESPORTE, ATLETA, PERU (PA\u00cdS), CAMPEONATO, GIN\u00c1STICA R\u00cdTMICA, CRIAN\u00c7A, SANTA CATARINA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Aplausos \u00e0s atletas Maria J\u00falia Rodrigues e Beatriz Matiola Guerreiro, de Florian\u00f3polis, Estado de Santa Catarina, pela conquista do t\u00edtulo de Campe\u00e3s Sul-Americanas de Gin\u00e1stica R\u00edtmica, aparelho bola, categoria infantil at\u00e9 13 anos, no certame realizado no Peru, Lima.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Sem revis\u00e3o do orador.) - Sr. Presidente Assis Carvalho, eu fa\u00e7o uso do microfone agora, cumprimentando todos os Deputados e Deputadas, apenas para lembrar que neste Pa\u00eds \u00e9 dif\u00edcil praticar esporte, at\u00e9 mesmo iniciar as crian\u00e7as no esporte.\r\nEu quero fazer um comunicado e cumprimentar as atletas de Florian\u00f3polis, Santa Catarina, Maria J\u00falia Rodrigues e Beatriz Matiola Guerreiro, que foram ao Peru disputar o Campeonato Sul-Americano de Gin\u00e1stica R\u00edtmica, na categoria infantil at\u00e9 13 anos. E elas acabaram, Sr. Presidente, senhores membros deste Parlamento que est\u00e3o nesta Casa, trazendo o t\u00edtulo sul-americano do aparelho bola. Elas precisaram fazer uma vaquinha para poderem viajar a Lima.\r\nEu quero cumprimentar tamb\u00e9m as professoras, as t\u00e9cnicas Maria Helena Kraeski e Lu\u00edsa Matsuo.\r\nParab\u00e9ns \u00e0s crian\u00e7as de Santa Catarina!\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIT\u00c9RIO, PORTE DE ARMA, POSSE DE ARMA, ARMA DE FOGO, VOTA\u00c7\u00c3O, SUBEMENDA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.723-A, de 2019, acerca da altera\u00e7\u00e3o da Lei n\u00ba 10.826, de 2003, sobre o registro, a posse e a comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o no Pa\u00eds; o Sistema Nacional de Armas - SINARM e a defini\u00e7\u00e3o de crimes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, este projeto de lei veio ao Plen\u00e1rio fruto de uma reuni\u00e3o de L\u00edderes para votar. Foi discutido, mas o fato de se reunir uma meia d\u00fazia no Conselho de L\u00edderes n\u00e3o significa que se vai retirar o projeto de vota\u00e7\u00e3o. Tem que ser colocado em vota\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=212&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-05T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, PL 3723/2019, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.723-D, de 2019, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 10.826, de 2003, sobre o registro, a posse e a comercializa\u00e7\u00e3o de armas de fogo e muni\u00e7\u00e3o; o Sistema Nacional de Armas - SINAM e a defini\u00e7\u00e3o de crimes. Contrariedade \u00e0 libera\u00e7\u00e3o da ca\u00e7a no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer uma orienta\u00e7\u00e3o antes de orientar o partido.\r\n\u00c9 a pr\u00e1tica da ca\u00e7a, Sr. Presidente. N\u00e3o se diz que tipo de animal pode ser ca\u00e7ado, se \u00e9 o ex\u00f3tico ou aquele que \u00e9 nativo da Mata Atl\u00e2ntica brasileira, do Cerrado ou da Amaz\u00f4nia. N\u00e3o se diz. Libera-se a ca\u00e7a em geral. E o ca\u00e7ador \u00e9 um predador. Por exemplo, mata o javali. O javali \u00e9 ex\u00f3tico. Trouxeram para o Brasil, e ele causa grande preju\u00edzo. A ca\u00e7a dele \u00e9 autorizada em determinada \u00e9poca do ano. Agora, liberar a ca\u00e7a no Brasil acho que n\u00e3o cabe, Sr. Presidente.\r\nA bancada do Republicanos est\u00e1 liberada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F11%2F2019&txPagina=151&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CRESCIMENTO ECONOMICO, SANTA CATARINA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Classifica\u00e7\u00e3o do Estado de Santa Catarina em 6\u00ba lugar no ranking  nacional da economia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, estou aqui para levantar a bandeira de Santa Catarina, um dos menores Estados do Pa\u00eds. As Federa\u00e7\u00f5es da Ind\u00fastria, do Com\u00e9rcio e da Agricultura, enfim, o povo catarinense, demonstrando sua for\u00e7a e sua produ\u00e7\u00e3o, subiu de patamar e agora \u00e9 a sexta economia do Pa\u00eds. Mas nada a agradecer ao Governo do Estado ou ao Governo Federal, porque muito pouco eles t\u00eam feito por Santa Catarina. Essa for\u00e7a, Sr. Presidente, Srs. Deputados, vem do nosso povo, um povo trabalhador, do empres\u00e1rio de Santa Catarina, que pensam no futuro.\r\nPor isso, levanto a nossa bandeira para agradecer a esses trabalhadores e parabeniz\u00e1-los.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, VOTA\u00c7\u00c3O, EXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA), DEFESA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Apelo aos Parlamentares de vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade. Import\u00e2ncia da realiza\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Universidades Estrangeiras - REVALIDA.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero pedir \u00e0s Sras. Deputadas e aos Srs. Deputados que votem a medida provis\u00f3ria sobre o REVALIDA.\r\nNo meu Estado, Santa Catarina, muitos jovens t\u00eam o sonho de ser m\u00e9dicos e viajaram ao exterior para estudar. N\u00e3o se aprovando o REVALIDA o mais r\u00e1pido poss\u00edvel, parece que este Pa\u00eds n\u00e3o precisa de m\u00e9dico, mas ocorre totalmente o contr\u00e1rio. Ent\u00e3o, vamos votar o mais r\u00e1pido poss\u00edvel o REVALIDA, para que esses que se formaram em Medicina em pa\u00edses da Am\u00e9rica do Sul possam atuar em nosso Pa\u00eds, porque precisamos de m\u00e9dicos. Eles sa\u00edram para estudar, mas voltaram aos seus Estados para trabalhar. \u00c9 necess\u00e1rio, portanto, que seja aprovada a medida provis\u00f3ria sobre o REVALIDA, para que fa\u00e7am esse exame aqueles que j\u00e1 se formaram em Medicina.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=151&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T20:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5082/2016, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTRARIO.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.082, de 2016, sobre a cria\u00e7\u00e3o da via societ\u00e1ria e o estabelecimento de procedimentos de governan\u00e7a e de natureza tribut\u00e1ria para moderniza\u00e7\u00e3o do futebol.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos orienta \"n\u00e3o\".\r\nEu tenho uma considera\u00e7\u00e3o a fazer sobre o que disseram do Figueirense, que ele caiu porque era S.A. Sou de Florian\u00f3polis, o Deputado mais votado de Santa Catarina, e posso dizer que, enquanto o Figueirense Futebol Clube foi Figueirense S.A., ele permaneceu 8 anos na primeira divis\u00e3o, revelou o atual lateral esquerdo do Flamengo, revelou o centroavante do Liverpool, o Roberto Firmino, entre outros jogadores.\r\nDepois que o Conselho Deliberativo resolveu mudar \u00e9 que ele fez for\u00e7a, fez for\u00e7a para cair agora para a S\u00e9rie C e n\u00e3o conseguiu.\r\nPortanto, mantenho em pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=236&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 199/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, ALTERA\u00c7\u00c3O, RECURSO EXTRAORDIN\u00c1RIO, RECURSO ESPECIAL, SUPREMO TRIBUNAL FEDERAL (STF), SUPERIOR TRIBUNAL DE JUSTI\u00c7A (STJ), TR\u00c2NSITO EM JULGADO, PRIS\u00c3O, SEGUNDA INST\u00c2NCIA, DEFESA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Imediata aprova\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 199, de 2019, sobre altera\u00e7\u00e3o dos arts. 102 e 105 da Carta Magna, com vista \u00e0 transforma\u00e7\u00e3o dos recursos extraordin\u00e1rio e especial em a\u00e7\u00f5es revisionais de compet\u00eancia origin\u00e1ria do Supremo Tribunal Federal e do Superior Tribunal de Justi\u00e7a.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Sem revis\u00e3o do orador.) - Sr. Presidente Charles Fernandes, Sras. e Srs. Deputados, vou falar sobre a pris\u00e3o ap\u00f3s a condena\u00e7\u00e3o em segunda inst\u00e2ncia. N\u00f3s temos que aprov\u00e1-la o mais r\u00e1pido poss\u00edvel, e tem que ser com base na PEC da C\u00e2mara. Segundo alguns, precisamos de qu\u00f3rum qualificado. O Brasil n\u00e3o aguenta mais! Os Deputados v\u00e3o dar qu\u00f3rum, porque o projeto do Senado tem problemas: est\u00e1 cheio de jabutis.\r\nPortanto, temos que trabalhar nesta Casa para que a PEC, que j\u00e1 passou pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, venha para o Plen\u00e1rio, porque o brasileiro n\u00e3o suporta mais tanta sacanagem e tanta injusti\u00e7a.\r\nMetam na cadeia aquele corrupto que vai levando com a barriga! Ali\u00e1s, levava. N\u00e3o vai levar mais.\r\nSegunda inst\u00e2ncia j\u00e1!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-03T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE TRANSPORTES TERRESTRES (ANTT), FISCALIZA\u00c7\u00c3O, RODOVIA, SANTA CATARINA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Ag\u00eancia Nacional de Transportes Terrestres - ANTT de fiscaliza\u00e7\u00e3o de obras realizadas por concession\u00e1rias de rodovias, no Estado de Santa Catarina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Para discursar. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero falar aqui, porque este \u00e9 o momento certo, em que est\u00e3o o Senado Federal e C\u00e2mara dos Deputados reunidos, sobre a situa\u00e7\u00e3o da ANTT - Ag\u00eancia Nacional de Transportes Terrestres, que n\u00e3o fiscaliza as obras das rodovias, principalmente no meu Estado, Santa Catarina.\r\nNas cidades de Mafra, Papanduva, Santa Cec\u00edlia, Ponte Alta, S\u00e3o Crist\u00f3v\u00e3o, Ponte Alta do Norte, Correia Pinto, Lages, o ped\u00e1gio \u00e9 de 6 reais e 50 centavos. H\u00e1 11 anos, a empresa cobra o ped\u00e1gio, mas at\u00e9 agora, Sr. Presidente, nobres Deputados e Senadores, n\u00e3o colocou 1 metro de asfalto em Santa Catarina. Agora, est\u00e1 fechando o acesso \u00e0s cidades, o acesso aos postos de combust\u00edveis, que prestam um servi\u00e7o espetacular e s\u00e3o fonte de renda para os Munic\u00edpios.\r\nSr. Presidente, isso tem que mudar, porque as empresas pegam a concess\u00e3o sem saber o que v\u00e3o fazer, sem um projeto apresentado. Lamentavelmente, Presidente Davi Alcolumbre, est\u00e1 acontecendo isso no Estado de Santa Catarina, na regi\u00e3o do Planalto Serrano e do Planalto Norte.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F12%2F2019&txPagina=58&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CRESCIMENTO ECONOMICO, BRUSQUE (SC), GASPAR (SC), BLUMENAU (SC), POMERODE (SC).\r\nBR 470, RODOVIA FEDERAL, SANTA CATARINA, RECUPERA\u00c7\u00c3O.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Desenvolvimento dos Munic\u00edpios de Brusque, Gaspar, Blumenau e Pomerode, situados no Vale do Itaja\u00ed, Estado de Santa Catarina. Apelo ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, de libera\u00e7\u00e3o de recursos para conclus\u00e3o das obras da BR-470, no trecho entre a BR-101 e o Munic\u00edpio de Indaial.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, estive, no final de semana, percorrendo a regi\u00e3o do Vale do Itaja\u00ed, do m\u00e9dio Vale, n\u00e3o do alto, e percebi o grande desenvolvimento das cidades de Brusque, de Gaspar, de Blumenau, de Pomerode.\r\nFiquei feliz em ver que essas cidades crescem e, por isso, tornam Santa Catarina a sexta economia do Pa\u00eds - daqui a pouco ser\u00e1 a quinta. Embora tenha um territ\u00f3rio muito menor do que o Estado da Bahia, Santa Catarina est\u00e1 ultrapassando aquele Estado agora.\r\nMas, Sr. Presidente, para a minha decep\u00e7\u00e3o e a de quem estava comigo, a BR-470 - n\u00e3o vou falar dela toda, apenas do trecho BR-101 at\u00e9 a cidade de Indaial, cortando a cidade de Blumenau -, embora tenha passado ali agora e j\u00e1 tenha passado outras vezes, continua como estava. Essa rodovia \u00e9 important\u00edssima n\u00e3o s\u00f3 para Santa Catarina, mas tamb\u00e9m para o Rio Grande do Sul. \r\nMesmo a obra j\u00e1 tendo sido licitada pelo Governo Federal, o Minist\u00e9rio n\u00e3o a toca, Sr. Presidente, apesar de ela ser muito importante. Por isso, fa\u00e7o aqui um apelo ao Ministro Tarc\u00edsio Freitas para que toque essa obra e libere o dinheiro, porque o recurso acaba de ser liberado. Essa obra \u00e9 uma das prioridades do meu Estado e daquela regi\u00e3o, que produz tanto.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1481/2007, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LDB, OBRIGATORIEDADE, ESTABELECIMENTO DE ENSINO, EDUCA\u00c7\u00c3O B\u00c1SICA, EDUCA\u00c7\u00c3O SUPERIOR, INCLUS\u00c3O DIGITAL, ACESSO, (INTERNET), VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Protesto contra o adiamento da vota\u00e7\u00e3o do projeto de Lei n\u00ba 1.481-A, de 2007, acerca do estabelecimento de prazo para acesso de estabelecimentos de educa\u00e7\u00e3o b\u00e1sica e superior \u00e0 Internet; da destina\u00e7\u00e3o de 75% (setenta e cinco por cento) dos recursos do Fundo de Universaliza\u00e7\u00e3o dos Servi\u00e7os de Telecomunica\u00e7\u00f5es (FUST), a partir de 2008, para equipamento de estabelecimentos de ensino com redes digitais de informa\u00e7\u00e3o e recursos da tecnologia da informa\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o projeto ligado \u00e0 educa\u00e7\u00e3o est\u00e1 h\u00e1 12 anos nesta Casa. A\u00ed eu vejo Deputados com mais de dez mandatos discutindo isso.\r\nA mat\u00e9ria vai voltar \u00e0 vota\u00e7\u00e3o em duas sess\u00f5es. Temos que discutir mesmo, eu acho. Temos que discutir esse processo. Temos que discutir! Com certeza, no meu Estado n\u00e3o h\u00e1 mais problemas. \u00c9 bom para o Governador, que vai receber um dinheirinho do Fundo de Participa\u00e7\u00e3o dos Munic\u00edpios e do Estado. Agora, h\u00e1 12 anos os pol\u00edticos antigos - estou no meu primeiro mandato - est\u00e3o discutindo esse assunto ligado \u00e0 educa\u00e7\u00e3o e depois se dizem respons\u00e1veis, dizem que seus mandatos s\u00e3o voltados \u00e0 educa\u00e7\u00e3o? \r\nPelo amor de Deus! Pelo amor de Deus! Botem a m\u00e3o na consci\u00eancia! Tratem a educa\u00e7\u00e3o com mais respeito!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-10T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLN 42/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, RECURSOS OR\u00c7AMENTARIOS, RODOVIA, SANTA CATARINA, VOTA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Associa\u00e7\u00e3o ao discurso da Deputada Carmen Zanotto sobre a import\u00e2ncia de aprova\u00e7\u00e3o do do Projeto de Lei do Congresso Nacional n\u00ba 42, de 2019, para a recupera\u00e7\u00e3o da malha rodovi\u00e1ria federal catarinense.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer coro \u00e0 palavra dos Senadores e da Deputada Carmen Zanotto. Eu estive agora, Sr. Presidente, no oeste de Santa Catarina, que \u00e9 o celeiro do Brasil. N\u00f3s somos a sexta arrecada\u00e7\u00e3o do Brasil, e as BRs est\u00e3o intrafeg\u00e1veis! A BR-163, a BR-153, a BR-470 e a BR-280 est\u00e3o intrafeg\u00e1veis. Ent\u00e3o, n\u00f3s n\u00e3o podemos perder esse dinheiro.\r\nO SR. PRESIDENTE (Davi Alcolumbre. DEM - AP) - Deputado, eu estou tentando ser gentil com os Parlamentares, mas n\u00f3s estamos discutindo o PLN 51. N\u00f3s vamos ter o momento adequado para discutir essa mat\u00e9ria.\r\nO SR. H\u00c9LIO COSTA (REPUBLICANOS - SC) - Sr. Presidente, mas, se n\u00e3o falarmos agora, vamos ser engolidos depois. Por favor, Presidente! N\u00f3s conhecemos como funciona isto aqui. N\u00f3s n\u00e3o podemos...\r\nO SR. PRESIDENTE (Davi Alcolumbre. DEM - AP) - V.Exa. falou, Senador Jorginho Mello.\r\nO SR. H\u00c9LIO COSTA (REPUBLICANOS - SC) - ... eu tirei dinheiro de emendas minhas, individuais, para que n\u00e3o parassem as obras das BRs em Santa Catarina. Isso n\u00e3o \u00e9 poss\u00edvel, Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=12%2F12%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RECOMPRA, TERRENO DE MARINHA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "An\u00fancio de aprecia\u00e7\u00e3o pela Casa do projeto de lei sobre a recompra de terrenos de marinha.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, eu quero chamar a aten\u00e7\u00e3o da Casa porque, na pr\u00f3xima semana, depois do carnaval, vir\u00e1 para vota\u00e7\u00e3o no plen\u00e1rio da C\u00e2mara o projeto de lei que trata dos terrenos de marinha. Terra de marinha n\u00e3o \u00e9 s\u00f3 a que est\u00e1 \u00e0 beira do mar, mas tamb\u00e9m \u00e0 beira de lagoas e de rios. Enfim, esse projeto vai atingir o Brasil todo.\r\nE o que vem para c\u00e1 para n\u00f3s votarmos, porque j\u00e1 passou pelo Senado, \u00e9 o que trata da recompra. L\u00e1 est\u00e1 escrito recompra. Se j\u00e1 comprou, isso lhe pertence; n\u00e3o tem que comprar mais. Muitas fam\u00edlias n\u00e3o v\u00e3o ter onde morar, porque n\u00e3o ter\u00e3o condi\u00e7\u00f5es de recomprar os terrenos de marinha, principalmente na minha regi\u00e3o, Florian\u00f3polis, que tem parte na ilha e parte no continente brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, PAUTA (PROCESSO LEGISLATIVO), REQUERIMENTO DE URG\u00caNCIA, PL 6764/2002, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela inclus\u00e3o na pauta de vota\u00e7\u00f5es do Projeto de Lei n\u00ba 6.764, de 2002, sobre o acr\u00e9scimo do T\u00edtulo XII, relativo aos crimes contra o Estado Democr\u00e1tico de Direito, \u00e0 Parte Especial do Decreto-Lei n\u00ba 2.848, de 1940 (C\u00f3digo Penal).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (Bloco/REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero comentar o pedido de urg\u00eancia e o projeto de lei, que desde 2002 est\u00e1 aqui na Casa, e quero tamb\u00e9m parabenizar V.Exa. por coloc\u00e1-lo em pauta.\r\nNo mais, de 2002 at\u00e9 agora, esse projeto n\u00e3o era priorit\u00e1rio, na palavra de alguns Deputados aqui, que diziam que n\u00e3o era priorit\u00e1rio. \u00c9 priorit\u00e1rio agora?\r\nParab\u00e9ns a V.Exa., que colocou esse assunto em pauta!\r\nComo Deputado de primeiro mandato, tenho visto cada coisa nesta Casa, Sr. Presidente!\r\nMuito obrigado. Boa tarde.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-11T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CORONAV\u00cdRUS, PANDEMIA, COMBATE, SISTEMA \u00daNICO DE SA\u00daDE (SUS), DEFESA.\r\nPISO SALARIAL, ENFERMEIRO, T\u00c9CNICO DE ENFERMAGEM, AUX\u00cdLIAR DE ENFERMAGEM, PROPOSI\u00c7\u00c3O LEGISLATIVA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Valoriza\u00e7\u00e3o do Sistema \u00danico de Sa\u00fade - SUS com o advento da pandemia de coronav\u00edrus no Brasil. Apoio a projeto de lei sobre a institui\u00e7\u00e3o de piso salarial nacional aos profissionais de enfermagem.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (Bloco/REPUBLICANOS - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, eu quero aproveitar este espa\u00e7o para falar do momento em que cheguei \u00e0 C\u00e2mara, j\u00e1 que sou Deputado de primeiro mandato. \r\nEu passava pela Comiss\u00e3o de Sa\u00fade, pela Comiss\u00e3o de Educa\u00e7\u00e3o e nada, nada, nada. N\u00e3o se falava em SUS, n\u00e3o se falava em fortalecer o SUS, e os doentes morriam nos corredores dos hospitais. Eu sou jornalista, fazia mat\u00e9rias nos hospitais e via que os hospitais tinham gente morrendo praticamente todos os dias, como acontece hoje.\r\n\"Gra\u00e7as \u00e0 pandemia\", entre aspas, \u00e9 que passaram a dar valor aos profissionais da sa\u00fade. Hoje eles s\u00e3o her\u00f3is, mas antes eram marginalizados. Agora, s\u00e3o her\u00f3is. Antes, n\u00e3o se falava em valoriza\u00e7\u00e3o do profissional de sa\u00fade. N\u00e3o se ouvia falar do SUS. O SUS estava abandonado!\r\nN\u00e3o se aumentavam as autoriza\u00e7\u00f5es de interna\u00e7\u00e3o hospitalar, as AIHs. N\u00e3o se aumentavam as UTIs. Agora, a pandemia veio, mostrou a fraqueza do Governo e o pegou de cal\u00e7as na m\u00e3o, porque o SUS estava destru\u00eddo. Tudo estava destru\u00eddo. A pandemia chegou e, \"gra\u00e7as a ela\", entre aspas, esses profissionais, que j\u00e1 sofrem h\u00e1 muitos e muitos anos, se tornaram her\u00f3is.\r\nPresidente Bismarck, dar um sal\u00e1rio-base nacional \u00e9 merit\u00f3rio, mas, a meu ver, este assunto j\u00e1 deveria ter sido discutido h\u00e1 muito mais tempo, tendo em vista o valor do trabalho da categoria.\r\nEu quero saber o que eles v\u00e3o fazer agora com essas UTIs para tratamento de pacientes com COVID. Quero saber se v\u00e3o deix\u00e1-las em algum dep\u00f3sito do SUS ou se em algum hospital porque, por falta de UTI, um acidentado, ao passar na frente da porta de uma sala de cirurgia, voltava para o quarto, sofrendo e, \u00e0s vezes, acabava contraindo uma infec\u00e7\u00e3o hospitalar.\r\nEstes profissionais da sa\u00fade - t\u00e9cnicos, enfermeiros, maqueiros, atendentes e at\u00e9 os vigilantes - contra\u00edam infec\u00e7\u00e3o hospitalar. A pandemia chegou, e agora eles s\u00e3o deuses, s\u00e3o her\u00f3is. Ali\u00e1s, h\u00e1 uma m\u00fasica que fala sobre isso. \r\nA situa\u00e7\u00e3o se complicou, ali\u00e1s, j\u00e1 est\u00e1 complicada h\u00e1 muito tempo. Esta proposta \u00e9 muito boa, muito boa mesmo, para os profissionais da sa\u00fade.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-18T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1568/2019, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.\r\nHOMENAGEM P\u00d3STUMA, FALECIMENTO, CASILDO MALDANER, EX-GOVERNADOR, SANTA CATARINA.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 1.568, de 2019, sobre a altera\u00e7\u00e3o do Decreto-Lei n\u00ba 2.848, de 1940, (C\u00f3digo Penal), e das Leis de n\u00bas 7.210, de 1984, (Lei de Execu\u00e7\u00e3o Penal), e 8.072, de 1990, para tipifica\u00e7\u00e3o do feminic\u00eddio como crime aut\u00f4nomo e agravamento das penas impostas ao condenado, ressalvados os destaques. Falecimento do ex-Governador do Estado de Santa Catarina, Casildo Maldaner.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. H\u00c9LIO COSTA (Bloco/REPUBLICANOS - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s do Republicanos, que preservamos a fam\u00edlia e trabalhamos por ela, \u00e9 claro, votamos \"sim\" a este projeto de lei da bancada feminina, na qual temos representantes. Cito a Deputada Aline Gurgel, a Deputada Maria Rosas e outras. \u00c9 um projeto muito bem relatado pela Deputada de S\u00e3o Paulo.\r\nQuero aproveitar este momento, Sr. Presidente, para registrar e lamentar a morte do ex-Governador do Estado de Santa Catarina Casildo Maldaner.\r\nNatural de Modelo, cidade do oeste de Santa Catarina, onde foi Vereador, Casildo Maldaner veio para a Assembleia Legislativa como Deputado Estadual, concluiu o curso de direito na Universidade Federal de Santa Catarina e, depois, tornou-se Governador. Foi membro desta Casa e tamb\u00e9m do Senado da Rep\u00fablica.\r\nE, nesta Casa, tem o seu irm\u00e3o Celso Maldaner, do MDB - a fam\u00edlia toda \u00e9 emedebista -, que faz tamb\u00e9m um grande trabalho.\r\nHoje, foi grande o n\u00famero de pessoas que foram at\u00e9 o cemit\u00e9rio Jardim da Paz para homenagear esse homem espetacular que tanto orgulhou a democracia e tanto orgulhou a pol\u00edtica de Santa Catarina.\r\nEnt\u00e3o, deixo aqui este registro e os meus sentimentos \u00e0 fam\u00edlia Maldaner pelo falecimento do ex-Governador Casildo Maldaner.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-13T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REQUERIMENTO (PROPOSI\u00c7\u00c3O LEGISLATIVA), COMISS\u00c3O DE TRABALHO, DE ADMINISTRA\u00c7\u00c3O E SERVI\u00c7O P\u00daBLICO (CTASP), AUDI\u00caNCIA P\u00daBLICA, CR\u00c9DITO CONSIGNADO, APOSENTADO, INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), FRAUDE, INVESTIGA\u00c7\u00c3O CRIMINAL, IDOSO, PENSIONISTA, EMPR\u00c9STIMO.",
+        "nomeDeputado": "H\u00e9lio Costa",
+        "sumario": "Vota\u00e7\u00e3o, pela Comiss\u00e3o de Trabalho, Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, de requerimento de audi\u00eancia p\u00fablica para debate da concess\u00e3o de empr\u00e9stimos consignados a aposentados e pensionistas \u00e0 revelia da classe. Defesa da puni\u00e7\u00e3o de institui\u00e7\u00f5es banc\u00e1rias e agentes do Instituto Nacional do Seguro Social - INSS envolvidos em tais empr\u00e9stimos.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. H\u00c9LIO COSTA (REPUBLICANOS - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu venho a este microfone porque hoje, na CTASP, Comiss\u00e3o da qual participo, tratou-se do requerimento de um Deputado que requer audi\u00eancia p\u00fablica destinada a debater empr\u00e9stimos consignados contratados sem autoriza\u00e7\u00e3o em nome de aposentados. Isso \u00e9 caso de pol\u00edcia! Por que chamar o pessoal do INSS para debater, para discutir?\r\nComo \u00e9 que o pessoal \"fio desencapado\", o pessoal 171 entra no sistema do INSS, pega os dados do aposentado, seja do Estado, seja do Munic\u00edpio, seja do Governo Federal, e consegue um empr\u00e9stimo sem a assinatura do autor? Como? Isso \u00e9 caso de investiga\u00e7\u00e3o em \u00e2mbito federal, Sr. Presidente, e n\u00e3o de debate chamando Presidente.\r\nA situa\u00e7\u00e3o requer que n\u00e3o se cadastrem, que se retirem do sistema esses bancos que permitem que isso aconte\u00e7a. Esses bancos prejudicam quem? Prejudicam aqueles que t\u00eam menor poder aquisitivo, principalmente os idosos. Nos casos de pol\u00edcia, os idosos s\u00e3o as v\u00edtimas principais desses \"fios desencapados\". Se um banco emprestou o dinheiro, o banco vai ser punido; se o furo saiu de dentro do INSS, algu\u00e9m do INSS vai responder por isso.\r\nO que s\u00e3o empr\u00e9stimos consignados contratados sem autoriza\u00e7\u00e3o em nome de aposentados e pensionistas? Isso n\u00e3o existe. Isso \u00e9 um caso de pol\u00edcia. E os casos n\u00e3o ocorrem s\u00f3 em Santa Catarina, mas em todo o Brasil. H\u00e1 quadrilhas e quadrilhas de estelionat\u00e1rios, de golpistas que praticam esse tipo de crime.\r\nEnt\u00e3o, \u00e9 necess\u00e1rio fazer uma investiga\u00e7\u00e3o em cima do crime e n\u00e3o credenciar mais o banco que fornecer um empr\u00e9stimo desses. \r\nQuando o aposentado vai ao banco que forneceu o empr\u00e9stimo tentar resolver alguma coisa, jamais consegue, porque a informa\u00e7\u00e3o \u00e9 complicada. Ent\u00e3o, a solu\u00e7\u00e3o \u00e9 descredenciar o banco, o agente do banco, para que n\u00e3o tenha mais direito de fornecer esse tipo de empr\u00e9stimo.\r\nQuem lesa o povo tem que ir para a cadeia. Isso \u00e9 caso de pol\u00edcia.\r\nUm abra\u00e7o e muito obrigado!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

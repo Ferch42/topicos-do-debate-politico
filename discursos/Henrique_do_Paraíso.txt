@@ -1,0 +1,56 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HENRIQUE DO PARA\u00cdSO, DEPUTADO FEDERAL, ASSUN\u00c7\u00c3O, MANDATO PARLAMENTAR, DEFESA, SUMARE (SP).",
+        "nomeDeputado": "Henrique do Para\u00edso",
+        "sumario": "Agradecimento ao Republicanos, aos familiares, aos eleitores e  outros pela assun\u00e7\u00e3o do mandato parlamentar. Compromisso de luta em defesa do Munic\u00edpio de Sumar\u00e9 e do Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HENRIQUE DO PARA\u00cdSO (REPUBLICANOS - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres Parlamentares e p\u00fablico que nos acompanha de suas resid\u00eancias, quero inicialmente sempre agradecer a Deus pela vida, pela sa\u00fade e por me permitir estar aqui para representar o povo da minha cidade, do meu Estado e, acima de tudo, da minha Na\u00e7\u00e3o, que \u00e9 o Brasil.\r\nQuero agradecer ao Presidente do meu partido, o Deputado Marcos Pereira, que vem conduzindo com maestria o Republicanos, no qual derrubou diversos paradigmas. Hoje o nosso partido se tornou uma das principais marcas do nosso Pa\u00eds. Tamb\u00e9m quero agradecer a toda a bancada do Republicanos e ao Deputado Milton Vieira, que estarei representando no meu mandato, honrando-o, ele que esteve aqui no mesmo lugar em que hoje me encontro.\r\nQuero agradecer \u00e0 minha fam\u00edlia pela presen\u00e7a, ao meu pai, Paul\u00e3o do Uni\u00e3o, por quatro mandatos de Vereador da cidade de Sumar\u00e9, sendo, em 1988 ainda, o Vereador mais votado daquele crivo eleitoral. Quero agradecer tamb\u00e9m a todos os meus familiares, \u00e0 minha esposa, \u00e0 minha m\u00e3e, Noemi, ao meu irm\u00e3o Ra\u00ed do Para\u00edso, que \u00e9 Vereador atualmente na cidade de Sumar\u00e9 e que nos acompanha pela TV C\u00e2mara.\r\nQuero agradecer ao Prefeito Luiz Dalben, meu amigo, meu irm\u00e3o. Juntos vencemos duas elei\u00e7\u00f5es consecutivas, fazendo hist\u00f3ria na cidade de Sumar\u00e9, sendo l\u00e1 os mais jovens, a dupla de meninos que trouxe prosperidade novamente para a nossa municipalidade. Quero agradecer ao Deputado Antonio Dirceu Dalben, sumareense, Prefeito por dois mandatos, o primeiro Deputado Estadual diretamente eleito pelo crivo do nosso Pa\u00eds. E tamb\u00e9m quero agradecer ao nosso Secret\u00e1rio de Governo, o Wellington, e ao Vereador Andr\u00e9, que tamb\u00e9m se fazem presentes.\r\nEstarei aqui lutando n\u00e3o somente pela minha cidade de Sumar\u00e9. Hoje Sumar\u00e9 est\u00e1 marcada no mapa do nosso Pa\u00eds. Temos aqui o primeiro representante p\u00e9 vermelho no Congresso Nacional, Sr. Presidente.\r\nTermino agradecendo os 54.113 votos de confian\u00e7a.\r\nEstarei lutando e trabalhando para todos, n\u00e3o apenas para aqueles que depositaram o voto na minha pessoa, mas tamb\u00e9m para todos os nossos brasileiros. E, com certeza, levarei muito progresso, al\u00e9m de muitos investimentos e recursos para as cidades paulistas.\r\nMais uma vez, agrade\u00e7o a Deus, em primeiro lugar; a cada Parlamentar que est\u00e1 aqui acompanhando a minha posse; a toda a popula\u00e7\u00e3o; e ao povo brasileiro, que \u00e9 o nosso maior patrim\u00f4nio.\r\nQue Deus os aben\u00e7oe!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-05T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 591/2021, PROJETO DE LEI ORDINARIA, PRIVATIZA\u00c7\u00c3O, EMPRESA BRASILEIRA DE CORREIOS E TEL\u00c9GRAFOS (ECT), DEFESA.",
+        "nomeDeputado": "Henrique do Para\u00edso",
+        "sumario": "Declara\u00e7\u00e3o de voto do orador favor\u00e1vel \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 591, de 2021, sobre o marco regulat\u00f3rio, a organiza\u00e7\u00e3o e manuten\u00e7\u00e3o do Sistema Nacional de Servi\u00e7os Postais (privatiza\u00e7\u00e3o dos correios).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. HENRIQUE DO PARA\u00cdSO (REPUBLICANOS - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Arthur Lira, nobres pares e toda a popula\u00e7\u00e3o brasileira que nos acompanha pela Internet e pela TV C\u00e2mara, hoje \u00e9 um momento \u00edmpar da nossa vida. \r\nEm 1998, h\u00e1 23 anos, acontecia a privatiza\u00e7\u00e3o das telecomunica\u00e7\u00f5es no Brasil. E hoje, ap\u00f3s 23 anos, vemos um Pa\u00eds em que todo brasileiro tem acesso \u00e0 Internet e consegue adquirir uma linha telef\u00f4nica ou um aparelho celular em qualquer esquina. \r\nEu acredito que este \u00e9 um momento hist\u00f3rico, Sr. Presidente, um momento de quebrar paradigmas, de fazer hist\u00f3ria neste Pa\u00eds e oferecer um servi\u00e7o digno para o cidad\u00e3o brasileiro, um servi\u00e7o otimizado.\r\nE \u00e9 por isso que o Deputado Henrique do Para\u00edso votou \"sim\", para que se otimize o servi\u00e7o e se fa\u00e7a hist\u00f3ria, como foi feita no 29 de julho de 1998, h\u00e1 23 anos, a transforma\u00e7\u00e3o da telecomunica\u00e7\u00e3o no Pa\u00eds. Daqui a 20 anos, V.Exas. v\u00e3o ver os bons frutos que este Pa\u00eds vai colher. \r\nMuito obrigado, Sr. Presidente. \r\nParab\u00e9ns a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, REJEI\u00c7\u00c3O, C\u00c2MARA DOS DEPUTADOS, DECLARA\u00c7\u00c3O DE VOTO, VOTO FAVOR\u00c1VEL. \r\nDEPUTADO FEDERAL, ATUA\u00c7\u00c3O, BENEF\u00cdCIO, POPULA\u00c7\u00c3O, SA\u00daDE.",
+        "nomeDeputado": "Henrique do Para\u00edso",
+        "sumario": "Rejei\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade de emiss\u00e3o de c\u00e9dulas f\u00edsicas de vota\u00e7\u00e3o em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso). Declara\u00e7\u00e3o de voto pela aprova\u00e7\u00e3o da propositura. Dever do Parlamento brasileiro de luta em prol da sa\u00fade do povo brasileiro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. HENRIQUE DO PARA\u00cdSO (REPUBLICANOS - SP. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres pares, popula\u00e7\u00e3o brasileira que nos acompanha de suas resid\u00eancias, estamos j\u00e1 no tardar da noite, uma noite muito calorosa. Houve uma discuss\u00e3o ampla, e este Parlamento n\u00e3o conseguiu alcan\u00e7ar os 308 votos, que seria a maioria qualificada, para que a PEC 135/19 se encaminhasse para o segundo turno. Mas \u00e9 n\u00edtido que este Congresso, mesmo n\u00e3o atingindo os 308 votos, demonstrou que a maioria votou \"sim\", Deputada Renata. N\u00f3s tivemos 229 votos favor\u00e1veis e 218 votos contr\u00e1rios.\r\nEste Parlamentar, o Deputado Henrique do Para\u00edso, como sou conhecido, votou \"sim\" \u00e0 PEC 135/19, mas n\u00e3o pela sua origem, seja a propositura de Jair, seja de Luiz ou de Fernando, mas, sim, para o fortalecimento dos pilares da democracia brasileira.\r\nInfelizmente, \u00e0s vezes escuto discursos que falam at\u00e9 mesmo de fraudes passadas. N\u00e3o \u00e9 a minha fun\u00e7\u00e3o aqui falar que j\u00e1 ocorreram ou deixaram de ocorrer fraudes no passado, mas a PEC 135/19 seria uma garantia a mais, Deputada, para o povo brasileiro, seria uma garantia a mais para o fortalecimento dos pilares da democracia do nosso Pa\u00eds. Infelizmente, n\u00e3o houve maioria qualificada. A propositura foi rejeitada, mas segue aqui a minha posi\u00e7\u00e3o: meu voto foi \"sim\", para que o povo brasileiro tivesse uma seguran\u00e7a a mais no seu voto no crivo eleitoral.\r\nPresidente, obrigado pela oportunidade. Foi um dia longo, uma noite longa de trabalho. Daqui para frente, podem ter certeza de que continuaremos a discutir o que \u00e9 melhor para o nosso Pa\u00eds. Lutaremos para cessar essa pandemia, lutaremos pela sa\u00fade, trabalharemos pela nossa popula\u00e7\u00e3o brasileira. Esse \u00e9 o dever deste Parlamento e \u00e9 o dever do Poder Executivo.\r\nQue Deus aben\u00e7oe a todos! Uma \u00f3tima noite! Que Deus aben\u00e7oe o nosso Pa\u00eds sempre!\r\nSofremos essa pequena derrota, mas o povo do bem, a fam\u00edlia brasileira, esse povo guerreiro vencer\u00e1 no final.\r\nDeus os aben\u00e7oe!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

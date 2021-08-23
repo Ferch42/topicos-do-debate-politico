@@ -1,0 +1,614 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "DELEGA\u00c7\u00c3O, BRA\u00c7O DO NORTE (SC), SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Sauda\u00e7\u00f5es \u00e0 comitiva do Munic\u00edpio de Bra\u00e7o do Norte, Estado de Santa Catarina, presente no plen\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, primeiramente, eu gostaria de dizer da minha honra - eu, que fui Vereador na cidade de Crici\u00fama, juntamente com V.Exa. - de estar hoje participando desta sess\u00e3o como Deputado Federal no Congresso Nacional.\r\nE temos a honra de receber o Vice-Prefeito em exerc\u00edcio Ronaldo Fornazza, de Bra\u00e7o do Norte, juntamente com o Secret\u00e1rio e o Presidente da Funda\u00e7\u00e3o do Meio Ambiente. N\u00f3s, que somos de Santa Catarina, juntamente com o Deputado Ricardo Guidi, que tamb\u00e9m \u00e9 de Crici\u00fama, temos a honra de saud\u00e1-los neste plen\u00e1rio do Congresso Nacional!\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "RICARDO ALBA, DEPUTADO ESTADUAL, SANTA CATARINA, BR-470, RODOVIA FEDERAL, APOIO POL\u00cdTICO, INFRAESTRUTURA RODOVI\u00c1RIA, BANCADA ESTADUAL.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Presen\u00e7a no plen\u00e1rio do Deputado Estadual de Santa Catarina, Ricardo Alba, em busca de apoio para a realiza\u00e7\u00e3o de obras na BR-470.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, gostaria de fazer um registro importante. Encontra-se neste plen\u00e1rio o Deputado Estadual do PSL Ricardo Alba, o mais votado de Santa Catarina. Ele veio a esta Casa em busca do apoio dos Parlamentares catarinenses para uma das bandeiras mais importantes da infraestrutura de Santa Catarina: a BR-470. N\u00f3s gostar\u00edamos de j\u00e1 neste momento pedir o apoio da bancada catarinense para que juntos possamos melhorar a infraestrutura em Santa Catarina.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T10:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CARLOS MOIS\u00c9S DA SILVA, GOVERNADOR, SANTA CATARINA, DISTRITO FEDERAL (BRASIL), PRESEN\u00c7A, PLEN\u00c1RIO, FELIPE ESTEV\u00c3O,  DEPUTADO ESTADUAL, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Presen\u00e7a do Governador do Estado de Santa Catarina, Carlos Mois\u00e9s da Silva, no Distrito Federal. Presen\u00e7a no plen\u00e1rio do Deputado Estadual Felipe Estev\u00e3o, de Santa Catarina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, muito bom dia.\r\nOntem n\u00f3s recebemos aqui em Bras\u00edlia a visita do nosso Governador Carlos Mois\u00e9s, que vem em busca do apoio da frente parlamentar catarinense para as demandas de Santa Catarina.\r\n\u00c9 muito importante que os 16 Deputados de Santa Catarina enrolem suas bandeiras partid\u00e1rias e juntos consigamos trazer os melhores resultados para o nosso Estado.\r\nHoje n\u00f3s estamos recebendo aqui neste plen\u00e1rio a visita de um grande Parlamentar catarinense, o Deputado Felipe Estev\u00e3o. Ele que \u00e9 Presidente da Comiss\u00e3o da Pesca vem em busca de demandas para esse setor, que evolui muito a economia catarinense. Junto conosco, n\u00f3s vamos levar o melhor para Santa Catarina.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=30&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "GIOVANA GALATO,  VEREADORA , COCAL DO SUL (SC), PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas \u00e0 Vereadora Giovana Galato, do Munic\u00edpio de Cocal do Sul, Estado de Santa Catarina, em visita \u00e0 C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, essa foi uma semana muito produtiva para Santa Catarina. Ontem, n\u00f3s contamos com a presen\u00e7a do nosso Governador e, hoje, recebemos neste plen\u00e1rio a visita da Vereadora Giovana Galato, de Cocal do Sul. Vereadora muito atuante no sul de Santa Catarina, ela veio aqui em busca do atendimento de demandas do nosso Estado, especialmente o sul de Santa Catarina.\r\nVereadora Giovana, os Deputados de Santa Catarina est\u00e3o aqui a seu dispor e de todo o Estado. Seja bem-vinda a esta Casa.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PRC 331/2018, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.\r\nHOSPITAL DE CUST\u00d3DIA E TRATAMENTO PSIQUI\u00c1TRICO, CRICI\u00daMA (SC), SISTEMA \u00daNICO DE SA\u00daDE (SUS).\r\nOPOSI\u00c7\u00c3O POL\u00cdTICA, MINORIA PARLAMENTAR, CR\u00cdTICA.\r\nJAYANA NICARETTA, SECRET\u00c1RIA DE ESTADO, JUVENTUDE.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Mesa Diretora ao Projeto de Resolu\u00e7\u00e3o n\u00ba 331, de 2018, sobre a cria\u00e7\u00e3o do Pr\u00eamio Nise da Silveira de Boas Pr\u00e1ticas e Inclus\u00e3o em Sa\u00fade Mental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, n\u00f3s estamos votando aqui o projeto que institui na C\u00e2mara Federal um pr\u00eamio de boas pr\u00e1ticas e inclus\u00e3o em sa\u00fade mental. V.Exa., que \u00e9 da mesma cidade que eu, Crici\u00fama, Santa Catarina, sabe que passamos por diversas dificuldades com a Casa de Sa\u00fade Rio Maina, que pediu o descredenciamento do SUS e acabou encerrando suas atividades em sa\u00fade mental.\r\nOs Parlamentares de oposi\u00e7\u00e3o que subiram \u00e0 tribuna at\u00e9 agora em momento algum falaram o que o Governo passado fez de bom ou o que nada fez em rela\u00e7\u00e3o \u00e0 sa\u00fade mental do povo brasileiro. Portanto, fico indignado ao ver os Parlamentares subirem \u00e0 tribuna e falarem coisas sobre o Escola sem Partido.\r\nMas podem ter certeza de que o PSL est\u00e1 aqui para votar \"sim\". O encaminhamento do PSL \u00e9 \"sim\".\r\nE, no m\u00eas das mulheres, eu aproveito a oportunidade para registrar a presen\u00e7a da Secret\u00e1ria Nacional da Juventude, Jayana Nicaretta, que se faz presente nesta Casa. No m\u00eas das mulheres, o encaminhamento do PSL \u00e9 \"sim\", Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-12T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DIA INTERNACIONAL DA MULHER, HOMENAGEM.\r\nPL 1325/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA POL\u00cdTICA NACIONAL DE MOBILIDADE URBANA, DESEMBARQUE, MULHER, PESSOA COM MOBILIDADE REDUZIDA, TRANSPORTE P\u00daBLICO COLETIVO, TRANSPORTE RODOVI\u00c1RIO, SEGURAN\u00c7A P\u00daBLICA, INICIATIVA LEGISLATIVA, DANIEL FREITAS, DEPUTADO FEDERAL.\r\nS\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, PROJETO DE LEI ORDIN\u00c1RIA, LEI ANTICRIME, GOVERNO, DEFESA.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Comemora\u00e7\u00e3o do Dia Internacional da Mulher. An\u00fancio da apresenta\u00e7\u00e3o de projeto de lei a respeito da seguran\u00e7a da mulher no sistema de transporte coletivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, \u00e9 com muita honra que subo \u00e0 tribuna no m\u00eas em que se comemora o Dia Internacional da Mulher. Aproveito para parabenizar a todas. Quero tamb\u00e9m dizer que vou protocolar nesta Casa o meu primeiro projeto de lei. Tendo em vista que, talvez, o medo seja o sentimento mais presente na vida do cidad\u00e3o brasileiro, eu, ainda na condi\u00e7\u00e3o de Vereador de Crici\u00fama, tive a experi\u00eancia de protocolar um projeto, que hoje \u00e9 lei naquela cidade, que garante a seguran\u00e7a das mulheres que utilizam o transporte coletivo como meio de locomo\u00e7\u00e3o e que voltam da faculdade ou do trabalho tarde da noite e t\u00eam que desembarcar do \u00f4nibus, muitas vezes, em locais long\u00ednquos, distantes, mal iluminados e de f\u00e1cil acesso \u00e0 criminalidade, colocando-as em situa\u00e7\u00e3o de perigo. \r\nPortanto eu apresentei esse projeto, que foi um case de sucesso, e gostaria que essa boa ideia se expandisse para todo o Brasil. Aproveito para pedir o apoio de todas as pessoas que t\u00eam esse mesmo desejo. Esta Casa tem o dever de cumprir com o seu papel de garantir a seguran\u00e7a das pessoas e melhorar a qualidade de vida delas. \r\nSra. Presidente, eu gostaria de protocolar hoje esse projeto de lei. Ele abrange n\u00e3o somente as mulheres mas tamb\u00e9m as pessoas com mobilidade reduzida, para que elas possam desembarcar do transporte coletivo ao longo da linha do \u00f4nibus ou em qualquer lugar que seja mais pr\u00f3ximo de suas casas com maior seguran\u00e7a. S\u00e3o pessoas que v\u00e3o e voltam do trabalho ou da faculdade e querem chegar em suas casas com seguran\u00e7a.\r\nN\u00f3s percebemos que o medo faz parte do dia a dia das pessoas, e este Governo se preocupa com a melhoria na seguran\u00e7a p\u00fablica. O Ministro Sergio Moro foi o primeiro a colocar em a\u00e7\u00e3o esse projeto de lei anticrime, mostrando a preocupa\u00e7\u00e3o do atual Governo em melhorar a seguran\u00e7a p\u00fablica do povo brasileiro. \r\nEnt\u00e3o, eu pe\u00e7o o apoio dos nobres colegas, Deputados e Deputadas, para, enrolando as bandeiras partid\u00e1rias, unirem-se a essa boa ideia para darmos uma melhor qualidade de vida e seguran\u00e7a para todas as mulheres e pessoas com mobilidade reduzida que utilizam o transporte coletivo.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F3%2F2019&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RAFAEL HENZEL, EX-JORNALISTA, FALECIMENTO, CHAPEC\u00d3 (SC), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Falecimento do jornalista Rafael Henzel em decorr\u00eancia de infarto, sobrevivente do acidente a\u00e9reo envolvendo a equipe da Associa\u00e7\u00e3o Chapecoense de Futebol, do Munic\u00edpio de Chapec\u00f3, Estado de Santa Catarina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\n\u00c9 com muita tristeza que eu informo ao Plen\u00e1rio que o jornalista Rafael Henzel, que sobreviveu ao acidente a\u00e9reo da Chapecoense, acaba de falecer ap\u00f3s sofrer um infarto enquanto jogava futebol, infelizmente. Assim informo ao Plen\u00e1rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=393&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "J\u00daLIO KAMINSKY, VEREADOR, ANT\u00d4NIO LUZ, EX-DEPUTADO ESTADUAL, SANTA CATARINA, PRESEN\u00c7A, PLENARIO, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas ao Vereador J\u00falio Kaminsky e ao empres\u00e1rio e ex-Deputado Estadual de Santa Catarina, Ant\u00f4nio Luz, presentes no plen\u00e1rio.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente. \u00c9 uma honra v\u00ea-la, mais uma vez, presidir esta sess\u00e3o, no dia em que recebemos a visita de um Vereador da nossa cidade de Crici\u00fama, o Vereador J\u00falio Kaminski.\r\nSeja muito bem-vindo a esta Casa!\r\nO Vereador J\u00falio Kaminski tem uma postura muito independente, sempre demonstrando o melhor para Crici\u00fama. Vem a Bras\u00edlia em busca de recursos, para a melhor qualidade de vida do nosso cidad\u00e3o criciumense. \r\nAproveito a oportunidade para registrar tamb\u00e9m a presen\u00e7a neste plen\u00e1rio do amigo e ex-Deputado Estadual Ant\u00f4nio Luz, empres\u00e1rio de Santa Catarina que se faz presente na tarde de hoje na C\u00e2mara Federal.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CARV\u00c3O MINERAL, CENTRAIS EL\u00c9TRICAS DO SUL DO BRASIL (ELETROSUL), COMPANHIA DE GERA\u00c7\u00c3O T\u00c9RMICA DE ENERGIA EL\u00c9TRICA (ELETROBRAS CGTEE).",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Garantia pelo Ministro de Minas e Energia, Bento Albuquerque, de apoio do Governo Federal ao setor de carv\u00e3o mineral. Pedido ao Titular da Pasta de apresenta\u00e7\u00e3o de relat\u00f3rios econ\u00f4mico-financeiros justificadores da incorpora\u00e7\u00e3o da empresa Centrais El\u00e9tricas S/A - ELETROSUL pela Companhia de Gera\u00e7\u00e3o T\u00e9rmica de Energia El\u00e9trica - CGTEE.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, eu sou um Deputado de Crici\u00fama, do Estado de Santa Catarina, bisneto de Diom\u00edcio Freitas, que foi Deputado nesta Casa h\u00e1 56 anos e pioneiro na minera\u00e7\u00e3o. Crici\u00fama, por muitos anos, foi considerada a Capital do Carv\u00e3o nacional.\r\nHoje n\u00f3s recebemos nesta Casa, na Comiss\u00e3o de Minas e Energia, o Ministro Bento Albuquerque, que nos garantiu que este Governo vai dar o devido respeito e aten\u00e7\u00e3o ao carv\u00e3o mineral.\r\nEu gostaria de informar aos Deputados que a forma de minera\u00e7\u00e3o mudou muito de uns tempos para c\u00e1. Hoje, Crici\u00fama e o Estado de Santa Catarina j\u00e1 t\u00eam tecnologia que praticamente cessa a elimina\u00e7\u00e3o de CO2, transformando o carv\u00e3o em energia limpa. Isso nos deixa muito satisfeitos, assim como ficamos satisfeitos por escutar do Ministro que S.Exa. dar\u00e1 incentivos ao carv\u00e3o a partir do leil\u00e3o A-6, que acontece em setembro deste ano.\r\nContudo, Sra. Presidente, Sras. e Srs. Deputados, venho a esta tribuna relatar uma situa\u00e7\u00e3o muito grave, um processo que iniciou no Governo passado. Em 18 de janeiro de 2019, a Diretoria da ELETROBRAS/ELETROSUL levou uma informa\u00e7\u00e3o aos empregados, atrav\u00e9s do seu primeiro comunicado oficial - intitulado \"ELETROSUL e CGTEE preparam-se para unir for\u00e7as\" -, dando conta do andamento do projeto de unifica\u00e7\u00e3o das opera\u00e7\u00f5es das subsidi\u00e1rias da ELETROBRAS na Regi\u00e3o Sul, ou seja, ELETROSUL Centrais El\u00e9tricas S.A. e Companhia de Gera\u00e7\u00e3o T\u00e9rmica de Energia El\u00e9trica - CGTEE.\r\nNa mesma data e com a mesma finalidade, a Diretoria se reuniu com o seu corpo gerencial e informou que a decis\u00e3o da incorpora\u00e7\u00e3o da ELETROSUL e da CGTEE j\u00e1 havia sido tomada h\u00e1 alguns meses pelo Conselho de Administra\u00e7\u00e3o da holding, sob orienta\u00e7\u00e3o da Consultora Deloitte.\r\nAinda informou que, pela opera\u00e7\u00e3o de unifica\u00e7\u00e3o, haveria ganhos ou utiliza\u00e7\u00e3o de cr\u00e9ditos fiscais junto \u00e0 Receita Federal, oriundos da CGTEE, e que seria mantida a cultura organizacional da ELETROSUL.\r\nConforme o balan\u00e7o financeiro, Sra. Presidente, a CGTEE apresenta resultados deficit\u00e1rios de mais de 4 bilh\u00f5es de reais.\r\nA pergunta que fa\u00e7o desta tribuna, apresentando aqui a gravidade dos fatos, \u00e9 a seguinte: como uma empresa com 4 bilh\u00f5es de reais de d\u00e9ficit incorpora uma empresa eficiente como a ELETROSUL?\r\nO pedido que fiz hoje ao Ministro Bento Albuquerque, na Comiss\u00e3o de Minas e Energia, \u00e9 que se apresentem os relat\u00f3rios econ\u00f4mico-financeiros e tamb\u00e9m t\u00e9cnico-operacionais que justifiquem essa opera\u00e7\u00e3o, mas at\u00e9 agora nada foi apresentado. Solicitei ao Ministro que, enquanto n\u00e3o forem apresentados esses relat\u00f3rios, essa opera\u00e7\u00e3o seja imediatamente paralisada.\r\nVolto a afirmar que esse processo se iniciou no Governo passado. A ELETROSUL \u00e9 uma empresa eficiente, uma empresa de Santa Catarina que porventura viria a ser incorporada por uma empresa do Rio Grande do Sul, sem nenhum embasamento em relat\u00f3rios.\r\nSra. Presidente, desde j\u00e1, deixo este registro e pe\u00e7o que seja divulgado no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-28T13:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRICULTURA, SANTA CATARINA, FEIRA AGROPONTE (9:2019, CRICI\u00daMA (SC)), CONVITE, TEREZA CRISTINA, MINISTRA DE ESTADO DA AGRICULTURA, PECU\u00c1RIA E ABASTECIMENTO, WILLI BACKES, JAQUELINE BACKES, EMPRES\u00c1RIO, AGRONEG\u00d3CIO, ELOGIO.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Presen\u00e7a, na Casa, dos empres\u00e1rios Willi Backes e Jaqueline Backes, respons\u00e1veis pela realiza\u00e7\u00e3o da Feira de Agroneg\u00f3cios e Agricultura Familiar - AgroPonte, no Munic\u00edpio de Crici\u00fama, Estado de Santa Catarina. Convite \u00e0 Ministra da Agricultura, Pecu\u00e1ria e Abastecimento, Tereza Cristina, para participa\u00e7\u00e3o no evento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, a agricultura em Santa Catarina \u00e9 o principal segmento do desenvolvimento da economia, bem como do Brasil. E n\u00f3s temos a alegria de receber hoje nesta Casa dois empres\u00e1rios, Willi Backes e Jaqueline Backes, respons\u00e1veis pela maior feira do agroneg\u00f3cio de Santa Catarina, a AgroPonte, que acontecer\u00e1 este ano, entre os dias 14 e 18 de agosto, na cidade de Crici\u00fama.\r\nHoje pela manh\u00e3, tivemos a honra de ir ao Minist\u00e9rio da Agricultura fazer pessoalmente o convite \u00e0 Ministra. Essa feira, nas \u00faltimas duas edi\u00e7\u00f5es, j\u00e1 contou com a presen\u00e7a do Minist\u00e9rio. E aqui queremos reiterar o convite \u00e0 Ministra Tereza Cristina, que prontamente nos atendeu na manh\u00e3 de hoje no seu Minist\u00e9rio.\r\nE queremos deixar aqui o convite aos Deputados que se interessam pelo tema para conhecerem Santa Catarina, especialmente a nossa AgroPonte.\r\n\tMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F3%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "NELSON FREITAS, ATOR, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS, DEFESA, PLP 38/2019, PROJETO DE LEI COMPLEMENTAR, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE PROCESSO PENAL, C\u00d3DIGO ELEITORAL (1965), COMPET\u00caNCIA JURISDICIONAL, JULGAMENTO, CRIME COMUM, CRIME ELEITORAL, LEI ANTICRIME.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Presen\u00e7a no plen\u00e1rio do ator Nelson Freitas, da TV Globo . Apoio do ator ao Projeto de Lei Complementar n\u00ba 38, de 2019, sobre o estabelecimento de limites entre as inst\u00e2ncias para julgamento nas esferas dos crimes comuns e dos crimes eleitorais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o povo brasileiro est\u00e1 cansado de tanta corrup\u00e7\u00e3o, de tanta roubalheira. H\u00e1 um representante aqui do povo brasileiro, da classes art\u00edstica, um homem que defende a luta contra a corrup\u00e7\u00e3o e que apoia o PLP 38/19. Est\u00e1 aqui Nelson Freitas, ator da Rede Globo, algu\u00e9m que vem defendendo essa ideia. Gostaria de pedir a este Plen\u00e1rio uma salva de palmas para ele.(Palmas.)\r\nEle veio a esta Casa, a Casa do Povo, para dizer \"sim\" ao PLP 38/19, relativo \u00e0s medidas anticrime do Ministro Sergio Moro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-15T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MATERIAL ESCOLAR, CONTRIBUI\u00c7\u00c3O PARA FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS), PROGRAMA DE INTEGRA\u00c7\u00c3O SOCIAL (PIS), REDU\u00c7\u00c3O, IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI), ISEN\u00c7\u00c3O TRIBUT\u00c1RIA, APROVA\u00c7\u00c3O, DEFESA.\r\nRODOVIA TRANSLITOR\u00c2NEA, DUPLICA\u00c7\u00c3O, AEROPORTO REGIONAL, SANTA CATARINA, REGI\u00c3O SUL, NECESSIDADE.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Sauda\u00e7\u00f5es aos alunos do curso de Ci\u00eancias Cont\u00e1beis, do Munic\u00edpio de Araguari, Estado de Minas Gerais, em vista \u00e0 C\u00e2mara dos Deputados. Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 2.272, de 2019, acerca da isen\u00e7\u00e3o de impostos incidentes sobre materiais escolares. Apoio \u00e0s demandas da regi\u00e3o sul do Estado de Santa Catarina, notadamente com rela\u00e7\u00e3o \u00e0s obras do Aeroporto Regional Sul Humberto Ghizzo Bortoluzzi - Jaguaruna e \u00e0 duplica\u00e7\u00e3o da BR-101.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente! Boa tarde, Sras. e Srs. Deputados!\r\nAntes de mais nada, eu gostaria de fazer uma sauda\u00e7\u00e3o especial aos alunos de Ci\u00eancias Cont\u00e1beis de Araguari. Sejam todos muito bem-vindos a esta Casa!\r\nSra. Presidente, a nossa Constitui\u00e7\u00e3o Federal de 1988 assegura o direito \u00e0 educa\u00e7\u00e3o a todos os brasileiros. E o sonho deste Deputado \u00e9 ver toda a popula\u00e7\u00e3o brasileira alcan\u00e7ar o n\u00edvel superior, cursar uma faculdade e se preparar para o mercado de trabalho. \r\nA educa\u00e7\u00e3o \u00e9 a base para a constru\u00e7\u00e3o da liberdade e a conquista de justi\u00e7a e solidariedade. Sem ela, n\u00e3o h\u00e1 desenvolvimento, cresce a pobreza, a mis\u00e9ria e a marginaliza\u00e7\u00e3o, agravam-se as desigualdades e acentuam-se os preconceitos e a discrimina\u00e7\u00e3o.\r\nNesse sentido, na tarde hoje, eu protocolei o Projeto de Lei n\u00ba 2.272, de 2019, que vai garantir e facilitar o acesso \u00e0 educa\u00e7\u00e3o, porque retira a tributa\u00e7\u00e3o dos materiais escolares, levando \u00e0quelas fam\u00edlias mais carentes condi\u00e7\u00f5es de estudarem e manterem as suas crian\u00e7as na escola. Esse projeto concede isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI e redu\u00e7\u00e3o a zero das al\u00edquotas da Contribui\u00e7\u00e3o para o Financiamento da Seguridade Social - COFINS e do PIS/PASEP sobre materiais escolares. O projeto que estou apresentando tem a finalidade de desonerar os materiais escolares da incid\u00eancia de tributos e reduzir os custos desses produtos.\r\nDeve-se notar que os materiais escolares aqui relacionados, Sra. Presidente, s\u00e3o os mais b\u00e1sicos para as atividades escolares. Essa redu\u00e7\u00e3o n\u00e3o traz um impacto significativo aos cofres p\u00fablicos e far\u00e1 muita, muita diferen\u00e7a no bolso das fam\u00edlias mais carentes da popula\u00e7\u00e3o brasileira.\r\nEnt\u00e3o, Sra. Presidente , Sras. e Srs. Deputados, eu conclamo o apoio de todo o Plen\u00e1rio da C\u00e2mara Federal para que n\u00f3s possamos dar sequ\u00eancia a esse projeto, levando \u00e0s fam\u00edlias mais carentes o acesso a esses materiais escolares, pois s\u00f3 atrav\u00e9s da educa\u00e7\u00e3o n\u00f3s vamos transformar o Brasil num pa\u00eds de primeiro mundo.\r\nSra. Presidente, eu gostaria de registrar a audi\u00eancia, a reuni\u00e3o que acontece no meu Estado de Santa Catarina, mas especialmente no sul, em que est\u00e3o sendo estabelecidas as prioridades do nosso sul de Santa Catarina. Devido \u00e0 nossa presen\u00e7a hoje aqui em Bras\u00edlia, tanto na sess\u00e3o plen\u00e1ria quanto na reuni\u00e3o que acontece agora na CCJ, eu n\u00e3o pude estar presente, mas deixei l\u00e1 o meu representante atento a todas as demandas do sul do Estado.\r\nE n\u00f3s vamos juntos com a senhora, que \u00e9 da minha cidade, e com o Deputado Ricardo Guidi, fazer de tudo para que as demandas aconte\u00e7am para o sul de Santa Catarina, especialmente o nosso aeroporto de Jaguaruna, onde tivemos um voo da Latam cancelado.\r\nN\u00f3s j\u00e1 perdemos muito. O sul do Estado j\u00e1 perdeu muito com falta de estrutura, de aeroporto, com a demora da nossa duplica\u00e7\u00e3o da BR-101 e tantos outros problemas, que nos deixaram atrasados no desenvolvimento. Por isso, n\u00f3s temos que, juntos, enrolando todas e quaisquer bandeiras partid\u00e1rias, fazermos todos os esfor\u00e7os para que o nosso aeroporto esteja sempre em pleno funcionamento para que o nosso desenvolvimento aconte\u00e7a, como o sul do estado merece.\r\nEnt\u00e3o, contem com o Deputado Daniel Freitas. N\u00e3o estou na nossa cidade, mas estou aqui trabalhando por todas essas demandas que o sul de Santa Catarina conclama.\r\nObrigado, Sra. Presidente.\r\nUm abra\u00e7o a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F4%2F2019&txPagina=34&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "CONTESTA\u00c7\u00c3O, ACUSA\u00c7\u00c3O, COMPRA DE VOTO, GOVERNO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, APROVA\u00c7\u00c3O, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019).",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Inconsist\u00eancia das acusa\u00e7\u00f5es de Deputado contra o Governo Jair Bolsonaro e o PSL, por suposta pr\u00e1tica da velha pol\u00edtica do toma l\u00e1, da c\u00e1, para aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, n\u00e3o posso ouvir calado um Deputado que me antecede e vem ofender os seus colegas Parlamentares. Traz uma den\u00fancia mentirosa, a de que cada Parlamentar que votou na CCJ ontem votou em favor de 40 milh\u00f5es de reais vindos do Governo Bolsonaro.\r\nQuero dizer ao nobre Deputado que, se ele est\u00e1 acostumado com governo corrupto que faz esse tipo de \"toma l\u00e1, d\u00e1 c\u00e1\", o Governo Bolsonaro n\u00e3o faz nada disso. Todos n\u00f3s que votamos ontem votamos a favor de uma nova Previd\u00eancia que vai beneficiar os mais pobres da popula\u00e7\u00e3o brasileira.\r\nDeputado, vai ter que provar isso. Traz uma den\u00fancia vazia para este respeitado Plen\u00e1rio, a de que Deputados, colegas seus Parlamentares, recebem dinheiro em favor de um voto na CCJ. O senhor vai ser levado ao Conselho de \u00c9tica desta Casa, porque n\u00e3o \u00e9 admiss\u00edvel que um Deputado traga mentiras a este plen\u00e1rio, a n\u00e3o ser que ele esteja acostumado com mentiras daquele governo corrupto que foi o Governo do PT. O Governo Bolsonaro n\u00e3o trabalha assim, Deputado!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DANIEL FREITAS, DEPUTADO FEDERAL, CRICI\u00daMA (SC), ATUA\u00c7\u00c3O PARLAMENTAR, PRESIDENTE, FRENTE PARLAMENTAR, CARV\u00c3O MINERAL, MATRIZ ENERG\u00c9TICA.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Elei\u00e7\u00e3o do orador para a Presid\u00eancia da Frente Parlamentar Mista em Apoio ao Carv\u00e3o Mineral. Import\u00e2ncia do carv\u00e3o mineral, recurso natural abundante na Regi\u00e3o Sul do Brasil, como fonte na matriz energ\u00e9tica mundial ao longo das pr\u00f3ximas d\u00e9cadas.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, subo \u00e0 tribuna nesta tarde para registrar o que aconteceu na semana passada. Com muita honra, assumi a Presid\u00eancia da Frente Parlamentar Mista em Apoio ao Carv\u00e3o Mineral, cujo Vice-Presidente \u00e9 o Deputado Afonso Hamm. Quero registrar o trabalho que a frente vem fazendo desde 2005.\r\nO carv\u00e3o mineral tem sua abund\u00e2ncia no sul dos Estados do Paran\u00e1, Rio Grande do Sul e Santa Catarina. A participa\u00e7\u00e3o de carv\u00e3o na matriz energ\u00e9tica prim\u00e1ria mundial em 2018 alcan\u00e7ou 28%, representando 38% da energia el\u00e9trica gerada. N\u00f3s n\u00e3o podemos mais ficar ref\u00e9ns da energia hidrel\u00e9trica. Um pa\u00eds como o Brasil precisa ter mais op\u00e7\u00f5es em sua matriz energ\u00e9tica. O carv\u00e3o mineral \u00e9 uma solu\u00e7\u00e3o vi\u00e1vel para a manuten\u00e7\u00e3o, por exemplo, dos servi\u00e7os essenciais em caso de longos per\u00edodos de estiagem e a consequente queda na produ\u00e7\u00e3o de energia el\u00e9trica.\r\nSobre a quest\u00e3o ambiental, \u00e9 preciso dizer que h\u00e1 anos a produ\u00e7\u00e3o do carv\u00e3o mineral tem sido realizada com alta tecnologia, impedindo preju\u00edzos ao meio ambiente. N\u00e3o fosse assim, a Alemanha, um dos pa\u00edses mais preocupados com este fato, n\u00e3o teria 40% da gera\u00e7\u00e3o de energia proveniente do uso do carv\u00e3o mineral.\r\nEsta frente ter\u00e1, inicialmente, dois objetivos: a moderniza\u00e7\u00e3o dos parques termoel\u00e9tricos brasileiros e a busca constante de tratamento igualit\u00e1rio nas quest\u00f5es tribut\u00e1rias, fiscais e de financiamento em rela\u00e7\u00e3o a outras fontes f\u00f3sseis brasileiras. \r\nEu me sinto muito orgulhoso, Sr. Presidente, Srs. Deputados, em fazer parte desta Frente Parlamentar e de agora coorden\u00e1-la. Eu sou da cidade de Crici\u00fama, Santa Catarina, por muitos anos considerada a capital brasileira do carv\u00e3o mineral. Sou bisneto de Deom\u00edcio Freitas, que foi Deputado Federal nesta Casa, grande l\u00edder na quest\u00e3o do carv\u00e3o mineral. Portanto, tenho muito orgulho, \u00e9 uma honra para mim.\r\nAgrade\u00e7o aos pares, aos Senadores e Deputados, que me ajudaram e me deram condi\u00e7\u00f5es para que eu assumisse, daqui por diante, a coordena\u00e7\u00e3o dessa t\u00e3o importante Frente. Agrade\u00e7o tamb\u00e9m ao Ministro Bento Albuquerque, que foi a Santa Catarina conhecer um equipamento inovador em \u00e2mbito mundial, que cessa a emiss\u00e3o de CO2 do carv\u00e3o, o que torna o carv\u00e3o uma energia limpa, por ter feito quest\u00e3o de estar aqui no lan\u00e7amento dessa Frente, juntamente com os Parlamentares que a comp\u00f5em, garantindo investimentos da ordem de 400 bilh\u00f5es de reais este ano em energia. \r\nO carv\u00e3o permanecer\u00e1 como fonte importante na matriz energ\u00e9tica mundial ao longo das pr\u00f3ximas d\u00e9cadas, contribuindo para o desenvolvimento sustent\u00e1vel do mundo, e o Brasil n\u00e3o s\u00f3 acompanha, como tamb\u00e9m vai fomentar essa importante fonte energ\u00e9tica, que \u00e9 a riqueza do subsolo do sul do Brasil.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL, MIGUEL PERINI, EMPRES\u00c1RIO, C\u00c2MARA DOS DEPUTADOS, PRESEN\u00c7A.\r\nREFORMA TRIBUT\u00c1RIA, FAVOR\u00c1VEL, MIGUEL PERINI, EMPRES\u00c1RIO, SANTA CATARINA, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Presen\u00e7a, na Casa, do empres\u00e1rio Miguel Perini e de sua esposa Cristina, do Estado de Santa Catarina, para apresenta\u00e7\u00e3o de sugest\u00f5es relativas \u00e0 reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Sra. Presidenta, Sras. e Srs. Deputados, n\u00f3s estamos recebendo aqui a presen\u00e7a dos amigos Miguel Perini e sua esposa Cristina. \u00c9 mais um empres\u00e1rio brasileiro que se desloca do Estado de Santa Catarina at\u00e9 Bras\u00edlia para fazer alguns pedidos em favor da nossa nova Previd\u00eancia, cujo relat\u00f3rio vai ser lido amanh\u00e3. N\u00f3s sabemos essa que n\u00e3o \u00e9 uma prioridade do Governo Bolsonaro nem dos Parlamentares. A prova disso \u00e9 o povo brasileiro vindo a Bras\u00edlia pedir a reforma da Previd\u00eancia e tamb\u00e9m a reforma tribut\u00e1ria.\r\nQuero fazer o registro da presen\u00e7a do empres\u00e1rio Miguel Perini e de sua esposa Cristina.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSILIDADE, REQUERIMENTO DE DESTAQUE, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), BASE DE APOIO POLITICO, GOVERNO, VOTO FAVORAVEL.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo da admissibilidade dos requerimentos de destaques simples, oferecidos \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6-D, de 2019, acerca da reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, foram dias dif\u00edceis at\u00e9 aqui. Tivemos muitas discuss\u00f5es desde a CCJ e na Comiss\u00e3o Especial da Previd\u00eancia.\r\nQuero parabenizar V.Exa. pela condu\u00e7\u00e3o dos trabalhos at\u00e9 aqui, mas chegou o momento de termos responsabilidade.\r\nO Governo orienta \"sim\" \u00e0 admissibilidade em globo deste requerimento.\r\nEu gostaria tamb\u00e9m, Sr. Presidente, de registrar a presen\u00e7a neste plen\u00e1rio do Adelor Lessa e tamb\u00e9m do Edson Dassoler, comunicadores de Santa Catarina, os principais do nosso Estado, que diariamente noticiam as decis\u00f5es deste Congresso Nacional para o povo de Santa Catarina.\r\nUm abra\u00e7o, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=107&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "RAFAEL B\u00daRIGO LOCKS,, M\u00c9DICO OTORRINOLARINGOLOGISTA, CRICI\u00daMA (SC), C\u00c2MARA DOS DEPUTADOS, PRESEN\u00c7A.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Presen\u00e7a, na Casa, do otorrinolaringologista Rafael B\u00farigo Locks, em busca de apoio \u00e0 habilita\u00e7\u00e3o da Audiosul Cl\u00ednica Auditiva, no Munic\u00edpio de Crici\u00fama, Estado de Santa Catarina.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente. Boa tarde, Srs. Deputados.\r\nEu tenho o orgulho de registrar a presen\u00e7a aqui do nosso amigo Dr. Rafael B\u00farigo Locks, otorrinolaringologista de Crici\u00fama, no sul Santa Catarina, e que vem em busca de solu\u00e7\u00f5es para a Audiosul Cl\u00ednica Auditiva, que surge para engrandecer os servi\u00e7os m\u00e9dicos no sul de Santa Catarina e que h\u00e1 mais de 1 ano espera por sua habilita\u00e7\u00e3o. Desde j\u00e1, conto com V.Exa., Presidente, para que n\u00f3s, juntos, consigamos habilitar essa cl\u00ednica e levar ao sul de Santa Catarina esse servi\u00e7o t\u00e3o importante para a nossa popula\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MEIO AMBIENTE, MINERA\u00c7\u00c3O, CARV\u00c3O MINERAL, FRENTE PARLAMENTAR, DANIEL FREITAS, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Avan\u00e7os da Frente Parlamentar Mista em Defesa do Carv\u00e3o Mineral. Manifesta\u00e7\u00e3o de boas-vindas aos empres\u00e1rios Gabriel Zanetti e Frederico Zanetti, presentes no Distrito Federal em busca de apoio ao desenvolvimento do carv\u00e3o mineral no Estado de Santa Catarina.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, a Frente Parlamentar Mista em Defesa do Carv\u00e3o Mineral tem avan\u00e7ado bastante. Na condi\u00e7\u00e3o de Presidente da Frente, tenho a honra de receber aqui hoje dois amigos e empres\u00e1rios da nossa cidade Crici\u00fama, Gabriel Zanetti e Frederico Zanetti, que vieram a Bras\u00edlia em busca do desenvolvimento do carv\u00e3o mineral em Santa Catarina, j\u00e1 que estamos em um momento muito positivo para a minera\u00e7\u00e3o de carv\u00e3o. \r\nN\u00f3s vamos preservar o meio ambiente, a minera\u00e7\u00e3o tem avan\u00e7ado bastante e o momento \u00e9 muito oportuno. O Governo Bolsonaro tem se manifestado favor\u00e1vel a essa fonte energ\u00e9tica, que \u00e9 a riqueza do sul do Brasil, Santa Catarina, Paran\u00e1 e, principalmente, Rio Grande do Sul.\r\nObrigado pela presen\u00e7a. Sejam muito bem-vindos, meus amigos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 7789/2017, PROJETO DE  LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL),  VOTO FAVOR\u00c1VEL.\r\nPED\u00c1GIO, PRA\u00c7A DE PED\u00c1GIO, COBRAN\u00c7A, DEBATE.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Luta do F\u00f3rum Parlamentar Catarinense contra a instala\u00e7\u00e3o de novas pra\u00e7as de ped\u00e1gio na regi\u00e3o sul do Estado.Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 7.789, de 2017, sobre a institui\u00e7\u00e3o da Pol\u00edtica Nacional de Desfazimento e Recondicionamento de Equipamentos Eletroeletr\u00f4nicos, e sobre o Programa Computadores para Inclus\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero ressaltar aqui o trabalho hoje da Frente do F\u00f3rum Parlamentar Catarinense em defesa da situa\u00e7\u00e3o do sul do Estado de Santa Catarina, em rela\u00e7\u00e3o \u00e0s pra\u00e7as de ped\u00e1gio, cujo edital estava prestes a ser publicado agora no dia 6 de novembro.\r\nFomos \u00e0 ANTT e garantimos a palavra do Presidente da ANTT de que n\u00e3o vai ser publicado o edital at\u00e9 que o f\u00f3rum possa se reunir com o Ministro. O objetivo do F\u00f3rum Parlamentar \u00e9 solicitar que se reset toda a situa\u00e7\u00e3o e recomece a discuss\u00e3o dessas pra\u00e7as de ped\u00e1gio, dos valores a serem cobrados, porque o sul de Santa Catarina j\u00e1 perdeu muito e n\u00e3o merece um tratamento desigual em rela\u00e7\u00e3o ao norte do Estado.\r\nQuero aqui registrar a for\u00e7a e a uni\u00e3o dos Deputados e Senadores de Santa Catarina em rela\u00e7\u00e3o a esse assunto t\u00e3o importante.\r\nO PSL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JESS\u00c9 LOPES, DEPUTADO ESTADUAL, SANTA CATARINA, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas ao Deputado Estadual de Santa Catarina, Jess\u00e9 Lopes, em visita \u00e0 C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 com muita alegria e com muita honra que eu gostaria de fazer o registro da presen\u00e7a do Deputado Jess\u00e9 Lopes, da minha cidade de Crici\u00fama, do sul de Santa Catarina, que vem a Bras\u00edlia ajudar na defesa do nosso Brasil, na constru\u00e7\u00e3o do Pa\u00eds que n\u00f3s queremos. Ele se encontra, neste momento, no Plen\u00e1rio da C\u00e2mara dos Deputados.\r\nMeu amigo Jess\u00e9 Lopes, muito obrigado pela sua presen\u00e7a. Seja muito bem-vindo a esta Casa!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=182&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T20:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REUNI\u00c3O, TARC\u00cdSIO DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, PED\u00c1GIO, SANTA CATARINA, F\u00d3RUM, DEPUTADO ESTADUAL, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Reuni\u00e3o de membros do F\u00f3rum Parlamentar Catarinense com o Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, para debate da cobran\u00e7a de ped\u00e1gios rodovi\u00e1rios na regi\u00e3o sul do Estado de Santa Catarina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente.\r\nAmanh\u00e3 o F\u00f3rum Parlamentar Catarinense tem uma reuni\u00e3o importante com o Ministro Tarcisio de Freitas. O assunto s\u00e3o os ped\u00e1gios no sul de Santa Catarina. \r\nE tenho a honra de registrar a presen\u00e7a aqui, para a reuni\u00e3o de amanh\u00e3, dos Deputados Felipe Estev\u00e3o e Sargento Lima. E amanh\u00e3 teremos a companhia do Deputado Jess\u00e9 Lopes e da Deputada Ana Campagnolo. Eles v\u00e3o juntar-se aos Deputados Federais na luta para resetarmos o jogo dos ped\u00e1gios do sul de Santa Catarina.\r\nObrigada, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=258&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-28T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "PAULO ALTHOFF, SIDNEI GODINHO, BATAVO, SERGIO, C\u00c9SAR AUGUSTO, DIAS, CORRELIGION\u00c1RIO, DANIEL FREITAS, DEPUTADO FEDERAL, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Manifesta\u00e7\u00f5es de boas-vindas aos correligion\u00e1rios e amigos do orador presentes no Distrito Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente. Obrigado pela disponibilidade do microfone.\r\nQuero fazer uma sauda\u00e7\u00e3o aos meus amigos de Santa Catarina Paulo Althoff, Sidnei Godinho, nosso Batavo, Sergio, C\u00e9sar Augusto e Dias, que est\u00e3o em Bras\u00edlia para conhecer a cidade e prestigiar este Parlamento. Sejam todos bem-vindos!\r\nObrigado pela oportunidade, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F11%2F2019&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "OLVACIR FONTANA, JOS\u00c9 SPRICIGO, EMPRES\u00c1RIO, SANTA CATARINA, PRESEN\u00c7A, C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O, EMPREENDEDOR.  \r\nGOVERNO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, BENEF\u00cdCIO, EMPRES\u00c1RIO.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Associa\u00e7\u00e3o ao pronunciamento do Deputado Vinicius Poit sobre a import\u00e2ncia do papel exercido pelos pequenos empreendedores na gera\u00e7\u00e3o de emprego e renda. Manifesta\u00e7\u00e3o de boas-vindas aos empres\u00e1rios catarinenses Olvacir Fontana e Jos\u00e9 Spricigo, presentes na C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente. \r\nAcompanhando a fala do meu amigo, o Deputado Vinicius Poit, sobre gera\u00e7\u00e3o de emprego e renda no Brasil, n\u00f3s estamos recebendo hoje no plen\u00e1rio da C\u00e2mara dos Deputados dois representantes de Santa Catarina, Estado que tem o DNA empreendedor. Eles est\u00e3o em Bras\u00edlia para uma agenda com o Presidente da Rep\u00fablica, juntamente com outros empres\u00e1rios de Santa Catarina. Refiro-me aos empres\u00e1rios Olvacir Fontana e Jos\u00e9 Spricigo, que representam verdadeiramente o esp\u00edrito empreendedor de Santa Catarina. \r\nO Governo tem feito muito pelo empres\u00e1rio. Avan\u00e7amos com a MP da Liberdade Econ\u00f4mica e v\u00e1rias a\u00e7\u00f5es de desburocratiza\u00e7\u00e3o, em que o Ministro Paulo Guedes tem avan\u00e7ado muito. Tenho convic\u00e7\u00e3o de que este Governo vai abrir as portas e oportunizar aquilo que o empres\u00e1rio tem para fazer acontecer na nossa economia, gerando cada vez mais emprego e renda.\r\nSejam muito bem-vindos, amigos. Com certeza, hoje ser\u00e1 um dia produtivo e muito gratificante para Santa Catarina. \r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 30/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.\r\nFRENTE PARLAMENTAR MISTA PARA O PROGRAMA ESPACIAL BRASILEIRO, LAN\u00c7AMENTO, CONVITE.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 47 do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 897, de 2019, sobre a institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas, com vista \u00e0 sua supress\u00e3o.  Convite aos Parlamentares para participa\u00e7\u00e3o no ato de lan\u00e7amento da Frente Parlamentar Mista para o Programa Espacial Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - O PSL vota \"sim\", Sr. Presidente.\r\nAproveito para fazer um convite. Amanh\u00e3, \u00e0s 9 horas, no Sal\u00e3o Negro da C\u00e2mara dos Deputados, ser\u00e1 lan\u00e7ada a Frente Parlamentar Mista para o Programa Espacial Brasileiro. Convido todos para que participem deste evento e tamb\u00e9m dos trabalhos dessa frente parlamentar t\u00e3o importante.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=137&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 30/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL. \r\nMARCOS PONTES, MINISTRO DE ESTADO DA CI\u00caNCIA TECNOLOGIA INOVA\u00c7\u00d5ES E COMUNICA\u00c7\u00d5ES, SA\u00daDE.\r\nFRENTE PARLAMENTAR MISTA PARA O PROGRAMA ESPACIAL BRASILEIRO, LAN\u00c7AMENTO, CONVITE.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 55 do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca da institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9lula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas, com vista \u00e0 sua supress\u00e3o. Votos de pronto restabelecimento da sa\u00fade ao Ministro da Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es, Marcos Pontes. Convite aos Parlamentares para o ato de lan\u00e7amento da Frente Parlamentar em Defesa do Programa Espacial Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - O PSL vota \"sim\".\r\nSr. Presidente, eu gostaria de desejar ao Ministro Marcos Pontes um pronto restabelecimento. Ele fez uma cirurgia.\r\nQuero corrigir uma informa\u00e7\u00e3o dada anteriormente sobre o convite para o lan\u00e7amento da Frente do Programa Espacial Brasileiro, que acontecer\u00e1 \u00e0s 9 horas, no Sal\u00e3o Nobre, e n\u00e3o no Sal\u00e3o Negro, como falado anteriormente. \r\nAproveito para convidar V.Exa., Presidente, e os demais Deputados desta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, ADMISSIBILIDADE CONSTITUCIONAL, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, RECURSOS P\u00daBLICOS, PANDEMIA, CORONAV\u00cdRUS, AUX\u00cdLIO EMERGENCIAL, RESPONSABILIDADE FISCAL, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, povo brasileiro, com muita honra, fui designado por esta Presid\u00eancia para relatar a PEC Emergencial, num momento importante do Brasil, em que este Congresso tem como como responsabilidade entregar esta PEC.\r\nFiz quest\u00e3o, a partir do momento em que fui designado, desde a quinta-feira passada, de fazer o papel que o Relator deve fazer de ouvir. Ouvi primeiramente a equipe econ\u00f4mica, passando a ouvir o Presidente Jair Bolsonaro e a sua equipe, ouvi o Presidente do Banco Central e, por fim, ouvi aqueles que, de fato, v\u00e3o decidir.\r\nHoje, na reuni\u00e3o de L\u00edderes, tive a oportunidade de atentamente, Deputado General Peternelli, ouvir todos os nossos L\u00edderes, que demonstraram a preocupa\u00e7\u00e3o que o Brasil deve ter de dar previsibilidade fiscal ao nosso Pa\u00eds e ao mercado.\r\nN\u00f3s entendemos que, antes de mais nada - e eu acredito que isso seja consenso entre todas as bancadas deste Congresso, desta C\u00e2mara Federal -, precisamos entregar recursos neste momento de pandemia. Este Governo j\u00e1 entregou 293 bilh\u00f5es de reais executados \u00e0quelas pessoas que mais precisam, atrav\u00e9s do aux\u00edlio emergencial e atrav\u00e9s dessa PEC, que leva o nome de PEC Emergencial, mas \u00e9 muito mais do que isso, ela \u00e9 considerada um novo marco fiscal. N\u00f3s temos a responsabilidade de, antes de mais nada, levar \u00e0 popula\u00e7\u00e3o mais carente e que est\u00e1 hoje afetada pela pandemia, que n\u00e3o escolhe classe social; \u00e0quela popula\u00e7\u00e3o mais carente, que n\u00e3o tem o que comer na sua mesa - como o Presidente Bolsonaro vem fazendo, j\u00e1 tendo entregado 293 bilh\u00f5es de reais at\u00e9 aqui -, o mais r\u00e1pido poss\u00edvel, mais 44 bilh\u00f5es de reais, que v\u00e3o garantir o sustento dessas fam\u00edlias.\r\nEnt\u00e3o, essa quest\u00e3o foi crucial para que n\u00f3s entend\u00eassemos, na reuni\u00e3o de L\u00edderes, que nada pode atrapalhar ou atrasar esta PEC no Plen\u00e1rio da C\u00e2mara dos Deputados.\r\nDiante disso, conversando com o Presidente Bolsonaro, conversando com o Presidente Lira, conversando com o Presidente Pacheco e conversando com todos os L\u00edderes, n\u00f3s entendemos, ouvindo a todos, que este \u00e9 um momento de responsabilidade. N\u00f3s teremos a oportunidade, se nesta PEC algo ficar para tr\u00e1s, de revermos e rediscutirmos isso nas reformas administrativa e tribut\u00e1ria. O momento agora \u00e9 de responsabilidade fiscal e de responsabilidade com as pessoas que mais precisam de n\u00f3s neste momento.\r\nEste \u00e9 o nosso papel: o de dar seguran\u00e7a fiscal ao Pa\u00eds e o de dar seguran\u00e7a \u00e0s pessoas que mais precisam neste momento.\r\nEnt\u00e3o, Sr. Presidente, com muita honra, eu relato esta mat\u00e9ria. N\u00e3o \u00e9 uma mat\u00e9ria simples, n\u00e3o \u00e9 uma mat\u00e9ria f\u00e1cil, mas este \u00e9 o papel deste Parlamento.\r\nPor isso, fa\u00e7o quest\u00e3o neste momento de ler o voto sobre a admissibilidade da mat\u00e9ria, com a convic\u00e7\u00e3o de que n\u00f3s, neste Plen\u00e1rio, vamos entregar o melhor resultado para o Brasil.\r\nN\u00e3o \u00e9 o momento de n\u00f3s olharmos para uma corpora\u00e7\u00e3o, para uma institui\u00e7\u00e3o. N\u00f3s precisamos assumir o papel deste Congresso Nacional de olhar para o Brasil.\r\nNeste momento, fa\u00e7o a leitura do voto:\r\n\"II - Voto do Relator\r\nNos termos do art. 202, caput, do Regimento Interno da C\u00e2mara dos Deputados, compete \u00e0 Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania proferir parecer acerca da admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o (PEC) n\u00ba 186, de 2019.\r\nTal exame de admissibilidade consiste em um ju\u00edzo preliminar e prejudicial ao exame de m\u00e9rito a ser proferido pela Comiss\u00e3o Especial competente, no qual se examina, exclusivamente, a observ\u00e2ncia das limita\u00e7\u00f5es impostas pela Constitui\u00e7\u00e3o Federal de 1988 ao poder constituinte reformador, mais precisamente: os limites procedimentais, circunstanciais e materiais.\r\nAs limita\u00e7\u00f5es procedimentais ou formais dizem respeito \u00e0 legitimidade da iniciativa e \u00e0 inexist\u00eancia de mat\u00e9ria constante de proposta de emenda rejeitada ou havida por prejudicada na mesma sess\u00e3o legislativa em que apresentada.\r\nNesse quesito, verificamos que a proposi\u00e7\u00e3o foi apresentada por, no m\u00ednimo, um ter\u00e7o dos Senadores da Rep\u00fablica, obedecendo-se, assim, \u00e0 exig\u00eancia constante do art. 60, inciso I, da Constitui\u00e7\u00e3o Federal.\r\nVerificamos, tamb\u00e9m, que a mat\u00e9ria tratada na proposi\u00e7\u00e3o n\u00e3o foi objeto de nenhuma outra rejeitada ou havida por prejudicada na presente sess\u00e3o legislativa, n\u00e3o ocorrendo, portanto, o impedimento mencionado no art. 60, \u00a7 5\u00ba, da Constitui\u00e7\u00e3o.\r\nAs limita\u00e7\u00f5es circunstanciais dizem respeito \u00e0 inocorr\u00eancia de situa\u00e7\u00f5es de anormalidade institucional previstas na Constitui\u00e7\u00e3o, como interven\u00e7\u00e3o federal, estado de defesa e estado de s\u00edtio.\r\nQuanto ao momento pol\u00edtico-institucional brasileiro, constatamos a inocorr\u00eancia de anormalidade que atraia a limita\u00e7\u00e3o circunstancial prevista no art. 60, \u00a7 1\u00ba, da Carta Pol\u00edtica. Em momentos de extrema gravidade, como a vig\u00eancia de interven\u00e7\u00e3o federal ou de estado de defesa ou de s\u00edtio, a Constitui\u00e7\u00e3o n\u00e3o pode ser reformada.\r\nConsignamos, contudo, que nenhuma dessas circunst\u00e2ncias \u00e9 verificada no momento presente, estando o Brasil em normal funcionamento de suas institui\u00e7\u00f5es.\r\nAs limita\u00e7\u00f5es materiais, por fim, dizem respeito ao pr\u00f3prio objeto do poder reformador, que n\u00e3o pode violar nenhuma cl\u00e1usula p\u00e9trea.\r\nQuanto a esse quesito, verificamos que a proposta sob exame observa as cl\u00e1usulas p\u00e9treas explicitadas no art. 60, \u00a7 4\u00ba, da Constitui\u00e7\u00e3o, a saber: a forma federativa de Estado, o voto direto, secreto, universal e peri\u00f3dico, a separa\u00e7\u00e3o dos Poderes e os direitos e garantias individuais. N\u00e3o se vislumbra, de igual modo, tend\u00eancia para abolir cl\u00e1usula p\u00e9trea impl\u00edcita, consistente nos princ\u00edpios estruturantes do Estado Democr\u00e1tico de Direito instaurado pela Constitui\u00e7\u00e3o de 1988.\r\nII.1 - Conclus\u00e3o do Voto\r\nNo \u00e2mbito da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania (CCJC), votamos pela admissibilidade da PEC n\u00ba 186, de 2019.\r\nSala das Sess\u00f5es.\r\nDeputado Daniel Freitas\r\nRelator\"",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, referente \u00e0 cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, homens e mulheres, corajosos e corajosas, fomos escolhidos por Deus e pela popula\u00e7\u00e3o brasileira para estar aqui, n\u00e3o para tomar decis\u00f5es f\u00e1ceis, mas sim para tomar decis\u00f5es que v\u00e3o impactar positivamente a Na\u00e7\u00e3o brasileira.\r\nSr. Presidente, fui designado para a miss\u00e3o de ser o Relator desta PEC muito importante, com muita honra, coragem e compromisso.\r\nRelatar esta PEC significa ter responsabilidade. \u00c9 isto o que eu pe\u00e7o ao Plen\u00e1rio da C\u00e2mara dos Deputados: que seja essa a palavra de ordem neste momento decisivo para o Pa\u00eds.\r\nAl\u00e9m de levarmos em considera\u00e7\u00e3o a urg\u00eancia do aux\u00edlio emergencial - esta proposta recebe o nome PEC Emergencial justamente por isso -, \u00e9 urgente que n\u00f3s consigamos, atrav\u00e9s da aprova\u00e7\u00e3o desse texto, levar comida \u00e0 mesa dos brasileiros, pois neste momento muitos pais e m\u00e3es n\u00e3o t\u00eam o que oferecer aos seus filhos. \r\nO Presidente Bolsonaro, at\u00e9 o presente momento, j\u00e1 entregou 293 bilh\u00f5es de reais - j\u00e1 executados - em aux\u00edlio emergencial. Este Congresso, na noite de hoje, precisa fazer com que consigamos enfrentar, com a mesma intensidade e responsabilidade, essas duas crises que s\u00e3o g\u00eameas.\r\nPara combater a crise na sa\u00fade, somente em 2020, o Presidente Bolsonaro destinou 788 bilh\u00f5es de reais. Esses valores foram para Estados e Munic\u00edpios, para o enfrentamento \u00e0 COVID-19. Na noite de hoje, Srs. Deputados, devemos ter a responsabilidade de entregar mais 44 bilh\u00f5es de reais, de forma urgente, \u00e0quela popula\u00e7\u00e3o mais carente, que neste momento est\u00e1 chorando e sentido dor por n\u00e3o ter o que comer.\r\nPortanto, senhores, acredito que seja consenso neste Plen\u00e1rio a entrega do aux\u00edlio emergencial. E a urg\u00eancia desse tema tem que ser resolvida na noite de hoje.\r\nDa mesma forma, esta PEC \u00e9 considerada um novo marco fiscal. A crise na economia deve ser enfrentada por n\u00f3s, escolhidos pela popula\u00e7\u00e3o brasileira. N\u00f3s \u00e9 que vamos mostrar que o trem est\u00e1 descarrilado. N\u00f3s \u00e9 que temos a oportunidade de recolocar o Brasil no rumo do crescimento. O nosso Pa\u00eds tem pressa. Rogo a este Plen\u00e1rio que tenha esse entendimento, para que os Deputados e as Deputadas exer\u00e7am a sua fun\u00e7\u00e3o do voto na noite de hoje aprovando esta PEC, que \u00e9 considerada um novo marco fiscal, que vai dar o equil\u00edbrio e a seguran\u00e7a que o nosso Pa\u00eds precisa, para que os investimentos aconte\u00e7am, a fim de que possamos voltar a crescer. \r\nAgrade\u00e7o ao L\u00edder Vitor Hugo, que em todos os momentos me aconselhou na condu\u00e7\u00e3o dos trabalhos desta relatoria. Agrade\u00e7o a cada L\u00edder por atentamente terem colocado suas sugest\u00f5es e opini\u00f5es, a fim de trazer a este Plen\u00e1rio n\u00e3o o meu texto, mas o texto aprovado pelo Senado Federal, que legitima as a\u00e7\u00f5es urgentes e emergentes que n\u00f3s, Congressistas, temos que encaminhar como resposta ao povo brasileiro.\r\nAs decis\u00f5es n\u00e3o s\u00e3o f\u00e1ceis, mas hoje \u00e9 o momento de separarmos o corporativismo, de pararmos de pensar no pr\u00f3prio umbigo e de olharmos para o nosso Pa\u00eds. Esse \u00e9 o nosso compromisso. Foi esse o juramento que fizemos aqui na posse de cada um de n\u00f3s.\r\nSr. Presidente, eu assumi a miss\u00e3o, com coragem e responsabilidade, de relatar esta PEC, que para muitos \u00e9 antip\u00e1tica, mas que recoloca o nosso Pa\u00eds no rumo do crescimento, como devidamente merecemos. Esta PEC nos dar\u00e1 seguran\u00e7a e mostrar\u00e1 ao mundo que somos um pa\u00eds respons\u00e1vel, que temos um Presidente n\u00e3o mede esfor\u00e7os para atender os anseios de sua popula\u00e7\u00e3o, enfrentando essa crise mundial. Vamos sair dessa crise da sa\u00fade com vacina\u00e7\u00e3o em massa. N\u00f3s j\u00e1 temos essa seguran\u00e7a. N\u00f3s vamos vacinar a popula\u00e7\u00e3o brasileira. N\u00f3s vamos entregar \u00e0 popula\u00e7\u00e3o mais carente algo para comer. Essa \u00e9 a nossa responsabilidade, Srs. Deputados e Sras. Deputadas.\r\nPor isso, eu rogo a cada um de V.Exas. que coloque a m\u00e3o na consci\u00eancia e, com a responsabilidade que nos cabe, na noite de hoje, aprove o relat\u00f3rio deste Relator.\r\n\"M\u00e9rito da PEC e das emendas na Comiss\u00e3o Especial destinada a proferir parecer.\r\nConsiderando a gravidade pela qual o Brasil passa no \u00e2mbito da pandemia de COVID-19, que ainda atinge o nosso Pa\u00eds no ano de 2021, consideramos que s\u00e3o necess\u00e1rias as medidas previstas na PEC 186/19, de modo a garantir os ajustes fiscais necess\u00e1rios para a concess\u00e3o de um aux\u00edlio emergencial residual, at\u00e9 que seja providenciada a vacina\u00e7\u00e3o da maior parte da nossa popula\u00e7\u00e3o, sem que haja o desequil\u00edbrio das contas p\u00fablicas. Nesse sentido, \u00e9 merit\u00f3ria e oportuna a proposta ora examinada.\r\nPor for\u00e7a das regras regimentais, cabe a esta Comiss\u00e3o manifestar-se quanto \u00e0 admissibilidade das emendas oferecidas pelos nobres pares.\r\nForam apresentadas 23 emendas em Plen\u00e1rio. Entretanto, nenhuma delas obteve o apoiamento necess\u00e1rio de 171 Deputados. Portanto, todas as emendas foram inadmitidas.\r\nPortanto, consideramos que a PEC 186/19 dever\u00e1 ser aprovada da forma como veio do Senado Federal, considerando que ela \u00e9 a ponte para um futuro melhor para as pr\u00f3ximas gera\u00e7\u00f5es do Brasil.\r\n(...)\r\nII.1 - Conclus\u00e3o do voto\r\nNo \u00e2mbito da Comiss\u00e3o Especial destinada a proferir parecer \u00e0 PEC 186/19, votamos, no m\u00e9rito, pela aprova\u00e7\u00e3o da PEC 186/19.\"\r\nQue o Plen\u00e1rio desta Casa tenha o discernimento e a responsabilidade que nos cabem!\r\nA frase \"O Brasil acima de tudo\" nunca fez tanto sentido. Eu rogo a Deus, que est\u00e1 acima de todos, que aben\u00e7oe o nosso Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=220&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-09T22:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, LEI, INFORM\u00c1TICA, MINIST\u00c9RIO DA ECONOMIA, ESCLARECIMENTO.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Conson\u00e2ncia entre a Lei n\u00ba 13.969, de 2019 (Lei da Inform\u00e1tica) e o texto da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da PEC Emergencial.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Vou encaminhar pelo Governo, pela Maioria e pelo Bloco do PSL, Sr. Presidente.\r\nAntes de mais nada, eu quero parabenizar V.Exa. pelos trabalhos, pela condu\u00e7\u00e3o dessa mat\u00e9ria importante e, mais uma vez, agradecer a confian\u00e7a em mim depositada para a relatoria desta mat\u00e9ria.\r\nVou fazer aqui um informativo ao Plen\u00e1rio. Foi questionada a Lei da Inform\u00e1tica, da qual sou um dos autores. O Minist\u00e9rio da Economia esclarece que a Lei da Inform\u00e1tica est\u00e1 em conson\u00e2ncia com a PEC e que os benef\u00edcios concedidos por ela ser\u00e3o preservados no plano de redu\u00e7\u00e3o dos incentivos a ser encaminhado ao Congresso.\r\nDiante de questionamentos sobre os efeitos da PEC Emergencial (PEC 186/2019) nos benef\u00edcios da Lei 13.969/2019 (Lei de Inform\u00e1tica), o Minist\u00e9rio da Economia esclarece e informa que a Lei da Inform\u00e1tica est\u00e1 em completa conson\u00e2ncia com o previsto na PEC. Os benef\u00edcios concedidos pela Lei da Inform\u00e1tica ser\u00e3o preservados no plano de redu\u00e7\u00e3o dos incentivos a ser encaminhado ao Congresso, n\u00e3o havendo, nesse envio, qualquer altera\u00e7\u00e3o nos benef\u00edcios vigentes na Lei 13.969, de 2019. Estes s\u00e3o decrescentes e est\u00e3o previstos at\u00e9 31 de dezembro de 2029. Este \u00e9 exatamente o prazo estipulado pelo art. 4\u00ba da PEC Emergencial.\r\nEssa informa\u00e7\u00e3o consta no site gov.br, como nota \u00e0 imprensa.\r\nNossa orienta\u00e7\u00e3o \u00e9 pelo voto \"n\u00e3o\", Sr. Presidente, contra o requerimento de retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=282&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T01:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, DEPUTADO FEDERAL, L\u00cdDER DO PARTIDO, L\u00cdDER DO GOVERNO, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, APROVA\u00c7\u00c3O, PRIMEIRO TURNO, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, VOTA\u00c7\u00c3O, SEGUNDO TURNO, DANIEL FREITAS, RELATOR.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Elogio ao Presidente Arthur Lira. Sauda\u00e7\u00f5es aos L\u00edderes partid\u00e1rios. Agradecimento ao Plen\u00e1rio pelo apoio ao parecer oferecido pelo orador \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal. Conclama\u00e7\u00e3o \u00e0 Casa para aprova\u00e7\u00e3o da propositura em segundo turno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, antes de tudo, quero dizer que V.Exa. orgulha este Parlamento, honra essa cadeira de Presidente. Cabe a mim neste momento parabeniz\u00e1-lo pela condu\u00e7\u00e3o dos trabalhos. Quero agradecer mais uma vez ao meu L\u00edder Vitor Hugo. Quero cumprimentar o L\u00edder do Governo Ricardo Barros e, em sua pessoa, todos os L\u00edderes neste plen\u00e1rio. Na pessoa da Deputada Bia Kicis, quero cumprimentar todas as Deputadas. Na pessoa do Deputado General Peternelli, quero cumprimentar todos os Deputados. E quero agradecer a este Plen\u00e1rio por acompanhar o meu relat\u00f3rio.\r\nA C\u00e2mara dos Deputados, na noite de hoje, d\u00e1 a demonstra\u00e7\u00e3o clara de que n\u00f3s somos, sim, um pa\u00eds seguro, de que somos, sim, um pa\u00eds respons\u00e1vel, de que somos um pa\u00eds solid\u00e1rio. Vencemos a primeira etapa dessa PEC que traz a responsabilidade e d\u00e1 a garantia para as futuras gera\u00e7\u00f5es de um pa\u00eds seguro.\r\nPortanto, Sras. e Srs. Deputados, fica o pedido, al\u00e9m do meu agradecimento a este Plen\u00e1rio, de que no dia de hoje, 10 de mar\u00e7o, quarta-feira, j\u00e1 estamos a mais de 1 hora da manh\u00e3, n\u00f3s tenhamos o mesmo discernimento, o mesmo compromisso com o Brasil e que n\u00f3s possamos, enfim, aprovar o segundo turno e entregar aos brasileiros a seguran\u00e7a necess\u00e1ria de que n\u00f3s retomamos o Pa\u00eds, as r\u00e9deas do Pa\u00eds e o recolocamos na rota de crescimento.\r\nMuito obrigado, Sr. Presidente. Obrigado, Srs. Deputados.\r\nUma boa noite a todos e at\u00e9 daqui a pouco.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F3%2F2021&txPagina=338&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "L\u00cdDER DO GOVERNO, PROPOSTA DE ACORDO, PROGRESS\u00c3O FUNCIONAL, PROMO\u00c7\u00c3O, CARREIRA P\u00daBLICA, SERVIDOR P\u00daBLICO, VOTA\u00c7\u00c3O, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, AJUSTE FISCAL, PEC EMERGENCIAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, SUPRESS\u00c3O, DISPOSITIVO LEGAL, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SEGUNDO TURNO.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Apelo aos Deputados de reconsidera\u00e7\u00e3o do voto aposto ao requerimento de destaque para supress\u00e3o do art. 167-A da Carta Magna, na reda\u00e7\u00e3o dada pelo art. 1\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Sem revis\u00e3o do orador.) - Sr. Presidente, eu reitero o apelo feito pelo L\u00edder do Governo para que, neste destaque, sejam reconsiderados os votos de alguns Deputados, pois o Governo entende que vai abrir m\u00e3o de alguns pontos, mesmo prejudicando de forma substancial algumas quest\u00f5es desta PEC, em seu art. 109, \u00a7\u00a7 5\u00ba e 6\u00ba, e tamb\u00e9m no art. 167-A, inciso II, \u00a7 5\u00ba. Isso vai permitir, ent\u00e3o, a todas as categorias - que fique muito claro: n\u00e3o se trata de uma exclusividade para a \u00e1rea de seguran\u00e7a -, as progress\u00f5es e as promo\u00e7\u00f5es. Com essas supress\u00f5es - e por serem supress\u00f5es -, n\u00e3o precisaremos atrasar a vota\u00e7\u00e3o, fazendo com que a mat\u00e9ria volte para o Senado. \r\nEnt\u00e3o, fica aqui o apelo para que os Deputados reiterem o seu voto neste destaque, porque isso acaba com a nossa PEC, e para que n\u00f3s possamos, ent\u00e3o, fazer o m\u00ednimo poss\u00edvel de estrago, a fim de que o Brasil possa avan\u00e7ar, e n\u00f3s possamos aprovar a PEC em segundo turno o mais r\u00e1pido poss\u00edvel. Esse \u00e9 o apelo do Relator. \r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F3%2F2021&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-10T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VOTO FAVOR\u00c1VEL, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, PROMO\u00c7\u00c3O, PROGRESS\u00c3O FUNCIONAL, CARREIRA P\u00daBLICA, SERVIDOR P\u00daBLICO, PROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Acolhimento pelo orador dos Requerimentos de Destaque de n\u00bas 2 e 3, acerca da promo\u00e7\u00e3o e progress\u00e3o de servidores p\u00fablicos, oferecidos \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a institui\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados e Deputadas, eu fa\u00e7o quest\u00e3o aqui de reiterar o acordo feito neste plen\u00e1rio. Por conta de o Regimento n\u00e3o mais me permitir acatar nenhuma emenda ou destaque, eu quero fazer aqui uma manifesta\u00e7\u00e3o de voto em fun\u00e7\u00e3o n\u00e3o somente dos Deputados que hoje defendem a seguran\u00e7a p\u00fablica, mas a supress\u00e3o do art. 109, \u00a7\u00a7 5\u00ba e 6\u00ba, e do art. 167-A, II, \u00a7 5\u00ba, suprime e garante a todas as classes a progress\u00e3o e promo\u00e7\u00e3o.\r\nEnt\u00e3o eu antecipo o meu voto aqui, dizendo que vou votar favoravelmente aos Destaques n\u00bas 2 e 3, que garantem a promo\u00e7\u00e3o e progress\u00e3o para todas as classes, em fun\u00e7\u00e3o desse acordo.\r\nE pe\u00e7o o apoio dos demais Parlamentares para que acompanhem o meu relat\u00f3rio nos demais destaques.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F3%2F2021&txPagina=210&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-11T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AGRADECIMENTO, ACORDO, GOVERNO, BANCADA PARLAMENTAR, SEGURAN\u00c7A P\u00daBLICA, APROVA\u00c7\u00c3O, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, PROGRESS\u00c3O FUNCIONAL, PROMO\u00c7\u00c3O, SERVIDOR P\u00daBLICO.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Agradecimento \u00e0 Casa, na condi\u00e7\u00e3o de Relator, pela constru\u00e7\u00e3o de acordo a favor da manuten\u00e7\u00e3o de promo\u00e7\u00f5es e progress\u00f5es funcionais dos servidores p\u00fablicos, no processo de vota\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal. Apelo ao Plen\u00e1rio de rejei\u00e7\u00e3o dos demais requerimentos de destaque oferecidos \u00e0 propositura, exceto ao do art. 109, \u00a7\u00a7 5\u00ba e 6\u00ba.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, L\u00edder Major Vitor Hugo.\r\nNa condi\u00e7\u00e3o de Relator, fa\u00e7o uso da palavra para reiterar esse compromisso e agradecer \u00e0 C\u00e2mara dos Deputados, \u00e0s Deputadas e aos Deputados, por chegarmos a esse acordo que vai proporcionar, ent\u00e3o, as progress\u00f5es e promo\u00e7\u00f5es de todas as categorias, e n\u00e3o somente das for\u00e7as de seguran\u00e7a.\r\nMas quero deixar aqui o meu voto e dizer que tamb\u00e9m acompanho o acordo. E, a partir deste momento, deste acordo firmado, fa\u00e7o um apelo ao Plen\u00e1rio para que derrubemos os demais destaques, com exce\u00e7\u00e3o do art. 109, \u00a7\u00a7 5\u00ba e 6\u00ba, que acompanham essa mesma mat\u00e9ria, para que, daqui por diante, n\u00e3o desidratemos mais a PEC e possamos entregar rapidamente o aux\u00edlio emergencial \u00e0 popula\u00e7\u00e3o mais carente do Brasil e tamb\u00e9m o marco fiscal, que representa a PEC Emergencial.\r\nA seguran\u00e7a que o Brasil precisa vai ser dada atrav\u00e9s desta aprova\u00e7\u00e3o.\r\nMuito obrigado, Sr. Presidente.\r\nPasso a palavra, ent\u00e3o, \u00e0 Deputada Major Fabiana.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2021&txPagina=200&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-11T23:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL. AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, AGRADECIMENTO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, PAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, ARTHUR LIRA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, MARCELO RAMOS, VICE-PRESIDENTE, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Agradecimento ao Presidente Jair Bolsonaro, ao Ministro da Economia, Paulo Guedes, ao Presidente Arthur Lira, ao Vice-Presidente Marcelo Ramos, aos L\u00edderes partid\u00e1rios e aos Deputados  pela aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal. Import\u00e2ncia da aprova\u00e7\u00e3o da propositura para o Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL FREITAS (Bloco/PSL - SC. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, povo brasileiro, eu me sinto orgulhoso de pertencer ao Congresso Nacional neste momento.\r\nEu quero agradecer ao Presidente Bolsonaro, ao Ministro Paulo Guedes e a toda a sua equipe, que at\u00e9 este momento se encontra aqui no Plen\u00e1rio da C\u00e2mara. Eles foram incans\u00e1veis, inclusive orientando este Relator.\r\nAo Presidente Lira agrade\u00e7o a confian\u00e7a. Presidente Marcelo Ramos, obrigado pela confian\u00e7a em mim depositada. Agrade\u00e7o ao meu L\u00edder, o Deputado Vitor Hugo, e tamb\u00e9m ao L\u00edder do Governo, que me acompanharam, e, por meio deles, agrade\u00e7o a todos os L\u00edderes, aos demais Deputados e Deputadas, aos consultores S\u00f3crates e Leonardo e a toda a minha equipe, que foi incans\u00e1vel ao longo desta jornada.\r\nEsta Casa aprovou, na noite de hoje, nesses 2 dias, nesses 2 turnos, a reforma mais importante desde a Lei de Responsabilidade Fiscal. E isso \u00e9 motivo de muito orgulho para todos n\u00f3s.\r\nN\u00f3s estamos entregando ao povo brasileiro solu\u00e7\u00f5es para as duas crises. Quanto \u00e0 crise da sa\u00fade, n\u00f3s fizemos aquilo que precisava ser feito para n\u00e3o atrasarmos a entrega do aux\u00edlio emergencial. Com essa preocupa\u00e7\u00e3o, n\u00f3s trouxemos tamb\u00e9m os freios de arruma\u00e7\u00e3o para o novo marco fiscal que representa a PEC Emergencial. N\u00f3s estamos dando garantias. Criamos regras claras para consertar as contas p\u00fablicas e dar o recado de que o mercado e as futuras gera\u00e7\u00f5es tanto precisam: o de que n\u00f3s somos um Pa\u00eds seguro, n\u00f3s somos um Pa\u00eds equilibrado e n\u00f3s somos um Pa\u00eds que vai dar certo.\r\nSrs. Deputados, a seguran\u00e7a que o marco fiscal representa \u00e9 importante para todos n\u00f3s. Com este novo marco fiscal, n\u00f3s sa\u00edmos de um c\u00edrculo vicioso para um c\u00edrculo virtuoso, como um Pa\u00eds equilibrado, com menos d\u00edvida, que pode cobrar menos impostos para se manter, que cria empregos e que pode distribuir mais renda para a sua popula\u00e7\u00e3o.\r\nEnt\u00e3o, senhoras e senhores, \u00e9 uma honra, junto com V.Exas., na noite de hoje, poder dizer que n\u00f3s estamos entregando um presente para o Brasil.\r\nEra um trem que estava descarrilhado e que, com essas regras que n\u00f3s estamos colocando, a partir da aprova\u00e7\u00e3o desta PEC, n\u00e3o mais vai descarrilhar.\r\nEnt\u00e3o, eu agrade\u00e7o ao Congresso Nacional, ao Senado e \u00e0 C\u00e2mara dos Deputados, por fazerem valer a frase t\u00e3o dita pelo Presidente Bolsonaro: \"Brasil acima de tudo\". Foi esse o recado que este Plen\u00e1rio deu com a aprova\u00e7\u00e3o desta PEC. \r\nEu agrade\u00e7o a Deus, que est\u00e1 acima de todos e que nos acompanhou, que me acompanhou ao longo de toda esta trajet\u00f3ria at\u00e9 aqui. Que Deus aben\u00e7oe o Brasil! \r\nAgrade\u00e7o a cada um de V.Exas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2021&txPagina=299&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-14T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DELEGA\u00c7\u00c3O, SANTA CATARINA, BRAS\u00cdLIA (DF),  SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Freitas",
+        "sumario": "Manifesta\u00e7\u00e3o de boas-vindas \u00e0 delega\u00e7\u00e3o do Estado de Santa Catarina em vista a Bras\u00edlia, Distrito Federal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL FREITAS (PSL - SC. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nEu gostaria de fazer o an\u00fancio de amigos que est\u00e3o em Bras\u00edlia. Quando o povo de Santa Catarina vem a Bras\u00edlia, como \u00e9 o caso de hoje, \u00e9 importante fazer esse registro.\r\nSejam sempre muito bem-vindos a Bras\u00edlia o Vereador Kak\u00e1 Fernandes, muito atuante em Balne\u00e1rio Cambori\u00fa; meus amigos Juninho Gon\u00e7alves; Fernando Valvassori, Gerente-Geral da Caixa de Crici\u00fama, cidade onde eu nasci; Jair Nandi, Prefeito em exerc\u00edcio de Urussanga; Vereador Bonettinho, grande amigo e Presidente da C\u00e2mara Municipal de Urussanga, cidade amiga de Crici\u00fama; Henrique e Gustavo Olivo, da Realengo Alimentos; e Bruno Guidi, da Guidi Constru\u00e7\u00f5es e XP Investimentos.\r\n\u00c9 uma satisfa\u00e7\u00e3o poder receber amigos em Bras\u00edlia, um povo pujante que tem no DNA o desenvolvimento e a supera\u00e7\u00e3o, de Santa Catarina para todo o Brasil.\r\nSr. Presidente, obrigado pela honra.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

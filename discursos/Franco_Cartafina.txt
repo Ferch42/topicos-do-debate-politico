@@ -1,0 +1,506 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "AGRADECIMENTO, ELEITOR, ELEI\u00c7\u00d5ES, UBERABA (MG), MINAS GERAIS, MANDATO PARLAMENTAR, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR PREGRESSA.\r\nCOOPERA\u00c7\u00c3O POL\u00cdTICA, DI\u00c1LOGO POL\u00cdTICO, DEFESA.\r\nAPERFEI\u00c7OAMENTO, REFORMA PREVIDENCI\u00c1RIA, DEFESA.\r\nEDUCA\u00c7\u00c3O, PRIORIDADE, DEFESA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Agradecimento aos eleitores do Estado de Minas Gerais, sobretudo aos do Munic\u00edpio de Uberaba, pela elei\u00e7\u00e3o do orador. Prioridade dos Parlamentares nos discursos de cunho pessoal e partid\u00e1rio, em detrimento da aprecia\u00e7\u00e3o de proposi\u00e7\u00f5es de interesse da popula\u00e7\u00e3o brasileira. Import\u00e2ncia da discuss\u00e3o de projetos destinados ao fortalecimento do setor educacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (PHS - MG. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nCumprimento os nobres pares, o p\u00fablico aqui presente, a popula\u00e7\u00e3o que sempre nos honra e prestigia com a sua audi\u00eancia a TV C\u00e2mara.\r\nEu estreio no uso desta tribuna com muita honra e com muito orgulho e inicio agradecendo todos os votos que tive no meu Estado de Minas Gerais, mas, sobretudo, na minha cidade de Uberaba, que tanto acredita no meu trabalho.\r\nFico muito feliz de fazer parte dessa grande renova\u00e7\u00e3o que esta Casa teve, com quase 50% de novos Deputados. Eu, que j\u00e1 tive a oportunidade de vencer duas elei\u00e7\u00f5es como Vereador na minha cidade, sempre acreditei que a pol\u00edtica \u00e9, sim, um instrumento de transforma\u00e7\u00e3o da nossa sociedade.\r\nEu me permiti, nessas primeiras semanas, observar como funciona o andamento da Casa. Como conhe\u00e7o o trato do Parlamento, fiquei um pouco assustado com o que vi, porque aprendi, durante 6 anos na C\u00e2mara Municipal da minha cidade e tamb\u00e9m na Rede de A\u00e7\u00e3o Pol\u00edtica pela Sustentabilidade - RAPS, onde fui l\u00edder em 2017, que o Parlamento \u00e9 a busca do consenso, \u00e9 o exerc\u00edcio de saber ouvir, \u00e9 o poder do convencimento, \u00e9 a amizade c\u00edvica. Mas o maior exerc\u00edcio de todos \u00e9 saber discordar sem agredir. Esta Casa custa muito caro para o bolso do contribuinte. O povo n\u00e3o quer ver discuss\u00e3o pessoal, discuss\u00e3o partid\u00e1ria. O povo quer ver o andamento dos projetos que realmente chegam \u00e0 ponta, aqueles que ajudam o pequeno produtor, aqueles que atingem as quest\u00f5es das pessoas mais simples do nosso Pa\u00eds, mas, infelizmente, at\u00e9 hoje, n\u00e3o \u00e9 isso que n\u00f3s temos visto.\r\nEu percebo muito claramente que agora s\u00f3 se fala no pacote anticrime, na reforma previdenci\u00e1ria - coisas importantes, obviamente, de serem discutidas neste Parlamento. Eu vejo que muitos apontam pelo \"sim\" e, principalmente, pelo \"n\u00e3o\" \u00e0 reforma previdenci\u00e1ria, mas n\u00e3o apontam caminhos e n\u00e3o d\u00e3o sua contribui\u00e7\u00e3o. E o Parlamento \u00e9 isso: vem uma pedra bruta, e vamos n\u00f3s, de m\u00e3os dadas, lapid\u00e1-la, para buscarmos o que foi melhor para o nosso Pa\u00eds, para as pessoas de bem.\r\nEu quero deixar registrado, Sr. Presidente, que, independentemente de qualquer reforma que n\u00f3s fa\u00e7amos neste Parlamento, se n\u00e3o nos pautarmos pelo alicerce primordial do nosso Pa\u00eds, a educa\u00e7\u00e3o, sempre teremos desigualdades. E eu quero deixar a minha contribui\u00e7\u00e3o para que o povo de Minas Gerais tenha representantes \u00e0 sua altura, para que possamos contribuir para o desenvolvimento do nosso Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "NICOL\u00c1S MADURO, PRESIDENTE, VENEZUELA, DITADURA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Rep\u00fadio ao regime pol\u00edtico ditatorial implantado na Venezuela por Nicol\u00e1s Maduro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (PHS - MG. Sem revis\u00e3o do orador.) - Sra. Presidente, meus cumprimento a V.Exa. e a todos os nobres pares. O Brasil vem passando por in\u00fameras trag\u00e9dias, e, como se n\u00e3o bastasse, agora n\u00f3s dividimos tamb\u00e9m um problema, uma trag\u00e9dia pol\u00edtico-social, com a Venezuela. E os brasileiros t\u00eam demonstrado algo que lhes \u00e9 muito peculiar: a solidariedade. Em que pese o Brasil ter em seus rinc\u00f5es muitos problemas como os que a Venezuela est\u00e1 passando, n\u00f3s tentamos ajudar tamb\u00e9m. Ficou claro que esse tipo de regime pol\u00edtico ditatorial pela qual passa a Venezuela n\u00e3o \u00e9 mais admiss\u00edvel no tempos em que vivemos.\r\nPortanto, quero registrar aqui o meu rep\u00fadio por terem ateado fogo nos caminh\u00f5es de ajuda humanit\u00e1ria. Isso n\u00e3o se faz. D\u00e1 para perceber, pela circunfer\u00eancia abdominal do Maduro, que na mesa dele n\u00e3o deve estar faltando comida.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-15T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SECRETARIA DE ESTADO, EDUCA\u00c7\u00c3O, MINAS GERAIS, ROMEU ZEMA, GOVERNADOR, REDU\u00c7\u00c3O, VAGA, ENSINO INTEGRAL, UBERABA (MG), CR\u00cdTICA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Protesto contra o corte de vagas em escolas de tempo integral pelo Governo do Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente.\r\nCumprimento todos os nobres pares.\r\nQuero deixar registrada nesta Casa uma situa\u00e7\u00e3o bastante delicada que se deu na semana passada, no nosso Estado de Minas Gerais. Quero me solidarizar com todas as fam\u00edlias que perderam a oportunidade de matricular seus filhos em escolas que oferecem ensino em tempo integral. A not\u00edcia veio da Secretaria Estadual de Educa\u00e7\u00e3o do Governo Romeu Zema, que cortou em 70% o n\u00famero de vagas em escolas de tempo integral para as nossas crian\u00e7as. Pasmem: foram afetadas as crian\u00e7as das fam\u00edlias mais carentes do nosso Estado.\r\nO corte foi tremendo: das 1.600 escolas que ofereciam para os nossos alunos o estudo em tempo integral no contraturno, apenas 500 oferecer\u00e3o essa modalidade este ano. Do montante de 110 mil alunos atendidos anteriormente, a expectativa agora \u00e9 a de atendimento de apenas 30 mil alunos. Ou seja, mais de 80 mil alunos perder\u00e3o a oportunidade de estudar em tempo integral. \r\nEu quero ressaltar isso e pedir ao Governador Zema que tenha solidariedade com essas pessoas, que entenda que educa\u00e7\u00e3o n\u00e3o \u00e9 gasto, que educa\u00e7\u00e3o \u00e9 investimento. Muito mais do que no campo educacional, a educa\u00e7\u00e3o de tempo integral tem um tremendo cunho social. \r\nEm Uberaba, a minha cidade, que dou como exemplo, 22 escolas atendiam quase 3 mil alunos nessa modalidade. O que foi sugerido agora pela Secret\u00e1ria de Educa\u00e7\u00e3o \u00e9 que 1 escola ofere\u00e7a 50 vagas. J\u00e1 na Superintend\u00eancia Regional que abarca Uberaba, Frutal, Ver\u00edssimo e Iturama, antes eram atendidos 6 mil alunos, e agora somente 225 v\u00e3o ser atendidos.\r\nEnt\u00e3o, eu quero daqui discordar da postura do Governo mineiro e dizer que h\u00e1 outros caminhos para cortar gastos. Deixar de atender as nossas crian\u00e7as carentes n\u00e3o \u00e9 o melhor caminho, n\u00e3o \u00e9 o caminho certo. Afinal, sabemos da import\u00e2ncia do ensino em tempo integral para as crian\u00e7as e suas fam\u00edlias, que se programam contando com isso. O ensino em tempo integral foi tirado de forma sorrateira, de forma abrupta. Os pais n\u00e3o puderam nem se organizar. Muitos deles acabar\u00e3o tendo que largar o emprego. Isso \u00e9 importante para a organiza\u00e7\u00e3o familiar. Todos os pais que trabalham organizaram a vida contando que este ano come\u00e7aria a educa\u00e7\u00e3o em tempo integral normalmente, mas 80 mil alunos v\u00e3o ficar sem essa oportunidade. Onde esses alunos ir\u00e3o ficar? Nas ruas? Onde, Deputado Luiz, esses alunos v\u00e3o ficar? Eles v\u00e3o ficar vulner\u00e1veis \u00e0 criminalidade. Muitas vezes, menores de idade ficam em casa ou nas ruas porque seus pais t\u00eam que trabalhar para colocar o p\u00e3o na mesa, n\u00e3o podem largar o trabalho.\r\nEu discordo desse corte na educa\u00e7\u00e3o de tempo integral e o repudio. Queria ver o aumento do n\u00famero de vagas - para isso somos sempre demandados -, e n\u00e3o o corte de vagas para 80 mil alunos do ensino em tempo integral. Isso n\u00e3o podemos aceitar. Temos que buscar alternativas ao corte na educa\u00e7\u00e3o, principalmente se afeta as fam\u00edlias mais carentes.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F4%2F2019&txPagina=303&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-23T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "BR-262, RODOVIA FEDERAL, DUPLICA\u00c7\u00c3O, CONCESSION\u00c1RIO (ADMINISTRA\u00c7\u00c3O P\u00daBLICA), PRA\u00c7A DE PED\u00c1GIO, MINAS GERAIS, TAXA, PED\u00c1GIO, PRE\u00c7O ABUSIVO, ADITIVO, CR\u00cdTICA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Protesto contra o descumprimento de contratos pela concession\u00e1ria da BR-262, no Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nQuero aproveitar estes 3 minutos para falar de um assunto que provavelmente atinge todos os Parlamentares nas suas bases. Vou falar a respeito da duplica\u00e7\u00e3o e da concess\u00e3o das nossas estradas federais para empresas privadas.\r\nEu quero falar especificamente da BR-262, uma via arterial do Estado de Minas Gerais que liga o Tri\u00e2ngulo Mineiro, saindo de Uberaba, a minha cidade, \u00e0 Capital. \u00c9 uma via extremamente relevante. Uma parte dela foi concedida para uma empresa. O que acontece? A coisa mais grosseira que j\u00e1 vi. A empresa assina o contrato e, \u00e0 medida que duplica um peda\u00e7o pequeno da totalidade que foi concedida, j\u00e1 instala uma pra\u00e7a de ped\u00e1gio, ou seja, come\u00e7a a tributar, a cobrar das pessoas que passam por ali: dos caminhoneiros, das fam\u00edlias, das pessoas que andam por aquela estrada.\r\nPasmem: n\u00e3o s\u00f3 l\u00e1, mas tamb\u00e9m em outras vias, j\u00e1 notei que essas empresas, maldosamente - maldosamente -, duplicam trechos da concess\u00e3o que s\u00e3o retas, em que nunca houve sequer um acidente, e os trechos em que h\u00e1 morros e curvas perigosas, que precisam de duplica\u00e7\u00e3o, elas n\u00e3o duplicam.\r\nE s\u00e3o contratos para os quais recorrentemente s\u00e3o solicitados aditivos, ou seja, mais dinheiro para se poder fazer a obra. Naturalmente, vemos a perversidade dos valores de ped\u00e1gios, que sobem rapidamente, e povo paga por uma coisa que n\u00e3o tem.\r\nPresidente Alexandre Frota, n\u00f3s precisamos de discutir essa lei dessas concess\u00f5es das vias. Em muitas partes, em muitas empresas e concess\u00f5es, n\u00e3o \u00e9 cumprido o que \u00e9 colocado. E, muitas vezes, de forma malandra, \u00e9 esperada a caducidade desses contratos. Eles n\u00e3o cumprem, falam que n\u00e3o d\u00e3o conta, pedem mais dinheiro, querem aumentar o valor do ped\u00e1gio e ficam ali constantemente s\u00f3 arrecadando do trabalhador que est\u00e1 passando na via.\r\nSabemos que o Brasil \u00e9 um pa\u00eds que depende demais da sua malha vi\u00e1ria. Venho aqui fazer um apelo em rela\u00e7\u00e3o ao problema da BR-262. Recentemente, por uma decis\u00e3o da 4\u00aa Vara Federal de Uberaba, foi decretado prazo de 90 dias para serem apresentados todos os licenciamentos e projetos necess\u00e1rios para a execu\u00e7\u00e3o das obras de duplica\u00e7\u00e3o que padecem l\u00e1 e n\u00e3o s\u00e3o feitas, assim como o trabalho de manuten\u00e7\u00e3o das vias.\r\nQuero deixar aqui registrada a vergonha que \u00e9 a forma como s\u00e3o conduzidos esses contratos. Este Parlamento tem obriga\u00e7\u00e3o de fazer alguma coisa. As rodovias federais precisam ser assistidas, e essas empresas lucram absurdamente em cima das costas daqueles que usam as vias. Infelizmente, vemos a BR-262 extremamente esburacada nas suas curvas, no topo dos seus morros. Onde pessoas tiveram as suas vidas ceifadas, onde fam\u00edlias perderam entes queridos, nada se faz, mas, uma reta, um trecho que pode ser feito para poderem justificar no contrato a instala\u00e7\u00e3o de uma pra\u00e7a de ped\u00e1gio para tirar dinheiro da popula\u00e7\u00e3o, ali, sim, eles duplicam.\r\nFica aqui registrado o meu rep\u00fadio \u00e0 vergonha que entendo ser essa forma de tratar o contribuinte, a popula\u00e7\u00e3o. Cabe a esta Casa fazer a sua parte.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2019&txPagina=125&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PRECARIEDADE, RESULTADO, FUN\u00c7\u00c3O LEGISLATIVA, C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Improdutividade legislativa da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nDeputados e Deputadas, todos n\u00f3s fomos eleitos para legislar e para fiscalizar. Eu tenho sentido muita falta, neste Plen\u00e1rio, do nosso ato primordial, que \u00e9 legislar. Vejo aqui muitos com vontade de fiscalizar, mas essa fiscaliza\u00e7\u00e3o \u00e9 subjetiva, apontam o dedo, criam fatos e boatos que n\u00e3o levam a nada. Mais um dia, mais uma quarta-feira perdida, em que esta Casa funciona, mas n\u00e3o produz. N\u00e3o se vota nada. Projetos importantes n\u00e3o s\u00e3o levados adiante. \u00c9 uma tristeza. Precisamos mudar essa concep\u00e7\u00e3o. Vamos fazer o nosso ju\u00edzo de valor ou vamos tomar as provid\u00eancias cab\u00edveis no \u00e2mbito de fiscalizar fora do plen\u00e1rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=233&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OPOSI\u00c7\u00c3O POL\u00cdTICA, OBSTRU\u00c7\u00c3O PARLAMENTAR, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, APERFEI\u00c7OAMENTO, LEI DAS LICITA\u00c7\u00d5ES, OBRIGATORIEDADE, CONTRATADO, PARTICIPA\u00c7\u00c3O, REALIZA\u00c7\u00c3O, SUBCONTRATA\u00c7\u00c3O, PRAZO, PAGAMENTO, BENEF\u00cdCIO, ADMINISTRA\u00c7\u00c3O, REAJUSTAMENTO, PRE\u00c7O, REVIS\u00c3O, NATUREZA CONTRATUAL, MANUTEN\u00c7\u00c3O, EFETIVA\u00c7\u00c3O, COMPROVA\u00c7\u00c3O, CONTRATANTE, DIREITOS, PROPORCIONALIDADE, ENCARGO, CR\u00cdTICA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Defesa de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, a respeito da institui\u00e7\u00e3o das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu calculei em cerca de 1 hora a discuss\u00e3o neste plen\u00e1rio sobre a retirada de pauta de um projeto extremamente importante.\r\n\u00c9 preciso deixar claro que a Oposi\u00e7\u00e3o solicitou a retirada de pauta de um projeto que aperfei\u00e7oa a Lei das Licita\u00e7\u00f5es.\r\nOu seja, Prefeitos e Prefeitas que nos veem, mais uma vez a Oposi\u00e7\u00e3o quer retirar de pauta um projeto que \u00e9 t\u00e3o importante por contra de intriga.\r\nE, diga-se de passagem, j\u00e1 tivemos que retirar esse projeto de pauta muitas vezes. \u00c9 s\u00f3 acompanhar a tramita\u00e7\u00e3o do projeto para constatar isso.\r\nN\u00f3s precisamos votar essa mat\u00e9ria. Sabemos que o aperfei\u00e7oamento dessa lei vai ajudar demais quem trabalha com licita\u00e7\u00f5es. A lei est\u00e1 obsoleta, ultrapassada. Precisamos melhor\u00e1-la, e este \u00e9 o espa\u00e7o, este \u00e9 o momento. Vamos deixar o resto para l\u00e1 e trabalhar. Esta Casa precisa fazer isso, porque a popula\u00e7\u00e3o est\u00e1 no olhando.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=182&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CLEOMAR BARBEIRINHO, VEREADOR, UBERABA (MG), C\u00c2MARA DOS DEPUTADOS, PRESEN\u00c7A.\r\nG\u00c1S LIQUEFEITO DE PETR\u00d3LEO (GLP), PETR\u00d3LEO BRASILEIRO (PETROBRAS), MONOP\u00d3LIO, COMBATE, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Presen\u00e7a, na Casa, do Vereador Cleomar Barbeirinho, do Munic\u00edpio de Uberaba, Estado de Minas Gerais. Quebra do monop\u00f3lio exercido pela empresa Petr\u00f3leo Brasileiro S/A - PETROBRAS no mercado do G\u00e1s Liquefeito de Petr\u00f3leo - GLP, o g\u00e1s de cozinha.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, inicio a minha fala cumprimentando o meu amigo, Vereador de Uberaba, Cleomar Barbeirinho, que visita hoje esta Casa. \r\nRegistro aqui tamb\u00e9m minha fala, similar \u00e0 de alguns que me antecederam, sobre a quebra do monop\u00f3lio do g\u00e1s natural, a quebra do monop\u00f3lio da PETROBRAS. Infelizmente, por existir o monop\u00f3lio, v\u00e1rios pontos do nosso Brasil foram impedidos de fazer investimentos, por exemplo, em gasodutos. Em Uberaba, principalmente, estava tudo pronto, mas o Governo passado roubou o que tinha e o que n\u00e3o tinha na PETROBRAS e fez com que parassem os investimentos. \r\nQuem sabe com a abertura do mercado \u00e0 livre iniciativa, com uma concorr\u00eancia justa e leal, n\u00f3s possamos voltar a ter entusiasmo para investimentos nesses pontos do Brasil, que s\u00e3o t\u00e3o importantes. Ent\u00e3o, vejo com entusiasmo essa iniciativa e, mais ainda, se Deus quiser, a redu\u00e7\u00e3o em 40% do valor do g\u00e1s de cozinha nas casas das pessoas mais pobres.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=40&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T12:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO PROGRESSISTA (PP) (2003), MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), BLOCO PARLAMENTAR, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6-D, de 2019, sobre reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu ou\u00e7o muitas falas aqui. Que pena que n\u00e3o conseguimos desmenti-las todas!\r\nEu gostaria muito de ver a Esquerda dando exemplo. Primeiro, grande parte dos Deputados da Esquerda poderiam abrir m\u00e3o aqui do sistema pr\u00f3prio de aposentadoria, porque t\u00eam a expectativa de se aposentarem com 33 mil reais. E estamos lutando para que os mais pobres possam ter a dignidade da sua aposentadoria.\r\nEsquerda, d\u00ea o exemplo.\r\nO Bloco PP/MDB/PTB orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, MAIORIA PARLAMENTAR, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.715, de 2019, acerca da regulamenta\u00e7\u00e3o da posse de arma de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, ouvindo atentamente os colegas Deputados e Deputadas que me antecederam e que s\u00e3o contra esse projeto me leva a crer que s\u00e3o a favor dos invasores, dos bandidos e n\u00e3o das fam\u00edlias de bem.\r\nO SR. EDMILSON RODRIGUES (PSOL - PA) - Somos contra os assassinos, rapaz! Somos contra os assassinos de sem-terra e de ind\u00edgenas.\r\nO SR. FRANCO CARTAFINA (Bloco/PP - MG) - ...que est\u00e3o protegendo suas fam\u00edlias, que est\u00e3o protegendo a sua propriedade. \r\nSeria muito f\u00e1cil, em Minas Gerais, se n\u00e3o tiv\u00e9ssemos tido o Governo passado, que quebrou o Estado; talvez l\u00e1 o Estado desse conta de dar suporte para a nossa grande \u00e1rea rural. Mas n\u00e3o d\u00e1 conta. Por qu\u00ea? Porque o Governo anterior quebrou o nosso Estado.\r\nEnt\u00e3o, o \u00edndice que queremos aumentar \u00e9 o de sobreviv\u00eancia das pessoas de bem.\r\nA Maioria orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=204&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-27T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DIA DO CORRETOR DE IM\u00d3VEIS, HOMENAGEM.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Transcurso do Dia Nacional do Corretor de Im\u00f3veis.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente. Cumprimento os nobres pares.\r\nDia 27 de agosto \u00e9 comemorado o Dia Nacional do Corretor de Im\u00f3veis, classe profissional da qual me orgulho muito de fazer parte e que me deu muita dignidade e ensinado muita coisa, sobretudo no campo da rela\u00e7\u00e3o interpessoal.\r\nAgora, enquanto Deputado Federal, posso abra\u00e7ar todos os corretores e todas as corretoras de im\u00f3veis pelos quatro cantos do nosso Pa\u00eds e dizer que estou aqui sempre na luta para honrar e dar dignidade a essa classe que tanto trabalha e apoia o povo brasileiro.\r\nAqui fica o meu abra\u00e7o a todos os corretores e a todas as corretoras de im\u00f3veis do nosso Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F8%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, BLOCO PARLAMENTAR, PARTIDO PROGRESSISTA (PP) (2003),  VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PP, o MDB e o PTB orientam o voto \"n\u00e3o\" \u00e0 retirada de pauta.\r\n\u00c9 uma vergonha assistirmos a in\u00fameros pedidos de retirada de pauta deste projeto, que j\u00e1 passou aqui tantas vezes. \u00c9 um projeto de suma import\u00e2ncia, sobretudo l\u00e1 nos Munic\u00edpios. Quem vota pela retirada de pauta de um projeto como este, que est\u00e1 h\u00e1 tantos meses aqui na Casa, n\u00e3o tem a justificativa de falar que n\u00e3o o conhece. Precisamos avan\u00e7ar nessa pauta importante. Precisamos aprimorar a lei.\r\nN\u00f3s votamos \"n\u00e3o\". O bloco vota \"n\u00e3o\" \u00e0 retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=192&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "GUARDA MUNICIPAL, REGULAMENTA\u00c7\u00c3O, PREFEITURA, ESTATUTO DO DESARMAMENTO, DIFICULDADE.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Dificuldades das Prefeituras brasileiras para regulamenta\u00e7\u00e3o de suas Guardas Municipais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. \u00c9 not\u00f3rio como s\u00e3o palpitantes nesta Casa os decretos que regulamentam a Lei n\u00ba 10.826, de 2003, que trata do conhecido Estatuto do Desarmamento. \r\nAcontece que, desde a primeira edi\u00e7\u00e3o do Decreto n\u00ba 5.123, de 2004, era permitido o conv\u00eanio entre a Pol\u00edcia Federal e os Munic\u00edpios. Nos decretos subsequentes, de 2019, foi retirada a possibilidade de conv\u00eanio entre a Pol\u00edcia Federal e os Munic\u00edpios. Sendo assim, Prefeituras que se organizaram desde 2004 para arrumar as suas guardas municipais t\u00eam passado por dificuldades. Por isso \u00e9 que eu venho aqui.\r\nEu sei que h\u00e1 muitos temas pol\u00eamicos ao redor dessa regulamenta\u00e7\u00e3o, mas esse ponto j\u00e1 \u00e9 bastante consolidado, para que as guardas municipais possam agir de acordo com a necessidade dos Munic\u00edpios frente ao combate \u00e0 viol\u00eancia. Ent\u00e3o, \u00e9 muito importante que esse ponto seja regulamentado o quanto antes; depois, discutimos os pontos pol\u00eamicos, mais \u00e0 frente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 866/2019, MEDIDA PROVISORIA, BLOCO PARLAMENTAR, PARTIDO PROGRESSISTA (PP) (2003),  MOVIMENTO DEMOCR\u00c1TICO BRASILEIRO (MDB), PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), VOTO CNTRARIO.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 70, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 886, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Bloco do PP/MDB/PTB, entendendo a necessidade da autonomia dos Poderes, vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=284&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRANCO CARTAFINA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, MINAS GERAIS, ENCONTRO FECOAGRO LEITE MINAS (3:2019, PARACATU (MG)).",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Participa\u00e7\u00e3o do orador no III Encontro Fecoagro Leite Minas, realizado no Munic\u00edpio de Paracatu, Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, quero registrar que neste final de semana estive em uma caminhada no Alto Parana\u00edba e tamb\u00e9m no noroeste de Minas Gerais, a fim de dialogar com as nossas lideran\u00e7as.\r\nEspecialmente na cidade de Paracatu, eu tive a oportunidade de participar do III Encontro FECOAGRO Leite Minas, um importante momento das cooperativas que trabalham com o setor produtivo da nossa pecu\u00e1ria leiteira e que precisam de valoriza\u00e7\u00e3o do nosso leite, principalmente o proveniente da atividade dos pequenos produtores.\r\nEu quero, na pessoa do nosso amigo e grande lideran\u00e7a de Paracatu, o Vasquinho, agradecer a acolhida e parabenizar a todos, porque \u00e9 a uni\u00e3o dessas cooperativas que vai n\u00e3o s\u00f3 valorizar os pequenos e m\u00e9dios produtores de leite, como tamb\u00e9m fortalec\u00ea-los para que as pol\u00edticas p\u00fablicas sejam cada vez mais atuantes no segmento.\r\nQuero deixar registrado tamb\u00e9m que podem contar sempre com o meu apoio aqui.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-10T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RODOVIA, MINAS GERAIS, TARC\u00cdSIO GOMES DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, AG\u00caNCIA NACIONAL DE TRANSPORTES TERRESTRES (ANTT), REUNI\u00c3O, FRANCO CARTAFINA, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Fiscaliza\u00e7\u00e3o de empresas concession\u00e1rias de rodovias pelo orador. Aguardo de reuni\u00e3o com o Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, para debate da situa\u00e7\u00e3o da BR-262 no Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Presidente, eu tenho dedicado grande parte do meu trabalho \u00e0 fiscaliza\u00e7\u00e3o, que \u00e9 um dos pontos mais importante da atua\u00e7\u00e3o dos Deputados ante o Executivo.\r\nE uma quest\u00e3o que tem tomado o meu tempo \u00e9 fiscalizar algumas concess\u00f5es de rodovias, que, na minha \u00f3tica, no Governo passado, foram feitas de forma criminosa. Vemos empresas que n\u00e3o d\u00e3o conta de tocar o servi\u00e7o. H\u00e1 problemas que foram promessas do Governo passado, e, hoje, quem paga o pato - e paga o ped\u00e1gio-, mesmo sem ter as rodovias duplicadas, \u00e9 a popula\u00e7\u00e3o.\r\nEu estive hoje na ANTT. Agora estou aguardando a confirma\u00e7\u00e3o de uma reuni\u00e3o com o Ministro Tarc\u00edsio Freitas, porque alguma provid\u00eancia tem que ser tomada. Caso contr\u00e1rio, n\u00f3s vamos ficar \"tocando de roda\". N\u00f3s estamos com a BR-262 em Minas Gerais passando por um problema superdelicado. E a popula\u00e7\u00e3o quer uma resposta o mais rapidamente poss\u00edvel.\r\nSra. Presidente, solicito que V.Exa. inclua minha fala no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=12%2F12%2F2019&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-19T11:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "BR-364, RODOVIA FEDERAL, GOVERNO FEDERAL, MINIST\u00c9RIO DA INFRAESTRUTURA, PED\u00c1GIO, CONCESSION\u00c1RIO (ADMINISTRA\u00c7\u00c3O P\u00daBLICA), MINAS GERAIS.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Maior aten\u00e7\u00e3o do Governo Jair Bolsonaro e do Minist\u00e9rio da Infraestrutura para com a situa\u00e7\u00e3o da malha rodovi\u00e1ria brasileira, especialmente na regi\u00e3o do Tri\u00e2ngulo Mineiro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu tenho dedicado bastante tempo do mandato a entender as reais condi\u00e7\u00f5es da nossa malha vi\u00e1ria, das nossas BRs. Infelizmente, temos visto que inclusive rodovias concedidas, com contratos firmados com o Governo Federal, n\u00e3o est\u00e3o atingindo os objetivos esperados. N\u00e3o est\u00e3o sendo feitas as duplica\u00e7\u00f5es e as manuten\u00e7\u00f5es, mas as concession\u00e1rias est\u00e3o l\u00e1 instaladas, cobrando ped\u00e1gio da popula\u00e7\u00e3o e, no meu ponto de vista, bitributando os cidad\u00e3os, que j\u00e1 pagam o IPVA e n\u00e3o t\u00eam em retorno a devida adequa\u00e7\u00e3o da rodovia.\r\nNo Tri\u00e2ngulo Mineiro, na BR-364, entre Campina Verde e Santa Vit\u00f3ria, pr\u00f3ximo a Chavesl\u00e2ndia, h\u00e1 12 quil\u00f4metros de estrada na terra, sem asfalto. Ent\u00e3o, n\u00f3s estamos pedindo aqui o compromisso do Governo Federal, do Minist\u00e9rio da Infraestrutura, que tanto tem se empenhado no seu trabalho e tem sido elogiado, no sentido de que olhe com muito carinho para a regi\u00e3o do Tri\u00e2ngulo Mineiro, que precisa muito do Minist\u00e9rio l\u00e1 para adequa\u00e7\u00e3o das rodovias.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2020&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-19T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), LISTA DE ESPERA, BENEF\u00cdCIO PREVIDENCI\u00c1RIO, ATENDIMENTO AO P\u00daBLICO, POPULA\u00c7\u00c3O DE BAIXA RENDA, COOPERA\u00c7\u00c3O POL\u00cdTICA, AGENDA LEGISLATIVA, GOVERNO FEDERAL.\r\nOBSTRU\u00c7\u00c3O PARLAMENTAR, OPOSI\u00c7\u00c3O POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Apelo ao Governo Federal por reposi\u00e7\u00e3o do quadro funcional do Instituto Nacional do Seguro Social - INSS, com vista \u00e0 humaniza\u00e7\u00e3o do atendimento aos seus usu\u00e1rios. Inconformismo com a baixa produtividade legislativa da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Caros colegas Deputados e Deputadas, venho a esta tribuna dividir uma ang\u00fastia que talvez n\u00e3o seja s\u00f3 minha, mas que deve bater \u00e0 porta dos gabinetes, aparecer durante as caminhadas dos senhores e das senhoras e, sobretudo, nas bases, quando os senhores e as senhoras est\u00e3o por l\u00e1.\r\nNosso Estado \u00e9 considerado muito eficaz, muito competente quando se fala em arrecadar. O Estado tem os melhores equipamentos, tem as melhores tecnologias para exigir do contribuinte a sua contribui\u00e7\u00e3o, mas infelizmente n\u00f3s temos experimentado - eu me atenho ao nosso INSS - que a rec\u00edproca n\u00e3o est\u00e1 sendo verdadeira. O INSS, nos \u00faltimos anos, teve mais de 4 mil funcion\u00e1rios aposentados; s\u00e3o cerca de 19 mil vagas em aberto. Hoje, est\u00e1 se querendo adotar uma tecnologia para fazer com que as pessoas se aposentem, que pe\u00e7am seus benef\u00edcios. Mas n\u00f3s estamos falando de uma maioria da popula\u00e7\u00e3o carente, muitas vezes semianalfabeta, que n\u00e3o tem nem acesso a essas tecnologias.\r\nHoje s\u00e3o mais de 2 milh\u00f5es de solicita\u00e7\u00f5es no INSS. Desses 2 milh\u00f5es, quase 1,5 milh\u00e3o j\u00e1 passa dos 45 dias do pedido, como \u00e9 previsto por lei. N\u00f3s estamos falando em 65% dos pedidos em atraso.\r\nSenhores, senhoras, caros colegas, n\u00f3s estamos falando das pessoas mais pobres, das pessoas mais simples.\r\nS\u00e3o idosos que querem as suas aposentadorias, s\u00e3o aquelas pessoas que precisam dos seus benef\u00edcios, como os portadores de necessidade especial. Podemos colocar aqui o BPC como um dos grandes casos em discuss\u00e3o. Esse ponto \u00e9 convergente nesta Casa. \r\nEntretanto, n\u00f3s ficamos cansados de ver digladiarem-se da tribuna daqui e da tribuna de l\u00e1 por coisas que nos levam a lugar nenhum. E quanto a um ponto que \u00e9 convergente nesta Casa, que entendemos que \u00e9 necess\u00e1rio, que \u00e9 bom para a popula\u00e7\u00e3o, que faz bem, que faz valer o nosso mandato, \u00e0s vezes nos pegamos perdidos, sem poder nos unir em pautas que s\u00e3o convergentes, e deixamos de fazer aquilo que \u00e9 princ\u00edpio b\u00e1sico nosso: achar pontos de consenso.\r\nEu pe\u00e7o que o Governo tenha sensibilidade e que todos n\u00f3s possamos ajudar o Governo a buscar uma alternativa de fato eficaz, en\u00e9rgica. N\u00f3s j\u00e1 ouvimos algumas poss\u00edveis tentativas, mas que n\u00e3o foram para a frente.\r\nN\u00f3s estamos falando de benef\u00edcios, de aposentadorias de pessoas que precisam daquele recurso para comer, precisam daquele recurso para dar conta das suas necessidades, inclusive para pagar rem\u00e9dio, por terem problemas de sa\u00fade.\r\nSeria muito c\u00f4modo da nossa parte simplesmente ficar aqui batendo boca, \"eu n\u00e3o gosto disso\", ser contra o Presidente, a favor do Presidente, contra o ex-Presidente, a favor do ex-Presidente. N\u00f3s todos aqui somos a favor das pessoas de bem deste Pa\u00eds. S\u00e3o eles que precisamos ajudar. Para esse ponto de converg\u00eancia \u00e9 que eu venho acreditando que esta Casa, com mais de 1 ano de trabalho, possa ter sensibilidade daqui para frente.\r\nEsta foi uma semana que eu acredito ter sido pouco produtiva, porque aqui ainda existe um Regimento muito pesado, em que h\u00e1 at\u00e9 nome para atrapalhar as vota\u00e7\u00f5es, o tal kit obstru\u00e7\u00e3o, que muitas vezes, meus caros colegas - e me permitam aqui, com todo o respeito aos partidos de oposi\u00e7\u00e3o, dizer isto -, \u00e9 usado de forma desenfreada, descabida, desmedida, simplesmente para que as pautas n\u00e3o avancem.\r\nEnt\u00e3o, eu chamo a aten\u00e7\u00e3o dos colegas para que possamos achar nesta Casa os pontos que nos unem, que convergem. \u00c9 l\u00f3gico que n\u00f3s estamos dentro de uma democracia, e opini\u00f5es divergentes sempre teremos, mas n\u00f3s precisamos produzir mais. As pessoas nos falam isso nas ruas. E esta Casa custa muito caro \u00e0 popula\u00e7\u00e3o, para ficarmos, muitas vezes, semanas sem produzir coisas relevantes para atender a popula\u00e7\u00e3o de bem, que tanto espera de n\u00f3s.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2020&txPagina=172&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-02T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE  BANCADA, SUBEMENDA SUBSTITUTIVA, PL 2508/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de  bancada na vota\u00e7\u00e3o da subemenda substitutiva oferecida pela Relatora da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 2.508, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista ao estabelecimento de medidas de prote\u00e7\u00e3o \u00e0 mulher provedora de fam\u00edlia monoparental, em rela\u00e7\u00e3o ao recebimento do aux\u00edlio emergencial mencionado do art. 2\u00ba do referido diploma legal, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Progressistas entende que esta Casa tem a fun\u00e7\u00e3o n\u00e3o s\u00f3 de criar novas leis, novas diretrizes no Legislativo, mas tamb\u00e9m de aperfei\u00e7o\u00e1-las. E \u00e9 exatamente isso que este projeto faz.\r\nEnt\u00e3o, o partido orienta \"sim\", para que possamos corrigir essa imperfei\u00e7\u00e3o, que acaba criando transtornos ao aux\u00edlio emergencial, que foi votado um tempo atr\u00e1s.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F6%2F2020&txPagina=64&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-09-29T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 987/2020,  MEDIDA PROVIS\u00d3RIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 987, de 2020, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 9.440, de  1997; 9.826, de 1999; e 7.827, de 1989, com vista \u00e0 prorroga\u00e7\u00e3o de incentivos fiscais para o desenvolvimento regional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PP orienta contra a retirada da mat\u00e9ria da pauta, entendendo que o desenvolvimento econ\u00f4mico \u00e9 tema importante neste momento que vivemos, sobretudo em fun\u00e7\u00e3o da pandemia.\r\n\u00c9 por esse motivo que votamos contra.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F9%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-18T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3515/2015, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE DEFESA DO CONSUMIDOR, ESTATUTO DO IDOSO, POL\u00cdTICA NACIONAL DE RELA\u00c7\u00d5ES DE CONSUMO, CONSUMIDOR, EDUCA\u00c7\u00c3O FINANCEIRA, EDUCA\u00c7\u00c3O AMBIENTAL, PREVEN\u00c7\u00c3O, ENDIVIDAMENTO, DIREITO DO CONSUMIDOR, PUBLICIDADE, CONSUMO, CRIAN\u00c7A, ADOLESCENTE, CL\u00c1USULA ABUSIVA, CRIT\u00c9RIO, OFERTA, CR\u00c9DITO, CONSUMIDOR, EMPR\u00c9STIMO EM CONSIGNA\u00c7\u00c3O, REPACTUA\u00c7\u00c3O, D\u00cdVIDA, VOTA\u00c7\u00c3O, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Apelo \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.515, de 2015, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.078, de 1990, (C\u00f3digo de Defesa do Consumidor), e do art. 96 da Lei n\u00ba 10.741, de 2003, (Estatuto do Idoso), com vista ao aperfei\u00e7oamento da disciplina do cr\u00e9dito ao consumidor, a preven\u00e7\u00e3o e o tratamento do superendividamento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Deputado Kim Kataguiri, que ora preside a sess\u00e3o, tamb\u00e9m h\u00e1 na pauta o PL 3.515, de 2015. \r\nFico feliz de ver uma pauta extensa sendo vencida. Por muitas vezes, vi colegas aqui cobrando a pouca agilidade em algumas vota\u00e7\u00f5es.\r\nReitero a minha felicidade de ontem termos ficado aqui at\u00e9 tarde votando, superando essas pautas e nela avan\u00e7ando. A pauta hoje est\u00e1 carregada novamente. N\u00e3o s\u00f3 os Deputados aqui, mas tamb\u00e9m os demais que est\u00e3o nas suas resid\u00eancias, acompanhando a sess\u00e3o on-line, est\u00e3o votando as mat\u00e9rias e acompanhando os trabalhos at\u00e9 o final. \r\nO PL 3.515, que versa sobre o superendividamento, \u00e9 o maior avan\u00e7o do nosso C\u00f3digo de Defesa do Consumidor que h\u00e1 muitos anos vem sendo trabalhado. E hoje temos oportunidade de vot\u00e1-lo, conforme assegurou o pr\u00f3prio Presidente Maia - ontem ele estava na pauta e continua na pauta de hoje. \r\nQuero muito que os L\u00edderes e demais Parlamentares tamb\u00e9m entendam que precisamos ajudar a popula\u00e7\u00e3o a sair do endividamento. S\u00e3o mais de 30 milh\u00f5es de pessoas! No p\u00f3s-pandemia, fazer com que essas pessoas voltem a fazer parte do mercado consumidor \u00e9 de suma import\u00e2ncia.\r\nDeixo aqui o meu apelo para que a vota\u00e7\u00e3o desse projeto seja feita neste dia. Isso \u00e9 muito importante. Estarei aqui at\u00e9 o final da sess\u00e3o lutando para que isso ocorra. \r\nPe\u00e7o o apoio dos colegas, aos quais eu sempre estive ao lado nos demais projetos, para que avancemos na pauta e possamos votar o PL 3.515 ainda na data de hoje. \r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F12%2F2020&txPagina=75&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-18T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3515/2015, PROJETO DE LEI ORDINARIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE DEFESA DO CONSUMIDOR, ESTATUTO DO IDOSO, POL\u00cdTICA NACIONAL DE RELA\u00c7\u00d5ES DE CONSUMO, CONSUMIDOR, EDUCA\u00c7\u00c3O FINANCEIRA, EDUCA\u00c7\u00c3O AMBIENTAL, PREVEN\u00c7\u00c3O, ENDIVIDAMENTO, DIREITO DO CONSUMIDOR, PUBLICIDADE, CONSUMO, CRIAN\u00c7A, ADOLESCENTE, CL\u00c1USULA ABUSIVA, CRIT\u00c9RIO, OFERTA, CR\u00c9DITO, CONSUMIDOR, EMPR\u00c9STIMO EM CONSIGNA\u00c7\u00c3O, REPACTUA\u00c7\u00c3O, D\u00cdVIDA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Defesa de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.515, de 2015, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.078, de 1990 (C\u00f3digo de Defesa do Consumidor), e do art. 96 da Lei n\u00ba 10.741, de 2003, (Estatuto do Idoso), para aperfei\u00e7oamento da disciplina do cr\u00e9dito ao consumidor e da preven\u00e7\u00e3o e tratamento do superendividamento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Kim Kataguiri, j\u00e1 que todo o mundo est\u00e1 fazendo suas defesas, eu, que estive aqui ontem e hoje, o dia inteiro, desde o in\u00edcio da sess\u00e3o, quero falar do Projeto de Lei n\u00ba 3.515, de 2015, que trata do superendividamento no nosso Brasil.\r\nEste projeto j\u00e1 era importante antes da pandemia. Agora, durante a pandemia, e no p\u00f3s-pandemia, torna-se um dos projetos mais importantes a serem apreciadas nesta Casa.\r\nEsse projeto nasceu no Senado e tramita h\u00e1 12 anos. A oportunidade \u00e9 agora! Devemos ter sensibilidade no fim deste ano e aprimorar a legisla\u00e7\u00e3o, a fim de cuidar de mais de 30 milh\u00f5es de superendividados, devolvendo esses cidad\u00e3os ao mercado de consumo. Olhem a oportunidade que temos! N\u00f3s j\u00e1 pedimos isso. H\u00e1 consenso. Os L\u00edderes est\u00e3o juntos para a vota\u00e7\u00e3o desse projeto. N\u00f3s tratamos de todas as diverg\u00eancias.\r\nPortanto, n\u00e3o vejo momento mais certo do que este para votarmos esse projeto. Ele est\u00e1 na pauta desde ontem. Ele est\u00e1 na pauta hoje. N\u00f3s precisamos vot\u00e1-lo. Vamos entrar noite adentro. Ficamos esses dias at\u00e9 2h30min votando. Eu estou disposto a ficar aqui.\r\nAl\u00e9m disso, apoio os pedidos dos colegas quanto aos outros projetos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F12%2F2020&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3515/2015, PROJETO DE LEI ORDIN\u00c1RIA, VOTA\u00c7\u00c3O, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.515, de 2015, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.078, de 1990, (C\u00f3digo de Defesa do Consumidor), e do art. 96 da Lei n\u00ba 10.741, de 2003, (Estatuto do Idoso), com vista ao aperfei\u00e7oamento da disciplina do cr\u00e9dito ao consumidor, \u00e0 preven\u00e7\u00e3o e o tratamento do superendividamento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, deixo registrado que estamos ouvindo atentamente todos os colegas. Sou Relator do PL 3.515, cuja vota\u00e7\u00e3o bateu na trave por 2 dias consecutivos. Esse projeto j\u00e1 foi exaustivamente debatido. O relat\u00f3rio buscou o maior consenso poss\u00edvel.\r\n\u00c9 \u00f3bvio que \u00e0s vezes n\u00e3o conseguimos atender a vontade de todos, do jeito que todos gostariam que fosse atendida, mas ele foi muito debatido. N\u00f3s estamos falando do tratamento de mais de 30 milh\u00f5es de pessoas superendividadas. E \u00e9 preciso evitar que novas pessoas entrem nessa situa\u00e7\u00e3o. Eu queria muito a aten\u00e7\u00e3o de V.Exa., porque muita gente est\u00e1 esperando por esse projeto.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Estou sabendo. Deixe conosco. N\u00f3s vamos trabalhar para isso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=226&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 7843/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVOR\u00c1VEL.\r\nPL 1665/2020, PROJETO DE LEI ORDIN\u00c1RIA, ENTREGADOR POR APLICATIVO, GARANTIA, EMPRESA, APLICATIVO DE ENTREGA, CONTRATA\u00c7\u00c3O, SEGURO DE ACIDENTES PESSOAIS, SEGURO DOEN\u00c7A, ASSIST\u00caNCIA FINANCEIRA, AFASTAMENTO AO TRABALHADOR CELETISTA, ACIDENTE, DOEN\u00c7A INFECTOCONTAGIOSA, FORNECIMENTO, INFORMA\u00c7\u00c3O, RISCOS (SEGURAN\u00c7A), CORONAV\u00cdRUS, MEDIDA DE SEGURAN\u00c7A, PER\u00cdODO, ESTADO DE EMERG\u00caNCIA, CALAMIDADE P\u00daBLICA, VOTA\u00c7\u00c3O, POSSIBILIDADE, AN\u00c1LISE.\r\nPL 3515/2015, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE DEFESA DO CONSUMIDOR, ESTATUTO DO IDOSO, POL\u00cdTICA NACIONAL DE RELA\u00c7\u00d5ES DE CONSUMO, CONSUMIDOR, EDUCA\u00c7\u00c3O FINANCEIRA, EDUCA\u00c7\u00c3O AMBIENTAL, PREVEN\u00c7\u00c3O, ENDIVIDAMENTO, DIREITO DO CONSUMIDOR, PUBLICIDADE, CONSUMO, CRIAN\u00c7A, ADOLESCENTE, CL\u00c1USULA ABUSIVA, CRIT\u00c9RIO, OFERTA, CR\u00c9DITO, CONSUMIDOR, EMPR\u00c9STIMO EM CONSIGNA\u00c7\u00c3O, REPACTUA\u00c7\u00c3O, D\u00cdVIDA, PAUTA (PROCESSO LEGISLATIVO), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 7.843, de 2017, acerca dos princ\u00edpios, regras e instrumentos para o governo digital e a efici\u00eancia p\u00fablica; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.116, de 1983; 13.460, de 2017; 12.682, de 2012, e 12.527, de 2011, ressalvados os destaques. Necessidade de ajuste do Projeto de Lei n\u00ba 1.665, de 2020, sobre os direitos dos trabalhadores em empresas de aplicativos, lotados no setor de entrega de mercadorias e alimentos, durante o estado de calamidade p\u00fablica decorrente da epidemia de coronav\u00edrus. Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.515, de 2015, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.078, de 1990, (C\u00f3digo de Defesa do Consumidor), e do art. 96 da Lei n\u00ba 10.741, de 2003, (Estatuto do Idoso), para aperfei\u00e7oamento da disciplina do cr\u00e9dito ao consumidor; da preven\u00e7\u00e3o e  tratamento do superendividamento.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de orientar o voto \"sim\" pelo Progressistas. Entendemos a import\u00e2ncia da mat\u00e9ria e o avan\u00e7o que esse projeto traz. \r\nTamb\u00e9m quero deixar com V.Exa. a solicita\u00e7\u00e3o sobre que falamos na semana passada. O PL 1.665 ainda carece de um ajuste, mas, se esse for o entendimento da maioria, que ele seja colocado em aprecia\u00e7\u00e3o. Por\u00e9m, se n\u00e3o houver contexto para isso no Plen\u00e1rio, eu gostaria de sugerir que o senhor pautasse o PL 3.515, para que ele fosse pr\u00f3ximo a ser votado, afinal, trata-se de um projeto que j\u00e1 foi exaustivamente discutido.\r\nPenso que n\u00f3s teremos uma vota\u00e7\u00e3o r\u00e1pida e objetiva em defesa da popula\u00e7\u00e3o que mais precisa, pois ela est\u00e1 superendividada.\r\nConto com a compreens\u00e3o de V.Exa., que tem conduzido muito bem os trabalhos.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=337&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PL 2474/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Discuss\u00e3o do Projeto de Lei n\u00ba 2.474, de 2020, referente \u00e0 cess\u00e3o de cr\u00e9ditos obtidos em sistema de compensa\u00e7\u00e3o de energia el\u00e9trica, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, bom dia a todos. Quero agradecer a oportunidade e a sensibilidade dos L\u00edderes, principalmente do meu L\u00edder, o Deputado Cac\u00e1 Le\u00e3o, de trazer esse projeto \u00e0 pauta. Votamos a urg\u00eancia e, hoje, votamos o m\u00e9rito do projeto.\r\nAgrade\u00e7o ao Relator as palavras. \u00c9 isso mesmo, Deputado: o momento \u00e9 dif\u00edcil, o momento \u00e9 cr\u00edtico, e o Parlamento precisa dar sua contribui\u00e7\u00e3o. Juntamente com o Colega Lucas Redecker, n\u00f3s tivemos essa ideia para dar um al\u00edvio, buscando uma forma de o Parlamento agir sem dar despesa ao Er\u00e1rio. Ou seja, este \u00e9 um projeto que n\u00e3o tem nenhum custo para a sociedade, nenhum custo para o Er\u00e1rio. N\u00f3s simplesmente queremos dar a oportunidade, neste momento de pandemia, para que aquelas pessoas que usam das suas fontes de energia renov\u00e1vel, que produzem a sua energia, possam doar, caso queiram, o seu excedente, o que n\u00e3o \u00e9 permitido que se fa\u00e7a hoje.\r\n\u00c0s vezes, h\u00e1 uma casa que produz energia fotovoltaica, uma fazenda que produz energia fotovoltaica, e o excedente que ela n\u00e3o consome - como bem dito pelo Relator, ela teria 60 meses para faz\u00ea-lo, dentro do seu pr\u00f3prio CPF - ela pode, se quiser, com a aprova\u00e7\u00e3o deste projeto, ceder para um hospital, para que ele possa amenizar o consumo, obviamente, pelo volume de trabalho das nossas unidades hospitalares, e diminuir esse impacto nas suas contas de energia.\r\nVemos isso com bons olhos, pois, \u00e0s vezes, uma pessoa que quer fazer uma doa\u00e7\u00e3o n\u00e3o tem recurso financeiro, mas tem o seu excedente de energia. Ent\u00e3o n\u00f3s vamos juntar a fome com a vontade de comer.\r\nEstas pessoas nos procuraram, existem pessoas que querem fazer essas doa\u00e7\u00f5es. Basta que aprovemos a legisla\u00e7\u00e3o. Como j\u00e1 foi feita uma reuni\u00e3o anteriormente, eu, juntamente com o tamb\u00e9m autor do projeto, colega Lucas Redecker, n\u00f3s vimos que a operacionalidade disto junto \u00e0 ANEEL \u00e9 absolutamente fact\u00edvel e de pouca dificuldade.\r\nEnt\u00e3o essas modifica\u00e7\u00f5es trazidas pelo Relator s\u00e3o muito bem-vindas. Elas t\u00eam o intuito de colaborar com o projeto, e est\u00e3o colaborando, mas se faz necess\u00e1ria essa aprova\u00e7\u00e3o para dar esse al\u00edvio, para dar esse f\u00f4lego n\u00e3o s\u00f3 para os hospitais, mas tamb\u00e9m para as entidades de atendimento aos nossos idosos.\r\nEu n\u00e3o tenho d\u00favida de que quem produz essas energias vai doar esses excedentes, e n\u00f3s vamos poder trazer aqui para o plen\u00e1rio o mais breve poss\u00edvel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T11:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EMENDA DE PLEN\u00c1RIO, PL 2474/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 3, apresentada ao Projeto de Lei n\u00ba 2.474, de 2020, referente \u00e0 cess\u00e3o de cr\u00e9ditos obtidos em sistema de compensa\u00e7\u00e3o de energia el\u00e9trica, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Eu vou orientar o Progressistas, e a orienta\u00e7\u00e3o do partido \u00e9 \"sim\".\r\nEntendo que, quando h\u00e1 essas discuss\u00f5es e a amplia\u00e7\u00e3o do debate... A sugest\u00e3o do NOVO cabe perfeitamente no projeto, uma vez que est\u00e1 na mesma inten\u00e7\u00e3o. N\u00e3o h\u00e1 como desconectarmos o tempo do p\u00f3s-pandemia em virtude do que vai ainda estar em curso nas institui\u00e7\u00f5es. Ent\u00e3o, eu acredito que vem para somar ao projeto.\r\nA orienta\u00e7\u00e3o do Progressistas \u00e9 \"sim\", para podermos agregar esta emenda ao projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-11T17:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), PL 3515/2015, PROJETO DE LEI ORDINARIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO DE DEFESA DO CONSUMIDOR, ESTATUTO DO IDOSO, POL\u00cdTICA NACIONAL DE RELA\u00c7\u00d5ES DE CONSUMO, CL\u00c1USULA ABUSIVA, CRIT\u00c9RIO, OFERTA, CR\u00c9DITO, CONSUMIDOR, EMPR\u00c9STIMO EM CONSIGNA\u00c7\u00c3O, REPACTUA\u00c7\u00c3O, D\u00cdVIDA.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Emiss\u00e3o de parecer ao  Projeto de Lei n\u00ba 3.515, de 2015, sobre  altera\u00e7\u00e3o do C\u00f3digo de Defesa do Consumidor e do Estatuto do Idoso, para o  aperfei\u00e7oamento da disciplina do cr\u00e9dito ao consumidor e para a disposi\u00e7\u00e3o sobre a preven\u00e7\u00e3o e o tratamento do superendividamento, e sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.492, de 1997.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres pares, antes de fazer a leitura do parecer, eu gostaria de ressaltar a import\u00e2ncia deste projeto. Ele nasceu no Senado Federal em 2012. Em 2015, ele veio para esta Casa. Trata de superendividamento. Se, em 2012, meus amigos e amigas, o superendividamento j\u00e1 era um tema relevante, importante, discutido no Congresso Nacional, imaginem neste momento. Passou todo esse tempo, hoje vivemos esta pandemia, e certamente o p\u00f3s-pandemia ser\u00e1 um per\u00edodo muito agudo para os endividados, sobretudo para os superendividados.\r\nEm 2019, na Comiss\u00e3o de Defesa do Consumidor, por interm\u00e9dio de v\u00e1rios ou da totalidade dos colegas que a integravam, fizemos um grupo de estudos sobre superendividamento. Posteriormente, foi criada a Comiss\u00e3o Especial. A prop\u00f3sito, quero enaltecer aqui o trabalho da nossa Presidente, a Deputada Mariana Carvalho, a quem agrade\u00e7o todo o apoio na condu\u00e7\u00e3o dos trabalhos, na reda\u00e7\u00e3o de um relat\u00f3rio que fosse feito a v\u00e1rias m\u00e3os. Nessa Comiss\u00e3o, tivemos a oportunidade de debater exaustivamente aqueles pontos que precisavam de melhoria, visto que o texto que veio do Senado era um texto de algum tempo j\u00e1. E a nossa sociedade din\u00e2mica, a economia din\u00e2mica fizeram com que pud\u00e9ssemos amadurecer o texto, debater o tema em audi\u00eancias p\u00fablicas, em reuni\u00f5es com todos os setores que, de alguma forma, quiseram dar a sua opini\u00e3o e fazer com que esse texto representasse o maior consenso poss\u00edvel. Foi esse o nosso grande exerc\u00edcio.\r\nQuero agradecer tamb\u00e9m ao nosso L\u00edder, o Deputado Cac\u00e1 Le\u00e3o, ao Deputado Ricardo Barros. Quero agradecer a sensibilidade do Presidente em rela\u00e7\u00e3o \u00e0 chegada desta mat\u00e9ria aqui de fato. N\u00f3s quase a votamos no ano passado. Agora vai ser apreciada e votada por todos os nobres pares.\r\nPermita-me, Presidente, passar diretamente \u00e0 leitura do voto.\r\n\"II - Voto do Relator\r\nTodas as informa\u00e7\u00f5es e sugest\u00f5es recebidas, somadas aos debates realizados durante os trabalhos realizados na Comiss\u00e3o Especial, contribu\u00edram decisivamente para tra\u00e7ar as convic\u00e7\u00f5es que conduziram \u00e0 elabora\u00e7\u00e3o deste parecer, que foi atualizado para incorporar a an\u00e1lise do PL 5.023/20, apensado em 19 de fevereiro de 2021, mas que reproduz as premissas, as conclus\u00f5es e a vers\u00e3o de substitutivo apresentado ao Plen\u00e1rio da C\u00e2mara dos Deputados no parecer anterior, protocolado (...).\r\nII.1 Constitucionalidade, juridicidade e t\u00e9cnica legislativa\r\nPreliminarmente, considerando o amplo campo tem\u00e1tico do parecer de plen\u00e1rio, cumpre enfatizar que todos os projetos de lei em aprecia\u00e7\u00e3o mostram-se v\u00e1lidos sob os aspectos da constitucionalidade, juridicidade e t\u00e9cnica legislativa.\r\nII.2 Adequa\u00e7\u00e3o or\u00e7ament\u00e1ria\r\nCompete ao parecer de plen\u00e1rio apreciar as proposi\u00e7\u00f5es quanto \u00e0 sua compatibilidade ou adequa\u00e7\u00e3o com o Plano Plurianual, a Lei de Diretrizes Or\u00e7ament\u00e1rias e o Or\u00e7amento anual.\r\nA Lei de Diretrizes Or\u00e7ament\u00e1rias para 2021 (...), em seu art. 125, estabelece que as proposi\u00e7\u00f5es legislativas e as suas emendas, conforme o art. 59 da Constitui\u00e7\u00e3o, que, direta ou indiretamente, importem ou autorizem diminui\u00e7\u00e3o de receita ou aumento de despesa da Uni\u00e3o, dever\u00e3o estar acompanhadas de estimativas desses efeitos no exerc\u00edcio em que entrarem em vigor e nos dois exerc\u00edcios subsequentes, detalhando a mem\u00f3ria de c\u00e1lculo respectiva e a correspondente compensa\u00e7\u00e3o para efeito de adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira, e compatibilidade com as disposi\u00e7\u00f5es constitucionais e legais que regem a mat\u00e9ria.\r\nO art. 14 da Lei de Responsabilidade Fiscal - LRF exige estar a proposi\u00e7\u00e3o acompanhada de estimativa do impacto or\u00e7ament\u00e1rio-financeiro no exerc\u00edcio em que deva iniciar sua vig\u00eancia e nos dois seguintes, para assim atender o disposto na Lei de Diretrizes Or\u00e7ament\u00e1rias e a, pelo menos, uma de duas condi\u00e7\u00f5es alternativas.\r\nUma condi\u00e7\u00e3o \u00e9 que o proponente demonstre que a ren\u00fancia foi considerada na estimativa de receita da lei or\u00e7ament\u00e1ria e que n\u00e3o afetar\u00e1 as metas de resultados fiscais previstas no anexo pr\u00f3prio da Lei de Diretrizes Or\u00e7ament\u00e1rias. Outra condi\u00e7\u00e3o, alternativa, \u00e9 que a proposi\u00e7\u00e3o esteja acompanhada de medidas de compensa\u00e7\u00e3o, no per\u00edodo mencionado, por meio do aumento de receita, proveniente da eleva\u00e7\u00e3o de al\u00edquotas, da amplia\u00e7\u00e3o de base de c\u00e1lculo ou da majora\u00e7\u00e3o ou cria\u00e7\u00e3o de tributo ou contribui\u00e7\u00e3o, podendo o benef\u00edcio entrar em vigor apenas quando implantadas tais medidas.\r\nPor fim, e n\u00e3o menos relevante, cumpre destacar que a Emenda Constitucional n\u00ba 95, de 2016, conferiu status constitucional \u00e0s disposi\u00e7\u00f5es previstas na LRF e na LDO, as quais t\u00eam orientado o exame de adequa\u00e7\u00e3o or\u00e7ament\u00e1ria por parte desta Comiss\u00e3o. Nesse sentido, o art. 113 do Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias - ADCT refor\u00e7ou o controle sobre altera\u00e7\u00f5es legislativas geradoras de impacto or\u00e7ament\u00e1rio, ao estabelecer que a proposi\u00e7\u00e3o legislativa que crie ou altere despesa obrigat\u00f3ria ou ren\u00fancia de receita dever\u00e1 ser acompanhada da estimativa do seu impacto financeiro e or\u00e7ament\u00e1rio.\r\nAp\u00f3s an\u00e1lise do Projeto de Lei n\u00ba 3.515, de 2015, e de seus apensados, PL 5.173/13, PL 1.982/15, PL 3.402/15, PL 4.010/15, PL 4.405/16, PL 7.585/17, PL 7.590/17, PL 7.840/17, PL 7.884/17, PL 8.336/17, PL 10.380/18, PL 9.837/18, PL 2.825/19, PL 3.721/19, PL 420/19, PL 4.331/19, PL 4.728/19, PL 4.857/19, PL 507/19, PL 5.394/19, PL 5.551/19, PL 5.974/19, PL 6.237/19 e PL 5/20 e o PL 5.023/20, entendemos que todos est\u00e3o adequados financeira e or\u00e7amentariamente, \u00e0 exce\u00e7\u00e3o do Projeto de Lei n\u00ba 4.857, de 2019, que, em seu art. 44, estabelece que os Estados instituir\u00e3o Juizados Especiais de Recome\u00e7o Econ\u00f4mico-Financeiro, com compet\u00eancia para processo, julgamento e execu\u00e7\u00e3o de a\u00e7\u00f5es de recome\u00e7o econ\u00f4mico-financeiro, cujo montante total da d\u00edvida n\u00e3o supere 40 (quarenta) sal\u00e1rios m\u00ednimos. Ao estabelecer a cria\u00e7\u00e3o de juizados especiais, tamb\u00e9m se est\u00e1 criando uma despesa cont\u00ednua sem previs\u00e3o or\u00e7ament\u00e1ria, o que torna o Projeto de Lei n\u00ba 4.857, de 2019, inadequado e incompat\u00edvel financeira e or\u00e7amentariamente.\r\n(...)\r\nEm vista do exposto, no \u00e2mbito da Comiss\u00e3o Especial, votamos:\r\ni) pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa (...)\" dos PLs que j\u00e1 citei - pe\u00e7o licen\u00e7a para n\u00e3o repetir os PLs que j\u00e1 mencionei;\r\n\"ii) quanto aos aspectos or\u00e7ament\u00e1rios, ap\u00f3s an\u00e1lise do Projeto de Lei n\u00ba 3.515, de 2015, e de seus apensados (...), entendemos que todos est\u00e3o adequados financeira e or\u00e7amentariamente, \u00e0 exce\u00e7\u00e3o do Projeto de Lei n\u00ba 4.857, de 2019, que, em seu art. 44, estabelece que os Estados instituir\u00e3o Juizados Especiais de Recome\u00e7o Econ\u00f4mico-Financeiro (...).\r\niii) E, no m\u00e9rito, votamos pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.515, de 2015, e dos seus apensados (...), na forma do anexo substitutivo. A an\u00e1lise do m\u00e9rito do PL 4.857/19 restou prejudicada, tendo em vista sua inadequa\u00e7\u00e3o e incompatibilidade financeira e or\u00e7ament\u00e1ria\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-11T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 3515/2015, PROJETO DE  LEI ORDIN\u00c1RIA,  ALTERA\u00c7\u00c3O, C\u00d3DIGO DE DEFESA DO CONSUMIDOR, ESTATUTO DO IDOSO, POL\u00cdTICA NACIONAL DE RELA\u00c7\u00d5ES DE CONSUMO, CL\u00c1USULA ABUSIVA, CRIT\u00c9RIO, OFERTA, CR\u00c9DITO, CONSUMIDOR, EMPR\u00c9STIMO EM CONSIGNA\u00c7\u00c3O, REPACTUA\u00c7\u00c3O, D\u00cdVIDA,  JUIZ, DETERMINA\u00c7\u00c3O, VALOR,  PAGAMENTO, APROVA\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Regozijo com a imin\u00eancia da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.515, de 2015, sobre altera\u00e7\u00e3o das Leis de n\u00bas: 8.078, de 1990 (C\u00f3digo de Defesa do Consumidor); 10.741, de 2003 (Estatuto do Idoso), para aperfei\u00e7oamento da disciplina do cr\u00e9dito ao consumidor e disposi\u00e7\u00e3o sobre a preven\u00e7\u00e3o e o tratamento do superendividamento;  e 9.492, de 1997. Expectativa de aprova\u00e7\u00e3o da mat\u00e9ria no Senado Federal. Preserva\u00e7\u00e3o, no texto da propositura, do aprovado na Medida Provis\u00f3ria n\u00ba 1.006, de 2020, sobre aumento da margem de cr\u00e9dito consignado dos titulares de benef\u00edcios de aposentadoria e pens\u00e3o do Regime Geral de Previd\u00eancia Social durante o per\u00edodo da pandemia de Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (Bloco/PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero agradecer a compreens\u00e3o da maioria dos Deputados. Algumas falas a que eu assisti aqui hoje talvez sejam de quem n\u00e3o conviva com as pessoas mais simples deste Pa\u00eds, que muitas vezes s\u00e3o atacadas de forma abusiva ao buscarem um cr\u00e9dito. \r\nN\u00f3s preservamos aqui o que foi aprovado na MP 1.006/20, que aumentou o valor do consignado at\u00e9 o final do ano. N\u00f3s preservamos todas as formas de a pessoa ter condi\u00e7\u00e3o de tomar o seu cr\u00e9dito, que \u00e9 uma mola propulsora da nossa economia, mas tem que haver responsabilidade.\r\nEu acredito que n\u00f3s vamos ver, muito em breve, atrav\u00e9s dos mecanismos aprovados - e, se Deus quiser, aprovaremos no Senado tamb\u00e9m -, as mudan\u00e7as positivas e devolver milh\u00f5es de brasileiros e brasileiras para o mercado de consumo. De fato, eles v\u00e3o voltar a consumir. E o juro vai baixar, porque eles querem pagar as suas d\u00edvidas, eles querem pagar o que devem. Ningu\u00e9m acha bom ficar devendo, n\u00e3o. Eles v\u00e3o pagar, v\u00e3o voltar para o mercado de consumo. A tend\u00eancia \u00e9 o juro abaixar; n\u00e3o \u00e9 aumentar, n\u00e3o. \r\nE, quando trazemos o Judici\u00e1rio para ser o balizador dessa rela\u00e7\u00e3o, fazemos uma coisa muito boa, porque hoje ele n\u00e3o atua como balizador. Abarrotamos os nossos tribunais e, na hora em que precisamos do Judici\u00e1rio, ele n\u00e3o pode fazer nada.\r\nEnt\u00e3o, agora, o mediador vai poder dar o caminho, e, de fato, n\u00f3s vamos tirar essas pessoas do superendividamento, devolvendo-lhes uma das coisas mais importantes na vida de uma pessoa de bem: a dignidade.\r\nMuito obrigado a todos. Espero que o Senado possa fazer a sua parte tamb\u00e9m muito em breve.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 2633/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO PROGRESSISTA (PP) (2003), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Franco Cartafina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 2.633, de 2020, acerca da regulariza\u00e7\u00e3o fundi\u00e1ria, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. FRANCO CARTAFINA (PP - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Progressistas orienta tamb\u00e9m \"sim\" ao texto, ressalvados os destaques.\r\nEntendemos que este \u00e9 um texto que foi bastante discutido e que precisa avan\u00e7ar, para que possamos dar essa tranquilidade sobretudo aos pequenos e m\u00e9dios produtores que hoje se encontraram \u00e0 margem da nossa legisla\u00e7\u00e3o e n\u00e3o podem ampliar os seus neg\u00f3cios na terra onde suas fam\u00edlias est\u00e3o h\u00e1 v\u00e1rias gera\u00e7\u00f5es, como j\u00e1 disseram os que me antecederam aqui. \u00c9 esse o tipo de produtor que n\u00f3s queremos atingir.\r\nJamais vamos incentivar a grilagem. Isso vai completamente na contram\u00e3o do que est\u00e1 colocado no texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

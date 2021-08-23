@@ -1,0 +1,110 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "LOURIVAL GOMES, DEPUTADO FEDERAL, AGRADECIMENTO, ELEITOR, RIO DE JANEIRO (RJ), ELEI\u00c7\u00c3O. \r\nARARUAMA (RJ), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Lourival Gomes",
+        "sumario": "Sauda\u00e7\u00f5es ao Presidente em exerc\u00edcio dos trabalhos, aos membros da Mesa Diretora e aos Deputados Federais. Comemora\u00e7\u00e3o do 159\u00ba anivers\u00e1rio do Munic\u00edpio de Araruama, no Estado do Rio de Janeiro. Agradecimento aos habitantes da Regi\u00e3o dos Lagos pela elei\u00e7\u00e3o do orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LOURIVAL GOMES (Bloco/PSL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Eu queria, primeiramente, saudar o Presidente, a Mesa, os companheiros Deputados Federais que aqui se encontram.\r\nQuero dizer para V.Exas. que eu sou o Deputado Federal da Regi\u00e3o dos Lagos. Pela primeira vez, estou tendo a honra de vir a esta tribuna para dizer que eu sou o representante da Regi\u00e3o dos Lagos.\r\nHoje \u00e9 o anivers\u00e1rio da nossa cidade de Araruama. Quero parabenizar a cidade de Araruama, cidade vizinha, pelos seus 159 anos.\r\nTamb\u00e9m quero agradecer os 41.307 votos que eu tive na Regi\u00e3o dos Lagos, no nosso Estado do Rio de Janeiro.\r\nPodem contar comigo, porque eu sou a voz do povo da Regi\u00e3o dos Lagos aqui na C\u00e2mara dos Deputados. Quero mandar um abra\u00e7o para todos voc\u00eas e agradecer-lhes de cora\u00e7\u00e3o. Eu s\u00f3 estou aqui porque voc\u00eas consentiram e votaram em mim.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019).",
+        "nomeDeputado": "Lourival Gomes",
+        "sumario": "Conclama\u00e7\u00e3o aos Deputados para atua\u00e7\u00e3o parlamentar em defesa do povo brasileiro. Sauda\u00e7\u00e3o ao Presidente Jair Bolsonaro. Necessidade de aprimoramento na proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LOURIVAL GOMES (Bloco/PSL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Quero saudar o Presidente, a Mesa, os colegas Deputados Federais, as colegas Deputadas Federais.\r\nQuero dizer a todos os senhores que mais uma vez estou na tribuna para defender o nosso povo brasileiro.\r\nIndependentemente de partido, eu hoje sigo aqueles que confiaram e votaram em mim. Por isso estou criando a minha ideia. Eu n\u00e3o vou pedir a nenhum dos senhores que siga a minha ideia, mas pe\u00e7o, em nome do povo brasileiro, em nome do meu Estado do Rio de Janeiro, a parceria de todos. Eu pe\u00e7o isso a todos os senhores, porque, primeiro, n\u00f3s estamos aqui porque somos pessoas de bem; segundo, porque somos pessoas de bem escolhidas pelo povo, que nos colocou aqui para podermos represent\u00e1-lo.\r\nEnt\u00e3o, eu estou pedindo - muitas vezes, eu fico at\u00e9 sentido com as palavras de algumas pessoas que v\u00eam aqui para dizer coisas que n\u00e3o t\u00eam sentido - a parceria de todos.\r\nSa\u00fado o nosso Presidente Bolsonaro, porque ele foi aprovado nas urnas. O povo queria mudan\u00e7a, e essa mudan\u00e7a existiu.\r\nEu n\u00e3o estou aqui para criticar, mas eu dei uma olhada ontem na reforma da Previd\u00eancia e vi que daquele jeito, realmente, n\u00e3o pode continuar. N\u00f3s temos que nos unir, cada um com o seu grupo partid\u00e1rio, fazer um bate-papo, para chegarmos a um denominador comum e resolvermos esse problema, porque, se n\u00e3o dialogarmos, se n\u00e3o conversarmos, se n\u00e3o nos unirmos, nada vai ser feito.\r\nMuito obrigado a todos.\r\nDeixo o meu abra\u00e7o a todos os senhores.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 11021/2018, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lourival Gomes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta do Projeto de Lei n\u00ba 11.021, de 2018, sobre a remunera\u00e7\u00e3o recebida por funcion\u00e1rio de partido pol\u00edtico com recursos do fundo partid\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LOURIVAL GOMES (PSL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Quero dizer ao Presidente e a todos os presentes aqui - ontem houve um equ\u00edvoco na vota\u00e7\u00e3o e trocaram o painel no \u00faltimo instante - que eu voto \"n\u00e3o\" e vou continuar votando \"n\u00e3o\", enquanto for partid\u00e1rio. Eu fiz a minha campanha com recurso pr\u00f3prio, e todo mundo tamb\u00e9m deveria faz\u00ea-la com recurso pr\u00f3prio.\r\nPortanto, voto \"n\u00e3o\", porque n\u00e3o quero fundo partid\u00e1rio. E o PSL vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T10:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RIO DE JANEIRO (ESTADO), WILSON WITZEL, GOVERNADOR, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GEST\u00c3O, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Lourival Gomes",
+        "sumario": "Congratula\u00e7\u00f5es ao Governador Wilson Witzel e ao Presidente Jair Bolsonaro pela atua\u00e7\u00e3o em prol do Estado do Rio de Janeiro e do Pa\u00eds. Votos de feliz Natal e pr\u00f3spero Ano Novo aos Parlamentares e \u00e0 popula\u00e7\u00e3o brasileira.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LOURIVAL GOMES (PSL - RJ. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, amigos presentes, estou nesta tribuna para agradecer a Deus. Chegamos ao final deste primeiro ano de mandato. Conseguimos, com muito di\u00e1logo e trabalho, avan\u00e7ar para tornar o Brasil um pa\u00eds mais justo e solid\u00e1rio. Eu gostaria de parabenizar a minha assessoria e, em nome da minha assessoria, todos os assessores dos colegas Deputados.\r\nEu n\u00e3o poderia deixar de parabenizar tamb\u00e9m o nosso Governador do Rio de Janeiro, que vem fazendo um trabalho justo e correto. S.Exa. levantou a moral do nosso Estado do Rio de Janeiro, que estava em grande dificuldade. \r\nEu tamb\u00e9m n\u00e3o poderia deixar de parabenizar o nosso Presidente Jair Messias Bolsonaro, porque, com atitude, for\u00e7a e garra, vem conduzindo o nosso Pa\u00eds, para o bem-estar de todo n\u00f3s. E \u00e9 uma grande honra para mim estar nesta Casa representando o nosso povo, junto com esta Presid\u00eancia e os demais colegas.\r\nJ\u00e1 que estamos no final do ano, quero desejar um feliz Natal e um pr\u00f3spero Ano-Novo a todos os amigos e colegas, e ao povo do nosso Brasil.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=34&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RECUPERA\u00c7\u00c3O, LAGOA, ARARUAMA (RJ), POLUI\u00c7\u00c3O AMBIENTAL, CONCESSION\u00c1RIO (ADMINISTRA\u00c7\u00c3O P\u00daBLICA), GOVERNO FEDERAL.\r\nPONTE, RIO BONITO (RJ), GOVERNO ESTADUAL.",
+        "nomeDeputado": "Lourival Gomes",
+        "sumario": "Empenho do orador na despolui\u00e7\u00e3o da Lagoa de Araruama, na Regi\u00e3o dos Lagos, no Rio de Janeiro, Estado do Rio de Janeiro. An\u00fancio da constru\u00e7\u00e3o de ponte na comunidade de Nova Cidade, no Munic\u00edpio de Rio Bonito.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LOURIVAL GOMES (PSL - RJ. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados e Sras. Deputadas, eu venho a esta tribuna representar o nosso povo da Regi\u00e3o dos Lagos. Existe muita cobran\u00e7a, por eu ser o primeiro Deputado eleito da Regi\u00e3o dos Lagos. Eu gostaria de denunciar o que est\u00e1 ocorrendo com a Lagoa de Araruama. Os \u00f3rg\u00e3os respons\u00e1veis n\u00e3o est\u00e3o fiscalizando a lagoa nem dando a ela a import\u00e2ncia que merece. Ela est\u00e1 completamente abandonada.\r\nEnviei um of\u00edcio para a Ag\u00eancia Nacional de \u00c1guas - ANA e para o Minist\u00e9rio do Desenvolvimento Regional - MDR, pedindo que providenciassem a despolui\u00e7\u00e3o da lagoa. A resposta foi que a Prolagos, concession\u00e1ria respons\u00e1vel pelo abastecimento de \u00e1gua e saneamento b\u00e1sico da regi\u00e3o, foi multada. E ainda ficou determinado que ela aplicasse 50% dos recursos relativos ao programa de educa\u00e7\u00e3o ambiental de 2019 na recupera\u00e7\u00e3o da lagoa, o que ela n\u00e3o fez.\r\nComo \u00fanico Deputado Federal da Regi\u00e3o dos Lagos, eu me incumbi de lutar por essa lagoa. Eu acredito que o \u00f3rg\u00e3o competente do Governo vai tomar provid\u00eancias. Afinal de contas, o povo de Araruama est\u00e1 esperando a reforma da lagoa. Eu conto com o apoio do nosso Governo.\r\nTamb\u00e9m quero falar sobre a constru\u00e7\u00e3o da ponte de Nova Cidade, que pertence ao Munic\u00edpio de Rio Bonito. Eu j\u00e1 fiz a reivindica\u00e7\u00e3o, e o Governo do Estado garantiu que vai constru\u00ed-la. \r\nQue o povo fique ciente de que tem um representante legal da Regi\u00e3o dos Lagos e tamb\u00e9m da cidade de Rio Bonito. Deixo aqui o meu abra\u00e7o a todo o povo da Regi\u00e3o dos Lagos.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LOURIVAL GOMES, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 2173/2019, PROJETO DE LEI ORDIN\u00c1RIA, T\u00cdTULO DE CAPITAL NACIONAL, CAPITAL NACIONAL DO SURF, SAQUAREMA (RJ), RIO DE JANEIRO (ESTADO), APROVA\u00c7\u00c3O, SENADO FEDERAL.",
+        "nomeDeputado": "Lourival Gomes",
+        "sumario": "Aprova\u00e7\u00e3o pela Comiss\u00e3o de Educa\u00e7\u00e3o, Cultura e Esporte, do Senado Federal, do Projeto de Lei 2.173, de 2019, de autoria do orador, sobre a concess\u00e3o do t\u00edtulo de Capital Nacional do Surf ao Munic\u00edpio de Saquarema, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LOURIVAL GOMES (PSL - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputadas e Deputados, gostaria aqui de informar \u00e0 popula\u00e7\u00e3o de Saquarema que hoje, na Comiss\u00e3o de Educa\u00e7\u00e3o do Senado Federal, foi aprovado o projeto de minha autoria que confere o t\u00edtulo de Capital Nacional do Surfe ao Munic\u00edpio de Saquarema.\r\nAgrade\u00e7o ao Relator, Senador Zequinha Marinho, a gentileza e o excelente relat\u00f3rio apresentado ao projeto. Contamos com sua atua\u00e7\u00e3o na Comiss\u00e3o para essa aprova\u00e7\u00e3o.\r\nPe\u00e7o que seja divulgado no programa A Voz do Brasil.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

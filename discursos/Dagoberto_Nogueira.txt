@@ -1,0 +1,236 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 2999/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso III do artigo 15 da Lei n\u00ba 5.010, de 1966, constante do art. 4\u00ba do substitutivo do Senado Federal ao Projeto de Lei n\u00ba 2.999, de 2019, sobre a antecipa\u00e7\u00e3o do pagamento dos honor\u00e1rios periciais em a\u00e7\u00f5es do Instituto Nacional do Seguro Social - INSS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT entende que tem que se manter o status quo. N\u00f3s n\u00e3o achamos que seja justo fazer com que o trabalhador tenha que percorrer at\u00e9 70 quil\u00f4metros para que reivindique esse direito. Ele pode utilizar a reparti\u00e7\u00e3o estadual, como est\u00e1 previsto no texto.\r\nEnt\u00e3o, n\u00f3s vamos votar \"n\u00e3o\" a esse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 2999/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do inciso IV do artigo 5\u00ba do substitutivo do Senado Federal ao Projeto de Lei n\u00ba 2.999, de 2019, sobre a antecipa\u00e7\u00e3o do pagamento dos honor\u00e1rios periciais em a\u00e7\u00f5es do Instituto Nacional do Seguro Social - INSS, com vistas \u00e0 sua rejei\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT entende que esse inciso pode ser at\u00e9 inconstitucional, porque est\u00e1 ferindo a autonomia do Munic\u00edpio.\r\nPortanto, n\u00f3s vamos votar \"n\u00e3o\" a este projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), CRIA\u00c7\u00c3O, POL\u00cdCIA PENITENCI\u00c1RIA, VOTA\u00c7\u00c3O, INVERS\u00c3O DE PAUTA, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de invers\u00e3o da pauta para vota\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Sem revis\u00e3o do orador.) - Sra. Presidente, como n\u00f3s s\u00f3 temos dois itens na pauta hoje, eu queria fazer um apelo a V.Exa. Se poss\u00edvel, fa\u00e7amos a invers\u00e3o, porque n\u00f3s temos que votar uma PEC, e com este qu\u00f3rum que n\u00f3s temos aqui - e estou observando o plen\u00e1rio -, n\u00f3s n\u00e3o vamos conseguir n\u00famero suficiente para essa PEC. Al\u00e9m disso, pelo que vejo dos depoimentos dos nossos colegas, todo mundo \u00e9 favor\u00e1vel \u00e0 PEC 372. Esse povo vem h\u00e1 2 anos, todos os dias, todas as semanas, pedindo para incluir na pauta.\r\nAgora entra na pauta, e n\u00f3s n\u00e3o teremos n\u00famero suficiente para votar. Portanto, pe\u00e7o a V.Exa. que analise a possibilidade de fazermos essa invers\u00e3o de pauta, para voltarmos a PEC 372, aproveitando que esse n\u00famero de 426 Deputados ainda \u00e9 alto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=252&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T22:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTRARIO.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penal federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na condi\u00e7\u00e3o de ex-Secret\u00e1rio de Justi\u00e7a e de Seguran\u00e7a P\u00fablica do meu Estado por duas vezes, eu posso garantir que, ao contr\u00e1rio do que foi argumentado, n\u00e3o se vai criar despesa. Primeiro, n\u00f3s n\u00e3o estamos falando em remunera\u00e7\u00e3o, s\u00f3 em transforma\u00e7\u00e3o. Segundo, vai diminuir a despesa pelo n\u00famero de policiais militares, tanto nos pres\u00eddios como nas escoltas.\r\nQuero fazer aqui uma homenagem ao Fernando Anuncia\u00e7\u00e3o, Presidente da Federa\u00e7\u00e3o dos Servidores Penitenci\u00e1rios, que tem vindo todas as semanas, nesses \u00faltimos 3 anos, ao Congresso Nacional em defesa da Pol\u00edcia Penal.\r\nPortanto, o PDT vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=207&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EMENDA DE COMISS\u00c3O, MPV 889/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 86 apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 889, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975, com vista \u00e0 possibilidade de movimenta\u00e7\u00e3o das contas do PIS/PASEP, e da Lei n\u00ba 8.036, de 1990, para institui\u00e7\u00e3o da modalidade de saque-anivers\u00e1rio do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, e sobre a devolu\u00e7\u00e3o de recursos ao Fundo de Amparo ao Trabalhador - FAT; a altera\u00e7\u00e3o de disposi\u00e7\u00f5es relativas \u00e0s d\u00edvidas do Fundo de Compensa\u00e7\u00e3o de Varia\u00e7\u00f5es Salariais - FCV, e a extin\u00e7\u00e3o da cobran\u00e7a da contribui\u00e7\u00e3o de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu ia exatamente convocar o NOVO e o Cidadania agora. Se esses partidos queriam votar a favor da libera\u00e7\u00e3o do Fundo para os trabalhadores, que agora votem com interesse do trabalhador. Se o trabalhador retira o dinheiro na \u00e9poca do anivers\u00e1rio e depois \u00e9 demitido, fica 2 anos sem poder retirar o saldo restante. Agora, o destaque do PT est\u00e1 sendo justo, para que ele possa retirar 90 dias depois. Ent\u00e3o, se o NOVO e o Cidadania, de fato, t\u00eam interesse no trabalhador, a oportunidade de votar \u00e9 agora.\r\nO PDT vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=328&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T22:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O SUPERIOR, MEDICINA, CI\u00caNCIAS DA SA\u00daDE, FACULDADE, ABERTURA, DIFICULDADE.\r\nMPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE, CRIT\u00c9RIO, MINIST\u00c9RIO DA SA\u00daDE, SERVIDOR P\u00daBLICO CEDIDO, AG\u00caNCIA PARA O DESENVOLVIMENTO DA ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE (ADAPS), APROVA\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Dificuldades para a abertura de novas Faculdades de Medicina no Brasil. Congratula\u00e7\u00f5es \u00e0 Casa pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria come\u00e7ar cumprimentando os nossos Deputados e as nossas Deputadas pela coragem que tiveram de enfrentar esse monop\u00f3lio, essa m\u00e1fia que foi criada pela classe m\u00e9dica, que n\u00e3o permite a abertura de novas faculdades, de novas universidades de medicina aqui no Brasil. Por incr\u00edvel que pare\u00e7a, Sr. Presidente, n\u00f3s temos em vestibular de medicina, \u00e0s vezes, 200, 300, at\u00e9 400 alunos para uma \u00fanica vaga! H\u00e1 tantos alunos com o sonho de ser m\u00e9dico que j\u00e1 prestaram um, dois, tr\u00eas, quatro, dez vestibulares, e n\u00e3o conseguem entrar numa faculdade de medicina. E o que ocorre quando entram? Foi dito aqui que o pre\u00e7o m\u00e9dio \u00e9 7.500 reais, mas n\u00e3o \u00e9. O pre\u00e7o \u00e9 muito maior. Ningu\u00e9m faz medicina pagando menos de 12 mil reais, at\u00e9 pelo custo de manuten\u00e7\u00e3o, de compra de equipamentos e de material escolar.\r\nOra, Sr. Presidente, percebendo isso, percebendo essa dificuldade de tantos brasileiros, que n\u00e3o conseguem realizar seus sonhos, os nossos pa\u00edses vizinhos come\u00e7aram a fazer faculdades e universidades. Todos os pa\u00edses que confrontam com o Brasil, como a Argentina, o Uruguai, o Paraguai e a Bol\u00edvia, fizeram. \r\nNo Mato Grosso do Sul, onde eu moro, localiza-se Ponta Por\u00e3. Do outro lado, fica Juan Caballero, que tem nove faculdades de medicina. Tem nove faculdades de medicina essa cidade pequena! E a maioria da sua popula\u00e7\u00e3o hoje \u00e9 de alunos de medicina, brasileiros que n\u00e3o conseguem fazer faculdade de medicina aqui e v\u00e3o para o outro lado. Os nossos filhos, os nossos sobrinhos, os nossos netos, todos est\u00e3o fazendo faculdade fora porque n\u00e3o conseguem passar no vestibular ou n\u00e3o conseguem pagar uma faculdade de medicina aqui no Brasil.\r\nOra, Sr. Presidente, se n\u00f3s n\u00e3o dermos oportunidade para que esses brasileiros que precisaram sair daqui para contrariar essa m\u00e1fia que est\u00e1 imposta aqui, que n\u00e3o permite a abertura de novas faculdades... N\u00f3s temos que ajud\u00e1-los! O Congresso tem que ter essa coragem que teve, tem que enfrentar esses m\u00e9dicos. N\u00e3o \u00e9 poss\u00edvel n\u00f3s sempre abaixarmos a cabe\u00e7a para eles, e eles ditarem regras para o Congresso Nacional! \r\nEu vejo uns m\u00e9dicos, alguns at\u00e9 com uma vis\u00e3o mais progressista, entenderem o que se precisa, porque eles, m\u00e9dicos, quando precisam ir para o interior. L\u00e1 no meu Estado, as cidades pequenas, muitas delas, n\u00e3o t\u00eam m\u00e9dicos. E olhem que os Prefeitos fazem de tudo! Oferecem sal\u00e1rio, oferecem programa, fazem conv\u00eanio. Eles n\u00e3o conseguem levar m\u00e9dicos para l\u00e1. Os m\u00e9dicos s\u00f3 querem trabalhar nos grandes centros, s\u00f3 querem ir aonde recebem acima de 50 mil reais por m\u00eas. Por que s\u00f3 m\u00e9dico faz isso? \"\u00c9 s\u00f3 isso?\" E n\u00f3s temos que enfrentar isso. \r\nEu sou da Oposi\u00e7\u00e3o, mas quero enaltecer o Ministro Mandetta, que teve a coragem e a determina\u00e7\u00e3o de enfrentar os pr\u00f3prios colegas dele e propor esse projeto que est\u00e1 aqui. Com esse projeto, n\u00f3s vamos dar oportunidade para aqueles brasileiros que sa\u00edram daqui, que foram estudar fora porque n\u00e3o tiveram oportunidade de ser m\u00e9dicos aqui no Brasil. N\u00f3s temos que resgat\u00e1-los, temos que lev\u00e1-los para o interior, para poder diminuir o custo da medicina aqui no Brasil.\r\nPortanto, Sr. Presidente, encerrando as minhas palavras, eu quero cumpriment\u00e1-lo, porque h\u00e1 muito tempo este debate deveria ter sido feito aqui, desde a \u00e9poca em que trouxemos os m\u00e9dicos cubanos. J\u00e1 naquele momento n\u00f3s t\u00ednhamos que ter feito este enfrentamento que fizemos hoje. N\u00e3o precisar\u00edamos ter trazido os cubanos, se n\u00f3s tiv\u00e9ssemos colocado os brasileiros para trabalhar nesses grandes centros, para onde os m\u00e9dicos n\u00e3o querem ir. N\u00e3o querem resolver o problema dessa parte da sociedade que est\u00e1 t\u00e3o longe, nesses rinc\u00f5es afastados.\r\nPortanto, Sr. Presidente, eu quero cumprimentar esta Casa. Quero cumprimentar todos os Deputados e Deputadas que tiveram a coragem de enfrentar essa m\u00e1fia branca e aprovar este projeto, t\u00e3o importante para o Brasil.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=297&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T23:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 306, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - N\u00f3s do PDT, Sr. Presidente, queremos cumprimentar este Congresso Nacional pela coragem que teve ao aprovar essa medida. N\u00f3s vamos ver o resultado no futuro: daqui para frente, n\u00f3s vamos ter muitas faculdades de medicina. Subestimaram a intelig\u00eancia dos pa\u00edses vizinhos, que fizeram as suas faculdades de Medicina.\r\nComo eu disse na minha fala, Sr. Presidente, uma cidade pequena vizinha de Ponta Por\u00e3 tem nove faculdades de medicina, e agora eles v\u00e3o ter que abrir aqui. Os brasileiros v\u00e3o fazer medicina aqui, para deixar o dinheiro aqui, gerar imposto aqui e trabalhar aqui para os nossos brasileiros. Esse vai ser o resultado da coragem que tivemos hoje.\r\nPortanto, o PDT vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=369&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-04T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 53/2020, VETO PARCIAL, MPV 890/2019, MEDIDA PROVISORIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Veto Parcial n\u00ba 53, de 2019, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019 (oriundo da MPV n\u00ba 890, de 2019), sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade (SUS), e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade (ADAPS).",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT, na sua maioria esmagadora, entende que derrubarmos este veto \u00e9 democratizarmos a medicina no Brasil. N\u00f3s n\u00e3o podemos aceitar esse n\u00famero reduzido de faculdade. H\u00e1 entre 300 a 400 aluninhos disputando uma \u00fanica vaga. E aquele que passa tem que pagar em torno de 10 mil reais por m\u00eas para a faculdade de medicina. N\u00e3o tem cabimento isso! N\u00f3s temos que dar a esses brasileiros que est\u00e3o fora o direito de voltar e trabalhar no Brasil. L\u00e1 eles est\u00e3o pagando de 1.000 a 1.500 reais por m\u00eas, enquanto aqui se cobram 10 mil reais. E l\u00e1 n\u00e3o h\u00e1 a disputa que h\u00e1 aqui. Esse \u00e9 um gesto democr\u00e1tico.\r\nEm todo caso, vamos liberar a nossa bancada, porque temos alguns m\u00e9dicos que podem votar contra essa orienta\u00e7\u00e3o que estamos dando, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=183&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T13:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 12, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente!\r\n\tSra. Presidente, eu queria neste momento falar aos Deputados e Deputadas que nos assistem n\u00e3o s\u00f3 como Deputado desta Casa, mas tamb\u00e9m como ex-Presidente do DETRAN que fui por 4 anos aqui no Mato Grosso do Sul.\r\n\tEsta mat\u00e9ria \u00e9 muito importante. O art. 147 do C\u00f3digo de Tr\u00e2nsito diz que os exames devem ser realizados pelo \u00f3rg\u00e3o executivo de tr\u00e2nsito. Quando o C\u00f3digo responsabiliza os DETRANs, responsabiliza solidariamente m\u00e9dicos e psic\u00f3logos que devem examinar a aptid\u00e3o f\u00edsica e mental. E esses m\u00e9dicos e psic\u00f3logos t\u00eam que ter especialidade em Medicina do Tr\u00e1fego, conferida pelo Conselho, ou seja, t\u00eam de ser peritos para poderem fazer esses exames. Eles avaliam a agressividade do sujeito, se \u00e9 viciado em bebidas alco\u00f3licas ou drogas, a aten\u00e7\u00e3o concentrada, a aten\u00e7\u00e3o l\u00f3gica, a percep\u00e7\u00e3o, a rea\u00e7\u00e3o, a motricidade; avaliam tamb\u00e9m se tem esquizofrenia, cujos sintomas come\u00e7am a aparecer aos 18 anos. Esses profissionais precisam ter equipamentos em seus gabinetes para poderem fazer esses exames, que n\u00e3o podem ser feitos por qualquer psic\u00f3logo ou por qualquer m\u00e9dico, porque nem todos t\u00eam essa forma\u00e7\u00e3o em Medicina do Tr\u00e1fego e nem todos t\u00eam esses equipamentos. Portanto, o credenciamento \u00e9 fundamental, para que n\u00e3o se d\u00ea uma arma na m\u00e3o de pessoas que n\u00e3o est\u00e3o autorizadas. Isso seria um retrocesso.\r\nAntigamente, aconteciam muitos acidentes de tr\u00e2nsito porque as pessoas chegavam com laudos e avalia\u00e7\u00f5es que foram dados por amigos, por parentes, mesmo tendo defici\u00eancia visual, ps\u00edquica ou at\u00e9 f\u00edsica. Com essa quest\u00e3o f\u00edsica, \u00e9 necess\u00e1rio indicar qual \u00e9 o tipo de ve\u00edculo que a pessoa pode usar e qual \u00e9 a capacidade que ela tem de conduzir esse determinado ve\u00edculo. Isso n\u00e3o pode ser feito por qualquer pessoa, principalmente na primeira habilita\u00e7\u00e3o, mas tamb\u00e9m na renova\u00e7\u00e3o.\r\n\tTudo bem, existe o direito universal da acessibilidade, mas essa acessibilidade tem de ser dada com responsabilidade. Por exemplo, \u00e0s pessoas que foram penalizadas pelo Conselho, como ser\u00e1 aplicada a pena? Isso tem que ser avaliado por pessoas peritas, que saber\u00e3o que tipo de pena deve ser imposta. Sra. Presidente, abrir para qualquer psic\u00f3logo e para qualquer m\u00e9dico a possibilidade de dar esse parecer \u00e9 voltar 40 anos atr\u00e1s. Quando colocamos isso no C\u00f3digo de Tr\u00e2nsito, quando n\u00f3s votamos, \u00e9 porque havia uns DETRANs que faziam de uma forma e outros que faziam de outra forma. \r\nN\u00f3s fizemos v\u00e1rios debates na Comiss\u00e3o - eu estava na Casa. Esses debates demonstraram o \u00edndice de acidentes e o \u00edndice de atestados falsos, ou atestados n\u00e3o propriamente falsos, mas concedidos por pessoas que n\u00e3o tinham condi\u00e7\u00f5es de fazer esses exames.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - Pe\u00e7o que conclua, Deputado.\r\nO SR. DAGOBERTO NOGUEIRA (PDT - MS) - E com isso quantos acidentes foram provocados? N\u00f3s inclu\u00edmos no C\u00f3digo a obriga\u00e7\u00e3o, para todos os DETRANs, de credenciamento para m\u00e9dicos e psic\u00f3logos.\r\nA SRA. PRESIDENTE (Soraya Santos. Bloco/PL - RJ) - Obrigada, Deputado.\r\nO SR. DAGOBERTO NOGUEIRA (PDT - MS) - Votar contra isso \u00e9 um retrocesso, \u00e9 dar uma arma para quem n\u00e3o podermos dar, quando mais de 40 milh\u00f5es de pessoas morrem todos os anos no tr\u00e2nsito.\r\nEra esse o apelo que queria fazer a esta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T13:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 12, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quanto a essa quest\u00e3o de liberar para que qualquer psic\u00f3logo e qualquer m\u00e9dico possam dar esses atestados, tenho a dizer que, al\u00e9m de poderem ser falsos esses atestados - o que criou tanto problema no passado - , os equipamentos necess\u00e1rios hoje t\u00eam um alto custo, \u00e9 muito caro t\u00ea-los.\r\nNenhum m\u00e9dico e nenhum psic\u00f3logo v\u00e3o comprar equipamentos para atender uma pessoa aqui e outra acol\u00e1. Se n\u00e3o houver orienta\u00e7\u00e3o do pr\u00f3prio DETRAN, que tem um n\u00famero razo\u00e1vel de atendimentos, o profissional n\u00e3o vai comprar. Se o m\u00e9dico n\u00e3o tiver esses equipamentos, como medir\u00e1 a agressividade, o n\u00edvel de v\u00edcio em drogas e em \u00e1lcool, a aten\u00e7\u00e3o concentrada, a aten\u00e7\u00e3o l\u00f3gica, a percep\u00e7\u00e3o, a rea\u00e7\u00e3o?\r\n Para usar esses equipamentos, \u00e9 preciso haver uma pessoa especializada, acima de tudo, e com f\u00e9 p\u00fablica. O DETRAN tem que estar presente e fazer o credenciamento. \u00c9 ele que vai dar a autoriza\u00e7\u00e3o para m\u00e9dicos e psic\u00f3logos. E a pessoa n\u00e3o pode ter o direito de escolher, para n\u00e3o acontecer o que o meu colega antecessor acabou de falar.\r\n\u00c9 uma loucura o que se est\u00e1 pretendendo. Estamos voltando mais de 40 anos. Isso est\u00e1 no C\u00f3digo de Tr\u00e2nsito Brasileiro. H\u00e1 um consenso. Todos os DETRANs fazem o credenciamento. Tanto isso ocorre que consta no art. 147 do C\u00f3digo de Tr\u00e2nsito Brasileiro que os exames devem ser realizados pelo \u00f3rg\u00e3o executivo de tr\u00e2nsito. A responsabilidade \u00e9 do \u00f3rg\u00e3o executivo de tr\u00e2nsito!\r\nPortanto, n\u00e3o \u00e9 verdade que o exame pode ser feito por qualquer pessoa, como ele est\u00e1 propondo hoje. Tanto isso ocorre que ele est\u00e1 propondo mudan\u00e7a.\r\nTemos que votar a favor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-18T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 33/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 958/2020, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 3\u00b0 do Projeto de Lei de Convers\u00e3o n\u00ba 33, de 2020, da Medida Provis\u00f3ria n\u00ba 958, de 2020, relativa ao estabelecimento de normas de facilita\u00e7\u00e3o do acesso ao cr\u00e9dito, e mitiga\u00e7\u00e3o dos impactos econ\u00f4micos decorrentes da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Sem revis\u00e3o do orador.) - Sr. Presidente, apresentamos a proposta de supress\u00e3o desse art. 3\u00ba em fun\u00e7\u00e3o de ele ser um artigo que, al\u00e9m de antirregimental, \u00e9 inconstitucional e in\u00f3cuo. Eu explicarei rapidamente o porqu\u00ea.\r\nO STF j\u00e1 julgou a ADI n\u00b0 5.127, que declara inconstitucional esse tipo de mat\u00e9ria. Esse julgamento tamb\u00e9m se baseou nos termos do art. 155, par\u00e1grafo \u00fanico, e do art. 125 do nosso Regimento Interno. Portanto, o artigo \u00e9 antirregimental e inconstitucional.\r\nAl\u00e9m disso, a redu\u00e7\u00e3o esperada pelo agroneg\u00f3cio j\u00e1 foi atendida, ou seja, j\u00e1 foi alcan\u00e7ada na derrubada do veto presidencial relativo ao art. 56 da Lei n\u00ba 13.986, de 2020, que justamente limita os valores de custos cartoriais. Naquela \u00e9poca, a bancada ruralista fez um trabalho muito grande e conseguiu derrubar o veto do Presidente. Portanto, \u00e9 in\u00f3cuo esse artigo 3\u00ba e, al\u00e9m disso, ainda \u00e9 inconstitucional e antirregimental, como eu disse.\r\nPortanto, eu espero que os nobres pares rejeitem esse art. 3\u00ba e votem pela aprova\u00e7\u00e3o da nossa emenda supressiva.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F8%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5043/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DA CRIAN\u00c7A E DO ADOLESCENTE (ECA), OBRIGATORIEDADE, TESTE DO PEZINHO AMPLIADO, DIAGN\u00d3STICO PRECOCE, DETEC\u00c7\u00c3O , DOEN\u00c7A, REC\u00c9M-NASCIDO.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Relev\u00e2ncia do Projeto de Lei n\u00ba 5.043, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.069, de 1990, com vista \u00e0 realiza\u00e7\u00e3o do teste do pezinho ampliado. Import\u00e2ncia de aprova\u00e7\u00e3o da propositura para a redu\u00e7\u00e3o de despesas do Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, esse projeto \u00e9 muito importante. Estou vendo a preocupa\u00e7\u00e3o dos nossos pares com a quest\u00e3o do aumento de custo, mas, ao contr\u00e1rio, o teste vai custar entre 67 reais e 90 reais, dependendo do Estado. No entanto, se os rec\u00e9m-nascidos n\u00e3o forem cuidados precocemente, essas doen\u00e7as depois v\u00e3o exigir que essas crian\u00e7as voltem todos os meses ao SUS, a vida toda. Ent\u00e3o, o teste representa uma economia monstruosa para o SUS. Aprovar esse projeto n\u00e3o \u00e9 despesa. Ele salva vidas. Eu posso garantir isso, porque conversei com muitos m\u00e9dicos, conversei com os laborat\u00f3rios e conversei com muitos hospitais, e todos eles disseram que o teste representa, como j\u00e1 disse, uma economia muito grande para o SUS, al\u00e9m de salvar vidas.\r\nEra isso, Sr. Presidente. Muito obrigado pela aten\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-23T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, PL 5043/2020, PROJETO DE LEI ORDINARIA, FAVORAVEL.",
+        "nomeDeputado": "Dagoberto Nogueira",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.043, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.069, de 1990 (Estatuto da Crian\u00e7a e do Adolescente), com vista ao aperfei\u00e7oamento do Programa Nacional de Triagem Neonatal - PNTN, (teste do pezinho ampliado).",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DAGOBERTO NOGUEIRA (PDT - MS. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, \u00e9 uma honra muito grande defender este projeto, que n\u00e3o saiu s\u00f3 de minhas m\u00e3os, pois ouvi muitas entidades, muitas pessoas.\r\nEste projeto prop\u00f5e alterar o Estatuto da Crian\u00e7a e do Adolescente. Hoje a triagem neonatal, mais conhecida como teste do pezinho, abrange apenas 6 doen\u00e7as. Estamos propondo que esse teste alcance mais de 50 doen\u00e7as. Atualmente, temos a ci\u00eancia e a tecnologia dispon\u00edveis. No passado, isso j\u00e1 foi muito caro, mas esses testes foram ficando cada vez mais baratos e est\u00e3o acess\u00edveis em praticamente todos os Estados do Pa\u00eds.\r\nEu tenho certeza de que os Parlamentares v\u00e3o aprovar este projeto sobre o procedimento que detecta doen\u00e7as cr\u00f4nicas, gen\u00e9ticas e at\u00e9 incur\u00e1veis, cujo diagn\u00f3stico precoce aumenta muito a chance do rec\u00e9m-nascido de ter uma vida normal. \r\nEu fiquei muito comovido com a hist\u00f3ria da jornalista Larissa Carvalho, m\u00e3e do Th\u00e9o. Eu a vi em um programa de televis\u00e3o, inclusive colhendo assinaturas, mais de 500 mil assinaturas, para apresentar um projeto semelhante a esse nosso, para que se estendesse o teste do pezinho. Ela usou uma frase que mexeu muito com o Pa\u00eds inteiro. Normalmente, sempre pedimos \u00e0s m\u00e3es que deem o leite materno. No entanto, neste caso, o Th\u00e9o tem alergia ao leite materno. Ela falou para essa entrevistadora: \"Eu matava os neur\u00f4nios do meu filho a cada mamada que eu dava\". Essa crian\u00e7a ficou sindr\u00f4mica. Se ela tivesse feito o teste do pezinho com anteced\u00eancia, precocemente; se houvesse a possibilidade que estamos criando hoje; bastaria ela dar o leite comum, esse vendido em caixinha, em latinha, que cont\u00eam os minerais, as vitaminas, todos os nutrientes. Essa crian\u00e7a teria uma vida normal e estaria hoje sem sequelas. Por falta disso, vejam a consequ\u00eancia para o Th\u00e9o. \r\nPor isso, eu propus este projeto.\r\nMuitos Deputados est\u00e3o preocupados com o custo. Eu quero dizer que o custo \u00e9 baixo, \u00e9 barato. Em alguns lugares, custa 67 reais, podendo chegar a at\u00e9 180 reais. \u00c9 esse o custo desses outros testes, al\u00e9m dos seis realizados pelo SUS hoje. Esse valor \u00e9 \u00ednfimo.\r\nO SR. PRESIDENTE (Eduardo Bismarck. PDT - CE) - Pe\u00e7o a V.Exa. que conclua, Deputado Dagoberto.\r\nO SR. DAGOBERTO NOGUEIRA (PDT - MS) - Eu sou o Autor, Presidente. Pe\u00e7o que me d\u00ea mais 1 minuto s\u00f3.\r\nO SR. PRESIDENTE (Eduardo Bismarck. PDT - CE) - Darei 1 minuto para V.Exa. concluir.\r\nEu gostaria de ouvir mais V.Exa., mas n\u00f3s temos o tempo da sess\u00e3o.\r\nO SR. DAGOBERTO NOGUEIRA (PDT - MS) - Esse valor \u00e9 \u00ednfimo. Se n\u00f3s levarmos em conta as consultas, os exames, as interna\u00e7\u00f5es, h\u00e1 um custo muito maior para o SUS se n\u00e3o forem detectadas essas doen\u00e7as.\r\nEu quero registrar tamb\u00e9m que essas entidades que apoiaram o nosso projeto tiveram uma conversa com Michelle Bolsonaro. Estava presente tamb\u00e9m a Deputada Carla Zambelli. N\u00e3o sei se ela est\u00e1 no plen\u00e1rio para confirmar isso. Michelle Bolsonaro se comprometeu a ajudar, tanto \u00e9 que, depois disso, o pr\u00f3prio Minist\u00e9rio abriu as portas e nos ajudou.\r\nEu quero terminar a minha fala fazendo uma homenagem \u00e0 Relatora, a Deputada Marina Santos, que fez um trabalho bel\u00edssimo, que ouviu todo o mundo. Quantas vezes ela foi ao Minist\u00e9rio at\u00e9 acertar esse substitutivo que apresentou!\r\nN\u00f3s vamos aprovar um projeto muito importante para os rec\u00e9m-nascidos, para as m\u00e3es, para os pais, para o Pa\u00eds. Isso vai gerar uma economia muito grande para o Brasil. N\u00f3s tamb\u00e9m temos que usar aquilo que n\u00f3s temos dispon\u00edvel em favor da vida.\r\nPortanto, eu pe\u00e7o aos meus pares a aprova\u00e7\u00e3o do nosso projeto.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2021&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

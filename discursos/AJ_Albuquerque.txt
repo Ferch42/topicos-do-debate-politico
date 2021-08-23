@@ -1,0 +1,56 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-12T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "VICENTE ARRUDA, EX-DEPUTADO FEDERAL, FALECIMENTO, PESAMES.",
+        "nomeDeputado": "AJ Albuquerque",
+        "sumario": "Falecimento do ex-Deputado Federal Vicente Arruda.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. AJ ALBUQUERQUE (Bloco/PP - CE. Sem revis\u00e3o do orador.) - Sr. Presidente, quero deixar os meus sentimentos \u00e0 fam\u00edlia Arruda pelo falecimento do ex-Deputado Federal Vicente Arruda, que trabalhou nesta Casa durante seis mandatos consecutivos, pelo povo cearense, principalmente pelo povo querido da sua terra, Granja. Deixo meus sentimentos tamb\u00e9m aos seus sobrinhos, o Deputado Estadual Romeu Aldigueri e ao ex-Deputado Estadual Gony Arruda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F11%2F2019&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SINDICATO, CONSTRU\u00c7\u00c3O CIVIL, CEARA, PATRIOLINO DIAS. , PRESIDENTE, HOMENAGEM.",
+        "nomeDeputado": "AJ Albuquerque",
+        "sumario": "Congratula\u00e7\u00f5es aos membros da diretoria rec\u00e9m-empossada do Sindicato da Ind\u00fastria da Constru\u00e7\u00e3o Civil do Estado do Cear\u00e1 - SINDUSCON/CE, especialmente ao presidente da entidade, Patriolino Dias.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. AJ ALBUQUERQUE (Bloco/PP - CE. Sem revis\u00e3o do orador.) - Sr. Presidente, eu venho aqui hoje para parabenizar o SINDUSCON do meu querido Estado do Cear\u00e1 pela posse da sua nova Diretoria, em especial do seu Presidente, o jovem empres\u00e1rio Patriolino Dias, que, tenho certeza, pela sua hist\u00f3ria, pelo seu dinamismo, ir\u00e1 contribuir, e muito, para o desenvolvimento econ\u00f4mico e social do meu Estado.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, MPV 930/2020, MEDIDA PROVIS\u00d3RIA, TRIBUTA\u00c7\u00c3O, VARIA\u00c7\u00c3O CAMBIAL, OPERA\u00c7\u00c3O DE COBERTURA (HEDGE), INVESTIMENTO, EXTERIOR, PROTE\u00c7\u00c3O LEGAL, EXERC\u00cdCIO, ATRIBUI\u00c7\u00c3O, DIRETORIA COLEGIADA, SERVIDOR P\u00daBLICO, BANCO CENTRAL DO BRASIL (BACEN), CRISE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "AJ Albuquerque",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Medida Provis\u00f3ria n\u00ba 930, de 2020, a respeito do tratamento tribut\u00e1rio incidente sobre a varia\u00e7\u00e3o cambial do valor de investimento, realizado por institui\u00e7\u00f5es financeiras e pelas demais institui\u00e7\u00f5es autorizadas pelo Banco Central do Brasil, em sociedade controlada, coligada, filial, sucursal ou ag\u00eancia domiciliada no exterior; e da altera\u00e7\u00e3o das Leis de n\u00bas 12.865, de 2013, e 12.249, de 2010; e \u00e0s Emendas de n\u00bas 1 a 43 apresentadas conforme o caput do art. 3\u00ba do Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. AJ ALBUQUERQUE (Bloco/PP - CE. Para proferir parecer. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, a Medida Provis\u00f3ria n\u00ba 930, de 2020, \"disp\u00f5e sobre o tratamento tribut\u00e1rio incidente sobre a varia\u00e7\u00e3o cambial do valor de investimentos realizados por institui\u00e7\u00f5es financeiras e demais institui\u00e7\u00f5es autorizadas a funcionar pelo Banco Central do Brasil em sociedade controlada domiciliada no exterior e sobre a prote\u00e7\u00e3o legal oferecida aos integrantes do Banco Central do Brasil no exerc\u00edcio de suas atribui\u00e7\u00f5es e altera a Lei n\u00ba 12.865, de 9 de outubro de 2013, que disp\u00f5e, dentre outras mat\u00e9rias, sobre os arranjos de pagamento e sobre as institui\u00e7\u00f5es de pagamento integrantes do Sistema de Pagamentos Brasileiro.\"\r\nPreliminarmente, declaramos que restou prejudicada a aprecia\u00e7\u00e3o do Cap\u00edtulo II da presente medida provis\u00f3ria, bem como todas as emendas a ele dirigidas, em virtude da sua posterior revoga\u00e7\u00e3o pela MP 951/2020.\r\nO parecer em sua integralidade foi disponibilizado no sistema da Casa, de modo que vou diretamente \u00e0 conclus\u00e3o do voto.\r\n\"Ante o exposto, pela Comiss\u00e3o Mista, votamos:\r\n1) quanto \u00e0 admissibilidade, pelo atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia da Medida Provis\u00f3ria n\u00ba 930, de 2020;\r\n2) pela inconstitucionalidade das Emendas n\u00bas 5 a 8 e 14;\r\n3) pela inadequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria das Emendas n\u00bas 5 a 8, 12, 17 e 23; pela n\u00e3o implica\u00e7\u00e3o das Emendas n\u00bas 1 a 4, 9, 10, 11, 13, 16, 18, 19, 20, 21, 22, 24 a 43 em aumento ou diminui\u00e7\u00e3o da receita ou da despesa p\u00fablicas, n\u00e3o cabendo pronunciamento quanto \u00e0 adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria; e pela adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, constitucionalidade, juridicidade e boa t\u00e9cnica legislativa da Medida Provis\u00f3ria n\u00ba 930, de 2020, e das Emendas n\u00bas 14 e 15;\r\n4) quanto ao m\u00e9rito, pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 930, de 2020, e das Emendas n\u00bas 10, 18, 20, 21 e 42, acolhidas parcialmente ou integralmente, na forma do Projeto de Lei de Convers\u00e3o a seguir apresentado, e pela rejei\u00e7\u00e3o das demais emendas.\"\r\nNestes termos, registro o meu voto.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,776 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-07T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "INTERDI\u00c7\u00c3O, BR-364, RODOVIA FEDERAL, ROND\u00d4NIA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Solicita\u00e7\u00e3o ao Departamento Nacional de Tr\u00e2nsito  - DETRAN  de ado\u00e7\u00e3o de provid\u00eancias diante da interdi\u00e7\u00e3o da BR-364.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, eu gostaria de utilizar a palavra neste momento para dizer aos meus nobres companheiros que infelizmente o inverno amaz\u00f4nico causou uma interdi\u00e7\u00e3o na BR-364, uma importante via, n\u00e3o somente para o Estado de Rond\u00f4nia, mas tamb\u00e9m para toda a Regi\u00e3o Norte. \r\nEu estive h\u00e1 poucos instantes com o General Ant\u00f4nio Filho, do DETRAN, que prontamente nos atendeu. E fico muito feliz, pela maneira como n\u00f3s somos cobrados, com o fato de ele ter nos garantido que j\u00e1 tomou a iniciativa de levar ao local uma equipe do DNIT e das empresas contratadas, que j\u00e1 est\u00e3o l\u00e1. Ele tamb\u00e9m j\u00e1 autorizou o Ex\u00e9rcito a tomar provid\u00eancias, caso necess\u00e1rio. Essa rodovia, que tem mais de 20 anos, n\u00e3o passa por modifica\u00e7\u00f5es, que j\u00e1 deveriam ter acontecido, al\u00e9m de precisar de uma duplica\u00e7\u00e3o.\r\nHoje a interdi\u00e7\u00e3o daquela rodovia criou um caos no Estado de Rond\u00f4nia, atingindo tamb\u00e9m o Acre, o Amazonas, a cidade de Manaus. Mas fico feliz, porque o trabalho j\u00e1 foi iniciado, e n\u00f3s estamos atentos para que essa solu\u00e7\u00e3o seja muito...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2019&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-19T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta Projeto de Lei Complementar n\u00ba 441, de 2017, sobre os cadastros positivos de cr\u00e9dito e a responsabilidade civil do operadores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, n\u00f3s do PDT somos favor\u00e1veis \u00e0 retirada do projeto da pauta porque entendemos que o cadastro positivo n\u00e3o tem nada de positivo.\r\nN\u00f3s somos contr\u00e1rios a este projeto. Por isso, votamos a favor de sua retirada da pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2019&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "SILVIA CRISTINA, DEPUTADA FEDERAL, ORADORA, ELEI\u00c7\u00c3O, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), ROND\u00d4NIA, AGRADECIMENTO, PLATAFORMA POL\u00cdTICA.\r\nSILVIA CRISTINA, DEPUTADA FEDERAL, ORADORA, M\u00c3E, HOMENAGEM.\r\nFRENTE PARLAMENTAR MISTA DE LUTA CONTRA O C\u00c2NCER, CRIA\u00c7\u00c3O.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Agradecimento ao PDT e \u00e0 popula\u00e7\u00e3o do Estado de Rond\u00f4nia pela elei\u00e7\u00e3o da oradora. Homenagem \u00e0 genitora da Parlamentar. Agradecimento a Parlamentares pela ades\u00e3o \u00e0 proposta de cria\u00e7\u00e3o da Frente Parlamentar Mista de Luta contra o C\u00e2ncer. Prioridades da atua\u00e7\u00e3o da oradora no exerc\u00edcio do mandato parlamentar.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Como L\u00edder. Sem revis\u00e3o da oradora.) - Nobre Sra. Presidente, que muito nos orgulha na bancada feminina, nobres pares que aqui est\u00e3o, quero fazer uma breve apresenta\u00e7\u00e3o.\r\nEsta \u00e9 a primeira oportunidade que tenho para me pronunciar em meu primeiro mandato nesta Casa. Sou natural de Linhares, no Esp\u00edrito Santo, mas o mandato quem me deu foi o povo de Rond\u00f4nia. Sou da cidade de Ji-Paran\u00e1, na regi\u00e3o central, a segunda cidade do Estado de Rond\u00f4nia. Da mesma maneira que me abra\u00e7ou, Rond\u00f4nia abra\u00e7ou muitos imigrantes por l\u00e1, que tamb\u00e9m escolheram o Estado como sua casa: paranaenses, nordestinos, capixabas, enfim. Esse Estado realmente tem abra\u00e7ado o povo de todo o Brasil. Estou muito feliz por estar aqui. O Estado de Rond\u00f4nia segue firme para ter uma representatividade aqui nesta Casa.\r\nFa\u00e7o um agradecimento tamb\u00e9m, sem d\u00favida, ao Partido Democr\u00e1tico Trabalhista - PDT, do qual fa\u00e7o parte desde quando iniciei minha carreira pol\u00edtica. Eu vim da C\u00e2mara Legislativa de Vereadores da cidade de Ji-Paran\u00e1. \r\nFa\u00e7o uma breve homenagem a D. Alzerita, minha m\u00e3e, uma cozinheira e uma lavadeira de roupas que entendeu que realmente tinha que trabalhar bastante para dar educa\u00e7\u00e3o \u00e0s suas duas filhas, porque ela percebeu que s\u00f3 atrav\u00e9s da educa\u00e7\u00e3o poderia fazer com que suas filhas tivessem uma vida diferente daquela que ela havia tido. Minha eterna gratid\u00e3o \u00e0 minha m\u00e3e, que fez isso com muito zelo. Com certeza, ela se orgulha de que eu esteja aqui representando todo o Brasil.\r\nDe fato utilizo esta tribuna para agradecer a todos os quase 300 Parlamentares que assinaram, que aderiram a uma frente parlamentar da qual sou autora, a Frente Parlamentar Mista de Luta Contra o C\u00e2ncer. Justificarei por que entrei nesta Casa e j\u00e1 na primeira semana recolhi essas assinaturas para estar no comando dessa frente parlamentar. No auge da carreira, em 2006, fui acometida por um c\u00e2ncer de mama. Eu sofri na pele o que \u00e9 ser mutilada, perder uma mama e estar num Estado que n\u00e3o oferecia o tratamento adequado para uma doen\u00e7a que tem matado todos os dias. Todos os dias s\u00e3o diagnosticados novos casos dessa doen\u00e7a. \r\nN\u00f3s t\u00ednhamos uma \u00fanica m\u00e1quina de radioterapia, e, pasmem, essa m\u00e1quina ficava mais quebrada do que funcionando. Eu sobrevivi e estou aqui. Eu iniciei esse trabalho de luta na C\u00e2mara de Vereadores de Ji-Paran\u00e1, e aqui, nesta Casa de leis, aqui no Distrito Federal, com certeza com toda esta Casa, n\u00e3o somente com aqueles que aderiram \u00e0 nossa frente parlamentar, n\u00f3s estaremos falando de maneira muito clara para que possamos ser ouvidos aqui, especialmente pela sa\u00fade. Eu penso e defendo que quando n\u00f3s temos algu\u00e9m da nossa fam\u00edlia sofrendo e, \u00e9 claro, do nosso povo, infelizmente, por uma sa\u00fade que ainda precisa ser melhorada, isso bate muito no cora\u00e7\u00e3o. E n\u00f3s estamos aqui para poder lutar fielmente por esse povo que sofre nos hospitais, necessitando de um tratamento digno. N\u00f3s estamos aqui para representar esse povo.\r\nO meu compromisso, com certeza, \u00e0 frente de uma legislatura a qual o PDT, o Partido Democr\u00e1tico Trabalhista, nos deu, \u00e9 de realmente trabalhar para as pessoas, at\u00e9 porque foram essas pessoas que permitiram esse mandato, para o qual recebi 33.038 votos.\r\nEnt\u00e3o, o nosso compromisso aqui \u00e9 de lutar especialmente pela sa\u00fade, mas tamb\u00e9m por todas as \u00e1reas.\r\nEstaremos juntas, \u00e9 claro, Sra. Presidente, que muito nos orgulha \u00e0 Frente da Bancada Feminina, para fazer realmente um trabalho muito grande, com mulheres e homens que aqui est\u00e3o.\r\nDeixo o meu agradecimento ao povo de Rond\u00f4nia, que escolheu uma mulher negra, com certeza, determinada para fazer um trabalho diferente, para ser voz e vez daquelas pessoas que realmente precisam ser ouvidas e para fazer a diferen\u00e7a.\r\nMuito obrigada. Que Deus nos aben\u00e7oe nessa grande caminhada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQ 500/2019, REQUERIMENTO, COMISS\u00c3O EXTERNA,  VIOL\u00caNCIA DOM\u00c9STICA, VIOLENCIA CONTRA A MULHER, FEMINIC\u00cdDIO, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento n\u00ba 500, de 2019, sobre a instala\u00e7\u00e3o de Comiss\u00e3o Tempor\u00e1ria Externa destinada ao acompanhamento de casos de viol\u00eancia dom\u00e9stica contra a mulher e de feminic\u00eddios no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Obrigada. E parab\u00e9ns! Eu n\u00e3o quero ser repetitiva, mas a senhora nos representa. A senhora nem imagina o quanto a bancada feminina se alegra em t\u00ea-la aqui. Parabenizo tamb\u00e9m a nossa colega Deputada Fl\u00e1via Arruda.\r\nE, \u00e9 claro, n\u00f3s orientamos \"sim\", porque sabemos que temos realmente que combater o feminic\u00eddio, que tem feito muitas v\u00edtimas, s\u00f3 pelo fato de estas serem mulheres. Ent\u00e3o, n\u00f3s defendemos a mat\u00e9ria. O PDT vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA MUNDIAL DA DOEN\u00c7A RARA, SESS\u00c3O SOLENE, FRENTE PARLAMENTAR DE DOEN\u00c7AS RARAS, RECURSOS OR\u00c7AMENT\u00c1RIOS, PESQUISA CIENT\u00cdFICA, PLANO DE SA\u00daDE, TRATAMENTO M\u00c9DICO, SA\u00daDE P\u00daBLICA, DIEGO GARCIA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, COOPERA\u00c7\u00c3O POL\u00cdTICA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Diego Garcia pela iniciativa da realiza\u00e7\u00e3o da sess\u00e3o solene, destinada ao debate de doen\u00e7as raras e pelo lan\u00e7amento de frente parlamentar relativa ao tema. Necessidade de apoio do Parlamento brasileiro \u00e0 pesquisa e ao tratamento de doen\u00e7as raras.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Como L\u00edder. Sem revis\u00e3o da oradora.) - Presidente Geovania, demais Parlamentares, a sess\u00e3o solene que tivemos ocorreu de maneira muito r\u00e1pida e muito gostosa. Quero parabenizar nosso companheiro Deputado Diego Garcia pela iniciativa de se comemorar este dia, mas com a\u00e7\u00f5es, inclusive com o lan\u00e7amento, o que est\u00e1 acontecendo neste momento, de frente parlamentar que vai tratar do combate \u00e0s doen\u00e7as raras.\r\nHoje n\u00f3s vimos aqui realmente uma sess\u00e3o diferente, uma sess\u00e3o de muita emo\u00e7\u00e3o, na qual n\u00f3s tivemos a presen\u00e7a de crian\u00e7as, adolescentes, adultos. Estavam presentes pessoas que, quando descobrem sua doen\u00e7a, na maioria das vezes, o especialista m\u00e9dico diz que elas n\u00e3o v\u00e3o viver mais. De que maneira essas pessoas vivem? De que maneira essas pessoas t\u00eam o seu dia a dia? O que n\u00f3s precisamos fazer aqui, especialmente quando n\u00f3s estamos falando a respeito de doen\u00e7as raras? Elas n\u00e3o s\u00e3o t\u00e3o raras assim. Milhares de pessoas que s\u00e3o diagnosticadas com doen\u00e7as que, na maioria das vezes, lhe d\u00e3o uma senten\u00e7a de morte.\r\nN\u00f3s, Parlamentares - h\u00e1 poucos instantes, n\u00f3s tamb\u00e9m tivemos aqui a presen\u00e7a do Ministro da Sa\u00fade, Luiz Henrique Mandetta - devemos incentivar a pesquisa, para que esse diagn\u00f3stico possa vir a acontecer de maneira mais r\u00e1pida. O diagn\u00f3stico positivo \u00e9 extremamente importante, especialmente para doen\u00e7as raras, mas, falando de uma maneira geral, para todas as doen\u00e7as. N\u00f3s que estamos aqui somos eleitos pelo povo, por pessoas, e \u00e9 para elas que n\u00f3s devemos realmente trabalhar. Precisamos incentivar a pesquisa, a destina\u00e7\u00e3o de recursos do Governos para que haja tratamento e acesso r\u00e1pido a ele.\r\nH\u00e1 poucos instantes, conversando com a Ta\u00edsa, portadora de hipertens\u00e3o intracraniana, ela contou que demorou muito tempo at\u00e9 que tivesse acesso a um pouco de aten\u00e7\u00e3o para a doen\u00e7a, que ela havia descoberto h\u00e1 alguns anos e que a havia sentenciado \u00e0 morte. Quantos e quantos outros vivem nessa condi\u00e7\u00e3o? Hoje seus representantes n\u00e3o vieram aqui \u00e0 toa: al\u00e9m de terem vindo para o lan\u00e7amento de uma frente, da qual n\u00f3s nos colocamos \u00e0 disposi\u00e7\u00e3o, vieram para serem ouvidos por esta Casa de Leis, que est\u00e1 representando todo o Brasil, e tamb\u00e9m para terem a oportunidade de serem vistos com certa diferen\u00e7a.\r\nPasmem: todas as vezes em que a maioria das pessoas que t\u00eam doen\u00e7as raras procuram seus planos de sa\u00fade, a elas s\u00e3o negados todo e qualquer tipo de tratamento. Ora, n\u00f3s n\u00e3o somos iguais? A sa\u00fade n\u00e3o tem que ser para todos? S\u00f3 porque t\u00eam doen\u00e7as raras n\u00e3o v\u00e3o ter acesso a tratamento? Em que Brasil n\u00f3s vivemos? Tamb\u00e9m nisso devemos ter igualdade: as doen\u00e7as s\u00e3o raras, mas todas as pessoas s\u00e3o especiais, e n\u00f3s, Parlamentares, devemos ter essa vis\u00e3o.\r\nEu passei pelo tratamento de uma doen\u00e7a que \u00e9 muito frequente em todo o Brasil, mas tamb\u00e9m muito temida: o c\u00e2ncer. H\u00e1 poucos instantes, o Deputado Diego Garcia falava sobre uma pessoa que sofria de uma doen\u00e7a rara e que dizia lamentar que n\u00e3o fosse c\u00e2ncer, porque o tratamento era um pouco melhor. Em seu apelo ao Parlamentar que teve e iniciativa da sess\u00e3o solene, disse que sua doen\u00e7a tamb\u00e9m era uma senten\u00e7a de morte. Ent\u00e3o, o que n\u00f3s devemos fazer a cada dia? N\u00f3s devemos cuidar das pessoas, que foram elas que nos colocaram aqui. S\u00e3o elas que precisam ser ouvidas.\r\nN\u00f3s nos colocamos \u00e0 disposi\u00e7\u00e3o desta Casa de Leis.\r\nParab\u00e9ns a todas as entidades que aqui vieram aqui. Com certeza, ao Bloco do PDT, que \u00e9 tamb\u00e9m do PCdoB, do PSOL e de outros partidos, assim como a todos os demais partidos, de direita, de esquerda, de centro, a o apelo que nos fazem \u00e9 um s\u00f3: n\u00f3s devemos cuidar de pessoas, porque foram elas que nos colocaram aqui e s\u00e3o elas que, realmente, esperam uma mudan\u00e7a.\r\nVamos em frente, para que todos tenham a oportunidade de vir aqui pedir apoio. N\u00f3s estamos aqui para trabalhar por todos.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=32&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-12T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FRENTE PARLAMENTAR MISTA EM PROL DA LUTA CONTRA O C\u00c2NCER, LAN\u00c7AMENTO.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Lan\u00e7amento da Frente Parlamentar de Luta contra o C\u00e2ncer.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, eu utilizo este minuto para convidar todos os pares para o lan\u00e7amento da Frente Parlamentar de Luta contra o C\u00e2ncer. Amanh\u00e3, dia 13, \u00e9 um dia muito importante. \u00c0s 9 horas, no Sal\u00e3o Verde desta Casa de Leis, n\u00f3s lan\u00e7aremos a Frente Parlamentar de Luta contra o C\u00e2ncer, juntamente com a Deputada Carmen Zanotto, com a Deputada Fl\u00e1via Morais, com o Deputado Dr. Frederico, com o Deputado Eduardo Braide, com o Deputado M\u00e1rio Heringer e com tantos outros, mais de 300 Deputados desta Casa que assinaram a nossa Frente Parlamentar.\r\nVamos contar com a presen\u00e7a do Grupo de Apoio ao Adolescente e \u00e0 Crian\u00e7a com C\u00e2ncer - GRAACC, do Hospital do C\u00e2ncer, do Instituto Nacional do C\u00e2ncer - INCA, do Instituto Oncoguia, do pessoal do Hospital Albert Einstein, do Hospital S\u00edrio-Liban\u00eas. Vamos fazer uma grande frente parlamentar contra essa doen\u00e7a que assola o nosso Brasil. E, com certeza, esta Casa de Leis vai estar unida. A sess\u00e3o acontecer\u00e1 \u00e0s 9 horas, mas eu convido todos os pares a darem um pulinho rapidamente no nosso Sal\u00e3o Verde, aqui na frente, \u00e0s 9 horas, para esse compromisso com todos n\u00f3s Deputados.\r\nMuito obrigada, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F3%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-14T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PDC 746/2017, PROJETO DE DECRETO LEGISLATIVO, FAVORAVEL\r\nFRENTE PARLAMENTAR, COMBATE, CANCER.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Discuss\u00e3o do Projeto de Decreto Legislativo n\u00ba 746-B, de 2017, acerca da aprova\u00e7\u00e3o do texto do Memorando de Entendimento entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo da Rep\u00fablica Federal da Alemanha sobre Programa de F\u00e9rias-Trabalho, assinado em Bras\u00edlia, em 13 de fevereiro de 2015. Cria\u00e7\u00e3o da Frente Parlamentar Mista em prol da Luta Contra o C\u00e2ncer.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Sem revis\u00e3o da oradora.) - Boa tarde a todos os companheiros que aqui est\u00e3o presentes neste plen\u00e1rio.\r\nSr. Presidente, \u00e9 de suma import\u00e2ncia o Projeto de Decreto Legislativo n\u00ba 746-B, de 2017. Toda parceria \u00e9 importante entre os pa\u00edses, neste caso, Alemanha e Brasil, para trazer desenvolvimento. N\u00f3s sabemos que a uni\u00e3o faz a for\u00e7a.\r\nSe V.Exa. me permite, n\u00e3o posso deixar de usar a tribuna neste momento para dizer da minha alegria pessoal e tamb\u00e9m parlamentar de ontem termos lan\u00e7ado a Frente Parlamentar Mista em prol da Luta contra o C\u00e2ncer ali no nosso Sal\u00e3o Verde desta Casa de Leis.\r\nN\u00f3s estamos trabalhando com v\u00e1rios Deputados. E quero mais uma vez agradecer aos quase 300 que assinaram, que fizeram ades\u00e3o a essa frente que \u00e9 t\u00e3o importante. Fa\u00e7o um agradecimento especial ao Dr. Frederico, \u00e0 Carmen Zanotto, ao Dr. Eduardo Braidee e ao Dr. M\u00e1rio Heringer que faz parte da nossa diretoria, a todos realmente que est\u00e3o sensibilizados com essa causa.\r\nN\u00f3s conseguimos, nesse feito - at\u00e9 porque a causa \u00e9 muito sens\u00edvel -, sensibilizar v\u00e1rias institui\u00e7\u00f5es respeitadas na luta contra o c\u00e2ncer. Fa\u00e7o um agradecimento ao Instituto Nacional de C\u00e2ncer - INCA, \u00e0 Associa\u00e7\u00e3o de Mulheres Mastectomizadas de Bras\u00edlia - Recome\u00e7ar, ao Instituto Oncoguia, \u00e0 ABRACE, ao Hospital dos Fornecedores de Cana de Piracicaba, ao Instituto Vencer o C\u00e2ncer, \u00e0 Associa\u00e7\u00e3o Brasileira de Linfoma e Leucemia - ABRALE, a Varian, a Roche, ao Hospital S\u00edrio Liban\u00eas, ao Hospital de Amor, antes conhecido como Hospital de C\u00e2ncer de Barretos. Todas essas institui\u00e7\u00f5es se colocaram a nossa disposi\u00e7\u00e3o, e n\u00f3s queremos realmente agradecer e lhes dizer que essa Frente Parlamentar, como disse h\u00e1 poucos instantes, com todos os Deputados que est\u00e3o em nossa diretoria, inclusive j\u00e1 em a\u00e7\u00e3o, ir\u00e1 fazer um trabalho diferenciado.\r\nJ\u00e1 registrei nossa querida Deputada Carmen Zanotto, que est\u00e1 conosco nessa Frente. Podem ter certeza de que estamos aqui para fazer a diferen\u00e7a.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F3%2F2019&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "TARIFA DE ENERGIA EL\u00c9TRICA, RONDONIA, AUMENTO, CENTRAIS EL\u00c9TRICAS DE ROND\u00d4NIA (CERON).",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Insatisfa\u00e7\u00e3o da oradora com o baixo \u00edndice de redu\u00e7\u00e3o das tarifas de energia el\u00e9trica no Estado de Rond\u00f4nia, determinado pela Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL. Solicita\u00e7\u00e3o ao Tribunal de Contas da Uni\u00e3o - TCU de realiza\u00e7\u00e3o de auditoria na empresa Eletrobr\u00e1s Distribui\u00e7\u00e3o Rond\u00f4nia - Centrais El\u00e9tricas de Rond\u00f4nia S/A - CERON.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Sem revis\u00e3o da oradora.) - Sra. Presidente, agradecendo a oportunidade da palavra, quero registrar que ontem a ANEEL homologou e divulgou uma redu\u00e7\u00e3o de 7,46% na tarifa de energia el\u00e9trica no Estado de Rond\u00f4nia, e o fez de maneira muito alegre.\r\nMas n\u00f3s do Estado de Rond\u00f4nia estamos indignados, porque logo que a CERON foi vendida em leil\u00e3o para a Energisa, n\u00f3s fomos surpreendidos, 1 m\u00eas e meio depois, com um aumento de 25% a 27% na tarifa.\r\nRond\u00f4nia produz energia, e infelizmente n\u00f3s rondonienses estamos pagando muito caro por ela. Quando a CERON foi vendida, na verdade, disseram que haveria diminui\u00e7\u00e3o de 1,70% no valor da tarifa de energia el\u00e9trica.\r\nN\u00f3s estamos participando da Comiss\u00e3o de Fiscaliza\u00e7\u00e3o Financeira e Controle e j\u00e1 solicitamos ao Tribunal de Contas da Uni\u00e3o uma auditoria, para realmente entendermos por que, num Estado que produz energia, a comunidade paga t\u00e3o caro e a economia caminha de maneira retr\u00f3grada, trazendo, infelizmente, muita dificuldade para a sua popula\u00e7\u00e3o. \r\nN\u00f3s estamos nos manifestando de maneira indignada, porque sinceramente Rond\u00f4nia n\u00e3o precisa dessa diminui\u00e7\u00e3o t\u00e3o pequena na tarifa, tendo em vista o aumento abusivo que ocorreu anteriormente no Estado.\r\nSra. Presidente, solicito que este pronunciamento seja divulgado no programa A Voz do Brasil.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 8702/2017, PROJETO DE LEI ORDIN\u00c1RIA, BLOCO PARLAMENTAR, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pela Relatora da Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Sra. Presidente, n\u00f3s mulheres - parab\u00e9ns pela sua atua\u00e7\u00e3o! - temos o dom divino de gerar. \u00c9 claro que a bancada do PDT, o Bloco do PDT \u00e9 favor\u00e1vel, vota \"sim\" a essa mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=125&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-03T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SILVIA CRISTINA, DEPUTADA FEDERAL, ORADORA, COMISS\u00c3O DE SEGURIDADE SOCIAL E FAM\u00cdLIA (CSSF), SISTEMA \u00daNICO DE SA\u00daDE (SUS), GRUPO DE TRABALHO, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nPESSOA COM DEFICI\u00caNCIA, VE\u00cdCULO, IMPOSTO SOBRE OPERA\u00c7\u00d5ES RELATIVAS \u00c0 CIRCULA\u00c7\u00c3O DE MERCADORIAS E SOBRE PRESTA\u00c7\u00d5ES DE SERVI\u00c7OS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICA\u00c7\u00c3O (ICMS), CONV\u00caNIO, ALTERA\u00c7\u00c3O, CASA CIVIL DA PRESID\u00caNCIA DA REP\u00daBLICA, ENCAMINHAMENTO.\r\nDIA MUNDIAL CONTRA O C\u00c2NCER, SESS\u00c3O SOLENE, REALIZA\u00c7\u00c3O.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Indica\u00e7\u00e3o da oradora para a relatoria do grupo de trabalho da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, destinado \u00e0 revis\u00e3o da tabela de procedimentos do Sistema \u00danico de Sa\u00fade - SUS. Encaminhamento,  ao Ministro-Chefe da Casa Civil da Presid\u00eancia da Rep\u00fablica, do Requerimento de Indica\u00e7\u00e3o n\u00ba 264, de 2019, para altera\u00e7\u00e3o do Conv\u00eanio ICMS n\u00ba 50, de 2018, a respeito da isen\u00e7\u00e3o da cobran\u00e7a do ICMS na aquisi\u00e7\u00e3o de ve\u00edculos por deficientes. Realiza\u00e7\u00e3o, pela Casa, de sess\u00e3o solene ao ensejo do transcurso do Dia Mundial de Combate ao C\u00e2ncer.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Como L\u00edder. Sem revis\u00e3o da oradora.) - Nobre Presidente, eu utilizo a tribuna nesta tarde para dizer do trabalho que estou desenvolvendo com um grupo seleto de Deputados na Comiss\u00e3o de Seguridade Social e Fam\u00edlia, na condi\u00e7\u00e3o de membro titular. Decidimos em conjunto formar um grupo de trabalho, que ser\u00e1 coordenado pelo Deputado Luizinho e relatado por mim, para fazermos a revis\u00e3o da Tabela SUS.\r\nSinto-me muito honrada em ser a Relatora do Grupo de Trabalho da Tabela SUS, porque n\u00f3s representamos o povo brasileiro e vamos falar de um assunto relevante: a sa\u00fade. Pessoas morrem todos os dias por falta de gest\u00e3o, e n\u00e3o queremos mais ouvir o tempo todo que n\u00e3o h\u00e1 dinheiro, que n\u00e3o se pode fazer melhor, que temos que aceitar as coisas como est\u00e3o. Vamos provar que, com a revis\u00e3o da Tabela SUS, \u00e9 poss\u00edvel sim fazer uma sa\u00fade justa para os brasileiros, especialmente no atendimento prestado por aquelas entidades filantr\u00f3picas, as Santas Casas, que ajudam o Governo e que vivem o tempo todo no vermelho. Precisamos cuidar das nossas pessoas.\r\nH\u00e1 poucos instantes a Deputada falava de autismo, outros falam de diabetes, outros falam de doen\u00e7as raras, n\u00f3s estamos na defesa das pessoas com c\u00e2ncer - sou a Presidente da Frente Parlamentar Mista em prol da Luta contra o C\u00e2ncer - e n\u00e3o vemos avan\u00e7o na sa\u00fade. N\u00f3s queremos fazer diferente. N\u00e3o aceitamos mais que se diga o tempo todo que n\u00e3o h\u00e1 dinheiro. O Brasil \u00e9 um pa\u00eds rico. Queremos que este Governo fa\u00e7a uma boa gest\u00e3o. E n\u00f3s, na condi\u00e7\u00e3o de Parlamentar e componente de um grupo que est\u00e1 pronto para fazer um excelente trabalho, que \u00e9 a bancada do PDT, junto com os demais companheiros aqui, vamos provar que \u00e9 poss\u00edvel sim fazer esse trabalho.\r\nSou a Relatora desse grupo de trabalho integrado por 18 Parlamentares e j\u00e1 tenho um plano de trabalho. Estou certa de que n\u00e3o somente esses 18 Parlamentares do grupo de trabalho, mas tamb\u00e9m todos os Parlamentares que aqui est\u00e3o querem uma sa\u00fade realmente diferente. \u00c9 claro que temos v\u00e1rias vertentes e s\u00e3o v\u00e1rias as pontua\u00e7\u00f5es que estamos aqui para seguir. A sa\u00fade tem que ser levada a s\u00e9rio, at\u00e9 porque quando levamos algu\u00e9m que amamos a uma unidade hospitalar, particularmente \u00e0s entidades filantr\u00f3picas, e n\u00e3o encontramos respaldo, principalmente no que se refere a recursos, realmente nos sentimos muito tristes. Estando aqui e sabendo que essa situa\u00e7\u00e3o na sa\u00fade continua, vamos trabalhar para isso mudar.\r\nMuito em breve, a partir desse plano de trabalho, vamos divulgar a\u00e7\u00f5es concretas com vistas a alcan\u00e7armos os resultados que esperamos. Com certeza, estaremos tamb\u00e9m discutindo com a sociedade e, logo depois, com o Minist\u00e9rio da Sa\u00fade para nos dar esse amparo, porque vamos mostrar em n\u00fameros, em estudo, que \u00e9 poss\u00edvel sim fazer uma sa\u00fade melhor pelo nosso Brasil.\r\nAproveito para dizer que hoje fizemos a Indica\u00e7\u00e3o n\u00ba 264, de 2019, em que sugerimos a altera\u00e7\u00e3o do Conv\u00eanio ICMS n\u00ba 50, de 5 de julho de 2018, para que seja assegurada \u00e0s pessoas com necessidades especiais a isen\u00e7\u00e3o de ICMS na compra de ve\u00edculos a cada 2 anos. Isso era poss\u00edvel, at\u00e9 ter sido feito um acordo. Na verdade, \u00e9 injusta a retirada de direitos garantidos, mormente de pessoas com necessidades especiais. N\u00e3o s\u00e3o todos os Estados que est\u00e3o cumprindo essa norma, mas vimos a necessidade de n\u00e3o retroagir, de n\u00e3o voltar atr\u00e1s, mas avan\u00e7ar. Direito garantido n\u00e3o tem que ser retirado do trabalhador em nenhum momento. Estamos tamb\u00e9m nessa causa, porque entendemos que esse direito tem que ser garantido a todos os portadores de necessidades especiais.\r\nPara encerrar, quero dizer que 8 de abril \u00e9 o Dia Mundial de Combate ao C\u00e2ncer e, na ter\u00e7a-feira, dia 9 de abril, nesta Casa de Leis, haver\u00e1 uma sess\u00e3o solene requerida por n\u00f3s, em nome da Frente Parlamentar Mista em prol da Luta contra o C\u00e2ncer, para debatermos esse assunto, mas sobretudo, mostrarmos algumas a\u00e7\u00f5es que j\u00e1 ser\u00e3o definidas nesta Casa em prol dessa luta que \u00e9 t\u00e3o justa.\r\nSra. Presidente, solicito que esta fala seja divulgada no programa A Voz do Brasil.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-09T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SESS\u00c3O SOLENE, DIA MUNDIAL DO COMBATE AO C\u00c2NCER. \r\nREQUERIMENTO DE URG\u00caNCIA, PROPOSI\u00c7\u00c3O LEGISLATIVA, TRATAMENTO, C\u00c2NCER. \r\nPOL\u00cdTICA SOCIAL, POL\u00cdTICA P\u00daBLICA, SA\u00daDE, COMBATE, C\u00c2NCER. \r\nMARCHA A BRAS\u00cdLIA EM DEFESA DOS MUNIC\u00cdPIOS (22; 2019, BRAS\u00cdLIA (DF)).",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Realiza\u00e7\u00e3o, pela Casa, de sess\u00e3o solene ao ensejo do transcurso do Dia Mundial de Combate ao C\u00e2ncer. Imediata implanta\u00e7\u00e3o de pol\u00edticas p\u00fablicas de combate \u00e0 doen\u00e7a. Sucesso da Marcha a Bras\u00edlia em Defesa dos Munic\u00edpios.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Como L\u00edder. Sem revis\u00e3o da oradora.) - Muito obrigada, Sr. Presidente.\r\nUtilizo este tempo combinado com V.Exa. para agradecer a sess\u00e3o solene, de nossa propositura, realizada na manh\u00e3 de hoje. Ontem n\u00f3s celebramos o Dia Mundial de Combate ao C\u00e2ncer, mas escolhemos para a homenagem o dia de hoje, por ser dia de sess\u00e3o deliberativa. O tema \u00e9 muito importante, e n\u00f3s conseguimos trazer a esta Casa de Leis institui\u00e7\u00f5es importantes, como GRAACC, Hospital de Amor, Instituto Lado a Lado pela Vida e Abrace, para falar n\u00e3o s\u00f3 das tantas e tantas proposituras em tramita\u00e7\u00e3o nesta Casa - mais de cem -, mas tamb\u00e9m de v\u00e1rias outras de combate a uma doen\u00e7a que a todos sensibiliza: o c\u00e2ncer. A prop\u00f3sito, dois requerimentos em car\u00e1ter de urg\u00eancia estar\u00e3o na pauta desta Casa de Leis para aprecia\u00e7\u00e3o dos nobres pares, aos quais j\u00e1 pedimos apoio, porque \u00e9 muito importante termos essa sensibilidade para uma doen\u00e7a que h\u00e1 at\u00e9 pouco tempo era muito temida, mas que hoje sabemos que tem cura, mas uma cura que tem pressa. Estamos nesta Casa de Leis tentando garantir, com apoio dos Minist\u00e9rios e tamb\u00e9m da Frente Parlamentar Mista em Prol da Luta contra o C\u00e2ncer, a implanta\u00e7\u00e3o imediata de pol\u00edticas sociais e de pol\u00edticas de sa\u00fade especialmente de combate ao c\u00e2ncer.\r\nEnt\u00e3o, Sr. Presidente, este foi um dia realmente importante de trabalho, mas sobretudo de fala sobre a\u00e7\u00f5es cont\u00ednuas nesta Casa de Leis.\r\nPara encerrar, quero dizer que a Marcha dos Prefeitos a Bras\u00edlia foi um sucesso hoje. Houve participa\u00e7\u00e3o efetiva de Prefeitos de todo o Brasil, mas destaco a presen\u00e7a dos Prefeitos do meu Estado de Rond\u00f4nia. Afinal de contas, \u00e9 nos Munic\u00edpios que tudo acontece, e uma aten\u00e7\u00e3o especial tem que ser dada aos Prefeitos, porque a maioria das Prefeituras est\u00e1 falida, e \u00e9 aqui mesmo que eles t\u00eam que vir pedir.\r\nSr. Presidente, pe\u00e7o que meu pronunciamento seja divulgado no programa A Voz do Brasil.\r\nMuito obrigada pelo espa\u00e7o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2019&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-15T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PROGRAMA MAIS M\u00c9DICOS, RONDONIA, REVIS\u00c3O, TABELA, PROCEDIMENTO, SISTEMA \u00daNICO DE SA\u00daDE (SUS), DEFESA, SILVIA CRISTINA, JAQUELINE CASSOL , DEPUTADA FEDERAL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Relato da reuni\u00e3o da oradora e da Deputada Jaqueline Cassol com o Secret\u00e1rio de Gest\u00e3o Estrat\u00e9gica e Participativa do Minist\u00e9rio da Sa\u00fade, Erno Harzheim.  Expectativa de preenchimento de vagas do Programa Mais M\u00e9dicos no Estado de Rond\u00f4nia. Atua\u00e7\u00e3o da oradora como Relatora de grupo de trabalho destinado \u00e0 revis\u00e3o da tabela de procedimentos do Sistema \u00danico de Sa\u00fade - SUS, no \u00e2mbito da Comiss\u00e3o de Seguridade Social e Fam\u00edlia.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PDT - RO. Como L\u00edder. Sem revis\u00e3o da oradora.) - Muito obrigada, Presidente Geovania.\r\nUtilizo esta tribuna, nesta segunda-feira, para falar de uma reuni\u00e3o importante. Solicitei, juntamente com a querida Deputada Jaqueline Cassol, tamb\u00e9m do Estado de Rond\u00f4nia, uma audi\u00eancia no Minist\u00e9rio da Sa\u00fade. A nossa preocupa\u00e7\u00e3o, especialmente para n\u00f3s que levantamos muito alto a bandeira da sa\u00fade, \u00e9 com a falta de m\u00e9dicos.\r\nO Programa Mais M\u00e9dicos, infelizmente, ainda \u00e9 deficit\u00e1rio em Rond\u00f4nia, especialmente pela sua especificidade. H\u00e1 lugares ali em que se chega s\u00f3 de voadeira. H\u00e1 ainda dificuldade de trafegabilidade em algumas rodovias. Mas Rond\u00f4nia \u00e9 um Estado pujante, que desejamos seja visto da melhor maneira poss\u00edvel. N\u00f3s estamos aqui, atentos, para obtermos o melhor. H\u00e1 um d\u00e9ficit de 50 m\u00e9dicos no Estado, e esse n\u00famero faz muita diferen\u00e7a para l\u00e1.\r\nFomos muito bem recebidas pelo Secret\u00e1rio de Gest\u00e3o Estrat\u00e9gica e Participativa do Minist\u00e9rio da Sa\u00fade, Dr. Erno. Ele nos deu uma boa not\u00edcia: ainda em abril, no m\u00e1ximo at\u00e9 o in\u00edcio de maio, um novo edital estar\u00e1 \u00e0 disposi\u00e7\u00e3o para que esse d\u00e9ficit seja preenchido. \u00c9 isso o que estamos tanto almejando. N\u00f3s queremos fazer mais, por\u00e9m precisamos de um olhar diferenciado para o nosso Estado, que ainda sofre muito. N\u00f3s enfrentamos essa dificuldade.\r\nPortanto, esperamos realmente que esse d\u00e9ficit seja preenchido, porque notamos o interesse do Minist\u00e9rio da Sa\u00fade, especialmente do Dr. Erno, que, de maneira participativa, nos recebeu para dar essa boa informa\u00e7\u00e3o, concordando com tudo aquilo que relat\u00e1vamos, porque a comunidade pede socorro. Infelizmente, em algumas cidades interioranas, h\u00e1 um ou dois m\u00e9dicos para cuidar de cidades que t\u00eam 10 mil, 15 mil habitantes, os quais est\u00e3o precisando de muita - muita mesmo -ajuda.\r\nAproveitamos a oportunidade e nos pusemos \u00e0 disposi\u00e7\u00e3o do Secret\u00e1rio. Dissemos que temos a grata tarefa nesta Casa de Leis de integrar o grupo de trabalho, coordenado pelo Deputado Dr. Luizinho, que est\u00e1 fazendo a revis\u00e3o da tabela SUS. H\u00e1 quase 20 anos n\u00e3o \u00e9 feita a revis\u00e3o de algo que \u00e9 t\u00e3o importante. Deputada Benedita da Silva, tenho aprendido muito com V.Exa. aqui, o que muito me orgulha. Como queremos tratar de sa\u00fade se a tabela mais importante, que tem tanto d\u00e9ficit, n\u00e3o \u00e9 revista h\u00e1 quase 20 anos? \r\nEsse grupo de trabalho da Comiss\u00e3o de Seguridade Social tem essa tarefa. Eu vou responder pela relatoria. Junto com os demais Deputados, estamos nos debru\u00e7ando para realmente apresentar, atrav\u00e9s de n\u00fameros - porque n\u00fameros n\u00e3o mentem -, que este Governo precisa dar uma aten\u00e7\u00e3o maior especialmente \u00e0 tabela SUS, para que n\u00f3s possamos dizer que, a\u00ed sim, vamos agir, vamos seguir em frente. \r\nN\u00e3o h\u00e1 como falar em sa\u00fade se n\u00e3o revisarmos essa tabela. Na condi\u00e7\u00e3o de Deputada, ou\u00e7o o tempo todo que n\u00e3o tem dinheiro. Como n\u00e3o vai ter dinheiro para a sa\u00fade se tanta gente est\u00e1 morrendo? Como \u00e9 que para alguns procedimentos paga-se muito e para outros n\u00e3o h\u00e1 dinheiro? Como cuidar de algumas doen\u00e7as que, infelizmente, n\u00e3o est\u00e3o sendo vistas com bons olhos e as pessoas morrerem? E n\u00f3s aceitamos isso? N\u00e3o tem como aceitar, Deputado Dr. Frederico, que tamb\u00e9m faz parte da Comiss\u00e3o de Seguridade Social, na qual estamos empenhados. N\u00f3s queremos contribuir, mostrar o que ocorre atrav\u00e9s de n\u00fameros.\r\n\u00c9 muito f\u00e1cil dizer que n\u00e3o tem dinheiro. N\u00e3o tem dinheiro? N\u00f3s vamos mostrar por meio dessa revis\u00e3o, especialmente com os estudos desse empenhado Grupo de Trabalho da Tabela do SUS, coordenado pelo Deputado Dr. Luizinho e com minha relatoria, que \u00e9 poss\u00edvel mudar, porque, sen\u00e3o, de nada adiantaria.\r\nCom alguns Deputados que est\u00e3o aqui h\u00e1 algum mandatos, n\u00f3s aprendemos com a experi\u00eancia. E n\u00f3s, que somos Deputados de primeiro mandato, estamos realmente atentos, junto com esse grupo, para podermos deixar um legado. Mas sa\u00fade tem de ser tratada com muita seriedade. E \u00e9 desta maneira que n\u00f3s vamos conseguir agir: mostrando, atrav\u00e9s de n\u00fameros, por meio de minha relatoria, o que tem de ser mudado. Muitas coisas que aconteceram h\u00e1 quase 20 anos j\u00e1 foram ultrapassadas. E n\u00f3s temos que mudar, mas mudar com responsabilidade, com estudo. Sobretudo, temos de nos sentar \u00e0 mesa e dizer: \"N\u00f3s, Parlamentares, tamb\u00e9m fazemos parte do poder. Se n\u00e3o fizermos esse trabalho juntos, \u00e9 a comunidade que ser\u00e1 penalizada\". E a\u00ed mostrar quem de fato est\u00e1 do lado do povo brasileiro. \r\nO povo brasileiro merece esse respeito, mas respeito com responsabilidade. Ser\u00e1 um trabalho \u00e1rduo para a relatoria da revis\u00e3o da tabela do SUS, com a qual, no prazo de 180 dias, toda esta Casa ter\u00e1 oportunidade n\u00e3o somente de contribuir, mas tamb\u00e9m de participar.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F4%2F2019&txPagina=322&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ROND\u00d4NIA RURAL SHOW (8:2019, JI-PARAN\u00c1 (RO)), GOVERNO, ATRASO, RECURSOS OR\u00c7AMENT\u00c1RIOS, PROGRAMA NACIONAL DE FORTALECIMENTO DA AGRICULTURA FAMILIAR (PRONAF), AGRICULTURA FAMILIAR.\r\nGOVERNADOR, CORONEL MARCOS ROCHA, ROND\u00d4NIA, GEST\u00c3O, ELOGIO.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Realiza\u00e7\u00e3o, no Munic\u00edpio de Ji-Paran\u00e1, da 8\u00aa Rond\u00f4nia Rural Show - feira de tecnologia voltada ao agroneg\u00f3cio. Atraso na libera\u00e7\u00e3o de recursos para a agricultura familiar. Eleva\u00e7\u00e3o das taxas de juros incidentes nas opera\u00e7\u00f5es de cr\u00e9dito rural. Maior aten\u00e7\u00e3o do Governo Jair Bolsonaro para com os agricultores rondonienses. Excel\u00eancia da gest\u00e3o do Governador do Estado de Rond\u00f4nia, Coronel Marcos Rocha. Imediata assinatura, pelo Presidente da Rep\u00fablica, de portaria do Secretaria do Tesouro Nacional para a garantia de recursos \u00e0 agricultura familiar.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Como L\u00edder. Sem revis\u00e3o da oradora.) - Sr. Presidente, hoje, especialmente, quero dizer que a cidade de Ji-Paran\u00e1 vai sediar pela oitava vez a maior feira agropecu\u00e1ria da Regi\u00e3o Norte, que se chama Rond\u00f4nia Rural Show, que acontece de 22 a 25 de maio.\r\nH\u00e1 8 anos essa feira beneficia milhares de agricultores. Na verdade, ela foi criada para que os agricultores, a agricultura familiar, tivessem a oportunidade de se fortalecerem nos seus lugares, nas suas propriedades rurais, para realmente tirar a enxada desses trabalhadores e substitu\u00ed-las por m\u00e1quinas e equipamentos que eles n\u00e3o conseguiriam ter de outra maneira.\r\nEra poss\u00edvel, sempre foi poss\u00edvel durante esses 7 anos, e ser\u00e1 o oitavo ano agora em 2019, porque o Governo Federal sempre assegurou a libera\u00e7\u00e3o de recursos, assim garantindo juros mais atrativos, especialmente para essas pessoas que realmente poderiam ter facilidade para financiar os seus equipamentos e seus tratores. Na maioria das vezes, eles n\u00e3o poderiam realizar esse sonho. H\u00e1 7 anos a feira tem sido um sucesso. E estamos nos aproximando do oitavo ano, como eu disse, porque a feira acontecer\u00e1 de 22 a 25 de maio na cidade de Ji-Paran\u00e1, em Rond\u00f4nia.\r\nMas este ano, at\u00e9 agora, at\u00e9 hoje, o Governo, por incr\u00edvel que pare\u00e7a, ainda n\u00e3o assinou portaria do Tesouro Nacional garantindo recurso do PRONAF para a agricultura familiar. Isso quer dizer, senhores pares, que os juros que eram mantidos atrativos, de 4,6%, ser\u00e3o praticados sem essa garantia do Governo Federal e ser\u00e3o de 8,5% a 10,5%. As linhas de financiamento ser\u00e3o nessa base. Com isso, \u00e9 claro, mais de mil propostas deixar\u00e3o de ser executadas.\r\nN\u00e3o falo somente pela quest\u00e3o das propostas, mas eu quero dizer especialmente dos 300 milh\u00f5es de reais que n\u00e3o ser\u00e3o investidos na agricultura familiar no Estado de Rond\u00f4nia, 85% da agricultura familiar. Sinceramente, n\u00f3s estamos muito preocupados. Estamos preocupados, porque Rond\u00f4nia \u00e9 um Estado tipicamente agr\u00edcola.\r\nNa verdade, n\u00f3s temos que ter esse recurso para que essa feira seja um sucesso, mas at\u00e9 agora, infelizmente, essa portaria n\u00e3o foi assinada. N\u00f3s queremos acreditar que isso n\u00e3o vai acontecer, porque ainda h\u00e1 tempo, at\u00e9 o pr\u00f3ximo dia 22 se pode reverter essa situa\u00e7\u00e3o. Como podem deixar dessa forma o Estado de Rond\u00f4nia, que cresce a cada ano, que \u00e9 tipicamente agr\u00edcola, quando se est\u00e1 aproximando de uma feira que realmente vai trazer um bom resultado?\r\nAs linhas de financiamento do BASA, do Banco do Brasil e de v\u00e1rias outras institui\u00e7\u00f5es banc\u00e1rias que antes ofereciam juro atrativo de 4,6% ao ano s\u00f3 podem ser oferecidas agora, porque n\u00e3o h\u00e1 ades\u00e3o do Governo Federal, com juros de 8,5% a 10%. Quem \u00e9 que vai querer um juro diferente do que \u00e9 praticado constantemente, quando se vai participar de uma feira e n\u00e3o tem esse atrativo?\r\nEu espero que Rond\u00f4nia, onde mais de 70% dos votos foram no Governo que aqui est\u00e1, tenha essa aten\u00e7\u00e3o maior. N\u00f3s n\u00e3o acreditamos que isso pode acontecer. \u00c9 uma feira onde teremos mais de 500 expositores e que \u00e9 um sucesso, que garante realmente o fortalecimento da fam\u00edlia agr\u00edcola. N\u00f3s estamos vivenciando uma realidade que, sinceramente, \u00e9 um desconsolo. \u00c9 um absurdo a realidade que n\u00f3s estamos vivendo.\r\nTamb\u00e9m n\u00e3o posso deixar de parabenizar o Governo do Estado de Rond\u00f4nia, o Governador Coronel Marcos Rocha, que \u00e9 do mesmo partido do Governo Federal, o PSL, e est\u00e1 fazendo um trabalho maravilhoso, e o Secret\u00e1rio Padovani. Mas precisamos que o Presidente seja sens\u00edvel e assine essa portaria do Tesouro Nacional, garantindo esse recurso para que tenhamos, enfim, uma Rond\u00f4nia Rural de muito sucesso e o fortalecimento da agricultura que n\u00f3s precisamos no Estado de Rond\u00f4nia.\r\n\u00c9 o que n\u00f3s esperamos, e acreditamos que vai acontecer, porque \u00e9 imposs\u00edvel que um Estado, o Estado de Rond\u00f4nia, que deu mais de 70% dos votos ao Governo que aqui est\u00e1, seja tratado com tanto descaso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=206&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T12:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, ANIVERS\u00c1RIO, LEI \u00c1UREA, ABOLI\u00c7\u00c3O DA ESCRAVID\u00c3O (1888), ABOLICIONISMO (1630-1888).\r\nPRECONCEITO RACIAL, COMBATE.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Transcurso do 131\u00ba anivers\u00e1rio de san\u00e7\u00e3o da Lei n\u00ba 3.353, de 1888, a Lei \u00c1urea, sobre a aboli\u00e7\u00e3o da escravatura no Brasil. Persist\u00eancia da discrimina\u00e7\u00e3o racial no Pa\u00eds.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Muito obrigada, nobre Presidente. Parab\u00e9ns a todos que comp\u00f5em a Mesa e aos que foram proponentes desta importante sess\u00e3o solene.\r\nEu sou negra e tenho muito orgulho de ser negra. Estou no primeiro mandato. H\u00e1 poucos dias, a Deputada Benedita falava comigo - n\u00e3o \u00e9, Benedita? -, e eu me lembro com muito carinho quando ela disse: \"Que bom que mais negros chegaram, porque eu era sozinha aqui\". E olha que n\u00e3o aumentou muito. Nessa \u00faltima elei\u00e7\u00e3o, aumentou uma m\u00e9dia de quatro por cento e um pouquinho, quase 5%.\r\nDeclarados negros nesta Casa existem apenas 21, num universo de 513. Mas ser\u00e1 que s\u00e3o realmente 21? Somos mais. Ou s\u00e3o negros ou s\u00e3o brancos. N\u00e3o h\u00e1 essa quest\u00e3o de ser moreninho ou n\u00e3o? Eu sou negra. Tenho orgulho disso. J\u00e1 fui discriminada, e muito. Voc\u00eas n\u00e3o sabem o quanto \u00e9 dif\u00edcil, primeiro, por ser pobre, depois, por ser mulher e, tamb\u00e9m, por ser negra. N\u00e3o \u00e9 f\u00e1cil.\r\n\u00c9 um dia importante, sem d\u00favida, em que n\u00f3s estamos comemorando os 131 anos de aboli\u00e7\u00e3o da escravatura. Como voc\u00eas sabem - eu sei que todos aqui s\u00e3o sabedores da hist\u00f3ria - , naquela \u00e9poca, em apenas 7 dias, ela foi aprovada e sancionada. Que bom. Para voc\u00eas verem que quando se quer, as coisas realmente acontecem. Sab\u00edamos que, se o Brasil ficasse naquela situa\u00e7\u00e3o, n\u00f3s ir\u00edamos para uma terceira ou quarta guerra, porque j\u00e1 n\u00e3o precisava mais de que tantos negros fossem escravizados.\r\nH\u00e1 19 anos, pouco tempo atr\u00e1s, pasmem, mais de 30 mil pessoas viviam em regime de escravid\u00e3o no Brasil. S\u00e3o dados do Minist\u00e9rio do Trabalho. Vejam quanta luta: 131 anos de aboli\u00e7\u00e3o da escravatura, e n\u00f3s ainda sofremos discrimina\u00e7\u00e3o s\u00f3 pela cor. Olhe quantas e quantas pessoas falam e defendem que somos iguais. N\u00f3s falamos de um Brasil, claro, com suas diferen\u00e7as. Hoje, cada um defende os seus interesses, e n\u00e3o foi diferente nos outros anos. Mas n\u00f3s somos iguais, independentemente da cor.\r\nFa\u00e7amos realmente o reconhecimento de tantos negros que lutaram: Zumbi, Dandara e tantos outros, como a Deputada Benedita aqui defendeu tantas bandeiras com outros. N\u00f3s estamos aqui numa defesa. E nesta Casa de Leis, independentemente daquilo com que concordamos ou discordamos, \u00e9 melhor que nos unamos, para que depois n\u00f3s possamos, com as nossas diferen\u00e7as...\r\nPessoal, vejam bem, n\u00f3s estamos aqui falando de aboli\u00e7\u00e3o da escravatura nesta sess\u00e3o solene, da qual v\u00e1rios Deputados aqui foram proponentes. Falando pelo meu partido, eu digo que h\u00e1 necessidade de refor\u00e7armos a presen\u00e7a dos movimentos negros em todos os partidos, para a eles darmos oportunidade.\r\nEm 56 anos de legisla\u00e7\u00e3o desta Casa de Leis, eu fui a primeira Deputada eleita do Estado de Rond\u00f4nia. Quanto pouco espa\u00e7o n\u00f3s temos. Mas que entre brancos e negros estejamos juntos, unidos, porque cor n\u00e3o diz sobre car\u00e1ter, mas o cora\u00e7\u00e3o. N\u00f3s n\u00e3o somos filhos do mesmo Deus?\r\nHoje eu vejo as manifesta\u00e7\u00f5es leg\u00edtimas - e como \u00e9 bom v\u00ea-los aqui. Mas vamos fazer uma reflex\u00e3o de uni\u00e3o. O nosso Brasil precisa de uni\u00e3o.\r\nEspecialmente neste momento em que estamos falando de cor e de escravid\u00e3o, que os brancos e os negros possamos deixar de lado especialmente as amarras do preconceito, que judia, que escraviza e que realmente causa muitas sequelas. Eu j\u00e1 tive v\u00e1rias sequelas. J\u00e1 me desprendi delas. E estou aqui realmente para lutar pelos negros, pelos brancos, pelos menos favorecidos, por um Brasil melhor.\r\nQue possamos fazer uma pol\u00edtica diferente, n\u00e3o por interesses, mas por todos. O Brasil n\u00e3o \u00e9 de todos? Ent\u00e3o, vamos trabalhar para todos, porque \u00e9 o que n\u00f3s merecemos.\r\nMuito obrigada. Que Deus nos aben\u00e7oe.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FRENTE PARLAMENTAR MISTA EM PROL DA LUTA CONTRA O C\u00c2NCER, CONVITE, EVENTO.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Convite aos Parlamentares para participa\u00e7\u00e3o de caf\u00e9 da manh\u00e3 oferecido pela Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, quero aproveitar este espa\u00e7o que V.Exa. nos concede de maneira muito generosa para informar que amanh\u00e3 a Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer estar\u00e1 oferecendo um caf\u00e9 da manh\u00e3 nesta Casa de Leis, no 10\u00ba andar do Anexo IV, onde n\u00f3s vamos receber grandes personalidades: o Dr. Arthur Rosa, Presidente da Sociedade Brasileira de Radioterapia, e o Dr. F\u00e1bio Cury, m\u00e9dico radioncologista e professor da Universidade do Canad\u00e1.\r\nTrata-se de um evento importante nesta Casa de Leis, j\u00e1 que a Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer trabalhar\u00e1 pela expans\u00e3o da radioterapia no Brasil, que ainda precisa avan\u00e7ar.\r\nEnt\u00e3o, eu quero pedir a todos os pares, que j\u00e1 receberam o convite nos seus gabinetes, que se fa\u00e7am presentes, \u00e0s 8 horas, no restaurante do 10\u00ba andar do Anexo IV, nesta Casa de Leis!\r\nAgrade\u00e7o a esses nobres profissionais, como tamb\u00e9m \u00e0 Varian, que \u00e9 parceira da Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=189&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "COLORADO DO OESTE (RO), COSTA MARQUES (RO), ESPIG\u00c3O D'OESTE (RO), OURO PRETO DO OESTE (RO), PRESIDENTE M\u00c9DICI (RO), ANIVERS\u00c1RIO FUNDA\u00c7\u00c3O, HOMENAGEM.\r\nFLORDELIS, DEPUTADA FEDERAL, HOMIC\u00cdDIO, MARIDO, SOLIDARIEDADE.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Transcurso do 38\u00ba anivers\u00e1rio de cria\u00e7\u00e3o dos Munic\u00edpios de Colorado do Oeste, Costa Marques, Espig\u00e3o d'Oeste, Ouro Preto do Oeste e Presidente M\u00e9dici, no Estado de Rond\u00f4nia. Solidariedade \u00e0 Deputada Flordelis diante do assassinato do seu esposo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Presidente Geovania, querida, muito obrigada pelo espa\u00e7o. Hoje Rond\u00f4nia est\u00e1 em festa, afinal de contas cinco cidades est\u00e3o comemorando simultaneamente 38 anos. Ent\u00e3o, ficam as nossas considera\u00e7\u00f5es e a nossa lembran\u00e7a por essas cidades pujantes: Colorado do Oeste, Costa Marques, Espig\u00e3o D'Oeste, Ouro Preto do Oeste e Presidente M\u00e9dici, que fica ao lado da cidade onde eu resido, Ji-Paran\u00e1.\r\nH\u00e1 38 anos, o Estado acolhe imigrantes e se desenvolve a cada dia. Rond\u00f4nia \u00e9 assim. \r\nTamb\u00e9m n\u00e3o posso deixar de me consternar e de prestar a minha solidariedade \u00e0 nossa companheira Deputada Federal Flordelis. Eu acredito que todos n\u00f3s j\u00e1 tivemos algum ente especial v\u00edtima da viol\u00eancia. Ent\u00e3o, que fique registrada a nossa solidariedade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=51&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "INC\u00caNDIO, BOL\u00cdVIA, SOLIDARIEDADE HUMANA, COSTA MARQUES (RO), MARCOS ROCHA, GOVERNADOR, ROND\u00d4NIA, GEST\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0s autoridades governamentais e \u00e0 sociedade do Munic\u00edpio de Costa Marques, Estado de Rond\u00f4nia, pelo acolhimento de fam\u00edlias bolivianas atingidas por inc\u00eandio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, Deputado Marcelo Nilo, muito obrigada pela oportunidade, para que eu possa me solidarizar com a comunidade da Bol\u00edvia, de Buena Vista, divisa com Costa Marques. Na \u00faltima segunda-feira, aconteceu um inc\u00eandio, que est\u00e1 sendo apurado pela pol\u00edcia. Infelizmente, incendiou boa parte do com\u00e9rcio, como tamb\u00e9m mais de 20 resid\u00eancias. Houve alguns feridos que foram socorridos pelo Brasil, por Costa Marques, em Rond\u00f4nia, porque para a Bol\u00edvia, a cidade mais pr\u00f3xima ficava mais distante. O povo de Rond\u00f4nia acolheu essa comunidade.\r\nQuero parabenizar o povo solid\u00e1rio do Estado de Rond\u00f4nia, que acolheu o povo boliviano na cidade de Costa Marques.\r\nParabenizo o Governador Marcos Rocha, a Secret\u00e1ria de Assist\u00eancia Social, Luana, o Prefeito Mirand\u00e3o e toda a comunidade. \r\nN\u00f3s temos que nos solidarizar, mas sobretudo dizer que n\u00f3s somos todos iguais.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=83&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-02T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SA\u00daDE, SARAH KUBITSCHEK, HOSPITAL, SISTEMA \u00daNICO DE SA\u00daDE (SUS), BRAS\u00cdLIA (DF), AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Visita da oradora ao Hospital Sarah Kubitschek, no Distrito Federal. Relev\u00e2ncia dos trabalhos realizados pela Rede Sarah de Hospitais na preven\u00e7\u00e3o e  tratamento de doen\u00e7as neurol\u00f3gicas e ortop\u00e9dicas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o do orador.) - Obrigada, Presidente Charles.\r\n\u00c9 um prazer falar nesta tribuna, especialmente sobre um momento de emo\u00e7\u00e3o que vivi nessa segunda-feira. Tive a oportunidade de conhecer com calma e um pouco mais de perto o Hospital Sarah Kubitschek aqui em Bras\u00edlia. Eu j\u00e1 tinha esse desejo h\u00e1 algum tempo, mas ontem foi realmente o grande dia. Trata-se de um hospital de excel\u00eancia em reabilita\u00e7\u00e3o neurol\u00f3gica e ortop\u00e9dica e que atende 100% o SUS, com tratamento realmente humanizado. Muitas vezes n\u00f3s nem acreditamos que isso possa acontecer no Brasil, em meio a tantas desigualdades e com tantas coisas ainda para se fazer na sa\u00fade, mas vi que isso realmente \u00e9 poss\u00edvel.\r\nComo membro titular da Comiss\u00e3o de Seguridade Social, que cuida especialmente da sa\u00fade, estive l\u00e1 para conhecer esse modelo, porque ele tem que existir tamb\u00e9m em outras regi\u00f5es. Pessoas muitas vezes desenganadas, que v\u00eam de seus Estados dizendo que nunca mais v\u00e3o andar, saem o Hospital Sarah andando e deixam de lado as cadeiras de rodas.\r\nQuero fazer um agradecimento a toda a Diretoria daquela entidade, porque 100% das solicita\u00e7\u00f5es de Rond\u00f4nia, meu Estado, em 2018, foram atendidas pelo Sarah. E isso n\u00e3o ocorreu somente com Rond\u00f4nia. Todo o Brasil \u00e9 realmente atendido pelo Sarah com muito carinho. Muito obrigada, Diretora C\u00e9lia, Ana Paula e todos os que nos receberam.\r\n\u00c9 muito importante ressaltar que, muito mais do que tratamento ambulatorial, o Sarah tamb\u00e9m faz um programa de preven\u00e7\u00e3o. Quantas e quantas pessoas est\u00e3o naquela condi\u00e7\u00e3o devido a acidentes e muitas vezes ficam com sequelas para a vida toda. Portanto, o trabalho feito l\u00e1 dentro com adolescentes e crian\u00e7as \u00e9 muito importante. E \u00e9 um hospital 100% SUS.\r\nO SUS completou 30 anos, com certeza, com muitos modelos a serem seguidos, e um desses modelos \u00e9 o do Hospital Sarah Kubitschek em Bras\u00edlia, com filiais em outros Estados.\r\nEnt\u00e3o, respeitosamente, eu quero fazer essa homenagem, mas, sobretudo, dizer que \u00e9 poss\u00edvel fazer e que o Sarah \u00e9 um modelo 100% SUS que deve ser seguido.\r\nHoje, dia 2 de julho, eu tamb\u00e9m n\u00e3o posso deixar de parabenizar e prestar homenagem ao Corpo Bombeiros, que faz um trabalho fant\u00e1stico em todo o Brasil.\r\nPresidente, eu pe\u00e7o que o meu pronunciamento tamb\u00e9m seja publicado no Programa A Voz do Brasil. \r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F7%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FESTIVAL TAMBAQUI DA AMAZ\u00d4NIA (2019, BRAS\u00cdLIA (DF)). \r\nROD\u00d4NIA, PRODU\u00c7\u00c3O ANIMAL, PEIXE.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Realiza\u00e7\u00e3o do primeiro Festival Tambaqui da Amaz\u00f4nia, em Bras\u00edlia, Distrito Federal. Desempenho do Estado de Rond\u00f4nia na produ\u00e7\u00e3o de peixes nativos em cativeiro, especialmente de tambaqui.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Sr. Presidente, Deputado Marcelo Nilo, muito obrigada pela oportunidade.\r\nNo rein\u00edcio das atividades, no segundo semestre, quero aproveitar, ao utilizar esta tribuna, para convidar todos os meus companheiros de Parlamento e todos os que nos d\u00e3o a oportunidade da audi\u00eancia, atrav\u00e9s da TV C\u00e2mara e do programa A Voz do Brasil, que ser\u00e1 retransmitido, para o maior churrasco de tambaqui que ocorrer\u00e1 amanh\u00e3 em Bras\u00edlia.\r\n\u00c9 isso mesmo! Haver\u00e1 uma mobiliza\u00e7\u00e3o do Governo do Estado de Rond\u00f4nia - sou de Rond\u00f4nia -, juntamente com a Associa\u00e7\u00e3o de Criadores de Peixes do Estado de Rond\u00f4nia e grandes parceiros. Ser\u00e1 o primeiro Festival Tambaqui da Amaz\u00f4nia. Assim poderemos dizer o quanto Rond\u00f4nia \u00e9 rica na cria\u00e7\u00e3o dessa esp\u00e9cie de peixe e demonstrar a grandeza do tambaqui em Rond\u00f4nia, como em todo o Brasil. Ser\u00e3o distribu\u00eddas 4 mil bandas de tambaquis para todos os participantes, o que representa uma m\u00e9dia de 6 toneladas de peixe.\r\nEu posso garantir, como rondoniense de cora\u00e7\u00e3o e como representante daquele Estado, que \u00e9 um peixe delicioso e que com certeza far\u00e1 a diferen\u00e7a.\r\nTodos est\u00e3o convidados para o evento. Tambaqui \u00e9 uma esp\u00e9cie nativa da Amaz\u00f4nia. Por isso tem boa adapta\u00e7\u00e3o e, inclusive, \u00e9 uma produ\u00e7\u00e3o bem intensiva no Estado de Rond\u00f4nia. \u00c9 claro que h\u00e1 uma boa aceita\u00e7\u00e3o do mercado e valor agregado.\r\nRond\u00f4nia \u00e9 o maior produtor de peixes nativos em cativeiro, do tambaqui, e o terceiro maior em produtos do Brasil.\r\nAmanh\u00e3 o Governo Federal, juntamente com o Governo Estadual, com a Associa\u00e7\u00e3o de Criadores de Peixes do Estado de Rond\u00f4nia, com toda a comunidade estar\u00e1 envolvido nesse grande evento. Os Estados do Norte, especialmente Rond\u00f4nia, t\u00eam realmente um grande apre\u00e7o e uma grandiosidade com rela\u00e7\u00e3o \u00e0 esp\u00e9cie de tambaqui.\r\nPosso afirmar que \u00e9 delicioso!\r\nParab\u00e9ns a todas as pessoas envolvidas nesse evento que est\u00e3o em Bras\u00edlia. Chegaram ontem, hoje est\u00e3o se preparando e amanh\u00e3 servir\u00e3o esse banquete de algo que \u00e9 t\u00e3o importante para n\u00f3s: o peixe tambaqui. \r\nAqui fica nosso registro.\r\nSr. Presidente, pe\u00e7o que autorize a divulga\u00e7\u00e3o do meu pronunciamento no programa A Voz do Brasil. \r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=138&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AUDI\u00caNCIA P\u00daBLICA, DEBATE, PL 1605/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO DA PESSOA COM C\u00c2NCER, PRINC\u00cdPIOS, DIREITOS, PACIENTE, EDUARDO BRAIDE, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), APOIO POL\u00cdTICO, FRENTE PARLAMENTAR MISTA EM PROL DA LUTA CONTRA O C\u00c2NCER, SILVIA CRISTINA, DEPUTADA FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "An\u00fancio de realiza\u00e7\u00e3o, pela Comiss\u00e3o de Seguridade Social e Fam\u00edlia, de audi\u00eancia p\u00fablica para discuss\u00e3o do Projeto de Lei n\u00ba 1.605, de 2019, sobre a institui\u00e7\u00e3o do Estatuto da Pessoa com C\u00e2ncer. Convite a Parlamentares e telespectadores daTV C\u00e2mara  para participa\u00e7\u00e3o no evento.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Obrigada, minha Presidente querida.\r\nVenho hoje a esta tribuna para dizer que amanh\u00e3, dia 22 de agosto, nesta Casa de Leis, ser\u00e1 realizada uma audi\u00eancia importante, para a qual eu gostaria de convidar todos os nobres companheiros, sobretudo as pessoas que nos assistem pela nossa TV C\u00e2mara. A audi\u00eancia ser\u00e1 no Plen\u00e1rio 7, a partir das 10 horas, para discutirmos o Projeto de Lei n\u00ba 1.605, de 2019, de autoria do nobre Deputado Eduardo Braide, do Maranh\u00e3o, que visa instituir o Estatuto da Pessoa com C\u00e2ncer.\r\nComo Presidente da Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer, fiz um requerimento, atrav\u00e9s da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, em virtude da import\u00e2ncia desse projeto, para que tamb\u00e9m possamos levar \u00f3rg\u00e3os que est\u00e3o realmente, o tempo todo, lutando por essa causa, a fim de discutirmos juntos esse estatuto, que, tenho certeza, ser\u00e1 um marco na vida de tantos portadores de c\u00e2ncer. Segundo relatos do INCA, uma m\u00e9dia de 600 mil pessoas ser\u00e3o acometidas por essa doen\u00e7a este ano.\r\nAmanh\u00e3 teremos aqui, j\u00e1 confirmadas, as presen\u00e7as de representantes do Minist\u00e9rio da Sa\u00fade e do Instituto Lado a Lado Pela Vida; da nossa querida Luciana Holtz, Presidente do Instituto Oncoguia; do Dr. Sergio Simon, da Sociedade Brasileira de Oncologia Cl\u00ednica; do Dr. Fernando Maluf, fundador do Instituto Vencer o C\u00e2ncer; da Dra. Ana Cristina, do INCA; e tamb\u00e9m de representantes do Movimento Todos Juntos Contra o C\u00e2ncer.\r\nComo eu disse, ser\u00e1 um debate importante. Trata-se de uma doen\u00e7a que realmente tem atingido pessoas de todas as classes sociais. E pol\u00edticas p\u00fablicas t\u00eam que ser feitas nesta Casa de Leis. Esse estatuto ser\u00e1 criado pelo PL do nosso querido Deputado Eduardo Braide e contou tamb\u00e9m com o nosso desempenho junto \u00e0 Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer. Temos certeza de que, assim que for aprovado, ele ter\u00e1 o clamor de todas essas entidades e de todas as pessoas que ter\u00e3o a oportunidade de falar durante esta audi\u00eancia.\r\nPortanto, a audi\u00eancia ser\u00e1 amanh\u00e3, dia 22, no Plen\u00e1rio 7, a partir das 10 horas.\r\nSra. Presidente, pe\u00e7o que o meu pronunciamento seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=17&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AG\u00caNCIA, INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), ATENDIMENTO, SEGURADO (PREVID\u00caNCIA SOCIAL), ROND\u00d4NIA, BENEF\u00cdCIO PREVIDENCI\u00c1RIO, FECHAMENTO, PRESIDENTE M\u00c9DICI (RO), JI-PARAN\u00c1 (RO), SERGIPE, APOSENTADORIA POR INVALIDEZ, AUX\u00cdLIO-DOEN\u00c7A.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Precariedade dos servi\u00e7os prestados pelas ag\u00eancias do Instituto Nacional do Seguro Social - INSS no Brasil, especialmente no Estado de Rond\u00f4nia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Sra. Presidente, nobres companheiros desta Casa, utilizo este tempo, mesmo que breve, para relatar uma situa\u00e7\u00e3o lament\u00e1vel que est\u00e1 acontecendo no Estado de Rond\u00f4nia, Deputado Afonso: as ag\u00eancias do INSS no Estado de Rond\u00f4nia falham no atendimento, e os contribuintes s\u00e3o penalizados, porque n\u00e3o conseguem os seus benef\u00edcios de aposentadoria e de aux\u00edlio-doen\u00e7a.\r\nS\u00f3 para se ter ideia, na cidade de Presidente M\u00e9dici, h\u00e1 pouco mais de 3 meses, a ag\u00eancia do INSS foi fechada, e at\u00e9 agora o Instituto n\u00e3o se manifestou sobre a forma como os trabalhadores ser\u00e3o atendidos a contento.\r\nQuanto ao aux\u00edlio-doen\u00e7a, as pessoas, na maioria das vezes, em raz\u00e3o dessa defici\u00eancia no atendimento, acabam se curando das doen\u00e7as e n\u00e3o s\u00e3o beneficiadas com o aux\u00edlio. A demora \u00e9 grande, e h\u00e1 essa defici\u00eancia n\u00e3o somente no Munic\u00edpio de Presidente M\u00e9dici, mas tamb\u00e9m em Ji-Paran\u00e1. H\u00e1 poucos dias, uma contribuinte teve que se deslocar por 400 quil\u00f4metros, Sra. Presidente, para buscar atendimento, em vez de ser atendida na sua cidade, Presidente M\u00e9dici. Essa \u00e9 uma situa\u00e7\u00e3o lament\u00e1vel.\r\nAtrav\u00e9s da nossa assessoria, do nosso gabinete, pedimos uma audi\u00eancia ao INSS, mas lamentamos que esse problema aconte\u00e7a n\u00e3o s\u00f3 em Rond\u00f4nia, mas tamb\u00e9m em todo o Brasil. Rond\u00f4nia est\u00e1 no segundo lugar no ranking deste problema; em primeiro lugar vem o Estado de Sergipe.\r\nVejam a dificuldade por que passam esses contribuintes quando precisam do INSS, j\u00e1 que infelizmente n\u00e3o s\u00e3o atendidos!\r\nTem sido dito o tempo todo que esse problema \u00e9 devido \u00e0 falta de funcion\u00e1rio. Desculpem-me, mas o INSS tem que contratar pessoal. E, neste momento, n\u00e3o d\u00e1 mais para aguardar concurso p\u00fablico, porque a necessidade \u00e9 urgente.\r\nEnt\u00e3o, n\u00f3s estamos realmente aguardando uma solu\u00e7\u00e3o para esse problema, porque essas pessoas que precisam da sua aposentadoria por invalidez e do aux\u00edlio-doen\u00e7a n\u00e3o deveriam esperar esse tempo todo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SOJA, INVESTIMENTO, ASSOCIA\u00c7\u00c3O BRASILEIRA DOS PRODUTORES DE SOJA (APROSOJA BRASIL), VILHENA (RO), ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Lan\u00e7amento nacional do plantio de soja no Munic\u00edpio de Vilhena, Estado de Rond\u00f4nia. Exorta\u00e7\u00e3o ao empresariado brasileiro para realiza\u00e7\u00e3o de investimentos em solo rondoniense.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Sra. Presidente, nobres companheiros Deputados, hoje utilizo da palavra para falar especialmente que Rond\u00f4nia, meu querido Estado, foi mais uma vez destaque nacional positivo, na \u00faltima quinta-feira. Isso porque aconteceu a abertura nacional do plantio de soja. Foi a primeira vez que o Norte teve essa oportunidade, por conta da cidade de Vilhena, no Estado de Rond\u00f4nia, um evento organizado pela APROSOJA. Deixo aqui o nosso reconhecimento ao Grupo MASUT e todo o empresariado que realmente se movimentou. \r\nRond\u00f4nia realmente foi evidenciada. Um Estado que antes era conhecido especialmente pela pecu\u00e1ria, que continua pujante, agora tamb\u00e9m est\u00e1 sendo reconhecido pela exuber\u00e2ncia e pelo potencial do plantio de soja. Parab\u00e9ns, Rond\u00f4nia! Aqueles que t\u00eam oportunidade de investir invistam em Rond\u00f4nia, porque \u00e9 o Estado que mais cresce.\r\nSra. Presidente, pe\u00e7o a V.Exa. que o meu pronunciamento seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-02T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "EXPOSI\u00c7\u00c3O DE ARTE, \u00c9DINA DO NASCIMENTO SALES COSTA, ARTISTA, CULTURA (ARTES), ROND\u00d4NIA, SENADO FEDERAL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Realiza\u00e7\u00e3o da exposi\u00e7\u00e3o A Arte e Cultura de Rond\u00f4nia, da artista pl\u00e1stica \u00c9dina do Nascimento Sales Costa, no Espa\u00e7o Cultural Ivandro Cunha Lima do Senado Federal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o do orador.) - Muito obrigada, Presidente.\r\nEu utilizo a palavra, como rondoniense de cora\u00e7\u00e3o, como real defensora do meu Estado, para convidar os nobres pares e aquelas pessoas que v\u00e3o ter oportunidade de nos ouvir atrav\u00e9s do programa A Voz do Brasil para a exposi\u00e7\u00e3o A arte e a Cultura de Rond\u00f4nia, da artista pl\u00e1stica rondoniense \u00c9dina do Nascimento Sales Costa, no Espa\u00e7o Cultura Ivandro Cunha Lima, do Senado, onde at\u00e9 o dia 4 de outubro ela estar\u00e1 expondo os seus grandes trabalhos.\r\n\u00c9 impressionante a arte que essa mulher, essa artista pl\u00e1stica de Rond\u00f4nia consegue transpor nas suas telas. Quem quiser conhecer um pouco mais da Regi\u00e3o Amaz\u00f4nica, especialmente do meu Estado de Rond\u00f4nia, v\u00e1 \u00e0 exposi\u00e7\u00e3o. A cultura tem que ser prestigiada. Ela veio l\u00e1 de Rond\u00f4nia para expor os seus trabalhos nesta Casa de Leis.\r\nSr. Presidente, eu pe\u00e7o que o meu pronunciamento seja divulgado no programa A Voz do Brasil.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F10%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O,  MPV 886/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.\r\nDIA DO PROFESSOR, HOMENAGEM.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Transcurso do Dia do Professor. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 72, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 886, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, n\u00e3o posso deixar de reconhecer, enquanto educadora, o trabalho de todos os educadores. Hoje \u00e9 Dia do Professor, e eu, que fa\u00e7o parte do PDT, n\u00e3o posso me esquecer do nosso querido Brizola e, especialmente, da educa\u00e7\u00e3o em tempo integral, que \u00e9 t\u00e3o valorosa para o nosso Brasil. Temos que, cada vez mais, implement\u00e1-la.\r\nA orienta\u00e7\u00e3o do PDT quanto a este destaque \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=357&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MINIST\u00c9RIO DAS RELA\u00c7\u00d5ES EXTERIORES, PROVIDENCIAS, ALUNO, BRASIL, BOL\u00cdVIA, CRISE POL\u00cdTICA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Solicita\u00e7\u00e3o ao Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores de atendimento ao clamor de estudantes brasileiros na Bol\u00edvia, diante do clima de instabilidade pol\u00edtica reinante naquele pa\u00eds.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Presidente, vivemos um momento de muita preocupa\u00e7\u00e3o, n\u00f3s que somos brasileiros e temos tantos companheiros estudantes na Bol\u00edvia. S\u00f3 de estudantes, s\u00e3o milhares deles que l\u00e1 est\u00e3o.\r\nH\u00e1 duas semanas, infelizmente, devido \u00e0 intensifica\u00e7\u00e3o de viol\u00eancia por causa de manifesta\u00e7\u00f5es recentes entre partid\u00e1rios e opositores de Evo Morales, esses brasileiros vivem momentos de terror. Estudantes, que, por sinal, s\u00e3o atra\u00eddos \u00e0 Bol\u00edvia por causa da faculdade, porque o pre\u00e7o \u00e9 menor e com menos concorr\u00eancia, especialmente na cidade de Santa Cruz de La Sierra, est\u00e3o passando por momentos dif\u00edceis. Existem estudantes que est\u00e3o l\u00e1 com o objetivo de finalizar os seus estudos, mas infelizmente est\u00e3o passando por muitas dificuldades, inclusive at\u00e9 para sair de casa. Existe toque de recolher, o com\u00e9rcio funciona at\u00e9 meio-dia e dificulta a compra de alimentos, o livre acesso para se locomover est\u00e1 prejudicado, ruas foram bloqueadas por manifestantes, e a locomo\u00e7\u00e3o est\u00e1 acontecendo agora apenas para quem pode ir de bicicleta ou a p\u00e9.\r\nEnt\u00e3o, em v\u00e1rios grupos de WhatsApp, h\u00e1 pessoas que est\u00e3o realmente pedindo socorro. E n\u00f3s utilizamos esta tribuna na qual n\u00f3s representamos, claro, cada um que est\u00e1 l\u00e1 para pedir ao Itamaraty que intermedeie.\r\nN\u00f3s vivemos problemas, h\u00e1 v\u00e1rias pessoas que foram feridas e h\u00e1 muitos brasileiros que l\u00e1 est\u00e3o.\r\nMas n\u00e3o est\u00e3o a passeio, est\u00e3o para trabalhar ou para estudar, porque infelizmente o Brasil n\u00e3o tem oferecido faculdade a pre\u00e7os menores, e tamb\u00e9m l\u00e1 h\u00e1 menos concorr\u00eancia.\r\nVemos o terror e, na verdade, temos a preocupa\u00e7\u00e3o de que a prote\u00e7\u00e3o a esses brasileiros tem que acontecer antes que uma trag\u00e9dia pior aconte\u00e7a.\r\nFicam registradas a nossa indigna\u00e7\u00e3o, a nossa preocupa\u00e7\u00e3o e o nosso pedido de socorro ao Itamaraty para que realmente se manifeste. Esses brasileiros est\u00e3o l\u00e1 pedindo por socorro e, infelizmente, h\u00e1 duas semanas, n\u00e3o est\u00e3o sendo ouvidos. N\u00f3s precisamos que essa decis\u00e3o, que sua iniciativa aconte\u00e7a por agora, antes que uma trag\u00e9dia pior aconte\u00e7a.\r\nEu gostaria, Presidente, que o nosso relato fosse divulgado no programa A Voz do Brasil.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ HENRIQUE MANDETTA, MINISTRO DE ESTADO DA SA\u00daDE, GEST\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nMPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, M\u00c9DICO, MUNIC\u00cdPIO, VULNERABILIDADE SOCIAL, MEDICINA DE FAM\u00cdLIA E COMUNIDADE, SISTEMA \u00daNICO DE SA\u00daDE (SUS), AUTORIZA\u00c7\u00c3O, CRIA\u00c7\u00c3O, AG\u00caNCIA PARA O DESENVOLVIMENTO DA ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE (ADAPS), APROVA\u00c7\u00c3O, EXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA), FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Compet\u00eancia do Ministro da Sa\u00fade, Luiz Henrique Mandetta. Defesa da aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, conhecida como MP do Revalida, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o do orador.) - Presidente Charles Fernandes, quero cumprimentar os nobres pares e todos que nos acompanham pela TV C\u00e2mara.\r\nFa\u00e7o tamb\u00e9m um cumprimento muito especial ao Ministro Mandetta, que est\u00e1 no nosso recinto, pessoa que realmente tem trabalhado firme para que cada vez mais a sa\u00fade possa de fato avan\u00e7ar. Quero deixar muito claro, Ministro Mandetta, o quanto n\u00f3s confiamos, o quanto este Congresso confia no senhor. N\u00f3s estamos realmente trabalhando juntos para que cada vez mais a sa\u00fade possa avan\u00e7ar, e j\u00e1 est\u00e1 avan\u00e7ando.\r\nMas utilizo da palavra, Presidente, para falar da Medida Provis\u00f3ria n\u00ba 890, de 2019, que h\u00e1 alguns dias est\u00e1 na pauta, e tamb\u00e9m nesta semana. N\u00f3s temos pressa na vota\u00e7\u00e3o da MP 890/19, mais conhecida como a MP do Revalida.\r\nEspecialmente eu, que moro em Rond\u00f4nia e sou apaixonada pelo meu Estado, sei o quanto est\u00e3o esperando os rondonienses que fazem suas faculdades na Bol\u00edvia, no Paraguai e em outros pa\u00edses, at\u00e9 porque s\u00e3o chamados, atra\u00eddos para esses lugares especialmente devido ao valor da mensalidade universit\u00e1ria.\r\nHoje, no Brasil, pagam-se em m\u00e9dia 8 mil reais por uma mensalidade, e n\u00f3s sabemos que os brasileiros n\u00e3o t\u00eam condi\u00e7\u00f5es financeiras para bancar uma faculdade e, por isso, eles realmente s\u00e3o atra\u00eddos por faculdades de outros pa\u00edses, especialmente na Bol\u00edvia, em se tratando da Regi\u00e3o Norte, que represento. Em m\u00e9dia, 70 mil brasileiros fazem faculdade e a maioria, \u00e9 claro, aguarda o Revalida, que n\u00e3o acontece desde 2017.\r\nN\u00e3o se trata de justi\u00e7a, mas de dar dignidade a estes profissionais. N\u00f3s, que representamos a sociedade que clama por melhorias na sa\u00fade, sabemos que faltam m\u00e9dicos. N\u00f3s realmente precisamos de mais m\u00e9dicos para atender a estas pessoas.\r\nN\u00f3s, que moramos em Rond\u00f4nia, temos moradores ribeirinhos que vivem em lugares de dif\u00edcil acesso, aos quais os m\u00e9dicos que t\u00eam muita vontade precisam chegar. \r\nPortanto, se o Revalida acontecer a cada semestre, ser\u00e3o dois por ano. No entanto, o Revalida n\u00e3o acontece desde 2017.\r\nN\u00f3s estamos falando n\u00e3o apenas para a Regi\u00e3o Norte, mas para todo o Brasil. Precisamos fazer justi\u00e7a e devolver a dignidade a esses m\u00e9dicos, especialmente para dar \u00e0 popula\u00e7\u00e3o uma sa\u00fade melhor, coisa pela qual ela clama. \u00c9 desta maneira que isso ser\u00e1 feito.\r\nSim \u00e0 MP 890! Sim ao Revalida!\r\nSr. Presidente, pe\u00e7o a V.Exa. que este pronunciamento seja registrado nos Anais da Casa e divulgado pelo programa A Voz do Brasil. \r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MOVIMENTO SOCIAL, C\u00c2MARA DOS DEPUTADOS, ASSISTENTE SOCIAL, PEC 383/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), GARANTIA, FONTE DE RECURSOS, SISTEMA \u00daNICO DE ASSIST\u00caNCIA SOCIAL (SUAS), APLICA\u00c7\u00c3O, UNI\u00c3O, PERCENTUAL, RECEITA CORRENTE L\u00cdQUIDA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Apoio \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 383, de 2017, sobre a garantia de recursos m\u00ednimos para o financiamento do Sistema \u00danico de Assist\u00eancia Social - SUAS.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o da oradora.) - Deputado Marcos Pereira, utilizo a tribuna para falar sobre uma preocupa\u00e7\u00e3o. Hoje, centenas, milhares de pessoas est\u00e3o mobilizadas nesta Casa, no Audit\u00f3rio Nereu Ramos. Elas fazem uma mobiliza\u00e7\u00e3o para a assist\u00eancia social.\r\nRecurso que deveria estar acampado para ajudar pessoas que tanto precisam infelizmente ainda n\u00e3o foi alocado. Ent\u00e3o n\u00f3s precisamos avan\u00e7ar nos trabalhos aqui. Existe a Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 383, de 2017, para realmente atender, com pelo menos 750 milh\u00f5es de reais, o or\u00e7amento do Sistema \u00danico de Assist\u00eancia Social - SUAS, para pagar d\u00edvidas do ano passado inclusive.\r\nNa cidade onde eu moro, recurso que deveria ter sido pago no m\u00eas de outubro foi pago agora, no m\u00eas de novembro. E o Sistema \u00danico de Assist\u00eancia Social precisa desse recurso.\r\nEnt\u00e3o, n\u00f3s precisamos caminhar para a frente, porque a assist\u00eancia social merece essa aten\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=28%2F11%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 7354/2017, PROJETO DE LEI ORDINARIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVORAVEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 7.354, de 2017, referente \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 11.664, de 2008, acerca da efetiva\u00e7\u00e3o de a\u00e7\u00f5es de sa\u00fade destinadas a preven\u00e7\u00e3o, a detec\u00e7\u00e3o, ao tratamento e ao seguimento dos c\u00e2nceres do colo uterino e de mama, no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS, para garantia da realiza\u00e7\u00e3o de ultrassonografia mam\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PDT entende que a preven\u00e7\u00e3o realmente continua sendo o melhor rem\u00e9dio. Por isso, a obrigatoriedade dos exames de ultrassonografia para detec\u00e7\u00e3o de c\u00e2ncer de colo uterino e c\u00e2ncer de mama \u00e9 um avan\u00e7o, porque a vida tem valor, e muito valor. E as pol\u00edticas p\u00fablicas favor\u00e1veis \u00e0 sa\u00fade, especialmente para preven\u00e7\u00e3o, t\u00eam que acontecer a passos largos nesta Casa. \r\nPor isso, n\u00f3s do PDT somos favor\u00e1veis \u00e0 urg\u00eancia do Requerimento n\u00ba 2.752. O nosso voto \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "DIA MUNDIAL DO COMBATE AO C\u00c2NCER, HOMENAGEM.\r\nSA\u00daDE, C\u00c2NCER, ROND\u00d4NIA, COMISS\u00c3O DE SEGURIDADE SOCIAL E FAM\u00cdLIA (CSSF), ATUA\u00c7\u00c3O, AGRADECIMENTO.\r\nPL 7354/;2017, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, GARANTIA, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ULTRASSONOGRAFIA MAM\u00c1RIA, MULHER, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Transcurso do Dia Mundial de Combate ao C\u00e2ncer. Agradecimento \u00e0 Comiss\u00e3o de Seguridade Social e Fam\u00edlia pelo apoio \u00e0 constru\u00e7\u00e3o do primeiro centro de preven\u00e7\u00e3o e diagn\u00f3stico de c\u00e2ncer do Estado de Rond\u00f4nia. Defesa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 7.354, de 2017, referente \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 11.664, de 2008, acerca da efetiva\u00e7\u00e3o de a\u00e7\u00f5es de sa\u00fade destinadas a preven\u00e7\u00e3o, a detec\u00e7\u00e3o, ao tratamento e ao seguimento dos c\u00e2nceres do colo uterino e de mama, no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS, com vista \u00e0 garantia da realiza\u00e7\u00e3o de ultrassonografia mam\u00e1ria. Import\u00e2ncia dos trabalhos e a\u00e7\u00f5es de preven\u00e7\u00e3o da doen\u00e7a.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje \u00e9 dia do nosso retorno \u00e0s atividades legislativas e tamb\u00e9m \u00e9 um dia de reflex\u00e3o. Afinal de contas, segundo a Organiza\u00e7\u00e3o Mundial de Sa\u00fade, estima-se que at\u00e9 2030 o c\u00e2ncer - uma doen\u00e7a que assusta e mata muito - ser\u00e1 respons\u00e1vel por 13 milh\u00f5es de mortes. Hoje, dia 4 de fevereiro, Dia Mundial do C\u00e2ncer, \u00e9 um dia sim de reflex\u00e3o, mas tamb\u00e9m \u00e9 uma oportunidade para falarmos sobre o que estamos fazendo aqui para reverter essa situa\u00e7\u00e3o em nossos Estados e no Brasil, uma situa\u00e7\u00e3o que realmente nos assusta.\r\nEu quero fazer um agradecimento. N\u00f3s iniciamos um trabalho no ano passado e, gra\u00e7as ao apoio, especialmente, da Comiss\u00e3o de Seguridade Social, que trata dos assuntos pertinentes \u00e0 sa\u00fade, conseguimos conquistar o primeiro centro de preven\u00e7\u00e3o e diagn\u00f3stico de c\u00e2ncer do Estado de Rond\u00f4nia, em parceria com o Hospital de Amor, o antigo Hospital de C\u00e2ncer de Barretos. Temos certeza de que a preven\u00e7\u00e3o \u00e9 o melhor rem\u00e9dio. Essa obra t\u00e3o importante ser\u00e1 feita em tempo recorde em Rond\u00f4nia, um Estado que sofre tanto, e n\u00e3o \u00e9 diferente em outros lugares do Brasil.\r\nE aqui, nesta Casa de Leis, onde o nosso trabalho legislativo \u00e9 de suma import\u00e2ncia, tenho o prazer de dizer que tamb\u00e9m sou Relatora do Projeto de Lei n\u00ba 7.354, de 2017, da Senadora L\u00facia V\u00e2nia, que disp\u00f5e sobre a efetiva\u00e7\u00e3o de a\u00e7\u00f5es de sa\u00fade que assegurem a preven\u00e7\u00e3o, a detec\u00e7\u00e3o, o tratamento e o seguimento de c\u00e2nceres de colo uterino e de mama, para garantir a realiza\u00e7\u00e3o da ultrassonografia mam\u00e1ria. \r\nTrabalho junto com v\u00e1rias outras Deputadas e com a Secretaria da Mulher, porque n\u00f3s sabemos na pele que esses dois tipos de c\u00e2nceres - o de colo uterino e de mama - s\u00e3o respons\u00e1veis pela maioria das mortes. E somos n\u00f3s mulheres que somos atingidas.\r\nN\u00f3s seguimos e, hoje, estamos reiniciando esse trabalho. Com certeza, estaremos nessa luta efetiva, porque o valor da vida \u00e9 muito grande para n\u00f3s. Preven\u00e7\u00e3o \u00e9 a base de tudo. Meu agradecimento ao Henrique Prata, porque essa parceria l\u00e1 no Estado de Rond\u00f4nia vai refletir sim em cura, em tratamento e em preven\u00e7\u00e3o, que \u00e9 melhor do que remediar.\r\nQue Deus nos proteja nesse grande ano legislativo de 2020!\r\nSr. Presidente, solicito a publica\u00e7\u00e3o e divulga\u00e7\u00e3o do meu discurso nos Anais e no programa A Voz do Brasil.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SILVIA CRISTINA, DEPUTADA FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, RADIOTERAPIA, SA\u00daDE P\u00daBLICA, ROND\u00d4NIA, TRATAMENTO M\u00c9DICO, C\u00c2NCER, JI-PARAN\u00c1 (RO).",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Aquisi\u00e7\u00e3o de aparelho de radioterapia para o Hospital de Amor, em Porto Velho, Estado de Rond\u00f4nia. An\u00fancio da instala\u00e7\u00e3o de centro de preven\u00e7\u00e3o e diagn\u00f3stico de c\u00e2ncer no Munic\u00edpio de Ji-Paran\u00e1.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Sr. Presidente, muito obrigada pela oportunidade.\r\nSubo a esta tribuna para falar de algo que realmente avan\u00e7a no Estado de Rond\u00f4nia, l\u00e1 no Norte. Quinta-feira, dia 20, estaremos l\u00e1 no Estado, juntamente com v\u00e1rias autoridades, representantes do Minist\u00e9rio da Sa\u00fade, o Governador do Estado, o Presidente do Hospital de Amor, para entregar mais um acelerador linear, conhecido como aparelho de radioterapia.\r\nMuito mais do que fazer a entrega de um simples equipamento, n\u00f3s vamos acelerar uma fila gigantesca no Estado de Rond\u00f4nia e levar a oportunidade de dar mais vida a tantas e tantas pessoas que hoje fazem tratamento de c\u00e2ncer e ficam v\u00e1rias dias, meses, aguardando as sess\u00f5es de radioterapia, que s\u00e3o importantes para o protocolo de tratamento do c\u00e2ncer.\r\nQuinta-feira, dia 20, esse acelerador linear ser\u00e1 entregue. \u00c9 claro que n\u00f3s precisamos de mais, mas o Estado de Rond\u00f4nia avan\u00e7a. No Hospital de Amor j\u00e1 s\u00e3o dois; em S\u00e3o Pelegrino, um; e em Daniel Comboni, um. \u00c9 um trabalho em conjunto.\r\nEu quero aqui parabenizar mais uma vez o Hospital de Amor, mas tamb\u00e9m o Minist\u00e9rio da Sa\u00fade, o Governo do Estado e todas aquelas pessoas que de maneira volunt\u00e1ria ajudam no combate a essa doen\u00e7a, que realmente tem matado muitas pessoas.\r\nRond\u00f4nia caminha para a frente a passos largos. E muito em breve tamb\u00e9m, em mais um trabalho nosso nesta Casa de leis, juntamente com a Frente Parlamentar, mas tamb\u00e9m no nosso compromisso de combate ao c\u00e2ncer, iniciaremos uma das maiores obras do Estado de Rond\u00f4nia, que \u00e9 o primeiro centro de preven\u00e7\u00e3o e diagn\u00f3stico de c\u00e2ncer na cidade de Ji-Paran\u00e1, regi\u00e3o central, que vai atender a todo o Estado de Rond\u00f4nia, numa parceria, com certeza, com o Hospital de Amor, que tem o compromisso em todo o Brasil de fazer um tratamento digno, humanizado e, na verdade, sem muito sofrimento aos pacientes com c\u00e2ncer.\r\nEnt\u00e3o eu fico muito feliz em saber que a sa\u00fade \u00e9 uma das nossas bandeiras e tem que ser prioridade no Brasil todo, inclusive na Regi\u00e3o Norte, que sofre bastante. Mas n\u00f3s estamos realmente caminhando para a frente. E que venham mais investimentos, porque a comunidade de Rond\u00f4nia realmente quer que, de fato, tudo isso aconte\u00e7a. E n\u00f3s estamos aqui para fazer isso com os demais Parlamentares, que aqui levam em pr\u00e1tica a sa\u00fade como uma das principais prioridades que n\u00f3s temos que ter nesta Casa.\r\nPresidente, que V.Exa. permita que esse nosso pronunciamento tamb\u00e9m seja levado ao programa A Voz do Brasil.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-05T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 39/2020, PROJETO DE LEI COMPLEMENTAR, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 113, apresentada ao Projeto de Lei Complementar n\u00ba 39, de 2020, do Senado Federal, referente \u00e0 institui\u00e7\u00e3o do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILVIA CRISTINA (PDT - RO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Agora, sim.\r\nPresidente, \u00e9 um prazer participar dessa orienta\u00e7\u00e3o, at\u00e9 porque sou do Estado de Rond\u00f4nia e sei da import\u00e2ncia desse destaque do Podemos. Agrade\u00e7o aos companheiros do Podemos.\r\nO PDT \u00e9 favor\u00e1vel ao destaque. N\u00f3s votamos \"sim\" ao destaque, porque entendemos que quem trabalhou h\u00e1 tanto tempo, quando ainda nem era Estado, era territ\u00f3rio, merece, sim, essa considera\u00e7\u00e3o, esse respeito.\r\nEnt\u00e3o, pelos trabalhadores do ex-Territ\u00f3rio de Rond\u00f4nia, n\u00f3s somos favor\u00e1veis ao destaque. O PDT vota \"sim\".\r\nMuito obrigada.\r\nEstou com saudade de ficar perto de V.Exa.\r\nQue Deus nos aben\u00e7oe nesta sess\u00e3o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2020&txPagina=293&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T11:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SORAYA SANTOS, DEPUTADO FEDERAL, BANCADA FEMININA, ELOGIO.\r\nDIA INTERNACIONAL DOS DIREITOS HUMANOS, HOMENAGEM.\r\nPL 4267/2020, PROJETO DE LEI ORDINARIA, PERCENTUAL, CUMPRIMENTO , PENA PRIVATIVA DE LIBERDADE, PROGRESS\u00c3O DE REGIME PRISIONAL, CONDENADO, ESTUPRO DE VULNER\u00c1VEL, PROIBI\u00c7\u00c3O, LIVRAMENTO, CONDICIONAL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Sauda\u00e7\u00e3o \u00e0 Presidenta em exerc\u00edcio dos trabalhos, Deputada Soraya Santos. Transcurso do Dia Internacional dos Direitos Humanos. Expectativa de aprova\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 4.287, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.675, de 2018, para inclus\u00e3o do Plano Nacional de Preven\u00e7\u00e3o e Enfrentamento \u00e0 Viol\u00eancia contra a Mulher como instrumento de implementa\u00e7\u00e3o da Pol\u00edtica Nacional de Seguran\u00e7a P\u00fablica e Defesa Social. Apoio da bancada do PDT \u00e0 causa feminina.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Deputada Soraya, nossa Presidente que nos orgulha tanto, meus cumprimentos a V.Exa. e a todos os que nos acompanham pela TV C\u00e2mara e tamb\u00e9m pela Internet. Como \u00e9 bom ver V.Exa. na Presid\u00eancia. V.Exa. sabe do orgulho que n\u00f3s todas da bancada feminina temos de V.Exa.\r\nNeste dia t\u00e3o especial, meninas - assim posso dizer - da bancada feminina, no Dia Internacional dos Direitos Humanos, quero falar um pouco do nosso trabalho, um trabalho que engloba todas as mulheres, mas tamb\u00e9m homens que valorizam o nosso trabalho.\r\n\u00c9 claro que n\u00f3s precisamos avan\u00e7ar, porque temos ainda muitas bandeiras. J\u00e1 crescemos, \u00e9 claro, com a Lei Maria da Penha, por exemplo. H\u00e1 tantas e tantas proposituras importantes, como algumas que vamos aprovar hoje, projetos de autoria de v\u00e1rias Deputadas, como o da Deputada Margarete Coelho, do qual eu sou Relatora. Daqui a pouco n\u00f3s vamos falar, especificamente, sobre o Projeto de Lei n\u00ba 4.287, que d\u00e1 muito mais garantia aos nossos trabalhos.\r\nEssa luta que n\u00f3s travamos na C\u00e2mara dos Deputados e fora dela tem rela\u00e7\u00e3o com o respeito, o respeito que se deve ter por mulheres, homens, crian\u00e7as, adolescentes. \u00c9 um trabalho concreto, que todas n\u00f3s realizamos. N\u00e3o queremos ser mais, queremos, \u00e9 claro, continuar esse trabalho de igualdade. \u00c9 por igualdade que lutamos. \u00c9 por igualdade e tamb\u00e9m por compet\u00eancia que estamos a mostrar um trabalho concretizado.\r\nA bancada do PDT, que muito nos orgulha, e o nosso Presidente Wolney Queiroz , toda a bancada e todos os homens est\u00e3o conosco nessa luta.\r\nEnt\u00e3o, este \u00e9 um dia muito especial. N\u00f3s estamos crescendo cada vez mais, sobretudo com muita compet\u00eancia, dizendo para o que viemos e o que vamos realmente construir de maneira democr\u00e1tica, mas tamb\u00e9m dizendo dos nossos anseios, porque s\u00e3o anseios de toda a comunidade.\r\nEu n\u00e3o tenho d\u00favida de que esta sess\u00e3o nos trar\u00e1 bastante resultado, resultado pelo qual estamos trabalhando h\u00e1 tantos anos, mas que vai ser concretizado hoje.\r\nUm forte abra\u00e7o a todas.\r\nMuito obrigada, Deputada Soraya, pela oportunidade. Caminhamos juntas, com a Deputada Dorinha e com todas as outras Deputadas que comp\u00f5em a bancada feminina, num trabalho expressivo. A cada dia n\u00f3s crescemos mais. \u00c9 por igualdade, \u00e9 por compet\u00eancia, \u00e9 por trabalho de garra que estamos trabalhando na C\u00e2mara Federal.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=44&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T12:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, PL 4267/2020, PROJETO DE LEI ORDINARIA, PERCENTUAL, CUMPRIMENTO , PENA PRIVATIVA DE LIBERDADE, PROGRESS\u00c3O DE REGIME PRISIONAL, CONDENADO, ESTUPRO DE VULNER\u00c1VEL, PROIBI\u00c7\u00c3O, LIVRAMENTO, CONDICIONAL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 4.287, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.675, de 2018, para inclus\u00e3o do Plano Nacional de Preven\u00e7\u00e3o e Enfrentamento \u00e0 Viol\u00eancia contra a Mulher como instrumento de implementa\u00e7\u00e3o da Pol\u00edtica Nacional de Seguran\u00e7a P\u00fablica e Defesa Social.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Para proferir parecer. Sem revis\u00e3o da oradora.) - Deputada Soraya, primeiro eu quero parabenizar a Deputada Margarete Coelho pela mat\u00e9ria importante deste Projeto de Lei n\u00ba 4.287, de 2020. Estou muito feliz por relatar uma mat\u00e9ria t\u00e3o importante, especialmente nesta pauta feminina que n\u00f3s estamos vivenciando nesta manh\u00e3.\r\n\"II - Voto da Relatora\r\nPela Comiss\u00e3o de Defesa dos Direitos da Mulher\r\nNa forma do disposto no RICD (art. 32, inciso XXIV, al\u00ednea 'b'), cabe a esta Comiss\u00e3o Permanente a an\u00e1lise, quanto ao m\u00e9rito, de mat\u00e9rias relativas \u00e0 preven\u00e7\u00e3o da viol\u00eancia contra a mulher.\r\nA defesa e prote\u00e7\u00e3o da mulher na sociedade brasileira v\u00eam evoluindo com o tempo. Em 2006, foi aprovada por este Parlamento a Lei n\u00ba 11.340, de 7 de agosto de 2006, a t\u00e3o famosa Lei Maria da Penha, e, desde ent\u00e3o, foram criadas delegacias especializadas e criados outros mecanismos de preven\u00e7\u00e3o, prote\u00e7\u00e3o e assist\u00eancia \u00e0 popula\u00e7\u00e3o feminina brasileira.\r\nContudo, a resposta estatal por vezes se mostra descoordenada, ineficaz e onerosa, situa\u00e7\u00e3o que aumenta a vulnerabilidade da popula\u00e7\u00e3o feminina.\r\nAinda, diante do sofrimento de todo o povo com a viol\u00eancia urbana e rural, foi criado o Sistema \u00danico de Seguran\u00e7a P\u00fablica - SUSP e a Pol\u00edtica Nacional de Seguran\u00e7a P\u00fablica e Defesa Social - PNSPDS, implantada pela Lei n\u00ba 13.675, de 2018.\r\nA PNSPDS pretende fortalecer \"as a\u00e7\u00f5es de preven\u00e7\u00e3o e resolu\u00e7\u00e3o pac\u00edfica de conflitos, priorizando pol\u00edticas de redu\u00e7\u00e3o da letalidade violenta, com \u00eanfase para os grupos vulner\u00e1veis\". Ela estabelece princ\u00edpios, diretrizes, objetivos, estrat\u00e9gias e elenca certos meios e instrumentos para implanta\u00e7\u00e3o dessa pol\u00edtica. Dentre os meios e instrumentos citados podemos listar o Plano Nacional de Enfrentamento de Homic\u00eddio de Jovens e o Plano de Seguran\u00e7a P\u00fablica e Defesa Social.\r\nAcreditamos que a aus\u00eancia de um Plano Nacional de Preven\u00e7\u00e3o e Enfrentamento \u00e0 Viol\u00eancia contra a Mulher enfraquece a PNSPDS, bem como desconsidera as car\u00eancias do combate contra essa viol\u00eancia, al\u00e9m de n\u00e3o valorizar os anos de evolu\u00e7\u00e3o dos direitos das mulheres, no que tange \u00e0 a\u00e7\u00e3o estatal para manter sua integridade f\u00edsica ou ps\u00edquica.\r\nO Plano Nacional de Preven\u00e7\u00e3o e Enfrentamento \u00e0 Viol\u00eancia contra a Mulher estabeleceria seus pr\u00f3prios princ\u00edpios, diretrizes e metas, contribuindo para elabora\u00e7\u00e3o, execu\u00e7\u00e3o, monitoramento e avalia\u00e7\u00e3o das pol\u00edticas de combate \u00e0 viol\u00eancia contra a mulher, em um primeiro momento, assim como reduziria os \u00edndices de criminalidade de forma geral.\r\nDiante do exposto, no m\u00e9rito, manifestamo-nos pela aprova\u00e7\u00e3o do PL 4.287/20, motivo pelo qual pedimos o apoio dos demais pares.\"\r\nNa verdade, n\u00f3s sabemos o quanto \u00e9 importante a aprova\u00e7\u00e3o deste PL.\r\n\"Pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania\r\nCompete \u00e0 CCJC pronunciar-se sobre a constitucionalidade, a juridicidade, a t\u00e9cnica legislativa e o m\u00e9rito da proposi\u00e7\u00e3o sob an\u00e1lise, consoante os arts. 24, inciso I, e 53, inciso III, do RICD.\r\nA proposi\u00e7\u00e3o atende aos pressupostos de constitucionalidade formal referentes \u00e0 compet\u00eancia da Uni\u00e3o para legislar sobre a mat\u00e9ria. A iniciativa constitucional da proposi\u00e7\u00e3o est\u00e1 em conformidade com os arts. 22 e 61 da Constitui\u00e7\u00e3o Federal, salvo melhor ju\u00edzo. Do mesmo modo, a proposi\u00e7\u00e3o n\u00e3o afronta as normas de car\u00e1ter material constantes da Constitui\u00e7\u00e3o Federal, tampouco os princ\u00edpios e fundamentos que informam nosso ordenamento jur\u00eddico.\r\nNo que diz respeito \u00e0 juridicidade, o projeto se consubstancia em esp\u00e9cie normativa adequada, inova no ordenamento jur\u00eddico e n\u00e3o contraria os princ\u00edpios gerais do direito. Tamb\u00e9m n\u00e3o h\u00e1 reparo a ser feito sob os prismas de efetividade, coercitividade, inova\u00e7\u00e3o e generalidade da norma proposta.\r\nA t\u00e9cnica legislativa empregada na proposi\u00e7\u00e3o se encontra de acordo com os ditames da Lei Complementar n\u00ba 95, de 26 de fevereiro de 1998, com as altera\u00e7\u00f5es introduzidas pela Lei Complementar n\u00ba 107, de 26 de abril de 2001, sendo ainda conveniente e oportuna.\r\nPelo exposto, votamos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa, que recomendam a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 4.287, de 2020\", de autoria da Deputada Margarete Coelho.\r\nTem o nosso voto de aprova\u00e7\u00e3o, querida Presidente e querida L\u00edder da nossa bancada feminina, Deputada Dorinha.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T12:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, EMENDA DE PLENARIO, PL 4267/2020, PROJETO DE LEI ORDINARIA, PERCENTUAL, CUMPRIMENTO , PENA PRIVATIVA DE LIBERDADE, PROGRESS\u00c3O DE REGIME PRISIONAL, CONDENADO, ESTUPRO DE VULNER\u00c1VEL, PROIBI\u00c7\u00c3O, LIVRAMENTO, CONDICIONAL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio apresentadas ao Projeto de Lei n\u00ba 4.287, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.675, de 2018, para inclus\u00e3o do Plano Nacional de Preven\u00e7\u00e3o e Enfrentamento \u00e0 Viol\u00eancia contra a Mulher como instrumento de implementa\u00e7\u00e3o da Pol\u00edtica Nacional de Seguran\u00e7a P\u00fablica e Defesa Social.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Para proferir parecer. Sem revis\u00e3o da oradora.) - Deputada Dorinha, \u00e9 um prazer termos a relatoria da mat\u00e9ria, de suma import\u00e2ncia. Foi apresentada uma emenda, de autoria da Deputada Erika Kokay. \r\nAp\u00f3s amplo di\u00e1logo com diversos L\u00edderes partid\u00e1rios e um estudo detalhado da mat\u00e9ria, proferimos o parecer.\r\n\"Ante o exposto, no \u00e2mbito da Comiss\u00e3o de Defesa dos Direitos da Mulher, somos pela aprova\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 1, na forma de emenda\" modificativa - em anexo - \"(...) que pretende refor\u00e7ar o plano proposto e garantir que sua \u00e1rea de atua\u00e7\u00e3o transcenda \u00e0 quest\u00e3o da seguran\u00e7a p\u00fablica e abarque demais mat\u00e9rias. \r\nNo \u00e2mbito da Comiss\u00e3o de Seguran\u00e7a P\u00fablica e Combate ao Crime Organizado, somos pela aprova\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 1, na forma da subemenda\" modificativa \"(...) adotada pela Relatora da Comiss\u00e3o de Defesa dos Direitos da Mulher. \r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa\" de todas as emendas. Ali\u00e1s, h\u00e1 uma \u00fanica emenda, apresentada pela Comiss\u00e3o de Seguridade Social e de Fam\u00edlia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 123/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 4\u00ba, art. 5\u00ba, da Lei n\u00ba 13.756, de 2018, com a reda\u00e7\u00e3o dada pelo art. 2\u00ba do Projeto de Lei n\u00ba 123, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 10.201, de 2001, com vista \u00e0 inclus\u00e3o de programas de combate e preven\u00e7\u00e3o da viol\u00eancia contra a mulher, como modalidade de projeto apoiado pelo Fundo Nacional de Seguran\u00e7a P\u00fablica; e a altera\u00e7\u00e3o da Lei n\u00ba 11.340, de 2006, para autoriza\u00e7\u00e3o do uso de recursos do Fundo Nacional de Seguran\u00e7a P\u00fablica em a\u00e7\u00f5es envolvendo preven\u00e7\u00e3o e combate \u00e0 viol\u00eancia dom\u00e9stica e familiar contra a mulher.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente Soraya Santos, j\u00e1 \u00e9 um bom come\u00e7o. \u00c9 claro que n\u00f3s precisamos de mais a\u00e7\u00f5es, mas n\u00e3o tem como n\u00e3o dizer \"sim\" \u00e0 manuten\u00e7\u00e3o deste texto, porque as a\u00e7\u00f5es de enfrentamento \u00e0 viol\u00eancia contra a mulher t\u00eam que ser mais efetivas. Com esses 5% do Fundo Nacional de Seguran\u00e7a P\u00fablica, com certeza, n\u00f3s avan\u00e7aremos.\r\nVotamos \"sim\", v\u00e1rias vezes, pela manuten\u00e7\u00e3o do texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-24T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PANDEMIA, CORONAV\u00cdRUS, PREVEN\u00c7\u00c3O, SA\u00daDE P\u00daBLICA, C\u00c2NCER DE MAMA, ROND\u00d4NIA, PACIENTE, MULHER, VACINA\u00c7\u00c3O, MINIST\u00c9RIO DA SA\u00daDE, URG\u00caNCIA, SILVIA CRISTINA, DEPUTADA FEDERAL, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, RECURSOS P\u00daBLICOS, DIAGN\u00d3STICO M\u00c9DICO, C\u00c2NCER, ATUA\u00c7\u00c3O PARLAMENTAR, OBRA P\u00daBLICA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Redu\u00e7\u00e3o dos exames preventivos do c\u00e2ncer de mama e outros, diante da epidemia de coronav\u00edrus. Apelo ao Minist\u00e9rio da Sa\u00fade de celeridade na imuniza\u00e7\u00e3o do povo brasileiro contra a Covid-19. Regozijo com a anunciada inaugura\u00e7\u00e3o do Centro de Preven\u00e7\u00e3o e Diagn\u00f3stico de C\u00e2ncer do Estado de Rond\u00f4nia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Sem revis\u00e3o da oradora.) - Muito obrigada, Presidente.\r\n\u00c9 um prazer fazer uso desta tribuna pela primeira vez.\r\nUtilizo a tribuna para falar de uma grande problem\u00e1tica que n\u00f3s estamos vivendo no Brasil: a pandemia, que nos surpreendeu, tamb\u00e9m faz com que tenhamos grandes medos, mas tamb\u00e9m responsabilidades.\r\nA preven\u00e7\u00e3o do c\u00e2ncer no nosso Brasil tem que ser levada a s\u00e9rio a partir de agora. As pessoas deixaram de fazer a sua preven\u00e7\u00e3o. S\u00f3 para se ter uma ideia - todos sabem do meu amor, do meu carinho e da defesa que fa\u00e7o nesta Casa contra o c\u00e2ncer -, no Estado de Rond\u00f4nia, na regi\u00e3o central, onde se faziam em m\u00e9dia mais de 20 mil exames preventivos de c\u00e2ncer de mama, em 2020, foram feitos apenas 5.909 exames na regi\u00e3o central. Olha a diferen\u00e7a! Isso foi o que a pandemia ocasionou. Quantas mulheres ser\u00e3o surpreendidas com o c\u00e2ncer avan\u00e7ado, porque n\u00e3o tiveram a coragem, e n\u00f3s tivemos realmente a problem\u00e1tica com a pandemia!\r\nN\u00f3s precisamos avan\u00e7ar. A vacina chegou? Chegou. Mas n\u00e3o chegou para todo mundo ainda. E n\u00f3s temos urg\u00eancia. Estamos fazendo a nossa parte aqui. Mas tamb\u00e9m queremos a resposta do Minist\u00e9rio da Sa\u00fade, porque, infelizmente, ainda n\u00e3o caminha da maneira que n\u00f3s gostar\u00edamos.\r\nQuando o projeto veio para esta Casa para que n\u00f3s, Deputados, o aprov\u00e1ssemos, sua aprova\u00e7\u00e3o foi feita a toque de caixa. Mas, e o resultado para que essa vacina n\u00e3o chegasse para poucos? Ela precisa chegar de maneira urgente para todos, porque o que mais nos preocupa n\u00e3o \u00e9 o per\u00edodo da pandemia, \u00e9 o p\u00f3s-pandemia, s\u00e3o as doen\u00e7as que vir\u00e3o, as cirurgias que deixaram de ser feitas e as doen\u00e7as agravantes vir\u00e3o a partir de agora.\r\nL\u00e1 em Rond\u00f4nia, n\u00f3s estamos avan\u00e7ando. Eu tenho o prazer, Presidente, de dizer que, daqui a 2 meses, n\u00f3s vamos concluir uma obra importante para toda a Regi\u00e3o Norte: o primeiro Centro de Preven\u00e7\u00e3o e Diagn\u00f3stico de C\u00e2ncer, fruto da minha emenda parlamentar. Mas o quanto n\u00f3s vamos precisar caminhar a passos largos para poder dar dignidade, sa\u00fade e vida para tantas pessoas que ser\u00e3o acometidas por essa doen\u00e7a que, n\u00f3s sabemos, continua matando?\r\nA pandemia vai passar. Que pena que n\u00f3s perdemos tantas pessoas! Eu lamento. Perdi muitas pessoas no Estado de Rond\u00f4nia e no Brasil, que n\u00f3s tamb\u00e9m conhecemos - n\u00e3o \u00e9, meu querido Afonso? Mas n\u00f3s precisamos avan\u00e7ar, porque, infelizmente, esta Casa fez a sua parte. Mas n\u00f3s precisamos que o Minist\u00e9rio da Sa\u00fade tamb\u00e9m cumpra com a sua e que essa vacina - n\u00e3o vamos falar em fabricantes - chegue a todo o povo brasileiro, porque sen\u00e3o o p\u00f3s-pandemia, que \u00e9 o que n\u00f3s tememos, ser\u00e1 cruel.\r\nEnt\u00e3o, quero avisar a todo o povo de Rond\u00f4nia, a todo o povo do nosso Nort\u00e3o, que, muito em breve, daqui a 2 meses, n\u00f3s vamos finalizar essa obra - mais um tempinho para que possamos equip\u00e1-la -, porque n\u00f3s queremos salvar vidas. \u00c9 para isso que n\u00f3s estamos aqui.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F2%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-29T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 1/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1016/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCRATICO TRABALHISTA (PDT).",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo do inciso I, contido no \u00a7 10, inserido no art. 2\u00ba do projeto de lei de convers\u00e3o oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 1.016, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 7.827, de 1989, para a disposi\u00e7\u00e3o sobre a renegocia\u00e7\u00e3o extraordin\u00e1ria de d\u00e9bitos no \u00e2mbito do Fundo Constitucional de Financiamento do Norte - FNO, do Fundo Constitucional de Financiamento do Nordeste - FNE e do Fundo Constitucional de Financiamento do Centro-Oeste FCO.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - O PDT tem responsabilidade. N\u00f3s somos a favor, \u00e9 claro, da renegocia\u00e7\u00e3o das d\u00edvidas, mas n\u00e3o que haja impunidade. N\u00f3s temos que trabalhar contra a impunidade.\r\nPor isso, o PDT orienta \"n\u00e3o\" ao texto, com vistas \u00e0 supress\u00e3o desse artigo. Eu n\u00e3o tenho d\u00favida de que n\u00f3s estamos votando com muita integridade, para poder dar resposta ao povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2021&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-29T11:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 1/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1016/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCRATICO TRBALHISTA (PDT).",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque supressivo do \u00a7 12 do art. 15-E da Lei n\u00ba 7.827, de 1989, proposto pelo art. 2\u00ba do projeto de lei de convers\u00e3o oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 1.016, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 7.827, de 1989, para a disposi\u00e7\u00e3o sobre a renegocia\u00e7\u00e3o extraordin\u00e1ria de d\u00e9bitos no \u00e2mbito do Fundo Constitucional de Financiamento do Norte - FNO, do Fundo Constitucional de Financiamento do Nordeste - FNE e do Fundo Constitucional de Financiamento do Centro-Oeste FCO.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - O PDT, Presidente, orienta \"n\u00e3o\" ao texto e justifico. N\u00f3s somos \"sim\" a favor da renegocia\u00e7\u00e3o. N\u00f3s estamos aqui para ajudar, para fazer justi\u00e7a, mas para quem realmente precisa neste momento. Ent\u00e3o, orientamos \"n\u00e3o\" ao texto, pela supress\u00e3o. \u00c9 claro que estamos conscientes do trabalho que fazemos com precis\u00e3o aqui. O PDT orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2021&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-29T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, PLV 4/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1016/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT).",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado, com vistas \u00e0 rejei\u00e7\u00e3o, do \u00a7 14 do art. 15-E da Lei 7.827, de 1989, proposto pelo art. 2\u00ba do projeto de lei de convers\u00e3o oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 1.016, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 7.827, de 1989, para a disposi\u00e7\u00e3o sobre a renegocia\u00e7\u00e3o extraordin\u00e1ria de d\u00e9bitos no \u00e2mbito do Fundo Constitucional de Financiamento do Norte - FNO, do Fundo Constitucional de Financiamento do Nordeste - FNE e do Fundo Constitucional de Financiamento do Centro-Oeste - FCO.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o PDT orienta, mais uma vez, \"n\u00e3o\", porque este destaque faz com que se dispense a exig\u00eancia de certid\u00f5es negativas, o que realmente favorece o surgimento de novos caloteiros. N\u00f3s temos que levar isso a s\u00e9rio, especialmente as renegocia\u00e7\u00f5es.\r\nMais uma vez, o PDT cumpre com seu papel e vota \"n\u00e3o\" ao texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2021&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-29T13:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 1558/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL, EQUIPARA\u00c7\u00c3O SALARIAL, IGUALDADE ENTRE OS SEXOS, DIREITOS, MULHER, MERCADO DE TRABALHO.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de tramita\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 1.558, de 2021, sobre acr\u00e9scimo do \u00a7 3\u00ba ao art. 401 da Consolida\u00e7\u00e3o das Leis do Trabalho, com vista ao estabelecimento de multa para combate \u00e0 diferen\u00e7a de remunera\u00e7\u00e3o verificada entre homens e mulheres no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, \u00e9 um orgulho para mim ser favor\u00e1vel, em nome do PDT, a esse requerimento de urg\u00eancia.\r\nPor ser mulher, sei da import\u00e2ncia desse projeto que, em breve, estar\u00e1 na pauta de vota\u00e7\u00e3o. Mas especialmente por representar as mulheres, por ter tido dificuldade de, al\u00e9m de ser mulher, ser negra, sei da import\u00e2ncia. N\u00f3s temos que viver em um Pa\u00eds de igualdade, especialmente no trabalho. Ent\u00e3o, ele vai para dar dignidade a milhares de mulheres que, como eu, tamb\u00e9m, j\u00e1 tiveram dificuldades.\r\nOrientamos, \"sim\", com certeza, pelo PDT, e \"sim\" \u00e0 aprova\u00e7\u00e3o desse requerimento de urg\u00eancia que est\u00e1 hoje em plen\u00e1rio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2021&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-30T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1605/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.605, de 2019, sobre a institui\u00e7\u00e3o do Estatuto da Pessoa com C\u00e2ncer.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Pela ordem. Sem revis\u00e3o da oradora.) - Obrigada, meu querido Deputado, Presidente Gilberto. \u00c9 um prazer t\u00ea-lo na Presid\u00eancia. Parab\u00e9ns!\r\nComo Presidente da Frente Parlamentar Mista em Prol da Luta Contra o C\u00e2ncer, eu me sinto honrada em fazer a orienta\u00e7\u00e3o pelo meu partido, o PDT, porque sei da import\u00e2ncia desse estatuto. Fui Relatora na Comiss\u00e3o de Seguridade Social. Mais do que dar dignidade a todos os pacientes com c\u00e2ncer - inclusive, j\u00e1 enfrentei a doen\u00e7a e sou uma vencedora, sei o que isso significa -, os portadores da doen\u00e7a esperam desta Casa realmente a aprova\u00e7\u00e3o desse estatuto. \u00c9 um momento hist\u00f3rico para todos n\u00f3s.\r\nGostaria de dizer que, como resultado do nosso trabalho, no m\u00eas de outubro n\u00f3s temos pr\u00e9-agendada a inaugura\u00e7\u00e3o do primeiro Centro de Preven\u00e7\u00e3o e Diagn\u00f3stico de C\u00e2ncer, fruto de emenda parlamentar de nossa autoria. Ent\u00e3o, \u00e9 s\u00f3 comemora\u00e7\u00e3o! Quero parabenizar o Eduardo Braide e todos os envolvidos.\r\nA orienta\u00e7\u00e3o do PDT, claro, com todas as honras, \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-01T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), PL 6330/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DOS PLANOS DE SA\u00daDE, AMPLIA\u00c7\u00c3O, TRATAMENTO M\u00c9DICO, MEDICAMENTO ANTINEOPL\u00c1SICO, MEDICAMENTO DE USO ORAL, USU\u00c1RIO, PLANO DE SA\u00daDE.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 6.330, de 2019, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 9.656, de 1998, (Lei dos Planos de Sa\u00fade), para amplia\u00e7\u00e3o do acesso a tratamentos antineopl\u00e1sicos domiciliares de uso oral, pelos usu\u00e1rios de planos de assist\u00eancia \u00e0 sa\u00fade.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Para proferir parecer. Sem revis\u00e3o da oradora.) - Muito obrigada, Sr. Presidente. \r\nEste \u00e9 realmente um momento de grande relev\u00e2ncia nesta Casa. Eu vou direto ao nosso relat\u00f3rio de um projeto intitulado, com muito carinho, Projeto da Qu\u00edmio Oral.\r\n\"I - Relat\u00f3rio\r\nTrata-se do Projeto de Lei n\u00ba 6.330, de 2019, aprovado no Senado Federal, que altera a Lei n\u00ba 9.656, de 1998 (Lei dos Planos de Sa\u00fade), para ampliar o acesso a tratamentos antineopl\u00e1sicos domiciliares de uso oral pelos usu\u00e1rios de planos de assist\u00eancia \u00e0 sa\u00fade.\r\nApensado ao projeto em ep\u00edgrafe, encontra-se o Projeto de Lei n\u00ba 10.722, de 2018, da Deputada Carmen Zanotto, que altera a Lei n\u00ba 9.656, de 1998, para determinar que a incorpora\u00e7\u00e3o de medicamentos antineopl\u00e1sicos de uso oral ao Rol de Procedimentos seja efetivada, automaticamente, ap\u00f3s o registro do medicamento na Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (ANVISA).\r\nOs projetos, que tramitam sob o rito priorit\u00e1rio, est\u00e3o sujeitos \u00e0 aprecia\u00e7\u00e3o do Plen\u00e1rio. Foram distribu\u00eddos \u00e0 Comiss\u00e3o de Seguridade Social e Fam\u00edlia, para o exame de m\u00e9rito, e \u00e0 Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, para a aferi\u00e7\u00e3o da constitucionalidade, da juridicidade e da t\u00e9cnica legislativa.\r\nII - Voto da Relatora\r\nDe fato, conforme o art. 12, I, 'c', da Lei n\u00ba 9.656, de 1998, a cobertura de tratamentos de antineopl\u00e1sicos domiciliares de uso oral \u00e9 exig\u00eancia m\u00ednima aos planos de sa\u00fade para aqueles benefici\u00e1rios cujos contratos incluem atendimento ambulatorial. No entanto, para que o paciente tenha direito ao custeio desses tratamentos, n\u00e3o basta que o m\u00e9dico assistente prescreva o medicamento que considere ser mais eficaz para o caso espec\u00edfico e que este j\u00e1 tenha sido registrado na Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (ANVISA). Ainda, \u00e9 preciso que este medicamento tenha sido listado no Rol de Procedimentos e Eventos em Sa\u00fade, elaborado periodicamente pela Ag\u00eancia Nacional de Sa\u00fade Suplementar.\r\nN\u00e3o compreendemos a necessidade desta dupla avalia\u00e7\u00e3o do medicamento. A ANVISA, antes de registrar qualquer medicamento, promove rigorosa an\u00e1lise farmacot\u00e9cnica, de efic\u00e1cia e de seguran\u00e7a.\r\nA investiga\u00e7\u00e3o farmacot\u00e9cnica inclui a verifica\u00e7\u00e3o de todas as etapas da fabrica\u00e7\u00e3o do medicamento. J\u00e1 as avalia\u00e7\u00f5es de efic\u00e1cia e de seguran\u00e7a s\u00e3o feitas por meio da observa\u00e7\u00e3o de estudos pr\u00e9-cl\u00ednicos (ou n\u00e3o cl\u00ednicos) e cl\u00ednicos. Desta forma, quaisquer medicamentos que passaram por este processo t\u00eam evid\u00eancias cl\u00ednicas de seguran\u00e7a e de efic\u00e1cia. Por isso, poderiam ser prescritos aos pacientes, a depender da decis\u00e3o do m\u00e9dico assistente, respeitadas as indica\u00e7\u00f5es terap\u00eauticas aprovadas.\r\nA incoer\u00eancia desta regra se torna mais evidente quando observamos que, quando se trata de medicamentos com o mesmo objetivo mas ministrados por via endovenosa, sob interven\u00e7\u00e3o ou supervis\u00e3o direta de profissionais dentro de estabelecimentos de sa\u00fade, n\u00e3o \u00e9 preciso que esses quimioter\u00e1picos constem do Rol de Procedimentos e Eventos. Apenas seu registro na ANVISA \u00e9 suficiente para que as operadoras promovam seu custeio.\r\nOs medicamentos antineopl\u00e1sicos de uso oral apresentam diversas vantagens em rela\u00e7\u00e3o \u00e0queles ministrados por via endovenosa: s\u00e3o mais convenientes, eliminam a necessidade do acesso venoso e permitem que o paciente fique menos tempo fora de casa. Alguns deles apresentam, tamb\u00e9m, menos efeitos colaterais, o que promove incremento na qualidade de vida da pessoa em tratamento. Em estudo sobre a prefer\u00eancia de pacientes em rela\u00e7\u00e3o \u00e0 quimioterapia, de 103 entrevistados, 90% indicaram preferir antineopl\u00e1sicos orais porque, entre outras raz\u00f5es, eles permitiam maior controle sobre seu tratamento.\r\nNo contexto atual, em que o distanciamento social tem sido praticado em todo o mundo em raz\u00e3o da pandemia da COVID-19, o uso de antineopl\u00e1sicos em domic\u00edlio se torna mais imperativo. Esta doen\u00e7a representa uma amea\u00e7a a todas as pessoas, mas aqueles que est\u00e3o em tratamentos antineopl\u00e1sicos e, por isso, t\u00eam a imunidade temporariamente fragilizada correm um risco ainda maior.\r\nTodavia, mesmo cientes deste perigo, muitos pacientes benefici\u00e1rios de planos de sa\u00fade t\u00eam tido que se deslocar de suas respectivas resid\u00eancias para estabelecimentos de sa\u00fade, para receberem antineopl\u00e1sicos endovenosos, justamente porque os respectivos planos cobrem apenas uma pequena lista de medicamentos orais, constante do rol da ANS. Cidad\u00e3os com a sa\u00fade vulner\u00e1vel t\u00eam rompido o distanciamento, t\u00eam se exposto \u00e0 possibilidade de contamina\u00e7\u00e3o, porque a sistem\u00e1tica legal da sa\u00fade suplementar apresenta esta contradi\u00e7\u00e3o inaceit\u00e1vel. O que justifica o fato de o registro na ANVISA ser suficiente para o custeio dos antineopl\u00e1sicos venosos, mas n\u00e3o para os de uso oral?\r\nA administra\u00e7\u00e3o de antineopl\u00e1sicos pela via oral permite, em muitos casos, a melhora do bem-estar do paciente. Al\u00e9m disso, enseja seu protagonismo em seu tratamento e, no cen\u00e1rio atual, pode representar uma estrat\u00e9gia protetiva contra a contamina\u00e7\u00e3o pela COVID-19. A mudan\u00e7a da legisla\u00e7\u00e3o, portanto, \u00e9 imprescind\u00edvel. N\u00f3s, representantes do povo, temos o dever de promover essa mudan\u00e7a, em nome das dezenas de milhares de brasileiros que, mensalmente, disp\u00f5em de consider\u00e1vel parte do seu or\u00e7amento para garantirem a participa\u00e7\u00e3o na sa\u00fade suplementar. Neste sentido, consideramos o Projeto de Lei n\u00ba 6.330, de 2019, aprovado no Senado, merit\u00f3rio e oportuno. \r\nO apensado - Projeto de Lei n\u00ba 10.722, de 2018 -, originado nesta Casa, tamb\u00e9m tem evidente m\u00e9rito, com proposta bastante semelhante. Temos que parabenizar a nobre autora, a Deputada Carmen Zanotto, que demonstrou, com esta proposi\u00e7\u00e3o, sua preocupa\u00e7\u00e3o com o conforto e com a seguran\u00e7a dos pacientes com c\u00e2ncer. Por\u00e9m, a aprova\u00e7\u00e3o do PL da C\u00e2mara retornaria o texto para o Senado Federal, atrasando a tramita\u00e7\u00e3o por prazo indeterminado.\r\nDestaco e parabenizo pela importante atua\u00e7\u00e3o o Instituo Vencer o C\u00e2ncer - IVOC, em nome do seu fundador, o Dr. Fernando Maluf, e de toda a equipe, que t\u00eam atuado desde o in\u00edcio do m\u00e9rito da mat\u00e9ria legislativa de forma contributiva.\r\nO voto favor\u00e1vel ao projeto j\u00e1 aprovado no Senado encaminharia o mesmo para a san\u00e7\u00e3o presidencial, o que pode beneficiar em curto prazo pacientes que j\u00e1 se encontram em tratamento do c\u00e2ncer.\r\nAnte o exposto, no \u00e2mbito da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, somos pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 6.330, de 2019 (...)\", assim como foi no Senado. \r\n\"No que se refere \u00e0 constitucionalidade formal dos projetos, informamos que a mat\u00e9ria \u00e9 de compet\u00eancia legislativa concorrente, cabendo \u00e0 Uni\u00e3o estabelecer normas gerais, nos termos do art. 24, XII, e \u00a7 1\u00ba, da Constitui\u00e7\u00e3o da Rep\u00fablica. Apresenta-se igualmente leg\u00edtima a iniciativa parlamentar. Quanto \u00e0 constitucionalidade material dos projetos em exame, n\u00e3o se vislumbra nenhuma ofensa aos princ\u00edpios e regras plasmados na Lei Maior. No que tange \u00e0 juridicidade, a mat\u00e9ria inova o ordenamento jur\u00eddico e respeita os princ\u00edpios gerais do direito. No que se refere \u00e0 t\u00e9cnica legislativa, entendemos que as proposi\u00e7\u00f5es obedecem \u00e0s normas da Lei Complementar n\u00ba 95, de 26 de fevereiro de 1998.\r\nPortanto, na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 6.330, de 2019, e do Projeto de Lei n\u00ba 10.722, de 2018.\"\r\nEsta \u00e9 a nossa relatoria, Presidente.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-01T13:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), EMENDA DE PLEN\u00c1RIO, EXTENS\u00c3O,  MEDICAMENTO ANTINEOPL\u00c1SICO, MEDICAMENTO DE USO ORAL, USU\u00c1RIO, SISTEMA \u00daNICO DE SA\u00daDE (SUS), PL 6330/2019, PROJETO DE LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Silvia Cristina",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Emenda de Plen\u00e1rio n\u00ba 1, apresentada ao Projeto de Lei n\u00ba 6.330, de 2019, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 9.656, de 1998, (Lei dos Planos de Sa\u00fade), para amplia\u00e7\u00e3o do acesso a tratamentos antineopl\u00e1sicos domiciliares de uso oral, pelos usu\u00e1rios de planos de assist\u00eancia \u00e0 sa\u00fade.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "A SRA. SILVIA CRISTINA (PDT - RO. Para proferir parecer. Sem revis\u00e3o da oradora.) - Obrigada, Sr. Presidente.\r\nEu vou direto ao voto.\r\n\"I - Voto do Relator ou da Relatora.\r\nDurante a discuss\u00e3o da mat\u00e9ria, foi apresentada uma emenda de Plen\u00e1rio.\r\nA Emenda de Plen\u00e1rio n\u00ba 1 pretende estender a cobertura dos antineopl\u00e1sicos orais aos pacientes atendidos pelo Sistema \u00danico de Sa\u00fade.\r\nEmbora a proposta seja bem intencionada, entendemos que tal medida vai contra os preceitos de avalia\u00e7\u00e3o de novas tecnologias da sa\u00fade previstos na Lei n\u00ba 8.080, de 19 de setembro de 1990.\r\nA amplia\u00e7\u00e3o do acesso aos quimioter\u00e1picos orais na sa\u00fade suplementar, de que trata o projeto sob an\u00e1lise, leva em conta que a legisla\u00e7\u00e3o j\u00e1 admite o uso da quimioterapia no paciente hospitalizado.\r\nAnte o exposto, no \u00e2mbito da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, somos pela rejei\u00e7\u00e3o da emenda de Plen\u00e1rio apresentada.\r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa da emenda de Plen\u00e1rio apresentada.\"\r\nQuero agradecer aos pares, pois temos conversado para chegar a um consenso e avan\u00e7ar. O c\u00e2ncer n\u00e3o espera. N\u00f3s precisamos avan\u00e7ar para salvar muitas vidas. \u00c9 isso que queremos com a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 6.330.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

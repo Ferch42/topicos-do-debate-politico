@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MARCELO \u00c1LVARO ANT\u00d4NIO, DEPUTADO FEDERAL, MINISTRO DE ESTADO, MINIST\u00c9RIO DO TURISMO.",
+        "nomeDeputado": "Marcelo \u00c1lvaro Ant\u00f4nio",
+        "sumario": "Sauda\u00e7\u00f5es aos Deputados do PSL. Agradecimento ao Presidente da Frente Parlamentar Mista em Defesa do Turismo, Deputado Herculano Passos, pela indica\u00e7\u00e3o do orador para o cargo de Ministro do Turismo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. MARCELO \u00c1LVARO ANT\u00d4NIO (Bloco/PSL - MG. Sem revis\u00e3o do orador.) - Presidente, muito obrigado pela oportunidade.\r\nEu solicito 1 minuto apenas para agradecer aos Deputados do nosso partido, o PSL, o carinho e a considera\u00e7\u00e3o de cada um deles. \r\nNa pessoa do nosso Presidente da Frente Parlamentar Mista em Defesa do Turismo, o Deputado Herculano Passos, agrade\u00e7o a indica\u00e7\u00e3o do meu nome para o Minist\u00e9rio do Turismo. Amanh\u00e3 retornarei \u00e0s minhas atividades.  \r\nObrigado. Um forte abra\u00e7o a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=30&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

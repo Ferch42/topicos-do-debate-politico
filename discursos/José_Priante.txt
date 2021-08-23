@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O, VINICIUS CARVALHO, DEPUTADO FEDERAL, RELATOR, MEMBRO, COMISS\u00c3O ESPECIAL, PL 1645/2019, PROJETO DE LEI ORDIN\u00c1RIA, REFORMA PREVIDENCI\u00c1RIA (2019), MILITAR.\r\nDATA, APRESENTA\u00c7\u00c3O, RELAT\u00d3RIO, PL 1645/2019, PROJETO DE LEI ORDIN\u00c1RIA, REFORMA PREVIDENCI\u00c1RIA (2019), MILITAR.",
+        "nomeDeputado": "Jos\u00e9 Priante",
+        "sumario": "Elogio ao Deputado Vinicius Carvalho pela atua\u00e7\u00e3o no cargo de Relator do Projeto de Lei n\u00ba 1.645, de 2019, do Poder Executivo, sobre altera\u00e7\u00e3o das Leis de n\u00bas 6.880, de 1980, acerca do Estatuto dos Militares; 3.765, de 1960, relativa \u00e0s pens\u00f5es militares; 4.375, de 1964, referente ao servi\u00e7o militar; 5.821, de 1972, sobre as promo\u00e7\u00f5es dos Oficiais da ativa das For\u00e7as Armadas brasileiras, e 12.705, de 2012, concernente aos requisitos para ingresso nos cursos de forma\u00e7\u00e3o de militares de carreira do Ex\u00e9rcito brasileiro (Reformula\u00e7\u00e3o do sistema previdenci\u00e1rio dos militares). Congratula\u00e7\u00f5es aos membros da Comiss\u00e3o Especial destinada ao exame da proposi\u00e7\u00e3o, pelo atendimento ao pleito da Pol\u00edcia Militar e do Corpo de Bombeiros Militar. Convoca\u00e7\u00e3o pelo \u00f3rg\u00e3o de reuni\u00e3o para apresenta\u00e7\u00e3o do parecer/substitutivo oferecido \u00e0 mat\u00e9ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOS\u00c9 PRIANTE (Bloco/MDB - PA. Sem revis\u00e3o do orador.) - Muito obrigado, Deputado Vinicius.\r\nEu quero fazer apenas um registro neste momento parabenizando V.Exa. pelo grande trabalho que tem feito \u00e0 frente da Relatoria dessa mat\u00e9ria que versa sobre o sistema de prote\u00e7\u00e3o social dos militares das For\u00e7as Armadas. Mais do que isso, parabenizo V.Exa. e a nossa Comiss\u00e3o pela sensibilidade pol\u00edtica de atender o apelo das Pol\u00edcias Militares do Brasil e dos Corpos de Bombeiros, para que n\u00f3s pud\u00e9ssemos, nessa mat\u00e9ria, sem preju\u00edzo, evidentemente, aos militares das For\u00e7as Armadas, atender aquilo que tem o cond\u00e3o de retratar o dispositivo constitucional que versa que as Pol\u00edcias Militares s\u00e3o for\u00e7as auxiliares das For\u00e7as Armadas.\r\nEnt\u00e3o, quero parabeniz\u00e1-lo antecipadamente e dizer que j\u00e1 convoquei a reuni\u00e3o para apresenta\u00e7\u00e3o do seu relat\u00f3rio, ou substitutivo, para o dia 2 de outubro, a pr\u00f3xima quarta-feira, quando, com certeza, haver\u00e3o de ser revelados todos os detalhes, todas as nuances desse trabalho que vem sendo feito j\u00e1 h\u00e1 algum tempo. Portanto, parabenizo V.Exa. e todos os membros da Comiss\u00e3o. Estaremos atentos para que n\u00f3s possamos, o mais r\u00e1pido poss\u00edvel, entregar ao Senado essa mat\u00e9ria, tendo em vista que a Comiss\u00e3o tem car\u00e1ter terminativo, por estar a mat\u00e9ria tramitando em regime priorit\u00e1rio. \r\nParab\u00e9ns, Deputado Vinicius!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

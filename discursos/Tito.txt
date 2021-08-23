@@ -1,0 +1,884 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-05T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "POPULA\u00c7\u00c3O, BAHIA, SAUDA\u00c7\u00c3O.\r\nVOO NACIONAL, BRAS\u00cdLIA (DF), BARREIRAS (BA), PASSAREDO LINHAS A\u00c9REAS, EMPRESA DE TRANSPORTE A\u00c9REO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Sauda\u00e7\u00f5es \u00e0 Na\u00e7\u00e3o brasileira e \u00e0 popula\u00e7\u00e3o do Estado da Bahia, em especial \u00e0 da regi\u00e3o oeste. Apelo \u00e0 empresa Passaredo Linhas A\u00e9reas de retomada do voo Bras\u00edlia/Barreiras.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente, colegas Deputados e Deputadas.\r\nSra. Presidente, neste momento, eu quero saudar a Na\u00e7\u00e3o brasileira, toda a popula\u00e7\u00e3o da Bahia, o meu Estado, especialmente o oeste baiano, e, em especial, toda a popula\u00e7\u00e3o de Barreiras.\r\nEu venho aqui manifestar uma grande preocupa\u00e7\u00e3o da popula\u00e7\u00e3o do oeste com a perda do \u00fanico voo di\u00e1rio entre Bras\u00edlia e Barreiras, realizado atualmente pela empresa Passaredo. Quero dizer que o oeste da Bahia \u00e9 um importante celeiro do agroneg\u00f3cio brasileiro, pela pujan\u00e7a de seu com\u00e9rcio, por ser um polo estudantil universit\u00e1rio, bem como polo de sa\u00fade, e, por isso, n\u00e3o pode perder a \u00fanica interliga\u00e7\u00e3o da capital brasileira com o nosso Munic\u00edpio de Barreiras, que atende todo o oeste do Estado.\r\nSolicitamos aos Parlamentares da bancada baiana que unamos esfor\u00e7os todos n\u00f3s no sentido de demovermos a empresa desse intento de suspender esse \u00fanico voo.\r\nContaremos certamente com apoio dos Governos Federal e Estadual para que esse voo continue, em favor de toda popula\u00e7\u00e3o do oeste, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2019&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-07T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOV\u00c1VEIS (IBAMA), INSTITUTO CHICO MENDES DE CONSERVA\u00c7\u00c3O DA BIODIVERSIDADE (ICMBIO), INSTITUTO DO PATRIM\u00d4NIO HIST\u00d3RICO E ART\u00cdSTICO NACIONAL (IPHAN), DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES (DNIT), PAVIMENTA\u00c7\u00c3O, RODOVIA FEDERAL, BR 135, S\u00c3O DESID\u00c9RIO (BA), CORRENTINA (BA).",
+        "nomeDeputado": "Tito",
+        "sumario": "Apelo ao Departamento Nacional de Infraestrutura de Transportes - DNIT de conclus\u00e3o das obras da BR-135 entre os Munic\u00edpios de S\u00e3o Desid\u00e9rio e Correntina, Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nColegas Deputados, colegas Deputadas, eu me reporto, Sr. Presidente, neste momento, a V.Exa. e a todos os meus colegas Deputados para fazer um apelo ao Governo Federal, especialmente ao DNIT, aos \u00f3rg\u00e3os ambientais, tais quais o IBAMA, o ICMBio e o pr\u00f3prio IPHAN, que est\u00e3o impedindo que as obras da BR-135 no oeste da Bahia sejam conclu\u00eddas. S\u00e3o trechos superiores a 22 quil\u00f4metros, que est\u00e3o paralisados h\u00e1 mais de 13 anos. O oeste da Bahia \u00e9 um grande celeiro de produ\u00e7\u00e3o agr\u00edcola, e a n\u00e3o conclus\u00e3o da pavimenta\u00e7\u00e3o asf\u00e1ltica da BR-135 tem trazido graves preju\u00edzos para todos os Munic\u00edpios da regi\u00e3o oeste, especialmente a regi\u00e3o dos Munic\u00edpios de S\u00e3o Desid\u00e9rio e Correntina.\r\nPortanto, fica aqui o meu apelo para que o DNIT envide esfor\u00e7os para que se concluam o mais breve poss\u00edvel as obras da BR-135, interligando o Munic\u00edpio de S\u00e3o Desid\u00e9rio ao Munic\u00edpio de Correntina, para garantir que toda aquela popula\u00e7\u00e3o, de milhares de habitantes, possa ter seguran\u00e7a na sua locomo\u00e7\u00e3o e que todos os produtores agr\u00edcolas do oeste da Bahia, que precisam escoar a sua produ\u00e7\u00e3o por meio dessa rodovia sejam atendidos com absoluta seguran\u00e7a. Esse \u00e9 o meu pedido.\r\nPe\u00e7o que a este meu pronunciamento seja dada ampla publicidade no programa A Voz do Brasil, Presidente.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2019&txPagina=19&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-07T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "TITO, DEPUTADO FEDERAL, ORADOR, ELEI\u00c7\u00c3O, BAHIA, AGRADECIMENTO.\r\nCRISTOVAM BUARQUE, EX-SENADOR, ATUA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.\r\nENSINO INTEGRAL, IMPLANTA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Agradecimento aos eleitores do Estado da Bahia pela elei\u00e7\u00e3o do orador para a C\u00e2mara dos Deputados. Relato da atua\u00e7\u00e3o pol\u00edtica do ex-Senador Cristovam Buarque. Import\u00e2ncia da implanta\u00e7\u00e3o do ensino em tempo integral.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados, colegas Deputadas, agrade\u00e7o a Deus esta oportunidade.\r\nNeste pronunciamento, agrade\u00e7o, desta importante tribuna, ao povo do Estado da Bahia, destacando nossos eleitores de todos os Munic\u00edpios do oeste do nosso Estado, especialmente a popula\u00e7\u00e3o do Munic\u00edpio de Barreiras, nossos amigos, parentes e conterr\u00e2neos do Munic\u00edpio de Santa Maria da Vit\u00f3ria, onde o Alt\u00edssimo me colocou no mundo. Agrade\u00e7o carinhosamente \u00e0 minha fam\u00edlia e aos meus pais, o pintor Carloman e a Profa. Lurdinha, que me permitiram a vida.\r\nSa\u00fado neste momento todos os colegas Parlamentares, aos quais desejo muito sucesso nesta Legislatura. Espero que trabalhemos juntos no aperfei\u00e7oamento da legisla\u00e7\u00e3o para assim melhorarmos a condi\u00e7\u00e3o de vida de todo o povo brasileiro, em cumprimento ao preceito constitucional que determina que todos s\u00e3o iguais perante a lei, sem distin\u00e7\u00e3o de qualquer natureza. \r\nQuero, Sr. Presidente, destacar e reverenciar neste pronunciamento o Senador Cristovam Buarque, um ser humano muito especial, engenheiro, educador, professor universit\u00e1rio e pol\u00edtico brasileiro, criador do Bolsa Escola, programa implantado pela primeira vez em seu Governo, no Distrito Federal.\r\nBuarque foi Reitor da Universidade de Bras\u00edlia de 1985 a 1989, Governador do Distrito Federal de 1995 a 1998, eleito Senador pelo Distrito Federal em 2002. Ele foi, ainda, Ministro da Educa\u00e7\u00e3o entre 2003 e 2004, tendo sido reeleito nas elei\u00e7\u00f5es de 2010 para o Senado Federal pelo Distrito Federal. Encerrou o mandato em janeiro deste ano de 2019.\r\nCristovam Buarque, cidad\u00e3o e Parlamentar, sempre lutou para melhorar o processo educacional brasileiro, defendendo a ideia de que somente por meio da federaliza\u00e7\u00e3o \u00e9 que a educa\u00e7\u00e3o vai melhorar de forma consistente, pois, na pr\u00e1tica, cada Munic\u00edpio tem um microssistema educacional, sofrendo com a falta de recursos. Destaco que, neste aspecto, Cristovam deu uma contribui\u00e7\u00e3o significativa, ao propor e lograr \u00eaxito que fosse aprovado o primeiro piso nacional para o sal\u00e1rio de professor, uma das leis de sua autoria que mais o orgulha e serve de exemplo para todos n\u00f3s.\r\nA realidade \u00e9 que as cidades, sozinhas, n\u00e3o t\u00eam condi\u00e7\u00f5es de proteger dignamente nossas crian\u00e7as. O futuro das crian\u00e7as brasileiras n\u00e3o pode depender apenas dos Munic\u00edpios. O futuro do Pa\u00eds n\u00e3o pode ter a face da atual escola p\u00fablica brasileira, uma apar\u00eancia feia, triste e ultrapassada pela nova ideia de uma escola moderna, que deve oferecer \u00e0s crian\u00e7as e aos jovens a prote\u00e7\u00e3o em todos os aspectos.\r\nUm pa\u00eds melhor, Sras. e Srs. Deputados, como diz Cristovam, \"significa ter renda social bem distribu\u00edda, diferente do que acontece hoje. O caminho para obter isso n\u00e3o \u00e9 colocar a prioridade apenas na condu\u00e7\u00e3o da economia, mas na educa\u00e7\u00e3o de excel\u00eancia para todos, ricos e pobres\". Estas s\u00e3o palavras do brilhante pol\u00edtico, em ideias e a\u00e7\u00e3o, nosso sempre Senador Cristovam Buarque. \r\nEm sua atua\u00e7\u00e3o parlamentar, Cristovam Buarque conseguiu aprovar 21 leis, que est\u00e3o em vigor,  sempre priorizando o fortalecimento da educa\u00e7\u00e3o b\u00e1sica e de qualidade no nosso Pa\u00eds.\r\nPara alcan\u00e7armos excelente desempenho na educa\u00e7\u00e3o b\u00e1sica neste Pa\u00eds, precisamos da interven\u00e7\u00e3o do Poder Executivo. Somente com a cria\u00e7\u00e3o de milhares de escolas de tempo integral, constru\u00eddas e mantidas pelo Governo Federal, poderemos garantir \u00e0s crian\u00e7as e aos jovens um futuro em que consigam desenvolver suas potencialidades e contribuir para o desenvolvimento, o progresso e a soberania nacional.\r\nPor fim, Sr. Presidente, destaco a atua\u00e7\u00e3o do nobre Senador Cristovam Buarque, que considero exemplo para todos n\u00f3s Parlamentares, em vista da sua a\u00e7\u00e3o ao longo da sua vida a prol da instru\u00e7\u00e3o e da educa\u00e7\u00e3o. O Brasil \u00e9 grato ao Prof. Cristovam Buarque, patrim\u00f4nio da Na\u00e7\u00e3o brasileira.\r\nSr. Presidente, solicito a V.Exa. que este pronunciamento tenha ampla publicidade nesta Casa, especialmente pelo programa A Voz do Brasil. \r\nEra o que t\u00ednhamos a dizer.\r\nMuito obrigado.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO TITO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados,\tagrade\u00e7o, neste meu primeiro pronunciamento, ao povo do Estado da Bahia, com destaque para nossos eleitores de todos os Munic\u00edpios da regi\u00e3o do oeste do nosso Estado, em especial nossa popula\u00e7\u00e3o do Munic\u00edpio de Barreiras e nossos amigos, parentes e conterr\u00e2neos do Munic\u00edpio de Santa Maria da Vit\u00f3ria, onde o Alt\u00edssimo me colocou no mundo. Agrade\u00e7o carinhosamente \u00e0 minha fam\u00edlia e aos meus pais, o pintor Carloman e a Profa. Lurdinha, que me permitiram a vida.\r\nSa\u00fado neste momento a todos os colegas Parlamentares, desejando sucesso nesta Legislatura, para que possamos, juntos, trabalhar para o aperfei\u00e7oamento da legisla\u00e7\u00e3o e, assim, melhorar as condi\u00e7\u00f5es de vida de todo o povo brasileiro, em cumprimento ao preceito constitucional que determina que todos s\u00e3o iguais perante a lei, sem distin\u00e7\u00e3o de qualquer natureza. \r\nQuero destacar e reverenciar o Senador Cristovam Buarque, um ser humano muito especial, engenheiro, economista, educador, professor universit\u00e1rio e pol\u00edtico brasileiro. Buarque \u00e9 o criador do Bolsa Escola, que foi implantado pela primeira vez em seu Governo aqui no Distrito Federal.\r\nCristovam foi reitor da Universidade de Bras\u00edlia de 1985 a 1989, Governador do Distrito Federal de 1995 a 1998, eleito Senador pelo Distrito Federal em 2002, tendo sido Ministro da Educa\u00e7\u00e3o entre 2003 e 2004. Foi reeleito nas elei\u00e7\u00f5es de 2010 para o Senado Federal pelo Distrito Federal. Encerrou o mandato em janeiro deste ano de 2019.\r\nCristovam Buarque, como cidad\u00e3o e Parlamentar, sempre lutou para melhorar o processo educacional brasileiro, defendendo a ideia de que somente por meio da federaliza\u00e7\u00e3o a educa\u00e7\u00e3o vai melhorar de forma consistente, pois na pr\u00e1tica cada Munic\u00edpio tem seu microssistema educacional, sofrendo com a falta de recursos. Destaco que, neste aspecto, ele deu uma contribui\u00e7\u00e3o significativa, ao propor e conseguir que fosse aprovado o primeiro piso nacional para o sal\u00e1rio de professores, uma das leis de sua autoria que mais o orgulha e serve de exemplo para todos n\u00f3s.\r\nA realidade \u00e9 que as cidades, sozinhas, n\u00e3o t\u00eam condi\u00e7\u00e3o de proteger dignamente nossas crian\u00e7as. O futuro das crian\u00e7as brasileiras n\u00e3o pode depender apenas dos Munic\u00edpios. O futuro do Pa\u00eds n\u00e3o pode ter a face da atual escola p\u00fablica brasileira: uma apar\u00eancia feia, triste e ultrapassada pela nova ideia de uma escola moderna, que deve oferecer \u00e0s crian\u00e7as e aos jovens a prote\u00e7\u00e3o em todos os aspectos. \r\nUm pa\u00eds melhor, Sras. e Srs. Deputados, significa, nas palavras de Cristovam Buarque, \"ter a renda social bem distribu\u00edda, diferente do que acontece hoje. O caminho para obter isso n\u00e3o \u00e9 colocar a prioridade apenas na condu\u00e7\u00e3o da economia, mas na educa\u00e7\u00e3o de excel\u00eancia para todos, ricos e pobres\". Est\u00e3o s\u00e3o palavras do brilhante pol\u00edtico, em ideias e em a\u00e7\u00e3o, nosso sempre Senador Cristovam Buarque, que conseguiu aprovar 21 leis, que est\u00e3o em vigor, em sua atua\u00e7\u00e3o parlamentar, sempre priorizando o fortalecimento da educa\u00e7\u00e3o b\u00e1sica e de qualidade em nosso Pa\u00eds.\r\nO Brasil registra 27 milh\u00f5es de estudantes no ensino fundamental. Deste total, 83% est\u00e3o nas escolas p\u00fablicas. O n\u00famero de alunos nesta etapa vem diminuindo a cada ano por causa sobretudo de uma lenta melhoria no fluxo escolar.\r\nNo ensino m\u00e9dio, o percentual de alunos em tempo integral referente \u00e0 rede p\u00fablica \u00e9 de 6,8 milh\u00f5es de estudantes. Entretanto, as matr\u00edculas no ensino m\u00e9dio tamb\u00e9m ca\u00edram ano ap\u00f3s ano. Apesar de ter acontecido um pequeno aumento nas taxas de aprova\u00e7\u00e3o, o Pa\u00eds ainda tem cerca de 903 mil jovens entre 15 e 17 anos fora da escola, o que representa 9% da popula\u00e7\u00e3o nesta faixa et\u00e1ria.\r\nComo as matr\u00edculas est\u00e3o caindo, o n\u00famero total de estudantes dos ensinos fundamental e m\u00e9dio estudando em escolas de tempo integral caiu entre 2017 e 2018: passou de 4,2 milh\u00f5es para 3,1 milh\u00f5es. Estes s\u00e3o dados do Minist\u00e9rio da Educa\u00e7\u00e3o. \r\nO pr\u00f3prio Minist\u00e9rio da Educa\u00e7\u00e3o divulgou, no dia 31 de janeiro de 2018, os dados do Censo Escolar da Educa\u00e7\u00e3o B\u00e1sica. A pesquisa anual do Instituto Nacional de Estudos e Pesquisas Educacionais An\u00edsio Teixeira (INEP) \u00e9 feita para monitorar, avaliar e elaborar pol\u00edticas p\u00fablicas educacionais no Pa\u00eds, que conta com 184,1 mil escolas, a maior parte 112,9 mil, o que equivale a dois ter\u00e7os de responsabilidade municipal.\r\nDo total de col\u00e9gios, 21,7% s\u00e3o particulares. Cento e dezesseis mil institui\u00e7\u00f5es de ensino oferecem ensino fundamental. O ensino m\u00e9dio \u00e9 oferecido em 28,5 mil institui\u00e7\u00f5es de ensino, que atendem 7,9 milh\u00f5es de matriculados, dos quais 7,9% t\u00eam atividades em tempo integral (em 2016, eram 6,4%). J\u00e1 no ensino fundamental, que tem 48,6 milh\u00f5es de matriculados, a taxa de alunos em per\u00edodo integral \u00e9 de apenas 13,9%. \r\nO ensino em tempo integral \u00e9 apontado por especialistas como forma de garantir mais qualidade na educa\u00e7\u00e3o, uma vez que os estudantes t\u00eam mais contato com os conte\u00fados escolares. \u00c9 uma modalidade que requer mais investimentos. No entanto, somente com a prioriza\u00e7\u00e3o das escolas em tempo integral poderemos tornar o Brasil uma na\u00e7\u00e3o soberana. O que \u00e9 de fato caro para o Pa\u00eds s\u00e3o os enormes preju\u00edzos que a Na\u00e7\u00e3o brasileira sofre diariamente e anualmente, em decorr\u00eancia da falta de investimento na escola integral.\r\nPara alcan\u00e7armos estes desempenhos, precisamos da interven\u00e7\u00e3o do Poder Executivo Federal. Somente com a cria\u00e7\u00e3o de milhares de escolas de tempo integral, constru\u00eddas e mantidas pelo Governo Federal, \u00e9 que poderemos garantir \u00e0s crian\u00e7as e aos jovens um futuro em que possam desenvolver suas potencialidades e contribuir para o desenvolvimento, o progresso e a soberania nacionais.\r\nSr. Presidente, destaco a atua\u00e7\u00e3o do Senador Cristovam Buarque por que o considero exemplo para todos n\u00f3s Parlamentares, por sua a\u00e7\u00e3o ao longo de sua vida em favor da instru\u00e7\u00e3o e da educa\u00e7\u00e3o. O Brasil \u00e9 grato ao Prof. Cristovam Buarque, patrim\u00f4nio da Na\u00e7\u00e3o brasileira.   \r\nEra o que t\u00ednhamos a dizer.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MINISTRO DE ESTADO DA INFRAESTRUTURA, OBRA P\u00daBLICA, FERROVIA DE NTEGRA\u00c7\u00c3O OESTE-LESTE (FIOL), TRECHO, CAETIT\u00c9(BA), FIGUEIR\u00d3POLIS (TO).",
+        "nomeDeputado": "Tito",
+        "sumario": "Apelo ao Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, de continuidade das obras da Ferrovia Oeste-Leste, no trecho compreendido entre o Munic\u00edpio de Caetit\u00e9, no Estado da Bahia, e o Munic\u00edpio de Figueir\u00f3polis, no Estado de Tocantins.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente.\r\nSra. Presidente, colegas Deputados e colegas Deputadas, venho nesta tarde trazer a minha preocupa\u00e7\u00e3o com rela\u00e7\u00e3o a pronunciamento do Ministro dos Transportes. S.Exa. fez an\u00fancio quanto \u00e0 continuidade das obras da Ferrovia Oeste-Leste, que liga o Porto de Aratu a Figueir\u00f3polis, no Tocantins, passando pelo oeste da Bahia, pelos Munic\u00edpios de Lu\u00eds Eduardo Magalh\u00e3es, Barreiras, S\u00e3o Desid\u00e9rio. O Ministro anunciou que propor\u00e1 uma concess\u00e3o, j\u00e1 agora no m\u00eas de mar\u00e7o, apenas para o primeiro trecho, que liga o Porto de Aratu ao Munic\u00edpio de Caetit\u00e9. N\u00e3o houve o an\u00fancio da garantia da continuidade das obras do Munic\u00edpio do Caetit\u00e9 a Tocantins, em Figueir\u00f3polis. Portanto, fica aqui registrada a minha preocupa\u00e7\u00e3o, Sra. Presidente, e o meu pedido ao Ministro dos Transportes.\r\n(Desligamento autom\u00e1tico do microfone.)\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. Bloco/PSDB - SC) - Deputado, estou cumprindo exatamente o tempo. Pe\u00e7o que conclua rapidamente, por favor.\r\nO SR. TITO (Bloco/AVANTE - BA) - Portanto, quero pedir ao Ministro que garanta a continuidade das obras da Ferrovia Oeste-Leste, no trecho entre Caetit\u00e9 e Tocantins, para o bem do agroneg\u00f3cio do oeste da Bahia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=150&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "INTERNET, TELEFONIA M\u00d3VEL, POPULA\u00c7\u00c3O RURAL, MARCOS PONTES, MINISTRO DE ESTADO, MINIST\u00c9RIO DA CI\u00caNCIA, TECNOLOGIA, INOVA\u00c7\u00d5ES E COMUNICA\u00c7\u00d5ES, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Tito",
+        "sumario": "Apelo ao Ministro da Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es, Marcos Pontes, por melhoria dos servi\u00e7os de Internet e telefonia m\u00f3vel em comunidades rurais.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, quero fazer, neste momento, um apelo ao Ministro da Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es, o Tenente-Coronel Marcos Pontes, para resolver problemas da telefonia rural em nosso Pa\u00eds.\r\nA popula\u00e7\u00e3o brasileira, nas comunidades rurais, tem sofrido muito com a desassist\u00eancia por parte das empresas telef\u00f4nicas que n\u00e3o cumprem as cl\u00e1usulas contratuais firmadas nos termos de concess\u00e3o com o Governo Federal.\r\nPortanto, a comunidade rural est\u00e1 desassistida devido \u00e0 aus\u00eancia de investimentos na potencializa\u00e7\u00e3o do sinal de celular e de Internet. Por exemplo, no oeste da Bahia, todos os 35 Munic\u00edpios que comp\u00f5em aquela regi\u00e3o sofrem com a aus\u00eancia de sinal de celular.\r\nDesse modo, o Minist\u00e9rio das Comunica\u00e7\u00f5es deve aplicar san\u00e7\u00f5es contratuais a nessas companhias telef\u00f4nicas, a fim de garantir investimentos m\u00ednimos necess\u00e1rios para levar sinal de celular e Internet para a popula\u00e7\u00e3o rural.\r\nEra o que tinha a dizer, Presidente.\r\nObrigado e boa tarde.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "VENDA, SEDE, PREFEITURA, BARREIRAS (BA), FALTA, TRANSPAR\u00caNCIA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Falta de transpar\u00eancia no processo de venda da sede da Prefeitura Municipal de Barreiras, no Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Sem revis\u00e3o do orador.) - Obrigado, Sra. Presidente. \r\nSra. Presidente, sabemos que o patrim\u00f4nio hist\u00f3rico e material de todas as cidades \u00e9 muito importante para o povo e para o Pa\u00eds. O Munic\u00edpio de Barreiras, no oeste da Bahia, com seus 127 anos de emancipa\u00e7\u00e3o pol\u00edtica, tem perdido ao longo do tempo o seu patrim\u00f4nio, muitas vezes por a\u00e7\u00f5es negligentes de gestores.\r\nDiversos patrim\u00f4nios hist\u00f3ricos de arquitetura colonial foram demolidos para a constru\u00e7\u00e3o de pr\u00e9dios contempor\u00e2neos. Infelizmente, mais uma vez o atual Governo de Barreiras anuncia a venda de um patrim\u00f4nio hist\u00f3rico da cidade, patrim\u00f4nio da maior import\u00e2ncia. Trata-se do pr\u00e9dio da Prefeitura Municipal, Sra. Presidente. \r\nO que \u00e9 grave nessa atitude \u00e9 que o Governo n\u00e3o tem dado \u00e0 sociedade barreirense a devida transpar\u00eancia para tal venda. N\u00e3o aponta, principalmente, qual destina\u00e7\u00e3o ser\u00e1 dada ao valor arrecadado com a venda daquele im\u00f3vel.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Conclua, Deputado.\r\nO SR. TITO (Bloco/AVANTE - BA) - Enquanto o Governo paga aluguel caro em im\u00f3vel do antigo shopping da cidade para abrigar a sede da Prefeitura, al\u00e9m de n\u00e3o reformar ou mesmo construir uma nova Prefeitura, o que faz o gestor? Quer vender uma \u00e1rea nobre do povo de Barreiras para gastar o dinheiro com contrata\u00e7\u00e3o de pessoal. Barreiras ficar\u00e1 sem a sua Prefeitura e sem o dinheiro da venda.\r\n\tTenho a convic\u00e7\u00e3o, Sra. Presidente, de que se trata de prerrogativa legal do Chefe do Poder Executivo colocar esse patrim\u00f4nio \u00e0 venda. Entretanto, esse processo deve ser transparente, com o indicativo do tipo de procedimento licitat\u00f3rio a ser realizado e com pr\u00e9via discuss\u00e3o com a sociedade barreirense.\r\n\tPortanto, repudio aqui essa atitude, que faz perder-se importante patrim\u00f4nio do Munic\u00edpio de Barreiras.\r\n\tSra. Presidente, pe\u00e7o que o meu pronunciamento seja divulgado nos meios de comunica\u00e7\u00e3o Casa, em especial no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-09T13:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RICARDO FENELON DAS NEVES, DIRETOR, AG\u00caNCIA NACIONAL DE AVIA\u00c7\u00c3O CIVIL (ANAC), F\u00c1BRICA, AERONAVE, PARALISA\u00c7\u00c3O, ESCOLA, FORMA\u00c7\u00c3O, PILOTO DE AERONAVE, BUROCRACIA, CR\u00cdTICA.\r\nAMPLIA\u00c7\u00c3O, AVIA\u00c7\u00c3O GERAL, IND\u00daSTRIA NACIONAL, AVIA\u00c7\u00c3O, DEFESA, SOLICITA\u00c7\u00c3O, PROVID\u00caNCIAS, MARCOS PONTES, MINISTRO DE ESTADO DA CI\u00caNCIA, TECNOLOGIA, INOVA\u00c7\u00d5ES E COMUNICA\u00c7\u00d5ES, TARC\u00cdSIO GOMES DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Protesto contra as reiteradas medidas adotadas pela Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil - ANAC, em detrimento da comunidade aeron\u00e1utica nacional. Inviabiliza\u00e7\u00e3o, pela ANAC, de f\u00e1bricas de aeronaves e de escolas de forma\u00e7\u00e3o de pilotos no Pa\u00eds. Urgente necessidade de ado\u00e7\u00e3o pelos Ministros de Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es, Marcos Pontes, e da Infraestrutura, Tarc\u00edsio Gomes de Freitas, de medidas em prol da ind\u00fastria nacional de avia\u00e7\u00e3o e das escolas de forma\u00e7\u00e3o de pilotos.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados e Deputadas, venho a esta tribuna denunciar as reiteradas medidas impostas pela Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil - ANAC, atualmente presidida pelo Diretor Ricardo Fenelon das Neves, em detrimento da comunidade aeron\u00e1utica nacional, tais como as escolas de forma\u00e7\u00e3o de pilotos, aer\u00f3dromos, aeroportos particulares e construtoras de aeronaves.\r\nA ANAC vem adotando medidas absurdas, desconectadas da realidade e das necessidades operacionais destas atividades, interferindo diretamente no mercado de pequenas aeronaves e na forma\u00e7\u00e3o de pilotos.\r\nNum pa\u00eds com dimens\u00f5es continentais como o Brasil, faz-se necess\u00e1ria a amplia\u00e7\u00e3o da avia\u00e7\u00e3o geral, para substituir a falta de linhas comerciais dom\u00e9sticas. Desta forma, \u00e9 imposs\u00edvel imaginar o desenvolvimento da agricultura, da ind\u00fastria e de v\u00e1rios outros segmentos fundamentais para o desenvolvimento e o crescimento do nosso Pa\u00eds.\r\nSegundo dados da Confedera\u00e7\u00e3o Nacional dos Transportes - CNT, as aeronaves particulares em atividade respondem pela maior fatia da frota nacional: 44,7%. J\u00e1 as experimentais, muitas vezes utilizadas para testes e desenvolvimento de novas tecnologias, correspondem a 26,7%.\r\nSr. Presidente, as arbitrariedades da ANAC, em desrespeito \u00e0s normas e aos princ\u00edpios constitucionais, ao fiscalizar e julgar, chegaram ao absurdo de inviabilizar o funcionamento de 44 f\u00e1bricas de aeronaves em todo o Brasil, que foram proibidas de exercer suas atividades, bem como 38 escolas de forma\u00e7\u00e3o de pilotos, que tiveram seus servi\u00e7os completamente paralisados, at\u00e9 o momento, por medidas estritamente burocr\u00e1ticas. \r\nSras. e Srs. Deputados, o Brasil n\u00e3o pode desenvolver suas aeronaves em f\u00e1bricas de avi\u00f5es experimentais, segundo a ANAC, mesmo tendo o acompanhamento de engenheiros cooperando com as escolas e faculdades de forma\u00e7\u00e3o e o desenvolvimento de produtos e profissionais. Por\u00e9m, a mesma ANAC autoriza a possibilidade de estes avi\u00f5es serem fabricados por constru\u00e7\u00f5es amadoras, de fundo de quintal. Esta medida s\u00f3 beneficia os fabricantes americanos, que vendem seus produtos como kits, retardando o desenvolvimento da ind\u00fastria aeron\u00e1utica brasileira. \r\nConcluindo, Sr. Presidente, pe\u00e7o a aten\u00e7\u00e3o e a tomada de provid\u00eancias do Ministro da Ci\u00eancia e Tecnologia, o Tenente-Coronel Marcos Pontes, e do competente Ministro dos Transportes, Portos e Avia\u00e7\u00e3o Civil, Tarc\u00edsio Gomes de Freitas, para que medidas sejam tomadas urgentemente, a fim de evitar a extin\u00e7\u00e3o da ind\u00fastria nacional de avia\u00e7\u00e3o e das necess\u00e1rias escolas de forma\u00e7\u00e3o de pilotos, o que resultar\u00e1 em graves preju\u00edzos para toda a Na\u00e7\u00e3o brasileira, se pr\u00e1ticas abusivas como as que vem tomando a ANAC continuarem.\r\nSr. Presidente, pe\u00e7o que meu pronunciamento seja divulgado pelo programa A Voz do Brasil. \r\nEra o que eu tinha a dizer.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F5%2F2019&txPagina=38&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MPV 868/2018, MEDIDA PROVIS\u00d3RIA, PRIVATIZA\u00c7\u00c3O, SANEAMENTO B\u00c1SICO, AG\u00caNCIA NACIONAL DE \u00c1GUAS (ANA), TARIFA DE ESGOTO, INCONSTITUCIONALIDADE, REP\u00daDIO.\r\nDEFESA, INVESTIMENTO P\u00daBLICO, OBRA P\u00daBLICA, ESGOTO SANIT\u00c1RIO, SANEAMENTO B\u00c1SICO, TITULARIDADE, MUNIC\u00cdPIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Posicionamento contr\u00e1rio \u00e0 Medida Provis\u00f3ria n\u00ba 868, de 2018, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico. Reitera\u00e7\u00e3o da atua\u00e7\u00e3o parlamentar em defesa da realiza\u00e7\u00e3o de mais obras de saneamento b\u00e1sico pelos Munic\u00edpios brasileiros.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Coronel Chris\u00f3stomo, colegas Deputados e colegas Deputadas, est\u00e1 na pauta desta Casa, e ser\u00e1 apreciada neste plen\u00e1rio por todos n\u00f3s, a vigente Medida Provis\u00f3ria n\u00ba 868, de 2018, editada pelo ex-Presidente Michel Temer, que modificou radicalmente a lei nacional do saneamento b\u00e1sico, Lei n\u00ba 11.445, de 2007.\r\nModificou esta importante lei, mas para pior!\r\nJ\u00e1 est\u00e1 consolidado em nosso Pa\u00eds o entendimento de que a titularidade dos servi\u00e7os de saneamento b\u00e1sico \u00e9 dos Munic\u00edpios brasileiros. E cabe aos Munic\u00edpios, com sua autonomia respeitada, gerirem seus servi\u00e7os da melhor forma, mantendo servi\u00e7os adequados em favor da popula\u00e7\u00e3o, diretamente ou indiretamente, sempre buscando garantir os investimentos necess\u00e1rios e obrigat\u00f3rios em obras de esgotamento sanit\u00e1rio e abastecimento de \u00e1gua, tanto na zona urbana quanto principalmente na zona rural dos Munic\u00edpios.\r\nEst\u00e1 claro na Constitui\u00e7\u00e3o Federal e em toda a legisla\u00e7\u00e3o infraconstitucional que, mesmo sendo os servi\u00e7os de saneamento b\u00e1sico de compet\u00eancia dos Munic\u00edpios, tamb\u00e9m \u00e9 obriga\u00e7\u00e3o legal de todos os tr\u00eas entes federativos, Munic\u00edpios, Estados e Uni\u00e3o, investir em saneamento b\u00e1sico de forma permanente, bem como instituir pol\u00edticas p\u00fablicas que permitam a participa\u00e7\u00e3o da iniciativa privada no avan\u00e7o acelerado de investimentos privados nestes servi\u00e7os t\u00e3o essenciais, mas sempre dentro dos par\u00e2metros legais, e n\u00e3o ilegalmente e abusivamente como querem fazer, se mantiverem os termos da Medida Provis\u00f3ria n\u00ba 868.\r\n\u00c9 responsabilidade legal de todos os Munic\u00edpios brasileiros cuidar dos seus sistemas de abastecimento de \u00e1gua, dos seus sistemas de esgotamento sanit\u00e1rio, dos servi\u00e7os de manejo dos res\u00edduos s\u00f3lidos, tais como a limpeza urbana, bem como cuidar dos servi\u00e7os e obras de manejo das \u00e1guas pluviais, as populares \u00e1guas das chuvas.\r\nComo transferir esses servi\u00e7os t\u00e3o peculiares aos Munic\u00edpios para uma ag\u00eancia nacional que n\u00e3o possui pleno conhecimento na \u00e1rea, assim como n\u00e3o foi criada por lei para essa finalidade? Como administrar de Bras\u00edlia os servi\u00e7os, as obras e os pre\u00e7os da \u00e1gua, do esgoto, da limpeza urbana e das obras de micro e macrodrenagem em 5.560 Munic\u00edpios brasileiros, distribu\u00eddos pelos 26 Estados e no Distrito Federal? \u00c9 imposs\u00edvel! O que essa medida provis\u00f3ria prop\u00f5e \u00e9 flagrantemente inconstitucional, ilegal e danoso para os interesses de toda a popula\u00e7\u00e3o brasileira.\r\nPor exemplo, retirar a compet\u00eancia dos Munic\u00edpios de definirem a sua possibilidade de legislar sobre a sua pol\u00edtica tarif\u00e1ria para os servi\u00e7os de \u00e1gua e esgoto, que j\u00e1 s\u00e3o t\u00e3o caros para a popula\u00e7\u00e3o, e transferir essa compet\u00eancia para uma ag\u00eancia nacional, a chamada Ag\u00eancia Nacional de \u00c1guas, s\u00f3 agravar\u00e1 a situa\u00e7\u00e3o de milh\u00f5es de brasileiros que, em muitos casos, j\u00e1 s\u00e3o t\u00e3o penalizados com tarifas abusivas - as taxas de esgoto chegam ao percentual absurdo de 80% sobre o consumo da \u00e1gua.\r\nHoje j\u00e1 s\u00e3o milh\u00f5es de brasileiros que n\u00e3o t\u00eam acesso aos servi\u00e7os de \u00e1gua e esgoto n\u00e3o apenas pela aus\u00eancia das obras, mas principalmente em fun\u00e7\u00e3o do inadimplemento inegoci\u00e1vel, pelos excessivos valores das taxas e tarifas de \u00e1gua e esgoto cobradas da popula\u00e7\u00e3o. Imaginem se implantarem um sistema ilegal que agrave mais ainda essa realidade nacional, permitindo que os burocratas de Bras\u00edlia definam os valores sem ao menos conhecer a realidade de cada Munic\u00edpio! Isso n\u00e3o pode acontecer, Sr. Presidente, colegas Deputados e Deputadas.\r\nAssim, quero aqui reafirmar o meu compromisso em defender mais obras de esgotamento sanit\u00e1rio para os Munic\u00edpios brasileiros, sempre com uma justa pol\u00edtica tarif\u00e1ria.\r\nEra o que eu tinha a dizer.\r\nSr. Presidente, pe\u00e7o a V.Exa. que meu pronunciamento seja divulgado no programa A Voz do Brasil.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=162&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MPV 870/2019, MEDIDA PROVIS\u00d3RIA, REFORMA ADMINISTRATIVA, JUSTIFICATIVA, VOTO, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF), PAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Apoio do orador \u00e0 redu\u00e7\u00e3o do n\u00famero de Minist\u00e9rios e \u00e0 perman\u00eancia do Conselho de Controle de Atividades Financeiras - COAF no \u00e2mbito do Minist\u00e9rio da Economia na vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 870, de 2019, sobre a organiza\u00e7\u00e3o da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios. Confian\u00e7a na gest\u00e3o do Ministro da Economia, Paulo Guedes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nPresidente, seguindo a orienta\u00e7\u00e3o do meu partido, o Avante, que, em entendimento com outros L\u00edderes, definiu os pontos da Medida Provis\u00f3ria n\u00ba 870 que deveriam ser votados a favor do Governo, votei pela redu\u00e7\u00e3o do n\u00famero de Minist\u00e9rios e pela perman\u00eancia do \u00f3rg\u00e3o COAF no Minist\u00e9rio da Economia.\r\nO COAF \u00e9 o \u00f3rg\u00e3o federal respons\u00e1vel por verificar as opera\u00e7\u00f5es suspeitas ou at\u00edpicas e comunic\u00e1-las \u00e0s autoridades competentes, para que instaurem os procedimentos e as investiga\u00e7\u00f5es necess\u00e1rias, instruindo amplamente as a\u00e7\u00f5es do Governo. Sob a supervis\u00e3o do Ministro Paulo Guedes, o \u00f3rg\u00e3o continuar\u00e1 fortalecido e ter\u00e1 condi\u00e7\u00f5es de acompanhar as poss\u00edveis irregularidades financeiras. Assim deve ser feito.\r\nEu tenho votado nesta Casa os projetos do Governo Federal com muita transpar\u00eancia e convic\u00e7\u00e3o. E desejo que o Governo se encontre a cada dia, para que estabilize a economia do nosso Pa\u00eds, garantindo mais gera\u00e7\u00e3o de emprego e renda para a nossa popula\u00e7\u00e3o.\r\nQuero aqui parabenizar o Ministro Paulo Guedes por seu trabalho e dizer que ele conta com a nossa confian\u00e7a e apoio nesse grande desafio de buscar um equil\u00edbrio para as contas p\u00fablicas federais, garantindo e resgatando a dignidade da nossa popula\u00e7\u00e3o, na convic\u00e7\u00e3o de que este Pa\u00eds tem jeito e de que a popula\u00e7\u00e3o merece dias melhores.\r\nObrigado, Presidente, por mais esta oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 13/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVORAVEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 13, de 2019, adotado pela Comiss\u00e3o Mista, \u00e0 Medida Provis\u00f3ria n\u00ba 875, de 2019, sobre o Aux\u00edlio Emergencial Pecuni\u00e1rio para fam\u00edlias de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Avante encaminha o voto \"sim\", favoravelmente ao projeto, considerando a import\u00e2ncia desta mat\u00e9ria para todos esses cidad\u00e3os e cidad\u00e3s brasileiras que dependem desse aux\u00edlio do Governo Federal. Portanto, votamos favoravelmente ao projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=169&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 29/2019, EMENDA DE COMISS\u00c3O, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 29, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 875, de 2019, sobre o Aux\u00edlio Emergencial Pecuni\u00e1rio para fam\u00edlias de Brumadinho,  Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Sr. Presidente, encaminhar\u00e1 favoravelmente \u00e0 aprova\u00e7\u00e3o desta emenda do PDT, com o destaque do PCdoB, por considerar extremamente necess\u00e1ria a amplia\u00e7\u00e3o do valor de 600 reais para 1 sal\u00e1rio m\u00ednimo, extens\u00edvel aos 12 meses, vez que \u00e9 uma emenda justa e necess\u00e1ria para o devido acolhimento dos brasileiros e brasileiras diretamente atingidos por essa trag\u00e9dia.\r\nPortanto, os Deputados do Avante votar\u00e3o favoravelmente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=178&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-06T13:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "BAHIA FARM SHOW (15:2019, LU\u00cdS EDUARDO MAGALH\u00c3ES (BA)), FEIRA (EVENTO), AGROPECU\u00c1RIA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Realiza\u00e7\u00e3o da feira de agroneg\u00f3cios Bahia Farm Show, no Munic\u00edpio de Lu\u00eds Eduardo Magalh\u00e3es, Estado da Bahia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 com muita satisfa\u00e7\u00e3o que fa\u00e7o aqui um importante registro.\r\nAnuncio que foi realizada, na semana passada, entre os dias 28 a 31 de maio, uma das mais importantes feiras do agroneg\u00f3cio do nosso Pa\u00eds. Refiro-me \u00e0 Bahia Farm Show, realizada todos os anos no Munic\u00edpio de Lu\u00eds Eduardo Magalh\u00e3es, no oeste da Bahia.\r\nNos 5 dias do evento, foram realizados neg\u00f3cios que alcan\u00e7aram quase 2 bilh\u00f5es de reais, um recorde batido ano ap\u00f3s ano, reflexo do trabalho e da dedica\u00e7\u00e3o dos profissionais do agroneg\u00f3cio que tanto impulsionam o desenvolvimento da Bahia e do Brasil.\r\nEsse evento \u00e9 importante, n\u00e3o s\u00f3 pelo faturamento, mas principalmente pela integra\u00e7\u00e3o entre produtores, trabalhadores, fornecedores e institui\u00e7\u00f5es p\u00fablicas e privadas e tamb\u00e9m pelo acesso \u00e0s mais modernas tecnologias, que transformam cada vez mais o agroneg\u00f3cio brasileiro. Assim, a cada edi\u00e7\u00e3o, reafirma-se a confian\u00e7a de todos nesse importante evento.\r\nMais de 68 mil pessoas visitaram a feira, inclusive autoridades e lideran\u00e7as pol\u00edticas, como o Governador da Bahia, o Governador do Tocantins, o Governador de Roraima, v\u00e1rios Secret\u00e1rios de Estado, al\u00e9m da Ministra da Agricultura, nossa colega Deputada Tereza Cristina, que teve brilhante participa\u00e7\u00e3o no evento, mostrando conhecer os problemas relacionados ao agroneg\u00f3cio, tendo destacado o seu empenho na busca da solu\u00e7\u00e3o para esses entraves.\r\nFoi uma edi\u00e7\u00e3o memor\u00e1vel, digna da celebra\u00e7\u00e3o de 15 anos de feira, realizada em um Munic\u00edpio que acolhe v\u00e1rios produtores das regi\u00f5es do Maranh\u00e3o, Piau\u00ed, Tocantins e Bahia, a chamada macrorregi\u00e3o do MATOPIBA, respons\u00e1vel por significativa produ\u00e7\u00e3o de gr\u00e3os em nosso Pa\u00eds.\r\nO oeste da Bahia tem apresentado altos \u00edndices de produtividade agr\u00edcola, gra\u00e7as \u00e0 for\u00e7a do trabalho, \u00e0 dedica\u00e7\u00e3o de homens e mulheres, e \u00e0s tecnologias de ponta utilizadas, superando inclusive muitos recordes internacionais.\r\nO oeste da Bahia, Sr. Presidente, regi\u00e3o que foi desbravada ainda na d\u00e9cada de 80 pelos sulistas, que demonstraram muita garra e capacidade para transformar o Cerrado em uma das terras mais produtivas do mundo, hoje \u00e9 exemplo para o Brasil, gerando milhares de empregos e transformando a qualidade de vida de muitos nordestinos.\r\nPor fim, o novo desafio agora \u00e9 adequar as regras antigas \u00e0s novas tecnologias, sempre respeitando o meio ambiente, o que tem sido grande preocupa\u00e7\u00e3o dos pr\u00f3prios produtores, hoje comprometidos com o futuro das pr\u00f3ximas gera\u00e7\u00f5es, pois sabem eles que o seu grande patrim\u00f4nio \u00e9 a terra.\r\nFinalizo parabenizando todos os que contribu\u00edram para o sucesso dessa edi\u00e7\u00e3o da Bahia Farm Show, desde os seus organizadores, passando pelos 260 expositores do Brasil e de outros pa\u00edses, pelo p\u00fablico em geral, pela imprensa, at\u00e9 as autoridades que reconhecem a import\u00e2ncia desse evento para o oeste da Bahia e para o Brasil.\r\nPe\u00e7o que este meu pronunciamento seja divulgado no programa A Voz do Brasil.\r\nEra o que eu tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F6%2F2019&txPagina=76&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "TITO, DEPUTADO FEDERAL, AGRADECIMENTO, ELEI\u00c7\u00c3O, ATUA\u00c7\u00c3O PARLAMENTAR, TURISMO, BAHIA, FERROVIA, FEDERALIZA\u00c7\u00c3O, EDUCA\u00c7\u00c3O B\u00c1SICA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Agradecimento aos familiares, correligion\u00e1rios e eleitores pela elei\u00e7\u00e3o do orador. Trajet\u00f3ria pol\u00edtica do Parlamentar. Potencialidades socioecon\u00f4micas e tur\u00edsticas da regi\u00e3o oeste do Estado da Bahia, especialmente dos Munic\u00edpios de Barreiras e Lu\u00eds Eduardo Magalh\u00e3es. Relato da reuni\u00e3o do orador com o Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, destinada ao debate da conclus\u00e3o das obras da Ferrovia Oeste-Leste. Compromisso de atua\u00e7\u00e3o parlamentar em prol do desenvolvimento de municipalidades baianas. Defesa de federaliza\u00e7\u00e3o do ensino b\u00e1sico.",
+        "tipoDiscurso": "GRANDE EXPEDIENTE",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Sr. Presidente Alexandre Frota, colegas Deputados, colegas Deputadas, servidores desta Casa, \u00e9 com muita satisfa\u00e7\u00e3o que ocupo esta tribuna para fazer o meu primeiro pronunciamento no Grande Expediente, este espa\u00e7o nobre que \u00e9 ofertado a todos n\u00f3s Deputados Federais uma \u00fanica vez por ano, mediante sorteio, para que possamos fazer uso da palavra pelo tempo regimental de 25 minutos e daqui transmitir a nossa mensagem, as nossas ideias e as nossas propostas de trabalho.\r\nInicialmente, quero agradecer a Deus por toda a gra\u00e7a e por este mandato, que \u00e9 fruto de uma promessa cumprida. Por isso, trabalharei com muita dedica\u00e7\u00e3o para honrar essa confian\u00e7a e oferecer um mandato legislativo que orgulhe a nossa popula\u00e7\u00e3o, que seja um mandato de resultados concretos e que venha a contribuir com a melhoria da qualidade de vida da popula\u00e7\u00e3o brasileira.\r\nAgrade\u00e7o tamb\u00e9m a todos os meus familiares, aos meus amigos e a todos os meus eleitores pelo incentivo e apoio constante. Quero agradecer \u00e0 minha querida Barreiras, cidade onde cresci e onde moro, ali no Bairro Vila Brasil. Um abra\u00e7o a todos os meus vizinhos!\r\nSa\u00fado o inestim\u00e1vel povo baiano, especialmente a popula\u00e7\u00e3o da regi\u00e3o oeste da Bahia, de todos os Munic\u00edpios do oeste, popula\u00e7\u00e3o que me confiou 48.899 votos. Sou o \u00fanico morador da margem esquerda do Rio S\u00e3o Francisco eleito Deputado Federal para esta 56\u00aa Legislatura. Portanto, reconhe\u00e7o que carrego a responsabilidade de representar de modo especial mais de 1 milh\u00e3o e 100 mil habitantes do oeste da Bahia.\r\nNo in\u00edcio da minha trajet\u00f3ria pol\u00edtica, aos 23 anos de idade, tive a honra de representar a popula\u00e7\u00e3o de Barreiras como Vereador por quatro mandatos consecutivos, sendo duas vezes Presidente da C\u00e2mara, dando ali a minha contribui\u00e7\u00e3o na constru\u00e7\u00e3o de um Munic\u00edpio melhor.\r\nPela milit\u00e2ncia em Barreiras e em toda a regi\u00e3o, conhe\u00e7o bem a for\u00e7a do desenvolvimento do oeste da Bahia, assim como os gargalos que dificultam o florescimento crescente dos neg\u00f3cios e da qualidade de vida da popula\u00e7\u00e3o. Durante meu mandato nesta Casa, espero contribuir com iniciativas e propostas que dinamizem ainda mais a economia regional e nacional.\r\nSr. Presidente, quero destacar o extraordin\u00e1rio potencial do oeste baiano, cujo polo \u00e9 o Munic\u00edpio de Barreiras. Gra\u00e7as \u00e0 sua privilegiada localiza\u00e7\u00e3o geogr\u00e1fica, Barreiras tornou-se, nas \u00faltimas d\u00e9cadas, centro de converg\u00eancia numa regi\u00e3o muito rica e pujante, que abrange mais de 35 Munic\u00edpios.\r\nA hist\u00f3ria da regi\u00e3o \u00e9 muito bonita. O processo mais recente de desenvolvimento da regi\u00e3o oeste remonta ao fim dos anos 60, quando a funda\u00e7\u00e3o de Bras\u00edlia promoveu a constru\u00e7\u00e3o da infraestrutura que algumas d\u00e9cadas mais tarde funcionaria como pilar essencial para a expans\u00e3o agr\u00edcola daquela regi\u00e3o. Data daquela \u00e9poca a abertura de tr\u00eas importantes rodovias federais, interligando Barreiras a Salvador e \u00e0 Capital Federal: a BR-135, Bras\u00edlia/Barreiras/Piau\u00ed; a BR-020, Bras\u00edlia/Barreiras; e a BR-242, Barreiras/Salvador.\r\nJ\u00e1 nas d\u00e9cadas de 1980 e de 1990, com o intenso fluxo migrat\u00f3rio de fam\u00edlias ga\u00fachas, paranaenses e outras que levaram consigo uma not\u00e1vel expertise \u00e0s modern\u00edssimas t\u00e9cnicas agr\u00edcolas aplicadas ao agroneg\u00f3cio, desenvolveu-se o que hoje temos em expans\u00e3o na regi\u00e3o. As terras at\u00e9 ent\u00e3o consideradas inf\u00e9rteis foram transformadas numa das maiores \u00e1reas produtivas do Pa\u00eds.\r\nHoje, o oeste baiano \u00e9 o maior produtor de gr\u00e3os do Estado, com safras recordes, em grande parte direcionadas \u00e0 exporta\u00e7\u00e3o. No ano passado, os Munic\u00edpios produtores de soja contaram, na regi\u00e3o, com condi\u00e7\u00f5es clim\u00e1ticas particularmente favor\u00e1veis, o que resultou na exponencial e excepcional produtividade de 66 sacas por hectare, um recorde nacional. Os maci\u00e7os investimentos em produtos de tecnologia, bem como em tecnologia agr\u00edcola, por parte dos produtores, foram determinantes para os bons resultados obtidos.\r\nSr. Presidente, nobres colegas Deputados, \u00e9 importante ressaltar que o Munic\u00edpio de Barreiras especificamente ainda possui grande potencial de expans\u00e3o de \u00e1rea agricult\u00e1vel, al\u00e9m de Cerrado altamente produtivo. Barreiras tamb\u00e9m conta com um vale muito prop\u00edcio para a pequena agricultura, a piscicultura e a pecu\u00e1ria de corte e de leite, com farta oferta de \u00e1gua e clima favor\u00e1vel.\r\nComo n\u00e3o poderia deixar de ser, toda esta riqueza resulta num com\u00e9rcio forte e no desenvolvimento do mercado imobili\u00e1rio e da constru\u00e7\u00e3o civil. Tal conjunto de atividades garante a Barreiras uma economia complexa, sustent\u00e1vel e pr\u00f3spera, uma vez que as sazonalidades de cada segmento se compensam mutuamente. Esta cidade baiana \u00e9 um dos principais centros comerciais do Estado, abastecendo outros Munic\u00edpios num raio de 300 quil\u00f4metros, com um dos maiores \u00edndices de potencial de consumo do interior do Nordeste, em que ocupa o d\u00e9cimo terceiro lugar.\r\nAtualmente, Barreiras conta com um centro de abastecimento comercial na regi\u00e3o central da cidade, onde, pela for\u00e7a do trabalho de bravos feirantes homens e mulheres, vendem-se produtos aliment\u00edcios de horta, cereais, artigos importados, roupas, entre outros, al\u00e9m de contar com um forte com\u00e9rcio no centro comercial.\r\nA capital do oeste baiano ainda conta com um distrito industrial integrado ao sistema estadual, com aproximadamente sete ind\u00fastrias e agroind\u00fastrias, com empresas voltadas para o m\u00e1rmore, refrigerantes, velas, sacos pl\u00e1sticos, metal\u00fargicas, beneficiamento de arroz, entre outros, instaladas e com disponibilidade de lotes para futuros empreendimentos.\r\nMesmo com todo este potencial, ressalto que o Distrito Industrial de Barreiras precisa urgentemente receber investimentos para a melhoria da pavimenta\u00e7\u00e3o e da ilumina\u00e7\u00e3o de suas vias, visando a garantir mais seguran\u00e7a para todos os industri\u00e1rios e trabalhadores, que pedem por mais aten\u00e7\u00e3o e apoio.  \r\nNo setor agroindustrial, encontra-se presente no Munic\u00edpio a multinacional CARGILL, que gera centenas de empregos e renda, ao beneficiar o farelo de soja e produzir \u00f3leo de soja. \r\nBarreiras conta tamb\u00e9m com o importante trabalho do 4\u00ba Batalh\u00e3o de Engenharia de Constru\u00e7\u00e3o do Ex\u00e9rcito Brasileiro, que presta honrosos servi\u00e7os de infraestrutura para a regi\u00e3o oeste, para a Bahia e at\u00e9 para outros Estados.\r\nBarreiras \u00e9 tamb\u00e9m o principal polo universit\u00e1rio da regi\u00e3o. L\u00e1 fica a sede da Universidade Federal do Oeste da Bahia - UFOB, que oferece diversos e importantes cursos, entre os quais medicina, direito e nutri\u00e7\u00e3o. Al\u00e9m da UFOB, h\u00e1 outros importantes centros de ensino superior, como a Universidade do Estado da Bahia, nossa querida UNEB, o Instituto Federal da Bahia - IFBA, a Faculdade S\u00e3o Francisco de Barreiras - FASB, a Universidade Dom Pedro II, a Faculdade Regional da Bahia - UNIRB, entre outras, que atraem milhares de estudantes dos v\u00e1rios Munic\u00edpios do oeste da Bahia e do Brasil.\r\nNa \u00e1rea de sa\u00fade, Barreiras \u00e9 o Munic\u00edpio que mais concentra a oferta de servi\u00e7os e especialidades, tanto na rede p\u00fablica como na rede privada. Seu maior e principal hospital, o Hospital do Oeste, que \u00e9 estadual, acolhe pacientes de toda a regi\u00e3o, quando estes demandam procedimentos de m\u00e9dia e de alta complexidade, e conta com ampla e renomada equipe de especialistas em diversas \u00e1reas da medicina. Ali\u00e1s, o Governo da Bahia est\u00e1 ampliando o n\u00famero desses especialistas, para oferecer servi\u00e7os in\u00e9ditos ao oeste nas \u00e1reas de cardiologia e oncologia, necessidade hist\u00f3rica da regi\u00e3o, al\u00e9m do aumento de leitos de UTI em mais 20 unidades.\r\nTamb\u00e9m est\u00e1 sendo constru\u00edda pelo Governo Estadual uma grande policl\u00ednica regional, que atender\u00e1 Barreiras e todos os Munic\u00edpios do oeste. \r\nAproveito a ocasi\u00e3o para saudar nosso Governador Rui Costa, por sua compet\u00eancia e determina\u00e7\u00e3o em interiorizar, cada vez mais, os servi\u00e7os p\u00fablicos de sa\u00fade, oferecendo mais dignidade e qualidade de vida ao povo baiano. \r\nTemos tamb\u00e9m o Hospital Regional Eurico Dutra, um centro m\u00e9dico e cir\u00fargico que funciona como base para o Hospital do Oeste, que dever\u00e1 funcionar, num futuro pr\u00f3ximo, como hospital universit\u00e1rio da UFOB, o que certamente provocar\u00e1 uma revolu\u00e7\u00e3o para o bem da popula\u00e7\u00e3o de Barreiras e de todo o oeste da Bahia, oferecendo atendimento de excel\u00eancia m\u00e9dica mais humanizado. Para isso, n\u00f3s Parlamentares, especialmente os da bancada baiana, precisamos, de forma suprapartid\u00e1ria, unir esfor\u00e7os em torno deste importante objetivo para ajudarmos a UFOB, ao lado da Empresa Brasileira de Servi\u00e7os Hospitalares, vinculada ao Minist\u00e9rio da Educa\u00e7\u00e3o, a viabilizar esta parceria em favor de uma sa\u00fade melhor para toda a popula\u00e7\u00e3o do oeste da Bahia. Tenho convic\u00e7\u00e3o de que isso acontecer\u00e1, pois continuaremos aqui dando nossa contribui\u00e7\u00e3o para que esta iniciativa seja implementada ainda neste ano. \r\nEntretanto, meus amigos e amigas, ap\u00f3s destacar um pouco das potencialidades da regi\u00e3o oeste da Bahia, n\u00e3o posso ignorar que os gargalos de infraestrutura s\u00e3o um dos maiores entraves para o desenvolvimento regional e para a log\u00edstica de escoamento da produ\u00e7\u00e3o agr\u00edcola do oeste baiano, carro-chefe do desenvolvimento regional. \r\nSe, com todas estas dificuldades, o Brasil ainda consegue ser um gigante no agroneg\u00f3cio, isso se d\u00e1 gra\u00e7as \u00e0 compet\u00eancia, \u00e0 garra e \u00e0 determina\u00e7\u00e3o dos nossos produtores rurais, pequenos, m\u00e9dios ou grandes produtores. Todos colaboram para o progresso do nosso Pa\u00eds a cada dia.\r\nO poder p\u00fablico, como um todo, mas especialmente o Governo Federal, deve, para tanto, fazer a sua parte, reduzindo o chamado Custo Brasil. \r\nA\u00e7\u00f5es precisam ser desenvolvidas no \u00e2mbito da regulariza\u00e7\u00e3o fundi\u00e1ria regional, no investimento e no aperfei\u00e7oamento da telefonia celular nas v\u00e1rias comunidades rurais que ainda est\u00e3o desassistidas. Os Munic\u00edpios precisam ser contemplados com investimentos em obras de esgotamento sanit\u00e1rio e em sistemas de abastecimento de \u00e1gua pot\u00e1vel, bem como na implanta\u00e7\u00e3o dos aterros sanit\u00e1rios, t\u00e3o necess\u00e1rios e imprescind\u00edveis. Neste contexto, reafirmo meu compromisso de continuar trabalhando a cada dia para levar estes investimentos federais para nossa regi\u00e3o do oeste da Bahia.\r\nNo caso espec\u00edfico do oeste baiano, h\u00e1 quatro grandes obras de compet\u00eancia federal que aumentariam de maneira extraordin\u00e1ria a competitividade das nossas commodities no mercado internacional. Poderia destacar a amplia\u00e7\u00e3o do Aeroporto Regional de Barreiras; a duplica\u00e7\u00e3o da BR-242, no trecho que liga Barreiras ao Munic\u00edpio Lu\u00eds Eduardo Magalh\u00e3es; melhorias e conclus\u00e3o dos trechos e pontes na BR-135, no trecho que liga S\u00e3o Desid\u00e9rio ao Munic\u00edpio de Correntina; e a conclus\u00e3o das obras da Ferrovia Oeste-Leste, que ligar\u00e1 futuramente o Porto de Ilh\u00e9us, no litoral baiano, passando pelo oeste at\u00e9 a Ferrovia Norte-Sul, em Figueir\u00f3polis, no Estado de Tocantins.\r\nPara tanto, a amplia\u00e7\u00e3o do Aeroporto de Barreiras receber\u00e1 investimentos da ordem de 45 milh\u00f5es de reais do Governo Federal, investimentos que j\u00e1 est\u00e3o garantidos, pelo que agrade\u00e7o, de acordo com o termo de compromisso firmado entre o Minist\u00e9rio da Infraestrutura e o Governo da Bahia, assinado j\u00e1 em dezembro do ano passado, para o qual tive humilde mas importante participa\u00e7\u00e3o na articula\u00e7\u00e3o entre as esferas estadual e federal para sua efetiva\u00e7\u00e3o, que est\u00e1 em pleno curso, com a expectativa de realiza\u00e7\u00e3o da licita\u00e7\u00e3o das obras pelo Governo do Estado da Bahia e supervis\u00e3o da Secretaria de Avia\u00e7\u00e3o Civil, j\u00e1 agora no segundo semestre deste ano.\r\nDe acordo com este projeto, o aeroporto ganhar\u00e1 um novo terminal de passageiros, novo p\u00e1tio para aeronaves, nova se\u00e7\u00e3o contra inc\u00eandio e opera\u00e7\u00e3o por instrumento IFR, al\u00e9m do alargamento e da amplia\u00e7\u00e3o da pista de pouso e decolagem, que permitir\u00e3o a opera\u00e7\u00e3o de aeronaves maiores, como o Boeing 737, com mais capacidade de passageiros, o que n\u00e3o s\u00f3 possibilitar\u00e1 a redu\u00e7\u00e3o do valor das passagens a\u00e9reas, bem como atrair\u00e1 o interesse de grandes companhias a\u00e9reas para operarem na regi\u00e3o. Registro que a Gol j\u00e1 manifestou inten\u00e7\u00e3o neste sentido, na Secretaria de Avia\u00e7\u00e3o Civil.\r\nEsta obra tornar\u00e1 o Aeroporto de Barreiras compat\u00edvel com a import\u00e2ncia da economia e da popula\u00e7\u00e3o do oeste baiano, hoje prejudicada pela estrutura acanhada das atuais instala\u00e7\u00f5es aeroportu\u00e1rias, com apenas dois \u00fanicos voos di\u00e1rios realizados pela Passaredo e pela Azul, por meio de aeronaves ATR 72. Ali\u00e1s, agradecemos a estas empresas por acreditarem e investirem na nossa regi\u00e3o.\r\nEstima-se que a obra vai beneficiar diretamente mais de um milh\u00e3o de pessoas e abrir as portas para o com\u00e9rcio e a amplia\u00e7\u00e3o do agroneg\u00f3cio. \r\nJ\u00e1 a duplica\u00e7\u00e3o da BR-242 no trecho que liga Barreiras a Lu\u00eds Eduardo Magalh\u00e3es, por\u00e9m, ainda est\u00e1 em fase de estudos pelo DNIT desde o ano passado e atualmente se encontra em est\u00e1gio de conclus\u00e3o. Esta rodovia \u00e9 important\u00edssima para a regi\u00e3o, pois h\u00e1 um enorme contingente de trabalhadores que se deslocam todos os dias entre estes dois grandes centros urbanos. Al\u00e9m disso, esta rodovia \u00e9 a principal porta de entrada das Regi\u00f5es Sul e Centro-Oeste para o Nordeste, constituindo-se em eixo fundamental para o escoamento da produ\u00e7\u00e3o agr\u00edcola nacional.\r\nO Munic\u00edpio de Lu\u00eds Eduardo Magalh\u00e3es, que foi emancipado do de Barreiras, hoje \u00e9 o segundo principal centro urbano da regi\u00e3o e ser\u00e1 muito beneficiado com esta importante obra de duplica\u00e7\u00e3o, pela qual trabalharemos, confiantes em que ser\u00e1 priorizada em breve pelo Minist\u00e9rio da Infraestrutura.\r\nSr. Presidente, destaco que tive a grata satisfa\u00e7\u00e3o de participar de audi\u00eancia no Minist\u00e9rio da Infraestrutura com o Ministro Tarc\u00edsio Gomes de Freitas, um homem p\u00fablico s\u00e9rio, competente e comprometido com o progresso da nossa Na\u00e7\u00e3o, como pude constatar. Na ocasi\u00e3o, ele anunciava a garantia da continuidade das obras da Ferrovia Oeste-Leste - FIOL, independentemente das concess\u00f5es que est\u00e3o sendo e ser\u00e3o realizadas. Esta informa\u00e7\u00e3o renova a esperan\u00e7a de toda a nossa popula\u00e7\u00e3o em dias melhores para o oeste baiano.\r\nQuero agradecer ao Ministro Tarc\u00edsio sua aten\u00e7\u00e3o e seu comprometimento com a Bahia.\r\nQuem pensa que o oeste baiano \u00e9 caracterizado apenas pela sua potencialidade econ\u00f4mica est\u00e1 muito enganado. Esta regi\u00e3o det\u00e9m muitas atra\u00e7\u00f5es tur\u00edsticas e \u00e9 um destino procurado por quem busca sossego, aventura e experi\u00eancias \u00fanicas. Barreiras, Angical, Crist\u00f3polis, Catol\u00e2ndia, Santa Maria da Vit\u00f3ria, S\u00e3o Desid\u00e9rio, Correntina, Barra, Riach\u00e3o das Neves e Formosa do Rio Preto, entre outros Munic\u00edpios, destacam-se neste cen\u00e1rio.\r\nA moderna cidade de Barreiras abriga um verdadeiro para\u00edso ecol\u00f3gico, com rios, corredeiras, cachoeiras, serras e vales. Possui rios em toda a sua extens\u00e3o - o Rio Grande \u00e9 o maior e mais importante, ideal para a pr\u00e1tica de esportes n\u00e1uticos e pesca esportiva. J\u00e1 o Rio de Ondas \u00e9 um verdadeiro para\u00edso natural, com espa\u00e7o para banhos e divertidos passeios de botes e caiaques. As cachoeiras do Acaba Vida e do Redondo s\u00e3o as mais belas do Munic\u00edpio, com \u00e1guas l\u00edmpidas e piscinas naturais. Por fim, temos o Rio Branco, que assiste comunidades, pequenos e m\u00e9dios produtores rurais do vale.\r\nJ\u00e1 o Munic\u00edpio de S\u00e3o Desid\u00e9rio oferece trilhas que levam a suas famosas cavernas, grutas, rios, cachoeiras, lagos e pared\u00f5es. A cidade det\u00e9m potencial tur\u00edstico representado por 146 grutas, 9 s\u00edtios arqueol\u00f3gicos e cavernas com pinturas rupestres. \u00c9 em S\u00e3o Desid\u00e9rio que est\u00e1 situado um dos maiores lagos subterr\u00e2neos do Brasil, o Lago do Cruzeiro, que possui uma das maiores bacias hidrogr\u00e1ficas do Nordeste, rica em biodiversidade.\r\nJ\u00e1 Formosa do Rio Preto atrai pelos seus rios, cachoeiras e lagoas. Os principais s\u00e3o o Rio Sassafr\u00e1s, o Rio Sap\u00e3o, o Rio Riach\u00e3o e o Rio Preto, todos com \u00e1guas cristalinas, ideais para a pesca. As Cachoeiras do Ouro e a Cachoeira do Rio Preto s\u00e3o as mais procuradas na cidade. Formosa do Rio Preto \u00e9 o maior Munic\u00edpio baiano em extens\u00e3o territorial e o maior produtor de gr\u00e3os de todo o Norte e Nordeste do Brasil. Com seu potencial, caminha para se tornar o maior produtor do Pa\u00eds, em vista dos mais de 1 milh\u00e3o de hectares que ainda podem vir a produzir.  \r\nAssim, necessitamos de investimentos no ecoturismo regional, para atrairmos mais visitantes, distribuindo riqueza e melhor qualidade de vida ao nosso povo do oeste. \r\nPrecisamos implantar o Parque Nacional da Cachoeira do Acaba Vida e do Redondo, em Barreiras, projeto de grande magnitude que visa a preservar a fauna e a flora do Cerrado baiano, bem como estruturar sua concess\u00e3o para a iniciativa privada, visando a maiores investimentos no ecoturismo da regi\u00e3o e \u00e0 atra\u00e7\u00e3o de turistas e visitantes brasileiros e estrangeiros, al\u00e9m de diversas outras medidas que fortale\u00e7am a regi\u00e3o neste sentido. \r\nPortanto, reafirmo meu compromisso em destacar minha querida regi\u00e3o do oeste da Bahia e todos os seus Munic\u00edpios, ressaltando que muito haver\u00e1 de ser realizado em favor da nossa popula\u00e7\u00e3o. \r\nSenhoras e senhores, concluindo meu pronunciamento, gostaria de falar de um tema nacional, uma causa que me \u00e9 muito cara e certamente reconhecida pela maioria de todos aqui. Falo da necessidade da federaliza\u00e7\u00e3o da educa\u00e7\u00e3o b\u00e1sica em nosso Pa\u00eds. \u00c9 consenso nesta Casa, tenho certeza, a necessidade urgente de aprimorarmos a educa\u00e7\u00e3o no nosso Pa\u00eds, sobretudo a educa\u00e7\u00e3o b\u00e1sica, p\u00fablica e gratuita. \r\nEstou convencido de que este desafio s\u00f3 come\u00e7ar\u00e1 a ser enfrentado com sucesso quando houver a transfer\u00eancia das atribui\u00e7\u00f5es educacionais hoje a cargo dos Munic\u00edpios e dos Estados para a Uni\u00e3o, ou seja, quando a educa\u00e7\u00e3o b\u00e1sica for federalizada.\r\nJ\u00e1 existem escolas federais da educa\u00e7\u00e3o b\u00e1sica, mas em n\u00famero muito reduzido. Elas contemplam menos de 1% das matr\u00edculas. O modelo, contudo, \u00e9 um sucesso. De acordo com o mais recente resultado do Programa Internacional de Avalia\u00e7\u00e3o de Alunos - PISA, divulgado em 2016, os alunos que estudavam nos locais vinculados \u00e0 Uni\u00e3o atingiram nota acima da m\u00e9dia dos alunos de Pa\u00edses da Organiza\u00e7\u00e3o para a Coopera\u00e7\u00e3o e Desenvolvimento Econ\u00f4mico - OCDE.\r\n\u00c9 enorme a disparidade de desempenho que existe entre estes e os alunos das escolas municipais. Em leitura, por exemplo, os alunos das escolas federais brasileiras alcan\u00e7aram, em m\u00e9dia, 528 pontos, n\u00famero superior \u00e0 m\u00e9dia dos alunos da OCDE, que foi de 493. No entanto, a rede municipal, para termos uma ideia, somou apenas 325 pontos neste mesmo quesito.\r\nNa base desta disparidade, est\u00e1 o car\u00e1ter heterog\u00eaneo dos nossos Munic\u00edpios. Alguns s\u00e3o muito ricos e desenvolvidos, outros n\u00e3o, e ainda t\u00eam que cumprir seus deveres constitucionais na educa\u00e7\u00e3o, na sa\u00fade, na seguran\u00e7a p\u00fablica e na infraestrutura urbana, com poucos recursos e limita\u00e7\u00f5es de toda ordem. \r\nO resultado \u00e9 que nossas crian\u00e7as est\u00e3o fadadas a ter melhor ou pior educa\u00e7\u00e3o em raz\u00e3o do local onde nascem e moram.\r\nO grande educador Cristovam Buarque, reverenciado por todo o nosso Pa\u00eds e pelo mundo, sempre afirma que esta \u00e9 uma dist\u00e2ncia que temos a obriga\u00e7\u00e3o moral de combater porque todos, moradores de Munic\u00edpios ricos ou pobres, pagam os impostos que financiam a educa\u00e7\u00e3o p\u00fablica e t\u00eam, portanto, o direito constitucional de ser bem educados, desde os primeiros anos de sua vida escolar.\r\nEssa tamb\u00e9m tem sido uma das minhas principais bandeiras, na minha milit\u00e2ncia pol\u00edtica, contribuindo com esse importante debate, na determina\u00e7\u00e3o de despertar as autoridades competentes para essa urgente necessidade. Ela envolve o direito e os interesses de cerca de 51 milh\u00f5es de crian\u00e7as e adolescentes, nessa faixa escolar, e constitui instrumento essencial para o combate \u00e0s desigualdades em nosso Pa\u00eds. Educa\u00e7\u00e3o b\u00e1sica de qualidade \u00e9 a primeira oportunidade que recebemos para a constru\u00e7\u00e3o de uma vida digna, livre, plena de sentido e de realiza\u00e7\u00f5es, e essa oportunidade deve ser dada a todos os brasileiros e a todas as brasileiras.\r\nQuero, pois, reiterar o meu compromisso de trabalhar para a causa da federaliza\u00e7\u00e3o da educa\u00e7\u00e3o b\u00e1sica em nosso Pa\u00eds e tamb\u00e9m de dedicar meus melhores esfor\u00e7os em prol do desenvolvimento, do oeste baiano de modo especial, da Bahia e do nosso Pa\u00eds.\r\nAfirmo aqui a toda a Na\u00e7\u00e3o brasileira, ao meu Estado da Bahia e principalmente \u00e0 popula\u00e7\u00e3o do oeste, que serei um batalhador incans\u00e1vel para a garantia de um modelo de Estado que privilegie o seu povo e n\u00e3o uma classe, que garanta direitos e que n\u00e3o os restrinja, que busque a desburocratiza\u00e7\u00e3o dos servi\u00e7os estatais sem perder de vista a qualidade e a import\u00e2ncia de seus servidores.\r\nPe\u00e7o o apoio de todos os colegas Deputados e Deputadas para essas causas.\r\nEra o que tinha a dizer, Sr. Presidente. Solicito a divulga\u00e7\u00e3o deste meu pronunciamento tamb\u00e9m no programa A Voz do Brasil.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T12:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6-D, de 2019, sobre reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, encaminha o voto \"n\u00e3o\" ao requerimento de retirada da mat\u00e9ria da pauta, pela import\u00e2ncia desta mat\u00e9ria.\r\nQueremos inclusive parabeniz\u00e1-lo pela compet\u00eancia na lideran\u00e7a em rela\u00e7\u00e3o a esta mat\u00e9ria t\u00e3o importante para o Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-16T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "INSTITUTO NACIONAL DE COLONIZA\u00c7\u00c3O E REFORMA AGR\u00c1RIA (INCRA), LAN\u00c7AMENTO, PROGRAMA (ADMINISTRA\u00c7\u00c3O), T\u00cdTULO DOMINIAL, IM\u00d3VEL RURAL, ASSENTAMENTO RURAL.\r\nGOVERNO FEDERAL, RECURSOS OR\u00c7AMENT\u00c1RIOS, ASSENTAMENTO RURAL, BAHIA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Lan\u00e7amento, pelo Instituto Nacional de Coloniza\u00e7\u00e3o e Reforma Agr\u00e1ria - INCRA, da Opera\u00e7\u00e3o Luz no Fim do T\u00fanel destinada \u00e0 emiss\u00e3o de t\u00edtulos definitivos da terra. Apelo ao Governo Federal de amplia\u00e7\u00e3o dos recursos destinados aos assentamentos rurais, especialmente no Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente Deputado Marcel Van Hattem. Agrade\u00e7o ao Deputado Paes Landim a concess\u00e3o e cumprimento nosso colega Deputado Paulo pelo pronunciamento.\r\nQuero, nesta tarde, apenas destacar importante iniciativa do Minist\u00e9rio da Agricultura, atrav\u00e9s do INCRA, que lan\u00e7a a Opera\u00e7\u00e3o Luz no Fim do T\u00fanel. Essa iniciativa visa oferecer t\u00edtulos definitivos de terras a milhares de assentados no Brasil. O objetivo \u00e9 alcan\u00e7ar, at\u00e9 o final do ano, 25 mil titula\u00e7\u00f5es por todo o Pa\u00eds, priorizando o Nordeste do Brasil.\r\nComo Deputado Federal eleito pela Bahia, quero destacar, de modo especial ao Presidente do INCRA, que o valor de 8 milh\u00f5es e 500 mil reais destinado ao programa para a concess\u00e3o desses 25 mil t\u00edtulos \u00e9 muito pequeno. Aqui fica o meu apelo para que esse valor seja ampliado em muitas vezes mais, para o bem de todos os assentados deste Pa\u00eds. \r\nH\u00e1 praticamente 10 mil assentamentos em todo o Brasil e mais de 974 mil fam\u00edlias assentadas, em todos os Estados. E a maioria deles, praticamente 90% de todos esses assentados, n\u00e3o tem o t\u00edtulo definitivo da sua terra, da sua propriedade, especialmente para poder ter acesso a cr\u00e9dito junto \u00e0s institui\u00e7\u00f5es financeiras.\r\nPor onde n\u00f3s andamos, o grande reclame, o principal pedido dos assentados \u00e9 que o Governo garanta o acesso ao t\u00edtulo definitivo da sua terra para que eles possam ter dignidade, acesso a cr\u00e9dito e, a partir da\u00ed, ter inclusive assist\u00eancia t\u00e9cnica qualificada e melhor assist\u00eancia m\u00e9dica.\r\nJuntamente com esse programa ser\u00e1 ofertado o valor de 170 milh\u00f5es de reais para a constru\u00e7\u00e3o de 5 mil unidades residenciais nesses assentamentos. Aqui fica o nosso pedido tamb\u00e9m de que a Bahia seja amplamente contemplada com esse importante investimento.\r\nPediremos audi\u00eancia com a Ministra da Agricultura e com o Presidente do INCRA para objetivamente levar os pleitos do oeste da Bahia, especialmente ao INCRA, para que tamb\u00e9m sejamos amplamente contemplados.\r\nPresidente, muito obrigado pela oportunidade.\r\nPe\u00e7o que este meu pronunciamento seja veiculado no programa A Voz do Brasil. \r\nEra o que eu tinha a dizer.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F7%2F2019&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante encaminha o voto \"n\u00e3o\" ao requerimento de retirada de pauta, para que esta importante proposta continue a tramitar e possamos aprov\u00e1-la em segundo turno. Essa proposta garantir\u00e1 o in\u00edcio de um fundamental avan\u00e7o para o Pa\u00eds e para toda a nossa popula\u00e7\u00e3o.\r\nO Avante encaminha o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante encaminha o voto \"sim\", pela aprova\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o.\r\nEntendemos que precisamos avan\u00e7ar para a aprecia\u00e7\u00e3o em segundo turno desta importante mat\u00e9ria, que contribuir\u00e1 objetivamente para o avan\u00e7o do Pa\u00eds, a fim de que, diretamente tamb\u00e9m, Presidente, essas mat\u00e9rias aqui apreciadas possam ajudar no combate ao desemprego em nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=284&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre com\u00e9rcio e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente Rodrigo Maia, encaminha o voto contr\u00e1rio ao requerimento de retirada de pauta, por considerar que a Medida Provis\u00f3ria n\u00ba 881, de 2019, \u00e9 extremamente importante para o Brasil, um pa\u00eds que nos tr\u00eas \u00e2mbitos de Poder, tanto no municipal quanto no estadual e no federal, oferece uma mora administrativa muito grande, muito elevada aos empreendedores que querem empreender em nosso Pa\u00eds, principalmente os pequenos e m\u00e9dios empreendedores.\r\nA medida visa desburocratizar as a\u00e7\u00f5es do poder p\u00fablico e, objetivamente, incentivar a livre iniciativa, para que o Brasil continue avan\u00e7ando.\r\nPortanto, votamos \"n\u00e3o\" ao requerimento de retirada de pauta e \"sim\" \u00e0 Medida Provis\u00f3ria n\u00ba 881.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=232&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre com\u00e9rcio e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Avante orienta o voto \"sim\", pela conclus\u00e3o do debate e pelo encerramento da discuss\u00e3o, para que a Medida Provis\u00f3ria n\u00ba 881 seja aprovada. Assim, de forma objetiva, poderemos desburocratizar diversos atos administrativos no Pa\u00eds, fortalecendo a livre iniciativa e a economia no Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=269&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER DE COMISS\u00c3O, COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, oferecido \u00e0 Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a institui\u00e7\u00e3o da Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Sr. Presidente, encaminha o voto \"sim\", por entender que o parecer do Relator atende os pressupostos constitucionais.\r\nNo seu trabalho muito bem concebido, o Relator p\u00f4de corrigir algumas imperfei\u00e7\u00f5es.\r\nO Avante orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=289&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 881/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Avante orienta o voto \"n\u00e3o\", contra o requerimento de retirada de pauta, por ser favor\u00e1vel \u00e0 aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 881. \r\nEssa medida provis\u00f3ria \u00e9 extremamente importante para a desburocratiza\u00e7\u00e3o dos atos administrativos no Pa\u00eds. Entendemos que milh\u00f5es e milh\u00f5es de brasileiros ser\u00e3o beneficiados diretamente, porque poder\u00e3o empreender a cada dia sem tanta burocracia, sem tanto excesso por parte do poder p\u00fablico.\r\nO Avante \u00e9 a favor da gera\u00e7\u00e3o de empregos no Brasil. Portanto, votamos contrariamente a esse requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=15&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DIPOSITIVO LEGAL, PLV 17/2018, PROJETO DE LEI DE CONVERS\u00c3O, MPV 881/2019, MEDIDA  PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 67, constante do art. 28 do Projeto de Lei de Convers\u00e3o n\u00ba 17, de 2019, da Medida Provis\u00f3ria n\u00ba 881, de 2019, sobre a Declara\u00e7\u00e3o de Direitos de Liberdade Econ\u00f4mica, o estabelecimento de garantias de livre mercado e a an\u00e1lise de impacto regulat\u00f3rio, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante encaminha o voto \"sim\" por entender a import\u00e2ncia dessa medida provis\u00f3ria, que tem um potencial de gera\u00e7\u00e3o de mais de 3,7 milh\u00f5es de empregos nos pr\u00f3ximos 10 anos, segundo estudos da equipe econ\u00f4mica do Governo Federal.\r\nNo seu conte\u00fado, h\u00e1 uma possibilidade objetiva de desburocratizar o processo de abertura e de fechamento de pequenas empresas, gerando mais empregos no nosso Pa\u00eds.\r\nPortanto, o Avante, neste destaque, orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=17&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.715, de 2019, a respeito da posse de arma de fogo na \u00e1rea rural.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente Soraya, encaminha o voto \"sim\", favor\u00e1vel \u00e0 aprecia\u00e7\u00e3o desse importante projeto, entendendo que ele \u00e9 uma extens\u00e3o do direito de autodefesa para o homem e para a mulher do campo, que est\u00e3o em condi\u00e7\u00e3o, objetivamente, de vulnerabilidade, em fun\u00e7\u00e3o de serem, na sua maioria, trabalhadores e trabalhadoras que moram no campo e que precisam se proteger na extens\u00e3o da sua propriedade.\r\nPortanto, a orienta\u00e7\u00e3o do Avante \u00e9 o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 312/2015, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido ao Projeto de Lei n\u00ba 312, de 2015, sobre a Pol\u00edtica Nacional de Pagamento por Servi\u00e7os Ambientais, o Fundo Federal de Pagamento por Servi\u00e7os Ambientais e o Cadastro Nacional de Pagamento por Servi\u00e7os Ambientais. Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia pela condu\u00e7\u00e3o dos trabalhos no plen\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante orienta o voto \"sim\", Presidente.\r\nE quero dizer que n\u00f3s estamos plenamente satisfeitos e convictos de que estamos bem representados por V.Exa. \u00e0 frente da Presid\u00eancia da C\u00e2mara dos Deputados.\r\nV.Exa. exerce uma importante lideran\u00e7a perante todos os partidos desta Casa, para pautar mat\u00e9rias t\u00e3o importantes como esta, que \u00e9 de pleno interesse da sociedade, dando-lhe respostas r\u00e1pidas e objetivas e atendendo-lhe o clamor quanto \u00e0 prote\u00e7\u00e3o do meio ambiente.\r\nEssa lei traz condi\u00e7\u00f5es m\u00ednimas para que haja essa prote\u00e7\u00e3o e cria oportunidade de o Poder Executivo dar respostas r\u00e1pidas, com a\u00e7\u00f5es concretas.\r\nParab\u00e9ns a V.Exa. pela condu\u00e7\u00e3o dos trabalhos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=265&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre aprova\u00e7\u00e3o do texto do Acordo entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica Sobre Salvaguardas Tecnol\u00f3gicas Relacionadas \u00e0 Participa\u00e7\u00e3o dos Estados Unidos da Am\u00e9rica em Lan\u00e7amentos a partir do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante encaminha o voto \"sim\", Presidente, considerando esse acordo importante para o Maranh\u00e3o, para o nosso Pa\u00eds, na certeza de que essa proposta sair\u00e1 do papel, porque temos constatado o apoio do Congresso Nacional \u00e0s medidas estruturantes que t\u00eam sido executadas em nosso Pa\u00eds.(Palmas.)\r\n Esse ser\u00e1 mais um projeto que se transformar\u00e1 em realidade.\r\nO Avante encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=340&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 3443/2019, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.443, de 2019,  sobre a Presta\u00e7\u00e3o Digital dos Servi\u00e7os P\u00fablicos na Administra\u00e7\u00e3o P\u00fablica - Governo Digital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente Rodrigo Maia, vota \"sim\" a esse importante projeto de lei, que institui o Governo Digital.\r\nA proposta desse projeto amplia o atendimento digital tanto para o Governo Federal e seus Minist\u00e9rios quanto para todos os Governos Estaduais e os mais de 5.560 Munic\u00edpios brasileiros.\r\nGoverno bom \u00e9 aquele que governa para o povo, com efici\u00eancia, qualidade e objetividade. O Brasil, infelizmente, est\u00e1 muitas d\u00e9cadas atrasado nesse sentido.\r\nParabenizo V.Exa. e todos os L\u00edderes por pautarem t\u00e3o importante projeto de lei, que garantir\u00e1 a objetividade e a implementa\u00e7\u00e3o do servi\u00e7o digital para todas as \u00e1reas de Governo, principalmente para a \u00e1rea da sa\u00fade e para a \u00e1rea tribut\u00e1ria nos Munic\u00edpios, que demonstram tanta inefici\u00eancia sem os servi\u00e7os digitais.\r\nPortanto, o voto \u00e9 \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=145&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 5385/2019, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL. \r\nPAI, ANDR\u00c9 JONONES, DEPUTADO ESTADUAL, MINAS GERAIS, FALECIMENTO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 5.385, de 2019, a respeito da adultera\u00e7\u00e3o de sinal identificador de ve\u00edculo. Falecimento do genitor do Deputado Estadual de Minas Gerais, Andr\u00e9 Janones.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, orienta \"sim\".\r\nQuero aproveitar esta oportunidade, em nome do nosso Presidente, Luis Tib\u00e9, bem como dos demais Deputados do Avante, para manifestar a nossa solidariedade ao Deputado Andr\u00e9 Janones, do Avante de Minas Gerais, pelo falecimento do seu pai.\r\nPortanto, a ele e a todos os seus familiares os nossos sentimentos. Rogamos a Deus que o conforte, bem como a todos os amigos e familiares.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=166&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, AVANTE, VOTO CONTRARIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante orienta o voto \"n\u00e3o\", Presidente, considerando a import\u00e2ncia desse projeto, vez que o debate sobre este tema se arrasta no Congresso h\u00e1 mais de 20 anos. Chegou o momento de se superar esta situa\u00e7\u00e3o, garantindo a aprova\u00e7\u00e3o desta mat\u00e9ria, que \u00e9 muito importante n\u00e3o somente para o Maranh\u00e3o, mas para o Brasil como um todo.\r\nO Avante orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=237&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 8833/2017, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica ao Projeto de Lei n\u00ba 8.833, de 2017, a respeito da tipifica\u00e7\u00e3o como crime a indu\u00e7\u00e3o de crian\u00e7as e adolescentes ao suic\u00eddio e \u00e0 automutila\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente Soraya, orienta o voto \"sim\", entendendo tratar-se de um projeto de lei de extrema import\u00e2ncia para os mais de 70 milh\u00f5es de crian\u00e7as e adolescentes em nosso Pa\u00eds. Esta proposta visa alterar o Estatuto da Crian\u00e7a e do Adolescente e vem em boa hora, principalmente em raz\u00e3o das graves mazelas que todos n\u00f3s constatamos contra as nossas crian\u00e7as e adolescentes. Desse modo, serve como um alerta e, a partir da aprova\u00e7\u00e3o do projeto, ser\u00e1 uma medida extremamente importante, \u00e0 disposi\u00e7\u00e3o dos conselhos tutelares e de toda a sociedade, na prote\u00e7\u00e3o da crian\u00e7a e do adolescente em nosso Pa\u00eds. \r\nParab\u00e9ns a V.Exa. e a esta Casa pela iniciativa!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=241&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE AVIA\u00c7\u00c3O CIVIL  (ANAC), AVIA\u00c7\u00c3O, VE\u00cdCULO DE PEQUENO PORTE, CRITICA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Urgente necessidade de ado\u00e7\u00e3o, pelo Presidente Rodrigo Maia e pelo Presidente Jair Bolsonaro, de medidas a respeito de a\u00e7\u00f5es praticadas pela Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil - ANAC contra a avia\u00e7\u00e3o de pequeno porte no Pa\u00eds.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. TITO (AVANTE - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente Charles Fernandes, colegas Deputados e Deputadas, trago a esta tribuna um assunto muito s\u00e9rio e de interesse nacional, para que seja de conhecimento desta Casa e para que medidas urgentes sejam adotadas por parte do Presidente Rodrigo Maia, assim como pelo Sr. Presidente da Rep\u00fablica, perante a ANAC - Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil, em defesa da avia\u00e7\u00e3o geral leve do nosso Pa\u00eds.\r\nFalo isso, Presidente, em fun\u00e7\u00e3o da gravidade dos atos administrativos adotados pela ANAC, que \u00e9 respons\u00e1vel pela regulamenta\u00e7\u00e3o do setor de avia\u00e7\u00e3o, mas que, com seus atos exorbitantes, que agora denuncio, e com suas a\u00e7\u00f5es, pode destruir a avia\u00e7\u00e3o geral leve em nosso Pa\u00eds.\r\nEstou falando de mais de 6 mil aeronaves, 36% de toda a frota brasileira em opera\u00e7\u00e3o, que, infelizmente, pela inseguran\u00e7a jur\u00eddica imposta pela ANAC, al\u00e9m das taxas em excesso, multas ilegais, burocracia desmedida e custos abusivos, est\u00e3o impedidas de cumprir seu papel de unir mais de 2.500 aeroportos e campos de pouso e de prestar servi\u00e7os onde muitas vezes o avi\u00e3o pequeno \u00e9 a \u00fanica maneira de se chegar, uma vez que nossa avia\u00e7\u00e3o comercial atende atualmente menos de 140 cidades em todo o Brasil.\r\nA avia\u00e7\u00e3o de pequeno porte \u00e9 imprescind\u00edvel para qualquer pa\u00eds e deveria ser respeitada e valorizada por seus governantes, pois \u00e9 essa avia\u00e7\u00e3o que realiza, por exemplo, servi\u00e7os de pulveriza\u00e7\u00e3o para a agricultura nacional; forma m\u00e3o de obra para o setor, tanto na pilotagem quanto na manuten\u00e7\u00e3o; agiliza o turismo mais distante; e serve de meio de transporte para todas as atividades e neg\u00f3cios das pequenas \u00e0s grandes cidades.\r\nUma das quest\u00f5es que mais est\u00e1 causando inseguran\u00e7a jur\u00eddica, neste momento, a propriet\u00e1rios e pilotos de aeronaves de pequeno porte e experimentais \u00e9 o limbo regulat\u00f3rio que n\u00e3o deixa claro as condi\u00e7\u00f5es em que o voo sobre \u00e1reas densamente povoadas pode ser executado.\r\nA ANAC, que normalmente copia a legisla\u00e7\u00e3o americana, uma refer\u00eancia mundial em normas de seguran\u00e7a, nesse item n\u00e3o s\u00f3 n\u00e3o copiou, como tamb\u00e9m ignorou uma instru\u00e7\u00e3o suplementar da pr\u00f3pria Ag\u00eancia, recomendando que a legisla\u00e7\u00e3o americana fosse seguida, o que infelizmente n\u00e3o ocorreu.\r\nO que, na verdade, est\u00e1 acontecendo, Presidente, \u00e9 que existe, por parte da ANAC, uma clara persegui\u00e7\u00e3o contra as aeronaves ditas experimentais, persegui\u00e7\u00e3o essa que se iniciou no ano de 2010 e que hoje \u00e9 intensa. Como resultado, conseguiu reduzir a produ\u00e7\u00e3o nacional dessas aeronaves de 250 unidades por ano, em 2013, a apenas 4, em 2019, resultando numa perda de 60 milh\u00f5es de d\u00f3lares para o setor, prejudicando diretamente os cidad\u00e3os e a economia do nosso Pa\u00eds.\r\nO n\u00famero de empresas fabricantes e montadoras do segmento caiu de 35 para apenas 4, gerando a perda de mais de mil postos de trabalho qualificados na ind\u00fastria aeron\u00e1utica, cuja atividade \u00e9 a pesquisa, desenvolvimento, fabrica\u00e7\u00e3o, servi\u00e7os e comercializa\u00e7\u00e3o de aeronaves e seus componentes, causando, assim, a fuga de investimentos do setor para outros pa\u00edses.\r\nIronicamente, enquanto nos Estados Unidos a produ\u00e7\u00e3o e uso dessas aeronaves s\u00e3o incentivados, no Brasil o que vemos \u00e9 a ANAC perseguindo injustificadamente o segmento. \r\nAtualmente, f\u00e1bricas, escolas, oficinas, t\u00e1xi a\u00e9reo, propriet\u00e1rios, operadores e pilotos, sofrem com um excesso de burocracia e uma f\u00e1brica de multas de todas as esp\u00e9cies. A inseguran\u00e7a jur\u00eddica \u00e9 geral, o que obriga os operadores a manterem suas aeronaves no solo, sem poder utiliz\u00e1-las, o que \u00e9 um absurdo inomin\u00e1vel. \r\nSomente a t\u00edtulo de informa\u00e7\u00e3o, o consumo de AVGAS, que \u00e9 a gasolina de avia\u00e7\u00e3o, usada nas pequenas aeronaves, foi reduzido em mais de 59%, apenas nos \u00faltimos 5 anos, como consequ\u00eancia dessa pol\u00edtica nefasta contra a avia\u00e7\u00e3o experimental.\r\nInteressante frisar ainda que, em todos os governos, a avia\u00e7\u00e3o experimental \u00e9 incentivada e necess\u00e1ria, pois, \u00e9 o in\u00edcio da atividade aeron\u00e1utica e contribui para o desenvolvimento de novas tecnologias e novos equipamentos, que, futuramente, equipar\u00e3o as grandes aeronaves comerciais, nacionais e internacionais de todo o mundo.\r\nApenas como exemplo, o uso da fibra de vidro e posteriormente o carbono se iniciou na avia\u00e7\u00e3o atrav\u00e9s da avia\u00e7\u00e3o experimental.\r\nChegou a hora de colocarmos todos os interessados em uma mesma mesa, Presidente, junto com o Governo Federal, para analisarmos o que queremos para o Brasil do presente e do futuro. N\u00e3o faz sentido o nosso Pa\u00eds perder investimentos, como est\u00e1 perdendo, perder empresas e empregos por conta da falta de di\u00e1logo e de vis\u00e3o da ANAC no tocante ao futuro da avia\u00e7\u00e3o leve.\r\nO mundo est\u00e1 mudando e as mudan\u00e7as tem que seguir o caminho daquilo que nosso Pa\u00eds precisa e n\u00e3o o que a ANAC desenhou dentro dos seus quadros.\r\nInfelizmente, decis\u00f5es s\u00e3o tomadas no \u00e2mbito da Ag\u00eancia sem levar em conta as opini\u00f5es expressas nas consultas p\u00fablicas e nas observa\u00e7\u00f5es feitas por aqueles que trabalham no dia a dia da avia\u00e7\u00e3o. \r\nExiste uma falta de transpar\u00eancia nas decis\u00f5es que s\u00e3o impostas aos seus regulados, que est\u00e3o revoltados com tudo que est\u00e3o sofrendo pelos atos da ANAC.\r\nAcreditamos que o Brasil mudou e que o foco dessa mudan\u00e7a agora \u00e9 o cidad\u00e3o, suas necessidades e seu desenvolvimento. Nesse momento se faz necess\u00e1rio que a ANAC tamb\u00e9m mude e que passe a ouvir seus regulados e a saber de suas necessidades e de suas aspira\u00e7\u00f5es, para compar\u00e1-las com as necessidades e anseios de outros regulados ao redor do mundo para ent\u00e3o regular a avia\u00e7\u00e3o para os aviadores e profissionais do ramo, e n\u00e3o apenas de acordo com as convic\u00e7\u00f5es dos seus servidores, muitas vezes equivocadas.\r\nNeste momento, o \u00f3rg\u00e3o regulador americano, ouvindo o clamor dos pilotos e operadores e, baseados em estat\u00edsticas claras e objetivas est\u00e3o elaborando legisla\u00e7\u00e3o para que as aeronaves experimentais n\u00e3o s\u00f3 possam ser fabricadas por terceiros, como tamb\u00e9m deixem de utilizar o codinome experimental. \r\nAgora surge a pergunta, se esse mercado j\u00e1 estava em opera\u00e7\u00e3o no Brasil h\u00e1 mais de 40 anos, Presidente Charles Fernandes, por que n\u00e3o sermos os primeiros a elaborar uma norma para ele? Por que temos que aguardar que os americanos legislem sobre algo que fazemos h\u00e1 tanto tempo e com not\u00f3rio sucesso? Provavelmente, daqui a 18 ou 20 meses, poderemos exportar essas aeronaves para os pr\u00f3prios americanos que hoje j\u00e1 compram nossos assess\u00f3rios e acabamentos. \r\nFa\u00e7o aqui esse apelo ao Presidente Rodrigo Maia, para que abrace essa causa em defesa da avia\u00e7\u00e3o leve nacional, e ao nosso Presidente Jair Bolsonaro, destacando que precisa ser feito algo urgentemente, pois precisamos olhar com responsabilidade a avia\u00e7\u00e3o de pequeno porte antes que o Brasil passe de produtor para mero importador, como j\u00e1 aconteceu em tantos outros ramos de atividade. Uma vez destru\u00edda a cadeia produtiva, dificilmente ela ser\u00e1 recomposta.\r\nO Brasil tem que ser pensado para os brasileiros, e precisa de uma avia\u00e7\u00e3o leve, com incentivos para seu desenvolvimento, e n\u00e3o amarras na sua opera\u00e7\u00e3o, inviabilizando a sua exist\u00eancia.\r\nANAC, cumpra com o seu papel dentro dos limites da lei e pare de usurpar as compet\u00eancias do Legislativo e do Executivo!\r\nEra o que eu tinha a dizer, Sr. Presidente.  \r\nMuito obrigado pela concess\u00e3o do tempo. Um forte abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=30&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T13:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE AVIA\u00c7\u00c3O CIVIL  (ANAC), AVIA\u00c7\u00c3O, VE\u00cdCULO DE PEQUENO PORTE, CRITICA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de divulga\u00e7\u00e3o pelos meios de comunica\u00e7\u00e3o da Casa, em especial pelo programa A Voz do Brasil, do pronunciamento do orador a respeito de abusos praticados pela Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil - ANAC.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, pe\u00e7o a V.Exa. que garanta a veicula\u00e7\u00e3o e a divulga\u00e7\u00e3o do pronunciamento que acabo de fazer da tribuna desta Casa em que denunciei os abusos da Ag\u00eancia Nacional de Avia\u00e7\u00e3o Civil - ANAC, para que o maior n\u00famero de populares e as principais autoridades do nosso Pa\u00eds tenham conhecimento deste fato e, assim, medidas sejam adotadas. \r\nPe\u00e7o que meu pronunciamento seja divulgado pelos meios de comunica\u00e7\u00e3o desta Casa, especialmente pelo programa A Voz do Brasil, diante da import\u00e2ncia do assunto.\r\nMuito obrigado.\r\nO SR. PRESIDENTE (Charles Fernandes. PSD - BA) - Muito bem pelo pronunciamento, Deputado Tito, que tem o pedido atendido por esta Presid\u00eancia.\r\nO SR. TITO (AVANTE - BA) - Obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, MPV 889/2019, MEDIDA PROVISORIA, AVANTE, VOTO FAVORAVEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 889, de 2019, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975, com vista \u00e0 possibilidade de movimenta\u00e7\u00e3o das contas do PIS/PASEP, e da Lei n\u00ba 8.036, de 1990, para institui\u00e7\u00e3o da modalidade de saque-anivers\u00e1rio do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, e sobre a devolu\u00e7\u00e3o de recursos ao Fundo de Amparo ao Trabalhador - FAT; a altera\u00e7\u00e3o de disposi\u00e7\u00f5es relativas \u00e0s d\u00edvidas do Fundo de Compensa\u00e7\u00e3o de Varia\u00e7\u00f5es Salariais - FCV, e a extin\u00e7\u00e3o da cobran\u00e7a da contribui\u00e7\u00e3o de 10% (dez por cento) devida pelos empregadores em caso de despedida sem justa causa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente Soraya, encaminha o voto \"sim\", ressaltando ser essa uma medida sens\u00edvel do Governo Federal.\r\n\u00c9 importante a atitude do Presidente Bolsonaro, que, com essa iniciativa, que j\u00e1 foi adotada outras vezes por outros governos, oferece ao trabalhador, de forma antecipada, aquilo que \u00e9 seu por direito. Isso fortalece e aquece a economia nacional. Confiamos nessa medida e entendemos que \u00e9 algo importante para os trabalhadores.\r\nPortanto, o Avante encaminha \"sim\", Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=285&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DEFESA, APROVA\u00c7\u00c3O, MPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, EXAME NACIONAL DE REVALIDA\u00c7\u00c3O DE DIPLOMAS M\u00c9DICOS (REVALIDA), MEDICINA.",
+        "nomeDeputado": "Tito",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade. Pedido aos Parlamentares de apoio \u00e0 propositura.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados, eu gostaria de refor\u00e7ar a import\u00e2ncia da aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, que institui o Programa M\u00e9dicos pelo Brasil. Essa medida provis\u00f3ria visa exatamente incrementar a presta\u00e7\u00e3o de servi\u00e7os m\u00e9dicos em locais de dif\u00edcil provimento e fomentar a forma\u00e7\u00e3o de m\u00e9dicos especialistas em Medicina de Fam\u00edlia e Comunidade, bem como prop\u00f5e a flexibiliza\u00e7\u00e3o das normas de reconhecimento de diplomas estrangeiros no Pa\u00eds.\r\nTodos os anos, Sr. Presidente, centenas de jovens brasileiros deixam as suas fam\u00edlias e migram para pa\u00edses vizinhos, em busca da realiza\u00e7\u00e3o de um sonho: a forma\u00e7\u00e3o no curso de Medicina. \u00c9 inadmiss\u00edvel que ap\u00f3s anos de estudo e dedica\u00e7\u00e3o para que esses cidad\u00e3os possam exercer livremente a profiss\u00e3o em nosso Pa\u00eds, a revalida\u00e7\u00e3o do diploma seja um processo extremamente demorado e caro. \r\nEu n\u00e3o tenho d\u00favida de que, com a aprova\u00e7\u00e3o dessa medida provis\u00f3ria, o Governo Federal, e n\u00f3s, do Congresso Nacional, daremos um passo adiante na democratiza\u00e7\u00e3o do acesso \u00e0 sa\u00fade no nosso Pa\u00eds.\r\n\u00c9 tamb\u00e9m por defender essa causa que pe\u00e7o aos colegas Deputados e Deputadas que votem favoravelmente a essa importante medida provis\u00f3ria, que ir\u00e1 democratizar o acesso \u00e0 revalida\u00e7\u00e3o de diplomas a todos os jovens brasileiros que se formaram no exterior.\r\nEra o que eu tinha a dizer, Sr. Presidente. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=64&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA VOTA\u00c7\u00c3O, MPV 890/2019, MEDIDA PROVISORIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, orienta \"n\u00e3o\", por entender a import\u00e2ncia dessa proposta, j\u00e1 amplamente debatida.\r\nO SR. EDMILSON RODRIGUES (PSOL - PA. Pela ordem. Sem revis\u00e3o do orador.) - O PSOL orienta \"sim\".\r\nO SR. TITO (AVANTE - BA) - O Avante entende que os brasileiros e brasileiras que se formam no exterior por pura imposi\u00e7\u00e3o t\u00eam o direito de ver esta mat\u00e9ria aprovada pela C\u00e2mara do Deputados para terem oportunidade de realizar o REVALIDA duas vezes por ano. Isso atende n\u00e3o somente a eles, mas principalmente \u00e0 popula\u00e7\u00e3o carente deste Pa\u00eds, que precisa de mais sa\u00fade, mais atendimento m\u00e9dico, Presidente.\r\nO Avante orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=127&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), PL 4067/2015, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo apresentado pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 4.067-A, de 2015, sobre a institui\u00e7\u00e3o do Exame Nacional de Revalida\u00e7\u00e3o de Diplomas M\u00e9dicos Expedidos por Institui\u00e7\u00e3o de Educa\u00e7\u00e3o Superior Estrangeira - REVALIDA, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Avante orienta \"sim\", por entender a import\u00e2ncia desse projeto de lei, que reconhece que anualmente centenas de brasileiros se formam no exterior, alimentando um sonho, dedicando uma grande parte da sua vida, investindo recursos, e, ap\u00f3s longos anos, retornam ao Brasil e n\u00e3o conseguem fazer com que haja uma revalida\u00e7\u00e3o do seu diploma no seu pr\u00f3prio Pa\u00eds.\r\nPortanto, a aprova\u00e7\u00e3o deste projeto oferece justi\u00e7a a milhares e milhares de brasileiros, que veem nesta noite a C\u00e2mara dos Deputados dar um exemplo de acolhimento da vontade popular.\r\nParab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=174&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 25/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 890/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019, adotado pela Comiss\u00e3o Mista \u00e0 Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante encaminha \"sim\", Sr. Presidente, considerando que essa medida do Governo Federal \u00e9 muito importante para fortalecer a sa\u00fade da fam\u00edlia, da comunidade, e para fazer com que os Munic\u00edpios do interior deste Pa\u00eds passem a ter mais acesso \u00e0 sa\u00fade de qualidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=279&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T22:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 890/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 159, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Avante orienta o voto \"n\u00e3o\", defendendo o texto original da proposta, compreendendo que ele, na forma como foi concebido, garante mais efici\u00eancia na presta\u00e7\u00e3o de servi\u00e7os. Lembramos que quem tem a compet\u00eancia de definir as pol\u00edticas p\u00fablicas nacionais da sa\u00fade \u00e9 o pr\u00f3prio Minist\u00e9rio da Sa\u00fade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=314&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 10372/2018, PROJETO DE LEI ORDIN\u00c1RIA, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido ao Projeto de Lei n\u00ba 10.372, de 2018, sobre altera\u00e7\u00e3o das legisla\u00e7\u00f5es penal e processual penal para aperfei\u00e7oamento do combate ao crime organizado, aos delitos de tr\u00e1fico de drogas, ao tr\u00e1fico de armas e \u00e0 mil\u00edcia privada, aos crimes cometidos com viol\u00eancia ou grave amea\u00e7a e aos crimes hediondos, bem como para agilidade e moderniza\u00e7\u00e3o da investiga\u00e7\u00e3o criminal e da persecu\u00e7\u00e3o penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente Rodrigo Maia, encaminha \"sim\", atendendo ao anseio da comunidade brasileira, que entende que medidas como esta, com a aprova\u00e7\u00e3o deste pacote anticrime, certamente fazem o Pa\u00eds dar um grande passo no sentido de combater a impunidade.\r\nEu quero, em nome do Avante, parabenizar V.Exa. e todos os Deputados que participaram do grupo de trabalho para construir as mat\u00e9rias necess\u00e1rias para o aperfei\u00e7oamento desses projetos, que garantir\u00e3o um aperfei\u00e7oamento do C\u00f3digo Penal e do C\u00f3digo de Processo Penal, trazendo certamente mais seguran\u00e7a e sentimento de prote\u00e7\u00e3o a todo cidad\u00e3o brasileiro.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=318&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RUI COSTA, GOVERNADOR, BAHIA, INAUGURA\u00c7\u00c3O, HOSPITAL PUBLICO, BARREIRAS (BA).",
+        "nomeDeputado": "Tito",
+        "sumario": "Inaugura\u00e7\u00e3o pelo Governador do Estado da Bahia, Rui Costa, da Policl\u00ednica Regional de Sa\u00fade no Munic\u00edpio de Barreiras.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados, eu venho a esta tribuna para parabenizar toda a popula\u00e7\u00e3o do oeste da Bahia.\r\nNo \u00faltimo dia 10, o Governo do Estado da Bahia inaugurou uma grande e importante policl\u00ednica no Munic\u00edpio de Barreiras. Mais de 20 Munic\u00edpios da regi\u00e3o ser\u00e3o atendidos, a partir de agora, com exames de m\u00e9dia e alta complexidade realizados no Munic\u00edpio de Barreiras, atrav\u00e9s dessa importante unidade de sa\u00fade. Foram utilizados mais de 27 milh\u00f5es de reais em investimentos para a constru\u00e7\u00e3o desse empreendimento. Esses 20 Munic\u00edpios arcar\u00e3o com 60% do custeio da policl\u00ednica. Os 40% restantes ser\u00e3o custeados pelo Governo do Estado. Isso trar\u00e1 mais sa\u00fade \u00e0 popula\u00e7\u00e3o e mais efici\u00eancia na presta\u00e7\u00e3o desse atendimento.\r\nDeixo aqui os meus parab\u00e9ns ao Governador Rui Costa e a toda a popula\u00e7\u00e3o do oeste da Bahia.\r\nSr. Presidente, pe\u00e7o que este meu pronunciamento seja divulgado no programa A Voz do Brasil. \r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-19T11:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "TITO, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, BAHIA, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, EMENDA IMPOSITIVA, SA\u00daDE P\u00daBLICA, MULHER, GOVERNO ESTADUAL, MUNIC\u00cdPIO, DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS (DNOCS), COMPANHIA DE DESENVOLVIMENTO DOS VALES DO S\u00c3O FRANCISCO E DO PARNA\u00cdBA (CODEVASF), EDUCA\u00c7\u00c3O SUPERIOR, PRESTA\u00c7\u00c3O DE CONTAS DO MANDATO, EX\u00c9RCITO BRASILEIRO, ESPORTE.",
+        "nomeDeputado": "Tito",
+        "sumario": "Destina\u00e7\u00e3o pelo orador de recursos de emendas or\u00e7ament\u00e1rios para a regi\u00e3o oeste do Estado da Bahia.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. TITO (AVANTE - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer este pronunciamento, primando pela transpar\u00eancia e pela publicidade das conquistas do mandato que exer\u00e7o em nome da popula\u00e7\u00e3o baiana, especialmente a popula\u00e7\u00e3o do oeste da Bahia.\r\nQuero destacar a todos que, neste primeiro ano de mandato, tive a oportunidade de trabalhar muito pelo fortalecimento das a\u00e7\u00f5es governamentais em favor da popula\u00e7\u00e3o baiana. Trabalhei para que tanto o Governo do Estado quanto o Governo Federal pudessem, cada vez mais, ter um olhar especial para os 35 Munic\u00edpios do oeste do Estado, levando mais investimento e a\u00e7\u00f5es concretas para melhorar a qualidade de vida da nossa popula\u00e7\u00e3o.\r\nPara este primeiro or\u00e7amento, Presidente, fiz a indica\u00e7\u00e3o de 100% das minhas emendas impositivas para o oeste do Estado da Bahia. Foram destinados 8 milh\u00f5es de reais para o Governo da Bahia, via Secretaria de Sa\u00fade do Estado, para fortalecer as a\u00e7\u00f5es do Hospital do Oeste, da Policl\u00ednica Regional, do Hemocentro e para realizar este ano dezenas de mutir\u00f5es de sa\u00fade nos Munic\u00edpios do Estado. Parte desse valor ser\u00e1 utilizado para aquisi\u00e7\u00e3o de unidade m\u00f3vel tipo carreta, que percorrer\u00e1 todos os Munic\u00edpios do oeste da Bahia, para a realiza\u00e7\u00e3o de exames de m\u00e9dia e alta complexidade, em prol da prote\u00e7\u00e3o da sa\u00fade das mulheres.\r\nForam destinados 3 milh\u00f5es de reais ao DNOCS - Departamento Nacional de Obras Contra as Secas, para combater a seca no oeste baiano, principalmente nos Munic\u00edpios do Vale de S\u00e3o Francisco que est\u00e3o localizados nesta regi\u00e3o, com a perfura\u00e7\u00e3o e a instala\u00e7\u00e3o de po\u00e7os artesianos, com a reforma e a constru\u00e7\u00e3o de pequenas barragens, al\u00e9m da abertura de tanques para a piscicultura.\r\nMais 2,7 milh\u00f5es de reais foram destinados \u00e0 Companhia de Desenvolvimento dos Vales do S\u00e3o Francisco e do Parna\u00edba - CODEVASF, para aquisi\u00e7\u00e3o de tratores, m\u00e1quinas e dezenas de implementos agr\u00edcolas, para fortalecer a agricultura familiar em todo o oeste. \r\nFiz uma importante emenda tamb\u00e9m para a educa\u00e7\u00e3o superior, creditando 893 mil reais para aquisi\u00e7\u00e3o e instala\u00e7\u00e3o de laborat\u00f3rio e centro cir\u00fargico para o curso de medicina veterin\u00e1ria, al\u00e9m da aquisi\u00e7\u00e3o de ve\u00edculo utilit\u00e1rio para a Universidade do Estado da Bahia - UNEB, no campus de Barreiras.\r\nDestinei ainda 865 mil reais para o Ex\u00e9rcito Brasileiro, para o 4\u00ba BEC - Batalh\u00e3o de Engenharia e Constru\u00e7\u00e3o, tamb\u00e9m no Munic\u00edpio de Barreiras, que construir\u00e1 um centro cultural e ir\u00e1 adquirir v\u00e1rios equipamentos m\u00e9dicos para atender aos militares da reserva e da ativa, al\u00e9m de seus familiares. Isso representar\u00e1 mais sa\u00fade para nossa popula\u00e7\u00e3o.\r\nPor fim, foram destinados mais 500 mil reais para fortalecer a\u00e7\u00f5es de esporte em todos os Munic\u00edpios do oeste, atrav\u00e9s da Secretaria de Esporte do Governo da Bahia. No total, foram praticamente 16 milh\u00f5es de reais em emendas impositivas para nossa regi\u00e3o, apenas neste primeiro ano de mandato.\r\nSr. Presidente, agrade\u00e7o a Deus a oportunidade de poder trabalhar efetivamente pelo bem-estar de toda a nossa popula\u00e7\u00e3o. Agrade\u00e7o tamb\u00e9m ao Presidente do Avante, o Deputado Luis Tib\u00e9, a toda nossa equipe, aos assessores, aos meus colegas Deputados e Deputadas e, principalmente, a toda a popula\u00e7\u00e3o, que me incentiva e me apoia a cada momento deste mandato.\r\nA pol\u00edtica \u00e9 um espa\u00e7o nobre que precisa ser ocupado por pessoas de bem para que militem politicamente para servir \u00e0 popula\u00e7\u00e3o.\r\nEra o que eu tinha dizer.\r\nSr. Presidente, pe\u00e7o que este meu pronunciamento seja divulgado em todos os meios de comunica\u00e7\u00e3o oficiais da C\u00e2mara e, especialmente, no programa A Voz do Brasil.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F2%2F2020&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, colegas Deputados, a Medida Provis\u00f3ria n\u00ba 905, de 2019, estabelece o contrato de trabalho verde e amarelo e \u00e9 uma mat\u00e9ria em tramita\u00e7\u00e3o nesta Casa desde novembro do ano passado. Ela ir\u00e1 alterar alguns pontos da Consolida\u00e7\u00e3o das Leis do Trabalho que, na verdade, fortalecer\u00e3o dispositivos para o combate ao desemprego no nosso Pa\u00eds.\r\nO objetivo desta medida provis\u00f3ria \u00e9 estimular a contrata\u00e7\u00e3o de jovens que est\u00e3o iniciando a carreira, jovens entre 18 e 29 anos, que ainda n\u00e3o tenham participado ativamente do trabalho, jovens sem carteira de trabalho assinada. As desonera\u00e7\u00f5es s\u00e3o um incentivo de extrema import\u00e2ncia ao empregador no nosso Pa\u00eds, principalmente neste momento de pandemia, na qual os empregos est\u00e3o sendo afetados diretamente.\r\nPortanto, em nome do nosso Presidente Luis Tib\u00e9 e em nome dos demais Deputados do Avante, n\u00f3s nos posicionamos contrariamente \u00e0 retirada de pauta e orientamos o voto \"n\u00e3o\" \u00e0 retirada de pauta desta importante medida provis\u00f3ria.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, AVANTE , VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Aplausos ao Presidente Rodrigo Maia pela condu\u00e7\u00e3o dos trabalhos legislativos da Casa. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, pe\u00e7o que seja adicionado o tempo de L\u00edder.\r\nAntes de mais nada, Presidente Rodrigo Maia, quero enaltecer a sua conduta como nosso Presidente. V.Exa. tem se posicionado desde o in\u00edcio dessa crise da pandemia como um verdadeiro estadista, conduzindo a C\u00e2mara dos Deputados com muito equil\u00edbrio, coragem e compet\u00eancia, atributos esses inerentes aos grandes l\u00edderes.\r\nPara esta vota\u00e7\u00e3o, o Avante orienta o voto \"sim\", pois esta medida provis\u00f3ria, dentre tantas outras importantes mat\u00e9rias que n\u00f3s votamos nos \u00faltimos dias, incentiva o empregador a contratar pessoas entre 18 anos e 29 anos de idade e tamb\u00e9m com idade acima de 55 anos, que est\u00e3o fora do mercado formal h\u00e1 mais de 12 meses, portanto, desempregadas - isso \u00e9 necess\u00e1rio que seja destacado -, com rendimento inclusive limitado a um sal\u00e1rio m\u00ednimo e meio por m\u00eas. A medida provis\u00f3ria \u00e9 clara nesse sentido.\r\nProp\u00f5e reduzir ainda a al\u00edquota de contribui\u00e7\u00e3o para o FGTS de 8% para 2% - isso n\u00e3o trar\u00e1 nenhum preju\u00edzo ao trabalhador; reduz a multa pela metade, em caso de demiss\u00e3o, de 40% para 20%; isenta o pagamento da contribui\u00e7\u00e3o previdenci\u00e1ria patronal, al\u00e9m do sal\u00e1rio-educa\u00e7\u00e3o e da contribui\u00e7\u00e3o social para as entidades do Sistema S.\r\nS\u00e3o, portanto, modifica\u00e7\u00f5es importantes de incentivo \u00e0 gera\u00e7\u00e3o de empregos, o que o Brasil precisa muito de forma objetiva neste momento. Por isso, o Governo tem anunciado que espera criar 1 milh\u00e3o e 800 mil vagas de emprego com essa medida at\u00e9 o final de 2022.\r\nNosso Pa\u00eds passa, assim como outras na\u00e7\u00f5es, por um momento de crise sanit\u00e1ria e precisa que o Governo, bem como a C\u00e2mara dos Deputados e o Senado Federal, adote medidas como essa, para que esse enfrentamento seja feito com efici\u00eancia e objetividade e, de fato, alcance a nossa popula\u00e7\u00e3o desempregada, principalmente os nossos jovens, para que sejam acolhidos no mercado de trabalho.\r\nToda proposta que fortalecer a possibilidade de gera\u00e7\u00e3o de emprego e renda em nosso Pa\u00eds precisamos apoiar, sobretudo agora, diante dessa retra\u00e7\u00e3o da economia mundial.\r\nPor fim, Presidente, eu quero apenas destacar a nossa posi\u00e7\u00e3o favor\u00e1vel ao fim da discuss\u00e3o. Somos pela aprova\u00e7\u00e3o dessa medida provis\u00f3ria que est\u00e1 em pauta neste momento. Ressaltamos que a todas as medidas que foram pedidas pelo Governo esta Casa respondeu positivamente, garantindo importantes vota\u00e7\u00f5es, pautando projetos e aprovando com a celeridade necess\u00e1ria.\r\nPortanto, o Avante vota \"sim\", convencido de que est\u00e1 contribuindo em cada uma dessas vota\u00e7\u00f5es para a constru\u00e7\u00e3o de um Brasil melhor.\r\nParab\u00e9ns, Presidente, pelo seu trabalho e pela condu\u00e7\u00e3o de todos n\u00f3s!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, a Medida Provis\u00f3ria n\u00ba 905, de 2019, por tudo o que j\u00e1 foi exposto, estabelece que as contrata\u00e7\u00f5es sejam (falha na transmiss\u00e3o) de trabalhadores, nessa nova modalidade, a 20% do total de (falha na transmiss\u00e3o).\r\nO Avante orienta \"n\u00e3o\", contra a retirada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=160&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-12T13:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, MPV 909/2019, MEDIDA PROVIS\u00d3RIA, AVANTE, VOTO FAVOR\u00c1VEL.\r\nMANIFESTA\u00c7\u00c3O DE PESAR POR FALECIMENTO, TIBELINDO, PAI, LU\u00cdS TIB\u00c9, DEPUTADO FEDERAL.\r\nPROFISSIONAL DE SAUDE, ATUA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS, AGRADECIMENTO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Falecimento do pai do Deputado Lu\u00eds Tib\u00e9, Sr. Tibelindo. Solidariedade aos profissionais da sa\u00fade engajados na luta contra a pandemia de coronav\u00edrus. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 909, de 2019, sobre a extin\u00e7\u00e3o do fundo formado pelas reservas monet\u00e1rias constante no art. 12 da  Lei n\u00ba 5.143, de 1966, bem como a destina\u00e7\u00e3o dos recursos remanescentes e a revoga\u00e7\u00e3o do dispositivo mencionado. Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela inadmissibilidade da Emenda de Plen\u00e1rio n\u00ba 10 e, por consequ\u00eancia, do art. 5\u00ba da Subemenda Substitutiva oferecida pelo Relator da Comiss\u00e3o Especial da Medida Provis\u00f3ria n\u00ba 909, de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, inicialmente, em nome de todos os Deputados Federais e de todas as lideran\u00e7as do Avante de todo o Brasil, eu quero manifestar os nossos sentimentos ao Presidente Nacional do Avante, o Deputado Luis Tib\u00e9, pelo falecimento do seu pai, o Sr. Tibelindo, ocorrido no \u00faltimo dia 1\u00ba de maio.\r\nRogamos a Deus que conforte todos os familiares.\r\nPresidente, quero manifestar tamb\u00e9m minha solidariedade e agradecimento a todos os profissionais de sa\u00fade do nosso Pa\u00eds por estarem na linha de frente no enfrentamento desta pandemia, que atinge a todos n\u00f3s, num Pa\u00eds que j\u00e1 tem um sistema de sa\u00fade p\u00fablica deficiente historicamente, situa\u00e7\u00e3o que est\u00e1 agravada neste momento.\r\nO Avante manifesta sua posi\u00e7\u00e3o favor\u00e1vel a esta Medida Provis\u00f3ria n\u00ba 909, cumprimentando V.Exa. por ter inadmitido essa emenda que foi posta por meio do art. 5\u00ba sem o conhecimento dos demais Deputados.\r\nEsta medida provis\u00f3ria vigente, editada pelo Presidente Bolsonaro, \u00e9 mais uma iniciativa acertada do Governo, que tem envidado todos os esfor\u00e7os necess\u00e1rios para garantir o equil\u00edbrio da economia e, principalmente, o equil\u00edbrio das contas p\u00fablicas municipais e estaduais.\r\nO SR. PRESIDENTE (Rodrigo Maia. Bloco/DEM - RJ) - Deputado, conclua. O tempo \u00e9 somente de 1 minuto.\r\nO SR. TITO (Bloco/AVANTE - BA. Participa\u00e7\u00e3o por videoconfer\u00eancia.) - Muitos milh\u00f5es de reais est\u00e3o sendo destinados a Estados e Munic\u00edpios pelo Governo Federal, como jamais antes visto.\r\nPresidente, o Avante se manifesta favoravelmente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2020&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-09T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - O Avante, Presidente, orienta \"n\u00e3o\", em vista da import\u00e2ncia deste projeto de lei, por entender sua aprova\u00e7\u00e3o como um sinal extremamente importante para o mercado interno e, principalmente, para o mercado internacional. \r\nPortanto, o Avante orienta \"n\u00e3o\", por entender que esta mat\u00e9ria precisa, sim, vir \u00e0 pauta e \u00e0 vota\u00e7\u00e3o o mais breve poss\u00edvel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F2%2F2021&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ARTHUR LIRA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, SAUDA\u00c7\u00c3O.\r\nCONGRESSO NACIONAL, ATUA\u00c7\u00c3O, PAUTA (PROCESSO LEGISLATIVO), AVALIA\u00c7\u00c3O POSITIVA.\r\nREFORMA ADMINISTRATIVA, REFORMA TRIBUT\u00c1RIA, REALIZA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nCOMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO), INSTALA\u00c7\u00c3O, FAVOR\u00c1VEL.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO,  PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, AVANTE, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Sauda\u00e7\u00e3o ao Presidente Arthur Lira. Atua\u00e7\u00e3o conjunta dos Presidentes da C\u00e2mara dos Deputados e do Senado Federal, pelo estabelecimento de pauta de interesse nacional. Regozijo com o an\u00fancio, pela Presid\u00eancia, de realiza\u00e7\u00e3o das reformas administrativa e tribut\u00e1ria e de instala\u00e7\u00e3o da Comiss\u00e3o Mista de Planos, Or\u00e7amentos P\u00fablicos e Fiscaliza\u00e7\u00e3o. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Arthur Lira, em nome do Avante, eu quero saudar V.Exa. pelos primeiros dias na condi\u00e7\u00e3o de Presidente desta Casa e pelas atitudes adotadas como Presidente desta Casa, bem como quero saudar o Presidente do Senado Federal, o Senador Rodrigo Pacheco, principalmente por terem agido conjuntamente no estabelecimento de pautas importantes para o nosso Pa\u00eds. Dizer que pautar\u00e1 a reforma tribut\u00e1ria e a reforma administrativa e que constituir\u00e1 a Comiss\u00e3o Mista de Or\u00e7amento, com o objetivo de o mais rapidamente poss\u00edvel votar o Or\u00e7amento para o ano de 2021 \u00e9 fundamental para o avan\u00e7o das a\u00e7\u00f5es do Poder Legislativo, em resposta a tudo aquilo que a nossa popula\u00e7\u00e3o espera.\r\nPara esta mat\u00e9ria, especificamente, o Avante orienta o voto \"n\u00e3o\", para que a autonomia do Banco Central venha o mais rapidamente poss\u00edvel a ser pautada no dia de hoje nesta Casa e para que possamos aprovar tamb\u00e9m esta importante mat\u00e9ria, que, dentre todas as outras, tamb\u00e9m \u00e9 importante para o momento, Presidente.\r\nParab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, AVANTE, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Arthur Lira, a orienta\u00e7\u00e3o do Avante \u00e9 \"sim\", por considerar a import\u00e2ncia desse projeto de lei, que j\u00e1 foi exaustivamente discutido na C\u00e2mara dos Deputados e, logo ap\u00f3s, no Senado Federal. Agora, ele vem novamente \u00e0 C\u00e2mara, contando com um Relator muito competente, que concebe um relat\u00f3rio que atende, de fato, aos interesses do nosso Pa\u00eds, considerando que o Banco Central possui historicamente certa independ\u00eancia, n\u00e3o de direito, mas, sim, de fato.\r\nCom essa nova legisla\u00e7\u00e3o, consolida-se um Banco Central aut\u00f4nomo. O Brasil demonstra, atrav\u00e9s da C\u00e2mara e do Senado, que passa a consolidar uma mat\u00e9ria que vai trilhar o caminho j\u00e1 percorrido por grandes economias mundo afora, de modo que \u00e9 um grande avan\u00e7o esta legisla\u00e7\u00e3o.\r\nE o Avante manifesta, com muita convic\u00e7\u00e3o, o seu voto favor\u00e1vel a esse projeto de lei.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, AVANTE, VOTO CONTR\u00c1RIO. \r\nPAUTA (PROCESSO LEGISLATIVO), PROPOSI\u00c7\u00c3O LEGISLATIVA, VOTA\u00c7\u00c3O, DEFINI\u00c7\u00c3O, ACORDO DE LIDERAN\u00c7AS, ELOGIO.",
+        "nomeDeputado": "Tito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 12, apresentada ao Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o. Registro de voto do Deputado Luis Tib\u00e9. Elogio \u00e0 Presid\u00eancia pela elabora\u00e7\u00e3o de pauta democr\u00e1tica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TITO (Bloco/AVANTE - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Arthur Lira, o Avante orienta o voto \"n\u00e3o\".\r\nQuero inicialmente destacar que o nosso Presidente Luis Tib\u00e9 votou \"sim\", no m\u00e9rito do Projeto de Lei n\u00ba 19, de 2019, mas, por conta de uma quest\u00e3o t\u00e9cnica, n\u00e3o conseguiu confirmar o seu voto. A sua vota\u00e7\u00e3o foi \"sim\", no m\u00e9rito do projeto.\r\nA bem da verdade, Sr. Presidente, quero destacar que, por mais que o Regimento Interno desta Casa garanta a V.Exa., como Presidente, a defini\u00e7\u00e3o da pauta dos projetos do Poder Legislativo, desde a semana passada V.Exa. garantiu de forma democr\u00e1tica a constitui\u00e7\u00e3o da pauta com esses projetos de lei, inclusive com este projeto que acabamos de votar. V.Exa. o fez de forma democr\u00e1tica, ouvindo os Deputados, mas principalmente os L\u00edderes. Quero dizer que a pauta atual da C\u00e2mara dos Deputados est\u00e1 definida pelos L\u00edderes desta Casa, e n\u00e3o exclusivamente apenas por V.Exa. Portanto, cumprimento V.Exa. por isso, pela import\u00e2ncia dos projetos destacados para vota\u00e7\u00e3o a partir desta sess\u00e3o.\r\nEra o que tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-24T11:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CRISE SANIT\u00c1RIA, PANDEMIA, CORONAV\u00cdRUS. REGI\u00c3O OESTE, BAHIA, MARCELO QUEIROGA, MINISTRO DE ESTADO DA SA\u00daDE, PROVID\u00caNCIA, EQUIPAMENTO M\u00c9DICO-HOSPITAL.",
+        "nomeDeputado": "Tito",
+        "sumario": "Imediato fornecimento \u00e0s municipalidades da regi\u00e3o oeste do Estado da Bahia, pelo Minist\u00e9rio da Sa\u00fade, de equipamentos destinados ao tratamento da Covid-19.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TITO (AVANTE - BA. Sem revis\u00e3o do orador.) - Presidente, eu quero, nesta manh\u00e3, fazer um apelo ao Ministro Marcelo Queiroga, o nosso atual Ministro da Sa\u00fade, tendo em vista a gravidade da situa\u00e7\u00e3o da regi\u00e3o oeste do Estado da Bahia no que se refere ao enfrentamento \u00e0 pandemia da COVID. A regi\u00e3o oeste da Bahia est\u00e1 em colapso no que diz respeito ao enfrentamento \u00e0 COVID. Isso porque a ocupa\u00e7\u00e3o dos leitos de UTI existentes aqui na regi\u00e3o, no Hospital do Oeste, \u00e9 superior a 90%, chegando a 100% em alguns momentos. Cidad\u00e3os baianos est\u00e3o sendo transferidos, por UTI a\u00e9rea, aqui do oeste para a capital e para outras cidades.\r\nQuero apelar para a sensibilidade do Ministro com rela\u00e7\u00e3o \u00e0 grave situa\u00e7\u00e3o que vive a nossa regi\u00e3o. Os Prefeitos do oeste t\u00eam enviado of\u00edcios ao Minist\u00e9rio em que solicitam equipamentos para ampliarem o atendimento \u00e0 popula\u00e7\u00e3o, a exemplo de respiradores m\u00f3veis, bombas de infus\u00e3o, monitores card\u00edacos, al\u00e9m de concentradores de oxig\u00eanio. Esses pedidos t\u00eam sido feitos pelos pr\u00f3prios Munic\u00edpios, pela pr\u00f3pria Secretaria de Estado da Bahia, porque s\u00e3o equipamentos imprescind\u00edveis para a prote\u00e7\u00e3o da sa\u00fade da nossa popula\u00e7\u00e3o. Esses equipamentos ajudar\u00e3o a salvar muitas vidas, Presidente.\r\nDessa forma, pe\u00e7o ao Ministro Marcelo Queiroga que atenda \u00e0 Bahia com mais esses equipamentos, n\u00e3o obstante j\u00e1 termos conseguido implantar no Hospital do Oeste 40 leitos de UTI por meio de parceria com o Governo Federal e o Governo do Estado, atrav\u00e9s do ex-Ministro da Sa\u00fade Eduardo Pazuello. Agora apelamos ao Ministro Marcelo Queiroga, para que avalie esses pedidos do Estado da Bahia que tramitam no Minist\u00e9rio da Sa\u00fade, para que a nossa popula\u00e7\u00e3o fique protegida. O Munic\u00edpio de Barreiras, por exemplo, que tem mais de 153 mil habitantes, j\u00e1 est\u00e1 se aproximando do n\u00famero de 300 v\u00edtimas fatais em fun\u00e7\u00e3o do coronav\u00edrus. Portanto, quero deixar aqui, nesta manh\u00e3, o meu apelo ao Minist\u00e9rio da Sa\u00fade para que amplie a parceria com o Estado da Bahia, para que destine os equipamentos solicitados h\u00e1 algumas semanas, porque cada dia que conseguirmos antecipar para a entrega desses aparelhos representa mais vidas protegidas.\r\nPresidente, pe\u00e7o que este meu pronunciamento tenha ampla divulga\u00e7\u00e3o nos meios de comunica\u00e7\u00e3o da C\u00e2mara dos Deputados.\r\nBom dia e muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

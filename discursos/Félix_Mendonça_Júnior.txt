@@ -1,0 +1,74 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T22:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "FERNANDO FRANK, ARQUITETO, ANIVERS\u00c1RIO DE NASCIMENTO, HOMENAGEM.",
+        "nomeDeputado": "F\u00e9lix Mendon\u00e7a J\u00fanior",
+        "sumario": "Homenagem ao arquiteto e urbanista Fernando Frank, ao ensejo do transcurso do seu anivers\u00e1rio natal\u00edcio.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO F\u00c9LIX MENDON\u00c7A J\u00daNIOR.\r\n\r\nSr. Presidente, Sras. e Srs. Parlamentares, quero parabenizar o arquiteto, urbanista e amigo pessoal Fernando Frank pela passagem de seu anivers\u00e1rio na data de ontem, dia 6 de agosto.\r\n\tFernando, fraternal amigo, com seu talento, brindou o Brasil e a Bahia com marcantes e premiados projetos arquitet\u00f4nicos e urban\u00edsticos, que se tornaram obras de arte. \tGraduou-se em arquitetura pela Universidade Federal da Bahia em 1967 e, pouco depois, com os colegas Othon Gomes e Jader Tavares, fundou um dos mais renomados escrit\u00f3rios de arquitetura da Bahia. A partir de 2002, j\u00e1 nacionalmente reconhecido, iniciou nova jornada \u00e0 frente do escrit\u00f3rio que ostenta seu nome: Fernando Frank Arquitetura.\r\nFernando \u00e9 reconhecido pela excel\u00eancia e pelo vanguardismo em seus trabalhos, refer\u00eancias na arquitetura brasileira.\r\n\tDas extraordin\u00e1rias edifica\u00e7\u00f5es, que se tornaram monumentos p\u00fablicos, h\u00e1 que se destacar o Centro de Conven\u00e7\u00f5es da Bahia e a Casa do Com\u00e9rcio, ambos localizados na Capital baiana. No pr\u00e9dio da Casa do Com\u00e9rcio, a habilidade deste talentoso arquiteto proporcionou a comunh\u00e3o do concreto com o a\u00e7o, num resultado surpreendentemente harmonioso e funcional. Por este projeto, Fernando Frank recebeu da Associa\u00e7\u00e3o Brasileira de Estruturas Met\u00e1licas o pr\u00eamio Paulo Fragoso. O pr\u00e9dio \u00e9 considerado a mais engenhosa estrutura met\u00e1lica do Pa\u00eds.\r\n\tNa seara privada, levam a assinatura de Frank in\u00fameros projetos arquitet\u00f4nicos de edif\u00edcios comerciais e residenciais, entre eles a Mans\u00e3o Wildberger, localizada no \u00faltimo espa\u00e7o do Corredor da Vit\u00f3ria, com magn\u00edfica vista para a Ba\u00eda de Todos-os-Santos. \r\nEste projeto superou todas as expectativas, n\u00e3o s\u00f3 por ser uma arrojada concep\u00e7\u00e3o, mas tamb\u00e9m por ter proporcionado \u00e0 popula\u00e7\u00e3o de Salvador desfrutar de um exclusivo mirante para a mesma ba\u00eda, em \u00e1rea doada pelo empreendimento. Al\u00e9m disso, sob sua batuta, foi executada uma ampla reforma na Igreja de Nossa Senhora da Vit\u00f3ria, incluindo a recupera\u00e7\u00e3o de afrescos at\u00e9 ent\u00e3o desconhecidos, pinturas seculares, l\u00e1pides em pedra, pia batismal, objetos de arte sacra, altar-mor, forros da nave e telhado.\r\nEsta pequena s\u00edntese de sua obra \u00e9 uma singela homenagem a um profissional merecedor de todos os louros. A ele, nossos cumprimentos por mais um ano de vida.\r\nSr. Presidente, solicito que este registro seja inscrito nos Anais desta Casa e divulgado pelos meios de comunica\u00e7\u00e3o, para que seja remetido ao querido Fernando Frank.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=&Datain=8%2F8%2F2019&txPagina=409&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T21:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, EMENDA, SUBSTITUI\u00c7\u00c3O, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "F\u00e9lix Mendon\u00e7a J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do caput do art. 96, com a reda\u00e7\u00e3o dada pela Emenda n\u00ba 73, com vista \u00e0 substitui\u00e7\u00e3o integral do art. 96 incluindo incisos e par\u00e1grafo \u00fanico da Subemenda Substitutiva Global apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca da institui\u00e7\u00e3o de normas para licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PDT fica muito receoso de que esta lei esteja melhorando a licita\u00e7\u00e3o, mas criando um cartel de seguradoras, porque ser\u00e3o, sim, as seguradoras que v\u00e3o determinar quem vai ganhar obras grandes no Brasil.\r\nAs seguradoras ter\u00e3o o poder, diante do que est\u00e1 estabelecido na lei, sem a aprova\u00e7\u00e3o deste destaque, de determinar quais empresas ir\u00e3o participar do processo. As seguradoras ir\u00e3o determinar isso. Al\u00e9m disso, n\u00e3o s\u00e3o muitas as seguradoras no Brasil - s\u00e3o poucas. N\u00f3s podemos estar criando o cartel das seguradoras para as obras p\u00fablicas no Brasil, o que \u00e9 muito perigoso.\r\nPor isso, o PDT orienta o voto \"sim\" ao texto, para que mantenhamos um percentual menor para as seguradores e n\u00e3o criemos um cartel das seguradora no Brasil. Hoje n\u00f3s corremos este grande risco.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=382&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "QUEST\u00c3O DE ORDEM, VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, EMP 73/2019, EMENDA DE PLEN\u00c1RIO, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DAS LICITA\u00c7\u00d5ES.",
+        "nomeDeputado": "F\u00e9lix Mendon\u00e7a J\u00fanior",
+        "sumario": "Quest\u00e3o de ordem sobre a corre\u00e7\u00e3o do resultado da vota\u00e7\u00e3o do Requerimento de Destaque n\u00ba 39, de 2019, para vota\u00e7\u00e3o em separado do caput do art. 96, com a reda\u00e7\u00e3o dada pela Emenda n\u00ba 73 oferecida ao Projeto de Lei n\u00ba 1.292, de 1995, sobre a institui\u00e7\u00e3o de normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "QUEST\u00c3O DE ORDEM",
+        "transcricao": "O SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA) - Sr. Presidente, tenho uma quest\u00e3o de ordem.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Deputado F\u00e9lix Mendon\u00e7a J\u00fanior, V.Exa. tem a palavra .\r\nO SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA. Para uma quest\u00e3o de ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, na vota\u00e7\u00e3o anterior, da Lei de Licita\u00e7\u00f5es, o Destaque n\u00ba 39 teve o seguinte desfecho: \"Aprovado o destaque. Mantido o texto\". Esse destaque trata do aumento das al\u00edquotas de seguro para obras p\u00fablicas.\r\nEnt\u00e3o, vamos \u00e0 quest\u00e3o de ordem. \r\nCom fundamento nas al\u00edneas \"r\" do inciso I e \"p\" do inciso VI, ambas do art. 17 do Regimento, combinadas com o \u00a7 1\u00ba do caput do art. 185, tamb\u00e9m da Carta Regimental, levanto a seguinte quest\u00e3o de ordem, para que a Presid\u00eancia proceda \u00e0 devida corre\u00e7\u00e3o do resultado da vota\u00e7\u00e3o do Destaque n\u00ba 39, apresentado pela bancada do PDT, para vota\u00e7\u00e3o em separado do caput do art. 96, com reda\u00e7\u00e3o dada pela Emenda n\u00ba 73, do Deputado F\u00e9lix Mendon\u00e7a J\u00fanior, ao Projeto de Lei n\u00ba 1.292, de 1995, pelas raz\u00f5es a seguir expostas.\r\nPara contextualizar, lembramos aos nobres pares que a bancada do PDT apresentou o Destaque n\u00ba 39 com o objetivo de aprovar o texto segundo o qual o seguro-garantia, nas contrata\u00e7\u00f5es de obras, servi\u00e7os e fornecimento, poder\u00e1 ser de at\u00e9 5% do valor inicial do contrato, podendo chegar a 10%, desde que devidamente justificado com fun\u00e7\u00e3o de complexidade t\u00e9cnica dos riscos envolvidos. \r\nEm caso de aprova\u00e7\u00e3o do destaque, a mat\u00e9ria destacada substitui integralmente a reda\u00e7\u00e3o do art. 96 da Subemenda Global de Plen\u00e1rio...\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Deputado, eu posso fazer uma proposta a V.Exa.? Eu sei qual \u00e9 o assunto.\r\nO SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA) - Pois n\u00e3o.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Eu vou pedir ao Secret\u00e1rio-Geral que suba com as notas das orienta\u00e7\u00f5es das bancadas.\r\nSe V.Exa. estiver certo, deferimos a sua quest\u00e3o de ordem. Se o painel indicar outra coisa, eu mantenho a minha posi\u00e7\u00e3o.\r\nEu acho que isso \u00e9 o mais justo, respeitando as orienta\u00e7\u00f5es dos partidos.\r\nO SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA) - Perfeito. \u00c9 justo.\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Vamos fazer isso antes de terminar a vota\u00e7\u00e3o da Lei de Licita\u00e7\u00f5es.\r\nObrigado pela compreens\u00e3o.\r\nO SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA) - Obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DEMOCR\u00c1TICO TRABALHISTA (PDT), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "F\u00e9lix Mendon\u00e7a J\u00fanior",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o ... em percentual equivalente a at\u00e9 30% (trinta por cento) do valor inicial do contrato, constante do art. 97 da Subemenda Substitutiva Global apresentada ao Projeto de Lei n\u00ba 1.292, de 1995, sobre altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, relativa \u00e0s normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. F\u00c9LIX MENDON\u00c7A J\u00daNIOR (PDT - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PDT, Sra. Presidente, est\u00e1 muito preocupado com esse texto e pede para retir\u00e1-lo, votando \"n\u00e3o\".\r\nPor que, Sra. Presidente? Porque n\u00f3s temos poucas seguradoras no Brasil. Se para as obras de grande vulto as seguradoras tiverem 30%, quem vai determinar at\u00e9 quem pode participar de uma licita\u00e7\u00e3o no Brasil ser\u00e3o as seguradoras. N\u00f3s estaremos aqui criando o cartel das seguradoras. Essa Lei de Licita\u00e7\u00f5es \u00e9 um avan\u00e7o, mas, se permanecer com esses 30%, n\u00f3s teremos o grande risco de as seguradoras dominarem esse mercado.\r\nEssa \u00e9 a nossa preocupa\u00e7\u00e3o.\r\nImagine, Sra. Presidente, 30% e menos de dez seguradoras no Brasil. Elas v\u00e3o dizer: \"A voc\u00ea, empresa A, eu vou dar o seguro. A voc\u00ea, n\u00e3o. Voc\u00ea n\u00e3o vai ter nem o direito de participar de uma licita\u00e7\u00e3o\". Este \u00e9 o grande risco que n\u00f3s estamos criando aqui: de as seguradores determinarem quais ser\u00e3o as empresas que podem participar. Todos aqueles esc\u00e2ndalos que n\u00f3s tivemos no passado podem retornar com um cartel dominado por um setor muito forte, que \u00e9 o setor financeiro brasileiro. E essa lei deixaria de ser das licita\u00e7\u00f5es para ser das seguradoras.\r\nA defesa que o PDT faz \u00e9 para que votemos \"n\u00e3o\" e retiremos do texto apenas esse limite de 30%, sendo coerentes com a vota\u00e7\u00e3o da emenda anterior, que ganhou.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

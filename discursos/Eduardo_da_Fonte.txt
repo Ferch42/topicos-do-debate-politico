@@ -1,0 +1,74 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-13T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "DIA INTERNACIONAL DO CIRURGI\u00c3O BUCOMAXILOFACIAL, HOMENAGEM.",
+        "nomeDeputado": "Eduardo da Fonte",
+        "sumario": "Transcurso do Dia Internacional do Cirurgi\u00e3o Bucomaxilofacial.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO EDUARDO DA FONTE.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, venho hoje a esta tribuna para parabenizar, reconhecer e agradecer aos respons\u00e1veis por uma das especialidades mais importantes da odontologia: a cirurgia e traumatologia bucomaxilofacial. \u00c9 uma \u00e1rea de atua\u00e7\u00e3o hospitalar-ambulatorial que demanda 3 anos de p\u00f3s-gradua\u00e7\u00e3o, 8.650 horas de resid\u00eancia credenciadas pelo Minist\u00e9rio da Educa\u00e7\u00e3o, pelo Minist\u00e9rio da Sa\u00fade e pela Secretaria de Sa\u00fade do respectivo Estado, al\u00e9m de forma\u00e7\u00e3o a posteriori em n\u00edvel de mestrado, doutorado e p\u00f3s-doutorado, o que se faz necess\u00e1rio para a forma\u00e7\u00e3o em todos os n\u00edveis de 9 anos de p\u00f3s-gradua\u00e7\u00e3o.\r\n \tEssa especialidade \u00e9 respons\u00e1vel pelo tratamento das doen\u00e7as da cavidade bucal e seus anexos, tais como: traumatismos e deformidades faciais e maxilares, envolvendo a regi\u00e3o compreendida entre o pesco\u00e7o e a regi\u00e3o frontal (testa); cistos e tumores dos maxilares. Cito ainda as manifesta\u00e7\u00f5es locais associadas a doen\u00e7as sist\u00eamicas como AIDS, tuberculose e s\u00edfilis, entre outras doen\u00e7as. Compreendem as deformidades faciais desde doen\u00e7as, como o c\u00e2ncer, e fraturas severas at\u00e9 dist\u00farbios de desenvolvimento, como as s\u00edndromes, ou altera\u00e7\u00f5es do desenvolvimento, como o prognatismo (aumento dos maxilares) e micrognatismo (diminui\u00e7\u00e3o dos maxilares), ou a combina\u00e7\u00e3o delas.\r\nO atendimento relacionado a cirurgia e traumatologia bucomaxilofacial \u00e9 oferecido gratuitamente pelo Sistema \u00danico de Sa\u00fade - SUS em mais de 450 hospitais em todo o Brasil. Em Pernambuco, a popula\u00e7\u00e3o conta com os servi\u00e7os no Hospital da Restaura\u00e7\u00e3o, no Hospital Universit\u00e1rio Oswaldo Cruz, no Hospital Get\u00falio Vargas, no Hospital Geral de Areias e no Hospital Regional do Agreste. Segundo dados de 2019 do Minist\u00e9rio da Sa\u00fade, o Hospital da Restaura\u00e7\u00e3o e o Regional do Agreste est\u00e3o na lista dos dez hospitais do Pa\u00eds que mais fizeram opera\u00e7\u00f5es referentes a fraturas de mand\u00edbula. O atendimento se d\u00e1 em regime de urg\u00eancia ou de maneira eletiva nesses hospitais. \u00c9 l\u00edcito afirmar que crian\u00e7as, adultos e idosos s\u00e3o beneficiados pelo tratamento de diversas doen\u00e7as e recebem atendimento em ambulat\u00f3rios, emerg\u00eancias, UTIs, blocos cir\u00fargicos e enfermarias.\r\nCom muito orgulho, hoje, dia 13 de fevereiro, Dia Internacional do Cirurgi\u00e3o Bucomaxilofacial, parabenizo esses especialistas pelo empenho e dedica\u00e7\u00e3o com que exercem a profiss\u00e3o. Atuam com \u00e9tica, dignidade e humanismo, contribuindo para o bem-estar da popula\u00e7\u00e3o de Pernambuco e de outros Estados do Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2020&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, PRORROGA\u00c7\u00c3O, DEFESA.\r\nRENDA BRASIL, IMPOSTO SOBRE GRANDES FORTUNAS (IGF), AN\u00c1LISE.",
+        "nomeDeputado": "Eduardo da Fonte",
+        "sumario": "Defesa de prorroga\u00e7\u00e3o, at\u00e9 o m\u00eas de dezembro de 2020, do aux\u00edlio emergencial de 600 reais concedido aos trabalhadores desempregados e fam\u00edlias carentes diante da epidemia de coronav\u00edrus. Taxa\u00e7\u00e3o de grandes fortunas para custeio do Programa Renda Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDUARDO DA FONTE (Bloco/PP - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de aproveitar esta oportunidade para registrar o nosso posicionamento quanto \u00e0 import\u00e2ncia de o aux\u00edlio emergencial de 600 reais ser prorrogado at\u00e9 dezembro.\r\nEsse aux\u00edlio est\u00e1 sendo a locomotiva do desenvolvimento do Estado de Pernambuco e do Nordeste, principalmente atendendo a fam\u00edlias que perderam o emprego e n\u00e3o t\u00eam condi\u00e7\u00f5es de alimentar seus filhos. Eu tenho certeza de que n\u00f3s iremos sensibilizar o Presidente da Rep\u00fablica para que esse aux\u00edlio seja mantido at\u00e9 dezembro.\r\nSobre a cria\u00e7\u00e3o do Renda Brasil, eu defendo que ele possa ter os seus recursos oriundos da taxa\u00e7\u00e3o de grandes fortunas, da taxa\u00e7\u00e3o daqueles que mais ganham no nosso Pa\u00eds, para que se possa distribuir a renda e fazer com que o nosso Pa\u00eds saia desta pandemia, deste momento t\u00e3o lastim\u00e1vel que estamos vivendo em todo o Brasil.\r\nFica o nosso apelo para que o Renda Brasil seja instalado e criado com recursos importantes para que o Pa\u00eds possa retomar a sua economia.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=132&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-11T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "S\u00c3O BENTO DO UNA (PE), EDUARDO DA FONTE, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, PRE\u00c7O, INFLA\u00c7\u00c3O, MILHO, AVICULTURA, CARNE DE FRANGO, OVO, REUNI\u00c3O, JOS\u00c9 ALMEIDA, EMPRES\u00c1RIO, PERNAMBUCO, REPASSE.",
+        "nomeDeputado": "Eduardo da Fonte",
+        "sumario": "Participa\u00e7\u00e3o do orador de reuni\u00e3o com o ex-vice-Prefeito Z\u00e9 Almeida e avicultores do Munic\u00edpio de S\u00e3o Bento do Una, Estado de Pernambuco, para discuss\u00e3o de novos investimentos para o setor. Preocupa\u00e7\u00e3o com o repasse da alta do pre\u00e7o do milho na produ\u00e7\u00e3o de frango e de ovos no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDUARDO DA FONTE (Bloco/PP - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de fazer aqui um comunicado e registrar uma visita que fiz, no \u00faltimo s\u00e1bado, \u00e0 cidade de S\u00e3o Bento do Una, onde eu me reuni com os maiores produtores de aves do Pa\u00eds. E quero registrar ainda uma grande preocupa\u00e7\u00e3o com o repasse da alta do pre\u00e7o do milho na produ\u00e7\u00e3o de frango e na produ\u00e7\u00e3o de ovos de todo o Brasil. \r\nEstive reunido com o empres\u00e1rio Z\u00e9 Almeida, um dos maiores produtores do Brasil, que tem uma produ\u00e7\u00e3o de cerca de 4 milh\u00f5es de ovos por dia. Est\u00e1 praticamente inevit\u00e1vel o repasse, no pre\u00e7o do ovo, do custo do milho. E \u00e9 importante que esta Casa se mobilize para que n\u00e3o haja esse repasse do custo do milho no pre\u00e7o do ovo para o cidad\u00e3o brasileiro. Tenho certeza de que iremos trabalhar para que isso n\u00e3o aconte\u00e7a e para que possamos garantir um pre\u00e7o justo ao povo brasileiro na hora de consumir ovos.\r\nQuero aqui dar os meus parab\u00e9ns a todos que fazem a avicultura no Estado de Pernambuco, em especial na regi\u00e3o de S\u00e3o Bento do Una, principalmente a Z\u00e9 Almeida, que \u00e9 uma refer\u00eancia da avicultura de todo o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Eduardo da Fonte",
+        "sumario": "Falecimento do ex-Deputado Federal Sim\u00e3o Sessim. Pedido \u00e0 Presid\u00eancia de determina\u00e7\u00e3o, ao Plen\u00e1rio, de observ\u00e2ncia de 1 minuto de sil\u00eancio em homenagem p\u00f3stuma ao ex-Parlamentar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. EDUARDO DA FONTE (PP - PE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 com muita tristeza \u2014 pois foi um momento muito dif\u00edcil ontem para o nosso partido, para o Rio de Janeiro e, tenho certeza, para esta Casa \u2014 que noticio o falecimento do nosso grande amigo, do nosso grande irm\u00e3o e nosso grande pai, o Deputado Sim\u00e3o Sessim, que esteve presente nesta Casa por dez mandatos.(Palmas.)\r\nSim\u00e3o Sessim foi um Parlamentar que s\u00f3 fez amigos, um exemplo para todos n\u00f3s, porque dedicou a vida ao Rio de Janeiro e ao Brasil.\r\nPe\u00e7o a V.Exa. que possamos fazer 1 minuto de sil\u00eancio. E que o Rio de Janeiro saiba que Sim\u00e3o Sessim \u00e9 um grande amigo desta Casa e um grande amigo do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

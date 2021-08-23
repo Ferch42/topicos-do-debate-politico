@@ -1,0 +1,56 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-19T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REDE GLOBO DE TELEVIS\u00c3O, POPULA\u00c7\u00c3O, RORAIMA, COMPORTAMENTO, REFUGIADO, VENEZUELA, CONTESTA\u00c7\u00c3O.\r\nPODER EXECUTIVO, PODER LEGISLATIVO, PROVID\u00caNCIA, IMIGRA\u00c7\u00c3O, REFUGIADO, VENEZUELA, RORAIMA.",
+        "nomeDeputado": "Ottaci Nascimento",
+        "sumario": "Indigna\u00e7\u00e3o do orador com a exibi\u00e7\u00e3o, pelaTV Globo,  de novela com cenas de hostiliza\u00e7\u00e3o de refugiados venezuelanos pelo povo roraimense. Necessidade de ado\u00e7\u00e3o, pelos Poderes Executivo e Legislativo, de medidas a respeito da imigra\u00e7\u00e3o venezuelana ao Estado de Roraima.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. OTACI NASCIMENTO (SOLIDARIEDADE - RR. Sem revis\u00e3o do orador.) - Sr. Presidente, hostilidade \u00e9 a palavra que n\u00e3o sai da minha cabe\u00e7a nestes \u00faltimos dias. N\u00e3o bastasse o que o Estado de Roraima vem passando com a crise migrat\u00f3ria da Venezuela, ainda passamos por uma situa\u00e7\u00e3o em que a TV Globo, em uma de suas novelas, colocou uma cena em que o povo da Venezuela estaria sendo hostilizado pelo povo de Roraima. \r\nO povo de Roraima j\u00e1 recebeu, nos \u00faltimos 2 anos, mais de 100 mil venezuelanos. O pr\u00f3prio Governo Federal j\u00e1 destinou, neste ano, mais de 242 milh\u00f5es de reais para a Opera\u00e7\u00e3o Acolhida, em que os venezuelanos recebem alimenta\u00e7\u00e3o, sa\u00fade e educa\u00e7\u00e3o. Al\u00e9m de o povo de Roraima sofrer as defici\u00eancias que existem no nosso Estado, como a sa\u00fade prec\u00e1ria, agora est\u00e1 morrendo nos corredores.\r\nN\u00f3s n\u00e3o temos mais como suportar esta demanda, Sr. Presidente! Cem mil venezuelanos para o Pa\u00eds n\u00e3o \u00e9 nada, mas para o Estado de Roraima \u00e9 muito, porque querem colocar um pa\u00eds do tamanho da Venezuela dentro do Estado de Roraima! Isso n\u00e3o pode mais acontecer. Precisamos do Executivo e do Legislativo! \u00c9 preciso que nosso Estado de Roraima seja ouvido de alguma forma porque, sozinhos, n\u00e3o podemos mais suportar tamanha demanda. \r\nSr. Presidente, solicito a V.Exa. que meu registro seja divulgado pelo programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F6%2F2019&txPagina=37&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "MARIA DE LOURDES PINHEIRO, EX-VEREADORA, BOA VISTA (RR), SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Ottaci Nascimento",
+        "sumario": "Presen\u00e7a no plen\u00e1rio da ex-Vereadora Maria de Lourdes Pinheiro, de Boa Vista, Estado de Roraima.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTACI NASCIMENTO (SOLIDARIEDADE - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero aqui hoje enaltecer a pol\u00edtica brasileira, principalmente por fazerem parte dela as mulheres - Deputadas, Senadoras, Prefeitas, Vereadoras e outras.\r\nN\u00e3o poderia deixar de ressaltar aqui o nome de uma pessoa ilustre que n\u00e3o posso dizer que \u00e9 ex-Vereadora, mas, sim, que \u00e9 uma pessoa que dedicou a vida ao mandato, a D. Lourdinha Pinheiro. Ela nos visita hoje na C\u00e2mara dos Deputados e faz com que o nosso mandato tenha representatividade, assim como o dela, no nosso Estado.\r\nQuero aqui, D. Lourdinha - que pode ser chamada tamb\u00e9m de Professora Lourdinha -, deixar meu agradecimento pelos anos de trabalho realizado para as fam\u00edlias do nosso Estado, especialmente as de Boa Vista, onde a senhora exerceu seus mandatos.\r\nQuero aqui, de p\u00fablico, agradecer e principalmente enaltecer o nome da D. Lourdinha Pinheiro.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T23:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 4121/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Ottaci Nascimento",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 4.121, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.504, de 1997, com vista ao estabelecimento dos limites de gastos de campanha para as elei\u00e7\u00f5es municipais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTACI NASCIMENTO (SOLIDARIEDADE - RR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em primeiro lugar, quero agradecer \u00e0 equipe do Solidariedade por termos criado este PL, que \u00e9 de nossa autoria.\r\nQuero dizer que o Plen\u00e1rio \u00e9 soberano. Fizemos a apresenta\u00e7\u00e3o, e o Plen\u00e1rio, como tem a soberania, entendeu que poderia votar esse substitutivo.\r\nEnt\u00e3o, o Solidariedade orienta \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=299&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

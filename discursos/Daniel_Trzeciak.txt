@@ -1,0 +1,236 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T14:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DANIEL TRZECIAK, DEPUTADO FEDERAL, AGRADECIMENTO, ELEITOR, PELOTAS (RS), ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Agradecimento aos eleitores do Estado do Rio Grande do Sul pela elei\u00e7\u00e3o do orador, especialmente aos do Munic\u00edpio de Pelotas. Compromisso de atua\u00e7\u00e3o parlamentar em defesa dos interesses do Estado. Apoio \u00e0 realiza\u00e7\u00e3o de reformas constitucionais.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL TRZECIAK (Bloco/PSDB - RS. Sem revis\u00e3o do orador.) - Boa tarde, Presidente; boa tarde, colegas Parlamentares.\r\nUtilizo a tribuna desta Casa pela primeira vez para agradecer ao povo ga\u00facho os votos suficientes que me concederam para estar aqui representando o Estado do Rio Grande do Sul e, de forma muito especial, a Pelotas, minha cidade, no extremo sul do Brasil. Quero reafirmar o meu compromisso de trabalhar pelas pautas de interesse da popula\u00e7\u00e3o, como a duplica\u00e7\u00e3o da BR-116, obra que come\u00e7ou em 2011 e at\u00e9 hoje n\u00e3o foi conclu\u00edda, assim como pela melhoria da sa\u00fade, dos hospitais, das Santas Casas.\r\nEstaremos tamb\u00e9m neste Parlamento para moralizar a pol\u00edtica. Vivemos um novo momento, um novo ciclo, e n\u00f3s precisamos aprovar as reformas necess\u00e1rias para mudar o Brasil. Chega de os mesmos fazerem o de sempre! A hora de inovar \u00e9 agora!\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=21&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, ARTIGO (TEXTO LEGISLATIVO), DISPOSITIVO LEGAL, LEI, PLV 9/2018, PROJETO DE LEI DE CONVERS\u00c3O, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB). VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado, com vistas \u00e0 supress\u00e3o, do art. 42 da Lei n\u00ba 12.651, de 2012, constante do art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2019, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB orienta \"sim\", justamente para que essas multas impag\u00e1veis sejam convertidas em presta\u00e7\u00e3o de servi\u00e7os ambientais, n\u00e3o se estabelecendo a cria\u00e7\u00e3o de uma ind\u00fastria de multas. N\u00f3s queremos a preserva\u00e7\u00e3o do meio ambiente.\r\nPor isso, o PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=369&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SEMIN\u00c1RIO, DEBATE, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), AJUSTE FISCAL, GERA\u00c7\u00c3O DE EMPREGO, INCLUS\u00c3O, ESTADO (ENTE FEDERADO), MUNIC\u00cdPIO, DEFESA.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Realiza\u00e7\u00e3o de semin\u00e1rio internacional pela Casa destinado ao debate sobre a proposta de reforma previdenci\u00e1ria. Defesa da aprova\u00e7\u00e3o da mat\u00e9ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Pela ordem. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, boa tarde a todos os colegas Parlamentares. \r\nEu ocupo esta tribuna hoje para me dirigir a todos os brasileiros e a todas as brasileiras, j\u00e1 que n\u00f3s estamos encerrando um ciclo nesta Casa, a C\u00e2mara dos Deputados, que \u00e9 a discuss\u00e3o sobre a reforma da Previd\u00eancia, hoje com um semin\u00e1rio internacional. Discutimos e debatemos ao longo das \u00faltimas semanas a import\u00e2ncia da mat\u00e9ria e os ajustes necess\u00e1rios para fazer a reforma, t\u00e3o importante para o Brasil.\r\nEu tenho dito: ningu\u00e9m mais discute se a reforma da Previd\u00eancia \u00e9 essencial para o futuro de todos n\u00f3s. N\u00e3o \u00e9 uma reforma do Governo, \u00e9 uma reforma para o Brasil e para os brasileiros, Sr. Presidente.\r\nN\u00f3s precisamos entender que estamos todos no mesmo barco: poder p\u00fablico, iniciativa privada, sociedade civil. E se esse barco afundar, todos n\u00f3s vamos afundar juntos. E n\u00e3o adianta mais aquele discurso de quanto pior, melhor; n\u00e3o cabe mais. N\u00f3s precisamos estar no mesmo barco e remando na mesma dire\u00e7\u00e3o.\r\nA reforma da Previd\u00eancia n\u00e3o \u00e9 uma quest\u00e3o pol\u00edtica, n\u00e3o \u00e9 uma quest\u00e3o ideol\u00f3gica, \u00e9 uma quest\u00e3o matem\u00e1tica. No Or\u00e7amento para este ano de 2019 os gastos com a previd\u00eancia s\u00e3o de 900 bilh\u00f5es de reais.\r\n\u00c9 inadmiss\u00edvel pensar que na educa\u00e7\u00e3o sejam investidos 122 bilh\u00f5es de reais; na sa\u00fade, 132 bilh\u00f5es de reais. Se perguntarmos nas ruas, todo mundo quer investimento na seguran\u00e7a, na sa\u00fade, na educa\u00e7\u00e3o, na infraestrutura.\r\nMas essa conta tem que fechar. Por isso, a reforma \u00e9 fundamental, para atrair novos investimentos, para gerar emprego, gerar renda, para a economia destravar no Brasil. N\u00f3s precisamos ter responsabilidade nesta Casa e aprovar a reforma da Previd\u00eancia, sim, com os ajustes necess\u00e1rios, com as emendas necess\u00e1rias. O PSDB tem esse compromisso com o Brasil, tem esse compromisso com todo o povo brasileiro.\r\nE para finalizar, Presidente, n\u00f3s representamos todo o Pa\u00eds. N\u00e3o se pode pensar em dividir o Pa\u00eds. N\u00f3s temos que manter a reforma da Previd\u00eancia para todos os brasileiros, e n\u00e3o retirar os Estados e Munic\u00edpios. N\u00e3o \u00e9 justo. N\u00f3s vivemos num \u00fanico Pa\u00eds e precisamos de uma \u00fanica reforma da Previd\u00eancia, que seja para todos.\r\nQue tenhamos responsabilidade!\r\nSr. Presidente, pe\u00e7o que o meu discurso seja divulgado no programa A Voz do Brasil e nos ve\u00edculos oficiais de comunica\u00e7\u00e3o.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-06T11:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FENADOCE (27:2019, PELOTAS (RS)).",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Transcurso do Dia da Doceira. Realiza\u00e7\u00e3o da 27\u00aa Feira Nacional do Doce - FENADOCE, no Munic\u00edpio de Pelotas, Estado do Rio Grande do Sul.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nTrzeciak \u00e9 meu sobrenome, mas sei que a pron\u00fancia \u00e9 dif\u00edcil devido \u00e0s muitas consoantes.\r\nQuero fazer um convite a todos os colegas Parlamentares, a todo o Brasil. Hoje n\u00f3s comemoramos, l\u00e1 em Pelotas, no Sul do Brasil, o Dia da Doceira, uma profiss\u00e3o que merece toda a valoriza\u00e7\u00e3o de uma cidade, de um Estado, que tem um patrim\u00f4nio cultural muito grande.\r\nN\u00f3s vivemos agora a temporada do doce, que \u00e9 a 27\u00aa FENADOCE, em Pelotas, o segundo maior evento do Estado do Rio Grande do Sul, em que temos a gera\u00e7\u00e3o de empregos, o desenvolvimento da economia. A FENADOCE mostra uma cultura que n\u00f3s preservamos e valorizamos. Ent\u00e3o quero fazer o convite a todos os que nos escutam neste momento para visitar Pelotas, com seu patrim\u00f4nio, e visitar tamb\u00e9m a 27\u00aa FENADOCE, em Pelotas, que vai at\u00e9 o dia 23 de junho. Fica aqui o convite a todos.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F6%2F2019&txPagina=23&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-27T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "INFRAESTRUTURA RODOVI\u00c1RIA, BR-116, RODOVIA, DUPLICA\u00c7\u00c3O, GUA\u00cdBA (RS), PELOTAS (RS), FAVOR\u00c1VEL, DANIEL TRZECIAK, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Luta do orador pela duplica\u00e7\u00e3o da BR-116, no trecho compreendido entre os Munic\u00edpios de Gua\u00edba e Pelotas, no Estado do Rio Grande do Sul.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Sem revis\u00e3o do orador.) - Muito boa tarde, Sra. Presidente desta sess\u00e3o. Boa tarde aos colegas Parlamentares e a todos os que nos acompanham nesta quinta-feira.\r\nUso esta tribuna hoje para falar de uma pauta muito importante para o Brasil e para os brasileiros, a infraestrutura. O Brasil \u00e9 um pa\u00eds muito atrasado, quando se fala em infraestrutura, sobretudo a rodovi\u00e1ria. E eu quero usar este meu espa\u00e7o para falar sobre a BR-116, no trecho de Gua\u00edba a Pelotas, a minha terra.\r\nEu estou chegando agora a esta Casa, a este Parlamento, e defendi durante a campanha eleitoral a import\u00e2ncia de termos Deputados Federais ligados \u00e0s causas da zona sul do Estado do Rio Grande do Sul. Eu, que venho l\u00e1 de Pelotas, do extremo-sul do Brasil, defendo, desde o in\u00edcio do meu mandato, a duplica\u00e7\u00e3o da BR-116, no trecho de Gua\u00edba at\u00e9 Pelotas. S\u00e3o 212 quil\u00f4metros de pista simples. A obra de duplica\u00e7\u00e3o come\u00e7ou em 2012 e era para ter terminado em 2015. N\u00f3s j\u00e1 estamos em 2019, e nenhum trecho da obra de duplica\u00e7\u00e3o da BR-116 foi entregue para o povo ga\u00facho. S\u00e3o 212 quil\u00f4metros de perigo.\r\nN\u00f3s estivemos ontem com o Diretor-Presidente do DNIT, o General Santos Filho, juntamente com a bancada ga\u00facha, para cobrar que a obra de duplica\u00e7\u00e3o da BR-116 seja entregue \u00e0 popula\u00e7\u00e3o o quanto antes. E tivemos uma sinaliza\u00e7\u00e3o e o compromisso do DNIT de que em agosto deste ano, ou seja, daqui a 2 meses, 47 quil\u00f4metros da obra de duplica\u00e7\u00e3o da BR-116 ser\u00e3o entregues para a sociedade ga\u00facha.\r\n\u00c9 bom salientar que no trecho sul da BR-116, infelizmente, as pessoas est\u00e3o perdendo a vida em acidentes frontais. E a economia do Estado do Rio Grande do Sul tamb\u00e9m morre diariamente. Oitenta por cento do que sai do Porto do Rio Grande passa pelo eixo da BR-116, no trecho que vai at\u00e9 Porto Alegre, a Capital dos ga\u00fachos.\r\nA duplica\u00e7\u00e3o da BR-116 \u00e9 uma obra priorit\u00e1ria para o Brasil e para o Estado do Rio Grande do Sul. E o Governo Federal tem, sim, que ser cobrado para fazer os investimentos necess\u00e1rios, a fim de que a duplica\u00e7\u00e3o da BR-116 seja conclu\u00edda o quanto antes. Com certeza, essa ser\u00e1 a pauta do meu mandato, at\u00e9 que essa obra de duplica\u00e7\u00e3o seja 100% conclu\u00edda, nos 9 lotes, de Gua\u00edba at\u00e9 Pelotas. Mas n\u00f3s j\u00e1 temos essa boa not\u00edcia de que 47 quil\u00f4metros da duplica\u00e7\u00e3o ser\u00e3o entregues em agosto deste ano, os Lotes 4, 7 e 9.\r\nEu sei que n\u00e3o \u00e9 a melhor das situa\u00e7\u00f5es, mas, com certeza, \u00e9 um avan\u00e7o importante e uma conquista para todos aqueles que, frequentemente, t\u00eam que fazer esse caminho. Quem nos acompanha agora pela TV C\u00e2mara sabe bem o que \u00e9 ir de Porto Alegre at\u00e9 o sul do Estado do Rio Grande do Sul em uma pista simples, perigosa, que causa perdas para todos, n\u00e3o s\u00f3 no que se refere \u00e0 vida das pessoas que passam por ali, mas tamb\u00e9m no que se refere \u00e0 quest\u00e3o econ\u00f4mica. \r\nRegistro que me empenharei, durante meu mandato, para que o Governo Federal trabalhe para a conclus\u00e3o, n\u00e3o s\u00f3 das obras da BR-116, mas tamb\u00e9m das obras em tantas outras rodovias federais que precisam de aten\u00e7\u00e3o e de investimentos em todo o nosso Pa\u00eds.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F6%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "EDUARDO LEITE, GOVERNADOR, RIO GRANDE DO SUL, SAUDA\u00c7\u00c3O.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), ESTADO (ENTE FEDERADO), MUNIC\u00cdPIO, INCLUS\u00c3O, DESTAQUE, VOTA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Sauda\u00e7\u00e3o ao Governador do Estado do Rio Grande do Sul, Eduardo Leite. Defesa da inclus\u00e3o dos Estados e Munic\u00edpios no processo de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer uma sauda\u00e7\u00e3o especial ao Governador do Estado do Rio Grande do Sul, o Exmo. Sr. Eduardo Leite. \r\nDeixo muito clara aqui a nossa posi\u00e7\u00e3o favor\u00e1vel a que Estados e Munic\u00edpios possam estar nessa reforma. N\u00f3s vivemos num \u00fanico Brasil, num \u00fanico Pa\u00eds, e precisamos de uma \u00fanica reforma, para que seja o rem\u00e9dio para todos os brasileiros. Por isso, a import\u00e2ncia de que Estados e Munic\u00edpios possam estar inclusos na reforma da Previd\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=226&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-16T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), ZERO HORA, JORNAL, PORTO ALEGRE (RS), DANIEL TRZECIAK, DEPUTADO FEDERAL, ORADOR, ARTIGO DE JORNAL, LEITURA.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Artigo Reforma por convic\u00e7\u00e3o e pelo futuro do Pa\u00eds, a respeito da reforma previdenci\u00e1ria, de autoria do orador, publicado pelo jornal Zero Hora, de Porto Alegre, Estado do Rio Grande do Sul.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Sem revis\u00e3o do orador.) - Boa tarde, Presidente. Boa tarde, colegas Deputados e quem nos acompanham pela TV C\u00e2mara. Eu quero falar de reforma da Previd\u00eancia e quero usar esse espa\u00e7o na tribuna para poder retratar a respeito de um artigo de minha autoria, que saiu hoje no jornal Zero Hora, do Estado do Rio Grande do Sul.\r\nReforma por convic\u00e7\u00e3o e pelo futuro do Pa\u00eds.\r\nEstou aqui para falar com voc\u00ea, cidad\u00e3o, que ainda guarda esperan\u00e7a da pol\u00edtica, apostou na renova\u00e7\u00e3o e quer ver surgir algo diferente. Voc\u00ea que acha que nem tudo est\u00e1 perdido e nutre expectativa de mudan\u00e7a.\r\nCreio que todos concordam que se fosse para manter tudo como est\u00e1 n\u00e3o se falaria em mudan\u00e7a e que se nada estivesse errado n\u00e3o precisar\u00edamos alterar.\r\nOcorre que mudou. Aquela velha m\u00e1xima do 'quanto pior, melhor' n\u00e3o pode prevalecer s\u00f3 porque existe simpatia com a aposi\u00e7\u00e3o ou com o governo. Existem pontos de vistas interessantes em qualquer campo ideol\u00f3gico, e por isso que sempre deve existir respeito com um interlocutor que pensa diferente.\r\nFalo de um tema que n\u00e3o \u00e9 novo, mas \u00e9 atual, a reforma da Previd\u00eancia. O barulho das redes sociais, dos protestos de rua, da movimenta\u00e7\u00e3o corporativista nos corredores do Congresso Nacional tende na maioria das vezes a proteger nichos.\r\nQuem compra ideia a de que essa reforma veio para prejudicar o trabalhador e os mais pobres ser\u00e1 que sabe que os que ganham mais se aposentam mais cedo por tempo de contribui\u00e7\u00e3o? Ser\u00e1 que sabe que o d\u00e9ficit da Previd\u00eancia n\u00e3o para de crescer desde 2011 e que hoje a cobran\u00e7a vi\u00e1vel dos famosos grandes devedores da Previd\u00eancia seria suficiente para cobrir apenas 1 ano do rombo? Ser\u00e1 que sabe e concorda que gastamos em Previd\u00eancia Social muito mais do que em educa\u00e7\u00e3o e sa\u00fade? Ser\u00e1 que sabe que, com a reforma, todos ser\u00e3o colocados sob o mesmo guarda-chuva, sob o teto do INSS? Ser\u00e1 que sabe que essa reforma atingir\u00e1 os pol\u00edticos, mesmo que, infelizmente, s\u00f3 os do pr\u00f3ximo mandato? \u00c9 leg\u00edtimo que um Parlamentar proteste contra a desigualdade social e mantenha sua op\u00e7\u00e3o de aposentadoria especial privilegiada? Leg\u00edtimo \u00e9, mas certamente n\u00e3o \u00e9 coerente e nem moral. \r\nNa campanha eleitoral, utilizei o slogan Coragem para fazer diferente. Sempre defendi que o Brasil precisava e ainda precisa passar por reformas estruturantes. No in\u00edcio do mandato, inclusive, mesmo tendo direito ao regime pr\u00f3prio de aposentadoria para Deputados, optei por seguir contribuindo para o INSS, como a maioria dos trabalhadores brasileiros. \r\nVoc\u00ea que se diz isento aceitaria cortar na pr\u00f3pria carne em prol do Pa\u00eds, das pr\u00f3ximas gera\u00e7\u00f5es? Pois \u00e9, o desafio \u00e9 grande. A reforma da Previd\u00eancia n\u00e3o \u00e9 motivo para comemora\u00e7\u00e3o. Estamos debatendo hoje o Pa\u00eds do amanh\u00e3, o Brasil que vamos entregar para os nossos jovens, para as nossas crian\u00e7as, para os nossos filhos.\r\nCada vez mais precisamos ter a sensibilidade de ouvir a maioria silenciosa que n\u00e3o ocupa as galerias dos Parlamentos, que n\u00e3o se exp\u00f5e em redes sociais e que deseja que seus representantes estejam a favor do Brasil. A gritaria ensurdece e at\u00e9 cega, mas \u00e9 o sil\u00eancio que faz pensar. Todos perdemos um pouco hoje para ningu\u00e9m perder no futuro.\r\nA import\u00e2ncia dessa reforma foi vista, inclusive por v\u00e1rios partidos pol\u00edticos que s\u00e3o, nesta Casa, Oposi\u00e7\u00e3o, mas que votaram a favor do Brasil.\r\nEsse artigo, publicado hoje no jornal Zero Hora, no Estado do Rio Grande do Sul, faz uma reflex\u00e3o de que este \u00e9 um momento n\u00e3o de comemora\u00e7\u00e3o, mas de pensamento e reflex\u00e3o sobre o Pa\u00eds que queremos e o Brasil que todos n\u00f3s merecemos.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F7%2F2019&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-08T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "UNIVERSIDADE FEDERAL DE PELOTAS (UFPEL), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, PELOTAS (RS), HOMENAGEM.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Transcurso do cinquenten\u00e1rio de funda\u00e7\u00e3o da Universidade Federal de Pelotas - UFPEL, no Estado do Rio Grande do Sul.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Sem revis\u00e3o do orador.) - Boa tarde, Presidente. Boa tarde, colegas Deputados Federais.\r\nHoje, 8 de agosto, \u00e9 um dia muito especial e importante. H\u00e1 50 anos, no dia 8 de agosto de 1969, criava-se a Universidade Federal de Pelotas. Ela completa hoje, portanto, 50 anos de atividade. Neste momento, quero me dirigir a todos os servidores, a todos os professores, a todos os estudantes da Universidade Federal de Pelotas, que desempenham um excelente trabalho na UFPEL. Sabemos que a educa\u00e7\u00e3o passa por um momento dif\u00edcil, e a Universidade Federal de Pelotas \u00e9 um exemplo para tantas universidades p\u00fablicas do nosso Brasil.\r\nTrago alguns dados que demonstram a import\u00e2ncia da Universidade Federal de Pelotas n\u00e3o s\u00f3 para a regi\u00e3o sul do Rio Grande do Sul mas tamb\u00e9m para todo o Brasil. Ela oferece 92 cursos de gradua\u00e7\u00e3o presencial, quatro cursos a dist\u00e2ncia, 27 cursos de especializa\u00e7\u00e3o, 44 cursos de mestrado, 27 cursos de doutorado. Al\u00e9m disso, a Universidade Federal de Pelotas \u00e9 respons\u00e1vel pelo Hospital Escola, em que todo o atendimento \u00e9 feito pelo SUS. H\u00e1 tamb\u00e9m servi\u00e7os oferecidos pela Faculdade de Odontologia, que \u00e9 uma refer\u00eancia para todo o Rio Grande do Sul. Ela conta tamb\u00e9m com quatro unidades b\u00e1sicas de sa\u00fade, que oferecem tratamento a pessoas com c\u00e2ncer, HIV, autismo, entre outros.\r\nA Universidade Federal de Pelotas, n\u00e3o tenho d\u00favida, merece todo o nosso reconhecimento. Mais do que isso, ela merece o nosso trabalho, o nosso empenho nesta Casa, a nossa luta pela valoriza\u00e7\u00e3o da educa\u00e7\u00e3o de ensino superior.\r\nParabenizo de forma muito especial o Reitor da Universidade Federal de Pelotas, Pedro Curi Hallal. Mando o meu abra\u00e7o a todos os servidores, aos professores e aos mais de 17 mil estudantes universit\u00e1rios oriundos de todo o Brasil que escolheram estudar na Universidade Federal de Pelotas para ter, com certeza, um futuro melhor, em favor tamb\u00e9m de todo o Pa\u00eds.\r\nParab\u00e9ns, UFPEL, pelos 50 anos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F8%2F2019&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "INFRAESTRUTURA RODOVI\u00c1RIA, BR-116, RODOVIA, DUPLICA\u00c7\u00c3O, GUA\u00cdBA (RS), PELOTAS (RS), RIO GRANDE DO SUL, INAUGURA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Inaugura\u00e7\u00e3o, pelo Presidente Jair Bolsonaro, de trecho duplicado da BR-116, Estado do Rio Grande do Sul. Garantia, pelo Presidente da Rep\u00fablica, de aloca\u00e7\u00e3o de recursos para conclus\u00e3o das obras da rodovia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nQuero usar este tempo na C\u00e2mara dos Deputados para registrar que, ontem, o Rio Grande do Sul teve uma conquista muito importante: a entrega de 47 quil\u00f4metros de pista duplicada da BR-116. A BR-116 tem 211 quil\u00f4metros de pista simples entre Gua\u00edba e Pelotas, minha terra, minha cidade. Ontem, o Presidente Jair Bolsonaro esteve em Pelotas para entregar 47 quil\u00f4metros de rodovia duplicada e, mais do que isso, garantir um investimento, ainda este ano, de 100 milh\u00f5es de reais na rodovia, o que permitir\u00e1 a entrega, ainda em 2019, de mais quase 100 quil\u00f4metros de pista duplicada para o povo ga\u00facho. Essa \u00e9 uma conquista de todos n\u00f3s que queremos ver o desenvolvimento do Rio Grande do Sul e do Brasil. \r\nSeguiremos mobilizados na luta pela duplica\u00e7\u00e3o da BR-116 entre Gua\u00edba e Pelotas.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "L\u00c9LIO MIGUEL ANTUNES DE SOUZA, EX-DEPUTADO FEDERAL, PLEN\u00c1RIO DA C\u00c2MARA DOS DEPUTADOS, PRESEN\u00c7A.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Presen\u00e7a no plen\u00e1rio do ex-Deputado Federal L\u00e9lio Miguel Antunes de Souza.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero neste momento fazer uma sauda\u00e7\u00e3o especial, porque estamos recebendo no Plen\u00e1rio da C\u00e2mara dos Deputados o ex-Deputado mas sempre Deputado Federal Dr. L\u00e9lio Miguel Antunes de Souza. Ele ingressou nesta Casa em 1983, onde ficou at\u00e9 1991. Foi Deputado Federal Constituinte. Tem um trabalho prestado ao Congresso Nacional na luta pela redemocratiza\u00e7\u00e3o do Brasil, uma importante conquista para este Pa\u00eds.\r\nPortanto, a bancada ga\u00facha e todos n\u00f3s brasileiros temos muito a agradecer ao Deputado Federal Dr. L\u00e9lio de Souza pela luta e contribui\u00e7\u00e3o que deu a esta Casa.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, PLN 22/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da emenda destinada \u00e0 redu\u00e7\u00e3o do valor do Fundo Especial de Financiamento de Campanha - Fundo Eleitoral, para o m\u00ednimo obrigat\u00f3rio determinado pela legisla\u00e7\u00e3o.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. DANIEL TRZECIAK (PSDB - RS. Para orientar a bancada. Sem revis\u00e3o do orador.) - Presidente Davi Alcolumbre, a minha opini\u00e3o \u00e9 de que devemos acompanhar o destaque do NOVO e votar \"n\u00e3o\", porque entendemos que neste ano legislativo vivemos um momento de ajuste fiscal, aprovando reformas, e temos de estar conectados com o que a popula\u00e7\u00e3o deseja. Fizemos reformas, como a da Previd\u00eancia, que mudam a realidade do povo brasileiro.\r\nAgora, n\u00f3s temos diverg\u00eancias dentro da bancada do PSDB. Por isso, o PSDB libera a sua bancada nesta vota\u00e7\u00e3o. Mas deixo claro que o meu voto \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=19%2F12%2F2019&txPagina=92&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T11:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), PL 2474/2020, PROJETO DE LEI ORDIN\u00c1RIA, CESS\u00c3O, SISTEMA DE COMPENSA\u00c7\u00c3O DE ENERGIA EL\u00c9TRICA, ENERGIA EL\u00c9TRICA EXCEDENTE, MINIGERA\u00c7\u00c3O DISTRIBU\u00cdDA, MICROGERA\u00c7\u00c3O DISTRIBU\u00cdDA, UNIDADE CONSUMIDORA DE ENERGIA, CALAMIDADE P\u00daBLICA, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 2.474, de 2020, referente \u00e0 cess\u00e3o de cr\u00e9ditos obtidos em sistema de compensa\u00e7\u00e3o de energia el\u00e9trica, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. DANIEL TRZECIAK (Bloco/PSDB - RS. Para proferir parecer. Sem revis\u00e3o do orador.) - Bom dia, Presidente; bom dia a todos os colegas, neste 31 de mar\u00e7o de 2021. Bom dia a todos os que nos acompanham pela TV C\u00e2mara.\r\nNum momento de pandemia, num momento dif\u00edcil, uma data hist\u00f3rica, quero aqui saudar dois colegas Deputados, autores deste Projeto de Lei n\u00ba 2.474, de 2020: o Deputado Franco Cartafina, de Minas Gerais, e o Deputado Lucas Redecker, do Estado do Rio Grande do Sul. Eu os cumprimento pelo m\u00e9rito de trazer, neste momento de pandemia, uma pauta relevante para a sociedade brasileira, uma pauta que impacta a vida de todos e \u00e9 uma alternativa para a solu\u00e7\u00e3o que esta Casa precisa dar a toda a sociedade.\r\nEnt\u00e3o quero aqui saudar os dois Deputados e tamb\u00e9m cumpriment\u00e1-los, reconhecendo o m\u00e9rito dessa pauta relevante para o nosso Pa\u00eds.\r\nPe\u00e7o a sua licen\u00e7a, Presidente, para ir direto ao voto, para que n\u00f3s possamos otimizar o nosso tempo.\r\nO SR. PRESIDENTE (Eduardo Bismarck. PDT - CE) - Pois n\u00e3o, Deputado.\r\nO SR. DANIEL TRZECIAK (Bloco/PSDB - RS) - Passo a l\u00ea-lo.\r\n\"Voto do Relator\r\nO atual regime de micro e minigera\u00e7\u00e3o distribu\u00edda permite ao consumidor gerar energia el\u00e9trica a partir de fontes renov\u00e1veis ou cogera\u00e7\u00e3o qualificada e fornecer o excedente para a concession\u00e1ria ou permission\u00e1ria de distribui\u00e7\u00e3o de energia el\u00e9trica. Nesses casos em que h\u00e1 inje\u00e7\u00e3o de excedente na rede, s\u00e3o gerados cr\u00e9ditos de energia, que podem ser abatidos no consumo da unidade nos meses seguintes \u00e0 gera\u00e7\u00e3o, com validade de 60 meses.\r\nO Sistema de Compensa\u00e7\u00e3o de Energia El\u00e9trica, como \u00e9 conhecido esse mecanismo, foi institu\u00eddo pela Resolu\u00e7\u00e3o Normativa n\u00ba 482, de 2012, e n\u00e3o possui lei espec\u00edfica que o regulamente. Entretanto, por mais recomend\u00e1vel que seja buscar aprovar lei que regulamente o sistema como um todo, n\u00e3o podemos prescindir da iniciativa legislativa para aprimorar o mecanismo existente.\r\nA situa\u00e7\u00e3o de calamidade decorrente da pandemia de coronav\u00edrus tem imposto um grande n\u00famero de desafios ao sistema p\u00fablico de sa\u00fade e a outras institui\u00e7\u00f5es que atuam na linha de frente de combate ao v\u00edrus.\r\nNesse sentido, \u00e9 merit\u00f3rio o projeto ora examinado, uma vez que a doa\u00e7\u00e3o de cr\u00e9ditos de energia representa al\u00edvio nas contas de institui\u00e7\u00f5es que combatem o coronav\u00edrus. Al\u00e9m disso, \u00e9 oportuno, considerando que os intensos debates em torno da regulamenta\u00e7\u00e3o total da mat\u00e9ria n\u00e3o podem impedir a introdu\u00e7\u00e3o de necess\u00e1rios aperfei\u00e7oamentos como os propostos, que, futuramente, poder\u00e3o ser aproveitados em novas proposi\u00e7\u00f5es legislativas de aplica\u00e7\u00e3o mais ampla sobre o tema.\r\nNecess\u00e1rio registrar que esta relatoria realizou altera\u00e7\u00f5es no texto original. Primeiramente, inserimos dispositivo que restringe as doa\u00e7\u00f5es de cr\u00e9ditos entre clientes localizados em uma mesma \u00e1rea de concess\u00e3o.\r\nEssa medida est\u00e1 alinhada aos requisitos do atual sistema de compensa\u00e7\u00e3o, e possibilitar\u00e1 implementa\u00e7\u00e3o c\u00e9lere do mecanismo de doa\u00e7\u00e3o. Adicionalmente, alteramos um pouco o prazo de regulamenta\u00e7\u00e3o da mat\u00e9ria, para algo que fugisse da exiguidade proposta originalmente, mas que, de outro lado, n\u00e3o desconsiderasse a urg\u00eancia na implementa\u00e7\u00e3o desse mecanismo. Propusemos, ent\u00e3o, substitutivo que recepciona essas altera\u00e7\u00f5es.\r\nConclus\u00e3o do Voto\r\nAnte o exposto, no \u00e2mbito da Comiss\u00e3o de Minas e Energia, somos pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 2.474, de 2020, nos termos do substitutivo anexo, considerando que os aperfei\u00e7oamentos propostos ao mecanismo de compensa\u00e7\u00e3o de energia s\u00e3o positivos para o setor, n\u00e3o impondo custos adicionais aos agentes e assegurando a gest\u00e3o flex\u00edvel desses cr\u00e9ditos.\r\nNo \u00e2mbito da Comiss\u00e3o de Trabalho, Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, somos pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 2.474, de 2020, nos termos do substitutivo proposto pela Comiss\u00e3o de Minas e Energia.\r\nNa Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 2.474, de 2020, e do substitutivo proposto pela Comiss\u00e3o de Minas e Energia.\r\nSala das Sess\u00f5es, em 31 de mar\u00e7o de 2021.\"\r\nEste \u00e9 o voto. Este \u00e9 o relat\u00f3rio. Aqui, mais uma vez, cumprimento os autores pela relev\u00e2ncia do m\u00e9rito desta pauta, num momento t\u00e3o dif\u00edcil, em que as institui\u00e7\u00f5es que atendem a nossa popula\u00e7\u00e3o - os hospitais, as institui\u00e7\u00f5es de sa\u00fade - precisam de todo o apoio, de todo o suporte legislativo para que n\u00f3s possamos apresentar as melhores alternativas.\r\nMais uma vez, cumprimento os colegas Deputados autores desse PL, Deputado Franco Cartafina e Deputado Lucas Redecker, por apresentarem algo que realmente transforma e traz um al\u00edvio \u00e0s contas desses hospitais e dessas institui\u00e7\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=58&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T11:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), EMENDA DE PREN\u00c1RIO, PL 2474/2020, PROJETO DE LEI ORDIN\u00c1RIA, REJEI\u00c7\u00c3O.",
+        "nomeDeputado": "Daniel Trzeciak",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 3, apresentadas ao Projeto de Lei n\u00ba 2.474, de 2020, referente \u00e0 cess\u00e3o de cr\u00e9ditos obtidos em sistema de compensa\u00e7\u00e3o de energia el\u00e9trica, durante a emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. DANIEL TRZECIAK (Bloco/PSDB - RS. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, mais uma vez, refor\u00e7o o que foi exposto pelos Deputados Franco Cartafina e Lucas Redecker, da import\u00e2ncia deste projeto.\r\n\"Relat\u00f3rio\r\nDurante a discuss\u00e3o da mat\u00e9ria foram apresentadas 3 emendas de Plen\u00e1rio.\r\nVoto do Relator\r\nPela Comiss\u00e3o de Minas e Energia, votamos pela rejei\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00bas 1, 2 e 3; pela Comiss\u00e3o de Trabalho, Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, votamos pela rejei\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00bas 1, 2 e 3; pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, votamos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa das Emendas de Plen\u00e1rio n\u00bas 1, 2 e 3.\" \r\n\u00c9 importante ressaltar a constru\u00e7\u00e3o que j\u00e1 foi feita junto com a ANEEL, para que de fato, com a capacidade t\u00e9cnica, esse projeto possa, na pr\u00e1tica, melhorar essas institui\u00e7\u00f5es.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=63&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

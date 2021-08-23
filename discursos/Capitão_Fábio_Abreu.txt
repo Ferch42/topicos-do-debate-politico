@@ -1,0 +1,182 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DESARMAMENTO, PORTE DE ARMA, POL\u00cdCIA, AERONAVE, AN\u00c1LISE.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Posicionamento do orador sobre a proposta a respeito do porte de armas por policiais em aeronaves.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PR - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 necess\u00e1rio que se fa\u00e7a um esclarecimento a respeito dessa proposta. H\u00e1 situa\u00e7\u00f5es em que o policial necessita estar armado, mesmo dentro de uma aeronave. Eu cito o exemplo de uma escolta armada de indiv\u00edduos criminosos. Imaginem igualar o indiv\u00edduo que est\u00e1 sendo escoltado a policiais sem condi\u00e7\u00f5es de rea\u00e7\u00e3o.\r\nOutra situa\u00e7\u00e3o \u00e9 que o policial, estando dentro da aeronave, \u00e9 obrigado a agir em qualquer momento, e vai agir em desvantagem se estiver desarmado.\r\nOutra agravante \u00e9 que essas armas, sendo despachadas como bagagem ou estando com o piloto da aeronave, podem ser tomadas por qualquer indiv\u00edduo que adentrar a cabine, o que representar\u00e1 um perigo muito maior do que se essa arma estivesse com um policial.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 1011/2020,  PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.\r\nPL 1011/2020, PROJETO DE LEI ORDIN\u00c1RIA, GARANTIA, VACINA\u00c7\u00c3O, MOTORISTA, TRANSPORTE DE CARGA, PANDEMIA, CORONAV\u00cdRUS, INCLUS\u00c3O, PROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.011, de 2020, acerca da altera\u00e7\u00e3o da Lei n\u00ba 6.259, de 2020, com vista \u00e0 garantia do acesso de caminhoneiros e profissionais do transporte de cargas \u00e0 vacina\u00e7\u00e3o contra o coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de orientar pelo PL e destacar, principalmente, o item seguran\u00e7a p\u00fablica. N\u00f3s temos uma luta muito constante em rela\u00e7\u00e3o ao reconhecimento dos profissionais dessa \u00e1rea.\r\nDefinitivamente, a Deputada Celina d\u00e1 certo alento principalmente aos profissionais da seguran\u00e7a p\u00fablica, o que foi conseguido atrav\u00e9s tamb\u00e9m de reivindica\u00e7\u00f5es dos Governadores, j\u00e1 que alguns se manifestaram a favor disso. Eles estavam receosos em rela\u00e7\u00e3o, por exemplo, \u00e0 improbidade administrativa, e, com esta vota\u00e7\u00e3o, com esta lei incluindo os profissionais da seguran\u00e7a p\u00fablica, n\u00f3s estamos dando seguran\u00e7a a esses Governadores para que esses profissionais sejam reconhecidos.\r\nO PL vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=263&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-31T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1011/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL, VICENTINHO J\u00daNIOR, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), CELINA LE\u00c3O, RELATORA.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.011, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 6.259, de 2020, para garantia do acesso de caminhoneiros e profissionais do transporte de cargas \u00e0 vacina\u00e7\u00e3o durante a epidemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL orienta \"sim\".\r\nEu gostaria de falar em nome do Deputado Vicentinho J\u00fanior, que n\u00e3o conseguiu se manifestar agora nesta orienta\u00e7\u00e3o. Mas tenho certeza de que ele se sente muito contemplado, principalmente com o relat\u00f3rio final da Deputada Celina, que fez todas as a\u00e7\u00f5es no sentido de acolher os pedidos de v\u00e1rios Parlamentares de v\u00e1rios partidos. Em nome do Deputado Vicentinho J\u00fanior, estamos aqui para parabenizar a Relatora. \r\nE eu parabenizo o Deputado Vicentinho J\u00fanior pela iniciativa deste projeto.\r\nUm abra\u00e7o.\r\nO PL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F4%2F2021&txPagina=292&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-15T13:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 4554/2020, PROJETO DE LEI ORDINARIA, PARTIDO LIBERAL (PL), VOTO FAVORAVEL.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 4.554, de 2020, sobre a altera\u00e7\u00e3o do Decreto-Lei n\u00ba 2.848, de 1940, (C\u00f3digo Penal), com vista ao agravamento das penas impostas aos crimes de viola\u00e7\u00e3o de dispositivo inform\u00e1tico, furto e estelionato cometidos de forma eletr\u00f4nica ou pela Internet; e do Decreto-Lei n\u00ba 3.689, de 1941, (C\u00f3digo de Processo Penal), para defini\u00e7\u00e3o da compet\u00eancia em modalidades de estelionato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, eu gostaria de parabenizar o nobre Relator Vinicius.\r\nAcho que esta lei j\u00e1 deveria ter sido aprovada antes. N\u00f3s estamos tendo o crescimento da pandemia, que tem trazido uma realidade em que as pessoas cada vez mais t\u00eam utilizado os meios virtuais para fazer transa\u00e7\u00f5es, o que acarreta uma maior ocorr\u00eancia de crimes neste ambiente. Portanto, n\u00f3s necessitamos de leis mais r\u00edgidas.\r\nEu concordo com alguns Parlamentares quando dizem que a discuss\u00e3o deve ser mais ampla e que precisamos rever o C\u00f3digo de Processo Penal, mas o pior \u00e9 n\u00e3o fazermos nada. N\u00f3s precisamos avan\u00e7ar neste projeto e, sim, encerrar esta discuss\u00e3o.\r\nPortanto, o PL orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F4%2F2021&txPagina=110&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-15T13:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 4554/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 4.554, de 2020, sobre a altera\u00e7\u00e3o do Decreto-Lei n\u00ba 2.848, de 1940, (C\u00f3digo Penal), com vista ao agravamento das penas impostas aos crimes de viola\u00e7\u00e3o de dispositivo inform\u00e1tico, furto e estelionato cometidos de forma eletr\u00f4nica ou pela Internet; e do Decreto-Lei n\u00ba 3.689, de 1941, (C\u00f3digo de Processo Penal), para defini\u00e7\u00e3o da compet\u00eancia em modalidades de estelionato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu insisto na import\u00e2ncia deste projeto. \r\nHoje as autoridades n\u00e3o t\u00eam uma base para tomar suas decis\u00f5es e enquadrar este tipo de crime. Ent\u00e3o, este \u00e9 o in\u00edcio de um processo. Concordo com V.Exa. e com todos os Deputados que j\u00e1 mencionaram a necessidade de amplitude no que se refere a este tema. Este j\u00e1 \u00e9 um ponto inicial, importante, pela atualidade e pelos fatos que eu acompanho em termos de crimes. Ali\u00e1s, h\u00e1 um aumento muito maior desses crimes na atualidade.\r\nPortanto, o PL \u00e9 favor\u00e1vel ao m\u00e9rito do projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F4%2F2021&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-04T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 2462/1991, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta  do Projeto de Lei n\u00ba 2.462, de 1991, sobre acr\u00e9scimo do T\u00edtulo XII na Parte Especial do Decreto-Lei n\u00ba 2.848, de 1940 (C\u00f3digo Penal), relativo aos crimes contra o Estado Democr\u00e1tico de Direito; e revoga\u00e7\u00e3o da Lei n\u00ba 7.170, de 1983 (Lei de Seguran\u00e7a Nacional), e dispositivo do Decreto-Lei n\u00ba 3.688, 1941 (Lei das Contraven\u00e7\u00f5es Penais).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de parabenizar a Deputada Margarete Coelho pela forma como conduziu a formula\u00e7\u00e3o deste projeto e dizer que realmente \u00e9 necess\u00e1rio que n\u00f3s tenhamos esta discuss\u00e3o no dia de hoje. \r\nPor isso, o PL orienta \"n\u00e3o\" \u00e0 retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2021&txPagina=47&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-13T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ESCLARECIMENTO, ALTERA\u00c7\u00c3O, PROCEDIMENTO, VOTA\u00c7\u00c3O, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS.\r\nORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 3729/2004, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL).",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de esclarecimento sobre o processo de vota\u00e7\u00e3o diante de altera\u00e7\u00f5es do Regimento Interno da C\u00e2mara dos Deputados. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 21 do Substitutivo apresentado ao Projeto de Lei 3.729, de 2004, sobre o licenciamento ambiental; regulamenta\u00e7\u00e3o do inciso IV do \u00a7 1\u00ba do art. 225 da Constitui\u00e7\u00e3o Federal; altera\u00e7\u00e3o das Leis n\u00bas 9.605, de 1998, e 9.985, de 2000; e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 7.661, de 1988.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - O PL, Sr. Presidente, aproveita as palavras do Deputado General Peternelli e do Deputado Henrique Fontana e faz um questionamento em rela\u00e7\u00e3o a essas mudan\u00e7as.\r\nO sistema permite que o Deputado mude seu voto ap\u00f3s ter votado, permanecendo como era antes? O partido tamb\u00e9m pode mudar a sua orienta\u00e7\u00e3o no painel, como era antes? Se isso for poss\u00edvel, eu acredito que n\u00e3o haver\u00e1 uma interfer\u00eancia com rela\u00e7\u00e3o \u00e0 lista que havia antes, Sr. Presidente. Aproveito para tirar essa d\u00favida.\r\n O PL orienta \"sim\". \r\nO SR. PRESIDENTE (Marcelo Ramos. Bloco/PL - AM) - Obrigado, Deputado Capit\u00e3o F\u00e1bio Abreu.\r\nEu vou repetir. Eu vou seguir com esse procedimento at\u00e9 o fim desta sess\u00e3o. N\u00f3s estamos na primeira sess\u00e3o com o novo Regimento. N\u00f3s enfrentamos um problema nas duas primeiras vota\u00e7\u00f5es sob o argumento da Oposi\u00e7\u00e3o de que est\u00e1vamos iniciando as vota\u00e7\u00f5es antes que ela pudesse orientar aos seus Deputados e Deputadas para a obstru\u00e7\u00e3o. \r\nQuando V.Exa. vota, n\u00e3o pode voltar atr\u00e1s. Quando V.Exa. vota \"obstru\u00e7\u00e3o\", n\u00e3o pode mudar para outro voto. Quer dizer, \u00e9 o contr\u00e1rio. V.Exa. n\u00e3o pode, do voto, ir para a obstru\u00e7\u00e3o. Ent\u00e3o, imagine V.Exa. que um Deputado do PSB, antes da orienta\u00e7\u00e3o do Deputado Rodrigo, vote \"sim\". O Deputado Rodrigo vai ao microfone e orienta pela obstru\u00e7\u00e3o. O Deputado n\u00e3o tem como voltar no sistema.\r\nEnt\u00e3o, eu acho que \u00e9 prudente. Vamos, por prud\u00eancia, seguir esse procedimento. Com o tempo, n\u00f3s vamos nos ajust\u00e1-lo, at\u00e9, talvez, alterando o sistema para permitir que quem registrou o voto possa mudar para obstru\u00e7\u00e3o. Vamos avaliar. \r\nO SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI) - Obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-13T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "COMISS\u00c3O ESPECIAL, ALTERA\u00c7\u00c3O, C\u00d3DIGO PENAL, VIOL\u00caNCIA, SEGURAN\u00c7A P\u00daBLICA, ARTHUR LIRA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia pela condu\u00e7\u00e3o dos trabalhos da presente sess\u00e3o com as novas disposi\u00e7\u00f5es do Regimento Interno da C\u00e2mara dos Deputados. Pedido de avan\u00e7o nos trabalhos da Comiss\u00e3o Especial destinada \u00e0 atualiza\u00e7\u00e3o do C\u00f3digo Penal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, primeiro, quero parabeniz\u00e1-lo pela condu\u00e7\u00e3o dos trabalhos, que est\u00e3o sendo muito bem conduzidos, principalmente os de hoje, com o in\u00edcio do uso de um Regimento novo.\r\nEu gostaria apenas de pedir que esta Casa tenha aten\u00e7\u00e3o com a Comiss\u00e3o Especial que trata do novo C\u00f3digo Penal, para que n\u00f3s possamos atualizar o presente c\u00f3digo, que \u00e9 de 1940. As consequ\u00eancias desse c\u00f3digo t\u00e3o atrasado est\u00e3o acontecendo agora. Ent\u00e3o, \u00e9 necess\u00e1rio que n\u00f3s tenhamos essa Comiss\u00e3o em atividade o mais breve poss\u00edvel, para que possamos atualizar nossas leis e n\u00e3o tenhamos um avan\u00e7o t\u00e3o galopante da viol\u00eancia como o que est\u00e1 acontecendo em nosso Pa\u00eds.\r\nEnt\u00e3o, \u00e9 esse o meu pedido, \u00e9 essa a solicita\u00e7\u00e3o que fa\u00e7o a V.Exa., que \u00e9 Vice-Presidente, e, consequentemente, ao Presidente Arthur Lira.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, MPV 1031/2021, MEDIDA PROVISORIA, PRIVATIZA\u00c7\u00c3O, CENTRAIS EL\u00c9TRICAS BRASILEIRAS (ELETROBRAS), DEFESA.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Solicita\u00e7\u00e3o aos Deputados de apoio ao requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 1, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 1.031, de 2021, acerca da privatiza\u00e7\u00e3o das Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (Bloco/PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de esclarecer ao Deputado Paulo Ganime que o pr\u00f3prio TCU reconhece essa d\u00edvida para com o Estado do Piau\u00ed. Ent\u00e3o, \u00e9 justo, \u00e9 correto que o nosso Estado seja ressarcido quanto a essa d\u00edvida, que, com corre\u00e7\u00f5es, chega a 800 milh\u00f5es, o que seria de fundamental import\u00e2ncia para o Estado do Piau\u00ed.\r\nPortanto, eu pe\u00e7o aos demais Deputados que apoiem este destaque, para que o Piau\u00ed n\u00e3o tenha esse preju\u00edzo. A nossa empresa j\u00e1 tinha sido federalizada, j\u00e1 havia a despesa, havia o d\u00e9bito, e agora \u00e9 duplamente prejudicada com essa a\u00e7\u00e3o. Eu pe\u00e7o esse apoio, para que o Piau\u00ed n\u00e3o tenha esse preju\u00edzo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-01T12:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 4710/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Capit\u00e3o F\u00e1bio Abreu",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 4.710, de 2020, sobre a autoriza\u00e7\u00e3o ao Brasil da importa\u00e7\u00e3o, por meio da Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade - OPAS, de medicamentos, insumos e equipamentos relacionados \u00e0 \u00e1rea da sa\u00fade, ressalvado o destaque.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. CAPIT\u00c3O F\u00c1BIO ABREU (PL - PI. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, este projeto \u00e9 de minha autoria. Primeiramente, eu gostaria aqui de agradecer-lhe por esta oportunidade, de agradecer ao Deputado Giovani Cherini pela relatoria que fez e, especialmente, ao Deputado General Peternelli por ter feito essa leitura, no impedimento do Deputado Giovani Cherini.\r\n\u00c9 uma mat\u00e9ria simples, mas que tem import\u00e2ncia, uma vez que, por fazer parte da Comiss\u00e3o de Enfrentamento \u00e0 COVID, n\u00f3s observamos essa possibilidade. Esperamos que n\u00e3o haja uma terceira onda de COVID, mas em acontecendo isso e n\u00e3o sendo poss\u00edvel abastecer o mercado interno, n\u00f3s poderemos, atrav\u00e9s dessa medida, importar medicamentos e equipamentos relacionados \u00e0 sa\u00fade de modo geral, especialmente \u00e0 COVID.\r\nEnt\u00e3o, o PL orienta \"sim\". Eu espero que seja realmente sancionada essa lei.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

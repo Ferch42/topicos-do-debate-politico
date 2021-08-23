@@ -1,0 +1,290 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-26T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PRC 331/2018, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Mesa Diretora ao Projeto de Resolu\u00e7\u00e3o n\u00ba 331, de 2018, sobre a cria\u00e7\u00e3o do Pr\u00eamio Nise da Silveira de Boas Pr\u00e1ticas e Inclus\u00e3o em Sa\u00fade Mental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (Bloco/PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Um dedo apontado contra o Governo, Presidente, \u00e9 um dedo apontado contra a democracia. Impopularidade deve ter um contexto diferente para a Oposi\u00e7\u00e3o, contexto esse que n\u00e3o reconhecemos.\r\nPelo Governo, orientamos o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F2%2F2019&txPagina=116&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Elogio \u00e0 condu\u00e7\u00e3o dos trabalhos pela Presidenta em exerc\u00edcio da sess\u00e3o. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque de prefer\u00eancia para a vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Em nome do Governo, Sra. Presidente, gostaria de reafirmar o carinho e o respeito pela postura carism\u00e1tica, profissional, elegante e, principalmente, dedicada de V.Exa. na condu\u00e7\u00e3o dos trabalhos.\r\nO Governo orienta o voto \"n\u00e3o\" \u00e0 prefer\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-13T20:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 94, apresentada ao Projeto de Lei Complementar n\u00ba 149, de 2019, (Plano Mansueto), sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal, do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 12.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - A Emenda n\u00ba 94 n\u00e3o se mostra tecnicamente oportuna e conveniente para este momento. Por isso, Presidente, o Governo orienta o voto \"n\u00e3o\". Ela envolve a ren\u00fancia de receita, e, neste momento, n\u00f3s n\u00e3o vimos comprovada a estimativa or\u00e7ament\u00e1ria ou financeira para o Governo.\r\nPara finalizar, eu gostaria de dizer que o Governo Federal continuar\u00e1 ajudando Estados e Munic\u00edpios, como j\u00e1 vinha fazendo muito antes da excepcionalidade dos nossos dif\u00edceis dias.\r\nFor\u00e7a e honra, Presidente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F4%2F2020&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-22T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 1282/2020, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pela Relatora da Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico ao Projeto de Lei n\u00ba 1.282, de 2020, sobre a institui\u00e7\u00e3o do Programa Nacional de Apoio \u00e0s Microempresas e Empresas de Pequeno Porte - PRONAMPE, e a altera\u00e7\u00e3o das Leis de n\u00bas 13.636, de 2018; 10.735, de 2003, e 9.790, de 1999, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, boa noite.\r\nO Governo, sens\u00edvel a esta crise sem precedentes, conversou bastante com a equipe econ\u00f4mica, com a Relatora e com os L\u00edderes partid\u00e1rios, buscando uma solu\u00e7\u00e3o tanto para a sa\u00fade financeira do Pa\u00eds quanto para a sa\u00fade de todos os brasileiros.\r\nO Governo vota \"sim\" e parabeniza a iniciativa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2020&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-22T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO,  EMENDA DE PLEN\u00c1RIO, PL 1282/2020, PROJETO DE LEI ORDIN\u00c1RIA, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 14, apresentada ao Projeto de Lei n\u00ba 1.282, de 2020, sobre a institui\u00e7\u00e3o do Programa Nacional de Apoio \u00e0s Microempresas e Empresas de Pequeno Porte - PRONAMPE, e a altera\u00e7\u00e3o das Leis de n\u00bas 13.636, de 2018; 10.735, de 2003, e 9.790, de 1999.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, acho que a palavra de ordem e consensual \u00e9 \"bom senso\". O texto desse destaque pode estimular justamente o contr\u00e1rio: as empresas perderem o interesse em aderir a esse programa.\r\nEnt\u00e3o o Governo orienta \"n\u00e3o\" ao texto, porque o relat\u00f3rio \u00e9 muito melhor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2020&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 907/2019, MEDIDA PROVIS\u00d3RIA, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 1, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 907, de 2019, sobre a altera\u00e7\u00e3o das Leis de n\u00bas 11.371, de 2006, e 12.249, de 2010, com vista ao estabelecimento das al\u00edquotas do imposto sobre a renda incidentes nas opera\u00e7\u00f5es especificadas; a altera\u00e7\u00e3o das Leis de n\u00bas 9.825, de 1999, 11.356, de 2006, e 12.462, de 2011; a institui\u00e7\u00e3o da Ag\u00eancia Brasileira de Promo\u00e7\u00e3o Internacional do Turismo - EMBRATUR; a extin\u00e7\u00e3o do Instituto Brasileiro de Turismo - EMBRATUR; e a revoga\u00e7\u00e3o da Lei n\u00ba 8.181, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o da oradora.) - O Governo orienta o voto \"n\u00e3o\" a este destaque. \r\nEu fico realmente muito surpresa, porque n\u00e3o se trata de um aumento abrupto de al\u00edquota, n\u00e3o! Este aumento j\u00e1 aconteceria e seria, de uma vez s\u00f3, para 25%, n\u00e3o fosse a MP. A medida provis\u00f3ria realmente visa fazer o aumento da al\u00edquota de forma progressiva, porque este est\u00edmulo ao turismo volta como investimento. Diante disso, n\u00f3s entramos no \"x\" da quest\u00e3o: fazer com que a economia seja um vetor de recupera\u00e7\u00e3o do emprego e da renda, principalmente em vista da excepcionalidade destes dias.\r\nPortanto, o Governo orienta o voto contra este destaque. O texto original, o relat\u00f3rio do Relator, foi muito pr\u00f3ximo do Governo. Desta forma, ele est\u00e1 de parab\u00e9ns. \r\nO Governo \u00e9 contra este destaque. Vota \"n\u00e3o\".\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-23T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Boa tarde, Presidente!\r\nO texto \u00e9 merit\u00f3rio. A sociedade espera de todos n\u00f3s Parlamentares exatamente um ajuste dos dispositivos legais do C\u00f3digo de Tr\u00e2nsito Brasileiro \u00e0 realidade do brasileiro, em prol de um tr\u00e2nsito mais seguro.\r\nO Governo \u00e9 contr\u00e1rio \u00e0 retirada de pauta. \r\nN\u00f3s precisamos estimular a evolu\u00e7\u00e3o da gest\u00e3o de tr\u00e2nsito. Isso significa, sim, dotar os operadores desse sistema de ferramentas adequadas para alcan\u00e7armos uma redu\u00e7\u00e3o de acidentes, mortes e les\u00f5es.\r\nA mat\u00e9ria tem diversos pontos fundamentais. N\u00f3s precisamos levar essa discuss\u00e3o a um n\u00edvel estrat\u00e9gico de Governo, para que o texto se harmonize com as outras pol\u00edticas p\u00fablicas setoriais.\r\nVotamos \"n\u00e3o\" \u00e0 retirada de pauta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2020&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-23T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, BASE DE APOIO POL\u00cdTCO, GOVERNO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o Governo orienta \"n\u00e3o\" ao adiamento da discuss\u00e3o. H\u00e1 pontos muito relevantes para aprecia\u00e7\u00e3o. Justamente para alcan\u00e7ar os desrespeitosos ao C\u00f3digo de Tr\u00e2nsito Brasileiro \u00e9 que estamos avaliando este projeto de lei. O relat\u00f3rio est\u00e1 muito coerente. \r\nEu pe\u00e7o aos Parlamentares responsabilidade e sensibilidade no que diz respeito a este tema, porque nada do que \u00e9 humano \u00e9 indiferente ao Governo Bolsonaro. Portanto, n\u00e3o vamos obstruir simplesmente por ser uma iniciativa do Executivo.\r\nO Governo orienta \"n\u00e3o\" ao adiamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2020&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-23T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO FAVOR\u00c1VEL.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GEST\u00c3O, DEFESA.\r\nOPOSI\u00c7\u00c3O POL\u00cdTICA, CR\u00cdTICA.\r\nVENEZUELA, GOVERNO, CR\u00cdTICA.\r\nOPERA\u00c7\u00c3O POLICIAL, CORONAV\u00cdRUS, PANDEMIA, CONTRA, SUPREMO TRIBUNAL FEDERAL (STF), DECIS\u00c3O, CR\u00cdTICA.\r\nPOL\u00cdCIA, V\u00cdTIMA, HOMIC\u00cdDIO, M\u00cdDIA, CR\u00cdTICA.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Seriedade do Governo Jair Bolsonaro. Preocupa\u00e7\u00e3o do Presidente da Rep\u00fablica com a sa\u00fade do povo brasileiro e com os reflexos da Covid-19 sobre a economia. Incoer\u00eancia do discurso da Oposi\u00e7\u00e3o em defesa da vida e a favor da legaliza\u00e7\u00e3o das drogas, do aborto e do modelo de governo implantado na Venezuela. Protesto contra a decis\u00e3o do Supremo Tribunal Federal, contr\u00e1ria \u00e0 realiza\u00e7\u00e3o de opera\u00e7\u00f5es policiais em comunidades perif\u00e9ricas durante a pandemia de coronav\u00edrus. Indigna\u00e7\u00e3o da oradora com a n\u00e3o manifesta\u00e7\u00e3o da m\u00eddia e da sociedade sobre o assassinato de policiais. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva, oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro, ressalvados os destaques.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Como L\u00edder. Sem revis\u00e3o da oradora.) - Presidente, eu tenho ouvido, \u00e0 exaust\u00e3o, que vidas humanas importam, como se ajustar leis que atualmente j\u00e1 n\u00e3o refletem mais a necessidade do povo brasileiro fosse uma posi\u00e7\u00e3o indigna ou incorreta neste momento, como se houvesse uma hora mais oportuna do que esta, em que o Brasil vive uma crise sem precedentes. E vemos, desde o come\u00e7o, a preocupa\u00e7\u00e3o deste Governo, um governo s\u00e9rio, honesto, digno, com a sa\u00fade do povo brasileiro, mas tamb\u00e9m com os reflexos na vida econ\u00f4mica.\r\nPor que \u00e9 que sempre tem que haver uma linha de confus\u00e3o mental por parte da Oposi\u00e7\u00e3o quando tratamos de viabilizar uma forma de o Pa\u00eds voltar para um caminho de crescimento, em que as coisas deem certo, em que as pol\u00edticas p\u00fablicas ben\u00e9ficas para o povo saiam do campo imagin\u00e1rio e venham atingir quem na ponta da linha n\u00e3o aguenta mais esperar? Por que essas mesmas pessoas, que defendem t\u00e3o efusivamente a vida, t\u00eam a Venezuela como modelo de pa\u00eds? Essa conta n\u00e3o fecha!\r\nS\u00e3o as mesmas pessoas que defendem o aborto, que est\u00e3o hoje defendendo a legaliza\u00e7\u00e3o de drogas, que defendem essas a\u00e7\u00f5es. Infelizmente, a Suprema Corte do nosso Pa\u00eds impediu opera\u00e7\u00f5es policiais em comunidades. Por que essas pessoas n\u00e3o se indignam por essas vidas tamb\u00e9m?\r\nEu n\u00e3o vi nenhuma manifesta\u00e7\u00e3o de luto. Aqui gostaria de registrar o luto pela morte do Tenente Cleiton, da Pol\u00edcia Militar do Estado do Rio de Janeiro, que, retirando barricadas nas ruas residenciais, por um erro de cen\u00e1rio, a meu ver, da pol\u00edtica de seguran\u00e7a p\u00fablica do Estado do Rio de Janeiro, foi atingido. Teve sua vida retirada por traficantes armados com fuzil, normalmente n\u00e3o o estariam, se a Pol\u00edcia continuasse exercendo a sua fun\u00e7\u00e3o de ir l\u00e1, impor os seus limites, levar a lei e de resgatar a cidadania dentro das comunidades tamb\u00e9m.\r\n\u00c9 muita invers\u00e3o de valores a troco de maldades. Cad\u00ea a indigna\u00e7\u00e3o por essas vidas tamb\u00e9m? Ent\u00e3o, \u00e9 muito importante n\u00f3s dizermos que \u00e9 o momento, sim, de n\u00f3s apreciarmos leis e pressupostos que j\u00e1 n\u00e3o refletem mais a necessidade do brasileiro. Essa \u00e9 a nossa fun\u00e7\u00e3o.\r\nAs mortes por coronav\u00edrus, essa crise sem precedentes, neste momento complicado em que a resili\u00eancia do brasileiro vem sendo colocada \u00e0 prova, \u00e9 muito importante levarmos isso em considera\u00e7\u00e3o, sim, e o ser\u00e1 sempre. \r\nMas tamb\u00e9m temos que entender que o luto \u00e9 extensivo a outros segmentos. \u00c9 para isso que n\u00f3s estamos aqui. N\u00f3s n\u00e3o podemos nos dar ao luxo de n\u00e3o apreciar mat\u00e9rias que hoje levam em considera\u00e7\u00e3o a suspens\u00e3o de CNH. \r\nO brasileiro n\u00e3o aguenta mais, ele j\u00e1 mostrou isso quando votou e elegeu democraticamente o nosso Presidente. Ele n\u00e3o aguenta mais os crit\u00e9rios que antes estavam estabelecidos.\r\nO Relator fez um trabalho muito coerente, com um texto merit\u00f3rio no tocante ao transporte de crian\u00e7as, validade de CNH, exame toxicol\u00f3gico, aula noturna, autoriza\u00e7\u00e3o de motocicleta no corredor vi\u00e1rio, avalia\u00e7\u00e3o psicol\u00f3gica, transfer\u00eancia de ve\u00edculo. O projeto de CNH social, em que outro momento n\u00f3s poder\u00edamos falar sobre isso?\r\nEnt\u00e3o, queria refor\u00e7ar que o Governo \u00e9 favor\u00e1vel ao texto, \u00e0 subemenda substitutiva e apelar pela sensibilidade de todo Parlamentar. Espero que n\u00f3s deixemos essas disputas para outro momento.\r\nVidas humanas importam, sim. Importa toda e qualquer vida humana, mas principalmente importa seriedade e o posicionamento de n\u00f3s Parlamentares para que o povo brasileiro, que n\u00e3o aguenta mais esperar, possa receber um servi\u00e7o de qualidade na porta da vida.\r\nObrigada, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2020&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T12:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 50, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, desvincular o IPVA do licenciamento anual corresponde a uma importante ren\u00fancia de receitas, porque s\u00e3o recursos diretamente investidos para o bem da sociedade.\r\nEnt\u00e3o, o Governo orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=64&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T13:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA,MINORIA PARLAMENTAR, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 12, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - O C\u00f3digo de Tr\u00e2nsito Brasileiro - CTB precisa trazer normas macro de regramento, sob pena de ter que ser a todo momento emendado, tamanha a dinamicidade do tr\u00e2nsito. O Governo entende que o corpo do relat\u00f3rio do Deputado Juscelino Filho j\u00e1 traz essas observa\u00e7\u00f5es e que considera\u00e7\u00f5es e pormenores podem e devem ser resolvidas por resolu\u00e7\u00e3o junto com os Estados, atrav\u00e9s do Conselho Nacional de Tr\u00e2nsito - CONTRAN e do Departamento Nacional de Tr\u00e2nsito - DENATRAN.\r\nO Governo encaminha o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=107&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 2\u00ba, art. 147, da Lei n\u00ba 9.503, de 1997 e, por decorr\u00eancia, do subsequente \u00a7 2\u00ba-A, na reda\u00e7\u00e3o dada pelo art. 1\u00ba do substitutivo oferecido ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o Governo orienta \"sim\". O aumento da longevidade dos brasileiros, por si s\u00f3, j\u00e1 d\u00e1 o respaldo para a amplia\u00e7\u00e3o do tempo desses exames.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, BASE DE APOIO POL\u00cdTICO, GOVERNO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 2\u00ba-A, art. 147, constante do art. 1\u00ba do substitutivo apresentado ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o Governo, especificamente em rela\u00e7\u00e3o a este ponto, vota contra o texto, a favor da emenda. Trata-se de uma compensa\u00e7\u00e3o justa para quem transporta riquezas e vidas e j\u00e1 sofre com tantas fiscaliza\u00e7\u00f5es, com tantas aferi\u00e7\u00f5es o tempo todo e com tantas licen\u00e7as.\r\nEnt\u00e3o, quanto a este ponto especificamente, n\u00f3s somos pela supress\u00e3o do texto. O Governo orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=153&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do inciso XI, art. 6\u00ba, do substitutivo oferecido ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o Governo orienta o voto \"sim\" ao texto, uma vez que os dispositivos que essa emenda deseja alcan\u00e7ar j\u00e1 s\u00e3o letra morta dentro do CTB. O infrator contumaz j\u00e1 \u00e9 alcan\u00e7ado pela reciclagem e com a suspens\u00e3o da CNH.\r\nFinalizo dizendo que o Governo deseja parabenizar e agradecer o trabalho do Relator, por entender que ele compreendeu fielmente os desejos e valores do povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=255&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-30T02:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, MPV 946/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL LIBERAL (PSL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 5\u00ba da Medida Provis\u00f3ria n\u00ba 946, de 2020, sobre a extin\u00e7\u00e3o do Fundo do Programa de Integra\u00e7\u00e3o Social e do Programa de Forma\u00e7\u00e3o do Patrim\u00f4nio do Servidor P\u00fablico - Fundo PIS-Pasep, institu\u00eddo pela Lei Complementar n\u00ba 26, de 1975; a transfer\u00eancia do seu patrim\u00f4nio para o Fundo de Garantia do Tempo de Servi\u00e7o - FGTS; a altera\u00e7\u00e3o da Lei Complementar n\u00ba 26, de 1975; e a revoga\u00e7\u00e3o da Lei Complementar n\u00ba 19, de 1974.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, o Governo orienta voto \"sim\", pela manuten\u00e7\u00e3o do texto. Esses recursos est\u00e3o parados, represados h\u00e1 muito tempo j\u00e1. O Governo entende que \u00e9 necess\u00e1rio continuar a campanha para que esse dinheiro chegue aos benefici\u00e1rios, mas \u00e9 hora de mantermos o texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=458&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-11T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SEGUNDO TURNO, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO SOCIAL LIBERAL (PSL), BASE DE APOIO POL\u00cdTICO, GOVERNO, MAIORIA PARLAMENTAR, VOTO CONTR\u00c1RIO.\r\nFAVOR\u00c1VEL, ACORDO, GOVERNO, BANCADA PARLAMENTAR, SEGURAN\u00c7A P\u00daBLICA, APROVA\u00c7\u00c3O, PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PEC EMERGENCIAL, AJUSTE FISCAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, PROGRESS\u00c3O FUNCIONAL, PROMO\u00c7\u00c3O, SERVIDOR P\u00daBLICO, PROFISSIONAL DE SA\u00daDE, PROFISSIONAL DA SEGURAN\u00c7A P\u00daBLICA.",
+        "nomeDeputado": "Major Fabiana",
+        "sumario": "Import\u00e2ncia da garantia de promo\u00e7\u00f5es, progress\u00f5es funcionais, reposi\u00e7\u00e3o salarial e preenchimento de cargos efetivos, no caso de vac\u00e2ncia, dos servidores p\u00fablicos. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do inciso II, art. 167-A, da Carta Magna e, por decorr\u00eancia, do \u00a7 5\u00ba do mesmo art., na reda\u00e7\u00e3o dada pelo art. 1\u00ba da  Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial, sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. MAJOR FABIANA (PSL - RJ. Pela ordem. Sem revis\u00e3o da oradora.) - Presidente, a aprova\u00e7\u00e3o desse Destaque n\u00ba 2, por dever de justi\u00e7a, \u00e9 imprescind\u00edvel para que possamos resguardar os direitos dos servidores p\u00fablicos, em especial os dos profissionais das for\u00e7as de seguran\u00e7a e da sa\u00fade, que continuam na linha de frente enfrentando e combatendo esta pandemia.\r\nOs argumentos e a for\u00e7a da bancada da seguran\u00e7a p\u00fablica, dos L\u00edderes aqui no plen\u00e1rio e de V.Exa. foram decisivos para que fiz\u00e9ssemos parte da revis\u00e3o dessa PEC e garant\u00edssemos as promo\u00e7\u00f5es e progress\u00f5es funcionais, a corre\u00e7\u00e3o salarial e a reposi\u00e7\u00e3o de cargos efetivos quando houver vac\u00e2ncia.\r\nO consenso \u00e9 extremamente importante. O PSL, o bloco, a Maioria e o Governo encaminham \"n\u00e3o\" ao texto. \u00c9 muito importante obedecermos a essa orienta\u00e7\u00e3o para conseguirmos aprovar esse aux\u00edlio emergencial, pois milhares de brasileiros precisam desse aux\u00edlio, sem desmerecer, privilegiando e resguardando os direitos dos servidores p\u00fablicos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2021&txPagina=201&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

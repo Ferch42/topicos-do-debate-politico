@@ -1,0 +1,20 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-07T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "LUCIRAM GIR\u00c3O, VEREADOR, FORTALEZA (CE), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Vaidon Oliveira",
+        "sumario": "Falecimento do Vereador Luciram Gir\u00e3o, do Munic\u00edpio de Fortaleza, Estado do Cear\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. VAIDON OLIVEIRA (PROS - CE. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero registrar o falecimento de uma grande lideran\u00e7a em Fortaleza, o Vereador Luciram Gir\u00e3o, que foi Vereador por quatro mandatos, m\u00e9dico. Fui Vereador junto com ele.\r\nQuero deixar meus sentimentos \u00e0 fam\u00edlia. Com certeza, o povo do nosso Estado, da nossa cidade, perde muito com o falecimento do Vereador.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F5%2F2019&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

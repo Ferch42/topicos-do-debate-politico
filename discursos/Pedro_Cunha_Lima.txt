@@ -1,0 +1,506 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DESEMPREGO, COMBATE, PRIVIL\u00c9GIO ESPECIAL, SERVIDOR PUBLICO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Elevado contingente de desempregados no Pa\u00eds. Defesa de encaminhamento \u00e0 Casa, pelo Poder Executivo, de proposta de combate a privil\u00e9gios no servi\u00e7o p\u00fablico.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (Bloco/PSDB - PB. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, eu tenho a responsabilidade de entender que o Brasil quebrou, que n\u00f3s temos mais de 13 milh\u00f5es de desempregados e que precisamos fazer as reformas. Mas, pelo que eu entendo como justo, pelo meu sentido de corre\u00e7\u00e3o, tenho muita dificuldade em aceitar por que esta reforma tem que cair sempre nas costas dos mais pobres.\r\nEu sou um Deputado reeleito, Deputada Carmen Zanotto. Isso quer dizer que cheguei a Bras\u00edlia em 2015. \r\nPois bem. Ontem caiu na minha conta o aux\u00edlio-mudan\u00e7a. Isso est\u00e1 errado. Este assunto n\u00e3o \u00e9 debatido. \u00c9 duro mexer no trabalhador rural e n\u00e3o mexer em Deputado. \u00c9 cruel, desumano. Temos um pa\u00eds que ainda paga aux\u00edlio-livro a juiz, aux\u00edlio-creche a procurador. A not\u00edcia que eu vi hoje foi aux\u00edlio-alimenta\u00e7\u00e3o retroativo a 2011. O Tribunal de Justi\u00e7a de Pernambuco tem uma nova portaria que permite o aux\u00edlio-alimenta\u00e7\u00e3o retroativo - de 2011 para c\u00e1, pode-se receber tudo de volta. Eu n\u00e3o tenho cara para dizer que n\u00f3s podemos mexer em algo que diz respeito ao trabalhador rural, e n\u00e3o conseguimos mexer nas regalias que beneficiam as autoridades.\r\nNuma comunidade de pessoas que se amam e se cuidam, nos momentos de mais dificuldades - Prof. Nilton, \u00e9 uma alegria receb\u00ea-lo nesta Casa -, \u00e9 o mais forte que protege o mais fraco, e n\u00e3o o contr\u00e1rio. Se um ladr\u00e3o entrar na minha casa, eu n\u00e3o posso empurrar meu filho para fora do quarto e me trancar nele para me proteger. Se \u00e9 para enfrentar o ladr\u00e3o, que eu v\u00e1 junto. Se eu sou o mais forte, que eu v\u00e1 na frente.\r\nPortanto, est\u00e1 na hora de enfrentarmos esta mat\u00e9ria e de enviar um pacote antiprivil\u00e9gios. O Governo j\u00e1 nos enviou um pacote anticrimes. O Governo j\u00e1 nos mandou a reforma da Previd\u00eancia. Eu aguardo ansiosamente o momento de o Governo enviar a PEC dos penduricalhos.\r\nTenho um projeto, uma ideia, e vou come\u00e7ar a colher as assinaturas. Quem recebe mais de 15 sal\u00e1rios m\u00ednimos n\u00e3o pode receber aux\u00edlio-alimenta\u00e7\u00e3o. Aux\u00edlio-alimenta\u00e7\u00e3o deve ser concedido a quem n\u00e3o tem o que comer. A\u00ed sim poderemos debater de maneira honesta, solid\u00e1ria e sens\u00edvel com o povo brasileiro. A\u00ed sim poderemos dizer o que tem de ser dito.\r\nEu tenho muito respeito a todos: a juiz, a Deputado, a Senador. Todas as vezes que falo sobre este tema, muitos dizem que estou fazendo uma afronta. N\u00e3o \u00e9 uma afronta! Eu tenho muito respeito por quem vende abacate no sinal. Quanto tempo demora para uma pessoa como esta receber o valor do aux\u00edlio-moradia que recebe aquele que tem onde morar?\r\nFa\u00e7o este apelo, a fim de debatermos o pacote antiprivil\u00e9gios.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SETOR P\u00daBLICO, GEST\u00c3O, MELHORIA, PEDRO CUNHA LIMA, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nAUX\u00cdLIO-CRECHE, AUX\u00cdLIO-MUDAN\u00c7A, AUX\u00cdLIO-ALIMENTA\u00c7\u00c3O, AUX\u00cdLIO-SA\u00daDE, CR\u00cdTICA.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Apresenta\u00e7\u00e3o pelo orador de conjunto de propostas de combate aos privil\u00e9gios no servi\u00e7o p\u00fablico. Pedido aos Parlamentares de assinatura da proposta de emenda \u00e0 Constitui\u00e7\u00e3o proibitiva da concess\u00e3o de aux\u00edlio-alimenta\u00e7\u00e3o, aux\u00edlio-creche e outros no \u00e2mbito do servi\u00e7o p\u00fablico, a chamada PEC dos Penduricalhos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu sinto que existe uma revolta muito grande do Brasil, do seu povo, que enxerga a m\u00e1quina p\u00fablica profundamente agigantada, robusta, estruturada, que n\u00e3o combate a desigualdade social, que v\u00ea um momento de pa\u00eds em que \u00e9 preciso fazer uma reforma, mas n\u00e3o consegue tocar justamente nessa estrutura. \u00c9 muito desigual um pa\u00eds que quebra e faz com que a corda arrebente do lado do mais fraco.\r\nN\u00f3s vemos, por parte do Governo, o direcionamento para a reforma da Previd\u00eancia Social, vemos o Governo encaminhar um pacote anticrime, mas n\u00e3o vemos o Governo se empenhar na chamada \"reforma dos privil\u00e9gios\". Esse sentimento continua vivo no nosso Pa\u00eds. Parte desse sentimento foi o que elegeu o Presidente Jair Bolsonaro. Esse sentimento \u00e9 maior do que o Presidente Bolsonaro. A Presid\u00eancia da Rep\u00fablica n\u00e3o est\u00e1 atentando para isso, n\u00e3o est\u00e1 representando essa necessidade de fazer ajuste.\r\nN\u00e3o pode um pa\u00eds negar saneamento b\u00e1sico para metade da sua popula\u00e7\u00e3o pagar aux\u00edlio-creche para um procurador. Eu respeito muito os procuradores. Falo de desigualdade. Poderia falar do aux\u00edlio-mudan\u00e7a pago ao Deputado, poderia falar do aux\u00edlio-livro pago ao juiz. \r\nNeste Pa\u00eds pessoas n\u00e3o t\u00eam \u00e1gua. Semana passada eu participei da inaugura\u00e7\u00e3o de um sistema de abastecimento de \u00e1gua para 52 fam\u00edlias, que pela primeira vez t\u00eam \u00e1gua em casa. \r\nA C\u00e2mara dos Deputados tem um or\u00e7amento de mais de 6 bilh\u00f5es de reais.\r\nIsso \u00e9 quest\u00e3o de bom senso, \u00e9 uma an\u00e1lise geral das coisas. Eu n\u00e3o quero diminuir nenhuma categoria, nenhuma carreira, nenhuma fun\u00e7\u00e3o de Estado, que deve ser valorizada, mas \u00e9 preciso analisar as coisas de cima, \u00e9 preciso ver que n\u00e3o d\u00e1 mais explicar, \u00e9 preciso fazer um gesto.\r\nApresento um pacote, o da reforma dos privil\u00e9gios, e pe\u00e7o a assinatura dos colegas numa das propostas, a \"PEC dos Penduricalhos\". Quem recebe mais de 10 sal\u00e1rios m\u00ednimos representa 2% da popula\u00e7\u00e3o, e n\u00e3o pode mais receber aux\u00edlio-livro, aux\u00edlio-creche, aux\u00edlio-sa\u00fade, aux\u00edlio-alimenta\u00e7\u00e3o. Aux\u00edlio-alimenta\u00e7\u00e3o tem que receber quem n\u00e3o tem o que comer. H\u00e1 pessoas que passam fome no nosso Pa\u00eds, e n\u00e3o recebem aux\u00edlio-alimenta\u00e7\u00e3o.\r\nEnt\u00e3o, a proposta estabelece esse primeiro ponto. Dois por cento da popula\u00e7\u00e3o, repito, est\u00e1 nesse patamar.\r\nExiste a proposta de limitar o or\u00e7amento desta Casa e das Assembleias Legislativas - e os Tribunais de Contas precisam entrar na conversa. Existe a proposta de acabar com o carro oficial para Senador, que j\u00e1 foi aprovada nesta Casa, falta apenas ser apreciada pelo Plen\u00e1rio do Senado Federal. Existe a proposta de limitar o vencimento mensal de muitas autoridades, que recebem ainda hoje 200 mil reais por m\u00eas. \r\nEnt\u00e3o, vamos falar de coisas pr\u00e1ticas e vamos seguir um sentimento de pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "MINIST\u00c9RIO DA EDUCA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), FISCALIZA\u00c7\u00c3O, COMISS\u00c3O DE EDUCA\u00c7\u00c3O (CE), ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Dever da Comiss\u00e3o de Educa\u00e7\u00e3o da C\u00e2mara dos Deputados de fiscaliza\u00e7\u00e3o das a\u00e7\u00f5es do Minist\u00e9rio da Educa\u00e7\u00e3o.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB) - Sr. Presidente, Sras. e Srs. Deputados, inicialmente o Ministro teria estado na Comiss\u00e3o de Educa\u00e7\u00e3o hoje pela manh\u00e3, mas, em raz\u00e3o deste encontro, a reuni\u00e3o foi adiada para a pr\u00f3xima semana.\r\nA Comiss\u00e3o de Educa\u00e7\u00e3o tem a obriga\u00e7\u00e3o de fiscalizar o MEC, de ouvir o MEC e de acompanhar de perto o que acontece naquela Pasta.\r\n\u00c9 muito triste nos depararmos com o resultado da educa\u00e7\u00e3o no nosso Pa\u00eds hoje.\r\nN\u00f3s sabemos que precisamos de mudan\u00e7as. N\u00f3s sabemos que \u00e9 necess\u00e1rio dar um novo rumo \u00e0 educa\u00e7\u00e3o. Ent\u00e3o, se for para falar sobre a atratividade da carreira de professor, a Comiss\u00e3o de Educa\u00e7\u00e3o quer contribuir. Se for para falar sobre evas\u00e3o escolar, a Comiss\u00e3o de Educa\u00e7\u00e3o quer contribuir. Se for para falar sobre forma\u00e7\u00e3o e valoriza\u00e7\u00e3o do professor, sobre creches inacabadas do PROINF\u00c2NCIA que est\u00e3o espalhadas pelo nosso Pa\u00eds e sobre o FUNDEB, a Comiss\u00e3o de Educa\u00e7\u00e3o quer contribuir. Se for para resolver o nosso d\u00e9ficit de aprendizagem, a Comiss\u00e3o de Educa\u00e7\u00e3o e seus membros querem contribuir. N\u00f3s queremos buscar solu\u00e7\u00f5es. N\u00f3s queremos combater desigualdades. N\u00f3s queremos ver o nosso Pa\u00eds crescer.\r\nAgora, nesse contexto de guerra ideol\u00f3gica e de polariza\u00e7\u00e3o que busca um revanchismo ideol\u00f3gico, instrumentalizar o MEC para esse prop\u00f3sito espec\u00edfico joga fuma\u00e7a nos nossos problemas reais, e a Comiss\u00e3o de Educa\u00e7\u00e3o n\u00e3o vai deixar de cumprir com o seu papel de fazer resist\u00eancia, de proteger o or\u00e7amento da educa\u00e7\u00e3o e de esperar que o rumo dado seja o das solu\u00e7\u00f5es t\u00e9cnicas.\r\nSe o Governo tem necessidade de fomentar uma guerra ideol\u00f3gica em alguma Pasta, n\u00e3o ser\u00e1 na da Educa\u00e7\u00e3o. O MEC n\u00e3o tem espa\u00e7o para isso. N\u00f3s temos problemas muito graves, muito s\u00e9rios, para achar que o colapso educacional do nosso Pa\u00eds \u00e9 Paulo Freire.\r\nPortanto, aqui fica o compromisso da Comiss\u00e3o Educa\u00e7\u00e3o e de seus membros, para que o debate seja travado naquilo que importa. Os problemas s\u00e3o urgentes. H\u00e1 o tema do FUNDEB e outros que mencionei aqui. As quest\u00f5es s\u00e3o s\u00f3lidas, e solu\u00e7\u00f5es t\u00eam que ser t\u00e9cnicas. Os diagn\u00f3sticos s\u00e3o escancarados e precisam de solu\u00e7\u00e3o. Queremos, com esp\u00edrito de colabora\u00e7\u00e3o, fazer mudan\u00e7as. Queremos ajudar a construir solu\u00e7\u00f5es. Mas para isso n\u00e3o podemos sacrificar o or\u00e7amento do MEC e n\u00e3o podemos fugir do debate evidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, DEBATE, CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENT\u00c1RIOS, EDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL,  INSTITUTO FEDERAL DE EDUCA\u00c7\u00c3O, CI\u00caNCIA E TECNOLOGIA (INSTITUTO FEDERAL).\r\nCRECHE, OBRA P\u00daBLICA INACABADA, PROGRAMA NACIONAL DE REESTRUTURA\u00c7\u00c3O E AQUISI\u00c7\u00c3O DE EQUIPAMENTOS PARA A REDE ESCOLAR P\u00daBLICA DE EDUCA\u00c7\u00c3O INFANTIL (PR\u00d3-INF\u00c2NCIA), EVAS\u00c3O ESCOLAR, PROFESSOR, DESIGUALDADE SOCIAL, PRIMEIRA INF\u00c2NCIA, ALFABETIZA\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Avalia\u00e7\u00e3o do setor educacional brasileiro.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB) - Sra. Presidente, Sras. e Srs. Deputados, Sr. Ministro, eu quero falar da crian\u00e7a de uma fam\u00edlia pobre, que procura vaga numa creche e, chegando l\u00e1, n\u00e3o encontra, sendo que ainda hoje vemos, como fruto de um programa chamado PROINF\u00c2NCIA, mais de 4 mil creches inacabadas, e at\u00e9 agora n\u00e3o temos solu\u00e7\u00e3o para isso, em raz\u00e3o de uma crise econ\u00f4mica profunda, e isso reproduz desigualdade.\r\nEu quero falar do professor que entra em sala de aula desmotivado, desvalorizado, malformado, sem o m\u00ednimo de condi\u00e7\u00f5es de tocar o projeto de Na\u00e7\u00e3o que n\u00f3s esperamos para combater a desigualdade.\r\nEu quero falar da evas\u00e3o escolar, que nega a chance a um jovem de tocar um projeto de vida, e isso reproduz desigualdade.\r\nEu quero falar da falta de assist\u00eancia \u00e0 primeira inf\u00e2ncia, da dist\u00e2ncia entre a Uni\u00e3o e o indiv\u00edduo no come\u00e7o da vida. N\u00f3s temos um Pa\u00eds que faz com que o ente federativo mais forte, a Uni\u00e3o, se distancie do momento mais sens\u00edvel das nossas vidas, o come\u00e7o da vida, isso reproduz desigualdade.\r\nEu quero falar desses temas, porque s\u00e3o esses temas que me preocupam.\r\nEu n\u00e3o posso me desviar desses temas para nenhum outro campo. Eu n\u00e3o posso cair numa revanche ideol\u00f3gica, num campo de disputa de dois lados, numa polariza\u00e7\u00e3o que paralisa o nosso Pa\u00eds. Temos que tratar disso com t\u00e9cnica, temos que buscar solu\u00e7\u00f5es.\r\nEu tor\u00e7o para que o Brasil d\u00ea certo, mas \u00e9 preciso que o Governo saia da campanha eleitoral, busque a unidade do Pa\u00eds e possa dar um direcionamento nesses temas. Hoje, 55% das crian\u00e7as com 8 anos n\u00e3o s\u00e3o alfabetizadas.\r\nPortanto, espero que o MEC possa dar um foco central neste tema e que possamos nos unir para consertar o Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T15:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DESPESA P\u00daBLICA, CUSTO, REDU\u00c7\u00c3O, NECESSIDADE.\r\nFORO PRIVILEGIADO, EXTIN\u00c7\u00c3O, VOTA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Necessidade de redu\u00e7\u00e3o do custo da m\u00e1quina p\u00fablica brasileira. Apelo \u00e0 Casa de vota\u00e7\u00e3o da proposta de extin\u00e7\u00e3o do foro privilegiado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, representantes da popula\u00e7\u00e3o que somos, n\u00f3s temos a obriga\u00e7\u00e3o de acompanhar um sentimento de pa\u00eds e uma exig\u00eancia de uma consci\u00eancia de na\u00e7\u00e3o que est\u00e1 cada vez mais evidente. \r\nExistem v\u00e1rios temas que me incomodam muito, que n\u00f3s n\u00e3o conseguimos acompanhar e dar uma satisfa\u00e7\u00e3o, como a redu\u00e7\u00e3o do custo da m\u00e1quina p\u00fablica em um Pa\u00eds quebrado. O Brasil quebrou, e falamos disso com uma frequ\u00eancia imensa. N\u00f3s n\u00e3o conseguimos debater o custo da C\u00e2mara dos Deputados. N\u00e3o conseguimos debater os benef\u00edcios que v\u00e1rias autoridades ainda recebem em nosso Pa\u00eds. Todo m\u00eas, temos not\u00edcia de um juiz que recebe um valor desproporcional ao drama econ\u00f4mico que a nossa Na\u00e7\u00e3o vive. O \u00faltimo que vi foi um valor de 700 mil reais, de um juiz do Tribunal de Justi\u00e7a de Minas Gerais. N\u00f3s sabemos que existem benef\u00edcios que n\u00e3o conseguem enxergar a realidade social, o drama de uma popula\u00e7\u00e3o que n\u00e3o tem nada, e n\u00e3o damos a ela uma assist\u00eancia m\u00ednima de saneamento b\u00e1sico, de creche, de sa\u00fade. N\u00e3o conseguimos perceber que as pessoas cansaram e cansaram muito, e parece que vamos deixando essa conversa para depois, mas as pessoas n\u00e3o querem mais deixar para depois.\r\nAl\u00e9m desse tema da redu\u00e7\u00e3o do custo da m\u00e1quina p\u00fablica, existe um outro s\u00edmbolo da impunidade em nosso Pa\u00eds que \u00e9 o foro privilegiado. E tamb\u00e9m est\u00e1 evidente que existe uma consci\u00eancia de na\u00e7\u00e3o de que temos que acabar com isso, de que temos que dar um novo contorno. O Senado Federal j\u00e1 fez sua parte, acabou com o foro privilegiado. Esta Casa, a C\u00e2mara dos Deputados, criou uma Comiss\u00e3o Especial para tratar da mat\u00e9ria, n\u00f3s aprovamos o parecer, ele j\u00e1 foi aprovado, falta s\u00f3 o Plen\u00e1rio. N\u00f3s n\u00e3o podemos ter essa mania de deixar as coisas andarem, andarem, e, de repente, quando chega a hora de um desfecho, elas ficam esquecidas e adormecidas.\r\nApresentei um requerimento para trazermos \u00e0 Ordem do Dia o fim do foro privilegiado. S\u00e3o mais de 55 mil autoridades que, no Pa\u00eds, possuem essa prerrogativa. Este \u00e9 o pa\u00eds que, no mundo, tem esse instituto mais largo. \u00c9 l\u00f3gico que isso n\u00e3o est\u00e1 funcionando bem. Esse \u00e9 um s\u00edmbolo da nossa impunidade. N\u00f3s temos que dar um novo contorno a isso. O Supremo Tribunal Federal, que n\u00e3o \u00e9 o lugar adequado, j\u00e1 que n\u00f3s n\u00e3o fazemos a nossa parte, deu uma nova interpreta\u00e7\u00e3o \u00e0 quest\u00e3o, ent\u00e3o deu uma press\u00e3o ainda maior para que n\u00f3s cumpramos uma obriga\u00e7\u00e3o nossa. E se a popula\u00e7\u00e3o faz exig\u00eancias evidentes e tem uma consci\u00eancia de pa\u00eds inquestion\u00e1vel de que temos que mudar isso, n\u00f3s temos a obriga\u00e7\u00e3o de obedecer, n\u00f3s temos a obriga\u00e7\u00e3o de pautar. Portanto, fa\u00e7o um apelo para que esta Casa priorize este tema principal que \u00e9 o foro privilegiado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-13T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SERVI\u00c7O P\u00daBLICO, AGENTE P\u00daBLICO, AGENTE POL\u00cdTICO, BENEF\u00cdCIO.\r\nPROPOSTA DE EMENDA CONSTITUCIONAL, REDU\u00c7\u00c3O, BENEF\u00cdCIO, SERVI\u00c7O P\u00daBLICO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Pedido aos Deputados de apoiamento \u00e0 proposta de emenda \u00e0 Constitui\u00e7\u00e3o destinada ao combate aos privil\u00e9gios no servi\u00e7o p\u00fablico, a chamada PEC dos Penduricalhos.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, de acordo com not\u00edcia que li hoje no jornal Estad\u00e3o, o STJ prev\u00ea um gasto de 727 mil reais com a reforma do im\u00f3vel de um Ministro. Esse gasto inclui a reforma de uma \u00e1rea para churrasqueira, uma piscina com painel solar, 34 mil reais s\u00f3 em ar condicionado.\r\nE eu me deparo com o resultado da semana passada, que esta Casa proferiu, na reforma da Previd\u00eancia - dura, mas necess\u00e1ria reforma da Previd\u00eancia. E eu tenho muita dificuldade, Sr. Presidente, de me sentir habitando num Pa\u00eds s\u00f3. Parece que existe um Brasil para reforma da Previd\u00eancia e para o cidad\u00e3o que mais precisa, e existe um Brasil completamente diferente, para a reforma do im\u00f3vel do STJ.\r\nFalo do STJ, mas poderia falar desta Casa tamb\u00e9m. Esta \u00e9 uma realidade que n\u00e3o est\u00e1 s\u00f3 no Poder Judici\u00e1rio - o que \u00e9 outra coisa terr\u00edvel, quando se aborda esse tema. Quando se fala do STJ, algu\u00e9m de l\u00e1 vai dizer: \"N\u00e3o, mas a C\u00e2mara tem 13 mil funcion\u00e1rios, a C\u00e2mara \u00e9 o segundo Parlamento mais caro do mundo, a C\u00e2mara paga aux\u00edlio mudan\u00e7a para Deputado reeleito\". Vejam que coisa dif\u00edcil de digerir.\r\nEu me coloco na situa\u00e7\u00e3o do brasileiro que acompanha isso. No caminho, vindo para C\u00e2mara agora, eu vi um trabalhador correndo, colocando pipoca em retrovisor de carro, para vend\u00ea-la a 2 reais, com um pequeno texto: \"Sou trabalhador honesto, tenho um filho de 10 meses para criar\". E eu me pergunto: quanto consegue juntar, em 1 m\u00eas, um trabalhador desses? E a\u00ed eu me lembro daquele juiz do Mato Grosso que, em 1 m\u00eas, recebeu mais de 500 mil reais, e disse que tinha direito a uma indeniza\u00e7\u00e3o - mais de 500 mil reais, em 1 m\u00eas. A\u00ed vemos que os supersal\u00e1rios custam 20 bilh\u00f5es de reais por ano e que o Planalto emprega 10 vezes mais que a Casa Branca.\r\nAt\u00e9 que ponto todos n\u00f3s vamos esticar essa situa\u00e7\u00e3o? Todos - Minist\u00e9rio P\u00fablico, Procurador da Rep\u00fablica - receberem aux\u00edlio-creche, em um Pa\u00eds em que menos de 30% das crian\u00e7as mais pobres t\u00eam vaga na creche? N\u00e3o estamos conseguindo ver isso a\u00ed, n\u00e3o? N\u00e3o conseguimos enxergar o significado disso? N\u00f3s somos incapazes de trazer uma mudan\u00e7a, de trazer esse debate? N\u00e3o conseguimos fazer a reforma da Previd\u00eancia, que mexe com a vida de todo mundo? De novo, digo que essa \u00e9 uma necess\u00e1ria reforma.\r\nFalo aqui com a consci\u00eancia de quem votou a favor, para ver se este Pa\u00eds anda, mas isso me incomoda profundamente. Eu n\u00e3o consigo deixar de me espantar com a incapacidade de todos n\u00f3s avan\u00e7armos na reforma dos privil\u00e9gios.\r\nPara isso, quero trazer uma proposta. Tenho colhido a assinatura para a PEC dos Penduricalhos, que simplesmente acaba com todo tipo de aux\u00edlio para quem recebe mais de 10 mil reais. A\u00ed v\u00e3o me dizer: \"Ah, mas n\u00e3o pode, \u00e9 exagerado\". E n\u00f3s n\u00e3o conseguimos mexer no abono salarial? Quer dizer que mexer no abono salarial de quem recebe dois sal\u00e1rios m\u00ednimos d\u00e1, em nome do ajuste fiscal, em nome do equil\u00edbrio das contas, mas mexer no aux\u00edlio-creche do Procurador, que recebe 30 mil reais, n\u00e3o d\u00e1? Isso n\u00e3o d\u00e1? Isso entra na cabe\u00e7a de quem? Isso n\u00e3o d\u00e1 nem para debater. N\u00e3o h\u00e1 mais como discutir isso.\r\nPe\u00e7o que n\u00f3s possamos entender a urg\u00eancia de avan\u00e7ar em um tema como esse. Estou colhendo assinaturas para apresentar a PEC dos Penduricalhos. Faltam em torno de 20 assinaturas. Apresentar proposta eu sei que vai dar certo. Eu vou conseguir apresentar. Para criar Comiss\u00e3o, precisa de mais gente, precisa de pessoas que incorporem essa causa. \u00c9 urgente que n\u00f3s consigamos dar essa resposta para a popula\u00e7\u00e3o, que tem essa sensa\u00e7\u00e3o de que n\u00f3s s\u00f3 fazemos sugar o povo. A\u00ed eu me pergunto: ser\u00e1 que a popula\u00e7\u00e3o n\u00e3o tem alguma raz\u00e3o nesse neg\u00f3cio? Ser\u00e1 que n\u00e3o est\u00e1 na hora de n\u00f3s fazermos um gesto?\r\nPe\u00e7o, ent\u00e3o, apoio \u00e0 PEC dos Penduricalhos, com esse sentimento de uma mentalidade nova que precisa tomar conta do nosso Pa\u00eds. Essa mentalidade j\u00e1 toma conta do Pa\u00eds, falta s\u00f3 chegar aqui, para que n\u00f3s acabemos com todo tipo de aux\u00edlio: aux\u00edlio-creche, aux\u00edlio-livro, aux\u00edlio-alimenta\u00e7\u00e3o, para que n\u00f3s acabemos com qualquer tipo de aux\u00edlio para quem recebe - agrade\u00e7o, Sr. Presidente - mais de 10 mil reais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2019&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CORTE, BOLSA DE PESQUISA, CONSELHO NACIONAL DE DESENVOLVIMENTO CIENT\u00cdFICO E TECNOL\u00d3GICO (CNPQ), NAT\u00c1LIA, ALUNA CARENTE, ENSINO M\u00c9DIO, CR\u00cdTICA, DESPESA P\u00daBLICA, PODER JUDICI\u00c1RIO, PODER LEGISLATIVO, PODER EXECUTIVO, MINIST\u00c9RIO P\u00daBLICO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Protesto contra o cancelamento de bolsas do Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico - CNPQ. Necessidade de revis\u00e3o dos gastos p\u00fablicos pelos poderes da Rep\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, venho fazer uma defesa das bolsas do CNPq do nosso Pa\u00eds.\r\nSensibilizado, eu assisti a uma mat\u00e9ria sobre uma estudante chamada Nat\u00e1lia, que cursa o ensino m\u00e9dio, da zona rural do Piau\u00ed. Nat\u00e1lia leva 40 minutos andando para chegar \u00e0 escola, 40 minutos para retornar da escola. Com muito esfor\u00e7o, ela tenta vencer a barreira da desigualdade que est\u00e1 inserida na sua fam\u00edlia, Deputado Felipe Rigoni.\r\nDedicando-se melhor aos seus estudos, Nat\u00e1lia venceu a Olimp\u00edada de Matem\u00e1tica e passou a receber uma bolsa de 100 reais como est\u00edmulo ao avan\u00e7o dos seus estudos. Pois bem, o momento em que atravessa o CNPq far\u00e1 com que essa bolsa de 100 reais muito possivelmente seja suspensa em breve.\r\nRealmente, n\u00e3o consigo admitir ou aceitar uma situa\u00e7\u00e3o como essa, porque, se eu, Deputado Federal, tivesse ido almo\u00e7ar em um restaurante caro de Bras\u00edlia, tivesse pedido um bom prato e um bom vinho, e, no final do meu almo\u00e7o - uma conta de mais de 100 reais -, eu tivesse pedido para colocar no meu CPF na nota fiscal, o valor desse almo\u00e7o, desse prato e desse vinho, que custa mais de 100 reais, seria ressarcido a mim pelo poder p\u00fablico.\r\nVejam, para o almo\u00e7o do Deputado que \u00e9 ressarcido, que custa mais de 100 reais, ainda h\u00e1 dinheiro, esse dinheiro n\u00e3o est\u00e1 sendo suspenso. Mas para a bolsa de estudos de quem batalha para vencer uma Olimp\u00edada de Matem\u00e1tica, para dar sequ\u00eancia a um sonho de vencer uma barreira da desigualdade, que custa menos do que esse almo\u00e7o de 100 reais, esse dinheiro vai parar.\r\nDeixo, portanto, uma compreens\u00e3o de mundo, uma mentalidade que n\u00e3o podemos mais aceitar no nosso Pa\u00eds. \r\nPois n\u00e3o, Deputado. Eu permito a V.Exa. um aparte. \r\nO SR. GIOVANI CHERINI (PL - RS) - V.Exa. faz aqui uma acusa\u00e7\u00e3o, falando dos Deputados. Isso \u00e9 leviano, n\u00e3o produz nada para esta Casa. Infelizmente, temos que mudar esse discurso.\r\nO SR. PEDRO CUNHA LIMA (PSDB - PB) - Deputado, com muito respeito a V.Exa. e respeito muito cada um que est\u00e1 aqui que representa o povo, o que fa\u00e7o, com muita franqueza, \u00e9 uma constata\u00e7\u00e3o. Falo de um almo\u00e7o que \u00e9 ressarcido. Isso pode. Poderia falar do aux\u00edlio-creche de um procurador, poderia falar do aux\u00edlio-livro de um juiz. N\u00e3o quero compensar essas coisas, \u00e9 uma mentalidade de pa\u00eds que precisa mudar. \r\nPrecisamos enxergar que esse assunto tem que vir \u00e0 mesa, porque enquanto suspendemos a bolsa de uma estudante do ensino m\u00e9dio, outros espa\u00e7os de or\u00e7amento do poder p\u00fablico n\u00e3o s\u00e3o discutidos. Um juiz do Mato Grosso recebeu em um m\u00eas mais de 500 mil reais. O Tribunal de Justi\u00e7a de Pernambuco queria instalar aux\u00edlio-alimenta\u00e7\u00e3o retroativo de 2011 para c\u00e1. Vamos fingir que isso n\u00e3o acontece? Vamos fingir que esse n\u00e3o \u00e9 um tema importante a ser debatido?\r\nFalo aqui dos Tr\u00eas Poderes. \u00c9 uma mentalidade que precisamos trazer a esta Casa. Se o Brasil quebrou, se estamos apertando o cinto para todo mundo, quero saber por que n\u00e3o se aperta o cinto tamb\u00e9m para o custo da m\u00e1quina p\u00fablica, por que n\u00e3o enxergam a revis\u00e3o desses gastos? Falo de cora\u00e7\u00e3o aberto dos Tr\u00eas Poderes, do Minist\u00e9rio P\u00fablico. Enfim, precisamos fazer uma revis\u00e3o do que acontece hoje no nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, REFORMULA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Urgente necessidade de altera\u00e7\u00e3o do Regimento Interno da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu quero dar sequ\u00eancia ao racioc\u00ednio que o Deputado Joaquim Passarinho trouxe a esta sess\u00e3o e apelar pelo bom senso de cada um.\r\nH\u00e1 alguns instantes, est\u00e1vamos votando o requerimento de retirada de pauta de um projeto. Se algu\u00e9m tivesse chegado aqui h\u00e1 2 horas, h\u00e1 2 horas e meia e tivesse perguntado o que se estava votando nesta Casa naquele momento, a resposta seria: um requerimento de retirada de pauta do mesmo projeto. Os requerimentos se repetem; o kit obstru\u00e7\u00e3o \u00e9 dobrado. N\u00e3o temos a capacidade m\u00ednima de processamento das coisas, porque esse Regimento n\u00e3o serve mais. E isso est\u00e1 \u00f3bvio para todo mundo. Encerra-se a sess\u00e3o \u00e0s 20h42min e uma sess\u00e3o extraordin\u00e1ria j\u00e1 \u00e9 chamada para as 20h43min. E est\u00e1 todo o mundo aqui. Levanta-se a sess\u00e3o; sob a prote\u00e7\u00e3o de Deus, abre-se a sess\u00e3o; leitura da ata, leitura da ata. Isso ocorre toda semana.\r\nIsso n\u00e3o \u00e9 normal. Isso n\u00e3o est\u00e1 correto. N\u00e3o existe pa\u00eds no mundo que possa ser competitivo, que tenha a obriga\u00e7\u00e3o de sair do buraco em que n\u00f3s estamos e que consiga tocar essa miss\u00e3o com um Regimento imprest\u00e1vel como esse, um Regimento que faz de praticamente todos n\u00f3s, por muito tempo, toda semana, in\u00fateis. N\u00f3s somos obrigados a ficar na posi\u00e7\u00e3o da inutilidade, porque o requerimento \u00e9 o mesmo, \u00e9 a mesma quest\u00e3o: novo painel, novo kit obstru\u00e7\u00e3o.\r\nNo Senado... E \u00e9 isso que mais mexe comigo...\r\nA Casa como um todo tem capacidade de mobiliza\u00e7\u00e3o, e cada um pode ser respons\u00e1vel por isso. O que acontece aqui \u00e9 um desrespeito com o Brasil, porque isso tem um custo de oportunidade. Quando n\u00e3o estamos votando um projeto, n\u00e3o geramos s\u00f3 custo financeiro para a Casa. N\u00e3o \u00e9 uma quest\u00e3o apenas financeira, mas tamb\u00e9m de custo pol\u00edtico de um Pa\u00eds travado, que n\u00e3o consegue debater as mat\u00e9rias num tempo pr\u00f3prio.\r\nEnt\u00e3o, numa esperan\u00e7a que n\u00e3o consegue se conter - e eu falava nisso j\u00e1 h\u00e1 algum tempo -, eu fa\u00e7o o apelo para que todos que conseguem enxergar isso, o que \u00e9 muito f\u00e1cil, tenhamos capacidade de mobiliza\u00e7\u00e3o, de fazer press\u00e3o pol\u00edtica e exig\u00eancias.\r\nO Presidente Rodrigo Maia conduz os trabalhos muito bem, o Col\u00e9gio de L\u00edderes \u00e9 um espa\u00e7o institucional importante.\r\nMas h\u00e1 de haver algum espa\u00e7o nesta Casa em que a posi\u00e7\u00e3o individual de cada um tenha peso, tenha for\u00e7a, e n\u00f3s possamos fazer o b\u00e1sico. E a\u00ed coloco a proposta que todos conhecem, qual seja a de copiarmos o Regimento do Senado Federal, trazermos para c\u00e1 o que j\u00e1 existe l\u00e1, que \u00e9 uma Casa muito menor! S\u00e3o 81 Senadores, e l\u00e1 se pode prorrogar a sess\u00e3o enquanto houver qu\u00f3rum. Isso \u00e9 o b\u00e1sico, elementar. \r\n\u00c9 realmente vergonhoso! E eu deposito a minha confian\u00e7a no fato de que teremos chance de ter essa organiza\u00e7\u00e3o, de fazer press\u00e3o e de conseguir fazer essa mudan\u00e7a. E s\u00f3 muda se fizermos press\u00e3o, cada um individualmente.\r\nEu fico realmente mexido com isso, porque, se colocarmos um cidad\u00e3o brasileiro para acompanhar uma sess\u00e3o inteira - e isso tamb\u00e9m \u00e9 consequ\u00eancia desse Regimento est\u00fapido, a palavra \u00e9 essa, eu n\u00e3o vou medir palavras aqui -, quando ela terminar, ele n\u00e3o vai entender o que \u00e9 isso, ele n\u00e3o vai entender como pode ser assim ainda hoje. Um Regimento que foi feito para dois partidos...? Pelo amor de Deus! Tem l\u00f3gica isso? \r\nNo Senado, existe espa\u00e7o para a Minoria, existe espa\u00e7o para obstru\u00e7\u00e3o, h\u00e1 voz para os partidos de minoria. N\u00f3s n\u00e3o estamos querendo acabar com a democracia, n\u00e3o! S\u00f3 n\u00e3o queremos deixar o Pa\u00eds entregue a essa situa\u00e7\u00e3o e sem capacidade de mudan\u00e7a, porque parece que o que vale \u00e9 fazer pol\u00edtica, o que vale \u00e9 refor\u00e7ar a narrativa pol\u00edtica. E para muitos o que vale \u00e9 o \"quanto pior, melhor\". \r\nEnt\u00e3o, V.Exas. n\u00e3o precisariam estar me escutando se tiv\u00e9ssemos um Regimento decente, e, da\u00ed, esse tempo de Lideran\u00e7a n\u00e3o precisaria ser dobrado. Assim, fa\u00e7o um apelo para que tenhamos consci\u00eancia, bom senso e consigamos dar este presente para o Brasil: colocar o Parlamento para funcionar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=267&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-18T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA SUPRESSIVA, SENADO FEDERAL, PL 5029/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.\r\nALTERA\u00c7\u00c3O, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da emenda do Senado Federal supressiva do inciso X do art. 44 da Lei n\u00ba 9.096, de 1995, alterado pelo art. 1\u00ba do Projeto de Lei n\u00ba 5.029-C, de 2019, (n\u00ba 11.021, de 2018, na C\u00e2mara dos Deputados), a respeito das regras aplicadas \u00e0s elei\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo, s\u00e3o 22h21min. N\u00f3s votamos duas vezes o mesmo requerimento de retirada de pauta de um mesmo projeto. H\u00e1 2 horas e meia, votamos o requerimento de retirada de pauta e, h\u00e1 pouco, tivemos que vot\u00e1-lo novamente.\r\nA Casa inteira estava aqui, decidiu que n\u00e3o queria retirar de pauta. Por conta desse Regimento, est\u00e1 muito claro, est\u00e1 \u00f3bvio e evidente que ele n\u00e3o presta mais para 30 partidos. O Regimento foi feito para dois partidos. \u00c9 \u00f3bvio que esse Regimento n\u00e3o serve mais ao Brasil. N\u00f3s gastamos quase 5 horas, 6 horas, para votar um \u00fanico projeto.\r\nPortanto, coloco novamente este tema pela urg\u00eancia de termos uma resposta.\r\nO PSDB orienta o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F9%2F2019&txPagina=338&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 886/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 886, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, pe\u00e7o a palavra para orientar pelo PSDB.\r\nAntes de colocar a orienta\u00e7\u00e3o do nosso partido, eu pe\u00e7o um pouco da aten\u00e7\u00e3o do Plen\u00e1rio, de todos que est\u00e3o aguardando esta vota\u00e7\u00e3o. N\u00f3s estamos novamente votando um requerimento de retirada de pauta que j\u00e1 foi votado hoje em uma outra sess\u00e3o. Ent\u00e3o, ficamos todos n\u00f3s aqui obrigados a escutar novamente, por 3 minutos, um Parlamentar, na tribuna, encaminhar contra um requerimento de retirada de pauta j\u00e1 apreciado por esta Casa, tudo porque n\u00f3s somos incapazes de mudar um regimento que n\u00e3o serve mais a este Pa\u00eds. Pela agenda que n\u00f3s temos pela frente, pelos desafios que n\u00f3s precisamos superar, esse Regimento Interno, que coloca um funcionamento in\u00fatil desta Casa, precisa ser alterado. \u00c9 importante perceber que isso n\u00e3o \u00e9 normal.\r\nO PSDB encampa esta causa e orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=347&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T23:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 372/2017, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), CRIA\u00c7\u00c3O, POL\u00cdCIA PENITENCI\u00c1RIA, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 372, de 2017, sobre a cria\u00e7\u00e3o das pol\u00edcias penais federal, estaduais e distrital.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Essa \u00e9 uma luta, Presidente, que n\u00e3o vem de hoje. O poder p\u00fablico finalmente reconhece o trabalho, a coragem e o papel que desempenham esses homens e essas mulheres brasileiras que se colocam numa situa\u00e7\u00e3o de extremo risco numa situa\u00e7\u00e3o prec\u00e1ria. Finalmente n\u00f3s conseguimos dar esse passo, esse justo passo.\r\nNeste instante me parece justo lembrar que o in\u00edcio dessa caminhada se deu no Senado Federal a partir de um primeiro passo dado pelo Senador C\u00e1ssio Cunha Lima, para a minha honra, o meu pai - digo isso com o cora\u00e7\u00e3o cheio de orgulho -, e hoje n\u00f3s podemos celebrar este instante com o apoio deste Plen\u00e1rio, para que possamos reconhecer esse trabalho.\r\nEnt\u00e3o, parab\u00e9ns \u00e0 Pol\u00edcia Penal brasileira!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=423&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CANABIDIOL, MEDICAMENTO, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Dificuldades impostas pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria - ANVISA para o acesso de pacientes a medicamento \u00e0 base de canabidiol.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, quando o assunto \u00e9 sa\u00fade p\u00fablica, \u00e9 preciso dizer que n\u00f3s habitamos um pa\u00eds extremamente cruel, por n\u00e3o oferecer o m\u00ednimo para tratamento a milh\u00f5es de brasileiros, que morrem em filas diante dos hospitais, que falecem por falta de rem\u00e9dios. Mas o assunto fica ainda mais grave e ainda mais cruel quando o poder p\u00fablico, al\u00e9m de n\u00e3o oferecer tratamento, ainda pro\u00edbe, ainda impede que um paciente tome um rem\u00e9dio que traz a sua cura.\r\nEu quero falar de milhares de pacientes que precisam de extratos da maconha, do Canabidiol e do THC, e que, com evid\u00eancia cient\u00edfica, s\u00f3 conseguem se curar, s\u00f3 conseguem evitar convuls\u00f5es, s\u00f3 conseguem tratar a epilepsia e o Mal de Alzheimer com essa terapia.\r\nPor causa de um preconceito medieval, primitivo, por causa de um atraso bizarro da sociedade, o poder p\u00fablico pro\u00edbe esse tratamento. Ontem foi editada uma resolu\u00e7\u00e3o pela ANVISA - Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria que n\u00e3o enxerga essa realidade como ela precisa ser enxergada, que coloca na ind\u00fastria farmac\u00eautica uma exclusividade que dificulta o acesso ao produto.\r\nHoje j\u00e1 existe um medicamento que pode ser vendido no Brasil, o Mevatyl, que custa mais de 2 mil reais. O mesmo medicamento, a mesma terapia pode ser produzida por 10% desse valor, o que aumenta o acesso. E o poder p\u00fablico - eu repito porque isto \u00e9 cruel demais para que fiquemos calados - est\u00e1 proibindo o tratamento de um paciente.\r\nAl\u00e9m da dificuldade de acesso, n\u00f3s temos que enxergar que essa \u00e9 uma terapia personalizada. S\u00e3o v\u00e1rios os tipos de \u00f3leos que podem ser extra\u00eddos. A dosagem do CBD e do THC pode ser vari\u00e1vel, para dar certo ou n\u00e3o no tratamento. Mas por causa desse preconceito medieval, n\u00f3s continuamos barrando o acesso a esse tratamento.\r\nFa\u00e7o uma refer\u00eancia \u00e0 ABRACE - Associa\u00e7\u00e3o Brasileira de Apoio Cannabis Esperan\u00e7a, uma associa\u00e7\u00e3o da cidade de Jo\u00e3o Pessoa, no Estado da Para\u00edba, para o nosso orgulho, que obteve autoriza\u00e7\u00e3o judicial. Isso desmoraliza o Poder Legislativo, porque \u00e9 preciso haver autoriza\u00e7\u00e3o do Poder Judici\u00e1rio para o b\u00e1sico, que \u00e9 ter o direito de se tratar.\r\nFa\u00e7o refer\u00eancia tamb\u00e9m \u00e0 Liga Can\u00e1bica, uma entidade de Jo\u00e3o Pessoa, na Para\u00edba, que tamb\u00e9m encampa essa luta. Cito o caso de um paraibano, o Pedrinho, que tinha at\u00e9 40 convuls\u00f5es por dia e, depois do uso do medicamento, passou 11 meses sem ter nem uma convuls\u00e3o.\r\nPrecisamos despertar para essa aberra\u00e7\u00e3o, para essa loucura que \u00e9 proibir um tratamento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, PL 4162/2019, PL 3261/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTRARIO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para aprecia\u00e7\u00e3o em primeiro lugar do Projeto de Lei n\u00ba 4.162, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - O PSDB, Presidente, celebra a constru\u00e7\u00e3o de um entendimento que enxergou uma situa\u00e7\u00e3o dram\u00e1tica do Pa\u00eds, j\u00e1 que metade da Na\u00e7\u00e3o n\u00e3o tem saneamento b\u00e1sico. O projeto chega a este instante com in\u00fameros avan\u00e7os, inclusive com uma transi\u00e7\u00e3o. E talvez esse seja um avan\u00e7o final importante para termos uma decis\u00e3o madura. \r\nO PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=282&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PRIS\u00c3O, RICARDO COUTINHO, EX-GOVERNADOR, PARA\u00cdBA, CORRUP\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Decreta\u00e7\u00e3o da pris\u00e3o do ex-Governador do Estado da Para\u00edba, Ricardo Coutinho, e outros envolvidos em esquema de corrup\u00e7\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, se existe uma prioridade no Pa\u00eds, um sentimento da Na\u00e7\u00e3o, \u00e9 combater a impunidade; \u00e9 ter a cultura da honestidade, da integridade; \u00e9 passar o Brasil a limpo.\r\nHoje, na Para\u00edba, numa opera\u00e7\u00e3o que envolveu a Pol\u00edcia Federal e o Minist\u00e9rio P\u00fablico, uma decis\u00e3o t\u00e9cnica embasada em mais de 200 p\u00e1ginas decretou a pris\u00e3o do ex-Governador Ricardo Coutinho; decretou a pris\u00e3o do ex-Procurador-Geral do Estado; decretou a pris\u00e3o de ex-Secret\u00e1rio de Sa\u00fade; decretou a pris\u00e3o de ex-Secret\u00e1rio de Educa\u00e7\u00e3o, hoje Prefeito. Um esquema de corrup\u00e7\u00e3o de uma quadrilha montada desviou comprovadamente recursos da sa\u00fade e fez da coisa p\u00fablica um espa\u00e7o privado de desvio.\r\nNeste novo tempo de um pa\u00eds que acreditamos poder experimentar, externamos todo o nosso reconhecimento, pelo trabalho, pelo empenho, \u00e0 Pol\u00edcia Federal, ao Minist\u00e9rio P\u00fablico, ao GAECO - Grupo de Atua\u00e7\u00e3o Especial de Combate ao Crime Organizado, a todos os envolvidos na Opera\u00e7\u00e3o Calv\u00e1rio, em mais essa fase da j\u00e1 mencionada decis\u00e3o do Desembargador Ricardo Vital, que coloca, de maneira escancarada, o que era feito no nosso Estado.\r\nO pr\u00f3prio ex-Governador, no exerc\u00edcio do mandato, sentava \u00e0 mesa para negociar, para combinar o valor da propina - dizia que ia ser feito um repasse de 360 mil reais em propina - com o operador da organiza\u00e7\u00e3o criminosa, hoje delator. Dizia que existia m\u00eas em aberto. Colocava uma mesada, quando terminasse o mandato, de 500 mil reais por m\u00eas.\r\nN\u00f3s precisamos acreditar que o Brasil pode virar essa p\u00e1gina e pode ser passado a limpo, para termos uma nova cultura. Ningu\u00e9m aguenta mais ver algo dessa relev\u00e2ncia, um desvio dessa magnitude, um desvio que pode chegar a 134 milh\u00f5es de reais.\r\nEssa conversa \u00e9 transcrita do pr\u00f3prio Governador em seu mandato! Ele enganou o Estado e traiu a confian\u00e7a de paraibanos que delegaram a ele o voto para que tocasse o Estado e fizesse um governo que cuidasse da coisa p\u00fablica.\r\nVemos o hospital de Santa Rita na mesa como uma mercadoria. Vemos a sa\u00fade p\u00fablica sendo negociada. S\u00f3 podemos lamentar profundamente e acreditar que pode, sim, haver puni\u00e7\u00e3o.\r\nO nosso Pa\u00eds n\u00e3o aguenta mais ficar mergulhado em algo dessa magnitude! As pessoas sofrem! Quantas pessoas morreram por conta desse desvio! Quantas pessoas esperaram exames, rem\u00e9dios! Quantas vagas de creche foram negadas por conta dessa propina mensal de 500 mil reais, por conta desse acordo que deixava em aberto 800 mil reais em 1 m\u00eas! Depois, havia uma nova cobran\u00e7a do pr\u00f3prio Governador.\r\nPortanto, lamentamos profundamente a situa\u00e7\u00e3o dram\u00e1tica que vivemos no Pa\u00eds, por saber a realidade das pessoas, por andar no nosso Estado e saber o que falta e onde aperta a dificuldade, sobretudo para quem menos tem. N\u00f3s colocamos esse epis\u00f3dio com um pouco de esperan\u00e7a de que tenhamos um novo tempo neste Pa\u00eds.\r\nAs a\u00e7\u00f5es foram denunciadas desde 2014, den\u00fancias de que na Para\u00edba existe uma organiza\u00e7\u00e3o criminosa, uma quadrilha instalada. N\u00f3s dissemos nas elei\u00e7\u00f5es subsequentes, e agora chegou o momento de a Para\u00edba come\u00e7ar a conhecer mais de perto quem \u00e9 o ex-Governador Ricardo Coutinho e a sua estrutura de corrup\u00e7\u00e3o.\r\nQue n\u00f3s possamos ter, ao final de tudo, um novo paradigma. Que n\u00f3s possamos, ao fim e ao cabo, n\u00e3o apenas punir os respons\u00e1veis por essa crueldade, mas sobretudo ter um novo tempo de honestidade, de integridade, de zelo com a coisa p\u00fablica, de n\u00e3o se levar a sa\u00fade p\u00fablica para uma mesa de negocia\u00e7\u00e3o, nessa magnitude escancarada. Isso \u00e9 lastim\u00e1vel! Temos esperan\u00e7a de que haja uma puni\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=366&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PRIS\u00c3O, RICARDO COUTINHO, EX-GOVERNADOR, PARA\u00cdBA, CORRUP\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Decreta\u00e7\u00e3o da pris\u00e3o do ex-Governador do Estado da Para\u00edba, Ricardo Coutinho, e autoridades do seu governo por pr\u00e1tica de corrup\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Eu quero fazer, Sra. Presidente, uma corre\u00e7\u00e3o. Muito longe de minha parte haver qualquer tipo de comemora\u00e7\u00e3o, pois \u00e9 muito triste o que acontece hoje na Para\u00edba. \r\nUma conversa foi gravada, uma conversa em que o ex-Governador negocia propina e cobra o atraso da parcela de 360 mil por m\u00eas. \u00c9 disso que se trata. N\u00e3o vamos fazer espet\u00e1culo de algo que \u00e9 triste. N\u00e3o \u00e9 momento de fazer palanque pol\u00edtico, de fazer uma encena\u00e7\u00e3o.\r\nTemos algo posto na mesa, uma decis\u00e3o de mais de 200 p\u00e1ginas, Presidente, que mostra uma investiga\u00e7\u00e3o que est\u00e1 em curso, que mostra a decreta\u00e7\u00e3o de pris\u00e3o, sim, n\u00e3o do meu pai, mas do ex-Governador Ricardo Coutinho; n\u00e3o de um secret\u00e1rio do meu pai, mas do ex-secret\u00e1rio de Ricardo Coutinho; n\u00e3o do procurador-geral do meu pai, mas do procurador-geral do Governo de Ricardo Coutinho. \u00c9 disso que se trata. E s\u00f3 h\u00e1 uma forma de responder: fugir para a cena pol\u00edtica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=432&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "QUEIJO ARTESANAL, RECIFE (PE), APREENS\u00c3O, CONTR\u00c1RIO.\r\nSETOR PRODUTIVO, BUROCRACIA, CR\u00cdTICA.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Inconformismo com a apreens\u00e3o de queijo artesanal no Shopping RioMar, em Recife, Estado de Pernambuco. Necessidade de extin\u00e7\u00e3o de entraves burocr\u00e1ticos impostos ao setor produtivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, para evidenciar o papel que n\u00f3s temos a cumprir e a nossa obriga\u00e7\u00e3o, no dia de ontem, quando n\u00f3s retomamos os nossos trabalhos, tivemos mais um epis\u00f3dio simb\u00f3lico do Brasil oficial, do Brasil da burocracia, do Brasil que paralisa aquele que empreende, gera emprego e busca solu\u00e7\u00e3o, contra o Brasil real, o Brasil do cidad\u00e3o comum, que busca sair de um momento t\u00e3o dif\u00edcil.\r\nNo Cariri paraibano, Deputado Afonso, na cidade de Tapero\u00e1, est\u00e1 localizada a Fazenda Carna\u00faba, que \u00e9 produtora de queijo artesanal. Com muito sacrif\u00edcio, ali se enfrenta a seca; com inventividade, ali se consegue gerar solu\u00e7\u00e3o num ambiente que imp\u00f5e severas dificuldades. E, com a receita de um queijo artesanal, consegue-se, inclusive, vencer pr\u00eamios internacionais - no \u00faltimo, disputado na Fran\u00e7a, recebeu medalha de bronze.\r\nA Fazenda Carna\u00faba tem lojinhas de venda n\u00e3o s\u00f3 na Para\u00edba, mas tamb\u00e9m em outros Estados. O quiosque deste epis\u00f3dio a que me reporto ficava no Shopping RioMar, em Recife.\r\nPois bem, o queijo artesanal, que \u00e9 produzido em Tapero\u00e1, que consegue gerar emprego na regi\u00e3o e que consegue fazer o Brasil produtivo funcionar, foi apreendido mais uma vez no quiosque do Shopping RioMar, desse Brasil oficial, paralisante.\r\nTrata-se de um queijo vencedor de pr\u00eamio internacional. A cada 50 litros de leite, um emprego \u00e9 gerado. E o produtor disse: \"Mil vezes enfrentar seca, porque \u00e9 uma luta justa e leal, do que ter que encarar esse poder p\u00fablico paralisante, sufocante, que me impede de vender o queijo que eu produzo!\".\r\nO produtor apresentou o requerimento para obter a autoriza\u00e7\u00e3o do Governo do Estado da Para\u00edba em 2018. E espera uma resposta desde 2018! Parece que n\u00e3o h\u00e1 tempo, parece que pode demorar o quanto for, e isso faz com que n\u00f3s percebamos que n\u00e3o d\u00e1 mais, que ningu\u00e9m aguenta mais, que essa situa\u00e7\u00e3o \u00e9 revoltante demais. N\u00f3s n\u00e3o aguentamos mais ver o Brasil ser paralisado, ser sugado por essa estrutura, que, al\u00e9m de n\u00e3o ajudar, ainda atrapalha.\r\nN\u00f3s precisamos entender que isso aqui precisa de um reset! N\u00f3s temos de repensar o Brasil! Est\u00e1 muito errado, est\u00e1 dando muito errado, e n\u00f3s precisamos encontrar um caminho para desmontar esse Brasil oficial das autoridades que t\u00eam tudo, que t\u00eam privil\u00e9gio, que praticam a corrup\u00e7\u00e3o, que desmontam e paralisam esse Brasil real que s\u00f3 quer produzir, gerar emprego e ter solu\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, ALTERA\u00c7\u00c3O, PRORROGA\u00c7\u00c3O, SESS\u00c3O PLEN\u00c1RIA.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Defesa de altera\u00e7\u00e3o do Regimento Interno da Casa no tocante ao tempo de prorroga\u00e7\u00e3o das sess\u00f5es.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, acabamos de iniciar uma nova sess\u00e3o. Novamente eu pe\u00e7o para que todos os Deputados e Deputadas possam refletir sobre esse tema. O que acaba de acontecer n\u00e3o \u00e9 normal. Todos estamos aqui dentro. Come\u00e7amos mais um dia de trabalho, como sempre, cedo. Segundo o Regimento, temos a obriga\u00e7\u00e3o de encerrar uma sess\u00e3o, e a \u00fanica alternativa que se tem - e est\u00e1 todo mundo aqui - \u00e9 chamar uma nova sess\u00e3o no minuto seguinte. E, quando se come\u00e7a essa nova sess\u00e3o, pede-se novo painel. Est\u00e1 todo mundo aqui. Isso \u00e9 um desrespeito com o tempo de todos os funcion\u00e1rios desta Casa e de todos n\u00f3s Deputados e Deputadas, porque, depois desse novo painel, haver\u00e1 tempo de Lideran\u00e7a de quase 30 partidos, depois ser\u00e3o apresentados novos requerimentos que j\u00e1 foram vencidos.\r\nPortanto, \u00e9 um desperd\u00edcio, \u00e9 uma insanidade.\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. PRESIDENTE (Rodrigo Maia. DEM - RJ) - Pe\u00e7o que conclua em 10 segundos, Deputado.\r\nO SR. PEDRO CUNHA LIMA (PSDB - PB) - Concluo, Presidente Rodrigo, sabendo que n\u00e3o depende apenas de V.Exa., mas sim depende de todos desta Casa. \u00c9 uma insanidade que o Brasil n\u00e3o merece.\r\nEnt\u00e3o, fa\u00e7o o apelo para mudarmos o Regimento e fazer que aconte\u00e7a como no Senado, que prorroga a sess\u00e3o o tempo que for necess\u00e1rio, enquanto houver qu\u00f3rum na Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=228&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.\r\nALTERA\u00c7\u00c3O, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, DEFESA.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca da institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9dula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de orientar o PSDB.\r\nAntes, entretanto, fa\u00e7o quest\u00e3o de falar novamente do nosso Regimento Interno. Este requerimento de retirada de pauta desta mat\u00e9ria, Deputado Adolfo, j\u00e1 foi votado nominalmente hoje. Esta Casa, por meio do seu colegiado, j\u00e1 se reuniu no dia de hoje para apreciar e votar nominalmente o requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 897.\r\nAgora, numa nova sess\u00e3o, fazemos de novo a mesma coisa. Como \u00e9 que n\u00f3s, que temos um imenso desafio de pa\u00eds pela frente, vamos ter capacidade de cumprir essa miss\u00e3o, se n\u00e3o conseguimos mudar o b\u00e1sico e elementar, que \u00e9 um Regimento Interno imprest\u00e1vel, que rouba o tempo das nossas vidas, o tempo de mudan\u00e7a do Pa\u00eds?\r\nUm requerimento de retirada de pauta que j\u00e1 foi votado no dia de hoje - e rejeitado - ter que ser votado de novo? Tenha paci\u00eancia!\r\nEnt\u00e3o, eu fa\u00e7o um apelo novamente para que mudemos essa aberra\u00e7\u00e3o.\r\nO PSDB vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=240&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-04T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EXAME NACIONAL DO ENSINO M\u00c9DIO (ENEM), ADIAMENTO, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Defesa de adiamento do Exame Nacional do Ensino M\u00e9dio - ENEM. Imediata vota\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB em instrumento permanente de financiamento do ensino p\u00fablico b\u00e1sico.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, todos que acompanham a nossa sess\u00e3o, eu quero falar de maneira central sobre um tema que diz respeito \u00e0 educa\u00e7\u00e3o p\u00fablica.\r\nN\u00f3s estamos no meio de uma crise com impactos imensos e hoje vi uma propaganda do MEC que trata da posi\u00e7\u00e3o de manuten\u00e7\u00e3o da data regular do ENEM, o exame nacional que \u00e9 feito anualmente. Mas este ano, Presidente, por conta dos impactos da crise, e cada estudante sofre de maneira distinta esse impacto, n\u00e3o \u00e9 poss\u00edvel o calend\u00e1rio ser cumprido de maneira regular.\r\nNa propaganda do MEC, a mensagem do Governo diz que se estude em qualquer lugar; estude, n\u00e3o importa onde. Essa vis\u00e3o, infelizmente, n\u00e3o conhece a realidade do Brasil. N\u00f3s temos milh\u00f5es de estudantes que n\u00e3o conseguem dar sequ\u00eancia aos seus estudos por n\u00e3o terem acesso ao ensino a dist\u00e2ncia, por n\u00e3o terem um ambiente em casa que propicie essa possibilidade de estudo, por n\u00e3o terem acesso \u00e0 Internet, a livros. \u00c9 um ambiente que est\u00e1 extremamente impactado por conta dessa crise do coronav\u00edrus. E n\u00e3o h\u00e1 a menor condi\u00e7\u00e3o de, sem aula, sem assistir regularmente \u00e0s aulas, fazer o exame no calend\u00e1rio regular.\r\nTrago a esta Casa uma reflex\u00e3o, para que cada um possa enxergar esse tema com a import\u00e2ncia que ele exige. N\u00f3s temos uma posi\u00e7\u00e3o reiterada, em rela\u00e7\u00e3o \u00e0 do MEC, de que o exame ser aplicado no calend\u00e1rio regular \u00e9 muito injusto, \u00e9 muito desleal. \u00c9 desconhecer por completo a realidade de milh\u00f5es de estudantes ter a sequ\u00eancia do calend\u00e1rio do ENEM.\r\nPortanto, deixo aqui a posi\u00e7\u00e3o do nosso partido. Por meio de uma conversa que tive com o nosso L\u00edder Carlos Sampaio, n\u00f3s enxergamos essa realidade de Pa\u00eds que, infelizmente, n\u00e3o est\u00e1 sendo alcan\u00e7ada por parte do MEC. Entendemos que h\u00e1 um impacto, sim, para v\u00e1rios estudantes que em casa, com o acesso \u00e0 educa\u00e7\u00e3o a dist\u00e2ncia, est\u00e3o dando sequ\u00eancia aos estudos conforme o cronograma do ENEM. Mas essa n\u00e3o \u00e9 a realidade de milh\u00f5es de estudantes brasileiros.\r\nDesse modo, quero fazer um apelo a esta Casa para que possamos ter uma posi\u00e7\u00e3o un\u00edssona no sentido de respeitar os milh\u00f5es de estudantes brasileiros que vivem uma realidade que impede a sequ\u00eancia de estudos e para que manifestemos posi\u00e7\u00e3o pol\u00edtica pelo adiamento do ENEM.\r\nFoi protocolado um PDL pelo Deputado Professor Israel. E hoje, pela manh\u00e3, ele me disse que j\u00e1 est\u00e1 coletando assinaturas, inclusive para que haja urg\u00eancia na vota\u00e7\u00e3o desse PDL que trata do tema. Assim, a C\u00e2mara dos Deputados poder\u00e1 cumprir o seu papel e caminhar na dire\u00e7\u00e3o do que \u00e9 justo.\r\nSabemos que existem, sim, consequ\u00eancias devido ao adiamento do ENEM, mas, infelizmente, a realidade do Pa\u00eds impede que haja essa disputa de maneira minimamente igualit\u00e1ria. Regularmente, todos os anos, o ENEM j\u00e1 \u00e9 muito desigual, porque a educa\u00e7\u00e3o p\u00fablica no Pa\u00eds, infelizmente, n\u00e3o consegue dar a mesma qualidade que o ensino privado oferece \u00e0queles que t\u00eam condi\u00e7\u00f5es de pagar boas escolas. Ent\u00e3o, todo ano \u00e9 uma grande covardia que se faz com milh\u00f5es de estudantes brasileiros por n\u00e3o lhes dar uma educa\u00e7\u00e3o de qualidade. Com a pandemia, isso fica insuport\u00e1vel. \u00c9 aumentar ainda mais essa dose de covardia manter a prova na mesma data.\r\nA mensagem que o MEC passa \u00e9 de que o ENEM \u00e9 uma competi\u00e7\u00e3o e que ficou mais dif\u00edcil para todo mundo. \u00c9 uma mensagem dif\u00edcil de se ouvir tranquila e passivamente, porque n\u00e3o ficou mais dif\u00edcil para todo mundo de maneira igualit\u00e1ria. \u00c9 n\u00edtida a diferen\u00e7a da realidade de milh\u00f5es de estudantes brasileiros, como j\u00e1 enfatizei nesta fala, pois muitos n\u00e3o t\u00eam acesso \u00e0 Internet, n\u00e3o t\u00eam livro, n\u00e3o t\u00eam EAD, n\u00e3o t\u00eam um ambiente em casa em que possam se sentar, se concentrar e estudar. S\u00e3o estudantes que, muitas vezes, dividem um c\u00f4modo com 4, 5, 6, 8 pessoas. Ent\u00e3o, \u00e9 de fato muito triste ver a propaganda do MEC com a mensagem para que os estudantes, n\u00e3o importa o lugar, estudem.\r\nVou encerrar minha fala com este argumento: ainda que fosse para manter o calend\u00e1rio regular do ENEM, que pelo menos se fizesse uma justificativa ou constru\u00edsse um argumento decente para os estudantes brasileiros que vivem em um grau de vulnerabilidade muito diferente daqueles que passam a mensagem de que podem continuar estudando com acesso \u00e0 Internet, com videoaula, com livros etc. Ent\u00e3o, faz muita falta um v\u00eddeo tamb\u00e9m com os estudantes que vivem outra realidade no Pa\u00eds, realidade esta que, pelo menos, temos de conhecer e entender.\r\nPor fim, j\u00e1 que falo de educa\u00e7\u00e3o e manifesto esta defesa pelo adiamento do ENEM, pelos impactos que a crise traz, quero fazer tamb\u00e9m um apelo para que a C\u00e2mara dos Deputados d\u00ea toda a aten\u00e7\u00e3o ao debate do novo FUNDEB, que j\u00e1 vem acontecendo h\u00e1 algum tempo. N\u00f3s teremos que votar diretamente no plen\u00e1rio. N\u00f3s tivemos a aten\u00e7\u00e3o do Presidente Rodrigo Maia ao longo desse debate. Que o colegiado inteiro possa perceber a necessidade de se votar o novo FUNDEB com o texto que j\u00e1 vimos trabalhando h\u00e1 algum tempo, para que tamb\u00e9m possamos dar essa satisfa\u00e7\u00e3o \u00e0 educa\u00e7\u00e3o p\u00fablica do nosso Pa\u00eds.\r\nNeste instante final, s\u00f3 cabe passar a mensagem de que o momento de crise pede uni\u00e3o. Este n\u00e3o \u00e9 momento de guerra pol\u00edtica. N\u00f3s temos o esp\u00edrito de colabora\u00e7\u00e3o sempre, para que o Brasil atravesse este momento delicado. Ningu\u00e9m est\u00e1 querendo fazer oposi\u00e7\u00e3o do \"quanto pior, melhor\". Queremos nos juntar para encontrar as sa\u00eddas de que o Brasil precisa. \r\nNeste caso do tema central da fala, o ENEM, repito que o caminho melhor para amenizar os danos \u00e9 adiar o dia que ser\u00e1 feito o exame. Essa \u00e9 a nossa posi\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F5%2F2020&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Como L\u00edder. Sem revis\u00e3o do orador.) - Com alegria, Presidente, divido o tempo da Lideran\u00e7a com a Deputada Mariana Carvalho.\r\nSr. Presidente, Srs. Deputados, Sras. Deputadas, este \u00e9 um dia hist\u00f3rico para a Na\u00e7\u00e3o, sobretudo pelo diagn\u00f3stico atual da nossa educa\u00e7\u00e3o, sobretudo pelos nossos pecados at\u00e9 aqui. O Pa\u00eds ainda n\u00e3o tem vaga na creche para a crian\u00e7a mais pobre. Menos de 30% das crian\u00e7as mais pobres possuem vagas em creches.\r\nAqui h\u00e1 um cora\u00e7\u00e3o todo preenchido pela defesa da causa da educa\u00e7\u00e3o infantil, a Deputada Paula. E fa\u00e7o tamb\u00e9m men\u00e7\u00e3o profundamente justa \u00e0 atua\u00e7\u00e3o do Presidente Rodrigo Maia, n\u00e3o apenas nesta vota\u00e7\u00e3o, L\u00edder Carlos Sampaio - obrigado pela confian\u00e7a neste processo -, mas em toda a defesa da educa\u00e7\u00e3o infantil.\r\nPresidente Rodrigo Maia, V.Exa. fica para sempre registrado na minha mem\u00f3ria como um grande brasileiro, pelo papel que cumpriu nessa caminhada em defesa da primeira inf\u00e2ncia. O Brasil ainda n\u00e3o conseguiu valorizar seus professores, ainda n\u00e3o conseguiu formar, avaliar, remunerar bem seus professores, ainda n\u00e3o conseguiu levar o direito de aprendizagem \u00e0 sala de aula.\r\nPara isso \u00e9 preciso investimentos. Nenhum pa\u00eds conseguiu fazer isso sem investimentos. O Brasil investe, por aluno, menos da metade da m\u00e9dia da OCDE.\r\nMas finalmente conseguimos dar um passo em dire\u00e7\u00e3o ao \u00f3bvio. O Governo Federal, a Uni\u00e3o, concentra a maior fatia do bolo tribut\u00e1rio. \u00c9 uma aberra\u00e7\u00e3o que n\u00e3o haja uma aproxima\u00e7\u00e3o maior da educa\u00e7\u00e3o b\u00e1sica do in\u00edcio dessa forma\u00e7\u00e3o. No nosso Pa\u00eds, infelizmente, ainda se depende da sorte social para se aprender a ler. Esse \u00e9 o diagn\u00f3stico educacional brasileiro.\r\nQue este seja um primeiro passo! Que possamos acordar, que possamos refletir: por que vivemos um momento t\u00e3o duro? Ser\u00e1 que \u00e9 porque n\u00e3o valorizamos o professor? Talvez, sim. Para mim, \u00e9 evidente que sim.\r\nParabenizo a todos que militaram nessa causa, aos ativistas da educa\u00e7\u00e3o, a todos que se envolveram na Comiss\u00e3o Especial. E aqui fa\u00e7o uma refer\u00eancia muit\u00edssimo merecida \u00e0 Deputada Professora Dorinha, que durante todo esse processo teve uma dedica\u00e7\u00e3o e fez um esfor\u00e7o imenso, para que alcan\u00e7ar o feito de unir a C\u00e2mara dos Deputados em defesa do novo FUNDEB.\r\nParabenizo tamb\u00e9m a todos os professores que entram em sala de aula em um pa\u00eds que n\u00e3o consegue desenhar um ambiente favor\u00e1vel \u00e0 aprendizagem. S\u00e3o guerreiros! Vamos acabar com essa mania de achar que professor \u00e9 vil\u00e3o. Vamos cobrar, sim! Temos que cobrar resultado, temos que proteger o direito \u00e0 aprendizagem do aluno, mas temos que apoiar o ser humano que entra na sala de aula, muitas vezes em comunidades dominadas pelo tr\u00e1fico, muitas vezes colocando sua integridade f\u00edsica em risco, porque o Brasil ainda n\u00e3o conseguiu abra\u00e7ar com prioridade o ambiente educacional.\r\nQue possamos tirar a educa\u00e7\u00e3o dessa disputa ideol\u00f3gica acirrada de narrativas, disputas pol\u00edtico-partid\u00e1rias. Que possamos trazer o olhar que o colega Deputado Felipe Rigoni sempre defende - menciono isso com admira\u00e7\u00e3o sincera: um olhar novo para o Brasil, que precisa sair dessa polariza\u00e7\u00e3o entre extremos para falar do que importa.\r\nQue possamos dar sequ\u00eancia aos passos. Que possamos avan\u00e7ar, entendendo que a luta pela educa\u00e7\u00e3o n\u00e3o termina aqui. Talvez comecemos um novo ciclo, mas precisamos continuar com este trabalho em defesa do direito \u00e0 aprendizagem.\r\nPortanto, celebrando com o cora\u00e7\u00e3o em festa, sobretudo pelo investimento que passaremos a fazer na educa\u00e7\u00e3o infantil, novamente menciono a import\u00e2ncia da atua\u00e7\u00e3o do Presidente Rodrigo Maia.\r\nDeixo aqui um cora\u00e7\u00e3o tamb\u00e9m otimista para os pr\u00f3ximos passos que vir\u00e3o. O PSDB, com muito orgulho, apoiou em tudo o novo FUNDEB, carregando a refer\u00eancia do FUNDEF, para o nosso orgulho, do L\u00edder Carlos Sampaio, iniciado no Governo do Presidente Fernando Henrique Cardoso.\r\nPortanto, encerro lembrando o primeiro passo, dado pelo Presidente Fernando Henrique Cardoso, otimista com os pr\u00f3ximos passos que vir\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=116&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, SEGUNDO TURNO, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 7\u00ba, art. 5\u00ba, do texto do segundo turno da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - \u00c9 evidente, Presidente, que todos n\u00f3s defendemos uma educa\u00e7\u00e3o de qualidade. Esta vota\u00e7\u00e3o n\u00e3o separa quem quer e quem n\u00e3o quer qualidade na escola. \r\nEntretanto, existe uma preocupa\u00e7\u00e3o da maioria da bancada do PSDB de que esse crit\u00e9rio e essa constitucionaliza\u00e7\u00e3o podem trazer algo bonito no papel, mas pouco eficiente na pr\u00e1tica, que encaminha a gest\u00e3o para uma judicializa\u00e7\u00e3o, que n\u00e3o traz resultado - resultado este que, inclusive, o PT, quando esteve no poder, n\u00e3o conseguiu entregar.\r\nPortanto, respeitando quem defende o destaque, mas respeitando tamb\u00e9m a maioria do PSDB, o PSDB orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=168&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o de Educa\u00e7\u00e3o ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Parabenizo, Sr. Presidente, o brilhante trabalho do Deputado Felipe Rigoni, t\u00edpico de sua atua\u00e7\u00e3o.\r\nComo defensor ativista da primeira inf\u00e2ncia, quero celebrar o avan\u00e7o que daremos nessa \u00e1rea e fa\u00e7o quest\u00e3o de, novamente, reconhecer o trabalho e a dedica\u00e7\u00e3o de V.Exa., Presidente Rodrigo, na defesa da educa\u00e7\u00e3o infantil em um ano muito dif\u00edcil, com muitos preju\u00edzos para o nosso Pa\u00eds, um preju\u00edzo educacional que, muitas vezes, \u00e9 esquecido.\r\nVou repetir uma frase que disse Priscila Cruz, do Todos pela Educa\u00e7\u00e3o: \"O Brasil vai pagar um pre\u00e7o muito alto por escolher abrir bar antes da escola\". N\u00f3s precisamos dar outros passos. Este \u00e9 um passo importante. A regulamenta\u00e7\u00e3o do novo FUNDEB, sim, amplia o financiamento, traz uma nova vis\u00e3o federativa de educa\u00e7\u00e3o, mas \u00e9 preciso fortalecer cada vez mais. E este Congresso, este Parlamento cumpre um papel importante para a educa\u00e7\u00e3o p\u00fablica do nosso Pa\u00eds.\r\nO PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=197&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 5, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PSDB tem compreens\u00e3o do valor dos trabalhos comunit\u00e1rios, confessionais, filantr\u00f3picos e da fun\u00e7\u00e3o social cumprida por esses trabalhos. Se o aluno \u00e9 de baixa renda, se a matr\u00edcula \u00e9 gratuita, se n\u00e3o existe prova de sele\u00e7\u00e3o, se a qualidade do ensino \u00e9 boa, existe uma fun\u00e7\u00e3o social e p\u00fablica nesses trabalhos.\r\nPortanto, \u00e9 preciso fazer uma diferencia\u00e7\u00e3o.\r\nN\u00e3o necessariamente a escola precisa ser estatal, precisa ser p\u00fablica, entretanto, no formato apresentado na Emenda n\u00b0 5, existe uma abertura muito larga, o que quebra o esp\u00edrito do FUNDEB de redistribui\u00e7\u00e3o para concentrar recursos em grandes centros, que \u00e9 onde h\u00e1 o maior n\u00famero de matr\u00edculas. \r\nPortanto, o PSDB orienta \"n\u00e3o\" a esta emenda, no intuito de aprovar a Emenda n\u00b0 10.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=224&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 40, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, talvez o maior drama de milh\u00f5es de jovens brasileiros seja o desemprego e a falta de oportunidade. Ent\u00e3o, sem d\u00favidas, nossa aus\u00eancia, nossa car\u00eancia no ensino t\u00e9cnico e profissional \u00e9 algo que precisamos corrigir urgentemente. \r\nComo muito bem colocou a Deputada Luisa Canziani, essa emenda n\u00e3o direciona recursos para o Sistema S, apenas traz a faculdade, a possibilidade de o Estado tomar a decis\u00e3o de investir no ensino t\u00e9cnico e profissional e dar essa chance ao jovem de se qualificar, de conseguir ter um emprego, uma chance de trabalhar. \r\nPortanto, com a nossa compreens\u00e3o de que \u00e9 preciso esse olhar para a qualifica\u00e7\u00e3o da nossa m\u00e3o de obra, o PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=235&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Registro de voto do Deputado Eduardo Barbosa. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 10, apresentada ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - O Deputado Eduardo Barbosa n\u00e3o conseguiu votar na \u00faltima vota\u00e7\u00e3o nominal, mas acompanhou o partido na mat\u00e9ria.\r\nComo j\u00e1 foi dito aqui, esta vota\u00e7\u00e3o diz muito da vis\u00e3o do Brasil com o terceiro setor, das fun\u00e7\u00f5es que escolas confessionais, comunit\u00e1rias e filantr\u00f3picas cumprem. \u00c9 uma fun\u00e7\u00e3o social: a vaga \u00e9 gratuita, a escola n\u00e3o faz sele\u00e7\u00e3o, e verificamos a qualidade do ensino. \u00c9 claro que ali existe um equipamento p\u00fablico.\r\nPortanto, superada aquela apreens\u00e3o de n\u00e3o haver um limite - agora, sim, h\u00e1 um limite preestabelecido que faz com que o texto tenha equil\u00edbrio -, o PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=248&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), FELIPE RIGONI, RELATOR, ELOGIO.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Solidariedade ao Deputado Felipe Rigoni diante de acusa\u00e7\u00f5es desferidas por Deputados oposicionistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quanto ao m\u00e9rito, a discord\u00e2ncia entre as variadas vis\u00f5es de mundo \u00e9 comum \u00e0 democracia, \u00e9 leg\u00edtima. \u00c9 bom que cada um defenda aquilo em que acredita. Quanto aos termos procedimentais, no caso, o que n\u00e3o pode haver \u00e9 profunda injusti\u00e7a, imensa injusti\u00e7a com o Deputado Felipe Rigoni, que n\u00e3o poderia, nem se quisesse, cumprir o papel de L\u00edderes partid\u00e1rios. Esses, sim, podem acordar em apresentar ou n\u00e3o o destaque. O destaque pertence ao partido. Cabe \u00e0 bancada decidir se vai apresentar destaque ou n\u00e3o. Existe a possibilidade de os L\u00edderes partid\u00e1rios entrarem em acordo sobre a n\u00e3o apresenta\u00e7\u00e3o de destaque. Isso n\u00e3o cabe ao Relator, que cumpriu com a sua palavra.\r\nEnt\u00e3o, trago aqui a minha solidariedade, por conhecer o trabalho s\u00e9rio, probo e dedicado do Deputado Felipe Rigoni, que sempre cumpre o papel de pensar na transforma\u00e7\u00e3o social que o Brasil precisa viver. Ele n\u00e3o deveria estar sofrendo essa injusti\u00e7a, at\u00e9 porque ela n\u00e3o tem sentido. Isso n\u00e3o cabe a ele. Caberia, sim, aos L\u00edderes, se tivessem se encontrado e aberto m\u00e3o de apresentar os seus destaques.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=280&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-10T23:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 4372/2020, PROJETO DE LEI ORDINARIA,  PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio no 20, apresentada ao  Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, agrade\u00e7o a generosa lembran\u00e7a do meu pai. \r\nO Brasil \u00e9 um pa\u00eds que n\u00e3o cumpre o teto constitucional para os supersal\u00e1rios, e h\u00e1 autoridade que recebe 30, 40, 50, 100 mil reais. Existe um teto constitucional de 39 mil reais, que n\u00e3o \u00e9 cumprido, e n\u00e3o conseguimos fazer com que haja essa corre\u00e7\u00e3o \u00f3bvia e evidente. Ent\u00e3o, h\u00e1 supersal\u00e1rios para autoridades, e h\u00e1 uma dificuldade imensa de valorizar o professor por meio do cumprimento de um piso.\r\nLamento a posi\u00e7\u00e3o do Governo de se colocar contra este destaque, que nada mais traz do que uma aten\u00e7\u00e3o maior, para que n\u00f3s regulamentemos esse piso nacional at\u00e9 o final de 2021. \r\nCompreendendo a necessidade de valorizar o professor, o PSDB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F12%2F2020&txPagina=366&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-15T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 5502/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ALDIR BLANC, AMPLIA\u00c7\u00c3O PRAZO, MEDIDA DE EMERG\u00caNCIA, ATIVIDADE CULTURAL, ISOLAMENTO SOCIAL, QUARENTENA (SA\u00daDE), PANDEMIA, CORONAV\u00cdRUS, PRESTA\u00c7\u00c3O DE CONTAS, AUX\u00cdLIO FINANCEIRO, CULTURA NACIONAL, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Pedro Cunha Lima",
+        "sumario": "Apelo \u00e0 Casa de aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 5.502, de 2020, referente \u00e0 prorroga\u00e7\u00e3o dos prazos estabelecidos para o emprego, execu\u00e7\u00e3o e presta\u00e7\u00e3o de contas dos recursos de car\u00e1ter emergencial destinados pela Lei n\u00ba 17.014, de 2020, (Lei Aldir Blanc).",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PEDRO CUNHA LIMA (PSDB - PB. Sem revis\u00e3o do orador.) - Sr. Presidente, caros colegas, eu quero sair em defesa do nosso setor cultural. Em um ano de profundas perdas, n\u00f3s temos um ano dif\u00edcil em v\u00e1rios setores. \u00c9 dif\u00edcil encontrar um segmento, uma \u00e1rea, um universo que tenha sido t\u00e3o duramente abalado como aqueles que produzem cultura. Refiro-me a m\u00fasicos, int\u00e9rpretes, compositores, artistas de modo geral.\r\nPresidente, por n\u00f3s estarmos proibidos de aglomerar e pelo fato de a n\u00e3o aglomera\u00e7\u00e3o ser a medida mais dura que se possa fazer em termos de enfrentamento ao coronav\u00edrus, \u00e9 preciso dar um aux\u00edlio para esse segmento.\r\nNo dia 29 de junho, este Parlamento, o Congresso Nacional, aprovou a Lei Aldir Blanc, com essa sensibilidade, com essa capacidade de enxergar que \u00e9 importante trazer um aux\u00edlio para o setor cultural.\r\nEntretanto, infelizmente, o coronav\u00edrus n\u00e3o se foi. Ainda n\u00e3o est\u00e1 sendo implementada uma vacina. N\u00f3s esperamos que muito em breve n\u00f3s possamos aplicar vacinas testadas com seguran\u00e7a para imunizar nossa popula\u00e7\u00e3o, mas infelizmente esse dia ainda n\u00e3o chegou. Portanto, a aprova\u00e7\u00e3o da Lei Aldir Blanc, no seu formato inicial, n\u00e3o se faz suficiente para o amparo do setor cultural. N\u00e3o vamos conseguir resolver, at\u00e9 o dia 31 de dezembro, o problema de estarmos proibidos de nos aglomerar. Ent\u00e3o, apesar de toda a responsabilidade fiscal que devemos ter, \u00e9 preciso ter tamb\u00e9m bom senso, \u00e9 preciso enxergar as coisas, e se faz muito necess\u00e1rio prorrogar esse aux\u00edlio financeiro para o setor cultural. Por isso, apresentei o Projeto n\u00ba 5.502, de 2020, que traz essa prorroga\u00e7\u00e3o. \r\nDesde j\u00e1 fa\u00e7o aqui um apelo a esta Casa e a todos os Parlamentares: que possam encampar essa luta, essa defesa. Devemos ter sensibilidade com todos que produzem cultura, com aqueles que, em dias normais, em tempos normais, j\u00e1 enfrentam desafios enormes. N\u00e3o \u00e9 f\u00e1cil produzir cultura no Brasil, apesar do nosso profundo orgulho da cultura produzida na nossa terra, mas na pandemia isso se torna ainda mais complicado e dif\u00edcil. Existe uma proibi\u00e7\u00e3o expressa para muitos dos trabalhos que s\u00e3o executados por quem produz cultura.\r\nPortanto, fica a minha defesa ao setor cultural. Que possamos prorrogar a Lei Aldir Blanc.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

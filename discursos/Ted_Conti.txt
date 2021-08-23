@@ -1,0 +1,308 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-07T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "TED CONTI, DEPUTADO FEDERAL, ORADOR, ELEI\u00c7\u00c3O, ESP\u00cdRITO SANTO (ESTADO), AGRADECIMENTO, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nREFORMA PREVIDENCI\u00c1RIA, DEBATE, NECESSIDADE.\r\nCRIME, COMBATE, PROJETO DE LEI ORDIN\u00c1RIA,S\u00c9RGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, DEBATE, NECESSIDADE.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Agradecimento aos eleitores do Estado do Esp\u00edrito Santo pelo votos recebidos nas elei\u00e7\u00f5es para a C\u00e2mara dos Deputados. Necessidade de ampla discuss\u00e3o sobre a reforma previdenci\u00e1ria e sobre o projeto de lei anticrime, encaminhado \u00e0 Casa pelo Ministro da Justi\u00e7a e Seguran\u00e7a P\u00fablica, S\u00e9rgio Moro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TED CONTI (Bloco/PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero registrar meu agradecimento ao povo capixaba, que me credenciou para estar aqui hoje. Meu muito obrigado a todos, a cada um. Quero agradecer ao PSB e ao Governador do Esp\u00edrito Santo, Renato Casagrande, o apoio que me deram. Agrade\u00e7o tamb\u00e9m \u00e0 minha fam\u00edlia e a meus amigos, que sempre estiveram ao meu lado.\r\nDaqui para a frente, quero ser, na C\u00e2mara dos Deputados, o representante n\u00e3o s\u00f3 do Esp\u00edrito Santo, mas de todos os brasileiros.\r\nOficialmente, tomei posse na ter\u00e7a-feira como primeiro-suplente, ocupando a vaga do Deputado titular Paulo Foletto, a quem desejo muito sucesso \u00e0 frente da Secretaria de Agricultura do Esp\u00edrito Santo.\r\nSou da turma dos novatos. Este \u00e9 o meu primeiro mandato, uma nova fase na minha vida, depois de 30 anos como jornalista. Chego a esta Casa com muita vontade e disposi\u00e7\u00e3o para trabalhar. O Brasil precisa, merece dias melhores. Teremos em breve na C\u00e2mara duas importantes discuss\u00f5es: a reforma da Previd\u00eancia e a lei anticrime, quest\u00f5es urgentes. No entanto, estas mat\u00e9rias n\u00e3o podem ser votadas sem uma an\u00e1lise profunda.\r\nO projeto apresentado pelo Ministro Sergio Moro prop\u00f5e mudan\u00e7as em 14 leis e aponta importantes caminhos para o combate mais rigoroso da corrup\u00e7\u00e3o, da viol\u00eancia e do crime organizado. Al\u00e9m disso, aborda quest\u00f5es como criminaliza\u00e7\u00e3o do caixa dois, cumprimento de pena de pris\u00e3o imediata ap\u00f3s condena\u00e7\u00e3o em segunda inst\u00e2ncia. Aumenta a pena em se tratando de crimes hediondos com morte, isenta ou reduz a puni\u00e7\u00e3o de policiais que matam em servi\u00e7o, s\u00f3 para citar algumas medidas.\r\nJ\u00e1 a proposta da reforma da Previd\u00eancia toca em importantes quest\u00f5es, que v\u00e3o mexer com a vida da popula\u00e7\u00e3o: idade m\u00ednima e tempo de contribui\u00e7\u00e3o, por exemplo. Reconhecemos que \u00e9 necess\u00e1ria a busca do equil\u00edbrio das contas p\u00fablicas, mas a reforma n\u00e3o pode retirar direitos dos trabalhadores.\r\nVolto a insistir: ambas as propostas, a reforma da Previd\u00eancia e a lei anticrime, precisam passar por ampla e profunda discuss\u00e3o, o que envolve juristas, especialistas e v\u00e1rios segmentos da sociedade. Di\u00e1logo e transpar\u00eancia nas decis\u00f5es s\u00e3o fundamentais. \r\n\u00c9 este o meu compromisso: di\u00e1logo sempre aberto e mandato participativo.\r\nCapixabas e brasileiros, contem comigo!\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F2%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "UNIVERSIDADE FEDERAL, INSTITUTO FEDERAL DE EDUCA\u00c7\u00c3O, CI\u00caNCIA E TECNOLOGIA (INSTITUTO FEDERAL), ESPIRITO SANTO (ESTADO), CORTE, CONTINGENCIAMENTO, RECURSOS OR\u00c7AMENTARIOS, EDUCA\u00c7\u00c3O.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Indigna\u00e7\u00e3o do orador com cortes de recursos or\u00e7ament\u00e1rios destinados ao Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Esp\u00edrito Santo e \u00e0 Universidade Federal do Esp\u00edrito Santo. An\u00fancio da apresenta\u00e7\u00e3o, pela respectiva bancada federal, de requerimento ao Minist\u00e9rio da Educa\u00e7\u00e3o para esclarecimento do assunto.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu queria registrar a minha indigna\u00e7\u00e3o com o corte de verbas da educa\u00e7\u00e3o nas universidades.\r\nO IFES - Instituto Federal do Esp\u00edrito Santo j\u00e1 anunciou que s\u00f3 consegue chegar at\u00e9 setembro. O corte para custeio foi de 24 milh\u00f5es de reais.\r\nA UFES - Universidade Federal do Esp\u00edrito Santo, no meio dessa crise toda, chegou a um momento que seria de comemora\u00e7\u00e3o. A UFES completou, no \u00faltimo domingo, 65 anos, mas o presente acabou sendo um corte de quase 26 milh\u00f5es de reais, um corte de 37%, que poder\u00e1 comprometer o funcionamento da institui\u00e7\u00e3o.\r\nN\u00f3s estamos providenciando v\u00e1rias agendas para tentar reverter essa situa\u00e7\u00e3o e, junto com a bancada capixaba, vamos enviar um requerimento ao Minist\u00e9rio da Educa\u00e7\u00e3o pedindo mais explica\u00e7\u00f5es.\r\nSra. Presidente, muito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ADIB JATENE, EX-M\u00c9DICO, HOMENAGEM P\u00d3STUMA.\r\nEDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL, INVESTIMENTO, DEFESA.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Homenagem p\u00f3stuma ao m\u00e9dico-cirurgi\u00e3o Adib Jatene. Import\u00e2ncia dos investimentos em educa\u00e7\u00e3o.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados, estou ocupando este espa\u00e7o na tribuna para fazer uma homenagem ao m\u00e9dico-cirurgi\u00e3o Adib Jatene. Morreu em 2014 e deixou um legado fant\u00e1stico para o nosso Brasil. \r\nAdib Jatene criou a cirurgia de transposi\u00e7\u00e3o de grandes vasos. Posso dizer de cadeira que, se n\u00e3o fosse essa cirurgia, criada em 1975, eu n\u00e3o teria hoje duas filhas. Em 1999, a minha primeira filha nasceu, e a pediatra me disse: \"Olhe, Ted Conti, se sua filha operar agora, ela morre, e, se sua filha n\u00e3o operar agora, ela tamb\u00e9m morre\". N\u00f3s descobrimos um cirurgi\u00e3o pedi\u00e1trico cardiovascular que nos disse: \"Ted Conti, n\u00f3s podemos salvar a sua filha, desde que voc\u00ea consiga um avi\u00e3o UTI para n\u00f3s a levarmos para Belo Horizonte, ao Hospital Biocor\". Em poucas horas, gra\u00e7as a Deus, com a ajuda da empresa em que eu trabalhava, n\u00f3s conseguimos levar a minha filha para Belo Horizonte. Conseguimos mant\u00ea-la viva. Foi feito um cateterismo. Uma semana depois, ela foi operada e foi salva pela cirurgia, pelas m\u00e3os de Adib Jatene. A minha filha hoje est\u00e1 com 20 anos. \u00c9 uma mo\u00e7a que faz de tudo, normalmente.\r\nEu quero deixar clara a import\u00e2ncia de se investir em educa\u00e7\u00e3o. Trata-se de algo muito importante. N\u00f3s estamos num momento em que n\u00e3o pode haver contingenciamento na educa\u00e7\u00e3o, porque n\u00f3s precisamos de muitos Adibes Jatenes aqui no Brasil.\r\nEu tive a oportunidade de levar a minha filha para fazer uma consulta fora do Pa\u00eds, e, conversando com uma m\u00e9dica, ela disse: \"Aqui, Adib Jatene \u00e9 respeitado\". N\u00e3o existe nenhum m\u00e9dico-cirurgi\u00e3o dessa \u00e1rea cardiol\u00f3gica que n\u00e3o fale de Adib Jatene como uma pessoa que realmente tem que ser lembrada por todos mundo afora.\r\nPosteriormente, a minha segunda filha tamb\u00e9m nasceu com um problema card\u00edaco. N\u00f3s, mais uma vez, tivemos a gra\u00e7a de poder lev\u00e1-la para Belo Horizonte e tamb\u00e9m salv\u00e1-la. Mais uma filha, agora com 17 anos, tamb\u00e9m estudando, com todas as condi\u00e7\u00f5es, praticando todos os tipos de esportes. Antes de 1975, isso n\u00e3o acontecia. Antes de 1975, milhares de crian\u00e7as morriam pelo Brasil afora, principalmente se elas nascessem no interior do Pa\u00eds, se elas n\u00e3o tivessem uma fam\u00edlia que realmente tivesse condi\u00e7\u00f5es. N\u00f3s tivemos a gra\u00e7a e a honra de estar no momento e no local adequados, onde pudemos dispor de todos esses recursos. Pudemos levar as nossas filhas para esses hospitais que dispunham da tecnologia feita por Adib Jatene. Essa cirurgia faz agora 44 anos. Adib Jatene morreu em 2014. \r\nN\u00f3s temos que sempre investir em educa\u00e7\u00e3o. Um pa\u00eds s\u00e9rio come\u00e7a dentro de uma escola. \u00c9 imposs\u00edvel queremos crescer e competir com pa\u00edses de Primeiro Mundo, se n\u00f3s realmente n\u00e3o ficarmos atentos ao investimento em educa\u00e7\u00e3o.\r\nMuitos projetos cient\u00edficos est\u00e3o parados neste momento em v\u00e1rias universidades federais Brasil afora. Portanto, conclamo a todos: vamos investir em educa\u00e7\u00e3o! Vamos fazer com que os nossos projetos que hoje est\u00e3o em universidades consigam ser tocados. N\u00f3s precisamos de muitos m\u00e9dicos, n\u00f3s precisamos de muitos engenheiros capacitados. N\u00f3s temos que valorizar toda a cria\u00e7\u00e3o, tudo o que n\u00f3s temos no nosso Pa\u00eds.\r\nEu agrade\u00e7o a Deus e agrade\u00e7o a Adib Jatene. Como eu j\u00e1 disse, agora completa 44 anos a sua primeira cirurgia. E milhares de crian\u00e7as s\u00e3o salvas pelo mundo afora em raz\u00e3o dessa cirurgia.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=243&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-18T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "CORPUS CHRISTI, COMEMORA\u00c7\u00c3O, CASTELO (ES), CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Celebra\u00e7\u00e3o do Corpus Christi no Munic\u00edpio de Castelo, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu aproveito este espa\u00e7o para falar da festa de Corpus Christi, que acontece na pr\u00f3xima quinta-feira.\r\nEm muitos lugares, essa celebra\u00e7\u00e3o vem acompanhada da confec\u00e7\u00e3o de tapetes ornamentados que une muitas comunidades em torno da f\u00e9. No Esp\u00edrito Santo, os tapetes do Munic\u00edpio de Castelo que se estendem por mais de 1,5 quil\u00f4metro s\u00e3o uma grande express\u00e3o de arte e f\u00e9. H\u00e1 56 anos, os moradores da cidade encantam todos com os mais belos tapetes feitos com materiais alternativos. A festa atrai mais de 80 mil pessoas ao Munic\u00edpio de Castelo, no Esp\u00edrito Santo.\r\nEnt\u00e3o, eu quero dar os parab\u00e9ns a Castelo e a todos os Munic\u00edpios capixabas e brasileiros que fazem desses tapetes uma grande data e nos torna pessoas cada vez melhores em torno da f\u00e9 cat\u00f3lica no Esp\u00edrito Santo e em todo o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, MUSEU DE BIOLOGIA PROFESSOR MELLO LEIT\u00c3O (MBML), SANTA TERESA (ES), HOMENAGEM.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Transcurso do 70\u00ba anivers\u00e1rio de funda\u00e7\u00e3o do Museu Mello Leit\u00e3o, no Munic\u00edpio de Santa Teresa, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Deputado Federal Ted Conti, do PSB do Esp\u00edrito Santo, gostaria de registrar o anivers\u00e1rio, hoje, de 70 anos do Museu Mello Leit\u00e3o, que fica na cidade de Santa Teresa, no Esp\u00edrito Santo.\r\nO Museu Mello Leit\u00e3o foi criado pelo pesquisador Augusto Ruschi e tem reconhecimento nacional e internacional. S\u00f3 para se ter uma ideia, o Museu Mello Leit\u00e3o tem mais de 120 mil animais que servem de laborat\u00f3rio para estudantes de v\u00e1rios cursos no Esp\u00edrito Santo. Tamb\u00e9m tem catalogadas mais de 54 mil plantas, sendo que 2% dessas plantas catalogadas s\u00e3o de novas esp\u00e9cies.\r\nEnt\u00e3o, fica registrado aqui o anivers\u00e1rio de 70 anos do Museu Mello Leit\u00e3o, que fica na cidade de Santa Teresa, no Esp\u00edrito Santo, que n\u00f3s temos muito orgulho de representar aqui no Congresso Nacional.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PESSOA COM TRANSTORNO DO ESPECTRO AUTISTA, ASSEMBLEIA LEGISLATIVA, ESP\u00cdRITO SANTO (ESTADO), SEMIN\u00c1RIO, TED CONTI, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Realiza\u00e7\u00e3o pelo orador, na Assembleia Legislativa do Estado Esp\u00edrito Santo, de semin\u00e1rio sobre a inclus\u00e3o social de pessoas com transtornos do espectro autista.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de registrar que realizei, na \u00faltima sexta-feira, um semin\u00e1rio na Assembleia Legislativa do Esp\u00edrito Santo sobre autismo e educa\u00e7\u00e3o, visando tra\u00e7ar uma linha do tempo do ensino infantil \u00e0 universidade. \r\nNa oportunidade, ouvimos pais e especialistas para mapear o que est\u00e1 sendo feito e o que ainda precisa ser feito para garantir o acesso e a inclus\u00e3o social de pessoas com transtornos do espectro autista. Este foi o primeiro semin\u00e1rio de muitos que vamos realizar no Esp\u00edrito Santo sobre esta importante \u00e1rea do direito das pessoas com defici\u00eancia.\r\nSr. Presidente, pe\u00e7o a V.Exa. que minha fala seja transmitida pelo programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=112&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-17T14:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "MULHER, JAQUELINE MORAES, VICE-GOVERNADORA, ESP\u00cdRITO SANTO, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Assun\u00e7\u00e3o provis\u00f3ria do Governo do Estado do Esp\u00edrito Santo pela Vice-Governadora Jaqueline Moraes.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de registrar um fato in\u00e9dito que vai acontecer no meu Estado: pela primeira vez uma mulher vai assumir o comando do Executivo do Esp\u00edrito Santo. A Vice-Governadora Jaqueline Moraes vem fazendo um trabalho fant\u00e1stico no Estado na defesa dos direitos das mulheres e agora, com a viagem do Governador em miss\u00e3o internacional, vai assumir pela primeira vez o Governo. Nunca antes uma mulher havia comandado o Executivo do Esp\u00edrito Santo.\r\nGostaria de parabenizar Jaqueline Moraes e de desejar-lhe boa sorte nestes dias que vai ficar \u00e0 frente do Executivo.\r\nParabenizo tamb\u00e9m o Governador Renato Casagrande pelo bel\u00edssimo trabalho que vem fazendo no Esp\u00edrito Santo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F9%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DIA NACIONAL DO R\u00c1DIO, RADIALISTA, HOMENAGEM.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Transcurso do Dia Nacional do R\u00e1dio. Sauda\u00e7\u00f5es aos radialistas brasileiros.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje, 25 de setembro, \u00e9 o Dia Nacional do R\u00e1dio. Eu gostaria de parabenizar todos os locutores de r\u00e1dio do nosso Brasil. Temos mais de 9 mil emissoras de r\u00e1dio espalhadas por esse Brasilz\u00e3o e uma cobertura de 83% do territ\u00f3rio nacional.\r\nNobre Deputada Liziane Bayer, imagine como ficariam os nossos recantos mais long\u00ednquos do Brasil, se n\u00e3o tiv\u00e9ssemos o r\u00e1dio! Se n\u00e3o fosse o r\u00e1dio, como a vida dos caminhoneiros seria, cruzando mil quil\u00f4metros para l\u00e1 e para c\u00e1? Como seria a vida das nossas donas de casa, trabalhando sem ter informa\u00e7\u00e3o, sem ter a m\u00fasica, sem ter o jornalismo?\r\nEu comecei como locutor de r\u00e1dio em 1986, na Tribuna FM de Cachoeiro. Quero parabenizar a todos! Se n\u00e3o fosse o r\u00e1dio e os ve\u00edculos de comunica\u00e7\u00e3o, eu tamb\u00e9m n\u00e3o estaria aqui, trabalhando pelo povo capixaba e pelo povo brasileiro. Portanto, quero dizer que todos os locutores est\u00e3o de parab\u00e9ns! \r\nQue n\u00f3s, em todas as Comiss\u00f5es, principalmente na Comiss\u00e3o de Ci\u00eancia e Tecnologia, Comunica\u00e7\u00e3o e Inform\u00e1tica, possamos trabalhar cada vez mais para fazer com que a nossa comunica\u00e7\u00e3o seja ainda melhor neste Pa\u00eds, que tem tantos problemas. Que possamos nos comunicar nos lugares mais long\u00ednquos!\r\nFicam registrados os meus parab\u00e9ns \u00e0s emissoras de r\u00e1dio, como a r\u00e1dio CBN, por exemplo. Quando come\u00e7ou, ningu\u00e9m imaginava que fosse fazer tanto sucesso no jornalismo. Hoje \u00e9 um diferencial no Brasil. Parab\u00e9ns a todos os locutores de r\u00e1dio, a todos os profissionais do jornalismo que trabalham na nossa radiodifus\u00e3o!\r\nObrigado, Sr. Presidente. Eu gostaria que o meu pronunciamento fosse divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MINIST\u00c9RIO DO MEIO AMBIENTE, INFORMA\u00c7\u00c3O, VAZAMENTO, PETR\u00d3LEO, LITORAL, PRAIA, REGI\u00c3O NORDESTE, REGI\u00c3O SUDESTE, ESP\u00cdRITO SANTO (ESTADO). \r\nMARINHA, COMBATE,  VAZAMENTO, PETR\u00d3LEO, LITORAL, PRAIA.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Solicita\u00e7\u00e3o ao Minist\u00e9rio do Meio Ambiente de informa\u00e7\u00f5es sobre as medidas adotadas no caso de contamina\u00e7\u00e3o do litoral do Estado do Esp\u00edrito Santo pelo petr\u00f3leo derramado na costa brasileira. Pedido \u00e0 Marinha do Brasil de antecipa\u00e7\u00e3o das a\u00e7\u00f5es de conten\u00e7\u00e3o do avan\u00e7o do petr\u00f3leo na regi\u00e3o costeira do Estado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje est\u00e1 completando 2 meses da trag\u00e9dia do vazamento do \u00f3leo no litoral do Nordeste. Essa trag\u00e9dia j\u00e1 atingiu 268 praias e, agora, pelo que vem sendo informando pela imprensa e pelos \u00f3rg\u00e3os oficiais, esse \u00f3leo j\u00e1 amea\u00e7a chegar \u00e0 Regi\u00e3o Sudeste, podendo atingir Esp\u00edrito Santo, S\u00e3o Paulo, Rio de Janeiro. Eu enviei um of\u00edcio ao Minist\u00e9rio do Meio Ambiente pedindo informa\u00e7\u00f5es sobre a possibilidade de esse \u00f3leo chegar ao Esp\u00edrito Santo e que medidas est\u00e3o sendo tomadas. \r\nHoje tamb\u00e9m tivemos a not\u00edcia de que a Marinha deve refor\u00e7ar esse combate ao vazamento de \u00f3leo a partir da ter\u00e7a-feira da semana que vem, dia 5, o que pode comprometer ainda mais o nosso litoral. Essa j\u00e1 \u00e9 a maior trag\u00e9dia nos nossos mares. Ent\u00e3o, eu pe\u00e7o \u00e0 Marinha que possa antecipar esse trabalho. Que ela n\u00e3o espere at\u00e9 o dia 5, mas que comece imediatamente a fazer esse trabalho no nosso litoral. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "TED CONTI, DEPUTADO FEDERAL, PRESTA\u00c7\u00c3O DE CONTAS DO MANDATO, GUARAPARI ES).",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Convite ao eleitorado para participa\u00e7\u00e3o em reuni\u00e3o destinada \u00e0 presta\u00e7\u00e3o de contas do mandato do orador, na sede do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia, no Munic\u00edpio de Guarapari, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, o ano est\u00e1 terminando. Este \u00e9 o meu primeiro mandato. Eu gostaria muito de agradecer ao povo capixaba que me elegeu, que me apoiou, e, em fun\u00e7\u00e3o disso, convidar todos para a minha presta\u00e7\u00e3o de contas na pr\u00f3xima quinta-feira no IFES - Instituto Federal do Esp\u00edrito Santo, em Guarapari, \u00e0s 19 horas. Na ocasi\u00e3o, vou falar, al\u00e9m das emendas que estou levando para o Esp\u00edrito Santo, de v\u00e1rios projetos meus, como o Projeto de Lei \u00ba 3.997, de 2019, que libera o FGTS dos pais em casos de ado\u00e7\u00e3o ou nascimento de filho. \u00c9 um projeto de extrema import\u00e2ncia, assim como \u00e9 o Projeto de Lei n\u00ba 5.345, de 2019, que dispensa a licita\u00e7\u00e3o quando os destinat\u00e1rios finais da compra ou servi\u00e7o forem pessoas com defici\u00eancia ou com mobilidade reduzida.\r\nEu espero todas as pessoas que confiam no meu trabalho nesta presta\u00e7\u00e3o de contas, porque o mais importante \u00e9 ter um mandato com transpar\u00eancia.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=97&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "DESASTRE AMBIENTAL, ENCHENTE, ALAGAMENTO, CHUVA, PROVID\u00caNCIAS, RENATO CASAGRANDE, GOVERNADOR, ESP\u00cdRITO SANTO (ESTADO), ATUA\u00c7\u00c3O, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 popula\u00e7\u00e3o e ao Governador do Estado do Esp\u00edrito Santo, Renato Casagrande, pelo empenho na revers\u00e3o de danos causados por temporais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de usar esse espa\u00e7o para parabenizar a popula\u00e7\u00e3o capixaba pelo trabalho que vem fazendo diante dessa trag\u00e9dia das chuvas que afetaram todo o Esp\u00edrito Santo, causando um preju\u00edzo de mais de 700 milh\u00f5es de reais.\r\nS\u00f3 para terem uma ideia, Deputado Elias e Deputado Marcelo, muitos moradores t\u00eam sa\u00eddo de seus Munic\u00edpios para irem aos Munic\u00edpios afetados para colocar realmente a m\u00e3o na massa, pegar em p\u00e1s e ajudar a limpar e a recuperar as cidades.\r\nQuero parabenizar tamb\u00e9m o nosso Governador do Estado, Renato Casagrande, que prontamente liberou mais de 200 milh\u00f5es de reais para o conserto de pontes, alugu\u00e9is sociais, entre outras a\u00e7\u00f5es.\r\nQuero dizer ainda que a nossa bancada federal j\u00e1 est\u00e1 agindo, atuando tamb\u00e9m rapidamente em v\u00e1rias reuni\u00f5es com os Ministros do Governo Federal.\r\nCom essa uni\u00e3o de todos, com certeza, n\u00f3s vamos recuperar o Esp\u00edrito Santo e tamb\u00e9m ajudar a recuperar Minas Gerais e o Rio de Janeiro, que tamb\u00e9m foram afetados pelas chuvas.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-17T18:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CRESCIMENTO ECONOMICO, INDUSTRIA, ESP\u00cdRITO SANTO (ESTADO), MINAS GERAIS.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Assinatura de plano estrat\u00e9gico de desenvolvimento econ\u00f4mico, pelos Governos dos Estados do Esp\u00edrito Santo e de Minas Gerais em conjunto com suas federa\u00e7\u00f5es da ind\u00fastria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de registrar que hoje, em Belo Horizonte, os Governos do Estado do Esp\u00edrito Santo e de Minas Gerais e as Federa\u00e7\u00f5es das Ind\u00fastrias do Esp\u00edrito Santo e de Minas Gerais assinaram um plano estrat\u00e9gico de desenvolvimento econ\u00f4mico, com foco nas \u00e1reas de infraestrutura, neg\u00f3cios, desenvolvimento regional e seguran\u00e7a jur\u00eddica. Essa assinatura vai gerar investimentos na faixa de 45,9 bilh\u00f5es em neg\u00f3cios para os dois Estados.\r\nParab\u00e9ns aos dois Estados e \u00e0s Federa\u00e7\u00f5es das Ind\u00fastrias por esse passo t\u00e3o importante para a economia n\u00e3o s\u00f3 dos Estados, mas tamb\u00e9m do Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F2%2F2020&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, PLN 9/2020, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, PARTIDO SOCIALISTA BRASILEIRO (PSB) (1987), VOTO FAVOR\u00c1VEL.\r\nAUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS, DESEMPREGO.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 28710055, apresentada ao Projeto de Lei do Congresso Nacional n\u00ba 9, de 2020, sobre as diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2021.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, o PSB orienta \"sim\", por entender que n\u00f3s estamos num momento grav\u00edssimo. N\u00f3s temos no Pa\u00eds mais de 14 milh\u00f5es de pessoas desempregadas. Ent\u00e3o, esse aux\u00edlio emergencial vai ser de extrema import\u00e2ncia, principalmente nos Munic\u00edpios pequenos, onde a arrecada\u00e7\u00e3o de impostos \u00e9 menor. N\u00f3s precisamos movimentar o pequeno com\u00e9rcio.\r\nN\u00f3s entendemos que \u00e9 necess\u00e1rio votar a favor dessa emenda, e votamos \"sim\", at\u00e9 porque n\u00f3s ainda estamos no meio de uma pandemia. O que a pandemia traz realmente \u00e9 um impacto muito forte na economia de todo o mundo, e n\u00e3o s\u00f3 na do Brasil.\r\nPortanto, o PSB orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=17%2F12%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-05T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AGRADECIMENTO, INDICA\u00c7\u00c3O, TED CONTI, DEPUTADO FEDERAL, COORDENA\u00c7\u00c3O, COMISS\u00c3O EXTERNA, FISCALIZA\u00c7\u00c3O, RODOVIA FEDERAL, BR 101, ESP\u00cdRITO SANTO (ESTADO). \r\nCOMISS\u00c3O EXTERNA, FISCALIZA\u00c7\u00c3O, RODOVIA FEDERAL, BR 101, ESP\u00cdRITO SANTO (ESTADO), ATIVIDADE, COMPET\u00caNCIA.",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Agradecimentos pela indica\u00e7\u00e3o do orador para o cargo de Coordenador da Comiss\u00e3o Externa de Fiscaliza\u00e7\u00e3o da BR-101/Esp\u00edrito Santo. Relev\u00e2ncia da atua\u00e7\u00e3o do colegiado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente Eduardo Bismarck, Sras. e Srs. Deputados, aqui venho agradecer \u00e0 Presid\u00eancia desta Casa e tamb\u00e9m ao ex-Coordenador da Comiss\u00e3o, o Deputado Sergio Vidigal, a indica\u00e7\u00e3o para Coordenador da Comiss\u00e3o Externa de Fiscaliza\u00e7\u00e3o da BR-101/Esp\u00edrito Santo. Destaco a honra e o orgulho que essa indica\u00e7\u00e3o me trouxe. \r\nConforme disposto no Ato da Presid\u00eancia que criou essa Comiss\u00e3o, ela tem como finalidade fazer levantamento in loco, bem como acompanhar e fiscalizar planos de trabalho, obras realizadas, interven\u00e7\u00f5es futuras, investimentos, obriga\u00e7\u00f5es e direitos adquiridos pela concession\u00e1ria Eco101, que administra o trecho da BR-101 que passa pelo Estado do Esp\u00edrito Santo. \r\nA import\u00e2ncia adquirida pela Comiss\u00e3o desde o in\u00edcio de seus trabalhos reflete a necessidade de fiscaliza\u00e7\u00e3o do andamento das obras da rodovia para o povo capixaba. No Esp\u00edrito Santo, a BR-101 se estende por mais de 450 quil\u00f4metros, interliga cidades, portos, aeroportos, atra\u00e7\u00f5es tur\u00edsticas do Estado, \u00e9 o principal eixo log\u00edstico da regi\u00e3o. \r\nEmbora a pandemia de COVID-19 tenha interferido no andamento dos trabalhos das Comiss\u00f5es da Casa, especialmente no ano passado, a Comiss\u00e3o Externa de Fiscaliza\u00e7\u00e3o da BR-101/Esp\u00edrito Santo j\u00e1 cumpriu miss\u00f5es essenciais. Entre elas est\u00e3o a identifica\u00e7\u00e3o de trechos priorit\u00e1rios para a duplica\u00e7\u00e3o da rodovia e encaminhamento da indica\u00e7\u00e3o ao Poder Executivo para an\u00e1lise da mat\u00e9ria; a sugest\u00e3o de que a Eco101 realizasse obras de contorno urbano para evitar a profus\u00e3o de acidentes rodovi\u00e1rios; e representa\u00e7\u00e3o ao TCU, mais de uma vez, para questionar aumentos no valor do ped\u00e1gio. \r\nA Comiss\u00e3o buscou ouvir diversas autoridades, sempre de forma democr\u00e1tica, por meio de audi\u00eancias p\u00fablicas. Em 2019 foram realizadas audi\u00eancias sobre a atua\u00e7\u00e3o do Minist\u00e9rio P\u00fablico Federal no contrato de concess\u00e3o da BR-101. No mesmo ano, o Diretor da Eco101 compareceu \u00e0 Comiss\u00e3o para discorrer sobre a necessidade dos licenciamentos ambientais para a conclus\u00e3o da obra. A Eco101 foi convocada pelo menos tr\u00eas vezes \u00e0 Comiss\u00e3o para tratar do andamento dos trabalhos de duplica\u00e7\u00e3o. A fiscaliza\u00e7\u00e3o tem sido feita de perto. \r\nAssumo a Comiss\u00e3o com a consci\u00eancia de que h\u00e1 muito trabalho a fazer. A conclus\u00e3o da obra estava prometida para 2023, e em janeiro deste ano apenas 10% da obra haviam sido entregues. A empresa alega problemas para conseguir licenciamento ambiental e condi\u00e7\u00f5es meteorol\u00f3gicas desfavor\u00e1veis. \r\nRealizarei um estudo profundo de tudo que j\u00e1 foi executado e de todas as necessidades da regi\u00e3o. A Comiss\u00e3o est\u00e1 de portas abertas para colaborar com o desenvolvimento do Estado do Esp\u00edrito Santo e para ajudar a finalizar essa obra, que \u00e9 de crucial import\u00e2ncia para a infraestrutura brasileira. \r\nEu pe\u00e7o que a minha fala seja divulgada no programa A Voz do Brasil, Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DIA NACIONAL DA ADO\u00c7\u00c3O. \r\nPL 3997/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DO FGTS, AUTORIZA\u00c7\u00c3O, MOVIMENTA\u00c7\u00c3O, CONTA VINCULADA DO FGTS, NASCIMENTO, ADO\u00c7\u00c3O (DIREITO CIVIL), FILHO.\r\nPL 4045/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, ESTATUTO DA CRIAN\u00c7A E DO ADOLESCENTE (ECA), PEDIDO, ADOTANTE, MANDADO JUDICIAL, CANCELAMENTO, DOCUMENTO DE IDENTIFICA\u00c7\u00c3O CIVIL, ANTERIORIDADE, ADO\u00c7\u00c3O (DIREITO CIVIL), CADASTRO DE PESSOAS F\u00cdSICAS (CPF), CARTEIRA DE IDENTIDADE (CI).",
+        "nomeDeputado": "Ted Conti",
+        "sumario": "Transcurso do Dia Nacional da Ado\u00e7\u00e3o. Pedido aos Deputados de apoio aos Projetos de Lei de n\u00bas 3.997 e 4.045, de 2019, respectivamente, sobre a altera\u00e7\u00e3o do art. 20 da Lei n\u00ba 8.036, de 1990, relativa ao Fundo de Garantia do Tempo de Servi\u00e7o - FGTS, com vista \u00e0 permiss\u00e3o da movimenta\u00e7\u00e3o de conta vinculada no caso de ado\u00e7\u00e3o ou nascimento de filho; e sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.069, de 1990, (Estatuto da Crian\u00e7a e do Adolescente).",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, hoje, dia 25 de maio, \u00e9 o Dia Nacional da Ado\u00e7\u00e3o. Eu queria parabenizar a todas as pessoas envolvidas direta ou indiretamente nesse ato de amor incondicional que \u00e9 a ado\u00e7\u00e3o.\r\nPara se ter uma ideia, Presidente, no Brasil, hoje, n\u00f3s temos mais de 30 mil crian\u00e7as em situa\u00e7\u00e3o de acolhimento, em situa\u00e7\u00e3o de risco social, e mais de 5 mil crian\u00e7as j\u00e1 est\u00e3o aptas \u00e0 ado\u00e7\u00e3o. N\u00f3s do Congresso Nacional, da C\u00e2mara Federal precisamos agilizar projetos que deem mais seguran\u00e7a jur\u00eddica e seguran\u00e7a social para essas crian\u00e7as.\r\nEu tenho dois projetos, Sr. Presidente. O Projeto de Lei n\u00ba 3.997, de 2019, disp\u00f5e sobre a utiliza\u00e7\u00e3o do FGTS pelas pessoas que querem adotar, aquelas pessoas que t\u00eam esse amor no cora\u00e7\u00e3o, mas que muitas vezes precisam de um pequeno incentivo, do seu Fundo de Garantia do Tempo de Servi\u00e7o. N\u00e3o h\u00e1 nenhum gasto extra para o Governo Federal, \u00e9 um dinheiro da pr\u00f3pria pessoa, para ela utilizar na ado\u00e7\u00e3o. Ent\u00e3o, seria um incentivo a mais.\r\nEu gostaria de contar com o apoio dos nossos pares. Que, nesta Semana da Ado\u00e7\u00e3o, consigamos realmente fazer uma semana mais bonita para essas crian\u00e7as que est\u00e3o nessa inseguran\u00e7a jur\u00eddica.\r\nSr. Presidente, tamb\u00e9m apresentei o Projeto de Lei n\u00ba 4.045, de 2019, que possibilita o cancelamento de documentos preexistentes. N\u00f3s sabemos que muitas crian\u00e7as, quando nascem, j\u00e1 recebem automaticamente a certid\u00e3o de nascimento. Muitas, quando ficam um pouco mais velhinhas, com um pouquinho mais de idade, e v\u00e3o para a ado\u00e7\u00e3o, acabam recebendo tamb\u00e9m o CPF e o documento de identidade. Trocar CPF e identidade depois \u00e9 muito mais dif\u00edcil. Os pais adotivos t\u00eam dificuldade de trocar esses documentos com os pais biol\u00f3gicos.\r\nEu gostaria de pedir apoio para o PL 4.045, que est\u00e1 tramitando na Comiss\u00e3o de Seguridade Social e Fam\u00edlia, onde j\u00e1 h\u00e1 indicativo de aprova\u00e7\u00e3o. Queria agradecer desde j\u00e1 a todos os que puderem ajudar, para darmos uma condi\u00e7\u00e3o social melhor \u00e0s crian\u00e7as, para tir\u00e1-las desse risco social.\r\nPosso falar isso de cadeira porque sou adotado e sei que, se n\u00e3o fossem os meus padrinhos, se n\u00e3o fossem as pessoas que me adotaram e me criaram, eu n\u00e3o estaria conversando com os meus pares hoje, buscando solu\u00e7\u00f5es para fazer justi\u00e7a social para as crian\u00e7as brasileiras.\r\nSr. Presidente, pe\u00e7o que a minha fala seja divulgada pelos meios de comunica\u00e7\u00e3o da Casa.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": null,
+        "nomeDeputado": "Ted Conti",
+        "sumario": null,
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, hoje, dia 25 de maio, \u00e9 o Dia Nacional da Ado\u00e7\u00e3o. Eu queria parabenizar a todas as pessoas envolvidas direta ou indiretamente nesse ato de amor incondicional que \u00e9 a ado\u00e7\u00e3o.\r\nPara se ter uma ideia, Presidente, no Brasil, hoje, n\u00f3s temos mais de 30 mil crian\u00e7as em situa\u00e7\u00e3o de acolhimento, em situa\u00e7\u00e3o de risco social, e mais de 5 mil crian\u00e7as j\u00e1 est\u00e3o aptas \u00e0 ado\u00e7\u00e3o. N\u00f3s do Congresso Nacional, da C\u00e2mara Federal precisamos agilizar projetos que deem mais seguran\u00e7a jur\u00eddica e seguran\u00e7a social para essas crian\u00e7as.\r\nEu tenho dois projetos, Sr. Presidente. O Projeto de Lei n\u00ba 3.997, de 2019, disp\u00f5e sobre a utiliza\u00e7\u00e3o do FGTS pelas pessoas que querem adotar, aquelas pessoas que t\u00eam esse amor no cora\u00e7\u00e3o, mas que muitas vezes precisam de um pequeno incentivo, do seu Fundo de Garantia do Tempo de Servi\u00e7o. N\u00e3o h\u00e1 nenhum gasto extra para o Governo Federal, \u00e9 um dinheiro da pr\u00f3pria pessoa, para ela utilizar na ado\u00e7\u00e3o. Ent\u00e3o, seria um incentivo a mais.\r\nEu gostaria de contar com o apoio dos nossos pares. Que, nesta Semana da Ado\u00e7\u00e3o, consigamos realmente fazer uma semana mais bonita para essas crian\u00e7as que est\u00e3o nessa inseguran\u00e7a jur\u00eddica.\r\nSr. Presidente, tamb\u00e9m apresentei o Projeto de Lei n\u00ba 4.045, de 2019, que possibilita o cancelamento de documentos preexistentes. N\u00f3s sabemos que muitas crian\u00e7as, quando nascem, j\u00e1 recebem automaticamente a certid\u00e3o de nascimento. Muitas, quando ficam um pouco mais velhinhas, com um pouquinho mais de idade, e v\u00e3o para a ado\u00e7\u00e3o, acabam recebendo tamb\u00e9m o CPF e o documento de identidade. Trocar CPF e identidade depois \u00e9 muito mais dif\u00edcil. Os pais adotivos t\u00eam dificuldade de trocar esses documentos com os pais biol\u00f3gicos.\r\nEu gostaria de pedir apoio para o PL 4.045, que est\u00e1 tramitando na Comiss\u00e3o de Seguridade Social e Fam\u00edlia, onde j\u00e1 h\u00e1 indicativo de aprova\u00e7\u00e3o. Queria agradecer desde j\u00e1 a todos os que puderem ajudar, para darmos uma condi\u00e7\u00e3o social melhor \u00e0s crian\u00e7as, para tir\u00e1-las desse risco social.\r\nPosso falar isso de cadeira porque sou adotado e sei que, se n\u00e3o fossem os meus padrinhos, se n\u00e3o fossem as pessoas que me adotaram e me criaram, eu n\u00e3o estaria conversando com os meus pares hoje, buscando solu\u00e7\u00f5es para fazer justi\u00e7a social para as crian\u00e7as brasileiras.\r\nSr. Presidente, pe\u00e7o que a minha fala seja divulgada pelos meios de comunica\u00e7\u00e3o da Casa.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": null,
+        "nomeDeputado": "Ted Conti",
+        "sumario": null,
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. TED CONTI (PSB - ES. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados. \r\nEu quero usar este tempo para falar de uma emenda in\u00e9dita, Sr. Presidente, que eu estou colocando para os cons\u00f3rcios de sa\u00fade aqui do Esp\u00edrito Santo. Os cons\u00f3rcios do meu Estado existem desde 1998. Pela primeira vez na hist\u00f3ria, um Parlamentar destina recursos p\u00fablicos federais que ir\u00e3o ajudar 74 Munic\u00edpios capixabas.\r\nSer\u00e3o beneficiados os cons\u00f3rcios CIM EXPANDIDA SUL, cujo Presidente \u00e9 o Prefeito de Anchieta, Fabr\u00edcio Petri; CIM NORTE, cujo Presidente \u00e9 o Prefeito de Pinheiros, Arn\u00f3bio Pinheiro; CIM POLO SUL, cujo Presidente \u00e9 o Prefeito de Jer\u00f4nimo Monteiro, S\u00e9rgio Fonseca; CIM POLINORTE, que tem como Presidente o Prefeito de Sooretama, Alessandro Broedel; CIM PEDRA AZUL, cujo Presidente \u00e9 o Prefeito de Laranja da Terra, Josaf\u00e1 Storch; e CIM NOROESTE, cujo Presidente \u00e9 o Prefeito de Pancas, Sidiclei. Isso representa, Sr. Presidente, uma cobertura de 95% dos Munic\u00edpios. Ser\u00e3o destinados 5 bilh\u00f5es de reais para aumentar a oferta de exames e consultas e, dessa forma, reduzir significativamente o tempo na fila de espera. \r\n\u00c9 importante destacar a parceria do Governador do Estado, Renato Casagrande, e do Secret\u00e1rio da Sa\u00fade, N\u00e9sio Fernandes, que alteraram, por meio de decreto e portaria, as leis que dificultavam ou impediam as chegadas de emendas parlamentares aos cons\u00f3rcios municipais de sa\u00fade. O Governador Renato Casagrande e o Secret\u00e1rio N\u00e9sio entenderam a relev\u00e2ncia desta a\u00e7\u00e3o para reduzir o sofrimento da popula\u00e7\u00e3o que aguarda por um diagn\u00f3stico ou tratamento de sa\u00fade, desburocratizando e agilizando o recebimento de recursos federais para atender a popula\u00e7\u00e3o que tanto necessita. \r\nEsta a\u00e7\u00e3o abre as portas para que outros Parlamentares capixabas possam tamb\u00e9m abra\u00e7ar esta importante causa e destinar recursos para consultas e exames em todo o Esp\u00edrito Santo por meio dos cons\u00f3rcios de sa\u00fade. \r\n\u00c9 isso, Sr. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

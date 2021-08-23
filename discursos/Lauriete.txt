@@ -1,0 +1,200 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-14T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ATENTADO, TERRORISMO, ESCOLA ESTADUAL, SUZANO (SP), V\u00cdTIMA, FAM\u00cdLIA, SOLIDARIEDADE.\r\nDIA INTERNACIONAL DA MULHER, HOMENAGEM, CR\u00cdTICA, VIOL\u00caNCIA CONTRA A MULHER, PUNI\u00c7\u00c3O.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Solidariedade aos familiares das v\u00edtimas de massacre ocorrido em estabelecimento escolar no Munic\u00edpio de Suzano, Estado de S\u00e3o Paulo. Transcurso do Dia Internacional da Mulher. Homenagem \u00e0s mulheres brasileiras. Implanta\u00e7\u00e3o de legisla\u00e7\u00f5es destinadas \u00e0 puni\u00e7\u00e3o severa dos praticantes de atos de viol\u00eancia contra a mulher.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. LAURIETE (Bloco/PR - ES. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, quero aqui, antes de falar sobre qualquer assunto, manifestar os nossos sentimentos \u00e0s fam\u00edlias devastadas que perderam os seus filhos no massacre de Suzano, no Estado de S\u00e3o Paulo, e como m\u00e3e, como crist\u00e3, chorar com as fam\u00edlias sem querer acusar algu\u00e9m, mas com a preocupa\u00e7\u00e3o de buscarmos um pouco mais de seguran\u00e7a para as escolas no nosso Brasil. N\u00f3s n\u00e3o podemos ver mais crian\u00e7as perdendo a vida, mais servidores perdendo a vida por falta de seguran\u00e7a. Fica aqui o nosso abra\u00e7o. Oro a Deus para que Ele venha confortar os cora\u00e7\u00f5es dessas fam\u00edlias.\r\nO outro assunto \u00e9 sobre o Dia Internacional da Mulher, que foi no dia 8 de mar\u00e7o. O m\u00eas de mar\u00e7o \u00e9 o m\u00eas internacional da mulher. Quero homenagear aqui todas as mulheres, representando as mulheres capixabas, legislando para todas as mulheres brasileiras. No entanto, queremos receber essa homenagem, como n\u00f3s recebemos desde o dia 8, no m\u00eas inteiro de mar\u00e7o, mas n\u00f3s queremos ser lembradas e homenageadas com carinho, com aten\u00e7\u00e3o, com flores todos os dias, n\u00e3o s\u00f3 no m\u00eas de mar\u00e7o. Quantas mulheres no Brasil, enquanto n\u00f3s estamos falando aqui na C\u00e2mara hoje, est\u00e3o sendo violentadas, mortas? Quantas m\u00e3es de fam\u00edlia t\u00eam deixado seus filhos \u00f3rf\u00e3os?\r\nEnt\u00e3o, n\u00f3s queremos essa aten\u00e7\u00e3o, esse carinho, esse olhar mais carinhoso por parte do Governo, para que n\u00f3s tenhamos leis mais severas para punir essas pessoas que conseguem cometer, sem n\u00f3s entendermos, crimes t\u00e3o cru\u00e9is.\r\nDeixamos aqui o nosso rep\u00fadio a tanta viol\u00eancia e o nosso abra\u00e7o a todas as mulheres. Lutaremos por dias melhores, porque n\u00f3s mulheres fomos criadas para sermos honradas, respeitadas e n\u00e3o agredidas. Convido todos os homens de todo o Brasil, nossos colegas Parlamentares, a fazerem isso pelas suas esposas, pelas suas m\u00e3es, pelas suas irm\u00e3s. Fa\u00e7am isso por n\u00f3s, juntem-se a n\u00f3s, para que esse ex\u00e9rcito fique maior e mais forte.\r\nObrigada.\r\nDeus nos aben\u00e7oe!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F3%2F2019&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T09:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "VILA VELHA (ES), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM, ESP\u00cdRITO SANTO (ESTADO).",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Transcurso do 484\u00ba anivers\u00e1rio do Munic\u00edpio de Vila Velha, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (PL - ES. Sem revis\u00e3o da oradora.) - Sr. Presidente, sou a Deputada Lauriete, do Esp\u00edrito Santo. Quero s\u00f3 parabenizar a minha cidade de Vila Velha, no Esp\u00edrito Santo, pelos seus 484 anos. Estamos comemorando tamb\u00e9m a coloniza\u00e7\u00e3o do solo esp\u00edrito-santense. \r\nParab\u00e9ns, Vila Velha! Parab\u00e9ns, Esp\u00edrito Santo!\r\nObrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=38&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HOMIC\u00cdDIO, V\u00cdTIMA, ANDERSON DO CARMO, PASTOR, PROJETO SOCIAL, CRIAN\u00c7A, MARIDO, FLORDELIS, DEPUTADA FEDERAL, SOLIDARIEDADE.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Solidariedade \u00e0 Deputada Flordelis pela morte do esposo, Pastor Anderson do Carmo de Souza.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (PL - ES. Sem revis\u00e3o da oradora.) - Sra. Presidente, eu sei que v\u00e1rios Parlamentares colegas da Deputada Flordelis j\u00e1 se manifestaram sobre a morte do Pastor Anderson do Carmo, seu marido.\r\nN\u00f3s, que os acompanhamos h\u00e1 tantos num projeto t\u00e3o lindo, em que o casal retirava crian\u00e7as do tr\u00e1fico e as ajudava a construir uma nova hist\u00f3ria, estamos muito sentidos. Ele teve a vida ceifada, de modo t\u00e3o violento e extremamente tr\u00e1gico. Quero transmitir nossos sentimentos. \r\nQue Deus a aben\u00e7oe e a conforte, dando-lhe for\u00e7a e coragem, para continuar esta boa obra!\r\nFlordelis \u00e9 nossa amiga do cora\u00e7\u00e3o, uma grande Parlamentar, algu\u00e9m que tem feito hist\u00f3ria no Rio de Janeiro e nesta Casa. Isso s\u00f3 mostra o carinho que temos por ela e como \u00e9 querida, tanto quanto o Pastor Anderson do Carmo, que se foi, mas deixa uma hist\u00f3ria linda de muito amor para com o pr\u00f3ximo.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-09T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CHUVA, ENCHENTE, ESPIRITO SANTO (ESTADO).\r\nSANTA CASA DE MISERIC\u00d3RDIA, VITORIA (ES), TRANSFORMA\u00c7\u00c3O, HOSPITAL, DOEN\u00c7A RARA.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Agradecimento a institui\u00e7\u00f5es por campanhas de doa\u00e7\u00e3o de alimentos e agasalhos \u00e0s fam\u00edlias atingidas por chuvas torrenciais, no Estado do Esp\u00edrito Santo.Transforma\u00e7\u00e3o da Santa Casa de Miseric\u00f3rdia de Vit\u00f3ria em hospital de refer\u00eancia no tratamento de doen\u00e7as raras.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (PL - ES. Sem revis\u00e3o da oradora.) - Sr. Presidente, nobres Deputados, o Estado do Esp\u00edrito Santo tem sofrido muito nas \u00faltimas semanas com as fortes chuvas. Quero aqui parabenizar e agradecer muitas institui\u00e7\u00f5es por diversas campanhas de doa\u00e7\u00f5es - e at\u00e9 participamos de algumas. \u00c9 o povo capixaba assistindo as pessoas e muitas fam\u00edlias desabrigadas por causa das chuvas. \r\nSr. Presidente, tamb\u00e9m quero fazer outro registro. N\u00f3s da Subcomiss\u00e3o Especial de Doen\u00e7as Raras da C\u00e2mara dos Deputados estamos felizes e satisfeitos em dar a not\u00edcia de que a Santa Casa de Vit\u00f3ria agora \u00e9 um hospital refer\u00eancia em doen\u00e7as raras. Antes, muitas pessoas portadoras de doen\u00e7as raras tinham que ir a outros Estados em busca de tratamento. \r\nNo dia 13 de setembro, n\u00f3s fizemos um f\u00f3rum sobre doen\u00e7as raras no Estado do Esp\u00edrito Santo, quando ouvimos muitas pessoas portadores dessas doen\u00e7as e suas fam\u00edlias, que falaram das suas dificuldades, e ficamos esperan\u00e7osos. E agora, com muita satisfa\u00e7\u00e3o e alegria, n\u00f3s temos o Hospital Santa Casa de Vit\u00f3ria como refer\u00eancia em doen\u00e7as raras. N\u00e3o h\u00e1 coisa melhor do que cuidar de gente.\r\nDeus aben\u00e7oe a todos!\r\nObrigada, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-04T10:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 5638/2020, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE RETOMADA DO SETOR DE EVENTOS (PERSE), MEDIDA DE EMERG\u00caNCIA, EMPRESA, EVENTO, COMPENSA\u00c7\u00c3O, PREJU\u00cdZO, ISOLAMENTO (SA\u00daDE), QUARENTENA (SA\u00daDE), CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 5.638, de 2020, sobre as a\u00e7\u00f5es emergenciais tempor\u00e1rias destinadas ao setor de eventos em face da epidemia de coronav\u00edrus; e a altera\u00e7\u00e3o das Leis de n\u00bas 13.756, de 2018, e 14.020, de 2020.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (PSC - ES. Sem revis\u00e3o da oradora.) - Bom dia, Presidente. Bom dia, Deputados e Deputadas. Bom dia a todo o Brasil que nos est\u00e1 assistindo.\r\nNesta semana, a C\u00e2mara aprovou o Projeto de Lei n\u00ba 5.638, de 2020. Neste momento s\u00f3 quero agradecer e parabenizar o Brasil por esse PL t\u00e3o importante para tantas fam\u00edlias, empresas e pessoas que, direta ou indiretamente, dependem desse segmento para sobreviver.\r\nEu sou da \u00e1rea da m\u00fasica, sou uma cantora gospel, h\u00e1 40 anos. Sei que muitos m\u00fasicos, muitos cantores, muitas pessoas que trabalham nessa \u00e1rea dependem de eventos como feiras, casas de shows, casa de festas, enfim. Na impossibilidade de realiza\u00e7\u00e3o de eventos por causa da pandemia, \u00e9 claro, esse PL garante um socorro para tantas fam\u00edlias e tantas pessoas que dependem desse segmento.\r\nObrigada a todos os nossos pares.\r\nParab\u00e9ns ao Brasil!\r\nObrigada, Presidente.\r\nBom dia para todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-23T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SAUDA\u00c7\u00c3O, MULHER, HOMENAGEM. \r\nDAMARES ALVES, MINISTRA DE ESTADO DA MULHER DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, INSTALA\u00c7\u00c3O, CASAS DA MULHER BRASILEIRA, ESP\u00cdRITO SANTO (ESTADO). \r\nC\u00c2MARA DOS DEPUTADOS, PRIORIDADE, PROPOSI\u00c7\u00c3O LEGISLATICA, DEFESA, MULHER. \r\nLAURIETE, DEPUTADA FEDERAL, VOTO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O,  ELOGIO.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Sauda\u00e7\u00f5es \u00e0s mulheres brasileiras. Agradecimento \u00e0 Ministra da Mulher, da Fam\u00edlia e dos Direitos Humanos, Damares Alves, pelo apoio \u00e0 instala\u00e7\u00e3o da Casa da Mulher Brasileira no Estado do Esp\u00edrito Santo. Pedido \u00e0 Presid\u00eancia de prioridade na vota\u00e7\u00e3o de projetos de prote\u00e7\u00e3o \u00e0s mulheres, de autoria da oradora. N\u00e3o arrependimento pela Parlamentar do voto no Presidente Jair Bolsonaro. Apoio e confian\u00e7a na gest\u00e3o do Presidente da Rep\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (Bloco/PSC - ES. Sem revis\u00e3o da oradora.) - Boa tarde, Presidente, todos os Deputados e Deputadas e todos os que nos assistem agora.\r\nAinda no m\u00eas da mulher, eu cumprimento todas as mulheres brasileiras, especialmente as capixabas, e venho dizer que a Casa da Mulher Brasileira est\u00e1 chegando ao nosso Estado, o Esp\u00edrito Santo, o que \u00e9 um sonho de anos. Queremos agradecer \u00e0 Ministra Damares, que tem ajudado muito esse projeto a se efetivar.\r\nE ele vai se efetivar muito em breve. \u00c9 um projeto importante, que acolhe mulheres v\u00edtimas da viol\u00eancia dom\u00e9stica em uma casa equipada, uma casa com servi\u00e7os multiprofissionais, uma casa que ser\u00e1 ref\u00fagio para essas mulheres.\r\nQuero dizer, Presidente, que existem muitos projetos bons tramitando nesta Casa. Eu tamb\u00e9m tenho cooperado. Tenho elaborado v\u00e1rios projetos em defesa da mulher e gostaria que esta Casa desse certa prioridade a eles, j\u00e1 que a viol\u00eancia dom\u00e9stica tem crescido assustadoramente em meio \u00e0 pandemia.\r\nOutro fato que eu quero relatar aqui \u00e9 que um colega, na semana passada, disse que quem votou no Presidente Jair Bolsonaro com certeza se arrependeu e que os evang\u00e9licos que votaram nele o fizeram porque foram enganados por seus pastores. Eu quero dizer que votei no Presidente Jair Bolsonaro e n\u00e3o me arrependi. Continuo acreditando na sua gest\u00e3o. Quero dizer tamb\u00e9m que, como evang\u00e9lica, nenhum pastor meu me enganou, muito pelo contr\u00e1rio. Pastor de verdade n\u00e3o engana ningu\u00e9m, ele cuida. Ent\u00e3o, quero pedir ao nosso colega que n\u00e3o generalize e dizer que, em rela\u00e7\u00e3o a esse assunto, ele est\u00e1 muito enganado.\r\nQue Deus nos aben\u00e7oe! Eu ainda acredito em dias melhores para o nosso Brasil.\r\nEu queria que o meu pronunciamento fosse divulgado no programa A Voz do Brasil.\r\nObrigada, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-19T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MAIO LARANJA, VIOL\u00caNCIA SEXUAL, CRIAN\u00c7A, ADOLESCENTE, EXPLORA\u00c7\u00c3O SEXUAL, V\u00cdTIMA, ARACELI CRESPO, ESP\u00cdRITO SANTO (ESTADO), LORENZO PAZOLINI, PREFEITO, VIT\u00d3RIA (ES), DAMARES ALVES, MINISTRA DE ESTADO DA MULHER, DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, BANCADA ESTADUAL, PEDOFILIA.\r\nVOTO FAVOR\u00c1VEL, APROVA\u00c7\u00c3O, PL 1568/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO PENAL, CRIME CONTRA A VIDA, AUMENTO DA PENA, FEMINIC\u00cdDIO, MULHER, CUMPRIMENTO, PENA, REGIME FECHADO.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Realiza\u00e7\u00e3o da campanha Maio Laranja, destinada ao combate ao abuso e \u00e0 explora\u00e7\u00e3o sexual de crian\u00e7as e adolescentes. Realiza\u00e7\u00e3o no Pa\u00eds, pelo Comit\u00ea Nacional de Enfrentamento \u00e0 Viol\u00eancia Sexual contra Crian\u00e7as e Adolescentes, de a\u00e7\u00f5es de preven\u00e7\u00e3o \u00e0 viol\u00eancia sexual infantil. Apoio ao aumento da pena imposta ao crime de feminic\u00eddio.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (Bloco/PSC - ES. Sem revis\u00e3o da oradora.) - Presidente, boa tarde.\r\nBoa tarde, todos os colegas Parlamentares e todos os brasileiros que nos acompanham nesta sess\u00e3o.\r\nPresidente, a campanha do Maio Laranja, contra o abuso e a explora\u00e7\u00e3o sexual de crian\u00e7as e adolescentes, teve o seu \u00e1pice no dia 18, ontem, uma data determinada oficialmente, por lei, em mem\u00f3ria \u00e0 menina Araceli Crespo, de 8 anos de idade, que foi sequestrada, violentada e assassinada em 18 de maio de 1973, em Vit\u00f3ria, no Esp\u00edrito Santo.\r\nO Comit\u00ea Nacional de Enfrentamento \u00e0 Viol\u00eancia Sexual contra Crian\u00e7as e Adolescentes realizou ontem, em todo o Brasil, a\u00e7\u00f5es para alertar a sociedade sobre a necessidade de preven\u00e7\u00e3o \u00e0 viol\u00eancia sexual infantil. No meu Estado, o Esp\u00edrito Santo, tivemos ato com a presen\u00e7a da Ministra Damares, do Prefeito de Vit\u00f3ria, Lorenzo Pazolini, que \u00e9 um delegado que j\u00e1 prendeu mais de mil ped\u00f3filos, e tamb\u00e9m de Deputados Federais de outros Estados. N\u00f3s plantamos flores no jardim memorial da Araceli Crespo, que tamb\u00e9m simboliza as l\u00e1grimas das muitas m\u00e3es que choram pelos filhos e filhas que tiveram os sonhos de crescer, estudar, se formar, casar, ter filhos interrompidos por esses assassinos. Representando a bancada federal capixaba, fiz um apelo pela uni\u00e3o das pessoas, para virarmos um grande ex\u00e9rcito lutando em defesa das nossas crian\u00e7as, para mudar urgentemente esse triste quadro.\r\nPed\u00f3filos s\u00e3o criminosos cru\u00e9is que sequestram, violentam, matam crian\u00e7as. Eles merecem penas duras, precisam pagar pelos crimes, geralmente cometidos com requintes de crueldade.\r\nEu aproveito a oportunidade para tamb\u00e9m registrar o meu voto favor\u00e1vel, ontem, nesta Casa, quando aprovamos o aumento da pena m\u00ednima para feminic\u00eddio, que passa de 12 para 15 anos. Assassinar brutalmente uma mulher indefesa dentro de um ambiente familiar ou em qualquer lugar que seja \u00e9 um crime hediondo.\r\nFinalizando, afirmo que sou defensora de leis duras para quem maltrata ou assassina mulheres e crian\u00e7as. Nenhum crime pode ficar impune, mas abusar de crian\u00e7as ou mulheres indefesas, maltrat\u00e1-las ou mat\u00e1-las \u00e9 crime hediondo. E na nossa sociedade n\u00e3o h\u00e1 espa\u00e7o para assassinos cru\u00e9is viverem em liberdade. Pelo contr\u00e1rio, eles devem pagar suas longas penas em regime fechado.\r\nQue Deus nos aben\u00e7oe e nos guarde todos os dias.\r\nPresidente, pe\u00e7o que este pronunciamento seja divulgado no programa A Voz do Brasil e nos ve\u00edculos de comunica\u00e7\u00e3o desta Casa.\r\nBoa tarde.\r\nMuito obrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-27T10:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 5043/2020, PROJETO DE LEI ORDINARIA, OBRIGATORIEDADE, TESTE DO PEZINHO AMPLIADO, DIAGN\u00d3STICO PRECOCE, DETEC\u00c7\u00c3O , DOEN\u00c7A, REC\u00c9M-NASCIDO, SAN\u00c7\u00c3O PRESIDENCIAL, ELOGIO.\r\nPL 2466/2019, PROJETO DE LEI ORDINARIA, CRIA\u00c7\u00c3O, MAIO LARANJA, ATIVIDADE, CONSCIENTIZA\u00c7\u00c3O, PREVEN\u00c7\u00c3O, COMBATE, EXPLORA\u00c7\u00c3O SEXUAL, VIOL\u00caNCIA SEXUAL, CRIAN\u00c7A, ADOLESCENTE,  APROVA\u00c7\u00c3O, ELOGIO.\r\nDAMARES ALVES, MINISTRA DE ESTADO DA MULHER DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, VIAGEM, VIT\u00d3RIA (ES).\r\nPL 399/2015, PROJETO DE LEI ORDINARIA,  CRIT\u00c9RIO, COMERCIALIZA\u00c7\u00c3O, MEDICAMENTO, PRINC\u00cdPIO ATIVO, SUBST\u00c2NCIA, MACONHA, CANABIDIOL, CONTRARIO.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "San\u00e7\u00e3o, pelo Presidente da Rep\u00fablica, do Projeto de Lei n\u00ba 5.043, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.069, de 1990, (Estatuto da Crian\u00e7a e do Adolescente), para aperfei\u00e7oamento do Programa Nacional de Triagem Neonatal (teste do pezinho). Aprova\u00e7\u00e3o, pela Casa, do Projeto de Lei n\u00ba 2.466, de 2019, relativo \u00e0 institui\u00e7\u00e3o da campanha Maio Laranja, destinada \u00e0 implementa\u00e7\u00e3o de a\u00e7\u00f5es efetivas de combate ao abuso e \u00e0 explora\u00e7\u00e3o sexual de crian\u00e7as e adolescentes. Visita de Deputados e da Ministra da Mulher, da Fam\u00edlia e dos Direitos Humanos, Damares Alves, ao Memorial Araceli, em Vit\u00f3ria, Estado do Esp\u00edrito Santo. Defesa de rejei\u00e7\u00e3o do Projeto de Lei n\u00ba 399, de 2015, sobre a comercializa\u00e7\u00e3o de medicamentos formulados com a planta Cannabis sativa.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (Bloco/PSC - ES. Sem revis\u00e3o da oradora.) - Bom dia a todos, bom dia a todas. Bom dia, Presidente, minha amiga e Sra. Deputada Rosangela Gomes. Que bom v\u00ea-la presidir esta Casa! Fico feliz.\r\nOntem, foi sancionado pelo Presidente Jair Bolsonaro o projeto de lei que amplia o n\u00famero de doen\u00e7as rastreadas pelo teste do pezinho. Atualmente, o SUS realiza um teste que engloba 6 doen\u00e7as. Com a nova lei, o exame passar\u00e1 a englobar 14 grupos de doen\u00e7as que podem identificar at\u00e9 53 tipos diferentes de enfermidades em condi\u00e7\u00f5es especiais de sa\u00fade.\r\nPor falar em crian\u00e7a, ontem foi votado nesta Casa o projeto de lei que institui o Maio Laranja. Eu quero parabenizar a Deputada Leandre por ser a autora do PL e dizer que este \u00e9 um importante projeto, que nos far\u00e1 refletir todos os anos e intensificar a luta na defesa das nossas crian\u00e7as e dos nossos adolescentes. \r\nNa semana passada, estiveram aqui a Ministra Damares Alves e alguns Deputados e, inclusive, a Deputada Leandre, no Memorial Araceli. Araceli era uma crian\u00e7a de 8 anos de idade que foi brutalmente assassinada em 1973. No Memorial Araceli, n\u00f3s podemos plantar flores, que representam as l\u00e1grimas de muitas m\u00e3es, m\u00e3es de meninas e de meninos que tiveram suas vidas interrompidas por assassinos. \u00c9 tempo, portanto, de intensificarmos nossa luta e combater esses tr\u00e1gicos crimes cometidos por assassinos, pessoas que s\u00e3o seres humanos, mas n\u00e3o t\u00eam cora\u00e7\u00e3o.\r\nAinda, Presidente, minha amiga Deputada Rosangela, quero falar sobre a manobra s\u00f3rdida para descriminalizar e legalizar o com\u00e9rcio da maconha no Brasil, iniciativa que usa como pano de fundo a ci\u00eancia. O projeto de lei da maconha foi proposto para fornecer o canabidiol, \u00fanica mol\u00e9cula presente na Cannabis sativa que tem efeitos terap\u00eauticos para tratar casos de epilepsia refrat\u00e1ria.\r\nN\u00f3s queremos alertar a sociedade sobre este projeto. N\u00e3o h\u00e1 sentido algum em liberar o plantio, a comercializa\u00e7\u00e3o, a industrializa\u00e7\u00e3o da Cannabis, quando o que se precisa \u00e9 t\u00e3o somente garantir que o canabidiol, o medicamento, chegue \u00e0queles que precisam de verdade. Isso a ANVISA j\u00e1 garante. \r\nPortanto, nossa inten\u00e7\u00e3o \u00e9 sepultar esse PL da maconha.\r\nEnt\u00e3o, por mais que a inten\u00e7\u00e3o do autor da mat\u00e9ria original seja merit\u00f3ria, ela j\u00e1 foi contemplada pelas resolu\u00e7\u00f5es da ANVISA.\r\nPortanto, em nome das fam\u00edlias que j\u00e1 perderam seus filhos, seus c\u00f4njuges por causa de drogas, eu sou contra a legaliza\u00e7\u00e3o da maconha.\r\nPresidente Rosangela, Deus te aben\u00e7oe! Muito bom v\u00ea-la alegrando as nossas manh\u00e3s.\r\nPe\u00e7o que o meu pronunciamento seja transmitido no A Voz do Brasil e pelos demais ve\u00edculos de comunica\u00e7\u00e3o desta Casa.\r\nDeus a aben\u00e7oe!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-08T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 741/2021, PROJETO DE LEI ORDIN\u00c1RIA,  CRIA\u00c7\u00c3O, PROGRAMA DE COOPERA\u00c7\u00c3O SINAL VERMELHO CONTRA A VIOL\u00caNCIA DOM\u00c9STICA, SINALIZA\u00c7\u00c3O, MULHER, IDENTIFICA\u00c7\u00c3O, VIOL\u00caNCIA DOM\u00c9STICA, PRESTA\u00c7\u00c3O DE SOCORRO, APROVA\u00c7\u00c3O, ELOGIO. \r\nPL 2113/2021, PROJETO DE LEI ORDIN\u00c1RIA, LACTANTE, GRUPO PRIORIT\u00c1RIO, VACINA\u00c7\u00c3O, VACINA, CORONAV\u00cdRUS. \r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, INAUGURA\u00c7\u00c3O, CONJUNTO HABITACIONAL, HABITA\u00c7\u00c3O DE INTERESSE SOCIAL, PROGRAMA CASA VERDE E AMARELA,  S\u00c3O MATEUS (ES).",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Regozijo com a aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 741, de 2021, referente \u00e0 cria\u00e7\u00e3o do Programa de Coopera\u00e7\u00e3o Sinal Vermelho contra a Viol\u00eancia Dom\u00e9stica. Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 2.113, de 2021, sobre o estabelecimento de prioridade para a vacina\u00e7\u00e3o de lactantes contra a Covid-19. Participa\u00e7\u00e3o do Presidente Jair Bolsonaro na inaugura\u00e7\u00e3o de conjunto residencial constru\u00eddo por meio do Programa Casa Verde e Amarela, no Munic\u00edpio de S\u00e3o Mateus, Estado do Esp\u00edrito Santo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (Bloco/PSC - ES. Sem revis\u00e3o da oradora.) - Presidente, boa tarde.\r\nO SR. PRESIDENTE (Luis Miranda. Bloco/DEM - DF) - Boa tarde.\r\nA SRA. LAURIETE (Bloco/PSC - ES) - Obrigada por ser ouvinte da minha m\u00fasica.\r\nO SR. PRESIDENTE (Luis Miranda. Bloco/DEM - DF) - Da boa m\u00fasica de V.Exa.\r\nA SRA. LAURIETE (Bloco/PSC - ES) - Boa tarde, Sras. e Srs. Deputados. Boa tarde a todos os que nos assistem, que acompanham esta sess\u00e3o.\r\nPresidente, quero manifestar aqui a minha satisfa\u00e7\u00e3o com a cria\u00e7\u00e3o do programa Sinal Vermelho contra a Viol\u00eancia Dom\u00e9stica, aprovado na semana passada, sobre o qual n\u00e3o tive a oportunidade de falar. Essa \u00e9 uma vit\u00f3ria muito importante. A proposta aprovada tamb\u00e9m tipifica crime de viol\u00eancia psicol\u00f3gica contra a mulher, como amea\u00e7a, constrangimento, humilha\u00e7\u00e3o, manipula\u00e7\u00e3o, isolamento, chantagem, limita\u00e7\u00e3o do direito de ir ou vir ou qualquer outro m\u00e9todo que cause preju\u00edzo \u00e0 sa\u00fade psicol\u00f3gica.\r\nO programa Sinal Vermelho \u00e9 um socorro para todas as mulheres, que poder\u00e3o ser atendidas dessa forma. Os n\u00fameros de viol\u00eancia contra a mulher continuam muito altos. Ent\u00e3o, \u00e9 preciso que toda a sociedade reaja para construir um Brasil mais justo e igualit\u00e1rio. Parab\u00e9ns pela cria\u00e7\u00e3o dessa campanha Sinal Vermelho!\r\nPresidente, tamb\u00e9m quero comunicar que, neste per\u00edodo de imuniza\u00e7\u00e3o do Brasil contra a COVID-19, fui procurada por um grupo de mulheres reivindicando a inser\u00e7\u00e3o das lactantes entre os grupos com prioridade na vacina\u00e7\u00e3o.\r\nJ\u00e1 foi comprovado pela ci\u00eancia que as lactantes, quando imunizadas, transmitem \u00e0s suas crian\u00e7as os anticorpos necess\u00e1rios para torn\u00e1-las imunes \u00e0 COVID-19. Ent\u00e3o, podemos afirmar que a vacina\u00e7\u00e3o das lactantes vale por dois. As crian\u00e7as na idade de amamenta\u00e7\u00e3o n\u00e3o conseguem ainda usar m\u00e1scaras, ent\u00e3o, a medida seria muito eficiente e protegeria a fam\u00edlia, principalmente neste momento t\u00e3o fr\u00e1gil. Nesse sentido, em favor dessas mulheres, eu estou apresentando nesta Casa um projeto de lei que inclui as lactantes no grupo com prioridade na vacina\u00e7\u00e3o e eu pe\u00e7o o apoio, \u00e9 claro, de todos os nossos colegas.\r\nAproveito tamb\u00e9m para informar que meu Estado do Esp\u00edrito Santo vai receber nesta sexta-feira, dia 11 de junho, a visita do nosso Presidente Jair Bolsonaro. Em S\u00e3o Mateus, norte do Estado, o Presidente Bolsonaro vai fazer a entrega de 434 casas populares constru\u00eddas no bairro Aroeira, por meio do Programa Casa Verde e Amarela, um programa social do Governo Federal de grande abrang\u00eancia que beneficia diretamente fam\u00edlias socialmente vulner\u00e1veis. Registro aqui a minha gratid\u00e3o, em nome do povo capixaba.\r\nQue Deus nos aben\u00e7oe.\r\nPe\u00e7o que meu pronunciamento seja veiculado no programa A Voz do Brasil e nos demais ve\u00edculos de comunica\u00e7\u00e3o desta Casa.\r\nObrigada, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-17T10:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, IGREJA EVANG\u00c9LICA, DANIEL BERG, GUNNAR VINGREN, MISSION\u00c1RIO, HOMENAGEM.",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Comemora\u00e7\u00e3o do 110\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da Igreja Evang\u00e9lica Assembleia de Deus.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (Bloco/PSC - ES. Sem revis\u00e3o da oradora.) - Bom dia, Sra. Presidente, Sras. e Srs. Deputados, todo o Brasil que nos assiste atrav\u00e9s da TV C\u00e2mara.\r\nPresidente, estou feliz em v\u00ea-la presidindo os trabalhos desta Casa!\r\nEu quero registrar aqui que amanh\u00e3, dia 18 de junho, n\u00f3s estaremos comemorando os 110 anos da Igreja Assembleia de Deus, a maior denomina\u00e7\u00e3o do mundo. Fundada em 1911 pelos mission\u00e1rios Daniel Berg e Gunnar Vingren, a Assembleia de Deus tem contribu\u00eddo muito com este Pa\u00eds, com atendimento social e, acima de tudo, espiritual. S\u00e3o homens e mulheres se dedicando a pregar a palavra de Deus n\u00e3o s\u00f3 no Brasil, mas tamb\u00e9m em todo o mundo. Comemoraremos no Brasil, ent\u00e3o, amanh\u00e3, dia 18 de junho, os 110 anos da Assembleia de Deus, nascida em Bel\u00e9m do Par\u00e1 em 1911.\r\nParab\u00e9ns a todos os assembleianos brasileiros! Que Deus nos aben\u00e7oe! Que fique registrada aqui a minha fala e a minha homenagem \u00e0 maior denomina\u00e7\u00e3o pentecostal do mundo inteiro.\r\nEu queria que este pronunciamento fosse registrado no programa A Voz do Brasil e nos outros meios de comunica\u00e7\u00e3o desta Casa, Presidente.\r\nObrigada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-24T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CARIACICA (ES), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA, HOMENAGEM, CASAS DA MULHER BRASILEIRA, INSTALA\u00c7\u00c3O. \r\nLUCAS DANIEL MIRANDA, MOTOCICLISTA, FALECIMENTO, ACIDENTE, CEROL, RODOVIA, VILA VELHA (ES). \r\nPL 2301/2021, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO PENAL, CRIME DE PERIGO COMUM, CRIME QUALIFICADO, FABRICA\u00c7\u00c3O, AQUISI\u00c7\u00c3O, FORNECIMENTO, TRANSPORTE, CEROL, LINHA CHILENA, CRIA\u00c7\u00c3O, CAMPANHA EDUCATIVA, RISCOS (SEGURAN\u00c7A),",
+        "nomeDeputado": "Lauriete",
+        "sumario": "Transcurso do 131\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de Cariacica, Estado do Esp\u00edrito Santo. Instala\u00e7\u00e3o da Casa da Mulher Brasileira na municipalidade. Falecimento do motociclista Lucas Daniel Miranda atingido por linha de pipa com cerol, na Rodovia do Sol, Munic\u00edpio de Vila Velha, no Esp\u00edrito Santo. Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 2.301, de 2021, acerca do estabelecimento de medidas punitivas e de preven\u00e7\u00e3o \u00e0 utiliza\u00e7\u00e3o de cerol e linha chilena.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "A SRA. LAURIETE (Bloco/PSC - ES. Sem revis\u00e3o da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, Cariacica \u00e9 um Munic\u00edpio do Estado do Esp\u00edrito Santo e hoje completa 131 anos. Como presente, a popula\u00e7\u00e3o de Cariacica vai receber a constru\u00e7\u00e3o da primeira Casa da Mulher Brasileira no Estado, que vai promover o atendimento socioecon\u00f4mico a mulheres e fam\u00edlias v\u00edtimas de viol\u00eancia dom\u00e9stica. Obtive do Minist\u00e9rio da Mulher, da Fam\u00edlia e dos Direitos Humanos a libera\u00e7\u00e3o de 900 mil reais para essa obra. Em breve, com a presen\u00e7a da Ministra Damares Alves, daremos in\u00edcio \u00e0 constru\u00e7\u00e3o desse importante projeto, que ser\u00e1 refer\u00eancia para o Estado do Esp\u00edrito Santo.\r\nParab\u00e9ns, Cariacica, e obrigada pela contribui\u00e7\u00e3o para o desenvolvimento do nosso Estado do Esp\u00edrito Santo!\r\nNo dia 16 pr\u00f3ximo passado, um motociclista de 21 anos de idade morreu ao ter o pesco\u00e7o cortado por uma linha de pipa na Rodovia do Sol, na minha cidade de Vila Velha, no Esp\u00edrito Santo. De acordo com a Pol\u00edcia Militar, o acidente ocorreu por volta das 14h30min. O motociclista Lucas Daniel Miranda foi atingido pela linha, o ve\u00edculo tombou na pista, e ele morreu na hora. Lucas trabalhava como entregador para uma farm\u00e1cia. Lamento a morte precoce desse jovem e me solidarizo com a sua fam\u00edlia.\r\nPor causa deste triste epis\u00f3dio e de outros que j\u00e1 aconteceram, eu apresentei ontem a esta Casa projeto de lei que estabelece medidas punitivas e de preven\u00e7\u00e3o \u00e0 utiliza\u00e7\u00e3o de cerol e linha chilena. Creio que esse projeto, ora posto em an\u00e1lise, se aprovado, poder\u00e1 prevenir incont\u00e1veis acidentes, poder\u00e1 evitar acidentes com mortes e mutila\u00e7\u00f5es. Pe\u00e7o o apoio dos nobres colegas para a aprova\u00e7\u00e3o dessa medida, quando pautada.\r\nObrigada, Presidente.\r\nUm bom dia a todos.\r\nPe\u00e7o que o meu pronunciamento seja divulgado no programa A Voz do Brasil e nos demais ve\u00edculos de comunica\u00e7\u00e3o desta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

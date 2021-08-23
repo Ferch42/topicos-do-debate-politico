@@ -1,0 +1,326 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DA BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PLP 441/2017, PROJETO DE LEI COMPLEMENTAR, PATRIOTAS (PATRI), VOTO CONTRARIO.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o da bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei Complementar n\u00ba 441-D, de 2017, sobre a cria\u00e7\u00e3o do cadastro positivo de cr\u00e9dito e a regulamenta\u00e7\u00e3o da responsabilidade civil dos operadores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRI - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota encaminha o voto \"n\u00e3o\", porque queremos debater a mat\u00e9ria.\r\nA nosso ver, \u00e9 uma oportunidade para que tamb\u00e9m o pobre, aquele que tem menos condi\u00e7\u00e3o, possa estar inserido num cadastro que o positive, e n\u00e3o s\u00f3 inserido naquele cadastro que o negative.\r\nO Patriota encaminha o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-21T10:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARRECA FILHO, DEPUTADO FEDERAL, AGRADECIMENTO, ELEITOR, MARANH\u00c3O, ELEI\u00c7\u00c3O.\r\nINC 25/2019, INDICA\u00c7\u00c3O, DUPLICA\u00c7\u00c3O, RODOVIA FEDERAL, BR 222, ITAPECURU MIRIM (MA). \r\nMARRECA FILHO, ATUA\u00c7\u00c3O, POPULA\u00c7\u00c3O, MARANH\u00c3O.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Agradecimento aos eleitores maranhenses pela elei\u00e7\u00e3o do orador. Defesa da duplica\u00e7\u00e3o da BR-222, na altura do Munic\u00edpio de Itapecuru-Mirim, Estado do Maranh\u00e3o. Compromisso de atua\u00e7\u00e3o parlamentar em prol da popula\u00e7\u00e3o maranhense.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. MARRECA FILHO (PATRI - MA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. colegas, quero agradecer esta oportunidade. Estou usando esta tribuna pela primeira vez e quero me apresentar. Sou do Maranh\u00e3o, de uma cidade chamada Itapecuru Mirim, e sou o Deputado mais jovem desta bancada e da bancada do Maranh\u00e3o.\r\nQuero aqui agradecer \u00e0queles que acreditaram no nosso projeto, acreditaram no nosso trabalho e nos deram a expressiva vota\u00e7\u00e3o de quase 80 mil votos, o que nos posicionou entre um dos principais Deputados daquele Estado.\r\nComo Deputado Federal, vim para substituir o meu pai, que ocupou esta cadeira na legislatura passada, o Deputado Junior Marreca, para continuar levando um legado, um legado de humildade, um legado de constru\u00e7\u00e3o de amizade e um legado de respeito, que ele fez durante os 4 anos em que esteve nesta Casa.\r\nNa oportunidade, j\u00e1 fiz algumas indica\u00e7\u00f5es, em especial a indica\u00e7\u00e3o da duplica\u00e7\u00e3o da BR-222, do trecho entre Itapecuru e entrocamento e tamb\u00e9m o elevado viaduto em cima da rodovia da entrada do Munic\u00edpio de Itapecuru. J\u00e1 come\u00e7amos o trabalho.\r\nEsta C\u00e2mara foi muito renovada, e n\u00f3s temos que mostrar essa nossa juventude, esses nossos novos ideais, o novo jeito de fazer pol\u00edtica, o jeito de pensar no nosso Munic\u00edpio, a forma de pensar no nosso Estado e a forma de pensar no melhor para o nosso Pa\u00eds.\r\n\u00c9 com muita honra e com muito orgulho que hoje ocupo uma vaga nesta Casa como Deputado Federal. Estou trabalhando e me dedicando bastante para poder honrar todos aqueles que acreditaram em mim e no meu trabalho.\r\nQuero dizer ao povo do Maranh\u00e3o que pode contar com o jovem Deputado Marreca Filho, que vai estar aqui trabalhando todos os dias para que tenhamos o desenvolvimento do nosso Estado e do nosso Pa\u00eds. Juntamente com o Governador Fl\u00e1vio Dino e com o Governo Federal, n\u00f3s vamos, sim, conseguir enxergar um novo horizonte para o nosso Estado e para o nosso Pa\u00eds.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F2%2F2019&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 11239/2018, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTAS (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento n\u00ba 591, de 2019, para aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de lei n\u00ba 11.239, de 2018, sobre altera\u00e7\u00e3o da CLT - Consolida\u00e7\u00e3o das Leis do Trabalho.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRI - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, primeiro, eu quero dizer que \u00e9 uma honra estar nesta sess\u00e3o, sendo presidido por sua pessoa.\r\nO Patriota encaminha o voto \"sim\" porque o Patriota \u00e9 a favor da pauta feminina. Dos direitos e dos interesses que digam respeito \u00e0 mulher, o Patriota vai estar ao lado, encaminhando o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 2724/2015, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTAS (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.724-A, de 2015, a respeito da eleva\u00e7\u00e3o da participa\u00e7\u00e3o da capital estrangeiro em empresas a\u00e9reas brasileiras.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRI - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota vota \"sim\". N\u00f3s queremos votar esta mat\u00e9ria por termos a convic\u00e7\u00e3o de que ela \u00e9 de suma import\u00e2ncia para nosso turismo e para o desenvolvimento do nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=250&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 8702/2017, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTAS (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pela Relatora da Comiss\u00e3o de Trabalho, de Administra\u00e7\u00e3o e Servi\u00e7o P\u00fablico, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRI - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu quero parabenizar a Deputada Renata Abreu pelo projeto e dizer que o Patriota encaminha o voto \"sim\". E tudo o que for a favor do direito das crian\u00e7as, do direito das mulheres, o Patriota sempre vai apoiar e estar junto em qualquer causa. E essa \u00e9 uma causa justa, que necessita do apoio de todos aqui nesta Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, UNIVERSIDADE FEDERAL, INSTITUTO FEDERAL DE EDUCA\u00c7\u00c3O, CI\u00caNCIA E TECNOLOGIA DO MARANH\u00c3O (IFMA), ENSINO T\u00c9CNICO, RECURSOS OR\u00c7AMENT\u00c1RIOS, CONTINGENCIAMENTO, CORTE, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, MINIST\u00c9RIO DA EDUCA\u00c7\u00c3O, GEST\u00c3O, QUESTIONAMENTO.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Contingenciamento de recursos or\u00e7ament\u00e1rios dos Institutos Federais de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. MARRECA FILHO (PATRI - MA) - Boa tarde a todos.\r\nEu quero agradecer ao Ministro a vinda ao plen\u00e1rio da C\u00e2mara dos Deputados.\r\nEu queria, Ministro, lhe fazer duas perguntas.\r\nO senhor afirmou ontem em entrevista que o contingenciamento afeta 12% das despesas discricion\u00e1rias e 3,5% de todo o or\u00e7amento do MEC. Mas o decreto de mar\u00e7o obrigou o Minist\u00e9rio da Educa\u00e7\u00e3o a reduzir consideravelmente as despesas discricion\u00e1rias em mais de 31%, tendo um dos maiores or\u00e7amentos da Esplanada. E o senhor tamb\u00e9m disse que quer priorizar o ensino t\u00e9cnico. Ent\u00e3o, como ficar\u00e3o os institutos federais nessa quest\u00e3o? Eles v\u00e3o poder se expandir?\r\nS\u00f3 em 2018, o Instituto Federal do Maranh\u00e3o, que \u00e9 no meu Estado, ofertou 6.600 vagas para curso t\u00e9cnico em 27 cidades. O contingenciamento de 38% nas dota\u00e7\u00f5es or\u00e7ament\u00e1rias previstas para o IFMA em 2019 representa aproximadamente 28 milh\u00f5es de reais a menos no or\u00e7amento do instituto. Caso mantido o bloqueio anunciado pelo MEC, causar\u00e1 um grave impacto \u00e0 educa\u00e7\u00e3o do Estado. O corte inviabilizar\u00e1 o pagamento de contratos de servi\u00e7os de \u00e1guas, energia, limpeza, vigil\u00e2ncia, telefonia, Internet, manuten\u00e7\u00e3o predial e demais servi\u00e7os essenciais para o funcionamento da entidade. Sem esses servi\u00e7os b\u00e1sicos, o IFMA teria que encerrar as suas atividades. O corte inviabilizar\u00e1 o ensino, a pesquisa e a extens\u00e3o em todos os 29 campi e seis centros de refer\u00eancia da institui\u00e7\u00e3o no Estado. Sabendo que o ensino t\u00e9cnico j\u00e1 \u00e9 carente de vagas e n\u00e3o consegue comportar todos os interessados, os institutos federais n\u00e3o poderiam ficar de fora do corte, j\u00e1 que eles deveriam ser uma prioridade para o Governo, principalmente na oferta de ensino t\u00e9cnico?\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "TRIBUNAL REGIONAL ELEITORAL (TRE), MARANH\u00c3O, RETORNO, PRIMEIRA INST\u00c2NCIA, PREFEITO, SANTA LUZIA (MA).",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Determina\u00e7\u00e3o pelo Tribunal Regional Eleitoral do Estado do Maranh\u00e3o de retorno, \u00e0 primeira inst\u00e2ncia, de processo instaurado contra a Prefeita Municipal de Santa Luzia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de saudar a decis\u00e3o do Tribunal Regional Eleitoral do Maranh\u00e3o que, ontem, dia 24 de junho, fez justi\u00e7a ao determinar que o processo contra a Prefeita do Munic\u00edpio de Santa Luzia, no Estado do Maranh\u00e3o, retornasse \u00e0 primeira inst\u00e2ncia para periciar prova inconsistente.\r\nEssa n\u00e3o foi uma vit\u00f3ria s\u00f3 da chapa da Prefeita Fran\u00e7a do Macaquinho e do Vice-Prefeito Juscelino Marreca Jr., mas tamb\u00e9m do povo luziense. Essa chapa est\u00e1 \u00e0 frente da administra\u00e7\u00e3o municipal fazendo um grande governo, o melhor da hist\u00f3ria do Munic\u00edpio de Santa Luzia.\r\nOs vitoriosos n\u00e3o foram os pol\u00edticos, mas sim o povo de Santa Luzia, que continuar\u00e1 usufruindo da gest\u00e3o desses dois que est\u00e3o \u00e0 frente da Prefeitura de Santa Luzia. \r\nAmanh\u00e3 chegaremos l\u00e1 em grande carreata para sermos saudados por esse povo que \u00e9 t\u00e3o vangloriado com essa administra\u00e7\u00e3o.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=70&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), EXCLUS\u00c3O, APOSENTADORIA RURAL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Regozijo com o acolhimento da emenda, de autoria do orador, destinada \u00e0 exclus\u00e3o de trabalhadores rurais do bojo da proposta governamental de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, colegas Deputados, hoje venho \u00e0 tribuna para dizer, com muita alegria, que fui o primeiro a apresentar emenda, na Comiss\u00e3o Especial da Reforma da Previd\u00eancia, para retirada dos trabalhadores e das trabalhadoras rurais da proposta de reforma da Previd\u00eancia do Governo Federal.\r\nAcompanhei a decis\u00e3o do Relator, o Deputado Samuel Moreira, e observei com muita alegria e muita honra que a minha emenda foi acatada nesse texto. Os trabalhadores rurais ser\u00e3o retirados, sim, dessa reforma. N\u00f3s temos de trabalhar para combater as fraudes, e n\u00e3o para prejudicar o homem do campo, aquele que mais precisa.\r\nNo meu primeiro mandato, sinto-me muito orgulhoso por ter uma emenda acatada num projeto de emenda \u00e0 Constitui\u00e7\u00e3o t\u00e3o importante para o nosso Pa\u00eds e para o nosso povo como a PEC da reforma da Previd\u00eancia.\r\nEu hoje me sinto muito orgulhoso por ter nascido politicamente dos movimentos sociais das quebradeiras de coco, do trabalhador e da trabalhadora rural, do homem do campo. Hoje aqui represento cada um desses trabalhadores dessas categorias que abra\u00e7aram o nosso projeto, abra\u00e7aram a nossa causa, na nossa campanha, quando pleiteamos a oportunidade de vir para a C\u00e2mara Federal. Agora, poder retribuir a eles dessa forma honrosa \u00e9 muito gratificante para mim, um jovem Deputado de primeiro mandato.\r\nSr. Presidente, pe\u00e7o a V.Exa. que divulgue a minha fala no programa A Voz do Brasil e nos meios de comunica\u00e7\u00e3o desta Casa.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, REQUERIMENTO DE URG\u00caNCIA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Declara\u00e7\u00e3o de voto do orador favor\u00e1vel \u00e0 aprova\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, com vista \u00e0 inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, n\u00f3s queremos a seguran\u00e7a jur\u00eddica para a pr\u00e1tica desses esportes equestres.\r\nEu que sou do Nordeste, que sou maranhense, sou amante do cavalo e amante da vaquejada, uma pr\u00e1tica que gera muito emprego e muita renda para o nosso Estado, para o nosso Nordeste, para todo o Pa\u00eds. A vaquejada hoje est\u00e1 espalhada pelos quatro cantos deste grande Brasil.\r\nEnt\u00e3o, como Deputado Federal vaqueiro, eu sou a favor deste projeto. Quero que seja votada a mat\u00e9ria hoje. Estamos aqui para defender as pr\u00e1ticas equestres, a gera\u00e7\u00e3o de empregos, essas fam\u00edlias dependentes da vaquejada. Eu voto \"sim\", contrariamente \u00e0 orienta\u00e7\u00e3o do meu partido.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T00:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FRED COSTA, DEPUTADO FEDERAL, ANIVERS\u00c1RIO DE NASCIMENTO, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Transcurso do anivers\u00e1rio natal\u00edcio do Deputado Fred Costa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, estamos passando da meia-noite nesse processo de vota\u00e7\u00e3o aqui. E eu queria anunciar que hoje - j\u00e1 passamos da meia-noite - \u00e9 anivers\u00e1rio de uma das figuras mais queridas deste plen\u00e1rio. O nome dele \u00e9 Deputado Fred Costa. E eu quero dar os parab\u00e9ns para ele.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=264&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T14:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, VAQUEJADA, RODEIO, HIPISMO,  PATRIM\u00d4NIO IMATERIAL, CULTURA NACIONAL, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 8.240, de 2017, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.364, de 2016, para inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o dessas atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, aprovamos nesta Casa o Projeto de Lei n\u00ba 8.240, que regula a cultura da vaquejada, rodeio e esportes equestres. Ontem finalizamos a vota\u00e7\u00e3o, com o encerramento dos destaques - todos foram vencidos.\r\nQuero dizer que nossa vaquejada \u00e9 a ess\u00eancia do povo nordestino. A vaquejada significa a gera\u00e7\u00e3o de emprego e renda. \u00c9 uma cultura tradicional, de anos e anos, que vem se fortalecendo a cada dia.\r\nPortanto, quero deixar meu parecer. Contrariamente \u00e0 indica\u00e7\u00e3o do meu partido, eu sou favor\u00e1vel \u00e0 regulamenta\u00e7\u00e3o e \u00e0 valoriza\u00e7\u00e3o da vaquejada legal. A todos os que n\u00e3o conhecem e criticam esta modalidade eu quero convid\u00e1-los a se fazerem presentes nos eventos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=12&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, APROVA\u00c7\u00c3O, ACORDO INTERNACIONAL, ESTADOS UNIDOS, ACORDO DE SALVAGUARDAS TECNOL\u00d3GICAS, CENTRO ESPACIAL DE ALC\u00c2NTARA (CEA), CENTRO DE LAN\u00c7AMENTO DE ALC\u00c2NTARA (CLA).",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de vota\u00e7\u00e3o de projeto sobre Acordo de Salvaguarda Tecnol\u00f3gica, de interesse do Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em nome do partido, eu pe\u00e7o que possamos votar o Acordo de Salvaguarda Tecnol\u00f3gica, que \u00e9 uma oportunidade \u00fanica e importante para o Maranh\u00e3o e para o Brasil. \u00c9 o pontap\u00e9 para o desenvolvimento econ\u00f4mico daquela regi\u00e3o e para a gera\u00e7\u00e3o de emprego e renda.\r\nQuem conhece Alc\u00e2ntara, quem conhece o Maranh\u00e3o e quem gosta do Brasil, independentemente de posi\u00e7\u00e3o pol\u00edtica ou ideol\u00f3gica, \u00e9 a favor desse acordo t\u00e3o importante para o nosso Pa\u00eds e, em especial, para o nosso Maranh\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=180&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-04T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, PATRIOTA (PATRI), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 523, de 2019, sobre aprova\u00e7\u00e3o do texto do Acordo entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica Sobre Salvaguardas Tecnol\u00f3gicas Relacionadas \u00e0 Participa\u00e7\u00e3o dos Estados Unidos da Am\u00e9rica em Lan\u00e7amentos a partir do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - O Patriota encaminha o voto \"sim\", Sr. Presidente.\r\nQuero parabenizar a ampla maioria da bancada maranhense por apoiar t\u00e3o importante acordo. Todos n\u00f3s que conhecemos o Maranh\u00e3o e que conhecemos Alc\u00e2ntara sabemos da grande import\u00e2ncia da aprova\u00e7\u00e3o da vota\u00e7\u00e3o desse acordo. Sabemos que \u00e9 o pontap\u00e9 inicial para um grande desenvolvimento econ\u00f4mico da regi\u00e3o, gera\u00e7\u00e3o de emprego e renda. E \u00e9 isso o que n\u00f3s queremos para o nosso Estado.\r\nEnt\u00e3o, O Patriota encaminha \"sim\" a toda a sua bancada, que vai votar \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F9%2F2019&txPagina=340&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-24T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CANTANHEDE (MA), ANIVERS\u00c1RIO DE EMANCIPA\u00c7\u00c3O POL\u00cdTICA. \r\nMARRECA FILHO, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, IMPERATRIZ (MA).",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Transcurso do 67\u00ba anivers\u00e1rio de emancipa\u00e7\u00e3o pol\u00edtico-administrativa do Munic\u00edpio de Cantanhede, no Estado do Maranh\u00e3o. Visita do orador ao Munic\u00edpio de Imperatriz. Sauda\u00e7\u00f5es a correligion\u00e1rios do Parlamentar.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, eu quero registrar que hoje est\u00e1 comemorando 67 anos a cidade de Cantanhede, no Estado do Maranh\u00e3o.\r\nEu quero cumprimentar o Prefeito, Ruivo; o Vice-Prefeito, meu amigo Dr. Elvy; a Secret\u00e1ria Bet\u00e2nia; e os Vereadores Alan, Dercio e Manoel Veras, na pessoa dos quais cumprimento todos os mun\u00edcipes da cidade de Cantanhede.\r\nEu quero dizer que estou aqui como Deputado Federal tamb\u00e9m trazido pelas m\u00e3os do povo de Cantanhede, que me deu uma expressiva vota\u00e7\u00e3o. E estou aqui tamb\u00e9m para dar continuidade ao trabalho iniciado pelo meu pai na Legislatura passada, quando ele deu a sua contribui\u00e7\u00e3o para o Munic\u00edpio de Cantanhede com obras na infraestrutura e patrulhas agr\u00edcolas, entre outros recursos que foram destinados para o Munic\u00edpio.\r\nEu tamb\u00e9m quero registrar que esse final de semana estive na cidade de Imperatriz, a segunda maior cidade do Estado do Maranh\u00e3o, em uma reuni\u00e3o com todo o nosso grupo pol\u00edtico da cidade e de toda a Regi\u00e3o Tocantina. Na oportunidade, reafirmamos o nosso compromisso, o nosso comprometimento e o nosso respeito para com todos da Regi\u00e3o Tocantina.\r\nEu quero saudar o nosso candidato a Prefeito pelo Patriota, o Presidente da C\u00e2mara, Vereador Jos\u00e9 Carlos; o Presidente Regional da Regi\u00e3o Tocantina, nosso amigo Dr. Lourival; a Dra. Joelma, Presidente do partido na cidade de Imperatriz; e o Vice-Presidente do partido, Dr. Meceno, e agradecer-lhes a maravilhosa recep\u00e7\u00e3o que tive \r\nQuero, por fim, cumprimentar os nossos Vereadores Beb\u00e9 e Ditola e todos os que fazem parte do nosso grupo, acreditam no nosso trabalho e est\u00e3o no dia a dia comprometidos e engajados na luta para que possamos ter dias cada vez melhores para Imperatriz e toda a Regi\u00e3o Tocantina.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F9%2F2019&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-24T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "ANT\u00d4NIO MARRECA, AV\u00d4, MARRECA FILHO, DEPUTADO FEDERAL, ANIVERS\u00c1RIO DE NASCIMENTO, HOMENAGEM.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Transcurso do anivers\u00e1rio natal\u00edcio do av\u00f4 do orador, Ant\u00f4nio Marreca.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Sem revis\u00e3o do orador.) - Sr. Presidente, hoje, para mim e para toda a minha fam\u00edlia, \u00e9 um dia muito importante, \u00e9 o dia em que o nosso guia, a nossa maior refer\u00eancia, o nosso maior exemplo completa 70 anos de idade. Hoje \u00e9 o anivers\u00e1rio do meu av\u00f4, Ant\u00f4nio Marreca.\r\nEu quero, neste registro, parabenizar o meu av\u00f4, um homem s\u00e9rio, um homem \u00edntegro, um homem de responsabilidade, um homem de respeito, um homem que sempre conduz a sua fam\u00edlia nos trilhos, que sempre \u00e9 refer\u00eancia para os filhos, para os netos, para os irm\u00e3os, para toda a nossa fam\u00edlia.\r\nParab\u00e9ns, v\u00f4. Amo muito voc\u00ea. N\u00e3o posso estar a\u00ed, no seu anivers\u00e1rio, porque estou aqui representando o povo do Maranh\u00e3o e tamb\u00e9m a minha fam\u00edlia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F9%2F2019&txPagina=45&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, ACORDO ENTRE O GOVERNO DA REP\u00daBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AM\u00c9RICA SOBRE SALVAGUARDAS TECNOL\u00d3GICAS RELACIONADAS \u00c0 PARTICIPA\u00c7\u00c3O DOS ESTADOS UNIDOS DA AM\u00c9RICA EM LAN\u00c7AMENTO A PARTIR DO CENTRO ESPACIAL DE ALC\u00c2NTARA, GERA\u00c7\u00c3O DE EMPREGO, MARANH\u00c3O, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, sobre a aprova\u00e7\u00e3o do texto do Acordo de  Salvaguardas Tecnol\u00f3gicas entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, este acordo \u00e9 uma grande oportunidade para que n\u00f3s possamos ver aquela regi\u00e3o do Estado do Maranh\u00e3o se transformar num grande polo de gera\u00e7\u00e3o de emprego, de gera\u00e7\u00e3o de renda.\r\nEu quero convidar os que s\u00e3o contra, os que n\u00e3o acreditam que esse seja um projeto vi\u00e1vel para o nosso Estado, para o nosso Pa\u00eds, a conhecerem de perto a realidade daquele povo, a realidade desse t\u00e3o sonhado acordo. Todos l\u00e1 est\u00e3o esperando que aquela regi\u00e3o se transforme num grande polo de lan\u00e7amento de foguetes, assim como outras regi\u00f5es no mundo inteiro que se desenvolveram quando passaram a ter esse mesmo benef\u00edcio.\r\nVamos usar a nossa posi\u00e7\u00e3o geogr\u00e1fica favor\u00e1vel para diminuir os custos do lan\u00e7amento de foguetes do mundo inteiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T21:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PDL 523/2019, PROJETO DE DECRETO LEGISLATIVO, PATRIOTA (PATRI), VOTO FAVORAVEL.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 523-A, de 2019, a respeito da aprova\u00e7\u00e3o do texto do Acordo sobre Salvaguardas Tecnol\u00f3gicas celebrado entre o Governo da Rep\u00fablica Federativa do Brasil e o Governo dos Estados Unidos da Am\u00e9rica para utiliza\u00e7\u00e3o do Centro Espacial de Alc\u00e2ntara, assinado em Washington, em 18 de mar\u00e7o de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Patriota encaminha \"sim\", de forma un\u00e2nime em toda a sua bancada.\r\nEu quero parabenizar a uni\u00e3o de toda a bancada maranhense em prol desse projeto t\u00e3o importante. N\u00f3s que somos maranhenses, que conhecemos a realidade de nosso Estado, a realidade de nosso povo, sabemos da import\u00e2ncia da aprova\u00e7\u00e3o deste acordo no dia de hoje, por este Plen\u00e1rio.\r\nFa\u00e7o um humilde pedido aos nossos pares: que nos ajudem na aprova\u00e7\u00e3o do acordo. N\u00f3s sabemos o quanto os maranhenses e os demais brasileiros esperam que seja dado em Alc\u00e2ntara o pontap\u00e9 inicial do progresso, com gera\u00e7\u00e3o de emprego e renda.\r\nCom muita responsabilidade, o Patriota encaminha o voto \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=272&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-22T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1282/2020, PROJETO DE LEI ORDIN\u00c1RIA, PATRIOTA (PATRI), VOTO CONTR\u00c1RIO. \r\nFRED COSTA, PRESIDENTE, SESS\u00c3O DELIBERATIVA,  ELOGIO.",
+        "nomeDeputado": "Marreca Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 14, apresentada ao Projeto de Lei n\u00ba 1.282, de 2020, sobre a institui\u00e7\u00e3o do Programa Nacional de Apoio \u00e0s Microempresas e Empresas de Pequeno Porte - PRONAMPE, e a altera\u00e7\u00e3o das Leis de n\u00bas 13.636, de 2018; 10.735, de 2003, e 9.790, de 1999.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARRECA FILHO (PATRIOTA - MA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Meu Presidente, meu L\u00edder, quero primeiramente dizer que \u00e9 motivo de muito orgulho para mim v\u00ea-lo ocupando essa cadeira. V.Exa. \u00e9 uma grande refer\u00eancia n\u00e3o s\u00f3 para o nosso partido mas tamb\u00e9m para toda a C\u00e2mara dos Deputados, pelo trabalho que vem desenvolvendo.\r\nA orienta\u00e7\u00e3o do nosso partido, do Patriota, \u00e9 \"n\u00e3o\" ao destaque.\r\nUm grande abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2020&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

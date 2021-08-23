@@ -1,0 +1,128 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-21T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PRC 27/2019, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS,  FAVORAVEL.",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Discuss\u00e3o do Projeto de Resolu\u00e7\u00e3o n\u00ba 27, de 2019, sobre a cria\u00e7\u00e3o do Grupo Parlamentar Brasil-Nam\u00edbia.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. JORGE BRAZ (PRB - RJ. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente Marcel.\r\nSrs. Deputados e Sras. Deputadas, eu gostaria de fazer um registro bem r\u00e1pido. Eu sou Deputado de primeiro mandato, e este \u00e9 o meu primeiro projeto, para o qual pe\u00e7o o apoio de V.Exas. \u00c9 um projeto muito simples.\r\nAntes, eu gostaria de fazer um registro importante. Eu tenho 65 anos de idade, e espero n\u00e3o morrer sem ver o Pa\u00eds livre de tantas pris\u00f5es de autoridades, de tantas pessoas conhecidas, que t\u00eam sido mau exemplo de um jeito ou de outro. Depende de n\u00f3s que o Pa\u00eds fique livre disso.\r\n\u00c9 importante dizer que o Pa\u00eds de amanh\u00e3 est\u00e1 em nossas m\u00e3os. Vamos mudar isso. Vamos dar ao nosso povo um posicionamento diferenciado, para que sirvamos de exemplo \u00e0s nossas crian\u00e7as.\r\nO Projeto de Resolu\u00e7\u00e3o n\u00ba 27, de 2019, diz respeito a um interc\u00e2mbio entre o Brasil e a Nam\u00edbia. Eu fiz quest\u00e3o de falar porque exatamente hoje, 21 de mar\u00e7o, a Nam\u00edbia est\u00e1 completando 29 anos de independ\u00eancia.\r\n\u00c9 um pa\u00eds pequeno, um dos menores do mundo. O Brasil j\u00e1 tem um relacionamento de interc\u00e2mbio com o pa\u00eds, principalmente entre a nossa Marinha e a da Rep\u00fablica da Nam\u00edbia. Eu fiz esse projeto de resolu\u00e7\u00e3o para que n\u00f3s possamos oficializar e melhorar o interc\u00e2mbio entre o Brasil e a Nam\u00edbia.\r\nEu agrade\u00e7o, desde j\u00e1, a V.Exas. e pe\u00e7o o apoio de todos.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-09T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DESASTRE AMBIENTAL, CHUVA, RIO DE JANEIRO (ESTADO).",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Solidariedade \u00e0s popula\u00e7\u00f5es do Estado do Rio de Janeiro atingidas por fortes chuvas. Rep\u00fadio \u00e0 utiliza\u00e7\u00e3o, para fins elei\u00e7oeiros, da trag\u00e9dia ocorrida no Rio de Janeiro em decorr\u00eancia das chuva.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JORGE BRAZ (PRB - RJ. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nEu moro no Rio de Janeiro h\u00e1 60 anos e, na condi\u00e7\u00e3o de Deputado do Estado do Rio de Janeiro, eu gostaria de registrar aqui dois lamentos. O primeiro \u00e9 a calamidade que foi ter chovido, em um \u00fanico dia, o que deveria chover em 30 dias. Eu quero me solidarizar com as fam\u00edlias dos mortos, dos falecidos em decorr\u00eancia da chuva. \r\nO segundo lamento \u00e9 que pessoas est\u00e3o tentando fazer pol\u00edtica sobre uma desgra\u00e7a da natureza, culpando o Prefeito. Eu gostaria de deixar registrado que essa foi a chuva mais forte dos \u00faltimos 22 anos. Ent\u00e3o, n\u00e3o \u00e9 caso para se fazer pol\u00edtica, porque isso seria uma pol\u00edtica desumana.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2019&txPagina=159&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, FAVOR\u00c1VEL.\r\nDESASTRE AMBIENTAL, ROMPIMENTO, BARRAGEM DE REJEITO, COMPANHIA VALE DO RIO DOCE (VALE), BRUMADINHO (MG), DESABAMENTO, RIO DE JANEIRO (RJ), SOLIDARIEDADE, POPULA\u00c7\u00c3O, CORPO DE BOMBEIROS MILITAR.",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Discuss\u00e3o do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. JORGE BRAZ (PRB - RJ. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Parlamentares, eu gostaria de come\u00e7ar lembrando duas cat\u00e1strofes recentes no nosso Pa\u00eds, dentre tantas que t\u00eam acontecido. Uma em Brumadinho, em Minas Gerais; e outra na Muzema, no Rio de Janeiro.\r\nNo momento do sofrimento, n\u00e3o s\u00f3 o Corpo de Bombeiros do nosso Pa\u00eds, que sabemos que funciona muito bem, que tem pessoas que d\u00e3o suas vidas, gastam suas vidas nos desastres e ganham muito pouco, diga-se de passagem; mas tamb\u00e9m a m\u00e3o social estendida do povo brasileiro nos momentos de necessidade da popula\u00e7\u00e3o t\u00e3o sofrida em qualquer Estado, em qualquer Munic\u00edpio do nosso Pa\u00eds, realmente fazem a diferen\u00e7a. Naquele momento de sofrimento, ningu\u00e9m pergunta qual \u00e9 a religi\u00e3o de quem ajuda, ningu\u00e9m pergunta que f\u00e9 professa; ningu\u00e9m pergunta se \u00e9 de Esquerda ou de Direita; ningu\u00e9m pergunta se o partido \u00e9 do Governo ou \u00e9 de Oposi\u00e7\u00e3o, se algu\u00e9m tem partido A, B, C ou D. Naquele momento, a m\u00e3o se estende, a sede bate, a fome atinge a pessoa que est\u00e1 sofrida, a dor atinge o povo brasileiro.\r\nQuero parabenizar a nobre Deputada S.Exa. Clarissa Garotinho pela iniciativa do seu projeto, cuja envergadura, ainda que muito simples, t\u00e3o somente facilita que as entidades que realizam a\u00e7\u00f5es sociais tenham condi\u00e7\u00f5es de fazer muito mais e com maior primor. Neste momento, nobres colegas, esque\u00e7am o seu partido, se \u00e9 de Oposi\u00e7\u00e3o ou do Governo, mas t\u00e3o somente pensem que quem sabe um dia V.Exas. ou seus entes queridos precisem tamb\u00e9m de uma m\u00e3o estendida sem querer saber se \u00e9 negro, branco ou amarelo, ou sua posi\u00e7\u00e3o pol\u00edtica.\r\nGostaria de pedir aos nobres colegas que sa\u00edssem de onde est\u00e3o. Espero que nem se pe\u00e7a vota\u00e7\u00e3o nominal, para que esse projeto fa\u00e7a justi\u00e7a, n\u00e3o somente no uso de f\u00e9, em igrejas e templos religiosos de qualquer culto - por que n\u00e3o? -, mas tamb\u00e9m em todas as institui\u00e7\u00f5es de caridade do nosso Pa\u00eds.\r\nMuito obrigado, Sra. Presidente, Srs. Parlamentares.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=177&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HOMIC\u00cdDIO, V\u00cdTIMA, ANDERSON DO CARMO, PASTOR, MARIDO, FLORDELIS, DEPUTADA FEDERAL, SOLIDARIEDADE, SOLICITA\u00c7\u00c3O, WILSON WITZEL, GOVERNADOR, RIO DE JANEIRO (ESTADO), INVESTIGA\u00c7\u00c3O CRIMINAL, AUTOR (DIREITO PENAL).",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Votos de condol\u00eancias \u00e0 Deputada Flordelis, em nome do orador e do PRB, diante do assassinato do seu esposo, Pastor Anderson do Carmo de Souza. Apelo ao Governador do Estado do Rio de Janeiro, Wilson Witzel, de apura\u00e7\u00e3o e puni\u00e7\u00e3o dos respons\u00e1veis pelo crime.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JORGE BRAZ (PRB - RJ. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, eu gostaria que manifestar minhas condol\u00eancias, em meu nome, Deputado Jorge Braz, do PRB do Rio de Janeiro, em nome do Sr. Luiz Carlos, Presidente do PRB do Rio de Janeiro, e em nome do nosso 1\u00ba Vice-Presidente, o Deputado Marcos Pereira, de S\u00e3o Paulo, nosso Presidente Nacional, em vista da trag\u00e9dia que ocorreu com o Pastor Anderson do Carmo, marido da nossa querida Deputada Flordelis.\r\nPe\u00e7o ao nosso Governador do Rio de Janeiro, Witzel, que veja esta quest\u00e3o com carinho. N\u00e3o \u00e9 poss\u00edvel que um pastor, algu\u00e9m que ajuda as pessoas e faz o que deve ser feito, morra na pr\u00f3pria casa com 15 tiros. \u00c9 um absurdo! \u00c9 preciso que o Governador mova, de fato, a pol\u00edcia do Rio de Janeiro para que esta investigue e que quem for culpado pague, para servir de exemplo.\r\nVamos trabalhar nesta Casa o projeto anticrimes, para que haja uma transforma\u00e7\u00e3o real no Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, ADMISSILIDADE, REQUERIMENTO DE DESTAQUE, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo da admissibilidade dos requerimentos de destaques simples, oferecidos \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6-D, de 2019, acerca da reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JORGE BRAZ (PRB - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a Esquerda teve, pelo menos, 16 anos para resolver o problema de d\u00e9ficit da Previd\u00eancia, mas n\u00e3o o fez. Hoje, temos n\u00f3s a oportunidade de fazer isso neste plen\u00e1rio. Por isso, o PRB quer agilidade, quer celeridade. Por isso, o PRB vota \"sim\". N\u00f3s necessitamos fazer isso agora.\r\nN\u00f3s estamos determinados, unidos, numa s\u00f3 palavra, a trabalhar para que saia, de fato, a grande solu\u00e7\u00e3o para o povo brasileiro. As pessoas aposentadas n\u00e3o t\u00eam dinheiro para comprar rem\u00e9dios. Nem dinheiro para serem enterradas elas t\u00eam. A hora da solu\u00e7\u00e3o \u00e9 esta: cabe a cada um de n\u00f3s agir.\r\nN\u00f3s estamos juntos. Conte com o PRB, povo brasileiro: votaremos a favor da reforma da Previd\u00eancia e de todas as que forem necess\u00e1rias.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=104&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 1292/1995, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.\r\nMARCELO CRIVELLA, PREFEITO, RIO DE JANEIRO (RJ), RECOLHIMENTO, LIVRO, BIENAL DO LIVRO RIO (19:2019, RIO DE JANEIRO (RJ)), DIVERSIDADE SEXUAL, HOMOSSEXUALIDADE.",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 1.292, de 1995, sobre a altera\u00e7\u00e3o da Lei n\u00ba 8.666, de 1993, acerca das normas de licita\u00e7\u00f5es e contratos da administra\u00e7\u00e3o p\u00fablica. Acerto da decis\u00e3o do Prefeito Marcelo Crivella, do Rio de Janeiro, Estado do Rio de Janeiro, de recolhimento de material impr\u00f3prio para crian\u00e7as exposto na XIX Bienal Internacional do Livro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JORGE BRAZ (REPUBLICANOS - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Republicanos orienta o voto \"n\u00e3o\". \r\nEu gostaria de aproveitar o meu minutinho, por favor. \r\nA SRA. PRESIDENTE (Geovania de S\u00e1. PSDB - SC) - Sim, Deputado Jorge. \r\nO SR. JORGE BRAZ (REPUBLICANOS - RJ) - Eu quero parabenizar o Prefeito Crivella, que tem enfrentado a m\u00eddia, que tem enfrentado a Rede Globo. Ele \u00e9 um Prefeito que tem sido um grande exemplo no Rio de Janeiro. \u00c9 bem verdade que o pre\u00e7o \u00e9 alto. Agora ele tem enfrentado a Justi\u00e7a.\r\nParab\u00e9ns, Prefeito Crivella!\r\nEu quero ler aqui, Sra. Presidente, um trechinho - eu gostaria que os senhores prestassem aten\u00e7\u00e3o - de um dos livretos vendidos nesta Bienal. O livro come\u00e7a assim: \"Uns em cima, outros embaixo. Toda a gente encontra par. Gina e Gila s\u00f3 n\u00e3o sabem por onde come\u00e7ar\". A\u00ed aparecem duas meninas com um coelhinho e o representante de um menino negro fazendo sexo. As duas crian\u00e7as nuas est\u00e3o fazendo...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-16T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCOS PEREIRA, DEPUTADO FEDERAL, PRESIDENTE, REPUBLICANOS (PARTIDO POL\u00cdTICO), ELOGIO.\r\nC\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, VOTA\u00c7\u00c3O, PROPOSI\u00c7\u00c3O LEGISLATIVA, COMBATE, PANDEMIA, CORONAV\u00cdRUS, MICROEMPRESA, FISCALIZA\u00c7\u00c3O, RECURSOS P\u00daBLICOS, GEST\u00c3O P\u00daBLICA, CORRUP\u00c7\u00c3O.\r\nPL 873/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, AUX\u00cdLIO EMERGENCIAL DE PROTE\u00c7\u00c3O SOCIAL A PESSOAS EM SITUA\u00c7\u00c3O DE VULNERABILIDADE, DEVIDO \u00c0 PANDEMIA DA COVID-19, BENEF\u00cdCIO PREVIDENCI\u00c1RIO, BOLSA FAMILIA, IDOSO, PESCADOR ARTESANAL, AGRICULTOR FAMILIAR, T\u00c9CNICO AGR\u00cdCOLA, PESSOA COM DEFICI\u00caNCIA, CORONAV\u00cdRUS, BENEF\u00cdCIO DE PRESTA\u00c7\u00c3O CONTINUADA (BPC), AMPLIA\u00c7\u00c3O, BENEFICI\u00c1RIO, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Jorge Braz",
+        "sumario": "Import\u00e2ncia da vota\u00e7\u00e3o e aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 873, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 13.982, de 2020, com vista \u00e0 mudan\u00e7a nas regras do aux\u00edlio emergencial; \u00e0 veda\u00e7\u00e3o da suspens\u00e3o de benef\u00edcios previdenci\u00e1rios e assistenciais concedidos aos idosos, \u00e0s pessoas com defici\u00eancia ou com enfermidade grave, durante a pandemia da Covid-19. Aprova\u00e7\u00e3o pela Casa de proposi\u00e7\u00f5es em benef\u00edcio das pequenas e microempresas. Alerta sobre o superfaturamento na compra de equipamentos destinados \u00e0 \u00e1ea de sa\u00fade e \u00e0 inclus\u00e3o, por hospitais, de despesas alheias entre as medidas emergenciais de combate ao coronav\u00edrus. Indigna\u00e7\u00e3o do orador com a pr\u00e1tica de corrup\u00e7\u00e3o em meio \u00e0s medidas de enfrentamento da Covid-19.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. JORGE BRAZ (REPUBLICANOS - RJ. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, primeiro, eu gostaria de agradecer ao Presidente do Republicanos, o Deputado Marcos Pereira, que tem sido um grande l\u00edder de toda a bancada. Agrade\u00e7o em especial ao L\u00edder, o Deputado Jhonatan de Jesus, que nos permitiu usar esse tempo da Lideran\u00e7a. Muito obrigado, amigos e companheiros.\r\nSras. Deputadas, Srs. Deputados, estamos vivendo um per\u00edodo in\u00e9dito na hist\u00f3ria e n\u00e3o \u00e9 por conta da pandemia do coronav\u00edrus ou de uma nova praga a castigar as pessoas - a humanidade j\u00e1 passou por outras. O ineditismo desta vez est\u00e1 nos governos do mundo todo e n\u00e3o naquelas pestes que a hist\u00f3ria nos conta, a partir das quais a B\u00edblia nos ensina a fragilidade do homem perante as coisas novas, o transcendente. Podemos dizer que a diferen\u00e7a de hoje \u00e9 a vigorosa a\u00e7\u00e3o dos governos do mundo para resolver o presente e amenizar o futuro.\r\nA C\u00e2mara dos Deputados \u00e9 um dos centros de decis\u00e3o que prontamente agem para reduzir a dor e o preju\u00edzo de milh\u00f5es de fam\u00edlias brasileiras. Hoje, estamos decidindo a vida de milh\u00f5es de fam\u00edlias brasileiras. Esta Casa \u00e9 um dos centros de decis\u00e3o e est\u00e1 pronta a agir. Rapidamente, n\u00f3s Deputados nos unimos e votamos pol\u00edticas p\u00fablicas das quais o povo brasileiro precisa com urg\u00eancia.\r\nCompreendemos que o momento agora imp\u00f5e coragem de decidir. Neste momento, decidimos agir para garantir um pouco de conforto e esperan\u00e7a \u00e0s fam\u00edlias que est\u00e3o afetadas diretamente pela doen\u00e7a.\r\nNesta sess\u00e3o vamos deliberar sobre a complementa\u00e7\u00e3o do aux\u00edlio emergencial a outros trabalhadores que ficaram de fora em decis\u00f5es tomadas agora h\u00e1 pouco. Tamb\u00e9m passar\u00e3o a ter direito de receber o aux\u00edlio emergencial de 600 reais os agricultores familiares, os catadores de material reciclado, as diaristas, os pescadores e mais outras 16 categorias com poucas garantias trabalhistas.\r\nO Parlamento tamb\u00e9m manteve o foco para as micros e pequenas empresas. S\u00e3o essas empresas que contratam a grande maioria das pessoas que t\u00eam uma ocupa\u00e7\u00e3o, e elas n\u00e3o podem quebrar. As micros e pequenas empresas precisar\u00e3o sobreviver a este longo e incerto per\u00edodo de fechamento dos neg\u00f3cios. Nesta guerra contra essa praga mundial, a pequena economia n\u00e3o pode cair prostrada.\r\nO Congresso est\u00e1 aprovando um pacote de solu\u00e7\u00f5es para a situa\u00e7\u00e3o emergencial que vivemos - como outros PLs e PECs por n\u00f3s aprovados e outros que ainda ser\u00e3o aprovados - com confian\u00e7a nos gestores da Uni\u00e3o, dos Estados e dos Munic\u00edpios, ainda que haja fiscaliza\u00e7\u00e3o.\r\nA partir de agora, Sr. Presidente, Srs. Deputados e Sras. Deputadas, eu gostaria de falar em meu nome, em nome do Deputado Jorge Braz, n\u00e3o em nome do Republicanos ou da nossa bancada, porque n\u00e3o tenho autoriza\u00e7\u00e3o para isso.\r\n Em meu nome eu gostaria de falar da minha preocupa\u00e7\u00e3o pessoal. N\u00f3s estamos aprovando um pacote que abre condi\u00e7\u00f5es financeiras para os nossos gestores. A pergunta \u00e9: ser\u00e1 que de fato n\u00e3o teremos aproveitadores com respeito a essas facilidades, com respeito a esse rio de dinheiro que estamos facilitando para os gestores da Uni\u00e3o, dos Estados e dos Munic\u00edpios?\r\nN\u00f3s j\u00e1 temos ouvido falar, Sr. Presidente, Sras. e Srs. Deputados, em superfaturamento. A coisa nem come\u00e7ou, e j\u00e1 temos ouvido sobre superfaturamento em compra de equipamentos, sobre hospitais empurrando despesas que n\u00e3o s\u00e3o para a situa\u00e7\u00e3o emergencial do coronav\u00edrus.\r\nEu gostaria que o nosso Brasil de fato mudasse e n\u00e3o s\u00f3 cobrasse dos Parlamentares, que tanto apanham nas redes sociais. Que tamb\u00e9m se mudasse a postura das pessoas nas fam\u00edlias, nas gest\u00f5es p\u00fablicas da Uni\u00e3o, dos Estados, dos Munic\u00edpios e, por que n\u00e3o dizer, nas casas para as quais estamos liberando esse dinheiro. Infelizmente, existem os aproveitadores de plant\u00e3o, os covardes.\r\nPara encerrar, Sr. Presidente, n\u00f3s j\u00e1 temos dois grandes problemas no nosso Pa\u00eds: o financeiro e as mortes. N\u00e3o teremos tamb\u00e9m o terceiro: a corrup\u00e7\u00e3o por parte de pessoas covardes, que se aproveitam da dor dos que est\u00e3o sendo atingidos?\r\nN\u00e3o ficaria, no mundo inteiro, o nosso Pa\u00eds nessa terceira condi\u00e7\u00e3o, que seria a de corrup\u00e7\u00e3o diante da dor do pequeno, do que est\u00e1 morrendo, corrup\u00e7\u00e3o feita por aqueles que est\u00e3o se aproveitando do protagonismo do Congresso em geral, mas principalmente da C\u00e2mara dos Deputados?\r\nEu gostaria, Sr. Presidente Rodrigo Maia, Sr. Vice-Presidente Marcos Pereira e demais companheiros, de parabeniz\u00e1-los pelas atividades e de protagonismo que temos tido, dando socorro ao nosso Pa\u00eds para que tenha, de fato, condi\u00e7\u00e3o.\r\nAgora, caso os aproveitadores n\u00e3o se intimidem, certamente o Presidente ter\u00e1 de chamar a dupla Moro e Mour\u00e3o. Espero que n\u00e3o e que novos pres\u00eddios n\u00e3o tenham que ser constru\u00eddos.\r\nMuito obrigado, Sr. Presidente.\r\nO nosso L\u00edder J\u00falio Cesar dar\u00e1 dire\u00e7\u00e3o ao nosso partido daqui por diante. \r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2020&txPagina=85&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

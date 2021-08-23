@@ -1,0 +1,920 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-20T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCOS PEREIRA, FELIPE RIGONI, DEPUTADO FEDERAL, CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Congratula\u00e7\u00f5es aos Deputados Marcos Pereira e Felipe Rigoni.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (Bloco/PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Marcos Pereira, parab\u00e9ns pelo seu passado brilhante, por aquilo que \u00e9 supera\u00e7\u00e3o!\r\nQuero tamb\u00e9m aplaudir de p\u00e9 e congratular-me com o Deputado Felipe Rigoni. Ele foi meu colega, foi nosso companheiro, Deputado Charlles Evangelista, no curso do RenovaBR, do Insper. E muito nos admirava, Deputado Luiz, que ele estava sempre presente nas aulas, auxiliado para sair, auxiliado para voltar, mas participava, porque para ele n\u00e3o h\u00e1 limita\u00e7\u00e3o.\r\nPara V.Exa. n\u00e3o h\u00e1 limita\u00e7\u00e3o, Deputado Felipe. Meus parab\u00e9ns! V.Exa. enxerga muito mais do que muita gente.\r\nParab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F2%2F2019&txPagina=127&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SUPREMO TRIBUNAL FEDERAL (STF), CRIMINALIZA\u00c7\u00c3O, HOMOFOBIA.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), GUARDA MUNICIPAL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Preocupa\u00e7\u00e3o do orador com o julgamento, pelo Supremo Tribunal Federal, de a\u00e7\u00e3o a respeito da criminaliza\u00e7\u00e3o da homofobia. Insatisfa\u00e7\u00e3o do Parlamentar com a n\u00e3o inclus\u00e3o de guardas municipais nas carreiras policiais no bojo da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. AROLDO MARTINS (Bloco/PRB - PR. Sem revis\u00e3o do orador.) - Sra. Presidente, eu quero aqui expressar a minha preocupa\u00e7\u00e3o com a vota\u00e7\u00e3o que est\u00e1 em andamento no STF sobre a criminaliza\u00e7\u00e3o da homofobia. E n\u00e3o quero dizer que sou contra essa criminaliza\u00e7\u00e3o. Gostaria apenas de diferenciar esse ato de qualquer tipo de ensino de cunho religioso que expressa a opini\u00e3o b\u00edblica sobre o assunto, que n\u00e3o \u00e9, de maneira nenhuma, discriminat\u00f3ria.\r\nOutra coisa que gostaria de registrar \u00e9 que recebi dezenas de e-mails de guardas municipais de cidades do Paran\u00e1, expressando preocupa\u00e7\u00e3o porque n\u00e3o foram inclu\u00eddos, no texto da reforma da Previd\u00eancia, entre os servidores das carreiras policiais, como aconteceu com policiais civis e policiais federais. Ent\u00e3o, eu gostaria de registrar meu desagrado com essa situa\u00e7\u00e3o e de solicitar a inclus\u00e3o dos guardas municipais que portam armas entre os servidores das carreiras policiais, porque eles tamb\u00e9m sofrem risco de vida, assim como policiais civis e policiais federais.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "REFORMA PREVIDENCI\u00c1RIA, APOIO POL\u00cdTICO.\r\nFRENTE PARLAMENTAR EVANG\u00c9LICA, REUNI\u00c3O, DIAS TOFFOLI, PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL, CRIMINALIZA\u00c7\u00c3O, HOMOFOBIA.\r\nAROLDO MARTINS, DEPUTADO FEDERAL, INICIATIVA LEGISLATIVA, FRENTE PARLAMENTAR, ENVELHECIMENTO, SA\u00daDE, IDOSO, ATIVIDADE F\u00cdSICA.\r\nDEMISS\u00c3O, GUSTAVO BEBIANNO, EX-MINISTRO DE ESTADO CHEFE DA SECRETARIA_GERAL DA PRESID\u00caNCIA DA REP\u00daBLICA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Posicionamento do orador sobre a proposta de reforma previdenci\u00e1ria. Participa\u00e7\u00e3o do Parlamentar em encontro de membros da Frente Parlamentar Evang\u00e9lica com o Presidente do Supremo Tribunal Federal, destinado ao debate do crime de homofobia. Cria\u00e7\u00e3o da Frente Parlamentar pelo Envelhecimento Saud\u00e1vel. Exonera\u00e7\u00e3o do Ministro-Chefe da Secretaria Geral da Presid\u00eancia da Rep\u00fablica, Gustavo Bebianno.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (Bloco/PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Presidente.\r\nAmigos, colegas de Parlamento, eu quero, antes de mais nada, registrar a nossa aten\u00e7\u00e3o ao fato de termos recebido nesta Casa o projeto da reforma da Previd\u00eancia e dizer que n\u00f3s, caros amigos Deputados, Deputado Vermelho, aos nos debru\u00e7armos sobre esse assunto, temos que ter muito cuidado, muita aten\u00e7\u00e3o. Que n\u00f3s esque\u00e7amos nossas diferen\u00e7as ideol\u00f3gicas e coloquemos a quest\u00e3o do povo em primeiro lugar.\r\nQuando um texto tem como princ\u00edpio o benef\u00edcio da popula\u00e7\u00e3o, n\u00e3o pode haver diferen\u00e7a ideol\u00f3gica que fa\u00e7a com que, diferen\u00e7a por diferen\u00e7a, aquele texto seja achincalhado. N\u00f3s temos que nos unir. N\u00f3s n\u00e3o podemos nos separar em raz\u00e3o de diferen\u00e7as ideol\u00f3gicas que tenhamos, precisamos nos unir em torno daquilo que \u00e9 melhor para a Na\u00e7\u00e3o. Eu quero, portanto, expressar aqui a nossa aten\u00e7\u00e3o em rela\u00e7\u00e3o ao texto da Previd\u00eancia.\r\nN\u00f3s queremos aqui registrar tamb\u00e9m o fato de termos participado, com a Frente Parlamentar Evang\u00e9lica, de um encontro com o Presidente do Supremo Tribunal Federal, quando foi apresentada a nossa preocupa\u00e7\u00e3o quanto \u00e0 aprova\u00e7\u00e3o da descriminaliza\u00e7\u00e3o da homofobia. Compreendemos que o texto deveria diferenciar o ensinamento de cunho religioso que se refere \u00e0 orienta\u00e7\u00e3o sexual, que de maneira nenhuma trata do assunto como homofobia.\r\nQueremos registrar nossa iniciativa de formar a Frente Parlamentar pelo Envelhecimento Saud\u00e1vel, por compreendermos que, com a expectativa de vida do brasileiro aumentada, precisamos criar pol\u00edticas que deem \u00e0s pessoas da terceira idade uma vida mais digna e formas de praticarem uma atividade f\u00edsica mais efetiva.\r\nPara encerrar, cito uma frase sobre as artes marciais que eu pratico: \"As artes marciais s\u00e3o artes de guerra. Nelas, aprende-se a defender o companheiro, n\u00e3o a exp\u00f4-lo aos subordinados; aprende-se a manter a honra da autoridade, mesmo se os mais pr\u00f3ximos quiserem expor a fraqueza. Nas artes marciais, h\u00e1 a lealdade\".\r\nQue na pol\u00edtica tamb\u00e9m haja lealdade e nenhum tipo escusado de prefer\u00eancia familiar fa\u00e7a com que votemos contra valores importantes para todos n\u00f3s como cidad\u00e3os. Refiro-me aqui \u00e0 forma inexplicada como foi tratada a demiss\u00e3o do Ministro Bebianno. Nunca se deixa um soldado exposto \u00e0 fraqueza dos inimigos. \u00c9 preciso carreg\u00e1-lo nas costas, mesmo que isso represente para mim expor-me a ter que explicar depois por que ele estava andando comigo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-10T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DESASTRE AMBIENTAL, CHUVA, MARCELO CRIVELLA, PREFEITO, RIO DE JANEIRO (ESTADO), GEST\u00c3O, CONTRA, PEDRO PAULO, DEPUTADO FEDERAL, DISCURSO PARLAMENTAR, CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Contesta\u00e7\u00e3o ao discurso do Deputado Pedro Paulo a respeito da gest\u00e3o do Prefeito Marcelo Crivella, do Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nEu gostaria de falar um pouco a respeito do que disse o Deputado Pedro Paulo sobre a cidade do Rio de Janeiro.\r\nO Prefeito Marcelo Crivella recebeu a cidade do Rio de Janeiro falida da administra\u00e7\u00e3o anterior. As chuvas que castigaram o Rio de Janeiro e que vitimaram dez pessoas de forma muito triste foram muito fortes: choveu em uma noite o que deveria chover durante todo o m\u00eas. Foi a pior chuva dos \u00faltimos 22 anos.\r\nEnt\u00e3o, Presidente, foi algo que veio de Deus, algo que nenhuma criatura, por mais santa, por melhor administradora que seja, pode conter.\r\nN\u00f3s n\u00e3o podemos politizar uma coisa t\u00e3o tr\u00e1gica como as chuvas que ca\u00edram no Rio de Janeiro. H\u00e1 22 anos n\u00e3o chovia l\u00e1 como choveu agora.\r\n\u00c9 o meu registro.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F4%2F2019&txPagina=188&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-23T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, OLAVO DE CARVALHO, ESCRITOR, GOVERNO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Analogia entre os personagens liter\u00e1rios Dom Quixote e Sancho Pan\u00e7a, respectivamente, com o fil\u00f3sofo Olavo de Carvalho e o Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\n\"A hist\u00f3ria se passa na Espanha do s\u00e9culo XVI\", Srs. Deputados. Dom Quixote e Sancho Pan\u00e7a, Deputado Capiberibe, tinham o sonho de governar. \"Dom Quixote n\u00e3o realiza seu sonho\", mas, Deputado Alexandre Frota, \"Sancho Pan\u00e7a torna-se governador perp\u00e9tuo de uma ilha de mil habitantes\".\r\nVou parodiar os personagens: Dom Quixote \u00e9 Olavo de Carvalho, e Sancho Pan\u00e7a \u00e9 o Presidente Jair Bolsonaro. \r\nE o que acontece? O campon\u00eas (...) de modos simples governa com sabedoria e bom senso, resolvendo v\u00e1rios problemas, numa \u00e9poca em que o Legislativo, o Judici\u00e1rio e o Executivo s\u00e3o poderes na m\u00e3o de um homem s\u00f3. \r\nSeu governo dura 10 dias. Seus atos (...) s\u00e3o apoiados pelo povo. Muito satisfeito por ter realizado o sonho que o tirou da placidez e da rotina de seus dias na ro\u00e7a, Sancho escreve para a mulher Teresa Pan\u00e7a contando as boas not\u00edcias. \r\nTudo vai bem, mas de repente rebenta uma grande guerra (...). Sancho, ent\u00e3o, toma uma decis\u00e3o muito s\u00e1bia (...). Ele reconhece que n\u00e3o saber\u00e1 liderar seu povo numa guerra e renuncia. \r\n(...)\r\nE como ele reconhece que n\u00e3o sabe governar, despede-se (...) com uma grandeza e um esp\u00edrito (...) extraordin\u00e1rios.\r\nDiz ele em sua despedida: \"Cheguei a esse governo por vossa grandeza, sem nenhum merecimento. Entrei pobre e pobre saio. Nada ganhei, ao contr\u00e1rio dos governadores de outras regi\u00f5es. Enfrentei os inimigos com coragem e os venci pelo valor do meu bra\u00e7o. Reconhe\u00e7o que governar \u00e9 uma carga muito grande para mim. Volto a servir a Dom Quixote\".\r\n(...)\r\nQuatro s\u00e9culos depois, a sabedoria de um homem simples como Sancho Pan\u00e7a ainda \u00e9 muito rara.\r\nPor\u00e9m, na realidade, amigos Deputados, Sancho Pan\u00e7a n\u00e3o precisa de Dom Quixote. \r\nMuito obrigado pela oportunidade, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2019&txPagina=124&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T09:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, CRIA\u00c7\u00c3O, ESTADO (NA\u00c7\u00c3O), ISRAEL, ANIVERS\u00c1RIO, HOMENAGEM.\r\nISRAEL, DESENVOLVIMENTO, AGRICULTURA, IND\u00daSTRIA, INOVA\u00c7\u00c3O TECNOL\u00d3GICA, MEDICINA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Comemora\u00e7\u00e3o do 71\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Estado de Israel.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Sem revis\u00e3o do orador.) - Sr. Presidente, Deputado Marcos Pereira; Exmo. Sr. Senador Izalci Lucas, \u00e9 prazer t\u00ea-lo aqui conosco; Sras. Deputadas e Srs. Deputados, quero saud\u00e1-los em nome do Deputado Roberto de Lucena e em nome do Deputado Silas C\u00e2mara, Presidente da Frente Parlamentar Evang\u00e9lica; Sr. Embaixador de Israel, Yossi Shelley; senhoras e senhores, shalom.\r\nOcupar a tribuna da C\u00e2mara representando o meu partido nesta sess\u00e3o solene em homenagem aos 71 anos da cria\u00e7\u00e3o do novo Estado de Israel \u00e9 um misto de emo\u00e7\u00e3o e satisfa\u00e7\u00e3o.\r\nSim, senhoras e senhores, j\u00e1 se passaram 71 anos desde a cria\u00e7\u00e3o do novo Estado de Israel. Digo \"novo\" porque Israel est\u00e1 longe de ser apenas os 71 anos de sua cria\u00e7\u00e3o como Estado.\r\nE hoje daqui desta tribuna eu vos pergunto:\r\nQuem jamais ouviu tal coisa? Quem viu coisas semelhantes? Poder-se-ia fazer nascer uma terra num s\u00f3 dia? Nasceria uma na\u00e7\u00e3o de uma s\u00f3 vez? Mas Si\u00e3o esteve de parto e j\u00e1 deu \u00e0 luz seus filhos.\r\nRegozijai-vos com Jerusal\u00e9m, e alegrai-vos por ela, v\u00f3s todos os que a amais; enchei-vos por ela de alegria, todos os que por ela pranteastes (...) para que vos deleiteis com a abund\u00e2ncia da sua gl\u00f3ria.\r\nPorque assim diz o Senhor: Eis que estenderei sobre ela a paz como um rio, e a gl\u00f3ria dos gentios como um ribeiro que transborda (...). Como algu\u00e9m a quem consola sua m\u00e3e, assim eu vos consolarei; e em Jerusal\u00e9m v\u00f3s sereis consolados.\r\nEssas palavras repousam v\u00edvidas na B\u00edblica Sagrada, no livro do profeta Isa\u00edas, cap\u00edtulo 66, vers\u00edculos de 8 a 13. Escritas h\u00e1 cerca de 700 anos antes de Cristo, observamos nelas o cumprimento da profecia de que Israel seria a na\u00e7\u00e3o a nascer em um s\u00f3 dia.\r\nDe fato, no dia 29 de novembro de 1947, na hist\u00f3rica Assembleia Geral das Na\u00e7\u00f5es Unidas, em sess\u00e3o presidida por um ilustre brasileiro, o Dr. Oswaldo Aranha, votou-se o plano da ONU para a parti\u00e7\u00e3o da Palestina, que culminou na recria\u00e7\u00e3o do Estado de Israel.\r\nNo ano seguinte, em 1948, \u00e0s 16 horas do dia 14 de maio, foi assinada a Declara\u00e7\u00e3o de Independ\u00eancia do Novo Estado de Israel. Eis a\u00ed a Na\u00e7\u00e3o nascida em um s\u00f3 dia sobre a qual nos falou o profeta Isa\u00edas.\r\nIsrael \u00e9 como a f\u00eanix, a na\u00e7\u00e3o milagre, a que renasce ap\u00f3s os agouros, a que se reergue de muitas guerras, a que se recria das cinzas.\r\nApol\u00f4nio, o fil\u00f3sofo neopitag\u00f3rico, nascido no ano 15 depois de Cristo, em Tiana, na Turquia, conta-nos que a f\u00eanix, enquanto era consumida pelo fogo em seu ninho, cantava can\u00e7\u00f5es de funeral para si.\r\nAssim \u00e9 Israel, na\u00e7\u00e3o exemplo de supera\u00e7\u00e3o, cuja for\u00e7a impressionante encontra amparo na determina\u00e7\u00e3o e na coragem de seu povo e na f\u00e9 inabal\u00e1vel que nutre por Deus. Eu e minha esposa tivemos a oportunidade de in loco experimentar tudo isso, quando vivemos em Israel, entre os anos de 2014 e 2015.\r\nQue povo esperaria, com f\u00e9 incessante, exatos 1.878 anos por sua independ\u00eancia? Israel esperou. Que povo suportaria o massacre holoc\u00e1ustico que dizimou mais de 6 milh\u00f5es dos seus? A Na\u00e7\u00e3o de Israel suportou. Que povo se manteria unido em seus costumes, cren\u00e7as, f\u00e9 e tradi\u00e7\u00f5es, ap\u00f3s seguidas dispers\u00f5es, e ao fim se transformaria em uma das mais poderosas na\u00e7\u00f5es da Terra? Israel assim o fez, senhoras e senhores. \r\nEm meio a in\u00fameras e dolorosas guerras, Israel coleciona tr\u00eas Pr\u00eamios Nobel da Paz, e, mesmo sendo uma na\u00e7\u00e3o nova, nossa f\u00eanix do deserto j\u00e1 fez nascer seis Pr\u00eamios Nobel em Qu\u00edmica, dois em Economia e um em Literatura.\r\nIsrael transformou-se em uma pot\u00eancia mundial e vem se destacando em setores como a ind\u00fastria aeroespacial, que, ao longo dos anos, desenvolveu e construiu sat\u00e9lites, avi\u00f5es, tecnologia de ponta para ca\u00e7as, radares avan\u00e7ados e v\u00e1rios outros produtos. \r\nMesmo localizado em territ\u00f3rio com 85% de terras des\u00e9rticas e com escassos recursos naturais, Israel desenvolveu intensamente sua agricultura e ind\u00fastria, exportando tecnologia nessas \u00e1reas, inclusive para o Brasil. A ind\u00fastria de software israelense tornou-se refer\u00eancia internacional, com in\u00fameras empresas listadas na NASDAQ, a bolsa de valores de tecnologia norte-americana.\r\nTamb\u00e9m na medicina, Israel tornou-se uma pot\u00eancia mundial, sempre \u00e0 frente de pesquisas que s\u00e3o verdadeiras fontes de inspira\u00e7\u00e3o para os grandes c\u00e9rebros do mundo. S\u00f3 para dizer um pouco, Israel \u00e9 hoje refer\u00eancia na \u00e1rea de fertilidade e ostenta o recorde mundial em tratamentos de fertiliza\u00e7\u00e3o in vitro.\r\nEm outra not\u00edcia, descobrimos que dois dos tr\u00eas rem\u00e9dios contra a esclerose m\u00faltipla foram descobertos em Israel, no Instituto Weizmann. \r\nTodo esse destaque demonstra o inequ\u00edvoco cuidado divino para com o povo que, segundo a B\u00edblia, \u00e9 escolhido de Deus.\r\nQuero enaltecer aqui a majestosa na\u00e7\u00e3o de Israel: ela foi \u00fanica no mundo a ter vivido, por tanto tempo, sem uma terra para chamar de sua. Mas, mesmo assim, tem conseguido manter a identidade nacional ao longo de s\u00e9culos.\r\n\u00c9 assombroso - e motivo de grande j\u00fabilo - reconhecer a for\u00e7a herc\u00falea de um povo que foi capaz de se reagrupar t\u00e3o majestosamente!\r\nImpelido por f\u00e9 e convic\u00e7\u00e3o inabal\u00e1veis, voltou \u00e0 terra de seus pais, limpou sua ferida e fez reviver ali a sua l\u00edngua e a sua heran\u00e7a.\r\nParab\u00e9ns, Israel, por seus anos de merecida independ\u00eancia! \r\nQue o Brasil possa seguir o exemplo que tem feito a na\u00e7\u00e3o de Israel um expoente mundial, usando como afirma\u00e7\u00e3o: Shema Israel. Adonai Eloheinu. Adonai echad!\r\nOu\u00e7a, oh Israel! S\u00f3 o Senhor \u00e9 Deus.\r\nPara encerrar, lembro-me aqui das palavras do Presidente da Rep\u00fablica, em sua \u00faltima viagem a Israel, quando disse: \"Ani ohev et Israel\". Mas eu prefiro dizer: Anarnu oravim Israel - n\u00f3s amamos Israel.\r\nShalom!\r\nMuito obrigado!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=14&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "ARTIGO DE JORNAL, CONGRESSO NACIONAL, OPOSI\u00c7\u00c3O POL\u00cdTICA, CENTR\u00c3O, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, CONFLITO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA.\r\nPRESIDENTE DA REP\u00daBLICA, DI\u00c1LOGO POL\u00cdTICO, PODER LEGISLATIVO, PODER EXECUTIVO, DEFESA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Preju\u00edzos causados ao povo brasileiro pela falta de di\u00e1logo entre os Poderes Executivo e Legislativo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Sem revis\u00e3o do orador.) - Presidente, muito obrigado.\r\nEu gostaria de reproduzir aqui parte de mat\u00e9ria do jornal O Estado, de Mato Grosso do Sul, que diz assim:\r\nEmbalado por um discurso de protagonismo, o Congresso Nacional ir\u00e1 tomar a frente das vota\u00e7\u00f5es, em uma demonstra\u00e7\u00e3o que a classe pol\u00edtica n\u00e3o ser\u00e1 um obst\u00e1culo para a supera\u00e7\u00e3o da crise, enquanto o governo do presidente Jair Bolsonaro tenta jogar a responsabilidade de parte do problema no colo dos parlamentares.\r\nTendo o presidente da C\u00e2mara, Rodrigo Maia (DEM-RJ), como principal articulador desse movimento, tanto parlamentares simp\u00e1ticos ao governo quanto do chamado centr\u00e3o e ainda da oposi\u00e7\u00e3o apostam que a C\u00e2mara dar\u00e1 mostras de sua vontade de fazer o pa\u00eds andar, ainda que em uma dire\u00e7\u00e3o independente do governo.\r\nA tend\u00eancia \u00e9 que deputados se mobilizem nesta semana para votar medidas provis\u00f3rias que est\u00e3o na pauta. (...)\r\nMas o resultado dessas vota\u00e7\u00f5es deve refletir o desconforto com o governo. Tamb\u00e9m poder\u00e1 ser fruto de alian\u00e7as tempor\u00e1rias entre o centr\u00e3o e a oposi\u00e7\u00e3o, por exemplo. (...)\r\n\u00c9 aquilo que se tem, de alguma maneira, refletido ultimamente dentro desta Cassa. A hist\u00f3ria demonstra, em v\u00e1rias situa\u00e7\u00f5es, em v\u00e1rios pa\u00edses do mundo, que o relacionamento entre o Legislativo e o Executivo \u00e9 prejudicado pela falta de di\u00e1logo entre as partes. Como o Executivo governa, ele carrega o poder de abrir di\u00e1logo com o Parlamentar. A falta desse di\u00e1logo pode levar a impasses, conduzindo a um bloqueio pol\u00edtico em que a m\u00e1quina p\u00fablica para, e as aprova\u00e7\u00f5es de interesse do Governo s\u00e3o levadas a obstru\u00e7\u00f5es.\r\nN\u00e3o vale, aqui, apontar o dedo da culpa um para o outro, at\u00e9 porque ningu\u00e9m \u00e9 dono da verdade. Uma coisa podemos dizer: quem realmente \u00e9 prejudicado e obstru\u00eddo \u00e9 o povo brasileiro. N\u00e3o se consegue entender o porqu\u00ea desse impasse e, pior, por que ficar-se jogando a culpa um no outro.\r\nSrs. Parlamentares, a bem do Brasil e a bem do povo brasileiro, temos que mostrar e garantir que os di\u00e1logos permane\u00e7am sempre abertos e que o ego de cada um seja minimizado pelo interesse de terceiros. Na batalha de apontar o dedo ou de se achar quem \u00e9 o certo ou o errado, que se abram ambas as partes ao direito de trazer para si a resposta do correto para que terceiros n\u00e3o sejam prejudicados pela luta.\r\nEu pe\u00e7o encarecidamente que ponhamos a m\u00e3o na consci\u00eancia e que o Governo possa - j\u00e1 que quem est\u00e1 na chefia do Executivo esteve por quase 28 anos nesta Casa - compreender que aqui s\u00f3 se consegue alguma coisa atrav\u00e9s do di\u00e1logo. \"Parlamento\" vem de discuss\u00e3o, de falar. Quando algu\u00e9m se cala, meu amigo Deputado Lincoln Portela, n\u00f3s sabemos que d\u00e1 o direito a quem n\u00e3o ouve de pensar o que quiser.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=99&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "ELOGIO, LUIZ LIMA, DEPUTADO FEDERAL, COMPORTAMENTO, ESCLARECIMENTO, ATUA\u00c7\u00c3O PARLAMENTAR, DECLARA\u00c7\u00c3O, CHANTAGEM, VOTA\u00c7\u00c3O, MPV 870/2019, MEDIDA PROVIS\u00d3RIA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Luiz Lima pela demonstra\u00e7\u00e3o de sensibilidade e humildade em pronunciamento sobre pedido de desculpas aos seus pares.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nO Presidente Bolsonaro, quando iniciou o seu Governo, sempre preferiu que o di\u00e1logo com o Legislativo fosse atrav\u00e9s de ideologia e n\u00e3o atrav\u00e9s de partidarismo. Com isso criou-se aquilo que sempre houve nesta Casa, a Esquerda e todas as siglas que s\u00e3o conhecidas, e o partido governista, na figura do PSL. Como n\u00e3o houve um relacionamento partid\u00e1rio, tudo que fica entre o PSL, de um lado, e a Esquerda, de outro, \u00e9 Centro.\r\nEnt\u00e3o, no momento da participa\u00e7\u00e3o de V.Exa., Deputado Luiz Lima, naquele programa, V.Exa. generalizou. Na verdade, V.Exa. mostrou o calor daquilo que tinha dentro de si, e a pessoa n\u00e3o peca por ser sincera. Mas quando se sabe dividir as coisas \u00e9 que se v\u00ea e, como V.Exa. disse, se come\u00e7a a conhecer as pessoas. Independentemente da sigla a que ela perten\u00e7a ou do ideologismo que ela segue, come\u00e7a-se a ver a pessoa por aquilo que ela \u00e9. E V.Exa. mostrou aquilo que V.Exa. \u00e9, Deputado Luiz Lima. V.Exa. \u00e9 uma pessoa sens\u00edvel, V.Exa. \u00e9 uma pessoa de um cora\u00e7\u00e3o enorme, V.Exa. \u00e9 uma pessoa ponderada, V.Exa. \u00e9 uma pessoa de p\u00e9s no ch\u00e3o, demonstra que o seu primeiro mandato far\u00e1 com que V.Exa. cres\u00e7a muito, como eu estou crescendo muito. E o que vier pela frente ser\u00e1 experi\u00eancia.\r\nEnt\u00e3o, eu quero enaltecer a sua humildade, ao usar o microfone desta Casa para mostrar o seu lado humano e pedir desculpas.\r\nAssim como os dedos das nossas m\u00e3os n\u00e3o s\u00e3o iguais, as pessoas n\u00e3o s\u00e3o iguais, mas as m\u00e3os trabalham em harmonia. Tudo aqui nesta Casa \u00e9 necess\u00e1rio, mas, sim, devemos lutar por tudo aquilo que seja interesse do povo brasileiro e n\u00e3o interesse pessoal.\r\nParab\u00e9ns, Deputado Luiz Lima!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=135&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T10:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CONGRESSO NACIONAL, ATUA\u00c7\u00c3O, VOTA\u00c7\u00c3O, MEDIDA PROVIS\u00d3RIA, CONSELHO DE CONTROLE DE ATIVIDADES FINANCEIRAS (COAF).",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Desgaste da imagem do Congresso Nacional em face da desnecess\u00e1ria politiza\u00e7\u00e3o da vota\u00e7\u00e3o de mat\u00e9ria relativa ao Conselho de Controle de Atividades Financeiras - COAF.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "AROLDO MARTINS (PRB - PR. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nSenhoras e senhores, n\u00f3s temos visto, nos \u00faltimos dias, acontecimentos que seriam totalmente dispens\u00e1veis. A politiza\u00e7\u00e3o do COAF - Conselho de Controle de Atividades Financeiras n\u00e3o era necess\u00e1ria, n\u00e3o deveria ter chegado ao que chegou. O ruim \u00e9 que desgasta a imagem do Congresso Nacional. Por qu\u00ea? Porque assuntos como este fazem com que a popula\u00e7\u00e3o - aqueles que s\u00e3o tratados como massa de manobra, que s\u00e3o levados a ter opini\u00f5es que n\u00e3o necessariamente condizem com a verdade, s\u00e3o levados a definir as coisas n\u00e3o como realmente s\u00e3o - passe a ser conduzida por aqueles que controlam as not\u00edcias de forma errada, passe a definir conceitos equivocados. Isso tem acontecido e tamb\u00e9m aconteceu em rela\u00e7\u00e3o ao COAF. Resultado: foi feita uma tempestade em copo d'\u00e1gua que n\u00e3o era necess\u00e1ria, absolutamente.\r\nDesde ontem, depois da vota\u00e7\u00e3o da mat\u00e9ria sobre o COAF, as redes sociais t\u00eam-se enchido de coment\u00e1rios maldosos e maliciosos, principalmente de pessoas que, como disse antes, n\u00e3o conhecem o conceito verdadeiro da coisa. \u00d3timos Deputados, pessoas que t\u00eam um mandato ilibado e que defendem o seu mandato, t\u00eam sido escrachados exatamente porque pessoas que s\u00e3o usadas como massa de manobra t\u00eam uma ideia errada da defini\u00e7\u00e3o verdadeira do COAF. Ent\u00e3o, foi desnecess\u00e1rio.\r\nQue cada um sue a pr\u00f3pria febre, e n\u00e3o d\u00ea a sua febre para outros suarem. Eu n\u00e3o quero e acredito que esta Casa tamb\u00e9m n\u00e3o quer suar febre alheia.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, MPV 867/2018, MEDIDA PROVISORIA, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTRARIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Presidenta em exerc\u00edcio da sess\u00e3o pela condu\u00e7\u00e3o dos trabalhos. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque de prefer\u00eancia para a vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - O PRB, Presidenta, gostaria de parabeniz\u00e1-la pela maneira de conduzir os trabalhos nesta Casa e orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "GLENN GREENWALD, JORNALISTA, THE INTERCEPT BRASIL.,S\u00cdTIO (INTERNET), VAZAMENTO, MENSAGEM, SERGIO MORO, MINISTRO DE ESTADO DA JUSTI\u00c7A E SEGURAN\u00c7A P\u00daBLICA, EX-JUIZ FEDERAL, DELTAN DALLAGNOL, PROCURADOR DA REP\u00daBLICA, OPERA\u00c7\u00c3O LAVA A JATO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Raz\u00e3o do n\u00e3o comparecimento do orador \u00e0 audi\u00eancia p\u00fablica realizada pela Comiss\u00e3o de Direitos Humanos e Minorias, com a presen\u00e7a do jornalista Glenn Greenwald,\r\ndestinada ao debate da atua\u00e7\u00e3o de magistrados e Procuradores no \u00e2mbito da Opera\u00e7\u00e3o Lava-Jato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Presidente.\r\nDe acordo com vasta imprensa internacional, as organiza\u00e7\u00f5es esquerdistas que levantam bandeiras populistas s\u00e3o hier\u00e1rquicas, antidemocr\u00e1ticas e permitem muito pouco controle a seus membros sobre as campanhas que empreende. Algumas dessas organiza\u00e7\u00f5es t\u00eam uma estrutura interna autorit\u00e1ria, estritamente burocr\u00e1tica e lim\u00edtrofe. Um pequeno grupo de indiv\u00edduos tem o controle sobre a organiza\u00e7\u00e3o em n\u00edvel internacional. Grupos de a\u00e7\u00e3o local s\u00e3o totalmente dependentes do corpo central e a classifica\u00e7\u00e3o e o arquivo s\u00e3o exclu\u00eddos da maioria das decis\u00f5es.\r\nEssas organiza\u00e7\u00f5es s\u00e3o movidas pela l\u00edngua do que \u00e9 populesco e costumam angariar a simpatia de pessoas da Era de Aqu\u00e1rio, de quem vive no mundo da Lua, \u00e0 base de maconha, de cal\u00e7a rasgada, remanescentes dos hippies dos anos 70.\r\nUma dessas pessoas est\u00e1 agora nesta Casa, na Comiss\u00e3o de Direitos Humanos e Minorias, chamado pela Esquerda. Por isso, muitos de n\u00f3s, inclusive eu, como membro daquela Comiss\u00e3o, Deputado Otoni de Paula, n\u00e3o estamos l\u00e1, para n\u00e3o glamorizar essa pessoa.\r\nPe\u00e7o mais 1 minuto, para dizer o seguinte: no Brasil, n\u00e3o \u00e9 obrigat\u00f3rio que uma pessoa tenha diploma de gradua\u00e7\u00e3o em jornalismo para exercer essa profiss\u00e3o. Se a pessoa pretende ser jornalista, a indica\u00e7\u00e3o \u00e9 que fa\u00e7a a gradua\u00e7\u00e3o na \u00e1rea. O debate sobre a regulamenta\u00e7\u00e3o da profiss\u00e3o \u00e9 a exig\u00eancia do diploma em jornalismo. Essa discuss\u00e3o tem atravessado muitas d\u00e9cadas. Quem defende a necessidade do diploma considera, meus caros pares, que a forma\u00e7\u00e3o acad\u00eamica garante o m\u00ednimo n\u00edvel de qualidade profissional e amplia a seguran\u00e7a nas negocia\u00e7\u00f5es.\r\n\u00c9 isso que n\u00f3s n\u00e3o vemos nesse estrangeiro chamado Glenn Greenwald, uma pessoa que se utiliza de hackers criminosos da cibern\u00e9tica para juntar as suas informa\u00e7\u00f5es e vir a pa\u00edses como o Brasil lan\u00e7ar uma celeuma totalmente desproporcional.\r\nMuito obrigado, Presidente Bibo Nunes.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FINAN\u00c7AS P\u00daBLICAS, GOVERNO ESTADUAL, RIO DE JANEIRO (ESTADO), GEST\u00c3O, AVALIA\u00c7\u00c3O NEGATIVA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Inconsist\u00eancia de afirma\u00e7\u00f5es sobre o super\u00e1vit financeiro deixado pela gest\u00e3o anterior ao atual Governo Municipal do Rio de Janeiro, Estado do Rio de Janeiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, nesta tribuna foi dito que a \u00faltima administra\u00e7\u00e3o da cidade do Rio de Janeiro entregou a Prefeitura \u00e0 administra\u00e7\u00e3o atual com um super\u00e1vit de 3,1 bilh\u00f5es de reais.\r\nEu quero dizer, segundo informa\u00e7\u00f5es do Prefeito Marcelo Crivella, que isso n\u00e3o passa de uma mentira. A despesa do exerc\u00edcio anterior foi de 1 bilh\u00e3o. Os empr\u00e9stimos a pagar na gest\u00e3o 2017, 2018, 2019 e 2020 somam 6,8 bilh\u00f5es. Os restos a pagar sem sufici\u00eancia or\u00e7ament\u00e1ria - pasmem! - \u00e9 1,3 bilh\u00e3o. Trata-se, senhores e senhoras, da pior administra\u00e7\u00e3o que j\u00e1 passou pela Prefeitura do Rio de Janeiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "OPERA\u00c7\u00c3O POLICIAL, LOJA DE ANIMAIS, COMBATE, MAUS-TRATOS, CACHORRO, CURITIBA (PR), DEFESA, DIREITOS ANIMAIS.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Pr\u00e1tica de maus-tratos de animais por rede de pet shop  em Curitiba e regi\u00e3o metropolitana, Estado do Paran\u00e1. Comprometimento do orador e do Deputado Fred Costa com a prote\u00e7\u00e3o de animais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Sem revis\u00e3o do orador.) - Sr. Presidente Charlles Evangelista, uma rede de pet shop foi alvo de uma grande opera\u00e7\u00e3o da Pol\u00edcia Civil na manh\u00e3 desta ter\u00e7a-feira em Curitiba e Regi\u00e3o Metropolitana de Curitiba. H\u00e1 ind\u00edcios de que os animais ofertados pela empresa investigada sofriam maus-tratos. A investiga\u00e7\u00e3o aponta que eram submetidos a condi\u00e7\u00f5es degradantes de sobreviv\u00eancia, passando finais de semana sem alimenta\u00e7\u00e3o e higiene adequada. Ao todo, foram resgatados 72 c\u00e3es com sinais de maus-tratos e em condi\u00e7\u00f5es degradantes de sobreviv\u00eancia. Eles chegavam a passar todo o final de semana sem comida. Algumas cadelas est\u00e3o prenhas, e o n\u00famero pode aumentar ainda mais. Agora, 50 desses animais precisam de atendimento e receber\u00e3o cuidados especiais.\r\n\u00c9 degradante vermos esse tipo de coisa acontecer. E uma das minhas bandeiras, Presidente Charlles Evangelista, \u00e9 exatamente a prote\u00e7\u00e3o dos animais. Essa bandeira \u00e9 levantada tamb\u00e9m pelo nosso colega Deputado Fred Costa. Minha esposa faz um trabalho muito s\u00e9rio em cima disso.\r\nPortanto, eu n\u00e3o poderia deixar de trazer a esta Casa esse problema e usar os meios de comunica\u00e7\u00e3o da Casa para falar sobre o que est\u00e1 hoje repercutindo fortemente nas m\u00eddias da Regi\u00e3o Metropolitana de Curitiba.\r\nFica registrado o meu protesto.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=8&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "EMIGRA\u00c7\u00c3O, PESQUISADOR, CIENCIA E TECNOLOGIA.\r\nMARCOS CINTRA, SECRETARIA ESPECIAL DA RECEITA FEDERAL DO BRASIL, OFENSA, MILTON VIEIRA, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Fator determinante da emigra\u00e7\u00e3o de pesquisadores brasileiros. Solidariedade ao Deputado Milton Vieira diante do tratamento dispensado ao Parlamentar pelo Secret\u00e1rio Especial da Receita Federal, Marcos Cintra. Desrespeito de secret\u00e1rios de pastas ministeriais para com os membros da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (PRB - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, li uma not\u00edcia hoje que gostaria de reproduzir para os colegas: \r\nFuga de c\u00e9rebros \u00e9 realidade, diz o chefe da Academia Brasileira de Ci\u00eancias.\r\n(...) o f\u00edsico Luiz Davidovich tem assinado cada vez mais cartas de recomenda\u00e7\u00e3o para pesquisadores que deixam o Brasil. Aves raras na academia, esses doutores n\u00e3o querem - e n\u00e3o buscam - sal\u00e1rios altos (...). \r\nEles buscam, Sr. Presidente, condi\u00e7\u00f5es para desenvolver melhor o seu trabalho. Por\u00e9m os recursos t\u00eam deixado a desejar na \u00e1rea da ci\u00eancia e da tecnologia.\r\nSegundo Davidovich, a fuga de c\u00e9rebros \u00e9 muito concreta e dolorosa para ele. Recentemente, ele viu quatro colegas concursados abandonarem seus cargos para tocar trabalhos na Austr\u00e1lia, Holanda, Portugal e Chile. Tr\u00eas v\u00e3o para universidades estrangeiras, outro vai para uma empresa australiana de computa\u00e7\u00e3o qu\u00e2ntica, mas todo o seu aprendizado se deu aqui no Brasil.\r\nTrago aqui esse acontecimento para que seja do conhecimento de todos.\r\nEu quero, no meu minuto final, solidarizar-me com o Deputado Milton Vieira, que teve um tratamento de desprest\u00edgio por parte do Secret\u00e1rio Marcos Cintra.\r\nPasmem os amigos, mas, algum tempo atr\u00e1s, um Secret\u00e1rio do Minist\u00e9rio da Educa\u00e7\u00e3o veio a esta Casa para atender a um Prefeito que foi trazido por um Deputado do meu partido. E esse Secret\u00e1rio chegou para o Prefeito e disse o seguinte: \"Olha, se voc\u00ea quiser conversar com a gente, n\u00e3o precisa vir a esta Casa n\u00e3o. Voc\u00ea pode ir direto ao Minist\u00e9rio que n\u00f3s vamos atender voc\u00ea\". Isso demonstra a falta de delicadeza e de respeito com os membros desta Casa que fazem o trabalho juntamente com a sua base, para facilitar que os Prefeitos possam ser atendidos pelos Minist\u00e9rios e pelos Secret\u00e1rios lotados nesses \u00f3rg\u00e3os. Deixo, ent\u00e3o, esta palavra.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=11&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T12:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, POL\u00cdCIA RODOVI\u00c1RIA FEDERAL, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O.\r\nCONTRARIEDADE, RETIRADA, RADAR M\u00d3VEL, RODOVIA FEDERAL, FLEXBILIZA\u00c7\u00c3O, UTILIZA\u00c7\u00c3O, CADEIRA DE SEGURAN\u00c7A INFANTIL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Transcurso do 91\u00ba anivers\u00e1rio de cria\u00e7\u00e3o da Pol\u00edcia Rodovi\u00e1ria Federal.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Sem revis\u00e3o do orador.) - Agora n\u00e3o somos mais PRB, Sr. Presidente. A partir de hoje, somos Republicanos. Mas a filosofia e a ideologia s\u00e3o as mesmas.\r\nDeputado Hugo Leal, que preside esta sess\u00e3o solene, quero saud\u00e1-lo, assim como cumprimentar os Deputados Mauro Lopes, F\u00e1bio Henrique e Nicoletti, tamb\u00e9m requerentes desta sess\u00e3o solene em comemora\u00e7\u00e3o aos 91 anos da Pol\u00edcia Rodovi\u00e1ria Federal; o Sr. Deolindo Carniel, Presidente da Federa\u00e7\u00e3o Nacional dos Policiais Rodovi\u00e1rios Federais. Sa\u00fado, como bicho da terra, nosso querido Adriano Furtado, Diretor-Geral da Pol\u00edcia Rodovi\u00e1ria Federal; todas as agentes mulheres da Pol\u00edcia Rodovi\u00e1ria Federal, entre elas, nossa eterna Superintendente da Pol\u00edcia Rodovi\u00e1ria Federal no Paran\u00e1, Maria Alice.\r\nQuero dizer a todos voc\u00eas da minha alegria de participar desta sess\u00e3o solene na C\u00e2mara dos Deputados em comemora\u00e7\u00e3o aos 91 anos da Pol\u00edcia Rodovi\u00e1ria Federal.\r\nEu aprendi desde muito cedo, desde minha adolesc\u00eancia, a respeitar muito a Pol\u00edcia Rodovi\u00e1ria Federal. Aos 14 anos de idade, Adriano, eu tinha uma namorada cujo tio era agente da Pol\u00edcia Rodovi\u00e1ria Federal e era meio pai dela, digamos assim, porque o pai havia falecido. Eu o respeitava muito, porque ele era dur\u00e3o com a sobrinha, que tratava como a uma filha. Ele olhava para mim com aquele olhar duro de quem diz: \"Respeite minha sobrinha\". Ao falar assim, ele estava, na maioria das vezes, fardado: vestia a farda da Pol\u00edcia Rodovi\u00e1ria Federal, Deputado Gilberto Nascimento. Naquela \u00e9poca, usava-se aquele quepe branco de agente da Pol\u00edcia Rodovi\u00e1ria Federal. Tenho \u00f3timas lembran\u00e7as! Lembro-me dos sacrif\u00edcios que ele tinha. J\u00e1 se passaram mais de 44 anos. O tempo passa, mas as dificuldades continuam de alguma forma. Outras coisas foram facilitadas.\r\nAlgumas semanas atr\u00e1s, visitamos a sede da Pol\u00edcia Rodovi\u00e1ria Federal em Curitiba, na companhia do Oliveira, que nos ofereceu um tour. A maior parte do nosso tour na sede n\u00f3s passamos no museu. N\u00f3s tivemos a ajuda de um agente que passou 2 horas nos explicando muito da hist\u00f3ria da Pol\u00edcia Rodovi\u00e1ria Federal no Brasil e da \u00e9poca em que ela foi institu\u00edda no Paran\u00e1. Muito nos enriqueceu e me deu ainda muito mais respeito. Muita coisa precisa mudar no Brasil. Muita legisla\u00e7\u00e3o precisa mudar no nosso Pa\u00eds.\r\nEu falo, Deputado Gilberto e Deputado Hugo, n\u00e3o em nome do Republicanos agora, mas em meu pr\u00f3prio nome. Expresso minha opini\u00e3o pessoal. Eu sou contra a retirada dos radares m\u00f3veis das estradas federais, como sou contra a facilita\u00e7\u00e3o ou qualquer outro afrouxamento no que diz respeito \u00e0s cadeirinhas de prote\u00e7\u00e3o das crian\u00e7as dentro dos autom\u00f3veis, al\u00e9m de outras coisas que colaboram para nossa prote\u00e7\u00e3o como motoristas, passageiros e, muitas vezes, inocentes, j\u00e1 que somos tamb\u00e9m passageiros ou motoristas num autom\u00f3vel em uma estrada e, por neglig\u00eancia alheia, somos atingidos inocentemente.\r\nPortanto, eu quero que voc\u00eas estejam seguros de que, neste Deputado Federal, sempre haver\u00e1 algu\u00e9m atento \u00e0s coisas que est\u00e3o acontecendo. Meu gabinete est\u00e1 sempre aberto para recebermos sugest\u00f5es e pleitearmos melhorias para a popula\u00e7\u00e3o, para a carreira de policiais, para a Pol\u00edcia Rodovi\u00e1ria Federal e para o Brasil como um todo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 3369/2015, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO, FAM\u00cdLIA, RECONHECIMENTO, PRINC\u00cdPIOS, ATUA\u00c7\u00c3O, PODER P\u00daBLICO, DIVERSIDADE, G\u00caNERO, ORIENTA\u00c7\u00c3O SEXUAL, PARENTESCO CONSANGU\u00cdNEO, NACIONALIDADE, CREDO, RA\u00c7A, FILHO, VOTA\u00c7\u00c3O, COMISS\u00c3O DE DIREITOS HUMANOS E MINORIAS (CDHM), CR\u00cdTICA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Contrariedade \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.369, de 2015, sobre a institui\u00e7\u00e3o do Estatuto das Fam\u00edlias do S\u00e9culo XXI.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Sem revis\u00e3o do orador.) - Obrigado, Presidente.\r\nCito um projeto de lei:\r\nO Congresso Nacional decreta:\r\n(...) \r\nArt. 2\u00ba S\u00e3o reconhecidas como fam\u00edlias todas as formas de uni\u00e3o entre duas ou mais pessoas que para este fim se constituam e que se baseiem no amor, na socioafetividade, independentemente de consanguinidade, g\u00eanero, orienta\u00e7\u00e3o sexual, nacionalidade, credo ou ra\u00e7a, incluindo seus filhos ou pessoas que assim sejam consideradas.\r\nVejam bem, esse Projeto de Lei n\u00ba 3.369, de 2015, reconhece como fam\u00edlia todas as formas de uni\u00e3o entre duas ou mais pessoas, independentemente de consanguinidade, e ser\u00e1 votado na Comiss\u00e3o de Direitos Humanos.\r\nPor essa regra, Deputado Bolsonaro, estariam regulamentados casamentos que incluem, por exemplo, um pai com o filho, um pai com a filha, uma m\u00e3e com a filha, uma m\u00e3e com o filho ou qualquer combina\u00e7\u00e3o entre pais e filhos. Mas pode ser ainda mais amplo e pior, incluindo mais pessoas de dentro ou de fora da fam\u00edlia, com infinitas possibilidades, como casamento fora da fam\u00edlia e por v\u00e1rias pessoas, incluindo filhos e filhas. Eu acredito que as palavras daquilo que foi falado dizem por si s\u00f3.\r\nQue os senhores fa\u00e7am a an\u00e1lise.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=11&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 3369/2015, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO, FAM\u00cdLIA, RECONHECIMENTO, PRINC\u00cdPIOS, ATUA\u00c7\u00c3O, PODER P\u00daBLICO, DIVERSIDADE, G\u00caNERO, ORIENTA\u00c7\u00c3O SEXUAL, PARENTESCO CONSANGU\u00cdNEO, NACIONALIDADE,  GRUPO RA\u00c7A, FILHO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Rep\u00fadio ao Projeto de Lei n\u00ba 3.369, de 2015, sobre a institui\u00e7\u00e3o do Estatuto das Fam\u00edlias do S\u00e9culo XXI.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente, Deputado Charles Fernandes.\r\nSras. Deputadas, Srs. Deputados, o texto do Projeto de Lei n\u00ba 3.369, de 2015, diz o seguinte: \r\nArt. 1\u00ba Esta lei institui o Estatuto das Fam\u00edlias do S\u00e9culo XXI. \r\nPar\u00e1grafo \u00fanico. O Estatuto das Fam\u00edlias do S\u00e9culo XXI prev\u00ea princ\u00edpios m\u00ednimos para a atua\u00e7\u00e3o do Poder P\u00fablico em mat\u00e9ria de rela\u00e7\u00f5es familiares.\r\nDeputada Benedita da Silva, chamo a aten\u00e7\u00e3o de V.Exa.\r\nArt. 2\u00ba S\u00e3o reconhecidas como fam\u00edlias todas as formas de uni\u00e3o entre duas ou mais pessoas que para este fim se constituam e que se baseiem no amor, na socioafetividade, independentemente de consanguinidade, g\u00eanero, orienta\u00e7\u00e3o sexual, nacionalidade, credo ou ra\u00e7a, incluindo seus filhos ou pessoas que assim sejam consideradas.\r\nSras. Deputadas, Srs. Deputados, querem que eu diga a V.Exas. o que isso significa? Prestem aten\u00e7\u00e3o: o projeto de lei reconhece como fam\u00edlia todas as formas de uni\u00e3o entre duas ou mais pessoas, independentemente de consanguinidade. E o projeto ser\u00e1 votado amanh\u00e3, na Comiss\u00e3o de Direitos Humanos e Minorias, da qual eu sou titular.\r\nPor essa regra, estariam regulamentados casamentos que podem incluir, por exemplo, um pai com o filho, ou o pai com a filha, ou a m\u00e3e com a filha, ou qualquer combina\u00e7\u00e3o entre pais e filhos. Mas pode ser ainda pior, incluindo mais pessoas, de dentro ou de fora da fam\u00edlia, com infinitas possibilidades, como o casamento do pai com v\u00e1rios filhos, v\u00e1rias filhas, outras pessoas, al\u00e9m de outros parentescos, como av\u00f3s, tios, enteados e enteadas.\r\n\u00c9 um absurdo, Sr. Presidente, Sras. Deputadas, Srs. Deputados, em nome de uma nomenclatura de \"Pa\u00eds do S\u00e9culo XXI\", escrachar a palavra sagrada \"fam\u00edlia\", que foi institu\u00edda por Deus, para achincalhar e tentar legalizar qualquer tipo de uni\u00e3o, inclusive o que n\u00f3s todos conhecemos como rela\u00e7\u00f5es incestuosas.\r\n\u00c9 isso o que o texto diz, Deputada. Isso \u00e9 uma vergonha! Isso n\u00e3o deveria nem ser pautado, porque, ao s\u00ea-lo, n\u00e3o ser\u00e3o seres humanos que estar\u00e3o discutindo o assunto, mas bestas, animais! E digo mais: o ser humano, em sua hist\u00f3ria, Deputada Dra. Soraya Manato, tem partido do bestial para o besta num estalar de dedos!\r\nAqui fica o meu protesto, a minha insatisfa\u00e7\u00e3o. Eu estou me sentindo injuriado, ultrajado com tamanha vergonha desse projeto de lei, que est\u00e1 tramitando nesta Casa desde 2015, mas nem n\u00famero deveria ter.\r\nE fico mais envergonhado ainda por ser um Deputado t\u00e3o honrado, t\u00e3o inteligente, que at\u00e9 Ministro da Rep\u00fablica foi, o Deputado Orlando Silva, o autor de um descabimento como esse.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=14&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "FRUTICULTURA, FRUTA, PRODU\u00c7\u00c3O AGR\u00cdCOLA, PARAN\u00c1, AVALIA\u00c7\u00c3O POSITIVA, S\u00c9RGIO CARVALHO, PESQUISADOR, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Avan\u00e7o da fruticultura paranaense, segundo o Instituto Agron\u00f4mico do Paran\u00e1 - IAPAR.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, segundo o Instituto Agron\u00f4mico do Paran\u00e1 - IAPAR, o Estado do Paran\u00e1 pode se tornar o maior produtor de frutas do mundo.\r\nO Paran\u00e1 \u00e9 o sexto Estado do Brasil que mais produz frutas, mas tem potencial para ser o primeiro - n\u00e3o apenas do Brasil, mas do mundo. \r\nO pesquisador S\u00e9rgio Carvalho, do IAPAR, estuda a fruticultura no Estado h\u00e1 mais de 50 anos e foi um dos respons\u00e1veis por importantes avan\u00e7os em diversas culturas, como o zoneamento de citros, uva e banana. S\u00e3o Paulo continua liderando a produ\u00e7\u00e3o nacional, principalmente em decorr\u00eancia da produ\u00e7\u00e3o de laranja, enquanto o Rio Grande do Sul se destaca pela produ\u00e7\u00e3o de uva. N\u00e3o vou deixar de citar, \u00e9 claro, os Estados de Pernambuco e da Bahia, que produzem muitas frutas tropicais. Por\u00e9m, o meu Estado do Paran\u00e1, segundo pesquisas e proje\u00e7\u00f5es, pode se tornar o maior produtor brasileiro e, inclusive, o maior produtor mundial de frutas.\r\nPortanto, eu quero parabenizar o trabalho do IAPAR, na pessoa do pesquisador S\u00e9rgio Carvalho, que nos trouxe esses n\u00fameros t\u00e3o alentadores em rela\u00e7\u00e3o \u00e0 fruticultura no Estado do Paran\u00e1.  \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=16&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "SECRETARIA DE SA\u00daDE, PARAN\u00c1, RIO GRANDE DO SUL, REPASSE, RECURSOS P\u00daBLICOS, UNIDADE DE SA\u00daDE, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, PORTARIA NORMATIVA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Esclarecimento sobre a reten\u00e7\u00e3o de recursos federais pela Secretaria de Sa\u00fade do Estado do Paran\u00e1.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nA Secretaria de Sa\u00fade do Paran\u00e1 est\u00e1 retendo 35 milh\u00f5es de reais referentes ao repasse de verbas federais \u00e0s institui\u00e7\u00f5es de sa\u00fade do Estado, direcionadas pelos Deputados Federais. A Assessoria Jur\u00eddica da Secretaria de Estado busca adequa\u00e7\u00e3o com a Portaria n\u00ba 395, que trouxe mudan\u00e7as para a regra em 2019. Para o cumprimento da norma, \u00e9 necess\u00e1rio que o estabelecimento encaminhe uma proposta de metas complementares para a aplica\u00e7\u00e3o do recurso. N\u00e3o h\u00e1 prazo espec\u00edfico para o hospital fazer a an\u00e1lise de atendimento e colocar o prazo mensal final para aplica\u00e7\u00e3o do recurso. Contudo, Sras. e Srs. Deputados, apenas os Estados do Paran\u00e1 e do Rio Grande do Sul est\u00e3o aplicando essa nova cartilha. Segundo o Minist\u00e9rio da Sa\u00fade, neste caso, n\u00e3o \u00e9 necess\u00e1ria a utiliza\u00e7\u00e3o deste novo crit\u00e9rio.\r\nFica o nosso registro.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=69&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, DIA MUNDIAL DA ALIMENTA\u00c7\u00c3O, ORGANIZA\u00c7\u00c3O DAS NA\u00c7\u00d5ES UNIDAS PARA A ALIMENTA\u00c7\u00c3O E AGRICULTURA (FAO), ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Transcurso do Dia Mundial da Alimenta\u00e7\u00e3o e do 40\u00ba anivers\u00e1rio do estabelecimento, no Brasil, da Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas para a Alimenta\u00e7\u00e3o e a Agricultura - FAO.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nEu quero saudar a Mesa; o proponente desta sess\u00e3o solene, Deputado Padre Jo\u00e3o; o Sr. Rafael Zavala; o Embaixador Ruy Pereira; o Sr. Fernando Schwanke; o Sr. Niky Fabiancic; o Sr. Roberto Sim\u00f5es; o Sr. Alberto Broch; e o Sr. Lelo Coimbra.\r\nSr. Presidente, senhoras e senhores, disse Jesus: \"Porque tive fome, e me destes de comer\". Muito me alegra ocupar a tribuna nesta Sess\u00e3o Solene para celebrar o Dia Mundial da Alimenta\u00e7\u00e3o e o anivers\u00e1rio de 40 anos da Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas para Alimenta\u00e7\u00e3o e Agricultura - FAO no Brasil.\r\nComo membro titular da Comiss\u00e3o de Agricultura, Pecu\u00e1ria, Abastecimento e Desenvolvimento Rural, parabenizo, em primeiro lugar, o Deputado Padre Jo\u00e3o, mui digno subscritor do requerimento idealizador desta Sess\u00e3o Solene.\r\nA celebra\u00e7\u00e3o do Dia Mundial da Alimenta\u00e7\u00e3o acontece anualmente em mais de 150 pa\u00edses. Hoje, senhoras e senhores, essa data nos re\u00fane aqui em mem\u00f3ria do dia 16 de outubro de 1945, quando governos de muitos pa\u00edses, decididos que estavam a eliminar a fome mundial por meio do aprimoramento do setor agr\u00edcola, idealizaram e criaram a FAO. O momento em que surgiu nossa organiza\u00e7\u00e3o homenageada, ap\u00f3s o recent\u00edssimo fim da Segunda Guerra Mundial, era o de uma inseguran\u00e7a alimentar de incompar\u00e1veis propor\u00e7\u00f5es. Al\u00e9m desse cen\u00e1rio de desola\u00e7\u00e3o suprema e de necessidade absoluta, ainda havia grandes deslocamentos da popula\u00e7\u00e3o, com milh\u00f5es de pessoas \u00e0 cata de um lugar para sobreviver \u00e0s mazelas impostas pela Grande Guerra.\r\nPela an\u00e1lise r\u00e1pida das circunst\u00e2ncias nas quais nasceu a FAO, \u00e9 f\u00e1cil a conclus\u00e3o de que sua institui\u00e7\u00e3o seria mesmo vital ao mundo. Criada com o objetivo de erradicar a fome em todos os Estados, combater a inseguran\u00e7a alimentar, a m\u00e1 nutri\u00e7\u00e3o e contribuir para a facilita\u00e7\u00e3o das pol\u00edticas p\u00fablicas em prol da seguran\u00e7a alimentar, a FAO tem ajudado muitos pa\u00edses a se preparar para cat\u00e1strofes naturais ou de origem humana, tem reduzido o risco e aumentado a resili\u00eancia dos seus sistemas agr\u00edcolas e alimentares e tem diminu\u00eddo a pobreza rural, ao criar e garantir a exist\u00eancia dos sistemas agr\u00edcolas e alimentares mais inclusivos e eficientes.\r\nO tema da celebra\u00e7\u00e3o deste ano se encerra no slogan Nossas a\u00e7\u00f5es representam o nosso futuro: dietas saud\u00e1veis para o mundo fome zero. Para a FAO, a frase resume a ideia de que, por meio de uma alimenta\u00e7\u00e3o mais diversificada e nutritiva, benef\u00edcios in\u00fameros ser\u00e3o colhidos pela popula\u00e7\u00e3o mundial nos mais diferentes campos. E essa transforma\u00e7\u00e3o benfazeja depende n\u00e3o s\u00f3 de uma mudan\u00e7a comportamental, individual, mas tamb\u00e9m de pol\u00edticas p\u00fablicas que fomentem essa cobi\u00e7ada transforma\u00e7\u00e3o social.\r\nEsse tema, senhoras e senhores, \u00e9 um convite \u00e0 mudan\u00e7a e \u00e0 mobiliza\u00e7\u00e3o da sociedade e dos governos para garantir que a alimenta\u00e7\u00e3o adequa\u00e7\u00e3o seja uma constante para toda a popula\u00e7\u00e3o mundial. Segundo o \u00faltimo relat\u00f3rio da FAO, a fome afetou cerca de 821 milh\u00f5es de pessoas em todo o mundo no ano de 2017.\r\nConcluo, Sr. Presidente, dizendo que, ao mesmo tempo em que a propor\u00e7\u00e3o de adultos obesos chegou a 13,3% no mesmo ano, o equivalente a mais de 670 milh\u00f5es de pessoas, no Brasil, enquanto a fome atinge menos de 2,5% da popula\u00e7\u00e3o, a obesidade atinge quase 20% dos brasileiros. Trata-se, flagrantemente, de um paradoxo absolutamente irracional.\r\nPara finalizar, registro um pensamento que o Senhor Jesus deixou nos Evangelhos: \"Quando a um desses pequenos fizestes, a mim fizestes\".\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-07T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ONCOLOGIA, PEQUENO PR\u00cdNCIPE, HOSPITAL, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, CURITIBA (PR), HOMENAGEM.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Transcurso do centen\u00e1rio de funda\u00e7\u00e3o do Hospital Pequeno Pr\u00edncipe, refer\u00eancia no tratamento da oncologia infantil, em Curitiba, Estado do Paran\u00e1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Sra. Presidente Aline Sleutjes, nossa companheira na bancada do Paran\u00e1. Eu me sinto orgulhoso e feliz de v\u00ea-la presidir a sess\u00e3o nesta manh\u00e3.\r\nGostaria de mencionar o anivers\u00e1rio de 100 anos de funda\u00e7\u00e3o do Hospital Pequeno Pr\u00edncipe, que, para n\u00f3s do Paran\u00e1, \u00e9 refer\u00eancia e orgulho para o Estado e para todo o Brasil. O Hospital Pequeno Pr\u00edncipe \u00e9 refer\u00eancia no tratamento de crian\u00e7as, no cuidado da oncologia infantil. \r\nPortanto, gostaria de usar este espa\u00e7o, pelo que agrade\u00e7o, para enviar os parab\u00e9ns \u00e0 dire\u00e7\u00e3o do Hospital Pequeno Pr\u00edncipe, pois, afinal de contas, s\u00e3o 100 anos de hist\u00f3ria.\r\nSra. Presidente, pe\u00e7o a V.Exa. que este an\u00fancio seja divulgado pelos meios de comunica\u00e7\u00e3o desta Casa, especialmente pelo programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2019&txPagina=52&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-11T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SA\u00daDE P\u00daBLICA, VIS\u00c3O, OPTOMETRISTA, FRENTE PARLAMENTAR DA OPTOMETRIA, REGULAMENTA\u00c7\u00c3O PROFISSIONAL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Defesa de regulamenta\u00e7\u00e3o da profiss\u00e3o de optometrista.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Quero falar da aten\u00e7\u00e3o \u00e0 sa\u00fade visual. A optometria \u00e9 uma profiss\u00e3o de assist\u00eancia \u00e0 sa\u00fade que envolve o exame dos olhos e sistemas visuais aplic\u00e1veis quanto a defeitos ou anormalidades, bem como a corre\u00e7\u00e3o de erros de refra\u00e7\u00e3o com \u00f3culos ou lentes de contato.\r\nA express\u00e3o \"optometria\" est\u00e1 sendo usada desde 1759, mas no Brasil a atividade n\u00e3o \u00e9 regulamentada. Um decreto de 1932 continua sendo uma pedra no caminho de algo que poderia ajudar milh\u00f5es de pessoas.\r\nO Ministro da Sa\u00fade, Sr. Presidente, em of\u00edcio, reconheceu a import\u00e2ncia da optometria. Por\u00e9m, por alguma raz\u00e3o, foi retificado esse reconhecimento por um simples \"\u00e9 preciso analisar a tem\u00e1tica\".\r\n\u00c9 o momento de todos n\u00f3s nos unirmos, inclusive a classe m\u00e9dica. E eu pe\u00e7o \u00e0 classe dos oftalmologistas que ajude a Frente Parlamentar da Optometria, da qual eu sou Presidente, para que n\u00f3s possamos, de forma transparente, honesta e \u00e0 altura daquilo que a atividade merece, reconhecer essa profiss\u00e3o.\r\nVamos compartilhar o que foi dito aqui para que a sa\u00fade visual dos brasileiros, que \u00e9 uma quest\u00e3o social, seja atendida.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F2%2F2020&txPagina=114&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa tarde, Sr. Presidente, colegas Deputados e Deputadas.\r\nO Republicanos vota \"n\u00e3o\" \u00e0 retirada de pauta desta mat\u00e9ria, porque n\u00f3s compreendemos que esta medida provis\u00f3ria abrir\u00e1 a possibilidade de 2 milh\u00f5es de empregos.\r\nO Relator est\u00e1 olhando \u00e0 frente deste momento de epidemia, naquilo que \u00e9 poss\u00edvel, e depois, com a retomada da vida normal, abrindo espa\u00e7o para novas vagas de trabalho. \r\nNo entanto, parece que alguns Deputados n\u00e3o leram o texto, segundo o qual esta iniciativa vai beneficiar, com novos postos de trabalho, os jovens de 18 a 29 anos e as pessoas que t\u00eam mais de 55 anos de idade. Isso quer dizer que n\u00e3o ser\u00e3o retiradas vagas de trabalho de ningu\u00e9m. Ao contr\u00e1rio, o empregador ser\u00e1 incentivado a dar a esta gama da sociedade a oportunidade de trabalhar, coisa que muitas pessoas n\u00e3o estavam tendo, sem retirar o direito de trabalho de quem j\u00e1 o tem.\r\nO Republicanos vota \"n\u00e3o\" \u00e0 retirada de pauta da mat\u00e9ria e incentiva o Relator no seu texto. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=51&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, as not\u00edcias nos mostram que mais de 1 milh\u00e3o de trabalhadores j\u00e1 tiveram cortes no sal\u00e1rio ou suspens\u00e3o de contrato. As pessoas afetadas receber\u00e3o o equivalente a uma parte do seguro-desemprego. N\u00f3s estamos diante de um problema na classe trabalhadora, que j\u00e1 est\u00e1 sofrendo com essa pandemia. Por que n\u00e3o facilitar, abrindo vagas de emprego para jovens e para trabalhadores com mais de 55 anos? Por que a popula\u00e7\u00e3o deve sofrer por causa da simples oposi\u00e7\u00e3o ao Executivo, como tanto fala a Oposi\u00e7\u00e3o? \r\nNa minha opini\u00e3o, existe um protecionismo, um \"lobby de protecionismo\" - entre aspas - \u00e0s centrais sindicais, que n\u00e3o ter\u00e3o controle e autoridade sobre essa classe de trabalhadores.\r\nO Republicanos vota \"sim\" ao encerramento da discuss\u00e3o, \"sim\" no encaminhamento da vota\u00e7\u00e3o.\r\nSr. Presidente, pedimos o acr\u00e9scimo do tempo de Lideran\u00e7a e passamos a palavra \u00e0 Deputada Aline Gurgel, por favor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=89&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos vota \"n\u00e3o\" \u00e0 retirada de pauta, porque v\u00ea uma oportunidade de abrir empregos para uma classe social necessitada, sem prejudicar a quem j\u00e1 trabalha e a classe social que \u00e9 celetista.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), COMISS\u00c3O MISTA, PRESSUPOSTO CONSTITUCIONAL, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos vota \"sim\" \u00e0 admissibilidade.\r\nOs contratos s\u00e3o de 24 meses, o que incentiva o empres\u00e1rio a contratar quem precisa de trabalho sem prejudicar quem est\u00e1 no regime da CLT.\r\nO voto \u00e9 \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=168&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T23:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 4/2020, PROJETO DE LEI DE CONVERS\u00c3O, SUBSTITUI\u00c7AO, EMENDA AGLUTINATIVA SUBSTITUTIVA GLOBAL,  MPV 905/2019, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 6\u00ba do projeto de lei de convers\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira, para fins de substitui\u00e7\u00e3o ao art. 6\u00ba da Emenda Aglutinativa Substitutiva Global apresentada \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos consultou a sua bancada, e n\u00f3s compreendemos que o voto \"n\u00e3o\" ao destaque do PSL mant\u00e9m a indeniza\u00e7\u00e3o do FGTS em 30%.\r\nPortanto, n\u00f3s votamos \"n\u00e3o\" ao destaque do PSL para manter a indeniza\u00e7\u00e3o do FGTS maior para o trabalhador.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=229&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T23:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  MPV 905/2019, MEDIDA PROVIS\u00d3RIA, SUBSTITUI\u00c7AO, EMENDA AGLUTINATIVA SUBSTITUTIVA GLOBAL, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 7\u00ba da  Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira, para fins de substitui\u00e7\u00e3o do art. 7\u00ba da Emenda Aglutinativa Substitutiva Global apresentada \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos vota \"n\u00e3o\", para mantermos a al\u00edquota do FGTS a favor do trabalhador no regime de contrato verde e amarelo. Mantemos a emenda aglutinativa.\r\nN\u00f3s somos republicanos, n\u00e3o somos esquerdistas, mas nisso estamos concordando com os partidos de esquerda. N\u00e3o pode haver grande perda na grande conquista de d\u00e9cadas, que \u00e9 o FGTS, para a classe trabalhadora brasileira. Os empres\u00e1rios t\u00eam outras vantagens das quais podem se utilizar, e isso vai servir de incentivo para abrir postos de trabalho para a classe de 18 anos a 29 anos e acima de 55 anos.\r\nPortanto, o nosso voto \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=238&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-15T01:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE COMISS\u00c3O, MPV 905/2020, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 770, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, o Republicanos vota \"sim\". A gorjeta suada do trabalhador deve ser isenta de impostos, sen\u00e3o o empregador vai acoplar isso ao sal\u00e1rio e fazer com que menos dinheiro venha ao bolso do trabalhador. Eu sei o que \u00e9 isso, porque, na minha adolesc\u00eancia, eu vivia dessa forma.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=328&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-27T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORONAV\u00cdRUS, PANDEMIA, PROVID\u00caNCIAS, FRONTEIRA, REPATRIA\u00c7\u00c3O, MINIST\u00c9RIO DAS RELA\u00c7\u00d5ES EXTERIORES, ATUA\u00c7\u00c3O.\r\nCORONAV\u00cdRUS, PANDEMIA, PROVID\u00caNCIAS, TEMPLO RELIGIOSO, S\u00c3O PAULO (ESTADO).",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Congratula\u00e7\u00f5es ao Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores, Embaixadas e Consulados brasileiros pelo empenho na repatria\u00e7\u00e3o de cidad\u00e3os brasileiros no exterior, em face da pandemia de coronav\u00edrus. Apelo ao Governo Federal de permiss\u00e3o do ingresso no Pa\u00eds de cidad\u00e3os brasileiros n\u00e3o naturalizados, atingidos pelo decreto presidencial sobre o fechamento das fronteiras brasileiras em decorr\u00eancia da Covid-19. Permiss\u00e3o da abertura de templos religiosos em S\u00e3o Paulo, com restri\u00e7\u00f5es, em face da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Muito boa noite a todos. Boa noite aos pares, colegas Deputadas e Deputados, e ao Exmo. Sr. Presidente da C\u00e2mara dos Deputados.\r\nEu gostaria de mencionar uma coisa que, nesta \u00e9poca do coronav\u00edrus, n\u00f3s temos passado: os pedidos de repatria\u00e7\u00e3o de brasileiros que estavam fora, no exterior, e foram apanhados de surpresa, quando os espa\u00e7os a\u00e9reos foram fechados, as fronteiras foram fechadas e os voos de rota ficaram totalmente prejudicados.\r\nA partir da\u00ed, passou a haver pedido de in\u00fameros brasileiros que foram apanhados fora do Pa\u00eds para que pudessem ser repatriados. Vale ressaltar a import\u00e2ncia do trabalho da FAB - e aqui prestamos a ela nossa homenagem -, porque foram feitos pedidos de repatria\u00e7\u00e3o por mais de 20 mil brasileiros em 89 pa\u00edses. Segundo informa\u00e7\u00f5es, j\u00e1 foram repatriados, com o apoio de embaixadas e consulados, 17.770 brasileiros, faltando, portanto, em torno de 3.800, que est\u00e3o em 74 pa\u00edses ainda.\r\nNa semana passada, 281 voltaram da Austr\u00e1lia e 368 vieram da \u00c1sia, incluindo pa\u00edses como Vietn\u00e3, Indon\u00e9sia, Tail\u00e2ndia e Mal\u00e1sia. Tamb\u00e9m na semana passada, 60 vieram do Paraguai. No final de semana, vieram mais 200. E assim o trabalho tem sido feito, um trabalho sui generis, vivido por esses brasileiros que pediram repatria\u00e7\u00e3o, como tamb\u00e9m pelo pr\u00f3prio Governo brasileiro, que foi apanhado em algo que, pelo menos na hist\u00f3ria moderna, ningu\u00e9m conhecia. \r\nPor isso, n\u00f3s gostar\u00edamos de parabenizar o trabalho do Itamaraty, do Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores, das embaixadas e dos consulados do Brasil nos pa\u00edses onde foram feitos esses pedidos. \r\nDe Portugal, foram repatriados 360 brasileiros; da China, da regi\u00e3o de Wuhan, onde tudo come\u00e7ou, 58 brasileiros foram repatriados, inclusive acompanhamos a maneira como eles passaram pela quarentena. \r\nAgora eu gostaria, Sr. Presidente, de falar acerca do decreto presidencial que fechou as fronteiras brasileiras para a entrada de estrangeiros. N\u00f3s compreendemos esse fechamento. A Europa tamb\u00e9m est\u00e1 passando por esse tipo de decreto de fechamento de fronteiras, at\u00e9 mesmo as fronteiras dos pa\u00edses que fazem parte do Acordo de Schengen est\u00e3o fechadas, e o acordo est\u00e1 suspenso, cada pa\u00eds est\u00e1 mantendo a sua fronteira fechada e tomando assim o cuidado necess\u00e1rio para que n\u00e3o haja uma prolifera\u00e7\u00e3o maior dessa pandemia.\r\nO que aconteceu aqui no Brasil em rela\u00e7\u00e3o aos pa\u00edses vizinhos, quando foram fechadas as fronteiras, \u00e9 que muitos residentes permanentes no Pa\u00eds s\u00e3o origin\u00e1rios desses pa\u00edses fronteiri\u00e7os. Eles t\u00eam fam\u00edlia no Brasil e n\u00e3o t\u00eam nenhuma liga\u00e7\u00e3o com seu pa\u00eds de origem, porque est\u00e3o, nos \u00faltimos 20 anos, 30 anos, vivendo no Brasil, mas n\u00e3o pediram a cidadania brasileira. Eles foram apanhados de surpresa, est\u00e3o fora do Pa\u00eds e n\u00e3o podem entrar. Suas fam\u00edlias, c\u00f4njuges, filhos, pais est\u00e3o no Brasil, mas eles n\u00e3o podem entrar porque o decreto somente permite que entre em nosso territ\u00f3rio o brasileiro nato ou o brasileiro naturalizado. Esses estrangeiros t\u00eam sua vida no Brasil h\u00e1 d\u00e9cadas, mas n\u00e3o s\u00e3o naturalizados. A legisla\u00e7\u00e3o brasileira n\u00e3o exige que, nesse tempo em que est\u00e3o vivendo no Brasil, eles tenham que ser naturalizados.\r\nEles s\u00e3o residentes permanentes. Com o fechamento das fronteiras, a Pol\u00edcia Federal n\u00e3o v\u00ea, dentro da ordem que foi decretada e assinada, uma maneira de dar a eles acesso livre, para que possam entrar no Pa\u00eds. Isso acontece em Roraima, no Munic\u00edpio de Pacaraima. S\u00e3o muitos os estrangeiros que vivem no Brasil, t\u00eam fam\u00edlia no Brasil, s\u00e3o residentes permanentes no Brasil, n\u00e3o t\u00eam liga\u00e7\u00e3o no exterior porque a fam\u00edlia est\u00e1 toda no Brasil, inclusive os pais e irm\u00e3os, mas que n\u00e3o puderam entrar porque foram apanhados l\u00e1 fora. \r\nEm outras palavras, eles est\u00e3o pedindo para ser repatriados, mas, como n\u00e3o s\u00e3o brasileiros naturalizados, eles n\u00e3o t\u00eam esse direito. As autoridades de Bras\u00edlia, ou o Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores ou o Presidente Bolsonaro, poderiam redigir novamente esse decreto, para abrir essa possibilidade a um grupo de pessoas que est\u00e3o sendo altamente prejudicadas.\r\nPara encerrar, Sr. Presidente, eu gostaria de falar acerca de uma atitude que est\u00e1 sendo tomada por alguns Munic\u00edpios. Eu gostaria de usar esse tempo para falar acerca da facilita\u00e7\u00e3o da abertura dos templos e locais de culto, para a realiza\u00e7\u00e3o de cultos de forma reduzida. Por exemplo, a cidade de S\u00e3o Paulo, que \u00e9 o epicentro da epidemia nacional, abriu para que os templos fossem abertos com 30% da sua capacidade. O uso de m\u00e1scara \u00e9 mandat\u00f3rio; crian\u00e7as n\u00e3o s\u00e3o permitidas; pessoas que t\u00eam doen\u00e7as cr\u00f4nicas n\u00e3o podem participar dos cultos, dos quais s\u00f3 podem participar pessoas abaixo de 55 anos de idade; h\u00e1 disponibilidade livre de \u00e1lcool em gel na entrada dos locais de culto; e, depois dos cultos e cerim\u00f4nias, a higieniza\u00e7\u00e3o dos locais \u00e9 mandat\u00f3ria.\r\nEra isso que n\u00f3s quer\u00edamos falar dentro deste tempo da Lideran\u00e7a.\r\nAgradecemos pela oportunidade, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F4%2F2020&txPagina=136&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-21T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 1826/2020, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO),  VOTO FAVOR\u00c1VEL.\r\nREPATRIA\u00c7\u00c3O, BRASILEIRO, M\u00c9XICO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Expectativa quanto \u00e0 repatria\u00e7\u00e3o pelo Governo Federal de cidad\u00e3os brasileiros retidos no M\u00e9xico. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da subemenda substitutiva, oferecida pelo Relator da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.826, de 2020, sobre o pagamento, pela Uni\u00e3o, de compensa\u00e7\u00e3o financeira aos profissionais da sa\u00fade incapacitados permanentemente para o trabalho, em face da contamina\u00e7\u00e3o por coronav\u00edrus durante as a\u00e7\u00f5es de combate \u00e0 doen\u00e7a, bem como aos seus c\u00f4njuges ou companheiros, aos seus dependentes e herdeiros, em caso de \u00f3bito; e sobre a altera\u00e7\u00e3o da  Lei n\u00ba 605, de 1949, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, n\u00f3s recebemos uma informa\u00e7\u00e3o vinda da Cidade do M\u00e9xico e que diz que aproximadamente 170 brasileiros continuam retidos naquela cidade. A grande maioria desses brasileiros enfrenta a angustiante incerteza acerca de quando poder\u00e1 voltar para casa. Muitos est\u00e3o com dificuldades econ\u00f4micas. Entre esses 170 cidad\u00e3os brasileiros se encontram idosos, crian\u00e7as, beb\u00eas e aproximadamente 60 estudantes de interc\u00e2mbio da associa\u00e7\u00e3o Rotary Club.\r\nO Consulado do Brasil na Cidade do M\u00e9xico tem prestado, de acordo com a possibilidade, assist\u00eancia a esses brasileiros, por\u00e9m eles continuam ainda na ang\u00fastia quanto ao que o Governo brasileiro, que tem dado apoio \u00e0 repatria\u00e7\u00e3o dos nossos compatriotas, pode fazer em rela\u00e7\u00e3o a eles.\r\nEu agrade\u00e7o por poder usar esse tempo da Lideran\u00e7a para chamar a aten\u00e7\u00e3o de todos quanto a esses brasileiros que esperam uma solu\u00e7\u00e3o para serem repatriados ao Brasil.\r\nO Republicanos vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2020&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-28T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 6387/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ANTIFUMO, PROIBI\u00c7\u00c3O, PROPAGANDA, PRODUTO FUM\u00cdGENO, CRIT\u00c9RIO, PADRONIZA\u00c7\u00c3O, EMBALAGEM DO PRODUTO, DEBATE.\r\nPLP 4/2015, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, CONTRIBUI\u00c7\u00c3O DE INTERVEN\u00c7\u00c3O NO DOM\u00cdNIO ECON\u00d4MICO (CIDE), INCID\u00caNCIA, FABRICA\u00c7\u00c3O, TABACO, DERIVADOS, DESTINA\u00c7\u00c3O, TRATAMENTO M\u00c9DICO, FUMANTE, DESTINA\u00c7\u00c3O, ARRECADA\u00c7\u00c3O, RECURSOS, EXCLUSIVIDADE, FUNDOS, MUNIC\u00cdPIO, SA\u00daDE, V\u00cdTIMAS, FUMO, CIGARRO, DEBATE.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Import\u00e2ncia da intensifica\u00e7\u00e3o dos trabalhos nacionais de combate ao tabagismo para redu\u00e7\u00e3o da mortalidade provocada pela Covid-19. Tramita\u00e7\u00e3o na Casa dos Projetos de Lei de n\u00bas 6.387 e 2.898, de 2019, e do Projeto de Lei Complementar n\u00ba 4, de 2015, destinados ao combate ao tabagismo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a pandemia do novo coronav\u00edrus, em 2020, representa uma das maiores crises sanit\u00e1rias do mundo.\r\nAo mesmo tempo, o tabagismo \u00e9 tamb\u00e9m considerado uma pandemia pela OMS e tem um papel de destaque no agravamento desta crise.\r\nA intensifica\u00e7\u00e3o do trabalho nacional para combater o tabagismo poderia contribuir para a diminui\u00e7\u00e3o da mortalidade pela COVID-19. Fumantes parecem ser mais vulner\u00e1veis \u00e0 infec\u00e7\u00e3o pelo novo coronav\u00edrus, pois o ato de fumar proporciona constante contato dos dedos - e possivelmente de cigarros contaminados - com os l\u00e1bios, aumentando a possibilidade da transmiss\u00e3o do v\u00edrus para a boca.\r\nEntre os pacientes com pneumonia causada pelo novo coronav\u00edrus, as chances de progress\u00e3o da doen\u00e7a para suas formas mais graves, com insufici\u00eancia respirat\u00f3ria e morte, foram 14 vezes maiores entre fumantes do que entre n\u00e3o fumantes. Esse foi o fator de risco mais forte identificado para essas complica\u00e7\u00f5es.\r\nOs desafios para enfrentar a COVID-19 s\u00e3o ousados e ardilosos. Segundo o Programa Nacional de Controle do Tabagismo, existem 20 milh\u00f5es de fumantes no Brasil, quase duas vezes a popula\u00e7\u00e3o de Portugal. Devido \u00e0 exposi\u00e7\u00e3o aos produtos contidos no cigarro, as pessoas ficam sob o risco de desenvolver doen\u00e7as graves como as cardiovasculares, pulmonares obstrutivas cr\u00f4nicas, c\u00e2ncer e muitas outras. N\u00e3o se pode ignorar que o tabagismo, como poss\u00edvel fator de agravamento da pneumonia por COVID-19, tamb\u00e9m contribui para ampliar os gastos com equipamentos e insumos necess\u00e1rios para o enfrentamento dessa pandemia. Portanto, torna-se urgente reduzir o n\u00famero de fumantes no Brasil.\r\nO tabagismo \u00e9 considerado doen\u00e7a pedi\u00e1trica: 80% dos fumantes se tornaram dependentes de nicotina ainda na adolesc\u00eancia, e 18,5% dos adolescentes experimentaram cigarros todos os anos.\r\nAproveitamos para informar que existem amplas publica\u00e7\u00f5es sobre como deixar de fumar que podem ser obtidas nas Secretarias Estaduais e Municipais de Sa\u00fade ou pelo telefone 136, o Disque Sa\u00fade do Minist\u00e9rio da Sa\u00fade.\r\nLembramos ainda, Sr. Presidente, que existem na C\u00e2mara dos Deputados v\u00e1rios projetos em andamento com o objetivo de combater o tabagismo, como, por exemplo, Projeto de Lei n\u00ba 6.387, de 2019, e o Projeto de Lei n\u00ba 2.898, tamb\u00e9m em 2019, e o Projeto de Lei Complementar n\u00ba 4, de 2015.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-08T18:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PAI, ISNALDO BULH\u00d5ES JR, DEPUTADO FEDERAL, FALECIMENTO, P\u00caSAMES.\r\nOPTOMETRISTA, LIMITA\u00c7\u00c3O, SUPREMO TRIBUNAL FEDERAL (STF), PROTESTO.\r\nIGREJA UNIVERSAL DO REINO DE DEUS, IGREJA EVANG\u00c9LICA, ANGOLA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Falecimento do genitor do Deputado Isnaldo Bulh\u00f5es Jr. Transcurso do Dia Mundial da Sa\u00fade Ocular. Protesto contra a limita\u00e7\u00e3o da atividade do optometrista pelo Supremo Tribunal Federal. Solicita\u00e7\u00e3o ao Presidente Jair Bolsonaro de intermedia\u00e7\u00e3o junto ao governo da Rep\u00fablica da Angola, com vista \u00e0 solu\u00e7\u00e3o de imbr\u00f3glio envolvendo a Igreja Universal do Reino de Deus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, com a sua permiss\u00e3o eu gostaria de registrar aqui o meus votos de pesar pelo falecimento do pai do Deputado Isnaldo Bulh\u00f5es Jr.\r\nQuando eu voltei para o Brasil, em 2015, eu fui presidir o Republicanos no Estado de Alagoas e fiz uma amizade muito grande com a fam\u00edlia Bulh\u00f5es. Sinto muito pelo passamento dele.\r\nGostaria de registrar tamb\u00e9m que, no dia 10 de julho, ser\u00e1 comemorado o Dia Mundial da Sa\u00fade Ocular. No Brasil, estamos passando por um impasse, Sr. Presidente, pois uma decis\u00e3o da ADPF do Supremo deu a um decreto de 1934, do Presidente Getulio Vargas, a legitimidade na Constitui\u00e7\u00e3o de 88. E isso d\u00e1 uma limita\u00e7\u00e3o aos optometristas para a realiza\u00e7\u00e3o do seu trabalho.\r\nOs optometristas, depois desse decreto retrogrado e antiquado de 88 anos atr\u00e1s, deveriam ter no Brasil, como t\u00eam em mais de 120 pa\u00edses do mundo, a considera\u00e7\u00e3o para serem auxiliares da sa\u00fade visual b\u00e1sica de que a popula\u00e7\u00e3o precisa.\r\nSr. Presidente, a capital do meu Estado, Curitiba, tem uma fila de 27 mil pessoas esperando para serem atendidas por um oftalmologista. Se um optometrista, com 5 anos de bacharelado, fizesse uma triagem nessa fila, como em milhares de outras filas para oftalmologistas que existem no Brasil, poder\u00edamos diminuir as filas e colocar prioridade para aqueles que precisam de um atendimento com mais urg\u00eancia. Isso daria a essas pessoas aquilo o que realmente elas precisam.\r\nAten\u00e7\u00e3o, sociedade do s\u00e9culo XXI, \u00e0 atividade dos optometristas!\r\nPara encerrar, Sr. Presidente, j\u00e1 agradecendo a sua paci\u00eancia, gostaria de mencionar - e que fique registrado aqui - o que est\u00e1 acontecendo contra a Igreja Universal do Reino Deus na Rep\u00fablica de Angola.\r\nN\u00f3s conhecemos a hist\u00f3ria de Angola, a hist\u00f3ria de guerra civil e a falta de um Estado de direito pleno que a Rep\u00fablica, ao nosso ver, tem. Por\u00e9m, uma institui\u00e7\u00e3o angolana, de diretoria totalmente angolana, estabelecida no Estado de Angola, que \u00e9 simplesmente, espiritualmente falando, dirigida por uma pessoa brasileira, est\u00e1 sendo l\u00e1 acometida de uma revolta que tem tomado pr\u00e9dios da igreja por parte de ex-pastores que foram removidos do minist\u00e9rio por roubo e por adult\u00e9rio. Eles tomaram a propriedade.\r\nInclusive, foi pedido ao Presidente Bolsonaro que intervenha no Governo de Angola para que pudesse ent\u00e3o ser restabelecida a propriedade a quem realmente \u00e9 dono, que o Estado de direito e que Estado de propriedade sejam obedecidos na Rep\u00fablica de Angola.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2020&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-09T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "IGREJA UNIVERSAL DO REINO DE DEUS (IURD), IGREJA EVANG\u00c9LICA, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, HOMENAGEM.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Transcurso do 43\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da Igreja Universal do Reino de Deus. Import\u00e2ncia dos trabalhos sociais e de evangeliza\u00e7\u00e3o realizados pela institui\u00e7\u00e3o religiosa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Numa inspira\u00e7\u00e3o divina, h\u00e1 43 anos foi plantada uma semente destinada a levar a todo o mundo as boas novas para mudan\u00e7a de vida, a liberta\u00e7\u00e3o, a salva\u00e7\u00e3o.\r\nCom esse destino ousado, nascia a primeira Igreja Universal do Reino de Deus, fundada em 9 de julho de 1977 e instalada numa antiga funer\u00e1ria, na cidade do Rio de Janeiro.\r\nAquele pequeno sal\u00e3o humilde, inicial, testemunhou in\u00fameras transforma\u00e7\u00f5es de vidas, que s\u00f3 podem ser definidas pelos depoimentos dessas pessoas. Pessoas vindas de todos os cantos da cidade encontravam ali as repostas de Deus. \r\nFoi consequ\u00eancia tamb\u00e9m a forma como a pr\u00f3pria Igreja crescia e multiplicava-se. Logo, foi preciso abrir novos templos e expandir a prega\u00e7\u00e3o do evangelho por todas as regi\u00f5es da cidade do Rio de Janeiro e da mesma maneira em outros Estados e na\u00e7\u00f5es.\r\nHoje, s\u00e3o milhares de templos distribu\u00eddos pelo Brasil e em mais de 130 pa\u00edses, onde atuam centenas de bispos e milhares de pastores no Brasil e no mundo.\r\nA vida do homem em miss\u00e3o para Deus \u00e9 como uma folha seca soprada pelo vento, para onde Deus mandar, como nas palavras da can\u00e7\u00e3o de Marcelo Crivella. O pastor vai e deixa tudo para tr\u00e1s: a igreja que abriu, os filhos da f\u00e9 que fez nas regi\u00f5es, muitas vezes sem tempo at\u00e9 para se despedirem. Eles v\u00e3o! \r\nOs bispos s\u00e3o pastores, apenas com mais atribui\u00e7\u00f5es e responsabilidades.\r\nQuando chega uma nova miss\u00e3o, seguem com sua esposa, sem bens, sem nada, v\u00e3o pregar a Palavra de Deus em algum lugar que eles n\u00e3o conhecem, apenas confiam que ser\u00e3o usados por Deus para alcan\u00e7ar mais vidas, levar transforma\u00e7\u00f5es, atrav\u00e9s da Palavra, libertar pessoas e fam\u00edlias inteiras, atrav\u00e9s da a\u00e7\u00e3o da f\u00e9. O pastor da igreja n\u00e3o tem casa pr\u00f3pria, morada certa, carro do ano em seu nome, nada disso. Ele \u00e9 um volunt\u00e1rio abnegado seguindo a sua voca\u00e7\u00e3o sacerdotal, tendo o sacrif\u00edcio como am\u00e1lgama da sua f\u00e9. \r\nSe Deus Todo-Poderoso n\u00e3o poupou o seu pr\u00f3prio filho Jesus, ent\u00e3o o pastor tamb\u00e9m apenas por amor \u00e0s almas quer ser usado. Ele entrega sua vida para ser usada na realiza\u00e7\u00e3o da obra de Deus, trabalha todos os dias, sem f\u00e9rias ou descanso, apenas com uma ajuda de custo para seu sustento, da sua esposa e filhos.\r\nGrande parte dos pastores decide n\u00e3o ter filhos para poder se dedicar com mais afinco na salva\u00e7\u00e3o das almas em qualquer canto do mundo. Consideram as suas ovelhas como seus pr\u00f3prios filhos nascidos da f\u00e9, amam, cuidam, fazem prop\u00f3sitos de jejum e ora\u00e7\u00e3o para lutar pelas gra\u00e7as e acompanhar o crescimento espiritual das pessoas, como um pai cuida dos filhos. \r\nAssim como uma boa fragr\u00e2ncia exala seu perfume e modifica um ambiente, a Universal, por onde se implanta, vai transformando o lugar, a pessoa se liberta dos v\u00edcios, muda seu interior e passa a contribuir com a fam\u00edlia e com o Pa\u00eds, um novo cidad\u00e3o renasce. Um pai de fam\u00edlia, por exemplo, que chega \u00e0 igreja desesperado, muitas vezes, desempregado, viciado, o casamento destru\u00eddo, deprimido, suicida em potencial, com d\u00edvidas, ent\u00e3o, atrav\u00e9s da f\u00e9, consegue virar a chave, toma posse da transforma\u00e7\u00e3o dela, restaura sua fam\u00edlia e conquista outro patamar na vida.\r\n\u00c9 assim, Sr. Presidente, com rela\u00e7\u00e3o a drogas, prostitui\u00e7\u00e3o, desemprego, doen\u00e7as graves e outros problemas imposs\u00edveis aos olhos humanos, mas poss\u00edveis para Deus. E s\u00e3o essas mesmas pessoas, depois de curadas, libertas, salvas, que se tornam o corpo principal de volunt\u00e1rios da Universal. Trabalham para ajudar outras pessoas que tamb\u00e9m sofrem, como elas sofreram. \r\nCome\u00e7am, ent\u00e3o, atrav\u00e9s de grupos, a realizar trabalhos volunt\u00e1rios nos pres\u00eddios, com encarcerados e tamb\u00e9m com suas fam\u00edlias, com mulheres v\u00edtimas de viol\u00eancia, com moradores de rua, viciados, trabalhos em hospitais, abrigos de idosos, com policiais, distribui\u00e7\u00e3o de cestas b\u00e1sicas, e \u00e9 muito grande a lista de trabalhos volunt\u00e1rios sociais e espirais realizados pelos grupos da Universal. \r\nEsse trabalho fant\u00e1stico que nasceu no Brasil h\u00e1 43 anos e hoje se espalha para todo o lugar merece o nosso respeito e toda a admira\u00e7\u00e3o. \r\nQue Deus continue a inspirar a Igreja Universal para levar muitas vidas ao encontro com Deus.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2020&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-09T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ACORDO, VOTA\u00c7\u00c3O, SESS\u00c3O VIRTUAL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Dificuldades de solu\u00e7\u00e3o de impasses nas vota\u00e7\u00f5es em sess\u00f5es virtuais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, a dificuldade que h\u00e1 em uma sess\u00e3o virtual causou esse tipo de coisa. Se n\u00f3s estiv\u00e9ssemos em uma sess\u00e3o presencial, n\u00f3s ter\u00edamos a facilidade de conversar entre os pares e resolver essa situa\u00e7\u00e3o. Ningu\u00e9m sabe o que aconteceu no mundo virtual e nas trocas de WhatsApp.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2020&txPagina=149&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CLEBER VERDE, DEPUTADO FEDERAL, PAIS, HOMIC\u00cdDIO, TURIA\u00c7U (MA), P\u00caSAMES, SOLIDARIEDADE. \r\nESPORTE, DEFESA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Apoio do orador ao esporte. Solidariedade ao Deputado Cleber Verde, diante do assassinato dos seus pais, no Munic\u00edpio de Turia\u00e7u, Estado do Maranh\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado.\r\nSr. Presidente, Sras. Deputadas, Srs. Deputados, eu gostaria de iniciar falando sobre o meu apoio a tudo o que \u00e9 relacionado ao esporte. Como gr\u00e3o-mestre em tae-kwon-do, sou apoiador de todos os esportes, das lutas e das artes marciais como forma de disciplina, como forma de hierarquia, como forma de moldar um car\u00e1ter melhor no ser humano. Reitero meu apoio p\u00fablico \u00e0s iniciativas relacionadas ao esporte.\r\nGostaria, Sr. Presidente, de utilizar o restante do meu tempo para, em nome do partido Republicanos, em nome do nosso Presidente Nacional, o Deputado Marcos Pereira, vir a p\u00fablico manifestar nossa indigna\u00e7\u00e3o, nossa tristeza, nossa revolta diante do acontecido no Munic\u00edpio de Turia\u00e7u, no Maranh\u00e3o, com a morte do pai e da m\u00e3e do nosso companheiro e colega de partido, colega de muitos de V.Exas., uma pessoa maravilhosa, o Deputado Cleber Verde.\r\nOs que est\u00e3o acompanhando as not\u00edcias souberam da forma absurda, a forma terr\u00edvel com que o pai e a m\u00e3e do Deputado foram assassinados. Palavras n\u00e3o podem expressar aquilo que n\u00f3s sentimentos, a revolta, a tristeza. E nada do que n\u00f3s falarmos poder\u00e1 fazer o rel\u00f3gio voltar atr\u00e1s e desfazer os acontecimentos.\r\nAo mesmo tempo em que n\u00f3s abra\u00e7amos e beijamos o cora\u00e7\u00e3o do Deputado Cleber e de toda a fam\u00edlia, n\u00f3s trazemos tamb\u00e9m a p\u00fablico - porque temos a oportunidade de falar, atrav\u00e9s da televis\u00e3o e da r\u00e1dio, com todo o povo brasileiro - o quanto n\u00f3s necessitamos trabalhar juntos para, por meio de uma mudan\u00e7a de costumes, de educa\u00e7\u00e3o e de cultura, minimizarmos essa onda de criminalidade e de crueldade que assola a Na\u00e7\u00e3o.\r\nDeputado Cleber, deixamos registrado o nosso carinho todo especial a V.Exa. Tenho certeza de que falo n\u00e3o apenas em nome do Republicanos, mas dos 513 Deputados da C\u00e2mara, que amam V.Exa. e est\u00e3o junto a V.Exa. neste momento.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=206&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-13T14:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MANIFESTA\u00c7\u00c3O DE PESAR, LUTO, V\u00cdTIMA, PANDEMIA, CORONAV\u00cdRUS, SA\u00daDE P\u00daBLICA, GOVERNO, GOVERNADOR, PREFEITO, CRISE SANIT\u00c1RIA, ISOLAMENTO (SA\u00daDE).\r\nMARCELO CRIVELLA, PREFEITO, RIO DE JANEIRO (RJ), INAUGURA\u00c7\u00c3O, CIDADE, ARTE MARCIAL, TAEKWONDO, HOMENAGEM, WOO JAE LEE, ATLETA.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, POL\u00cdTICA P\u00daBLICA, DEFESA, ANIMAL DOM\u00c9STICO, FRENTE PARLAMENTAR.\r\nOPOSI\u00c7\u00c3O POL\u00cdTICA, CR\u00cdTICA.\r\nRICARDO BARROS, L\u00cdDER DO GOVERNO, C\u00c2MARA DOS DEPUTADOS, VITOR HUGO, DEPUTADO FEDERAL\r\nREPUBLICANOS (PARTIDO POL\u00cdTICO), APOIO POL\u00cdTICO, GOVERNO FEDERAL.\r\nTRIBUNAL DE JUSTI\u00c7A, S\u00c3O PAULO (ESTADO), VANTAGEM PESSOAL, DESEMBARGADOR, ARTIGO DE JORNAL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Solidariedade aos familiares e amigos das v\u00edtimas da Covid-19. Posicionamento do orador favor\u00e1vel \u00e0 imunidade de rebanho contra a infec\u00e7\u00e3o por coronav\u00edrus. Congratula\u00e7\u00f5es ao Prefeito Municipal do Rio de Janeiro, Marcelo Crivella, pela inaugura\u00e7\u00e3o da Cidade das Artes Marciais. Homenagem ao gr\u00e3o-mestre, Woo Jae Lee, pioneiro do taekwondo no Brasil. Apoio \u00e0 Frente Parlamentar em Defesa dos Animais. N\u00e3o reconhecimento, pela Oposi\u00e7\u00e3o, de a\u00e7\u00f5es exitosas do Governo Jair Bolsonaro. Congratula\u00e7\u00f5es ao novo L\u00edder do Governo na Casa, Deputado Ricardo Barros. Agradecimento ao ex-L\u00edder do Governo, Deputado Vitor Hugo. Conveni\u00eancia de manifesta\u00e7\u00e3o dos partidos oposicionistas a respeito da publica\u00e7\u00e3o, pelo jornal O Estado de S. Paulo, de mat\u00e9ria sobre o ac\u00famulo, pelo Tribunal de Justi\u00e7a do Estado de S\u00e3o Paulo, de 13,5 milh\u00f5es de reais em vantagens pessoais.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero agradecer o tempo de L\u00edder que estou usando ao L\u00edder Jhonatan de Jesus, que nos concedeu a palavra.\r\nEu gostaria de enviar o meu voto de pesar a todas as pessoas que perderam amigos, entes queridos, familiares v\u00edtimas da COVID. \r\nEu gostaria de fazer estas perguntas a todos: qual governo, no mundo, est\u00e1 sendo louvado e aplaudido pela maneira como est\u00e1 lidando com esta pandemia? Qual governo, no mundo, descobriu a receita para tratar dessa situa\u00e7\u00e3o e criou pol\u00edticas que fizessem com que esta pandemia n\u00e3o tivesse o n\u00famero de v\u00edtimas que estamos vendo? Esta pandemia n\u00e3o \u00e9 brasileira. Esta pandemia \u00e9 mundial.\r\n\u00c9 claro que as opini\u00f5es divergem. At\u00e9 os cientistas e os profissionais da sa\u00fade n\u00e3o t\u00eam uma opini\u00e3o \u00fanica em rela\u00e7\u00e3o a como tratar a COVID; n\u00e3o t\u00eam uma opini\u00e3o \u00fanica em rela\u00e7\u00e3o ao que se deve fazer para acabar, de maneira efetiva, com a pandemia. Se assim pudesse ser, todos os governantes do mundo j\u00e1 teriam entrado em consenso, por uma quest\u00e3o de senso, e a pandemia n\u00e3o chegaria aonde chegou.\r\nVale dizer tamb\u00e9m que foi dada responsabilidade mais a prefeitos e governadores, em rela\u00e7\u00e3o a como lidar com o isolamento e com a quest\u00e3o sanit\u00e1ria no tratamento dessa epidemia que atinge a popula\u00e7\u00e3o.\r\nEu n\u00e3o sou m\u00e9dico, mas sou a favor, sim, daquilo que se tem dito a respeito de uma imunidade de rebanho, porque \u00e9 inevit\u00e1vel que pessoas morram. Caso contr\u00e1rio, pelas cr\u00edticas, somente o Brasil teria mortos nessa epidemia mundial. E, no mundo, n\u00e3o \u00e9 o que se v\u00ea.\r\nQuero parabenizar o Prefeito do Rio de Janeiro, Marcelo Crivella, que no dia de ontem inaugurou, na Cidade Maravilhosa, a Cidade das Artes Marciais, uma cidade com doze pra\u00e7as que est\u00e1 celebrando o nome de gr\u00e3o-mestres das artes maciais brasileiras e daqueles que fizeram do Brasil a sua terra - eram estrangeiros -, quando trouxeram para c\u00e1 as artes marciais japonesas, coreanas, etc. O taekwondo, do qual fa\u00e7o parte, est\u00e1 representado pelo gr\u00e3o-mestre Nam Ho Lee.\r\nEu quero prestar essa homenagem e agradecer ao Prefeito Crivella, que, mesmo nesse estado de pandemia, n\u00e3o fez a obra parar, pela import\u00e2ncia de darmos aos jovens, principalmente, uma op\u00e7\u00e3o para que possam sair da marginalidade e da ociosidade.\r\nQuero tamb\u00e9m prestar a minha homenagem ao gr\u00e3o-mestre Woo Jae Lee, que foi o pioneiro do taekwondo no Brasil.\r\nSr. Presidente, eu gostaria de falar tamb\u00e9m sobre a coordena\u00e7\u00e3o de pol\u00edticas p\u00fablicas que o Presidente Bolsonaro criou para a defesa dos animais dom\u00e9sticos. Quero falar tamb\u00e9m sobre a Frente Parlamentar em Defesa dos Animais, que \u00e9 liderada pelo Deputado Marx Beltr\u00e3o e conta com os Deputados C\u00e9lio Studart, Ricardo Izar, Fred Costa e outros. Essa Frente Parlamentar tamb\u00e9m conta com o meu apoio nesse sentido. A coordena\u00e7\u00e3o da Frente Parlamentar est\u00e1 sob a nossa responsabilidade no Estado do Paran\u00e1. \r\nSr. Presidente, \u00e9 uma utopia, mas seria muito importante que a popula\u00e7\u00e3o conhecesse o que est\u00e1 por tr\u00e1s daquilo que a ideologia dos partidos de oposi\u00e7\u00e3o quer levar. Quando defendem determinadas coisas, defendem por bandeiras, n\u00e3o defendem necessariamente pelo que \u00e9 melhor para a popula\u00e7\u00e3o. Mostra-se opini\u00e3o de populismo, mas n\u00e3o necessariamente o resultado para a popula\u00e7\u00e3o brasileira, atrav\u00e9s de a\u00e7\u00f5es do Governo legitimamente eleito. N\u00e3o se mostra algo que possa produzir resultados positivos para a popula\u00e7\u00e3o.\r\nMesmo que o Governo fa\u00e7a algo produtivo, o trabalho da oposi\u00e7\u00e3o \u00e9 criticar, como se o acerto daquilo que o Governo faz n\u00e3o beneficiasse a pr\u00f3pria popula\u00e7\u00e3o que a oposi\u00e7\u00e3o defende. \u00c9 muito interessante ver a oposi\u00e7\u00e3o trabalhar dessa maneira. \u00c9 a oposi\u00e7\u00e3o sendo oposi\u00e7\u00e3o.\r\nQuero aqui congratular o Deputado Ricardo Barros, que foi designado pelo Presidente Bolsonaro para a Lideran\u00e7a do Governo, e agradecer ao Deputado Vitor Hugo, que, como ele mesmo disse, nos 19 meses, conduziu essa Lideran\u00e7a de maneira muito eficaz e muito am\u00e1vel. \r\nQuero dizer aqui que um dos melhores Ministros da Sa\u00fade foi o Deputado Ricardo Barros, quando ocupou esse posto. Tamb\u00e9m quero dizer da alegria de toda a bancada dos Deputados do Paran\u00e1 por esta designa\u00e7\u00e3o do Deputado Ricardo Barros para a Lideran\u00e7a do Governo na C\u00e2mara. \r\nPara encerrar, Presidente, eu gostaria de falar acerca do que foi noticiado hoje, no Estad\u00e3o, sobre o Tribunal de Justi\u00e7a de S\u00e3o Paulo, que acumulou 13,5 milh\u00f5es de reais em vantagens pessoais. A Oposi\u00e7\u00e3o poderia olhar esse tipo de coisa, porque a\u00ed n\u00f3s estar\u00edamos juntos e louvar\u00edamos a\u00e7\u00f5es como essa em benef\u00edcio da popula\u00e7\u00e3o. \r\nMuito obrigado, Sr. Presidente, por nos ceder esse tempo de Lideran\u00e7a. Queremos dizer a todos que o Republicanos est\u00e1 sempre atento a pautas que s\u00e3o do interesse do povo, apoiando o Governo e mantendo sempre o seu eleitorado dentro de um conservadorismo de valores e de liberalismo na economia. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F8%2F2020&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-09T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URGENCIA, PL 5191/2020, PROJETO DE LEI ORDINARIA, REPUBLICANOS (PARTIDO POLITICO), VOTO FAVORAVEL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Requerimento n\u00ba 2.870, de 2020, para tramita\u00e7\u00e3o em regime de urg\u00eancia e imediata inclus\u00e3o na Ordem do Dia do Projeto de Lei n\u00ba 5.191, 2020, sobre a cria\u00e7\u00e3o do Fundo de Investimento para o Setor Agropecu\u00e1rio - FIAGRO.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - O Republicanos vota \"sim\", Sr. Presidente. \r\nN\u00f3s entendemos que \u00e9 importante que haja esta abertura, inclusive pela imensid\u00e3o das terras brasileiras, e que tamb\u00e9m possa o estrangeiro utilizar-se dessa terra, desde que traga \u00e0 Na\u00e7\u00e3o brasileira o progresso e a riqueza que a sua terra tem.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F12%2F2020&txPagina=111&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T13:58",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MARCELO CRIVELLA, PREFEITO, RIO DE JANEIRO (RJ), PRIS\u00c3O, REPUBLICANOS (PARTIDO POL\u00cdTICO), CONTRA, LUIZ LIMA, DEPUTADO FEDERAL, PRONUNCIAMENTO PARLAMENTAR, CR\u00cdTICA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Inexist\u00eancia de motivos para a pris\u00e3o do Prefeito Marcelo Crivella, do Rio de Janeiro, Estado do Rio de Janeiro. Contesta\u00e7\u00e3o do discurso proferido pelo Deputado Luiz Lima contra o Republicanos e o gestor da Capital fluminense.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Como L\u00edder. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente, pela oportunidade de usar o tempo de Lideran\u00e7a do Republicanos.\r\nEu gostaria de dizer que, pessoalmente, tenho uma grande admira\u00e7\u00e3o pelo Deputado Luiz Lima, uma pessoa que tem uma hist\u00f3ria, uma pessoa que muito fez pelo esporte e uma pessoa muito bem motivada.\r\n\u00c9 o tipo de pessoa que deve estar na pol\u00edtica. \r\nAgora, o fato de ele ter sido candidato \u00e0 Prefeitura do Rio de Janeiro e ter apanhado - porque apanha-se muito, e mais ainda em pol\u00edtica municipal, quando se \u00e9 candidato a Prefeito, principalmente - talvez tenha feito do meu amigo Deputado uma pessoa magoada por aquilo que sofreu, por aquilo que dele falaram, por fake news que, segundo ele, lan\u00e7aram contra ele. E no momento em que usou o tempo a ele destinado ao microfone da C\u00e2mara dos Deputados, especialmente no dia de hoje, ele foi infeliz e talvez tenha agido mais com o cora\u00e7\u00e3o do que com a raz\u00e3o.\r\nA pris\u00e3o do Prefeito Marcelo Crivella, do Rio de Janeiro, todos n\u00f3s sabemos que \u00e9 resultado de dela\u00e7\u00f5es, como muitas outras pris\u00f5es. Isso tem se tornado corriqueiro no Brasil, porque t\u00eam acontecido pris\u00f5es como resultado de dela\u00e7\u00f5es feitas por pessoas que, querendo, de alguma forma, se livrar de algo que lhes \u00e9 imputado, utilizam-se desse mecanismo, que \u00e9 o meio que a Justi\u00e7a usa - mas que nem sempre \u00e9 defendido -, para, atrav\u00e9s dele, de certa forma, condenar algu\u00e9m - porque aqui, no Brasil, se \u00e9 condenado sem ser julgado.\r\nEnt\u00e3o, sem nenhuma necessidade, o Prefeito da cidade do Rio de Janeiro, foi preso, sem que houvesse raz\u00e3o para a decreta\u00e7\u00e3o dessa pris\u00e3o, a n\u00e3o ser o fato de o Minist\u00e9rio P\u00fablico estar totalmente politizado. Isso poderia ter acontecido com qualquer Prefeito, de qualquer outra cidade, ou com qualquer outro mandat\u00e1rio.\r\nA politiza\u00e7\u00e3o do Minist\u00e9rio P\u00fablico o tem levado a fazer a Justi\u00e7a tirar a venda dos seus olhos e a colocar na sua cara, apesar de ela dever ser cega e imparcial, lentes sujas, ainda mais em se tratando da cidade do Rio de Janeiro. \r\nEst\u00e1-se judicializando a pol\u00edtica, e a Executiva Nacional do Republicanos, da qual tamb\u00e9m sou part\u00edcipe, lan\u00e7ou uma nota \u00e0 imprensa falando do ocorrido.\r\nEu gostaria de fazer, Sr. Presidente e amigos, uma distin\u00e7\u00e3o entre o que est\u00e1 acontecendo na cidade do Rio de Janeiro - que \u00e9 algo que, a seu tempo, ser\u00e1 comprovado, e a justi\u00e7a, sendo a Justi\u00e7a cega e imparcial, ser\u00e1 feita - e o fato de o Deputado ter-se utilizado de uma agremia\u00e7\u00e3o que \u00e9 mil vezes maior do que Marcelo Crivella, do que eu, do que o Presidente Nacional Marcos Pereira ou do que qualquer outro mandat\u00e1rio que seja membro do partido Republicanos, o 10. Por qu\u00ea? Porque n\u00f3s devemos saber colocar as coisas no devido lugar.\r\nMarcelo foi chamado de corrupto. Marcelo foi chamado de chefe de quadrilha. Mas o Republicanos foi chamado de qu\u00ea? Foi chamado de partido de centro-esquerda e tamb\u00e9m foi chamado de um partido que mistura religi\u00e3o e pol\u00edtica. \r\nOra, se aquilo em que n\u00f3s cremos n\u00e3o faz parte da nossa milit\u00e2ncia pol\u00edtica; se as nossas ideologias n\u00e3o fazem parte daquilo a que n\u00f3s aderimos como filia\u00e7\u00e3o partid\u00e1ria e ideol\u00f3gica, ent\u00e3o, por que n\u00f3s fazemos pol\u00edtica? N\u00e3o \u00e9 uma quest\u00e3o de mistura. Karl Marx e Engels acreditavam naquilo que escreveram e designaram. Aquilo em que eles acreditavam, para eles, era a sua ideologia, era a sua religi\u00e3o, era o que os motivava. Cada um tem um motivador. Cada um cr\u00ea em alguma coisa. E por aquilo em que creem, por sua ideologia, ainda que n\u00e3o seja espiritual, \u00e9 que as pessoas fazem pol\u00edtica. Ent\u00e3o, todos n\u00f3s colocamos aquilo em que n\u00f3s cremos, seja a nossa religi\u00e3o, seja a nossa racionalidade, simplesmente pelos nossos pensamentos, na pol\u00edtica, porque, caso contr\u00e1rio, n\u00f3s ser\u00edamos um monte de rob\u00f4s e n\u00e3o ter\u00edamos ideologias pelas quais lutar.\r\nMas chamar o Republicanos de partido de centro-esquerda? O que \u00e9 ser de centro-esquerda? \u00c9 se preocupar mais com o social? \u00c9 ser mais sens\u00edvel \u00e0 causa das pessoas menos favorecidas? \u00c9 n\u00e3o pertencer a uma ideologia que apoia a agressividade? \u00c9 achar que n\u00e3o se deve militarizar um Governo democr\u00e1tico? O que quer dizer ser de centro-esquerda? Ser de centro-esquerda \u00e9 ser mais sens\u00edvel \u00e0 igualdade entre as pessoas e respeit\u00e1-las mais, apesar do fato de que ideologias e orienta\u00e7\u00f5es s\u00e3o diferentes? \u00c9, ainda que n\u00e3o sejamos a favor de determinadas ideologias e orienta\u00e7\u00f5es, respeitar a opini\u00e3o das pessoas? \r\nEnt\u00e3o, se isso \u00e9 ser de centro-esquerda, eu sou de centro-esquerda! Se isso \u00e9 ser de centro-esquerda, eu, como pregador do Evangelho h\u00e1 41 anos e como pessoa que cr\u00ea na Palavra de Deus, ent\u00e3o, sou de centro-esquerda. Ent\u00e3o, o Republicanos passou a ser de centro-esquerda! \r\nOra, esta! O que \u00e9 ser Republicanos, sen\u00e3o ser patriota? Sen\u00e3o lutar para crer e formalizar, com veem\u00eancia, valores que comp\u00f5em a sociedade, num trip\u00e9 que cont\u00e9m a ordem e a fam\u00edlia, como cellula mater daquilo que vivemos, dentro da ordem, dentro do progresso, dentro do voto livre, dentro de termos o prazer de dar aquilo que \u00e9 institucional \u00e0 P\u00e1tria brasileira: o devido valor e o orgulho que ela merece receber, numa \u00e9poca em que o civismo, o patriotismo - n\u00e3o estou falando em nacionalismo, mas em civismo e patriotismo - est\u00e3o em baixa?\r\nO meu amigo, o Deputado Luis Miranda, foi infeliz. Ele me deixou triste no dia de hoje. Gosto dele e vou continuar gostando. Mas somos pelo social, sim. Mas somos pela fam\u00edlia - pela fam\u00edlia como Deus criou, pela fam\u00edlia constitu\u00edda como Deus a criou, mas respeitando diferen\u00e7as ideol\u00f3gicas, porque as pessoas s\u00e3o livres, porque Deus as criou assim. \r\nMas nos acusar de ser corrupto? Onde h\u00e1 corrup\u00e7\u00e3o dentro do Republicanos? Mostre-me outro partido na Casa, independentemente de ideologia - todos t\u00eam a minha admira\u00e7\u00e3o -, que vote coeso como o Republicanos.\r\nE, diga-se de passagem, o Deputado mencionou a palavra religi\u00e3o, mas aqueles a quem o Deputado se refere usando a palavra ''religi\u00e3o'' - entre aspas - s\u00e3o, dentro do Republicanos, a minoria da bancada - a minoria!\r\nN\u00f3s vemos uma politiza\u00e7\u00e3o em jogos que acontecem dentro de grupos pol\u00edticos na Casa, a qual faz com que pessoas que t\u00eam a mesma ideologia pol\u00edtica cuspam na cara dos outras, quando n\u00e3o alcan\u00e7am aquilo que gostariam. \r\nO SR. PRESIDENTE (Kim Kataguiri. DEM - SP) - Pe\u00e7o que encerre o seu tempo de L\u00edder, Deputado.\r\nO SR. AROLDO MARTINS (REPUBLICANOS - PR) - O que quero dizer com isso? Caminh\u00e1vamos juntos at\u00e9 h\u00e1 pouco como uma grande maioria da C\u00e2mara, e, agora, voltam as costas uns aos outros em troca da sucess\u00e3o presidencial na Casa.\r\nO SR. PRESIDENTE (Kim Kataguiri. DEM - SP) - Tem a palavra o PSB, Deputado Elias Vaz.\r\nO SR. AROLDO MARTINS (REPUBLICANOS - PR) - Encerrarei, Sr. Presidente.\r\nDepois, quando acabar essa elei\u00e7\u00e3o, tudo vai voltar ao normal, e ter\u00e1 sido uma luta por causa de assentar-se em uma cadeira, a da Presid\u00eancia, de cujo ocupante, muitas vezes, a ideologia e a imparcialidade s\u00e3o questionadas. \r\nValores t\u00eam que ser mantidos. N\u00e3o chame ningu\u00e9m de corrupto; n\u00e3o envolva a religi\u00e3o; envolva a sua consci\u00eancia.\r\nDeixo aqui o meu protesto e a certeza de que quando, em fevereiro, votarmos para escolher aquele que ser\u00e1 o pr\u00f3ximo Presidente desta Casa, votaremos em algu\u00e9m que seja imparcial e que n\u00e3o leve nem seu est\u00f4mago nem seu intestino para a cadeira da Presid\u00eancia.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-13T12:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3729/2004, PROJETO DE LEI ORDINARIA, REPUBLICANOS (PARTIDO POLITICO),   VOTO CONTRARIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 64, apresentada ao Projeto de Lei n\u00ba 3.729, de 2004, sobre o licenciamento ambiental; regulamenta\u00e7\u00e3o do inciso IV do \u00a7 1\u00ba do art. 225 da Constitui\u00e7\u00e3o Federal; altera\u00e7\u00e3o das Leis n\u00bas 9.605, de 1998, e 9.985, de 2000; e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 7.661, de 1988.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Obrigado, Presidente Marcelo.\r\nN\u00f3s gostar\u00edamos de parabenizar todos que participaram da aprova\u00e7\u00e3o do novo Regimento, que traz maior dinamismo ao andamento das sess\u00f5es da C\u00e2mara dos Deputados, e faz com que o trabalho renda mais e seja menos truncado, como s\u00f3i acontecer.\r\nA orienta\u00e7\u00e3o do Republicanos \u00e9 \"n\u00e3o\" a esse destaque do PCdoB. \r\nPara encerrar, Sr. Presidente, eu gostaria de mencionar o ato inconstitucional de expuls\u00e3o da Rep\u00fablica de Angola de pastores brasileiros da denomina\u00e7\u00e3o evang\u00e9lica Igreja Universal, que, sem as fam\u00edlias e somente com a roupa do corpo, chegaram ontem \u00e0 noite em territ\u00f3rio brasileiro. Infelizmente, a Rep\u00fablica de Angola \u00e9 um pa\u00eds onde n\u00e3o existe o Estado Democr\u00e1tico de Direito.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-13T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3729/2004, PROJETO DE LEI  ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO. \r\nGOVERNO, JAIR BOLSONAARO, PRESIDENTE DA REP\u00daBLICA, VACINA, VACINA\u00c7\u00c3O, CORONAV\u00cdRUS, PANDEMIA.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Defesa dos procedimentos do Governo Federal em rela\u00e7\u00e3o \u00e0 vacina\u00e7\u00e3o da popula\u00e7\u00e3o contra a Covid-19. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 46, apresentada ao Projeto de Lei 3.729, de 2004, sobre o licenciamento ambiental; regulamenta\u00e7\u00e3o do inciso IV do \u00a7 1\u00ba do art. 225 da Constitui\u00e7\u00e3o Federal; altera\u00e7\u00e3o das Leis n\u00bas 9.605, de 1998, e 9.985, de 2000; e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 7.661, de 1988.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Marcelo Ramos, em rela\u00e7\u00e3o \u00e0 vacina\u00e7\u00e3o contra a COVID e ao procedimento dos Governos quanto a essa pandemia, n\u00e3o h\u00e1 nenhum pa\u00eds que seja mestre. Por qu\u00ea? Responda a minha pergunta: qual foi o pa\u00eds que j\u00e1 passou antes por uma pandemia causada por um v\u00edrus chamado COVID? Nunca houve isso na hist\u00f3ria da humanidade!\r\nO que se v\u00ea hoje \u00e9 uma politiza\u00e7\u00e3o do assunto, e isso tem sido utilizado para bombardear e crivar o Governo do Presidente Bolsonaro de cr\u00edticas simplesmente pelo fato de que o ano que vem \u00e9 ano de elei\u00e7\u00e3o. Ent\u00e3o, espero que as pessoas que nos acompanham saibam ver a diferen\u00e7a.\r\nO Republicanos orienta \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-18T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 827/2020, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 827, de 2020, acerca do estabelecimento de medidas excepcionais em face da emerg\u00eancia de sa\u00fade p\u00fablica decorrente da epidemia de coronav\u00edrus, com vista \u00e0 suspens\u00e3o do cumprimento de medida judicial, extrajudicial ou administrativa destinada \u00e0 desocupa\u00e7\u00e3o ou remo\u00e7\u00e3o for\u00e7ada coletiva em im\u00f3vel privado ou p\u00fablico, urbano ou rural; \u00e0 concess\u00e3o de liminar em a\u00e7\u00e3o de despejo nos termos da Lei n\u00ba 8.245, de 1991, e ao est\u00edmulo \u00e0 celebra\u00e7\u00e3o de acordos nas rela\u00e7\u00f5es locat\u00edcias, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos vai liberar a sua bancada. V\u00ea-se que existe um copo que tem \u00e1gua pela metade. Uns veem como metade cheia, outros veem como metade vazia. S\u00e3o posi\u00e7\u00f5es diferentes. Existe dificuldade trazida pela pandemia, mas existe algo chamado direitos e deveres de contrato. Existem entendimentos diferentes.\r\nPor isso, o Republicanos decide liberar a sua bancada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-22T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, PROPOSI\u00c7\u00c3O ORIGINAL, PL 4384/2020, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o do texto original do Projeto de Lei n\u00ba 4.384, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.992, de 2020, para extens\u00e3o, \u00e0s organiza\u00e7\u00f5es sociais de sa\u00fade, a suspens\u00e3o da obrigatoriedade de manuten\u00e7\u00e3o das metas quantitativas e qualitativas, contratualizadas pelos prestadores de servi\u00e7o de sa\u00fade de qualquer natureza, no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Marcelo Ramos, eu gostaria de mandar a sauda\u00e7\u00e3o para o trabalho que \u00e9 feito pelos hospitais, Hospital S\u00e3o Vicente de Curitiba, as Santas Casas, Hospital da Cruz Vermelha, Hospital Angelina Caron, Hospital do Rocio, e outros hospitais que n\u00f3s temos dado apoio direcionando emendas. \r\nCompreendemos a situa\u00e7\u00e3o que est\u00e3o passando e a dificuldade que todos estamos vivendo com a pandemia. \r\nPortanto, o Republicanos vota \"n\u00e3o\" e permanece com o texto original do Relator Pedro Westphalen.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA, SENADO FEDERAL, PLV 12/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1034/2021, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTRARIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas do Senado Federal de n\u00bas 1 a 3, com parecer contr\u00e1rio, apresentadas ao Projeto de Lei de Convers\u00e3o n\u00ba 12, de 2021, da Medida Provis\u00f3ria n\u00ba 1.034, de 2021, a respeito da majora\u00e7\u00e3o tribut\u00e1ria da Contribui\u00e7\u00e3o Social sobre o Lucro L\u00edquido - CSLL do setor financeiro; da altera\u00e7\u00e3o da isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI na compra de autom\u00f3veis por pessoa com defici\u00eancia; da revoga\u00e7\u00e3o da tributa\u00e7\u00e3o de produtos destinados a centrais petroqu\u00edmicas at\u00e9 31/12/2021; e da dedu\u00e7\u00e3o do cr\u00e9dito presumido relativo \u00e0 contribui\u00e7\u00e3o para o PIS/PASEP de pessoa jur\u00eddica fabricante de produtos utilizados em hospitais, cl\u00ednicas, consult\u00f3rios m\u00e9dicos e campanhas de vacina\u00e7\u00e3o at\u00e9 31/12/2025, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos votar\u00e1 \"n\u00e3o\" \u00e0s emendas do Senado.\r\nDe forma pessoal, eu gostaria de dizer que, no que se refere ao IPI, a isen\u00e7\u00e3o deveria valer n\u00e3o s\u00f3 para ve\u00edculos de at\u00e9 140 mil reais mas tamb\u00e9m para qualquer tipo de ve\u00edculo, j\u00e1 que se trata de pessoas com defici\u00eancia.\r\nO Republicanos vota \"n\u00e3o\" \u00e0s emendas do Senado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, MPV 1034/2021, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 1, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 1.034, de 2021, a respeito da majora\u00e7\u00e3o tribut\u00e1ria da Contribui\u00e7\u00e3o Social sobre o Lucro L\u00edquido - CSLL do setor financeiro; da altera\u00e7\u00e3o da isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI na compra de autom\u00f3veis por pessoa com defici\u00eancia; da revoga\u00e7\u00e3o da tributa\u00e7\u00e3o de produtos destinados a centrais petroqu\u00edmicas at\u00e9 31/12/2021; e da dedu\u00e7\u00e3o do cr\u00e9dito presumido relativo \u00e0 contribui\u00e7\u00e3o para o PIS/PASEP de pessoa jur\u00eddica fabricante de produtos utilizados em hospitais, cl\u00ednicas, consult\u00f3rios m\u00e9dicos e campanhas de vacina\u00e7\u00e3o at\u00e9 31/12/2025.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o projeto de lei de convers\u00e3o aprovado na C\u00e2mara dos Deputados estabelecia al\u00edquota de 25% para bancos de qualquer esp\u00e9cie. Portanto, o Republicanos votar\u00e1 contra a emenda destacada.\r\nA nossa orienta\u00e7\u00e3o \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SA\u00daDE P\u00daBLICA, OFTALMOLOGISTA, VIS\u00c3O, POPULA\u00c7\u00c3O DE BAIXA RENDA, OPTOMETRISTA, CURITIBA (PR), FRENTE PARLAMENTAR DA OPTOMETRIA, BACHARELADO, REGULAMENTA\u00c7\u00c3O, PROFISS\u00c3O.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Falta de oftalmologistas para atendimento \u00e0s popula\u00e7\u00f5es carentes no Pa\u00eds. A\u00e7\u00f5es do orador na Presid\u00eancia da Frente Parlamentar pela Optometria. Apoio \u00e0 regulamenta\u00e7\u00e3o da profiss\u00e3o de optometrista. Defesa da atua\u00e7\u00e3o integrada entre os profissionais da oftalmologia e da optometria.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Como L\u00edder. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nSras. Deputadas e Srs. Deputados, eu utilizo o espa\u00e7o desta Casa para falar acerca de um assunto de muita relev\u00e2ncia. Refiro-me \u00e0 sa\u00fade prim\u00e1ria visual da Na\u00e7\u00e3o brasileira. \u00c9 sabido que falta n\u00famero suficiente de oftalmologistas para atender a popula\u00e7\u00e3o mais carente naquilo que muitas vezes \u00e9 simples, nomeadamente no que diz respeito \u00e0 refra\u00e7\u00e3o ocular.\r\nNo per\u00edodo em que vivi fora do Brasil, Sr. Presidente, n\u00f3s tivemos a oportunidade de utilizar o trabalho de profissionais optometristas que podem fazer o trabalho simples, Deputado General Peternelli, de aviar uma receita de refra\u00e7\u00e3o ocular para a pessoa que necessita. Poucos meses atr\u00e1s me deparei com a not\u00edcia de que a minha cidade, cidade onde eu moro, Curitiba, tem uma fila de espera de 27 mil pessoas para serem atendidas por um oftalmologista.\r\nEu quero aqui, em p\u00fablico, dizer do trabalho ex\u00edmio e do trabalho perfeito que faz um m\u00e9dico oftalmologista ao cumprir com a sua profiss\u00e3o. Mas a popula\u00e7\u00e3o brasileira, que \u00e9 muito carente, necessita de um apoio no sentido de se alcan\u00e7arem aqueles que s\u00e3o mais necessitados e que vivem em lugares long\u00ednquos, em cidades pequenas do interior, aonde um oftalmologista n\u00e3o consegue chegar, dado at\u00e9 mesmo o n\u00famero pequeno que h\u00e1 em rela\u00e7\u00e3o ao tamanho da popula\u00e7\u00e3o.\r\nPortanto, eu proponho, como membro e Presidente da Frente Parlamentar pela Optometria, que haja um entendimento entre os m\u00e9dicos oftalmologistas e os profissionais da optometria, para que os optometristas possam colaborar com os oftalmologistas, atendendo a popula\u00e7\u00e3o mais carente. N\u00f3s propomos que os optometristas possam fazer uma triagem, ajudando at\u00e9 mesmo os oftalmologistas a cumprirem o seu papel de ajudar a popula\u00e7\u00e3o.\r\nNa Frente Parlamentar pela Optometria, n\u00f3s estamos propondo que, para exercer a atividade de optometrista, o profissional tenha um diploma de bacharel de uma universidade reconhecida.\r\nO MEC j\u00e1 reconheceu o curso de Bacharelado em Optometria. Propomos tamb\u00e9m que seja feita pelo conselho brasileiro - ainda n\u00e3o se tornou um conselho federal porque a atividade ainda n\u00e3o foi regulamentada - uma prova de aptid\u00e3o para o optometrista, como \u00e9 feito nas sociedades m\u00e9dicas de cada especialidade, para que o optometrista seja devidamente acreditado como uma pessoa com know-how para exercer a sua atividade. Com isso, os oftalmologistas poderiam se utilizar da profici\u00eancia da atividade de um optometrista na triagem, principalmente, como disse antes - desculpem-me ser repetitivo -, na classe mais necessitada e menos favorecida da popula\u00e7\u00e3o brasileira.\r\nEu tenho tentado, desde quando comecei o meu mandato, em 1\u00ba de fevereiro de 2019, diminuir o gap que h\u00e1 entre os oftalmologistas e os optometristas. Tenho procurado conversar com o Deputado Hiran Gon\u00e7alves, que tem sido muito atencioso, dialogar a esse respeito, para que, cedendo um pouco de um lado, cedendo um pouco de outro lado, observando aquilo que o Conselho Brasileiro de Oftalmologia deseja reivindicar, possamos dar liberdade para que a atividade de optometria seja regulamentada e esse profissional possa ajudar na sa\u00fade prim\u00e1ria da popula\u00e7\u00e3o brasileira.\r\nPortanto, ao utilizar este espa\u00e7o, pe\u00e7o o apoio dos meus pares. Pe\u00e7o tamb\u00e9m que seja divulgada no programa A Voz do Brasil e nos meios de comunica\u00e7\u00e3o desta Casa a exist\u00eancia, na C\u00e2mara dos Deputados, da Frente Parlamentar da Optometria, que apoia a regulamenta\u00e7\u00e3o da atividade. Estamos abertos, juntamente com o conselho brasileiro e com os conselhos estaduais, com os pares desta Casa para chegar a um acordo que, repito, s\u00f3 tem a beneficiar a popula\u00e7\u00e3o brasileira, que sofre muitas vezes com a demora em ser atendida por um oftalmologista.\r\nMantenhamos um profissional que pode ser um grande auxiliar da medicina oftalmol\u00f3gica, em benef\u00edcio da popula\u00e7\u00e3o brasileira: o optometrista!\r\nMuito obrigado, Sr. Presidente Arthur Lira.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T23:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 15/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1040/2021, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO).",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 4\u00ba-A, da Lei 13.874, de 2019, na reda\u00e7\u00e3o do art. 56 do Projeto de Lei de Convers\u00e3o n\u00ba 15, de 2021, da Medida Provis\u00f3ria n\u00ba 1.040, de 2021, sobre a facilita\u00e7\u00e3o para abertura de empresas, a prote\u00e7\u00e3o de acionistas minorit\u00e1rios, a facilita\u00e7\u00e3o do com\u00e9rcio exterior, o Sistema Integrado de Recupera\u00e7\u00e3o de Ativos, as cobran\u00e7as realizadas pelos conselhos profissionais, a profiss\u00e3o de tradutor e int\u00e9rprete p\u00fablico, a obten\u00e7\u00e3o de eletricidade e a prescri\u00e7\u00e3o intercorrente na Lei n\u00ba 10.406, de 2002 - C\u00f3digo Civil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, este destaque suprime dispositivo que altera a Lei da Liberdade Econ\u00f4mica para impor novos deveres \u00e0 administra\u00e7\u00e3o p\u00fablica. \r\nO Republicanos vota \"sim\", pela manuten\u00e7\u00e3o do texto do Relator.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T23:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 1040/2021, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 242, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 1.040, de 2021, sobre a facilita\u00e7\u00e3o para abertura de empresas, a prote\u00e7\u00e3o de acionistas minorit\u00e1rios, a facilita\u00e7\u00e3o do com\u00e9rcio exterior, o Sistema Integrado de Recupera\u00e7\u00e3o de Ativos, as cobran\u00e7as realizadas pelos conselhos profissionais, a profiss\u00e3o de tradutor e int\u00e9rprete p\u00fablico, a obten\u00e7\u00e3o de eletricidade e a prescri\u00e7\u00e3o intercorrente na Lei n\u00ba 10.406, de 2002 - C\u00f3digo Civil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - \u00c9 uma atitude retr\u00f3grada continuar com esse tipo de lei velha - a lei, n\u00e3o o Relator.\r\nN\u00f3s vivemos em outro tempo, em outro momento, n\u00f3s precisamos abrir a mente para que o Brasil possa ingressar numa comunidade de mercado internacional com a mente aberta e n\u00e3o continuar sendo aquele Pa\u00eds apadrinhado do getulismo. N\u00e3o existe mais isso. N\u00f3s vivemos numa globaliza\u00e7\u00e3o. Por isso, o Republicanos orienta o voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T23:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 15/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1040/2021, MEDIDA PROVIS\u00d3RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO),  MARCO BERTAIOLLI, RELATOR, ELOGIO.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do  requerimento de destaque para supress\u00e3o do inciso XXVIII, art. 57, do Projeto de Lei de Convers\u00e3o n\u00ba 15, de 2021, da Medida Provis\u00f3ria n\u00ba 1.040, de 2021, sobre a facilita\u00e7\u00e3o para abertura de empresas, a prote\u00e7\u00e3o de acionistas minorit\u00e1rios, a facilita\u00e7\u00e3o do com\u00e9rcio exterior, o Sistema Integrado de Recupera\u00e7\u00e3o de Ativos, as cobran\u00e7as realizadas pelos conselhos profissionais, a profiss\u00e3o de tradutor e int\u00e9rprete p\u00fablico, a obten\u00e7\u00e3o de eletricidade e a prescri\u00e7\u00e3o intercorrente na Lei n\u00ba 10.406, de 2002 - C\u00f3digo Civil. Congratula\u00e7\u00f5es ao Relator Marco Bertaiolli pelo parecer oferecido \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Eu quero tamb\u00e9m parabenizar o Relator pelo trabalho que realizou. Quero dizer da import\u00e2ncia de como tudo foi bem esclarecido. \u00c0s 23h20min, neste \u00faltimo destaque, o Republicanos n\u00e3o poderia deixar de votar \"sim\", pela manuten\u00e7\u00e3o do texto, porque v\u00ea que o Brasil precisa mover essa grande m\u00e1quina e passar a ser um pa\u00eds de vanguarda, dentro de um universo de globaliza\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, IGREJA UNIVERSAL DO REINO DE DEUS, IGREJA EVANGELICA, HOMENAGEM.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Transcurso do 44\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da Igreja Universal do Reino de Deus. Congratula\u00e7\u00f5es aos pastores, mission\u00e1rios e membros da institui\u00e7\u00e3o religiosa.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado pela oportunidade de me dirigir a todos os meus pares e a todos os que nos acompanham.\r\nEu gostaria de usar o tempo de L\u00edder do Republicanos para expressar o nosso contentamento e transmitir a nossa alegria pelos 44 anos de funda\u00e7\u00e3o da Igreja Universal. A data ser\u00e1 celebrada amanh\u00e3, dia 9 de julho.\r\nA Igreja Universal \u00e9 um trabalho evangel\u00edstico e evang\u00e9lico, que tem como objetivo alcan\u00e7ar as classes mais necessitadas da sociedade. A ideia da cria\u00e7\u00e3o da Igreja Universal veio exatamente do fato de que o Bispo Edir Macedo era membro de uma igreja evang\u00e9lica que atingia um p\u00fablico mais elitista. Ele sentia dentro de si o desejo de levar a palavra de Deus para as pessoas mais necessitadas. Isso fez com que ele, com a b\u00ean\u00e7\u00e3o do seu bispo, come\u00e7asse a fazer um trabalho de evangeliza\u00e7\u00e3o no coreto de um bairro do sub\u00farbio do Rio de Janeiro chamado M\u00e9ier. Ali ele conseguiu fazer com que alguns ouvintes pudessem receber a palavra do Evangelho da Salva\u00e7\u00e3o.\r\nGostaria de lembrar que, entre um desses ouvintes da palavra que o ent\u00e3o jovem Edir Macedo pregava no coreto do M\u00e9ier, estava o cantor Latino, que era um morador de rua e, ainda menino, teve a palavra de apoio por parte do Evangelho pregado pelo ent\u00e3o cooperador e obreiro Edir Macedo.\r\nDevo dizer a V.Exas., ainda no in\u00edcio da minha fala, que todos os pastores e bispos da Igreja Universal n\u00e3o t\u00eam bens pr\u00f3prios. O nosso estatuto reza assim. Quanto a revista Forbes coloca o Bispo Edir Macedo como o pastor mais rico do Brasil, espere para ver o que acontecer\u00e1 quando ele partir. Aquilo que est\u00e1 no nome dele n\u00e3o ir\u00e1 para os filhos, n\u00e3o ir\u00e1 para seus herdeiros, mas para uma organiza\u00e7\u00e3o que ser\u00e1 dirigida pelo Minist\u00e9rio P\u00fablico. N\u00f3s partiremos deste mundo com aquilo que n\u00f3s trouxemos: absolutamente nada.\r\n\u00c9 muito importante que fa\u00e7amos uma avalia\u00e7\u00e3o sobre aquilo que tem sido o trabalho da Igreja Universal. Quando eu vivia na Am\u00e9rica Central, ouvi da parte de um te\u00f3logo - n\u00f3s trabalhamos juntos na corre\u00e7\u00e3o do texto da B\u00edblia na l\u00edngua espanhola - o seguinte: \"Aroldo, sabe o que acontece com a Igreja Universal? \u00c9 porque ela n\u00e3o veio do Hemisf\u00e9rio Norte, ela veio do Hemisf\u00e9rio Sul. Se tivesse vindo do Hemisf\u00e9rio Norte, se tivesse sido fundada na Inglaterra, na Esc\u00f3cia, como as hist\u00f3ricas denomina\u00e7\u00f5es evang\u00e9licas, ou dos Estados Unidos, ela n\u00e3o seria criticada como ela \u00e9. Mas, como ela veio do sul, de um pa\u00eds do Terceiro Mundo, ela \u00e9 criticada por n\u00e3o ter tido o ber\u00e7o do Primeiro Mundo\".\r\nO que \u00e9 a Igreja Universal? Quantas milhares de vidas t\u00eam sido transformadas atrav\u00e9s do poder do Evangelho? Quantos cidad\u00e3os t\u00eam largado as drogas? Quantas pessoas t\u00eam largado o v\u00edcio? Quantas pessoas t\u00eam sido tiradas da marginalidade por causa do trabalho da Igreja Universal? E isso sem nenhum apoio de fundo p\u00fablico. Vidas t\u00eam sido mudadas. Os testemunhos, atrav\u00e9s dos meios de comunica\u00e7\u00e3o que transmitem a mensagem da Igreja Universal, demonstram a import\u00e2ncia da Igreja.\r\nS\u00e3o milhares de vidas transformadas, milhares de pessoas tiradas daquilo cujo resultado certamente seria a sepultura. Continuaram vivendo. S\u00e3o pessoas mudadas, restitu\u00eddas \u00e0 sociedade, s\u00e3o melhores cidad\u00e3os, melhores chefes de fam\u00edlia, melhores donas de casa, melhores brasileiros, melhores cidad\u00e3os do mundo.\r\nPor isso, por esses 44 anos, eu quero parabenizar todos os membros da Igreja Universal, os pastores, os mission\u00e1rios que est\u00e3o em outros pa\u00edses, os companheiros bispos, o Bispo Edir Macedo.\r\nContinuemos todos com a \u00e1rdua miss\u00e3o e o \u00e1rduo trabalho de levar o Evangelho, de Jesus Cristo. Quanto \u00e0s pedras, sabemos que, em \u00e1rvore que n\u00e3o d\u00e1 fruto, ningu\u00e9m atira pedra.\r\nSr. Presidente, pe\u00e7o que seja divulgado pelos meios de comunica\u00e7\u00e3o da Casa este pronunciamento sobre os 44 anos de funda\u00e7\u00e3o da Igreja Universal do Reino de Deus.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-13T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 2633/2020, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Aroldo Martins",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 2.633, de 2020, a respeito da regulariza\u00e7\u00e3o fundi\u00e1ria de ocupa\u00e7\u00f5es incidentes em terras da Uni\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. AROLDO MARTINS (REPUBLICANOS - PR. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a lei que regulamenta a ocupa\u00e7\u00e3o fundi\u00e1ria incidente de \u00e1reas da Uni\u00e3o \u00e9 algo sobre o qual n\u00f3s j\u00e1 dever\u00edamos ter repousado e trabalhado h\u00e1 muito tempo.\r\nO Brasil, vem ano e sai ano, continua com essa mesma discuss\u00e3o em rela\u00e7\u00e3o \u00e0 regulamenta\u00e7\u00e3o fundi\u00e1ria, enquanto outros pa\u00edses est\u00e3o na vanguarda em rela\u00e7\u00e3o a esse tipo de coisa.\r\nO Republicanos, portanto, vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

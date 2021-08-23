@@ -1,0 +1,938 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-11T09:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DEFESA DO CONSUMIDOR, VE\u00cdCULO, SINISTRO, ACIDENTE DE TR\u00c2NSITO, SISTEMA NACIONAL DE SEGUROS PRIVADOS, CLUBE ESPORTIVO, FUTEBOL, SOCIEDADE COOPERATIVA, ASSOCIA\u00c7\u00c3O, ATUA\u00c7\u00c3O, REGULAMENTA\u00c7\u00c3O, NECESSIDADE.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Alerta aos Parlamentares, \u00e0s autoridades competentes e \u00e0 sociedade em geral sobre as a\u00e7\u00f5es marginais de associa\u00e7\u00f5es e cooperativas atuantes nas \u00e1reas futebol\u00edstica e de prote\u00e7\u00e3o veicular.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, subo a esta tribuna para fazer um grave alerta aos Srs. Parlamentares, \u00e0s autoridades e \u00e0 sociedade em geral.\r\nAs finan\u00e7as pessoais e o patrim\u00f4nio dos consumidores brasileiros est\u00e3o seriamente amea\u00e7ados por um segmento que atua totalmente \u00e0 margem da lei, sem autoriza\u00e7\u00e3o legal ou qualquer regulamenta\u00e7\u00e3o. Refiro-me \u00e0s associa\u00e7\u00f5es e cooperativas que comercializam a chamada prote\u00e7\u00e3o veicular, fazendo-se passar por empresas legais de seguros para enganar incautos.\r\nEssas associa\u00e7\u00f5es e cooperativas v\u00eam sendo inclusive alvo de a\u00e7\u00f5es da Pol\u00edcia Federal em todo o Brasil. Mas, ainda assim, multiplicam-se e, mesmo quando t\u00eam suas portas fechadas pela Justi\u00e7a ou pela pol\u00edcia, renascem em novo endere\u00e7o e em nova raz\u00e3o social, dando prosseguimento \u00e0 sua a\u00e7\u00e3o ilegal.\r\nO resultado disso, como pode ser constatado nos \u00f3rg\u00e3os de defesa do consumidor, \u00e9 uma legi\u00e3o de consumidores enganados, que contrataram a malfadada prote\u00e7\u00e3o veicular para proteger o seu patrim\u00f4nio, mas n\u00e3o foram ressarcidos na ocorr\u00eancia de um sinistro, seja num acidente no tr\u00e2nsito, seja no roubo dos seus ve\u00edculos.\r\nA bem da verdade, essa a\u00e7\u00e3o marginal encontra o ambiente prop\u00edcio para proliferar, por culpa tamb\u00e9m das seguradoras, que relutam em lan\u00e7ar produtos adequados, com pre\u00e7os mais compat\u00edveis para as camadas da popula\u00e7\u00e3o mais suscet\u00edveis ao canto da sereia das associa\u00e7\u00f5es de prote\u00e7\u00e3o veicular. Talvez esse segmento irregular n\u00e3o tivesse progredido se as seguradoras fossem mais sens\u00edveis ao s\u00e9rio risco a que est\u00e1 exposto o cidad\u00e3o comum e, em linhas gerais, o pr\u00f3prio Sistema Nacional de Seguros. Fa\u00e7o, ent\u00e3o, um apelo para que as empresas de seguros revejam essa posi\u00e7\u00e3o.\r\nDeputados, Deputadas, mais recentemente, essas associa\u00e7\u00f5es invadiram o futebol, aproveitando-se dessa paix\u00e3o do povo brasileiro para atrair simpatias atrav\u00e9s do patroc\u00ednio a grandes clubes de diferentes Estados. No Rio de Janeiro, uma corretora de seguros, que enviou carta de rep\u00fadio ao Vasco da Gama, um dos clubes que aceitou o patroc\u00ednio dessas associa\u00e7\u00f5es, foi acionada na Justi\u00e7a por danos morais, por uma entidade que diz representar o segmento da prote\u00e7\u00e3o veicular.\r\nParticularmente, vejo essa not\u00edcia com muita indigna\u00e7\u00e3o. Uma afronta! Essas associa\u00e7\u00f5es atuam no mercado marginal, n\u00e3o t\u00eam regulamenta\u00e7\u00e3o, n\u00e3o pagam impostos e n\u00e3o oferecem garantia nenhuma ao consumidor. Ent\u00e3o, s\u00e3o essas associa\u00e7\u00f5es que deveriam ser processadas pelos danos e preju\u00edzos causados aos consumidores brasileiros.\r\nEm rela\u00e7\u00e3o ao que um desses representantes falou sobre mim, sobre eu ser gago, respondo-lhe que eu prefiro ser gago a ser bandido.\r\nMuito obrigado, Sr. Presidente.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO LUCAS VERGILIO.\r\n\r\n\tSr. Presidente, Sras. e Srs. Deputados, subo a esta tribuna para fazer um grave alerta aos Parlamentares, \u00e0s autoridades e \u00e0 sociedade em geral. \r\nAs finan\u00e7as pessoais e o patrim\u00f4nio dos consumidores brasileiros est\u00e3o seriamente amea\u00e7ados por um segmento que atua totalmente \u00e0 margem da lei, sem autoriza\u00e7\u00e3o legal ou qualquer regulamenta\u00e7\u00e3o.\r\nRefiro-me \u00e0s associa\u00e7\u00f5es e cooperativas que comercializam a chamada \"prote\u00e7\u00e3o veicular\", fazendo-se passar por empresas legais de seguros para enganar incautos.\r\nEssas associa\u00e7\u00f5es e cooperativas v\u00eam sendo, inclusive, alvo de a\u00e7\u00f5es da Pol\u00edcia Federal em todo o Brasil. Mas, ainda assim, multiplicam-se e, mesmo quando t\u00eam suas portas fechadas pela Justi\u00e7a ou pela pol\u00edcia, renascem em novo endere\u00e7o e nova raz\u00e3o social, dando prosseguimento a sua a\u00e7\u00e3o ilegal.\r\nO resultado disso, como pode ser constatado nos \u00f3rg\u00e3os de defesa do consumidor, \u00e9 uma legi\u00e3o de consumidores enganados, que contrataram a malfadada prote\u00e7\u00e3o veicular para proteger o seu patrim\u00f4nio, mas que n\u00e3o foram ressarcidos na ocorr\u00eancia de um sinistro, seja um acidente no tr\u00e2nsito ou o roubo dos seus ve\u00edculos.\r\nA bem da verdade, essa a\u00e7\u00e3o marginal encontra o ambiente prop\u00edcio para proliferar por culpa tamb\u00e9m das seguradoras, que relutam em lan\u00e7ar produtos adequados, com pre\u00e7os mais compat\u00edveis, para as camadas da popula\u00e7\u00e3o mais suscet\u00edveis ao canto da sereia das associa\u00e7\u00f5es de prote\u00e7\u00e3o veicular.\r\nTalvez, esse segmento irregular n\u00e3o tivesse progredido se as seguradoras fossem mais sens\u00edveis ao s\u00e9rio risco a que est\u00e1 exposto o cidad\u00e3o comum e, em linhas gerais, o pr\u00f3prio sistema nacional de seguros. \r\nFa\u00e7o, ent\u00e3o, um apelo para que as empresas de seguros revejam essa posi\u00e7\u00e3o.\r\nDeputados, Deputadas, mais recentemente, essas associa\u00e7\u00f5es invadiram o futebol, aproveitando-se dessa paix\u00e3o do povo brasileiro para atrair simpatias atrav\u00e9s do patroc\u00ednio a grandes clubes de diferentes Estados.\r\nNo Rio de Janeiro, uma corretora de seguros que enviou carta de rep\u00fadio ao Vasco da Gama, um dos clubes que aceitou o patroc\u00ednio dessas associa\u00e7\u00f5es, foi acionada na Justi\u00e7a por danos morais, por uma entidade que diz representar o segmento da prote\u00e7\u00e3o veicular.\r\nParticularmente, vejo essa not\u00edcia com muita indigna\u00e7\u00e3o. Uma afronta! Essas associa\u00e7\u00f5es ou cooperativas atuam no mercado marginal, n\u00e3o t\u00eam regulamenta\u00e7\u00e3o, n\u00e3o pagam impostos e n\u00e3o oferecem garantia nenhuma ao consumidor.\r\nEnt\u00e3o, s\u00e3o essas associa\u00e7\u00f5es e cooperativas que deveriam ser processadas pelos danos e preju\u00edzos causados aos consumidores brasileiros.\r\nMuito obrigado!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2019&txPagina=27&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-17T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "SEGURAN\u00c7A VEICULAR.\r\nILEGALIDADE, EXTRA\u00c7\u00c3O MINERAL, DIAMANTE, GARIMPO, RESERVA IND\u00cdGENA.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Reitera\u00e7\u00e3o do alerta \u00e0 popula\u00e7\u00e3o brasileira sobre os riscos advindos da contrata\u00e7\u00e3o da chamada prote\u00e7\u00e3o veicular. Den\u00fancia divulgada pela imprensa sobre o envolvimento do presidente da Ag\u00eancia de Autorregulamenta\u00e7\u00e3o das Entidades de Autogest\u00e3o de Planos de Prote\u00e7\u00e3o contra Riscos Patrimoniais - AAAPV, advogado Raul Canal, na extra\u00e7\u00e3o ilegal e venda de diamantes da reserva ind\u00edgenas Cinta Larga.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Como L\u00edder. Sem revis\u00e3o do orador.) - Muito obrigado. \r\nSra. Presidente, Sras. e Srs. Deputados, subo a esta tribuna para novamente alertar a sociedade brasileira sobre os riscos oferecidos pela chamada \"prote\u00e7\u00e3o veicular\", um segmento que, irregularmente, se transveste de seguro para iludir incautos, comercializando algo que n\u00e3o \u00e9 regulamentado, que n\u00e3o oferece garantias e que vem sendo alvo de sucessivas a\u00e7\u00f5es da Pol\u00edcia Federal em diferentes regi\u00f5es do Brasil. \r\nSras. e Srs. Deputados, desta vez chamo a aten\u00e7\u00e3o para o envolvimento de expressiva lideran\u00e7a desse segmento em outra atividade investigada pela pol\u00edcia. Refiro-me ao advogado Raul Canal, que, segundo not\u00edcia amplamente divulgada pela imprensa, estaria envolvido na extra\u00e7\u00e3o ilegal e na venda de diamantes do garimpo de Lage, na reserva dos \u00edndios Cinta Larga. Ele \u00e9 alvo, inclusive, de investiga\u00e7\u00e3o da Lava-Jato. \r\nEssa not\u00edcia n\u00e3o nos surpreende. Afinal, esse advogado preside a autoproclamada Ag\u00eancia de Autorregulamenta\u00e7\u00e3o das Entidades de Autogest\u00e3o de Planos de Prote\u00e7\u00e3o contra Riscos Patrimoniais - AAAPV. Portanto, lidera o segmento que, em rela\u00e7\u00e3o ao seguro, pode ser considerado uma esp\u00e9cie de zirc\u00f4nia, aquela pedra sint\u00e9tica produzida em laborat\u00f3rio, tida como a imita\u00e7\u00e3o mais popular de um diamante. A princ\u00edpio, at\u00e9 tem certo brilho, mas \u00e9 de baix\u00edssimo valor, se comparada aos diamantes.\r\nA diferen\u00e7a entre a zirc\u00f4nia e a prote\u00e7\u00e3o veicular \u00e9 que o consumidor que opta pela pedra sint\u00e9tica sabe que est\u00e1 adquirindo algo de baixo valor, que n\u00e3o tem a resist\u00eancia e a qualidade do diamante e que, com o uso, vai acumulando riscos e se tornando cada vez menos brilhante. Em pouco tempo, perde todo o brilho e utilidade.\r\nJ\u00e1 aquele que contrata a prote\u00e7\u00e3o veicular \u00e9 iludido e instado a acreditar que vai estar, de fato, protegido por algo de valor que n\u00e3o vai se alterar com o tempo, principalmente na ocorr\u00eancia de um sinistro, quando tem o seu patrim\u00f4nio roubado ou danificado em um acidente no tr\u00e2nsito.\r\nPortanto, as autoridades precisam agir com extremo rigor para evitar que a nossa popula\u00e7\u00e3o continue correndo o s\u00e9rio risco de perder o seu maior \"diamante\", o seu patrim\u00f4nio t\u00e3o arduamente conquistado, em raz\u00e3o da extra\u00e7\u00e3o irregular praticada por garimpeiros ilegais, que se espalham por todo o Brasil, atuando totalmente \u00e0 margem da lei.\r\n\t\t\t\t\t\tDeputados e Deputadas, n\u00e3o podemos permitir que as finan\u00e7as pessoais e o patrim\u00f4nio dos brasileiros permane\u00e7am amea\u00e7ados por essa zirc\u00f4nia, que \u00e9 a prote\u00e7\u00e3o veicular.\r\n\t\t\t\t\tSra. Presidente, pe\u00e7o que o meu pronunciamento seja divulgado nos meios de comunica\u00e7\u00e3o da Casa, em especial no Programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F4%2F2019&txPagina=36&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade, seguindo esse acordo, vai orientar o voto \"sim\".\r\nQuero parabenizar V.Exa., que \u00e9 uma das grandes l\u00edderes da bancada feminina, essa bancada feminina que orgulha tanto a C\u00e2mara dos Deputados. Eu n\u00e3o tenho d\u00favida de que j\u00e1 conquistou muito. A sua luta tamb\u00e9m fez com que cheg\u00e1ssemos a esse acordo, relativo a esta emenda.\r\nParab\u00e9ns, Deputada Soraya Santos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA, MPV 885/2019, MEDIDA PROVISORIA, GOVERNO, BASE DE APOIO POL\u00cdTICO, VOTO FAVORAVEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 885, de 2019, a respeito da venda de bens apreendidos de traficantes.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Governo vota \"sim\" a esta MP, que \u00e9 important\u00edssima para o combate ao crime organizado, para facilitar a venda de bens que foram obtidos ilicitamente, para o combate ao tr\u00e1fico de drogas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T23:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLV 25/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 890/2019, MEDIDA PROVISORIA, SOLIDARIEDADE (SD), VOTO CONTRARIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 36 do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019, da Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vai orientar o voto \"n\u00e3o\", porque, se n\u00f3s jogarmos para cada Estado e Munic\u00edpio fazer o pr\u00f3prio programa, vamos acabar com o REVALIDA.\r\nPortanto, vamos suprimir do texto essa parte.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=352&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, PEDRO PAULO, DEPUTADO FEDERAL, RELATOR, PL 5082/2016, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, SOCIEDADE AN\u00d4NIMA DO FUTEBOL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado Pedro Paulo pelo Substitutivo oferecido ao Projeto de Lei n\u00ba 5.082, de 2016, sobre a cria\u00e7\u00e3o da via societ\u00e1ria e o estabelecimento de procedimentos de governan\u00e7a e de natureza tribut\u00e1ria para moderniza\u00e7\u00e3o do futebol. Vit\u00f3ria do Goi\u00e1s Esporte Clube em partida v\u00e1lida pelo Campeonato Brasileiro de Futebol da S\u00e9rie A.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, quero aqui parabenizar o excelente trabalho do Deputado Pedro Paulo, que, como sempre que assume a relatoria de um projeto, mostra sua compet\u00eancia.\r\nParabenizo tamb\u00e9m o Goi\u00e1s Esporte Clube, que hoje ganhou a partida. S\u00e3o duas vit\u00f3rias no dia de hoje. \r\nParab\u00e9ns ao Deputado Pedro Paulo!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=273&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T21:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO, CONTRIBUINTE, COMIT\u00ca GESTOR DAS OBRIGA\u00c7\u00d5ES ACESS\u00d3RIAS DO ISSQN (CGOA), COMPET\u00caNCIA, COMPOSI\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, VOTA\u00c7\u00c3O, ADIAMENTO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Conveni\u00eancia de adiamento da vota\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 461-A, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 31 de julho de 2003.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu acredito que esse tema \u00e9 um tema muito sens\u00edvel para n\u00f3s. Esse projeto de lei complementar precisa de qu\u00f3rum qualificado e vota\u00e7\u00e3o nominal. A meu ver esse relat\u00f3rio que foi disponibilizado agora merece algumas corre\u00e7\u00f5es porque eu acredito que muitos servi\u00e7os v\u00e3o deixar de ser oferecidos em alguns Munic\u00edpios pela forma de recolhimento. E eu acredito tamb\u00e9m que pode haver algumas judicializa\u00e7\u00f5es sobre o recolhimento do ISS.\r\nEnt\u00e3o, eu pediria que n\u00f3s deix\u00e1ssemos pelo menos para amanh\u00e3 o debate a respeito do PLP 461. A pr\u00f3pria Consultoria Legislativa da Casa j\u00e1 apontou alguns pontos que precisam ser corrigidos para que...\r\n(Desligamento autom\u00e1tico do microfone.)\r\nO SR. LUCAS VERGILIO (SOLIDARIEDADE - GO) - Na inten\u00e7\u00e3o de ajudar, podemos prejudicar os Munic\u00edpios, principalmente os menores, e alguns servi\u00e7os podem deixar de ser oferecidos.\r\nEnt\u00e3o, eu fa\u00e7o este alerta e espero que possamos deixar esse projeto pelo menos para amanh\u00e3, para tentarmos resolver algumas dessas quest\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-02T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PLP 461/2017, PROJETO DE LEI COMPLEMENTAR, CRIA\u00c7\u00c3O, PADR\u00c3O NACIONAL, OBRIGA\u00c7\u00c3O TRIBUT\u00c1RIA ACESS\u00d3RIA, IMPOSTO SOBRE SERVI\u00c7O DE QUALQUER NATUREZA (ISS), SISTEMA ELETR\u00d4NICO DE PADR\u00c3O UNIFICADO, APURA\u00c7\u00c3O, IMPOSTO DEVIDO, PROCEDIMENTO, MUNIC\u00cdPIO, CONTRIBUINTE, COMIT\u00ca GESTOR DAS OBRIGA\u00c7\u00d5ES ACESS\u00d3RIAS DO ISSQN (CGOA), COMPET\u00caNCIA, COMPOSI\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, APROVA\u00c7\u00c3O, VOTO FAVOR\u00c1VEL, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Elogio ao Deputado Herculano Passos, Relator do Projeto de Lei Complementar n\u00ba 461-A, de 2017, sobre o padr\u00e3o nacional de obriga\u00e7\u00e3o acess\u00f3ria do Imposto Sobre Servi\u00e7os de Qualquer Natureza - ISSQN, de compet\u00eancia dos Munic\u00edpios e do Distrito Federal, incidente sobre os servi\u00e7os descritos nos subitens 4.22, 4.23, 5.09, 10.04, 15.01 e 15.09 da lista de servi\u00e7os anexa \u00e0 Lei Complementar n\u00ba 116, de 31 de julho de 2003. Conveni\u00eancia de aperfei\u00e7oamento da proposi\u00e7\u00e3o pelo Senado Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Deputado Herculano Passos \u00e9 nosso grande L\u00edder na pauta municipalista nesta Casa e Presidente da Frente Parlamentar Mista em Defesa dos Munic\u00edpios Brasileiros. Ent\u00e3o, \u00e9 claro que um projeto relatado com tamanha compet\u00eancia pelo nobre Deputado n\u00e3o poderia ter meu voto contra. Por\u00e9m quero registrar algumas d\u00favidas que eu acho que ainda ficaram.\r\nEu acredito que muitos servi\u00e7os poder\u00e3o deixar de ser oferecidos. Eu acredito tamb\u00e9m que este projeto ainda n\u00e3o tratou 100% do tema. Tenho receio, Sra. Presidente, de que muitos Munic\u00edpios, principalmente os pequenos, gastem mais com o sistema de arrecada\u00e7\u00e3o do que aquilo que conseguiram auferir com a arrecada\u00e7\u00e3o propriamente dita.\r\nMas quero dizer que sou um Deputado municipalista e estou junto com o Deputado Herculano Passos em todas as suas lutas. Votei \"sim\", mas quero deixar este registro de que vamos tentar, no Senado Federal, corrigir algumas distor\u00e7\u00f5es, para que os Munic\u00edpios n\u00e3o sejam prejudicados e para que alguns contribuintes que se sentirem inseguros possam tamb\u00e9m se sentir seguros com este projeto.\r\nEu acho que podemos fazer essa concilia\u00e7\u00e3o entre beneficiar os Munic\u00edpios e ter seguran\u00e7a jur\u00eddica.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2019&txPagina=156&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T14:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, esta mat\u00e9ria \u00e9 merit\u00f3ria, boa parte dela traz grandes avan\u00e7os. Outras j\u00e1 poderiam ter sido discutidas h\u00e1 muito tempo por esta Casa, como o microcr\u00e9dito, ponto que tamb\u00e9m conta com consenso, por tudo o que n\u00f3s discutimos na Comiss\u00e3o Especial. Portanto, n\u00f3s somos contr\u00e1rios \u00e0 retirada de pauta. O Solidariedade encaminha o voto \"n\u00e3o\".\r\nN\u00f3s parabenizamos nosso Relator Christino Aureo, que tem feito um grande esfor\u00e7o para atender a todos e tentar construir um texto que gere emprego e renda principalmente para os jovens.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres colegas Deputados e Deputadas, existe o seguinte ditado: \"Quem nasceu primeiro: o ovo ou a galinha?\" No que diz respeito ao emprego, podemos questionar se o jovem n\u00e3o consegue emprego porque n\u00e3o tem experi\u00eancia, ou n\u00e3o tem experi\u00eancia porque n\u00e3o consegue emprego. \r\nEsta medida veio para que esse ciclo se interrompa e seja mais barato para o empres\u00e1rio empregar os jovens, de modo que eles tenham acesso a empregos no mercado de trabalho.\r\nO Solidariedade vai votar pelo encerramento da discuss\u00e3o, a fim de que n\u00f3s possamos votar hoje esta mat\u00e9ria e esta medida possa ir ainda hoje para o Senado Federal e para que possamos aprovar esta medida provis\u00f3ria.\r\nEnt\u00e3o, votamos \"sim\".\r\nQuero dizer que o Deputado Augusto Coutinho vai utilizar o tempo de L\u00edder do nosso partido.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o Solidariedade orienta o voto contr\u00e1rio \u00e0 retirada de pauta, pois n\u00f3s sabemos que as maiores dificuldades que o jovem enfrenta s\u00e3o a falta de qualifica\u00e7\u00e3o e a falta de experi\u00eancia profissionais.\r\nEnt\u00e3o, esta medida provis\u00f3ria vem para ajudar os jovens a se inserirem no mercado de trabalho. Por isso devemos votar.\r\nVotamos \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=157&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T21:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O PARLAMENTAR, DI\u00c1LOGO POL\u00cdTICO, L\u00cdDER DO PARTIDO, GOVERNO, OPOSI\u00c7\u00c3O POL\u00cdTICA, COOPERA\u00c7\u00c3O POL\u00cdTICA, VOTA\u00c7\u00c3O, EMENDA AGLUTINATIVA SUBSTITUTIVA GLOBAL, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, CONTRATO DE TRABALHO VERDE E AMARELO, INCENTIVO, CONTRATA\u00c7\u00c3O, JOVEM, MERCADO DE TRABALHO, PRIMEIRO EMPREGO, GERA\u00c7\u00c3O DE EMPREGO, LEGISLA\u00c7\u00c3O TRABALHISTA.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Elogio ao Presidente Rodrigo Maia pelo empenho na aprova\u00e7\u00e3o de proposi\u00e7\u00f5es de relevante interesse da sociedade brasileira. Congratula\u00e7\u00f5es \u00e0 Presid\u00eancia e aos L\u00edderes partid\u00e1rios pela vota\u00e7\u00e3o da  Emenda Aglutinativa Substitutiva Global n\u00ba 1, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de parabenizar V.Exa. pela condu\u00e7\u00e3o dos trabalhos n\u00e3o s\u00f3 no dia de hoje, mas tamb\u00e9m durante todo esse per\u00edodo em que estamos fazendo essas delibera\u00e7\u00f5es remotas.\r\nSem d\u00favida nenhuma, a sua atua\u00e7\u00e3o foi primordial para que n\u00f3s pud\u00e9ssemos aprovar todos os projetos que aprovamos e, principalmente, no dia de hoje, para a aprova\u00e7\u00e3o da Medida Provis\u00f3ria 905, que contou tamb\u00e9m com o not\u00e1vel trabalho do Relator, o querido Deputado Christino Aureo, a quem quero deixar meus sinceros parab\u00e9ns pelo incans\u00e1vel trabalho na Comiss\u00e3o e agora para chegarmos a um acordo para a vota\u00e7\u00e3o de hoje.\r\nGostaria tamb\u00e9m, Sr. Presidente, de registrar que esta medida provis\u00f3ria, inicialmente, revogava completamente a Lei (falha na transmiss\u00e3o) e alguns dispositivos do decreto que impactavam (falha na transmiss\u00e3o) com esta emenda aglutinativa n\u00f3s estamos dando nova reda\u00e7\u00e3o a essa legisla\u00e7\u00e3o com uma lei moderna e atual.\r\nQuero parabenizar toda a equipe econ\u00f4mica do Governo Federal, na pessoa dos assessores parlamentares Vitor e Bruno. Parabenizo tamb\u00e9m o Secret\u00e1rio Especial de Previd\u00eancia e Trabalho, Bruno Bianco; o Secret\u00e1rio de Trabalho, Bruno Dalcolmo; e o Ministro Rog\u00e9rio Marinho, autor desta medida provis\u00f3ria.\r\nHouve um trabalho incans\u00e1vel n\u00e3o s\u00f3 do Governo, mas tamb\u00e9m da Oposi\u00e7\u00e3o na discuss\u00e3o desta medida. Quero deixar registrado que os Deputados Rog\u00e9rio Correia, Paulo Pimenta e Bira do Pindar\u00e9 fizeram um excelente trabalho na Comiss\u00e3o Mista, assim como os Senadores Paulo Paim, Paulo Rocha e o Presidente da Comiss\u00e3o, o Senador Petec\u00e3o. Quero deixar aqui os meus parab\u00e9ns a (falha na transmiss\u00e3o).\r\nEstivemos em constantes conversas com a Procuradora-Chefe da SUSEP e l\u00e1 conseguimos chegar a um texto de consenso com a Oposi\u00e7\u00e3o, com o Governo e com os Parlamentares.\r\nTudo isso, tamb\u00e9m, gra\u00e7as \u00e0 sua lideran\u00e7a, Presidente, que desde o in\u00edcio se comprometeu com o tema e se colocou \u00e0 disposi\u00e7\u00e3o para que consegu\u00edssemos chegar a um acordo no dia de hoje.\r\nParab\u00e9ns tamb\u00e9m a todos os L\u00edderes desta Casa, que de forma s\u00e1bia conduziram este acordo para votarmos esta emenda aglutinativa, at\u00e9 porque sabemos que temos o dia de amanh\u00e3, temos os outros dias, e esta Casa (falha na transmiss\u00e3o). Divergir no m\u00e9rito faz parte do Parlamento. Todos est\u00e3o aqui para colocar suas opini\u00f5es, mas deve prevalecer sempre o respeito a esta Casa, a esta institui\u00e7\u00e3o.\r\nAgrade\u00e7o ainda ao L\u00edder do meu partido, o Deputado Z\u00e9 Silva, que me deu todo o apoio nesta mat\u00e9ria.\r\nEra isso, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=207&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-14T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1179/2020, PROJETO DE LEI ORDIN\u00c1RIA, MAIORIA PARLAMENTAR, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 53, apresentada ao Projeto de Lei n\u00ba 1.179, de 2020, sobre a institui\u00e7\u00e3o de normas de car\u00e1ter transit\u00f3rio e emergencial para a regula\u00e7\u00e3o de rela\u00e7\u00f5es jur\u00eddicas de direito privado, diante da pandemia de coronav\u00edrus, e a altera\u00e7\u00e3o da Lei n\u00ba 13.709, de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, por mais que seja louv\u00e1vel a inten\u00e7\u00e3o do PSB, al\u00e9m de acreditarmos que o texto tem que ir j\u00e1 para san\u00e7\u00e3o, e n\u00e3o voltar ao Senado, n\u00e3o podemos deixar que as pessoas que necessitam do aluguel para sobreviver percam a sua renda. Ent\u00e3o vamos votar \"n\u00e3o\", para rejeitar essa emenda.\r\nQuero tamb\u00e9m agradecer a confian\u00e7a do L\u00edder Aguinaldo Ribeiro, que me cedeu a Lideran\u00e7a para hoje orientar a Maioria.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2020&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-27T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ARTIGO DE JORNAL, SOLANGE VIEIRA, SUPERINTENDENTE, SUPERINTEND\u00caNCIA DE SEGUROS PRIVADOS (SUSEP), DECLARA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS, FALECIMENTO, IDOSO, PREVID\u00caNCIA SOCIAL, REDU\u00c7\u00c3O, DEFICIT, PAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, REP\u00daDIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Rep\u00fadio \u00e0 declara\u00e7\u00e3o da Superintendente de Seguros Privados, Solange Vieira, sobre a redu\u00e7\u00e3o do d\u00e9ficit previdenci\u00e1rio com a morte de idosos por coronav\u00edrus.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, foi com perplexidade e com assombro que li ontem mat\u00e9ria na imprensa sobre uma declara\u00e7\u00e3o repugnante, abomin\u00e1vel, infame da atual Superintendente da Superintend\u00eancia de Seguros Privados - SUSEP, Solange Vieira. Quando o Brasil est\u00e1 pr\u00f3ximo de perder 25 mil vidas, em apenas 3 meses, para a COVID-19, na maior crise sanit\u00e1ria da hist\u00f3ria recente do Pa\u00eds e do mundo, essa senhora teve o descalabro de afirmar que, quanto mais idosos morrerem, melhor ser\u00e1 para a economia do Pa\u00eds, porque assim haver\u00e1 redu\u00e7\u00e3o do d\u00e9ficit previdenci\u00e1rio.\r\nLerei a declara\u00e7\u00e3o atribu\u00edda, na reportagem, \u00e0 Sra. Solange Vieira: \"\u00c9 bom que as mortes se concentrem entre os idosos. Isso melhorar\u00e1 nosso desempenho econ\u00f4mico, pois reduzir\u00e1 nosso d\u00e9ficit previdenci\u00e1rio\". Pasmem! Esta \u00e9 a opini\u00e3o da Sra. Solange Vieira!\r\nCerca de 70% das vidas perdidas no Brasil pela COVID-19 s\u00e3o de pessoas com mais de 60 anos de idade, ou seja, aproximadamente 17 mil pais, m\u00e3es, av\u00f3s foram v\u00edtimas de uma pandemia que assusta todo mundo, inclusive o Brasil. Eles n\u00e3o s\u00e3o apenas n\u00fameros. Milhares de fam\u00edlias e amigos hoje lamentam e choram suas perdas.\r\nTal declara\u00e7\u00e3o desumana, repugnante, lastim\u00e1vel e preconceituosa dessa senhora, que comanda hoje um setor t\u00e3o importante para a sociedade brasileira, respons\u00e1vel pelo controle e pela fiscaliza\u00e7\u00e3o dos mercados de seguro, previd\u00eancia privada, capitaliza\u00e7\u00e3o e resseguros do Pa\u00eds, nem sequer mereceu um desmentido da SUSEP, muito menos uma retra\u00e7\u00e3o da Sra. Superintendente.\r\nIncomoda-nos muito tamb\u00e9m o sil\u00eancio do Ministro Paulo Guedes. A SUSEP \u00e9 um \u00f3rg\u00e3o federal sob a tutela do Minist\u00e9rio da Economia, e a declara\u00e7\u00e3o da Sra. Solange Vieira foi realizada, segundo informa\u00e7\u00f5es da imprensa, numa reuni\u00e3o da equipe econ\u00f4mica do Governo, que foi confirmada pela pr\u00f3pria SUSEP. O Exmo. Ministro da Economia, at\u00e9 por ser um senhor de 70 anos de idade, deveria ter repreendido tal declara\u00e7\u00e3o da sua Superintendente nessa mesma reuni\u00e3o, mas n\u00e3o h\u00e1 registro de tenha feito isso.\r\nO mais lament\u00e1vel \u00e9 que o Sr. Paulo Guedes at\u00e9 agora tamb\u00e9m n\u00e3o tomou nenhuma atitude, como se concordasse com a preconceituosa declara\u00e7\u00e3o feita pela Superintendente da SUSEP, que est\u00e1 tendo grande repercuss\u00e3o na imprensa brasileira e at\u00e9 mesmo no exterior. \r\nA postura da Sra. Solange Vieira \u00e9 desumana e abomin\u00e1vel e j\u00e1 \u00e9 conhecida por milhares de corretores de seguros no Brasil, v\u00edtimas de seus desmandos e autoritarismo no comando da SUSEP. Mas, dessa vez, ela se superou ao n\u00e3o demonstrar nenhum apre\u00e7o \u00e0 vida humana, nenhuma compaix\u00e3o com as milhares de v\u00edtimas e com suas fam\u00edlias. A Superintendente da SUSEP age com cinismo inaceit\u00e1vel num momento em que se espera compaix\u00e3o e trabalho dos agentes p\u00fablicos, especialmente dos do alto escal\u00e3o do Governo, para reduzir as mortes e amenizar a dor dos que t\u00eam que lidar com a perda de pessoas queridas. A Sra. Solange Vieira ofende a mem\u00f3ria dos mortos e o luto das fam\u00edlias brasileiras.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F5%2F2020&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 1079/2020, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para manuten\u00e7\u00e3o da supress\u00e3o do \u00a7 2\u00ba, art. 15-D, do Substitutivo do Senado Federal ao Projeto de Lei n\u00ba 1.079 de 2020, acerca de altera\u00e7\u00e3o da Lei n\u00ba 10.260, de 2001, com vista \u00e0 suspens\u00e3o tempor\u00e1ria de obriga\u00e7\u00f5es financeiras dos benefici\u00e1rios do Fundo de Financiamento Estudantil - FIES.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s entendemos que isso iria restringir cada vez mais o acesso ao FIES. Ent\u00e3o, o Solidariedade vai votar pela manuten\u00e7\u00e3o do texto, vai votar \"n\u00e3o\".\r\nTamb\u00e9m j\u00e1 quero registrar a orienta\u00e7\u00e3o da Maioria, que tamb\u00e9m \u00e9 de voto \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T13:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 10, apresentada ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade vai votar \"n\u00e3o\" e rejeitar esta emenda, porque ela desconfigura todo o projeto elaborado pelo nobre Relator, o Deputado Juscelino Filho, que fez um excelente trabalho, com amplo di\u00e1logo, e tentou chegar ao m\u00e1ximo de consenso poss\u00edvel.\r\nEnt\u00e3o, vamos orientar \"n\u00e3o\". \r\nDeixo aqui mais uma vez os meus parab\u00e9ns ao Deputado Juscelino Filho.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-24T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 3267/2019, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 2\u00ba-A, art. 147, constante do art. 1\u00ba do substitutivo apresentado ao Projeto de Lei n\u00ba 3.267, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.503, de 1997, relativa \u00e0 institui\u00e7\u00e3o do C\u00f3digo de Tr\u00e2nsito Brasileiro.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vai encaminhar pela manuten\u00e7\u00e3o do texto do Relator, vamos votar \"sim\".\r\nQuero dizer que o transporte escolar realmente vive um momento muito dif\u00edcil, um momento em que eles est\u00e3o passando por v\u00e1rias dificuldades, mas essa n\u00e3o \u00e9 a maneira de n\u00f3s contribuirmos com o transporte escolar.\r\nExistem outras maneiras. N\u00f3s temos como diminuir a burocracia, reduzir taxas que realmente s\u00e3o muito excessivas, mas n\u00e3o podemos nos descuidar do principal, que \u00e9 a seguran\u00e7a de quem utiliza esse transporte.\r\nEnt\u00e3o, para darmos mais seguran\u00e7a aos nossos filhos que utilizam o transporte escolar, a todos aqueles usu\u00e1rios, \u00e9 necess\u00e1rio manter o texto do Relator.\r\nEra isso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F6%2F2020&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-11T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 983/2020, MEDIDA PROVIS\u00d3RIA, ASSINATURA ELETR\u00d4NICA, DOCUMENTO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, COMUNICA\u00c7\u00c3O DIGITAL, CIDAD\u00c3O, PODER P\u00daBLICO, CRIT\u00c9RIO, UTILIZA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), LUCAS VERGILIO, DEPUTADO FEDERAL, RELATOR, LEITURA.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Medida Provis\u00f3ria n\u00ba 983, de 2020, sobre as assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade, e sobre as licen\u00e7as de softwares  por eles desenvolvidos, e \u00e0s Emendas de n\u00bas 1 a 76, apresentadas conforme o caput do art. 3\u00ba do Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Para proferir parecer. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente Marcos Pereira, por me conceder a palavra.\r\nSras. e Srs. Deputados, boa tarde.\r\nFui nomeado Relator do Projeto de Lei de Convers\u00e3o da Medida Provis\u00f3ria 983, que trata sobre assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade e sobre as licen\u00e7as de softwares desenvolvidos por entes p\u00fablicos. Trata-se de um projeto de lei de convers\u00e3o de medida provis\u00f3ria que garante relev\u00e2ncia para a prote\u00e7\u00e3o \u00e0s informa\u00e7\u00f5es, \u00e0s assinaturas eletr\u00f4nicas dos cidad\u00e3os e para a efici\u00eancia de presta\u00e7\u00e3o de servi\u00e7os p\u00fablicos em meio eletr\u00f4nico.\r\nA pandemia provocada pelo novo coronav\u00edrus acelerou uma s\u00e9rie de iniciativas para digitaliza\u00e7\u00e3o de diversos servi\u00e7os p\u00fablicos e impulsionou o relacionamento eletr\u00f4nico, de modo que a medida provis\u00f3ria estabelece a exist\u00eancia de tr\u00eas tipos de assinaturas eletr\u00f4nicas para o reconhecimento com o poder p\u00fablico, de acordo com a criticidade e a sensibilidade de cada tipo de transa\u00e7\u00e3o.\r\nA preserva\u00e7\u00e3o das informa\u00e7\u00f5es e das assinaturas eletr\u00f4nicas dos cidad\u00e3os, bem como dos direitos e das garantias fundamentais previstas na Constitui\u00e7\u00e3o Federal, foi ponto norteador na edi\u00e7\u00e3o do relat\u00f3rio protocolado para a delibera\u00e7\u00e3o desta Casa. O relat\u00f3rio defende a tomada de passos firmes rumo a uma sociedade digital segura, que preserve os direitos e a estabilidade jur\u00eddica do Pa\u00eds, tendo sido constru\u00eddo com a participa\u00e7\u00e3o de Parlamentares, da sociedade civil e do Governo, todos engajados na constru\u00e7\u00e3o de um presente e de um futuro respons\u00e1veis.\r\nPasso \u00e0 conclus\u00e3o do voto, Sr. Presidente.\r\n\"Em face de todo o exposto, nosso voto \u00e9:\r\n- pelo atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia da Medida Provis\u00f3ria n\u00ba 983, de 2020;\r\n- pela constitucionalidade, juridicidade, boa t\u00e9cnica legislativa, adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira e, no m\u00e9rito, pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 983, de 2020, nos termos do projeto de lei de convers\u00e3o anexo, que contempla: \r\n(...)\r\n- pelo n\u00e3o acolhimento das Emendas n\u00bas 7, 11, 13, 29, 43, 60, 63, 64, 65 e 66, por n\u00e3o terem rela\u00e7\u00e3o com o tema da medida provis\u00f3ria, restando assim prejudicadas por n\u00e3o atenderem ao \u00a7 4\u00ba do art. 4\u00ba da Resolu\u00e7\u00e3o n\u00ba 1, de 2002-CN (regimentalidade);\r\n- pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa das demais emendas e, no m\u00e9rito: \r\na) pela aprova\u00e7\u00e3o, total ou parcial, das Emendas n\u00bas 5, 8, 9, 10, 17, 18, 21, 22, 23, 24, 25, 27, 28, 30, 32, 34, 35, 36, 37, 39, 40, 44, 45, 46, 48, 49, 50, 52, 53, 54 e 75, nos termos do projeto de lei de convers\u00e3o em anexo; \r\nb) pela rejei\u00e7\u00e3o das \"demais\" emendas (...) por disporem sobre aspectos que alteram ou inviabilizam os objetivos propostos pela medida provis\u00f3ria.\r\nFinalmente, votamos, no m\u00e9rito, pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 983, de 2020, na forma do projeto de lei de convers\u00e3o anexo.\"",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-11T20:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 983/2020, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 983, de 2020, sobre as assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade, e sobre as licen\u00e7as de softwares  por eles desenvolvidos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - O Solidariedade vai orientar o voto \"n\u00e3o\".\r\nE eu quero dizer que a preocupa\u00e7\u00e3o levantada pelo Deputado Samuel \u00e9 muito pertinente. Por\u00e9m, a assinatura avan\u00e7ada, que n\u00e3o \u00e9 a qualificada, ser\u00e1 utilizada por pessoas f\u00edsicas e MEI para todas as outras assinaturas. A \u00fanica quest\u00e3o \u00e9 a quest\u00e3o do autom\u00f3vel. Por ser um patrim\u00f4nio, n\u00f3s temos que primar pela seguran\u00e7a, seguran\u00e7a para que se tenha certeza de que aquela pessoa est\u00e1 transferindo aquele ve\u00edculo digitalmente. Ningu\u00e9m vai ser obrigado a transferir ve\u00edculo digitalmente. Vai poder fazer isso, mas, se o fizer digitalmente, a assinatura tem que ser qualificada por seguran\u00e7a.\r\nAs pessoas de baixa renda j\u00e1 est\u00e3o inteiramente contempladas nesse relat\u00f3rio, porque, para pessoas f\u00edsicas e microempreendedores individuais, ser\u00e1 utilizada a assinatura avan\u00e7ada e n\u00e3o a qualificada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-11T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 983/2020, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 62, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 983, de 2020, sobre as assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade, e sobre as licen\u00e7as de softwares por eles desenvolvidos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o Solidariedade encaminha o voto \"n\u00e3o\", para manuten\u00e7\u00e3o do texto.\r\nLembro que estamos tratando de software de ente p\u00fablico para p\u00fablico. Por isso, h\u00e1 necessidade de mantermos o texto, preservando a propriedade intelectual.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2020&txPagina=115&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-11T21:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 983/2020, MEDIDA PROVIS\u00d3RIA, CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 983, de 2020, sobre as assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade, e sobre as licen\u00e7as de softwares  por eles desenvolvidos.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Sem revis\u00e3o do orador.) - Sra. Presidente, quero s\u00f3 dizer que esta emenda \u00e9 in\u00f3cua neste projeto, uma vez que, para todas as pessoas f\u00edsicas, inclu\u00eddas as pessoas de baixa renda, colocamos no relat\u00f3rio que ser\u00e1 utilizada a assinatura avan\u00e7ada - n\u00e3o \u00e9 necess\u00e1ria a assinatura qualificada ICP-Brasil. \u00c9 uma assinatura que j\u00e1 vai ser disponibilizada de forma gratuita.\r\nA assinatura que utilizamos aqui no nosso sistema eletr\u00f4nico, por exemplo, Sra. Presidente, \u00e9 uma assinatura avan\u00e7ada.\r\nPara as pessoas do Cadastro \u00danico e programas sociais, n\u00e3o ser\u00e1 utilizada a assinatura qualificada. Ent\u00e3o, n\u00e3o h\u00e1 necessidade de aprova\u00e7\u00e3o desta emenda.\r\nOrientamos, portanto, o voto contra.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2020&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-11T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 983/2020, MEDIDA PROOVIS\u00d3RIA, MAIRORIA PARLAMENTAR, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 983, de 2020, sobre as assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade, e sobre as licen\u00e7as de softwares por eles desenvolvidos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, refor\u00e7o o voto \"n\u00e3o\", uma vez que, para o intuito que se deseja, n\u00e3o h\u00e1 essa necessidade.\r\nPara as pessoas de baixa renda, cito um grande exemplo, que \u00e9 o Bolsa Fam\u00edlia. Para o processo de digitaliza\u00e7\u00e3o do Bolsa Fam\u00edlia, ser\u00e1 utilizada a assinatura simples ou avan\u00e7ada, n\u00e3o ser\u00e1 utilizada a assinatura qualificada.\r\nPortanto, o texto j\u00e1 atende as camadas mais pobres e vai al\u00e9m, atendendo as pessoas f\u00edsicas, independentemente da renda, e os microempreendedores individuais.\r\nEnt\u00e3o, o intuito j\u00e1 est\u00e1 contemplado pelo texto.\r\nPor isso, a Maioria vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2020&txPagina=128&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 146/2019, PROJETO DE LEI COMPLEMENTAR, MAIORIA PARLAMENTAR, LIBERA\u00c7\u00c3O, BANCADA PARLAMENTAR.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 32, apresentada ao Projeto de Decreto Legislativo n\u00ba 146, de 2020, sobre a institui\u00e7\u00e3o do marco legal dasstartups  e do empreendedorismo inovador; e a altera\u00e7\u00e3o das Leis de n\u00bas 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar n\u00ba 123, de 2006. Congratula\u00e7\u00f5es ao Deputado Tiago Dimas, autor da Emenda de Plen\u00e1rio n\u00ba 32. Aplausos ao Deputado Vinicius Poit pelo relat\u00f3rio oferecido \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, a Maioria vai liberar a bancada, considerando a posi\u00e7\u00e3o divergente de alguns partidos.\r\nQuero aproveitar este minuto para parabenizar o Deputado Tiago Dimas por esta emenda. Facilitar a abertura e o fechamento de empresas \u00e9 muito importante no Pa\u00eds, principalmente para as startups.\r\nParabenizo tamb\u00e9m o Deputado Vinicius Poit pelo relat\u00f3rio, mas muito me surpreende esse tipo de emenda n\u00e3o ter sido acatado por ele em seu relat\u00f3rio e sequer ter apoio do Partido Novo, que acredito que deveria fazer a defesa dessa mat\u00e9ria.\r\nInclusive, essa \u00e9 uma pauta da Frente Parlamentar da Micro e Pequena e Empresa, que defendemos na Casa.\r\nQueremos, sim, facilitar a vida dos empres\u00e1rios brasileiros. \u00c9 preciso que se facilite e que se reduza o custo de abertura e fechamento de empresas. Em se tratando de startups, n\u00f3s achamos que isso deve ser tamb\u00e9m mais do que facilitado.\r\nEnt\u00e3o, parabenizo o Deputado Tiago Dimas.\r\nA Maioria libera, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-14T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PLP 146/2019, PROJETO DE LEI COMPLEMENTAR, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 11 e, consequentemente, dos seus respectivos par\u00e1grafos, constantes no substitutivo oferecido ao Projeto de Lei Complementar n\u00ba 146, de 2019, sobre a institui\u00e7\u00e3o do marco legal das startups e do empreendedorismo inovador; e a altera\u00e7\u00e3o das Leis n\u00bas 8.212, de 1991; 7.713, de 1988; 6.404, de 1976; 11.196, de 2005; e da Lei Complementar n\u00ba 123, de 2006.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero tamb\u00e9m mudar a orienta\u00e7\u00e3o do Solidariedade. O Solidariedade vai votar \"n\u00e3o\", porque acreditamos que isso pode ser muito perigoso para os mercados regulados. Por exemplo, uma empresa normal que se constitua em um mercado regulado, ao concorrer com uma startup e em havendo a sandbox, pode sofrer, sim, uma concorr\u00eancia desleal. E o que seria uma sandbox? Como foi falado, significa \"caixa de areia\", ou seja, deve-se observar aquilo para, somente depois, haver alguma regulamenta\u00e7\u00e3o. Em se tratando de startups, para as empresas que n\u00e3o estiverem em mercado regulado pelo Governo, pode at\u00e9 ser muito bom.\r\nPor\u00e9m, para alguns outros mercados que j\u00e1 tenham a sua pr\u00f3pria regulamenta\u00e7\u00e3o, isso \u00e9 muito perigoso, sim. Pode-se criar concorr\u00eancia desleal. H\u00e1 muitos crit\u00e9rios que muitas empresas s\u00e3o obrigadas a ter, e com a sandbox elas ser\u00e3o desobrigadas de v\u00e1rios crit\u00e9rios. Isso, sim, pode gerar uma concorr\u00eancia desleal.\r\nN\u00f3s vamos acompanhar para que esse tipo de situa\u00e7\u00e3o n\u00e3o aconte\u00e7a. Ser\u00e3o beneficiadas algumas empresas, em detrimento de outras.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F12%2F2020&txPagina=165&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-15T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PLP 101/2020, PROJETO DE LEI COMPLEMENTAR, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei Complementar n\u00ba 101, de 2020, acerca da institui\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal; do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e da altera\u00e7\u00e3o de diplomas legais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade encaminha o voto \"sim\" e parabeniza o Deputado Mauro Benevides Filho.\r\nParabeniza tamb\u00e9m o meu querido amigo Deputado Pedro Paulo pelo excelente trabalho que vem realizando. Ele far\u00e1 muita falta nesta Casa no ano que vem. Vai cumprir uma miss\u00e3o \u00e0 frente da Secretaria Municipal de Fazenda do Rio de Janeiro.\r\nQuero lhe desejar muito sucesso, amigo. V.Exa. sabe que seus amigos est\u00e3o torcendo pelo seu sucesso l\u00e1.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F12%2F2020&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-17T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, SENADO FEDERAL, PL 4372/2020, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o, no Substitutivo do Senado Federal, da al\u00ednea f, inciso I, \u00a7 3\u00ba, art. 7\u00ba, do texto da C\u00e2mara dos Deputados ao Projeto de Lei n\u00ba 4.372, de 2020, sobre a regulamenta\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (Bloco/SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vai encaminhar o voto \"n\u00e3o\". Vamos seguir o destaque do Partido Novo, porque n\u00f3s acreditamos que o dinheiro p\u00fablico tem que estar a servi\u00e7o da educa\u00e7\u00e3o de qualidade para as crian\u00e7as carentes, estejam elas onde estiverem.\r\n\u00c9 muito preconceituoso dizer que as entidades filantr\u00f3picas e as escolas confessionais n\u00e3o podem receber recursos p\u00fablicos. Por isso, n\u00f3s vamos orientar \"n\u00e3o\".\r\nGostaria tamb\u00e9m de parabenizar pela fala o Deputado Tiago Mitraud, o Deputado Marcel van Hattem, a Deputada Joice Hasselmann e, em especial, o Deputado Eli Borges, da bancada do Solidariedade, que luta conosco tamb\u00e9m para que essas escolas possam, sim, dar uma educa\u00e7\u00e3o de qualidade para as suas comunidades, para as crian\u00e7as que necessitam.\r\nVotamos \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2020&txPagina=150&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, MSC 369/2019, MENSAGEM DO PODER EXECUTIVO, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia da Mensagem 369, de 2019, do Poder Executivo, a respeito da submiss\u00e3o ao Congresso Nacional do Texto do Sexag\u00e9simo Quarto Protocolo Adicional ao Acordo de Complementa\u00e7\u00e3o Econ\u00f4mica n\u00ba 35, (ACE-35), e sua incorpora\u00e7\u00e3o ao Acordo de Livre Com\u00e9rcio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade encaminhar\u00e1 o voto \"sim\", por\u00e9m com ressalva ao art. 11.25. Isso j\u00e1 foi amplamente debatido com o Relator, o Deputado Aluisio Mendes, que se comprometeu em fazer essa ressalva ao acordo. O art. 11.25, se for aprovado dessa maneira, vai inviabilizar o roaming internacional entre os dois pa\u00edses. Isso \u00e9 claramente uma interfer\u00eancia no setor privado, nas rela\u00e7\u00f5es privadas, e vai prejudicar o consumidor.\r\nEnt\u00e3o, n\u00f3s vamos orientar \"sim\", mas com essa ressalva ao art. 11.25. J\u00e1 foi acordado com o Relator, o Deputado Aluisio, que ser\u00e1 feita essa ressalva.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 5638/2020, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL, JO\u00c3O CARLOS ALA, RENATO MEXICANO, PRODUTOR DE EVENTOS, GOI\u00c1S.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pela Relatora da Comiss\u00e3o de Desenvolvimento Econ\u00f4mico, Ind\u00fastria, Com\u00e9rcio e Servi\u00e7os ao Projeto de Lei n\u00ba 5.638, de 2020, sobre as a\u00e7\u00f5es emergenciais e tempor\u00e1rias destinadas ao setor de eventos, para compensa\u00e7\u00e3o dos efeitos da epidemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade ir\u00e1 encaminhar o voto \"sim\". E eu gostaria de deixar aqui registradas a lideran\u00e7a, a mobiliza\u00e7\u00e3o e a articula\u00e7\u00e3o do meu amigo Jo\u00e3o Carlos Ala, representante da Workshow, Buteco do Gusttavo Lima, que emprega tantas pessoas. Mas tamb\u00e9m registro o trabalho de todos os produtores de eventos goianos e goianienses, que est\u00e3o tendo muita resili\u00eancia, como o meu grande amigo Renato Mexicano.\r\nTodos sabem da import\u00e2ncia do cen\u00e1rio de eventos da m\u00fasica sertaneja para o p\u00fablico goiano. Goi\u00e2nia tamb\u00e9m \u00e9 refer\u00eancia nacional na m\u00fasica independente, como \u00e9 o caso do Bananada, al\u00e9m do rock. O pessoal acha que o goiano \u00e9 muito famoso pelo sertanejo, mas tamb\u00e9m o \u00e9 no rock, como no caso do Goi\u00e2nia Noise.\r\nEnt\u00e3o, o Solidariedade vota \"sim\", parabenizando a resili\u00eancia de todos os produtores de eventos goianos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 5638/2020, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.\r\nADMISSIBILIDADE LEGISLATIVA, PEC 376/2009, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PROIBI\u00c7\u00c3O, EXTIN\u00c7\u00c3O, REELEI\u00c7\u00c3O, PRESIDENTE DA REP\u00daBLICA, GOVERNADOR, PREFEITO, LIMITA\u00c7\u00c3O, CANDIDATURA, SENADOR, AUMENTO, PRAZO, MANDATO ELETIVO, VOTA\u00c7\u00c3O, FAVOR\u00c1VEL, SOLIDARIEDADE (SD).",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 7, apresentada ao Projeto de Lei n\u00ba 5.638, de 2020, sobre as a\u00e7\u00f5es emergenciais e tempor\u00e1rias destinadas ao setor de eventos, para compensa\u00e7\u00e3o dos efeitos decorrentes das medidas de combate \u00e0 epidemia de coronav\u00edrus. Apoio do Solidariedade \u00e0 vota\u00e7\u00e3o da admissibilidade da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 376, de 2009, sobre a coincid\u00eancia geral de pleitos a mandatos eletivos; o aumento do tempo de mandato de Senador da Rep\u00fablica para 10 anos; o estabelecimento do mandato de 5 anos para cargos eletivos e a extin\u00e7\u00e3o do instituto da reelei\u00e7\u00e3o no \u00e2mbito do Poder Executivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o setor de eventos, como eu disse anteriormente, \u00e9 muito importante para o p\u00fablico goianiense, para a economia da nossa cidade. Eventos famosos, como o Villa Mix e a Festa da Fantasia, movimentam a economia goianiense. Por isso, n\u00f3s apoiamos este projeto.\r\nPara que este projeto possa ter uma tramita\u00e7\u00e3o mais r\u00e1pida, mais c\u00e9lere no Senado Federal, para que possa ser sancionado, vamos seguir aqui o acordo e vamos votar \"n\u00e3o\", apesar de merit\u00f3rio este destaque.\r\nEm rela\u00e7\u00e3o ao encaminhamento da PEC 376/09, o Solidariedade concorda em votar a admissibilidade. Vamos orientar \"sim\", caso seja pautada hoje ou o mais tardar amanh\u00e3 por V.Exa., Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-23T18:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O PARCELADA, VOTA\u00c7\u00c3O POR ARTIGO, PLP 266/2020, PROJETO DE LEI COMPLEMENTAR, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.\r\nELOGIO, JOS\u00c9 NELTO, LUCAS VERGILIO, DEPUTADO FEDERAL, RELATOR, UNIVERSIDADE FEDERAL DE CATAL\u00c3O (UFCAT), UNIVERSIDADE FEDERAL DE JATA\u00cd (UFJ).",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o, artigo por artigo, do Projeto de Lei Complementar n\u00ba 266, de 2020, sobre a altera\u00e7\u00e3o da Lei Complementar n\u00ba 173, de 2020, relativa ao estabelecimento do Programa Federativo de Enfrentamento ao Coronav\u00edrus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vai encaminhar o voto \"n\u00e3o\" \u00e0 obstru\u00e7\u00e3o. N\u00f3s queremos votar esse importante projeto.\r\nEu tive a grata satisfa\u00e7\u00e3o de ser Relator do projeto que criou a Universidade Federal de Catal\u00e3o e a Universidade Federal de Jata\u00ed, em Goi\u00e1s. N\u00e3o tenho d\u00favida de que esse projeto far\u00e1 com que as universidades possam funcionar de forma plena, fazer as contrata\u00e7\u00f5es devidas.\r\n\tQuero tamb\u00e9m parabenizar o Deputado Jos\u00e9 Nelto pela relatoria desse projeto. \u00c9 bom saber que um goiano est\u00e1 relatando esse projeto em defesa das nossas universidades federais.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F3%2F2021&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-25T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PLN 28/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DA LEI OR\u00c7AMENT\u00c1RIA, SOLIDARIEDADE (SD), ELOGIO, ATUA\u00c7\u00c3O, MARCIO BITTAR, RELATOR, FLAVIA ARRUDA, DEPUTADA FEDERAL, PRESIDENTE, COMISS\u00c3O MISTA DE PLANOS, OR\u00c7AMENTOS P\u00daBLICOS E FISCALIZA\u00c7\u00c3O (CMO)",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido ao Projeto de Lei do Congresso Nacional n\u00ba 28, de 2020, sobre o Or\u00e7amento Geral da Uni\u00e3o de 2021, ressalvados os destaques.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vai encaminhar o voto \"sim\".\r\nEu gostaria de parabenizar o nosso Senador Marcio Bittar pelo brilhante relat\u00f3rio, em tempo recorde, na CMO e a nossa Presidente, Deputada Fl\u00e1via Arruda, que fez hist\u00f3ria nessa Comiss\u00e3o e conseguiu, em t\u00e3o pouco tempo, esses resultados. Quero parabenizar todos os membros da CMO e todos os Relatores Setoriais.\r\nEu tive o privil\u00e9gio de fazer parte dessa Comiss\u00e3o. Desejo que possamos aprovar rapidamente esse or\u00e7amento para que o nosso Pa\u00eds possa t\u00ea-lo sancionado o mais r\u00e1pido poss\u00edvel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=26%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-19T17:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, VETO 50/2020, VETO PARCIAL, MPV 983/2020, MEDIDA PROVIS\u00d3RIA, ASSINATURA ELETR\u00d4NICA, DOCUMENTO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, COMUNICA\u00c7\u00c3O DIGITAL, CIDAD\u00c3O, PODER P\u00daBLICO, CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do veto parcial n\u00ba 50, de 2020, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 32, de 2020 (oriundo da Medida Provis\u00f3ria n\u00ba 983, de 2020), sobre o uso de assinaturas eletr\u00f4nicas em intera\u00e7\u00f5es com entes p\u00fablicos, em atos de pessoas jur\u00eddicas e em quest\u00f5es de sa\u00fade e sobre as licen\u00e7as de \"softwares\" desenvolvidos por entes p\u00fablicos; e altera\u00e7\u00e3o da Lei n\u00ba 9.096, de 1995; da Lei n \u00ba 5.991, de 1973; e da Medida Provis\u00f3ria n\u00ba 2.200-2, de 2001.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Para encaminhar. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, a Lei n\u00ba 14.063 foi sancionada em setembro de 2020 e impulsionou o Pa\u00eds em dire\u00e7\u00e3o \u00e0 desburocratiza\u00e7\u00e3o do Estado e \u00e0 amplia\u00e7\u00e3o dos servi\u00e7os p\u00fablicos prestados no meio eletr\u00f4nico pelo Governo.\r\nOs itens vetados, se n\u00e3o forem reformulados ao texto vigente, abrem brechas na seguran\u00e7a jur\u00eddica dos cidad\u00e3os, do Estado, das transa\u00e7\u00f5es eletr\u00f4nicas e do ambiente de neg\u00f3cios.\r\nLevantarei aqui tr\u00eas pontos, sendo o primeiro a universalidade de acesso aos servi\u00e7os p\u00fablicos.\r\nO texto aprovado no Congresso prev\u00ea a universalidade de acesso aos servi\u00e7os p\u00fablicos ao destacar que pessoas f\u00edsicas e microempreendedores individuais poder\u00e3o acessar de maneira gratuita todos os servi\u00e7os p\u00fablicos eletr\u00f4nicos com as assinaturas eletr\u00f4nicas simples e avan\u00e7adas, sem a utiliza\u00e7\u00e3o obrigat\u00f3ria de assinatura eletr\u00f4nica qualificada.\r\nExemplo disso est\u00e1 nos vetos, nos Itens 1, 2 e 4, que permitem que todos os cidad\u00e3os brasileiros sejam integralmente atendidos pelos servi\u00e7os eletr\u00f4nicos do Governo Federal.\r\n\u00c9 responsabilidade do Estado assegurar o mais robusto tratamento \u00e0s informa\u00e7\u00f5es protegidas por sigilo e, ao mesmo tempo, garantir a universalidade de acesso dos cidad\u00e3os aos meios de servi\u00e7os, pontos descritos de forma clara na lei aprovada no Congresso, especialmente no contexto em que in\u00fameros dados dos cidad\u00e3os brasileiros t\u00eam sido noticiados em vazamentos e exposi\u00e7\u00e3o de dados, inclusive de bases p\u00fablicas.\r\nE \u00e9 necess\u00e1rio garantir o uso de assinaturas eletr\u00f4nicas mais robustas, que garantam a seguran\u00e7a, a integridade, a autoria e a confiabilidade das informa\u00e7\u00f5es e intera\u00e7\u00f5es, uma vez que o uso indevido ou il\u00edcito de dados dos cidad\u00e3os pode resultar em preju\u00edzo ao pr\u00f3prio cidad\u00e3o e ao Estado.\r\nPor isso, o texto aprovado pelo Congresso Nacional garante a prote\u00e7\u00e3o dos cidad\u00e3os e do Estado quanto ao acesso \u00e0s informa\u00e7\u00f5es protegidas por sigilo fiscal, legal ou constitucionalmente, com o objetivo de contribuir nos processos de digitaliza\u00e7\u00e3o dos servi\u00e7os p\u00fablicos, na universalidade do atendimento \u00e0 popula\u00e7\u00e3o, e, ao mesmo tempo, assegura o acesso gratuito a tais informa\u00e7\u00f5es para pessoas f\u00edsicas e microempreendedores individuais, atrav\u00e9s de assinaturas eletr\u00f4nicas simples ou avan\u00e7adas, conforme defini\u00e7\u00e3o do ente ou do poder competente.\r\nPe\u00e7o que ao meu tempo seja somado o tempo da Lideran\u00e7a, Presidente.\r\nSegundo ponto: prote\u00e7\u00e3o \u00e0 propriedade privada.\r\nAntes da mais nada, a prote\u00e7\u00e3o \u00e0 propriedade \u00e9 uma determina\u00e7\u00e3o do art. 5\u00ba da Constitui\u00e7\u00e3o Federal. Dessa forma, a transfer\u00eancia de propriedade de ve\u00edculos de forma eletr\u00f4nica requer o uso da assinatura eletr\u00f4nica qualificada desde 2017, por determina\u00e7\u00e3o do Conselho Nacional de Tr\u00e2nsito - CONTRAN, de modo a garantir a seguran\u00e7a do ato em prote\u00e7\u00e3o aos cidad\u00e3os contra tentativas de fraudes, justamente porque esse tipo de assinatura eletr\u00f4nica possui caracter\u00edsticas que lhe atribuem maior seguran\u00e7a, tais como autenticidade, rastreabilidade, integridade e validade jur\u00eddica, tanto \u00e9 que o Poder Executivo, ao editar a Medida Provis\u00f3ria n\u00ba 983, de 2020, que originou a Lei n\u00ba 14.063, de 2020, determinou que as assinaturas eletr\u00f4nicas qualificadas deveriam ser utilizadas para transfer\u00eancia de im\u00f3veis. Faz sentido, portanto, que a mesma seguran\u00e7a seja exigida para transfer\u00eancia de autom\u00f3veis, uma vez que ambos s\u00e3o patrim\u00f4nios e, em muitos casos, o autom\u00f3vel \u00e9 o \u00fanico patrim\u00f4nio do cidad\u00e3o.\r\nO terceiro ponto \u00e9 o desenvolvimento de um ambiente de neg\u00f3cios seguro e confi\u00e1vel.\r\nQuanto ao desenvolvimento de um ambiente seguro para os neg\u00f3cios, o Veto 50, Item 005, trata sobre os livros fiscais e cont\u00e1beis. Esses documentos s\u00e3o apresentados a terceiros e ao Fisco, gerando efeitos para a empresa e a outra parte. Por isso, devem ter garantia de confiabilidade e de integridade das informa\u00e7\u00f5es de autoria e n\u00e3o podem ser suscet\u00edveis a manipula\u00e7\u00e3o indevida.\r\nPara que essas caracter\u00edsticas sejam poss\u00edveis, o texto aprovado no Congresso Nacional prev\u00ea a utiliza\u00e7\u00e3o de assinaturas eletr\u00f4nicas qualificadas, por serem as \u00fanicas com presun\u00e7\u00e3o de autenticidade, al\u00e9m de utilizarem-se de m\u00e9todos criptografados robustos e serem de controle exclusivo do seu pr\u00f3prio titular. Vale lembrar que as empresas j\u00e1 utilizam as assinaturas eletr\u00f4nicas qualificadas para diversos outros fins, al\u00e9m da pr\u00f3pria organiza\u00e7\u00e3o interna e da assinatura de livros fiscais.\r\nPortanto, poder\u00e3o utilizar tais instrumentos como forma de simplificar o processo de escritura\u00e7\u00e3o, aumentando a seguran\u00e7a jur\u00eddica e fiscal das empresas, do ambiente de neg\u00f3cios e do Fisco, sem aumentar o custo.\r\nPortanto, a reintegra\u00e7\u00e3o do Item 005 ao texto da lei protege o cidad\u00e3o, as empresas e o Estado, ao garantir que informa\u00e7\u00f5es fiscais e cont\u00e1beis sejam assinadas atrav\u00e9s de assinaturas eletr\u00f4nicas mais robustas, o que, por consequ\u00eancia, evita preju\u00edzos aos cofres p\u00fablicos, aos cidad\u00e3os e garante a confiabilidade no ambiente de neg\u00f3cios.\r\nPor esses motivos, Sr. Presidente, eu pe\u00e7o aqui apoio aos meus nobres pares para que n\u00f3s possamos derrubar este veto, uma vez que este texto j\u00e1 tinha sido acordado com o Governo na vota\u00e7\u00e3o da medida provis\u00f3ria, tanto aqui na C\u00e2mara dos Deputados quanto no Senado. Eu fui o Relator dessa mat\u00e9ria na C\u00e2mara, e o Senador Fl\u00e1vio Bolsonaro, no Senado Federal. E essa mat\u00e9ria foi acordada. Isso, ent\u00e3o, nem deveria ter sido vetado, uma vez que fazia parte de um amplo acordo para que n\u00f3s pud\u00e9ssemos fazer com que, com as assinaturas eletr\u00f4nicas, com essa seguran\u00e7a, a digitaliza\u00e7\u00e3o no Governo fosse poss\u00edvel.\r\nEra isso, Sr. Presidente.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=22%2F4%2F2021&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-19T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, VETO 50/2020, VETO PARCIAL, MPV 983/2020, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancvada na vota\u00e7\u00e3o do veto parcial n\u00ba 50, de 2020, aposto ao Projeto de Lei de Convers\u00e3o n\u00ba 32, de 2020 (oriundo da Medida Provis\u00f3ria n\u00ba 983, de 2020), sobre o uso de assinaturas eletr\u00f4nicas em intera\u00e7\u00f5es com entes p\u00fablicos, em atos de pessoas jur\u00eddicas e em quest\u00f5es de sa\u00fade e sobre as licen\u00e7as de softwares desenvolvidos por entes p\u00fablicos; e altera\u00e7\u00e3o da Lei n\u00ba 9.096, de 1995; da Lei n \u00ba 5.991, de 1973; e da Medida Provis\u00f3ria n\u00ba 2.200-2, de 2001.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, est\u00e1 havendo uma interpreta\u00e7\u00e3o errada. Na lei que n\u00f3s aprovamos, as pessoas f\u00edsicas e os microempreendedores individuais n\u00e3o v\u00e3o precisar de certifica\u00e7\u00e3o digital, que \u00e9 a chamada assinatura qualificada. Todas as pessoas f\u00edsicas e todos os microempreendedores individuais, nas suas rela\u00e7\u00f5es com o Governo - e lembro que n\u00f3s s\u00f3 estamos falando aqui de rela\u00e7\u00e3o com o Governo - v\u00e3o utilizar assinatura simples e assinatura avan\u00e7ada. Isso j\u00e1 est\u00e1 garantido no texto que n\u00f3s votamos.\r\nEnt\u00e3o, \u00e9 uma fal\u00e1cia chegar aqui e dizer que isso vai dificultar acesso a qualquer pessoa, porque todas as pessoas f\u00edsicas no Brasil, em sua rela\u00e7\u00e3o com o Governo, e todos os microempreendedores individuais, tamb\u00e9m na sua rela\u00e7\u00e3o com o Governo, que \u00e9 do que trata a lei, v\u00e3o se relacionar atrav\u00e9s das assinaturas simples e avan\u00e7ada. N\u00e3o h\u00e1 a assinatura qualificada. Quero s\u00f3 deixar isso bastante claro aqui para que n\u00e3o haja m\u00e1 interpreta\u00e7\u00e3o. \r\nN\u00f3s vamos manter a nossa posi\u00e7\u00e3o e votar \"n\u00e3o\", pela derrubada do veto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=22%2F4%2F2021&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 591/2021, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.\r\nCR\u00cdTICA, OPOSI\u00c7\u00c3O POL\u00cdTICA, OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 591, de 2021, sobre a organiza\u00e7\u00e3o e a manuten\u00e7\u00e3o do Sistema Nacional de Servi\u00e7os Postais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade vai orientar \"sim\" \u00e0 urg\u00eancia. N\u00f3s n\u00e3o temos posi\u00e7\u00e3o da nossa bancada em rela\u00e7\u00e3o ao m\u00e9rito e vamos votar \"sim\" \u00e0 urg\u00eancia.\r\nMuitos partidos de Oposi\u00e7\u00e3o, Sr. Presidente, falam que a prioridade s\u00e3o temas de combate \u00e0 pandemia, \u00e0 COVID-19, mas quando chegam ao plen\u00e1rio sempre fazem obstru\u00e7\u00e3o. N\u00e3o adianta nada V.Exa. pautar temas relacionados \u00e0 COVID, se quando chegam aqui s\u00e3o sempre obstru\u00eddos.\r\nEnt\u00e3o isso n\u00e3o \u00e9 verdade. Sabemos que nesta Casa, se n\u00e3o houver o requerimento de urg\u00eancia, o tema n\u00e3o anda. Por isso, somos favor\u00e1veis \u00e0 urg\u00eancia, mesmo n\u00e3o tendo um posicionamento em rela\u00e7\u00e3o ao m\u00e9rito.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-20T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 5595/2020, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por 2 sess\u00f5es, da discuss\u00e3o do Projeto de Lei n\u00ba 5.595, de 2020, sobre o reconhecimento da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, em formato presencial, como servi\u00e7os e atividades essenciais, e o estabelecimento das diretrizes para o retorno seguro \u00e0s aulas presenciais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, ouvi aqui uma fala e fiquei espantado. Uma professora confundiu homeschooling, ensino domiciliar, com o que n\u00f3s estamos debatendo. Ela quis associar o ensino a dist\u00e2ncia ao ensino domiciliar, e essas s\u00e3o coisas totalmente distintas. Nada \u00e9 mais coerente do que quem defende o ensino domiciliar defender o ensino presencial.\r\n Al\u00e9m do mais, todas as escolas que forem funcionar presencialmente seguir\u00e3o todos os protocolos e regras sanit\u00e1rias do Munic\u00edpio onde estiverem localizadas.\r\nEnt\u00e3o, n\u00e3o vamos misturar esses temas, porque homeschooling, ensino do domiciliar, \u00e9 uma coisa, e ensino a dist\u00e2ncia \u00e9 outra. E as escolas n\u00e3o est\u00e3o preparadas para o ensino a dist\u00e2ncia.\r\nO SR. PRESIDENTE (Marcelo Ramos. Bloco/PL - AM) - Obrigado, Deputado.\r\nO Solidariedade orienta \"sim\" ou \"n\u00e3o\"? \r\nO SR. LUCAS VERGILIO (SOLIDARIEDADE - GO) - Se estivessem, toda institui\u00e7\u00e3o de ensino poderia ter curso a dist\u00e2ncia e curso presencial sem diferen\u00e7a nenhuma.\r\nO Solidariedade \u00e9 contra o adiamento e \u00e9 contra essa obstru\u00e7\u00e3o que a Oposi\u00e7\u00e3o vem fazendo sistematicamente, sempre que...\r\n\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F4%2F2021&txPagina=93&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-11T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PRC 35/2021, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, ALTERA\u00c7\u00c3O, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, USO DA PALAVRA, ELOGIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Arthur Lira pela inclus\u00e3o na pauta do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Resolu\u00e7\u00e3o n\u00ba 35, de 2021, sobre altera\u00e7\u00e3o dos arts. 9, 10, 65, 66, 67, 84, 89, 117, 122, 155, 157, 161, 162, 163, 177, 178, 185, 186, 192 e 193 do Regimento Interno da C\u00e2mara dos Deputados, para reordena\u00e7\u00e3o do uso da palavra em sess\u00e3o e para a disposi\u00e7\u00e3o sobre o tempo de dura\u00e7\u00e3o das sess\u00f5es. Apoio do SOLIDARIEDADE \u00e0 iniciativa da Presid\u00eancia da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, gostaria de parabenizar V.Exa. pela coragem de pautar, em t\u00e3o pouco tempo, essa mat\u00e9ria. \r\nHoje n\u00f3s vivemos a ditadura da Minoria no plen\u00e1rio da C\u00e2mara dos Deputados. Por muitas vezes, um \u00fanico partido consegue protelar em 4 ou 5 horas a vota\u00e7\u00e3o de uma mat\u00e9ria que tem o apoio da maioria absoluta. Muitas mat\u00e9rias que at\u00e9 t\u00eam qu\u00f3rum constitucional para serem aprovadas, \u00e0s vezes s\u00e3o proteladas por um \u00fanico partido. \r\nEnt\u00e3o, n\u00f3s estamos substituindo a obstru\u00e7\u00e3o procedimental para que se possa ter a obstru\u00e7\u00e3o de m\u00e9rito, a fim de que os Deputados estejam em plen\u00e1rio para debater os assuntos, e n\u00e3o meramente deixar um representante em plen\u00e1rio, somente o L\u00edder, assinando requerimentos e fazendo com que essas vota\u00e7\u00f5es possam ser obstru\u00eddas. \r\nParab\u00e9ns! O Solidariedade apoia essa iniciativa, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PRC 84/2019, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, SOLIDARIEDADE (SD). VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Mesa Diretora da C\u00e2mara dos Deputados ao Projeto de Resolu\u00e7\u00e3o n\u00ba 84, de 2019, sobre altera\u00e7\u00e3o dos os arts. 41, 65, 66, 67, 70, 85, 89, 117, 122, 155, 157, 161, 162, 163, 175, 177, 178, 185, 186, 191, 192 e 193 do Regimento Interno da C\u00e2mara dos Deputados, aprovado pela Resolu\u00e7\u00e3o n\u00ba 17, de 21 de setembro de 1989, para reordena\u00e7\u00e3o do uso da palavra em sess\u00e3o e para disposi\u00e7\u00e3o sobre o tempo de dura\u00e7\u00e3o das sess\u00f5es. Aplausos ao Presidente pela inclus\u00e3o da mat\u00e9ria na pauta de vota\u00e7\u00e3o e ao Deputado Marcelo Ramos, pela relatoria da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, eu gostaria de parabenizar V.Exa. pela coragem e aud\u00e1cia de pautar esse projeto de resolu\u00e7\u00e3o, que, n\u00e3o tenho d\u00favida, ir\u00e1 somar muito com este Parlamento para aprovarmos leis, ampliando cada vez mais o debate. Quero tamb\u00e9m parabenizar o nosso Vice-Presidente, o Deputado Marcelo Ramos, por ser o Relator e, em especial, o Deputado Eli Borges, do nosso partido, que \u00e9 autor de um dos projetos de resolu\u00e7\u00e3o e vem lutando h\u00e1 muito tempo para renovar o Regimento.\r\nAinda \u00e9 preciso avan\u00e7ar muito, Presidente. H\u00e1 v\u00e1rios outros pontos no Regimento que n\u00f3s precisamos atualizar. Por esse motivo, eu queria pedir a V.Exa. que crie um grupo de trabalho ou de estudo para que n\u00f3s possamos rever integralmente todo o Regimento da Casa.\r\nO Solidariedade orienta o voto \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T21:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, RESPONSABILIDADE, PAGAMENTO, TARIFA DE CONEX\u00c3O, MPV 1024/2020, MEDIDA PROVIS\u00d3RIA, CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 2, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 1.024, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.034, de 2020, com vista \u00e0 prorroga\u00e7\u00e3o do prazo de vig\u00eancia de medidas emergenciais para a avia\u00e7\u00e3o civil brasileira, institu\u00eddas em decorr\u00eancia da Covid-19.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, quero pedir v\u00eania ao meu nobre amigo e colega, Deputado Eduardo Cury, para discordar desse destaque. \r\nAcredito que essa proposta tamb\u00e9m interfere nas rela\u00e7\u00f5es privadas entre a companhia a\u00e9rea e os aeroportos. Quer-se passar aos aeroportos a taxa administrativa e o valor da taxa de embarque. Sabe-se que as pr\u00f3prias companhias a\u00e9reas ret\u00eam essa taxa de embarque durante 30 dias, utilizam-na como capital de giro e s\u00f3 depois a repassam ao aeroporto.\r\nEnt\u00e3o, essa \u00e9 uma briga de cachorro grande: tanto das empresas, quanto dos aeroportos.\r\nAcho que poderia ser at\u00e9 justo esse repasse da tarifa, mas essa \u00e9 uma rela\u00e7\u00e3o privada, porque eu tamb\u00e9m acho que seria justo ent\u00e3o as companhias a\u00e9reas remunerarem os aeroportos durante todo esse per\u00edodo de 30 dias, no qual elas ret\u00eam essa tarifa. Essa \u00e9 uma rela\u00e7\u00e3o que eles t\u00eam que resolver entre eles. N\u00e3o cabe a n\u00f3s colocar esse tipo de situa\u00e7\u00e3o em um projeto de lei.\r\nPor isso n\u00f3s vamos encaminhar contra esse destaque, porque ele interfere numa rela\u00e7\u00e3o privada.\r\nEra isso, Sr. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-25T23:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, MPV 1029/2021, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), OBSTRU\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 1.029, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.475, de 2017, relativa ao exerc\u00edcio da profiss\u00e3o de tripulante de aeronave.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sim, Sr. Presidente.\r\nO Solidariedade vai encaminhar \"obstru\u00e7\u00e3o\" em todas as vota\u00e7\u00f5es dessa medida provis\u00f3ria no dia de hoje, porque n\u00f3s acreditamos que, at\u00e9 pelo hor\u00e1rio atual desta sess\u00e3o, n\u00e3o haveria preju\u00edzo se vot\u00e1ssemos amanh\u00e3 pela manh\u00e3 essa mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-08T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), MPV 1033/2021, MEDIDA PROVISORIA, DISPENSA, EMPRESA, PRODU\u00c7\u00c3O, OXIG\u00caNIO MEDICINAL, ZONA DE PROCESSAMENTO DE EXPORTA\u00c7\u00c3O (ZPE), PERCENTUAL, FATURAMENTO, VENDA, MERCADO EXTERNO, MERCADO INTERNO, COMBATE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Medida Provis\u00f3ria n\u00ba 1.033, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 11.508, de  2007, para fins de moderniza\u00e7\u00e3o do marco legal das Zonas de Processamento de Exporta\u00e7\u00e3o - ZPEs; e \u00e0s Emendas de n\u00bas 1 a 12 apresentadas conforme o caput do art. 3\u00ba do Ato Conjunto n\u00ba 1, de 2020, editado pelas Mesas da C\u00e2mara dos Deputados e do Senado Federal.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, pe\u00e7o v\u00eania para ir direto \u00e0 conclus\u00e3o do nosso voto.\r\n\"(...) n\u00e3o restam d\u00favidas de que a Medida Provis\u00f3ria n\u00ba 1.033, de 2021, \u00e9 conveniente e oportuna. Sob um ponto de vista geral, podemos dizer que ela est\u00e1 inserida em um debate importante e atual, qual seja, o combate \u00e0 pandemia do coronav\u00edrus e, tamb\u00e9m, a reforma da tributa\u00e7\u00e3o brasileira.\r\nAs ZPEs s\u00e3o um dos mais importantes e impactantes projetos de desenvolvimento atualmente em curso no Brasil. Elas constituem um instrumento utilizado em todo o mundo para a consecu\u00e7\u00e3o simult\u00e2nea de alguns dos mais relevantes objetivos da pol\u00edtica econ\u00f4mica, que s\u00e3o a atra\u00e7\u00e3o de investimentos, a cria\u00e7\u00e3o de emprego, o aumento e a diversifica\u00e7\u00e3o de nossa pauta de exporta\u00e7\u00f5es com itens de maior valor agregado, a corre\u00e7\u00e3o de desequil\u00edbrios regionais e a difus\u00e3o de novas tecnologias e pr\u00e1ticas de gest\u00e3o mais modernas.\r\nCom as regras estabelecidas na Lei n\u00ba 11.508, de 2007, ampliou-se as ZPEs em v\u00e1rios Estados da Federa\u00e7\u00e3o, que se encontram em est\u00e1gios diferenciados de implementa\u00e7\u00e3o. Duas delas, em Pec\u00e9m, no Cear\u00e1, e em Senador Guiomard, no Acre, j\u00e1 foram alfandegadas e, portanto, j\u00e1 podem operar com os incentivos da lei, no entanto atualmente somente uma encontra-se em opera\u00e7\u00e3o, a do Cear\u00e1.\r\nApesar de permitir o funcionamento das ZPEs j\u00e1 criadas, a legisla\u00e7\u00e3o atual ainda requer aperfei\u00e7oamentos para torn\u00e1-las verdadeiramente competitivas internacionalmente - a registrar que h\u00e1 mais de 5 mil zonas econ\u00f4micas especiais (...), espalhadas por mais de 150 pa\u00edses, inclusive os Estados Unidos e a China, onde s\u00e3o consideradas elemento essencial de suas pol\u00edticas de desenvolvimento. Para se ter uma ideia, essas zonas recebem em torno da metade dos investimentos estrangeiros que se destinam \u00e0 China, onde representam mais de 20% do PIB e s\u00e3o respons\u00e1veis por cerca de 60% das suas exporta\u00e7\u00f5es.\r\nAs ZPEs s\u00e3o uma resposta adequada \u00e0 necessidade vital de aumentarmos nossas exporta\u00e7\u00f5es de maior valor agregado e de possibilitarmos \u00e0 nossa ind\u00fastria a sua maior integra\u00e7\u00e3o \u00e0s novas cadeias produtivas globais. Para isso, no entanto, \u00e9 absolutamente essencial dispormos de uma legisla\u00e7\u00e3o competitiva. Este \u00e9 o sentido fundamental desta medida provis\u00f3ria no formato que apresentamos hoje, como uma pe\u00e7a bastante completa, \u00e0 altura da ingente tarefa de modernizar a legisla\u00e7\u00e3o brasileira de ZPE.\r\nDesse diapas\u00e3o, \u00e9 consenso que as ZPEs podem contribuir significativamente para a consecu\u00e7\u00e3o de alguns dos principais objetivos da pol\u00edtica econ\u00f4mica, tais como a atra\u00e7\u00e3o de investimentos, a cria\u00e7\u00e3o de empregos, o aumento (e a diversifica\u00e7\u00e3o) das exporta\u00e7\u00f5es, a difus\u00e3o de novas tecnologias e a redu\u00e7\u00e3o de desequil\u00edbrios regionais, tudo isso sem depender de recursos do Governo Federal, sem acarretar perda ou ren\u00fancia de receita, sem gerar concorr\u00eancia desleal com o restante da nossa ind\u00fastria e sem conflitar com as regras da Organiza\u00e7\u00e3o Mundial de Com\u00e9rcio (OMC).\r\nNo World Investment Report 2019, publicado pelas Na\u00e7\u00f5es Unidas, o seu Secret\u00e1rio-Geral, Ant\u00f3nio Guterres, sentiu-se suficientemente confort\u00e1vel para recomendar as zonas econ\u00f4micas especiais como um instrumento importante para ser utilizado pelas na\u00e7\u00f5es em desenvolvimento.\r\nNesse sentido, a proposi\u00e7\u00e3o ora analisada traz as seguintes inova\u00e7\u00f5es ao modelo atual:\r\n(a) exclui a limita\u00e7\u00e3o que restringe a cria\u00e7\u00e3o de ZPE somente nas regi\u00f5es menos desenvolvidas;\r\n(b) insere o desenvolvimento da cultura exportadora entre as finalidades do regime das ZPEs;\r\n(c) exclui a caracteriza\u00e7\u00e3o da ZPE como zona prim\u00e1ria;\r\n(d) permite que a \u00e1rea delimitada para a cria\u00e7\u00e3o de ZPE possa ser descont\u00ednua;\r\n(e) permite que, no caso de bens de capital, a suspens\u00e3o dos tributos ocorra ainda que anteriormente ao alfandegamento da \u00e1rea da ZPE;\r\n(f) altera de 48 para 24 meses o prazo limite para o in\u00edcio das obras de implanta\u00e7\u00e3o da ZPE;\r\n(g) autoriza a participa\u00e7\u00e3o de trading companies nas exporta\u00e7\u00f5es das empresas instaladas nas ZPEs;\r\n(h) prev\u00ea que as empresas autorizadas a se instalar em ZPE possam usufruir tamb\u00e9m dos incentivos fiscais administrados pela Superintend\u00eancia do Desenvolvimento do Centro-Oeste (SUDECO);\r\n(i) possibilita prorroga\u00e7\u00f5es sucessivas do per\u00edodo de opera\u00e7\u00e3o sob o regime jur\u00eddico das ZPEs;\r\n(j) reconhece a possibilidade de a empresa permanecer fisicamente dentro da \u00e1rea da ZPE, mesmo quando j\u00e1 n\u00e3o for mais benefici\u00e1ria do regime jur\u00eddico das ZPEs;\r\n(k) delega \u00e0 administradora da ZPE a prerrogativa de autorizar a instala\u00e7\u00e3o em ZPE, sem acesso aos benef\u00edcios tribut\u00e1rios do regime, de empresa prestadora de servi\u00e7os que contribua para apoiar a opera\u00e7\u00e3o das empresas instaladas na ZPE;\r\n(l) regulamenta o cancelamento de ZPE por desist\u00eancia do proponente;\r\n(m) estabelece as condi\u00e7\u00f5es para cassa\u00e7\u00e3o da autoriza\u00e7\u00e3o para implantar ZPE;\r\n(n) limita o alfandegamento \u00e0 \u00e1rea de despacho aduaneiro;\r\n(o) regulamenta a hip\u00f3tese de desalfandegamento; e\r\n(p) substitui o regime suspensivo pela redu\u00e7\u00e3o a zero das al\u00edquotas do PIS/PASEP e da COFINS incidentes na aquisi\u00e7\u00e3o de servi\u00e7os por empresa autorizada a operar em ZPE.\r\nAnte todo o exposto, o projeto de lei de convers\u00e3o anexo visa garantir inova\u00e7\u00e3o na legisla\u00e7\u00e3o, trazendo em seu bojo uma legisla\u00e7\u00e3o competitiva. Este \u00e9 o sentido fundamental da medida provis\u00f3ria ora analisada, \u00e0 qual somos plenamente favor\u00e1veis.\r\nE) Conclus\u00e3o do Voto\r\nOs Parlamentares que ofereceram suas contribui\u00e7\u00f5es de aprimoramento e ajustes de constitucionalidade e legalidade, inclusive o pr\u00f3prio Relator, veem possibilidade de propor melhorias ao objeto da MPV, sempre visando ajustes essenciais na legisla\u00e7\u00e3o das ZPEs, tornando-as mais competitivas e um instrumento fundamental para promover o desenvolvimento econ\u00f4mico e social de nosso Pa\u00eds.\r\nEm face de todo o exposto, nosso voto \u00e9: \r\n- pelo atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia da Medida Provis\u00f3ria n\u00ba 1.033, de 2021;\r\n- pela constitucionalidade, juridicidade, boa t\u00e9cnica legislativa, adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira; e, no m\u00e9rito, pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.033, de 2021, e das emendas a ela apresentadas;\r\n- no m\u00e9rito, pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.033, de 2021, e das 12 emendas apresentadas, acolhidas parcial ou integralmente nos termos do projeto de lei de convers\u00e3o em anexo.\"\r\nEste \u00e9 o voto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-08T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), EMENDA DE PLENARIO, MPV 1033/2021, MEDIDA PROVISORIA, DISPENSA, EMPRESA, PRODU\u00c7\u00c3O, OXIG\u00caNIO MEDICINAL, ZONA DE PROCESSAMENTO DE EXPORTA\u00c7\u00c3O (ZPE), PERCENTUAL, FATURAMENTO, VENDA, MERCADO EXTERNO, MERCADO INTERNO, COMBATE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio apresentadas \u00e0 Medida Provis\u00f3ria n\u00ba 1.033, de 2021, sobre a altera\u00e7\u00e3o da Lei n\u00ba 11.508, de  2007, para fins de moderniza\u00e7\u00e3o do marco legal das Zonas de Processamento de Exporta\u00e7\u00e3o - ZPEs.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, foram apresentadas tr\u00eas emendas de Plen\u00e1rio.\r\nDevido ao amplo di\u00e1logo que fizemos em Plen\u00e1rio, quero destacar que o Deputado Enio Verri ponderou v\u00e1rias quest\u00f5es.\r\nApesar de as Emendas de Plen\u00e1rio n\u00bas 1 e 2 serem merit\u00f3rias, n\u00e3o irei acat\u00e1-las. Iremos acatar a Emenda n\u00ba 3, fazendo esses ajustes levantados aqui, principalmente no que tange \u00e0s desigualdades regionais.\r\nEnt\u00e3o, pelo exposto, votamos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa e adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria de todas as emendas de Plen\u00e1rio, com apoiamento regimental, e, no m\u00e9rito, somos pela rejei\u00e7\u00e3o das Emendas n\u00bas 1 e 2 e aprova\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 3, apresentada pelo Deputado Enio Verri e pelo Deputado Bohn Gass.\r\nEsse \u00e9 o voto, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-08T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "HOMENAGEM P\u00d3STUMA, MOZART VIANNA DE PAIVA, EX-SECRET\u00c1RIO-GERAL DA MESA, VOTA\u00c7\u00c3O, PRC 46/2021, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, DENOMINA\u00c7\u00c3O, SECRETARIA-GERAL DA MESA (SGM). GABINETE DA SECRETARIA-GERAL DA MESA (SGM/GAB).",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Resolu\u00e7\u00e3o n\u00ba 46, de 2021, sobre a denomina\u00e7\u00e3o, de Gabinete Mozart Vianna de Paiva, do Gabinete do Secret\u00e1rio-Geral da Mesa da C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 um momento muito dif\u00edcil para todos n\u00f3s que convivemos com o Dr. Mozart a vota\u00e7\u00e3o deste projeto.\r\nDa mesma forma que o Deputado F\u00e1bio Trad falou, quando fui eleito Deputado Federal no meu primeiro mandato, eu tive o prazer e a honra de conhecer o Dr. Mozart. E fui orientado pelo meu pai, ex-Deputado aqui nesta Casa tamb\u00e9m, a sempre me orientar, a me posicionar e a procurar o Dr. Mozart. E foi uma feliz coincid\u00eancia hoje tamb\u00e9m que o primeiro servidor que eu conheci aqui na Casa foi o Ruthier, que est\u00e1 a\u00ed hoje sentado nessa cadeira em que o Dr. Mozart sentou-se durante tantos anos. \r\nEu n\u00e3o tenho d\u00favida de que todos que passaram por essa cadeira, depois do Dr. Mozart, tiveram nele sim um grande mestre que ensinou a todos n\u00f3s, tanto servidores quanto Parlamentares. \u00c9 um momento de muita tristeza, de muita dor, que vai ficar marcado aqui. Infelizmente, temos que fazer esta vota\u00e7\u00e3o desta homenagem a ele. \r\nQue Deus o receba de bra\u00e7os abertos! Ele foi um verdadeiro servidor p\u00fablico, que serviu ao seu Pa\u00eds, serviu a esta Na\u00e7\u00e3o, serviu a este Parlamento da melhor forma poss\u00edvel.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-21T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, PLV 07/2021, PROJETO DE LEI DE CONVERS\u00c3O, MPV 1031/2021, MEDIDA PROVISORIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 8, apresentada ao Projeto de Lei de Convers\u00e3o n\u00ba 7, de 2021, da Medida Provis\u00f3ria n\u00ba 1.031, de 2021, sobre a desestatiza\u00e7\u00e3o da empresa Centrais El\u00e9tricas Brasileiras S/A - ELETROBRAS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s votaremos \"sim\" a essa emenda do nobre Senador Marcelo Castro, conforme a articula\u00e7\u00e3o e o pedido feitos pela Deputada Dra. Marina Santos, que \u00e9 da nossa bancada do Estado do Piau\u00ed. \r\nA nossa bancada vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-22T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, PROPOSI\u00c7\u00c3O ORIGINAL, PL 4384/2020, PROJETO DE LEI ORDIN\u00c1RIA, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.\r\nJEAN CARLO, EX-DEPUTADO ESTADUAL, GOIAS, CAMARA DOS DEPUTADOS, PRESEN\u00c7A.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o do texto original do Projeto de Lei n\u00ba 4.384, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.992, de 2020, para extens\u00e3o, \u00e0s organiza\u00e7\u00f5es sociais de sa\u00fade, a suspens\u00e3o da obrigatoriedade de manuten\u00e7\u00e3o das metas quantitativas e qualitativas, contratualizadas pelos prestadores de servi\u00e7o de sa\u00fade de qualquer natureza, no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS.  Presen\u00e7a, na Casa, do ex-Deputado Estadual de Goi\u00e1s, Jean Carlo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente Marcelo Ramos, o Solidariedade encaminha o voto \"n\u00e3o\".\r\nAproveito ainda a oportunidade para registrar a presen\u00e7a do ex-Deputado Estadual do Goi\u00e1s, 1\u00ba Suplente na C\u00e2mara Federal, o Sr. Jean Carlo, advogado, que vem fazendo excelente trabalho em prol do nosso Estado de Goi\u00e1s.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T19:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, SENADO FEDERAL, MPV 1034/2021, MEDIDA PROVIS\u00d3RIA, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda do Senado Federal n\u00ba 1, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 1.034, de 2021, a respeito da majora\u00e7\u00e3o tribut\u00e1ria da Contribui\u00e7\u00e3o Social sobre o Lucro L\u00edquido - CSLL do setor financeiro; da altera\u00e7\u00e3o da isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI na compra de autom\u00f3veis por pessoa com defici\u00eancia; da revoga\u00e7\u00e3o da tributa\u00e7\u00e3o de produtos destinados a centrais petroqu\u00edmicas at\u00e9 31/12/2021; e da dedu\u00e7\u00e3o do cr\u00e9dito presumido relativo \u00e0 contribui\u00e7\u00e3o para o PIS/PASEP de pessoa jur\u00eddica fabricante de produtos utilizados em hospitais, cl\u00ednicas, consult\u00f3rios m\u00e9dicos e campanhas de vacina\u00e7\u00e3o at\u00e9 31/12/2025.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade encaminha o voto \"sim\", favor\u00e1vel \u00e0s cooperativas.\r\nN\u00f3s n\u00e3o achamos justo aumentar a Contribui\u00e7\u00e3o Social sobre Lucro L\u00edquido das cooperativas, que t\u00eam como objetivo difundir o coletivo, o mutualismo. Diferentemente dos bancos, quem vai pagar essa conta \u00e9 o pr\u00f3prio cooperado.\r\nPor isso, vamos votar \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-30T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DEFESA, SUPRESS\u00c3O, CL\u00c1USULA CONTRATUAL, DISPOSITIVO LEGAL, ACORDO INTERNACIONAL, DIFEREN\u00c7A, ALTERA\u00c7\u00c3O, MSC 369/2019, MENSAGEM DO PODER EXECUTIVO, PDL 288/2021, PROJETO DE DECRETO LEGISLATIVO, PROTOCOLO COMPLEMENTAR, ACORDO DE COMPLEMENTA\u00c7\u00c3O ECON\u00d4MICA, ACORDO DE LIVRE COM\u00c9RCIO, BRASIL, CHILE.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Defesa de supress\u00e3o de cl\u00e1usula do Acordo da Mensagem n\u00ba 369, de 2019, (Projeto de Decreto Legislativo n\u00ba 288, de 2021), sobre o Texto do Sexag\u00e9simo Quarto Protocolo Adicional ao Acordo de Complementa\u00e7\u00e3o Econ\u00f4mica N\u00ba 35 (ACE-35), acerca da incorpora\u00e7\u00e3o ao referido Acordo do Acordo de Livre Com\u00e9rcio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o entendimento do nosso partido \u00e9 que n\u00e3o cabe emendamento, mas, sim, supress\u00e3o. N\u00f3s n\u00e3o estar\u00edamos emendando o acordo, mas apenas suprimindo parte dele. N\u00e3o estar\u00edamos alterando este acordo, mas somente dizendo que, nesta parte, n\u00f3s estar\u00edamos suprimindo por n\u00e3o concordarmos com ele.\r\nO SR. PRESIDENTE (Arthur Lira. PP - AL) - Deputado Lucas Vergilio, eu respeito o entendimento do partido de V.Exa., mas esse entendimento n\u00e3o \u00e9 o da Presid\u00eancia da Casa nem o da Mesa Diretora dos trabalhos. Portanto, o assunto est\u00e1 pacificado. \r\nVamos passar para a orienta\u00e7\u00e3o de bancadas.\r\nO SR. LUCAS VERGILIO (SOLIDARIEDADE - GO) - Acordos internacionais foram feitos dessa maneira.\r\nO SR. PRESIDENTE (A rthur Lira. PP - AL) - Foi feito apenas um acordo, uma altera\u00e7\u00e3o, que, do ponto de vista desta Mesa, foi antirregimental e anticonstitucional. Eu n\u00e3o respondo por quem o fez, Deputado. Ele s\u00f3 n\u00e3o pode virar uma jurisprud\u00eancia anticonstitucional nesta Casa.\r\nComo orienta o PSL, Deputado General Peternelli?",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-30T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MSC 369/2019, MENSAGEM DO PODER EXECUTIVO, PDL 288/2021, PROJETO DE DECRETO LEGISLATIVO, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL, DEFESA, ACORDO, SUPRESS\u00c3O, DISPOSITIVO LEGAL, CL\u00c1USULA CONTRATUAL, ACORDO INTERNACIONAL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Mensagem n\u00ba 369, de 2019, (Projeto de Decreto Legislativo n\u00ba 288, de 2021), sobre o Texto do Sexag\u00e9simo Quarto Protocolo Adicional ao Acordo de Complementa\u00e7\u00e3o Econ\u00f4mica N\u00ba 35 (ACE-35), acerca da incorpora\u00e7\u00e3o, ao referido Acordo, do Acordo de Livre Com\u00e9rcio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o Solidariedade vai orientar o voto \"sim\" \u00e0 retirada de pauta do requerimento. Ali\u00e1s, n\u00f3s s\u00f3 votamos a urg\u00eancia deste acordo porque ele foi feito para suprimir esta parte. N\u00f3s n\u00e3o estamos dizendo que cabe emendamento. Cabe, sim, supress\u00e3o.\r\nEste Parlamento n\u00e3o pode simplesmente, meramente ratificar ou n\u00e3o. N\u00f3s podemos, sim, suprimir. Foi feito este acordo. N\u00f3s queremos que ele seja validado no plen\u00e1rio.\r\nN\u00f3s orientamos \"sim\" \u00e0 retirada de pauta do requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-30T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, MSC 369/2019, MENSAGEM DO PODER EXECUTIVO, PDL 288/2021, PROJETO DE DECRETO LEGISLATIVO, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO, DEFESA, LEGISLA\u00c7\u00c3O INFRACONSTITUCIONAL, ROAMING INTERNACIONAL, ACORDO, AG\u00caNCIA NACIONAL DE TELECOMUNICA\u00c7\u00d5ES (ANATEL), CONSUMIDOR.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da discuss\u00e3o da Mensagem n\u00ba 369, de 2019, (Projeto de Decreto Legislativo n\u00ba 288, de 2021), sobre o Texto do Sexag\u00e9simo Quarto Protocolo Adicional ao Acordo de Complementa\u00e7\u00e3o Econ\u00f4mica N\u00ba 35 (ACE-35), acerca da incorpora\u00e7\u00e3o, ao referido Acordo, do Acordo de Livre Com\u00e9rcio (ALC) entre o Brasil e o Chile, assinado em Santiago, em 21 de novembro de 2018.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, da mesma forma, o Solidariedade, a partir do acordo para se construir uma solu\u00e7\u00e3o infralegal junto com a ANATEL para que os consumidores n\u00e3o sejam prejudicados nem tenham a sua conta aumentada devido \u00e0 n\u00e3o cobran\u00e7a de roaming, vai votar \"n\u00e3o\" e vai apoiar aqui o relat\u00f3rio do nobre amigo Deputado Aluisio Mendes sobre esse importante acordo internacional entre Brasil e Chile.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-07T17:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE URG\u00caNCIA, PDL 292/2021, PROJETO DE DECRETO LEGISLATIVO, SUSTA\u00c7\u00c3O, PORTARIA, MINIST\u00c9RIO DA SA\u00daDE, APLICA\u00c7\u00c3O, EMENDA, SOMA, RECURSOS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), REALIZA\u00c7\u00c3O, TRANSFER\u00caNCIA, FUNDO NACIONAL DE SA\u00daDE (FNS), FUNDO DE SA\u00daDE, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL, MUNIC\u00cdPIO, PAUTA (PROCESSO LEGISLATIVO), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de inclus\u00e3o na pauta do Requerimento n\u00ba 1.473, de 2021, de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 292, de 2021, para susta\u00e7\u00e3o dos efeitos do art. 38 da Portaria GM/SM n\u00ba 1.263, de 2021, sobre a aplica\u00e7\u00e3o de recursos de emendas parlamentares destinadas ao Sistema \u00danico de Sa\u00fade - SUS, nas transfer\u00eancias do Fundo Nacional de Sa\u00fade aos fundos de sa\u00fade dos Estados, do Distrito Federal e dos Munic\u00edpios no exerc\u00edcio de 2021.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, gostaria de pedir a V.Exa. que pautasse requerimento de urg\u00eancia que apresentei, o Requerimento n\u00ba 1.473, de 2021, que se refere ao PDL 292/21, de minha autoria.\r\nO Minist\u00e9rio da Sa\u00fade decidiu criar, atrav\u00e9s de portaria, um teto para a a\u00e7\u00e3o 2F01, que estabelecemos aqui no Parlamento, de aux\u00edlio ao combate \u00e0 pandemia. Infelizmente, o Minist\u00e9rio, sem ouvir esta Casa, sem dialogar com o Parlamento, criou um teto de 1/12 do MAC e do PAB, fazendo com que possamos perder as nossas emendas individuais e de bancada.\r\nEsse PDL, portanto, visa revogar parte dessa portaria. N\u00f3s criamos a rubrica 2F01 para que esse recurso n\u00e3o influenciasse o teto PAB e MAC dos Munic\u00edpios. Um Munic\u00edpio que tinha teto de 2 milh\u00f5es de reais de PAB e MAC passa a ter, com essa portaria do Minist\u00e9rio da Sa\u00fade, um teto de 160 mil reais para a a\u00e7\u00e3o 2F01, de combate \u00e0 pandemia de COVID-19.\r\nPe\u00e7o o apoio dos L\u00edderes para que possamos pautar esse requerimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T12:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE URG\u00caNCIA, PDL 292/2021, PROJETO DE DECRETO LEGISLATIVO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Decreto Legislativo n\u00ba 292, de 2021, para susta\u00e7\u00e3o dos efeitos do art. 38 da Portaria GM/SM n\u00ba 1.263, de 2021.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, este requerimento \u00e9 para que n\u00f3s possamos aprovar no dia de hoje esse PDL, para que as nossas emendas parlamentares, quando n\u00f3s aprovamos a rubrica 2F01, possam ser plenamente atendidas e cheguem aos nossos Munic\u00edpios. \r\nInfelizmente, o Minist\u00e9rio da Sa\u00fade, sem consultar este Parlamento, criou uma portaria que coloca um teto de um doze avos do limite da sa\u00fade do Munic\u00edpio para essa rubrica, sendo que essa rubrica foi criada justamente para n\u00e3o ocupar o teto PAB e MAC e para que mais recursos para o combate \u00e0 pandemia possam chegar aos Munic\u00edpios brasileiros.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T21:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, SOLIDARIEDADE (SD), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade de emiss\u00e3o de c\u00e9dulas f\u00edsicas de vota\u00e7\u00e3o em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso), ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Solidariedade acredita na democracia, acredita nas institui\u00e7\u00f5es do nosso Pa\u00eds. N\u00f3s acreditamos no nosso sistema eleitoral, que \u00e9 um sistema seguro, audit\u00e1vel, confi\u00e1vel, moderno. N\u00e3o podemos regredir nesse sentido.\r\nA Dire\u00e7\u00e3o Nacional do partido, junto com a nossa bancada, decidiu fechar quest\u00e3o. N\u00f3s vamos votar \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T23:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  SUBSTITUTIVO, PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, SOLIDARIEDADE (SD), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Lucas Vergilio",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 1\u00ba, art. 17, da Constitui\u00e7\u00e3o Federal, alterado pelo art. 3\u00ba do Substitutivo oferecido \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 125, de 2011, a respeito da inser\u00e7\u00e3o de dispositivo no Ato das Disposi\u00e7\u00f5es Constitucionais Transit\u00f3rias, e da altera\u00e7\u00e3o da Constitui\u00e7\u00e3o Federal, para fins de reforma pol\u00edtico-eleitoral.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUCAS VERGILIO (SOLIDARIEDADE - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero aqui, em nome do meu partido, o Solidariedade, reconhecer o trabalho do nosso Presidente, o Deputado Paulo Pereira da Silva, o Paulinho da For\u00e7a, que veio trabalhando nesse tema durante todo esse per\u00edodo. Ele \u00e9 um grande defensor da volta das coliga\u00e7\u00f5es, um dos grandes respons\u00e1veis por podermos estar aqui hoje votando esta PEC.\r\nApesar de eu ter um voto divergente sobre o distrit\u00e3o, ao qual eu sou favor\u00e1vel, o nosso Presidente Paulinho da For\u00e7a conduziu muito bem o nosso partido. Por isso hoje aqui eu o parabenizo pela forma como ele conduz o Solidariedade.\r\nEstamos votando \"sim\", pela volta das coliga\u00e7\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

@@ -1,0 +1,776 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "DAVID SOARES, DEPUTADO FEDERAL, ORADOR, ELEI\u00c7\u00c3O, S\u00c3O PAULO (ESTADO), AGRADECIMENTO.\r\nBR-116, RODOVIA, PED\u00c1GIO, CONTR\u00c1RIO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Agradecimento aos eleitores do Estado de S\u00e3o Paulo pela elei\u00e7\u00e3o do orador. Contrariedade \u00e0 flexibiliza\u00e7\u00e3o das normas estabelecidas para a cobran\u00e7a de ped\u00e1gio na BR-116, no Estado.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Congressistas, primeiramente quero agradecer a Deus os 100 mil votos que recebi para ser um dos representantes do Estado de S\u00e3o Paulo. \u00c9 por este Estado que venho lutar, pelos pr\u00f3ximos 4 anos, principalmente por uma regi\u00e3o que carece muito de investimentos e precisa de maior aten\u00e7\u00e3o, o Vale do Ribeira.\r\nRecebemos a not\u00edcia hoje de que o Governo pretende flexibilizar as regras para as concession\u00e1rias de ped\u00e1gio, principalmente na BR-116 sul. Isso vai ser uma verdadeira afronta a essa regi\u00e3o t\u00e3o carente, que praticamente tem no cultivo da banana o seu modo de sobreviv\u00eancia. Que o Governo n\u00e3o caia nessa fal\u00e1cia, que n\u00e3o aceite isso!\r\nVamos, desde j\u00e1, pedir esclarecimentos ao Minist\u00e9rio para que as concession\u00e1rias enviem suas planilhas de custos, porque reclamar de preju\u00edzo \u00e9 muito f\u00e1cil. V\u00e1rios setores da economia fazem isso como moeda de troca para pressionar o Governo, a fim de obter maiores ganhos. Outras regi\u00f5es tamb\u00e9m precisam de maiores investimentos.\r\nEra o que eu tinha a dizer.\r\nPe\u00e7o que meu discurso seja enviado ao programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T09:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "POL\u00cdTICA NACIONAL DE RES\u00cdDUOS S\u00d3LIDOS, ATUALIZA\u00c7\u00c3O, RECICLAGEM, PL\u00c1STICO, EMPREGO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Necessidade de atualiza\u00e7\u00e3o da Pol\u00edtica Nacional de Res\u00edduos S\u00f3lidos.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Primeiramente, eu gostaria de pedir que o meu discurso fosse divulgado no programa A Voz do Brasil.\r\nSr. Presidente, n\u00f3s debatemos hoje no Brasil a quest\u00e3o da volta dos empregos. S\u00e3o Paulo, assim como todo o Pa\u00eds, ainda sofre tamb\u00e9m com problemas de gargalo na infraestrutura. Um dos problemas mais s\u00e9rios e que hoje tem sido deixado de lado, um assunto da maior import\u00e2ncia, \u00e9 a quest\u00e3o dos rejeitos s\u00f3lidos.\r\nA lei que institui a Pol\u00edtica Nacional de Res\u00edduos S\u00f3lidos, promulgada no Governo do PT, em tese \u00e9 muito boa, mas \u00e9 impratic\u00e1vel. E essa lei precisa ser atualizada no ano de 2019. Ainda hoje, na ind\u00fastria da reciclagem, emprega-se muito pouco, recicla-se muito pouco, usa-se muito pouco lixo como fonte geradora de produtos. Tentam hoje demonizar o pl\u00e1stico, mas muito pior que o pl\u00e1stico \u00e9 uma cultura em que a popula\u00e7\u00e3o n\u00e3o tem participa\u00e7\u00e3o n\u00e3o somente no lucro, mas tamb\u00e9m no emprego.\r\nEnt\u00e3o, este ser\u00e1 um dos elementos que nortear\u00e3o o meu mandato: o combate para que a Lei de Res\u00edduos S\u00f3lidos seja efetiva.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=28&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "VACINA, CONTRA, GRIPE, AUMENTO, S\u00c3O PAULO (ESTADO), INSTITUTO BUTANTAN, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, SANTA CASA DE MISERIC\u00d3RDIA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Congratula\u00e7\u00f5es ao Governo do Estado de S\u00e3o Paulo pela amplia\u00e7\u00e3o da produ\u00e7\u00e3o de vacinas contra a gripe. Transcurso do 118\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Instituto Butant\u00e3. Compromisso de atua\u00e7\u00e3o parlamentar em prol do fortalecimento das Santas Casas de Miseric\u00f3rdia.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, senhores que assistem neste momento \u00e0 TV C\u00e2mara, n\u00f3s vimos aqui primeiramente parabenizar o Governo do Estado de S\u00e3o Paulo, porque s\u00e1bado inauguramos, junto ao Instituto Butant\u00e3, a amplia\u00e7\u00e3o da f\u00e1brica de vacinas contra a gripe. N\u00f3s vamos chegar hoje \u00e0 fabrica\u00e7\u00e3o de, aproximadamente, 2 milh\u00f5es de doses di\u00e1rias de vacinas. S\u00e3o Paulo est\u00e1 se tornando refer\u00eancia nesse assunto.\r\nQuero tamb\u00e9m parabenizar o Instituto Butant\u00e3 pelos seus 118 anos de exist\u00eancia. Provavelmente, em outubro, o Instituto conseguir\u00e1 todos os mecanismos necess\u00e1rios para fazer a exporta\u00e7\u00e3o dessas vacinas e se tornar uma refer\u00eancia mundial no assunto.\r\nAl\u00e9m de atender o Instituto Butant\u00e3, S\u00e3o Paulo tamb\u00e9m tem que dar passos fortes na quest\u00e3o do atendimento \u00e0 sa\u00fade, principalmente nas Santas Casas, que passam hoje por uma situa\u00e7\u00e3o de pen\u00faria. Pe\u00e7o aten\u00e7\u00e3o para isso. O meu mandado ser\u00e1 focado na luta para que as Santas Casas tenham autonomia e direito de tamb\u00e9m prover outros servi\u00e7os que, pela sua constitui\u00e7\u00e3o em si, podem prover.\r\nSra. Presidente, pe\u00e7o que divulgue o meu discurso no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-27T16:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "DAVID SOARES, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR PREGRESSA, EX-VEREADOR, S\u00c3O PAULO (SP), INVESTIMENTO P\u00daBLICO, SA\u00daDE, TRANSPORTE URBANO, FROTA, \u00d4NIBUS, VE\u00cdCULO H\u00cdBRIDO, CONSERVA\u00c7\u00c3O AMBIENTAL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Investimentos realizados pelo orador nas \u00e1reas de sa\u00fade e mobilidade urbana, na condi\u00e7\u00e3o de Vereador da C\u00e2mara Municipal de S\u00e3o Paulo, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, muito obrigado pela concess\u00e3o da palavra. \r\nSrs. Deputados, povo que me ouve, mun\u00edcipes da cidade de S\u00e3o Paulo e cidad\u00e3os de todo o Estado, nos \u00faltimos 8 anos, foram investidos mais de 12 milh\u00f5es na \u00e1rea da sa\u00fade paulista, e uma das marcas que eu deixei, enquanto Vereador na cidade de S\u00e3o Paulo, tem reflexos at\u00e9 hoje, atrav\u00e9s do fornecimento de um transporte melhor, com ado\u00e7\u00e3o de sinal wi-fi de Internet e ar-condicionado em quase toda a frota da cidade de S\u00e3o Paulo, j\u00e1 chegando a 80% do total - em breve estar\u00e1 na totalidade da frota paulista.\r\nOutra quest\u00e3o muito importante \u00e9 preocupa\u00e7\u00e3o ecol\u00f3gica e ambiental. Hoje, S\u00e3o Paulo tem uma lei que obriga a nova frota de \u00f4nibus a adotar a propuls\u00e3o el\u00e9trico-h\u00edbrida. Tudo isso foi conquista de um mandato. Mais n\u00f3s faremos para conquistar um transporte decente para toda a popula\u00e7\u00e3o do Brasil.\r\nSra. Presidente, pe\u00e7o que envie meu discurso para ser divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F3%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-25T11:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), GOVERNO FEDERAL, DI\u00c1LOGO POL\u00cdTICO, DEPUTADO FEDERAL, CR\u00cdTICA.\r\nREFORMA TRIBUT\u00c1RIA, ANTEPROJETO, ECONOMIA, COMBATE, DESEMPREGO, INVESTIMENTO P\u00daBLICO, OBRA DE ENGENHARIA, INFRAESTRUTURA, DEFESA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Defesa de aperfei\u00e7oamento da proposta de reforma previdenci\u00e1ria, encaminhada \u00e0 Casa pelo Poder Executivo. Necessidade de elabora\u00e7\u00e3o de pauta econ\u00f4mica para o Pa\u00eds.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, povo que nos acompanha pela TV C\u00e2mara, volto a este plen\u00e1rio com uma insatisfa\u00e7\u00e3o. Estamos chegando a maio, 5 meses do novo Governo, que se prop\u00f4s a fazer uma mudan\u00e7a completa no nosso Pa\u00eds. Toda semana \u00e9 uma fofoca aqui, uma contesta\u00e7\u00e3o de l\u00e1, Fulano falando e os outros se ofendendo.\r\nOra bola! Eu n\u00e3o me importo com uma pessoa quando ela discorda de mim, se gosta ou n\u00e3o de mim, se acha que sou feio, gordo, alto, magro. Isso pouco importa. Em que isso afeta o nosso Pa\u00eds? N\u00f3s estamos perdendo tempo com ladainhas, conversinhas, e, com isso, o Pa\u00eds est\u00e1 perdendo.\r\nColocaram a reforma da Previd\u00eancia como verdadeiro calv\u00e1rio, a tal ponto de governantes afirmarem que, se n\u00e3o houver a reforma da Previd\u00eancia, o Brasil vai cair nas trevas. N\u00e3o vai cair nas trevas nada! A reforma da Previd\u00eancia \u00e9 importante. Mas qual reforma da Previd\u00eancia? \r\nEste texto que est\u00e1 a\u00ed precisa ser ajustado. Ele n\u00e3o \u00e9 bom. Grande parte de n\u00f3s Parlamentares estamos insatisfeitos. Isso n\u00e3o pode ficar deste jeito. Precisamos, sim, conversar. \u00c9 preciso ouvir os Parlamentares, traz\u00ea-los para a conversa. Isso n\u00e3o pode ficar como est\u00e1.\r\nSe o filho do Presidente critica, \u00e9 problema dele. Ele tem direito, pois \u00e9 um cidad\u00e3o brasileiro. Ele que cuide do seu mandato; n\u00f3s cuidamos do nosso. N\u00f3s temos que nos preocupar com a pauta que temos aqui. A pauta econ\u00f4mica que esperamos do Governo ainda n\u00e3o chegou. Onde est\u00e1 o pr\u00e9-projeto da reforma tribut\u00e1ria? Eu tenho participado de algumas frentes, v\u00e1rios Deputados est\u00e3o lutando para apresentar at\u00e9 um substitutivo de reforma tribut\u00e1ria ao Governo. \r\nN\u00e3o podemos ficar somente na reforma da Previd\u00eancia. O Brasil n\u00e3o \u00e9 s\u00f3 a Previd\u00eancia. O Brasil \u00e9 muito mais. N\u00f3s estamos perdendo tempo com ladainhas e conversas fiadas, em vez de nos preocuparmos em atacar o problema principal: os 14 milh\u00f5es de desempregados. Ainda n\u00e3o vi uma pol\u00edtica atacar verdadeiramente este problema. \u00c9 preciso pegar um pouco das reservas de mais de 400 bilh\u00f5es de d\u00f3lares e come\u00e7ar a aplic\u00e1-las nas obras estruturais de que o Brasil precisa. Esta, creio, \u00e9 uma boa sa\u00edda. N\u00e3o adiantam 400 bilh\u00f5es na conta, e o povo morrer de fome. Tiram-se 50, p\u00f5e no Brasil, come\u00e7a a aplicar em obras e, consequentemente, isso vai gerar um boom no Brasil. \r\nEsta \u00e9 a minha opini\u00e3o, meu desabafo.\r\nSra. Presidente, solicito que meu discurso seja divulgado pelo programa A Voz do Brasil.\r\nMuito obrigado pelo tempo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F4%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "REFORMA TRIBUT\u00c1RIA, DEFESA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Urgente necessidade de realiza\u00e7\u00e3o da reforma tribut\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o debate que hoje tivemos, na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e Cidadania, sobre a audi\u00eancia p\u00fablica em prol da reforma tribut\u00e1ria, na minha opini\u00e3o, \u00e9 o tema mais importante hoje no Brasil. Por que \u00e9 o tema mais importante? Porque empresas est\u00e3o quebrando todo santo dia. S\u00e3o dezenas, para n\u00e3o dizer centenas, de comerciantes que est\u00e3o indo \u00e0 fal\u00eancia.\r\nO debate da reforma da Previd\u00eancia \u00e9 necess\u00e1rio, mas o da reforma tribut\u00e1ria \u00e9 urgente. N\u00e3o podemos perder mais nenhum momento - seja na simplifica\u00e7\u00e3o, seja no fatiamento, seja na elimina\u00e7\u00e3o - para come\u00e7ar um verdadeiro debate sobre o tamanho que ficou o Estado brasileiro, ou para come\u00e7ar verdadeiramente a fazer uma an\u00e1lise e a extin\u00e7\u00e3o daqueles \u00f3rg\u00e3os que pouco t\u00eam servido \u00e0 sociedade brasileira ou que t\u00eam sido verdadeiros cabides de emprego. \u00c9 dessa forma que vamos trabalhar, para que n\u00f3s, a Uni\u00e3o, fa\u00e7amos a nossa parte, e para que os Estados sejam compelidos a fazer o mesmo.\r\nO que aconteceu no Rio de Janeiro, no Rio Grande do Sul, em Goi\u00e1s e em tantos outros - j\u00e1 s\u00e3o sete Estados - vai acontecer em outros Estados at\u00e9 o fim do ano se n\u00e3o tomarmos uma decis\u00e3o. \u00c9 preciso que esta Casa tome a decis\u00e3o de colocar a reforma tribut\u00e1ria como a prioridade n\u00famero zero! N\u00e3o h\u00e1 de ser nem prioridade n\u00famero 1, mas zero, porque vem antes de tudo! Depois de feita a reforma tribut\u00e1ria, n\u00f3s teremos verdadeiramente a no\u00e7\u00e3o para darmos um recado aos investidores no Pa\u00eds e no mundo que o Brasil est\u00e1 fazendo o dever de casa.\r\nVoltei agora de uma viagem ao exterior, \u00e0 Eur\u00e1sia, Mong\u00f3lia e Coreia do Sul. Estive com dezenas de empres\u00e1rios e todos eles cobraram a mesma atitude, a mesma postura: o que o Brasil vai fazer? O que voc\u00eas est\u00e3o fazendo? Com a condi\u00e7\u00e3o do Pa\u00eds hoje, em termos de encargos tribut\u00e1rios, torna-se insustent\u00e1vel para o empresariado investir. Isso precisa ser mudado - e ser\u00e1 mudado com a nossa atitude.\r\nPortanto, Sr. Presidente, a reforma tribut\u00e1ria \u00e9 um dever de casa, \u00e9 uma obriga\u00e7\u00e3o de todos n\u00f3s. Ainda que votemos contra, n\u00f3s devemos coloc\u00e1-la em debate urgentemente nesta Casa, se poss\u00edvel ainda no primeiro semestre, a fim de tomarmos uma atitude verdadeira, para darmos a li\u00e7\u00e3o ao Brasil de que o Congresso n\u00e3o vai se omitir, mas vai agir e vai colocar na m\u00e3o do Presidente a tomada de decis\u00f5es mais s\u00e9rias, porque o nosso dever de casa ser\u00e1 feito por aqui.\r\nSr. Presidente, solicito que meu discurso seja divulgado no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=121&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T14:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HOMICIDIO, MARIDO, FLORDELIS, DEPUTADO FEDERAL, HOMENAGEM POSTUMA.\r\nPEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARECER, SAMUEL MOREIRA, DEPUTADO FEDERAL, COMISS\u00c3O ESPECIAL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Solidariedade \u00e0 Deputada Flordelis diante do assassinato do seu esposo. Contrariedade \u00e0s concess\u00f5es preconizadas no parecer oferecido pelo Relator Samuel Moreira \u00e0 proposta de reforma previdenci\u00e1ria. Apoio ao texto da proposta de reformula\u00e7\u00e3o da Previd\u00eancia Social, encaminhada \u00e0 Casa pelo Governo Jair Bolsonaro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, Sras. Deputadas, mais uma vez agrade\u00e7o a Deus a oportunidade de poder voltar a esta Casa.\r\nPrimeiro, quero me solidarizar com a Deputada Flordelis, pela perda irrepar\u00e1vel do seu esposo, que foi executado covardemente. Que a pol\u00edcia venha a elucidar este caso rapidamente.\r\nSra. Presidente, a quest\u00e3o mais s\u00e9ria aqui agora \u00e9 a reforma da Previd\u00eancia. Passei este fim de semana lendo o relat\u00f3rio proferido pelo Relator Samuel Moreira e estou surpreso com o que eu vi. Eu acho que foi feito uma colcha de retalhos. O relat\u00f3rio n\u00e3o est\u00e1 bom, houve muita concess\u00e3o. \u00c9 preciso realmente focarmos, sen\u00e3o a economia ser\u00e1 menor. Eu n\u00e3o sei se h\u00e1 algum plano por tr\u00e1s para prejudicar o Governo, mas sei o seguinte: apoio a proposta do Governo para a reforma da Previd\u00eancia.\r\nPe\u00e7o a V.Exa. que o meu discurso seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=44&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, eu venho \u00e0 tribuna, com muita satisfa\u00e7\u00e3o, por estar tomando a decis\u00e3o certa pelo Pa\u00eds. Na verdade, trata-se de uma mat\u00e9ria dif\u00edcil. N\u00f3s fizemos um sacrif\u00edcio porque somos conscientes de que essa \u00e9 a primeira reforma, o pilar entre as diversas reformas que faremos no nosso Pa\u00eds.\r\nO nosso Pa\u00eds precisa da reforma previdenci\u00e1ria e tamb\u00e9m da reforma tribut\u00e1ria, da reforma pol\u00edtica, da reforma do Judici\u00e1rio e da revis\u00e3o do pacto federativo. Precisamos de todas elas e as enfrentamos de forma positiva.\r\nO Governo Bolsonaro foi eleito por isso, por prometer fazer as reformas de base de que o Brasil precisa. Estamos cumprindo com essa promessa. Eu posso citar algumas raz\u00f5es pelas quais fizemos um bom trabalho e devemos reiterar o mesmo resultado da primeira vota\u00e7\u00e3o. Alguns fatos se tornaram comuns a partir do momento em que encaramos a aposentadoria dos pol\u00edticos e a colocarmos no mesmo patamar do Regime Geral.\r\nA partir do momento em que fizemos isso, n\u00f3s demos uma demonstra\u00e7\u00e3o de sensibilidade diante do problema econ\u00f4mico da sociedade brasileira. Dessa forma, corrigimos uma discrep\u00e2ncia que havia entre o discurso frente \u00e0 popula\u00e7\u00e3o e a pr\u00e1tica no Congresso.\r\nEu fa\u00e7o parte dessa mudan\u00e7a. \u00c9 por isso que eu falo, com satisfa\u00e7\u00e3o, que estamos tomando a decis\u00e3o correta.\r\nAl\u00e9m disso, Sr. Presidente, os mais pobres hoje poder\u00e3o ter a garantia de que pagar\u00e3o menos. A al\u00edquota \u00e9 menor, foi reduzida para 7,5%, com a garantia de que todos os trabalhadores, no m\u00ednimo, ter\u00e3o direito a um sal\u00e1rio na sua aposentadoria.\r\nEntre essas e outras, Sr. Presidente, n\u00f3s tomamos a decis\u00e3o certa. Estamos tomando o caminho certo para dar condi\u00e7\u00f5es ao Governo de fazer as reformas de base. Em pouco tempo veremos os dados que hoje apontam que o nosso Pa\u00eds est\u00e1 em condi\u00e7\u00e3o de extrema pobreza indicando que, com essa decis\u00e3o que se est\u00e1 tomando, o Pa\u00eds est\u00e1 indo no caminho correto, saindo da insolv\u00eancia para a prosperidade nos pr\u00f3ximos 3, 4 anos.\r\nPor isso, Sr. Presidente, eu voto \"sim\", com muita satisfa\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=271&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ATLETA, JOGOS PAN_AMERICANOS, PERU (PA\u00cdS), COMIT\u00ca OL\u00cdMPICO BRASILEIRO (COB), CONGRATULA\u00c7\u00c3O.\r\nELEI\u00c7\u00d5ES, ARGENTINA.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO, PARALISA\u00c7\u00c3O, PROGRAMA MINHA CASA, MINHA VIDA (PMCMV), CR\u00cdTICA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Regozijo com o desempenho dos atletas brasileiros nos recentes Jogos Pan-Americanos realizados em Lima, Peru. Defesa de retomada dos incentivos governamentais ao esporte nacional. Raz\u00f5es da derrota do Presidente da Argentina, Mauricio Macri, nas elei\u00e7\u00f5es prim\u00e1rias \u00e0 sucess\u00e3o presidencial. Conveni\u00eancia de utiliza\u00e7\u00e3o, pelo Governo Jair Bolsonaro, de reservas cambiais na gera\u00e7\u00e3o em massa de novos empregos. Defesa de amplia\u00e7\u00e3o e melhoria do Programa Minha Casa, Minha Vida.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, volto a esta tribuna, primeiro, para reconhecer o esfor\u00e7o dos nossos atletas nos Jogos Pan-Americanos de Lima, cuja performance foi uma das melhores em todos os tempos. Tivemos um recorde de medalhas. Parab\u00e9ns ao Comit\u00ea Ol\u00edmpico Brasileiro pelo trabalho e, principalmente, pela participa\u00e7\u00e3o de militares, que correspondeu a praticamente 50% dos atletas presentes.\r\nPor\u00e9m, restringir esta participa\u00e7\u00e3o apenas aos militares \u00e9 deixar uma pol\u00edtica. O Governo n\u00e3o est\u00e1 sendo feliz. Deveria, sim, voltar a incentivar o esporte de maneira geral, como modo de produzir empregos e cidad\u00e3os de valores.\r\nMinha outra pondera\u00e7\u00e3o, Sr. Presidente, diz respeito ao que est\u00e1 acontecendo no nosso vizinho, a Argentina. Eu creio que o povo argentino deu uma resposta de insatisfa\u00e7\u00e3o nas urnas. O Presidente Macri vem com ideias muito boas, mas retirou o subs\u00eddio concedido \u00e0 energia el\u00e9trica e aumentou a conta - eu conhe\u00e7o muito bem a Argentina - em 300% de um m\u00eas para o outro. Esta iniciativa come\u00e7a a inviabilizar seu mandato.\r\nHoje n\u00f3s temos reservas. Onde est\u00e3o essas reservas? Usem uma parte das reservas e comecem a empreg\u00e1-la na produ\u00e7\u00e3o em massa de empregos, de casas populares. Por aqui, o Programa Minha Casa, Minha Vida est\u00e1 parado. \u00c9 preciso verdadeiramente voltar a ampli\u00e1-lo e a melhor\u00e1-lo, porque se trata de cidad\u00e3os, e se v\u00e3o produzir empregos, fazendo com que a cadeia econ\u00f4mica volte a produzir no Brasil.\r\nPresidente Bolsonaro, Ministro Paulo Guedes, acordem! O Brasil precisa movimentar ainda mais a economia!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=9&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 3369/2015, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO, FAM\u00cdLIA, RECONHECIMENTO, PRINC\u00cdPIOS, ATUA\u00c7\u00c3O, PODER P\u00daBLICO, DIVERSIDADE, G\u00caNERO, ORIENTA\u00c7\u00c3O SEXUAL, PARENTESCO CONSANGU\u00cdNEO, NACIONALIDADE,  GRUPO RA\u00c7A, FILHO.\r\nGOVERNO ESTADUAL, S\u00c3O PAULO (SP), INVESTIMENTO, DESPOLUI\u00c7\u00c3O, RIO TIET\u00ca.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Associa\u00e7\u00e3o aos pronunciamentos contr\u00e1rios \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.369, de 2015, sobre a institui\u00e7\u00e3o do Estatuto das Fam\u00edlias do S\u00e9culo XXI. Inefic\u00e1cia dos investimentos realizados pelo Governo do Estado de S\u00e3o Paulo para despolui\u00e7\u00e3o do Rio Tiet\u00ea.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, fa\u00e7o coro com os colegas que me antecederam acerca do absurdo que foi proposto pelo nobre Deputado Orlando Silva, que admiro, pessoa inteligent\u00edssima, brilhante. Mas S.Exa. foi totalmente infeliz na concep\u00e7\u00e3o de um projeto que permite a cria\u00e7\u00e3o da fam\u00edlia do s\u00e9culo XXI. O que \u00e9 a fam\u00edlia do s\u00e9culo XXI? \u00c9 a fam\u00edlia de todos os s\u00e9culos, porque \u00e9 assim que se reproduz: homem e mulher se juntam e produzem uma crian\u00e7a.\r\nDeputado Orlando Silva, reconsidere, a sua coloca\u00e7\u00e3o foi infeliz. Vamos lutar com todas as for\u00e7as para que esse projeto seja completamente abandonado nesta Casa.\r\nSr. Presidente, tamb\u00e9m fa\u00e7o coro com as mat\u00e9rias que dizem respeito \u00e0 quest\u00e3o ambiental em S\u00e3o Paulo. \r\nO Governo do Estado de S\u00e3o Paulo gastou, nos \u00faltimos 30 anos, 30 bilh\u00f5es de reais, e o Rio Tiet\u00ea continua t\u00e3o morto quanto era, ou seja, a pol\u00edtica adotada pelo PSDB n\u00e3o est\u00e1 funcionando. \u00c9 preciso que se d\u00ea a pessoas competentes a incumb\u00eancia de tratar do lixo, de tratar do esgoto como devem ser tratados, ou seja, como prioridade no nosso Estado.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=14&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T16:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FEN\u00d4MENO METEOROL\u00d3GICO, S\u00c3O PAULO (SP),  DESMATAMENTO ILEGAL, QUEIMADA, FLORESTA AMAZ\u00d4NICA, PRESERVA\u00c7\u00c3O AMBIENTAL, DEFESA, GOVERNO FEDERAL.\r\nLEI MUNICIPAL, PARQUE, EQUIPAMENTO, ACESSIBILIDADE, PESSOA COM DEFICI\u00caNCIA, S\u00c3O PAULO (SP), DAVID SOARES, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), VE\u00cdCULO H\u00cdBRIDO, VE\u00cdCULO EL\u00c9TRICO, FROTA, \u00d4NIBUS.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Reflexo do desmatamento da regi\u00e3o amaz\u00f4nica sobre S\u00e3o Paulo, Estado de S\u00e3o Paulo. An\u00fancio de implanta\u00e7\u00e3o, em S\u00e3o Paulo, de lei sobre a obrigatoriedade de instala\u00e7\u00e3o em parques municipais de equipamentos de acessibilidade destinados aos portadores de defici\u00eancia, origin\u00e1ria de projeto de lei apresentado pelo orador na condi\u00e7\u00e3o de Edil. Aprova\u00e7\u00e3o, pela C\u00e2mara de Vereadores de S\u00e3o Paulo, de projeto de lei de autoria do Parlamentar sobre a obrigatoriedade de utiliza\u00e7\u00e3o de motores el\u00e9trico-h\u00edbridos por 80% da frota de \u00f4nibus na Capital paulistana.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, p\u00fablico que assiste \u00e0 TV C\u00e2mara, novamente aqui na tribuna e com a consci\u00eancia tranquila por estar trabalhando em prol do desenvolvimento de que o Brasil precisa, quero dar algumas satisfa\u00e7\u00f5es a respeito de afirma\u00e7\u00f5es que foram feitas pela grande m\u00eddia - e o fa\u00e7o inclusive por ser morador da cidade de S\u00e3o Paulo por mais de 20 anos - sobre um fen\u00f4meno que houve nesta semana.\r\nAparentemente, o fen\u00f4meno que houve em S\u00e3o Paulo foi decorrente do desmatamento na Floresta Amaz\u00f4nica, o que fez com que na parte da tarde o c\u00e9u de S\u00e3o Paulo ficasse escuro como a noite e tal. Tudo bem. Quem mora l\u00e1 sabe que isso n\u00e3o foi um fen\u00f4meno que aconteceu pela primeira vez. Ningu\u00e9m aqui desconhece que existe o desmatamento na Floresta Amaz\u00f4nica e que ele tem que ser combatido. Tamb\u00e9m vamos deixar bem claro que isso n\u00e3o \u00e9 fen\u00f4meno do Governo Bolsonaro. Desde os Governos petistas, at\u00e9 mesmo no Governo FHC, n\u00f3s debatemos isso. \u00c9 \u00f3bvio que temos que trabalhar, \u00e9 \u00f3bvio que temos que incentivar o cr\u00e9dito de carbono, \u00e9 \u00f3bvio que temos que tornar interessante para as pessoas manter a floresta, e n\u00e3o desmat\u00e1-la.\r\nPor outro lado, Sra. Presidente, eu vim aqui dar uma satisfa\u00e7\u00e3o aos milhares de pessoas que nos assistem, aos milh\u00f5es de brasileiros que possuem algum tipo de defici\u00eancia, de que j\u00e1 se encontra em fase de implanta\u00e7\u00e3o uma lei de minha autoria, aprovada quando eu era Vereador na cidade de S\u00e3o Paulo, que exige que todos os parques municipais disponham de equipamentos de acessibilidade para pessoas com defici\u00eancia. Eu vou apresentar um projeto para que isso venha a ser uma normativa no Pa\u00eds.\r\nNo nosso Pa\u00eds, 10% das pessoas possuem algum tipo de defici\u00eancia. Em m\u00e9dia, de 10 a 17 pessoas ingressam, todos os dias, na cidade de S\u00e3o Paulo, no infeliz n\u00famero de pessoas que acabam se tornando deficientes por causa de acidentes com motocicletas. N\u00f3s temos que fazer algo para que essas pessoas tenham ainda mais direitos, para que tenham a capacidade de vencer na vida e usufruir aquilo que um acidente tirou delas, que \u00e9 a mobilidade.\r\nSra. Presidente, aproveitando os meus segundos finais e voltando ao tema do desmatamento, \u00e0 quest\u00e3o do meio ambiente, \u00e9 bom lembrar que uma lei de minha autoria, aprovada tamb\u00e9m quando eu era Vereador na cidade de S\u00e3o Paulo, obriga que 80% da nova frota de \u00f4nibus de S\u00e3o Paulo seja movida a combust\u00e3o el\u00e9trica-h\u00edbrida.\r\nN\u00f3s estamos dando, sim, um passo para salvar o meio ambiente, mas precisamos ser mais agressivos, precisamos ser mais incisivos. Precisamos, com certeza, n\u00e3o somente em S\u00e3o Paulo, mas tamb\u00e9m no Brasil, fazer com que se torne uma normativa abandonar o combust\u00edvel f\u00f3ssil e incentivar o uso de ve\u00edculo el\u00e9trico. Se o uso de ve\u00edculo movido a combust\u00edvel f\u00f3ssil permanecer, que ele tenha motor com menor cilindrada, como existe no Jap\u00e3o, onde grande parte da frota tem 500 ou 600 cilindradas, no m\u00e1ximo 800 cilindradas, e funciona muito bem num pa\u00eds ex\u00edguo de recursos minerais, mas que tamb\u00e9m est\u00e1 fazendo a sua parte.\r\nEra isso.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=17&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T13:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SEGURAN\u00c7A P\u00daBLICA, GEST\u00c3O, WILSON WITZEL, GOVERNADOR, RIO DE JANEIRO (ESTADO), CONTRA, FERNANDO HADDAD, EX-PREFEITO, S\u00c3O PAULO (SP), OPINI\u00c3O, REP\u00daDIO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Rep\u00fadio \u00e0s acusa\u00e7\u00f5es do ex-Prefeito de S\u00e3o Paulo, Fernando Haddad, contra o Governador do Estado do Rio de Janeiro, Wilson Witzel.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, ontem, na grande m\u00eddia, foi divulgada uma afirma\u00e7\u00e3o do ex-Prefeito de S\u00e3o Paulo Fernando Haddad, em que ele supostamente acusa o Governador do Rio de Janeiro e o denomina de criminoso.\r\nEu n\u00e3o sou uma pessoa que faz coment\u00e1rios ou fala mal dos outros. Vivo em S\u00e3o Paulo h\u00e1 20 anos e por l\u00e1 fui eleito, mas sou carioca e tenho notado uma melhora expressiva nos \u00edndices de viol\u00eancia, tanto na cidade quanto no Estado, que est\u00e3o diminuindo. Gostar ou n\u00e3o do modo, das palavras ou dos meios de que se utiliza o Governador \u00e9 uma coisa discut\u00edvel, mas n\u00e3o \u00e9 o caso de acus\u00e1-lo de criminoso. Acho que criminosa \u00e9 a falsa acusa\u00e7\u00e3o que se est\u00e1 fazendo a um Governador. \r\n Ali\u00e1s, ele foi um dos piores Prefeitos que S\u00e3o Paulo j\u00e1 teve, n\u00e3o gostava de trabalhar, n\u00e3o deixou heran\u00e7a nenhuma. S\u00e3o Paulo lhe deu adeus para que nunca mais volte a ser Prefeito, se Deus quiser!\r\nSr. Presidente, aqui fica a minha nota de rep\u00fadio a essa afirma\u00e7\u00e3o rid\u00edcula feita por esse senhor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=40&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-08T14:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "\u00d4NIBUS, TRANSPORTE ESCOLAR, MUNICIPIO, S\u00c3O PAULO (ESTADO).\r\nPEDAGIO, DRACENA (SP), PROTESTO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Agradecimento ao Ministro da Educa\u00e7\u00e3o pela aquisi\u00e7\u00e3o de \u00f4nibus escolares para Munic\u00edpios no Estado de S\u00e3o Paulo. Protesto contra a implanta\u00e7\u00e3o, pelo Governo Jo\u00e3o D\u00f3ria, de pra\u00e7as de ped\u00e1gio na regi\u00e3o do Munic\u00edpio de Dracena.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero fazer um agradecimento ao Ministro da Educa\u00e7\u00e3o, porque ontem foi liberada a primeira etapa de mais de uma centena de \u00f4nibus para diversos Munic\u00edpios do Estado de S\u00e3o Paulo.\r\nS\u00f3 quem vive nos pequenos Munic\u00edpios - V.Exa. bem sabe disso - sabe da escassez, da dificuldade com o transporte p\u00fablico e principalmente com o transporte escolar. Muitas s\u00e3o as pessoas que est\u00e3o longe dos grandes centros, e as escolas muitas vezes est\u00e3o longe, impossibilitando o acesso. Ent\u00e3o, esses \u00f4nibus escolares vieram no momento certo.\r\nE eu quero fazer uma reclama\u00e7\u00e3o contra o Governo do Estado de S\u00e3o Paulo. Eu e v\u00e1rios Deputados fizemos um trabalho pedindo a considera\u00e7\u00e3o de n\u00e3o se colocarem pra\u00e7as de ped\u00e1gio na regi\u00e3o de Dracena. E a comunica\u00e7\u00e3o que n\u00f3s recebemos \u00e9 que tr\u00eas pra\u00e7as de ped\u00e1gios ser\u00e3o colocadas l\u00e1. Isso s\u00f3 atrapalha a economia local. \u00c9 um gol contra do Governo Doria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=10%2F10%2F2019&txPagina=27&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-08T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PLN 6/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, CONTR\u00c1RIO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Discuss\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 6, de 2019, sobre a abertura do Or\u00e7amento Fiscal da Uni\u00e3o, em favor das Justi\u00e7as Federal, Eleitoral, do Trabalho e do Distrito Federal e dos Territ\u00f3rios, do Minist\u00e9rio P\u00fablico da Uni\u00e3o e do Conselho Nacional do Minist\u00e9rio P\u00fablico, cr\u00e9dito suplementar no valor de R$ 236.566.628,00,  para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Para discutir. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, venho a esta tribuna para fazer uma explana\u00e7\u00e3o contr\u00e1ria ao PLN 6, pelo simples motivo - e vou ser bem objetivo aqui - de que a contra\u00e7\u00e3o econ\u00f4mica por que nosso Pa\u00eds passa n\u00e3o d\u00e1 direito, n\u00e3o d\u00e1 margem a luxos, muitas vezes at\u00e9 necess\u00e1rios. Eu entendo que pode haver deteriora\u00e7\u00e3o dos pr\u00e9dios da Justi\u00e7a e que sejam necess\u00e1rias reformas.\r\nMas, se n\u00e3o for por urg\u00eancia, por que a necessidade, agora, desses recursos extras para a Justi\u00e7a, para a constru\u00e7\u00e3o de pr\u00e9dios da Justi\u00e7a Eleitoral, do Minist\u00e9rio P\u00fablico, para aux\u00edlio de di\u00e1rias, para aux\u00edlio de moradias?\r\nVejam: j\u00e1 houve um aumento no ano passado, o Supremo, com muita press\u00e3o, deu um aumento. Hoje, os ju\u00edzes ganham muito mais do que qualquer servidor p\u00fablico! E j\u00e1 foi dado o aumento com a contrapartida de ser afastada qualquer remunera\u00e7\u00e3o, qualquer envio de custos para a quest\u00e3o de habita\u00e7\u00e3o.\r\nPortanto, Sr. Presidente, \u00e9 inoportuno esse PLN. N\u00e3o devemos aceitar. Se o Pa\u00eds hoje conta com 12 milh\u00f5es, n\u00f3s temos que dar o exemplo, mostrando que o dinheiro p\u00fablico tem que ser bem gasto. E n\u00e3o d\u00e1 para conceder esses excessos, embora possam ser importantes, num Pa\u00eds que est\u00e1 com d\u00e9ficit h\u00e1 mais de 5 anos, que j\u00e1 est\u00e1 chegando a 80% do PIB, que est\u00e1 com uma d\u00edvida interna pesada.\r\nEnt\u00e3o, que a Justi\u00e7a, que o Poder Judici\u00e1rio tenha consci\u00eancia, reflita para que nunca mais mande um projeto desses, enquanto o Pa\u00eds estiver nessa restri\u00e7\u00e3o econ\u00f4mica.\r\nMeu voto \u00e9 contr\u00e1rio, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=10%2F10%2F2019&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FUNDA\u00c7\u00c3O PARA O REM\u00c9DIO POPULAR (FURP), FAL\u00caNCIA, REEXAME, JO\u00c3O D\u00d3RIA, GOVERNADOR, S\u00c3O PAULO (ESTADO), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Apelo ao Governador do Estado de S\u00e3o Paulo, Jo\u00e3o D\u00f3ria, de reexame da decreta\u00e7\u00e3o de fal\u00eancia da Funda\u00e7\u00e3o para o Rem\u00e9dio Popular - FURP.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado.\r\nQuero fazer um atestado de uma a\u00e7\u00e3o do Governo do Estado de S\u00e3o Paulo que julgo ser das piores poss\u00edveis. Ele est\u00e1 pretendendo decretar a fal\u00eancia da Funda\u00e7\u00e3o para o Rem\u00e9dio Popular - FURP, a f\u00e1brica de rem\u00e9dios populares, que presta um servi\u00e7o muito importante tanto para o Estado quanto para todo o Pa\u00eds, com rem\u00e9dios de qualidade que s\u00e3o at\u00e9 30% mais baratos do que no mercado. N\u00e3o h\u00e1 justificativa para essa a\u00e7\u00e3o unilateral.\r\nEu venho pedir bom senso ao Governador Jo\u00e3o Doria para que reveja essa decis\u00e3o de levar \u00e0 fal\u00eancia a FURP, assim como j\u00e1 teve o bom senso, no passado, de rever a extin\u00e7\u00e3o do Projeto Guri. N\u00f3s Deputados do Estado de S\u00e3o Paulo de todas as bancadas fizemos press\u00e3o para que esse projeto, que estava em ponto de extin\u00e7\u00e3o, n\u00e3o ocorresse. Gra\u00e7as \u00e0 interven\u00e7\u00e3o pol\u00edtica, o projeto foi mantido.\r\nPortanto, extinguir a FURP \u00e9 um preju\u00edzo n\u00e3o simplesmente para o Estado de S\u00e3o Paulo, mas para o Brasil.\r\n\"N\u00e3o\" \u00e0 fal\u00eancia da FURP!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ECONOMIA, EST\u00cdMULO, RESERVAS INTERNACIONAIS, UTILIZA\u00c7\u00c3O, DEFESA.\r\nPROGRAMA MINHA CASA, MINHA VIDA (PMCMV), AN\u00c1LISE.\r\nGERA\u00c7\u00c3O DE EMPREGO, AN\u00c1LISE.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Defesa da utiliza\u00e7\u00e3o de reservas cambiais do Pa\u00eds para est\u00edmulo \u00e0 economia brasileira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, os resultados econ\u00f4micos, que ainda s\u00e3o muito t\u00edmidos, precisam de energia por parte do Governo Federal. Fui o primeiro a defender aqui desta tribuna - e outros t\u00eam falado desta quest\u00e3o - a utiliza\u00e7\u00e3o das reservas do Pa\u00eds de uma forma inteligente. Ainda possu\u00edmos em torno de 380 bilh\u00f5es de d\u00f3lares, que servem, claro, como estabilidade, como garantia da moeda, mas que podem ser, de uma maneira calculada, dosada, um fator estimulante para economia. \r\nUm exemplo \u00e9 a constru\u00e7\u00e3o civil, que verdadeiramente d\u00e1 um boom na quest\u00e3o das constru\u00e7\u00f5es populares. O Minha Casa, Minha Vida ainda est\u00e1 com passos t\u00edmidos, tentando retomar um espa\u00e7o que ainda precisa ter na sociedade. Isso n\u00e3o vai ser um preju\u00edzo. Isso ser\u00e1 um catalisador da economia, porque a ind\u00fastria da constru\u00e7\u00e3o civil se torna o princ\u00edpio de outros que v\u00e3o ser ativados. E o emprego em massa \u00e9 aquilo que vai dar a salva\u00e7\u00e3o econ\u00f4mica para o Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-15T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, MPV 886/2019, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 886, de 2019, sobre a organiza\u00e7\u00e3o b\u00e1sica dos \u00f3rg\u00e3os da Presid\u00eancia da Rep\u00fablica e dos Minist\u00e9rios.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, nem precisarei dos 3 minutos.\r\nA Medida Provis\u00f3ria n\u00ba 886 vem dar a liberdade que o Governo Bolsonaro precisa para fazer seus encaminhamentos, para trabalhar a sua pol\u00edtica, pela qual foi eleito por 57 milh\u00f5es de brasileiros, eu inclusive.\r\nPortanto, nada mais justo, nada mais pr\u00f3prio do que facilitar a divis\u00e3o de atribui\u00e7\u00f5es tanto da Secretaria da Casa Civil quanto da Secretaria de Governo. \r\nA mudan\u00e7a da quest\u00e3o fundi\u00e1ria e de demarca\u00e7\u00e3o de terras ind\u00edgenas do Minist\u00e9rio da Agricultura para o Minist\u00e9rio da Justi\u00e7a \u00e9 algo que precisa ser realizado. Devido aos desdobramentos da crise amaz\u00f4nica, essa discuss\u00e3o \u00e9 mais do que apropriada e espera-se desta Casa a aprova\u00e7\u00e3o desta MP.\r\nO Governo est\u00e1 propondo a discuss\u00e3o de assunto jur\u00eddico no Minist\u00e9rio da Justi\u00e7a, que \u00e9 exatamente onde ocorre a demarca\u00e7\u00e3o de terras, enquanto que os assuntos t\u00e9cnicos da agricultura poder\u00e3o ser tratados predominantemente no Minist\u00e9rio da Agricultura.\r\nPortanto, a medida provis\u00f3ria \u00e9 prop\u00edcia, \u00e9 simples e objetiva. Est\u00e1 escrita em 11 artigos, sem muita demora, com muita objetividade. O Governo se prop\u00f5e a trabalhar de forma objetiva, diminuindo os prazos, diminuindo a burocracia e permitindo a acelera\u00e7\u00e3o nos tr\u00e2mites, que hoje ocorrem com muita lerdeza e com muita burocracia. Essa mudan\u00e7a trar\u00e1 o dinamismo de que o Governo precisa.\r\nPortanto, este Deputado encaminha o voto \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2019&txPagina=152&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "HOMIC\u00cdDIO, V\u00cdTIMA, HEVRIN KHALAF, POL\u00cdTICA, S\u00cdRIA, GOVERNO, TURQUIA, P\u00caSAMES.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Assassinato da l\u00edder do partido S\u00edria do Futuro, engenheira Hevrin Khalaf, na S\u00edria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, com muita tristeza, hoje venho anunciar a morte da pol\u00edtica e l\u00edder do Partido S\u00edria do Futuro, a engenheira Hevrin Khalaf. Ela era uma voz que conseguia ouvir crist\u00e3os, mu\u00e7ulmanos e curdos e conseguia ser um ponte. Hevrin Khalaf foi covardemente assassinada no dia de hoje, segundo o relat\u00f3rio de direitos humanos da S\u00edria, enquanto estava numa \u00e1rea que sofreu um ataque covarde de for\u00e7as turcas.\r\nA Turquia \u00e9 um pa\u00eds que n\u00f3s apoiamos, mas a a\u00e7\u00e3o dela na S\u00edria \u00e9 uma a\u00e7\u00e3o covarde, que est\u00e1 atacando os curdos. N\u00e3o \u00e9 assim que se faz pol\u00edtica, n\u00e3o \u00e9 assim que se faz diplomacia. A diplomacia do canh\u00e3o e do fuzil j\u00e1 ficou no passado.\r\nHoje, infelizmente, a vida perde, a pol\u00edtica perde, a paz mundial perde.\r\nN\u00f3s como crist\u00e3os queremos enfatizar a nossa tristeza e dar os p\u00easames a essa popula\u00e7\u00e3o e \u00e0 fam\u00edlia que perde o seu ente querido.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=25&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, VIAGEM OFICIAL, ASIA, ORIENTE MEDIO.\r\nREFORMULA\u00c7\u00c3O, C\u00d3DIGO PENAL, C\u00d3DIGO DE PROCESSO PENAL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Participa\u00e7\u00e3o na comitiva oficial do Presidente Jair Bolsonaro em visita ao continente asi\u00e1tico e ao Oriente M\u00e9dio. Contesta\u00e7\u00e3o a reportagens da imprensa contra o Presidente da Rep\u00fablica. Necessidade de reformula\u00e7\u00e3o do C\u00f3digo Penal e do C\u00f3digo de Processo Penal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nSras. e Srs. Deputados, p\u00fablico que nos assiste pela TV C\u00e2mara, farei um pequeno resumo da viagem de cuja comitiva fiz parte, durante 11 dias. Viajamos pela \u00c1sia e pelo Oriente M\u00e9dio, junto com o nosso Presidente Jair Bolsonaro. \r\nMuito se falou da viagem, a imprensa a acompanhou. \u00c9 impressionante a maldade de uma imprensa que acompanhou a viagem, viu as tratativas sendo assinadas e os acordos comerciais, e relata exatamente o oposto!\r\nEu estava presente a uma dessas reuni\u00f5es com o pr\u00edncipe herdeiro da Ar\u00e1bia Saudita, Mohammad bin Salman. Numa daquelas reuni\u00f5es, trouxeram os maiores investidores do seu pa\u00eds. Ele disse: \"Sr. Presidente, este investidor tem a carteira X, esse tem a carteira Y e aquele outro a carteira Z. N\u00f3s estamos ouvindo que o senhor tem em torno de 400 bilh\u00f5es de d\u00f3lares que podem ser auferidos atrav\u00e9s de licita\u00e7\u00f5es, de compras, etc., e nos interessa estar em todos esses projetos. Uma demonstra\u00e7\u00e3o bem clara do nosso interesse \u00e9 que n\u00f3s vamos fazer no Brasil, desde j\u00e1, um investimento - e estou anunciando isto ao senhor, aqui na frente de todos - de 10 bilh\u00f5es de d\u00f3lares\". \r\nIsso n\u00e3o \u00e9 brincadeira! Como recebemos uma informa\u00e7\u00e3o como essa, em um pa\u00eds que est\u00e1 combalido, que tem uma d\u00edvida tremenda e tem um d\u00e9ficit horroroso? Qual \u00e9 a reportagem que vemos na imprensa? Que o Presidente \u00e9 um idiota, que n\u00e3o conhece nada. Idiotas s\u00e3o eles, que n\u00e3o acompanham, n\u00e3o sabem ler ou n\u00e3o querem fazer a leitura das coisas que est\u00e3o funcionando.\r\nAs not\u00edcias s\u00e3o as mesmas em rela\u00e7\u00e3o ao Catar, aos Emirados \u00c1rabes e, principalmente, \u00e0 China, que j\u00e1 mostrou que o Presidente est\u00e1 no caminho certo, quando o Presidente Xi Jinping, no jantar, falou: \"A China estar\u00e1 presente no leil\u00e3o do pr\u00e9-sal\". E quem ganhou o leil\u00e3o do pr\u00e9-sal? A PETROBRAS, junto com as empresas chinesas. J\u00e1 deu uma demonstra\u00e7\u00e3o de que o Brasil est\u00e1 fazendo seu dever de casa e de que o mundo reconhece a lideran\u00e7a do Presidente Bolsonaro.\r\nQuanto aos problemas que estamos vendo na Justi\u00e7a, acho que este \u00e9 um momento em que devemos refletir, no Congresso. Eu vi um v\u00eddeo do nosso Ministro Barroso relatando um caso em que uma pessoa foi acusada de assassinato em 1991, mas o processo dela s\u00f3 chegou ao STF em 2016, ou seja, 25 anos depois, com mais de vinte recursos impetrados.\r\nPortanto, esta Casa tem que fazer o seu dever e reformar o C\u00f3digo Penal e o C\u00f3digo de Processo Penal, para dar objetividade ao juiz.\r\nQuanto \u00e0 discuss\u00e3o sobre quem deve ou n\u00e3o estar na pris\u00e3o, quero dizer que nada tenho a ver com o Presidente Lula, mas entendo o seguinte: a lei tem que ser cumprida e deve ser para todos.\r\nEra o que eu tinha a dizer.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-19T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "POLUI\u00c7\u00c3O AMBIENTAL, PRAIA GRANDE (SP), MUTIR\u00c3O, LIMPEZA.\r\nJO\u00c3O DORIA, GOVERNADOR, S\u00c3O PAULO (ESTADO), PRESIDENTE PRUDENTE (SP), PRESIDENTE VENCESLAU (SP), AGRONEG\u00d3CIO, FRIGOR\u00cdFICO, PRIVATIZA\u00c7\u00c3O, EMPRESA BRASILEIRA DE CORREIOS E TEL\u00c9GRAFOS (ECT), REDE FERROVI\u00c1RIA FEDERAL (RFFSA), BANANAL (SP), TURISMO, CR\u00cdTICA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Conclama\u00e7\u00e3o aos moradores da Baixada Santista para participa\u00e7\u00e3o em a\u00e7\u00e3o de limpeza da Praia Grande, no Estado de S\u00e3o Paulo. Descaso do Governador Jo\u00e3o Doria com as regi\u00f5es de Presidente Prudente e de Presidente Venceslau. Protesto contra a desativa\u00e7\u00e3o da ag\u00eancia da Empresa Brasileira de Correios e Tel\u00e9grafos - ECT do Munic\u00edpio de Bananal, no Estado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, pe\u00e7o que meu discurso seja divulgado pelo programa A Voz do Brasil.\r\nSras. e Srs. Deputados, p\u00fablico que nos assiste pela TV C\u00e2mara, no dia 7 de dezembro n\u00f3s faremos uma a\u00e7\u00e3o de impacto na Praia Grande, uma a\u00e7\u00e3o de limpeza e eu quero conclamar todos da Baixada Santista - Guaruj\u00e1, S\u00e3o Vicente, Cubat\u00e3o - para estar conosco na Praia Guilhermina, a partir das 9 horas da manh\u00e3, para uma grande a\u00e7\u00e3o de limpeza na Praia Grande, que recebe milh\u00f5es e turistas - mas o estado de suas praias n\u00e3o \u00e9 bom.\r\nSr. Presidente, outro assunto que me preocupa \u00e9 o descaso do Governo de S\u00e3o Paulo com duas regi\u00f5es do extremo do Estado, de Presidente Prudente e de Presidente Venceslau, que est\u00e3o abandonadas.\r\nO Governador Jo\u00e3o Doria ainda n\u00e3o adotou decis\u00f5es firmes quanto ao funcionamento do frigor\u00edfico, setor essencial de Presidente Venceslau. Essa regi\u00e3o hoje \u00e9 foco de emigra\u00e7\u00e3o para outras regi\u00f5es do Estado, porque n\u00e3o existe pol\u00edtica voltada para incentivar empresas, principalmente as do agroneg\u00f3cio.\r\nPor outro lado, no outro extremo, a leste, no Vale do Para\u00edba, em Bananal, S\u00e3o Jos\u00e9 do Barreiro, Cunha, Cruzeiro, est\u00e3o lutando com todas as for\u00e7as para reerguer Munic\u00edpios que passam por uma pen\u00faria econ\u00f4mica. E vemos hoje a retirada da ag\u00eancia dos Correios, pela Rede Ferrovi\u00e1ria Federal, da cidade de Bananal, simplesmente por processos de privatiza\u00e7\u00e3o ou por outros motivos.\r\nOras bolas, precisamos entender que existem a lei e o esp\u00edrito. Montesquieu falava do esp\u00edrito das leis. Para que isso? \u00c9 verdade que o patrim\u00f4nio \u00e9 p\u00fablico. Mas o que vai ganhar a Rede Ferrovi\u00e1ria Federal utilizando um im\u00f3vel onde funcionam os Correios da cidade, a \u00fanica ag\u00eancia, e retirar esse servi\u00e7o que atende mais de 10 mil pessoas da regi\u00e3o? Por que n\u00e3o fazer negocia\u00e7\u00f5es para ceder o im\u00f3vel \u00e0 municipalidade de S\u00e3o Jos\u00e9 do Barreiro e de Bananal, que s\u00e3o regi\u00f5es bel\u00edssimas mal exploradas e \u00e0s quais os Governos Estadual e Federal n\u00e3o est\u00e3o dando aten\u00e7\u00e3o?\r\nEste Deputado est\u00e1 levantando a voz dizendo que vamos batalhar para manter n\u00e3o s\u00f3 os Correios na cidade, mas tamb\u00e9m para que o turismo volte a ser a principal atividade dessa regi\u00e3o. Ela merece, \u00e9 bel\u00edssima, mas est\u00e1 mal explorada. Podemos fazer melhor.\r\nContem com este Deputado! Juntos vamos chegar l\u00e1!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F11%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-03T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CANABIDIOL, MEDICAMENTO, AUTORIZA\u00c7\u00c3O, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), CONGRATULA\u00c7\u00c3O.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria - ANVISA pela autoriza\u00e7\u00e3o do registro, importa\u00e7\u00e3o e comercializa\u00e7\u00e3o de medicamentos \u00e0 base de canabidiol.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Deputados, hoje a ANVISA tomou uma medida muito importante: a autoriza\u00e7\u00e3o para importa\u00e7\u00e3o e comercializa\u00e7\u00e3o de medicamentos \u00e0 base de canabidiol. Aparentemente, isso \u00e9 algo pol\u00eamico, mas, se a mesma planta com a qual se fazem drogas, alucin\u00f3genos e outras coisas contest\u00e1veis tem algo bom, n\u00f3s podemos, sim, aproveit\u00e1-la, porque o interesse maior \u00e9 a cura das pessoas, \u00e9 o al\u00edvio dos seus sintomas. Por\u00e9m, a ANVISA foi feliz em proibir o plantio.\r\nParece um paradoxo o que eu estou falando, mas, se um Pa\u00eds n\u00e3o consegue controlar seu n\u00famero de aves, n\u00e3o sabe seu n\u00famero exato de queimadas e nem sequer sabe controlar onde est\u00e3o os outros problemas, como vai controlar o n\u00famero de p\u00e9s autorizados?\r\nPortanto, parab\u00e9ns para a ANVISA, porque foi sensata neste momento que o Pa\u00eds atravessa.\r\nEra isso, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F12%2F2019&txPagina=21&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-16T18:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "GOVERNO, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, ATUA\u00c7\u00c3O, EX\u00c9RCITO, OBRA P\u00daBLICA.\r\nCONSTRU\u00c7\u00c3O CIVIL, REDU\u00c7\u00c3O, DESEMPREGO. \r\nTARC\u00cdSIO GOMES DE FREITAS, MINISTRO DE ESTADO DA INFRAESTRUTURA, REUNI\u00c3O, RECUPERA\u00c7\u00c3O, ROVOVIA FEDERAL, BR 116.\r\nJO\u00c3O D\u00d3RIA, GOVERNADOR, S\u00c3O PAULO (ESTADO), CRONOGRAMA, TREM DE ALTA VELOCIDADE (TAV), RIO DE JANEIRO (ESTADO).",
+        "nomeDeputado": "David Soares",
+        "sumario": "Realiza\u00e7\u00e3o, pelo Ex\u00e9rcito brasileiro, de obras de fundamental import\u00e2ncia para o Brasil. Import\u00e2ncia de retomada da constru\u00e7\u00e3o civil para redu\u00e7\u00e3o dos \u00edndices de desemprego no Pa\u00eds. Expectativa quanto \u00e0 concess\u00e3o pelo Ministro da Infraestrutura, Tarc\u00edsio Gomes de Freitas, de audi\u00eancia ao orador para debate da situa\u00e7\u00e3o da BR-116 (Rodovia Presidente Dutra). Necessidade de apresenta\u00e7\u00e3o, pelo Governador Jo\u00e3o Doria, de cronograma das obras de implanta\u00e7\u00e3o do trem-bala entre os Estados de S\u00e3o Paulo e Rio Janeiro.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. Pe\u00e7o primeiramente a V.Exa. que autorize a divulga\u00e7\u00e3o de meu pronunciamento no programa A Voz do Brasil.\r\nSr. Presidente, eu venho aqui hoje para fazer uma pequena an\u00e1lise de algumas coisas boas que est\u00e3o sendo feitas no Governo Jair Bolsonaro. Uma delas \u00e9 a utiliza\u00e7\u00e3o das tropas do Ex\u00e9rcito em obras que s\u00e3o de fundamental import\u00e2ncia para o Brasil. No Rio Grande do Sul, Estado do meu nobre colega, em Mato Grosso e em tantos outros excelentes projetos o Ex\u00e9rcito est\u00e1 dando uma contribui\u00e7\u00e3o \u00edmpar. Por\u00e9m, isso n\u00e3o \u00e9 suficiente.\r\nEst\u00e1 na hora de se fazer um projeto para trazer de volta, atrav\u00e9s de compliance, as empreiteiras, os grupos que querem investir para o setor acelerar. Enquanto a retomada da constru\u00e7\u00e3o civil n\u00e3o for feita de maneira mais forte, o n\u00famero de desempregados n\u00e3o vai diminuir substancialmente.\r\nAqui vai um recado ao nosso querido Ministro Tarc\u00edsio Freitas. Ressalto que estou esperando h\u00e1 6 meses para ser recebido por S.Exa., e espero que em 2020 consiga receber-me para eu falar um pouco do Estado de S\u00e3o Paulo, que parece estar um pouco esquecido, um pouco abandonado pelo Governo Jair Bolsonaro. Eu tenho certeza de que o Presidente talvez n\u00e3o sabe dessa quest\u00e3o. Inclusive n\u00f3s falamos, na audi\u00eancia p\u00fablica sobre a renova\u00e7\u00e3o da BR-116, a Via Dutra, no trecho entre S\u00e3o Paulo e Rio de Janeiro, sobre as reclama\u00e7\u00f5es que recebemos de l\u00e1.\r\nA Via Dutra, no curso dos seus 70 anos, tornou-se uma rodovia velha, antiquada, em que se gasta muito combust\u00edvel. Inclusive, se ela j\u00e1 tivesse sido duplicada h\u00e1 muito tempo, at\u00e9 no per\u00edodo militar, talvez o Presidente JK estivesse hoje aqui para testemunhar isso e n\u00e3o tivesse sofrido aquela colis\u00e3o fatal em 1976, assim como milhares de pessoas j\u00e1 perderam a vida ali. Deu uma melhorada? Deu, mas a CCR n\u00e3o cumpriu aquilo que foi ordenado quando ganhou a concess\u00e3o da Via Dutra, que era fazer a duplica\u00e7\u00e3o do trecho da Serra das Araras, desde a Baixada Fluminense, em Serop\u00e9dica, at\u00e9 Barra Mansa. N\u00e3o o fez! Deveria apresentar-se agora, Sr. Ministro Tarc\u00edsio, a quadruplica\u00e7\u00e3o do trecho entre S\u00e3o Jos\u00e9 dos Campos e Taubat\u00e9, e n\u00e3o simplesmente a duplica\u00e7\u00e3o existente - \u00e9 preciso que dobre de tamanho.\r\nVenho aqui fazer um clamor ao Governo para reconsiderar a licita\u00e7\u00e3o do trem-bala entre S\u00e3o Paulo e Rio de janeiro. N\u00e3o adianta, n\u00e3o vai resolver a curto prazo a ponte a\u00e9rea, dominada por tr\u00eas grupos que se dividem entre si e n\u00e3o se abrem para ningu\u00e9m. Infelizmente, at\u00e9 agora n\u00e3o tenho visto nenhuma empresa atuar nesse sentido, apesar de o Congresso Nacional ter feito o seu trabalho em rela\u00e7\u00e3o ao mercado dom\u00e9stico local. N\u00f3s temos passagens com pre\u00e7os variando entre mil e 2 mil reais em uma ponte \u00e1rea, um voo de 30 minutos, praticamente o mesmo pre\u00e7o que custa uma passagem de Rio Branco, no Acre, para Bras\u00edlia. \u00c9 um verdadeiro absurdo, um roubo que fazem sobre os nossos bolsos.\r\nEnt\u00e3o, Ministro Tarc\u00edsio, reconsidere a ideia de implementar urgentemente o projeto do trem-bala entre S\u00e3o Paulo e Rio de Janeiro, e n\u00e3o aquela brincadeira que foi feita h\u00e1 10 anos no Governo Lula. Em 2007, Brasil e China lan\u00e7aram-se simultaneamente no projeto do trem-bala. A China hoje est\u00e1 com 1.000 quil\u00f4metros de trem-bala, j\u00e1 chegando ao Tibete. O trecho entre Xangai e Pequim \u00e9 feito em 4 horas, mais de 1.000 quil\u00f4metros de dist\u00e2ncia. O Brasil n\u00e3o tem 1 quil\u00f4metro feito - 1 quil\u00f4metro!\r\nO Governador Jo\u00e3o Doria est\u00e1 pensando em implementar o projeto de um trem regional - \"meio bala\", vamos dizer assim - entre S\u00e3o Paulo e Campinas. At\u00e9 agora n\u00e3o sabemos o cronograma dessa obra. Parece a casa da bagun\u00e7a, ningu\u00e9m sabe nada. Est\u00e1 na hora de o Governo vir aqui e dizer: \"Olhem, esse \u00e9 o cronograma\". Isso at\u00e9 para a popula\u00e7\u00e3o ter um conforto e saber que o Governo est\u00e1 fazendo algo tamb\u00e9m pelo Estado de S\u00e3o Paulo.\r\nN\u00e3o se esque\u00e7a, Presidente Bolsonaro, do Estado de S\u00e3o Paulo. N\u00f3s somos a matriz econ\u00f4mica do Brasil; n\u00f3s somos a locomotiva do Brasil. Queremos ser tratados...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2019&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "ALTER\u00c7\u00c3O, PRAZO PROCESSUAL, MINIST\u00c9RIO P\u00daBLICO, ADVOCACIA P\u00daBLICA, BANCO DE DADOS, EXAME GEN\u00c9TICO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "An\u00fancio da apresenta\u00e7\u00e3o de projetos de lei sobre a altera\u00e7\u00e3o dos prazos processuais do Minist\u00e9rio P\u00fablico e da Advocacia P\u00fablica e sobre a cria\u00e7\u00e3o do Banco Nacional de Identidade por DNA.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, hoje vou fazer o resumo de algumas a\u00e7\u00f5es que estamos propondo para este ano, as quais creio serem da maior envergadura. Uma delas \u00e9 a quest\u00e3o do Judici\u00e1rio.\r\nReclama-se muito da morosidade do Judici\u00e1rio, com certeza. Com raz\u00e3o as pessoas reclamam dessa quest\u00e3o. Um dos projetos de lei que agora se encontra nesta Casa \u00e9 para que a defensoria e a promotoria tratem no mesmo patamar qualquer cidad\u00e3o. Sabemos que o poder p\u00fablico e todas as entidades que o comp\u00f5em no Judici\u00e1rio t\u00eam o prazo em dobro. N\u00e3o h\u00e1 por que ter isso, visto que eles t\u00eam capacidade org\u00e2nica para estarem presentes nos mais de 5 mil Munic\u00edpios, onde quer que a Justi\u00e7a esteja. Portanto, n\u00e3o h\u00e1 por que ter um prazo diferenciado para eles. Ent\u00e3o, esse projeto de lei vem dar equil\u00edbrio a todo cidad\u00e3o, Sr. Presidente.\r\nAntes de encerrar, eu quero comunicar uma quest\u00e3o que n\u00f3s j\u00e1 apresentamos ao Minist\u00e9rio da Justi\u00e7a, que \u00e9 algo que precisa ser debatido. O Minist\u00e9rio da Justi\u00e7a, no projeto anticrime que nos enviou, prop\u00f5e a cria\u00e7\u00e3o de uma base de dados de DNA dos criminosos. Acho que devemos ter uma base de dados de DNA para toda a popula\u00e7\u00e3o. Pensa-se muito no crime, e n\u00e3o \u00e9 errado pensar em evit\u00e1-lo, mas temos que pensar nas dezenas de pessoas que todos os dias desaparecem do nosso Pa\u00eds, cujas fam\u00edlias ficam destro\u00e7adas.\r\nEnt\u00e3o, eu proponho no projeto a cria\u00e7\u00e3o do Banco Nacional de Identidade por DNA. Todo brasileiro que for tirar seu sangue deve ter o seu DNA codificado para que, nesses casos e tantos outros, se facilite a quest\u00e3o m\u00e9dica e a identifica\u00e7\u00e3o. Quest\u00f5es como essas v\u00e3o trazer justi\u00e7a ao cidad\u00e3o e \u00e0 popula\u00e7\u00e3o brasileira.\r\nSr. Presidente, solicito que meu discurso seja divulgado no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-05T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "JO\u00c3O DORIA, GOVERNADOR, S\u00c3O PAULO (ESTADO), ESCOLA P\u00daBLICA, ADES\u00c3O, ESCOLA C\u00cdVICO-MILITAR, CR\u00cdTICA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "N\u00e3o ades\u00e3o do Governador do Estado de S\u00e3o Paulo, Jo\u00e3o Doria, ao Programa Nacional das Escolas C\u00edvico-Militares. Inconformismo do orador com a decis\u00e3o do gestor estadual.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, com a devida v\u00eania, venho aqui hoje lamentar atitude do Governo do Estado de S\u00e3o Paulo acerca de n\u00e3o aderir ao programa de escolas c\u00edvico-militares. No \u00faltimo dia da ades\u00e3o, veio o comunicado da Secretaria de Educa\u00e7\u00e3o pedindo explica\u00e7\u00f5es sobre o processo. Obviamente, entendo eu, \u00e9 uma medida protelat\u00f3ria, uma desculpa para n\u00e3o assumir isso.\r\nVemos claramente que os alunos que fazem parte das escolas c\u00edvico-militares t\u00eam tido desempenho muito maior do que a grande maioria que est\u00e1 em col\u00e9gio p\u00fablico. Eu sou estudante de escola p\u00fablica, Sr. Presidente, passei toda a minha vida estudantil, com exce\u00e7\u00e3o do \u00faltimo ano do ensino m\u00e9dio, em escola p\u00fablica, e sei a diferen\u00e7a gritante do que existe, sei o que o Governo est\u00e1 apresentando quando prop\u00f5e a escola c\u00edvico-militar.\r\nO Governo Jo\u00e3o Doria, portanto, tirou nota zero ao protelar a ades\u00e3o a essa grande proposta.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F2%2F2020&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CULTO RELIGIOSO, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, IGREJA EVANG\u00c9LICA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Comemora\u00e7\u00e3o do 40\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da Igreja Internacional da Gra\u00e7a de Deus.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Obrigado, Presidente Charles Fernandes.\r\nSr. Presidente, Srs. Deputados, nesse \u00faltimo s\u00e1bado n\u00f3s fizemos um grande culto evang\u00e9lico na enseada de Botafogo. Entre 100 e 150 mil pessoas estiveram presentes, celebrando os 40 anos da Igreja Internacional da Gra\u00e7a de Deus, \u00e0 qual desde crian\u00e7a eu perten\u00e7o.\r\nE o importante \u00e9 o clima de paz com que as pessoas foram l\u00e1. Em compara\u00e7\u00e3o aos blocos de carnaval - e aqui n\u00e3o \u00e9 uma cr\u00edtica, participa do carnaval quem quer -, em que mais de 250 pessoas foram presas no Estado de S\u00e3o Paulo, nesse evento nenhuma pessoa foi presa. N\u00e3o h\u00e1 relatos de pessoas que foram furtadas nem assaltadas.\r\nQuando a pessoa celebra Deus, a pessoa est\u00e1 em paz. E esta \u00e9 a mensagem que n\u00f3s viemos trazer: queremos que todas as pessoas tenham uma f\u00e9 ativa, participativa e pessoal com Deus. Essa \u00e9 a mensagem da Igreja Internacional da Gra\u00e7a de Deus.\r\nSr. Presidente, por favor, eu pe\u00e7o que encaminhe esse discurso para o programa A Voz do Brasil.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-03T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MANIFESTA\u00c7\u00c3O DE PESAR, BAIXADA SANTISTA, DESASTRE AMBIENTAL, CHUVA, V\u00cdTIMA, S\u00c3O PAULO (ESTADO), GOVERNO ESTADUAL, CR\u00cdTICA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Trag\u00e9dia ocorrida na Baixada Santista em decorr\u00eancia das fortes chuvas, no Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, venho aqui hoje manifestar meu pesar pelas fortes chuvas que atingiram a Baixada Santista. At\u00e9 o momento, j\u00e1 s\u00e3o 12 mortos e aproximadamente 50 desaparecidos. \u00c9 uma verdadeira trag\u00e9dia, uma trag\u00e9dia anunciada.\r\nTemos falado aqui da quest\u00e3o do lixo, da quest\u00e3o do assoreamento dos rios, da quest\u00e3o, principalmente, do trato da m\u00e1quina p\u00fablica quanto \u00e0 conserva\u00e7\u00e3o, \u00e0 amplia\u00e7\u00e3o dos rios e das calhas. Infelizmente, pouco tem sido feito. E hoje vimos com essa triste not\u00edcia da Baixada Santista, de Santos, Cubat\u00e3o, Praia Grande, que foi duramente atingida. Ali\u00e1s, as chuvas t\u00eam atingido a cidade de S\u00e3o Paulo, tem atingido a Grande S\u00e3o Paulo. Infelizmente, a resposta do poder p\u00fablico tem sido m\u00ednima.\r\nDeixo aqui os meus votos de protesto e de pesar.\r\nSr. Presidente, pe\u00e7o que esse meu pronunciamento seja divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F3%2F2020&txPagina=30&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-12T09:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "COMBUST\u00cdVEL, PRE\u00c7O, PETR\u00d3LEO BRASILEIRO (PETROBRAS), INVESTIGA\u00c7\u00c3O, CONSELHO ADMINISTRATIVO DE DEFESA ECON\u00d4MICA (CADE), SECRETARIA NACIONAL DO CONSUMIDOR (SENACON), MINIST\u00c9RIO P\u00daBLICO FEDERAL (MPF), SOLICITA\u00c7\u00c3O.\r\nDESAPROPRIA\u00c7\u00c3O, REEXAME, EMPRESA BRASILEIRA DE CORREIOS E TEL\u00c9GRAFOS (ECT), BANANAL (SP), SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Solicita\u00e7\u00e3o ao Conselho Administrativo de Defesa Econ\u00f4mica - CADE, \u00e0 Secretaria Nacional do Consumidor e ao Minist\u00e9rio P\u00fablico Federal, de investiga\u00e7\u00e3o das raz\u00f5es da manuten\u00e7\u00e3o, pela empresa Petr\u00f3leo Brasileiro S/A - PETROBRAS, dos pre\u00e7os de combust\u00edveis ao consumidor final tendo em vista \u00e0 redu\u00e7\u00e3o do valor do barril de petr\u00f3leo no mercado internacional. Pedido ao presidente da Empresa Brasileira de Correios e Tel\u00e9grafos - ECT de reexame a desapropria\u00e7\u00e3o de im\u00f3vel no Munic\u00edpio de Bananal, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, eu quero fazer um esclarecimento a respeito de uma fala minha nesta semana a respeito dos combust\u00edveis. \r\nDe forma surpreendente, a PETROBRAS ainda n\u00e3o baixou 1 centavo no valor da gasolina que chega \u00e0s refinarias. Sr. Presidente, de 2 semanas para c\u00e1, o valor do barril do petr\u00f3leo desceu praticamente a n\u00edveis de quase 30 anos atr\u00e1s. O barril do petr\u00f3leo est\u00e1 custando, em m\u00e9dia, 30 d\u00f3lares. Antes custava entre 50 d\u00f3lares e 60 d\u00f3lares. N\u00e3o existe justificativa para a PETROBRAS manter o pre\u00e7o da gasolina no n\u00edvel em que est\u00e1.\r\nEu j\u00e1 encaminhei um pedido de investiga\u00e7\u00e3o ao Conselho Administrativo de Defesa Econ\u00f4mica - CADE, \u00e0 Secretaria Nacional do Consumidor e ao Minist\u00e9rio P\u00fablico Federal, para que iniciem um procedimento investigat\u00f3rio, a fim de saber o porqu\u00ea desse procedimento da PETROBRAS, que disse que acompanharia os pre\u00e7os do mercado internacional. Na pr\u00e1tica, quando abaixa o pre\u00e7o do petr\u00f3leo, infelizmente isso n\u00e3o est\u00e1 sendo aplicado da mesma forma ao consumidor brasileiro.\r\nSr. Presidente, eu gostaria tamb\u00e9m de fazer um apelo ao Presidente dos Correios, relativo \u00e0 cidade de Bananal, localizada no nosso Vale do Para\u00edba. Pedimos encarecidamente que reveja a proposta de retomar o im\u00f3vel pertencente aos Correios em que havia uma esta\u00e7\u00e3o, que \u00e9 um cart\u00e3o postal dessa linda cidade, que \u00e9 uma inst\u00e2ncia tur\u00edstica, um local de fazendas seculares, uma coisa bel\u00edssima.\r\nInclusive, convido todos os Deputados a conhecerem a regi\u00e3o de Bananal, Arape\u00ed, S\u00e3o Jos\u00e9 do Barreiro, uma regi\u00e3o de trilhas, para onde v\u00e3o milhares de turistas todos os anos.\r\nEste \u00e9 o \u00fanico cart\u00e3o postal, e os Correios querem desapropriar o im\u00f3vel, querem tir\u00e1-lo do comando da cidade e vend\u00ea-lo. H\u00e1 limite para tudo na vida! Eu acho que chegamos ao limite.\r\nPortanto, eu pe\u00e7o sensibilidade \u00e0 Presid\u00eancia dos Correios para que avalie esse meu pedido e deixe a Prefeitura continuar no im\u00f3vel, onde est\u00e1 a antiga esta\u00e7\u00e3o de trens.\r\nEra isso, Sr. Presidente.\r\nPe\u00e7o a V.Exa. que encaminhe o meu discurso para o programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F3%2F2020&txPagina=26&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.\r\nASSIS CARVALHO, DEPUTADO FEDERAL, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 13, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020. Votos de pronta recupera\u00e7\u00e3o da sa\u00fade ao Presidente Jair Bolsonaro, acometido pela COVID-19. Falecimento do Deputado Assis Carvalho.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Democratas acompanha o relat\u00f3rio e vota \"n\u00e3o\" \u00e0 emenda. \r\nAnexo a esta declara\u00e7\u00e3o de voto, trazemos os meus votos de estima \u00e0 recupera\u00e7\u00e3o da sa\u00fade do nosso Presidente, que foi diagnosticado, infelizmente, com a COVID-19. \r\nExpresso, mais uma vez, os meus votos de pesar pela perda do nosso colega l\u00e1 do Piau\u00ed. Que Deus conforte a sua fam\u00edlia!\r\nMais uma vez, o Democratas vota \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 18, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, apesar de a emenda ser extremamente merit\u00f3ria, o Democratas pensa que deixar a unidade de ensino decidir a respeito disso vai dar especificidade na quest\u00e3o dos Munic\u00edpios. Portanto, n\u00f3s somos contr\u00e1rios \u00e0 emenda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-07T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 934/2020, MEDIDA PROVIS\u00d3RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 6, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 934, de 2020, acerca do estabelecimento de normas excepcionais relativas ao ano letivo da educa\u00e7\u00e3o b\u00e1sica e do ensino superior, decorrentes das medidas de enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia de sa\u00fade  p\u00fablica constantes na Lei n\u00ba 13.979, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o DEM encaminha \"n\u00e3o\", sabendo que cada coisa tem o seu devido momento. O MEC vai se organizar, o Governo vai se organizar. Portanto, deixemos o Governo definir a quest\u00e3o dessas datas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, ACORDO, PAGAMENTO, PRECAT\u00d3RIO, DESCONTO, RECURSOS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, EMENDA, ORGANIZA\u00c7\u00c3O RELIGIOSA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Pedido \u00e0 Casa de aprova\u00e7\u00e3o de emendas de interesse das institui\u00e7\u00f5es religiosas, oferecidas pelo orador ao Projeto de Lei n\u00ba 1.581, de 2020, a respeito do disciplinamento do acordo com credores para o pagamento com desconto de precat\u00f3rios federais; do acordo terminativo de lit\u00edgio contra a Fazenda P\u00fablica; da destina\u00e7\u00e3o dos recursos oriundos para o combate \u00e0 Covid-19 durante a vig\u00eancia do estado de calamidade p\u00fablica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.689, de 1988, e 8.212, de 1991.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, j\u00e1 estamos chegando \u00e0 conclus\u00e3o desta mat\u00e9ria, \u00e0 qual foram apresentados pela minha pessoa dois destaques.\r\n Por que apresentei esses dois destaques? H\u00e1 mais de 5 anos, estamos vendo uma repeti\u00e7\u00e3o, de forma indevida, de lan\u00e7amentos fiscais por parte do \u00f3rg\u00e3o fiscalizador do Governo, desrespeitando regramento aprovado nesta Casa e n\u00e3o interpretando aquilo que a Lei Maior do nosso Pa\u00eds estabelece no art. 150.\r\nPara corrigir esse problema, para fazer justi\u00e7a \u00e0s institui\u00e7\u00f5es que fazem o maior trabalho social do Brasil, para n\u00e3o dizer do mundo, a recupera\u00e7\u00e3o de milhares de pessoas, mesmo fazendo esse trabalho, n\u00f3s estamos sendo tratados como empresas com fins lucrativos, sendo que quase 90% de todas as institui\u00e7\u00f5es religiosas no Brasil mal sobrevivem.\r\nPortanto, eu quero, antes de mais nada, agradecer ao Relator, Deputado F\u00e1bio Trad, que entendeu a constitucionalidade dessas emendas apresentadas pela minha pessoa; agradecer a todos que est\u00e3o nos apoiando, principalmente ao nosso Presidente da Frente Parlamentar Evang\u00e9lica do Congresso Nacional, Deputado Silas C\u00e2mara, ao Deputado Cesinha, ao Deputado Luis Miranda e a tantos outros, que entenderam que \u00e9 justo, que \u00e9 digno, que \u00e9 preciso corrigir uma injusti\u00e7a feita h\u00e1 muito tempo.\r\nPara V.Exa. ter uma ideia, Sr. Presidente, as igrejas evang\u00e9licas no Brasil hoje est\u00e3o presentes em locais muito perigosos, como a L\u00edbia, a pr\u00f3pria S\u00edria, onde h\u00e1 dezenas de mission\u00e1rios trabalhando at\u00e9 de forma subterr\u00e2nea, mas estamos sendo agravados, de forma fiscal, por enviar recursos para aqueles coitados que est\u00e3o l\u00e1 sacrificando suas vidas para tentar ajudar milhares de pessoas oprimidas por quest\u00f5es pol\u00edticas.\r\nO que estou fazendo aqui \u00e9 sinal de justi\u00e7a. Ningu\u00e9m est\u00e1 criando benef\u00edcio algum. N\u00f3s estamos executando a lei aprovada por esta Casa, mas que a casa fiscal maior do Brasil recusa-se a cumprir. Ela rasga a Constitui\u00e7\u00e3o, interpreta-a do seu pr\u00f3prio jeito. E n\u00e3o \u00e9 a primeira vez que isso foi feito, j\u00e1 foi feito de forma repetida. Foram elencados aqui fatos relacionados ao CARF, casos em que n\u00f3s fazemos as leis e eles as reescrevem. Est\u00e1 na hora de dar um basta nisso. Est\u00e1 na hora de praticar a lei e cumprir a Constitui\u00e7\u00e3o da Rep\u00fablica Federativa do Brasil.\r\n\u00c9 por isso que apresentei essas duas emendas. E pe\u00e7o a compreens\u00e3o de todos os 512 colegas para juntos aprovarmos essas emendas.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=143&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO, PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, ACORDO, PAGAMENTO, PRECAT\u00d3RIO, DESCONTO, RECURSOS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Alcance do n\u00famero regimental exigido para a admissibilidade da Emenda de Plen\u00e1rio n\u00ba 13, apresentada pelo orador ao Projeto de Lei n\u00ba 1.581, de 2020, a respeito do disciplinamento do acordo com credores para o pagamento com desconto de precat\u00f3rios federais; do acordo terminativo de lit\u00edgio contra a Fazenda P\u00fablica; da destina\u00e7\u00e3o dos recursos oriundos para o combate \u00e0 Covid-19 durante a vig\u00eancia do estado de calamidade p\u00fablica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.689, de 1988, e 8.212, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu gostaria de fazer uma quest\u00e3o de ordem exatamente sobre essa quest\u00e3o que V.Exa. j\u00e1 suscitou: a Emenda n\u00ba 13 tem apoiamento, sim, inclusive o Deputado Luis Miranda a assinou, confirmando o n\u00famero de apoiamentos necess\u00e1rios para que ela seja admitida.\r\nEra isso, Presidente. \r\nO SR. PRESIDENTE (Hildo Rocha. Bloco/MDB - MA) - V.Exa. se refere \u00e0 Emenda n\u00ba 13?\r\nO SR. DAVID SOARES (Bloco/DEM - SP) - Sim, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=149&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS  (DEM), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo adotado pela Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o ao Projeto de Lei n\u00ba 1.581, de 2020, a respeito do disciplinamento do acordo com credores para o pagamento com desconto de precat\u00f3rios federais; do acordo terminativo de lit\u00edgio contra a Fazenda P\u00fablica; da destina\u00e7\u00e3o dos recursos oriundos para o combate \u00e0 Covid-19 durante a vig\u00eancia do estado de calamidade p\u00fablica, reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e da altera\u00e7\u00e3o das Leis de n\u00bas 7.689, de 1988, e 8.212, de 1991, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sr. Relator, o DEM vem se posicionar favoravelmente ao projeto, vem corrigir uma s\u00e9rie de injusti\u00e7as que havia muito tempo precisavam ser atacadas. Os destaques tamb\u00e9m v\u00eam dar, digamos assim, um coroamento a um projeto bem feito.\r\nMais uma vez, parab\u00e9ns ao nobre Relator F\u00e1bio Trad pela relatoria, embora n\u00e3o tenha acatado uma emenda minha, que entendo era plaus\u00edvel. Isso n\u00f3s discutiremos depois.\r\nO projeto em si est\u00e1 muito bem trabalhado. Portanto, o DEM se posiciona favoravelmente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=158&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO , PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 1, apresentada ao Projeto de Lei n\u00ba 1.581, de 2020, sobre o disciplinamento do acordo com credores para o pagamento com desconto de precat\u00f3rios federais, bem como do acordo terminativo de lit\u00edgio contra a Fazenda P\u00fablica; e sobre a destina\u00e7\u00e3o dos recursos oriundos para o combate \u00e0 Covid-19, durante a vig\u00eancia do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e a altera\u00e7\u00e3o das Leis de n\u00bas 7.689, de 1988, e 8.212, de 1991.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, encaminho \"sim\". \r\nConvido os colegas a me acompanharem. J\u00e1 foi plenamente explicada a necessidade, a injusti\u00e7a, a quest\u00e3o humanit\u00e1ria, t\u00e9cnica e constitucional que estamos defendendo, de que o Governo, at\u00e9 ent\u00e3o, n\u00e3o estava ciente. Mas, agora, eu creio que o Governo entendeu a necessidade. Juntos, vamos chegar a isso.\r\nPortanto, o encaminhamento \u00e9 \"sim\" \u00e0 emenda, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=190&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T21:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO , PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, ACORDO, PAGAMENTO, PRECAT\u00d3RIO, DESCONTO, RECURSOS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, FAVOR\u00c1VEL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Agradecimento a Casa pelo apoio \u00e0 aprova\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 1, oferecida ao Projeto de Lei n\u00ba 1.581, de 2020, sobre o disciplinamento do acordo com credores para o pagamento com desconto de precat\u00f3rios federais, bem como do acordo terminativo de lit\u00edgio contra a Fazenda P\u00fablica; e sobre a destina\u00e7\u00e3o dos recursos oriundos para o combate \u00e0 Covid-19, durante a vig\u00eancia do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020; e a altera\u00e7\u00e3o das Leis de n\u00bas 7.689, de 1988, e 8.212, de 1991.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres Deputados, quero expressar o meu agradecimento, independentemente do resultado desta vota\u00e7\u00e3o, a todos pelo esfor\u00e7o: agrade\u00e7o ao Deputado Marcelo Ramos, ao L\u00edder, ao Presidente Rodrigo Maia, ao Deputado Silas C\u00e2mara, ao Deputado Cezinha, \u00e0 bancada feminina, em especial \u00e0s Deputadas Dorinha, Joenia e Rosangela, enfim, s\u00e3o tantos que eu n\u00e3o consigo citar todos os nomes. Obrigado pelo esfor\u00e7o.\r\nEu acho que n\u00f3s n\u00e3o estamos trabalhando em prol de uma pessoa ou de uma institui\u00e7\u00e3o. Estamos trabalhando por uma causa que h\u00e1 anos est\u00e1 sendo injusti\u00e7ada. A C\u00e2mara est\u00e1 reconhecendo que \u00e9 aqui que se fazem as leis, que \u00e9 aqui que se decide como as leis v\u00e3o ser cumpridas, e n\u00e3o l\u00e1 fora. Ningu\u00e9m tem o poder de fazer lei a n\u00e3o ser o Congresso Nacional, que n\u00e3o vai abrir m\u00e3o de suas prerrogativas. \u00c0quele que tentar fazer diferente, n\u00f3s vamos mostrar que n\u00f3s temos mandato, que nos foi dado pelo povo, que temos representa\u00e7\u00e3o para isso. Fomos eleitos democraticamente e, de forma democr\u00e1tica, estamos provando qual \u00e9 a vontade do povo, por meio do nosso voto.\r\nObrigado, Sr. Presidente, pela condu\u00e7\u00e3o dos trabalhos. Obrigado a todos que me apoiaram. Que Deus aben\u00e7oe a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=207&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-04T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PORTO, BEIRUTE, L\u00cdBANO, EXPLOS\u00c3O.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Solidariedade ao povo liban\u00eas diante da recente trag\u00e9dia ocorrida na capital Beirute.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, hoje recebemos uma triste not\u00edcia.\r\nEu, como Presidente do Grupo Parlamentar Brasil/Pa\u00edses \u00c1rabes, venho manifestar minhas condol\u00eancias ao povo do L\u00edbano, devido ao ocorrido hoje \u00e0 tarde em Beirute. Houve uma explos\u00e3o de grandes propor\u00e7\u00f5es, que destruiu grande parte da cidade. J\u00e1 se contam centenas e caminha-se para milhares de pessoas feridas e dezenas de mortos, que continuam se acumulando. Beirute virou uma cidade completamente arrasada, que volta praticamente aos tempos da guerra civil.\r\nVenho manifestar minhas condol\u00eancias a essa cidade bel\u00edssima, que tive a oportunidade de conhecer no ano passado. \r\nO Brasil se coloca \u00e0 disposi\u00e7\u00e3o, assim como o Congresso Nacional, que, de forma t\u00e3o propositiva, com a visita de V.Exa. no ano passado, Sr. Presidente, tem colaborado para o fortalecimento das rela\u00e7\u00f5es entre duas na\u00e7\u00f5es amigas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F8%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-11T18:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 983/2020, MEDIDA PROVIS\u00d3RIA, ASSINATURA ELETR\u00d4NICA, DOCUMENTO, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, COMUNICA\u00c7\u00c3O DIGITAL, CIDAD\u00c3O, PODER P\u00daBLICO, CRIT\u00c9RIO, UTILIZA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS, APRECIA\u00c7\u00c3O DE PROPOSI\u00c7\u00c3O.\r\nMPV 952/2020, MEDIDA PROVIS\u00d3RIA, PRORROGA\u00c7\u00c3O, PRAZO, EMPRESA, TELECOMUNICA\u00c7\u00d5ES, PAGAMENTO, TRIBUTO, TAXA DE FISCALIZA\u00c7\u00c3O DE FUNCIONAMENTO (TFF), CONTRIBUI\u00c7\u00c3O PARA O FOMENTO DA RADIODIFUS\u00c3O P\u00daBLICA (CFRP), CONTRIBUI\u00c7\u00c3O PARA O FOMENTO DA RADIODIFUS\u00c3O P\u00daBLICA (CFRP), SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES, CRISE, PANDEMIA, CORONAV\u00cdRUS, TRIBUTA\u00c7\u00c3O, DISCUSS\u00c3O, NECESSIDADE.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Aprecia\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 983, de 2020, sobre as assinaturas eletr\u00f4nicas em comunica\u00e7\u00f5es com entes p\u00fablicos e em quest\u00f5es de sa\u00fade, e sobre as licen\u00e7as de softwares  por eles desenvolvidos. Protesto contra a n\u00e3o discuss\u00e3o da Medida Provis\u00f3ria n\u00ba 952, de 2020, relativa \u00e0 prorroga\u00e7\u00e3o do prazo de pagamento de tributos incidentes sobre a presta\u00e7\u00e3o de servi\u00e7os de telecomunica\u00e7\u00f5es.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, hoje estamos fazendo um importante debate sobre a Medida Provis\u00f3ria n\u00ba 983, de 2020, que d\u00e1 ao poder p\u00fablico rapidez de que ele precisa.\r\nMas venho aqui expressar um pouco da minha tristeza pela n\u00e3o discuss\u00e3o da MP 952/20, que trata de um tema de extrema import\u00e2ncia, principalmente para o setor de comunica\u00e7\u00f5es, que, neste per\u00edodo de pandemia, est\u00e1 enfrentando grav\u00edssimas situa\u00e7\u00f5es. \u00c9 importante dizer que esse setor emprega milhares de pessoas, e est\u00e1 sobrevivendo neste momento t\u00e3o cr\u00edtico.\r\nExige-se do Governo uma resposta r\u00e1pida para resolver as relevantes quest\u00f5es concernentes a esse caso, a fim de que continue a ser oferecida ao p\u00fablico brasileiro uma variedade de informa\u00e7\u00f5es de qualidade e n\u00e3o a simples fala supostamente verdadeira de algu\u00e9m, em que muitas vezes h\u00e1 manipula\u00e7\u00e3o, de forma a levar o povo a uma negatividade.\r\nAqui fica o meu protesto, Sr. Presidente.\r\nDesejo a todos bom trabalho no dia de hoje.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2020&txPagina=41&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-07T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "GOVERNO ESTADUAL, S\u00c3O PAULO (ESTADO), VACINA\u00c7\u00c3O, VACINA, ELOGIO.\r\nAPROVA\u00c7\u00c3O, MPV 996/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA CASA VERDE E AMARELA, ELOGIO.\r\nGOVERNO FEDERAL, BOLSA FAM\u00cdLIA, INCLUS\u00c3O DIGITAL, MERCADO DE TRABALHO, EDUCA\u00c7\u00c3O E FORMA\u00c7\u00c3O PROFISSIONAL.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Aprova\u00e7\u00e3o pela Casa da Medida Provis\u00f3ria n\u00ba 996, de 2020, sobre a institui\u00e7\u00e3o do Programa Casa Verde e Amarela, destinado \u00e0 aquisi\u00e7\u00e3o da casa pr\u00f3pria para fam\u00edlias residentes nas \u00e1reas rural e urbana. Estabelecimento de di\u00e1logo com o Governo Federal para incrementa\u00e7\u00e3o do Programa Bolsa Fam\u00edlia. Necessidade de inclus\u00e3o digital dos trabalhadores brasileiros, com vista ao novo mercado de trabalho p\u00f3s-pandemia. Elogio ao Governo do Estado de S\u00e3o Paulo pela iniciativa de vacina\u00e7\u00e3o da popula\u00e7\u00e3o contra a Covid-19.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer um comunicado. Acabou de ser votado o PL que cria o Casa Verde e Amarela, que \u00e9 um projeto muito bom e n\u00f3s o estamos ampliando. E tamb\u00e9m estamos conversando com o Governo sobre turbinar o Bolsa Fam\u00edlia. Tudo isso \u00e9 muito bom. Mas se n\u00f3s n\u00e3o fizermos esses projetos de forma que n\u00f3s preparemos a nossa popula\u00e7\u00e3o para a inclus\u00e3o digital e tamb\u00e9m para o novo mercado de trabalho que surgir\u00e1 ap\u00f3s a pandemia, n\u00f3s vamos simplesmente jogar dinheiro no ralo, dar dinheiro para birita, dar dinheiro para as pessoas se divertirem em festinhas, e n\u00e3o para o essencial, que \u00e9 a forma\u00e7\u00e3o profissional, a atualiza\u00e7\u00e3o que precisa ser feita.\r\nQuanto \u00e0 quest\u00e3o das vacinas, que o Estado de S\u00e3o Paulo j\u00e1 est\u00e1 apresentando, devemos, sim, elogiar a iniciativa, porque as vacinas, venham de onde vierem, t\u00eam que trazer a imuniza\u00e7\u00e3o para termos de volta a normalidade que a vida tanto merece.\r\nAgrade\u00e7o a V.Exa. por este minuto, Presidente.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F12%2F2020&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-02T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AUX\u00cdLIO EMERGENCIAL, S\u00c3O PAULO (ESTADO), CONTR\u00c1RIO, LOCKDOWN, COM\u00c9RCIO, JO\u00c3O DORIA, GOVERNADOR, POL\u00cdCIA MILITAR, PERIFERIA URBANA, PANDEMIA, CORONAV\u00cdRUS, SA\u00daDE P\u00daBLICA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Urgente retomada do pagamento do aux\u00edlio emergencial a fam\u00edlias e trabalhadores atingidos pela epidemia de coronav\u00edrus. Preju\u00edzos causados aos comerciantes pela decreta\u00e7\u00e3o de lockdown  em S\u00e3o Paulo, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Presidente, senhores que nos escutam, toda a popula\u00e7\u00e3o, n\u00f3s somos un\u00e2nimes em afirmar que o Brasil precisa do aux\u00edlio emergencial. As minhas andan\u00e7as pelas cidades do interior de S\u00e3o Paulo mostram claramente isso. A popula\u00e7\u00e3o clama por isso. Por outro lado, precisa haver razoabilidade tamb\u00e9m dos Governadores.\r\nTenho apelado para que n\u00e3o se decrete o lockdown. O lockdown \u00e9 uma medida que vai destruir para sempre o com\u00e9rcio. Estamos falando de uma classe de pessoas que j\u00e1 est\u00e3o sangrando e n\u00e3o t\u00eam mais o luxo.\r\nSe quiserem, apertem, dificultem, limitem os hor\u00e1rios, fa\u00e7am o que for. Mas, Srs. Governadores, e, especialmente, Sr. Governador Jo\u00e3o Doria, n\u00e3o decrete o lockdown no Estado de S\u00e3o Paulo. S\u00e3o Paulo precisa trabalhar. Decrete, sim, o fim dos pancad\u00f5es. Ponha a Pol\u00edcia Militar nas periferias, porque l\u00e1, realmente, as pessoas est\u00e3o desantenadas em rela\u00e7\u00e3o ao que acontece no Brasil.\r\nSr. Presidente, pe\u00e7o que encaminhe o meu discurso, por favor, para ser divulgado no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T10:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SOLIDARIEDADE, ISRAEL, AGRESS\u00c3O, LAN\u00c7A-FOGUETE, PALESTINA, GUERRA.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Solidariedade ao Estado de Israel diante de ataques b\u00e9licos da  Palestina.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Srs. Parlamentares, venho, no dia de hoje, assim como v\u00e1rios colegas tamb\u00e9m vir\u00e3o, fazer uma nota de desagravo \u00e0 quest\u00e3o que est\u00e1 sucedendo no Oriente M\u00e9dio. Muito se falou da agress\u00e3o de Israel, mas, na verdade, esqueceu-se que Israel foi atingido por mais de 4 mil foguetes. Obviamente o sistema militar do pa\u00eds foi bem sucedido e repeliu quase todos eles.\r\nAli existe uma quest\u00e3o muito antiga, e n\u00e3o acho que n\u00f3s estejamos preparados para julgar nem um, nem outro. Aquele \u00e9 um Estado soberano, tem as suas leis e deve se haver com elas. \u00c9 \u00f3bvio que isso n\u00e3o \u00e9 um aval para se cometer viol\u00eancia, de forma nenhuma, mas culpar Israel da infeliz morte de centenas de pessoas \u00e9 tamb\u00e9m ter um olhar m\u00edope.\r\nEnt\u00e3o, Sra. Presidente, deixo aqui a minha nota de desagravo. O Estado de Israel tem o direito de se defender das agress\u00f5es. Israel n\u00e3o come\u00e7ou atacando Gaza com foguetes. Gaza foi quem come\u00e7ou a jogar foguetes sobre Israel.\r\nDesde 1948, Israel cumpre a promessa b\u00edblica do seu restabelecimento. Portanto, tem o direito legal internacional de se defender. H\u00e1 leis no pa\u00eds, h\u00e1 tribunais, h\u00e1 sistema judici\u00e1rio, onde cada um pode pelear. Nenhum outro Estado ou regi\u00e3o aut\u00f4noma tem o direito de intervir numa na\u00e7\u00e3o pr\u00f3spera e soberana que cumpre o mandato de Deus sobre esta terra.\r\nQue Deus aben\u00e7oe Israel e que a paz reine n\u00e3o somente para Israel, mas para a Palestina e para todo o Oriente M\u00e9dio. Que Deus os aben\u00e7oe!\r\nSra. Presidente, pe\u00e7o que encaminhe meu discurso para o programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T12:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, CONTR\u00c1RIO, SUBSTITUTIVO, RELATOR, LEGALIZA\u00c7\u00c3O, DESCRIMINALIZA\u00c7\u00c3O, PLANTIO, PL 399/2015, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI ANTIDROGAS (2006), CRIT\u00c9RIO, COMERCIALIZA\u00c7\u00c3O, MEDICAMENTO, PRINC\u00cdPIO ATIVO, SUBST\u00c2NCIA, MACONHA, CANABIDIOL, SA\u00daDE P\u00daBLICA, TRATAMENTO M\u00c9DICO, PORTUGAL, HAXIXE, AG\u00caNCIA NACIONAL DE VIGIL\u00c2NCIA SANIT\u00c1RIA (ANVISA), S\u00c3O PAULO (ESTADO), RIO DE JANEIRO (ESTADO), CORONAVAC, LABORAT\u00d3RIO, GRATUIDADE, IMPORTA\u00c7\u00c3O.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Debate do Projeto de Lei n\u00ba 399, de 2015, sobre a comercializa\u00e7\u00e3o de medicamentos formulados com a planta Cannabis sativa.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. DAVID SOARES (Bloco/DEM - SP) - Sr. Presidente, Srs. Parlamentares, finalmente estamos tendo a oportunidade de trazer a verdade dos fatos sobre o PL 399. \u00c9 um PL merit\u00f3rio na sua g\u00eanese, mas, na sua evolu\u00e7\u00e3o, vamos dizer assim, na linguagem darwiniana, ele come\u00e7ou a trazer uma s\u00e9rie de equ\u00edvocos e se tornou um projeto comercial, potencialmente comercial, e exponencialmente perigoso para o Brasil.\r\nDe todos os pa\u00edses hoje que est\u00e3o com essa liberalidade, eu posso citar Portugal. Eu vivi em Portugal h\u00e1 20 anos. Portugal onde eu vivi h\u00e1 20 anos era totalmente diferente de hoje. Voc\u00ea vai \u00e0 Pra\u00e7a do Com\u00e9rcio, hoje, virou a Pra\u00e7a do Haxixe, onde negociantes, na sua maioria marroquinos, vendem abertamente haxixe. Isso \u00e9 uma das quest\u00f5es que se abre quando se permite o plantio.\r\nN\u00e3o h\u00e1 ningu\u00e9m nesta Comiss\u00e3o que seja contr\u00e1rio ao rem\u00e9dio, ao canabidiol, mas n\u00f3s n\u00e3o temos condi\u00e7\u00f5es, num Pa\u00eds em que h\u00e1 evid\u00eancia de falta de fiscaliza\u00e7\u00e3o, de controlar a poss\u00edvel libera\u00e7\u00e3o desse plantio.\r\nO canabidiol, quando mal processado, contendo mais de 0,3% de THC, torna-se viciante. Essa \u00e9 a quest\u00e3o. Essa institui\u00e7\u00e3o, que j\u00e1 foi mencionada como refer\u00eancia no Brasil, teve a sua liminar cassada na Justi\u00e7a a pedido da pr\u00f3pria ANVISA, sob o argumento de que n\u00e3o tem como controlar o plantio.\r\nNa verdade, h\u00e1 grupos criminosos do Rio e de S\u00e3o Paulo - n\u00e3o preciso mencionar o nome deles, porque todos j\u00e1 conhecem - que est\u00e3o \u00e1vidos, \u00e1vidos - essa \u00e9 a palavra - pela libera\u00e7\u00e3o do plantio, porque v\u00e3o fazer um estrago. N\u00f3s vemos no centro de S\u00e3o Paulo not\u00edcias de que se vendem vacinas da CoronaVac obviamente falsas.\r\nImaginem que agora come\u00e7ar\u00e3o a vender, entre aspas, \"medicamentos\" \u00e0 base de canabidiol. N\u00e3o h\u00e1 como controlar.\r\nE, por \u00faltimo, j\u00e1 falei ene vezes e volto a falar: j\u00e1 se consegue sintetizar em laborat\u00f3rio o canabidiol. A Universidade de Berkeley j\u00e1 fez com sucesso. Pesquisadores aqui no Brasil j\u00e1 est\u00e3o desenvolvendo, e no pr\u00f3ximo ano j\u00e1 o ter\u00e3o dispon\u00edvel.\r\nEnt\u00e3o, a minha sugest\u00e3o \u00e9: precisamos do medicamento? Precisamos. Isso \u00e9 ponto pac\u00edfico aqui entre todos. Que liberemos, como a ANVISA j\u00e1 liberou, sem custo nenhum, sem nenhuma taxa de importa\u00e7\u00e3o, sem ICMS. Que venhamos a fazer este acordo, para que essas pessoas possam adquirir o canabidiol a pre\u00e7os decentes, n\u00e3o pagando 2 mil reais, que, sim, concordo, \u00e9 uma imoralidade. E essas pessoas precisam? Precisam. Os efeitos s\u00e3o positivos? S\u00e3o. Com certeza s\u00e3o. Ningu\u00e9m aqui est\u00e1 discutindo isso. Eu n\u00e3o sou m\u00e9dico para discutir sobre isso. Mas j\u00e1 temos sinaliza\u00e7\u00f5es positivas da medicina de que ser\u00e1 poss\u00edvel produzir em laborat\u00f3rio.\r\nOra, abram-se os laborat\u00f3rios brasileiros, abram-se at\u00e9 o Vital Brasil, a FIOCRUZ, o Butantan e tantos outros que possam entrar nisso a\u00ed para uma produ\u00e7\u00e3o verdadeira, sem riscos e sem, principalmente, abrir para que o plantio se generalize no Brasil, porque a\u00ed, sim, vamos ver o que a potencializa\u00e7\u00e3o dessa droga faz na vida das pessoas. Eu cresci numa localidade onde vizinhos meus usavam narc\u00f3ticos, e eu via, por v\u00e1rias vezes, os surtos que eles tinham. Desculpem-me dizer isso.\r\nMaconha faz bem? A maconha acaba com a vida das pessoas. Nas igrejas, recebemos diariamente pessoas v\u00edtimas dessa destrui\u00e7\u00e3o, e n\u00f3s estamos ajudando a cur\u00e1-las, ajudando a libert\u00e1-las, dando-lhes uma perspectiva diferente.\r\nAqui eu n\u00e3o vou falar de religi\u00e3o, mas falo, sim, da potencializa\u00e7\u00e3o que esse problema causa \u00e0s pessoas. Portanto, a permiss\u00e3o para importar sem custo \u00e9 a melhor solu\u00e7\u00e3o hoje. E a pr\u00f3pria medicina, em curto prazo, oferecer\u00e1 a solu\u00e7\u00e3o para o laborat\u00f3rio.\r\nSr. Presidente, termino advogando que o melhor para o Brasil \u00e9 deixar a ANVISA cuidar disso, e ela cuida muito bem da nossa popula\u00e7\u00e3o.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-07T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "VIOL\u00caNCIA DOM\u00c9STICA, MULHER, V\u00cdTIMA, MORTALIDADE.\r\nPL 5872/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI MARIA DA PENHA, MEDIDA PROTETIVA DE URG\u00caNCIA, V\u00cdTIMA, VIOL\u00caNCIA DOM\u00c9STICA, VIOL\u00caNCIA CONTRA A MULHER, INFORMA\u00c7\u00c3O, ATO PROCESSUAL, AGRESSOR, ENTRADA, SA\u00cdDA, PRIS\u00c3O, CUMPRIMENTO, EXTIN\u00c7\u00c3O, PENA, PROGRESS\u00c3O DE REGIME PRISIONAL, AN\u00c1LISE.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Supera\u00e7\u00e3o da marca de 517 mil mulheres v\u00edtimas de viol\u00eancia dom\u00e9stica no Pa\u00eds entre 2018 e 2019. Tramita\u00e7\u00e3o na Casa do Projeto de Lei n\u00ba 5.872, de 2019, de autoria do orador, a respeito da obrigatoriedade de notifica\u00e7\u00e3o pr\u00e9via e pessoal da ofendida acerca dos atos processuais relativos ao agressor, notadamente \u00e0queles relativos \u00e0 sa\u00edda da pris\u00e3o, ao cumprimento ou \u00e0 extin\u00e7\u00e3o da pena, ou \u00e0 concess\u00e3o de qualquer benef\u00edcio ou progress\u00e3o de regime de cumprimento de pena privativa de liberdade, nos casos de pr\u00e1tica de viol\u00eancia dom\u00e9stica e familiar contra a mulher.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Deputados e todos os amigos que nos acompanham, os n\u00fameros n\u00e3o deixam de assustar-nos. Entre 2018 e 2019, mais de 517 mil mulheres foram v\u00edtimas da viol\u00eancia, viol\u00eancia essa que deveria estar caindo, e est\u00e1 aumentando.\r\nO problema \u00e9 que essas pessoas em situa\u00e7\u00e3o de viol\u00eancias dom\u00e9sticas se encontram desamparadas, Presidente. Precisamos imediatamente tomarmos atitudes com projetos de leis que venham dar curso, forma\u00e7\u00e3o, aux\u00edlio, subsist\u00eancia a essas oprimidas dentro do lar que precisam de um escape.\r\nA viol\u00eancia precisa parar. O estupro precisa encerrar. Essa cultura maligna precisa ser encerrada de uma vez por todas. Para tanto, o meu projeto de lei que est\u00e1 em curso nesta Casa vem combater isso.\r\nPara isso, n\u00f3s vamos vencer com a ajuda de Deus...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-07T15:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "VIOL\u00caNCIA DOM\u00c9STICA, MULHER, V\u00cdTIMA, MORTALIDADE, ESTUPRO, AN\u00c1LISE.\r\nPL 5872/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI MARIA DA PENHA, MEDIDA PROTETIVA DE URG\u00caNCIA, V\u00cdTIMA, VIOL\u00caNCIA DOM\u00c9STICA, VIOL\u00caNCIA CONTRA A MULHER, INFORMA\u00c7\u00c3O, ATO PROCESSUAL, AGRESSOR, ENTRADA, SA\u00cdDA, PRIS\u00c3O, CUMPRIMENTO, EXTIN\u00c7\u00c3O, PENA, PROGRESS\u00c3O DE REGIME PRISIONAL, AN\u00c1LISE.",
+        "nomeDeputado": "David Soares",
+        "sumario": "Supera\u00e7\u00e3o da marca de 500 mil mulheres v\u00edtimas de viol\u00eancia dom\u00e9stica no Pa\u00eds nos \u00faltimos dois anos. Inexist\u00eancia de programa de assist\u00eancia \u00e0s mulheres v\u00edtimas de viol\u00eancia, especialmente com ela\u00e7\u00e3o \u00e0s v\u00edtimas de estupro. Tramita\u00e7\u00e3o na Casa do Projeto de Lei n\u00ba 5.872, de 2019, de autoria do orador, a respeito da obrigatoriedade de notifica\u00e7\u00e3o pr\u00e9via e pessoal da ofendida acerca dos atos processuais relativos ao agressor, notadamente \u00e0queles relativos \u00e0 sa\u00edda da pris\u00e3o, ao cumprimento ou \u00e0 extin\u00e7\u00e3o da pena, ou \u00e0 concess\u00e3o de qualquer benef\u00edcio ou progress\u00e3o de regime de cumprimento de pena privativa de liberdade, nos casos de pr\u00e1tica de viol\u00eancia dom\u00e9stica e familiar contra a mulher.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. DAVID SOARES (DEM - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, volto aqui hoje, embora eu tenha feito um breve discurso anteriormente sobre o tema, para falar da gravidade do problema da viol\u00eancia dom\u00e9stica contra as mulheres, n\u00e3o somente no Estado de S\u00e3o Paulo, mas tamb\u00e9m em todo o Brasil. \r\nMais de 500 mil mulheres, nos \u00faltimos 2 anos, passaram por essa situa\u00e7\u00e3o que n\u00e3o se tem palavras para descrever. N\u00e3o existe um programa assistencial que vai tirar a marca da gravidade da dor, dos traumas subsequentes, do choro, que v\u00e3o perdurar pelo resto da vida.\r\nMas, enquanto legisladores, podemos criar artif\u00edcios, benef\u00edcios ou pol\u00edticas que venham dar condi\u00e7\u00f5es para o Estado verdadeiramente ir ao cerne dessa situa\u00e7\u00e3o a que muitas senhoras se submetem.\r\nHoje, grande parte das mulheres que t\u00eam gravidez indesejada, ap\u00f3s o seu filho nascer, se encontram completamente desamparadas, n\u00e3o conseguindo voltar para o sistema educacional, tampouco ser inseridas no mercado de trabalho. S\u00e3o pessoas que n\u00e3o v\u00e3o ter condi\u00e7\u00f5es de contribuir para a nossa Na\u00e7\u00e3o. Assim como os deficientes f\u00edsicos, elas se tornam deficientes sociais, porque n\u00e3o conseguem, por falta de habilidade e de cultura, buscar um emprego que venha a dar dignifica\u00e7\u00e3o, pois tamb\u00e9m n\u00e3o t\u00eam a porta aberta.\r\nO Estado precisa criar benef\u00edcio verdadeiramente, nem que seja atrav\u00e9s de cotas. Pessoas v\u00edtimas de viol\u00eancia precisam e podem ter um espa\u00e7o, seja no Sistema S, seja no mercado privado, que deve ser incentivado a ter uma nova vis\u00e3o dessas pessoas, para que se d\u00ea dignidade \u00e0queles que, por algum motivo social, antropol\u00f3gico, religioso, seja qual for, ficaram com traumas por causa dessa viol\u00eancia.\r\nO ciclo de viol\u00eancia n\u00e3o \u00e9 t\u00e3o simples como estou falando. Talvez eu esteja s\u00f3 tocando na ponta do iceberg. Contudo, seguramente, atrav\u00e9s dessa pol\u00edtica de reinser\u00e7\u00e3o daqueles que foram violentados, verdadeiramente, podemos fazer com que sorriam e digam: \"Existe esperan\u00e7a para mim\".\r\nExiste esperan\u00e7a para qualquer pessoa que busca a Deus. N\u00f3s temos visto todos os dias nas igrejas sa\u00eddas para pessoas que s\u00e3o adictas ou que passaram por muita viol\u00eancia. Tamb\u00e9m pode haver sa\u00edda social, com proposi\u00e7\u00f5es como a que eu propus para criar benef\u00edcios para as pessoas que sofrem viol\u00eancia dom\u00e9stica.\r\nQuero agradecer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

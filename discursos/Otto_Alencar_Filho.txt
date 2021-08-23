@@ -1,0 +1,938 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "OTTO ALENCAR FILHO, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR, PLATAFORMA POL\u00cdTICA.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Agradecimento aos familiares, a correligion\u00e1rios, ao PSD e ao povo do Estado da Bahia pela elei\u00e7\u00e3o do orador. Confian\u00e7a do Parlamentar  na transforma\u00e7\u00e3o do Brasil em um pa\u00eds democr\u00e1tico, social e liberal, com economia forte, poder p\u00fablico eficiente e ambiente seguro para as fam\u00edlias brasileiras. Compromisso de destina\u00e7\u00e3o de recursos or\u00e7ament\u00e1rios \u00e0s municipalidades baianas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Exmo. Sr. Presidente, Exmos. Sras. e Srs. Deputados Federais, senhoras e senhores; primeiro, agrade\u00e7o a Deus; ao meu pai, Senador Otto Alencar; \u00e0 minha m\u00e3e, Branca; \u00e0 minha esposa, Renata; aos meus filhos, Luiza e Diogo; \u00e0 minha fam\u00edlia; aos meus amigos; aos Prefeitos; aos Vereadores; \u00e0s lideran\u00e7as que me elegeram; ao meu partido, o PSD; e ao povo baiano, que me elegeu com 185.400 votos, o segundo Deputado Federal mais votado da Bahia.\r\nAcredito muito na vis\u00e3o de um Brasil democr\u00e1tico, social e liberal, com uma economia forte, um poder p\u00fablico eficiente e um ambiente seguro para as fam\u00edlias brasileiras. \r\nAcredito muito na vis\u00e3o de um pa\u00eds democr\u00e1tico, na luta pelo respeito legal aos direitos individuais e universais, que no Brasil n\u00e3o s\u00e3o respeitados, a exemplo do direito \u00e0 propriedade privada, o direito de ir e vir, o direito \u00e0 liberdade de express\u00e3o, o direito \u00e0 casa pr\u00f3pria, o direito \u00e0 boa educa\u00e7\u00e3o, sa\u00fade e seguran\u00e7a, entre outros. \r\nDe uma na\u00e7\u00e3o social na busca pela redu\u00e7\u00e3o das desigualdades, atrav\u00e9s de um sal\u00e1rio m\u00ednimo digno, conforme definido na Constitui\u00e7\u00e3o, e a manuten\u00e7\u00e3o de programas sociais de combate \u00e0 fome, \u00e0 desnutri\u00e7\u00e3o e \u00e0 pobreza extrema. \r\nDe um Brasil liberal, com o objetivo de reduzir os privil\u00e9gios e vantagens incoerentes do setor p\u00fablico, buscando maior efici\u00eancia nos tr\u00eas Poderes. Nesse sentido, \u00e9 imprescind\u00edvel reduzir impostos e manter o Governo apenas nas \u00e1reas de prioridade nacional. \r\nDesta forma, torna-se importante proporcionar as condi\u00e7\u00f5es de gera\u00e7\u00e3o de emprego, renda e riqueza necess\u00e1rias para o desenvolvimento econ\u00f4mico e social da maioria da popula\u00e7\u00e3o brasileira.\r\nO povo baiano pode ter a certeza de que vou honrar esses votos com muita \u00e9tica, coragem e trabalho, lutando sempre por um pacto federativo justo que privilegie recursos para nossos Estados e Munic\u00edpios. Os Prefeitos da Bahia podem contar com o Deputado Federal Otto Alencar Filho no desafio de destinar mais investimentos para a infraestrutura urbana, sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a.\r\nMais uma vez agrade\u00e7o a todos que est\u00e3o me ouvindo, e que n\u00f3s possamos, com f\u00e9 em Deus, ter esperan\u00e7a de um Pa\u00eds e de uma Bahia melhor para todos.\r\nUm grande abra\u00e7o, Presidente!\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO OTTO ALENCAR FILHO.\r\n\r\n\tExmo. Sr. Presidente, Exmos. integrantes da Mesa, Exmos. Sras. e Srs. Deputados, senhoras e senhores; primeiro, agrade\u00e7o a Deus; ao meu pai, Senador Otto Alencar; \u00e0 minha m\u00e3e, Branca; \u00e0 minha esposa, Renata; aos meus filhos, Luiza e Diogo; \u00e0 minha fam\u00edlia; aos meus amigos; aos Prefeitos; aos Vereadores; \u00e0s lideran\u00e7as; ao meu partido, PSD; e ao povo baiano, que me elegeu com 185.428 votos, segundo Deputado Federal mais votado da Bahia.\r\n\tAcredito muito na vis\u00e3o de um Brasil democr\u00e1tico, social e liberal, com uma economia forte, um poder p\u00fablico eficiente e um ambiente seguro para as fam\u00edlias brasileiras.\r\n\tAcredito muito na vis\u00e3o de um pa\u00eds democr\u00e1tico, na luta pelo respeito legal aos direitos individuais e universais, que no Brasil n\u00e3o s\u00e3o respeitados, a exemplo do direito \u00e0 propriedade privada, o direito de ir e vir, o direito \u00e0 liberdade de express\u00e3o, o direito \u00e0 casa pr\u00f3pria, o direito \u00e0 boa sa\u00fade, \u00e0 educa\u00e7\u00e3o, \u00e0 seguran\u00e7a, entre outros.\r\n\tDe uma na\u00e7\u00e3o social na busca pela redu\u00e7\u00e3o das desigualdades, atrav\u00e9s do aumento do sal\u00e1rio m\u00ednimo digno, conforme definido na Constitui\u00e7\u00e3o, e a manuten\u00e7\u00e3o de programas sociais de combate \u00e0 fome, \u00e0 desnutri\u00e7\u00e3o e \u00e0 pobreza extrema.\r\n\tDe um Brasil liberal, com o objetivo de reduzir os privil\u00e9gios e vantagens incoerentes do setor p\u00fablico, buscando maior efici\u00eancia no Poder Legislativo, Executivo e Judici\u00e1rio. Nesse sentido, \u00e9 imprescind\u00edvel reduzir impostos e manter o controle do Governo Federal apenas nas \u00e1reas de prioridade nacional, como petr\u00f3leo e g\u00e1s, \u00e1gua e saneamento, energia, comunica\u00e7\u00e3o, portos e aeroportos, infraestrutura, mobilidade urbana, educa\u00e7\u00e3o, sa\u00fade e seguran\u00e7a, tendo sempre a parceria da iniciativa privada na gest\u00e3o e implanta\u00e7\u00e3o de uma cultura de meritocracia.\r\n\tDesta forma, torna-se importante proporcionar as condi\u00e7\u00f5es de gera\u00e7\u00e3o de emprego, renda e riqueza necess\u00e1rias ao desenvolvimento econ\u00f4mico e social da maior parte da popula\u00e7\u00e3o brasileira, que se concentra na iniciativa privada, principalmente trabalhadores. \r\n\tO povo baiano pode ter a certeza de que vou honrar estes votos com muita \u00e9tica, coragem e trabalho, lutando sempre por um pacto federativo justo, que privilegie recursos principalmente para Estados e Munic\u00edpios.\r\n\tOs Prefeitos da Bahia podem contar com o Deputado Federal Otto Alencar Filho no desafio de destinar mais investimentos para a infraestrutura urbana, sa\u00fade, educa\u00e7\u00e3o e seguran\u00e7a.\r\n\tAgrade\u00e7o mais uma vez ao povo da Bahia por esta honraria e desejo a todos os que me ouvem felicidade, prosperidade e sa\u00fade. \r\n\tTenho f\u00e9 e esperan\u00e7a de que nosso grande Pa\u00eds se tornar\u00e1 um lugar melhor, mais justo e seguro de se viver.\r\n\tGrande abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=70&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-12T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 10431/2018, PROJETO DE LEI ORDIN\u00c1RIA, COMBATE, TERRORISMO, DEFESA, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o de projeto de lei sobre o combate ao terrorismo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, para o Deputado Federal Otto Alencar Filho \u00e9 imprescind\u00edvel a vota\u00e7\u00e3o contra o terrorismo. \r\nVoto a favor, junto com o meu partido, o PSD.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F2%2F2019&txPagina=134&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T11:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REFORMA PREVIDENCI\u00c1RIA, EXTIN\u00c7\u00c3O, PREVID\u00caNCIA SOCIAL, PEQUENO PRODUTOR RURAL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Contrariedade \u00e0 pretendida extin\u00e7\u00e3o da previd\u00eancia de pequenos produtores rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado.\r\nSras. e Srs. Deputados Federais, eu gostaria de discutir uma quest\u00e3o importante sobre a reforma da Previd\u00eancia. Obviamente, todos n\u00f3s queremos o bem do Brasil. Eu, particularmente, sou a favor da reforma da Previd\u00eancia, para que n\u00f3s possamos tirar essas vantagens incoerentes, esses custos demasiados, esses privil\u00e9gios que n\u00f3s temos principalmente no poder p\u00fablico federal.\r\nGostaria, contudo, de chamar a aten\u00e7\u00e3o de todos para uma quest\u00e3o importante que vai afetar a popula\u00e7\u00e3o mais carente. Falo da quest\u00e3o de se acabar com a previd\u00eancia privada para os pequenos produtores rurais, transformando a previd\u00eancia desses mais carentes em algo como se fosse uma Bolsa Fam\u00edlia. \r\nOra, meus amigos, se n\u00f3s n\u00e3o conseguimos viver com mil reais, imaginem com 500 reais por m\u00eas. Isso n\u00f3s n\u00e3o podemos aceitar.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=106&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-25T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 719/2019, PROJETO DE LEI ORDIN\u00c1RIA, DIREITO DE ARREPENDIMENTO, COMPRA, INTERNET.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o, pela Casa, do Projeto de Lei n\u00ba 719, de 2019, de autoria do orador, acerca do direito dos consumidores de arrependimento de compras realizadas pela Internet.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, a causa que me traz a esta tribuna \u00e9 o transtorno de muitos consumidores no momento em que se arrependem da aquisi\u00e7\u00e3o de determinado produto ou servi\u00e7o feita pela Internet. Para minimizar esses poss\u00edveis impasses, elaborei o Projeto de Lei n\u00ba 719, de 2019, de extrema relev\u00e2ncia, para informar ao consumidor acerca do direito de arrependimento nas compras realizadas pela Internet.\r\nComo se sabe, o C\u00f3digo de Defesa do Consumidor pro\u00edbe toda publicidade enganosa ou abusiva. Assim, estamos propondo que as empresas que comercializam em s\u00edtios virtuais tenham o dever de fazer constar de maneira clara a possibilidade de o consumidor exercer o direito de arrependimento. A ideia surgiu porque muitos clientes desconhecem os seus direitos b\u00e1sicos de desistirem da compra com reembolso.\r\nA maioria dos consumidores n\u00e3o tem conhecimento de que o C\u00f3digo de Defesa do Consumidor j\u00e1 prev\u00ea o direito de arrependimento de qualquer compra realizada pela Internet.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. Bloco/PSDB - SC) - Conclua, nobre Deputado.\r\nO SR. OTTO ALENCAR FILHO (Bloco/PSD - BA) - Estou certo de que esta nossa iniciativa, al\u00e9m de refor\u00e7ar o direito garantido de arrependimento por parte do consumidor, tem todas as possibilidades de elevar sobremaneira o n\u00famero de vendas pela rede mundial de computadores.\r\nMuito obrigado. Boa tarde a todos.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. Bloco/PSDB - SC) - Obrigada, nobre Deputado. \r\nO SR. OTTO ALENCAR FILHO (Bloco/PSD - BA) - Solicito que V.Exa. inclua este pronunciamento no programa A Voz do Brasil, por favor.\r\nA SRA. PRESIDENTE (Geovania de S\u00e1. Bloco/PSDB - SC) - Deferido o seu pedido, Deputado Otto.\r\n\r\nDISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO OTTO ALENCAR FILHO.\r\n\r\nSra. Presidente, Sras. e Srs. Deputados, a causa que me traz a esta tribuna \u00e9 o transtorno que muitos consumidores t\u00eam enfrentado no momento em que se arrependem da aquisi\u00e7\u00e3o de determinado produto ou servi\u00e7o feita pela Internet. Para minimizar poss\u00edveis impasses, elaborei o Projeto de Lei n\u00ba 719, de 2019, a fim de acrescentar ao C\u00f3digo de Defesa do Consumidor - Lei n\u00ba 8.078, de 1990 - a relev\u00e2ncia de se enfatizar para o consumidor o seu direito de arrependimento nas compras realizadas pela Internet.\r\nComo se sabe, o referido estatuto pro\u00edbe toda publicidade enganosa ou abusiva. Assim, estamos propondo que as empresas que comercializam em s\u00edtios virtuais tenham o dever de fazer constar, de maneira clara, a possibilidade de o consumidor exercer o direito de arrependimento. A ideia surgiu porque muitos clientes desconhecem os seus direitos b\u00e1sicos de desistirem da compra, seja por simples arrependimento, seja porque o produto n\u00e3o atendeu \u00e0s suas expectativas ou at\u00e9 mesmo pela m\u00e1 qualidade do produto.\r\nA maioria dos consumidores n\u00e3o tem conhecimento de que o C\u00f3digo de Defesa do Consumidor j\u00e1 prev\u00ea o direito de arrependimento de qualquer compra realizada pela Internet, no prazo de 7 dias ap\u00f3s a compra ou o recebimento do produto. Tendo em vista essa realidade, dar destaque a esse direito \u00e9 de suma import\u00e2ncia. A inten\u00e7\u00e3o \u00e9 alertar o consumidor que existe tal previs\u00e3o legal, \u00e9 mostrar que ele tem direito de se arrepender da sua aquisi\u00e7\u00e3o.\r\nEstou certo de que a nossa iniciativa, al\u00e9m de refor\u00e7ar o direito garantido de arrependimento por parte do consumidor, tem todas as possibilidades de elevar sobremaneira o n\u00famero de vendas pela rede mundial de computadores, pois sabemos que muitos consumidores se negam a adquirir produtos fora da loja f\u00edsica por receio de os produtos n\u00e3o serem o que realmente imaginavam, n\u00e3o atenderem a suas expectativas. Com a aprova\u00e7\u00e3o desse PL, os consumidores se sentir\u00e3o mais seguros, mais protegidos.\r\nRespeitar o consumidor \u00e9 uma etapa fundamental para fortalecermos as rela\u00e7\u00f5es mercantis e o n\u00edvel socioecon\u00f4mico dos brasileiros.\r\nSra. Presidente, solicito a V.Exa. que autorize a divulga\u00e7\u00e3o deste pronunciamento nos ve\u00edculos de comunica\u00e7\u00e3o desta Casa e no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F2%2F2019&txPagina=42&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-26T16:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PL 888/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, CRIT\u00c9RIO, REGIME ESPECIAL TRIBUT\u00c1RIO, INCORPORA\u00c7\u00c3O IMOBILI\u00c1RIA, IM\u00d3VEL RESIDENCIAL, INTERESSE SOCIAL, TRIBUTA\u00c7\u00c3O, CONSTRUTORA, HABITA\u00c7\u00c3O, PROGRAMA MINHA CASA, MINHA VIDA (PMCMV), CONSTRU\u00c7\u00c3O CIVIL, GERA\u00c7\u00c3O DE EMPREGO, DESENVOLVIMENTO ECON\u00d4MICO, APOIO POL\u00cdTICO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Pedido aos Deputados de apoio \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 888, de 2019, sobre a altera\u00e7\u00e3o do Regime Especial de Tributa\u00e7\u00e3o - RET nos contratos de incorpora\u00e7\u00f5es e constru\u00e7\u00f5es de interesse social, com rela\u00e7\u00e3o aos projetos do Programa Minha Casa, Minha Vida, no valor de at\u00e9 100 mil reais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Exma. Sra. Presidente, meus amigos Deputados Federais, todos sabem da import\u00e2ncia do setor da constru\u00e7\u00e3o civil, um setor que gera muito emprego e renda e \u00e9 um dos maiores respons\u00e1veis pelo desenvolvimento econ\u00f4mico e social do Pa\u00eds. \r\nVenho pedir a V.Exas. apoio ao Projeto de Lei n\u00ba 888, de 2019, que disp\u00f5e sobre a altera\u00e7\u00e3o do Regime Especial de Tributa\u00e7\u00e3o - RET nos contratos de incorpora\u00e7\u00f5es e constru\u00e7\u00f5es de interesse social, nos projetos do Programa Minha Casa, Minha Vida, no valor de at\u00e9 100 mil reais, assinados ou registrados em cart\u00f3rio at\u00e9 o ano passado. O fim da vig\u00eancia passaria de 31 de dezembro 2018 para a data em que houver o recebimento integral de todas as vendas registradas. Al\u00e9m disso, recria-se o RET a partir de 1\u00ba de janeiro de 2019.\r\nDessa forma, poderemos apoiar ainda mais o nosso Pa\u00eds e os Estados, que precisam do apoio maci\u00e7o dos colegas Deputados Federais. Precisamos continuar apoiando o t\u00e3o importante setor da constru\u00e7\u00e3o civil e a gera\u00e7\u00e3o de empregos. \r\nMuito obrigado, Presidente Rodrigo Maia.\r\nUm abra\u00e7o a todos os colegas!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2019&txPagina=98&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-14T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQ 1464/2019, REQUERIMENTO DE CONVOCA\u00c7\u00c3O, ABRAHAM WEINTRAUB, MINISTRO DE ESTADO DA EDUCA\u00c7\u00c3O, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de convoca\u00e7\u00e3o do Ministro da Educa\u00e7\u00e3o, Abraham Weintraub, para esclarecimento \u00e0 Casa do corte de recursos or\u00e7ament\u00e1rios destinados ao ensino p\u00fablico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, essa discuss\u00e3o sobre educa\u00e7\u00e3o \u00e9 uma discuss\u00e3o imprescind\u00edvel. N\u00f3s n\u00e3o podemos aceitar nenhum tipo de corte nas universidades federais.\r\nEnt\u00e3o, o PSD vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2019&txPagina=119&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T16:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "EDUCA\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIOS, CONTINGENCIAMENTO, CORTE, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Corte de investimentos na educa\u00e7\u00e3o p\u00fablica brasileira.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA) - Presidente, Ministro da Educa\u00e7\u00e3o, meus amigos Deputados e Deputadas, eu acho que todos n\u00f3s aqui estamos com um \u00fanico objetivo: melhorar a educa\u00e7\u00e3o deste Pa\u00eds. N\u00f3s precisamos, ao inv\u00e9s de criar tantas brigas, construir pontes.\r\nE uma das quest\u00f5es importantes que n\u00f3s precisamos deixar clara \u00e9 que essa quest\u00e3o de cortar investimentos em educa\u00e7\u00e3o \u00e9 errada em qualquer governo, seja ele qual for. Eu digo isso porque, assim como o Ministro, eu tamb\u00e9m vim da iniciativa privada. E fiz gest\u00e3o de uma institui\u00e7\u00e3o financeira, uma ag\u00eancia de fomento na pior crise da hist\u00f3ria do Brasil. De 2015 a 2017, todos os bancos reduziram seus investimentos no Brasil, e a DESENBAHIA fez o contr\u00e1rio: atrav\u00e9s de um programa de meritocracia, de desenvolvimento dos funcion\u00e1rios, de metas claras e objetivos claros, n\u00f3s aumentamos a carteira da DESENBAHIA em 35, 24%, na pior crise da hist\u00f3ria do Brasil, repito.\r\nDigo ao senhor, Ministro, para que reflita sobre n\u00e3o cortar esses investimentos, porque vai fazer um mal danado para os Munic\u00edpios, principalmente onde existem essas universidades. Vamos dialogar com os partidos, sejam eles quais forem, vamos tentar outros objetivos, outras alternativas, vamos discutir o Or\u00e7amento, vamos conversar sobre como melhorar a gest\u00e3o p\u00fablica. O que n\u00f3s n\u00e3o podemos aceitar, infelizmente, s\u00e3o esses cortes.\r\nEu digo para o senhor: neste momento de crise, n\u00f3s temos que criar alternativas e solu\u00e7\u00f5es. \u00c9 isso que n\u00f3s precisamos fazer. Pe\u00e7o ao senhor que reflita, pe\u00e7o ao Governo Federal que reflita, para que possamos, assim...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-09T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, VAQUEJADA, VOTO FAVOR\u00c1VEL, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Declara\u00e7\u00e3o de voto do orador favor\u00e1vel \u00e0 aprova\u00e7\u00e3o da proposta de regulamenta\u00e7\u00e3o da pr\u00e1tica de vaquejada e dos esportes equestres no Pa\u00eds.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, obrigado pela aten\u00e7\u00e3o.\r\nEu vim dar o meu voto a favor da vaquejada e dos esportes equestres. \u00c9 important\u00edssimo que aprovemos esse projeto, que estabelece como devem ser tratados os animais e como esses profissionais que trabalham nessa \u00e1rea t\u00e3o importante definem as suas atividades. Mais de 1 milh\u00e3o de empregos diretos \u00e9 o que esse setor gera no Brasil. \r\nPortanto, sim \u00e0 vaquejada, sim aos esportes equestres!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2019&txPagina=265&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T22:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 6298/2016, PROJETO DE LEI ORDIN\u00c1RIA, PL 8240/2017, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 1\u00ba do art. 1\u00ba do Projeto de Lei n\u00ba 6.298, de 2016, com vista \u00e0 sua inser\u00e7\u00e3o no Projeto de Lei n\u00ba 8.240, de 2017, acerca da inclus\u00e3o do la\u00e7o, bem como das respectivas express\u00f5es art\u00edsticas e esportivas, como manifesta\u00e7\u00e3o cultural nacional e eleva\u00e7\u00e3o de tais atividades \u00e0 condi\u00e7\u00e3o de bem de natureza imaterial integrante do patrim\u00f4nio cultural brasileiro, e sobre as modalidades esportivas equestres tradicionais e a prote\u00e7\u00e3o ao bem-estar animal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PSD vota \"n\u00e3o\", porque a vaquejada e os esportes equestres s\u00e3o imprescind\u00edveis para o Pa\u00eds, principalmente para o Nordeste.\r\nS\u00e3o gerados mais de 1 milh\u00e3o de empregos. N\u00f3s precisamos apoiar esses esportes, principalmente a vaquejada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=269&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, DAVI ALCOLUMBRE, PRESIDENTE DO SENADO FEDERAL, DEBATE, PACTO FEDERATIVO.\r\nBANCADA PARLAMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), BAHIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019).",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Import\u00e2ncia de revis\u00e3o do pacto federativo para o equil\u00edbrio fiscal dos Estados e Munic\u00edpios.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, meus colegas, eu gostaria de parabenizar em p\u00fablico a atitude corajosa e respons\u00e1vel do Presidente do Senado, Davi Alcolumbre, e do Presidente da C\u00e2mara, Rodrigo Maia, por dialogarem, ainda nesta semana, sobre o pacto federativo.\r\nO pacto federativo, em minha opini\u00e3o, \u00e9 uma das quest\u00f5es mais importantes que n\u00f3s precisamos discutir neste ano, porque impacta diretamente Estados e Munic\u00edpios. Eu gostaria de mencionar alguns itens imprescind\u00edveis que est\u00e3o sendo negociados neste momento: o fim da Lei Kandir, a participa\u00e7\u00e3o nos royalties do pr\u00e9-sal, a securitiza\u00e7\u00e3o para Estados, o pagamento de precat\u00f3rios, o Plano Mansueto, o FUNDEB, entre outros. Essas quest\u00f5es realmente merecem a nossa considera\u00e7\u00e3o.\r\nE digo mais: no PSD da Bahia, os cinco Deputados Federais realmente s\u00f3 votaram a reforma da Previd\u00eancia por causa dessa negocia\u00e7\u00e3o sobre o pacto federativo.\r\nFoi feito um acordo entre Rodrigo Maia e Davi Alcolumbre, com a lideran\u00e7a do Senador Otto Alencar, com a conveni\u00eancia e a determina\u00e7\u00e3o do Governador Rui Costa, que tamb\u00e9m nos orientou.\r\n\u00c9 importante dizer que o Governador Rui Costa, um Governador respons\u00e1vel e coerente, entre 2012 e 2015, fez a reforma da previd\u00eancia estadual, assim como alguns Deputados Federais do PT e de outros partidos que, \u00e0 \u00e9poca, eram Deputados Estaduais. Com isso, h\u00e1 a demonstra\u00e7\u00e3o clara de que, em algum momento, a reforma \u00e9 necess\u00e1ria.\r\nObviamente, ficamos contra a proposta inicial de Bolsonaro. Por isso, negociamos e conseguimos manter o direito do trabalhador rural e o Benef\u00edcio de Presta\u00e7\u00e3o Continuada; conseguimos manter a Previd\u00eancia na Constitui\u00e7\u00e3o; e conseguimos retirar do texto o sistema de capitaliza\u00e7\u00e3o. No PSD da Bahia, os cinco Deputados Federais ainda votaram a favor dos policiais, dos professores, dos agentes de seguran\u00e7a, dos aposentados, entre outros itens.\r\nN\u00f3s Deputados Federais precisamos lutar para que esse pacto federativo seja honrado e seja aprovado, para que, nos nossos Estados e Munic\u00edpios, possamos ajudar os nossos prefeitos, os nossos vereadores e a nossa popula\u00e7\u00e3o.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=15&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 5478/2019, PROJETO DE LEI ORDIN\u00c1RIA, CRIT\u00c9RIO, DISTRIBUI\u00c7\u00c3O, VALOR, LEIL\u00c3O, REGIME DE CESS\u00c3O ONEROSA, CAMADA PR\u00c9-SAL, ESTADO (ENTE FEDERADO), DISTRITO FEDERAL (BRASIL), MUNIC\u00cdPIO, INVESTIMENTO P\u00daBLICO, PREFEITO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Rodrigo Maia e aos L\u00edderes partid\u00e1rios pela celebra\u00e7\u00e3o de acordo sobre a utiliza\u00e7\u00e3o, pelos Estados e Munic\u00edpios, de recursos oriundos dos leil\u00f5es da cess\u00e3o onerosa da camada pr\u00e9-sal.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de parabenizar, em nome de V.Exa., todos os L\u00edderes pela decis\u00e3o acertada de permitir que os Prefeitos possam optar pela realiza\u00e7\u00e3o do investimento na quest\u00e3o dos recursos da cess\u00e3o onerosa. Essa \u00e9 uma necessidade. Precisamos apoiar os Prefeitos.\r\nComo Deputado, que tem prioridade e capacidade para falar sobre o municipalismo, agrade\u00e7o mais uma vez a aten\u00e7\u00e3o e o apoio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=109&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T21:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 5478/2019, PROJETO DE LEI ORDINARIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVORAVEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o ao Projeto de Lei n\u00ba 5.478, de 2019, sobre o estabelecimento de crit\u00e9rios de distribui\u00e7\u00e3o dos valores arrecadados com os leil\u00f5es dos volumes excedentes ao limite referido no \u00a7 2\u00ba do art. 1\u00ba da Lei n\u00ba 12.276, de 2010 (cess\u00e3o onerosa).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD orienta o voto \"sim\". E mais uma vez eu o parabenizo pelo protagonismo no acordo que foi feito. Realmente, \u00e9 imprescind\u00edvel que possamos permitir que Estados e Munic\u00edpios tenham mais recursos para investimento.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=154&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-22T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), TRIBUTA\u00c7\u00c3O, ENERGIA SOLAR FOTOVOLTAICA.\r\nPL 5293/2019, PROJETO DE LEI ORDIN\u00c1RIA, INCENTIVO, FONTE ALTERNATIVA DE ENERGIA, UTILIZA\u00c7\u00c3O, GERA\u00c7\u00c3O SOLAR DISTRIBU\u00cdDA, MICROGERA\u00c7\u00c3O DISTRIBU\u00cdDA, MINIGERA\u00c7\u00c3O DISTRIBU\u00cdDA, COMPENSA\u00c7\u00c3O, ENERGIA EL\u00c9TRICA.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Contrariedade \u00e0 pretendida tributa\u00e7\u00e3o da energia fotovoltaica pela Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL. Pedido \u00e0 Casa de apoio ao Projeto de Lei n\u00ba 5.293, de 2019, acerca da concess\u00e3o de incentivos \u00e0s fontes renov\u00e1veis de energia, pela utiliza\u00e7\u00e3o de energia solar distribu\u00edda de microgera\u00e7\u00e3o e minigera\u00e7\u00e3o.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Sem revis\u00e3o do orador.) - Prezado Presidente Charles, gostaria de fazer uma men\u00e7\u00e3o especial ao meu amigo Deputado Federal Vermelho, que tamb\u00e9m \u00e9 do meu partido, o PSD. Para mim, \u00e9 um grande orgulho trabalhar com V.Exas.\r\nEu gostaria de confirmar tudo aquilo que falou agora o nosso amigo Deputado Vermelho. A decis\u00e3o da ANEEL \u00e9 um grande absurdo, vai totalmente de encontro ao interesse do usu\u00e1rio, ao interesse da popula\u00e7\u00e3o brasileira.\r\nFoi por isso que, com determina\u00e7\u00e3o, fiz um projeto de lei que mant\u00e9m a isen\u00e7\u00e3o da microgera\u00e7\u00e3o at\u00e9 5 megas e tamb\u00e9m disp\u00f5e sobre a forma como a ANEEL deve lidar melhor com os contratos desses microgeradores. \r\n\u00c9 imprescind\u00edvel que mantenhamos o desenvolvimento econ\u00f4mico e social do nosso Pa\u00eds. A Bahia, por exemplo, \u00e9 uma vencedora na gera\u00e7\u00e3o desta energia limpa, a energia solar, comumente chamada fotovoltaica, e \u00e9 tamb\u00e9m l\u00edder na produ\u00e7\u00e3o de energia e\u00f3lica. Esse setor, Sr. Presidente, gerou muito e muitos empregos numa regi\u00e3o realmente importante para a Bahia, a Chapada Diamantina, uma regi\u00e3o in\u00f3spita, dif\u00edcil. E n\u00f3s precisamos dar continuidade a isso. \r\nPor isso, pe\u00e7o o apoio n\u00e3o s\u00f3 ao nosso partido - o nosso Presidente Gilberto Kassab j\u00e1 disse que nos dar\u00e1 total apoio - como tamb\u00e9m ao L\u00edder no Senado, o Senador Otto Alencar, ao nosso L\u00edder na C\u00e2mara Andr\u00e9 de Paula, e a todos os nossos colegas.\r\nEst\u00e1 aqui presente o nosso colega Deputado Marcelo Ramos, um grande L\u00edder, a quem pe\u00e7o tamb\u00e9m apoio para a manuten\u00e7\u00e3o desse projeto, para que ele seja colocado em pauta com urg\u00eancia e n\u00f3s mantenhamos essa isen\u00e7\u00e3o para a microgera\u00e7\u00e3o. N\u00f3s precisamos demonstrar \u00e0 ANEEL que n\u00e3o aceitaremos esse tipo de postura contra o usu\u00e1rio e contra a popula\u00e7\u00e3o brasileira.\r\nSr. Presidente, gostaria que este pronunciamento fosse divulgado nos \u00f3rg\u00e3os de comunica\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F10%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-23T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLN 27/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011),  VOTO FAVOR\u00c1VEL.\r\nAG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), ISEN\u00c7\u00c3O, TRIBUTA\u00c7\u00c3O, MICROGERA\u00c7\u00c3O DISTRIBU\u00cdDA, ENERGIA SOLAR FOTOVOLTAICA.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 27, de 2019, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.707, de 2018, acerca das diretrizes para a elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2019. Protesto contra a decis\u00e3o da Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL de taxa\u00e7\u00e3o do setor de microgera\u00e7\u00e3o de energia.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Sem revis\u00e3o do orador.) - O PSD, Presidente, orienta \"sim\". \r\nAproveito para tamb\u00e9m dizer que a maior parte dos Deputados Federais do PSD est\u00e1 do lado dos usu\u00e1rios e contra a normativa da ANEEL que acaba com a isen\u00e7\u00e3o da microgera\u00e7\u00e3o e que \u00e9 absurda.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=24%2F10%2F2019&txPagina=73&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "AJUSTE FISCAL, MUNIC\u00cdPIO, EXTIN\u00c7\u00c3O, PACTO FEDERATIVO, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO CONTR\u00c1RIO, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Declara\u00e7\u00e3o de voto contr\u00e1rio \u00e0 aprova\u00e7\u00e3o das medidas de ajuste fiscal contidas em proposta de emenda \u00e0 Constitui\u00e7\u00e3o, encaminhada ao Congresso Nacional pelo Poder Executivo.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria de discutir um pouco essa nova PEC do Governo Federal. Gostaria de perguntar ao Ministro como discutir efici\u00eancia, se ele deixa de lado na PEC a redu\u00e7\u00e3o dos supersal\u00e1rios. Esse \u00e9 o tipo de efici\u00eancia que se quer do setor p\u00fablico?\r\nAl\u00e9m dessa quest\u00e3o dos sal\u00e1rios, que precisa ser mais bem discutida, a redu\u00e7\u00e3o do n\u00famero de Munic\u00edpios tamb\u00e9m n\u00e3o ter\u00e1 o meu voto. Isso precisa ser discutido com muito mais aten\u00e7\u00e3o e com muito mais crit\u00e9rio.\r\nVotarei \"n\u00e3o\" \u00e0 PEC, se o Governo continuar com esse posicionamento, que realmente n\u00e3o \u00e9 bom para a Bahia e n\u00e3o \u00e9 bom para o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T17:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONSUMIDOR, ANU\u00caNCIA, PL 10940/2018, PROJETO DE LEI ORDIN\u00c1RIA, VOTA\u00c7\u00c3O, AN\u00c1LISE.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Posicionamento do orador a respeito da vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 10.940, de 2018, sobre a altera\u00e7\u00e3o da Lei n\u00ba 9.492, de 1997, com vista \u00e0 defini\u00e7\u00e3o dos t\u00edtulos e dos documentos de d\u00edvida suscet\u00edveis de protesto, e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 9.430, de 1996.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, como \u00e9 que n\u00f3s podemos aprovar esta mat\u00e9ria, que basicamente permite que uma d\u00edvida seja criada sem anu\u00eancia do consumidor? N\u00e3o existe isso! N\u00f3s temos que parar para discutir o assunto. Isso \u00e9 um esc\u00e2ndalo! Como o nosso amigo Deputado Bertaiolli estava dizendo, n\u00e3o h\u00e1 fundamenta\u00e7\u00e3o legal para que se comprove uma d\u00edvida que n\u00e3o teve a anu\u00eancia do consumidor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PL 4805/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 1, apresentada ao Projeto de Lei n\u00ba 4.805, de 2019, sobre a pol\u00edtica industrial para os setores de tecnologia da informa\u00e7\u00e3o e comunica\u00e7\u00e3o e de semicondutores.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD orienta \"sim\". \r\nAcreditamos que o destaque \u00e9 muito importante, Sr. Presidente, porque, neste momento de crise econ\u00f4mica, vai gerar muito emprego e renda, principalmente para o setor automotivo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=211&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-11T21:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, LEI, EMENDA, PL 4162/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o e de resolu\u00e7\u00e3o de passivos de polui\u00e7\u00e3o h\u00eddrica causada pelo lan\u00e7amento de efluentes sem tratamento, constante no inciso V, do art. 11 da Lei 11.445, de 2007, modificado pelo art. 8\u00ba da Emenda n\u00ba 15 apresentada ao Projeto de Lei n\u00ba 4.162, de 2019, sobre a atualiza\u00e7\u00e3o do marco legal do saneamento b\u00e1sico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Eu s\u00f3 queria dizer o seguinte: precisamos de esclarecimentos sobre o destaque. A minha preocupa\u00e7\u00e3o \u00e9 que, neste caso, n\u00f3s estamos suprimindo apenas os passivos ambientais. Ent\u00e3o, precisamos discutir essa quest\u00e3o. \r\nPor isso, n\u00f3s vamos mudar a orienta\u00e7\u00e3o para \"n\u00e3o\", definindo que o que vai ser exclu\u00eddo no texto \u00e9 apenas a quest\u00e3o do passivo ambiental, ou seja, a partir do momento em que a concession\u00e1ria assina o contrato, os passivos ficam para tr\u00e1s. Ela n\u00e3o \u00e9 respons\u00e1vel por eles, s\u00f3 pelos que surgirem ap\u00f3s a assinatura dos contratos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F12%2F2019&txPagina=403&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T20:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA, PLN 22/2019, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque  para vota\u00e7\u00e3o em separado da emenda destinada \u00e0 redu\u00e7\u00e3o do valor do Fundo Especial de Financiamento de Campanha - Fundo Eleitoral, para o m\u00ednimo obrigat\u00f3rio determinado pela legisla\u00e7\u00e3o.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Para orientar a bancada. Sem revis\u00e3o do orador.) - O PSD vota \"sim\", Sr. Presidente, e gostaria de parabenizar o nosso Relator Domingos Neto, que fez um grande trabalho.\r\nParab\u00e9ns, Deputado Domingos Neto! O PSD est\u00e1 do seu lado, assim como do lado da democracia. Um grande abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=19%2F12%2F2019&txPagina=88&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-26T18:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORONAV\u00cdRUS, PANDEMIA, COMBATE, C\u00c2MARA DOS DEPUTADOS, PROVID\u00caNCIAS.\r\nHOSPITAL, BAHIA, RECURSOS, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Aprova\u00e7\u00e3o pela Casa de projetos de lei destinados \u00e0 mitiga\u00e7\u00e3o da crise gerada pela pandemia de coronav\u00edrus. Reitera\u00e7\u00e3o do pedido ao Presidente Jair Bolsonaro de libera\u00e7\u00e3o de recursos para hospitais no Estado da Bahia. Elogio ao Deputado Eduardo Barbosa, autor do Projeto de Lei n\u00ba 9.236, de 2017, sobre a altera\u00e7\u00e3o do \u00a7 11 e a inser\u00e7\u00e3o dos \u00a7\u00a7 12, 13, 14 e 15 no art. 20 da Lei n\u00ba 8.742, de 1993,  com vista ao estabelecimento dos par\u00e2metros adicionais de caracteriza\u00e7\u00e3o da situa\u00e7\u00e3o de vulnerabilidade social, para fins de elegibilidade ao Benef\u00edcio de Presta\u00e7\u00e3o Continuada, pela pessoa com defici\u00eancia ou idosa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, agrade\u00e7o a V.Exa. a aten\u00e7\u00e3o. Tamb\u00e9m agrade\u00e7o ao L\u00edder do PSD, Deputado Diego Andrade, a oportunidade.\r\nHoje n\u00f3s estamos votando dois projetos important\u00edssimos. Para mim \u00e9 uma alegria muito grande atuar nesses dois projetos, juntamente com o nosso partido. Um deles trata da autoriza\u00e7\u00e3o de recursos para as entidades beneficentes, o que vai apoiar, e muito, a \u00e1rea de sa\u00fade e o combate ao coronav\u00edrus.\r\nAproveito para pedir mais uma vez ao Presidente Jair Bolsonaro que libere os recursos na \u00e1rea de sa\u00fade para os hospitais regionais da Bahia, como o Hospital da Chapada, na minha regi\u00e3o, o Hospital Costa do Cacau, entre outros tamb\u00e9m importantes.\r\nQuero saudar ainda o Deputado Eduardo Barbosa pela relatoria desse projeto t\u00e3o relevante, referente ao BPC. Isso vai fazer com que os recursos, principalmente para a popula\u00e7\u00e3o mais carente, sigam seu curso. Eu sei do esfor\u00e7o que S.Exa. fez, mesmo com toda a dificuldade jur\u00eddica e or\u00e7ament\u00e1ria, al\u00e9m do esfor\u00e7o dos outros Deputados Federais que est\u00e3o aqui hoje, para aprovar esse projeto, a fim de que n\u00e3o haja a descontinuidade desses investimentos, que v\u00e3o chegar \u00e0queles que mais precisam.\r\nMais uma vez, parabenizo V.Exa., Sr. Presidente, pela sua coragem, mesmo eu atuando de forma remota, junto com os nossos colegas. Agrade\u00e7o ainda ao L\u00edder, Deputado Diego Andrade, por me conceder esta oportunidade. \r\nParabenizo, enfim, toda a C\u00e2mara pelo esfor\u00e7o que vem fazendo.\r\nMuito obrigado. Que Deus nos aben\u00e7oe!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F3%2F2020&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-03T22:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PLP 149/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei Complementar n\u00ba 149, de 2019, sobre a cria\u00e7\u00e3o do Programa de Acompanhamento e Transpar\u00eancia Fiscal e do Plano de Promo\u00e7\u00e3o do Equil\u00edbrio Fiscal, e sobre a altera\u00e7\u00e3o das Leis Complementares de n\u00bas 101, de 2000, e 156, de 2016; das Leis de n\u00bas 12.348, de 2010, e 2.649, de 2012, e da Medida Provis\u00f3ria n\u00ba 2.185-35, de 2001.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiramente, quero agradecer n\u00e3o s\u00f3 a V.Exa., mas tamb\u00e9m ao meu L\u00edder, Deputado Diego, e, em nome dele, a todo o grupo do PSD, a oportunidade. \r\nO Plano Mansueto \u00e9 important\u00edssimo. Queria parabenizar o Relator, o meu amigo Deputado Pedro Paulo, que tem feito um excelente trabalho. Discutimos muito sobre o projeto nesta semana e ele, de forma muito prudente, ouvindo a todos, fez importantes mudan\u00e7as, como a altera\u00e7\u00e3o do percentual para os Estados de classe C e D, que inclui os Estados do Norte, Nordeste e Centro-Oeste.\r\n Por isso, o PSD vai orientar o voto \"sim\" para que possamos trabalhar ainda melhor esse projeto, cuja urg\u00eancia \u00e9 importante.\r\nMuito obrigado. Um grande abra\u00e7o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F4%2F2020&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-14T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O. \r\nEMENDA AGLUTINATIVA SUBSTITUTIVA GLOBAL, MPV 905/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, CONTRATO DE TRABALHO VERDE E AMARELO, VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Declara\u00e7\u00e3o de voto contr\u00e1rio \u00e0 aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 905, de 2019, sobre a institui\u00e7\u00e3o do Contrato de Trabalho Verde e Amarelo e a altera\u00e7\u00e3o da legisla\u00e7\u00e3o trabalhista brasileira, bem como do  m\u00e9rito da Emenda Aglutinativa Substitutiva Global n\u00ba 1.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, eu agrade\u00e7o mais uma vez a aten\u00e7\u00e3o de sempre.\r\nQuero parabenizar V.Exa. pela condu\u00e7\u00e3o dos trabalhos hoje.\r\nGostaria de deixar claro o meu voto \"n\u00e3o\" \u00e0 MP 905, na emenda aglutinativa e no m\u00e9rito, porque, na minha opini\u00e3o, esta \u00e9 uma mat\u00e9ria que realmente tira direito dos trabalhadores num momento de crise, quando dever\u00edamos estar lutando por mais recursos para esses trabalhadores, pelo aumento do sal\u00e1rio m\u00ednimo, e n\u00e3o pela redu\u00e7\u00e3o desses direitos.\r\nEsta \u00e9 a minha opini\u00e3o.\r\nMais uma vez, agrade\u00e7o o apoio e a aten\u00e7\u00e3o de sempre. Um grande abra\u00e7o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2020&txPagina=220&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-27T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, ATUA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS. \r\nCONGRATUAL\u00c3O, MARCO BERTAIOLLI, AUTOR, GUSTINHO RIBEIRO, RELATOR, PLP 9/2020, PROJETO DE LEI COMPLEMENTAR, OP\u00c7\u00c3O, REGIME ESPECIAL UNIFICADO DE ARRECADA\u00c7\u00c3O DE TRIBUTOS E CONTRIBUI\u00c7\u00d5ES DEVIDOS PELAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (SIMPLES NACIONAL), POSSIBILIDADE, ADES\u00c3O, TRANSA\u00c7\u00c3O RESOLUTIVA DE LIT\u00cdGIO, D\u00cdVIDA ATIVA, TRIBUTA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Elogio ao Presidente Rodrigo Maia pela condu\u00e7\u00e3o dos trabalhos legislativos diante da pandemia de coronav\u00edrus. Aplausos ao Deputado Marco Bertaiolli pela apresenta\u00e7\u00e3o do Projeto de Lei Complementar n\u00ba 9, de 2020, a respeito da ades\u00e3o de empresas enquadradas no regime SIMPLES Nacional \u00e0 transa\u00e7\u00e3o tribut\u00e1ria tratada em Lei Federal. Agradecimento ao Relator Gustinho Ribeiro pelo acatamento de emenda de autoria do orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, minhas amigas e meus amigos Deputados Federais, gostaria de agradecer por este momento e parabenizar V.Exa., Presidente, pelo seu trabalho \u00e0 frente da Casa nestes dias de pandemia; o meu colega do PSD Deputado Marco Bertaiolli pelo projeto que foi feito; e o Relator, o Deputado Gustinho, que acatou a minha emenda, uma emenda importante para as micro, pequenas e m\u00e9dias empresas. Tenho certeza de que vai ajudar, e muito, o Brasil neste momento de crise e de pandemia.\r\nEnt\u00e3o, mais uma vez, muito obrigado. \r\nUm grande abra\u00e7o a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F5%2F2020&txPagina=37&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 15, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado pela aten\u00e7\u00e3o. Agrade\u00e7o ao meu colega Deputado Darci de Matos.\r\nO PSD orienta \"n\u00e3o\" e gostaria de parabenizar pelo projeto, pela MP 944, que \u00e9 um projeto important\u00edssimo para apoio aos pequenos e m\u00e9dios empres\u00e1rios. Parabenizo tamb\u00e9m o Relator por ter mantido a al\u00edquota da COFINS, ou seja, n\u00e3o a aumentou. Assim, ajudou ainda mais os empres\u00e1rios neste momento de pandemia.\r\nMais uma vez, muito obrigado.\r\nUm grande abra\u00e7o a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=161&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-01T19:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 18/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), DISCIPLINAMENTO, ADIAMENTO, ELEI\u00c7\u00c3O MUNICIPAL, CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS, APROVA\u00c7\u00c3O, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Defesa de aprova\u00e7\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 18, de 2020, a respeito do adiamento das elei\u00e7\u00f5es municipais de 2020, em decorr\u00eancia das medidas de enfrentamento da pandemia de coronav\u00edrus, declarada pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade - OMS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado pela oportunidade. Boa noite a todos os colegas Deputados e Deputadas.\r\nNa minha fam\u00edlia, temos um ditado que diz: \"A humildade \u00e9 uma caracter\u00edstica dos s\u00e1bios\". Neste momento n\u00f3s temos que realmente ter humildade e prud\u00eancia para ouvirmos os m\u00e9dicos especialistas no assunto, no meio desta pandemia, e temos que aprovar este projeto importante que trata da prorroga\u00e7\u00e3o das elei\u00e7\u00f5es municipais. Isso \u00e9 algo necess\u00e1rio para que possamos salvaguardar vidas e fazer uma adequa\u00e7\u00e3o nesse movimento, porque n\u00f3s temos de dar seguran\u00e7a \u00e0 popula\u00e7\u00e3o baiana e \u00e0 popula\u00e7\u00e3o brasileira neste momento.\r\nUm grande abra\u00e7o a todos.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2020&txPagina=117&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-08T17:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 925/2020, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.\r\nFALECIMENTO, ISNALDO BULH\u00d5ES, PREFEITO, SANTANA DO IPANEMA (AL), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 9, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 925, de 2020, sobre as medidas emergenciais para a avia\u00e7\u00e3o civil brasileira diante da pandemia de coronav\u00edrus. Falecimento do pai do Deputado Isnaldo Bulh\u00f5es Jr.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente.\r\nMeus caros colegas, amigos Deputados, este destaque \u00e9 um pouco diferente do anterior porque o anterior queria suprimir todo o art. 6\u00ba, e este suprime apenas o inciso II do art. 6\u00ba, mas o objetivo \u00e9 o mesmo: deixar claro que a tarifa de conex\u00e3o seja de responsabilidade das companhias a\u00e9reas. Obviamente, como alguns colegas nossos informaram, a transpar\u00eancia \u00e9 importante, e a transpar\u00eancia pode ser mantida. Agora, o que este destaque objetivamente quer \u00e9 deixar claro e manter o que j\u00e1 existe hoje: que a tarifa de conex\u00e3o seja de inteira responsabilidade da companhia a\u00e9rea, para que assim n\u00e3o oneremos o consumidor e n\u00e3o oneremos o passageiro. Esta \u00e9 uma medida importante. \r\nN\u00f3s sabemos tamb\u00e9m como \u00e9 importante ajudar as empresas e as companhias a\u00e9reas, mas isso n\u00e3o pode trazer aumento de custo para o consumidor, para o passageiro. Portanto, sou totalmente a favor da transpar\u00eancia, sou totalmente a favor de que os n\u00fameros sejam demonstrados, contudo n\u00e3o podemos neste momento onerar ainda mais o consumidor.\r\nSr. Presidente, eu gostaria tamb\u00e9m de deixar aqui meus sentimentos pelo falecimento do pai do meu grande amigo Isnaldo Bulh\u00f5es Jr. Realmente foi uma grande perda! \r\nMeu amigo Isnaldo, estamos orando para que voc\u00ea e sua fam\u00edlia passem este momento de dificuldade com for\u00e7a \u00e9 f\u00e9. \r\nSr. Presidente, meu grande abra\u00e7o a todos! Espero que os nossos L\u00edderes possam me apoiar neste projeto, como apoiaram na quest\u00e3o do destaque. \r\nAo L\u00edder Arthur Lira, meu muito obrigado!\r\nAo L\u00edder Alessandro Molon, tamb\u00e9m, meu muito obrigado!\r\nAo meu L\u00edder Diego Andrade, um grande abra\u00e7o!\r\nFiquem com Deus!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2020&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T21:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, FUNDO DE MANUTEN\u00c7\u00c3O E DESENVOLVIMENTO DA EDUCA\u00c7\u00c3O B\u00c1SICA E DE VALORIZA\u00c7\u00c3O DOS PROFISSIONAIS DA EDUCA\u00c7\u00c3O (FUNDEB), CAR\u00c1TER PERMANENTE, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA, RAQUEL MUNIZ, EX-DEPUTADA FEDERAL, PROFESSORA DORINHA SEABRA REZENDE, DEPUTADA FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nOTTO ALENCAR, SENADOR, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 ex-Deputada Raquel Muniz e \u00e0 Deputada Professora Dorinha Seabra Rezende, respectivamente, autora e Relatora da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica. Import\u00e2ncia de aprova\u00e7\u00e3o da mat\u00e9ria. Sauda\u00e7\u00e3o ao Senador Otto Alencar.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, mais uma vez agrade\u00e7o a V.Exa. a aten\u00e7\u00e3o. Quero parabenizar a Deputada Professora Dorinha pela Relatoria, a ex-Deputada Raquel Muniz, que, em 2015, foi respons\u00e1vel por essa PEC, e V.Exa., Presidente, pelo trabalho de articula\u00e7\u00e3o que vem fazendo para a aprova\u00e7\u00e3o desse projeto important\u00edssimo.\r\nAgora colocamos o FUNDEB permanentemente na Constitui\u00e7\u00e3o, apoiando mais de 43 milh\u00f5es de professores e, na Bahia, aumentando os recursos de aproximadamente 3 bilh\u00f5es para 5 bilh\u00f5es de reais. Portanto, \u00e9 um projeto important\u00edssimo para o apoio aos professores, alunos e pais de alunos.\r\nMando um grande abra\u00e7o ao Senador Otto Alencar, que tamb\u00e9m foi professor da Universidade Federal e que est\u00e1 nos ouvindo nesta importante vota\u00e7\u00e3o. Um grande abra\u00e7o e fiquem com Deus!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=136&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-21T22:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PEC 15/2015, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, SEGUNDO TURNO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do \u00a7 7\u00ba, art. 5\u00ba, do texto do segundo turno da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2015, sobre a transforma\u00e7\u00e3o do Fundo de Manuten\u00e7\u00e3o e Desenvolvimento da Educa\u00e7\u00e3o B\u00e1sica e de Valoriza\u00e7\u00e3o dos Profissionais da Educa\u00e7\u00e3o - FUNDEB, em instrumento permanente de financiamento da educa\u00e7\u00e3o b\u00e1sica p\u00fablica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Deputada Tabata, o PSD vota \"sim\", pela manuten\u00e7\u00e3o do texto, porque tamb\u00e9m compreende que \u00e9 importante manter o acordo realizado para a aprova\u00e7\u00e3o do FUNDEB.\r\nAcreditamos que o CAQ \u00e9 uma pe\u00e7a importante para a manuten\u00e7\u00e3o da qualidade do FUNDEB e vamos votar \"sim\" ao texto da Deputada Dorinha.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F7%2F2020&txPagina=169&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 945/2020, MEDIDA PROVIS\u00d3RIA, PROCEDIMENTO, CAR\u00c1TER TEMPOR\u00c1RIO, ATIVIDADE PORTU\u00c1RIA, PANDEMIA, CORONAV\u00cdRUS, AUTORIZA\u00c7\u00c3O, CESS\u00c3O DE USO, LICITA\u00c7\u00c3O, CONTR\u00c1RIO. \r\nPL 1328/2020, PROJETO DE LEI ORDIN\u00c1RIA,  SUSPENS\u00c3O, PAGAMENTO, CR\u00c9DITO CONSIGNADO, BENEF\u00cdCIO PREVIDENCI\u00c1RIO,  APOSENTADO, PENSIONISTA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Necessidade de aprimoramento do texto da Medida Provis\u00f3ria n\u00ba 945, de 2020, sobre a ado\u00e7\u00e3o de medidas tempor\u00e1rias no \u00e2mbito do setor portu\u00e1rio diante da pandemia de coronav\u00edrus; e a cess\u00e3o de p\u00e1tios sob a administra\u00e7\u00e3o militar. Defesa de vota\u00e7\u00e3o de projeto de lei a respeito da suspens\u00e3o de cobran\u00e7as previdenci\u00e1rias dos trabalhadores aposentados.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, eu agrade\u00e7o a oportunidade.\r\nPrimeiro, eu gostaria de deixar clara a minha preocupa\u00e7\u00e3o nesta mat\u00e9ria em rela\u00e7\u00e3o \u00e0 possibilidade de renova\u00e7\u00e3o de contratos sem o devido processo licitat\u00f3rio.\r\nEu acredito que n\u00f3s temos, sim, como fazer uma melhora nessa MP e gostaria que as Lideran\u00e7as discutissem esse assunto. Pe\u00e7o ao nosso L\u00edder, Deputado Diego Andrade, que intervenha nessa quest\u00e3o, porque precisamos, sim, melhorar o servi\u00e7o portu\u00e1rio, mas sem atacar os direitos dos trabalhadores, mantendo a possibilidade de licita\u00e7\u00e3o para um trabalho melhor, de qualidade, e com melhores servi\u00e7os para o bem da popula\u00e7\u00e3o.\r\nOutra coisa, Sr. Presidente: quero tamb\u00e9m deixar claro que sou a favor da suspens\u00e3o das cobran\u00e7as previdenci\u00e1rias dos aposentados. \u00c9 um projeto que n\u00f3s precisamos colocar em pauta para ser votado. Venho recebendo cobran\u00e7as desse (falha na transmiss\u00e3o). Essa \u00e9 outra mat\u00e9ria important\u00edssima que precisamos colocar em vota\u00e7\u00e3o.\r\nUm grande abra\u00e7o e fique com Deus!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=269&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 3364/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 36, apresentada ao Projeto de Lei n\u00ba 3.364, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 10.233, de 2001; e o repasse de recursos aos Estados, aos Munic\u00edpios e ao Distrito Federal, em car\u00e1ter emergencial, diante do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, com vista \u00e0 garantia da presta\u00e7\u00e3o dos servi\u00e7os de transporte p\u00fablico coletivo de passageiros, e do reequil\u00edbrio de contratos impactados pela epidemia da Covid-19. Agradecimento ao Relator Hildo Rocha pelo acatamento de emenda do orador.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, obrigado pela aten\u00e7\u00e3o.\r\nO PSD orienta \"sim\" \u00e0 manuten\u00e7\u00e3o do texto e \"n\u00e3o\" ao destaque.\r\nAproveito para agradecer ao Relator, nosso colega, o Deputado Hildo Rocha, por aceitar a minha emenda, que impede a possibilidade do aumento de tarifa para as empresas que receberem o aux\u00edlio emergencial proposto nesse projeto de lei.\r\nMuito obrigado e um grande abra\u00e7o a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=137&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-16T13:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, PLN 9/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, PROJETO DE LEI DE DIRETRIZES OR\u00c7AMENT\u00c1RIAS, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.\r\nPL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, C\u00c2MBIO, CAPITAL ESTRANGEIRO, PARECER (PROCESSO LEGISLATIVO), DISPONIBILIDADE.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na  vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 40.950.010, apresentada ao Projeto de Lei do Congresso Nacional n\u00ba 9, de 2020, sobre as diretrizes para elabora\u00e7\u00e3o e execu\u00e7\u00e3o da Lei Or\u00e7ament\u00e1ria de 2021. Disponibiliza\u00e7\u00e3o do parecer oferecido pelo orador ao Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sra. Presidente, \u00e9 sempre um prazer rev\u00ea-la. Um abra\u00e7o a todos os colegas.\r\nO PSD orienta \"n\u00e3o\". Achamos que essa \u00e9 uma discuss\u00e3o para um aumento acima do que j\u00e1 foi or\u00e7ado, \u00e9 uma discuss\u00e3o que temos que fazer na LOA, a partir de 2021.\r\nEu gostaria tamb\u00e9m de aproveitar, Presidente, para informar a todos os colegas que o relat\u00f3rio do projeto de moderniza\u00e7\u00e3o do c\u00e2mbio, do qual eu sou Relator, j\u00e1 est\u00e1 pronto. O relat\u00f3rio j\u00e1 est\u00e1 no sistema.\r\nGra\u00e7as a Deus fizemos um trabalho muito prof\u00edcuo com o Banco Central, com a Receita Federal, com v\u00e1rios \u00f3rg\u00e3os, como a CVM, e com empresas do ramo financeiro. E eu espero que os colegas possam ler o relat\u00f3rio e ajudar, porque realmente a mat\u00e9ria \u00e9 algo que vai transformar o nosso Pa\u00eds.\r\nMuito obrigado.\r\nUm grande abra\u00e7o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=17%2F12%2F2020&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-21T22:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, VOTA\u00c7\u00c3O, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Apelo aos L\u00edderes partid\u00e1rios de vota\u00e7\u00e3o do Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria chamar a aten\u00e7\u00e3o de todos os colegas e informar que este projeto, atualmente, ap\u00f3s a minha relatoria, deveria ter alterada sua nomenclatura para \"PL da democratiza\u00e7\u00e3o e moderniza\u00e7\u00e3o do c\u00e2mbio brasileiro\".\r\nFizemos uma s\u00e9rie de altera\u00e7\u00f5es. \u00c9 importante informar a todos os nossos colegas, tanto da Esquerda, quanto dos partidos do Centro e da Direita, que definimos alguns basilares: primeiro, que seja um projeto que beneficie principalmente a popula\u00e7\u00e3o mais carente; segundo, que traga muito mais competitividade ao setor financeiro; terceiro, que traga maior seguran\u00e7a e transpar\u00eancia ao sistema; quarto, que reduza totalmente a sua burocracia, facilitando o acesso a institui\u00e7\u00f5es financeiras, como fintechs e bancos que est\u00e3o com tecnologias voltadas para a parte digital.\r\nEnt\u00e3o, mais uma vez eu pe\u00e7o a todos os colegas que, antes de fazerem a obstru\u00e7\u00e3o, vejam algumas dessas altera\u00e7\u00f5es, que s\u00e3o importantes, repito, principalmente para a popula\u00e7\u00e3o mais carente, que vai poder ter acesso a esses produtos a que hoje ela n\u00e3o tem. Essas mudan\u00e7as tamb\u00e9m trar\u00e3o uma movimenta\u00e7\u00e3o maior de moedas estrangeiras ao Brasil, o que vai, com certeza absoluta, fazer com que o d\u00f3lar caia e o real se valorize, j\u00e1 que, obviamente, ap\u00f3s a mudan\u00e7a, vamos ter um fluxo maior de moedas estrangeiras, o que vai permitir que o Banco Central n\u00e3o precise ter um fundo cambial t\u00e3o grande, at\u00e9 porque vai haver um fluxo natural, ap\u00f3s a mudan\u00e7a desse projeto.\r\nPe\u00e7o ao meu colega do PP, o Deputado Cac\u00e1 Le\u00e3o, e a todos os outros partidos que est\u00e3o me ouvindo para que sigamos com esse projeto. Como eu disse, \u00e9 um projeto que se iniciou e que, com a minha relatoria, teve importantes mudan\u00e7as que, tenho certeza, v\u00e3o agradar a todos, tanto os da Esquerda, quanto os do Centro e os da Direita.\r\nAguardo a an\u00e1lise de todos os amigos que est\u00e3o me ouvindo, que conhecem a minha origem e sabem da minha responsabilidade com projetos de tamanha import\u00e2ncia e magnitude para o Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F12%2F2020&txPagina=252&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, ESCLARECIMENTO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Esclarecimento ao Plen\u00e1rio do teor do Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero aqui fazer algumas considera\u00e7\u00f5es sobre o projeto da moderniza\u00e7\u00e3o do c\u00e2mbio, entre elas a quest\u00e3o da abertura de contas em moeda estrangeira.\r\nPara que se tenha uma ideia, a possibilidade de abertura de conta em moeda estrangeira vem sendo autorizada desde 1957, pelo Decreto n\u00ba 42.820. S\u00e3o muitos os pa\u00edses, e, em sua maioria, todos eles t\u00eam a possibilidade de abertura. O Brasil \u00e9 um dos mais restritivos do mundo nessa quest\u00e3o da abertura de contas em moeda estrangeira, s\u00f3 perdendo para Cuba.\r\nEnt\u00e3o eu gostaria de esclarecer a todos os nossos colegas que essa quest\u00e3o da abertura da conta em moeda estrangeira nunca foi um problema e tamb\u00e9m n\u00e3o ser\u00e1.\r\nExiste, sim, a possibilidade, j\u00e1 h\u00e1 muito tempo no Brasil. O que estamos fazendo apenas \u00e9 adequar ao momento atual, o que \u00e9 necess\u00e1rio para que possamos continuar gerando emprego, renda e desenvolvimento em nosso Pa\u00eds.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=208&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T17:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA), LEITURA.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, vou aqui j\u00e1 ler o relat\u00f3rio do projeto.\r\n\"O Projeto de Lei n\u00ba 5.387, de 2019, disp\u00f5e sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil para fins de compila\u00e7\u00e3o de estat\u00edsticas macroecon\u00f4micas oficiais. Nesse contexto, ele consolida e moderniza a legisla\u00e7\u00e3o cambial em nosso Pa\u00eds.\r\nDe forma geral, o projeto \u00e9 segmentado em quatro eixos: o primeiro trata da regulamenta\u00e7\u00e3o do mercado de c\u00e2mbio no Pa\u00eds; o segundo trata da regulamenta\u00e7\u00e3o do capital brasileiro no exterior e do capital estrangeiro no Pa\u00eds; o terceiro fala da compila\u00e7\u00e3o de estat\u00edsticas macroecon\u00f4micas oficiais pelo Banco Central do Brasil; e o quarto eixo trata de um conjunto de altera\u00e7\u00f5es e revoga\u00e7\u00f5es de normativos legais que se tornar\u00e3o obsoletos em raz\u00e3o do PL 5.387/19\", mais conhecido como PL da moderniza\u00e7\u00e3o do c\u00e2mbio.\r\n\"De acordo com o projeto, as opera\u00e7\u00f5es do mercado de c\u00e2mbio poder\u00e3o ser realizadas livremente e sem restri\u00e7\u00f5es de valor, observadas a legisla\u00e7\u00e3o, as diretrizes do Conselho Monet\u00e1rio Nacional e o regulamento a ser editado pelo Banco Central do Brasil, sendo as taxas de c\u00e2mbio livremente pactuadas entre as institui\u00e7\u00f5es e os clientes.\r\nO projeto limita, entretanto, a realiza\u00e7\u00e3o de opera\u00e7\u00f5es \u00e0s institui\u00e7\u00f5es autorizadas a operar nesse mercado pelo Banco Central do Brasil, na forma de regulamento a ser editado por esta institui\u00e7\u00e3o, al\u00e9m de definir o conjunto de responsabilidades e compet\u00eancias do pr\u00f3prio Banco Central do Brasil e dessas institui\u00e7\u00f5es, inclusive com rela\u00e7\u00e3o \u00e0 avalia\u00e7\u00e3o e mitiga\u00e7\u00e3o dos riscos relacionados \u00e0 lavagem de dinheiro e financiamento do terrorismo.\r\nO PL 5.387/19 resguarda os ativos dos organismos internacionais e bancos centrais estrangeiros de serem penhorados, evidenciando que s\u00e3o imunes \u00e0 execu\u00e7\u00e3o quando utilizados no desempenho de suas fun\u00e7\u00f5es pr\u00f3prias e que n\u00e3o s\u00e3o objeto de arresto, sequestro, busca e apreens\u00e3o ou outro ato de constri\u00e7\u00e3o judicial. Ele tamb\u00e9m estende essa garantia aos bens e direitos de institui\u00e7\u00f5es domiciliadas ou com sede no exterior que prestem servi\u00e7os de compensa\u00e7\u00e3o, liquida\u00e7\u00e3o e cust\u00f3dia no mercado internacional mantidos em contas especiais.\r\nEm cap\u00edtulo distinto, denominado 'Disposi\u00e7\u00f5es Gerais', o PL 5.387/19 elenca uma s\u00e9rie de disposi\u00e7\u00f5es que detalham aspectos espec\u00edficos do mercado de c\u00e2mbio. O projeto veda a realiza\u00e7\u00e3o de compensa\u00e7\u00e3o privada de cr\u00e9ditos ou valores entre residentes e n\u00e3o residentes, mas permite ao Banco Central dispor sobre as situa\u00e7\u00f5es e as condi\u00e7\u00f5es onde a veda\u00e7\u00e3o n\u00e3o \u00e9 aplic\u00e1vel. Esse cap\u00edtulo tamb\u00e9m trata das situa\u00e7\u00f5es particulares em que a estipula\u00e7\u00e3o de pagamento em moeda estrangeira de obriga\u00e7\u00f5es exequ\u00edveis no territ\u00f3rio nacional \u00e9 admitida.\r\nO PL 5.387/19 tamb\u00e9m trata das institui\u00e7\u00f5es que realizar\u00e3o o ingresso e sa\u00edda de moeda nacional e estrangeira no Pa\u00eds e das condi\u00e7\u00f5es nas quais essas opera\u00e7\u00f5es dever\u00e3o ser realizadas, cabendo ao Banco Central do Brasil, segundo diretrizes do Conselho Monet\u00e1rio Nacional, a regulamenta\u00e7\u00e3o do tema. Ainda a esse respeito, o projeto trata das penalidades em caso de descumprimento e atribui compet\u00eancia \u00e0 Secretaria Especial da Receita Federal do Brasil para a regulamenta\u00e7\u00e3o dos casos de ingresso no Pa\u00eds com valores n\u00e3o declarados acima de 10 mil d\u00f3lares dos Estados Unidos, bem como da pena de perdimento.\r\nCom rela\u00e7\u00e3o \u00e0 regulamenta\u00e7\u00e3o do capital brasileiro no exterior e do capital estrangeiro no Pa\u00eds, o PL 5.387/19 evidencia tratamento jur\u00eddico id\u00eantico ao concedido ao capital nacional em igualdade de condi\u00e7\u00f5es, conforme a Constitui\u00e7\u00e3o e tamb\u00e9m previs\u00e3o j\u00e1 existente na Lei n\u00ba 4.131, de 3 de setembro de 1962. Da mesma forma que no primeiro eixo, este segundo eixo do projeto disp\u00f5e sobre um conjunto de compet\u00eancias e responsabilidades do Banco Central com rela\u00e7\u00e3o \u00e0 regulamenta\u00e7\u00e3o e monitoramento das opera\u00e7\u00f5es realizadas.\r\nUma inova\u00e7\u00e3o trazida pelo texto original enviado pelo Executivo foi dispor que 'esta Lei n\u00e3o se aplicar\u00e1 a opera\u00e7\u00f5es de compra ou venda de moeda estrangeira em esp\u00e9cie, no valor de at\u00e9 mil d\u00f3lares dos Estados Unidos ou seu equivalente em outras moedas, realizadas no Pa\u00eds, de forma eventual e n\u00e3o profissional, entre pessoas f\u00edsicas.\r\nO terceiro eixo trata da gera\u00e7\u00e3o de estat\u00edsticas macroecon\u00f4micas oficiais que utilizam as informa\u00e7\u00f5es do mercado de c\u00e2mbio e apresentam uma s\u00e9rie de prote\u00e7\u00f5es e obriga\u00e7\u00f5es da autoridade monet\u00e1ria com rela\u00e7\u00e3o \u00e0 prote\u00e7\u00e3o dos dados, ao sigilo das informa\u00e7\u00f5es e \u00e0 regulamenta\u00e7\u00e3o dos temas.\r\nO PL 5.387/19 altera ou revoga uma s\u00e9rie de dispositivos legais para adequar a nova legisla\u00e7\u00e3o ao ordenamento jur\u00eddico j\u00e1 existente. Uma parte das altera\u00e7\u00f5es refere-se \u00e0 governan\u00e7a do mercado e atribui um conjunto de compet\u00eancias e responsabilidades ao Conselho Monet\u00e1rio Nacional e ao Banco Central, como disciplinar e aprovar a abertura de corretoras de t\u00edtulos e valores mobili\u00e1rios, de c\u00e2mbio e das distribuidoras de t\u00edtulos e valores mobili\u00e1rios. H\u00e1 uma preocupa\u00e7\u00e3o em assegurar que as remessas ao exterior sejam precedidas de evid\u00eancias de que as obriga\u00e7\u00f5es tribut\u00e1rias sobre a renda foram cumpridas. Por fim, elimina as restri\u00e7\u00f5es ao uso dos recursos em moeda estrangeira mantidos no exterior relativos ao recebimento de exporta\u00e7\u00f5es brasileiras de mercadorias e servi\u00e7os realizados por pessoas f\u00edsicas ou jur\u00eddicas residentes, domiciliadas, ou com sede no Pa\u00eds.\r\nO projeto disp\u00f5e ainda sobre uma s\u00e9rie de normativos que foram publicados a partir de 1920, cuja aplicabilidade estava em contradi\u00e7\u00e3o com a realidade atual e, consequentemente, com os termos do PL 5.387/19, que busca exatamente modernizar e racionalizar o mercado de c\u00e2mbio, e, por isso, foram explicitamente revogados.\r\nII - Voto do Relator\r\nII.1 Dos Requisitos de Constitucionalidade, Juridicidade e T\u00e9cnica Legislativa\r\nO presente projeto de lei foi encaminhado pelo Poder Executivo por meio da Mensagem Presidencial n\u00ba 483/2019, nos termos do inciso VII do art. 22 da Constitui\u00e7\u00e3o Federal. Ele trata de mat\u00e9ria que se insere na compet\u00eancia legislativa do Congresso Nacional, nos termos do inciso XIII do art. 48 da Constitui\u00e7\u00e3o Federal.\r\nAl\u00e9m disso, o texto do PL 5.387/19 tem escopo bem definido, estando circunscrito \u00e0 mat\u00e9ria afeta ao c\u00e2mbio e a outros temas que lhe s\u00e3o conexos. Nenhum dos temas versados est\u00e1 sujeito \u00e0 reserva de lei complementar, nem desafia qualquer \u00f3bice de constitucionalidade formal ou material.\r\nPor tais raz\u00f5es, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa da proposi\u00e7\u00e3o.\r\nII.2 Da Compatibilidade e Adequa\u00e7\u00e3o Or\u00e7ament\u00e1ria e Financeira\r\nO exame da adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira tem o objetivo de avaliar a neutralidade fiscal da proposi\u00e7\u00e3o legislativa. Medidas que considerem redu\u00e7\u00e3o de receita ou aumento de despesa devem ter seus efeitos incorporados na lei or\u00e7ament\u00e1ria ou ser explicitamente compensados pela ado\u00e7\u00e3o de provid\u00eancias que promovam o movimento fiscal contr\u00e1rio, a fim de preservar a estabilidade fiscal e a sustentabilidade do endividamento p\u00fablico.\r\nNesse contexto, o PL 5.387/19 tem um car\u00e1ter de consolida\u00e7\u00e3o da legisla\u00e7\u00e3o e de moderniza\u00e7\u00e3o da regula\u00e7\u00e3o do mercado de c\u00e2mbio e n\u00e3o traz novos elementos de aumento de despesa. De forma oposta, algumas das revoga\u00e7\u00f5es dever\u00e3o aumentar as receitas da Uni\u00e3o, e, portanto, a proposi\u00e7\u00e3o \u00e9 consistente com a adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira.\r\nII.3 Do M\u00e9rito\r\nO PL 5.387/19 tem por objetivo modernizar, simplificar e trazer mais efici\u00eancia ao mercado de c\u00e2mbio no Pa\u00eds. Ele tamb\u00e9m disp\u00f5e sobre o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a compila\u00e7\u00e3o das estat\u00edsticas macroecon\u00f4micas oficiais.\r\nPara compreender a origem e a racionalidade da legisla\u00e7\u00e3o cambial em nosso Pa\u00eds, \u00e9 necess\u00e1rio realizar uma an\u00e1lise hist\u00f3rica do mercado de c\u00e2mbio e da macroeconomia brasileira dos \u00faltimos 100 anos.\r\nApesar de o Pa\u00eds apresentar atualmente profunda robustez macroecon\u00f4mica com rela\u00e7\u00e3o aos choques cambiais, em fun\u00e7\u00e3o do elevado volume das reservas internacionais, essa \u00e9 uma situa\u00e7\u00e3o relativamente recente em termos hist\u00f3ricos, tendo sua origem a partir de 2005, com o in\u00edcio do processo de acumula\u00e7\u00e3o das reservas internacionais pelo Banco Central do Brasil. Antes disso, o Pa\u00eds esteve, ao longo de d\u00e9cadas, exposto a choques cambiais, tanto por quest\u00f5es dom\u00e9sticas como por fatores externos.\r\nCabe recordar que nos \u00faltimos 100 anos o mundo experimentou uma s\u00e9rie de eventos que trouxeram significativo impacto sobre o fluxo de capitais em nosso Pa\u00eds e que, por n\u00e3o contarmos historicamente com uma pol\u00edtica cambial s\u00f3lida, sempre trouxeram instabilidade para o Brasil. Somente como ilustra\u00e7\u00e3o, nos \u00faltimos 100 anos o Pa\u00eds sofreu com os impactos de diversas crises, tais como o ambiente ao fim da Primeira Guerra Mundial, a Grande Depress\u00e3o de 1929, a Segunda Guerra Mundial, a Guerra da Coreia, a Guerra do Vietn\u00e3\" (...) e muitas outras.\r\n\"Especificamente com rela\u00e7\u00e3o ao Brasil, cabe lembrar os processos de renegocia\u00e7\u00e3o de d\u00edvida externa que se iniciaram no come\u00e7o da d\u00e9cada de 1980 com o segundo choque do petr\u00f3leo, e somente se encerraram com o Plano Brady, em 1994, ap\u00f3s uma declara\u00e7\u00e3o de morat\u00f3ria em 1987.\r\nAo longo desses 100 anos, a cada crise, o Pa\u00eds aprovava algum ajuste na legisla\u00e7\u00e3o cambial para conter os efeitos espec\u00edficos daquela crise, que reiteradamente visava a proteger o Pa\u00eds contra uma fuga de moeda estrangeira. Esse ac\u00famulo de ajustes tornou a nossa legisla\u00e7\u00e3o cambial confusa e complexa.\r\nA partir de 2003, com o ciclo de alta das commodities e com a consolida\u00e7\u00e3o da estabilidade econ\u00f4mica, o Pa\u00eds passou a experimentar um forte influxo de moeda estrangeira que pressionou a cota\u00e7\u00e3o do d\u00f3lar dos Estados Unidos (...), obrigando o Banco Central do Brasil a adquirir essa moeda estrangeira como forma de evitar que o mercado de c\u00e2mbio se tornasse disfuncional. Como consequ\u00eancia, a partir de 2006 houve forte acumula\u00e7\u00e3o de reservas cambiais, que hoje est\u00e3o no patamar aproximado de 360 bilh\u00f5es de d\u00f3lares\", posi\u00e7\u00e3o atualizada para o final de agosto de 2020.\r\nEssa quantidade de reservas blindou o Pa\u00eds dos diversos choques externos que ocorreram ap\u00f3s 2006 e contribu\u00edram para, talvez, o maior per\u00edodo de estabilidade monet\u00e1ria e cambial dos \u00faltimos 100 anos.\r\nPor outro lado, o arcabou\u00e7o macroecon\u00f4mico atual n\u00e3o \u00e9 mais compat\u00edvel com o de um pa\u00eds que lutava garridamente para impedir o fluxo de capitais para o exterior, mas sim com o de uma economia com grande potencial para o com\u00e9rcio exterior, mas que necessita flexibilizar o fluxo bilateral de moeda, tanto para fomentar os investimentos externos no Pa\u00eds como para simplificar os procedimentos de com\u00e9rcio exterior.\r\nPor essa raz\u00e3o, a legisla\u00e7\u00e3o cambial brasileira pode ser diagnosticada como dispersa, complexa, anacr\u00f4nica e prejudicial \u00e0 competitividade do Pa\u00eds no exterior. Muitos detalhes com caracter\u00edsticas administrativas s\u00e3o tratados em normativos legais de complexa altera\u00e7\u00e3o e que poderiam facilmente estar dispostos em normas infralegais.\r\nVisando a corrigir essa situa\u00e7\u00e3o, o Poder Executivo apresentou o Projeto de Lei n\u00ba 5.387, de 2019, que consolida e moderniza a legisla\u00e7\u00e3o e possibilita ao regulador natural do mercado de c\u00e2mbio, o Banco Central do Brasil, atuar com maior efici\u00eancia e tempestividade.\r\nO projeto \u00e9 bastante s\u00f3lido e consistente com as melhores pr\u00e1ticas internacionais, e ir\u00e1 trazer aperfei\u00e7oamentos significativos ao mercado de c\u00e2mbio no Pa\u00eds. Por essa raz\u00e3o, estamos propondo pequenos ajustes no texto, que seguem consolidados na forma de um substitutivo, para torn\u00e1-lo ainda mais aderente \u00e0s necessidades nacionais.\r\nInicialmente, foram inclu\u00eddos os \u00a7\u00a7 2\u00ba e 3\u00ba ao art. 4\u00ba como forma de simplificar as obriga\u00e7\u00f5es tribut\u00e1rias acess\u00f3rias exigidas pela Receita Federal do Brasil, transferindo, das institui\u00e7\u00f5es financeiras para os pr\u00f3prios contribuintes, a responsabilidade pela classifica\u00e7\u00e3o das finalidades das suas opera\u00e7\u00f5es de c\u00e2mbio, mas com a ressalva de que as institui\u00e7\u00f5es operadoras do mercado de c\u00e2mbio dever\u00e3o prestar orienta\u00e7\u00e3o e suporte t\u00e9cnico para os clientes que necessitarem de apoio durante a opera\u00e7\u00e3o. Essa medida dever\u00e1 tornar o ambiente de neg\u00f3cios mais simples e reduzir a inseguran\u00e7a jur\u00eddica que hoje pesa sobre as institui\u00e7\u00f5es financeiras.\r\nAo art. 5\u00ba foi acrescido um novo \u00a7 4\u00ba que estabelece, para as contas de n\u00e3o residentes, o mesmo tratamento das contas em reais de titularidade de residentes, excetuados os requisitos e procedimentos que o Banco Central entender ser necess\u00e1rio.\r\nProp\u00f5e-se, tamb\u00e9m, uma nova reda\u00e7\u00e3o para o art. 12. Em vez de proibir a realiza\u00e7\u00e3o de compensa\u00e7\u00e3o privada ou de valores entre residentes e n\u00e3o residentes, mas permitir exce\u00e7\u00f5es para casos espec\u00edficos, a nova reda\u00e7\u00e3o admite a compensa\u00e7\u00e3o, como regra geral, mas a restringe \u00e0s hip\u00f3teses previstas em regulamento do pr\u00f3prio Banco Central.\r\nTamb\u00e9m foi inclu\u00eddo novo inciso VII ao art. 13 para permitir o pagamento em moeda estrangeira de obriga\u00e7\u00f5es exequ\u00edveis no territ\u00f3rio nacional para os contratos celebrados por exportadores em que a contraparte seja concession\u00e1rio, permission\u00e1rio, autorizat\u00e1rio ou arrendat\u00e1rio nos setores de infraestrutura.\r\nFoi inclu\u00eddo novo inciso II ao \u00a7 2\u00ba do art. 14, para que o Banco Central possa incluir crit\u00e9rios de porte da institui\u00e7\u00e3o, natureza e modelo de neg\u00f3cios, nos regulamentos de c\u00e2mbio.\r\nO art. 15 foi alterado para modernizar ainda mais a legisla\u00e7\u00e3o atual que trata dos investimentos no exterior. Trata-se de mudan\u00e7a t\u00e9cnica que formaliza e aumenta a seguran\u00e7a jur\u00eddica de normativo em vigor com reda\u00e7\u00e3o semelhante.\r\nFoi inclu\u00eddo novo art. 18 para tornar mais efetivo o estabelecimento de exig\u00eancias e de procedimentos especiais nas opera\u00e7\u00f5es do mercado de c\u00e2mbio.\r\nNo artigo seguinte, que disp\u00f5e sobre a possibilidade de opera\u00e7\u00f5es de troca de moeda estrangeira em esp\u00e9cie entre pessoas f\u00edsicas de forma eventual e n\u00e3o profissional, entendemos por bem, em consenso com o Banco Central do Brasil, reduzir o valor m\u00e1ximo de US$1.000,00 para US$500,00. Al\u00e9m disso, suprimimos o par\u00e1grafo \u00fanico, que estabelecia que o Banco Central do Brasil regulamentaria o assunto, uma vez que referida institui\u00e7\u00e3o n\u00e3o supervisionar\u00e1 tais opera\u00e7\u00f5es.\" Isso tamb\u00e9m foi acordado com o Banco Central.\r\n\"Por fim, visando \u00e0 moderniza\u00e7\u00e3o do mercado de c\u00e2mbio e como forma de aumentar o incentivo para que as institui\u00e7\u00f5es p\u00fablicas busquem tornar o ambiente de neg\u00f3cios mais simples para os cidad\u00e3os, inclu\u00edmos um novo art. 27, para estabelecer que a institui\u00e7\u00e3o autorizada a operar no mercado de c\u00e2mbio n\u00e3o poder\u00e1 exigir do cliente documentos, dados ou certid\u00f5es que estiverem dispon\u00edveis em suas pr\u00f3prias bases de dados ou em bases de dados p\u00fablicas e privadas de acesso amplo, podendo o cliente optar por apresentar tais documentos, dados ou certid\u00f5es.\r\nN\u00e3o houve altera\u00e7\u00e3o nos demais itens.\r\nPor tudo quanto exposto, votamos:\r\n(i) pela n\u00e3o implica\u00e7\u00e3o da mat\u00e9ria em aumento ou diminui\u00e7\u00e3o da receita ou da despesa p\u00fablica, n\u00e3o cabendo pronunciamento quanto \u00e0 adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria do Projeto de Lei n\u00ba 5.387, de 2019;\r\n(ii) pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 5.387, de 2019, na forma do substitutivo anexo, que ora apresentamos; e\r\n(iii) no m\u00e9rito, pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 5.387, de 2019, na forma do substitutivo anexo, que ora apresentamos.\"\r\nPor enquanto \u00e9 s\u00f3, Sr. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=209&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD orienta \"n\u00e3o\".\r\nEu queria acrescentar 1 minuto aos meus 3 minutos para poder tirar algumas d\u00favidas dos nossos colegas. \r\nO PSD gostaria de dar explica\u00e7\u00f5es, mais uma vez, sobre a abertura de contas em moeda estrangeira. Essa possibilidade j\u00e1 \u00e9 permitida aos brasileiros desde 1957, por meio do Decreto n\u00ba 42.820. Algumas empresas j\u00e1 podem fazer isso, como, por exemplo, ag\u00eancias de turismo, a Empresa Brasileira de Correios e Tel\u00e9grafos, empresas administradoras de cart\u00f5es de cr\u00e9ditos de uso internacional, empresas encarregadas da implementa\u00e7\u00e3o e desenvolvimento de projetos do setor energ\u00e9tico, entre muitas outras.\r\nPara se ter uma ideia, o Brasil est\u00e1 entre os pa\u00edses mais restritivos do mundo no quesito abertura de contas em moeda estrangeira. Todos os pa\u00edses desenvolvidos permitem tranquilamente a abertura desse tipo de conta. O Brasil s\u00f3 perde em restritividade para Cuba. Ent\u00e3o, n\u00e3o \u00e9 um problema a quest\u00e3o da abertura de contas.\r\nOutro ponto importante, Sr. Presidente: em 2020, mais de 2,5 milh\u00f5es de opera\u00e7\u00f5es de ingresso, vindas de trabalhadores brasileiros no exterior para a manuten\u00e7\u00e3o de suas fam\u00edlias, foram de pequenos valores, abaixo de 200 d\u00f3lares, ou seja, a popula\u00e7\u00e3o de baixa renda que n\u00e3o est\u00e1 no Brasil - \u00e0s vezes, infelizmente, porque n\u00e3o consegue um emprego aqui e vai para os Estados Unidos ou outros pa\u00edses - realiza, sim, opera\u00e7\u00f5es de baixo valor.\r\nEste projeto tende a desburocratizar esse processo, assim como tamb\u00e9m gerar muitos empregos em \u00e1reas importantes, como o setor de turismo, banc\u00e1rio, financeiro e de exporta\u00e7\u00e3o. Por exemplo, como mencionou o nosso colega, ele vai possibilitar ainda \u00e0s empresas de exporta\u00e7\u00e3o fazerem hedge cambial, uma prote\u00e7\u00e3o natural. Isso vai fazer com que o nosso (falha de transmiss\u00e3o).",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=217&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE, PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, VOTA\u00c7\u00c3O, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de vota\u00e7\u00e3o dos requerimentos de destaques apresentados ao Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria, primeiro, de agradecer a V.Exa. as palavras e fazer uma considera\u00e7\u00e3o.\r\nComo V.Exa. j\u00e1 sabe, essa \u00e9 uma mat\u00e9ria muito t\u00e9cnica. Por isso, temos pouqu\u00edssimos destaques, n\u00e3o sei se chegam a quatro, talvez menos. Ent\u00e3o, eu pediria a considera\u00e7\u00e3o de V.Exa. para que pud\u00e9ssemos votar n\u00e3o s\u00f3 o m\u00e9rito, mas tamb\u00e9m os destaques, at\u00e9 porque s\u00e3o poucos. Al\u00e9m disso, eles j\u00e1 est\u00e3o sendo discutidos aqui. Um deles, por exemplo, diz respeito justamente a essa quest\u00e3o da abertura de conta estrangeira, que, como eu disse, existe h\u00e1 muito tempo no Brasil. \u00c9 apenas, realmente, uma quest\u00e3o de avalia\u00e7\u00e3o dos dois lados.\r\nPor isso, estou pedindo a autoriza\u00e7\u00e3o de V.Exa. para que possamos votar n\u00e3o s\u00f3 o m\u00e9rito, mas tamb\u00e9m os destaques, pela relev\u00e2ncia desse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=220&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA DE PLEN\u00c1RIO, PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, REJEI\u00c7\u00c3O, PARECER (PROPOSI\u00c7\u00c3O LEGISLATIVA).",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 6, apresentadas ao Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente, o voto \u00e9 pela rejei\u00e7\u00e3o de todas essas emendas, apesar de n\u00e3o terem problemas na parte or\u00e7ament\u00e1ria, na parte t\u00e9cnica.\r\nEssa posi\u00e7\u00e3o n\u00e3o \u00e9 s\u00f3 minha, \u00e9 tamb\u00e9m a de um grupo de consultores do Banco Central, da Receita Federal, da CVM.\r\nGostaria de deixar claro, mais uma vez, que este \u00e9 um projeto que vem democratizar e modernizar o setor de c\u00e2mbio, propiciando maior competitividade entre os bancos e as institui\u00e7\u00f5es financeiras, principalmente no caso de fintechs e bancos digitais.\r\nEsse \u00e9 o meu parecer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=226&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-22T18:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, SUBSTITUTIVO, PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 5.387, de 2019, sobre o mercado de c\u00e2mbio brasileiro, o capital brasileiro no exterior, o capital estrangeiro no Pa\u00eds e a presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil, ressalvados os destaques.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD \u00e9 a favor do projeto. Algumas quest\u00f5es importantes precisam ser colocadas aqui. Lembro que o Brasil \u00e9 um pa\u00eds de imigrantes - eu, por exemplo, sou ligado \u00e0 fam\u00edlia italiana. S\u00f3 para se ter uma ideia, em 2020 foram realizadas 2,5 milh\u00f5es de opera\u00e7\u00f5es por brasileiros no exterior, para manuten\u00e7\u00e3o de seus familiares aqui. Os valores dessas opera\u00e7\u00f5es de ingresso, individualmente, foram baixos, em torno de 200 d\u00f3lares. Portanto, essa n\u00e3o \u00e9 uma quest\u00e3o s\u00f3 para ricos.\r\nOutra quest\u00e3o: este projeto vai fazer com que haja muita competitividade no sistema banc\u00e1rio e financeiro, permitindo que fintechs e outros bancos digitais entrem no mercado e tamb\u00e9m prestem um excelente servi\u00e7o.\r\nVamos trabalhar para que haja mais empregos e renda, atrav\u00e9s do apoio a setores importantes como o de exporta\u00e7\u00e3o, o setor de turismo, o setor de bares e restaurantes, o setor de hotelaria.\r\nDigo mais uma vez que essa quest\u00e3o da abertura de contas n\u00e3o \u00e9 um problema. Essa autoriza\u00e7\u00e3o j\u00e1 vem desde 1957. H\u00e1 a possibilidade de termos um projeto mais flex\u00edvel, dentro das normas do Banco Central, com autoriza\u00e7\u00e3o. Repito, isso foi aprovado pelo Banco Central, pela Receita Federal e pela CVM.\r\nEsse fluxo de moedas estrangeiras no Brasil tende a fazer com que o Banco Central n\u00e3o precise investir tanto no fundo cambial. Vou dar um exemplo. Empresas de exporta\u00e7\u00e3o que hoje fazem o hedge, fazem a compra do hedge, fazem a parte do seguro do hedge, da prote\u00e7\u00e3o nas opera\u00e7\u00f5es internacionais, poder\u00e3o, se este projeto se transformar em lei, abrir uma conta com moeda estrangeira e fazer um hedge natural.\r\nPor muito do que j\u00e1 se falou aqui, eu fa\u00e7o um pedido a todos os colegas. Respeito todas as bancadas, de esquerda, de centro e de direita, e pe\u00e7o a todos que entendam que este projeto apenas consolida procedimentos, normas e leis que v\u00eam desde 1920. No caso, a \u00fanica op\u00e7\u00e3o que temos para dar continuidade ao desenvolvimento econ\u00f4mico do Pa\u00eds \u00e9 desburocratizar o nosso sistema cambial. Para isso, temos este PL. Ent\u00e3o, mais uma vez, pe\u00e7o a todos a aprova\u00e7\u00e3o deste importante projeto, para o bem do Pa\u00eds, para o bem do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F12%2F2020&txPagina=232&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 39, com parecer contr\u00e1rio, apresentadas ao Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD vota \"n\u00e3o\". \r\nEste projeto \u00e9 de extrema import\u00e2ncia. A quest\u00e3o de autonomia do Banco Central \u00e9 uma quest\u00e3o t\u00e9cnica. Trata-se de um projeto de muitos anos que agora est\u00e1 sendo colocado em pauta. A tecnicidade do projeto \u00e9 importante para que todos aqueles que s\u00e3o funcion\u00e1rios concursados do Banco Central possam ter autonomia de apoiar a Diretoria e a Presid\u00eancia para tomarem decis\u00f5es corretas para o bem da nossa economia, para o bem do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 39, com parecer contr\u00e1rio, apresentadas ao Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD orienta \"n\u00e3o\", Sr. Presidente.\r\n\u00c9 important\u00edssimo este projeto para que o Banco Central tenha autonomia, e n\u00f3s possamos ter um rating maior em n\u00edvel internacional. Isso vai ajudar muito a nossa economia.\r\nAproveito para parabenizar V.Exa. por ter tomado a decis\u00e3o correta de fazer uma pauta conjunta com o Senado Federal. Parab\u00e9ns pela decis\u00e3o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=81&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLENARIO, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR,  PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVORAVEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 19, apresentada ao Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Para orientar a bancada. Sem revis\u00e3o do orador.) - N\u00e3o orientou, n\u00e3o, Sr. Presidente. Foi feito um acordo, mas eu gostaria de informar que eu acho que este ponto \u00e9 merit\u00f3rio.\r\nQuer queira, quer n\u00e3o, tecnicamente, se h\u00e1 uma quarentena para os diretores impedindo que eles se tornem funcion\u00e1rios de outros bancos do sistema financeiro, permitir que eles sejam consultores \u00e9 obviamente uma burla \u00e0 quarentena. Como venho de uma institui\u00e7\u00e3o t\u00e9cnica, eu n\u00e3o posso aceitar a possibilidade da burla de uma quarentena. \r\nA SRA. JANDIRA FEGHALI (PCdoB - RJ) - Muito bem!(Palmas.)\r\nO SR. OTTO ALENCAR FILHO (Bloco/PSD - BA) - V.Exas. sabem muito bem que o PSD tem uma posi\u00e7\u00e3o social democrata. Ent\u00e3o, o partido vai mudar a orienta\u00e7\u00e3o para \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PLP 19/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.\r\nSAUDA\u00c7\u00c3O, JO\u00c3O CAMPOS, PREFEITO, RECIFE (PE).",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 16, apresentada ao Projeto de Lei Complementar n\u00ba 19, de 2019, sobre a defini\u00e7\u00e3o dos objetivos do Banco Central do Brasil, a sua autonomia, a nomea\u00e7\u00e3o e exonera\u00e7\u00e3o do Presidente e Diretores da institui\u00e7\u00e3o. Sauda\u00e7\u00e3o ao ex-Deputado Federal e atual Prefeito Municipal de Recife, Jo\u00e3o Campos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD orienta \"n\u00e3o\". \r\nTamb\u00e9m quero externar o meu abra\u00e7o ao Prefeito Jo\u00e3o Campos, ex- Deputado Federal e tamb\u00e9m nosso amigo. \r\nA voc\u00ea, desejo um grande sucesso, amigo!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=210&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T21:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, PRESTA\u00c7\u00c3O DE INFORMA\u00c7\u00c3O, BANCO CENTRAL DO BRASIL (BACEN), DADOS ESTAT\u00cdSTICOS, MACROECONOMIA, APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Import\u00e2ncia da aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 5.387, de 2019, a respeito do mercado de c\u00e2mbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no Pa\u00eds e da presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero apenas fazer um esclarecimento a todos os colegas: na verdade, hoje, j\u00e1 existe a possibilidade, para estrangeiros e brasileiros, de abertura de conta em moeda estrangeira.\r\nMas a\u00ed todos v\u00e3o me perguntar: \"Bom, se existe, porque h\u00e1 obstru\u00e7\u00e3o nesse caso?\" Porque as pessoas se confundem. Hoje, o grande problema n\u00e3o \u00e9 a possibilidade de abertura de conta em moeda estrangeira, mas, sim, a sua operacionalidade. A burocracia \u00e9 t\u00e3o grande, t\u00e3o gigantesca, que acaba impedindo n\u00e3o s\u00f3 empresas brasileiras - micro, pequena e m\u00e9dia -, mas tamb\u00e9m pessoas f\u00edsicas.\r\nAgora, \u00e9 importante dizer que, mesmo com a aprova\u00e7\u00e3o desse projeto, as contas de pessoas f\u00edsicas ser\u00e3o bastante limitadas. Vou dar um exemplo de como seria a aprova\u00e7\u00e3o de abertura de conta para uma pessoa f\u00edsica. Vamos imaginar que seja um produtor de soja. Esse produtor enfrenta uma burocracia muito grande para abrir uma conta em moeda estrangeira. Com o advento da redu\u00e7\u00e3o da burocracia e da agiliza\u00e7\u00e3o do sistema de c\u00e2mbio, vai-se permitir que ele abra essa conta e fa\u00e7a suas transa\u00e7\u00f5es em moeda estrangeira, at\u00e9 porque, como se sabe, isso vai ajudar muito o setor agr\u00edcola, vai permitir que as tarifas caiam e que possamos ser mais eficientes n\u00e3o s\u00f3 no setor agr\u00edcola, mas tamb\u00e9m em v\u00e1rios outros setores, como o de exporta\u00e7\u00e3o, hotelaria, turismo.\r\nEnt\u00e3o, especificamente nesse caso, sobre a abertura de contas, posso garantir que j\u00e1 h\u00e1 esse direito. E cito aqui o Decreto n\u00ba 42.820, de 1957, que j\u00e1 permitia a abertura de contas em moeda estrangeira.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=239&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, CAPITAL NACIONAL (ECONOMIA), PA\u00cdS ESTRANGEIRO, CAPITAL ESTRANGEIRO, ESCLARECIMENTO, DISPOSITIVO LEGAL,  BANCO CENTRAL DO BRASIL (BACEN), AUTORIZA\u00c7\u00c3O, ABERTURA, CONTA BANC\u00c1RIA, MOEDA ESTRANGEIRA, D\u00d3LAR.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Esclarecimento \u00e0 Oposi\u00e7\u00e3o sobre o teor do Projeto de Lei n\u00ba 5.387, de 2019, a respeito do mercado de c\u00e2mbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no Pa\u00eds e da presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero apenas esclarecer tecnicamente a preocupa\u00e7\u00e3o, que \u00e9 salutar, da Oposi\u00e7\u00e3o, sobre a quest\u00e3o do risco. O que eu vou falar s\u00e3o verifica\u00e7\u00f5es do pr\u00f3prio Banco Central.\r\nN\u00e3o existe essa preocupa\u00e7\u00e3o de risco, porque n\u00e3o estamos fazendo nenhuma inova\u00e7\u00e3o. Para que se possa ter conta em moeda estrangeira, obrigatoriamente, o Banco Central verifica se existe algum risco cambial e se existe algum aumento de efici\u00eancia de neg\u00f3cio, para aprovar a possibilidade da conta.\r\nOutra coisa importante \u00e9 a seguinte: o Conselho Monet\u00e1rio Nacional j\u00e1 tem a prerrogativa de estabelecer outras situa\u00e7\u00f5es. Somente quando v\u00ea especula\u00e7\u00e3o de moeda estrangeira ele pode mitigar o risco cambial.\r\nFazendo um par\u00e2metro, quero dizer que este projeto foi aprovado por t\u00e9cnicos do Banco Central, da Receita Federal e da CVM. Fizemos quest\u00e3o de fazer com que o projeto viesse a aumentar a concorr\u00eancia entre os bancos. Na verdade, vamos ter trabalhando Fintechs, bancos digitais e corretoras de c\u00e2mbio, que v\u00e3o facilitar e fazer com que o sistema monet\u00e1rio seja mais eficiente e tenha um custo menor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=247&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T22:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c1O EM SEPARADO, DISPOSITIVO LEGAL, SUBSTITUTIVO, PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para supress\u00e3o do art. 26 do Substitutivo oferecido ao Projeto de Lei n\u00ba 5.387, de 2019, a respeito do mercado de c\u00e2mbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no Pa\u00eds e da presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero dar acrescentar um dado importante, porque eu acho que contra fatos n\u00e3o h\u00e1 argumentos.\r\nO SR. PRESIDENTE (Marcelo Ramos. Bloco/PL - AM) - Vou usar o tempo de orienta\u00e7\u00e3o do PSD para V.Exa., que tem 1 minuto.\r\nO SR. OTTO ALENCAR FILHO (Bloco/PSD - BA) - Est\u00e1 o.k.\r\nMuitos brasileiros que est\u00e3o fora do Pa\u00eds fazem opera\u00e7\u00f5es de c\u00e2mbio. Para que os senhores tenham uma ideia, s\u00f3 no ano de 2020, 20 milh\u00f5es de opera\u00e7\u00f5es foram feitas, com a m\u00e9dia de 200 d\u00f3lares por opera\u00e7\u00e3o. Ou seja, esse n\u00e3o \u00e9 um projeto apenas para bancos e institui\u00e7\u00f5es financeiras, mas, sim, para muitos brasileiros - como foi dito aqui por alguns dos nossos colegas - que est\u00e3o fora do Pa\u00eds, por conta da dificuldade econ\u00f4mica que nosso povo est\u00e1 passando, e transferem esses recursos para o Brasil.\r\nEnt\u00e3o, \u00e9 importante que n\u00f3s sigamos levando em considera\u00e7\u00e3o fatos, porque contra fatos n\u00e3o h\u00e1 argumentos.\r\nPela manuten\u00e7\u00e3o do texto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T22:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5387/2019, PROJETO DE LEI ORDIN\u00c1RIA, NORMA GERAL, MERCADO CAMBIAL, OPERA\u00c7\u00c3O DE C\u00c2MBIO, TAXA DE C\u00c2MBIO, SIMPLIFICA\u00c7\u00c3O.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Simplifica\u00e7\u00e3o e inova\u00e7\u00e3o do sistema de c\u00e2mbio brasileiro pelo Projeto de Lei n\u00ba 5.387, de 2019, a respeito do mercado de c\u00e2mbio brasileiro, do capital brasileiro no exterior, do capital estrangeiro no Pa\u00eds e da presta\u00e7\u00e3o de informa\u00e7\u00f5es ao Banco Central do Brasil. Agradecimento aos Parlamentares pelo apoio \u00e0 proposi\u00e7\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero apenas finalizar a minha fala.\r\n\u00c9 importante que todos saibam que hoje o sistema de c\u00e2mbio brasileiro s\u00f3 perde em burocracia para o sistema de Cuba. N\u00f3s estamos elaborando um sistema que vai ser mais simplificado, \u00e1gil, moderno, e que faz uma compila\u00e7\u00e3o de aproximadamente 40 dispositivos legais em um s\u00f3 projeto.\r\nN\u00f3s estamos fazendo tamb\u00e9m uma grande inova\u00e7\u00e3o, que \u00e9 importante. Todo o recolhimento dessas opera\u00e7\u00f5es, de pessoas f\u00edsicas e jur\u00eddicas, ficar\u00e3o sob a responsabilidade das institui\u00e7\u00f5es financeiras.\r\nPor que isso \u00e9 importante? Porque facilita para que as empresas e as pessoas f\u00edsicas n\u00e3o tenham dificuldade no c\u00e1lculo nem no pagamento dos impostos. Essa opera\u00e7\u00e3o tamb\u00e9m vai ficar automatizada.\r\nGostaria de aproveitar para agradecer a V.Exas. o apoio nesse projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=260&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-03T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 1006/2020, MEDIDA PROVISORIA, AUMENTO, MARGEM CONSIGN\u00c1VEL, CR\u00c9DITO CONSIGNADO, APOSENTADO, PENSIONISTA, INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), REGIME GERAL DE PREVID\u00caNCIA SOCIAL (RGPS), CALAMIDADE P\u00daBLICA, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, CAPIT\u00c3O ALBERTO NETO, RELATOR.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Apoio \u00e0 aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.006, de 2020, sobre o aumento da margem de cr\u00e9dito consignado dos titulares de benef\u00edcios de aposentadoria e pens\u00e3o, mantidos pelo Regime Geral de Previd\u00eancia Social, durante a epidemia de coronav\u00edrus. Apelo ao Relator Capit\u00e3o Alberto Neto de acatamento da emenda destinada \u00e0 suspens\u00e3o, por 120 dias, do pagamento de empr\u00e9stimos consignados de aposentados e pensionistas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu agrade\u00e7o o espa\u00e7o.\r\nEu tamb\u00e9m quero me juntar ao coro dos Deputados da C\u00e2mara Federal que v\u00e3o aprovar o projeto que aumenta o cr\u00e9dito para aposentados e pensionais, mas pe\u00e7o mais do que isso ao Relator. Solicito a S.Exa. que possa aprovar a suspens\u00e3o por 4 meses do pagamento dos empr\u00e9stimos consignados. Inclusive, existe um projeto do Senador Otto Alencar sobre a mat\u00e9ria que foi aprovado no Senado e agora est\u00e1 na C\u00e2mara para que seja avaliado. \r\nEu acho que este \u00e9 o momento de ajudarmos um pouco os mais de 35 milh\u00f5es de aposentados e pensionistas que precisam de nosso apoio nesta grave crise econ\u00f4mica.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F3%2F2021&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-22T14:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "EMENDA, PL 5829/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA, MODELO, GERA\u00c7\u00c3O DISTRIBU\u00cdDA, ENERGIA EL\u00c9TRICA, FONTE ALTERNATIVA DE ENERGIA, MICROGERADOR DE ENERGIA, MINIGERADOR DE ENERGIA, REDU\u00c7\u00c3O, TARIFA, OTTO ALENCAR FILHO, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Defesa de emenda apresentada pelo orador, relativa \u00e0 institui\u00e7\u00e3o do Marco Legal da Microgera\u00e7\u00e3o e Minigera\u00e7\u00e3o Distribu\u00edda e do Sistema de Compensa\u00e7\u00e3o de Energia El\u00e9trica  - SCEE,  ao Projeto de Lei n\u00ba 5.829, de 2019, sobre altera\u00e7\u00e3o da reda\u00e7\u00e3o do art. 26 da Lei n\u00ba 9.427, de 1996, acerca da institui\u00e7\u00e3o da Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL e do disciplinamento do regime das concess\u00f5es de servi\u00e7os p\u00fablicos de energia el\u00e9trica. Import\u00e2ncia das fontes de energia renov\u00e1vel ao desenvolvimento do Brasil.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (Bloco/PSD - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, eu agrade\u00e7o a aten\u00e7\u00e3o e o espa\u00e7o. \r\nVenho falar sobre um assunto muito importante para mim e para a Bahia. Refiro-me \u00e0s energias renov\u00e1veis, em especial a energia e\u00f3lica e a energia solar fotovoltaica. Para a Bahia, principalmente nos momentos de maior crise h\u00eddrica, especialmente no Semi\u00e1rido, os investimentos em energias renov\u00e1veis geraram muitos empregos, centenas de empregos, bem como os investimentos de empresas de todo o mundo. Por isso, \u00e9 t\u00e3o importante para mim defender n\u00e3o s\u00f3 as energias renov\u00e1veis, como tamb\u00e9m a isen\u00e7\u00e3o para os micro e pequenos geradores de energia.\r\nFoi por isso, Sr. Presidente, que eu fiz uma emenda ao Projeto de Lei n\u00ba 5.829, de 2019, de relatoria do nosso amigo Deputado Lafayette de Andrada. A proposi\u00e7\u00e3o isenta at\u00e9 500 quilowatts a gera\u00e7\u00e3o de micro e pequenos geradores. \u00c9 importante que n\u00f3s fa\u00e7amos este esfor\u00e7o e tenhamos uma vis\u00e3o de longo prazo, como aconteceu na Alemanha. A gera\u00e7\u00e3o de micro e pequenos geradores produz muito cr\u00e9dito e apoia nosso sistema de energia. A longo prazo, s\u00f3 quem tem a ganhar \u00e9 realmente o povo brasileiro, o usu\u00e1rio.\r\nObviamente, eu acho que os distribuidores precisar\u00e3o se adaptar, como aconteceu na Alemanha e em outros pa\u00edses que tamb\u00e9m est\u00e3o percebendo a import\u00e2ncia de se investir cada vez mais na gera\u00e7\u00e3o de energias renov\u00e1veis e na sua armazenagem.\r\nEm nome do L\u00edder Antonio Brito e em nome de todos os meus colegas, assim como no do Sr. Presidente da C\u00e2mara, o Deputado Arthur Lira, pe\u00e7o ao meu partido que, junto com o Relator, cheguemos a um denominador comum para permitir que esta parcela dos micro e pequenos geradores tenha isen\u00e7\u00e3o e, assim, continuemos apoiando e investindo nesta ind\u00fastria t\u00e3o importante para a Bahia e para o Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F4%2F2021&txPagina=100&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-15T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OTTO ALENCAR, SENADOR, EXERC\u00cdCIO ILEGAL DA MEDICINA, DEN\u00daNCIA, CR\u00cdTICA.\r\nJAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, GOVERNO FEDERAL, GEST\u00c3O, CONTR\u00c1RIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Inconsist\u00eancia da acusa\u00e7\u00e3o de Deputado contra o Senador Otto Alencar por exerc\u00edcio ilegal da medicina. Manuten\u00e7\u00e3o pelo orador do posicionamento pol\u00edtico contra o Governo Jair Bolsonaro.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, caros colegas, dificilmente eu venho aqui a esta tribuna fazer algum discurso. Mas h\u00e1 poucos minutos, um Deputado Federal, cujo nome eu n\u00e3o sei, citou o nome do Senador Otto Alencar mentirosamente, descaradamente, dizendo que o Senador Otto Alencar n\u00e3o era m\u00e9dico.\r\nEu nunca imaginei em minha vida ter que vir ao palanque da C\u00e2mara Federal para responder e defender uma verdade que \u00e9 irrefut\u00e1vel. O Senador Otto Alencar n\u00e3o s\u00f3 \u00e9 m\u00e9dico da Universidade Federal da Bahia, como foi Professor da Universidade Federal da Bahia. Como m\u00e9dico, ele trabalhou de gra\u00e7a para a Irm\u00e3 Dulce durante 10 anos, dando um plant\u00e3o toda quinta-feira de gra\u00e7a. Essa mulher hoje \u00e9 considerada santa.\r\nEu posso dizer a V.Exa., Sr. Presidente, que sistematicamente o Senador Otto Alencar, eu e minha fam\u00edlia temos sido atacados de forma covarde, de forma mentirosa. Mas n\u00f3s n\u00e3o vamos nos intimidar. S\u00e3o quatro gera\u00e7\u00f5es de homens de bem na pol\u00edtica, quatro gera\u00e7\u00f5es. Em nenhuma dessas gera\u00e7\u00f5es n\u00f3s tivemos um s\u00f3 processo. N\u00e3o respondemos a nada. Somos pessoas de bem, de coragem, de trabalho. N\u00e3o estamos aqui para brincar. Estamos aqui para trabalhar, para defender a Bahia, para defender o Brasil. N\u00f3s n\u00e3o vamos aceitar esses ataques covardes, mentirosos, e essas fake news.\r\nPodem continuar nos atacando, Presidente, mas n\u00f3s vamos continuar lutando pela Bahia e pelo Brasil. N\u00f3s vamos continuar contra o Governo Bolsonaro e o Presidente Bolsonaro, que vem de forma anti\u00e9tica atuando junto \u00e0 pol\u00edtica brasileira. N\u00e3o \u00e9 dessa forma que se faz pol\u00edtica. N\u00f3s temos, sim, a discuss\u00e3o das ideias, temos. Mas esta aqui \u00e9 uma Casa de homens e de mulheres de bem. Aqui n\u00e3o pode haver mentira. Aqui n\u00e3o pode haver covardia. \u00c9 assim agora que se faz pol\u00edtica, fazendo com que uma verdade absoluta se torne uma mentira?\r\nEstou aqui para defender e vou continuar defendendo a minha Bahia, o meu Pa\u00eds e a minha fam\u00edlia, e o Senador Otto Alencar. E vamos continuar lutando por aqueles que realmente querem o melhor para o Brasil, n\u00e3o esse Brasil que est\u00e1 a\u00ed, um Brasil de mentirosos. Esse tipo de Brasil \u00e9 o que ataca, que quer fazer de uma verdade absoluta uma mentira. N\u00e3o \u00e9 poss\u00edvel isso!\r\nEstou aqui para defender o Senador Otto Alencar, a minha fam\u00edlia. Estou a defender a Bahia. Vamos continuar lutando. E n\u00e3o h\u00e1 possibilidade de n\u00f3s recuarmos, por nenhum tipo de amea\u00e7a ou de enfrentamento. Somos homens de coragem e de bem. Estamos aqui para lutar, e vamos continuar lutando.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 1034/2021, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, AUMENTO, CONTRIBUI\u00c7\u00c3O SOCIAL SOBRE O LUCRO L\u00cdQUIDO (CSLL), PESSOA JUR\u00cdDICA, INSTITUI\u00c7\u00c3O FINANCEIRA, TRIBUTA\u00c7\u00c3O, OTTO ALENCAR FILHO, DEPUTADO FEDERAL, ORADOR, DECLARA\u00c7\u00c3O DE VOTO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Registro de voto favor\u00e1vel ao texto oferecido pelo Senado Federal \u00e0 Medida Provis\u00f3ria n\u00ba 1.034, de 2021, a respeito da majora\u00e7\u00e3o tribut\u00e1ria da Contribui\u00e7\u00e3o Social sobre o Lucro L\u00edquido - CSLL do setor financeiro; da altera\u00e7\u00e3o da isen\u00e7\u00e3o do Imposto sobre Produtos Industrializados - IPI na compra de autom\u00f3veis por pessoa com defici\u00eancia; da revoga\u00e7\u00e3o da tributa\u00e7\u00e3o de produtos destinados a centrais petroqu\u00edmicas at\u00e9 31/12/2021; e da dedu\u00e7\u00e3o do cr\u00e9dito presumido relativo \u00e0 contribui\u00e7\u00e3o para o PIS/PASEP de pessoa jur\u00eddica fabricante de produtos utilizados em hospitais, cl\u00ednicas, consult\u00f3rios m\u00e9dicos e campanhas de vacina\u00e7\u00e3o at\u00e9 31/12/2025.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quanto \u00e0 MP 1.034, eu queria deixar registrado que votei contra o meu partido, porque era imprescind\u00edvel que mantiv\u00e9ssemos este prazo do REIQ, de 8 anos, que \u00e9 muito importante, e tamb\u00e9m o apoio aos bancos de desenvolvimento e \u00e0s ag\u00eancias de fomento do Brasil.\r\nFui Presidente da Ag\u00eancia de Fomento do Estado da Bahia, um instrumento de fomento important\u00edssimo, que apoia as micro, as pequenas e as m\u00e9dias empresas. N\u00e3o existe l\u00f3gica nenhuma em haver os mesmos impostos para bancos privados e para bancos de desenvolvimento e ag\u00eancias de fomento.\r\nEnt\u00e3o, eu queria deixar claro que votei a favor do texto do Senado. Acho que estamos, neste momento, criando um grande problema, principalmente para aquelas m\u00e9dias, pequenas e microempresas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T22:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 135/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, VOTO IMPRESSO, REJEI\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "Rejei\u00e7\u00e3o pela Casa da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 135, de 2019, sobre a obrigatoriedade de emiss\u00e3o de c\u00e9dulas f\u00edsicas de vota\u00e7\u00e3o em elei\u00e7\u00f5es, plebiscitos e referendos (voto impresso).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente Marcelo Ramos, hoje \u00e9 um dia hist\u00f3rico, porque a C\u00e2mara mostrou mais uma vez a sua coragem diante das amea\u00e7as do Presidente Jair Bolsonaro. Hoje n\u00f3s mostramos que a democracia tem o seu valor e conta com a coragem dos Deputados e das Deputadas Federais que aqui estiveram. Hoje demonstramos que o nosso sistema, que hoje \u00e9 muito s\u00e9rio, atual, audit\u00e1vel e seguro, se manter\u00e1. Vamos continuar, sim, lutando pela democracia, lutando pelo Brasil e contra este Governo que a\u00ed est\u00e1 e que realmente n\u00e3o tem nada a contribuir para o Brasil.\r\nMuito obrigado.\r\nGrande abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-18T18:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": null,
+        "nomeDeputado": "Otto Alencar Filho",
+        "sumario": "",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. OTTO ALENCAR FILHO (PSD - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, o objetivo da presente emenda \u00e9 garantir a manuten\u00e7\u00e3o dos benef\u00edcios da Resolu\u00e7\u00e3o Normativa n\u00ba 482, de 2012, da ANEEL \u2014 Ag\u00eancia Nacional de Energia El\u00e9trica, para os empreendimentos de microgera\u00e7\u00e3o, minigera\u00e7\u00e3o distribu\u00edda e de pot\u00eancia instalada at\u00e9 500 kW. Acreditamos que a ainda baixa participa\u00e7\u00e3o da gera\u00e7\u00e3o solar na matriz el\u00e9trica nacional, cerca de 2%, aliada a seus benef\u00edcios, tais como redu\u00e7\u00e3o de perdas el\u00e9tricas, economia de \u00e1gua nos reservat\u00f3rios das hidrel\u00e9tricas, redu\u00e7\u00e3o da utiliza\u00e7\u00e3o de termoel\u00e9tricas mais caras e poluentes, amplia\u00e7\u00e3o da gera\u00e7\u00e3o limpa e renov\u00e1vel de eletricidade, redu\u00e7\u00e3o do uso de fontes f\u00f3sseis, justificam a manuten\u00e7\u00e3o das condi\u00e7\u00f5es atuais de incentivo a esses empreendimentos.\r\nDestacamos como de especial interesse os empreendimentos na modalidade autoconsumo remoto, caracterizados por unidades consumidoras de titularidade de uma mesma pessoa jur\u00eddica, inclu\u00eddas matriz e filial, ou de pessoa f\u00edsica que possua unidade consumidora com microgera\u00e7\u00e3o e minigera\u00e7\u00e3o distribu\u00edda em local diferente das unidades consumidoras, dentro da mesma \u00e1rea de concess\u00e3o ou permiss\u00e3o, nas quais a energias excedente ser\u00e1 compensada. Uma das vantagens dessa modalidade de compensa\u00e7\u00e3o \u00e9 possibilitar o atendimento a unidades consumidoras sujeitas ao sombreamento, ou seja, propriedades localizadas em lugares com muita sombra, que n\u00e3o geram a quantidade necess\u00e1ria de energia. Atrav\u00e9s do autoconsumo remoto, as placas solares s\u00e3o posicionadas em um espa\u00e7o sem a incid\u00eancia de sombreamento, para que os cr\u00e9ditos sejam abatidos na unidade consumidora onde existe uma \u00e1rea grande de sombra. Outra grande vantagem do autoconsumo remoto \u00e9 possibilitar a instala\u00e7\u00e3o de sistema de gera\u00e7\u00e3o de energia de maior porte e pot\u00eancia, evitando in\u00fameras instala\u00e7\u00f5es menores em locais distintos, maximizando o ganho econ\u00f4mico do consumidor.\r\nVale acrescentar, ainda, que as altera\u00e7\u00f5es propostas nada contrariam os objetivos do Projeto de Lei n\u00ba 5.829, de 2019, nem o seu p\u00fablico-alvo, os pequenos consumidores de energia.\r\nSr. Presidente, este \u00e9 um destaque que vem a apoiar micro e pequenos empres\u00e1rios e tamb\u00e9m produtores rurais que est\u00e3o em \u00e1reas distantes do nosso Brasil. N\u00f3s sabemos a necessidade e a import\u00e2ncia de apoiar essas micro e pequenas empresas e esses produtores rurais. N\u00f3s, por exemplo, na Bahia, temos uma dificuldade muito grande com as extens\u00f5es de rede de energia da nossa empresa de energia el\u00e9trica, a COELBA, que foi privatizada. Existe um grande esfor\u00e7o do Governo do Estado, do Governador Rui Costa e do Secret\u00e1rio Marcus Cavalcanti \u2014 e aqui eu os parabenizo pelo trabalho \u2014, de lutar para que a COELBA continue realizando os investimentos para o desenvolvimento econ\u00f4mico e social do meu Estado. Mas n\u00e3o tem sido o bastante. Por isso, a necessidade que n\u00f3s temos de aprovar este destaque. Este destaque deve ser aprovado para que n\u00f3s continuemos com o avan\u00e7o das energias renov\u00e1veis, principalmente no interior da Bahia, apoiando micro, pequenas e m\u00e9dias empresas, mas tamb\u00e9m produtores rurais, principalmente, aqueles que est\u00e3o fazendo com que o Brasil continue no caminho do desenvolvimento, no caminho da gera\u00e7\u00e3o de emprego e renda, no caminho para que este Pa\u00eds saia desse marasmo econ\u00f4mico e social em que n\u00f3s estamos.\r\nPortanto, pe\u00e7o a todas as bancadas, em especial \u00e0 minha bancada do PSD, que aprovemos este projeto. Sei que h\u00e1 muitos Deputados da bancada ruralista que v\u00e3o me apoiar, porque sabem da minha luta para ajudar esse setor que \u00e9 imprescind\u00edvel e que vem fazendo realmente a mudan\u00e7a no nosso Pa\u00eds. \r\nVejo aqui muitos colegas, inclusive o Deputado Neucimar, que est\u00e1 aqui tamb\u00e9m. A nossos amigos todos est\u00e3o aqui, pe\u00e7o a V.Exas. apoio para que possamos aprovar o projeto.\r\nMais uma vez, eu gostaria de deixar claro tamb\u00e9m que sou contra a PEC 32. Serei contra. Acho que n\u00e3o \u00e9 correto neste momento, dessa forma, fazermos uma reforma administrativa que venha atacar cada vez mais o trabalhador brasileiro, o funcion\u00e1rio p\u00fablico brasileiro. \r\nMuito obrigado, Sr. Presidente. Estas s\u00e3o as minhas declara\u00e7\u00f5es.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

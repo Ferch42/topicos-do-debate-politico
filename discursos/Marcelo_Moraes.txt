@@ -1,0 +1,74 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-24T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "LEI ESTADUAL, POL\u00cdTICA P\u00daBLICA, ENERGIA SOLAR FOTOVOLTAICA, AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), TRIBUTA\u00c7\u00c3O, GERADOR DE ENERGIA, FONTE ALTERNATIVA DE ENERGIA, PRESERVA\u00c7\u00c3O AMBIENTAL.\r\nFUMICULTOR, RIO GRANDE DO SUL, HOMENAGEM, PRODUTOR RURAL, TABACO, EXPORTA\u00c7\u00c3O.",
+        "nomeDeputado": "Marcelo Moraes",
+        "sumario": "Retrocesso da decis\u00e3o da Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL de tributa\u00e7\u00e3o da energia fotovoltaica. Transcurso do Dia do Produtor de Tabaco. Sauda\u00e7\u00f5es aos fumicultores do Estado do Rio Grande do Sul e do Pa\u00eds.",
+        "tipoDiscurso": "COMUNICA\u00c7\u00c3O PARLAMENTAR",
+        "transcricao": "O SR. MARCELO MORAES (Bloco/PTB - RS. Sem revis\u00e3o do orador.) - Boa tarde, Sra. Presidente, Deputada Liziane Bayer. Quero saudar os colegas Deputados e Deputadas.\r\nQuando fomos colegas na Assembleia Legislativa do Rio Grande do Sul, Deputada Liziane, eu fui autor da lei que institui a pol\u00edtica p\u00fablica de incentivo \u00e0 energia fotovoltaica, no Estado. Hoje, venho a esta tribuna com muita preocupa\u00e7\u00e3o e contrariedade a essa iniciativa da ANEEL de come\u00e7ar a taxar os geradores de energia fotovoltaica.\r\nIsso, na verdade, \u00e9 um retrocesso para o nosso Pa\u00eds. N\u00f3s sabemos que muitos empreendedores fizeram altos investimentos nessa \u00e1rea. O pensamento de que as placas fotovoltaicas est\u00e3o se utilizando da rede das concession\u00e1rias \u00e9 absurdo.\r\nNa verdade, as placas fotovoltaicas est\u00e3o abastecendo as redes das companhias el\u00e9tricas, e n\u00f3s temos que entender que essa medida \u00e9 um retrocesso para o nosso Pa\u00eds.\r\nN\u00f3s sabemos que essa energia \u00e9 uma energia pura, uma energia limpa, que n\u00e3o traz nenhum dano ao meio ambiente. Essa medida vai na contram\u00e3o de todo aquele incentivo que n\u00f3s dever\u00edamos dar \u00e0 utiliza\u00e7\u00e3o da energia fotovoltaica. \r\nMudando de assunto, Sra. Presidente, eu quero aproveitar esta oportunidade na tribuna da C\u00e2mara dos Deputados para parabenizar os fumicultores e fumicultoras do nosso Pa\u00eds. L\u00e1 no Rio Grande do Sul, no dia 28 de outubro \u00e9 comemorado o Dia do Produtor de Tabaco. Sem fazer nenhum tipo de apologia ao consumo de cigarro, eu quero parabenizar todos esses agricultores e agricultoras que, de sol a sol, com seu suor, al\u00e9m de conseguirem manter suas fam\u00edlias, conseguem manter uma economia forte no nosso Pa\u00eds e, principalmente, no Estado do Rio Grande do Sul. N\u00f3s temos 75 mil fam\u00edlias produtoras, em 274 Munic\u00edpios. E n\u00f3s temos no Rio Grande do Sul, como a segunda maior exporta\u00e7\u00e3o, a produ\u00e7\u00e3o de tabaco.\r\nEnt\u00e3o, parab\u00e9ns a todos esses produtores e produtoras que, al\u00e9m de fortalecer a economia no campo, tamb\u00e9m fortalecem a cidade, porque com certeza esses recursos abastecem todo o com\u00e9rcio dos Munic\u00edpios produtores, e n\u00f3s temos que, cada vez mais, fortalecer a economia e a agricultura do nosso Pa\u00eds.\r\nParab\u00e9ns, fumicultores e fumicultoras!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2019&txPagina=82&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "OT\u00c1VIO MARCELO HIRSCH, RICARDO BRINGMANN, CLAUDIOMIRO DE OLIVEIRA FLORES, MEMBRO, ASSOCIA\u00c7\u00c3O CIVIL, HABITANTE, SANTA CRUZ DO SUL (RS), VISITA, MARCELLO MORAES, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Marcelo Moraes",
+        "sumario": "Visita ao gabinete parlamentar do orador dos representantes da Associa\u00e7\u00e3o dos Moradores de Linha Santa Cruz - AMORLISC, Ot\u00e1vio Marcelo Hirsch, Ricardo Bringmann e Claudiomiro de Oliveira Flores.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. MARCELO MORAES (Bloco/PTB - RS. Sem revis\u00e3o do orador.) - Boa tarde, Presidente. Eu quero destacar uma importante visita que eu recebo esta semana, aqui em Bras\u00edlia, do Ot\u00e1vio Marcelo Hirsch, do Ricardo Bringmann e do Claudiomiro de Oliveira Flores. Eles s\u00e3o representantes da AMORLISC - Associa\u00e7\u00e3o dos Moradores de Linha Santa Cruz, localidade da minha cidade, da minha Santa Cruz, que \u00e9 ber\u00e7o da coloniza\u00e7\u00e3o alem\u00e3 e que no dia 16 de novembro realiza o jantar da coloniza\u00e7\u00e3o alem\u00e3.\r\nParabenizo esse grupo que, de forma muito valente, ao longo dos anos, tem levado muitas melhorias para aquela comunidade. E aqui em Bras\u00edlia, durante esta semana, n\u00f3s visitamos muitos Minist\u00e9rios, Deputado Giovani Cherini, tentando buscar alguns recursos e projetos que possam melhorar e desenvolver cada vez mais aquela regi\u00e3o.\r\nObrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=72&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-13T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , PDC 956/2018, PROJETO DE DECRETO LEGISLATIVO, BASE DE APOIO POLITICO, GOVERNO, VOTO CONTRARIO.",
+        "nomeDeputado": "Marcelo Moraes",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 956, de 2018, para a susta\u00e7\u00e3o dos efeitos da Resolu\u00e7\u00e3o n\u00ba 23, de 2018, do extinto Minist\u00e9rio do Planejamento, Desenvolvimento e Gest\u00e3o, acerca do estabelecimento de diretrizes e par\u00e2metros de custeio, pelas empresas estatais federais, de benef\u00edcios de assist\u00eancia \u00e0 sa\u00fade aos empregados.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARCELO MORAES (Bloco/PTB - RS. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, hoje o Governo j\u00e1 paga at\u00e9 50% do valor do plano de sa\u00fade. Se retirarmos esta regra, poder\u00e1 ocorrer a extrapola\u00e7\u00e3o desses 50% e n\u00e3o haver recursos para o pagamento.\r\nPor isso, o Governo orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-13T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, ARTHUR LIRA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, PAUTA (PROCESSO LEGISLATIVO), APROVA\u00c7\u00c3O, PL 6726/2016, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, CONSTITUI\u00c7\u00c3O FEDERAL (1988), TETO SALARIAL, ADMINISTRA\u00c7\u00c3O P\u00daBLICA, AGENTE P\u00daBLICO, APOSENTADORIA, PENS\u00c3O, REMUNERA\u00c7\u00c3O, MINISTRO DO SUPREMO TRIBUNAL FEDERAL, MARCELO MORAES, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), APENSA\u00c7\u00c3O, IMPROBIDADE ADMINISTRATIVA.",
+        "nomeDeputado": "Marcelo Moraes",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Arthur Lira pela vota\u00e7\u00e3o do Projeto de Lei n\u00ba 6.726, de 2016, sobre a regulamenta\u00e7\u00e3o do limite remunerat\u00f3rio no servi\u00e7o p\u00fablico.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. MARCELO MORAES (Bloco/PTB - RS. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu quero parabeniz\u00e1-lo pela coragem de colocar em vota\u00e7\u00e3o este projeto. Na verdade, h\u00e1 muitos anos, esta Casa discutia sobre isso. Em todos os cantos, n\u00f3s ouv\u00edamos os Parlamentares dizendo que eram a favor, mas misteriosamente nunca ningu\u00e9m colocou em vota\u00e7\u00e3o.\r\nEnt\u00e3o, parab\u00e9ns pela sua coragem. Eu tenho a felicidade de ter tamb\u00e9m apresentado um projeto que est\u00e1 apensado ao projeto original e que tamb\u00e9m est\u00e1 sendo aprovado. \u00c9 importante destacar que al\u00e9m de regulamentar e n\u00e3o permitir mais o pagamento do sal\u00e1rio acima do valor de 39 mil reais, a partir do meu projeto, que est\u00e1 apensado, estaremos tornando crime, tornando improbidade administrativa o ato daquele ordenador de despesa que pagar o sal\u00e1rio acima do teto.\r\nMais uma vez, parab\u00e9ns, Presidente Arthur Lira! Fico muito feliz de poder, j\u00e1 na primeira legislatura, aprovar um projeto deste tamanho e desta magnitude.\r\nUm abra\u00e7o. Obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

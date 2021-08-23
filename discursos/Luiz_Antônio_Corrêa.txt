@@ -1,0 +1,38 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "REFORMA TRIBUT\u00c1RIA, ADMISSIBILIDADE, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Luiz Ant\u00f4nio Corr\u00eaa",
+        "sumario": "Aprova\u00e7\u00e3o pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania da admissibilidade de proposta de reforma tribut\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. LUIZ ANT\u00d4NIO CORR\u00caA (S.PART. - RJ. Pela ordem. Sem revis\u00e3o do orador.) - Meu caro Presidente, Deputado Coronel Chris\u00f3stomo, estou muito agradecido pela sua gentileza de me abrir este espa\u00e7o.\r\nQuero cumpriment\u00e1-lo, Deputado Jo\u00e3o. Eu n\u00e3o sabia que este projeto tenha sido iniciativa de sua m\u00e3e quando seu pai governou Pernambuco. Fa\u00e7o uma homenagem a ele, grande homem p\u00fablico que a vida levou t\u00e3o r\u00e1pido, mas que deixou essa semente. Tenho certeza de que V.Exa. est\u00e1 seguindo sua trajet\u00f3ria. Um dia vamos cumpriment\u00e1-lo aqui neste plen\u00e1rio ou l\u00e1 em Recife como futuro Governador de Pernambuco. Receba meu grande abra\u00e7o.\r\nMeus caros Deputados, quero apenas comunicar que ontem foi aprovada na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a a admissibilidade da reforma tribut\u00e1ria. Se me perguntarem qual reforma eu acho mais importante, a da Previd\u00eancia ou a tribut\u00e1ria, eu ficaria em d\u00favida para responder.\r\nO Pa\u00eds precisa de uma grande mudan\u00e7a na sua tributa\u00e7\u00e3o. Pagamos impostos alt\u00edssimos e n\u00e3o temos de volta os servi\u00e7os, seja na educa\u00e7\u00e3o, na sa\u00fade, na seguran\u00e7a.\r\nEnt\u00e3o, estamos muito felizes com essa iniciativa do Deputado Baleia Rossi.\r\nMuito obrigado, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=185&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T16:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ ANT\u00d4NIO CORR\u00caA, DEPUTADO FEDERAL, PL 3557/2019, PROJETO DE LEI ORDIN\u00c1RIA, DISCIPLINAMENTO, DOA\u00c7\u00c3O, ALIMENTO, CONSUMO HUMANO, FABRICA\u00c7\u00c3O, COMPOSTAGEM, AGRICULTURA, DEFESA.",
+        "nomeDeputado": "Luiz Ant\u00f4nio Corr\u00eaa",
+        "sumario": "Apresenta\u00e7\u00e3o do Projeto de Lei n\u00ba 3.557, de 2019, sobre a destina\u00e7\u00e3o de alimentos com prazos de validade vencidos para a fabrica\u00e7\u00e3o de compostagem agr\u00edcola.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. LUIZ ANT\u00d4NIO CORR\u00caA (S.PART. - RJ. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, quero fazer uma breve comunica\u00e7\u00e3o. \r\nHoje estamos dando entrada, no Parlamento, ao Projeto de Lei n\u00ba 3.557, que pretende regular a doa\u00e7\u00e3o de alimentos, mesmo os j\u00e1 vencidos. Acredito que esta provid\u00eancia vai combater n\u00e3o apenas a fome em que vivem muitos patr\u00edcios, como tamb\u00e9m, de maneira muito eficaz, o desperd\u00edcio.\r\nSra. Presidente, pe\u00e7o a V.Exa. que autorize a divulga\u00e7\u00e3o do meu pronunciamento no programa A Voz do Brasil. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

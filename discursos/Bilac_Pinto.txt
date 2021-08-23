@@ -1,0 +1,236 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-16T19:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "BANCO NACIONAL DE DESENVOLVIMENTO ECON\u00d4MICO E SOCIAL (BNDES), INVESTIMENTO, INTERNET, SANTA RITA DO SAPUCA\u00cd (MG).",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Apoio do Banco Nacional de Desenvolvimento Econ\u00f4mico e Social - BNDES ao desenvolvimento de projetos, a partir do conceito Internet das Coisas, nos campos do agroneg\u00f3cio, da sa\u00fade e das cidades inteligentes. Congratula\u00e7\u00f5es ao BNDES e ao Minist\u00e9rio das Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es pelo apoio a projeto do Instituto Nacional de Telecomunica\u00e7\u00f5es - INATEL no Munic\u00edpio de Santa Rita do Sapuca\u00ed, Estado de Minas Gerais.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BILAC PINTO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, durante as manifesta\u00e7\u00f5es ocorridas em 2013, tamb\u00e9m conhecidas como Manifesta\u00e7\u00f5es dos 20 centavos, Manifesta\u00e7\u00f5es de Junho ou Jornadas de Junho, a popula\u00e7\u00e3o foi \u00e0s ruas reivindicar, entre outras coisas, melhores servi\u00e7os p\u00fablicos. Os cartazes pediam sa\u00fade, educa\u00e7\u00e3o, seguran\u00e7a e mobilidade urbana com padr\u00e3o FIFA, em refer\u00eancia ao alto n\u00edvel de qualidade que a entidade exigia dos est\u00e1dios constru\u00eddos para a Copa do Mundo.\r\nDe l\u00e1 para c\u00e1, muita coisa aconteceu, mas \u00e9 certo que a popula\u00e7\u00e3o continua insatisfeita com os servi\u00e7os p\u00fablicos em boa parte do Pa\u00eds. Enquanto nos pa\u00edses mais avan\u00e7ados j\u00e1 existem cidades inteligentes, que incorporam os avan\u00e7os da tecnologia a fim de melhorar a gest\u00e3o de seus servi\u00e7os e a qualidade de vida de seus cidad\u00e3os, aqui no Brasil pouco tem sido feito nesse sentido.\r\nPor isso, em janeiro, recebi com muita alegria a not\u00edcia de que o Banco Nacional de Desenvolvimento Econ\u00f4mico e Social - BNDES anunciou uma lista de 15 projetos que receberiam apoio para o desenvolvimento de solu\u00e7\u00f5es, a partir do conceito de Internet das Coisas, nos campos do agroneg\u00f3cio, da sa\u00fade e tamb\u00e9m das cidades inteligentes. Enfim, o Brasil parece sair do marasmo, modernizando sua gest\u00e3o p\u00fablica por meio das novas tecnologias.\r\nFiquei ainda mais feliz ao saber que dois dos projetos selecionados visam a beneficiar Munic\u00edpios do meu Estado. Um deles conduzido pelo Instituto Nacional de Telecomunica\u00e7\u00f5es - INATEL, em Santa Rita do Sapuca\u00ed, minha terra natal, instituto pioneiro no Pa\u00eds em ensino, pesquisa e extens\u00e3o tecnol\u00f3gicas, e que \u00e9 um verdadeiro centro de compet\u00eancia em tecnologias de informa\u00e7\u00e3o e comunica\u00e7\u00e3o reconhecido internacionalmente.\r\nQuando se fala em Internet das Coisas, falamos, resumidamente, na ideia de que os pr\u00f3prios objetos possam coletar dados, transmiti-los uns aos outros e responder de forma inteligente, mesmo sem interven\u00e7\u00e3o humana.\r\nJ\u00e1 existem no mercado equipamentos urbanos inteligentes em algumas cidades brasileiras; mas agora a proposta \u00e9 integr\u00e1-los uns aos outros, numa grande rede que possa ganhar sempre novas fun\u00e7\u00f5es.\r\nEm Santa Rita do Sapuca\u00ed, por exemplo, o projeto que o BNDES decidiu apoiar come\u00e7ar\u00e1 conectando 600 postes da cidade. Isso ser\u00e1 usado, primeiro, para aperfei\u00e7oar a rede de ilumina\u00e7\u00e3o p\u00fablica da cidade. Em seguida, ser\u00e3o instaladas c\u00e2meras, que, para al\u00e9m de seguran\u00e7a, tamb\u00e9m poder\u00e3o ser usadas para criar estacionamentos inteligentes e outras conveni\u00eancias para o cidad\u00e3o.\r\nNovas fun\u00e7\u00f5es podem ser acrescentadas at\u00e9 que um dia cheguemos ao n\u00edvel de grandes cidades do mundo, onde, cada vez mais, os servi\u00e7os p\u00fablicos saibam tirar proveito da tecnologia.\r\nSr. Presidente, a partir de dados sobre crimes, j\u00e1 existem sistemas capazes de apontar os lugares e os momentos em que \u00e9 prov\u00e1vel a ocorr\u00eancia de novos delitos, facilitando o trabalho de policiamento. Na \u00e1rea de sa\u00fade, o armazenamento eficiente de informa\u00e7\u00f5es m\u00e9dicas permite aos hospitais oferecer diagn\u00f3sticos mais r\u00e1pidos e certeiros numa situa\u00e7\u00e3o de emerg\u00eancia. De diferentes maneiras, portanto, a gest\u00e3o p\u00fablica pode - e deve - explorar as possibilidades oferecidas pelas tecnologias de informa\u00e7\u00e3o e comunica\u00e7\u00e3o a fim de oferecer melhores servi\u00e7os ao cidad\u00e3o.\r\nIsso j\u00e1 est\u00e1 acontecendo no mundo todo e o Brasil n\u00e3o pode se permitir ficar para tr\u00e1s. Afinal, essas inova\u00e7\u00f5es tamb\u00e9m trar\u00e3o valiosas oportunidades de neg\u00f3cios. Nosso pa\u00eds j\u00e1 tem startups cujo valor de mercado passa de 1 bilh\u00e3o de d\u00f3lares.\r\nAo se abrir espa\u00e7o para o uso da tecnologia na administra\u00e7\u00e3o urbana, podem surgir novas empresas, que gerar\u00e3o empregos e trar\u00e3o crescimento e desenvolvimento ao Pa\u00eds.\r\nQuero ent\u00e3o parabenizar o BNDES e o Minist\u00e9rio da Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es pela iniciativa. Felicito em especial e com grande orgulho o INATEL, por mais uma vez, atrav\u00e9s de sua excel\u00eancia na \u00e1rea de tecnologia ter um projeto apoiado pelo banco. \u00c9 muito bom perceber que ao Brasil n\u00e3o falta gente de talento disposta a p\u00f4r o Pa\u00eds em sintonia com o que h\u00e1 de mais moderno no mundo.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2019&txPagina=146&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-04T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 13/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 875/2019, MEDIDA PROVIS\u00d3RIA, DEMOCRATAS (DEM), VOTO FAVORAVEL.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 13, de 2019, adotado pela Comiss\u00e3o Mista, \u00e0 Medida Provis\u00f3ria n\u00ba 875, de 2019, sobre o Aux\u00edlio Emergencial Pecuni\u00e1rio para fam\u00edlias de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (DEM - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o DEM quer fazer o encaminhamento do voto \"sim', apoiando principalmente as fam\u00edlias que foram vitimadas com essa trag\u00e9dia de Brumadinho. N\u00e3o obstante, n\u00f3s vamos continuar cobrando apoio a essas fam\u00edlias, para minimizar o seu sofrimento em fun\u00e7\u00e3o da trag\u00e9dia ocorrida naquela cidade.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2019&txPagina=168&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-05T15:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "ROSEMBURGO ROMANO, EX-PREFEITO, ITAJUB\u00c1 (MG), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Homenagem p\u00f3stuma ao ex-Deputado e ex-Prefeito Dr. Rosemburgo Romano, do Munic\u00edpio de Itajub\u00e1, Estado de Minas Gerais.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BILAC PINTO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, aproveito a oportunidade para fazer um registro de pesar pela morte do ex-Deputado Rosemburgo Romano, mineiro ilustre que marcou a vida p\u00fablica brasileira, sobretudo da cidade de Itajub\u00e1, onde ocupou com brilhantismo o comando da Prefeitura.\r\nDr. Rosemburgo fez parte do grupo de cidad\u00e3os que entram na vida p\u00fablica a partir da medicina, profiss\u00e3o que, como todos n\u00f3s sabemos, imp\u00f5e um contato muito pr\u00f3ximo com as dificuldades e sofrimentos das pessoas.\r\nFormado pela Faculdade de Medicina do Tri\u00e2ngulo Mineiro, em Uberaba, tornou-se Diretor da Faculdade de Medicina de Itajub\u00e1, escola da qual foi um dos fundadores.\r\nA compet\u00eancia e a sensibilidade do Dr. Romano franquearam-lhe as portas da Prefeitura, que comandou de 1973 a 1977, e, depois, uma segunda vez, de 1988 a 1992, permanecendo para sempre na mem\u00f3ria da popula\u00e7\u00e3o como refer\u00eancia de honradez e disposi\u00e7\u00e3o para o trabalho.\r\nEle esteve presente na C\u00e2mara dos Deputados nas legislaturas iniciadas em 1979 e 1982, mantendo-se sempre muito atuante nas diversas Comiss\u00f5es de que participou, com destaque para a Comiss\u00e3o de Sa\u00fade, da qual foi Presidente.\r\nTanto no Executivo quanto no Legislativo, Dr. Romano soube exercer os cargos p\u00fablicos com a dedica\u00e7\u00e3o e o empenho dos homens que t\u00eam o dom de servir \u00e0 coletividade.\r\nS\u00e3o pessoas como ele que tornam poss\u00edvel o desenvolvimento harm\u00f4nico dos povos, pois exercem a pol\u00edtica como a arte da concilia\u00e7\u00e3o da qual nascem os projetos coletivos capazes de conduzir \u00e0 prosperidade e \u00e0 paz.\r\nSa\u00fado, portanto, a mem\u00f3ria do Dr. Rosemburgo Romano, que tanto contribuiu para o progresso de Itajub\u00e1, ao tempo em que renovo meu sentimento de pesar junto a seus familiares e amigos.\r\nAproveito tamb\u00e9m para deixar registrado meu depoimento pessoal, pois tive o prazer de conviver com Dr. Rosemburgo no in\u00edcio de minha carreira pol\u00edtica, quando testemunhei o grande valor de seu car\u00e1ter, que me serviu de refer\u00eancia inesquec\u00edvel como exemplo de pai, marido e cidad\u00e3o dedicado, apaixonado pela Itajub\u00e1 a que sempre dedicou o melhor de seu talento e energia.\r\nO luto e a tristeza que tomaram conta de Itajub\u00e1 convivem, tenho certeza, com a gratid\u00e3o de uma popula\u00e7\u00e3o que sabe reconhecer seus aut\u00eanticos l\u00edderes e cidad\u00e3os de bem.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F6%2F2019&txPagina=226&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-26T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "ADELSON DO HOSPITAL, VEREADOR, POUSO ALEGRE (MG), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Homenagem p\u00f3stuma ao Vereador Adelson do Hospital, do Munic\u00edpio de Pouso Alegre, Estado de Minas Gerais.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BILAC PINTO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, quero aproveitar esta oportunidade para registrar meu pesar pela morte do Vereador Adelson do Hospital, do Munic\u00edpio de Pouso Alegre.\r\nO Munic\u00edpio sentiu muito a perda deste homem p\u00fablico, que tanto se dedicou \u00e0 causa dos mais necessitados, amparando quem precisasse de ajuda, sobretudo na \u00e1rea da sa\u00fade, na qual ganhou notoriedade.\r\nNascido em Monsenhor Paulo, de fam\u00edlia muito humilde, Adelson se transferiu para Pouso Alegre, tendo sido recebido como um filho por sua nova cidade, que o adotou e o estimulou para que viesse a se transformar em um de seus cidad\u00e3os mais respeitados.\r\nEle foi coordenador de enfermagem e diretor de enfermagem no Hospital Samuel Lib\u00e2nio, onde sua atua\u00e7\u00e3o marcante em muito contribuiu para credenci\u00e1-lo como candidato \u00e0 C\u00e2mara Municipal.\r\nNo \u00faltimo pleito, foi o vereador mais votado para a Legislatura 2017/2020, com 2.148 votos, passando a dedicar-se de corpo e alma \u00e0 causa da sa\u00fade p\u00fablica, que, como todos sabemos, \u00e9 uma das maiores preocupa\u00e7\u00f5es da sociedade brasileira.\r\nNa C\u00e2mara Municipal, Adelson atuou com a mesma coragem, empenho e abnega\u00e7\u00e3o que marcaram sua vida profissional. Sempre colocou os interesses p\u00fablicos acima de suas conveni\u00eancias pessoais e, por isso mesmo, conquistou o respeito e a gratid\u00e3o da popula\u00e7\u00e3o de Pouso Alegre.\r\nEu tive a satisfa\u00e7\u00e3o de testemunhar a trajet\u00f3ria pol\u00edtica de Adelson, com quem pude construir uma parceria muito proveitosa, que rendeu bons frutos para a comunidade por ele atendida. Sinto que perdi n\u00e3o apenas um companheiro de lutas, mas um amigo leal, com quem podia compartilhar expectativas e projetos.\r\nAdelson atuou na \u00e1rea m\u00e9dica com grande respeito pelos pacientes. Sempre devotado \u00e0s causas sociais, foi consagrado nas urnas. O mesmo amor que tinha pela profiss\u00e3o ele passou a dedicar \u00e0 bandeira da sa\u00fade p\u00fablica em sua atua\u00e7\u00e3o pol\u00edtica.\r\nFoi, em todos os sentidos, um homem e um cidad\u00e3o exemplar, cumprindo as miss\u00f5es que recebeu com alegria e entusiasmo.\r\nA cidade perde um filho querido, um homem p\u00fablico de envergadura. Estamos todos tomados pela tristeza com sua partida, mas estamos certos de que seu exemplo permanecer\u00e1 para sempre no cora\u00e7\u00e3o de Pouso Alegre.\r\nReitero meu sentimento de pesar e deixo registrada minha solidariedade aos familiares e aos amigos de Adelson, que tanto nos honrou com seu trabalho e seu esp\u00edrito p\u00fablico. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2019&txPagina=228&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENT\u00cdFICO E TECNOL\u00d3GICO (CNPQ), RECURSOS, CONTINGENCIAMENTO, AVALIA\u00c7\u00c3O NEGATIVA.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Impactos negativos advindos do contingenciamento de recursos or\u00e7ament\u00e1rios destinados ao Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico - CNPq.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO BILAC PINTO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, venho a esta tribuna comentar uma not\u00edcia extremamente grave e que pode comprometer d\u00e9cadas de investimentos feitos por este Pa\u00eds: o d\u00e9ficit milion\u00e1rio e o contingenciamento bilion\u00e1rio que impactam as atividades do CNPq.\r\nSras. e Srs. Deputados, o Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico, mais conhecido pela sigla CNPq, foi criado em 1951. O Conselho \u00e9 o \u00f3rg\u00e3o respons\u00e1vel pela formula\u00e7\u00e3o e condu\u00e7\u00e3o das pol\u00edticas de ci\u00eancia, tecnologia e inova\u00e7\u00e3o no Brasil. Atualmente, a institui\u00e7\u00e3o conta com milhares de bolsistas e financia mais de 11 mil projetos de pesquisa.\r\nTodos esses pesquisadores e projetos s\u00e3o um investimento que o Pa\u00eds, atrav\u00e9s do CNPq, faz no nosso futuro, senhoras e senhores. As potencialidades dessas pesquisas s\u00e3o quase infinitas. O desenvolvimento de tecnologias revolucion\u00e1rias, a cura de doen\u00e7as end\u00eamicas que trazem sofrimento \u00e0 popula\u00e7\u00e3o, a melhoria no manejo e na produ\u00e7\u00e3o agropecu\u00e1ria nacional, esses e outros benef\u00edcios e avan\u00e7os podem surgir das bolsas e dos projetos financiados por aquele \u00f3rg\u00e3o.\r\nContudo, Sr. Presidente, os quase 70 anos de hist\u00f3ria do CNPq, que \u00e9 refer\u00eancia nacional e internacional em pesquisa e inova\u00e7\u00e3o, bem como todo o investimento feito at\u00e9 aqui est\u00e3o correndo grave risco.\r\nSegundo mat\u00e9ria veiculada no \u00faltimo dia 25 de julho pelo jornal Folha de S.Paulo, sete ex-Presidentes do CNPq assinaram em conjunto um manifesto, alertando para os riscos que pairam sobre a pesquisa e a inova\u00e7\u00e3o neste Pa\u00eds.\r\nSegundo os ex-Presidentes, h\u00e1 um d\u00e9ficit de mais de 330 milh\u00f5es de reais apenas no que tange ao pagamento das bolsas de pesquisa. As proje\u00e7\u00f5es indicam que, se nada for feito, o CNPq n\u00e3o vai conseguir pagar a maior parte de suas bolsas de p\u00f3s-gradua\u00e7\u00e3o j\u00e1 a partir de setembro deste ano. Milhares de projetos ser\u00e3o interrompidos, e o Brasil ficar\u00e1 ainda mais atrasado nos campos da ci\u00eancia e do desenvolvimento. Isso \u00e9 um enorme absurdo, Sras. e Srs. Deputados.\r\nComo se essa interrup\u00e7\u00e3o n\u00e3o fosse aviltante por si s\u00f3, Sr. Presidente, houve tamb\u00e9m um contingenciamento bilion\u00e1rio no Fundo Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (FNDCT). Essa seria uma das poss\u00edveis fontes de recursos extras para evitar a interdi\u00e7\u00e3o do programa de bolsas do CNPq.\r\nO Fundo recebe recursos origin\u00e1rios de impostos, de juros de empr\u00e9stimos, de royalties da produ\u00e7\u00e3o de petr\u00f3leo e g\u00e1s, da gera\u00e7\u00e3o de energia hidrel\u00e9trica, entre outros. Anualmente o FNDCT rende mais de 5 bilh\u00f5es de reais, mas, neste ano, apenas uma fra\u00e7\u00e3o desse valor est\u00e1 dispon\u00edvel para uso por causa de um contingenciamento do Governo. \u00c9 uma verdadeira calamidade.\r\nSras. e Srs. Deputados, a pesquisa e a inova\u00e7\u00e3o, a ci\u00eancia e a tecnologia s\u00e3o as bases para o crescimento e o desenvolvimento de qualquer sociedade. Se interrompermos os investimentos nessa \u00e1rea e se o programa de bolsas for descontinuado, estaremos, sem exageros, penhorando o futuro do nosso Pa\u00eds. N\u00e3o podemos permitir que isso aconte\u00e7a.\r\nSr. Presidente, este Parlamento precisa, urgentemente, discutir e aprovar medidas que autorizem o Governo a liberar os recursos necess\u00e1rios para a recomposi\u00e7\u00e3o or\u00e7ament\u00e1ria do CNPq.\r\nFoi com esse intuito que subi a esta tribuna, senhoras e senhores. Quero, neste momento sombrio que antecede o caos, conclamar meus colegas Deputados e Deputadas para, juntos, envidarmos todos os esfor\u00e7os necess\u00e1rios para que essa trag\u00e9dia anunciada n\u00e3o se concretize.\r\nDa mesma maneira, espero que o Governo Federal esteja atento para essa delicada situa\u00e7\u00e3o e n\u00e3o cometa o crime de n\u00e3o honrar os pagamentos das bolsas de pesquisa do CNPq. \r\nO futuro do Brasil est\u00e1 sob grave amea\u00e7a, Sr. Presidente. Neste momento de dificuldade, esta Casa do Povo n\u00e3o pode permanecer inerte. De minha parte, farei tudo o que estiver ao meu alcance para evitar essa trag\u00e9dia e conto com o apoio dos meus nobres pares para enfrentar esse desafio.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=215&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T21:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, PL 1304/2020, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 4, apresentada ao Projeto de Lei n\u00ba 1.304, de 2020, sobre altera\u00e7\u00e3o da Lei n\u00ba 10.304, de 2001, relativa \u00e0 transfer\u00eancia de terras da Uni\u00e3o para o dom\u00ednio dos Estados de Roraima e do Amap\u00e1; e da Lei n\u00ba 6.634, de 1979, acerca da faixa de fronteira.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (Bloco/DEM - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, o destaque estabelece que, no decurso de 2 anos ap\u00f3s a publica\u00e7\u00e3o da lei, se os benefici\u00e1rios dessas \u00e1reas n\u00e3o cumprirem essas cl\u00e1usulas resolutivas, os t\u00edtulos de dom\u00ednio v\u00e3o ser transferidos para os Estados do Amap\u00e1 e de Roraima.\r\nA orienta\u00e7\u00e3o do DEM \u00e9 contr\u00e1ria. O voto \u00e9 \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=139&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-29T22:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 8/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 915/2019, MEDIDA PROVIS\u00d3RIA, DEMOCRATAS (DEM), VOTO FAVOR\u00c1VEL, CONGRATULA\u00c7\u00c3O, RODRIGO DE CASTRO, RELATOR, PAULO ABI-ACKEL, LAFAYETTE DE ANDRADA, DEPUTADO FEDERAL.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 8, de 2020, adotado pela Comiss\u00e3o Mista, \u00e0 Medida Provis\u00f3ria n\u00ba 915, de 2019, a respeito do aprimoramento dos procedimentos de gest\u00e3o e aliena\u00e7\u00e3o dos im\u00f3veis da Uni\u00e3o, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (Bloco/DEM - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, eu quero, num momento como este, em primeiro lugar, parabenizar o Relator, Deputado Rodrigo de Castro, pelo trabalho extraordin\u00e1rio que fez. Parabenizo ainda v\u00e1rios Deputados da bancada mineira pela participa\u00e7\u00e3o na elabora\u00e7\u00e3o do projeto, dentre eles, os Deputados Paulo Abi-Ackel e Lafayette de Andrada. \r\nEsse \u00e9 um projeto que tem m\u00e9rito. Ele vai gerar uma receita enorme para os cofres p\u00fablicos. N\u00f3s estamos efetivamente modernizando a legisla\u00e7\u00e3o brasileira. Os pa\u00edses modernos j\u00e1 incluem, na a\u00e7\u00e3o de pagamentos, as benfeitorias. De maneira que \u00e9 um projeto que vem acrescentar muito ao Pa\u00eds e vai atender as \u00e1reas em calamidade p\u00fablica, como \u00e9 o caso de Brumadinho e Mariana, com grande valia.\r\nEnt\u00e3o, n\u00f3s somos favor\u00e1veis \u00e0 apresenta\u00e7\u00e3o dessa medida provis\u00f3ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2020&txPagina=164&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-08T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 915/2019, MEDIDA PROVIS\u00d3RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.\r\nZACHARIAS CALIL, DEPUTADO FEDERAL, JUSTIFICATIVA, AUS\u00caNCIA (PROCESSO LEGISLATIVO).",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Justificativa da aus\u00eancia do Deputado Dr. Zacharias Calil. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 14, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 915, de 2019, relativa ao aprimoramento dos procedimentos de gest\u00e3o e aliena\u00e7\u00e3o de im\u00f3veis da Uni\u00e3o; \u00e0 altera\u00e7\u00e3o das Leis de n\u00bas 6.015, de 1973; 9.636, de 1998; 13.240, de 2015; 13.259, de 2016; 10.204, de 2001; bem como do Decreto-Lei n\u00ba 2.398, de 1987; e \u00e0 revoga\u00e7\u00e3o de dispositivos das Leis de n\u00bas 9.702, de 1998; 11.481, de 2007; e 13.874, de 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (Bloco/DEM - MG. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Presidente, antes de orientar a bancada do Democratas, eu queria fazer uma justificativa pelo nosso colega de bancada Deputado Dr. Zacharias Calil, um grande m\u00e9dico, cirurgi\u00e3o. Ele n\u00e3o est\u00e1 votando nesta sess\u00e3o porque est\u00e1 atendendo mais um caso de g\u00eameas siamesas.\r\nAproveito esta oportunidade tamb\u00e9m para parabenizar o Relator, que abordou com muita propriedade o tema, um tema delicado.\r\nO Democratas encaminha o voto \"n\u00e3o\", para manter o texto e rejeitar o destaque.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-25T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.919, de 2019, sobre a cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (DEM - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu queria aproveitar o uso da palavra para dizer da independ\u00eancia que o Poder Judici\u00e1rio deve ter na cria\u00e7\u00e3o da sua reorganiza\u00e7\u00e3o administrativa.\r\nNo caso espec\u00edfico da cria\u00e7\u00e3o desse tribunal, eu quero aqui ressaltar, contrariamente ao encaminhamento do NOVO, que n\u00e3o houve efetivamente aumento de despesa. O que ocorreu, por iniciativa do Presidente Jo\u00e3o Ot\u00e1vio de Noronha, do Superior Tribunal de Justi\u00e7a, foi a extin\u00e7\u00e3o de cargos.\r\nE o primeiro e essencial registro que eu levo ao conhecimento dos Deputados \u00e9 que n\u00f3s temos os estudos todos feitos, e o tribunal, em sendo criado, ser\u00e1, de uma certa forma, colocado ap\u00f3s passar a pandemia.\r\nPara finalizar o meu pronunciamento, eu quero ressaltar que, no Tribunal Regional Federal da 1\u00aa Regi\u00e3o, 35% dos trabalhos envolvidos pela causa jurisdicional s\u00e3o ocupados pelo Estado de Minas Gerais. Ent\u00e3o, ele est\u00e1 assoberbado de tarefas. E, quando n\u00e3o se tem uma justi\u00e7a no tempo h\u00e1bil, n\u00f3s estaremos cometendo o qu\u00ea? Uma verdadeira injusti\u00e7a para o cidad\u00e3o.\r\nDessa maneira, eu quero aqui fazer um encaminhamento contr\u00e1rio, \"n\u00e3o\", ao encaminhamento do Partido Novo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F8%2F2020&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-25T22:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 5.919, de 2019, acerca da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (DEM - MG. Pela ordem. Sem revis\u00e3o do orador.) - Fa\u00e7o este encaminhamento sendo favor\u00e1vel ao projeto do Deputado F\u00e1bio Ramalho e \u00e0 cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, para que possamos atender um grande pleito de Minas Gerais e tamb\u00e9m os anseios de outros Estados federados que t\u00eam demandas pela cria\u00e7\u00e3o de seus tribunais, como \u00e9 o caso do Paran\u00e1, da Bahia e do Amazonas.\r\nFa\u00e7o aqui um apelo \u00e0 bancada dos Democratas. Darei o voto favor\u00e1vel, mas V.Exas. sintam-se \u00e0 vontade para, de acordo com a sua consci\u00eancia, apoiar ou n\u00e3o este projeto, que, de certa forma, \u00e9 t\u00e3o importante para Minas Gerais.\r\nNos mais, quero parabenizar o Presidente Rodrigo Maia pelo compromisso com a bancada mineira. Parabenizo tamb\u00e9m o Deputado Rodrigo de Castro, que preside a sess\u00e3o neste momento, e o Deputado F\u00e1bio Ramalho.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F8%2F2020&txPagina=204&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta do Projeto de Lei n\u00ba 5.919, de 2019, acerca da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (DEM - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Democratas cumprimenta V.Exa., como Presidente desta sess\u00e3o, reiterando que iremos apoiar a sua emenda. Mas, neste momento, j\u00e1 discutimos exaustivamente o m\u00e9rito desse projeto, e o fizemos tamb\u00e9m ontem, at\u00e9 tarde da noite. \r\nEnt\u00e3o, vamos encaminhar tamb\u00e9m \"n\u00e3o\" ao requerimento do Partido Novo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 5919/2019, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania ao Projeto de Lei n\u00ba 5.919, de 2019, acerca da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (DEM - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu tomo a liberdade, mais uma vez, de saud\u00e1-lo. \r\nQuero pedir o tempo de L\u00edder. Apesar de n\u00e3o precisar us\u00e1-lo na integralidade, quero fazer uma pequena exposi\u00e7\u00e3o sobre essa demanda de Minas Gerais.\r\nInicialmente, quero dizer aos meus pares que respeito a autonomia dos Poderes e a independ\u00eancia jurisdicional e que respeito tamb\u00e9m as demandas de outros Estados da Federa\u00e7\u00e3o, como \u00e9 o caso do Estado do Paran\u00e1, da Bahia, do Amazonas e de outros que, de certa forma, tamb\u00e9m t\u00eam essa demanda. Mas quero esclarecer que Minas \u00e9 o segundo Estado em popula\u00e7\u00e3o do nosso Pa\u00eds. Dentro do Tribunal Regional Federal, 38% dos processos t\u00eam levado em m\u00e9dia 13 anos para serem julgados. Isso \u00e9 um grande sacrif\u00edcio para quem precisa dos servi\u00e7os.\r\nEnt\u00e3o, por essas e por outras raz\u00f5es, eu quero, neste momento, pedir o aval dos meus pares, os democratas, para que nos acompanhem nisso - evidentemente, respeitando aqueles que pensem de forma diferente.\r\nPortanto, eu quero encaminhar favoravelmente ao m\u00e9rito do projeto do Deputado F\u00e1bio Ramalho. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=77&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-08-26T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 5919/2020, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, TRIBUNAL REGIONAL FEDERAL DA SEXTA REGI\u00c3O, SEDE, BELO HORIZONTE (MG), JURISDI\u00c7\u00c3O, MINAS GERAIS, JUSTI\u00c7A FEDERAL, SEGUNDA INST\u00c2NCIA, F\u00c1BIO RAMALHO, DEPUTADO FEDERAL, RELATOR, CONGRATULA\u00c7\u00c3O.\r\nORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA, PL 3364/2020, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Bilac Pinto",
+        "sumario": "Congratula\u00e7\u00f5es ao Deputado F\u00e1bio Ramalho, Relator do Projeto de Lei n\u00ba 5.919, de 2019, acerca da cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o, com sede em Belo Horizonte, Estado de Minas Gerais. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva oferecida pelo Relator da Comiss\u00e3o Especial ao Projeto de Lei n\u00ba 3.364, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 10.233, de 2001; e o repasse de recursos aos Estados, aos Munic\u00edpios e ao Distrito Federal, em car\u00e1ter emergencial, diante do estado de calamidade p\u00fablica reconhecido pelo Decreto Legislativo n\u00ba 6, de 2020, com vista \u00e0 garantia da presta\u00e7\u00e3o dos servi\u00e7os de transporte p\u00fablico coletivo de passageiros, e do reequil\u00edbrio de contratos impactados pela epidemia da Covid-19, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. BILAC PINTO (DEM - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, eu quero, em primeiro lugar, parabenizar V.Exa. pelo encaminhamento do projeto.\r\nQuero parabenizar tamb\u00e9m o Deputado F\u00e1bio Ramalho por ter tido um papel primordial na cria\u00e7\u00e3o do Tribunal Regional Federal da 6\u00aa Regi\u00e3o e todos os L\u00edderes que de certa forma confiaram na apresenta\u00e7\u00e3o deste projeto.\r\nAgora, com rela\u00e7\u00e3o ao projeto em pauta, o Democratas vai encaminhar favoravelmente. Encaminhamos \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F8%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

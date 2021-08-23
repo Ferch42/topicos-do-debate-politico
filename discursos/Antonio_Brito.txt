@@ -1,0 +1,650 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-12T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "COMISS\u00c3O DE LEGISLA\u00c7\u00c3O PARTICIPATIVA (CLP), C\u00c2MARA MUNICIPAL, SALVADOR (BA).",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Cria\u00e7\u00e3o da Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa pela C\u00e2mara Municipal de Salvador, Estado da Bahia.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Sem revis\u00e3o do orador.) - Agrade\u00e7o ao Deputado Roberto de Lucena.\r\nSra. Presidente, Sras. e Srs. Deputados, eu gostaria de registrar que ontem, no Munic\u00edpio de Salvador, foi criada a Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa da C\u00e2mara de Salvador, pelo Presidente Geraldo J\u00fanior e pelo Vereador Edvaldo Brito. Foi criada \u00e0 semelhan\u00e7a da Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa desta Casa. Este \u00e9 o incentivo que a C\u00e2mara dos Deputados e o Senado Federal d\u00e3o \u00e0s C\u00e2maras de Vereadores de todo o Pa\u00eds. Salvador, a primeira capital deste Pa\u00eds, tem agora sua Comiss\u00e3o de Legisla\u00e7\u00e3o Participativa.\r\nParab\u00e9ns aos Vereadores, ao sete Vereadores que comp\u00f5em a Comiss\u00e3o, ao Vereador Edvaldo Brito, ao Vereador Geraldo J\u00fanior, Presidente daquela Casa, e a todos que fizeram parte daquela solenidade t\u00e3o importante de ontem!\r\nEste \u00e9 o registro, Sra. Presidente. \r\nMuito obrigado a V.Exa. e ao Deputado Roberto de Lucena.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F3%2F2019&txPagina=43&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-23T15:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CONGRESSO NACIONAL DAS SANTAS CASAS E HOSPITAIS FILANTR\u00d3PICOS DO ESTADO DE S\u00c3O PAULO, (28:2019, S\u00c3O PAULO (SP)).\r\nMPV 859/2018, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI DO FGTS, MINIST\u00c9RIO DAS CIDADES, GEST\u00c3O, FUNDO DE GARANTIA DO TEMPO DE SERVI\u00c7O (FGTS), EFETIVA\u00c7\u00c3O, APLICA\u00c7\u00c3O, RECURSOS, OPERA\u00c7\u00c3O DE CR\u00c9DITO, HOSPITAL FILANTR\u00d3PICO, ENTIDADE SEM FINS LUCRATIVOS, SANTA CASA DE MISERIC\u00d3RDIA, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), APROVA\u00c7\u00c3O, DEFESA.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Realiza\u00e7\u00e3o do 28\u00ba Congresso FEHOSP - Federa\u00e7\u00e3o das Santas Casas e Hospitais Filantr\u00f3picos do Estado de S\u00e3o Paulo, com o tema Fazendo check-up na gest\u00e3o: efici\u00eancia no diagn\u00f3stico, sucesso no tratamento. Apelo \u00e0 Casa de aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 859, de 2018, sobre a utiliza\u00e7\u00e3o de recursos do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS para financiamento das Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA) - Sr. Presidente, Srs. Deputados, gostaria de registrar que teve in\u00edcio hoje o 28\u00ba Congresso Nacional das Santas Casas e Hospitais Filantr\u00f3picos do Estado de S\u00e3o Paulo.\r\nEu estive l\u00e1, Sr. Presidente. O tema do Congresso \u00e9 um check-up na gest\u00e3o. Portanto, em S\u00e3o Paulo, cerca de 900 pessoas est\u00e3o discutindo gest\u00e3o e profissionaliza\u00e7\u00e3o das Santas Casas e reestrutura\u00e7\u00e3o de hospitais beneficentes.\r\nEst\u00e1 na pauta desta Casa a Medida Provis\u00f3ria n\u00ba 859, de 2018, que trata de uma linha de cr\u00e9dito com base no FGTS, a ser operada pela Caixa Econ\u00f4mica, Banco do Brasil e BNDES. E no debate sempre se fala da gest\u00e3o.\r\nAs Santas Casas est\u00e3o fazendo seu dever de casa. Mas n\u00e3o d\u00e1 para se discutir gest\u00e3o apenas, sem reajuste dos contratos do SUS, sem o repasse devido por Governos Estaduais e Municipais, sem recursos novos e muito menos sem a possibilidade de linhas que possam ter juros subsidiados para as Santas Casas. A linha da MP 859 est\u00e1 girando em torno de 12%.\r\nPortanto, eu fa\u00e7o um apelo a esta Casa. Vamos aprovar a MP 859, apesar de ela n\u00e3o resolver problema, porque tem previs\u00e3o de juros que levam o setor a estar sempre com o pires na m\u00e3o, com dificuldades, porque a chamada a tabela SUS n\u00e3o \u00e9 reajustada.\r\nParab\u00e9ns a S\u00e3o Paulo! Parab\u00e9ns ao Edson Rogatti, Presidente da FEHOSP e da CMB, pelo bel\u00edssimo congresso que est\u00e1 sendo realizado na cidade de Atibaia, no Estado de S\u00e3o Paulo!\r\nEste \u00e9 o registro, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F4%2F2019&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T19:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, MPV 859/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria (Medida Provis\u00f3ria n\u00ba 859, de 2018, sobre a utiliza\u00e7\u00e3o de recursos do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS para financiamento de entidades hospitalares filantr\u00f3picas).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria de orientar \"sim\" pelo PSD.\r\nPela Frente Parlamentar de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas aprovamos a MP 859, mas deixo registrada aqui a nossa preocupa\u00e7\u00e3o com o spread de 3%. No debate que houve, falamos sobre os juros do FGTS, mas a MP 859 traz um spread banc\u00e1rio de 3%.\r\n\t\u00c9 evidente que n\u00f3s sabemos a realidade que os bancos t\u00eam colocado. Mas fazemos um apelo ao Governo Federal, fazemos um apelo a esta Casa, em nome das Santas Casas e hospitais filantr\u00f3picos do Brasil, para que, ap\u00f3s a aprova\u00e7\u00e3o desta medida provis\u00f3ria, o Governo possa subsidiar essa linha e consigamos fazer uma linha, como estava previsto inicialmente, a 8% ou 9%, que \u00e9 o valor do FGTS.\r\nO PSD vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=169&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-24T19:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 859/2018, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, LEI DO FGTS, MINIST\u00c9RIO DAS CIDADES, GEST\u00c3O, FUNDO DE GARANTIA DO TEMPO DE SERVI\u00c7O (FGTS), EFETIVA\u00c7\u00c3O, APLICA\u00c7\u00c3O, RECURSOS, OPERA\u00c7\u00c3O DE CR\u00c9DITO, HOSPITAL FILANTR\u00d3PICO, ENTIDADE SEM FINS LUCRATIVOS, SANTA CASA DE MISERIC\u00d3RDIA, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), APROVA\u00c7\u00c3O, AGRADECIMENTO.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Agradecimento \u00e0 Casa pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 859, de 2018, sobre a utiliza\u00e7\u00e3o de recursos do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS para financiamento de entidades hospitalares filantr\u00f3picas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Queria, Sra. Presidente, agradecer a esta Casa em nome da Frente Parlamentar de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas, ressaltando que a Medida Provis\u00f3ria n\u00ba 859 \u00e9 de suma import\u00e2ncia. Agrade\u00e7o ao Senado, ao Deputado Ricardo Barros, \u00e0 Senadora Daniella, a todos os partidos que apoiaram as Santas Casas e hospitais filantr\u00f3picos.\r\nIsto n\u00e3o resolve o problema, mas \u00e9 um f\u00f4lego para as Santas Casas, porque precisamos de juros subsidiados e de recursos novos no sistema.\r\nObrigado, Sra. Presidente.\r\nObrigado, portanto, aos partidos que apoiaram a mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F4%2F2019&txPagina=190&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CONGRESSO DA CONFEDERA\u00c7\u00c3O INTERNACIONAL DAS MISERIC\u00d3RDIAS (12; 2019, MACAU, CHINA).",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Participa\u00e7\u00e3o do orador no 12\u00ba Congresso da Confedera\u00e7\u00e3o Internacional das Miseric\u00f3rdias, em Macau, Rep\u00fablica Popular da China.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, eu gostaria de informar que, na semana que vem, estarei em miss\u00e3o oficial, sem \u00f4nus para esta Casa, no Congresso Mundial das Santas Casas, que ocorrer\u00e1 na cidade de Macau, na China, onde ser\u00e1 debatido o futuro das Santas Casas ao redor do mundo. A Santa Casa de Macau existe h\u00e1 450 anos.\r\nA delega\u00e7\u00e3o do Brasil que vai participar desse congresso \u00e9 enorme, e aproveito para saudar o Diretor-Presidente da Confedera\u00e7\u00e3o das Santas Casas, Hospitais e Entidades Filantr\u00f3picas, o Sr. Edson Rogatti. Seremos recebidos pelos Presidente da Uni\u00e3o das Santas Casas de Portugal, o Sr. Manuel de Lemos. Debateremos o destino do mundo que passa pela filantropia, pelas Santas Casas, na pr\u00f3xima semana, em Macau.\r\nTorcemos para que no Brasil a situa\u00e7\u00e3o melhore com linhas de financiamento do SUS e com outras importantes linhas de financiamento capitaneadas pelo Ministro Mandetta, pela Caixa Econ\u00f4mica Federal e pelo BNDES.\r\nEra o que tinha a dizer, Sra. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-23T14:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "CONGRESSO INTERNACIONAL DAS MISERIC\u00d3RDIAS (12:2019, MACAU, CHINA), ANTONIO BRITO, DEPUTADO FEDERAL, PARTICIPA\u00c7\u00c3O.\r\nINF\u00c2NCIA, JUVENTUDE, SISTEMA \u00daNICO DE SA\u00daDE (SUS), DEFESA, SANTA CASA DE MISERIC\u00d3RDIA, ORGANIZA\u00c7\u00c3O DAS NA\u00c7\u00d5ES UNIDAS (ONU), ATUA\u00c7\u00c3O,",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Relato da participa\u00e7\u00e3o do orador no XII Congresso Internacional das Miseric\u00f3rdias, na cidade de Macau, China.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO ANTONIO BRITO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, gostaria de registrar que estive em miss\u00e3o oficial, durante os dias 12 a 18 de maio, em Macau, uma das regi\u00f5es administrativas especiais da Rep\u00fablica Popular da China, participando do XII Congresso Internacional das Miseric\u00f3rdias.\r\nO evento, organizado pelo Presidente da Confedera\u00e7\u00e3o Internacional das Miseric\u00f3rdias (CIM), Manuel de Lemos, e pelo provedor da Santa Casa de Macau, Ant\u00f3nio de Freitas, reuniu autoridades do Governo Chin\u00eas, a exemplo do ent\u00e3o Chefe do Executivo de Macau, Leong Vai Tac, do Vice-Presidente da Confer\u00eancia Consultiva Pol\u00edtica do Povo Chin\u00eas, Edmund Ho, assim como os l\u00edderes das Santas Casas de todos os continentes, que dialogaram sobre quest\u00f5es relativas aos valores comuns e princ\u00edpios que unem todas as miseric\u00f3rdias presentes no mundo: a primazia pelos direitos humanos, a busca pela erradica\u00e7\u00e3o da pobreza e a solidariedade.\r\nO tema central do Congresso foi O Papel das Pol\u00edticas Sociais e de Sa\u00fade na Prote\u00e7\u00e3o da Inf\u00e2ncia, Juventude e Envelhecimento. Durante o evento foram exibidas mensagens com sauda\u00e7\u00f5es do Secret\u00e1rio Geral da ONU, Ant\u00f3nio Gutierrez, e do Presidente da Rep\u00fablica de Portugal, Marcelo Rebelo de Sousa.\r\nConv\u00e9m destacar que, como parte integrante do congresso, ocorreu a celebra\u00e7\u00e3o dos 450 anos de funda\u00e7\u00e3o da Santa Casa de Macau, importante institui\u00e7\u00e3o asi\u00e1tica que tem como provedor Ant\u00f3nio Freitas, a quem agrade\u00e7o, juntamente com a sua esposa, Dona Leonor; o Presidente da Assembleia Consultiva, Leonel Alves; assim como Bruno Nunes e sua esposa Gisela, pela receptividade e acolhida.\r\nImportante ressaltar ,que no dia 13 de maio, estive com o Presidente da CIM, Manuel de Lemos, o Presidente da Confedera\u00e7\u00e3o das Miseric\u00f3rdias da It\u00e1lia, Roberto Trucchi, o Presidente Em\u00e9rito da CIM, Padre Vitor Melicias, o provedor da Santa Casa de Macau, Ant\u00f3nio Freitas, e o provedor da Santa Casa de S\u00e3o Tom\u00e9 e Pr\u00edncipe, Ac\u00e1cio Bonfim, em audi\u00eancia com o ent\u00e3o chefe do Executivo de Macau, Leong Vai Tac. No encontro, tratamos de temas ligados \u00e0 sa\u00fade global, assim como do interc\u00e2mbio entre as Santas Casas chinesas, brasileiras e portuguesas.\r\nFicou ainda mais evidenciado, com as discuss\u00f5es neste Congresso, que a rela\u00e7\u00e3o das Santas Casas com o mundo transcende o \u00e2mbito da sa\u00fade. Foi acordado, portanto, entre todas as institui\u00e7\u00f5es presentes, alguns compromissos globais, formalizados por meio da Declara\u00e7\u00e3o de Macau.\r\nO documento traz alguns princ\u00edpios que devem nortear as atividades destas institui\u00e7\u00f5es, a exemplo da coopera\u00e7\u00e3o na difus\u00e3o de novas tecnologias e da economia digital; o fomento do di\u00e1logo cultural inter-religioso com vista aos mais elevados n\u00edveis de integra\u00e7\u00e3o e inclus\u00e3o social; a promo\u00e7\u00e3o da valoriza\u00e7\u00e3o da fam\u00edlia como c\u00e9lula social indispens\u00e1vel \u00e0 sociedade; a coopera\u00e7\u00e3o com os Estados no desenvolvimento de novas gera\u00e7\u00f5es de pol\u00edticas sociais, em especial, as que representam o envelhecimento; e assumir o papel de parceiros ativos nas pol\u00edticas de sa\u00fade, educa\u00e7\u00e3o, patrim\u00f3nio, habita\u00e7\u00e3o e prote\u00e7\u00e3o social na colabora\u00e7\u00e3o com os Estados, dentre outros.\r\nCientes da sua relev\u00e2ncia, as Santas Casas pretendem participar, de forma ativa, do desenvolvimento geoestrat\u00e9gico das pol\u00edticas internacionais dos estados que a pertencem. Inclusive, durante os debates, as Miseric\u00f3rdias se propuseram a ser o bra\u00e7o social da Nova Rota da Seda, de responsabilidade do Governo chin\u00eas.\r\nA Rota em quest\u00e3o faz refer\u00eancia aos caminhos usados por terra e mar entre o sul da \u00c1sia e a Europa para comercializar o tecido, formando a maior rota comercial do mundo antigo. O projeto de Pequim agora prev\u00ea importantes investimentos em infraestruturas para conectar o mundo aos mercados chineses. Ser\u00e3o portos, ferrovias, estradas, aeroportos e redes de telecomunica\u00e7\u00f5es.\r\nPor sua vez, o trabalho das mais de 2.100 Santas Casas brasileiras, respons\u00e1veis por mais da metade dos atendimentos pelo Sistema \u00danico de Sa\u00fade (SUS) no pa\u00eds, foi enaltecido e reconhecido durante o evento. Entendendo o papel social destas institui\u00e7\u00f5es, que estiveram representadas no Congresso pela Frente Parlamentar das Santas Casas, na minha pessoa; da Confedera\u00e7\u00e3o das Santas Casas e Hospitais Filantr\u00f3picos (CMB), com o Presidente Edson Rogatti; e gestores das Santas Casas de S\u00e3o Paulo, Paran\u00e1, Minas Gerais, Bahia entre outras. Ficou deliberado que o Brasil sediar\u00e1 o XIII Congresso Internacional das Miseric\u00f3rdias, em 2022, em S\u00e3o Paulo. Na ocasi\u00e3o, ser\u00e1 promovido um amplo debate para apresentar a vis\u00e3o das Santas Casas e hospitais filantr\u00f3picos frente ao envelhecimento da popula\u00e7\u00e3o, com a apresenta\u00e7\u00e3o de alternativas e propostas.\r\nPortanto, senhoras e senhores, os nossos desafios, ainda que imensos, se tornam mais f\u00e1ceis de serem encarados quando h\u00e1 uni\u00e3o de esfor\u00e7os e unidade de valores e a\u00e7\u00f5es. Precisamos, baseados no princ\u00edpio de fraternidade que envolve as Santas Casas, e na preocupa\u00e7\u00e3o destas institui\u00e7\u00f5es na esfera global, direcionar o olhar para o envelhecimento da popula\u00e7\u00e3o e a fragiliza\u00e7\u00e3o dos mecanismos de assist\u00eancia social voltadas para esta situa\u00e7\u00e3o.\r\n\u00c9 poss\u00edvel, at\u00e9 2022, data da realiza\u00e7\u00e3o do Congresso, j\u00e1 apresentar ao mundo os avan\u00e7os das nossas Santas Casas, com o equil\u00edbrio das finan\u00e7as e com medidas eficientes do Governo Federal brasileiro e com o apoio do nosso Congresso Nacional.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F5%2F2019&txPagina=133&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-25T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "REGULAMENTA\u00c7\u00c3O, MINIST\u00c9RIO DA SA\u00daDE, OPERA\u00c7\u00c3O DE CR\u00c9DITO, SANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, FUNDO DE GARANTIA DO TEMPO DE SERVI\u00c7O (FGTS).",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Regulamenta\u00e7\u00e3o, pelo Minist\u00e9rio da Sa\u00fade, de opera\u00e7\u00f5es de cr\u00e9dito das Santas Casas de Miseric\u00f3rdia e institui\u00e7\u00f5es filantr\u00f3picas, com recursos do Fundo de Garantia do Tempo de Servi\u00e7o - FGTS.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, quero registrar que no \u00faltimo dia 21 foi publicada portaria do Governo sobre as santas casas e hospitais filantr\u00f3picos. O Minist\u00e9rio da Sa\u00fade regulamentou as opera\u00e7\u00f5es de cr\u00e9dito com recursos do FGTS a serem operados pela Caixa Econ\u00f4mica, pelo Banco do Brasil e pelo BNDES.\r\nEsse \u00e9 um passo importante do Ministro Luiz Henrique Mandetta para que n\u00f3s possamos fazer a rolagem das d\u00edvidas banc\u00e1rias das santas casas e hospitais filantr\u00f3picos.\r\nNa semana passada, num ato no Pal\u00e1cio do Planalto, fizemos essa rolagem com o BNDES. Agora, essa portaria possibilita a opera\u00e7\u00e3o com a Caixa Econ\u00f4mica e outros bancos para salvar as santas casas, que tanto precisam no nosso Pa\u00eds.\r\nEra esse \u00e9 o registro, Sr. Presidente. Vamos \u00e0 assinatura dessa linha de cr\u00e9dito da Caixa Econ\u00f4mica para as santas casas.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "FRENTE PARLAMENTAR PELA LUTA CONTRA A TUBERCULOSE, ORGANIZA\u00c7\u00c3O DAS NA\u00c7\u00d5ES UNIDAS (ONU), HENRIQUE MANDETTA, MINISTRO DE ESTADO DA SA\u00daDE, TUBERCULOSE, COMISS\u00c3O DE SEGURIDADE SOCIAL E FAM\u00cdLIA (CSSF), GENEBRA (SU\u00cd\u00c7A), JACARTA (INDON\u00c9SIA).",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Assun\u00e7\u00e3o do Ministro da Sa\u00fade, Luiz Henrique Mandetta, do cargo de Presidente do Conselho do Stop TB, \u00f3rg\u00e3o internacional pela elimina\u00e7\u00e3o da tuberculose vinculado \u00e0 Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas - ONU.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, como Presidente da Frente Parlamentar pela luta contra a Tuberculose, eu gostaria de fazer um registro importante: o Brasil assume a Presid\u00eancia do Conselho do Stop TB, \u00f3rg\u00e3o ligado \u00e0 Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas. O Presidente ser\u00e1 o Ministro Luiz Henrique Mandetta, que suceder\u00e1 o Ministro da Sa\u00fade da \u00c1frica do Sul na estrat\u00e9gia global na luta contra essa doen\u00e7a.\r\nNo Brasil, s\u00e3o 72 mil casos novos da doen\u00e7a por ano. Ao longo desses \u00faltimos anos, o Minist\u00e9rio da Sa\u00fade tem incorporado estrat\u00e9gias com tecnologia, com diagn\u00f3stico e tem feito toda uma articula\u00e7\u00e3o para que as pessoas evitem o abandono do tratamento. Tudo isso tem gerado dados importantes para o Brasil em termos de redu\u00e7\u00e3o da mortalidade e tamb\u00e9m de redu\u00e7\u00e3o de casos novos, com detec\u00e7\u00f5es importantes. O Estado do Amazonas ocupa o primeiro lugar em incid\u00eancia da doen\u00e7a, seguido pelo Rio de Janeiro.\r\nHoje pela manh\u00e3, visitou este Parlamento a Sra. Lucica Ditiu, Diretora-Executiva do Stop TB, que ficou muito feliz com as atividades da Comiss\u00e3o de Seguridade Social e Fam\u00edlia e tamb\u00e9m com as atividades deste Parlamento, que levar\u00e1 a Genebra a for\u00e7a da Frente Parlamentar, que tem como Vice-Presidente a Deputada Benedita da Silva, que tamb\u00e9m tem um excelente trabalho no Estado do Rio de Janeiro, segundo Estado brasileiro com maior acometimento desta doen\u00e7a. Esta \u00e9 uma doen\u00e7a que acomete a popula\u00e7\u00e3o em situa\u00e7\u00e3o de rua, os ind\u00edgenas, a popula\u00e7\u00e3o carcer\u00e1ria, a popula\u00e7\u00e3o pobre deste Pa\u00eds.\r\nParab\u00e9ns ao Ministro Luiz Henrique Mandetta por liderar e ter liderado, quando Presidente da Comiss\u00e3o de Seguridade Social, tantos incentivos a essa Frente Parlamentar, que hoje v\u00ea a sua lideran\u00e7a mundial. Estaremos em Jacarta em dezembro para a posse desse conselho. E teremos o Brasil na lideran\u00e7a, de forma suprapartid\u00e1ria, na luta contra a tuberculose.\r\nCom f\u00e9 em Deus, eliminaremos essa doen\u00e7a.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-20T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 890/2019, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA M\u00c9DICOS PELO BRASIL, ATEN\u00c7\u00c3O PRIM\u00c1RIA \u00c0 SA\u00daDE, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, M\u00c9DICO, DEFESA, VOTA\u00c7\u00c3O.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Import\u00e2ncia de aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 890, de 2019, sobre a institui\u00e7\u00e3o do Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu s\u00f3 queria registrar, como Relator Revisor da Medida Provis\u00f3ria n\u00ba 890 nesta Casa e Presidente da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, a import\u00e2ncia de n\u00f3s aprovarmos essa MP.\r\nFizemos todo um trabalho na Comiss\u00e3o Especial. Quero registrar o trabalho do Senador Conf\u00facio Moura e do nosso Ministro Luiz Henrique Mandetta.\r\nNeste momento, apesar de todo o debate, \u00e9 fundamental aprovar essa Medida Provis\u00f3ria n\u00ba 890, na linha do que foi definido na Comiss\u00e3o Especial, no Parlamento e no Minist\u00e9rio da Sa\u00fade, atrav\u00e9s do Ministro Luiz Henrique Mandetta.\r\nQueria deixar isso consignado, como Relator Revisor.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F11%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-26T22:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLV 25/2019, PROJETO DE LEI DE CONVERS\u00c3O, MPV 890/2019, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei de Convers\u00e3o n\u00ba 25, de 2019, adotado pela Comiss\u00e3o Mista \u00e0 Medida Provis\u00f3ria n\u00ba 890, 2019, sobre a institui\u00e7\u00e3o do  Programa M\u00e9dicos pelo Brasil, no \u00e2mbito da aten\u00e7\u00e3o prim\u00e1ria \u00e0 sa\u00fade no Sistema \u00danico de Sa\u00fade - SUS, e a cria\u00e7\u00e3o do servi\u00e7o social aut\u00f4nomo denominado Ag\u00eancia para o Desenvolvimento da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade - ADAPS, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD vota \"sim\", Sr. Presidente.\r\nParabenizo V.Exa. pelo trabalho na aprova\u00e7\u00e3o dessa medida provis\u00f3ria, parabenizo o Senador Conf\u00facio Moura, o Ministro Luiz Henrique Mandetta e o L\u00edder Vitor Hugo.\r\nA Lideran\u00e7a do Governo vota \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F11%2F2019&txPagina=277&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-16T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "TUBERCULOSE, COMBATE, INDON\u00c9SIA, ORGANIZA\u00c7\u00c3O MUNDIAL DA SA\u00daDE (OMS), LUIZ HENRIQUE MANDETTA, MINISTRO DE ESTADO DA SA\u00daDE, POSSE, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Participa\u00e7\u00e3o do orador em reuni\u00e3o do Conselho da Stop TB, Stop Tuberculose realizada na Indon\u00e9sia, em miss\u00e3o oficial sem \u00f4nus para a C\u00e2mara dos Deputados. Posse do Ministro da Sa\u00fade, Luiz Henrique Mandetta, na presid\u00eancia do Conselho da Stop TB.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, acabo de chegar hoje de uma miss\u00e3o oficial, sem \u00f4nus para esta Casa, a Jacarta, Indon\u00e9sia, onde participamos de uma reuni\u00e3o do Conselho da Stop TB, Stop Tuberculose, uma organiza\u00e7\u00e3o mundial ligada \u00e0 Organiza\u00e7\u00e3o Mundial da Sa\u00fade que trata da erradica\u00e7\u00e3o da tuberculose para 2030.\r\nNessa reuni\u00e3o, Sr. Presidente, debatemos com diversos organismos de governos, com Ministros da Sa\u00fade. Na ocasi\u00e3o, o Ministro da Sa\u00fade, Luiz Henrique Mandetta, tomou posse como Presidente do Conselho da Stop TB. Foi eleito para presidi-lo por 3 anos. O antigo Presidente era o Ministro da Sa\u00fade da \u00c1frica do Sul, Dr. Aaron Motsoaledi.\r\nA tuberculose \u00e9 uma doen\u00e7a grave no mundo, com 10 milh\u00f5es de casos. No Brasil, 76 mil novos casos afligem a popula\u00e7\u00e3o, principalmente a popula\u00e7\u00e3o acometida pelo HIV e AIDS, a popula\u00e7\u00e3o ind\u00edgena, a popula\u00e7\u00e3o em situa\u00e7\u00e3o de rua, a popula\u00e7\u00e3o que se encontra em vulnerabilidade social.\r\n\u00c9 fundamental que o Minist\u00e9rio da Sa\u00fade, que agora vai ser l\u00edder mundial do controle e dessa luta, juntamente com a Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas e a OMS, tenha a voca\u00e7\u00e3o e o olhar para essa quest\u00e3o, que \u00e9 muito importante.\r\nEu presido a Frente Parlamentar pela luta contra a Tuberculose nesta Casa, que inspirou a frente mundial da tuberculose liderada por Nick Herbert, Deputado do Parlamento brit\u00e2nico. A frente congrega 54 pa\u00edses da \u00faltima ades\u00e3o do Parlamento da Indon\u00e9sia e foi inspirada na frente brasileira, que foi criada pela Comiss\u00e3o de Seguridade Social e Fam\u00edlia desta Casa. Para mim, \u00e9 a Comiss\u00e3o mais importante, porque trata de sa\u00fade, assist\u00eancia social, previd\u00eancia e fam\u00edlia. Na \u00e9poca, o Deputado Mandetta, que era Presidente da Comiss\u00e3o, e eu, que era o Vice-Presidente, organizamos essa Frente Parlamentar, que hoje tem assento, como convidada, nesse importante conselho mundial.\r\nEnt\u00e3o, eu acho que n\u00f3s demos um passo fundamental. Parab\u00e9ns ao Ministro da Sa\u00fade pela forma com que conduziu tudo! Parab\u00e9ns \u00e0 Stop TB! O pr\u00f3ximo evento ser\u00e1 em setembro na Nig\u00e9ria. Em 2021 o evento, que ocorre a cada 9 meses, ser\u00e1 no Brasil, provavelmente na cidade de Salvador, onde n\u00f3s debateremos como erradicar a tuberculose at\u00e9 2032. Nos pr\u00f3ximos 3 anos do mandato do Ministro Mandetta, n\u00f3s debateremos como diagnosticar e tratar 40 milh\u00f5es de pessoas com tuberculose em todo o mundo.\r\nParab\u00e9ns ao Ministro Mandetta! Parab\u00e9ns ao Brasil! Parab\u00e9ns a este Parlamento, que mostrou que n\u00f3s podemos nos organizar e ser exemplo no mundo todo numa importante batalha, numa importante luta, que \u00e9 erradicar a tuberculose das nossas vidas!\r\nEsse \u00e9 o registro.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F12%2F2019&txPagina=50&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-17T12:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCERRAMENTO, TRABALHO, COMISS\u00c3O DE SEGURIDADE SOCIAL E FAM\u00cdLIA (CSSF), BALAN\u00c7O.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "An\u00fancio de encerramento dos trabalhos da Comiss\u00e3o de Seguridade Social e Fam\u00edlia. Desempenho do \u00f3rg\u00e3o em 2019.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu gostaria de registrar o encerramento dos trabalhos da Comiss\u00e3o de Seguridade Social e Fam\u00edlia. \r\nInicio agradecendo ao meu L\u00edder, Gilberto Kassab, pela indica\u00e7\u00e3o, ao L\u00edder Andr\u00e9 de Paula e a toda a bancada do meu partido PSD, por terem me indicado para essa Presid\u00eancia. \r\nQuero agradecer a todos os membros da Comiss\u00e3o, que aprovaram 261 projetos de lei neste ano, Sr. Presidente. Apresentaram 5 relat\u00f3rios das Subcomiss\u00f5es da Sa\u00fade, da Assist\u00eancia Social, da Seguridade Social da Mulher, da Subcomiss\u00e3o Especial que trata de doen\u00e7as raras, da Subcomiss\u00e3o da Fam\u00edlia, do Grupo de Trabalho da Tabela SUS, do Grupo de Trabalho da Imuniza\u00e7\u00e3o. Isso foi apresentado por todo um grupo de Deputados e Deputadas desta Comiss\u00e3o. Eu reputo \u00e0 Comiss\u00e3o de Seguridade Social e Fam\u00edlia a mais importante Comiss\u00e3o desta Casa, pois ela trata da vida, trata da fam\u00edlia, trata, portanto, da assist\u00eancia social e do ser humano.\r\nConcluo parabenizando a todos os Deputados, aos Vice-Presidentes, Alexandre Serfiotis, Marx Beltr\u00e3o, Misael Varella, a todo o PSD e a todos os Deputados dessa Comiss\u00e3o. S\u00e3o 104 Deputados Federais, homens e mulheres que fazem parte dessa importante e vibrante Comiss\u00e3o.\r\nMuito obrigado tamb\u00e9m a V.Exa. pela confian\u00e7a, Deputado Rodrigo Maia, e a todos desta Casa. \u00c9 por isso que honramos o Parlamento brasileiro, quando conduzimos as Comiss\u00f5es e o Parlamento como V.Exa. e como fizemos na Comiss\u00e3o de Seguridade Social e Fam\u00edlia.\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F12%2F2019&txPagina=95&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-05T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "ELEI\u00c7\u00c3O, DIRETORIA, CONFEDERA\u00c7\u00c3O DAS SANTAS CASAS DE MISERIC\u00d3RDIA, HOSPITAIS E ENTIDADES FILANTR\u00d3PICAS (CMB), MIROCLES CAMPOS VERAS NETO, EX-DEPUTADO FEDERAL, FLAVIANO VENTORIM, VICE-PRESIDENTE.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 nova diretoria da Confedera\u00e7\u00e3o das Santas Casas de Miseric\u00f3rdia, Hospitais e Entidades Filantr\u00f3picas - CMB, especialmente ao Presidente Mirocles Campos Veras Neto e ao Vice-Presidente Flaviano Ventorim.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO ANTONIO BRITO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, gostaria de parabenizar a nova Diretoria da Confedera\u00e7\u00e3o das Santas Casas de Miseric\u00f3rdia, Hospitais e Entidades Filantr\u00f3picas - CMB, em nome dos rec\u00e9m-eleitos Presidente e Vice-Presidente, os Srs. Mirocles Campos Veras Neto e Flaviano Ventorim.\r\nO Sr. Mir\u00f3cles Veras Neto \u00e9 um experiente nome do setor da sa\u00fade, que manteve o legado do seu ilustre av\u00f4, o Sr. Mirocles Veras, ex-Deputado e fundador do Hospital Infantil Mirocles Campos Veras e da Maternidade Marques Bastos.\r\nIniciou sua carreira na pol\u00edtica ainda cedo, como Vereador de Parna\u00edba, segunda maior cidade do Piau\u00ed. O seu trabalho no Munic\u00edpio foi reconhecido, tanto que foi nomeado Secret\u00e1rio de Sa\u00fade do Estado do Piau\u00ed e eleito Presidente da Federa\u00e7\u00e3o das Santas Casas de Miseric\u00f3rdia e Hospitais Filantr\u00f3picos do Estado do Piau\u00ed (FEMIPI), trabalho este que acompanhei durante a minha gest\u00e3o na CMB, quando pude constatar a sua competente luta pelas Santas Casas e entidades filantr\u00f3picas.\r\nAcompanhar\u00e1 Mirocles no tri\u00eanio 2020-2023 o Sr. Flaviano Ventorim, Presidente da Federa\u00e7\u00e3o das Santas Casas de Miseric\u00f3rdia e Hospitais Beneficentes do Estado do Paran\u00e1 (FEMIPA).\r\nTanto quanto o companheiro de chapa, Ventorim tem vasto trabalho na \u00e1rea de gest\u00e3o e luta pelos hospitais e entidades filantr\u00f3picas. Ocupou o cargo de Diretor de diversas institui\u00e7\u00f5es, tais quais a Pr\u00f3 Sa\u00fade - Associa\u00e7\u00e3o Beneficente de Assist\u00eancia Social e Hospitalar, a Irmandade da Santa Casa de Miseric\u00f3rdia de Curitiba e o Hospital Nossa Senhora das Gra\u00e7as.\r\nHoje, ambos assumiram o desafio de conduzir a Confedera\u00e7\u00e3o das Santas Casas de Miseric\u00f3rdia, Hospitais e Entidades Filantr\u00f3picas - CMB, importante \u00f3rg\u00e3o de representa\u00e7\u00e3o das Santas Casas, entidades e hospitais filantr\u00f3picos. \r\nA entidade j\u00e1 teve 9 presidentes, entre os quais se destaca o Pe. Jos\u00e9 Linhares Pontes (1993-2005), ex-Deputado Federal, que deixou um legado a ser seguido pela nova gest\u00e3o.\r\nAtualmente, a CMB \u00e9 composta por 16 Federa\u00e7\u00f5es Estaduais e representa cerca de 2.100 Santas Casas, hospitais e entidades sem fins lucrativos em todo o Pa\u00eds.\r\nEm 2010, a CMB buscou junto \u00e0 C\u00e2mara Federal a reativa\u00e7\u00e3o da Frente Parlamentar Mista de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas. No ano seguinte, a Frente foi reativada, com o objetivo de trazer para dentro do Parlamento o debate sobre a import\u00e2ncia dessas institui\u00e7\u00f5es para sa\u00fade do povo brasileiro, bem como o momento de crise elas atravessam em decorr\u00eancia do subfinaciamento do SUS.\r\nAs Santas Casas, hospitais e entidades filantr\u00f3picas da \u00e1rea da sa\u00fade s\u00e3o, hoje, os principais parceiros do Sistema \u00danico de Sa\u00fade, respondendo por mais de 50% dos atendimentos do SUS - no caso dos atendimentos de alta complexidade, a participa\u00e7\u00e3o \u00e9 de 60%.\r\nPortanto, Sr. Presidente, Sras. e Srs. Deputados, n\u00e3o h\u00e1 d\u00favida do grandioso desafio a ser enfrentado, mas tenho convic\u00e7\u00e3o de que n\u00e3o faltar\u00e1 compromisso da atual gest\u00e3o para lutar pela melhoria da situa\u00e7\u00e3o vivenciada pelas Santas Casas e hospitais filantr\u00f3picos.\r\nMais uma vez, parabenizo a nova Diretoria da CMB e refor\u00e7o o apoio da Frente Parlamentar Mista de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F3%2F2020&txPagina=145&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-03-11T15:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, PREVEN\u00c7\u00c3O, COMBATE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Debate de medidas preventivas de enfrentamento da pandemia de coronav\u00edrus.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA) - Gostaria de saudar a nobre Deputada Carmen Em\u00edlia Bonf\u00e1 Zanotto, autora deste requerimento; o Deputado Rodrigo Maia, Presidente da Casa, pela celeridade com que convocou esta Comiss\u00e3o Geral; o Dr. Luizinho, Presidente da Comiss\u00e3o Externa que trata deste assunto t\u00e3o importante para o Pa\u00eds; o Sr. Gabbardo, Secret\u00e1rio Executivo do Minist\u00e9rio da Sa\u00fade; e, em especial, o Ministro Luiz Henrique Mandetta.\r\nEm janeiro, quando eu ainda presidia a Comiss\u00e3o de Seguridade Social e Fam\u00edlia, a segunda Comiss\u00e3o desta Casa, que trata de um tema t\u00e3o importante que \u00e9 a sa\u00fade, eu fui instado pela Deputada Carmen Zanotto e pelo Ministro Luiz Henrique Mandetta a tratar imediatamente, antes mesmo da volta do recesso parlamentar, de a\u00e7\u00f5es preventivas no \u00e2mbito do Legislativo e do Executivo, em comum acordo com o Minist\u00e9rio da Sa\u00fade, a\u00e7\u00f5es que preparariam este Parlamento e o Governo para medidas e a\u00e7\u00f5es que poderiam ser tomadas.\r\nAto cont\u00ednuo, tivemos uma articula\u00e7\u00e3o com a Frente Parlamentar da Sa\u00fade, autora da iniciativa, junto com a Presid\u00eancia da Comiss\u00e3o de Seguridade Social e Fam\u00edlia e com a Frente da Medicina, a Frente das Santas Casas, entre tantas outras que se articularam. J\u00e1 tivemos uma audi\u00eancia p\u00fablica no dia 5 de fevereiro, portanto, h\u00e1 mais de 1 m\u00eas, para tratar deste assunto, deliberando sobre o PL 23 e sobre as a\u00e7\u00f5es atinentes \u00e0 repatria\u00e7\u00e3o de brasileiros de Wuhan, al\u00e9m de todos os assuntos de que trata o PL e das a\u00e7\u00f5es que o Ministro da Sa\u00fade havia determinado.\r\nEu quero ser breve, Ministro, e parabenizo V.Exa. pela tranquilidade, serenidade e forma firme como tem conduzido n\u00e3o s\u00f3 as a\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade, sua Pasta, mas, principalmente, a comunica\u00e7\u00e3o com o povo brasileiro. \u00c9 fundamental que o povo brasileiro receba informa\u00e7\u00f5es corretas, serenas, e, ao mesmo tempo, eficazes, em vista da seriedade que o tema merece, como tem feito o Minist\u00e9rio da Sa\u00fade brasileiro, sem gerar p\u00e2nico, mas tomando medidas eficazes e r\u00e1pidas de que precisamos em se tratando deste assunto.\r\nPor isso, como Presidente da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, estarei, enquanto estiver nesta fun\u00e7\u00e3o e quando estiver em outras tantas, \u00e0 sua disposi\u00e7\u00e3o, Ministro, como um soldado, como todo o Parlamento deve estar, sob a lideran\u00e7a da Deputada Carmen Zanotto, sob sua lideran\u00e7a, para agirmos com rapidez neste Parlamento e darmos o suporte necess\u00e1rio, diante deste que \u00e9 um tema caro ao nosso Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2020&txPagina=27&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T12:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA DE PLEN\u00c1RIO, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas de Plen\u00e1rio de n\u00bas 1 a 4, com parecer contr\u00e1rio, oferecidas ao Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, em nome da Frente Parlamentar das Santas Casa e da Confedera\u00e7\u00e3o das Santas, eu gostaria de agradecer a V.Exa. o apoio a todas as santas casas, em todos os projetos; ao Senador Jos\u00e9 Serra; e a todos que tanto fizeram para esta vota\u00e7\u00e3o. V.Exa., Presidente, tem sido diligente em colocar em pauta projetos em prol das santas casas neste momento. Tamb\u00e9m quero agradecer ao Deputado Baleia Rossi a dilig\u00eancia na confec\u00e7\u00e3o do relat\u00f3rio. Agrade\u00e7o ainda a toda a bancada do PSD, especialmente ao Deputado Gilberto Kassab e ao Deputado Diego Andrade.\r\nO PSD vota contra as emendas, para que possamos dar celeridade \u00e0 aprova\u00e7\u00e3o deste projeto.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-04-09T12:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 1006/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 1.006, de 2020, sobre a presta\u00e7\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos diante da pandemia de coronav\u00edrus, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Sr. Presidente, mais uma vez gostaria, em nome da Frente Parlamentar em Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas, de agradecer por tudo que V.Exa. tem feito por essas Santas Casas. O Parlamento, sob sua dire\u00e7\u00e3o, tem alcan\u00e7ado diversas conquistas como esta.\r\nQuero agradecer tamb\u00e9m ao Senador Jos\u00e9 Serra, que tem apresentado projetos importantes.\r\nQuero agradecer tamb\u00e9m a toda a bancada do PSD, ao L\u00edder Diego Andrade, ao Deputado Joaquim Passarinho, que tamb\u00e9m est\u00e1 atuando - ele queria orientar; por isso, estamos orientando conjuntamente.\r\nAgrade\u00e7o, ainda, \u00e0 Confedera\u00e7\u00e3o das Santas Casas, que traz, Sr. Presidente, dados importantes.\r\nO setor tem uma d\u00edvida hist\u00f3rica. N\u00f3s estamos com d\u00edvida em bancos. N\u00f3s temos uma d\u00edvida com os fornecedores que soma mais de 20 bilh\u00f5es de reais. Portanto, neste per\u00edodo em que essa pandemia chega a todo o nosso Pa\u00eds, este socorro que V.Exa., com o Parlamento, faz chegar \u00e0s Santas Casas \u00e9 fundamental para, na luta com o nosso Ministro Mandetta, conseguirmos dar \u00e0 popula\u00e7\u00e3o, ao usu\u00e1rio do SUS o retorno de que tanto precisa.\r\nPortanto, n\u00f3s votamos \"sim\" a este projeto do Senador Jos\u00e9 Serra e agradecemos a todos os que o apoiam.\r\nMuito obrigado, Sr. Presidente.\r\nObrigado ao Parlamento brasileiro por mais essa conquista para as Santas Casas e hospitais filantr\u00f3picos do nosso Pa\u00eds.\r\nGrande abra\u00e7o \u00e0 Confedera\u00e7\u00e3o na pessoa do Mirocles.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F4%2F2020&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-06T13:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SEGUNDO TURNO, PEC 10/2020, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.\r\nSANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, PROJETO DE LEI ORDIN\u00c1RIA, SAN\u00c7\u00c3O PRESIDENCIAL.\r\nFRENTE PARLAMENTAR DE APOIO \u00c0S SANTAS CASAS DE MISERIC\u00d3RDIA, HOSPITAIS E ENTIDADES FILANTR\u00d3PICAS NA \u00c1REA DA SA\u00daDE, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o, em segundo turno, da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 10, de 2020, relativa ao estabelecimento do regime extraordin\u00e1rio fiscal, financeiro e de contrata\u00e7\u00f5es, para enfrentamento da calamidade p\u00fablica nacional decorrente da pandemia de coronav\u00edrus, ressalvados os destaques. San\u00e7\u00e3o de projeto de lei sobre a destina\u00e7\u00e3o de recursos financeiros \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - O PSD vota \"sim\", Sr. Presidente, a uma mat\u00e9ria t\u00e3o importante para o Parlamento, para o Congresso e para o Brasil neste momento de combate \u00e0 pandemia.\r\nEu quero registrar tamb\u00e9m que hoje foi sancionado o projeto de lei de autoria do Senador Jos\u00e9 Serra que destina 2 bilh\u00f5es de reais \u00e0s santas casas e aos hospitais filantr\u00f3picos.\r\nAgrade\u00e7o ao Senador Jos\u00e9 Serra e, em especial, a V.Exa., Presidente Rodrigo Maia, por todo o trabalho que sempre fez em prol das santas casas e dos hospitais neste momento dif\u00edcil. Agrade\u00e7o ao Parlamento; a todos os Deputados; ao meu partido, o PSD, na pessoa de Gilberto Kassab, t\u00e3o sens\u00edvel \u00e0s causas sociais, \u00e0s entidades filantr\u00f3picas; ao L\u00edder do Senado; ao L\u00edder Diego Andrade, que junto comigo e com a Frente Parlamentar de Apoio \u00e0s Santas Casas, em apoio \u00e0 Confedera\u00e7\u00e3o das Santas Casas, com o Sr. Mirocles V\u00e9ras, assinou o documento levado ao Governo, e a toda a nossa bancada federal.\r\nTamb\u00e9m quero agradecer ao Major e Deputado Vitor Hugo, L\u00edder do Governo, que articulou junto ao Ministro da Sa\u00fade, ao Presidente da Rep\u00fablica e ao Governo Federal para que houvesse a san\u00e7\u00e3o.\r\nO PSD vota \"sim\".\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2020&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-20T20:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1333/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pela Relatora da Comiss\u00e3o de Seguridade Social e Fam\u00edlia ao Projeto de Lei n\u00ba 1.888, de 2020, a respeito da concess\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Institui\u00e7\u00f5es de Longa Perman\u00eancia para Idosos - ILPI, no exerc\u00edcio de 2020, para enfrentamento da situa\u00e7\u00e3o de emerg\u00eancia p\u00fablica decorrente da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PSD vota \"sim\" a este projeto, o PL 1.888, de autoria da Deputada Leandre, t\u00e3o importante para o Pa\u00eds, para entidades e ILPIs, institui\u00e7\u00f5es de longa perman\u00eancia para idosos, esse p\u00fablico vulner\u00e1vel do nosso Pa\u00eds no momento desta pandemia, relativa a coronav\u00edrus, que tem atingido principalmente a parcela dos idosos.\r\nQueria parabenizar V.Exa. e tamb\u00e9m a Deputada Leandre, a Deputada Tereza Nelma, a Deputada Carmen Zanotto, a todos da Comiss\u00e3o de Seguridade Social e Fam\u00edlia que articularam este projeto e tamb\u00e9m ao Deputado Luizinho.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2020&txPagina=155&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-04T11:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 923/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.\r\nGOVERNO FEDERAL, PAGAMENTO, AUX\u00cdLIO FINANCEIRO, UNI\u00c3O, SANTA CASA DE MISERIC\u00d3RDIA, HOSPITAL FILANTR\u00d3PICO, PRESTA\u00c7\u00c3O DE SERVI\u00c7OS, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ENFRENTAMENTO, PANDEMIA, CORONAV\u00cdRUS, EMERG\u00caNCIA SOCIAL, LEI ORDIN\u00c1RIA.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Agradecimento \u00e0 Casa pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 1.006, de 2020, a respeito da concess\u00e3o, pela Uni\u00e3o, de aux\u00edlio financeiro \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos conveniados com o Sistema \u00danico de Sa\u00fade - SUS. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 923, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 5.768, de 1971, relativa \u00e0 distribui\u00e7\u00e3o gratuita de pr\u00eamios mediante sorteio, vale-brinde ou concurso, a t\u00edtulo de propaganda, e o estabelecimento de normas de prote\u00e7\u00e3o \u00e0 poupan\u00e7a popular.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Srs. Deputados, quero fazer o registro do importante momento pelo qual as Santas Casas e os hospitais filantr\u00f3picos passaram com o pagamento dos 2 bilh\u00f5es de reais oriundos de um projeto de lei desta Casa, do Senador Jos\u00e9 Serra, aprovado no Senado Federal e na C\u00e2mara dos Deputados, sancionado pelo Presidente da Rep\u00fablica. A segunda parcela desse pagamento chegar\u00e1 agora aos Estados e Munic\u00edpios, que v\u00e3o repassar \u00e0s Santas Casas e aos hospitais filantr\u00f3picos de todo o Brasil.\r\n\u00c9 importante ressaltar, Sr. Presidente, que esses recursos s\u00e3o para o combate \u00e0 COVID-19 feito por parte dessas entidades t\u00e3o importantes, que v\u00eam lutando juntamente com o SUS e com os hospitais p\u00fablicos. Esses recursos v\u00eam para se juntar ao pagamento dos custos dessas entidades, que t\u00eam aumentado cada vez mais ao longo dos anos e que agora, por causa da pandemia, est\u00e3o ficado cada vez piores. E essa medida vem ao socorro dessas entidades.\r\nEu queria agradecer ao Governo Federal, na pessoa do seu L\u00edder, o Deputado Major Vitor Hugo, aqui presente, que articulou, junto com o L\u00edder do meu partido, o Deputado Diego Andrade, e o Presidente do meu partido, o Deputado Gilberto Kassab, para que pud\u00e9ssemos fazer essa articula\u00e7\u00e3o com os demais Parlamentares.\r\nQuero agradecer ao Presidente desta Casa, o Deputado Rodrigo Maia, ao Presidente do Senado e a todos que, junto com a Confedera\u00e7\u00e3o das Santas Casas, Hospitais e Entidades Filantr\u00f3picas e a Frente Parlamentar das Santas Casas, fizeram deste momento um momento real para o setor filantr\u00f3pico nacional.\r\nMuito obrigado, Sr. Presidente. \r\nAgrade\u00e7o ao Parlamento e desejo que os hospitais filantr\u00f3picos utilizem bem esses recursos e possam aplic\u00e1-los para o fortalecimento do Sistema \u00danico de Sa\u00fade.\r\nO PSD, conforme orienta\u00e7\u00e3o do nosso L\u00edder, o Deputado Darci de Matos, vota \"n\u00e3o\", refor\u00e7ando a Lideran\u00e7a do nobre Deputado Darci de Matos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2020&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T12:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "COMISS\u00c3O EXTERNA, COMBATE, CORONAV\u00cdRUS, VISITA, FUNDA\u00c7\u00c3O OSWALDO CRUZ (FIOCRUZ), RIO DE JANEIRO (RJ), PRODU\u00c7\u00c3O, DEFESA, DESTINA\u00c7\u00c3O, RECURSOS OR\u00c7AMENT\u00c1RIOS.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Visita de membros da Comiss\u00e3o Externa de Enfrentamento \u00e0 Covid-19, \u00e0 Funda\u00e7\u00e3o Oswaldo Cruz - FIOCRUZ, no Rio de Janeiro, Estado do Rio de Janeiro. Defesa da destina\u00e7\u00e3o de recursos or\u00e7ament\u00e1rios para a produ\u00e7\u00e3o de vacina contra a Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, fa\u00e7o o registro da visita que a Comiss\u00e3o Externa de Enfrentamento \u00e0 COVID fez ontem \u00e0 FIOCRUZ do Rio de Janeiro. Fomos 14 Parlamentares, Deputados Federais desta C\u00e2mara dos Deputados. L\u00e1 acompanhamos o andamento da vacina de Oxford, visitamos as instala\u00e7\u00f5es da FIOCRUZ, verificamos no Instituto Bio-Manguinhos n\u00e3o s\u00f3 a testagem mas tamb\u00e9m o andamento da vacina. Esperamos estar em fase final a partir de dezembro, para que haja distribui\u00e7\u00e3o.\r\nQuero fazer j\u00e1 um apelo a esta Casa para que possamos destinar 1,5 bilh\u00e3o de reais para os 100 milh\u00f5es de doses comprados e tamb\u00e9m para todo o parque que ser\u00e1 instalado na FIOCRUZ, que possibilitar\u00e1 ao Brasil a oportunidade de ter um parque estruturado para a produ\u00e7\u00e3o desta vacina e de outras vacinas, em continuidade.\r\nEste \u00e9 o registro. Parabenizo os membros da Comiss\u00e3o: o Presidente, Deputado Dr. Luizinho; a Relatora, Deputada Carmen Zanotto; e todos que fizeram parte dessa visita ao Rio de Janeiro. Parabenizo tamb\u00e9m a Presidente da FIOCRUZ, N\u00edsia Trindade, que muito bem nos recebeu. \r\nMuito obrigado, Sr. Presidente.\r\nEra o registro que eu tinha a fazer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=74&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-02-10T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ROBERTO SANTOS, EX-GOVERNADOR, BAHIA, EX-DEPUTADO FEDERAL, FALECIMENTO, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Falecimento do ex-Deputado Federal e ex-Governador do Estado da Bahia, Roberto Santos. Solidariedade aos seus familiares.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Quero registrar, em nome dos baianos, Sr. Presidente, o falecimento, que ocorreu ontem, do ex-Governador Roberto Santos, ex-Deputado Federal desta Casa e ex-Presidente da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, a qual presido hoje. Falo, em nome da \u00e1rea de sa\u00fade baiana, que ele foi um homem que fez um trabalho importante na universidade federal. Em nome do meu pai, falo que ele o nomeou Prefeito de Salvador pela primeira vez na hist\u00f3ria da Bahia e de Salvador.\r\nEnt\u00e3o, eu queria agradecer muito e me solidarizar com os filhos dele - Anneliese, Edgard, Maria Carmen, Cristiana, Roberto e Patr\u00edcia - e dizer que esta Casa sempre teve rever\u00eancias ao ex-Governador e ex-Deputado Federal Roberto Santos.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F2%2F2021&txPagina=246&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-11T22:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA (PSDB), FAVOR\u00c1VEL, DISPOSITIVO LEGAL, REDU\u00c7\u00c3O, BENEF\u00cdCIO FISCAL,  PEC 186/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7AO, PEC EMERGENCIAL, AJUSTE FISCAL, AUX\u00cdLIO EMERGENCIAL, PANDEMIA, CORONAV\u00cdRUS.\r\nSAN\u00c7\u00c3O PRESIDENCIAL, PL 2809/2020, PROJETO DE LEI ORDIN\u00c1RIA, CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSIST\u00caNCIA SOCIAL (CEBAS). CONTRATO, CONV\u00caNIO, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ENTIDADE BENEFICENTE.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Reafirma\u00e7\u00e3o do posicionamento do PSD pela manuten\u00e7\u00e3o do 4\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 186, de 2019, a chamada PEC Emergencial sobre a cria\u00e7\u00e3o de mecanismos de ajuste fiscal. Agradecimento ao Presidente Jair Bolsonaro pela san\u00e7\u00e3o do Projeto de Lei n\u00ba 2.809, de 2020, (transformado na Lei n\u00ba 14.123, de 2021), sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.650, de 2018, e a prorroga\u00e7\u00e3o, at\u00e9 31 de dezembro de 2020, da suspens\u00e3o da obrigatoriedade de manuten\u00e7\u00e3o das metas quantitativas e qualitativas contratualizadas pelos prestadores de servi\u00e7o de sa\u00fade no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS, estabelecida pelo art. 1\u00ba da Lei n\u00ba 13.992, de 2020.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Primeiro, Sr. Presidente, eu queria saudar V.Exa. e reafirmar a posi\u00e7\u00e3o do PSD de votar \"sim\", pela manuten\u00e7\u00e3o do texto, em fun\u00e7\u00e3o do acordo e tamb\u00e9m do pensamento da bancada.\r\nQueria, mais uma vez nesta noite, agradecer pela san\u00e7\u00e3o do projeto de lei que transformou a Lei n\u00ba 14.123, de 2021, das Santas Casas e hospitais filantr\u00f3picos, pela manuten\u00e7\u00e3o desses hospitais t\u00e3o importantes para o Pa\u00eds. Quem votar \"sim\" a este texto estar\u00e1 tamb\u00e9m votando pela manuten\u00e7\u00e3o das isen\u00e7\u00f5es das Santas Casas e entidades filantr\u00f3picas. Houve o cuidado do Relator Daniel de manter as isen\u00e7\u00f5es das entidades filantr\u00f3picas, das Santas Casas. Portanto, o voto \"sim\" mant\u00e9m essas isen\u00e7\u00f5es. Quero agradecer, em nome da Frente Parlamentar de Apoio \u00e0s Santas Casas e Hospitais Filantr\u00f3picos, esse cuidado para com essas entidades que tanto contribuem com o Brasil neste momento de pandemia.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2021&txPagina=273&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-18T11:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 741/2021, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL, ACORDO, SORAYA SANTOS, F\u00c1BIO TRAD, LINCOLN PORTELA, WELLINGTON ROBERTO, DEPUTADO FEDERAL.\r\nAPENSA\u00c7\u00c3O, PL 4196/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, C\u00d3DIGO PENAL, ATUALIZA\u00c7\u00c3O DO TEXTO DA LEI, CRIME, FEMINIC\u00cdDIO, F\u00c1BIO TRAD, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA).",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Constru\u00e7\u00e3o de acordo entre os Deputados Soraya Santos e F\u00e1bio Trad para a vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 741, de 2021, sobre a altera\u00e7\u00e3o do Decreto-Lei n\u00ba 2.848, de 1940; bem como das Leis de n\u00bas 8.072, de 1990, e 11.340, de 2006, com vista \u00e0 ado\u00e7\u00e3o de medidas de combate \u00e0 viol\u00eancia contra a mulher, e \u00e0 cria\u00e7\u00e3o do Programa de Coopera\u00e7\u00e3o Sinal Vermelho Contra a Viol\u00eancia Dom\u00e9stica. Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o da propositura em regime de urg\u00eancia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, era s\u00f3 para consignar o acordo firmado entre a nobre Deputada Soraya Santos e o nobre Deputado F\u00e1bio Trad, com o entendimento do Deputado Lincoln Portela, no sentido de que n\u00f3s vamos votar a urg\u00eancia do PL 741/21 e, na sequ\u00eancia, as demais urg\u00eancias.\r\nLogo depois, falarei tamb\u00e9m com o L\u00edder Wellington Roberto para que nos sentemos com o Presidente Arthur Lira, a fim de que o m\u00e9rito desse projeto condense os apensados, que estavam at\u00e9 ontem na Mesa, ao PL 4.196/20, do Deputado F\u00e1bio Trad, no intuito de que possamos fazer um apensado de todos os projetos.\r\nCom esse acordo, o PSD vota \"sim\", para que n\u00f3s possamos discutir o m\u00e9rito.\r\nEm rela\u00e7\u00e3o ao conte\u00fado dos projetos, tanto o do Deputado F\u00e1bio Trad, do nosso partido, o PSD, quanto o do Deputado Lincoln Portela, tratarei com o L\u00edder do PL, o Deputado Wellington Roberto.\r\nDe acordo, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F3%2F2021&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-07T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DIA MUNDIAL DA SA\u00daDE. \r\nSOLIDARIEDADE, FAM\u00cdLIA, PACIENTE CONTAMINADO, CORONAV\u00cdRUS, FALECIMENTO.\r\nCONGRESSO NACIONAL, ATUA\u00c7\u00c3O, COMBATE, PANDEMIA, CORONAV\u00cdRUS. \r\nPROFISSIONAL DE SA\u00daDE, HOSPITAL FILANTR\u00d3PICO, SANTA CASA DE MISERIC\u00d3RDIA, ATUA\u00c7\u00c3O, PANDEMIA, CORONAV\u00cdRUS, SOLIDARIEDADE.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Transcurso do Dia Mundial da Sa\u00fade. Solidariedade aos familiares das v\u00edtimas da Covid-19 no Brasil e no mundo. Aprova\u00e7\u00e3o, pelo Congresso Nacional, de medidas de combate \u00e0 doen\u00e7a viral e seus efeitos. Solidariedade aos profissionais da sa\u00fade, \u00e0s Santas Casas de Miseric\u00f3rdia e hospitais filantr\u00f3picos envolvidos na luta contra a epidemia de coronav\u00edrus.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Como L\u00edder. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. \r\nFa\u00e7o registro neste Dia Mundial da Sa\u00fade. Primeiro, quero me solidarizar com todas as fam\u00edlias, com todos os parentes de pessoas que perderam sua vida e com os que se encontram em situa\u00e7\u00e3o de sa\u00fade agravada por esta pandemia da COVID-19 em todo o mundo, especialmente no Brasil.\r\nEu, que tive a honra de ter sido Presidente da Comiss\u00e3o de Seguridade Social e Fam\u00edlia, a Comiss\u00e3o ligada \u00e0 \u00e1rea de sa\u00fade desta Casa, juntamente com os demais Parlamentares, com o Congresso Nacional, envidamos esfor\u00e7os importantes para aprovar medidas fundamentais que pudessem combater esta pandemia, dar alternativas ao Governo Federal, aos Governos Estaduais, \u00e0s Prefeituras e \u00e0 sociedade civil. A inten\u00e7\u00e3o era que pud\u00e9ssemos juntos unir esfor\u00e7os.\r\nSr. Presidente, gostaria de me solidarizar tamb\u00e9m com os trabalhadores de sa\u00fade, com o setor que eu defendo nesta Casa, as Santas Casas e os hospitais filantr\u00f3picos, e com todos os que v\u00eam lutando para que as fam\u00edlias, o povo brasileiro possa passar por este momento sem o agravamento da sa\u00fade, sem o agravamento da crise econ\u00f4mica.\r\nEsse \u00e9 o registro, Sr. Presidente.\r\nE gostaria de parabenizar o Congresso Nacional, pelo trabalho que vem fazendo, V.Exa. e todos os que v\u00eam trabalhando nesta Casa.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F4%2F2021&txPagina=150&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-28T19:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE VOTO DE PESAR, FALECIMENTO, LEONARDO MATOS, PRESIDENTE, C\u00c2MARA MUNICIPAL, ITAPETINGA (BA), HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Apresenta\u00e7\u00e3o de mo\u00e7\u00e3o de pesar pelo falecimento de Leonardeo Matos, Presidente da C\u00e2mara de Vereadores do Munic\u00edpio de Itapetinga, Estado da Bahia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, rapidamente, quero registrar que protocolei na Casa requerimento de mo\u00e7\u00e3o de pesar pelo falecimento do Presidente da C\u00e2mara de Vereadores de Itapetinga, Leonardo Matos, que faleceu nesse final de semana. Est\u00e3o todos comovidos na cidade de Itapetinga.\r\nGostaria de dizer \u00e0 fam\u00edlia de Leonardo Matos - o Sr. Lour\u00e3o, a D. Marilda, a sua esposa, o seu filho - e a todos os seus amigos e familiares que estamos consternados.\r\nQue se registre nos Anais desta C\u00e2mara a import\u00e2ncia do trabalho feito pelo Presidente Leonardo Matos para Itapetinga, para a Bahia e para o Brasil.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2021&txPagina=123&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-29T16:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DARCI DE MATOS, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), BANCADA PARLAMENTAR, COMISS\u00c3O DE CONSTITUI\u00c7\u00c3O E JUSTI\u00c7A E DE CIDADANIA (CCJC), SANTA CATARINA, ELOGIO.\r\nREUNI\u00c3O, MARCELO QUEIROGA, MINISTRO DE ESTADO DA SA\u00daDE, SANTA CASA DE MISERIC\u00d3RDIA, RECURSOS P\u00daBLICOS, PANDEMIA, CORONAV\u00cdRUS, SA\u00daDE P\u00daBLICA, HOSPITAL FILANTR\u00d3PICO, FRENTE PARLAMENTAR DE APOIO \u00c0S SANTAS CASAS DE MISERIC\u00d3RDIA, HOSPITAIS E ENTIDADES FILANTR\u00d3PICAS NA \u00c1REA DA SA\u00daDE, PRESIDENTE DA REP\u00daBLICA, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ATUA\u00c7\u00c3O PARLAMENTAR, CONGRESSO NACIONAL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Elogio \u00e0 atua\u00e7\u00e3o parlamentar do Deputado Darci de Matos, da bancada do PSD. Resultado de audi\u00eancia concedida ao orador e a representantes de hospitais filantr\u00f3picos e de Santas Casas de Miseric\u00f3rdia pelo Ministro da Sa\u00fade, Marcelo Queiroga, destinada ao debate sobre a destina\u00e7\u00e3o de recursos a essas entidades para o enfrentamento da pandemia de coronav\u00edrus (Covid-19).",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero fazer dois registros. \r\nO primeiro \u00e9 para enaltecer o trabalho de V.Exa., Deputado Darci de Matos, que tem sido um brilhante Parlamentar do PSD.\r\nTanto eu quanto o Vice-L\u00edder Neucimar Fraga, em nome de toda a bancada do PSD, parabenizamos V.Exa. pelo trabalho que tem feito na Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, neste Parlamento, e pelo trabalho que tem levado para o Estado de Santa Catarina, Estado do qual V.Exa. \u00e9 um importante Parlamentar. Gostaria, portanto, de fazer este registro em nome de todos os 35 Deputados Federais do PSD. \r\nParab\u00e9ns a V.Exa.! Parab\u00e9ns a Santa Catarina! \r\nEm segundo lugar, eu gostaria de registrar que ontem estive com o Ministro da Sa\u00fade, Marcelo Queiroga, e com representantes das Santas Casas e hospitais filantr\u00f3picos. Estiveram comigo o Presidente da Confedera\u00e7\u00e3o das Santas Casas, Mirocles V\u00e9ras; os Deputados Federais Pedro Westphalen e Jer\u00f4nimo Goergen; e o nosso Senador Luis Carlos Heinze, tratando com o Ministro da Sa\u00fade exatamente dos recursos destinado \u00e0s Santas Casas para o combate \u00e0 COVID-19. \r\nO Ministro da Sa\u00fade aceitou o nosso pleito, aceitou o trabalho que ser\u00e1 feito pelas Santas Casas e pelos hospitais filantr\u00f3picos. N\u00f3s e os demais Parlamentares da Frente Parlamentar de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas encaminharemos, agora, esse pleito ao Presidente da Rep\u00fablica, em apoio \u00e0s Santas Casas, para que tenha continuidade o trabalho dessas institui\u00e7\u00f5es t\u00e3o importantes para o Pa\u00eds n\u00e3o s\u00f3 no combate \u00e0 pandemia da COVID-19, mas tamb\u00e9m no combate a diversas outras doen\u00e7as que acometem a popula\u00e7\u00e3o brasileira. \r\nAs Santas Casas e os hospitais filantr\u00f3picos s\u00e3o respons\u00e1veis por mais de 50% de todos os atendimentos SUS no Brasil. E s\u00e3o a\u00e7\u00f5es como a do Senador Heinze, por meio do seu projeto, s\u00e3o as a\u00e7\u00f5es deste Parlamento, agora liderado por V.Exa., bem como pelo nosso Presidente Arthur Lira e pelo Vice-Presidente Marcelo Ramos, que fazem com que o Parlamento cres\u00e7a em meio a uma pandemia como esta. \r\nEra esse o registro que eu queria fazer. \r\nParab\u00e9ns, mais uma vez, Deputado Darci de Matos!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F4%2F2021&txPagina=195&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-11T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "APOIO POL\u00cdTICO, ALUISIO MENDES, DEPUTADO FEDERAL, FAVOR\u00c1VEL, ACORDO, VOTA\u00c7\u00c3O, PRC 35/2021, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, ALTERA\u00c7\u00c3O, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, USO DA PALAVRA.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Associa\u00e7\u00e3o do PSD ao posicionamento do Deputado Aluisio Mendes sobre a proposta de adiamento da vota\u00e7\u00e3o do Projeto de Resolu\u00e7\u00e3o n\u00ba 35, de 2021, acerca da altera\u00e7\u00e3o dos arts. 9\u00ba, 10, 65, 66, 67, 84, 89, 117, 122, 155, 157, 161, 162, 163, 177, 178, 185, 186, 192 e 193 do Regimento Interno da C\u00e2mara dos Deputados, para reordena\u00e7\u00e3o do uso da palavra em sess\u00e3o, disposi\u00e7\u00e3o sobre o tempo de dura\u00e7\u00e3o das sess\u00f5es e outras provid\u00eancias.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD segue a posi\u00e7\u00e3o do Deputado Aluisio, entendendo que essa \u00e9 posi\u00e7\u00e3o nossa. N\u00f3s precisamos votar esse Regimento, Sr. Presidente. Entendemos que esse Regimento \u00e9 o melhor para a Casa neste momento, para amplia\u00e7\u00e3o do di\u00e1logo e das nossas rela\u00e7\u00f5es. Seguimos a posi\u00e7\u00e3o do Deputado Aluisio.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ELOGIO, MARCELO RAMOS, RELATOR, DI\u00c1LOGO POL\u00cdTICO, APROVA\u00c7\u00c3O, PRC 84/2019, PROJETO DE RESOLU\u00c7\u00c3O DA C\u00c2MARA DOS DEPUTADOS, ALTERA\u00c7\u00c3O, REGIMENTO INTERNO DA C\u00c2MARA DOS DEPUTADOS, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), MINORIA PARLAMENTAR, MAIORIA PARLAMENTAR.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida ao Projeto de Resolu\u00e7\u00e3o n\u00ba 84, de 2019, sobre altera\u00e7\u00f5es nos arts. 50, 72, 84, 117, 122, 155, 157, 177, 185, 186, 189 e 193 do Regimento Interno da C\u00e2mara dos Deputados, para reordena\u00e7\u00e3o do uso da palavra em sess\u00e3o e para disposi\u00e7\u00e3o sobre o tempo de dura\u00e7\u00e3o das sess\u00f5es, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD, Sr. Presidente, primeiro gostaria de parabenizar V.Exa. pela capacidade de aglutinar, de articular, de levar ao consenso esta Casa, iniciando uma pauta diferente. N\u00f3s que temos v\u00e1rios mandatos nesta Casa vimos a necessidade de revitalizar, revigorar, repensar um Regimento que foi tratado dessa forma desde 1989.\r\nTamb\u00e9m gostaria de parabenizar o Deputado Marcelo Ramos, que conseguiu pegar o esp\u00edrito que n\u00f3s gostar\u00edamos, que \u00e9 o de uma casa de di\u00e1logo, privilegiando, potencializando o debate dos Parlamentares, aumentando a capacidade desse debate, aumentando o n\u00famero de Parlamentares que v\u00e3o falar e at\u00e9 mesmo, nas concess\u00f5es necess\u00e1rias, aumentando para 1 minuto.\r\nQuero tamb\u00e9m parabenizar pelo consenso os grupos Minoria e Maioria, que nesta Casa se sentaram no momento certo. Quem ganha com isso \u00e9 o Parlamento e, com certeza, o povo brasileiro. Haver\u00e1 mat\u00e9rias votadas, sob a dire\u00e7\u00e3o de V.Exa., em prol do povo brasileiro que tanto precisa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-18T19:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PL 1568/2019, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do substitutivo oferecido pelo Relator da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 1.568, de 2019, sobre a altera\u00e7\u00e3o do Decreto-Lei n\u00ba 2.848, de 1940, (C\u00f3digo Penal), e das Leis de n\u00bas 7.210, de 1984, (Lei de Execu\u00e7\u00e3o Penal), e 8.072, de 1990, para tipifica\u00e7\u00e3o do feminic\u00eddio como crime aut\u00f4nomo e agravamento das penas impostas ao condenado, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - O PSD, Sr. Presidente, vota \"sim\", registrando a import\u00e2ncia deste projeto, desta causa, desta luta contra o feminic\u00eddio. Registramos tamb\u00e9m o trabalho do Deputado Federal F\u00e1bio Trad, do PSD do Mato Grosso do Sul, que tamb\u00e9m, n\u00e3o s\u00f3 nesta causa, tem cooperado, com projeto de lei semelhante e inclusive com a\u00e7\u00f5es de projetos apensados a este. \r\nParabenizo os autores do projeto, parabenizo o Deputado F\u00e1bio Trad, parabenizo a articula\u00e7\u00e3o para votarmos um projeto t\u00e3o importante na noite de hoje. Ganha o Parlamento, ganham, portanto, os autores e ganha o povo brasileiro. \r\n\u00c9 o registro, Sr. Presidente. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-20T12:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 1018/2020, MEDIDA PROVIS\u00d3RIA, ALTERA\u00c7\u00c3O, TAXA DE FISCALIZA\u00c7\u00c3O DE INSTALA\u00c7\u00c3O (TFI), TELECOMUNICA\u00c7\u00d5ES,  CONTRIBUI\u00c7\u00c3O PARA O DESENVOLVIMENTO DA IND\u00daSTRIA CINEMATOGR\u00c1FICA NACIONAL (CONDECINE), CONTRIBUI\u00c7\u00c3O PARA O FOMENTO DA RADIODIFUS\u00c3O P\u00daBLICA (CFRP), PAULO MAGALH\u00c3ES, RELATOR, ELOGIO.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Regozijo com a designa\u00e7\u00e3o do Deputado Paulo Magalh\u00e3es para Relator da Medida Provis\u00f3ria n\u00ba 1.018, de 2020, sobre a altera\u00e7\u00e3o dos valores das tabelas da Taxa de Fiscaliza\u00e7\u00e3o de Instala\u00e7\u00e3o (Fiscaliza\u00e7\u00e3o das Telecomunica\u00e7\u00f5es); da Contribui\u00e7\u00e3o para o Fomento da Radiodifus\u00e3o P\u00fablica e da Contribui\u00e7\u00e3o para o Desenvolvimento da Ind\u00fastria Cinematogr\u00e1fica Nacional.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu s\u00f3 queria fazer o registro da import\u00e2ncia da relatoria do Deputado Paulo Magalh\u00e3es, que traz nessa relatoria a sua sapi\u00eancia e a sua compet\u00eancia, como ex-Presidente da Comiss\u00e3o de Comunica\u00e7\u00e3o, Ci\u00eancia e Tecnologia desta Casa. O povo baiano fica feliz, o povo brasileiro tamb\u00e9m, porque traz S.Exa. essa experi\u00eancia para uma medida provis\u00f3ria fundamental. \r\nDeputado Paulo Magalh\u00e3es, parab\u00e9ns, em nome do nosso partido, o PSD, pelo trabalho que V.Exa. vem fazendo nesta Casa, e especialmente por esta relatoria! \r\n\u00c9 o registro que fa\u00e7o, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-09T18:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA , REQUERIMENTO DE URG\u00caNCIA URGENT\u00cdSSIMA, PL 2522/2015, PROJETO DE LEI ORDINARIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia urgent\u00edssima do Projeto de Lei n\u00ba 2.522, de 2015, sobre altera\u00e7\u00e3o da Lei n\u00ba 9.096, de 1995 (Lei dos Partidos Pol\u00edticos), e da Lei n\u00ba 9.504, de 1997 (Lei das Elei\u00e7\u00f5es), para a institui\u00e7\u00e3o das federa\u00e7\u00f5es de partidos pol\u00edticos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Usando o tempo da Maioria, Sr. Presidente, eu queria tamb\u00e9m dizer a V.Exa., quanto ao encaminhamento do PSD, que o PSD est\u00e1 votando \"sim\" \u00e0 urg\u00eancia, mas sem nenhum compromisso com o m\u00e9rito. Essa \u00e9 a posi\u00e7\u00e3o do PSD, que quer deixar claro para todos os partidos que vota \"sim\" \u00e0 urg\u00eancia, mas sem compromisso com o m\u00e9rito da mat\u00e9ria. \r\nEsse \u00e9 o registro, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-22T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE PREFER\u00caNCIA, PROPOSI\u00c7\u00c3O ORIGINAL, PL 4384/2020, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o do texto original do Projeto de Lei n\u00ba 4.384, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.992, de 2020, para extens\u00e3o, \u00e0s organiza\u00e7\u00f5es sociais de sa\u00fade, a suspens\u00e3o da obrigatoriedade de manuten\u00e7\u00e3o das metas quantitativas e qualitativas, contratualizadas pelos prestadores de servi\u00e7o de sa\u00fade de qualquer natureza, no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, em nome das Santas Casas, hospitais e entidades filantr\u00f3picas, n\u00e3o s\u00f3 pela valoriza\u00e7\u00e3o, refer\u00eancia e o trabalho do Deputado Pedro Westphalen, mas tamb\u00e9m por tudo que foi tratado no Senado Federal, o PSD orienta ''n\u00e3o''. E obtive tamb\u00e9m a orienta\u00e7\u00e3o \"n\u00e3o\" do Governo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-22T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FRENTE PARLAMENTAR DE APOIO \u00c0S SANTAS CASAS DE MISERIC\u00d3RDIA_ HOSPITAIS E ENTIDADES FILANTR\u00d3PICAS NA \u00c1REA DA SA\u00daDE, CONGRATULA\u00c7\u00c3O, PEDRO WESTPHALEN, RELATOR, APROVA\u00c7\u00c3O, PL 4384/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI FEDERAL, PRORROGA\u00c7\u00c3O, DESOBRIGA\u00c7\u00c3O, PRESTADOR DE SERVI\u00c7O, SERVI\u00c7OS DE SA\u00daDE, SISTEMA \u00daNICO DE SA\u00daDE (SUS), ORGANIZA\u00c7\u00c3O SOCIAL DE SA\u00daDE.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Casa pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 4.384, de 2020, sobre a altera\u00e7\u00e3o da Lei n\u00ba 13.992, de 2020, para extens\u00e3o, \u00e0s organiza\u00e7\u00f5es sociais de sa\u00fade, a suspens\u00e3o da obrigatoriedade de manuten\u00e7\u00e3o das metas quantitativas e qualitativas, contratualizadas pelos prestadores de servi\u00e7o de sa\u00fade de qualquer natureza, no \u00e2mbito do Sistema \u00danico de Sa\u00fade - SUS.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu gostaria de parabenizar, em nome da Frente Parlamentar de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas, a Senadora Mara Gabrilli, o Relator Pedro Westphalen, todos que nos antecederam, o Deputado Jorge Solla, o Deputado Rodrigo de Castro, L\u00edder do PSDB, o Presidente desta Casa, Arthur Lira, V.Exa. e todos os Parlamentares - aqui est\u00e1 o Dr. Luizinho - pela aprova\u00e7\u00e3o de projeto t\u00e3o importante para as Santas Casas, hospitais e entidades filantr\u00f3picos do Brasil.\r\nEsse \u00e9 o registro, Sr. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=23%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-06-23T22:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CONGRATULA\u00c7\u00c3O, MARCO BERTAIOLLI, RELATOR, MPV 1040/2021, MEDIDA PROVIS\u00d3RIA, MODERNIZA\u00c7\u00c3O, AMBIENTE DE NEG\u00d3CIOS, DI\u00c1LOGO POL\u00cdTICO, PARTIDO SOCIAL DEMOCR\u00c1TICO (PSD) (2011).",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Congratula\u00e7\u00f5es ao Relator Marco Bertaiolli pelo empenho na busca de consenso para a aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 1.040, de 2021, sobre a facilita\u00e7\u00e3o para abertura de empresas, a prote\u00e7\u00e3o de acionistas minorit\u00e1rios, a facilita\u00e7\u00e3o do com\u00e9rcio exterior, o Sistema Integrado de Recupera\u00e7\u00e3o de Ativos, as cobran\u00e7as realizadas pelos conselhos profissionais, a profiss\u00e3o de tradutor e int\u00e9rprete p\u00fablico, a obten\u00e7\u00e3o de eletricidade e a prescri\u00e7\u00e3o intercorrente na Lei n\u00ba 10.406, de 2002 - C\u00f3digo Civil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, em nome da bancada do PSD, eu gostaria de parabenizar o Deputado Marco Bertaiolli, que buscou o consenso e o di\u00e1logo em torno desta importante Medida Provis\u00f3ria n\u00ba 1.040.\r\nDeputado Marco Bertaiolli, V.Exa. honra os quadros do nosso partido, o PSD. V.Exa. honra o Estado de S\u00e3o Paulo, honra Mogi das Cruzes e honra o Brasil. Parab\u00e9ns pelo di\u00e1logo neste Congresso Nacional.\r\nComo disseram os demais L\u00edderes, para medidas provis\u00f3rias t\u00e3o complexas como esta, poucos foram os resultados como este do painel. Isso \u00e9 fruto da sua capacidade de interagir e do di\u00e1logo de V.Exa.\r\nParab\u00e9ns, em nome da bancada do PSD.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=24%2F6%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T12:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, SAUDE PUBLICA, SISTEMA UNICO DE SAUDE (SUS), PANDEMIA, CORONAVIRUS.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Debate da situa\u00e7\u00e3o da sa\u00fade no Brasil.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA) - Sr. Presidente, queria saudar inicialmente V.Exa. pela iniciativa de fazer uma Comiss\u00e3o Geral para discutir a situa\u00e7\u00e3o da sa\u00fade no Pa\u00eds neste momento de pandemia, em que n\u00f3s - V.Exa. e tantos Parlamentares que aqui transitam, bem como a Presid\u00eancia desta Casa e toda a Mesa - atuamos fortemente aqui no Parlamento, na Comiss\u00e3o Externa de Enfrentamento \u00e0 COVID-19, na Comiss\u00e3o de Seguridade Social e Fam\u00edlia. Mas \u00e9 fundamental ver o papel de todos os que atuaram no combate \u00e0 pandemia e no combate a outras doen\u00e7as que n\u00f3s continuamos tendo no Pa\u00eds.\r\nGostaria, neste momento, de evidenciar o papel das Santas Casas e hospitais filantr\u00f3picos na luta contra a pandemia. Todos os hospitais se posicionaram, atrav\u00e9s da Confedera\u00e7\u00e3o das Santas Casas e Hospitais Filantr\u00f3picos, atrav\u00e9s de todas as unidades no Pa\u00eds.\r\nQuero dizer, Sr. Presidente, que, como Presidente da Frente Parlamentar de Apoio \u00e0s Santas Casas, Hospitais e Entidades Filantr\u00f3picas, lutamos para levar recursos para os hospitais, lutamos para melhorar a qualidade de aten\u00e7\u00e3o, neste momento, \u00e0 popula\u00e7\u00e3o usu\u00e1ria do SUS. \r\nEsse \u00e9 o registro. Quero parabenizar mais uma vez todos que fizeram e fazem o fortalecimento do Sistema \u00danico de Sa\u00fade no nosso Pa\u00eds.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-11T22:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PEC 125/2011, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, DISTRIT\u00c3O, SISTEMA ELEITORAL MAJORIT\u00c1RIO, RETOMADA, COLIGA\u00c7\u00c3O PARTID\u00c1RIA, ELEI\u00c7\u00c3O PROPORCIONAL, CONTRARIO,  ARTHUR LIRA, PRESIDENTE DA CAMARA DOS DEPUTADOS, ELOGIO.",
+        "nomeDeputado": "Antonio Brito",
+        "sumario": "Posicionamento do PSD contr\u00e1rio \u00e0 ado\u00e7\u00e3o do sistema de voto denominado distrit\u00e3o e \u00e0 retomada das coliga\u00e7\u00f5es partid\u00e1rias nas elei\u00e7\u00f5es proporcionais. Imparcialidade do Presidente Arthur Lira na condu\u00e7\u00e3o dos trabalhos da Casa.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. ANTONIO BRITO (PSD - BA. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente.\r\nS\u00f3 quero registrar a posi\u00e7\u00e3o do PSD de sempre ter sido contra o distrit\u00e3o e contra a coliga\u00e7\u00e3o, como tamb\u00e9m \u00e9 a posi\u00e7\u00e3o do nosso Presidente Gilberto Kassab. \r\nQuero parabenizar o Cidadania e os partidos que conseguiram fazer essa posi\u00e7\u00e3o chegar at\u00e9 o fim. \r\nE quero registrar, Sr. Presidente, a imparcialidade e a forma firme na condu\u00e7\u00e3o desta Casa, pois \u00e9 assim que se faz a constru\u00e7\u00e3o do crescimento da democracia no Pa\u00eds.\r\nEra isso, Sr. Presidente.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

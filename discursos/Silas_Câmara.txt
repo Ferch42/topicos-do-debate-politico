@@ -1,0 +1,776 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T11:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, ROMPIMENTO, BARRAGEM DE REJEITO, DESASTRE AMBIENTAL,  BRUMADINHO (MG), RESPONSABILIDADE, COMPANHIA VALE DO RIO DOCE (VALE), SOLIDARIEDADE, FAM\u00cdLIA, V\u00cdTIMA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Debate das circunst\u00e2ncias e responsabilidades pelo rompimento da barragem da Mina do C\u00f3rrego do Feij\u00e3o, da empresa Vale, no Munic\u00edpio de Brumadinho, Estado de Minas Gerais.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/PRB - AM) - Sr. Presidente, primeiro, quero agradecer a V.Exa. a oportunidade da palavra. Quero dizer que trago do povo amazonense a solidariedade e o abra\u00e7o fraterno a todo o povo mineiro, \u00e0s fam\u00edlias das v\u00edtimas. Trago tamb\u00e9m a indigna\u00e7\u00e3o de um Pa\u00eds inteiro contra uma empresa que desprezou o cuidado que deveria ter com aquilo que \u00e9 a sua atividade econ\u00f4mica, em detrimento da vida e de seres humanos.\r\nQuero dizer para V.Exa., Sr. Presidente, que esse \u00e9 um problema que, neste momento, faz Minas Gerais chorar, seu povo chorar, mas \u00e9 tamb\u00e9m um problema que est\u00e1 espalhado por toda a Na\u00e7\u00e3o brasileira. Est\u00e1 comprovado, Sr. Presidente, que o Governo Federal precisa tomar uma atitude forte e definitiva e agir em defesa da popula\u00e7\u00e3o e contra as empresas que n\u00e3o t\u00eam nenhum cuidado com aquilo que praticam como atividade econ\u00f4mica.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-14T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "ATUA\u00c7\u00c3O PARLAMENTAR, CAMARA DOS DEPUTADOS.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Import\u00e2ncia da realiza\u00e7\u00e3o pelos Parlamentares de debates equilibrados em prol dos interesses do Pa\u00eds.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/PRB - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, queria fazer um registro muito importante. Agrade\u00e7o a V.Exa. Quem bom que V.Exa. est\u00e1 a\u00ed presidindo esta sess\u00e3o! \r\nQuero registrar rapidamente, em 1 minuto, Sr. Presidente, o meu descontentamento com o que estou vendo nesta semana nesta Casa. \u00c9 algo que envergonha o Parlamento. Estamos vendo bancadas se digladiando, sabendo que o Brasil est\u00e1 t\u00e3o cheio de problemas, que a seguran\u00e7a p\u00fablica continua sendo um problema, que a educa\u00e7\u00e3o continua sendo um desafio, que tudo no Brasil precisa ser reorganizado ou rearrumado. Enquanto isso, duas bancadas est\u00e3o brigando e se digladiando de uma forma que envergonha esta Casa.\r\nPortanto, quero, neste 1 minuto, deixar o registro de que n\u00f3s precisamos criar ju\u00edzo, de que o Brasil espera do Parlamento brasileiro equil\u00edbrio e de que o Governo Federal, atrav\u00e9s do seu Executivo, precisa colocar esta Casa, a partir da bancada governista, principalmente do partido do Governo, com o m\u00ednimo de equil\u00edbrio, assim como a Oposi\u00e7\u00e3o.\r\nPortanto, deixo aqui o meu registro. \r\nQue Deus aben\u00e7oe o Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F2%2F2019&txPagina=145&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-28T11:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "FRENTE PARLAMENTAR EVANG\u00c9LICA, SILAS C\u00c2MARA, DEPUTADO FEDERAL, ORADOR, ELEI\u00c7\u00c3O, ATUA\u00c7\u00c3O PARLAMENTAR.\r\nPL 10331/2018, PROJETO DE LEI ORDIN\u00c1RIA, NOTIFICA\u00c7\u00c3O COMPULS\u00d3RIA, VIOL\u00caNCIA AUTOPROVOCADA, TENTATIVA DE SUIC\u00cdDIO, AUTOMUTILA\u00c7\u00c3O, APROVA\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Elei\u00e7\u00e3o do orador para a Presid\u00eancia da Frente Parlamentar Evang\u00e9lica. Import\u00e2ncia da aprova\u00e7\u00e3o do projeto de lei sobre a institui\u00e7\u00e3o da pol\u00edtica nacional de preven\u00e7\u00e3o da automutila\u00e7\u00e3o e do suic\u00eddio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, quero agradecer a honra de ter sido aclamado, no dia de ontem, Presidente da Frente Parlamentar Evang\u00e9lica, uma frente considerada entre as tr\u00eas mais influentes do Congresso Nacional. Agrade\u00e7o a todos os meus pares a confian\u00e7a.\r\nE quero aqui, Sr. Presidente, parabenizar o Relator, o Deputado Eduardo Barbosa, pela sua capacidade de articula\u00e7\u00e3o e entendimento, e todos os partidos que aqui representam a popula\u00e7\u00e3o neste plen\u00e1rio, porque \u00e9 disso que o Brasil precisa, de entendimento. Nem tem raz\u00e3o um lado, nem tem raz\u00e3o completa o outro lado; tem raz\u00e3o o povo, que precisa de solu\u00e7\u00f5es, de regras de vida e de leis como esta, Sr. Presidente. Essa bel\u00edssima lei \u00e9 de iniciativa do Ministro e Deputado Federal Osmar Terra, nosso querido amigo, mas ela passa a ser agora de todos n\u00f3s Deputados que aprovamos esta regra, que estabelece, a partir de agora, a notifica\u00e7\u00e3o compuls\u00f3ria de casos de viol\u00eancia autoprovocada, incluindo tentativas de suic\u00eddio e automutila\u00e7\u00e3o. \r\nParab\u00e9ns ao Congresso!\r\nQuero tamb\u00e9m, Sr. Presidente, registrar aqui o contato feito pelo FENASP, pela CONSAPEP e por todas as frentes que defendem o princ\u00edpio da vida, da fam\u00edlia e do povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F3%2F2019&txPagina=46&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO CONTR\u00c1RIO.\r\nQU\u00d3RUM DE VOTA\u00c7\u00c3O, FRENTE PARLAMENTAR EVANG\u00c9LICA, NECESSIDADE.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o nominal do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social. Solicita\u00e7\u00e3o aos membros da Frente Parlamentar Evang\u00e9lica de comparecimento ao plen\u00e1rio para vota\u00e7\u00e3o do requerimento de adiamento da discuss\u00e3o da mat\u00e9ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - O PRB orienta \"n\u00e3o\", Sra. Presidente, e pede aos companheiros da Frente Parlamentar Evang\u00e9lica que venham ao plen\u00e1rio, para que possamos votar essa mat\u00e9ria important\u00edssima para as Santas Casas de Miseric\u00f3rdia, para as associa\u00e7\u00f5es e, tamb\u00e9m, obviamente, para os templos religiosos.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=126&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, CONTRA, BANCADA EVANG\u00c9LICA.\r\nPLP 55/2019, PROJETO DE LEI COMPLEMENTAR, ENTIDADE BENEFICENTE, CONV\u00caNIO, INCENTIVO FISCAL, IMPOSTO SOBRE OPERA\u00c7\u00d5ES RELATIVAS \u00c0 CIRCULA\u00c7\u00c3O DE MERCADORIAS E SOBRE PRESTA\u00c7\u00d5ES DE SERVI\u00c7OS DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICA\u00c7\u00c3O (ICMS), APROVA\u00c7\u00c3O, FAVOR\u00c1VEL, BANCADA EVANG\u00c9LICA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Pedido \u00e0 Presid\u00eancia de determina\u00e7\u00e3o da suspens\u00e3o dos trabalhos nas Comiss\u00f5es da Casa. Solicita\u00e7\u00e3o aos membros da bancada evang\u00e9lica de comparecimento ao plen\u00e1rio para vota\u00e7\u00e3o contra o requerimento de adiamento da discuss\u00e3o do Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social, e pela aprova\u00e7\u00e3o do m\u00e9rito da propositura.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, pe\u00e7o a V.Exa. que suspenda as atividades nas Comiss\u00f5es porque h\u00e1 de fato muitos Deputados e Deputadas fora do plen\u00e1rio, em atividades nas Comiss\u00f5es, que, de acordo com o Regimento da Casa, n\u00e3o poderiam estar funcionando nem deliberando. \r\nEstamos numa vota\u00e7\u00e3o importante. Trata-se de uma mat\u00e9ria que abra\u00e7a v\u00e1rias institui\u00e7\u00f5es que prestam um bel\u00edssimo trabalho social para a Na\u00e7\u00e3o, principalmente as Santas Casas de Miseric\u00f3rdia, as associa\u00e7\u00f5es e igrejas, tanto evang\u00e9licas como cat\u00f3licas, que prestam um servi\u00e7o social important\u00edssimo para o povo brasileiro.\r\nPortanto, solicito aos Deputados que comp\u00f5em a bancada evang\u00e9lica que venham ao plen\u00e1rio para votarmos \"n\u00e3o\" ao requerimento e \"sim\" \u00e0 mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=130&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-08T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBSTITUTIVO, PLP 55/2019, PROJETO DE LEI COMPLEMENTAR, PARTIDO REPUBLICANO BRASILEIRO (PRB),  VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Substitutivo oferecido pelo Relator da Comiss\u00e3o de Finan\u00e7as e Tributa\u00e7\u00e3o ao Projeto de Lei Complementar n\u00ba 55, de 2019, sobre altera\u00e7\u00e3o da Lei Complementar n\u00ba 160, de 2017, com vista \u00e0 prorroga\u00e7\u00e3o, por at\u00e9 15 anos, das isen\u00e7\u00f5es, dos incentivos e dos benef\u00edcios fiscais ou financeiros-fiscais vinculados ao ICMS e destinados a templos de qualquer culto e a entidades beneficentes de assist\u00eancia social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - O PRB, Sr. Presidente, parabeniza a propositora, Deputada Clarissa Garotinho, e o Relator, Deputado Gilberto Nascimento, pelo excelente trabalho e iniciativa. \r\nO PRB parabeniza tamb\u00e9m, Sr. Presidente, esta Casa, porque reconhece, votando \"sim\", a import\u00e2ncia das Santas Casas de Miseric\u00f3rdia do Brasil, das associa\u00e7\u00f5es beneficentes e das religi\u00f5es. Esse trip\u00e9, que presta um bel\u00edssimo trabalho para a sociedade brasileira, \u00e9 reconhecido por este Parlamento quando votamos \"sim\" ao PLP 55/2019.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F5%2F2019&txPagina=213&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-15T10:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, PARTIDO TRABALHISTA BRASILEIRO (PTB) (1980), HOMENAGEM.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Transcurso do 74\u00ba anivers\u00e1rio de funda\u00e7\u00e3o do PTB.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, querido amigo e companheiro Deputado Pedro Lucas, quero, em nome do sempre L\u00edder Jovair Arantes, cumprimentar toda a Mesa, sem deixar de abra\u00e7ar a representante do PTB Mulher, Graciela. Permitam-me dirigir a palavra ao meu eterno, sempre amigo, companheiro, l\u00edder, um dos mais brilhantes oradores que este Pa\u00eds j\u00e1 conheceu, o Deputado Roberto Jefferson. (Palmas.)\r\nPermitam-me fazer este depoimento. Dizer que fui do PTB, sigla que tanto amo, pela qual tenho o maior respeito, seria muito natural, j\u00e1 que fui eleito Deputado Federal e o compartilhei com os companheiros.\r\nPor\u00e9m, quero dar o testemunho da hist\u00f3ria de um homem que me enche do orgulho de continuar sendo seu amigo. Roberto Jefferson representa, n\u00e3o tenho d\u00favida alguma, muito bem toda a hist\u00f3ria que o PTB tem na Na\u00e7\u00e3o brasileira e para os cidad\u00e3os brasileiros. Jefferson representa esta hist\u00f3ria porque \u00e9 firme e leal, porque tem conhecimento e se aperfei\u00e7oa na fraqueza, para mostrar que pode erguer uma lideran\u00e7a, mesmo que tenha qualquer tipo de desafio na sua vida. Ele se consolida como homem leal aos seus amigos, ao Pa\u00eds, ao partido e, mais do que isso, um homem que pensa na Na\u00e7\u00e3o como Na\u00e7\u00e3o. \r\nPortanto, Presidente Roberto, companheiro e amigo, eu vim aqui lhe dar este abra\u00e7o e dizer que tenho lembran\u00e7as que n\u00e3o sair\u00e3o nem do cora\u00e7\u00e3o nem da mente. Uma delas \u00e9 caminhar nos corredores desta C\u00e2mara dos Deputados com V.Exa. Quando o faz\u00edamos, as pessoas que o viam caminhar comigo olhavam-no com respeito. Enchia-me de orgulho saber que eu estava ao lado do maior L\u00edder, do companheiro mais leal e competente que esta Casa j\u00e1 conheceu, meu querido irm\u00e3o Deputado Roberto Jefferson.\r\nQue Deus aben\u00e7oe o PTB! Que o PTB continue sendo este partido que tem mais do que uma hist\u00f3ria, uma verdade, para defender e mostrar \u00e0 Na\u00e7\u00e3o brasileira que ele \u00e9 na defesa dos trabalhadores e do social do Brasil!\r\nDeus aben\u00e7oe a todos! \r\nParab\u00e9ns! \r\nFiquem com Deus! (Palmas.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F5%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T09:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, CRIA\u00c7\u00c3O, ESTADO (NA\u00c7\u00c3O), ISRAEL, ANIVERS\u00c1RIO, HOMENAGEM.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Comemora\u00e7\u00e3o do 71\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Estado de Israel.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Queridos irm\u00e3os, irm\u00e3s, amigos, amigas, Deputadas e Deputados Federais aqui presentes, Senadores e Senadoras, povo brasileiro que nos acompanha atrav\u00e9s das m\u00eddias e dos meios de comunica\u00e7\u00e3o desta Casa, minhas sauda\u00e7\u00f5es. \r\nRegistro a presen\u00e7a da minha esposa e ex-Deputada Federal, Ant\u00f4nia L\u00facia, e da minha filha Milena, representando assim a minha fam\u00edlia. Fiz quest\u00e3o absoluta de que elas estivessem comigo neste momento t\u00e3o prazeroso, t\u00e3o importante. \r\n Sa\u00fado o Presidente da sess\u00e3o, o Deputado Marcos Pereira; o autor do requerimento para a realiza\u00e7\u00e3o desta sess\u00e3o solene, o Deputado Roberto de Lucena; o Deputado Aroldo Martins; o nosso Embaixador Yossi Shelley; a Sra. Ruth Goldberg, Diretora da Federa\u00e7\u00e3o Israelita do Brasil; e o Sr. Daniel Leon, Presidente da Hebraica.\r\n\tEu estava ali sentado observando tudo o que foi dito. N\u00e3o escrevi nada, n\u00e3o \u00e9 um discurso pronto. Mas me chamou muito a aten\u00e7\u00e3o o fato de todas as pessoas que aqui utilizaram esta tribuna falarem do pequeno territ\u00f3rio que hoje Israel possui, do pequeno povo de mais ou menos 8 milh\u00f5es e meio de habitantes e da quantidade, Deputado Aroldo, Deputado Alan Rick, de conquistas e de possibilidades criadas pelo povo de Israel, que chama a aten\u00e7\u00e3o do mundo.\r\nA minha mente \u00e9 a de um crist\u00e3o de 56 anos de idade. Sou a quinta gera\u00e7\u00e3o, Deputado Pr. Marco Feliciano, de pastores da minha fam\u00edlia - meu bisav\u00f3 j\u00e1 era pastor, meu av\u00f3 j\u00e1 era pastor, meu pai era pastor. E uma coisa muito interessante, que na minha fam\u00edlia acontecia, e agora eu vejo acontecendo aqui, \u00e9 que todos eles tinham uma preocupa\u00e7\u00e3o de nos ensinar o caminho que dev\u00edamos seguir para manter a esperan\u00e7a acesa e a certeza de que Jesus vai voltar e de que brevemente n\u00f3s vamos morar com Ele na gl\u00f3ria.\r\nDurante esse meu per\u00edodo de forma\u00e7\u00e3o crist\u00e3, as hist\u00f3rias b\u00edblicas eram muito comuns, como as de que Israel era pequeno, o ex\u00e9rcito era pequeno, os homens eram gigantes, as outras na\u00e7\u00f5es eram grandes, que Israel, apesar de pequena, movimentava-se e conquistava aquilo que devia ser conquistado porque Deus estava com Israel.\r\nHoje, 71 anos celebrados da cria\u00e7\u00e3o do Estado de Israel, n\u00e3o mudou muita coisa, ao contr\u00e1rio, s\u00f3 mudou a forma. Todos que se pronunciaram aqui destacaram a tecnologia, a pesquisa, a capacidade de se reinventar, a economia forte, a alimenta\u00e7\u00e3o que produz um territ\u00f3rio pequeno e \u00e1rido, praticamente \u00e1rea de deserto. E tudo que foi dito aqui chama a aten\u00e7\u00e3o do mundo para o fato de que Israel \u00e9 uma na\u00e7\u00e3o pequena, de um povo pequeno, mas que Deus, o Deus de Israel, jamais abandonou o povo de Israel. Tanto que neste per\u00edodo de 71 anos, se n\u00f3s pud\u00e9ssemos dar um testemunho, o testemunho seria este: Israel continua sendo uma na\u00e7\u00e3o pequena, de um territ\u00f3rio pequeno, mas Deus visita o seu povo de uma forma t\u00e3o tremenda que eles se reinventam. A tecnologia, as aten\u00e7\u00f5es, tudo se volta para a pequena terra e na\u00e7\u00e3o de Israel.\r\nPortanto, em nome da Frente Parlamentar Evang\u00e9lica do Congresso Nacional e tamb\u00e9m como algu\u00e9m que ama Israel, eu quero deixar o meu abra\u00e7o a todo o povo de Israel, representado aqui pelo seu Embaixador, e dizer que n\u00f3s amamos Israel.\r\nQue Deus aben\u00e7oe Israel e Jerusal\u00e9m! Que Israel possa ser visto exatamente como sempre foi em todo o seu tempo, em toda a sua hist\u00f3ria, desde o in\u00edcio do mundo. Israel pode ser um territ\u00f3rio pequeno, de um povo, \u00e0s vezes, menor at\u00e9 do que muitos povos, mas \u00e9 um povo revigorado e potencializado por ter sido escolhido por Deus como um povo especial.\r\nQuem ama Israel, ama Deus! Portanto, n\u00f3s amamos Israel, amamos Deus!\r\nParab\u00e9ns pelos 71 anos, Israel!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=16&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-12T18:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, IGREJA EVANG\u00c9LICA, ASSEMBLEIA DE DEUS, BEL\u00c9M (PA), COMEMORA\u00c7\u00c3O, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, RODRIGO MAIA, PRESIDENTE DA C\u00c2MARA DOS DEPUTADOS, PARTICIPA\u00c7\u00c3O.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Comemora\u00e7\u00e3o do 108\u00ba anivers\u00e1rio de instala\u00e7\u00e3o da Igreja Evang\u00e9lica Assembleia de Deus no Brasil, em Bel\u00e9m, Estado do Par\u00e1.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sra. Presidente, eu gostaria de registar que amanh\u00e3, dia 13, inicia-se, em Bel\u00e9m do Par\u00e1, a festa de 108 anos da Assembleia de Deus no Brasil. Foi exatamente em Bel\u00e9m do Par\u00e1 que chegaram os primeiros dois mission\u00e1rios vindos de fora do Brasil. Um deles foi Daniel Berg. Eles iniciaram o trabalho mission\u00e1rio e evangel\u00edstico que se tornou a Assembleia de Deus no Brasil.\r\nPortanto, quero parabenizar o Pastor Samuel C\u00e2mara, Presidente da Conven\u00e7\u00e3o da Assembleia de Deus no Brasil, e, em nome da Assembleia de Deus no Amazonas, Estado que represento como Deputado Federal, do Pastor Jonatas C\u00e2mara e de toda a imensa quantidade de l\u00edderes evang\u00e9licos assembleianos no Amazonas, quero abra\u00e7ar todo o povo de Bel\u00e9m do Par\u00e1 e do Brasil, que ter\u00e3o este momento edificante de celebra\u00e7\u00e3o e de festejo, os 108 anos da Assembleia de Deus no Brasil.\r\nQuero aproveitar ainda a oportunidade para registrar que amanh\u00e3 contaremos tamb\u00e9m com a presen\u00e7a do nosso Presidente Jair Messias Bolsonaro, de v\u00e1rias autoridades, inclusive do nosso Presidente Rodrigo Maia, em uma grande festa que vamos fazer. Vamos demonstrar que vale a pena acreditar nos princ\u00edpios crist\u00e3os, em Deus, na fam\u00edlia, na vida e valorizar esse trabalho centen\u00e1rio da Assembleia de Deus no Brasil.\r\nMais uma vez, reitero os meus parab\u00e9ns ao Pastor Samuel C\u00e2mara, \u00e0 sua fam\u00edlia, ao seu minist\u00e9rio e a todos os que ali fazem esse trabalho para a obra de Deus, que est\u00e1 espalhada n\u00e3o s\u00f3 no Amazonas, mas em todos os pa\u00edses do nosso globo terrestre, do nosso mundo, principalmente nos pa\u00edses de l\u00edngua portuguesa mais pobres, como Angola, Mo\u00e7ambique, Timor-Leste, onde est\u00e3o os nossos mission\u00e1rios.\r\nDeus aben\u00e7oe o Brasil! Deus aben\u00e7oe o Bel\u00e9m do Par\u00e1! Deus aben\u00e7oe a Assembleia de Deus!\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F6%2F2019&txPagina=197&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T16:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRENTE PARLAMENTAR EVANG\u00c9LICA, SOLIDARIEDADE, FLORDELIS, DEPUTADA FEDERAL, HOMIC\u00cdDIO, MARIDO, ANDERSON CARMO, PASTOR.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Solidariedade aos familiares da Deputada Flordelis, em nome da Frente Parlamentar Evang\u00e9lica, diante do falecimento do seu esposo, Pastor Anderson do Carmo de Souza.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sra. Presidenta, Deus aben\u00e7oe o Brasil!\r\nEm nome da Frente Parlamentar Evang\u00e9lica, quero externar, junto com todos os companheiros que j\u00e1 utilizaram a palavra, nosso sentimento \u00e0 fam\u00edlia da Deputada Flordelis, que, de forma tr\u00e1gica, teve ceifada a vida do seu esposo, o Pastor Anderson. N\u00f3s todos ainda estamos muito abalados com o acontecimento.\r\nEu queria registrar, em nome da Frente Parlamentar Evang\u00e9lica, nossos sentimentos. Que Deus abrace a fam\u00edlia, a Deputada, a todos que a cercam e seu minist\u00e9rio, com consolo! Que ela tenha restabelecidas sua for\u00e7a f\u00edsica e sua sa\u00fade nos pr\u00f3ximos dias, para estar conosco.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=73&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-04T12:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "LUIZ EDUARDO RAMOS BAPTISTA PEREIRA, GENERAL DE EX\u00c9RCITO, MINISTRO-CHEFE, SECRETARIA DE GOVERNO DA PRESID\u00caNCIA DA REP\u00daBLICA, POSSE.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Posse do general Luiz Eduardo Ramos Baptista Pereira no cargo de Ministro-Chefe da Secretaria de Governo da Presid\u00eancia da Rep\u00fablica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sra. Presidente, ilustre amiga Governadora Benedita da Silva, \u00e9 uma honra para mim usar este microfone no plen\u00e1rio da Casa em momento t\u00e3o nobre, em que V.Exa. preside esta Casa com muita honra.\r\nQueria parabenizar a chegada ao Governo da Rep\u00fablica do Brasil do nosso Ministro de Estado Chefe da Secretaria de Governo, o General de Ex\u00e9rcito Luiz Eduardo Ramos Baptista Pereira, nosso irm\u00e3o em Cristo, que assume a partir de agora, juntamente com outros Ministros do Pal\u00e1cio do Planalto, a coordena\u00e7\u00e3o pol\u00edtica do atual Governo. E j\u00e1 agrade\u00e7o \u00e0 Frente Parlamentar Evang\u00e9lica pela presen\u00e7a dos Deputados e Deputadas, Senadores e Senadoras que l\u00e1 estiveram para prestigiar esse evento.\r\nEsperamos que, a partir deste momento, com mais essa aquisi\u00e7\u00e3o de qualidade, de peso e inclusive de conhecimento do Congresso Nacional, possamos avan\u00e7ar nos desafios cuja supera\u00e7\u00e3o o Brasil est\u00e1 apontando como necess\u00e1ria para que a prosperidade e o progresso voltem a habitar a nossa Na\u00e7\u00e3o.\r\nPortanto, parab\u00e9ns ao Ministro General Ramos, que assume a Secretaria de Governo do Governo Bolsonaro e que, com certeza, far\u00e1 um grande trabalho. N\u00f3s da Frente Parlamentar Evang\u00e9lica o abra\u00e7amos, o saudamos e desejamos que Deus lhe conceda sabedoria e gra\u00e7a diante dos seus desafios para alcan\u00e7ar os objetivos pertinentes \u00e0 sua Pasta.\r\nMuito obrigado. Deus \u00e9 fiel. Vamos em frente!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F7%2F2019&txPagina=37&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), VOTO FAVOR\u00c1VEL, DEFESA, GARANTIA, SAL\u00c1RIO MINIMO, PENS\u00c3O POR MORTE, VI\u00daVA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, eu quero me dirigir a esta Casa e ao Brasil como Presidente da Frente Parlamentar Evang\u00e9lica.\r\nSr. Presidente, quero dizer a V.Exa. que, de fato, essa emenda aglutinativa, como o projeto original, nos fez pensar muito sobre votar \"sim\" ou \"n\u00e3o\" a essa aglutinativa e sobre o desdobramento que ela causaria ao benef\u00edcio de uma vi\u00fava com a garantia de no m\u00ednimo 1 sal\u00e1rio m\u00ednimo.\r\nDeputados da Frente Parlamentar Evang\u00e9lica, homens e mulheres, nem tudo deve ser votado pela dificuldade que n\u00f3s vamos ter de explicar o que \u00e9 completamente f\u00e1cil de explicar, mas deve ser votado com o compromisso e a responsabilidade de entender que a lei votada garantiu aquilo que \u00e9 nosso dever, como crist\u00e3os, como evang\u00e9licos, garantir a uma vi\u00fava.\r\nN\u00f3s n\u00e3o estamos votando contra a vi\u00fava, e eu quero explicar, se o Presidente me permitir. \u00c9 simples: estamos, nessa aglutinativa, limpando todo aquele imbr\u00f3glio do c\u00e1lculo familiar, com todos os membros da fam\u00edlia, para que seja abatido no sal\u00e1rio da vi\u00fava. Agora vale apenas para o que ela tem de renda formal. Ela tendo uma renda formal, recebe 600 reais, e complementa-se automaticamente aquilo que deve ser no m\u00ednimo o sal\u00e1rio m\u00ednimo.\r\nExplico j\u00e1, Deputada.\r\nMuito bem, pessoal. Escute com aten\u00e7\u00e3o, bancada evang\u00e9lica. Feito isso, vamos imaginar que a vi\u00fava perca o emprego. O nosso advogado, constitucionalista, Deputado Marcos Pereira nos ajudou na constru\u00e7\u00e3o com o Presidente da Casa, e uma lei complementar regulamentar\u00e1 o que \u00e9, inclusive, a formalidade de uma renda. Para deixar claro, por exemplo: uma vi\u00fava aluga um pequeno quarto na sua casa por 100 reais, e a pessoa, de m\u00e1-f\u00e9, porque n\u00e3o quer pagar o aluguel do quartinho da vi\u00fava, vai a p\u00fablico e diz que ela tem uma renda formal. Isso em projeto de lei complementar ser\u00e1 esclarecido, o que \u00e9 formalidade.\r\nE, quanto \u00e0 palavra \"formal\" nesse texto, o destaque est\u00e1 sobre a mesa, que foi patrocinado pelo Partido Republicano Brasileiro, e j\u00e1 est\u00e1 ali para ser votado ao final, como manda o Regimento. Ao ser votado, teremos: primeiro, a seguran\u00e7a da palavra \"formal\" no texto; segundo, a garantia, por portaria do Governo Federal, que editar\u00e1 imediatamente, na Previd\u00eancia, a garantia de um gatilho, tirando a burocracia do pobre de que, ao perder o emprego, a vi\u00fava n\u00e3o precisa ir ao INSS.\r\nHoje existem ferramentas para cruzar o CPF e, imediatamente, repor digitalmente aquilo que seria preju\u00edzo.\r\nO Governo Federal fez a sua parte. E o Deputado Rodrigo Maia, como Presidente desta Casa, novamente se superou, construindo, junto com o Deputado Marcos Pereira, Presidente do PRB, e com a Frente Parlamentar Evang\u00e9lica, um acordo. \r\nPortanto, a frente vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=101&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T20:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMA 5/2019, EMENDA AGLUTINATIVA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), BANCADA EVANG\u00c9LICA, VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda Aglutinativa n\u00ba 5, apresentada \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma da Previd\u00eancia Social.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, eu pe\u00e7o a V.Exa. a oportunidade de falar. Muitos Deputados est\u00e3o me procurando e trocando o voto, porque eles ainda n\u00e3o tinham visto a nossa posi\u00e7\u00e3o.\r\nPe\u00e7o \u00e0 bancada evang\u00e9lica que vote \"sim\", por favor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=103&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-11T21:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, PAR\u00c1GRAFO (TEXTO LEGISLATIVO), CONSTITUI\u00c7\u00c3O FEDERAL (1988), ARTIGO (TEXTO LEGISLATIVO), SUBSTITUTIVO, COMISS\u00c3O ESPECIAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 14 do art. 195 da Constitui\u00e7\u00e3o Federal, contido no art. 1\u00ba do Substitutivo da Comiss\u00e3o Especial oferecido \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PRB encaminha o voto \"sim\".\r\nEu queria fazer um registro importante, Sr. Presidente. Eu nunca ouvi tanta dedica\u00e7\u00e3o \u00e0 leitura da B\u00edblia e a cita\u00e7\u00e3o de textos b\u00edblicos como nesta sess\u00e3o. Eu queria dizer aos queridos companheiros leitores ass\u00edduos da B\u00edblia Sagrada que \u00e9 muito importante que o comportamento da pessoa que l\u00ea a B\u00edblia seja exatamente como a B\u00edblia recomenda que seja, porque ler e n\u00e3o seguir \u00e9 muito complicado.\r\nMas logo, logo esta reforma passar\u00e1, e eu gostaria muito de que os que est\u00e3o citando a B\u00edblia tirem um tempo para sentar conosco e n\u00f3s debatermos sobre comportamento versus \u00e9tica crist\u00e3.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F7%2F2019&txPagina=134&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-12T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, ERD 1/2019, EMENDA DE REDA\u00c7\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PARTIDO REPUBLICANO BRASILEIRO (PRB), VOTO FAVORAVEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Emenda de Reda\u00e7\u00e3o n\u00ba 1 \u00e0 Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, muito obrigado pela oportunidade. Come\u00e7o minha fala agradecendo a V.Exa. por ter acompanhado todo o entendimento que gerou a emenda aglutinativa, juntamente com o Relator, com o Ministro Onyx Lorenzoni e toda a equipe que representa o Governo aqui, bem como com os membros da Comiss\u00e3o da reforma e com os Deputados do meu partido, com o Presidente Marcos Pereira e com o L\u00edder Jhonatan de Jesus, que patrocinaram esta emenda de reda\u00e7\u00e3o.\r\nSr. Presidente, al\u00e9m de obviamente encaminhar afirmativamente a esta emenda, quero dizer que, diante de todas as conquistas que todos, a Oposi\u00e7\u00e3o e a Situa\u00e7\u00e3o, j\u00e1 relacionaram aqui, dos avan\u00e7os em rela\u00e7\u00e3o ao projeto original, n\u00f3s da Frente Parlamentar Evang\u00e9lica optamos por fazer a defesa da vi\u00fava e do \u00f3rf\u00e3o neste plen\u00e1rio. Isso gerou desdobramento na emenda aglutinativa que as mulheres apresentaram. Um dos itens, Sr. Presidente, foi a retirada por exemplo do conjunto de dependentes do c\u00e1lculo, para que a vi\u00fava recebesse pelo menos um sal\u00e1rio m\u00ednimo.\r\nSr. Presidente, tamb\u00e9m ficou institu\u00edda, conforme esta emenda, a palavra \"formal\", para definir que apenas aquilo que \u00e9 formal ser\u00e1 considerado, para que a vi\u00fava receba 600 reais e complemente, para que fique com um sal\u00e1rio m\u00ednimo. Mais do que isso, lei complementar tamb\u00e9m vir\u00e1. Vejo muita gente preocupada em definir o que \u00e9 informal. Pois bem. O acordo, patrocinado por V.Exa., definiu que vir\u00e1 uma lei complementar, e nela se regulamentar\u00e1 tudo aquilo que \u00e9 conceituado como informal, por exemplo, para tirar a d\u00favida de muitas pessoas sobre aquilo que ser\u00e1 de fato informal.\r\nPor \u00faltimo, uma portaria j\u00e1 est\u00e1 sendo trabalhada na Previd\u00eancia Social, para que imediatamente se crie um gatilho. Se a pessoa perder o emprego e precisar complementar, pela Previd\u00eancia, dos 600 reais para o sal\u00e1rio m\u00ednimo, haver\u00e1 um gatilho autom\u00e1tico, tirando a burocracia, para a pessoa n\u00e3o ter que ir atr\u00e1s da Previd\u00eancia ou do Governo para ter o seu benef\u00edcio complementado.\r\nPortanto, Sr. Presidente, por tudo isso que eu expliquei, fica muito claro que nenhuma vi\u00fava nesta Na\u00e7\u00e3o receber\u00e1 menos do que um sal\u00e1rio m\u00ednimo.(Palmas.)\r\nSr. Presidente, esse foi um trabalho implementado por todos n\u00f3s: partidos, V.Exa., Comiss\u00e3o, Governo e Frente Parlamentar Evang\u00e9lica. \r\nO voto \u00e9 \"sim\" \u00e0 emenda de reda\u00e7\u00e3o.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F7%2F2019&txPagina=360&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T13:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DEFINI\u00c7\u00c3O, RENDA, GATILHO, PECULIO, FALECIMENTO, PROVA DE VIDA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Edi\u00e7\u00e3o pela Secretaria Especial de Previd\u00eancia e Trabalho, do Minist\u00e9rio da Economia, de portaria sobre a regulamenta\u00e7\u00e3o do conceito de renda formal e cria\u00e7\u00e3o de gatilho autom\u00e1tico para o beneficiado de pec\u00falio por morte. Compromisso do Governo Federal de lan\u00e7amento de novo m\u00e9todo de prova de vida em prol dos benefici\u00e1rios da Previd\u00eancia Social.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania de S\u00e1, que alegria v\u00ea-la presidindo esta Casa mais uma vez, com a gra\u00e7a de Deus, em nome do povo brasileiro e do povo de Santa Catarina.\r\nEu queria fazer um registro importante para todo o povo brasileiro que nos acompanha atrav\u00e9s das m\u00eddias sociais e dos meios de comunica\u00e7\u00e3o desta Casa e para os nossos colegas Deputados e Deputadas. Hoje, Sra. Presidente, tivemos pela manh\u00e3 uma reuni\u00e3o na Secretaria Especial de Previd\u00eancia e Trabalho, do Minist\u00e9rio da Fazenda. Estivemos l\u00e1 para participar da assinatura da portaria que regulamenta neste momento o conceito de renda formal e cria o gatilho autom\u00e1tico, para o beneficiado de pec\u00falio por morte, caso n\u00e3o tenha renda formal, ter o seu recebimento de um sal\u00e1rio m\u00ednimo garantido. Esse assunto foi muito debatido nesta Casa, e a portaria assinada hoje foi fruto do acordo constru\u00eddo neste plen\u00e1rio.\r\nSra. Presidenta, em que consiste a ess\u00eancia dessa portaria? \r\nPrimeiro, ela trata do conceito de renda formal. Eu queria trazer, Deputada Benedita, uma boa not\u00edcia: s\u00f3 ser\u00e1 considerado renda formal o que uma vi\u00fava tiver acima de um sal\u00e1rio m\u00ednimo declarado. Por exemplo, uma vi\u00fava tem uma renda de 900 reais, que n\u00e3o \u00e9 um sal\u00e1rio m\u00ednimo, e recebe 600 reais do pec\u00falio por morte do seu esposo. Esses 900 reais n\u00e3o ser\u00e3o considerados renda formal. S\u00f3 ser\u00e1 considerada renda formal a renda que for acima de um sal\u00e1rio m\u00ednimo. Portanto, em qualquer circunst\u00e2ncia, um sal\u00e1rio m\u00ednimo est\u00e1 garantido. Se ela ganhar menos de um sal\u00e1rio m\u00ednimo por qualquer atividade formal, isso n\u00e3o ser\u00e1 computado como renda que prejudique o seu complemento, naquilo que lhe \u00e9 garantido por lei.\r\nA segunda coisa \u00e9 o gatilho autom\u00e1tico. Vamos imaginar que uma vi\u00fava tenha uma atividade econ\u00f4mica; se ele perdesse essa atividade econ\u00f4mica formal registrada, teria que ir a uma ag\u00eancia ou... Por exemplo, no caso da prova de vida, ela tem um trabalho tremendo para comprovar que n\u00e3o tem essa renda para poder receber o seu sal\u00e1rio m\u00ednimo. Isso vai ser autom\u00e1tico. O Governo vai ter suas ferramentas de cruzamento, e, quando ela perder essa atividade formal - acima de um sal\u00e1rio m\u00ednimo, \u00e9 \u00f3bvio -, automaticamente voltar\u00e1 a receber um sal\u00e1rio m\u00ednimo.\r\nPor \u00faltimo, Sra. Presidenta, tratamos tamb\u00e9m sobre a prova de vida. O Governo se comprometeu conosco, Frente Parlamentar Evang\u00e9lica, a quem eu parabenizo pela atua\u00e7\u00e3o nesta Casa e no Congresso Nacional, a lan\u00e7ar, em setembro, um novo m\u00e9todo de prova de vida, que vai restabelecer o m\u00ednimo de conforto e respeito de que essas pessoas beneficiadas da Previd\u00eancia Social precisam para poderem fazer a sua prova de vida.\r\nEu concluo dizendo que, gra\u00e7as \u00e0 nossa atua\u00e7\u00e3o com muitos companheiros, inclusive de fora da Frente Parlamentar Evang\u00e9lica, de v\u00e1rios partidos, inclusive de esquerda, foi constru\u00eddo um acordo. N\u00e3o estou dizendo que o acordo foi constru\u00eddo e aprovado pelos partidos ou Deputados de esquerda, mas, juntos, constru\u00edmos, atrav\u00e9s da nossa movimenta\u00e7\u00e3o no plen\u00e1rio, um acordo que beneficia de fato as vi\u00favas do Brasil e devolve a dignidade das pessoas que precisam ter a prova de vida feita, pois elas n\u00e3o necessitar\u00e3o mais faz\u00ea-lo a partir de setembro. O m\u00e9todo quem vai formar \u00e9 o pr\u00f3prio Governo. Assim, n\u00e3o mais precisar\u00e3o acontecer as cenas a que assistimos ultimamente na m\u00eddia nacional de pessoas indo fazer a sua prova de vida.\r\nPortanto, Sra. Presidenta, prestamos contas aqui de algo que \u00e9 prioridade na pauta do conjunto da Previd\u00eancia Social: \u00e0 margem da aposentadoria rural, \u00e0 margem das pessoas com defici\u00eancia f\u00edsica ou com uma necessidade especial, pontos esses que est\u00e3o resolvido, n\u00f3s trazemos aqui a informa\u00e7\u00e3o de que a quest\u00e3o de pens\u00e3o das vi\u00favas est\u00e1 equacionada, resolvida, com portaria assinada, e que, logo ap\u00f3s a publica\u00e7\u00e3o da reforma da Previd\u00eancia, isso vir\u00e1 em forma de lei complementar, conforme o acordo constru\u00eddo aqui no plen\u00e1rio por todos os Parlamentares, principalmente os da Frente Parlamentar Evang\u00e9lica.\r\nMuito obrigado. Deus aben\u00e7oe o Brasil!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=61&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T20:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "DISCUSS\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Discuss\u00e3o da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "DISCUSS\u00c3O",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sr. Presidente Rodrigo Maia, Srs. Deputados, Sras. Deputadas, trago aqui a defesa intransigente da aprova\u00e7\u00e3o e trago como argumento principal o cumprimento do acordo feito neste plen\u00e1rio, com a Frente Parlamentar Evang\u00e9lica, com V.Exa. intermediando, com o Ministro Onyx Lorenzoni, com o Relator Samuel Moreira, entre outros companheiros, que hoje culminou na assinatura da portaria pelo Secret\u00e1rio Especial de Previd\u00eancia e Trabalho do Minist\u00e9rio da Economia, nosso querido amigo Rog\u00e9rio Marinho. \r\nE mais do que isso, Sr. Presidente, nosso acordo avan\u00e7ou muito mais. Imaginem V.Exas. que, al\u00e9m da seguran\u00e7a que temos hoje, o m\u00ednimo de pens\u00e3o para as vi\u00favas ser\u00e1 um sal\u00e1rio m\u00ednimo, e tamb\u00e9m, com o efeito da portaria, s\u00f3 ser\u00e1 considerado renda formal, Deputado Gilberto Nascimento, aquilo que ultrapassar o sal\u00e1rio m\u00ednimo. \r\nPor exemplo, a vi\u00fava que trabalha numa atividade intermitente e recebe 600 reais n\u00e3o ter\u00e1 esse recurso computado como renda formal. Isso quer dizer que ela garante o sal\u00e1rio m\u00ednimo mais os 600 reais. Al\u00e9m disso, tamb\u00e9m est\u00e1 garantido o gatilho, que era uma das nossas preocupa\u00e7\u00f5es. Havia a formalidade, o excesso de burocracia. Quando a vi\u00fava perdia a renda formal, ela teria que fazer uma esp\u00e9cie de prova de vida e passar pela burocracia da Previd\u00eancia para voltar a receber o sal\u00e1rio m\u00ednimo. Mas tudo isso est\u00e1 sanado e resolvido, porque foi criado um gatilho para que, nos cruzamentos que o pr\u00f3prio Governo Federal faz, quando essa vi\u00fava perder a possibilidade de ter uma renda formal, Deputados Jo\u00e3o Campos e Eli Borges, automaticamente o INSS cruza os dados todo o m\u00eas, e ela voltar\u00e1 a receber o sal\u00e1rio m\u00ednimo.\r\nPortanto, s\u00e3o avan\u00e7os importantes que garantem muito mais do que a dignidade a uma vi\u00fava, garantem a certeza de receber no m\u00ednimo um sal\u00e1rio m\u00ednimo, e tudo o que for abaixo do sal\u00e1rio m\u00ednimo, mesmo que seja formal, ser\u00e1 agregado ao seu sal\u00e1rio, ou \u00e0quilo a que ela tem direito todo o final de m\u00eas.\r\nAl\u00e9m disso, meu querido Presidente Rodrigo Maia, embora estejamos falando aqui da Previd\u00eancia e das vi\u00favas, o que importa a todos n\u00f3s, trago uma informa\u00e7\u00e3o: a Previd\u00eancia Social prepara uma solu\u00e7\u00e3o definitiva, j\u00e1 no m\u00eas de setembro, relativa \u00e0 prova de vida, a fim de restabelecer o devido tratamento humanit\u00e1rio \u00e0queles que precisam comprovar que est\u00e3o vivos para terem acesso \u00e0 sua remunera\u00e7\u00e3o previdenci\u00e1ria.\r\nPortanto, a Frente Parlamentar Evang\u00e9lica - e falo aqui tamb\u00e9m pelo PRB - tem a alegria de dizer que esses avan\u00e7os, essas conquistas e esses acordos foram cumpridos. Logo, as vi\u00favas brasileiras ter\u00e3o a garantia de um sal\u00e1rio m\u00ednimo, com toda a certeza, para poderem sobreviver. Ademais, tudo o que for formal e for inferior ao sal\u00e1rio m\u00ednimo tamb\u00e9m ser\u00e1 agregado \u00e0quilo que ela perceber\u00e1 todo o m\u00eas, para ter melhorada a sua qualidade de vida. E mais, para agilizar o gatilho autom\u00e1tico de quando ela perde a formalidade, o Minist\u00e9rio da Previd\u00eancia Social, o Minist\u00e9rio da Economia e a Secretaria da Previd\u00eancia Social criaram ferramentas, e a pessoa ter\u00e1 ent\u00e3o a seguran\u00e7a do recebimento desse recurso.\r\nSr. Presidente, encerro dizendo que o Brasil \u00e9 um ponto fora da curva, com certeza absoluta, nas pens\u00f5es por morte. Agora est\u00e1-se corrigindo isso, conferindo direito e dignidade \u00e0s vi\u00favas e garantindo seguran\u00e7a econ\u00f4mica. O futuro n\u00e3o pertence s\u00f3 a Deus, ele pertence tamb\u00e9m \u00e0 certeza de que a economia vai suportar tudo, e elas ir\u00e3o receber o que t\u00eam direito. \r\nDeus aben\u00e7oe o Brasil!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=274&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-07T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE, DESTAQUE SUPRESSIVO SIMPLES, DISPOSITIVO LEGAL, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), SEGUNDO TURNO, CONTR\u00c1RIO.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque supressivo do inciso V, do art. 201, constante no art. 1\u00ba da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma previdenci\u00e1ria, na vota\u00e7\u00e3o da mat\u00e9ria em segundo turno.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. SILAS C\u00c2MARA (PRB - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, \u00e9 lament\u00e1vel que as pessoas tenham passado a usar o nome de Deus e a palavra de Deus em v\u00e3o nesta Casa, por causa da reforma da Previd\u00eancia.\r\nSr. Presidente, a reforma que veio para esta Casa dizia que a composi\u00e7\u00e3o, para an\u00e1lises de benef\u00edcios \u00e0s vi\u00favas, seria familiar. Somava-se \u00e0 renda da fam\u00edlia, com a composi\u00e7\u00e3o e a an\u00e1lise daquilo que deveria ser o recebido pela vi\u00fava. N\u00f3s como Frente Parlamentar Evang\u00e9lica fizemos um entendimento com o Relator Samuel. V.Exa., Presidente Rodrigo Maia, mediou esse entendimento. O Governo do Presidente Bolsonaro participou, atrav\u00e9s do Ministro Onyx Lorenzoni e de Rog\u00e9rio Marinho. E n\u00f3s chegamos, Sr. Presidente, a uma equa\u00e7\u00e3o que \u00e9 absolutamente justa e garante a perman\u00eancia do benef\u00edcio, n\u00e3o apenas para o dia seguinte, mas tamb\u00e9m para o futuro das pessoas que v\u00e3o precisar usar esse benef\u00edcio. \r\nOntem mesmo n\u00f3s assinamos, junto com o Secret\u00e1rio da Previd\u00eancia do Minist\u00e9rio da Fazenda, uma portaria que garante que tudo o que for renda de uma vi\u00fava e n\u00e3o ultrapassar um sal\u00e1rio m\u00ednimo n\u00e3o ser\u00e1 somado ao sal\u00e1rio m\u00ednimo, para reduzir para 600 reais, transformando-se isso em renda formal. \u00c9 simples: a pessoa trabalha, ganha uma di\u00e1ria. Tem uma atividade intermitente, tem alguma renda que seja inferior ao sal\u00e1rio m\u00ednimo? Nada ser\u00e1 tirado da vi\u00fava. Portanto, ela garantir\u00e1 o sal\u00e1rio m\u00ednimo e mais essa renda adicional. \r\nMais do que isso, Sr. Presidente, tiramos a burocracia do meio. Antigamente, essa vi\u00fava, se tivesse uma renda formal e perdesse essa renda formal, tinha que se deslocar fisicamente a uma ag\u00eancia do INSS, Deputado Ab\u00edlio, sofrendo a perda de tempo e a humilha\u00e7\u00e3o da fila. Agora \u00e9 autom\u00e1tico: perdeu a renda formal, o gatilho \u00e9 autom\u00e1tico, e a Previd\u00eancia rep\u00f5e imediatamente o sal\u00e1rio m\u00ednimo.\r\nPortanto, este \u00e9 um acordo que garante n\u00e3o apenas o presente, mas tamb\u00e9m o futuro das vi\u00favas brasileiras. N\u00f3s como bancada evang\u00e9lica temos o compromisso e a responsabilidade de proteger os pequenos e os necessitados e nos causa esp\u00e9cie que as pessoas usem a tribuna e, em nome de uma leitura b\u00edblica pontual e casu\u00edstica, tentem acusar o Parlamento de, por estar protegendo o futuro das vi\u00favas, e n\u00e3o apenas o pec\u00falio ou a renda da vi\u00fava... Estamos protegendo o futuro das vi\u00favas no Brasil. Por isso, tentam criar um transtorno e uma interpreta\u00e7\u00e3o, para confundir a mente, a cabe\u00e7a do Parlamento.\r\nMais do que isso, avan\u00e7amos inclusive na quest\u00e3o da prova de vida. Agora, neste m\u00eas de setembro, o Governo Federal anunciar\u00e1 algo revolucion\u00e1rio que trar\u00e1 paz, tranquilidade e o m\u00ednimo de conforto humano, para que ningu\u00e9m tenha mais que ficar exposto \u00e0 m\u00eddia, como temos visto ultimamente.\r\nPortanto, esta \u00e9 uma reforma poss\u00edvel. N\u00e3o h\u00e1 reforma boa, mas h\u00e1 a reforma poss\u00edvel. E esta, no que diz respeito \u00e0 reforma poss\u00edvel, protegeu, sim, as vi\u00favas do Brasil naquilo que \u00e9 a possibilidade de dar-lhes a certeza de que n\u00e3o apenas a renda de hoje, mas tamb\u00e9m a sua futura renda tamb\u00e9m estar\u00e1 garantida.\r\nDeus aben\u00e7oe o Brasil!\r\nA Frente Parlamentar Evang\u00e9lica vota \"sim\".\r\nVamos em frente, para aprovar a reforma!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F8%2F2019&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-10T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AMAZONAS, INC\u00caNDIO FLORESTAL, QUEIMADA, FLORESTA AMAZ\u00d4NICA, MINISTRO DE ESTADO DA FAZENDA, GOVERNO FEDERAL, CORTE, RECURSOS OR\u00c7AMENT\u00c1RIOS, AMAZ\u00d4NIA OCIDENTAL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Protesto o corte de recursos or\u00e7ament\u00e1rios destinados ao Estado do Amazonas e \u00e0 regi\u00e3o amaz\u00f4nica.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sra. Presidente, eu estava ouvindo atentamente o pronunciamento do nosso companheiro Deputado Federal Marcelo Ramos. Imagino que logo mais, no Grande Expediente, o Deputado Delegado Pablo tamb\u00e9m v\u00e1, de alguma forma, falar sobre os acontecimentos que todos temos acompanhado, diante dos desafios que a Amaz\u00f4nia imp\u00f5e ao atual Governo.\r\n Est\u00e1 sendo dito para o Brasil e para o mundo que o Governo Federal est\u00e1 preocupado com os focos de inc\u00eandio e com a devasta\u00e7\u00e3o no Estado do Amazonas e na Amaz\u00f4nia. At\u00e9 o Ministro da Fazenda tem dito isso aos quatro cantos. Uma hora, ele nos abra\u00e7a, noutra nos espeta, e depois nos sufoca. Agora, o Or\u00e7amento diz, de forma clara e evidente, o que o Governo Federal pensa sobre o Amazonas e a Amaz\u00f4nia Ocidental. \r\n\u00c9 lament\u00e1vel! N\u00f3s vamos reagir a tudo isso.\r\nSra. Presidente, pe\u00e7o a V.Exa. que meu pronunciamento seja divulgado pelos \u00f3rg\u00e3os de imprensa da Casa e pelo programa A Voz do Brasil, diante da nossa repulsa \u00e0 iniciativa, por meio do Or\u00e7amento, que \u00e9 algo concreto, de o Governo Federal virar as costas, e, pelo visto, de costas continuar\u00e1, para o Amazonas e a Amaz\u00f4nia.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F9%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-24T18:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "LUP\u00c9RCIO VERGNIANO, EX-PASTOR, FALECIMENTO, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Falecimento do Pastor Lup\u00e9rcio Vergniano, Presidente de Honra do Minist\u00e9rio de Madureira no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero comunicar o falecimento do Pastor Lup\u00e9rcio Vergniano, Presidente de Honra do Minist\u00e9rio de Madureira no Brasil, homem probo, homem trabalhador, homem que plantou a sua vida no Evangelho.\r\nCom certeza, a sua fam\u00edlia, neste momento, recebe o abra\u00e7o da Frente Parlamentar Evang\u00e9lica no Congresso Nacional, nesta sess\u00e3o do Congresso Nacional. \r\nPortanto, comunico o falecimento do Pastor Lup\u00e9rcio Vergniano.\r\nQue descanse em paz o Pastor Lup\u00e9rcio Vergniano.\r\n\u00c0 sua fam\u00edlia, a nossa solidariedade.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=26%2F9%2F2019&txPagina=76&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-25T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "FRENTE PARLAMENTAR EVANG\u00c9LICA, CONGRATULA\u00c7\u00c3O, DAMARES REGINA ALVES, MINISTRA DE ESTADO DA MULHER DA FAM\u00cdLIA E DOS DIREITOS HUMANOS, ATUA\u00c7\u00c3O.\r\nFRENTE PARLAMENTAR EVANG\u00c9LICA, REP\u00daDIO, DECLARA\u00c7\u00c3O, ELINAY MELO, JU\u00cdZA, TRIBUNAL REGIONAL DO TRABALHO (TRT), AMAP\u00c1, PAR\u00c1, INSTALA\u00c7\u00c3O, IGREJA, EXPLORA\u00c7\u00c3O SEXUAL, CRIAN\u00c7A.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Excel\u00eancia da atua\u00e7\u00e3o da Ministra da Mulher, da Fam\u00edlia e dos Direitos Humanos, Damares Regina Alves. Indigna\u00e7\u00e3o da Frente Parlamentar Evang\u00e9lica com a declara\u00e7\u00e3o da Ju\u00edza Elinay Melo, do Tribunal Regional do Trabalho da 8\u00ba Regi\u00e3o, contr\u00e1ria \u00e0 instala\u00e7\u00e3o de igrejas em regi\u00f5es com elevada incid\u00eancia de explora\u00e7\u00e3o sexual infantil.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, em nome da Frente Parlamentar Evang\u00e9lica no Congresso Nacional, quero parabenizar a Ministra Damares pelo espet\u00e1culo de trabalho que vem realizando, por meio do qual est\u00e1 demonstrando sua capacidade para o Brasil.\r\nContudo, Sr. Presidente, tamb\u00e9m em nome da Frente Parlamentar Evang\u00e9lica, quero registrar o nosso rep\u00fadio \u00e0 Ju\u00edza do Tribunal Regional do Trabalho da 8\u00aa Regi\u00e3o, Elinay Melo, que em entrevista recente disse que implantar igrejas onde a explora\u00e7\u00e3o sexual infantil \u00e9 aguda, por exemplo, na Ilha de Maraj\u00f3, \u00e9 uma desgra\u00e7a. S.Exa. perdeu a oportunidade de ficar calada e provocou, em toda a sociedade de bem do Brasil, uma repulsa pela sua atua\u00e7\u00e3o como magistrada que n\u00e3o tem compromisso com a fam\u00edlia, com a vida, com o jovem, com a crian\u00e7a, com o adolescente, com todos aqueles que precisam do socorro e da prote\u00e7\u00e3o do Estado.\r\nPortanto, a Frente Parlamentar Evang\u00e9lica no Congresso Nacional est\u00e1 trazendo aqui, Sr. Presidente, a sua indigna\u00e7\u00e3o e o registro de que far\u00e1 todos os movimentos poss\u00edveis e legais para que essa ju\u00edza perceba que ela precisa \u00e9 fazer a sua obriga\u00e7\u00e3o: cuidar de fazer justi\u00e7a com justi\u00e7a e com seriedade.\r\nQue Deus aben\u00e7oe o Brasil!\r\nPe\u00e7o que o meu pronunciamento seja divulgado nos \u00f3rg\u00e3os de imprensa desta Casa e no programa A Voz do Brasil.\r\nMuito obrigado a V.Exa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F9%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T14:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "CONFER\u00caNCIA PARA AGENTES P\u00daBLICOS E POL\u00cdTICOS CRIST\u00c3OS (3:2019, BRAS\u00cdLIA (DF)), FRENTE PARLAMENTAR EVANG\u00c9LICA, CONGRESSO NACIONAL, S\u00c3O PAULO (ESTADO), SILAS C\u00c2MARA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, RIO GRANDE DO SUL, PIAU\u00cd, ESP\u00cdRITO SANTO (ESTADO), GOI\u00c1S, MANAUS (AM).",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Realiza\u00e7\u00e3o, pela Frente Parlamentar Evang\u00e9lica do Congresso Nacional, da 3\u00aa Confer\u00eancia para Agentes P\u00fablicos e Pol\u00edticos Crist\u00e3os, em S\u00e3o Paulo, Estado de S\u00e3o Paulo. Participa\u00e7\u00e3o do orador em confer\u00eancias destinadas ao fortalecimento ao quadro de agentes p\u00fablicos e pol\u00edticos evang\u00e9licos nos Estados do Rio Grande do Sul, Amazonas, Piau\u00ed ,Esp\u00edrito Santo e Goi\u00e1s.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sra. Presidente, inicialmente quero parabenizar V.Exa. por estar presidindo mais uma vez esta sess\u00e3o, representando n\u00e3o s\u00f3 as mulheres do Parlamento, mas tamb\u00e9m os Deputados, e pela forma correta como faz o seu trabalho.\r\nSra. Presidente, eu queria registrar com alegria a realiza\u00e7\u00e3o da 3\u00aa Confer\u00eancia para Agentes P\u00fablicos e Pol\u00edticos Crist\u00e3os, da Frente Parlamentar Evang\u00e9lica do Congresso Nacional, edi\u00e7\u00e3o de S\u00e3o Paulo, realizada na \u00faltima sexta-feira.\r\nQuero parabenizar o nosso querido Deputado Cezinha de Madureira, o Deputado Gilberto Nascimento, v\u00e1rios Vereadores, Deputados Estaduais, representantes do Governo do Estado, da Prefeitura pela presen\u00e7a. Essa \u00e9 uma ferramenta de presta\u00e7\u00e3o de contas, de motiva\u00e7\u00e3o e tamb\u00e9m de conscientiza\u00e7\u00e3o de que ocupar o nosso espa\u00e7o \u00e9 algo imprescind\u00edvel para o novo Brasil.\r\nPortanto, parab\u00e9ns a S\u00e3o Paulo e a todos que fazem parte, Deputada Benedita da Silva, da Frente Parlamentar Evang\u00e9lica do Congresso Nacional por este trabalho que estamos fazendo Brasil afora!\r\nSra. Presidente, pe\u00e7o a V.Exa. que este pronunciamento seja publicado nos \u00f3rg\u00e3os de imprensa desta Casa e no programa A Voz do Brasil.\r\nE quero fazer um convite a V.Exa. Estaremos, neste final de semana, l\u00e1 no Rio Grande do Sul. Santa Catarina fica muito perto. N\u00f3s estaremos l\u00e1 numa confer\u00eancia da verdade, que vai, com certeza, enriquecer o quadro de agentes p\u00fablicos e pol\u00edticos evang\u00e9licos do Rio Grande do Sul.\r\nE estaremos, no dia 19, na cidade de Manaus, Capital do Estado do Amazonas, realizando tamb\u00e9m uma grande confer\u00eancia. Estaremos no Piau\u00ed, Esp\u00edrito Santo, Goi\u00e1s. Estamos trabalhando juntos para ajudar o Brasil a entender que a omiss\u00e3o dos bons traz o fortalecimento daqueles que n\u00e3o t\u00eam compromisso nem com a verdade nem com o futuro das fam\u00edlias, da vida e tamb\u00e9m dos princ\u00edpios crist\u00e3os desta Na\u00e7\u00e3o.\r\nDeus aben\u00e7oe todos!\r\nFiquem com Deus!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=39&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-17T12:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "SETOR EL\u00c9TRICO, MODERNIZA\u00c7\u00c3O, PRE\u00c7O, TARIFA DE ENERGIA EL\u00c9TRICA, REGI\u00c3O NORTE.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Encaminhamento \u00e0 Casa, pelo Minist\u00e9rio de Minas e Energia, de proposta de moderniza\u00e7\u00e3o do setor el\u00e9trico nacional. An\u00fancio de cria\u00e7\u00e3o de CPI para investiga\u00e7\u00e3o dos pre\u00e7os de energia el\u00e9trica na Regi\u00e3o Norte.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, chegou ao Plen\u00e1rio desta Casa, vindo do Minist\u00e9rio de Minas e Energia, tendo sido apresentado \u00e0 Comiss\u00e3o de Infraestrutura do Senado, na pessoa do Senador Marcos Rog\u00e9rio e de nove Senadores da Rep\u00fablica, e a esta Casa, pela Comiss\u00e3o de Minas e Energia, por mim representada como Presidente e mais outros nove Deputados Federais, o que o Governo chama de moderniza\u00e7\u00e3o do setor el\u00e9trico do Brasil, algo extremamente bem preparado.\r\nParab\u00e9ns ao Ministro Bento e \u00e0 sua equipe, que constru\u00edram propostas para ser executadas nos pr\u00f3ximos meses e anos, que, com certeza, ao fim, dar\u00e3o ao Brasil uma legisla\u00e7\u00e3o ou um comportamento moderno entre o Governo e o setor el\u00e9trico do Brasil.\r\nNo entanto, eu queria registrar que senti falta de uma distin\u00e7\u00e3o de comportamento da ANEEL e do Minist\u00e9rio em rela\u00e7\u00e3o a Estados que s\u00e3o diferentes. N\u00e3o pode haver tratamento igual para quem \u00e9 diferente. Exemplo disso \u00e9 a competitividade. Em alguns Estados brasileiros, a popula\u00e7\u00e3o tem a op\u00e7\u00e3o de escolher n\u00e3o apenas o fornecedor, portanto h\u00e1 uma competi\u00e7\u00e3o no pre\u00e7o da energia fornecida, mas tamb\u00e9m as alternativas. \r\nPor\u00e9m, no Norte do Pa\u00eds, na Amaz\u00f4nia Legal, que V.Exa. conhece, at\u00e9 no Nordeste, \u00e9 completamente diferente: o pobre n\u00e3o tem como migrar para a energia solar, como n\u00e3o tem a op\u00e7\u00e3o de escolher o fornecedor. O resultado \u00e9 que a energia \u00e9 cara, e a perda, segundo os privatizados agora, distribuidores e geradores, \u00e9 grande. Eles n\u00e3o t\u00eam nenhum interesse, portanto, de diminuir estas perdas, porque t\u00eam a garantia de que quem est\u00e1 pagando em dia paga a perda e at\u00e9 mesmo outras vari\u00e1veis da composi\u00e7\u00e3o da conta de energia el\u00e9trica. Assim, a qualidade \u00e9 ruim, e a tarifa, cara.\r\nResta, portanto, este apelo. Ali\u00e1s, estamos colhendo assinaturas para a instala\u00e7\u00e3o de uma CPI com ferramentas apropriadas para termos transpar\u00eancia no crit\u00e9rio e na defini\u00e7\u00e3o das tarifas de energia el\u00e9trica, assim como na qualidade e na gera\u00e7\u00e3o de energia.\r\nO Brasil precisa tratar as regi\u00f5es e os Estados de forma diferente, levando qualidade de vida e energia de qualidade, promovendo uma distribui\u00e7\u00e3o com qualidade, mas, acima de tudo, uma tarifa justa. Mais do que isso, \u00e9 preciso garantir o direito do consumidor de participar na elabora\u00e7\u00e3o desta tarifa e de ser ouvido, no que diz respeito \u00e0 p\u00e9ssima qualidade deste servi\u00e7o oferecido, que, com o de telefonia celular e o de Internet, \u00e9 a maior reclama\u00e7\u00e3o dos brasileiros, principalmente dos que moram na Amaz\u00f4nia e no Nordeste.\r\nSr. Presidente, pe\u00e7o a V.Exa. que meu pronunciamento seja divulgado pelos \u00f3rg\u00e3os de imprensa desta Casa, especialmente pelo programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F10%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T15:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), REDU\u00c7\u00c3O, TARIFA DE ENERGIA EL\u00c9TRICA, AMAZONAS.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Congratula\u00e7\u00f5es \u00e0 Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL, pelo indicativo de redu\u00e7\u00e3o das tarifas de energia el\u00e9trica no Estado do Amazonas.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Hoje estivemos na reuni\u00e3o deliberativa da ANEEL defendendo e sustentando a redu\u00e7\u00e3o da tarifa de energia do Estado do Amazonas.\r\nPor crit\u00e9rio t\u00e9cnico, mas sem deixar o trabalho pol\u00edtico de um Deputado que defende a popula\u00e7\u00e3o do Estado do Amazonas, a ANEEL reduziu, deu, portanto, um reajuste negativo de 5,63% para a tarifa da empresa que opera a distribui\u00e7\u00e3o de energia do Amazonas. Isso \u00e9 algo de extrema import\u00e2ncia, porque \u00e9 simb\u00f3lico o indicativo de que, quando n\u00e3o se presta bons servi\u00e7os e quando n\u00e3o se atende \u00e0 popula\u00e7\u00e3o com a qualidade que ela precisa, a ANEEL tamb\u00e9m defende os menos favorecidos.\r\nPortanto, parab\u00e9ns \u00e0 ANEEL! E parab\u00e9ns ao meu Estado, que teve um indicativo importante da ANEEL, que \u00e9 a redu\u00e7\u00e3o da tarifa negativa para a empresa que l\u00e1 est\u00e1 operando!\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-30T21:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE URG\u00caNCIA, PL 4348/2019, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVORAVEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 4.348, de 2019, sobre altera\u00e7\u00e3o do art. 40-A, da Lei n\u00ba 11.952, de 2009, sobre a regulariza\u00e7\u00e3o fundi\u00e1ria das ocupa\u00e7\u00f5es incidentes em terras situadas em \u00e1reas da Uni\u00e3o, no \u00e2mbito da Amaz\u00f4nia Legal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos vota \"sim\", ao tempo em que agradece a V.Exa. por ter colocado em pauta esta urg\u00eancia e aos L\u00edderes que a apoiaram. \r\nEsta urg\u00eancia regulariza, em todo o Brasil, as terras de propriet\u00e1rios para que estes acessem financiamentos e progridam na sua atividade rural.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=31%2F10%2F2019&txPagina=232&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-11T17:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REPUBLICO, RECURPERA\u00c7\u00c3O, RODOVIA FEDERAL, AMAZONAS.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "An\u00fancio pelo Governo Jair Bolsonaro de recupera\u00e7\u00e3o das BRs-319,174, 317 e 364, no Estado do Amazonas. Pedido de aten\u00e7\u00e3o especial para com a BR-230.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, quero agradecer a oportunidade e, antecipadamente, pedir a V.Exa. que a minha fala seja divulgada pelo programa A Voz do Brasil.\r\nO Presidente Jair Messias Bolsonaro anuncia a recupera\u00e7\u00e3o da BR-319, da BR-174, da BR-317. Eu quero dizer que a bancada Federal do Amazonas tem participa\u00e7\u00e3o importante inclusive no edital recentemente anunciado por S.Exa. o Ministro da Infraestrutura, que vai recuperar o miolo, como chamamos, da BR-364.\r\nMais do que isso, queremos pedir aten\u00e7\u00e3o especial para a BR-230. O Amazonas, de fato, tem que ser tratado de forma diferenciada. Afinal de contas, foi muito tempo de abandono e agora se demonstra que quer fazer, e n\u00f3s queremos ver feito, aquilo que o Amazonas precisa para se integrar ao Brasil e ao mundo.\r\nMuito obrigado por esta oportunidade.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F11%2F2019&txPagina=48&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-12-04T16:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 4348/2019, PROJETO DE LEI ORDINARIA, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA, PER\u00cdODO, CRIA\u00c7\u00c3O, ASSENTAMENTO RURAL, ASSENTAMENTO URBANO, INSTITUTO NACIONAL DE COLONIZA\u00c7\u00c3O E REFORMA AGR\u00c1RIA (INCRA), APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Agradecimento \u00e0 Casa pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 4.348-A, de 2019, sobre a altera\u00e7\u00e3o do art. 40-A da Lei \u00ba 11.952, de 2009, relativa \u00e0 regulariza\u00e7\u00e3o fundi\u00e1ria das ocupa\u00e7\u00f5es incidentes em terras situadas em \u00e1reas da Uni\u00e3o, no \u00e2mbito da Amaz\u00f4nia Legal, e a altera\u00e7\u00e3o das Leis de n\u00bas 8.666, de 1993, e 6.015, de 1973.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, queria agradecer a V.Exa., a todo o Col\u00e9gio de L\u00edderes e aos partidos que nos ajudaram a aprovar este importante projeto de lei, que de fato vai dar dignidade a muitas fam\u00edlias hoje abandonadas que esperam o t\u00edtulo da sua propriedade. Neste momento de controle de inc\u00eandios e desmatamentos, \u00e9 muito importante que se identifique o propriet\u00e1rio, para que ele seja responsabilizado pela propriedade.\r\nPortanto, parab\u00e9ns \u00e0 C\u00e2mara Federal, que d\u00e1 um momento de refrig\u00e9rio e dignidade a quem trabalha e habita pequenas propriedades da Amaz\u00f4nia.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F12%2F2019&txPagina=144&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-04T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "SILAS C\u00c2MARA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, AMAZONAS, INFRAESTRUTURA, AEROPORTO, BR-317, RODOVIA FEDERAL, TELEFONIA M\u00d3VEL, REGULARIZA\u00c7\u00c3O FUNDI\u00c1RIA, ZONA FRANCA DE MANAUS (ZFM), DESENVOLVIMENTO REGIONAL, PRESERVA\u00c7\u00c3O AMBIENTAL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Visita do orador a Munic\u00edpios amazonenses. Enfrentamento de desafios impostos ao Estado do Amazonas. Preserva\u00e7\u00e3o da Zona Franca de Manaus.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, parabenizo V.Exa. por estar presidindo esta sess\u00e3o. Meu querido amigo, Deus o aben\u00e7oe. Sa\u00fado todos os companheiros que voltaram das atividades nas suas bases. Fa\u00e7o este primeiro pronunciamento baseado no que vi nesse trabalho. \r\nAcabo de chegar de uma viagem por 53 dos 61 Munic\u00edpios do Estado do Amazonas. E, Presidente, \u00e9 lament\u00e1vel que, enquanto todos olham para a Amaz\u00f4nia apenas para saber se est\u00e1 pegando fogo ou n\u00e3o, ou se est\u00e1 preservada ou n\u00e3o, os aeroportos dos Munic\u00edpios dessa regi\u00e3o estejam destru\u00eddos e fechados; as Rodovias, como a BR-317, por exemplo, Sr. Presidente, que liga o Munic\u00edpio de Boca do Acre ao Estado do Acre esteja completamente destru\u00edda; a telefonia celular n\u00e3o funcione - Internet nem se fala -; e a regulariza\u00e7\u00e3o fundi\u00e1ria, no sul do Amazonas, ainda esteja sendo clamada pela popula\u00e7\u00e3o. Ali\u00e1s, a \u00fanica ferramenta para fazer parar a destrui\u00e7\u00e3o, o desmatamento e o fogo na Amaz\u00f4nia \u00e9 a regulariza\u00e7\u00e3o das terras ali existentes.\r\nPortanto, Sr. Presidente, come\u00e7o este novo momento aqui na C\u00e2mara dizendo que este vai ser o ano para pontuarmos de forma efetiva os desafios do Amazonas, principalmente a perman\u00eancia do modelo econ\u00f4mico da Zona Franca de Manaus, que, com suas vantagens comparativas, \u00e9 o que mant\u00e9m a floresta em p\u00e9 e o desenvolvimento do Estado, j\u00e1 que 60% da nossa economia ainda depende desse modelo vitorioso de desenvolvimento regional que gera emprego e renda, mas o Sr. Paulo Guedes e parte do Governo Federal querem matar esse modelo t\u00e3o bem-sucedido no Amazonas.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F2%2F2020&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-18T15:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, ASSEMBLEIA DE DEUS, IGREJA EVANG\u00c9LICA, HOMENAGEM.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Transcurso do 109\u00ba anivers\u00e1rio de funda\u00e7\u00e3o da Igreja Evang\u00e9lica Assembleia de Deus no Brasil. Alcance social das a\u00e7\u00f5es promovidas pelo segmento evang\u00e9lico junto \u00e0 sociedade brasileira.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Como L\u00edder. Sem revis\u00e3o do orador.) - Sr. Presidente, queridos companheiros Deputados Federais, Deputadas Federais, povo brasileiro que nos acompanha atrav\u00e9s das m\u00eddias de comunica\u00e7\u00e3o da C\u00e2mara dos Deputados, estou feliz de poder ocupar esta tribuna hoje, dia 18 de junho de 2020.\r\nHoje, Sr. Presidente, faz 109 anos que chegaram a Bel\u00e9m do Par\u00e1 dois mission\u00e1rios suecos, o Gunnar Vingren e o Daniel Berg, enviados pela vontade e impulsionamento do Esp\u00edrito Santo ao Brasil, mais precisamente, \u00e0 cidade de Bel\u00e9m, no Estado do Par\u00e1.\r\nAli, Sr. Presidente, iniciaram um trabalho que resultou na forma\u00e7\u00e3o do maior segmento religioso pentecostal do mundo, a Assembleia de Deus no Brasil, que hoje est\u00e1 nos quatros cantos do planeta.\r\nA Assembleia de Deus, cuja a igreja m\u00e3e, em Bel\u00e9m do Par\u00e1, \u00e9 presidida pelo Pastor Samuel C\u00e2mara e pela Pastora Rebekah Lemos C\u00e2mara e sua fam\u00edlia, tem feito um trabalho na Na\u00e7\u00e3o brasileira que honra o segmento evang\u00e9lico em todo o Pa\u00eds, em todo o mundo.\r\nSr. Presidente, a Conven\u00e7\u00e3o das Assembleias de Deus no Brasil congrega hoje mais de 25 mil pastores e pastoras, l\u00edderes religiosos que fazem esta Na\u00e7\u00e3o ter o alento de saber que nas horas de dificuldade - como as que estamos vivendo neste momento por causa da COVID-19, ou por causa da tribula\u00e7\u00e3o, do tumulto ou da turbul\u00eancia econ\u00f4mica - tem a retaguarda de um segmento que acredita que Deus \u00e9 o Senhor desta Na\u00e7\u00e3o e que, atrav\u00e9s da ora\u00e7\u00e3o e do comportamento espiritual adequado, h\u00e1 a mudan\u00e7a e a salva\u00e7\u00e3o pelo Evangelho. Dessa forma, o Brasil \u00e9, com certeza, muito melhor do que seria, se n\u00e3o fosse o segmento religioso, evang\u00e9lico e crist\u00e3o nesta Na\u00e7\u00e3o.\r\nO segmento evang\u00e9lico representado pela Assembleia de Deus, Sr. Presidente, tem miss\u00f5es importantes e que trabalham em favor da sociedade, como, por exemplo, miss\u00f5es com refugiados venezuelanos. A Assembleia de Deus no Brasil, que \u00e9 cobertura da Conven\u00e7\u00e3o das Assembleias de Deus no Brasil, repatriou, e ainda repatria, muitos venezuelanos e j\u00e1 mudou a vida de muitas fam\u00edlias desses que vieram para o Brasil atr\u00e1s de matar a sua fome e sua sede e de ter tamb\u00e9m aqui um ref\u00fagio humano e melhor para os seus. \r\nH\u00e1 a Miss\u00e3o Puro Leite, que faz com que os beb\u00eas rec\u00e9m-nascidos possam ter um banco de leite, mantido pela Assembleia de Deus, que ajuda as crian\u00e7as que t\u00eam essa necessidade. \r\nA Miss\u00e3o contra a Fome, s\u00f3 em Bel\u00e9m do Par\u00e1, distribui, para V.Exa. ter uma ideia, cerca 150 cestas b\u00e1sicas por dia, independentemente de estarmos ou n\u00e3o numa crise, como a que vivemos agora por causa da COVID-19. Passam de 55 mil cestas b\u00e1sicas por ano, o que nesse momento tem sido potencializado pela necessidade.\r\nA miss\u00e3o de constru\u00e7\u00e3o de casas para os necessitados, s\u00f3 no ano passado, j\u00e1 construiu 129 casas, com recursos da pr\u00f3pria Igreja e m\u00e3o de obra gratuita de seus membros.\r\nH\u00e1 ainda as miss\u00f5es de m\u00e9dicos e de psic\u00f3logos e a miss\u00e3o de educa\u00e7\u00e3o crist\u00e3, que tem mais de 150 mil alunos.\r\nA Faculdade Boas Novas pertence ao complexo de comunica\u00e7\u00e3o Rede Boas Novas de comunica\u00e7\u00e3o, a maior produtora de conte\u00fado crist\u00e3o da Am\u00e9rica Latina, que cobre, hoje, cerca de 120 milh\u00f5es de brasileiros.\r\nTemos, ainda, o trabalho mission\u00e1rio em pa\u00edses pobres de l\u00edngua portuguesa, como Timor Leste, Cabo Verde, Angola, Mo\u00e7ambique, o qual temos feito com muita responsabilidade.\r\nE aqui eu cito o nome do meu Pastor, do Pastor Jonatas C\u00e2mara, que \u00e9 Pastor Presidente da Conven\u00e7\u00e3o das Assembleias de Deus no Amazonas, da Igreja de que eu sou membro, a Igreja Evang\u00e9lica da Assembleia de Deus no Amazonas, sua esposa Ana L\u00facia e toda a sua equipe.\r\nEm nome desses l\u00edderes, Sr. Presidente, eu registro a import\u00e2ncia que tem a Assembleia de Deus no Brasil, hoje, em todos os Munic\u00edpios, em todas as comunidades, em todas as capitais brasileiras. S\u00e3o mais de 130 mil templos espalhados por esta Na\u00e7\u00e3o, e, hoje, aproximadamente 25 milh\u00f5es de brasileiros congregam ou s\u00e3o membros, ou s\u00e3o, Sr. Presidente, visitantes ou pessoas que est\u00e3o sendo discipuladas pela Assembleia de Deus no Brasil.\r\nPortanto, Sr. Presidente, eu quero registrar a nossa alegria de poder parabenizar esse segmento importante do povo evang\u00e9lico no Brasil, como Presidente da Frente Parlamentar Evang\u00e9lica no Congresso Nacional, com 130 Deputados e Deputadas, 14 Senadores e Senadoras. Quero deixar o registro do nosso regozijo com a Assembleia de Deus no Brasil pelos seus 109 anos e dizer que o Brasil espera mais ainda: espera que n\u00f3s possamos, neste momento de tanta necessidade de paz, de harmonia, de sintonia entre os Poderes, em ora\u00e7\u00e3o, poder fazer a nossa parte, pedindo a Deus que cubra o Brasil de paz. Esperamos, tamb\u00e9m, que n\u00f3s possamos voltar logo aos trilhos do desenvolvimento e da prosperidade e que esta pandemia e o esp\u00edrito de morte que se manifesta atrav\u00e9s dela possam ser expulsos desta Na\u00e7\u00e3o pelo poder soberano de Deus, atrav\u00e9s do sangue e do nome de Jesus Cristo, mas tamb\u00e9m dos profissionais de sa\u00fade, que fazem um bel\u00edssimo trabalho nesta Na\u00e7\u00e3o em defesa da vida e daqueles que hoje sofrem com a pandemia. \r\nPortanto, Sr. Presidente, fica aqui o nosso registro.\r\nEu quero pedir a V.Exa. que determine a divulga\u00e7\u00e3o, nos \u00f3rg\u00e3os de imprensa desta Casa, no jornal da C\u00e2mara dos Deputados e no programa A Voz do Brasil, de que a Assembleia de Deus, neste dia, completa 109 anos e faz o seu trabalho com muita efici\u00eancia e denodo e, acima de tudo, \u00e9 comprometida com o Evangelho de Jesus Cristo, que diz: \"Ide por todo o mundo e pregai o Evangelho a toda criatura\". Esse \u00e9 o nosso o objetivo. E, mais do que isso, faz o seu trabalho com o compromisso na palavra, dizendo que Jesus Cristo salva, transforma o homem; que Jesus Cristo cura, batiza com o Esp\u00edrito Santo e vai buscar um povo querido para o c\u00e9u.\r\nEste \u00e9 o melhor projeto social que esta Na\u00e7\u00e3o tem: Jesus Cristo como bandeira de mudan\u00e7a do homem e da preserva\u00e7\u00e3o da fam\u00edlia, a c\u00e9lula mais importante da sociedade.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F6%2F2020&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-15T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CLEBER VERDE, DEPUTADO FEDERAL, PAIS, FALECIMENTO, HOMIC\u00cdDIO, MARANH\u00c3O, P\u00caSAMES.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Solidariedade ao Deputado Cleber Verde diante do assassinato dos seus pais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, como Presidente da Frente Parlamentar Evang\u00e9lica do Congresso Nacional, trago o nosso abra\u00e7o, a nossa solidariedade \u00e0 fam\u00edlia do nosso amigo, irm\u00e3o, companheiro de luta da Frente Parlamentar Evang\u00e9lica, Deputado Cleber Verde, pelo acontecido no dia de hoje. Portanto, pe\u00e7o que fique o registro.\r\nEstamos orando e pedindo ao Esp\u00edrito Santo que console a fam\u00edlia e o nosso irm\u00e3o e que Deus o fortale\u00e7a neste momento complicado.\r\nObviamente, fica uma reflex\u00e3o muito grande sobre o momento que estamos passando no Pa\u00eds, Sr. Presidente. Provid\u00eancias devem ser tomadas para que situa\u00e7\u00f5es semelhantes a essa n\u00e3o tornem a acontecer.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F7%2F2020&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-11T10:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "INUNDA\u00c7\u00c3O, ENCHENTE, COMUNIDADE RIBEIRINHA, AMAZONAS, ROG\u00c9RIO MARINHO, MINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL, PROVID\u00caNCIAS.\r\nPL 5829/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA, MODELO, GERA\u00c7\u00c3O DISTRIBU\u00cdDA, ENERGIA EL\u00c9TRICA, FONTE ALTERNATIVA DE ENERGIA, MICROGERADOR DE ENERGIA, MINIGERADOR DE ENERGIA, REDU\u00c7\u00c3O, TARIFA, DEFESA, APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Expectativa quanto \u00e0 ado\u00e7\u00e3o pelo Ministro do Desenvolvimento Regional, Rog\u00e9rio Marinho, de a\u00e7\u00f5es em prol das popula\u00e7\u00f5es ribeirinhas atingidas por enchentes no Estado do Amazonas. Expectativa de vota\u00e7\u00e3o pela Casa do Projeto de Lei n\u00ba 5.829, de 2019, sobre a altera\u00e7\u00e3o do art. 26 da Lei n\u00ba 9.427, de 1996, com vista ao desenvolvimento da energia solar no Pa\u00eds.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, sa\u00fado V.Exa., os Deputados e as Deputadas, os companheiros e o povo brasileiro que nos acompanha pelas m\u00eddias desta Casa.\r\nSr. Presidente, a trag\u00e9dia e a calamidade que abateram o Estado do Acre, das enchentes, agora se desdobram para o Estado do Amazonas. Na verdade, desdobram-se j\u00e1 h\u00e1 algum tempo. Por\u00e9m, nesta semana, estivemos com o Ministro Rog\u00e9rio Marinho, com a Defesa Civil, com toda a bancada federal do Estado do Amazonas - o Senador Omar Aziz, o Senador Eduardo Braga, o Senador Pl\u00ednio Val\u00e9rio -, para mostrar a import\u00e2ncia e a urg\u00eancia de socorrer os ribeirinhos, principalmente os da Calha do Rio Juru\u00e1, da Calha do Rio Purus, do Rio Envira, do Rio Tarauac\u00e1, daquela regi\u00e3o l\u00e1 de Envira, para dar-lhes uma aten\u00e7\u00e3o especial, porque se aproxima calamidade semelhante de v\u00e1rias regi\u00f5es do Estado do Amazonas. Quero fazer este registro e falar da boa inten\u00e7\u00e3o de S.Exa., o Ministro Rog\u00e9rio Marinho, em atender rapidamente, principalmente, os Munic\u00edpios de Boca do Acre e de Eirunep\u00e9, com desdobramentos para todos os Munic\u00edpios que est\u00e3o com este mesmo problema.\r\nEsta \u00e9 uma situa\u00e7\u00e3o que todos os anos se repete no Estado do Amazonas, n\u00e3o \u00e9 novidade. Eu tenho certeza absoluta de que a medida provis\u00f3ria que est\u00e1 nesta Casa, no Congresso Nacional na verdade, que trata de calamidades causadas por enchentes ou por quest\u00f5es da natureza que afetam diretamente as pessoas, \u00e9 muito importante, pois esses recursos servir\u00e3o para socorrer as pessoas.\r\nEncerro, Sr. Presidente, dizendo que esta Casa votar\u00e1 logo mais, hoje ou amanh\u00e3, o projeto de lei sobre a gera\u00e7\u00e3o distribu\u00edda de energia e tamb\u00e9m sobre a energia solar. \u00c9 um projeto de minha autoria, com substitutivo do Deputado Lafayette de Andrada, que eu tenho certeza absoluta de que trar\u00e1 paz, prosperidade, gera\u00e7\u00e3o de emprego, renda e tamb\u00e9m de energia renov\u00e1vel e barata para toda a popula\u00e7\u00e3o do Brasil. Entreguei-o ainda h\u00e1 pouco \u00e0 Presid\u00eancia da Comiss\u00e3o de Minas e Energia, ao valoroso Deputado Edio Lopes. Vamos continuar lutando, como fizemos com a Lei do G\u00e1s, com o marco regulat\u00f3rio do g\u00e1s, agora pela gera\u00e7\u00e3o distribu\u00edda e pela quest\u00e3o da energia solar. Tudo isso \u00e9 para que o Brasil prospere, para que a popula\u00e7\u00e3o possa ter op\u00e7\u00e3o de seguran\u00e7a jur\u00eddica e garantia de bom servi\u00e7o, para que sejam gerados postos de trabalho em todo o Brasil.\r\nMuito obrigado, Excel\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F3%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-03-17T13:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "RODRIGO PACHECO, PRESIDENTE DO SENADO FEDERAL, EDUARDO GOMES, SENADOR, RICARDO BARROS, DEPUTADO FEDERAL, L\u00cdDER DO GOVERNO, SAUDA\u00c7\u00c3O.\r\nVETO 48/2020, VETO PARCIAL, ANISTIA TRIBUT\u00c1RIA, TEMPLO RELIGIOSO, PL 1581/2020, PROJETO DE LEI ORDIN\u00c1RIA, REGULAMENTA\u00c7\u00c3O, ACORDO, PAGAMENTO, PRECAT\u00d3RIO, DESCONTO, RECURSOS, EMERG\u00caNCIA DE SA\u00daDE P\u00daBLICA DE IMPORT\u00c2NCIA INTERNACIONAL (ESPII), PANDEMIA, CORONAV\u00cdRUS, DERRUBADA DE VETO, COL\u00c9GIO DE L\u00cdDERES, AGRADECIMENTO.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Congratula\u00e7\u00f5es ao Presidente Rodrigo Pacheco, e aos L\u00edderes do Governo Senador Eduardo Gomes e Deputado Ricardo Barros. Agradecimento ao Col\u00e9gio de L\u00edderes pela rejei\u00e7\u00e3o do Veto Parcial n\u00ba 48, de 2020, aposto ao Projeto de Lei n\u00ba 1.581, de 2020, na parte concernente \u00e0 concess\u00e3o de anistia de d\u00edvidas tribut\u00e1rias de templos religiosos.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/REPUBLICANOS - AM. Para orientar a bancada. Sem revis\u00e3o do orador.) - Sr. Presidente, quero agradecer a V.Exa. e parabeniz\u00e1-lo pelo brilhante trabalho que vem fazendo \u00e0 frente do Congresso Nacional.\r\nQuero parabenizar o L\u00edder Eduardo Gomes e o L\u00edder Ricardo Barros. \r\nEm nome da Frente Parlamentar Evang\u00e9lica, quero agradecer a todo o Col\u00e9gio de L\u00edderes, que por acordo incluiu, neste momento de vota\u00e7\u00f5es sobre vetos, a queda do veto que diz respeito a multas indevidas e aplica\u00e7\u00e3o de penalidades injustas \u00e0s igrejas e ao segmento religioso no Pa\u00eds. Sem d\u00favida nenhuma, no dia de hoje, faz-se justi\u00e7a e, a partir de agora, temos uma b\u00fassola, um norte de como vai se comportar o Governo Federal, atrav\u00e9s da Receita Federal, em rela\u00e7\u00e3o \u00e0s igrejas. E mais do que isso: restauramos aquilo que supostamente estava indevidamente sendo aplicado, como multas ou cobran\u00e7a a todo o segmento religioso.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=18%2F3%2F2021&txPagina=79&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-04-28T13:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "RECURSOS OR\u00c7AMENT\u00c1RIOS, CONSTRU\u00c7\u00c3O, BARCO, AG\u00caNCIA, INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), AMAZONAS, ROBERTO BRAGA, SUPERINTENDENTE, REGI\u00c3O NORTE, REGI\u00c3O CENTRO-OESTE,  LEONARDO ROLIM, PRESIDENTE, ELOGIO.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Elogio \u00e0 atua\u00e7\u00e3o da Previd\u00eancia Social no Estado do Amazonas. Destina\u00e7\u00e3o, pelo orador, de recursos or\u00e7ament\u00e1rios para a constru\u00e7\u00e3o dos Prevbarcos, ag\u00eancias flutuantes da Previd\u00eancia. Cumprimentos ao Superintendente Regional do INSS para as Regi\u00f5es Norte e Centro-Oeste, Roberto Braga, e ao Presidente da institui\u00e7\u00e3o, Leonardo Rolim.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente e povo brasileiro que nos acompanha atrav\u00e9s das m\u00eddias desta Casa, fa\u00e7o este discurso para enaltecer e parabenizar pelo trabalho a Previd\u00eancia Social no nosso Estado, o Amazonas. Para se entender, a m\u00e9dia de previd\u00eancia paga no Brasil \u00e9 de 18% a 24%, como \u00e9 o caso do Rio Grande do Sul. No entanto, no Estado do Amazonas, n\u00e3o chega a 8%.\r\nAs ferramentas que estruturam a Previd\u00eancia Social no Amazonas, Sr. Presidente, t\u00eam um trabalho muito afinado com o nosso desempenho Parlamentar. Por exemplo, neste momento em que falo com V.Exa., dois Prevbarcos, ou seja, duas ag\u00eancias flutuantes da Previd\u00eancia Social, est\u00e3o, uma, em Itamarati, outra, em Canutama, portanto, uma, no Rio Juru\u00e1, outra, no Rio Purus. No Rio Juru\u00e1, vem desde Guajar\u00e1, Ipixuna, Eirunep\u00e9, Envira, agora, Itamarati, e vai fazer Carauari e Juru\u00e1; no Rio Purus, fez Boca do Acre, Pauini, L\u00e1brea, agora, Canutama, e vai fazer Tapau\u00e1 e Beruri, descendo a calha do Rio Purus. \r\nDigo isso por qu\u00ea, Sr. Presidente? Porque esse trabalho s\u00f3 \u00e9 poss\u00edvel de ser feito gra\u00e7as a uma emenda minha, como Deputado Federal, que possibilitou a constru\u00e7\u00e3o desses barcos. Mais do que isso, os calend\u00e1rios que eu acabei de anunciar a V.Exa. s\u00e3o fruto de planejamento da Previd\u00eancia Social para atender os Munic\u00edpios ribeirinhos do Amazonas, como vai atender as outras calhas de rio. Logo, \u00e9 inteligente pensar que, se a Previd\u00eancia Social faz uma programa\u00e7\u00e3o como essa para os rios do Amazonas, esses barcos s\u00e3o como ag\u00eancias plenas, com assistente social, com perito m\u00e9dico. E, muitas vezes, as pessoas querem se aproveitar de uma programa\u00e7\u00e3o j\u00e1 estabelecida para tentar carimbar para si uma atividade que j\u00e1 est\u00e1 definida em calend\u00e1rio. \r\nPortanto, eu parabenizo a Previd\u00eancia Social e deixo aqui um desafio: a municipaliza\u00e7\u00e3o plena da Previd\u00eancia Social no Amazonas e na Amaz\u00f4nia. Ali\u00e1s, parte disso j\u00e1 est\u00e1 acontecendo, atrav\u00e9s de outro trabalho nosso em conjunto com a Previd\u00eancia Social, que \u00e9 o INSS Digital. Hoje, essa ferramenta j\u00e1 atende v\u00e1rios Munic\u00edpios e \u00e9 um enorme sucesso, apesar de a Internet ser um grande desafio na nossa Amaz\u00f4nia.\r\nPortanto, deixo aqui as minhas congratula\u00e7\u00f5es e os meus cumprimentos a Roberto Braga, que \u00e9 o Superintendente Regional do INSS para as Regi\u00f5es Norte e Centro-Oeste, e ao Presidente Leonardo Rolim, que faz um grande trabalho.\r\nDeus aben\u00e7oe o Brasil! Deus aben\u00e7oe o Amazonas! Fiquem certos que continuamos juntos trabalhando pelo futuro de todos, principalmente do nosso querido Estado, o Amazonas. \r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F4%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-05T17:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "DESASTRE AMBIENTAL, ENCHENTE, RIO (CURSO D'\u00c1GUA), AMAZONAS, ROG\u00c9RIO MARINHO, MINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL, DEFESA CIVIL, AGRADECIMENTO.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Agradecimento ao Ministro do Desenvolvimento Regional, Rog\u00e9rio Marinho, e \u00e0 Defesa Civil pelo apoio aos Munic\u00edpios do Estado do Amazonas em face das cheias dos rios. Prem\u00eancia de ajuda \u00e0 popula\u00e7\u00e3o afetada pelas enchentes.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, primeiro, quero manifestar minha gratid\u00e3o - dizem que a gratid\u00e3o \u00e9 a mem\u00f3ria da alma - ao Ministro Rog\u00e9rio Marinho e \u00e0 Defesa Civil nacional, que t\u00eam dado uma aten\u00e7\u00e3o especial ao nosso Estado do Amazonas, tanto na calha do Rio Juru\u00e1, nos Munic\u00edpios de Guajar\u00e1, Ipixuna, Eirunep\u00e9, Itamarati, Envira, Carauari, Juru\u00e1; como tamb\u00e9m no Rio Purus, nos Munic\u00edpios de Boca do Acre, Pauini, L\u00e1brea, Canutama, Tapau\u00e1 e Beruri; assim como no Baixo Amazonas, no Rio Negro e no Rio Solim\u00f5es. \r\nEstamos aqui clamando por uma agiliza\u00e7\u00e3o. Isso j\u00e1 tem acontecido, mas refor\u00e7amos esse registro de que n\u00f3s estamos em uma situa\u00e7\u00e3o delicada devido \u00e0s \u00e1guas elevadas nesse momento em nosso Estado. O socorro mais iminente \u00e9 o da Defesa Civil nacional.\r\nOs decretos de emerg\u00eancia est\u00e3o chegando. Os planos de trabalho est\u00e3o chegando. O Estado do Amazonas precisa dessa resposta rapidamente. Por exemplo, o Munic\u00edpio de Codaj\u00e1s deve ter recebido aux\u00edlio recentemente, assim como Anori, Anam\u00e3, Caapiranga e todos os Munic\u00edpios que comp\u00f5em a calha do Rio Solim\u00f5es, no M\u00e9dio e Alto Solim\u00f5es. \r\nEsperamos que haja uma resposta r\u00e1pida, que socorra essas pessoas que precisam de ajuda neste momento muito delicado. \r\nQue Deus aben\u00e7oe o Brasil!\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=6%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-18T15:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SILAS C\u00c2MARA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, EMENDA AO PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, RECURSOS OR\u00c7AMENT\u00c1RIOS, INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), REUNI\u00c3O, PREVID\u00caNCIA SOCIAL, BARCO, AMAZONAS, MUNIC\u00cdPIO, INSS DIGITAL, CAREIRO (AM), BARCELOS (AM).\r\nSILAS C\u00c2MARA, DEPUTADO FEDERAL, AUTOR (PROPOSI\u00c7\u00c3O LEGISLATIVA), LAFAYETTE DE ANDRADA, RELATOR, PL 5829/2019, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DA AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA, ENERGIA EL\u00c9TRICA, FONTE ALTERNATIVA DE ENERGIA, ENERGIA SOLAR.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Implanta\u00e7\u00e3o do Programa INSS Digital no interior do Estado do Amazonas.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, obrigado pela oportunidade.\r\nAcabo de sair do INSS, da Presid\u00eancia da Previd\u00eancia Social do Brasil. Estive com o Dr. Leonardo, junto com o Prefeito Edson, de Barcelos, e um grupo de cinco Vereadores e uma Vereadora, e trago uma not\u00edcia animadora para o interior do Estado do Amazonas.\r\nEu tenho uma atividade muito forte na \u00e1rea previdenci\u00e1ria. Para V.Exas. terem uma ideia, \u00e9 minha a emenda ao Or\u00e7amento que construiu os dois Prevbarcos que hoje fazem atendimento no interior do Estado do Amazonas, tamb\u00e9m v\u00e1rias ag\u00eancias f\u00edsicas do interior do Estado do Amazonas, inclusive v\u00e1rias delas sem atividade nenhuma, como \u00e9 o caso atualmente em Barcelos, Borba, Humait\u00e1, Barreirinha e Castanho.\r\nA not\u00edcia que eu trago hoje \u00e9 muito importante, Sr. Presidente: essas ag\u00eancias f\u00edsicas que est\u00e3o paradas ser\u00e3o, por termo de coopera\u00e7\u00e3o, passadas aos Munic\u00edpios. E esses Munic\u00edpios poder\u00e3o implantar nessas ag\u00eancias f\u00edsicas o funcionamento do INSS Digital com servidores p\u00fablicos municipais. \r\nSr. Presidente, isso vai fazer uma grande corre\u00e7\u00e3o no sentido da justi\u00e7a social e previdenci\u00e1ria no Estado do Amazonas, que \u00e9 hoje uma das unidades da Federa\u00e7\u00e3o com menor cobertura previdenci\u00e1ria no Pa\u00eds. Se a m\u00e9dia nacional \u00e9 de 18% at\u00e9 24%, a exemplo do Rio Grande do Sul, no Estado do Amazonas n\u00e3o chega a 8%.\r\nA nossa \u00fanica sa\u00edda \u00e9 de fato a implanta\u00e7\u00e3o do INSS Digital, uma ferramenta poderosa, que, ali\u00e1s, tem o nosso trabalho tamb\u00e9m. Para se ter uma ideia, o Munic\u00edpio de Careiro Castanho foi o primeiro no Brasil a instituir essa ferramenta. Hoje \u00e9 absolutamente sucesso esse trabalho do INSS Digital no interior do Estado do Amazonas, onde est\u00e1 sendo bem aplicada essa ferramenta.\r\nPortanto, Sr. Presidente, estou feliz em dizer que em Barcelos come\u00e7ar\u00e1 a funcionar o INSS f\u00edsico, com a ferramenta digital.\r\nEncerro parabenizando esta Casa e o Relator, Deputado Lafayette de Andrada, do meu partido, o Republicanos, pela vota\u00e7\u00e3o do projeto que vai trazer regulamenta\u00e7\u00e3o ao setor de energia solar e de gera\u00e7\u00e3o distribu\u00edda. Tenho certeza de que o projeto de lei, de minha autoria, vai gerar emprego, renda, tributos e, portanto, dignidade \u00e0 popula\u00e7\u00e3o brasileira.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T17:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE URG\u00caNCIA, PL 3819/2020, PROJETO DE LEI ORDIN\u00c1RIA, FAVORAVEL.\r\nPL 3819/2020, PROJETO DE LEI ORDIN\u00c1RIA, ALTERA\u00c7\u00c3O, LEI DE REESTRUTURA\u00c7\u00c3O DOS TRANSPORTES AQUAVI\u00c1RIO E TERRESTRE, CRIT\u00c9RIO, AUTORIZA\u00c7\u00c3O, TRANSPORTE RODOVI\u00c1RIO, TRANSPORTE DE PASSAGEIRO, APROVA\u00c7\u00c3O, SENADO FEDERAL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de aprecia\u00e7\u00e3o em regime de urg\u00eancia do Projeto de Lei n\u00ba 3.819, de 2020, relativo \u00e0 altera\u00e7\u00e3o da Lei n\u00ba 10.233, de 2001, com vista ao estabelecimento de crit\u00e9rios de outorga, mediante autoriza\u00e7\u00e3o, para o transporte rodovi\u00e1rio interestadual e internacional de passageiros.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. SILAS C\u00c2MARA (Bloco/REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, o projeto ao qual se refere o pedido de urg\u00eancia j\u00e1 foi aprovado no Senado Federal, com debate amplo e, inclusive, com o voto favor\u00e1vel de todos os partidos, e a\u00ed eu j\u00e1 respondo ao meu companheiro, querido amigo, L\u00edder que acaba de nos pedir uma explica\u00e7\u00e3o.\r\nNo texto do Projeto de Lei n\u00ba 3.819, de 2020, j\u00e1 aprovado no Senado Federal e, como eu disse, fruto de um entendimento, houve, Sr. Presidente, inclusive, para efeito de urg\u00eancia na C\u00e2mara dos Deputados, uma palavra do Ministro Tarc\u00edsio, que, todos sabem, \u00e9 muito diligente com as quest\u00f5es da probidade e das possibilidades de competitividade que este momento exige nesta \u00e1rea, mas tamb\u00e9m \u00e9 sens\u00edvel \u00e0 modernidade e com o que isso significa, principalmente porque n\u00f3s estamos falando de Munic\u00edpios em que h\u00e1 pequen\u00edssima concorr\u00eancia e tamb\u00e9m da possibilidade de se obter um servi\u00e7o de qualidade.\r\nPortanto, diante da preocupa\u00e7\u00e3o do pr\u00f3prio Ministro da Infraestrutura, n\u00f3s estamos solicitando que a C\u00e2mara d\u00ea o voto de confian\u00e7a da urg\u00eancia e podemos, no curso do debate do pr\u00f3prio projeto j\u00e1 pautado, responder com mais profundidade essas quest\u00f5es e fazer ajustes necess\u00e1rios, desde que haja oportunidade de vota\u00e7\u00e3o.\r\nO fato concreto \u00e9 que existem pessoas morrendo no Brasil em raz\u00e3o da exist\u00eancia de ag\u00eancias fantasmas e de \u00f4nibus que n\u00e3o s\u00e3o credenciados rodando.\r\nN\u00e3o s\u00f3 a inseguran\u00e7a para o passageiro, mas tamb\u00e9m a inseguran\u00e7a jur\u00eddica e tamb\u00e9m a impossibilidade de os Munic\u00edpios pequenos terem transporte com seguran\u00e7a e qualidade nos movem a pedir a urg\u00eancia deste projeto, que, repito, foi aprovado pelo Senado por acordo de todos os partidos - partidos da Esquerda, partidos da Direita, partidos de centro -, dada sua import\u00e2ncia.\r\nPortanto, eu pe\u00e7o aos meus pares, queridos amigos, que votemos a urg\u00eancia, e o debate poder\u00e1 ser aprofundado na an\u00e1lise da mat\u00e9ria no plen\u00e1rio.\r\nEra o que tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T11:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "INTERNET, TELEFONIA M\u00d3VEL, MUNICIPIO, AMAZONAS, RECADASTRAMENTO, PESCADOR, ABERTURA, AGENCIA BANCARIA, CAIXA ECONOMIA FEDERAL (CEF).\r\nPAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, CORTE, RECURSOS, ZONA FRANCA DE MANAUS (ZFM), CRITICA.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Visita do orador a Munic\u00edpios do Estado do Amazonas. Apresenta\u00e7\u00e3o de requerimento de cria\u00e7\u00e3o de Comiss\u00e3o Externa destinada \u00e0 verifica\u00e7\u00e3o, in loco, da qualidade dos servi\u00e7os de Internet e telefonia m\u00f3vel em municipalidades interioranas amazonenses. Agradecimento ao Governo Federal pelo recadastramento de pescadores e pela abertura de ag\u00eancias da Caixa Econ\u00f4mica Federal nos Munic\u00edpios de Barreirinha, Benjamin Constant, Boca do Acre, Eirunep\u00e9, Ipixuna, Nova Olinda do Norte, Novo Aripuan\u00e3, S\u00e3o Gabriel da Cachoeira, Barcelos, Carauari, Careiro da V\u00e1rzea, Codaj\u00e1s, Manaquiri e Santo Ant\u00f4nio do I\u00e7\u00e1, no Estado do Amazonas.    Inexist\u00eancia de indicativo do Ministro da Economia, Paulo Guedes, para corte de benef\u00edcios fiscais da Zona Franca de Manaus.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, nobres companheiros Deputados e companheiras Deputadas, povo brasileiro que nos acompanha atrav\u00e9s das m\u00eddias desta Casa, meus cumprimentos.\r\nSr. Presidente, \u00e9 uma alegria, um prazer v\u00ea-lo presidindo esta Casa. V.Exa. \u00e9 um companheiro querido, dedicado e, inclusive com o meu voto, chegou \u00e0 Mesa Diretora da C\u00e2mara. Portanto, \u00e9 uma honra muito grande, Deputado C\u00e1ssio Andrade, principalmente por ser da nossa regi\u00e3o, t\u00ea-lo presidindo esta Casa.\r\nSr. Presidente, quatro temas me trazem \u00e0 tribuna desta Casa, e eu agrade\u00e7o a oportunidade de poder falar com o povo brasileiro e com os companheiros e companheiras aqui da C\u00e2mara dos Deputados.\r\nPrimeiro, Sr. Presidente, quero dizer que acabo de fazer uma viagem por 21 Munic\u00edpios do meu Estado. Durante 7 dias sobrevoei  a Amaz\u00f4nia, toda a calha do Rio Negro, Japur\u00e1, Juru\u00e1, M\u00e9dio e Alto Solim\u00f5es.\r\nLamentavelmente, tudo o que n\u00f3s trabalhamos nesta Casa termina n\u00e3o tendo o desdobramento na qualidade do servi\u00e7o de Internet e de telefonia, principalmente na Amaz\u00f4nia. Quem mora no interior do Estado do Amazonas sabe o sofrimento que \u00e9 n\u00e3o ter telefone celular, tampouco Internet.\r\nCansado, Sr. Presidente, de fazer v\u00e1rios requerimentos de audi\u00eancia p\u00fablica, protocolei na Casa requerimento solicitando a instala\u00e7\u00e3o de uma Comiss\u00e3o Externa, onde pretendo ouvir e ver, in loco, o Presidente da ANATEL, Dr. Leonardo, um representante do Minist\u00e9rio das Comunica\u00e7\u00f5es, um representante do TCU e tamb\u00e9m um representante da Assembleia Legislativa do Estado do Amazonas, o Deputado Jo\u00e3o Luiz, que \u00e9 o Presidente da Comiss\u00e3o de Defesa do Consumidor. A inten\u00e7\u00e3o \u00e9 vermos, in loco, o absurdo que \u00e9 a qualidade do servi\u00e7o e vermos se eles se convencem de que isso \u00e9 verdade, j\u00e1 que o aplicativo da ANATEL n\u00e3o pode medir qualidade. Isso porque n\u00f3s n\u00e3o temos acesso \u00e0 Internet, tampouco \u00e0 telefonia, para podermos fazer apontamento ou indicativo de qualidade.\r\nO segundo tema, Sr. Presidente, \u00e9 o recadastramento dos pescadores.\r\nQuero agradecer a S.Exa., o Presidente da Rep\u00fablica Jair Bolsonaro, \u00e0 Ministra Tereza Cristina e ao Secret\u00e1rio Jorge Seif, por cumprirem com o indicativo de come\u00e7ar o recadastramento dos pescadores, que vai come\u00e7ar por Pernambuco. E a pretens\u00e3o \u00e9 que, at\u00e9 setembro ou outubro, ele recomece em todo o Brasil. Esse \u00e9 o desejo e o anseio de toda a comunidade de pescadoras e de pescadores artesanais, que querem clareza sobre quantos somos e tamb\u00e9m, Sr. Presidente, sobre quanto seremos ap\u00f3s esse recadastramento.\r\nSr. Presidente, ainda falando de pescadores, quero agradecer ao Presidente da Rep\u00fablica o deferimento - este foi inclusive trabalho da bancada do Amazonas, no qual eu me incluo - de criar ag\u00eancias da Caixa Econ\u00f4mica Federal em Barreirinha, em Benjamin Constant, em Boca do Acre, em Eirunep\u00e9, em Ipixuna, em Nova Olinda do Norte, em Novo Aripuan\u00e3 e em S\u00e3o Gabriel da Cachoeira.\r\nOntem, estive com o Presidente da Rep\u00fablica e com o Presidente da Caixa Econ\u00f4mica Federal, Pedro Guimar\u00e3es, e se ampliou a cria\u00e7\u00e3o de ag\u00eancias para Barcelos, Carauari, Careiro da V\u00e1rzea, Codaj\u00e1s, Manaquiri e Santo Ant\u00f4nio do I\u00e7\u00e1. Essa \u00e9 uma conquista muito importante para a nossa regi\u00e3o, Sr. Presidente, j\u00e1 que a maior reclama\u00e7\u00e3o daquela regi\u00e3o \u00e9 o vazio institucional. N\u00e3o se coloca Caixa Econ\u00f4mica nem Banco do Brasil onde supostamente n\u00e3o d\u00e1 lucro. Agora, o Presidente quebra esse tabu e estende o alcance da Caixa Econ\u00f4mica ao Nordeste e ao Norte, a Munic\u00edpios que realmente precisam.\r\nPor isso, Sr. Presidente, n\u00e3o h\u00e1 o indicativo do nosso Ministro Paulo Guedes de cortar incentivo, principalmente, da Zona Franca de Manaus.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T12:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PDL 292/2021, PROJETO DE DECRETO LEGISLATIVO, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Decreto Legislativo n\u00ba 292, de 2021, para susta\u00e7\u00e3o dos efeitos do art. 38 da Portaria GM/SM n\u00ba 1.263, de 2021, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, nesta semana, tivemos uma reuni\u00e3o do Conselho Pol\u00edtico da Confedera\u00e7\u00e3o Nacional de Munic\u00edpios. Um dos temas foi a pauta municipalista do Congresso Nacional.\r\nDeixei claro que a transversalidade e o di\u00e1logo entre o Poder Executivo e a Confedera\u00e7\u00e3o, Sr. Presidente, s\u00e3o necess\u00e1rios para evitar situa\u00e7\u00f5es como essas que desestruturam os Munic\u00edpios, desorganizam suas finan\u00e7as e tamb\u00e9m o seu planejamento.\r\nQue o Governo Federal, por favor, n\u00e3o tenha mais atitudes como essas que atrapalham a programa\u00e7\u00e3o e o planejamento dos Munic\u00edpios do Brasil, Sr. Presidente.\r\nPortanto, votamos \"sim\" \u00e0 devolu\u00e7\u00e3o ao teto anterior \u00e0 COVID.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-08T13:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PL 2112/2021, PROJETO DE LEI ORDINARIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei n\u00ba 2.112, de 2021,sobre a altera\u00e7\u00e3o da Lei n\u00ba 14.124, de 2021, com vista \u00e0 inclus\u00e3o, em grupo priorit\u00e1rio de vacina\u00e7\u00e3o da Covid-19, de gestantes, pu\u00e9rperas e lactantes, bem como de crian\u00e7as e adolescentes com defici\u00eancia permanente, comorbidades ou privados de liberdade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos encaminha \"sim\", a favor da vida e da prote\u00e7\u00e3o das gestantes, pu\u00e9rperas e lactantes.\r\nA bancada feminina est\u00e1 de parab\u00e9ns pela mobiliza\u00e7\u00e3o. Parabenizo a Relatora pelo seu excepcional trabalho, articula\u00e7\u00e3o e mobiliza\u00e7\u00e3o. \r\nO Republicanos, por ter certeza absoluta de que, votando \"sim\", vota em defesa da vida, encaminha a favor, Sr. Presidente, do SUS e das mulheres gestantes do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SILAS C\u00c2MARA, DEPUTADO FEDERAL, ATUA\u00c7\u00c3O PARLAMENTAR, MUNIC\u00cdPIO, AMAZONAS, RECESSO PARLAMENTAR, PARALISA\u00c7\u00c3O, OBRA P\u00daBLICA, EDUCA\u00c7\u00c3O P\u00daBLICA, SA\u00daDE P\u00daBLICA, GOVERNO FEDERAL, RECURSOS OR\u00c7AMENT\u00c1RIOS, EMENDA IMPOSITIVA, ENCHENTE, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Visita do orador a Munic\u00edpios no Estado do Amazonas. Apelo ao Governo Federal por libera\u00e7\u00e3o de recursos de emendas or\u00e7ament\u00e1rias impositivas, destinadas \u00e0 retomada de obras p\u00fablicas nas \u00e1reas de sa\u00fade, educa\u00e7\u00e3o e infraestrutura em pequenas municipalidades amazonenses.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, inicialmente quero agradecer a Deus a oportunidade de estarmos de volta, depois de um longo trabalho feito nesses poucos dias de recesso. Mais de 40 Munic\u00edpios foram visitados no Estado do Amazonas, e pude conversar com a popula\u00e7\u00e3o. \r\nVer V.Exa. sentado nessa cadeira orgulha muito a mim, como algu\u00e9m que milita a mesma f\u00e9 e que acredita no Brasil da forma como V.Exa. acredita.\r\nEu ouvi da popula\u00e7\u00e3o, Sr. Presidente, o que \u00e9 impressionante - e aqui fica um apelo ao Governo Federal -, que todas as obras do Governo Federal no interior do Estado do Amazonas est\u00e3o paralisadas, tanto na \u00e1rea da sa\u00fade como na \u00e1rea da educa\u00e7\u00e3o. E n\u00f3s estamos vivendo um tempo de receitas bastante robustas e abundantes, em termos de recolhimento de impostos. Os cofres p\u00fablicos n\u00e3o t\u00eam defici\u00eancia de recurso. O meu apelo \u00e9 que o Governo Federal libere os recursos das emendas impositivas que v\u00e3o para os pequenos Munic\u00edpios e que os investimentos na \u00e1rea da sa\u00fade e da educa\u00e7\u00e3o possam ser retomados, porque geram emprego e renda. E, quando prontos, geram dignidade para a popula\u00e7\u00e3o, principalmente a do meu Estado, que acaba de passar pela maior enchente de toda a hist\u00f3ria do Amazonas e pela pandemia da COVID-19, cujos n\u00fameros s\u00e3o visivelmente desiguais em rela\u00e7\u00e3o a outros de qualquer parte do Brasil. Portanto, repassar os recursos das emendas e retomar as obras \u00e9, com certeza, uma iniciativa justa e boa, que trar\u00e1 prosperidade, postos de trabalho e bem-estar social para todo o povo do Amazonas. \u00c9 o que eu pe\u00e7o.\r\nPe\u00e7o a V.Exa., Sr. Presidente, que este pronunciamento seja divulgado nos \u00f3rg\u00e3os de imprensa da Casa e no programa A Voz do Brasil. \r\nE pe\u00e7o ao Governo Federal que fique atento ao clamor do Amazonas por retomada das obras federais, seja na \u00e1rea da educa\u00e7\u00e3o, da sa\u00fade, da infraestrutura, seja em qualquer outra \u00e1rea.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-03T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 2633/2020, PROJETO DE LEI ORDIN\u00c1RIA, REPUBLICANOS (PARTIDO POL\u00cdTICO), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por uma sess\u00e3o, da discuss\u00e3o do Projeto de Lei n\u00ba 2.633, de 2020, a respeito da regulariza\u00e7\u00e3o fundi\u00e1ria.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Republicanos orienta o voto \"n\u00e3o\". Aproveito ainda a oportunidade para parabenizar o Relator pelo trabalho paciente, robusto e consistente na produ\u00e7\u00e3o do relat\u00f3rio.\r\nEsse projeto de lei atende a necessidade de muitos, como disse ainda h\u00e1 pouco o companheiro que me antecedeu, propriet\u00e1rios leg\u00edtimos das terras que supostamente pela esquerda est\u00e3o sendo tituladas como terras p\u00fablicas. Na verdade, Sr. Presidente, esse projeto d\u00e1 um norte ao monitoramento para que, por exemplo, a preserva\u00e7\u00e3o ambiental seja realmente eficiente, atrav\u00e9s do mapeamento de quem se torna de fato propriet\u00e1rio.\r\nEu me sinto inclusive contemplado com o cotejamento no relat\u00f3rio do Projeto de Lei n\u00ba 4.348, de minha autoria, que trata do mesmo assunto.\r\nPortanto, o Republicanos encaminha o voto \"n\u00e3o\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-10T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "CONFEDERA\u00c7\u00c3O NACIONAL DE MUNIC\u00cdPIOS (CNM), AGENDA LEGISLATIVA, PAUTA (PROCESSO LEGISLATIVO), REUNI\u00c3O, PEC 15/2021, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, ATO DAS DISPOSI\u00c7\u00d5ES CONSTITUCIONAIS TRANSIT\u00d3RIAS (ADCT), PARCELAMENTO, D\u00c9BITO PREVIDENCI\u00c1RIO, PANDEMIA, CORONAV\u00cdRUS, DEFESA, APROVA\u00c7\u00c3O.\r\nREQUERIMENTO (PROPOSI\u00c7\u00c3O LEGISLATIVA), COMISS\u00c3O EXTERNA, INTERNET, TELEFONIA M\u00d3VEL, AMAZONAS, AG\u00caNCIA NACIONAL DE TELECOMUNICA\u00c7\u00d5ES (ANATEL), MINIST\u00c9RIO DAS COMUNICA\u00c7\u00d5ES.",
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": "Realiza\u00e7\u00e3o, pela Confedera\u00e7\u00e3o Nacional dos Munic\u00edpios, de reuni\u00e3o para debate de pautas legislativas, especialmente da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 15, de 2021, a respeito do parcelamento, em 240 meses, de d\u00e9bitos previdenci\u00e1rios das municipalidades brasileiras. Aprova\u00e7\u00e3o pela Casa de requerimento de cria\u00e7\u00e3o de Comiss\u00e3o Externa, para verifica\u00e7\u00e3o in loco da qualidade dos servi\u00e7os de Internet e telefonia celular no Estado do Amazonas.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, quero registrar que hoje a Confedera\u00e7\u00e3o Nacional dos Munic\u00edpios far\u00e1 mais uma reuni\u00e3o com a agenda municipalista, com o Conselho de Assuntos Municipalistas da Confedera\u00e7\u00e3o, e o tema, Sr. Presidente, s\u00e3o as pautas legislativas que tratam de assuntos de interesse dos Munic\u00edpios brasileiros. Entre elas, Sr. Presidente, eu destaco aqui a PEC do nosso querido Silvio Costa, Deputado Federal do nosso partido, que fala sobre o reparcelamento de d\u00edvidas com o INSS. \u00c9 uma mat\u00e9ria absolutamente importante e estrat\u00e9gica para os Munic\u00edpios do Brasil. \r\nPortanto, esse \u00e9 um tema que a Casa precisa dar a urg\u00eancia necess\u00e1ria, para trazer uma resposta aos nossos Munic\u00edpios, que precisam de uma solu\u00e7\u00e3o no que diz respeito a essa mat\u00e9ria.\r\nTamb\u00e9m, Sr. Presidente, registro aqui a aprova\u00e7\u00e3o de um requerimento de minha autoria para a instala\u00e7\u00e3o de uma comiss\u00e3o externa que tratar\u00e1 sobre Internet e telefonia celular no Estado do Amazonas, com a presen\u00e7a do Presidente da ANATEL, do Secret\u00e1rio de Telecomunica\u00e7\u00f5es do Minist\u00e9rio das Comunica\u00e7\u00f5es e tamb\u00e9m do Tribunal de Contas da Uni\u00e3o. Ser\u00e1 uma visita que, com certeza, trar\u00e1 ao Estado do Amazonas uma resposta que muitos querem, que \u00e9 a qualidade da Internet e da telefonia.\r\nPe\u00e7o a V.Exa. que a minha fala seja registrada pelos \u00f3rg\u00e3os de imprensa desta Casa e no programa A Voz do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-08-17T15:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": null,
+        "nomeDeputado": "Silas C\u00e2mara",
+        "sumario": null,
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. SILAS C\u00c2MARA (REPUBLICANOS - AM. Sem revis\u00e3o do orador.) - Sr. Presidente, querido amigo, meu irm\u00e3o pastor, Deputado Gilberto Nascimento, Deus aben\u00e7oe V.Exa. \u00c9 bom e \u00e9 uma honra ver V.Exa. presidindo esta Casa.\r\nUso a palavra, Sr. Presidente, para fazer um registro importante. Ser\u00e1 publicado, nos pr\u00f3ximos dias, Sr. Presidente...(Pausa.)\r\nO SR. PRESIDENTE (Gilberto Nascimento. Bloco/PSC - SP) - Deputado Silas C\u00e2mara, n\u00f3s tivemos um problema no som. Vou pedir que restabele\u00e7am o som de V.Exa.(Pausa.)\r\nPe\u00e7o s\u00f3 1 minuto a V.Exa., Deputado Silas C\u00e2mara. Tivemos um pequeno problema t\u00e9cnico, mas resolveremos j\u00e1, j\u00e1. A competente equipe t\u00e9cnica desta Casa vai resolver o problema j\u00e1.(Pausa.)\r\nVamos restabelecer o tempo de V.Exa.\r\nO SR. SILAS C\u00c2MARA (REPUBLICANOS - AM) - Sr. Presidente, fa\u00e7o o registro nesta tarde da import\u00e2ncia estrat\u00e9gica que tem para a Na\u00e7\u00e3o brasileira a publica\u00e7\u00e3o, nos pr\u00f3ximos dias, da licita\u00e7\u00e3o do modelo tecnol\u00f3gico 5G para a telefonia celular e tamb\u00e9m para a Internet no Pa\u00eds.\r\nDigo isso, Sr. Presidente, n\u00e3o apenas pela capacidade t\u00e9cnica e pela import\u00e2ncia que tem o pr\u00f3prio 5G para todos os grandes centros do Brasil, mas tamb\u00e9m, principalmente, pela possibilidade de ser instalada no Pa\u00eds, a partir dessa tecnologia, por exemplo, a medicina a dist\u00e2ncia. O meu Estado do Amazonas tem uma necessidade muito grande de m\u00e9dicos especialistas, e essa tecnologia vai suprir essa necessidade.\r\nO segundo ponto importante, Sr. Presidente, \u00e9 que nesta licita\u00e7\u00e3o estar\u00e3o contidas mais de 3 mil comunidades e distritos do Brasil que agora ser\u00e3o alcan\u00e7ados pela telefonia celular e pela Internet. Acabamos de sair da ANATEL com o Prefeito Clovis, do Munic\u00edpio de S\u00e3o Gabriel da Cachoeira, com not\u00edcias boas. Iauaret\u00ea, Cucu\u00ed, Santa F\u00e9, S\u00e3o Felipe, enfim, v\u00e1rios distritos de S\u00e3o Gabriel da Cachoeira estar\u00e3o inclu\u00eddos nessa consulta p\u00fablica, nessa licita\u00e7\u00e3o, e alcan\u00e7ar\u00e3o a obrigatoriedade de as empresas l\u00e1 instalarem a telefonia celular.\r\nAl\u00e9m disso, Sr. Presidente, \u00e9 sabido por todos n\u00f3s que, principalmente no Amazonas, eu tenho registrado isso persistentemente e insistentemente, a qualidade dos servi\u00e7os de telefonia celular e de Internet \u00e9 de uma incompet\u00eancia e de uma falta de compromisso horrorosas por parte das empresas que operam naquela regi\u00e3o. Para suprir esse descaso e essa necessidade, \u00e9 importante que a licita\u00e7\u00e3o alcance os 40% da popula\u00e7\u00e3o alcan\u00e7ados pelos operadores de pequena dimens\u00e3o, os operadores que est\u00e3o nos Munic\u00edpios mais distantes. \u00c9 importante que a popula\u00e7\u00e3o tenha um servi\u00e7o de qualidade, para que n\u00e3o fique completamente isolada.\r\nPortanto, Sr. Presidente, por uma telefonia celular de qualidade, por uma Internet de qualidade, mas, principalmente, universalizada, que chegue aos mais distantes distritos e comunidades do nosso Amazonas, n\u00f3s dizemos que este momento do 5G \u00e9 muito bem-vindo ao Pa\u00eds. Eu pe\u00e7o a V.Exa. que divulgue nos \u00f3rg\u00e3os de imprensa da Casa e no programa A Voz do Brasil essa minha fala.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F8%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

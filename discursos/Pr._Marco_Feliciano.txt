@@ -1,0 +1,416 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-13T14:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), INVESTIGA\u00c7\u00c3O, UNI\u00c3O NACIONAL DOS ESTUDANTES (UNE), APOIO.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Pedido aos Parlamentares de assinatura do requerimento de cria\u00e7\u00e3o da CPI destinada \u00e0 investiga\u00e7\u00e3o da UNE - Uni\u00e3o Nacional dos Estudantes.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. PR. MARCO FELICIANO (Bloco/PODE - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, eu venho a este microfone neste momento para pedir apoio a todos os Deputados, principalmente aos novos, que acabaram de chegar a esta Casa. Pe\u00e7o que me ajudem na colheita das assinaturas para a CPI da UNE. Na \u00faltima Legislatura, por tr\u00eas vezes consegui colher as assinaturas. Os Deputados que est\u00e3o aqui sabem a dificuldade que \u00e9 para conseguirmos 171 assinaturas. Por tr\u00eas vezes eu consegui, e por tr\u00eas vezes a CPI foi rejeitada na C\u00e2mara. Na \u00faltima vez, quando foi aceita, poderes escusos, daqueles que n\u00e3o conseguimos nominar, arrancaram a CPI da UNE das nossas m\u00e3os.\r\nPortanto, eu gostaria de pedir aos Deputados que aqui est\u00e3o, principalmente o pessoal do PSL e o pessoal do MBL, que me ajudem a colher as assinaturas, para que a UNE d\u00ea uma resposta ao Brasil. A UNE, que j\u00e1 foi t\u00e3o importante para a nossa Na\u00e7\u00e3o, acabou sendo aparelhada por partidos de esquerda, ferindo, assim, a sua ata primordial, ata que eu consegui por via judicial, porque \u00e9 dif\u00edcil ter contato com o pessoal da UNE.\r\nEnt\u00e3o, pe\u00e7o aos Deputados que me ajudem na colheita dessas assinaturas para colocarmos a CPI da UNE para funcionar neste mandato.\r\nMuito obrigado, Deputada.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2019&txPagina=150&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-27T12:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "OBRA LITER\u00c1RIA, MONTEIRO LOBATO, ESCRITOR, CONGRATULA\u00c7\u00c3O, ELOGIO, PARTIDO POL\u00cdTICO, ESQUERDA POL\u00cdTICA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Reconhecimento, pela Esquerda, da obra liter\u00e1ria do escritor Monteiro Lobato.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (Bloco/PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - Eu esperei quase 8 anos para poder falar o que vou falar neste microfone, porque finalmente justi\u00e7a foi feita. Em 2010, a Secretaria de Promo\u00e7\u00e3o de Igualdade Racial do Governo do at\u00e9 ent\u00e3o Presidente Lula, atrav\u00e9s dos Ministros Edson Santos e Eloi Ferreira, respectivamente do PT e do PCdoB, tentaram criminalizar Monteiro Lobato, tentaram cham\u00e1-lo de racista. E isso foi mat\u00e9ria no mundo todo. De repente, eu assisto aqui, na C\u00e2mara dos Deputados, aos Deputados do PT e do PCdoB aplaudirem Monteiro Lobato.\r\nPortanto, foi feita a justi\u00e7a. Parab\u00e9ns! Monteiro Lobato \u00e9, sem d\u00favida, o maior escritor brasileiro. E n\u00e3o \u00e9 racista. \u00c9 simplesmente um brasileiro que viveu no seu tempo, no seu ato hist\u00f3rico. Por isso, mais uma vez parabenizo todos, inclusive a Esquerda, que reconheceu hoje a obra liter\u00e1ria de Monteiro Lobato, dizendo que ele n\u00e3o era racista.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F2%2F2019&txPagina=57&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-13T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "ESCOLA ESTADUAL, SUZANO (SP), ATENTADO, TERRORISMO, DEPUTADO FEDERAL, COMPORTAMENTO, IDEOLOGIA POL\u00cdTICA, CR\u00cdTICA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Apelo aos Deputados oposicionistas por n\u00e3o politiza\u00e7\u00e3o da trag\u00e9dia ocorrida em escola do Munic\u00edpio de Suzano, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. PR. MARCO FELICIANO (Bloco/PODE - SP. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, eu quero aqui fazer, com muita humildade, um apelo a toda a Oposi\u00e7\u00e3o para que neste momento respeite a dor dos paulistas, a dor que estamos sentindo pelo assassinato dos meninos em Suzano. Agora n\u00e3o \u00e9 hora de politizar, de transformar o vel\u00f3rio ou o caix\u00e3o deles em palanque, como sempre se faz. Agora \u00e9 hora de sentirmos a dor, de nos condoermos; \u00e9 hora de sentirmos compaix\u00e3o por eles. Deixemos a disputa pol\u00edtica sobre a quest\u00e3o das armas para mais tarde. Neste momento, deixemos as fam\u00edlias chorarem a dor de seus filhos. Falo isso porque uma Deputada da Oposi\u00e7\u00e3o j\u00e1 jogou isso na conta do Presidente Bolsonaro. Jogaram isso na conta do Juiz Sergio Moro. Isso \u00e9 desumano. N\u00e3o \u00e9 hora disso.\r\nQuero aqui s\u00f3 fazer esse apelo, e fa\u00e7o isso humildemente. Pe\u00e7o que neste momento se respeite o que est\u00e1 acontecendo em Suzano, quando estamos chorando por nossos filhos. O Brasil est\u00e1 de luto.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F3%2F2019&txPagina=54&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-19T19:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "CLODOVIL HERNANDES, EX-DEPUTADO FEDERAL, HOMENAGEM P\u00d3STUMA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Homenagem \u00e0 mem\u00f3ria do Deputado Federal Clodovil Hernandes, ao ensejo do transcurso dos 10 anos do seu falecimento.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO PR. MARCO FELICIANO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, presto minha homenagem \u00e0 mem\u00f3ria do ex-Deputado Federal Clodovil Hernandes, cujo falecimento completar\u00e1 10 anos no pr\u00f3ximo dia 17.\r\nApesar de ter cumprido apenas 2 anos de seu mandato parlamentar, interrompido abruptamente por sua morte, S.Exa. foi uma das figuras mais marcantes na hist\u00f3ria deste Parlamento.\r\nClodovil correspondeu ao primeiro homossexual assumido que ingressou no Congresso Nacional. S.Exa. foi exemplo de resili\u00eancia e supera\u00e7\u00e3o, em face dos desafios impostos pela vida. \u00d3rf\u00e3o de pais e discriminado por sua orienta\u00e7\u00e3o sexual, S.Exa. alcan\u00e7ou \u00eaxito na vida p\u00fablica como estilista, apresentador de televis\u00e3o e pol\u00edtico brasileiro. \r\nNa vida pol\u00edtica, Clodovil foi eleito Deputado Federal na 53\u00aa Legislatura. Em 2006, S.Exa. teve vota\u00e7\u00e3o consagradora para a C\u00e2mara dos Deputados, ao receber quase 494 mil votos, tendo sido o terceiro mais votado no Estado de S\u00e3o Paulo. Desse modo, na primeira campanha eleitoral, Clodovil conseguiu 2,43% dos votos v\u00e1lidos no maior col\u00e9gio eleitoral do Pa\u00eds.\r\nNo exerc\u00edcio de seu mandato parlamentar nesta Casa Legislativa, Clodovil sobressaiu-se por suas caracter\u00edsticas mais marcantes: a sinceridade, a lealdade a seus valores, a coragem de dizer o que pensava. S.Exa. n\u00e3o tolerava a hipocrisia. Por isso causava, com sua maneira ir\u00f4nica e ferina, tumulto muitas vezes.\r\nA franqueza de Clodovil transpareceu em seu compromisso com os verdadeiros valores. S.Exa. tinha a cren\u00e7a na fam\u00edlia tradicional como modelo de organiza\u00e7\u00e3o social. Al\u00e9m disso, defendia puni\u00e7\u00e3o severa para quem cometia crime ou desrespeitava a propriedade alheia. \r\nSuas virtudes transpareceram at\u00e9 seu \u00faltimo ato de vontade, ao transmitir tudo o que tinha para pessoas que trabalham com a caridade. S\u00e3o essas atitudes que atestam o amor de S.Exa. por Deus e por seus semelhantes.\r\nEra o que tinha a dizer.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F3%2F2019&txPagina=204&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-16T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "IMPEACHMENT, HAMILTON MOUR\u00c3O, VICE-PRESIDENTE DA REP\u00daBLICA, DEFESA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Apresenta\u00e7\u00e3o pelo orador de pedido de impeachment  do Vice-Presidente da Rep\u00fablica, general Hamilton Mour\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu venho a este microfone agora para um ato hist\u00f3rico na C\u00e2mara dos Deputados. Pela primeira vez, na C\u00e2mara dos Deputados, um Deputado protocola um pedido de impeachment do Vice-Presidente da Rep\u00fablica.\r\nAs pessoas que est\u00e3o nos acompanhando podem perguntar: \"Mas como? Isso nunca aconteceu antes\". N\u00e3o aconteceu porque nunca antes, nos primeiros 100 dias de governo de um Presidente, o Vice-Presidente agiu de maneira t\u00e3o indecorosa e indelicada, desdizendo tudo o que o Presidente da Rep\u00fablica diz.\r\nQuem acompanha a imprensa sabe que nesta semana o Vice-Presidente Hamilton Mour\u00e3o curtiu uma fala estranha de uma jornalista que vive para alfinetar o nosso Presidente e que disse que, quando Bolsonaro sai do Pa\u00eds, o Brasil de fato \u00e9 governado.\r\nA\u00ed foi o nosso Vice-Presidente e curtiu esse tipo de fala!\r\nO Vice-Presidente esteve nos Estados Unidos nesta semana. Depois de falar em Harvard, ele foi a Washington. L\u00e1, ele aceitou o convite de uma institui\u00e7\u00e3o.\r\nSr. Presidente, eu pe\u00e7o que V.Exa. me permita falar por mais 1 minuto para concluir.\r\nO SR. PRESIDENTE (Assis Carvalho. PT - PI) - Conclua, nobre Deputado.\r\nO SR. PR. MARCO FELICIANO (PODE - SP) - Ele esteve em Washington em uma institui\u00e7\u00e3o, e o convite postado nas m\u00eddias dizia que o pa\u00eds chamado Brasil est\u00e1 desgovernado e que a \u00fanica pessoa que pode unir o Brasil \u00e9 Mour\u00e3o, a quem eu me recuso chamar de general, porque ele n\u00e3o \u00e9 general no nosso Governo. No nosso Governo, ele \u00e9 o Vice-Presidente, \u00e9 um civil. Talvez, por ter alcan\u00e7ado o posto de general, o Vice-Presidente ache que pode mandar no capit\u00e3o que \u00e9 Presidente. O nosso Presidente, na hierarquia militar, tem a patente de capit\u00e3o, mas hoje ele \u00e9 Presidente da Rep\u00fablica.\r\nAlgu\u00e9m pode at\u00e9 dizer: \"Mas isso n\u00e3o enfraquece o Governo, Deputado Pr. Marco Feliciano?\" Pelo contr\u00e1rio, o Governo est\u00e1 caracterizado na pessoa do Presidente da Rep\u00fablica, e ele est\u00e1 empossado para isso.\r\nEnt\u00e3o, eu apresentei hoje esse pedido de impeachment que acabo de registrar e pe\u00e7o que isso seja divulgado em todas as m\u00eddias desta Casa e no programa A Voz do Brasil.\r\nN\u00f3s n\u00e3o queremos dividir o Pa\u00eds. Que isso seja apenas um recado. N\u00e3o \u00e9 um tiro para matar, \u00e9 um tiro para o alto, \u00e9 um tiro de alerta: \"Algu\u00e9m o est\u00e1 observando, Sr. Hamilton Mour\u00e3o!\"\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F4%2F2019&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T10:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, CRIA\u00c7\u00c3O, ESTADO (NA\u00c7\u00c3O), ISRAEL, ANIVERS\u00c1RIO, HOMENAGEM.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Comemora\u00e7\u00e3o do 71\u00ba anivers\u00e1rio de cria\u00e7\u00e3o do Estado de Israel. Posicionamento do Presidente Jair Bolsonaro favor\u00e1vel ao reconhecimento de Jerusal\u00e9m como a Capital de Israel.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, comunidade judaica aqui presente, amigos de Israel, aqueles que temem ao Deus de Israel, bom dia a todos! Shalom!\r\nEu pedi \u00e0 minha assessoria, atrav\u00e9s do partido Podemos, que fizesse um pequeno discurso, e o discurso est\u00e1 feito, Deputado Roberto de Lucena. Todavia, eu vou espelhar-me em nosso Embaixador e falar com o cora\u00e7\u00e3o aberto.\r\nAli\u00e1s, inicio a minha fala, Sr. Embaixador Yossi, dizendo que sinto certo ci\u00fames e inveja de V.Exa., porque nas suas veias corre o sangue de profetas, o sangue de l\u00edderes, o sangue de homens e mulheres que modificaram a hist\u00f3ria do mundo, como n\u00f3s conhecemos hoje.\r\nEu estava fazendo um estudo h\u00e1 poucos dias e descobri que, at\u00e9 o ano de 2011, 850 pessoas do mundo foram contempladas com o Pr\u00eamio Nobel da Paz. Dessas 850 pessoas - pasmem, senhoras e senhores! -, 180 eram judeus, 180 eram filhos de Abra\u00e3o, homens e mulheres que modificaram a hist\u00f3ria do mundo moderno, como n\u00f3s conhecemos hoje.\r\nE s\u00f3 n\u00e3o sinto mais inveja de V.Exa. porque nas minhas veias tamb\u00e9m corre o sangue de um outro judeu, chamado Jesus de Nazar\u00e9, a quem eu dou toda a honra e toda a gl\u00f3ria aqui nesta manh\u00e3.(Palmas.)\r\nEu digo a toda a comunidade judaica e a todo o Parlamento que o nosso Presidente da Rep\u00fablica, Jair Bolsonaro, j\u00e1 se manifestou favoravelmente ao reconhecimento de Jerusal\u00e9m como Capital de Israel. E o Chanceler Ernesto Ara\u00fajo, por sua vez, foi o \u00fanico Ministro de Rela\u00e7\u00f5es Exteriores de toda a Am\u00e9rica Latina que participou da confer\u00eancia sobre a paz e a seguran\u00e7a do Oriente M\u00e9dio, realizada em fevereiro, em Vars\u00f3via, Capital da Pol\u00f4nia. A atua\u00e7\u00e3o dessas autoridades demonstra inequivocamente que o atual Governo est\u00e1 comprometido com as reivindica\u00e7\u00f5es da comunidade judaica.\r\nPor fim, a homenagem \u00e0 cria\u00e7\u00e3o do Estado de Israel \u00e9, sobretudo, o reconhecimento da relev\u00e2ncia de Israel para o Brasil. Israel \u00e9 a Terra Santa, de onde a palavra de Deus ecoou para o restante do mundo. E essa palavra de Deus, senhoras e senhores, modificou o cora\u00e7\u00e3o deste menino que ora est\u00e1 falando, um menino de 46 anos que, quando tinha 12 anos de idade, conheceu a B\u00edblia. Ao conhecer a B\u00edblia, eu conheci o povo da B\u00edblia. Ao conhecer o povo da B\u00edblia, no Velho Testamento, Deputado Gilberto Nascimento, eu me apaixonei por eles.\r\nO que seria da nossa cultura de f\u00e9 neste mundo, se n\u00f3s n\u00e3o conhec\u00eassemos a hist\u00f3ria da queda de Jeric\u00f3? O que seria do nosso conhecimento como crist\u00e3os, Pastor Ab\u00edlio Santana, se n\u00f3s n\u00e3o conhec\u00eassemos a hist\u00f3ria de Davi e Golias? Ou seja, a cultura judaica est\u00e1 impregnada na nossa alma.\r\nEu fico extremamente feliz em saber que Israel tem se aproximado do Brasil, e o Brasil se aproximado de Israel. Fico sinceramente estupefato dentro deste Parlamento quando encontro Parlamentares brasileiros que tripudiam em cima da na\u00e7\u00e3o judaica. S\u00f3 pode haver um motivo: ci\u00fames e inveja, inveja de uma na\u00e7\u00e3o que, com 71 anos de idade, simplesmente mostrou ao mundo o que \u00e9 ser na\u00e7\u00e3o, uma na\u00e7\u00e3o que deu ao mundo mais de 200 inventos. Repito, foram mais de 200 inventos! Anotei alguns, porque muitas pessoas n\u00e3o sabem que foram dos judeus: aspirina, jeans da Levi's, sab\u00e3o, cotonetes, aparelho de barbear, cinema com som, disco de vinil, tev\u00ea a cores, penicilina, controle remoto, p\u00edlula anticoncepcional, Internet, video game, Waze, cirurgia de catarata, cateterismo card\u00edaco, computador pessoal ou PC, vacina contra a hepatite B, cirurgia a laser para olhos, c\u00e2meras de telefone, pendrive, Google, tratamento para esclerose m\u00faltipla, que j\u00e1 foi aqui citado, c\u00e2mera de v\u00eddeo dentro de uma c\u00e1psula, Facebook, drones, e at\u00e9 mesmo aquele tomatinho cereja que n\u00f3s comemos quase todos os dias no Parlamento. Ou seja, Israel vive, e vivem tamb\u00e9m aqueles que amam Israel.(Palmas.)\r\nDeixo aqui os meus parab\u00e9ns \u00e0 comunidade judaica!\r\nDigo aos senhores, de cora\u00e7\u00e3o aberto, que espero que o nosso Presidente da Rep\u00fablica cumpra o mais r\u00e1pido poss\u00edvel a sua promessa de campanha de transferir a Embaixada para onde Israel quer. Israel \u00e9 uma na\u00e7\u00e3o soberana e, como na\u00e7\u00e3o soberana, deve ser respeitada. Que o mundo todo reconhe\u00e7a que Israel vive!\r\nEu termino dizendo uma palavra que aprendi h\u00e1 poucos dias: Am Israel chai! Israel vive!\r\nMuito obrigado a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=22&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-21T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA,  REQUERIMENTO DE VOTA\u00c7\u00c3O NOMINAL, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 863/2018, MEDIDA PROVIS\u00d3RIA, PODEMOS (PODE) (2016), VOTO CONTR\u00c1RIO.\r\nPAULO GUEDES, MINISTRO DE ESTADO DA ECONOMIA, REUNI\u00c3O,  DECLARA\u00c7\u00c3O, INVESTIDOR ESTRANGEIRO, INVESTIMENTO ESTRANGEIRO.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de vota\u00e7\u00e3o nominal do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 863, de 2018, sobre a abertura do setor a\u00e9reo ao capital estrangeiro. Expectativa de investidores internacionais quanto \u00e0 aprova\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria em reuni\u00e3o com o Ministro da Economia, Paulo Guedes, ocorrida nos Estados Unidos da Am\u00e9rica.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o Podemos encaminha \"n\u00e3o\".\r\nGostaria de fazer um pequeno comunicado. Foi citada aqui a reuni\u00e3o em que o Ministro Paulo Guedes esteve nos Estados Unidos, e eu sou testemunha ocular, estive l\u00e1. Ele falou exatamente as palavras que disse aqui o nosso Deputado, s\u00f3 que se esqueceu aqui de dizer que havia l\u00e1 140 convidados, entre eles, mais de 100 investidores. Eu me sentei em uma mesa onde havia pelo menos 10 deles, donos de fundos de pens\u00e3o milion\u00e1rios, todos querendo investir no nosso Pa\u00eds e esperando apenas a vota\u00e7\u00e3o da reforma da Previd\u00eancia.\r\nSe este Parlamento n\u00e3o fizer o seu trabalho e mantivermos essas obstru\u00e7\u00f5es que \u00e0s vezes chegam \u00e0 beira da irresponsabilidade, embora leg\u00edtimas, n\u00e3o conseguiremos caminhar. E o Pa\u00eds precisa caminhar e respirar.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F5%2F2019&txPagina=149&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE PREFER\u00caNCIA, MPV 867/2018, MEDIDA PROVISORIA, PODEMOS (PODE) (2016), VOTO CONTRARIO.\r\nMISOGINIA, GEOVANIA DE S\u00c1 , DEPUTADO FEDERAL.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque de prefer\u00eancia para a vota\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental. Solidariedade \u00e0 Presidenta em exerc\u00edcio da sess\u00e3o em face de agress\u00e3o verbal sofrida em plen\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - O Podemos encaminha \"n\u00e3o\", Sra. Presidente, e se solidariza com V.Exa. pelo ataque e pela viol\u00eancia que sofreu aqui. V.Exa. \u00e9 sempre muito educada, muito ecl\u00e9tica. O que ocorreu n\u00e3o corresponde ao sentimento que n\u00f3s, como um todo, temos por V.Exa. Ent\u00e3o, n\u00f3s nos solidarizamos com V.Exa.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=113&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T19:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PREVIS\u00c3O, APRECIA\u00c7\u00c3O, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITIUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019).",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Consulta \u00e0 Presid\u00eancia sobre o in\u00edcio da vota\u00e7\u00e3o da proposta de reforma previdenci\u00e1ria.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s j\u00e1 temos qu\u00f3rum na Casa. Eu queria fazer uma pergunta a V.Exa.: dada a import\u00e2ncia do tema e da convoca\u00e7\u00e3o feita, h\u00e1 previs\u00e3o para come\u00e7armos a votar? O Brasil espera ansiosamente a vota\u00e7\u00e3o da reforma da Previd\u00eancia. J\u00e1 temos 278 Deputados na Casa e j\u00e1 poder\u00edamos dar in\u00edcio \u00e0s discuss\u00f5es, para ganharmos tempo.\r\nGostaria de saber de V.Exa. se n\u00f3s temos um prazo ou quando vamos iniciar a vota\u00e7\u00e3o.\r\nMuito obrigado.\r\nO SR. PRESIDENTE (JHC. PSB - AL) - Deputado Pr. Marco Feliciano, o tema que V.Exa. requer a esta Mesa, se j\u00e1 poderia estar apto para vota\u00e7\u00e3o, n\u00e3o est\u00e1 na pauta. N\u00f3s estamos aqui com um item \u00fanico na Ordem do Dia, sobre a antecipa\u00e7\u00e3o do pagamento dos honor\u00e1rios periciais nas a\u00e7\u00f5es em que o Instituto Nacional do Seguro Social figure como parte e que tramitem no \u00e2mbito de responsabilidade da Justi\u00e7a Federal.\r\nPortanto, n\u00e3o est\u00e1 na pauta e n\u00e3o poderia ser parte da Ordem do Dia, apesar de j\u00e1 termos qu\u00f3rum. Tamb\u00e9m n\u00e3o passamos por hora \u00e0 delibera\u00e7\u00e3o, segundo orienta\u00e7\u00e3o da Secretaria-Geral da Mesa.\r\nConcedo a palavra ao Deputado Jos\u00e9 Guimar\u00e3es, para uma Comunica\u00e7\u00e3o de Lideran\u00e7a, pelo PT.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-08T19:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ORDEM DO DIA, IN\u00cdCIO, SOLICITA\u00c7\u00c3O.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Solicita\u00e7\u00e3o \u00e0 Presid\u00eancia de in\u00edcio da Ordem do Dia.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, serei bem r\u00e1pido.\r\nEu fiz um questionamento a V.Exa. h\u00e1 pouco. V.Exa. e o Deputado Jos\u00e9 Guimar\u00e3es, com muita prud\u00eancia, responderam, mas a resposta n\u00e3o foi \u00e0 altura. Eu perguntei a que horas ir\u00edamos iniciar a Ordem do Dia, porque j\u00e1 h\u00e1 uma movimenta\u00e7\u00e3o para que seja votada a quebra de interst\u00edcio, para que possamos votar aquilo pelo que o Brasil de fato espera, a reforma da Previd\u00eancia. V.Exa. me deu uma resposta, o Deputado Jos\u00e9 Guimar\u00e3es me deu outra, como se fosse um Deputado de primeiro mandato. \u00c9 poss\u00edvel votarmos a quebra de interst\u00edcio. J\u00e1 somos 315 Deputados. N\u00f3s n\u00e3o sa\u00edmos de casa para virmos aqui s\u00f3 falar balela. Precisamos trabalhar. Se h\u00e1 um item \u00fanico na pauta, que V.Exa. inicie a sess\u00e3o. Vamos votar o item \u00fanico da pauta.\r\nA SRA. ALICE PORTUGAL (PCdoB - BA) - Ap\u00f3s o Deputado Alessandro Molon, pe\u00e7o a palavra pela Lideran\u00e7a da Minoria.\r\nO SR. DANIEL ALMEIDA (PCdoB - BA) - Sr. Presidente, eu, Deputado Daniel, pedi a palavra pela Lideran\u00e7a do PCdoB e h\u00e1 algum tempo que estou aguardando...\r\nO SR. PRESIDENTE (JHC. PSB - AL) - H\u00e1 uma ordem de inscritos, Deputado Daniel, e n\u00f3s vamos segui-la.\r\nEu pe\u00e7o \u00e0 Secretaria que fa\u00e7a a inscri\u00e7\u00e3o do Deputado Daniel para falar pela Lideran\u00e7a.\r\nDeputado Feliciano, por ora n\u00f3s n\u00e3o temos a orienta\u00e7\u00e3o de iniciar a Ordem do Dia. Conto com a compreens\u00e3o de V.Exa.\r\nO SR. PR. MARCO FELICIANO (PODE - SP) - Qual \u00e9 o problema de se iniciar a Ordem do Dia?\r\nO SR. PRESIDENTE (JHC. PSB - AL) - Gostaria da compreens\u00e3o de V.Exa., que sabe que eu estou aqui presidindo a sess\u00e3o de forma...\r\nO SR. PR. MARCO FELICIANO (PODE - SP) - V.Exa. \u00e9 o Presidente, tem toda a autonomia para dar in\u00edcio \u00e0 vota\u00e7\u00e3o.\r\nO SR. PRESIDENTE (JHC. PSB - AL) - Perfeitamente. N\u00f3s temos n\u00famero, e h\u00e1 item na pauta. J\u00e1 recorri \u00e0 Secretaria, para que ela nos d\u00ea o melhor direcionamento, a fim de fazermos o que for necess\u00e1rio: ou dar in\u00edcio \u00e0 vota\u00e7\u00e3o, ou encerrar a Ordem do Dia, ou continuar com a sess\u00e3o de debates.\r\nGuarda pertin\u00eancia V.Exa. mostrar no painel que j\u00e1 temos n\u00famero suficiente para deliberar. Por ora, n\u00f3s n\u00e3o conseguimos atender a V.Exa., mas j\u00e1 encaminhei seu apelo \u00e0 Secretaria e aguardo uma resposta, que passarei prontamente a V.Exa. e a todos os colegas em plen\u00e1rio.\r\nO SR. PR. MARCO FELICIANO (PODE - SP) - Muito obrigado, Excel\u00eancia.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=9%2F7%2F2019&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-07-10T16:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PEC 6/2019, PROPOSTA DE EMENDA \u00c0 CONSTITUI\u00c7\u00c3O, REFORMA PREVIDENCI\u00c1RIA (2019), PODEMOS (PODE) (2016), VOTO CONTRARIO.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Proposta de Emenda \u00e0 Constitui\u00e7\u00e3o n\u00ba 6, de 2019, sobre a reforma do sistema previdenci\u00e1rio.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - O Podemos, Sr. Presidente, vai encaminhar \"n\u00e3o\" ao requerimento de retirada de pauta, porque o Brasil tem pressa, o Brasil espera. E este Parlamento vai dar uma resposta ao nosso Pa\u00eds. Precisamos votar, urgentemente, a reforma da Previd\u00eancia. Por isso, encaminhamos \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=11%2F7%2F2019&txPagina=212&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-14T22:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL, PL 7596/2017, PROJETO DE LEI ORDIN\u00c1RIA, PODEMOS (PODE) (2016), LIBERA\u00c7\u00c3O.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do art. 4\u00ba do Projeto de Lei n\u00ba 7.596, de 2017, a respeito dos crimes de abuso de autoridade, com vista \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, n\u00f3s liberamos a bancada neste momento, mas queremos deixar registrado que alguns Deputados do nosso partido s\u00e3o contra a vota\u00e7\u00e3o deste projeto, que recebe o nome de abuso de autoridade. Os Deputados L\u00e9o Moraes, Diego Garcia e o L\u00edder do nosso partido, o Deputado Jos\u00e9 Nelto, somos contra.\r\nSr. Presidente, ficamos assustados aqui com a vota\u00e7\u00e3o a\u00e7odada deste projeto. Se na Casa h\u00e1 maioria, por que ele n\u00e3o p\u00f4de ser votado de maneira nominal? Queremos deixar a nossa impress\u00e3o digital e dizer que alguns do nosso partido somos contra este projeto.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F8%2F2019&txPagina=257&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-20T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PL 3369/;2015, PROJETO DE LEI ORDIN\u00c1RIA, CRIA\u00c7\u00c3O, ESTATUTO, FAM\u00cdLIA, RECONHECIMENTO, PRINC\u00cdPIOS, ATUA\u00c7\u00c3O, PODER P\u00daBLICO, DIVERSIDADE, G\u00caNERO, ORIENTA\u00c7\u00c3O SEXUAL, PARENTESCO CONSANGU\u00cdNEO, NACIONALIDADE, CREDO, RA\u00c7A, FILHO, DEBATE.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Contrariedade \u00e0 aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 3.369, de 2015, sobre a institui\u00e7\u00e3o do Estatuto das Fam\u00edlias do S\u00e9culo XXI, em tramita\u00e7\u00e3o na Comiss\u00e3o de Direitos Humanos e Minorias da Casa.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Sem revis\u00e3o do orador.) - Sr. Presidente Deputado Charles, \u00e9 com apreens\u00e3o que eu venho ao microfone aqui neste momento chamar a aten\u00e7\u00e3o de todo o Brasil para um projeto que est\u00e1 pautado para amanh\u00e3 na Comiss\u00e3o de Direitos Humanos, o Projeto de Lei n\u00b0 3.369, de 2015, do Deputado Orlando Silva, por quem eu tenho profundo respeito.\r\nSr. Presidente, permita-me ler aqui um artigo desse projeto: \"S\u00e3o reconhecidas como fam\u00edlias todas as formas de uni\u00e3o entre duas ou mais pessoas que para este fim se constituam e que se baseiem no amor, na socioafetividade, independentemente de consanguinidade (...).\" \r\nEu me pergunto se esse projeto trata sobre poligamia e incesto, porque, se for esse o caso, \u00e9 uma brincadeira de mau gosto com a fam\u00edlia brasileira.\r\nEste projeto est\u00e1 pautado para amanh\u00e3, Deputada Benedita da Silva, na Comiss\u00e3o de Direitos Humanos. Como eu disse, \u00e9 um projeto de um Deputado s\u00e9rio, mas eu acho que ele fez uma brincadeira. Ele fala aqui do Estatuto das Fam\u00edlias do S\u00e9culo XXI, das fam\u00edlias modernas, das fam\u00edlias que tratam assuntos desse tipo de como se fossem normais, talvez porque aprendam ao lado da televis\u00e3o, nas novelas da Rede Globo.\r\nO Relator do projeto \u00e9 o Deputado T\u00falio Gad\u00ealha, que, inclusive, \u00e9 um Deputado por quem tamb\u00e9m tenho profundo respeito aqui na Casa, e o relat\u00f3rio \u00e9 pela aprova\u00e7\u00e3o.\r\nIsso me chamou muito a aten\u00e7\u00e3o, Deputado Ab\u00edlio Santana e Deputados irm\u00e3os que est\u00e3o aqui. Esta Casa n\u00e3o \u00e9 uma Casa de brincadeira. Como \u00e9 que num Pa\u00eds onde 88% das pessoas se declaram crist\u00e3s abertamente, num Pa\u00eds onde o conservadorismo hoje galopa, um Deputado do Partido Comunista do Brasil apresenta um projeto tentando legalizar aqui a poligamia e o incesto? Isso \u00e9 debochar da cara do povo brasileiro, \u00e9 debochar de n\u00f3s crist\u00e3os.\r\nEu pe\u00e7o, ent\u00e3o, a aten\u00e7\u00e3o deste Parlamento para que todos os Deputados estejam l\u00e1. J\u00e1 \u00e9 um escracho um projeto como esse ir parar na pauta do dia da Comiss\u00e3o de Direitos Humanos. Amanh\u00e3 faremos o debate. Se esse projeto \u00e9 s\u00e9rio, que, ent\u00e3o, se abra oportunidade para termos aqui audi\u00eancias p\u00fablicas ou coisas mais, para assim debatermos de maneira s\u00e9ria, e n\u00e3o com brincadeira. Isto aqui n\u00e3o \u00e9 um playground, isto aqui \u00e9 a Casa do Povo.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F8%2F2019&txPagina=13&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-03T16:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SETEMBRO AMARELO, SUIC\u00cdDIO, DEPRESS\u00c3O, ORL\u00c2NDIA (SP), IGREJA EVANG\u00c9LICA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Import\u00e2ncia da campanha nacional Setembro Amarelo, de preven\u00e7\u00e3o ao suic\u00eddio. Atua\u00e7\u00e3o da equipe Fique Vivo, de igreja vinculada ao orador, na preven\u00e7\u00e3o ao suic\u00eddio no Munic\u00edpio de Orl\u00e2ndia, Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Sem revis\u00e3o do orador.) - Muito obrigado, Sr. Presidente Dr. Charles. Eu gostaria aqui apenas de deixar uma palavra para todo o nosso Brasil. \r\nEstamos no Setembro Amarelo, m\u00eas em que o Brasil todo para e fala sobre o suic\u00eddio. Algumas pessoas pouco entendem sobre esse assunto, at\u00e9 porque \u00e9 um assunto que constrange e machuca muito. Na verdade, o suicida n\u00e3o quer se matar, ele quer matar a dor de existir que ele carrega sobre ele como um peso, e muito disso vem atrav\u00e9s da depress\u00e3o.\r\nQuero aqui mandar um abra\u00e7o para toda a equipe do Fique Vivo, l\u00e1 da cidade de Orl\u00e2ndia, que \u00e9 uma equipe da nossa igreja que trabalha com isso. Quero dizer \u00e0s pessoas que est\u00e3o passando por um momento de depress\u00e3o profunda que existem tr\u00eas caminhos para a sua cura: primeiro, busque ajuda de um profissional de sa\u00fade mental, n\u00e3o tenha vergonha e n\u00e3o tenha nenhum tipo de preconceito sobre esse assunto; segundo, se abrace \u00e0 sua fam\u00edlia, porque fam\u00edlia \u00e9 o esteio nesse momento; e terceiro, pratique uma f\u00e9, porque Jesus Cristo ainda cura.\r\nFique Vivo! Parab\u00e9ns a todo o Brasil pelo Setembro Amarelo!\r\nSr. Presidente, pe\u00e7o a V.Exa. que este pronunciamento seja divulgado nos meios de comunica\u00e7\u00e3o da Casa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=4%2F9%2F2019&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-24T15:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "ORGANIZA\u00c7\u00c3O DAS NA\u00c7\u00d5ES UNIDAS (ONU), ASSEMBLEIA GERAL, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Elogio ao Presidente Jair Bolsonaro pelo discurso proferido na abertura da Assembleia Geral da Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas - ONU, em Nova Iorque, Estados Unidos da Am\u00e9rica.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Para uma breve comunica\u00e7\u00e3o. Sem revis\u00e3o do orador.) - Muito obrigado pela defer\u00eancia, Sr. Presidente. \r\nSr. Presidente, Sras. e Srs. Deputados, venho a este microfone neste momento para discordar do meu companheiro de partido Deputado Bacelar, que, embora tenha usado o tempo de Lideran\u00e7a, acredito, n\u00e3o fala por toda a bancada do Podemos.\r\nBoa parte da bancada do Podemos est\u00e1 muito feliz com o discurso do Presidente Jair Bolsonaro, que se portou como verdadeiro estadista na Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas - ONU, falando n\u00e3o apenas aquilo que pensa, mas o que pensam as pessoas que votaram nele. Ele lembrou a liberdade religiosa, falou sobre um pa\u00eds plural, denunciou com muita contund\u00eancia os pa\u00edses de esquerda que saquearam nosso Pa\u00eds. \r\nPor isso, eu estou aqui para dizer que parabenizo o Presidente Jair Bolsonaro, que, com toda a sua comitiva, fez bonito na ONU hoje. A ONU parou para ouvi-lo, e o mundo ouviu o eco do que pensam os brasileiros. \r\nN\u00f3s n\u00e3o aceitamos mais cabresto da Esquerda e queremos um pa\u00eds melhor.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=26%2F9%2F2019&txPagina=34&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-01T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "OUTUBRO ROSA, PREVEN\u00c7\u00c3O, C\u00c2NCER DE MAMA, C\u00c2NCER DE COLO DO \u00daTERO, SA\u00daDE, MULHER, TESTE DE PAPANICOLAU.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Import\u00e2ncia da campanha Outubro Rosa, destinada \u00e0 conscientiza\u00e7\u00e3o da sociedade brasileira sobre a import\u00e2ncia de preven\u00e7\u00e3o do c\u00e2ncer de mama.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Sem revis\u00e3o do orador.) - Sra. Presidente Geovania de S\u00e1 e todas as Deputadas que est\u00e3o presentes, em nome de V.Exas. e em nome da minha fam\u00edlia - eu moro numa casa com cinco mulheres: minha esposa, minhas tr\u00eas filhas e a minha sogra -, quero dizer que estamos no m\u00eas de outubro, quando nos movimentamos pelo Outubro Rosa, que representa muito para as mulheres, em raz\u00e3o da preven\u00e7\u00e3o do c\u00e2ncer de mama e do c\u00e2ncer de colo de \u00fatero.\r\nAqui fica apenas a voz deste Deputado convocando todas as mulheres do Brasil para que fa\u00e7am esse exame preventivo. \u00c9 apenas um toque que pode mudar a vida das pessoas para sempre. Amem-se! Amem o seu corpo!\r\nQue as senhoras que est\u00e3o assistindo agora a esta transmiss\u00e3o possam se cuidar! O toque do exame de mama pode simplesmente modificar a vida delas para sempre, pode eliminar a morte do seu calend\u00e1rio.\r\nEnt\u00e3o, que amemos o nosso Pa\u00eds e que amemos as nossas mulheres!\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F10%2F2019&txPagina=59&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T20:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "DIA MUNDIAL DA ALIMENTA\u00c7\u00c3O,",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Transcurso do Dia Mundial da Alimenta\u00e7\u00e3o.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO PR. MARCO FELICIANO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, com muita honra, mais uma vez, fa\u00e7o uso desta egr\u00e9gia tribuna. Hoje a Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas - ONU comemora o Dia Mundial da Alimenta\u00e7\u00e3o, que \u00e9 atualmente celebrado em mais de 150 pa\u00edses.\r\nDesde os prim\u00f3rdios da civiliza\u00e7\u00e3o, a preocupa\u00e7\u00e3o dos governos sempre foi proporcionar a seu povo uma alimenta\u00e7\u00e3o b\u00e1sica, sempre baseada na produ\u00e7\u00e3o de gr\u00e3os, j\u00e1 que, al\u00e9m de serem mais f\u00e1ceis de armazenar, rendem enormes quantidades, estando imunes \u00e0s intemp\u00e9ries sazonais, quando bem estocados, no antigo Egito e na Gr\u00e9cia e, posteriormente, nas terras romanas. \r\nO poder pol\u00edtico se embasava numa boa colheita, resultando num bom estoque. Modernamente, com o avan\u00e7o das t\u00e9cnicas agr\u00edcolas, pa\u00edses como o Brasil, possuidor de imenso territ\u00f3rio, onde menos de 20% de suas terras s\u00e3o usados na agricultura, conseguem n\u00edveis extraordin\u00e1rios de produ\u00e7\u00e3o. Neste ano, avan\u00e7amos com mais de 240 milh\u00f5es de toneladas de gr\u00e3os, o suficiente para alimentar nossa popula\u00e7\u00e3o por 4 vezes.\r\nNosso clima subtropical permite em alguns lugares at\u00e9 tr\u00eas colheitas por ano. Somos considerados o celeiro do mundo, mas, a despeito disso, somos criticados por pa\u00edses produtores que subsidiam seus agronegociantes com a isen\u00e7\u00e3o de impostos, pela forma como cuidamos das nossas florestas.\r\nFinalizo agradecendo a Deus, que nos premiou com um territ\u00f3rio digno da sua gra\u00e7a. \r\nQue Deus derrame as mais escolhidas b\u00ean\u00e7\u00e3os celestiais a todo mundo, neste dia especial da alimenta\u00e7\u00e3o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=193&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T22:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, MISSA, APARECIDA (SP), CANONIZA\u00c7\u00c3O, IRM\u00c3 DULCE, FREIRA, REDE GLOBO DE TELEVIS\u00c3O, NOT\u00cdCIA FALSA (FAKE NEWS).",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Inconsist\u00eancia de notici\u00e1rio da TV Globo e de outros importantes meios de comunica\u00e7\u00e3o a respeito da participa\u00e7\u00e3o do Presidente Jair Bolsonaro, sob vaias, em missa celebrada no Santu\u00e1rio Nacional de Nossa Senhora Aparecida ao ensejo da canoniza\u00e7\u00e3o da Irm\u00e3 Dulce, no Estado de S\u00e3o Paulo.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO PR. MARCO FELICIANO.\r\n\r\n\r\nSra. Presidente, Sras. e Srs. Deputados, \u00e9 com imensa honra que fa\u00e7o uso desta tribuna numa semana de grandes decis\u00f5es pol\u00edticas.\r\nAl\u00e9m de estar atento ao meu mister como legislador, faz parte da minha obriga\u00e7\u00e3o estar antenado ao que ocorre nos outros Poderes, pois toda a Na\u00e7\u00e3o espera de n\u00f3s empenho em prol de um Pa\u00eds melhor para as pr\u00f3ximas gera\u00e7\u00f5es.\r\nA B\u00edblia diz que a messe \u00e9 grande, mas s\u00e3o poucos os oper\u00e1rios. Portanto, os que se prop\u00f5em a militar pelo bem comum carregam nos ombros o peso da procura\u00e7\u00e3o concedida nas urnas para bem represent\u00e1-los. Muitas vezes, isso custa vigil\u00e2ncia e den\u00fancias.\r\nDesta feita, esperei 3 dias ap\u00f3s o notici\u00e1rio da Globo e de outros importantes meios de comunica\u00e7\u00e3o informarem que o Presidente Jair Bolsonaro houvera sido aplaudido e vaiado na cidade de Aparecida, onde participou de uma missa em homenagem \u00e0 canoniza\u00e7\u00e3o de Irm\u00e3 Dulce, freira baiana que foi morta em 1992 e deixou um legado de assist\u00eancia aos pobres daquele Estado.\r\nAguardei com paci\u00eancia, conforme ensina o Salmo 40, a confirma\u00e7\u00e3o das vaias. Mas, como eu j\u00e1 esperava, o que vi foram s\u00f3 aplausos e o j\u00e1 famoso grito: \"Mito! Mito!\"\r\nPosso, portanto, afirmar se tratar de mais uma fake news, sen\u00e3o um ato criminoso, da emissora que teima em proclamar um terceiro turno das \u00faltimas elei\u00e7\u00f5es. J\u00e1 estamos no d\u00e9cimo m\u00eas de um Governo vencedor, que conseguiu impor um ritmo de seriedade nunca visto abaixo da Linha do Equador.\r\nFinalizo pedindo a Deus que expulse esses dem\u00f4nios que teimam em incensar com enxofre nosso querido Pa\u00eds e que derrame as mais escolhidas b\u00ean\u00e7\u00e3os celestiais sobre todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=320&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T16:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Grande Expediente"
+        },
+        "keywords": "PR. MARCO FELICIANO, COMITIVA, VIAGEM, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, RECEP\u00c7\u00c3O, AVALIA\u00c7\u00c3O POSITIVA.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Participa\u00e7\u00e3o do orador na comitiva do Presidente Jair Bolsonaro em viagens internacionais. Disposi\u00e7\u00e3o de pa\u00edses estrangeiros para realiza\u00e7\u00e3o de investimentos no Brasil.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. PR. MARCO FELICIANO (PODE - SP. Pela ordem. Sem revis\u00e3o do orador.) - Muito obrigado, Sra. Presidente.\r\nDeputado Marcelo Nilo, a quem eu tenho profundo respeito, muito obrigado por permitir que eu fale antes de V.Exa.\r\nSra. Presidente, Sras. e Srs. Deputados, eu estive com o nosso Presidente Jair Bolsonaro, a convite dele, nas viagens internacionais que fez na \u00faltima semana. Eu posso falar sobre aquilo que testemunhei. Todos os pa\u00edses pelos quais n\u00f3s passamos est\u00e3o de portas abertas para o Brasil, todos esperando do Brasil o melhor, e querendo investir aqui. Somente a Ar\u00e1bia Saudita, do seu fundo internacional, vai investir no nosso Pa\u00eds 10 bilh\u00f5es de d\u00f3lares, mais de 40 bilh\u00f5es de reais, trazendo para o Brasil de novo o seu crescimento. N\u00e3o houve pa\u00eds nos quais estivemos em que o Presidente Bolsonaro n\u00e3o tenha sido bem recebido, com respeito, e elogiado. A Ar\u00e1bia Saudita, todos os pa\u00edses da \u00c1sia, em uma s\u00f3 voz, disseram o seguinte: \"Est\u00e1vamos esperando as reformas. As reformas est\u00e3o sendo aprovadas. Por isso, queremos investir no Brasil\". O Brasil, num novo tempo, caminha num novo rumo.\r\nMuito obrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=94&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-07T15:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "RANDOLFE RODRIGUES, SENADOR, ATUA\u00c7\u00c3O, COMISS\u00c3O PARLAMENTAR DE INQU\u00c9RITO (CPI), NOT\u00cdCIA FALSA (FAKE NEWS).",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Cr\u00edticas \u00e0s atitudes do Senador Randolfe Rodrigues na CPI das Fake News.. Apoio ao Presidente Jair Bolsonaro.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO PR. MARCO FELICIANO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, \u00e9 com grande honra que mais uma vez ocupo esta tribuna para desaprovar atitude do Senador Randolfe Rodrigues, pertencente a uma casta de pol\u00edticos que se consideram donos da verdade absoluta, que n\u00e3o admitem o contradit\u00f3rio, modinha que agrada \"intelectuais \"de esquerda que pregam um socialismo de laborat\u00f3rio que nunca deu certo e, tal qual hidras, teimam em reviver um aut\u00eantico \"quanto pior, melhor\".\r\nAgora, entre tantos maquiavelismos, criam factoides judicializando maquina\u00e7\u00f5es, tentando incriminar inocentes, de forma irrespons\u00e1vel. Mas j\u00e1 avisei que, se protocolarem queixa-crime contra o Presidente Jair Bolsonaro por suposto entrave \u00e0s investiga\u00e7\u00f5es do caso Marielle, eu os denunciarei ao Minist\u00e9rio P\u00fablico Federal por denuncia\u00e7\u00e3o caluniosa e cal\u00fania. N\u00e3o tenho medo de gritos e chiliques que visam vender imagem de combativo.\r\nSimples alus\u00e3o foi feita a apelidos divulgados na Opera\u00e7\u00e3o Lava-Jato. Ao ouvir \"M\u00famia\", codinome citado em dela\u00e7\u00e3o premiada, vestiu a carapu\u00e7a e, sem ser perguntado, alegou inoc\u00eancia, no que acreditamos, e tamb\u00e9m em Papai Noel e cegonha.\r\nO Senador Randolfe, na CPI das Fake News, tentando sensibilizar a sua plateia, joga ao vento \u00e1udio fora de contexto, onde met\u00e1foras s\u00e3o vendidas com conota\u00e7\u00e3o invertida, algo pr\u00f3prio das esquerdas manique\u00edstas.\r\nMinha atua\u00e7\u00e3o \u00e9 cuidadosa no sentido de n\u00e3o ferir os princ\u00edpios crist\u00e3os. O Senador desconhece que o pr\u00f3prio Jesus usou um chicote para expulsar os vendilh\u00f5es do templo, e o evangelho nos ensina que temos poder para pisar cobras e escorpi\u00f5es sem correr risco.\r\nEstou nessa trincheira com o Presidente Jair Bolsonaro para mudarmos o Brasil, que deixaremos para as pr\u00f3ximas gera\u00e7\u00f5es.\r\nFinalizo pedindo a Deus que me d\u00ea for\u00e7as para enfrentar os desafios e derrame as mais escolhidas b\u00ean\u00e7\u00e3os celestiais em todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=8%2F11%2F2019&txPagina=131&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-27T19:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "CAMPANHA ELEITORAL, JAIR BOLSONARO, PRESIDENTE DA REPUBLICA, ESCLARECIMENTO.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Inconsist\u00eancia da mat\u00e9ria Campanha de Bolsonaro foi mais cara que o declarado, publicada pelo jornal Folha de S.Paulo.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO PR. MARCO FELICIANO.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, \u00e9 com grande honra que mais uma vez fa\u00e7o uso desta tribuna. \r\nPe\u00e7o a aten\u00e7\u00e3o de todos, pois hoje comento mat\u00e9ria de capa da Folha de S.Paulo, ex-grande jornal de S\u00e3o Paulo, hoje um folhetim a soldo das esquerdas mais s\u00f3rdidas. D\u00e1-se destaque com o t\u00edtulo: Campanha de Bolsonaro foi mais cara que o declarado. Todo esse alarde faz o leitor incauto esquecer que toda a campanha presidencial do vitorioso Presidente Jair Bolsonaro, em 2018, n\u00e3o passou de 4 milh\u00f5es de reais, sendo devolvidos ainda 2 milh\u00f5es aos cofres p\u00fablicos. \r\nEst\u00e3o se apegando a um valor \u00ednfimo de 420 mil reais, na amplitude de uma campanha presidencial, e cita 11 milh\u00f5es de santinhos, numa maldosa manobra para superavaliar os n\u00fameros. E n\u00e3o se faz a compara\u00e7\u00e3o com a campanha da ex-Presidente Dilma, quando se gastou quase 1 bilh\u00e3o de reais com uso de gr\u00e1ficas fantasmas e contas mal explicadas, mas nunca exploradas por esse jornaleco a soldo das esquerdas.\r\nFinalizo alertando o nosso povo sobre as manobras inconfess\u00e1veis de uma imprensa corrupta que se vendeu ao Foro de S\u00e3o Paulo, e est\u00e1 prestando sua contrapartida mesmo que tenha de usar mentiras e distorcer fatos, a fim de criar factoides.\r\nPe\u00e7o a Deus que livre nosso Presidente desses jornais vendidos e derrame as mais escolhidas b\u00ean\u00e7\u00e3os celestiais sobre o povo brasileiro.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=28%2F11%2F2019&txPagina=163&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-05-14T18:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CORONAV\u00cdRUS, V\u00cdTIMA, FAM\u00cdLIA, SOLIDARIEDADE.\r\nNAZISMO, IGREJA EVANG\u00c9LICA, DISCRIMINA\u00c7\u00c3O RELIGIOSA, JAIR BOLSONARO, PRESIDENTE DA REP\u00daBLICA, CONTRA, RICARDO NOBLAT, JORNALISTA, TWITTER, CR\u00cdTICA.\r\nLIBERDADE DE IMPRENSA, FRENTE PARLAMENTAR EVANG\u00c9LICA, ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Solidariedade aos familiares das v\u00edtimas do coronav\u00edrus. Rep\u00fadio \u00e0 compara\u00e7\u00e3o, pelo jornalista Ricardo Noblat, de sauda\u00e7\u00e3o de fi\u00e9is ao Presidente Jair Bolsonaro a gesto nazista. Discrimina\u00e7\u00e3o religiosa praticada contra crist\u00e3os evang\u00e9licos pelo profissional da imprensa.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. PR. MARCO FELICIANO (REPUBLICANOS - SP. Como L\u00edder. Participa\u00e7\u00e3o por videoconfer\u00eancia. Sem revis\u00e3o do orador.) - Boa noite, Deputado Marcos Pereira, Presidente desta sess\u00e3o da C\u00e2mara dos Deputados e tamb\u00e9m Presidente da minha nova casa, do meu novo partido, o Republicanos.\r\nEu come\u00e7o me solidarizando com os milhares de fam\u00edlias que perderam seus entes queridos para a COVID-19. Que Deus conforte a todos e que, em breve, n\u00f3s retornemos a uma vida normal!\r\nSr. Presidente, Sras. e Srs. Parlamentares, especialmente os Parlamentares religiosos, aos quais pe\u00e7o aten\u00e7\u00e3o para o que passo a dizer agora, que \u00e9 algo muito sens\u00edvel. O jornalista brasileiro chamado Ricardo Noblat, que possui um blog no portal da revista Veja, suscitou a ira dos crist\u00e3os nas redes sociais, ao comparar a uma sauda\u00e7\u00e3o nazista um gesto de ora\u00e7\u00e3o feito com as m\u00e3os estendidas por fi\u00e9is em favor do Presidente Jair Bolsonaro. Este conhecido jornalista \u00e9 opositor ferrenho ao Governo Bolsonaro. Ele postou uma montagem com duas fotos no seu Twitter. Numa foto, aparecem as pessoas com as m\u00e3os estendidas para o Presidente, em ora\u00e7\u00e3o, um ato religioso nobre, e, na outra foto, uma foto hist\u00f3rica, uma sauda\u00e7\u00e3o a Adolf Hitler. Esta foto, por\u00e9m, nos remete a dias sombrios da humanidade. A legenda que ele coloca \u00e9 a seguinte: \"N\u00e3o passa de mera coincid\u00eancia\".\r\nSr. Presidente, eu repudio veementemente a atitude desse cidad\u00e3o, porque ele agiu de maneira med\u00edocre e o fez por ignor\u00e2ncia, mas n\u00e3o no sentido de n\u00e3o saber o que fazia, de cabe\u00e7a pensada. Ele foi desonesto, covarde, abjeto, indecoroso e infame. Ele promoveu a discrimina\u00e7\u00e3o religiosa. Ele promoveu a intoler\u00e2ncia religiosa e acabou promovendo o \u00f3dio, criando repulsa nas pessoas. Ele atingiu os 30% da popula\u00e7\u00e3o brasileira que professam a f\u00e9 crist\u00e3 evang\u00e9lica.\r\nMais uma vez, Sr. Presidente, eu repudio a atitude deste senhor, que deveria, no m\u00ednimo, pedir desculpas publicamente pelo mal que fez. Eu pe\u00e7o que a respeitosa revista Veja trate deste assunto com seu colunista, que \u00e9 colaborador tamb\u00e9m. Pe\u00e7o tamb\u00e9m que a Frente Parlamentar Evang\u00e9lica represente judicialmente contra ele, pois, a meu ver, o jornalista cometeu crime.\r\nSr. Presidente, era esse o meu posicionamento aqui. \r\nMais uma vez, quero agradecer a toda a Lideran\u00e7a do Partido Republicanos por me receber de bra\u00e7os abertos. \r\nPe\u00e7o que este meu discurso seja divulgado no programa A Voz do Brasil.\r\nFa\u00e7o um apelo ao Ministro Onyx Lorenzoni, \u00e0 Ministra Damares e ao Ministro Andr\u00e9 Mendon\u00e7a, que s\u00e3o evang\u00e9licos, que s\u00e3o crist\u00e3os e sabem a import\u00e2ncia de estendermos as m\u00e3os para uma pessoa quando estamos por ela orando, para que se posicionem.\r\nSr. Presidente, deixo aqui estas palavras e fa\u00e7o, mais uma vez, um pedido \u00e0 Frente Parlamentar Evang\u00e9lica para que emita, no m\u00ednimo, uma nota de rep\u00fadio ou entre, no m\u00e1ximo, com uma a\u00e7\u00e3o judicial contra aquele jornalista. Faltam palavras para dizer o que ele fez. Ele criou uma cis\u00e3o na sociedade brasileira. Num momento como o que vivemos, em que a sociedade deve estar, principalmente, unida, em que as pessoas est\u00e3o sofrendo, em que as pessoas est\u00e3o morrendo, em que as pessoas est\u00e3o precisando de ajuda, aquele cidad\u00e3o, que tem uma import\u00e2ncia muito grande dentro do jornalismo brasileiro, faz uma compara\u00e7\u00e3o esdr\u00faxula, chama ora\u00e7\u00e3o de gesto nazista!\r\nQue fique registrado este meu pequeno discurso.\r\nMuito obrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F5%2F2020&txPagina=116&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-26T11:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, DEBATE, PL 399/2015, PROJETO DE LEI ORDINARIA, CRIT\u00c9RIO, COMERCIALIZA\u00c7\u00c3O, MEDICAMENTO, PRINC\u00cdPIO ATIVO, SUBST\u00c2NCIA, MACONHA, CANABIDIOL",
+        "nomeDeputado": "Pr. Marco Feliciano",
+        "sumario": "Debate do Projeto de Lei n\u00ba 399, de 2015, sobre a comercializa\u00e7\u00e3o de medicamentos formulados com a planta Cannabis sativa.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. PR. MARCO FELICIANO (Bloco/REPUBLICANOS - SP) - Sr. Presidente, Sras. e Srs. Deputados, Brasil que assiste \u00e0 sess\u00e3o, \u00e9 preciso informar ao Pa\u00eds que s\u00f3 estamos participando desta Comiss\u00e3o Geral, porque, primeiro, houve manobras antirregimentais na Comiss\u00e3o que trata do assunto. Por exemplo, n\u00f3s poder\u00edamos at\u00e9 ter derrotado esse relat\u00f3rio na pr\u00f3pria Comiss\u00e3o, mas, por v\u00e1rias vezes, foram feitas manobras antirregimentais, inclusive encerrando a sess\u00e3o para que n\u00f3s n\u00e3o pud\u00e9ssemos debater o assunto. Por isso, trazem este assunto para c\u00e1. \r\nSegundo aspecto, Sr. Presidente, eu j\u00e1 fui Presidente de Comiss\u00e3o, e todo Presidente de Comiss\u00e3o, no m\u00ednimo, tem que ser neutro, ele \u00e9 um magistrado. E n\u00e3o \u00e9 o que acontece nesta Comiss\u00e3o que trata do uso medicinal do canabidiol.\r\n\u00c9 sabido que o Presidente da Comiss\u00e3o j\u00e1 fez declara\u00e7\u00f5es muito estranhas a respeito da descriminaliza\u00e7\u00e3o das drogas. Por exemplo, eu tenho aqui algumas frases de alguns Deputados que j\u00e1 discursaram, outros ainda discursar\u00e3o aqui sobre a quest\u00e3o do uso da maconha. Por exemplo, houve frases desse tipo: \"A maconha \u00e9 um commodity e pode ser a solu\u00e7\u00e3o para a crise econ\u00f4mica do Brasil\". \"\u00c9 preciso enfrentar o uso adulto\". Ou seja, liberar as drogas para as pessoas. Houve outro que disse que o desejo dele era criar um projeto para o uso e porte de subst\u00e2ncias il\u00edcitas. H\u00e1 uma frase, inclusive, em um debate, em que um Parlamentar que aqui est\u00e1 disse assim: \"N\u00f3s temos um plano. O primeiro passo \u00e9 liberarmos o uso medicinal. Na sequ\u00eancia, o segundo passo \u00e9 descriminalizar o uso e o porte das drogas. E o terceiro passo \u00e9 regulamentar sua comercializa\u00e7\u00e3o\". \u00c9 isso que est\u00e1 acontecendo aqui, Sr. Presidente. \r\nNa verdade, est\u00e3o usando como pano de fundo as pessoas que sofrem, e essas pessoas que sofrem precisam, sim, da aten\u00e7\u00e3o do Governo. Inclusive, o Governo brasileiro j\u00e1 sinalizou que fornecer\u00e1 gratuitamente esses medicamentos a quem necessitar. E eu falo aqui como Vice-L\u00edder do Governo. Ent\u00e3o, as pessoas que est\u00e3o assistindo agora \u00e0 sess\u00e3o, a mam\u00e3e e o papai que t\u00eam os seus filhos que precisam desse tipo de medicamento, saibam que o Governo brasileiro n\u00e3o vai deix\u00e1-las \u00f3rf\u00e3s nesse assunto. \r\nA quest\u00e3o que precisa ser explicada aqui \u00e9 que o nosso Brasil possui fronteiras com 10 dos 12 pa\u00edses da Am\u00e9rica Latina. N\u00f3s temos uma fronteira de quase 17 mil quil\u00f4metros, e n\u00f3s n\u00e3o temos controle. Esta \u00e9 a \u00e9 a realidade. Se, sem controle, toda semana, a Pol\u00edcia Federal acaba apreendendo toneladas e toneladas de maconha, imaginem se n\u00f3s criarmos aqui um marco regulat\u00f3rio da descriminaliza\u00e7\u00e3o da maconha.\r\nA mensagem que se passa ao povo brasileiro, como j\u00e1 disse aqui, o grande do Osmar Terra, a quem eu parabenizo pela sua luta de anos nessa quest\u00e3o, \u00e9 que as pessoas poder\u00e3o come\u00e7ar a usar isso de maneira irrestrita, at\u00e9 porque, j\u00e1 que \u00e9 medicinal, faz bem para a sa\u00fade, quando, na verdade, n\u00e3o \u00e9 nada disso. \r\nSr. Presidente, eu penso que aqui alguns partidos deveriam mudar nas suas siglas. J\u00e1 h\u00e1 uma mudan\u00e7a de siglas de v\u00e1rios partidos por causa da vergonha de tudo que fizeram antigamente. Poderiam, por exemplo, trocar a sigla e colocar PAN, Partido do Aborto e da Maconha, porque parece que \u00e9 isso que as pessoas querem aqui, inclusive alguns Deputados querem fumar maconha aqui no Parlamento. Daqui a pouco n\u00f3s vamos ter chazinho de maconha ali no cafezinho. \u00c9 o que as pessoas querem, querem transformar o Brasil numa \"zumbil\u00e2ndia\". \r\nFalando ainda sobre a Comiss\u00e3o, o seu Presidente, que est\u00e1 aqui, o nobre Deputado, \u00e9 um entusiasta da libera\u00e7\u00e3o do uso da maconha. Para ele, talvez, n\u00e3o haja problema nenhum. Mas o nobre Relator carregar\u00e1 sobre si o peso de gera\u00e7\u00e3o futura inteira que poder\u00e1 ser transformada em uma \"zumbil\u00e2ndia\".\r\nSr. Presidente, eu j\u00e1 fui usu\u00e1rio de drogas, n\u00e3o tenho vergonha nenhuma de citar isso aqui, porque o meu testemunho \u00e9 p\u00fablico. Tudo come\u00e7ou com a porcaria da maconha, porque menino pobre n\u00e3o tinha dinheiro para nada. Comecei com o uso da maconha; terminei usando drogas pesadas, ao ponto de quase trazer transtornos para minha fam\u00edlia. O que mudou minha vida foi a f\u00e9 dentro de uma igreja que, inclusive, trabalha com casas de recupera\u00e7\u00e3o de dependentes de drogas.\r\nSe pud\u00e9ssemos trazer aqui e agora o testemunho de m\u00e3es e pais que tiveram seus filhos iniciados na porcaria do v\u00edcio com a maconha, eles nos dariam o seu pr\u00f3prio testemunho.\r\nEnt\u00e3o, eu repito: este projeto at\u00e9 nasce de uma maneira bonita, um projeto que tinha dois artigos, se n\u00e3o me falha a mem\u00f3ria, mas o substitutivo foi transformado agora num ornitorrinco, em algo esquisito, e tem mais de 60 p\u00e1ginas.\r\nQuerem ludibriar o povo brasileiro, querem colocar sobre o Parlamento a pecha de que n\u00f3s podemos descriminalizar o uso das drogas. N\u00f3s n\u00e3o podemos fazer isso aqui.\r\nN\u00e3o ao relat\u00f3rio! N\u00e3o a esse projeto! N\u00e3o aos nossos filhos serem usados como massa de manobra para uma ind\u00fastria que quer nascer aqui. Isso come\u00e7a com a quest\u00e3o do uso do canabidiol para a medicina, depois vai ser estendido para a alimenta\u00e7\u00e3o e, daqui a pouco, para o uso de cosm\u00e9ticos. Chega! O Brasil n\u00e3o est\u00e1 preparado para isso e n\u00f3s n\u00e3o queremos isso. O Governo Federal tomar\u00e1...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

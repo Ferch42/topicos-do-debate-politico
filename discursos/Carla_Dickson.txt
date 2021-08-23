@@ -1,0 +1,146 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-17T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "CARLA DICKSON, DEPUTADA FEDERAL, ORADORA, MANDATO PARLAMENTAR, POSSE, AGRADECIMENTO.\r\nCORONAV\u00cdRUS, PANDEMIA, RIO GRANDE DO NORTE, PREOCUPA\u00c7\u00c3O.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Regozijo da oradora com a posse no cargo de Deputada Federal. Agradecimentos pela assun\u00e7\u00e3o do mandato parlamentar. Elevado n\u00famero de \u00f3bitos ocorridos no Estado do Rio Grande do Norte em decorr\u00eancia da Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, caros colegas Deputados, caras colegas Deputadas, \u00e9 com muita alegria e com senso de responsabilidade que tomo posse hoje aqui na C\u00e2mara Federal.\r\nEu quero primeiramente agradecer ao autor e consumador da minha f\u00e9, o Senhor Jesus, porque, sem ele, nada do que aconteceu seria poss\u00edvel. Toda a honra, toda a gl\u00f3ria deste momento eu reverto ao Senhor.\r\nEu quero agradecer tamb\u00e9m \u00e0 minha fam\u00edlia: ao meu pai e \u00e0 minha m\u00e3e, que s\u00e3o exemplos para mim; aos meus filhos, Albert Filho e Davi; e ao meu marido, o Deputado Albert Dickson, do Rio Grande do Norte. Eu estou casada h\u00e1 18 anos e, por onde quer que eu passe, sempre fa\u00e7o duas coisas: honro o meu Deus e fa\u00e7o uma declara\u00e7\u00e3o ao meu marido. E o farei agora em rede nacional: Albert, eu o amo. Voc\u00ea \u00e9 uma refer\u00eancia para mim. Eu sou apaixonada por voc\u00ea, como eu sempre falo. \r\nEu quero agradecer ainda a acolhida da bancada feminina. Eu j\u00e1 recebi aqui quase um abra\u00e7o - n\u00e3o podemos nos abra\u00e7ar.\r\nQuero me colocar \u00e0 disposi\u00e7\u00e3o da bancada evang\u00e9lica, para que n\u00f3s possamos fazer um trabalho forte aqui, na defesa da fam\u00edlia, na defesa da vida. No meu trabalho como Vereadora de Natal, a bandeira da defesa dos direitos das mulheres era bastante forte, e eu quero ampli\u00e1-la aqui.\r\nNa C\u00e2mara Municipal de Natal, a minha escola, onde n\u00e3o cheguei nem a terminar a primeira legislatura - est\u00e3o faltando 6 meses para sua conclus\u00e3o -, eu pude aprender os primeiros passos. E eu sou muito grata a todos os 28 Vereadores, ao Presidente Raniere Barbosa e ao Paulinho Freire, que \u00e9 o atual Presidente.\r\nEu quero agradecer \u00e0s minhas lideran\u00e7as, aos meus funcion\u00e1rios, a todos aqueles que contribu\u00edram, de maneira direta ou indireta, para este momento. Muito obrigada por me fazerem estar aqui. E este obrigado vai para os 60.590 eleitores que acreditaram que era poss\u00edvel, sim, fazer uma pol\u00edtica com verdade, uma pol\u00edtica que enalte\u00e7a o nosso Pa\u00eds, que enalte\u00e7a a fam\u00edlia, que enalte\u00e7a a vida.\r\nEu estou muito feliz de come\u00e7ar a cumprir meu mandato nesta legislatura em um momento em que o Pa\u00eds sofre, em que o meu Rio Grande do Norte sofre. Hoje, o Estado tem quase 600 mortes, mais precisamente 553 mortes pela COVID. Isso faz doer o nosso cora\u00e7\u00e3o.\r\nNum momento em que tudo est\u00e1 escuro - por isto \u00e9 que eu amo este Deus -, Ele abre uma porta como esta, para que eu seja \u00fatil, para que eu possa servir \u00e0 minha Na\u00e7\u00e3o, para que eu possa servir ao meu Estado e \u00e0 minha amada cidade, Natal.\r\nSr. Presidente, eu agrade\u00e7o a oportunidade e me coloco mais uma vez \u00e0 disposi\u00e7\u00e3o da bancada feminina e da bancada evang\u00e9lica, para que n\u00f3s possamos fazer um trabalho em prol do nosso Brasil.\r\nMuito obrigada, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2020&txPagina=198&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-11-04T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PLN 30/2020, PROJETO DE LEI DO CONGRESSO NACIONAL, PARTIDO REPUBLICANO DA ORDEM SOCIAL (PROS), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do Projeto de Lei do Congresso Nacional n\u00ba 30, de 2020, sobre a abertura aos Or\u00e7amentos Fiscal e da Seguridade Social da Uni\u00e3o, em favor de diversos \u00f3rg\u00e3os do Poder Executivo, de cr\u00e9dito suplementar no valor de R$ 6.118.751.868,00, para refor\u00e7o de dota\u00e7\u00f5es constantes da Lei Or\u00e7ament\u00e1ria vigente.",
+        "tipoDiscurso": "ORIENTA\u00c7\u00c3O DE BANCADA",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Para orientar a bancada. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PROS orienta \"sim\".\r\n\u00c9 importante n\u00f3s entendermos algo: foi feito um acordo no sentido de que a retirada da verba da educa\u00e7\u00e3o, destinada a universidades e institutos federais, ter\u00e1 compensa\u00e7\u00e3o no PLN 29/20. No momento em que votamos \"n\u00e3o\" a um PLN como esse, n\u00f3s estamos limitando o desenvolvimento do Nordeste, o combate \u00e0 seca, limitando a agricultura, a produ\u00e7\u00e3o de frutas, principalmente no Rio Grande do Norte.\r\nEnt\u00e3o, \u00e9 importante a educa\u00e7\u00e3o? \u00c9 \u00f3bvio que sim, a educa\u00e7\u00e3o \u00e9 a base de tudo. Mas, j\u00e1 que existe um acordo entre os L\u00edderes de que essa verba que est\u00e1 sendo retirada da educa\u00e7\u00e3o vai ser reposta, eu n\u00e3o tenho como votar contrariamente, uma vez que eu quero sim o desenvolvimento, eu quero a finaliza\u00e7\u00e3o das obras inacabadas, eu quero que o nosso Pa\u00eds cres\u00e7a, principalmente o Nordeste.\r\nO PROS vota \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=5%2F11%2F2020&txPagina=90&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-12-02T16:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, PARECER, COMISS\u00c3O MISTA,  PRESSUPOSTO CONSTITUCIONAL, MPV 994/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO REPUBLICANO DA ORDEM SOCIAL (PROS), VOTO FAVORAVEL.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do parecer da Comiss\u00e3o Mista, quanto ao atendimento dos pressupostos constitucionais de relev\u00e2ncia e urg\u00eancia e de sua adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria, \u00e0 Medida Provis\u00f3ria n\u00ba 994, de 2020, sobre a abertura de cr\u00e9dito extraordin\u00e1rio em favor do Minist\u00e9rio da Sa\u00fade, no valor de R$ 9.444,373,172,00, para a produ\u00e7\u00e3o e disponibiliza\u00e7\u00e3o de poss\u00edvel vacina contra a Covid-19.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, o PROS encaminha \"sim\". E \u00e9 com muita alegria que eu quero parabenizar a Deputada Mariana Carvalho e a Comiss\u00e3o Externa, da qual tenho orgulho de fazer parte.\r\nEstive na FIOCRUZ e no Butantan, e n\u00f3s temos que valorizar e honrar essas institui\u00e7\u00f5es que nos enchem de orgulho e fazem o Brasil despontar na tecnologia. Eu quero parabenizar a FIOCRUZ. \r\nHoje, n\u00f3s tivemos uma reuni\u00e3o da Comiss\u00e3o de extrema import\u00e2ncia, inclusive com presta\u00e7\u00e3o de contas do trabalho feito na FIOCRUZ durante este per\u00edodo de pandemia. \r\nO PROS, com muita alegria e seguran\u00e7a, orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=3%2F12%2F2020&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-06T20:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), PL 598/2019, PROJETO DE LEI ORDINARIA, INCLUS\u00c3O, VIOL\u00caNCIA CONTRA A MULHER, CURR\u00cdCULO ESCOLAR, EDUCA\u00c7\u00c3O B\u00c1SICA.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Emiss\u00e3o de parecer ao Projeto de Lei n\u00ba 598, de 2019, sobre a institui\u00e7\u00e3o da Semana Escolar de Combate \u00e0 Viol\u00eancia contra a Mulher.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Para proferir parecer. Sem revis\u00e3o da oradora.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, como o relat\u00f3rio j\u00e1 est\u00e1 dispon\u00edvel na tramita\u00e7\u00e3o da proposi\u00e7\u00e3o, pe\u00e7o licen\u00e7a para fazer uma r\u00e1pida explana\u00e7\u00e3o deste, e, em seguida, ir direto \u00e0 conclus\u00e3o do voto, o que j\u00e1 me foi autorizado. Antes, por\u00e9m, preciso registrar que uma vers\u00e3o anterior deste parecer foi apresentada pela nobre Deputada Fl\u00e1via Arruda, a quem quero cumprimentar pelo cargo e pelo excelente trabalho que tem desenvolvido como Ministra-Chefe de Estado da Secretaria de Governo da Presid\u00eancia da Rep\u00fablica.\r\nA proposi\u00e7\u00e3o \u00e9 origin\u00e1ria do Senado Federal, de autoria do nobre Senador Pl\u00ednio Val\u00e9rio, e pretendia, por meio da altera\u00e7\u00e3o na Lei de Diretrizes e Bases da Educa\u00e7\u00e3o Nacional, incluir nos curr\u00edculos da educa\u00e7\u00e3o infantil, do ensino fundamental e do ensino m\u00e9dio conte\u00fados relativos aos direitos humanos e \u00e0 preven\u00e7\u00e3o de todas as formas de viol\u00eancia contra a crian\u00e7a, o adolescente e a mulher, observadas as diretrizes da legisla\u00e7\u00e3o correspondente e a produ\u00e7\u00e3o e distribui\u00e7\u00e3o de material did\u00e1tico adequado a cada n\u00edvel de ensino.\r\nAo projeto de lei origin\u00e1rio do Senado foram apensados 13 projetos de lei de iniciativa de Parlamentares desta Casa.\r\nComo a proposi\u00e7\u00e3o foi distribu\u00edda para an\u00e1lise do m\u00e9rito \u00e0 Comiss\u00e3o de Defesa dos Direitos da Mulher, onde foi adotado substitutivo ap\u00f3s aprova\u00e7\u00e3o un\u00e2nime do parecer da Relatora, a Deputada Luisa Canziani, e \u00e0 Comiss\u00e3o de Educa\u00e7\u00e3o, onde o parecer da Relatora, a Deputada Mariana Carvalho, foi igualmente aprovado, ratificando os termos do substitutivo adotado pela Comiss\u00e3o da Mulher, cabe a esta Relatora, neste momento, apenas a manifesta\u00e7\u00e3o em rela\u00e7\u00e3o \u00e0 Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, limitada ao exame da constitucionalidade, juridicidade e t\u00e9cnica legislativa, nos termos do art. 54 do Regimento Interno desta Casa.\r\nO substitutivo adotado pela Comiss\u00e3o dos Direitos da Mulher traz altera\u00e7\u00f5es diretamente na Lei da Maria da Penha, e n\u00e3o na Lei de Diretrizes e Bases, como pretendido pelo Senado, e cria a Semana de Combate \u00e0 Viol\u00eancia contra a Mulher nas Escolas, definindo seus objetivos e prevendo a elabora\u00e7\u00e3o e distribui\u00e7\u00e3o de material educativo sobre o tema.\r\nAqui eu gostaria de abrir um par\u00eantese sobre o m\u00e9rito da mat\u00e9ria, para adiantar \u00e0s Sras. Deputadas e aos Srs. Deputados que fui procurada por diferentes Lideran\u00e7as desta Casa para que fossem alterados alguns pontos do projeto. Na qualidade de Relatora de Plen\u00e1rio, neste momento s\u00f3 me cabe a manifesta\u00e7\u00e3o quanto ao exame da constitucionalidade, juridicidade e t\u00e9cnica legislativa, mas eu gostaria de registrar que ouvi os apelos dos colegas, e, mais \u00e0 frente, quando encerrada a discuss\u00e3o e esta Relatora for chamada para dar parecer \u00e0s emendas de Plen\u00e1rio apresentadas, concluiremos por subemenda substitutiva global que cria a Semana Escolar de Combate \u00e0 Viol\u00eancia contra a Mulher, com todos os objetivos aprovados pela Comiss\u00e3o dos Direitos da Mulher e ratificados pela Comiss\u00e3o de Educa\u00e7\u00e3o, mas numa proposi\u00e7\u00e3o aut\u00f4noma, para que tenhamos consenso na aprova\u00e7\u00e3o deste projeto.\r\nGostaria ainda de agradecer \u00e0 Deputada Professora Dorinha Seabra Rezende, por ter me concedido esta relatoria, e \u00e0 Deputada Celina Le\u00e3o, que encabe\u00e7ou todo o processo de acordo, bem com \u00e0 Daniele, da Secretaria da Mulher, e \u00e0 Riane, assessora legislativa do meu partido, o PROS.\r\nFeita essa introdu\u00e7\u00e3o, Sr. Presidente, Sras. Deputadas e Srs. Deputados, passo agora \u00e0 leitura da conclus\u00e3o do voto.\r\n\"Ante o exposto, no \u00e2mbito da Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos: \r\na) pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do Projeto de Lei n\u00ba 598, de 2019, e de todos os projetos apensados; \r\nb) pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa do substitutivo aprovado na Comiss\u00e3o de Defesa dos Direitos da Mulher.\"\r\nEste \u00e9 o meu voto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2021&txPagina=256&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-06T20:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER (PROCESSO LEGISLATIVO), EMENDA DE PLENARIO, PL 598/2019, PROJETO DE LEI ORDINARIA, INCLUS\u00c3O, VIOL\u00caNCIA CONTRA A MULHER, CURR\u00cdCULO ESCOLAR, EDUCA\u00c7\u00c3O B\u00c1SICA.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s emendas de Plen\u00e1rio oferecidas ao Projeto de Lei n\u00ba 598, de 2019, sobre a institui\u00e7\u00e3o da Semana Escolar de Combate \u00e0 Viol\u00eancia contra a Mulher.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Para proferir parecer. Sem revis\u00e3o da oradora.) - Durante a discuss\u00e3o da mat\u00e9ria, foram apresentadas cinco emendas de Plen\u00e1rio. Eu j\u00e1 vou partir direto ao voto. \r\n\"II - Voto da Relatora\r\nA proposi\u00e7\u00e3o aprovada pelo Senado pretende incluir conte\u00fado sobre a preven\u00e7\u00e3o da viol\u00eancia contra a mulher nos curr\u00edculos da educa\u00e7\u00e3o b\u00e1sica, alterando, para tanto, a Lei de Diretrizes e Bases da Educa\u00e7\u00e3o Nacional.\r\nNesta Casa, h\u00e1 clareza sobre a fun\u00e7\u00e3o normativa e de supervis\u00e3o do Conselho Nacional de Educa\u00e7\u00e3o e que a \"inclus\u00e3o de novos componentes curriculares de car\u00e1ter obrigat\u00f3rio na Base Nacional Comum Curricular depender\u00e1 de aprova\u00e7\u00e3o do Conselho Nacional de Educa\u00e7\u00e3o e de homologa\u00e7\u00e3o pelo Ministro de Estado da Educa\u00e7\u00e3o\". \u00c9 o disposto no \u00a7 10 do art. 26 da Lei de Diretrizes e Bases da Educa\u00e7\u00e3o Nacional (LDB).\r\nAssim, quando esta proposi\u00e7\u00e3o tramitou na Comiss\u00e3o de Defesa dos Direitos da Mulher, adotou-se, como substitutivo, que tais previs\u00f5es deveriam estar no contexto da Lei Maria da Penha, j\u00e1 que se referem ao tema de viol\u00eancia contra a mulher. A Comiss\u00e3o de Educa\u00e7\u00e3o concordou com a n\u00e3o inclus\u00e3o do tema na LDB e aprovou o substitutivo adotado pela Comiss\u00e3o de Defesa dos Direitos da Mulher.\r\nAgora, com a mat\u00e9ria trazida para a delibera\u00e7\u00e3o deste Plen\u00e1rio, as emendas apresentadas e as contribui\u00e7\u00f5es recebidas desde a designa\u00e7\u00e3o para esta relatoria nos levam a um caminho de consenso, ou seja, de que n\u00e3o h\u00e1 necessidade de altera\u00e7\u00e3o nem na Lei Maria da Penha nem na Lei de Diretrizes e Bases da Educa\u00e7\u00e3o Nacional, mas, sim, de uma lei aut\u00f4noma, com adequa\u00e7\u00f5es, inclusive para fortalecer seu processo de implementa\u00e7\u00e3o.\r\nNesse sentido, analisando a inten\u00e7\u00e3o das emendas apresentadas:\r\na) pela Comiss\u00e3o de Defesa dos Direitos da Mulher, somos pela aprova\u00e7\u00e3o parcial das Emendas de Plen\u00e1rio n\u00bas 1, 3, 4 e 5, na forma de subemenda substitutiva global, anexa.\"\r\nEm tempo, eu gostaria de ressaltar que a Emenda n\u00b0 2 foi retirada pelo autor.\r\n\"b) pela Comiss\u00e3o de Educa\u00e7\u00e3o, somos pela aprova\u00e7\u00e3o das Emendas de Plen\u00e1rio n\u00bas 1, 3, 4 e 5, na forma da subemenda substitutiva global da Comiss\u00e3o de Defesa dos Direitos da Mulher; e \r\nc) pela Comiss\u00e3o de Constitui\u00e7\u00e3o e Justi\u00e7a e de Cidadania, somos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa das Emendas de Plen\u00e1rio n\u00bas 1, 3, 4 e 5 e da subemenda substitutiva Global da Comiss\u00e3o de Defesa dos Direitos da Mulher.\"\r\nAssim \u00e9 meu voto, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2021&txPagina=257&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-06T20:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 598/2019, PROJETO DE LEI ORDINARIA, PARTIDO REPUBLICANO DA ORDEM SOCIAL (PROS), VOTO FAVORAVEL.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo Relator da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 598, de 2019, sobre a institui\u00e7\u00e3o da Semana Escolar de Combate \u00e0 Viol\u00eancia contra a Mulher, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Pela ordem. Sem revis\u00e3o da oradora.) - O PROS orienta \"sim\", Sr. Presidente.\r\nEu quero registrar um agradecimento. Este \u00e9 o primeiro projeto relatado por mim como Deputada Federal. Agrade\u00e7o a oportunidade do aprendizado sobre como se d\u00e1 o processo legislativo, os acordos, as conversas, as sess\u00f5es. Aprendi muito. Esses dois temas, educa\u00e7\u00e3o e combate \u00e0 viol\u00eancia contra a mulher, eles me s\u00e3o muito caros. No meu Estado do Rio Grande do Norte, existe um programa chamado Maria da Penha Vai \u00e0 Escola. Atrav\u00e9s de gibis, as crian\u00e7as, meninos e meninas, desde pequenininhos, aprendem sobre o respeito \u00e0 pessoa humana. Respeito, para mim, \u00e9 a base de tudo.\r\nMuito obrigada, Sr. Presidente.\r\nO SR. PRESIDENTE (Marcelo Ramos. Bloco/PL - AM) - Obrigado, Deputada.\r\nEsta Presid\u00eancia faz quest\u00e3o de destacar toda a dedica\u00e7\u00e3o de V.Exa., que est\u00e1 aqui desde cedo e acompanhou toda a obstru\u00e7\u00e3o do projeto anterior e que ontem tamb\u00e9m esteve aqui conosco, na expectativa da vota\u00e7\u00e3o da mat\u00e9ria. Eu tenho certeza de que este desfecho brinda o seu esfor\u00e7o. Parab\u00e9ns!\r\nA SRA. CARLA DICKSON (Bloco/PROS - RN) - Obrigada.\r\nO SR. PRESIDENTE (Marcelo Ramos. Bloco/PL - AM) - Como orienta o Podemos, Deputado Jos\u00e9 Nelto?(Pausa.)\r\nA SRA. CARLA DICKSON (Bloco/PROS - RN) - Sr. Presidente, eu tive um o.k. do bloco. PTB, PSC e PROS, \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2021&txPagina=266&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-06T21:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PL 598/2019, PROJETO DE LEI ORDINARIA, INCLUS\u00c3O, VIOL\u00caNCIA CONTRA A MULHER, CURR\u00cdCULO ESCOLAR, EDUCA\u00c7\u00c3O B\u00c1SICA, APROVA\u00c7\u00c3O, ELOGIO.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Congratula\u00e7\u00e3o ao Deputado Marcelo Ramos pela condu\u00e7\u00e3o dos trabalhos da Casa. Agradecimentos pela aprova\u00e7\u00e3o do Projeto de Lei n\u00ba 598, de 2019, sobre a institui\u00e7\u00e3o da Semana Escolar de Combate \u00e0 Viol\u00eancia contra a Mulher. Expectativa de aprova\u00e7\u00e3o da mat\u00e9ria pelo Senado Federal.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, eu quero parabenizar V.Exa. pela condu\u00e7\u00e3o desta vota\u00e7\u00e3o e de todo o trabalho de hoje, que foi muito din\u00e2mico. \r\nQuero agradecer a todos os meus colegas Deputados e Deputadas por entenderem a import\u00e2ncia deste tema. Aprovamos hoje um importante projeto, que engloba o combate \u00e0 viol\u00eancia contra a mulher e a educa\u00e7\u00e3o. Mais uma vez, as mulheres do nosso Brasil agradecem esse gesto.\r\nVamos agora lutar no Senado. J\u00e1 conversei com o Senador Pl\u00ednio Val\u00e9rio sobre as mudan\u00e7as realizadas, e eu tenho certeza de que ele vai acatar nossas decis\u00f5es. Eu me coloco \u00e0 disposi\u00e7\u00e3o para conversar com ele. \r\nMuito obrigada. Boa noite a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F5%2F2021&txPagina=274&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-07-01T13:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 3855/2020, PROJETO DE LEI  ORDIN\u00c1RIA, PARTIDO REPUBLICANO DA ORDEM SOCIAL (PROS),  VOTO FAVORAVEL, ELOGIO, EDNA HENRIQUE, RELATORA.\r\nRIO GRANDE DO NORTE, AGOSTO LIL\u00c1S.",
+        "nomeDeputado": "Carla Dickson",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global, oferecida pela Relatora da Comiss\u00e3o de Defesa dos Direitos da Mulher ao Projeto de Lei n\u00ba 3.855, de 2020, sobre a institui\u00e7\u00e3o, em \u00e2mbito nacional, do Agosto Lil\u00e1s como m\u00eas de prote\u00e7\u00e3o e conscientiza\u00e7\u00e3o para o fim da viol\u00eancia contra a mulher, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "A SRA. CARLA DICKSON (Bloco/PROS - RN. Pela ordem. Sem revis\u00e3o da oradora.) - Sr. Presidente, caros colegas, \u00e9 um prazer estar aqui hoje.\r\nEu estou muito feliz, muito feliz! Eu quero agradecer pelo brilhante relat\u00f3rio \u00e0 minha amiga Deputada Edna Henrique. \r\nParab\u00e9ns! Foi emocionante o seu relat\u00f3rio.\r\nQuero falar aqui pelo meu Rio Grande do Norte. Projeto como esse j\u00e1 existia no Governo do Estado em outras gest\u00f5es. \u00c9 um projeto que torna o agosto no Rio Grande do Norte lil\u00e1s. Assim, o debate sobre o combate \u00e0 viol\u00eancia contra a mulher \u00e9 institu\u00eddo. Agora, isso n\u00e3o se dar\u00e1 s\u00f3 no Rio Grande do Norte, mas em todo o territ\u00f3rio brasileiro.\r\nN\u00f3s mulheres merecemos esse carinho. N\u00f3s mulheres merecemos esse cuidado. E eu quero agradecer \u00e0 Deputada Celina Le\u00e3o, a todas as mulheres envolvidas, \u00e0 Dani, da Secretaria da Mulher, a todas que fizeram parte da constru\u00e7\u00e3o desse relat\u00f3rio.\r\nEstou muito feliz!\r\nO PROS orienta \"sim\", \"sim\", em defesa das mulheres.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=2%2F7%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

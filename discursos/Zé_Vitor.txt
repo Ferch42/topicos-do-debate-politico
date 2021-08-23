@@ -1,0 +1,470 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-02-06T17:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "AGRONEG\u00d3CIO, MINAS GERAIS, CRISE FINANCEIRA. RECUPERA\u00c7\u00c3O, Z\u00c9 VITOR, DEPUTADO FEDERAL, ORADOR, ATUA\u00c7\u00c3O PARLAMENTAR, PLATAFORMA POL\u00cdTICA.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Dificuldades financeiras enfrentadas pelo Estado de Minas Gerais. Comprometimento do orador com a\u00e7\u00f5es de fortalecimento do agroneg\u00f3cio brasileiro.",
+        "tipoDiscurso": "COMUNICA\u00c7\u00c3O PARLAMENTAR",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PMN - MG. Sem revis\u00e3o do orador.) - Boa tarde a todos. Boa tarde, Presidente, colegas Deputadas e Deputados!\r\nQuero apenas reafirmar o meu compromisso com o Estado de Minas Gerais e com todos os companheiros. Estou vendo ali o meu amigo Deputado Andr\u00e9 Janones. N\u00f3s temos uma grande miss\u00e3o de recuperar a sa\u00fade financeira daquele Estado. \r\nEu estava h\u00e1 pouco reunido com os Prefeitos de Cascalho Rico e Indian\u00f3polis, que t\u00eam de fato passado a grande dificuldade de honrar seus compromissos, devido \u00e0 situa\u00e7\u00e3o financeira do Estado de Minas Gerais. Precisamos nos recuperar, dar novo \u00e2nimo e novo f\u00f4lego aos pequenos e m\u00e9dios Munic\u00edpios.\r\nReafirmo aqui tamb\u00e9m o meu compromisso com o agroneg\u00f3cio, que, n\u00e3o tenho d\u00favida, \u00e9 o grande motor da economia deste Pa\u00eds, em especial da regi\u00e3o do Tri\u00e2ngulo Mineiro, Alto Parana\u00edba e noroeste de Minas Gerais.\r\nN\u00f3s temos grandes desafios a enfrentar. E eu tenho a certeza de que a recupera\u00e7\u00e3o deste Pa\u00eds passa pelo fortalecimento do agroneg\u00f3cio. Novos investimentos na economia e uma nova economia s\u00f3 ser\u00e3o poss\u00edveis se houver um agroneg\u00f3cio forte, n\u00e3o tenho d\u00favida disso. Mas o Brasil \u00e9 muito burocr\u00e1tico, sobretudo tem leis ambientais desconectadas da realidade. N\u00f3s vivenciamos agora uma grande trag\u00e9dia em Brumadinho, mas precisamos separar as situa\u00e7\u00f5es. Eu vim da Secretaria de Estado de Meio Ambiente e n\u00e3o tenho d\u00favidas de que n\u00f3s precisamos separar os assuntos. \r\nA legisla\u00e7\u00e3o ambiental precisa ser endurecida para os mal empreendedores, os que n\u00e3o honram com o processo de licenciamento ou com o que a legisla\u00e7\u00e3o exige. Mas aquele bom empreendedor, aquele que faz bom uso de boas t\u00e9cnicas, das tecnologias existentes, esse precisa ser valorizado e respeitado.\r\nFica aqui o meu compromisso com nosso Pa\u00eds, com nosso Estado. Contamos com voc\u00eas para construirmos um novo Brasil. Est\u00e1 na hora de reagir, e vamos avan\u00e7ar, mas sem deixar ningu\u00e9m para tr\u00e1s. \r\nConcedo um aparte ao Deputado.\r\nO SR. PRESIDENTE (Isnaldo Bulh\u00f5es Jr. Bloco/MDB - AL) - Deputado Z\u00e9 Vitor, n\u00e3o cabe apartes em Comunica\u00e7\u00f5es Parlamentares. Portanto, a palavra continua com V.Exa. \r\nO SR. Z\u00c9 VITOR (Bloco/PMN - MG) - Vou encerrar o meu tempo, diante da...\r\nO SR. PRESIDENTE (Isnaldo Bulh\u00f5es Jr. Bloco/MDB - AL) - Desculpem-me. J\u00e1 pedi e vou pedir pela terceira ou quarta vez a compreens\u00e3o do Plen\u00e1rio, dos nobres colegas, para que possamos cumprir o Regimento. Inclusive, essa quest\u00e3o foi tratada, repito, no Col\u00e9gio de L\u00edderes hoje.\r\nH\u00e1 v\u00e1rios Parlamentares que se inscreveram cedo. Vamos seguir a ordem. \r\nEnt\u00e3o, a palavra est\u00e1 reservada a V.Exa., Deputado Z\u00e9 Vitor.\r\nO SR. Z\u00c9 VITOR (Bloco/PMN - MG) - Est\u00e1 certo. Infelizmente n\u00e3o \u00e9 poss\u00edvel, por quest\u00e3o regimental.\r\nGostaria de agradecer e reafirmar o nosso compromisso. Encerro dizendo que de fato \u00e9 hora de reagirmos. Este convite \u00e9 para todos voc\u00eas. Como eu disse, vamos avan\u00e7ar, sem deixar ningu\u00e9m para tr\u00e1s. \r\nMuito obrigado. \r\nBoa tarde a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F2%2F2019&txPagina=78&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-20T19:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "DESENVOLVIMENTO ECON\u00d4MICO, ARAGUARI (MG).",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Desenvolvimento econ\u00f4mico do Munic\u00edpio de Araguari, no Estado de Minas Gerais.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO Z\u00c9 VITOR.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, a atividade econ\u00f4mica do Munic\u00edpio de Araguari \u00e9 uma das mais destacadas da regi\u00e3o. Al\u00e9m disso, a localidade passa por momento particularmente favor\u00e1vel, com boas perspectivas para a gera\u00e7\u00e3o de emprego. Tenho muito orgulho de ser araguarino e acredito que esta Casa precisa saber mais sobre o que ocorre no meu Munic\u00edpio.\r\nDe acordo com a estimativa populacional do IBGE de 2018, somos quase 117 mil habitantes - Araguari \u00e9 uma das cidades mais populosas de Minas Gerais. Al\u00e9m disso, o Censo de 2010 apurou que seu IDH era de 0,773, fazendo dela o 13\u00ba Munic\u00edpio com melhor qualidade de vida de todo o Estado. O que quero destacar aqui \u00e9 que esse bom resultado decorre, em boa parte, da produtividade econ\u00f4mica local. \r\nDe acordo com o IBGE, a m\u00e9dia da produ\u00e7\u00e3o de cada araguarino foi de 33 mil reais em 2016, caracterizando uma das mais eficientes economias mineiras. Al\u00e9m disso, as perspectivas s\u00e3o de amplia\u00e7\u00e3o do crescimento. De acordo com o Boletim de Economia Regional, publicado pela Universidade Federal de Juiz de Fora, a atividade econ\u00f4mica da regi\u00e3o melhorou em 2017, fazendo-a saltar para a quarta economia mais bem avaliada no Tri\u00e2ngulo Mineiro.\r\nOs dados da prefeitura sobre a atividade econ\u00f4mica de Araguari indicam parte dos motivos para o ac\u00famulo de tantos sucessos. Com 90% das lavouras irrigadas, o Munic\u00edpio produz a m\u00e9dia anual de 600 mil sacas de caf\u00e9 de excelente qualidade. Mas a agricultura de Araguari vai muito al\u00e9m do caf\u00e9. Sua produ\u00e7\u00e3o rural \u00e9 altamente diversificada, havendo lavouras de soja, laranja, milho, arroz, tomate, feij\u00e3o, maracuj\u00e1, acerola e uva. \r\nMuitos desses g\u00eaneros s\u00e3o beneficiados pela pr\u00f3pria ind\u00fastria local, que inclui algumas das maiores empresas brasileiras produtoras de suco. Al\u00e9m dos setores prim\u00e1rio e secund\u00e1rio, Araguari tamb\u00e9m possui um setor de servi\u00e7os muito forte. O com\u00e9rcio local conta com lojas de grandes empresas de varejo e franquias nacionais e internacionais, al\u00e9m de estabelecimentos das mais importantes institui\u00e7\u00f5es banc\u00e1rias que atuam no Pa\u00eds.\r\nTamb\u00e9m n\u00e3o posso deixar de mencionar que o Munic\u00edpio apresenta significativas oportunidades de crescimento no setor de turismo. Com mais de cem cachoeiras e localizado entre os Rios Parana\u00edba e Araguari, h\u00e1 muitas op\u00e7\u00f5es atrativas para quem busca o ecoturismo. Al\u00e9m disso, o acervo hist\u00f3rico local pode ser mais bem explorado para a atra\u00e7\u00e3o de turistas. \r\nDesse modo, Araguari se mostra destino muito convidativo para quem quer enfrentar as dificuldades econ\u00f4micas que ainda marcam o Pa\u00eds. De acordo com o Minist\u00e9rio da Economia, o Munic\u00edpio contou com mais de 9 mil admiss\u00f5es em 2018 e terminou o ano com saldo positivo nas oportunidades de trabalho. \r\nPor tudo isso, tenho muito orgulho de ser araguarino e defenderei ativamente os interesses de meus conterr\u00e2neos ao longo do meu mandato. Ali\u00e1s, como representante do povo mineiro, buscarei oportunidades para difundir pelo Estado as boas pr\u00e1ticas encontradas n\u00e3o s\u00f3 em Araguari, como em todas as outras partes de Minas Gerais. Represento com orgulho um dos Estados mais importantes do Pa\u00eds. Por isso, lutarei para ampliar a express\u00e3o das virtudes de nosso povo, sempre favorecendo sua contribui\u00e7\u00e3o para o progresso do Brasil.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F3%2F2019&txPagina=250&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-03-21T13:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Encerramento"
+        },
+        "keywords": "DIA MUNDIAL DA \u00c1GUA, HOMENAGEM, CONFER\u00caNCIA DAS NA\u00c7\u00d5ES UNIDAS SOBRE O MEIO AMBIENTE E O DESENVOLVIMENTO (CNUMAD), SEGURAN\u00c7A H\u00cdDRICA, SA\u00daDE, \u00c1GUA POT\u00c1VEL, ABASTECIMENTO DE \u00c1GUA, EDUCA\u00c7\u00c3O, BRASIL, RECURSOS H\u00cdDRICOS, DESIGUALDADE.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Transcurso do Dia Mundial da \u00c1gua. Riscos \u00e0 sa\u00fade humana advindos da escassez de \u00e1gua pot\u00e1vel. Import\u00e2ncia da utiliza\u00e7\u00e3o racional dos recursos h\u00eddricos.",
+        "tipoDiscurso": "DISCURSO ENCAMINHADO",
+        "transcricao": "DISCURSO NA \u00cdNTEGRA ENCAMINHADO PELO SR. DEPUTADO Z\u00c9 VITOR.\r\n\r\nSr. Presidente, Sras. e Srs. Deputados, o Dia Mundial da \u00c1gua \u00e9 celebrado em 22 de mar\u00e7o. A data comemorativa foi sugerida na Confer\u00eancia das Na\u00e7\u00f5es Unidas sobre Ambiente e Desenvolvimento realizada no Rio de Janeiro em 1992. Dada a import\u00e2ncia do tema, o Dia Mundial da \u00c1gua foi institu\u00eddo pela ONU j\u00e1 no ano seguinte.\r\nEssa urg\u00eancia deriva do fato de que toda a vida na terra depende de \u00e1gua em alguma medida. E, embora o planeta tenha abund\u00e2ncia do recurso em geral, a quantidade pr\u00f3pria para o consumo de boa parcela da biodiversidade n\u00e3o \u00e9 t\u00e3o generosa.\r\nA situa\u00e7\u00e3o \u00e9 particularmente dram\u00e1tica no que diz respeito \u00e0 esp\u00e9cie humana. Embora sejamos capazes de feitos altamente sofisticados, n\u00e3o conseguimos suprir a popula\u00e7\u00e3o global com acesso adequado a esse l\u00edquido vital.\r\nNesse sentido, a ONU informa que mais de 2 bilh\u00f5es de pessoas n\u00e3o t\u00eam sua seguran\u00e7a h\u00eddrica garantida, o que significa que mais de um quarto dos habitantes do planeta corre grave risco de sa\u00fade por falta de melhor acesso a \u00e1gua pot\u00e1vel. Al\u00e9m disso, nos per\u00edodos mais \u00e1ridos do ano, cerca de dois ter\u00e7os da popula\u00e7\u00e3o mundial experimentam severa escassez h\u00eddrica.\r\nComo consequ\u00eancia, cerca de 25% das escolas n\u00e3o t\u00eam bom servi\u00e7o de abastecimento de \u00e1gua, levando os alunos a consumirem \u00e1gua de baixa qualidade ou a passarem sede. Isso seguramente acarreta problemas na forma\u00e7\u00e3o do estudante, caracterizando obst\u00e1culo ao desenvolvimento pleno do seu potencial.\r\nAqui no Brasil, a situa\u00e7\u00e3o tamb\u00e9m \u00e9 bastante problem\u00e1tica, embora marcada por particularidades. A principal diferen\u00e7a \u00e9 que nosso Pa\u00eds \u00e9 privilegiadamente suprido por fontes de \u00e1gua pot\u00e1vel. De acordo com a ANA, a Ag\u00eancia Nacional de \u00c1guas, o Brasil possui cerca de 12% da disponibilidade de \u00e1gua doce do planeta. N\u00e3o obstante, de acordo com o Diagn\u00f3stico dos Servi\u00e7os de \u00c1gua e Esgotos de 2017, publicado pelo Sistema Nacional de Informa\u00e7\u00f5es sobre Saneamento, cerca de 35 milh\u00f5es de brasileiros n\u00e3o contam com rede de abastecimento de \u00e1gua.\r\nAl\u00e9m disso, as \u00e1guas doces nacionais s\u00e3o muito mal distribu\u00eddas. A ANA informa que a Regi\u00e3o Norte concentra 80% da \u00e1gua dispon\u00edvel e 45% da popula\u00e7\u00e3o, enquanto as regi\u00f5es pr\u00f3ximas do Oceano Atl\u00e2ntico possuem 45% da popula\u00e7\u00e3o e 3% dos recursos h\u00eddricos. Ironicamente, a Regi\u00e3o Norte \u00e9 a mais mal provida por rede de abastecimento de \u00e1gua, que atinge apenas 70% da zona urbana e 57,5% da rural. A t\u00edtulo de compara\u00e7\u00e3o, as m\u00e9dias nacionais s\u00e3o de 93% e 83,5% respectivamente. \r\nPor fim, quero destacar que o Dia Mundial da \u00c1gua \u00e9 importante data para refletirmos sobre a import\u00e2ncia do bom aproveitamento dos recursos h\u00eddricos. Em particular, a realidade nacional demanda combate \u00e0 desigualdade na distribui\u00e7\u00e3o de \u00e1gua, a que temos acesso amplamente favorecido.\r\nInfelizmente, muitas pessoas ainda agem como se a \u00e1gua fosse recurso inesgot\u00e1vel. Mas \u00e9 muito importante ampliar a consci\u00eancia sobre os perigos relacionados \u00e0 escassez do recurso, porque sem \u00e1gua n\u00e3o h\u00e1 vida. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F3%2F2019&txPagina=66&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-11T12:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "REUNI\u00c3O, DEBATE, SEGURAN\u00c7A P\u00daBLICA, ESCOLA, ESTABELECIMENTO EDUCACIONAL, ARAGUARI (MG).",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "An\u00fancio da realiza\u00e7\u00e3o no Munic\u00edpio de Araguari, Estado de Minas Gerais, de reuni\u00e3o para debate da seguran\u00e7a nas escolas.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (PR - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, serei breve. Quero apenas registrar que hoje, \u00e0s 5 horas da tarde, ocorrer\u00e1 uma importante e interessante reuni\u00e3o em Araguari para discutir a quest\u00e3o da seguran\u00e7a nas escolas.\r\nEsse \u00e9 um tema que, ap\u00f3s o tr\u00e1gico incidente em Suzano, acabou mobilizando todo o Pa\u00eds. \u00c9 importante, claro, discutir a quest\u00e3o de vigil\u00e2ncia e de c\u00e2meras de monitoramento. Insistem at\u00e9 em discutir detectores de metais, enfim...\r\nQue haja neste momento uma profunda reflex\u00e3o sobre a ess\u00eancia desse problema, para que n\u00f3s possamos, junto com o novo Ministro da Educa\u00e7\u00e3o, discutir estrat\u00e9gias que de fato coloquem a educa\u00e7\u00e3o em novo patamar, porque a minha sensa\u00e7\u00e3o, Presidente, \u00e9 de que o que tem sido feito pela educa\u00e7\u00e3o neste Pa\u00eds n\u00e3o tem surtido efeito.\r\nHoje convido todos, toda a comunidade escolar e as lideran\u00e7as comunit\u00e1rias, a participarem conosco desse debate.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F4%2F2019&txPagina=107&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-28T19:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL) (1987), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de retirada de pauta da Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL orienta \"n\u00e3o\", porque n\u00f3s temos que falar a verdade para o Brasil. Muito do que tem sido pregado n\u00e3o \u00e9 verdade, n\u00e3o consta no relat\u00f3rio do Deputado S\u00e9rgio. E n\u00f3s temos que dizer sim \u00e0 produ\u00e7\u00e3o rural sustent\u00e1vel, \u00e9 claro. Em nenhum momento n\u00f3s temos falado em anistia, e nada disso est\u00e1 contido no texto. H\u00e1 muita responsabilidade, e n\u00f3s temos que trazer, sem d\u00favida nenhuma, mais seguran\u00e7a ao campo.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=29%2F5%2F2019&txPagina=187&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T15:20",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE VOTA\u00c7\u00c3O EM GLOBO, DESTAQUE, MPV 867/2018, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL) (1987), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de vota\u00e7\u00e3o em globo dos destaques simples, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, o PL orienta \"sim\" por uma quest\u00e3o de justi\u00e7a. N\u00f3s temos um ponto muito tranquilo nessa medida provis\u00f3ria, que \u00e9 a prorroga\u00e7\u00e3o do prazo. N\u00e3o h\u00e1 nenhum impedimento e nenhuma dificuldade para todos apoiarmos a prorroga\u00e7\u00e3o do prazo. A grande maioria dos Estados n\u00e3o criou mecanismos que pudessem facilitar ou permitir que os pequenos, os m\u00e9dios e os grandes propriet\u00e1rios aderissem ao Programa de Regulariza\u00e7\u00e3o Ambiental - PRA. Ent\u00e3o, temos que por uma quest\u00e3o de justi\u00e7a apoiar essa medida provis\u00f3ria.\r\nH\u00e1 outro ponto importante, Sra. Presidente, o \u00a7 3\u00ba do art. 68, que \u00e9 muito claro. O que estabelecemos \u00e9 simplesmente um marco temporal para validar o que o Supremo j\u00e1 definiu em outras tantas vezes.\r\nN\u00f3s temos que ser justos e falar a verdade para o Brasil. Do contr\u00e1rio, n\u00f3s vamos utilizar este momento para uma grande discuss\u00e3o ideol\u00f3gica falsa, que coloca de um lado quem quer produzir e de outro quem quer preservar, como se estiv\u00e9ssemos em lados opostos. Vamos falar a verdade. A medida n\u00e3o traz anistia, a medida n\u00e3o traz nenhum favorecimento a quem quer desmatar: ela simplesmente estabelece um marco temporal.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=141&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-05-29T17:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, DISPOSITIVO LEGAL,  PLV 9/2019, PROJETO DE LEI DE CONVERS\u00c3O , MPV 867/2018, MEDIDA PROVISORIA, PARTIDO LIBERAL (PL) (1987), VOTO FAVORAVEL.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado do \u00a7 3\u00ba do art. 68 da Lei n\u00ba 12.651, de 2012, contido no art. 1\u00ba do Projeto de Lei de Convers\u00e3o n\u00ba 9, de 2019, apresentado \u00e0 Medida Provis\u00f3ria n\u00ba 867, de 2018, sobre a extens\u00e3o do prazo para ades\u00e3o ao Programa de Regulariza\u00e7\u00e3o Ambiental, com vistas \u00e0 sua supress\u00e3o.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL vota \"sim\".\r\nFa\u00e7o um convite a cada um dos senhores para que, por favor, leiam o texto  (art. 68, \u00a7 3\u00ba), para podermos avan\u00e7ar nesta discuss\u00e3o.\r\nEm nenhum momento est\u00e1 sendo citada a anistia. Em nenhum momento h\u00e1 perd\u00e3o para o mau produtor. Est\u00e1 muito clara apenas uma defini\u00e7\u00e3o dos marcos temporais. Vamos votar isso com a devida lucidez que, de fato, \u00e9 pedido aqui, mas com lucidez, interpretando aquilo que est\u00e1 escrito no texto ou n\u00e3o interpretando o que queremos interpretar. Precisamos de seguran\u00e7a jur\u00eddica, que vem exatamente no momento em que definimos datas. \u00c9 isso o que precisamos fazer neste momento. A medida \u00e9 muito clara, muito tranquila e n\u00e3o h\u00e1 motivo para uma discuss\u00e3o t\u00e3o carregada de ideologias.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F5%2F2019&txPagina=222&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-17T17:40",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "SERVI\u00c7O BRASILEIRO DE APOIO \u00c0S MICRO E PEQUENAS EMPRESAS (SEBRAE), MINAS GERAIS, DESENVOLVIMENTO REGIONAL, INOVA\u00c7\u00c3O, TURISMO, FOMENTO, AGRONEG\u00d3CIO, ELOGIO.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Import\u00e2ncia do Programa LIDER - Lideran\u00e7a para o Desenvolvimento Regional, desenvolvido pelo Servi\u00e7o Brasileiro de Apoio \u00e0s Micro e Pequenas Empresas - SEBRAE no interior do Estado de Minas Gerais.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Sem revis\u00e3o do orador.) - Presidente, quero utilizar este espa\u00e7o para tornar p\u00fablico e fazer com que todos conhe\u00e7am o Programa LIDER - Lideran\u00e7a para o Desenvolvimento Regional, que est\u00e1 sendo desenvolvido pelo SEBRAE no interior de Minas Gerais, numa regi\u00e3o batizada como \"Cora\u00e7\u00e3o do Cerrado\". Eu cito aqui os Munic\u00edpios que a comp\u00f5em: Abadia dos Dourados, Cascalho Rico, Coromandel, Douradoquara, Estrela do Sul, Grupiara, Indian\u00f3polis, Ira\u00ed de Minas, Monte Carmelo, Nova Ponte e Romaria.\r\n\u00c9 um projeto exemplar, que deve ser copiado por todos os cantos do Pa\u00eds. Trata-se de programa de mobiliza\u00e7\u00e3o, integra\u00e7\u00e3o e qualifica\u00e7\u00e3o de lideran\u00e7as para o desenvolvimento regional. Prop\u00f5e-se ali a cria\u00e7\u00e3o de uma agenda regional de desenvolvimento baseada em quatro eixos: a inova\u00e7\u00e3o, o turismo, as pol\u00edticas de fomento e o agroneg\u00f3cio.\r\nEnt\u00e3o, parab\u00e9ns a todos os envolvidos! Que essa iniciativa sirva de exemplo e de est\u00edmulo para todo o Pa\u00eds.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=18%2F6%2F2019&txPagina=96&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-06-19T13:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "MINAS GERAIS, MINERA\u00c7\u00c3O,  AGRONEGOCIO, CRISE FINANCEIRA, UNIVERSALIZA\u00c7\u00c3O, ACESSO, ENERGIA EL\u00c9TRICA.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Decl\u00ednio da minera\u00e7\u00e3o no Estado de Minas Gerais. Import\u00e2ncia da concess\u00e3o de incentivos ao desenvolvimento de polos tecnol\u00f3gicos, e de conclus\u00e3o das obras de rodovias federais em prol do agroneg\u00f3cio mineiro. Caos tribut\u00e1rio reinante em Minas Gerais. Necessidade de universaliza\u00e7\u00e3o do acesso \u00e0 energia el\u00e9trica no Estado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Sem revis\u00e3o do orador.) - Boa tarde a todos.\r\nEu venho hoje usar esta tribuna para fazer uma reflex\u00e3o sobre o futuro de Minas Gerais. Alguns pontos t\u00eam me chamado muita aten\u00e7\u00e3o e despertado em mim um desejo de promover esta reflex\u00e3o com todos aqui. \r\n\u00c9 fato que h\u00e1 um decl\u00ednio da minera\u00e7\u00e3o em Minas Gerais, logo nesse Estado, que tem a sua origem atrelada \u00e0 minera\u00e7\u00e3o. N\u00f3s temos que trabalhar, \u00e9 claro, para preservar aquela boa minera\u00e7\u00e3o, o bom minerador, preservar esses empreendimentos, que s\u00e3o importantes economicamente e socialmente. Mas n\u00e3o h\u00e1 d\u00favida de que - muitas vezes j\u00e1 ouvimos isto - o min\u00e9rio \u00e9 produto de uma safra s\u00f3.\r\nN\u00f3s temos, ent\u00e3o, que pensar aqui nas alternativas para Minas Gerais, e, entre tantas, eu trago uma reflex\u00e3o breve sobre dois pontos: o primeiro \u00e9 a tecnologia, e o segundo, o agroneg\u00f3cio.\r\nMinas Gerais tem uma voca\u00e7\u00e3o impressionante para a tecnologia. H\u00e1 grandes nomes no cen\u00e1rio mundial que partiram, que surgiram de Minas Gerais, e \u00e9 importante estimularmos esses polos tecnol\u00f3gicos, incentivarmos as startups. H\u00e1 um estudo extremamente interessante que diz que 65% das crian\u00e7as que est\u00e3o no 1\u00ba ano devem estar empregadas em profiss\u00f5es que ainda n\u00e3o existem. Imaginem a transforma\u00e7\u00e3o por que o mundo vai passar nos pr\u00f3ximos anos. \u00c9 importante inserirmos as crian\u00e7as e os jovens mineiros e brasileiros nessa modernidade que se aproxima.\r\nO segundo ponto, sem d\u00favida nenhuma, \u00e9 o agroneg\u00f3cio, que est\u00e1 na veia do mineiro. Eu cito aqui em especial aqueles do Tri\u00e2ngulo Mineiro, do Alto Parana\u00edba, do noroeste e sul de Minas, que t\u00eam enfrentado dificuldades. Mesmo tendo uma localiza\u00e7\u00e3o privilegiada, um solo adequado, \u00e1gua em boa quantidade e qualidade, n\u00f3s temos enfrentado desafios. E chamo aqui a aten\u00e7\u00e3o do Ministro Tarc\u00edsio e do Governador Zema: n\u00f3s precisamos enfrentar a quest\u00e3o da log\u00edstica em Minas Gerais, que est\u00e1, passo a passo, dia a dia, se sucateando mais.\r\nEu quero citar aqui alguns pontos, como a conclus\u00e3o da BR-154, em Ituiutaba.\r\nCito ainda a BR-354, no Alto Parana\u00edba, que liga Patos de Minas a Carmo do Parana\u00edba, Lagoa Formosa, todo aquele setor produtivo do caf\u00e9, passando ali pela maior regi\u00e3o produtora de hortali\u00e7as do Brasil, S\u00e3o Gotardo, Rio Parana\u00edba, seguindo para Ibi\u00e1, at\u00e9 a BR-262.\r\nCito tamb\u00e9m a da BR-365, porque, embora tenha sido anunciado agora o leil\u00e3o da concess\u00e3o do trecho que liga Jata\u00ed de Goi\u00e1s a Ituiutaba e Monte Alegre, chegando a Uberl\u00e2ndia, essa rodovia precisa seguir, e essa duplica\u00e7\u00e3o \u00e9 emergencial entre Uberl\u00e2ndia, Patroc\u00ednio, Patos de Minas, subindo ali at\u00e9 o norte de Minas. Essa regi\u00e3o \u00e9 uma das maiores produtoras do Pa\u00eds, tanto que n\u00f3s temos ali grandes produtores de caf\u00e9, grandes produtores de milho. Patos de Minas, inclusive, foi batizada a Capital Nacional do Milho.\r\nCito aqui ainda a conclus\u00e3o da obra de duplica\u00e7\u00e3o entre Araguari e Catal\u00e3o, a BR-050, uma rodovia j\u00e1 sob a concess\u00e3o da inciativa privada. \r\nN\u00e3o posso deixar de citar tamb\u00e9m a BR-452, entre Arax\u00e1 e Uberl\u00e2ndia, que passa por Perdizes, Pedrin\u00f3polis, Santa Juliana e Nova Ponte. Alguns dos maiores produtores do Pa\u00eds est\u00e3o instalados ali. Produtores que merecem a nossa aten\u00e7\u00e3o, merecem o nosso respeito, est\u00e3o trafegando sob riscos constantes.\r\nPor \u00faltimo, cito a rodovia que liga Sacramento a Delfin\u00f3polis, no sul de Minas.\r\nAl\u00e9m da log\u00edstica, Ministro, pe\u00e7o a sua especial aten\u00e7\u00e3o, assim como a do Governador Zema, \u00e0 confus\u00e3o tribut\u00e1ria por que Minas Gerais tem passado, al\u00e9m da dificuldade de competitividade. Estamos naquele canto de Minas Gerais, no Tri\u00e2ngulo, no Alto Parana\u00edba, pressionados por Goi\u00e1s, S\u00e3o Paulo, e n\u00f3s precisamos ter uma sobrevida. Os postos de combust\u00edveis est\u00e3o \u00e0 beira do colapso. Os caminhoneiros, obviamente, buscam os melhores pre\u00e7os; abastecem em Goi\u00e1s e, depois, v\u00e3o abastecer l\u00e1 em S\u00e3o Paulo, porque n\u00f3s n\u00e3o temos competitividade nenhuma. N\u00f3s somos ref\u00e9ns de uma carga tribut\u00e1ria pesad\u00edssima.\r\nE o que mais me impressiona em Minas Gerais, Estado dotado de grande capacidade e voca\u00e7\u00e3o para o sucesso, \u00e9 que, como se diz no interior, n\u00f3s temos comido na t\u00e1bua, temos passado uma grande dificuldade com a CEMIG - Companhia Energ\u00e9tica de Minas Gerais. \u00c9 inadmiss\u00edvel o que tem acontecido ali. \u00c9 um absurdo.\r\nRecentemente, n\u00f3s vimos o lamento de um grande empres\u00e1rio de um polo agroindustrial instalado em Patos de Minas, que \u00e9 um exemplo para o mundo todo. Ele tem gastado - n\u00e3o vou nem dizer investido - mais de 10 milh\u00f5es de reais por ano em \u00f3leo diesel, porque n\u00e3o h\u00e1 acesso \u00e0 energia, que foi prometido h\u00e1 tempos. Esse \u00e9 um dos casos. \r\nNa minha pr\u00f3pria cidade h\u00e1 uma agroind\u00fastria que atende toda aquela regi\u00e3o e n\u00e3o consegue realizar investimentos, porque n\u00e3o tem acesso \u00e0 energia el\u00e9trica. Assim como eles, tantos outros produtores rurais que buscam produzir mais, produzir bem, com respeito ao meio ambiente, precisam ali das suas outorgas, mas, mais do que isso, precisam de energia el\u00e9trica para garantir a irriga\u00e7\u00e3o nas suas propriedades. \r\nPortanto, fica aqui esta reflex\u00e3o e um convite a todos para trabalhar pelo futuro de Minas Gerais.\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=20%2F6%2F2019&txPagina=25&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-06T10:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "AGRONEG\u00d3CIO, PRODUTOR RURAL, DEFESA, LIBERA\u00c7\u00c3O, AGROT\u00d3XICO, PRESERVA\u00c7\u00c3O AMBIENTAL, AGRICULTURA, PECU\u00c1RIA.\r\nIMPRENSA, CR\u00cdTICA.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Preju\u00edzos causados ao agroneg\u00f3cio brasileiro pela veicula\u00e7\u00e3o de not\u00edcias falsas, especialmente sobre a libera\u00e7\u00e3o do uso de defensivos agr\u00edcolas.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Sem revis\u00e3o do orador.) - Sr. Presidente, utilizo esta tribuna hoje para fazermos uma reflex\u00e3o extremamente importante para o Brasil e para o brasileiro, e o fa\u00e7o como Deputado Federal, \u00e9 claro, mas tamb\u00e9m como engenheiro agr\u00f4nomo que sou, por forma\u00e7\u00e3o, professor universit\u00e1rio, para dizer que \u00e9 um absurdo o que parte da imprensa nacional tem feito com os produtores rurais deste Pa\u00eds. De forma humilhante, tem rotulado os produtores rurais - os pequenos, os agricultores familiares, os m\u00e9dios, os grandes - como criminosos, como transgressores da lei. De uma forma covarde, chegaram a utilizar personagens infantis para questionar a qualidade dos produtos brasileiros, aqueles produtos que n\u00f3s produzimos no campo, com tanto suor, em todos os cantos deste Pa\u00eds. \u00c9 uma atitude covarde e vergonhosa o que t\u00eam feito conosco aqui. Esse n\u00e3o \u00e9 o campo de verdade, esse n\u00e3o \u00e9 o campo brasileiro.\r\nN\u00f3s estamos construindo aqui uma nova cara para o agroneg\u00f3cio brasileiro, e o Brasil que est\u00e1 sendo mostrado l\u00e1 fora n\u00e3o \u00e9 o Brasil de verdade. O Brasil de verdade \u00e9 aquele que suja a botina de barro e fica l\u00e1 na terra trabalhando, debaixo do sol quente, e produzindo alimentos de qualidade, sim. Obviamente, n\u00f3s temos pontos a serem melhorados, n\u00f3s temos pontos a serem discutidos e debatidos para avan\u00e7armos, com certeza, mas essa n\u00e3o \u00e9 a cara do agroneg\u00f3cio brasileiro. \u00c9 um absurdo, \u00e9 vergonhoso!\r\nEu convido todas as entidades do setor, todos os produtores rurais, os Deputados e Senadores, todos, para que fiquemos alertas e atentos com a covardia que t\u00eam feito conosco, com todos os que est\u00e3o no campo. Chegaram ao ponto agora de dizer, de uma forma covarde, cruel, que h\u00e1 uma libera\u00e7\u00e3o excessiva de defensivos agr\u00edcolas, de agroqu\u00edmicos. \u00c9 bem verdade que muitos desses estavam engavetados, mas foram analisados pelo Minist\u00e9rio da Agricultura, pela ANVISA, pelo Minist\u00e9rio do Meio Ambiente, e muitos dos que est\u00e3o hoje no mercado s\u00e3o produtos gen\u00e9ricos, a exemplo daqueles que est\u00e3o nas farm\u00e1cias para consumo humano. \u00c9 o mesmo mecanismo, e n\u00f3s temos que preservar, porque esses produtos s\u00e3o fundamentais para se produzir em um clima tropical.\r\nE digo mais, como engenheiro agr\u00f4nomo que sou: n\u00f3s precisamos estimular que novas mol\u00e9culas, que novos produtos cheguem ao mercado. Esses produtos s\u00e3o mais modernos, mais eficientes, mais seletivos, causam menos risco \u00e0 sa\u00fade humana, menos risco ao meio ambiente, e \u00e9 com eles que n\u00f3s temos que produzir. O Brasil produz bem, n\u00f3s produzimos em quantidade, em qualidade, e conservando o meio ambiente, e \u00e9 injusto o que t\u00eam feito com os produtores rurais desse Brasil.\r\nEnt\u00e3o, conclamo todos aqui para ficarem atentos e alertas, porque n\u00f3s n\u00e3o podemos manchar a imagem do Brasil. O Pa\u00eds que est\u00e3o mostrando n\u00e3o \u00e9 o Brasil que estamos plantando no campo. N\u00f3s temos um outro Brasil no campo, n\u00f3s temos um novo agroneg\u00f3cio surgindo, \u00e9 importante que n\u00f3s preservemos a boa cara dessa nova agricultura e dessa nova pecu\u00e1ria que est\u00e3o surgindo.\r\nMuito obrigado.\r\nE fiquem atentos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F8%2F2019&txPagina=35&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-09T18:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "LICENCIAMENTO AMBIENTAL, COMISS\u00c3O GERAL.\r\nCONSELHO NACIONAL DO MEIO AMBIENTE (CONAMA), ATUA\u00c7\u00c3O.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Debate acerca do licenciamento ambiental.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG) - Sr. Presidente, boa tarde. Antes de mais nada, quero parabeniz\u00e1-lo, Deputado Kim Kataguiri, pelo seu equil\u00edbrio e pela sua disposi\u00e7\u00e3o em manter o di\u00e1logo vivo. Falo isso de cora\u00e7\u00e3o aberto.\r\nEu trago aqui hoje uma pequena reflex\u00e3o sobre um epis\u00f3dio que ocorreu comigo na \u00faltima semana, aqui nos corredores da Casa. Uma mo\u00e7a, dessas que frequentemente nos param para fazer pesquisa, pediu-me para dar uma nota, de zero a cinco, em que zero era pouca urg\u00eancia e cinco era muita urg\u00eancia, a temas que est\u00e3o sendo discutidos nesta Casa. E \u00e0 medida em que ela apresentava um tema, eu dizia se considerava muito urgente ou pouco urgente. Ela citou reforma tribut\u00e1ria e tudo o mais, at\u00e9 que chegou num ponto: a flexibiliza\u00e7\u00e3o do licenciamento ambiental. E essa express\u00e3o me chamou muito a aten\u00e7\u00e3o, porque n\u00e3o \u00e9 esse o prop\u00f3sito que n\u00f3s temos tido aqui. \r\nN\u00f3s n\u00e3o estamos buscando flexibilizar nada. Isso \u00e9 at\u00e9 uma afronta com todo o trabalho que temos dedicado a esse grupo de trabalho e com o que n\u00f3s temos feito nesta Casa. S\u00e3o audi\u00eancias p\u00fablicas, reuni\u00f5es e mais reuni\u00f5es, trabalho e mais trabalho, mas n\u00e3o buscando flexibilizar. Essa \u00e9 uma palavra que realmente pode soar muito mal. Pode parecer que n\u00f3s estamos querendo desproteger o meio ambiente. Em vez de flexibilizar, eu enxergo que n\u00f3s estamos tentando racionalizar a legisla\u00e7\u00e3o, dar um pouco mais de seguran\u00e7a e criar padr\u00f5es, algo que seja mais claro para garantir para quem quer produzir um m\u00ednimo de seguran\u00e7a no Pa\u00eds.\r\nEu enxergo que alguns pontos - e discuti agora h\u00e1 pouco com a equipe aqui - s\u00e3o divergentes, e eu at\u00e9 entendo. Eu noto que a responsabilidade na defini\u00e7\u00e3o de tipologias e crit\u00e9rios, como CONAMA, Estados e Munic\u00edpios, \u00e9 um ponto realmente divergente. E eu quero manifestar aqui a minha opini\u00e3o. Eu acredito que s\u00e3o os Estados e os Munic\u00edpios os capazes, s\u00e3o eles que s\u00e3o capazes, diante das peculiaridades, das caracter\u00edsticas, de cada particularidade. Eu vejo que isso \u00e9 mais seguro na m\u00e3o de Estados e Munic\u00edpios.\r\nN\u00e3o vejo outra forma de fazermos isso. O Brasil \u00e9 plural. S\u00e3o muitos brasis que n\u00f3s temos por aqui. N\u00e3o vejo isso como algo t\u00e3o negoci\u00e1vel nesse momento.\r\nEu vejo tamb\u00e9m que h\u00e1 uma diverg\u00eancia entre a posi\u00e7\u00e3o dos \u00f3rg\u00e3os intervenientes. Acho que eles s\u00e3o importantes, mas cada um no seu quadrado e cada um no seu momento. N\u00f3s precisamos dar voz. \u00c9 necess\u00e1rio que eles tenham voz, mas cada um no seu momento, cada um no seu tempo, com prazo pr\u00e9-estabelecido e de modo n\u00e3o vinculante, sen\u00e3o vamos criar dentro do licenciamento um momento para resolvermos todos os problemas do Pa\u00eds.\r\nPor \u00faltimo, eu falo aqui mais uma vez, como engenheiro agr\u00f4nomo, para que n\u00f3s tenhamos muito cuidado em n\u00e3o criar normas para fiscalizar normas. E eu falo especificamente para o agro, lembrando que o agroneg\u00f3cio vai do pequeno ao grande produtor rural. Todos nessa cadeia fazem parte do agroneg\u00f3cio. Se tratamos de recursos h\u00eddricos, n\u00f3s j\u00e1 temos normas espec\u00edficas para isso. Se um analista vai at\u00e9 a uma propriedade rural, para fazer um relat\u00f3rio, para conseguir uma licen\u00e7a ambiental, quando ele vai fiscalizar a quest\u00e3o de defensivos agr\u00edcolas, mais uma vez ele est\u00e1 criando um procedimento burocr\u00e1tico para fiscalizar uma norma que j\u00e1 existe e que est\u00e1 escrita em outro lugar. Ent\u00e3o, n\u00f3s n\u00e3o podemos criar mais um rito burocr\u00e1tico, uma norma para cumprir normas. Isso n\u00e3o pode acontecer.\r\nFica registrada aqui a minha contribui\u00e7\u00e3o. Se h\u00e1 pontos a serem melhorados, vamos trabalhar nisso rapidamente, nesta semana, nos pr\u00f3ximos dias. Acho que n\u00f3s temos condi\u00e7\u00e3o. Temos um texto muito maduro.\r\nQuero aqui dizer que gostei dos avan\u00e7os. Eu tenho gostado dos avan\u00e7os. Ningu\u00e9m aqui pode dizer que o di\u00e1logo n\u00e3o est\u00e1 aberto. Ningu\u00e9m aqui pode dizer isso. Isso \u00e9 uma injusti\u00e7a com quem tem trabalhado, principalmente eu me refiro de cora\u00e7\u00e3o a V.Exa., Deputado Kim Kataguiri. Reconhe\u00e7o o seu trabalho. Di\u00e1logo n\u00e3o tem faltado. Sobre um projeto de lei de 15 anos, debutando nesta Casa, com audi\u00eancia p\u00fablica atr\u00e1s de audi\u00eancia p\u00fablica, reuni\u00e3o atr\u00e1s de reuni\u00e3o, ningu\u00e9m pode dizer uma coisa dessa. Ent\u00e3o, tenho gostado dos avan\u00e7os e acredito que n\u00f3s estamos muito pr\u00f3ximos de um texto ideal.\r\nFoi muito v\u00e1lido este momento. Tenho certeza de que foi um momento extremamente positivo.\r\nBom trabalho a todos.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F9%2F2019&txPagina=68&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-29T14:32",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "PROJETO DE LEI OR\u00c7AMENT\u00c1RIA, RECURSOS OR\u00c7AMENT\u00c1RIOS, REFORMA TRIBUT\u00c1RIA, REFORMA ADMINISTRATIVA, BR-354, BR-154, BR-365, RODOVIA FEDERAL, MINAS GERAIS.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Defesa da aloca\u00e7\u00e3o de recursos no Or\u00e7amento Geral da Uni\u00e3o de 2020 para a recupera\u00e7\u00e3o de rodovias federais. Necessidade de conclus\u00e3o das obras da BR-354, na regi\u00e3o do Alto Parana\u00edba, e da BR-154, na regi\u00e3o do Pontal do Tri\u00e2ngulo Mineiro, Estado de Minas Gerais. Prioridade governamental na recupera\u00e7\u00e3o da BR-365, entre os Munic\u00edpios de Uberl\u00e2ndia e Patos de Minas.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Sem revis\u00e3o do orador.) - Senhores, eu uso esta tribuna hoje para chamar a aten\u00e7\u00e3o desta Casa e para cham\u00e1-los a uma reflex\u00e3o sobre a necessidade de n\u00f3s assegurarmos, no Or\u00e7amento de 2020, recursos para a manuten\u00e7\u00e3o das rodovias federais.\r\nEm tempos de dificuldade, n\u00f3s temos que ter a habilidade e a responsabilidade de bem alocar esses recursos. Neste momento, sem d\u00favida nenhuma, mostram-se imprescind\u00edveis as reformas tribut\u00e1ria e administrativa.\r\nEu pe\u00e7o a aten\u00e7\u00e3o de V.Exas. para a necessidade de conclus\u00e3o de duas obras em especial: da BR-354, no Alto Parana\u00edba, e da BR-154, no Pontal do Tri\u00e2ngulo. Essas obras j\u00e1 est\u00e3o em execu\u00e7\u00e3o e precisam da nossa aten\u00e7\u00e3o.\r\nAl\u00e9m disso, pe\u00e7o uma especial aten\u00e7\u00e3o a uma rodovia que, no ano de 2018, foi palco de mais de 60 mortes e mais de 590 acidentes: a BR-365, que liga Uberl\u00e2ndia a Patos de Minas. S\u00e3o 220 quil\u00f4metros que merecem e precisam de nossa aten\u00e7\u00e3o.\r\nPor isso, pe\u00e7o especial aten\u00e7\u00e3o a V.Exas.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F10%2F2019&txPagina=55&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-13T14:44",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "GOVERNO FEDERAL, MINIST\u00c9RIO DE MEIO AMBIENTE, ATUA\u00c7\u00c3O, DEFESA, MEIO AMBIENTE, PROGRAMA NACIONAL LIX\u00c3O ZERO, EXTIN\u00c7\u00c3O, LIXO, AUS\u00caNCIA, TRATAMENTO, ACONDICIONAMENTO.  \r\nPOLO TECNOL\u00d3GICO, INOVA\u00c7\u00c3O TECNOL\u00d3GICA, AGRONEG\u00d3CIO, AGRICULTURA, IMPLANTA\u00c7\u00c3O, MINA GERAIS.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Congratula\u00e7\u00e3o ao Minist\u00e9rio do Meio Ambiente pelo lan\u00e7amento do Programa Nacional Lix\u00e3o Zero. Implanta\u00e7\u00e3o do Polo de Inova\u00e7\u00e3o do Agro, no Estado de Minas Gerais.",
+        "tipoDiscurso": "COMO L\u00cdDER",
+        "transcricao": "O SR. Z\u00c9 VITOR (PL - MG. Como L\u00edder. Sem revis\u00e3o do orador.) - Sra. Presidente, boa tarde.\r\nEu uso esta tribuna hoje por dois motivos.\r\nPrimeiro, eu quero parabenizar o Governo Federal, em especial a equipe do Minist\u00e9rio do Meio Ambiente, que ontem tomou uma atitude concreta e demonstrou, de fato, estar preocupado com o meio ambiente do Brasil, em especial com a qualidade de vida urbana e com o meio ambiente nas cidades brasileiras.\r\nOs discursos n\u00e3o mudaram a realidade do meio ambiente no nosso Pa\u00eds, mas agora n\u00f3s estamos percebendo uma atitude concreta. Al\u00e9m do discurso, percebe-se uma pol\u00edtica organizada e, mais do que isso, investimentos nesse segmento.\r\nOntem, numa grande cerim\u00f4nia, em que diversos Munic\u00edpios e cons\u00f3rcios do Brasil estiveram presentes, foram assinados alguns termos de fomento, alguns conv\u00eanios, para garantir recursos para essa pol\u00edtica ambiental, em especial para o Programa Nacional Lix\u00e3o Zero, que permite dar dignidade \u00e0s fam\u00edlias brasileiras, dar dignidade \u00e0queles que vivem nas cidades.\r\nVez ou outra, n\u00f3s vemos, inclusive na imprensa, o campo sendo criminalizado por um desgaste ambiental. Mas, nas cidades, n\u00f3s vivemos um grande caos: as pessoas est\u00e3o vivendo em meio ao lixo, ao lado de esgoto, em ambientes com a qualidade do ar duvidosa. Isso sem d\u00favida nenhuma n\u00e3o satisfaz a nenhum de n\u00f3s. Precisamos de atitudes concretas.\r\nPor isso, estou aqui hoje usando esta tribuna para parabenizar o Governo, em especial a equipe do meio ambiente, pela sensibilidade, por entender que as mudan\u00e7as devem ir muito al\u00e9m do discurso, precisam acontecer na pr\u00e1tica.\r\nO segundo motivo que me traz aqui \u00e9 alertar esta Casa sobre a grande mobiliza\u00e7\u00e3o que est\u00e1 acontecendo em Minas Gerais a favor da implanta\u00e7\u00e3o do Polo de Inova\u00e7\u00e3o do Agro. No Tri\u00e2ngulo Mineiro, no Alto Parana\u00edba e no noroeste de Minas Gerais, todos est\u00e3o engajados nessa grande mobiliza\u00e7\u00e3o, para que seja instalado ali um polo de inova\u00e7\u00e3o, a exemplo do que aconteceu no Paran\u00e1, na regi\u00e3o de Londrina. Produtores rurais, t\u00e9cnicos do setor, entidades diversas, institui\u00e7\u00f5es de ensino, sobretudo institui\u00e7\u00f5es de ensino superior, empresas de tecnologia, todos est\u00e3o engajados na implanta\u00e7\u00e3o do Polo de Inova\u00e7\u00e3o do Agro, com o apoio do Minist\u00e9rio da Agricultura e do Minist\u00e9rio da Ci\u00eancia e Tecnologia. \r\nDe fato, \u00e9 uma grande revolu\u00e7\u00e3o, \u00e9 o setor do agro se colocando num lugar de destaque. N\u00e3o h\u00e1 d\u00favida nenhuma da sua import\u00e2ncia para o Brasil, da ess\u00eancia que n\u00f3s temos, da voca\u00e7\u00e3o que n\u00f3s temos para o agroneg\u00f3cio. Todos os produtores de pequeno, m\u00e9dio e grande porte t\u00eam sido grandes e podem ser ainda maiores. N\u00f3s batemos recordes na produ\u00e7\u00e3o de gr\u00e3os. Mais de 250 milh\u00f5es de toneladas de gr\u00e3os foram produzidos no nosso Pa\u00eds. Isso nos coloca num outro patamar. Somos um dos maiores produtores de alimento do mundo. E cabe a todos n\u00f3s que estamos no campo a responsabilidade de alimentar o mundo e, obviamente, aqueles que est\u00e3o nas cidades, que por vezes desconhecem o que \u00e9 realizado no campo.\r\nEsse polo vem com este intuito: unir for\u00e7as, somar for\u00e7as, desenvolver tecnologia dentro e fora da porteira, para garantir uma boa produ\u00e7\u00e3o e qualidade de vida para quem est\u00e1 vivendo na cidade. Chegou a hora de acabar com essa disputa, com essa rivalidade, que por vezes impera. O campo \u00e9 amigo da cidade, e a cidade \u00e9 amiga e dependente do campo. \u00c9 isto o que n\u00f3s temos que pregar: a verdade sobre o Brasil, a verdade sobre o campo brasileiro.\r\nEu conto com a participa\u00e7\u00e3o de todos. Essa mobiliza\u00e7\u00e3o \u00e9 uma vit\u00f3ria que pode ser de todos, mas \u00e9 preciso engajamento de todos n\u00f3s aqui, de todos os Parlamentares mineiros, de todos os Prefeitos, dos diretores de sindicatos rurais e de cooperativas, todos unidos num \u00fanico prop\u00f3sito: somar for\u00e7a a favor da nossa regi\u00e3o, somar for\u00e7a a favor desse setor de extrema import\u00e2ncia econ\u00f4mica e social para toda Minas Gerais.\r\nObrigado, Sra. Presidente.\r\nPe\u00e7o que meu discurso seja inclu\u00eddo nos meios de comunica\u00e7\u00e3o da Casa, inclusive no programa A Voz do Brasil.\r\nUm grande abra\u00e7o!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F2%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T14:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS, LINHA DE CR\u00c9DITO, FINANCIAMENTO, PAGAMENTO DA FOLHA SALARIAL, PESSOA JUR\u00cdDICA, PEQUENA EMPRESA, M\u00c9DIA  EMPRESA, APROVA\u00c7\u00c3O, PROJETO DE LEI DE CONVERS\u00c3O.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Emiss\u00e3o de parecer \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos, e \u00e0s Emendas de n\u00bas 1 a 261 apresentadas conforme o caput do art. 3\u00ba do Ato Conjunto das Mesas da C\u00e2mara dos Deputados e do Senado Federal n\u00ba 1, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Para proferir parecer. Sem revis\u00e3o do orador.) - Sr. Presidente. Sras. e Srs. Deputados, eu vou tomar a liberdade de ir direto ao voto e quero apenas comunicar aos que ainda n\u00e3o tiveram a oportunidade de acessar o relat\u00f3rio final que aqueles artigos do primeiro relat\u00f3rio, o relat\u00f3rio preliminar, os arts. 18, 19, 20, 21 e 22, foram suprimidos para que essas discuss\u00f5es possam ser realizadas em outro momento.\r\n\"III - Conclus\u00e3o do Voto \r\nAnte o exposto, pela Comiss\u00e3o Mista, votamos:\r\n(i) pelo atendimento dos pressupostos constitucionais da Medida Provis\u00f3ria n\u00ba 944, de 2020, e pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa da Medida Provis\u00f3ria n\u00ba 944, de 2020, e das emendas apresentadas perante a Comiss\u00e3o Mista, com a ressalva das Emendas n\u00bas 20, 21, 24, 25, 26, 27, 42, 44, 45, 47, 48, 49, 52, 56, 63, 90, 91, 130, 168, 216, 225, 226, 241 e 247, as quais consideramos serem inconstitucionais, por versarem sobre mat\u00e9ria de conte\u00fado tem\u00e1tico estranho ao objeto origin\u00e1rio da referida Medida Provis\u00f3ria;\r\n(ii) pela adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira da Medida Provis\u00f3ria n\u00ba 944, de 2020, e, quanto \u00e0s Emendas:\r\na. pela n\u00e3o implica\u00e7\u00e3o sobre as despesas ou receitas p\u00fablicas das Emendas n\u00bas 1, 2, 4 a 26, 28 a 41, 43 a 51, 53, 57 a 64, 66 a 76, 78 a 89, 91, 92, 94 a 112, 114 a 127, 129, 131 a 148, 150 a 154, 156 a 162, 164 a 181, 183 a 187, 189 a 192, 194 a 204, 206 a 210, 212 a 215, 217 a 220, 222 a 236, 238 a 244, 246 a 248, 250 a 261;\r\nb. pela adequa\u00e7\u00e3o or\u00e7ament\u00e1ria e financeira das Emendas n\u00bas 3, 27, 42, 52, 54, 56, 90, 128, 155, 205, 216, 237, 245 e 249; e\r\nc. pela inadequa\u00e7\u00e3o e incompatibilidade or\u00e7ament\u00e1ria e financeira das Emendas n\u00bas 55, 65, 77, 93, 113, 130, 149, 163, 182, 193, 211 e 221;\r\n(iii) no m\u00e9rito:\r\na. pela aprova\u00e7\u00e3o da Medida Provis\u00f3ria n\u00ba 944, de 2020, e das Emendas n\u00bas 1, 2, 6, 8, 13, 18, 23, 37, 38, 40, 43, 50, 57, 61, 71, 72, 75, 83, 85, 106, 107, 133, 135, 136, 140, 141, 145, 147, 148, 157, 158, 170, 171, 173, 177, 184 a 186, 189, 201 a 203, 207, 218, 224, 258 e 259, na forma do Projeto de Lei de Convers\u00e3o anexo a este Parecer; e\r\nb. pela rejei\u00e7\u00e3o das demais Emendas apresentadas.\"\r\nEm resumo, Sras. e Srs. Deputados, n\u00f3s ampliamos o teto de faturamento das empresas de 10 milh\u00f5es de reais para 50 milh\u00f5es de reais e possibilitamos uma flexibiliza\u00e7\u00e3o para que as empresas possam tomar recursos em at\u00e9 100% da sua folha de pagamento, o que permite uma flexibilidade para os empres\u00e1rios e empregadores. \r\nTamb\u00e9m estamos ampliando a data de ades\u00e3o ao programa at\u00e9 31 de outubro, importante para esse momento p\u00f3s-crise, essa sa\u00edda da pandemia.\r\nN\u00f3s tamb\u00e9m eliminamos a obrigatoriedade de a folha de pagamento ser processada por uma institui\u00e7\u00e3o financeira, o que era um grande entrave para essa medida provis\u00f3ria e talvez justifique muito a dificuldade de as empresas tomarem empr\u00e9stimo.\r\nSaibam V.Exas. que n\u00f3s temos um universo, se considerarmos a antiga faixa de faturamento de 360 mil a 10 milh\u00f5es de reais, de 1,5 milh\u00e3o de empresas. Mas com essa obrigatoriedade de se processar a folha de pagamento da empresa na institui\u00e7\u00e3o financeira, esse universo ca\u00eda para 260 mil empresas, o que explica muito a dificuldade de as empresas acessarem o cr\u00e9dito.\r\nEstamos \u00e0 disposi\u00e7\u00e3o para esclarecimentos.\r\nEra isso o que eu tinha a dizer, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=102&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T15:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER DO RELATOR, REJEI\u00c7\u00c3O, EMENDA DE PLEN\u00c1RIO, PROJETO DE LEI DE CONVERS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS, LINHA DE CR\u00c9DITO, FINANCIAMENTO, PAGAMENTO DA FOLHA SALARIAL, PESSOA JUR\u00cdDICA, PEQUENA EMPRESA, M\u00c9DIA EMPRESA.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas de Plen\u00e1rio de n\u00bas 1 a 21, apresentadas \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Para proferir parecer. Sem revis\u00e3o do orador.) - Presidente, eu vou direto ao nosso voto.\r\nAp\u00f3s an\u00e1lise da mat\u00e9ria e amplo di\u00e1logo com os L\u00edderes partid\u00e1rios, n\u00f3s versamos a Emenda n\u00ba 16 inconstitucional, por tratar de mat\u00e9ria estranha, e conclu\u00edmos pela rejei\u00e7\u00e3o das demais emendas apresentadas. \r\n\"A despeito das boas inten\u00e7\u00f5es dos ilustres pares, entendemos que todos os assuntos versados nessas emendas foram exaustivamente discutidos com os L\u00edderes partid\u00e1rios. Por essa raz\u00e3o, nosso voto \u00e9 pela preserva\u00e7\u00e3o do texto apresentado no projeto de lei de convers\u00e3o.\"\r\nAnte o exposto, pela Comiss\u00e3o Mista, votamos pela constitucionalidade, juridicidade e boa t\u00e9cnica legislativa e adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria de todas as emendas de Plen\u00e1rio com apoiamento regimental e, no m\u00e9rito, pela sua rejei\u00e7\u00e3o.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=118&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T16:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL),  VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 106, oferecida \u00e0  Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, s\u00f3 quero explicar algo para os amigos e colegas Deputados. \u00c9 louv\u00e1vel a atitude de pleitear recurso para a microempresa. Isso \u00e9 fundamental.\r\nAcontece que essa categoria de empresas, as microempresas, os MEIs j\u00e1 foram atendidos no PRONAMPE, programa que n\u00f3s discutimos e aprovamos aqui, que inclusive oferece condi\u00e7\u00f5es melhores \u00e0s empresas. \u00c9 importante separarmos as duas coisas, porque n\u00f3s atendemos os MEIs, as microempresas, e agora estamos buscando atender as pequenas e m\u00e9dias. Essa \u00e9 a grande diferen\u00e7a.\r\n\u00c9 louv\u00e1vel tamb\u00e9m a solicita\u00e7\u00e3o para que arquemos com 5 meses de sal\u00e1rios dos funcion\u00e1rios das empresas que contrataram o servi\u00e7o. Ocorre que, em todos os estudos que fizemos, n\u00f3s chegamos \u00e0 conclus\u00e3o de que ampliar ainda mais o n\u00famero de meses limitaria o n\u00famero de empresas que poderiam acessar o recurso. Isso \u00e9 muito \u00f3bvio. N\u00f3s concentrar\u00edamos o recurso na m\u00e3o de menos empresas e n\u00e3o deixar\u00edamos que o benef\u00edcio chegasse a mais trabalhadores. Ent\u00e3o o PL orienta \"n\u00e3o\".\r\nObrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=140&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-25T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL) (1987), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 15, oferecida \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Est\u00e1 bem, Sr. Presidente.\r\nObrigado, Deputado Sergio Toledo.\r\nQuero registrar que os Deputados Gelson Azevedo, Bosco Costa e Josimar Maranh\u00e3ozinho n\u00e3o conseguiram votar na \u00faltima vota\u00e7\u00e3o e votam com o partido.\r\nSr. Presidente, pe\u00e7o que sejamos justos com o programa que est\u00e1 sendo votado aqui. \u00c9 claro que \u00e9 leg\u00edtimo e necess\u00e1rio apoiarmos os MEIs e as microempresas. Ningu\u00e9m aqui \u00e9 contr\u00e1rio a isso. O que precisamos separar \u00e9 que o PRONAMPE j\u00e1 abrigou essas empresas, e n\u00f3s estamos discutindo hoje um programa para outra categoria de empresas. O PRONAMPE, inclusive, traz para as microempresas e para os MEIs uma linha com condi\u00e7\u00f5es melhores do que as que traz o pr\u00f3prio programa que estamos votando aqui hoje. Ent\u00e3o, \u00e9 importante separar tudo isso e refor\u00e7ar a import\u00e2ncia das microempresas para o Pa\u00eds, \u00e9 claro. E n\u00f3s n\u00e3o estamos votando... que fique claro que o faturamento que colocamos nesse programa \u00e9 de 360 mil reais por ano, ou seja, estariam abarcadas nesse nosso programa aquelas empresas que faturam cerca de 30 mil reais ou 40 mil reais por m\u00eas.\r\nO PL vota \"n\u00e3o\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=26%2F6%2F2020&txPagina=161&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T15:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE PLEN\u00c1RIO, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Plen\u00e1rio n\u00ba 8, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, eu queria apenas explicar aos colegas Parlamentares que \u00e9 muito justa essa reivindica\u00e7\u00e3o para o setor de turismo. De fato, esse setor tem sofrido muito neste momento de pandemia.\r\nOcorre que no art. 19 do relat\u00f3rio que entregamos h\u00e1 exatamente um par\u00e1grafo que atende o setor de turismo. Isso foi constru\u00eddo inclusive com o Minist\u00e9rio do Turismo. Eu tenho certeza de que esse \u00e9 um passo importante para o setor. Motivo que me leva a entender que o que foi apresentado pelo Deputado Geninho Zuliani, embora seja louv\u00e1vel, n\u00e3o cabe, seria uma medida n\u00e3o t\u00e3o efetiva quanto essa que n\u00f3s apresentamos.\r\nPor isso, o PL orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=62&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T15:24",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMENDA DE COMISS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda de Comiss\u00e3o n\u00ba 10, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s estamos propondo mudan\u00e7as, altera\u00e7\u00f5es no texto da medida provis\u00f3ria, no programa que a medida provis\u00f3ria traz, para que de fato ele seja efetivo. Proposta como esta apresentada aqui dificulta ainda mais o acesso ao cr\u00e9dito, torna invi\u00e1vel que as institui\u00e7\u00f5es financeiras desempenhem o seu papel neste momento.\r\nHoje, o Tesouro arca com 85%, e as institui\u00e7\u00f5es financeiras, com 15%, e j\u00e1 temos visto por a\u00ed in\u00fameras reclama\u00e7\u00f5es sobre dificuldade de acesso ao cr\u00e9dito.\r\nSe quebrarmos esse equil\u00edbrio financeiro, teremos que alterar a taxa, o que n\u00e3o \u00e9 algo vi\u00e1vel neste momento. O que temos de fazer, senhoras e senhores, \u00e9 manter aquilo que apresentamos no relat\u00f3rio, que propicia seguran\u00e7a ao empregador e tamb\u00e9m, de certa maneira, \u00e0 institui\u00e7\u00e3o financeira e torna vi\u00e1vel e atrativa a concess\u00e3o de cr\u00e9dito para as empresas neste momento.\r\nO PL orienta \"n\u00e3o\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=71&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T16:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EXPRESS\u00c3O TEXTUAL, DISPOSITIVO LEGAL, PLV 20/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da express\u00e3o j\u00e1 inclu\u00eddo o prazo de car\u00eancia de que trata o inciso II do caput deste artigo, constante do inciso III, art. 6\u00ba, do Projeto de Lei de Convers\u00e3o n\u00ba 20, de 2020, da Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, o PL orienta \"sim\", por entender que, embora a emenda seja louv\u00e1vel, o programa foi desenhado imaginando-se o equil\u00edbrio financeiro. Se n\u00f3s tirarmos o equil\u00edbrio financeiro dessas opera\u00e7\u00f5es, n\u00f3s teremos que aumentar a taxa, o que n\u00e3o \u00e9 nenhum pouco vantajoso neste momento.\r\nPor isso, eu pe\u00e7o sensibilidade \u00e0s Sras. Deputadas e aos Srs. Deputados para que avaliem bem o que n\u00f3s estamos propondo. O programa j\u00e1 apresenta um prazo interessante. Poderia ser melhor? \u00c9 \u00f3bvio, \u00e9 claro, mas ele foi todo desenhado em cima daquilo que \u00e9 vi\u00e1vel e poss\u00edvel. Eu pe\u00e7o que n\u00f3s mantenhamos o texto para garantir a viabilidade desse programa.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=84&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-06-30T17:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS, PEQUENA EMPRESA, MICROEMPRESA, PANDEMIA, CORONAV\u00cdRUS.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Agradecimento aos Parlamentares, \u00e0 Consultoria Legislativa e outros pela participa\u00e7\u00e3o na elabora\u00e7\u00e3o do novo texto da Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, quero apenas fazer um agradecimento. Chegamos ao final desta vota\u00e7\u00e3o e cada um de n\u00f3s se abriu ao debate. Tenho certeza de que n\u00f3s constru\u00edmos um grande texto, maduro, efetivo, vi\u00e1vel. Agrade\u00e7o muito \u00e0 Consultoria da Casa e a todas as entidades que participaram. Esta Casa deu um grande passo no sentido de efetivamente colaborar com os empregadores para garantirem o sal\u00e1rio e o emprego dos trabalhadores, o que \u00e9 t\u00e3o importante neste momento.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=1%2F7%2F2020&txPagina=105&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T12:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "PARECER, EMENDA, SENADO FEDERAL, PLV 20/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, CRIA\u00c7\u00c3O, PROGRAMA EMERGENCIAL DE SUPORTE A EMPREGOS, LINHA DE CR\u00c9DITO, FINANCIAMENTO, PAGAMENTO DA FOLHA SALARIAL, PESSOA JUR\u00cdDICA, PEQUENA EMPRESA, M\u00c9DIA EMPRESA.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Emiss\u00e3o de parecer \u00e0s Emendas do Senado Federal ao Projeto de Lei de Convers\u00e3o n\u00ba 20, de 2020, da Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos; e \u00e0 altera\u00e7\u00e3o das Leis de n\u00bas 9.430, de 1996, e 13.999, de 2020.",
+        "tipoDiscurso": "PARECER",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Para proferir parecer. Sem revis\u00e3o do orador.) - Presidente, apenas para contextualizar a todos o programa que voltou do Senado - e n\u00f3s temos recebido muitos questionamentos -, para que todos fiquem na mesma sintonia, n\u00f3s estamos garantindo 17 bilh\u00f5es de reais nesse programa para as pequenas e m\u00e9dias empresas custearem folha de pagamento e tamb\u00e9m 12 bilh\u00f5es de reais para o PRONAMPE, para micro e pequenas empresas. \r\n\u00c9 bom lembrar que 105 mil microempresas e 112 mil pequenas empresas j\u00e1 foram atendidas pelo PRONAMPE. O recurso foi esgotado. Por isso h\u00e1 essa necessidade de um novo aporte.\r\nEu vou direto ao voto.\r\n\"II. Voto do Relator\r\nAp\u00f3s an\u00e1lise da mat\u00e9ria e amplo di\u00e1logo com os L\u00edderes partid\u00e1rios, entendemos que parte das emendas oriundas do Senado Federal merecem ser acolhidas, em raz\u00e3o dos avan\u00e7os e aprimoramentos que tendem a trazer para o texto final do projeto de lei de convers\u00e3o. Objetivamente, somos pelo acolhimento das Emendas n\u00ba 1, 3, 4, 5, 6 e 8.\r\nPor outro lado, a despeito das boas inten\u00e7\u00f5es dos ilustres Senadores, entendemos que os temas versados nas Emendas n\u00ba 2 e 7 foram exaustivamente discutidos quando da tramita\u00e7\u00e3o da mat\u00e9ria na C\u00e2mara dos Deputados, raz\u00e3o pela qual entendemos que tais emendas devem ser rejeitadas.\r\nAnte o exposto, votamos:\r\n(i) pela constitucionalidade, juridicidade, boa t\u00e9cnica legislativa e pela adequa\u00e7\u00e3o financeira e or\u00e7ament\u00e1ria de todas as emendas do Senado Federal; e\r\n(ii) quanto ao m\u00e9rito, pela aprova\u00e7\u00e3o das Emendas n\u00ba 1, 3, 4, 5, 6 e 8, e pela rejei\u00e7\u00e3o das Emendas n\u00ba 2 e 7, do Senado Federal.\"\r\n\u00c9 isso, Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=80&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-07-29T13:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, EMENDA, SENADO FEDERAL, PARECER FAVOR\u00c1VEL, PLV 20/2020, PROJETO DE LEI DE CONVERS\u00c3O, MPV 944/2020, MEDIDA PROVIS\u00d3RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o das Emendas do Senado Federal de n\u00bas 1, 3, 4, 5, 6 e 8, com parecer favor\u00e1vel, ao Projeto de Lei de Convers\u00e3o n\u00ba 20, de 2020, da Medida Provis\u00f3ria n\u00ba 944, de 2020, relativa \u00e0 institui\u00e7\u00e3o do Programa Emergencial de Suporte a Empregos; e \u00e0 altera\u00e7\u00e3o das Leis de n\u00bas 9.430, de 1996, e 13.999, de 2020, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Presidente, para que n\u00e3o reste d\u00favida para as senhoras e para os senhores, n\u00f3s estamos restabelecendo a faixa de faturamento entre 360 mil e 50 milh\u00f5es de reais, ent\u00e3o esse \u00e9 um grande avan\u00e7o. E, mais do que isso, n\u00f3s estamos aportando, com o apoio dos senhores, 12 bilh\u00f5es de reais ao PRONAMPE, para poder oferecer capital de giro para as empresas que faturam menos de 360 mil reais por ano, ou seja, n\u00f3s estamos atendendo micro, pequenas e m\u00e9dias empresas com esse projeto, e por isso a import\u00e2ncia de n\u00f3s aprovarmos a medida do modo que n\u00f3s relatamos.\r\nO PL orienta \"sim\".",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F7%2F2020&txPagina=86&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T20:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ENCERRAMENTO DE DISCUSS\u00c3O, PL 3729/2004, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL, COMBATE, CRIME AMBIENTAL.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de encerramento da discuss\u00e3o e do encaminhamento da vota\u00e7\u00e3o do Projeto de Lei n\u00ba 3.729, de 2004, sobre o disciplinamento do processo de licenciamento ambiental.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, como sinal de maturidade desta Casa, que h\u00e1 17 anos vem discutindo este tema, o PL orienta \"sim\", por acreditar que este texto \u00e9 seguro.\r\nEm nenhum ponto sequer, Presidente, n\u00f3s permitimos qualquer infra\u00e7\u00e3o ambiental. N\u00e3o h\u00e1 neste texto nenhum ponto que anistie, omita, esconda ou estimule algum crime ambiental. Pelo contr\u00e1rio, n\u00f3s estamos racionalizando o processo de licenciamento ambiental, trazendo seguran\u00e7a e agilidade.\r\nQue mal h\u00e1 em cobrar prazo? E s\u00e3o prazos longos, de 6 meses, 8 meses. Que mal h\u00e1 em permitir que a moderniza\u00e7\u00e3o chegue a esse procedimento de licenciamento ambiental? N\u00f3s n\u00e3o podemos permitir que os empreendedores que t\u00eam a ousadia de empreender neste Pa\u00eds tenham a sua vida empilhada em pap\u00e9is num canto de reparti\u00e7\u00e3o p\u00fablica.\r\nPor isso, o PL orienta \"sim\", Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T22:56",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE PREFER\u00caNCIA, EMENDA DE PLEN\u00c1RIO, PL 3729/2004, PROJETO DE LEI ORDIN\u00c1RIA, CONTR\u00c1RIO, REGULAMENTA\u00c7\u00c3O, LICENCIAMENTO AMBIENTAL, CONTR\u00c1RIO, FLEXIBILIZA\u00c7\u00c3O, DESMATAMENTO ILEGAL,",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de prefer\u00eancia para vota\u00e7\u00e3o da Emenda de Plen\u00e1rio n\u00ba 63, apresentada ao Projeto de Lei 3.729, de 2004, sobre o licenciamento ambiental; regulamenta\u00e7\u00e3o do inciso IV do \u00a7 1\u00ba do art. 225 da Constitui\u00e7\u00e3o Federal; altera\u00e7\u00e3o das Leis n\u00bas 9.605, de 1998, e 9.985, de 2000; e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 7.661, de 1988.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Sem revis\u00e3o do orador.) - Presidente, n\u00f3s estamos h\u00e1 anos neste debate e agora chegamos a um texto maduro e seguro, bem constru\u00eddo, bem formatado, pelo nosso Deputado Neri Geller, \u00e9 claro, com o apoio de v\u00e1rios Parlamentares, inclusive do Deputado Kim Kataguiri, que muito bem conduziu este projeto durante esta Legislatura. N\u00f3s chegamos aqui com um texto moderno e seguro. \r\nN\u00f3s estamos falando em racionalizar o processo de licenciamento ambiental, jamais em flexibiliz\u00e1-lo. N\u00e3o h\u00e1 um ponto sequer em que n\u00f3s estamos permitindo ou estimulando o desmatamento ilegal neste Pa\u00eds. N\u00e3o h\u00e1 um ponto nem uma v\u00edrgula sequer que favore\u00e7a algum infrator, algu\u00e9m que queira cometer um crime ambiental neste Pa\u00eds. N\u00e3o h\u00e1 um ponto sequer em que n\u00f3s anistiamos algu\u00e9m que v\u00e1 cometer algum delito contra o meio ambiente. Pelo contr\u00e1rio, n\u00f3s estamos respeitando aqueles que querem empreender, para que n\u00e3o tenham suas vidas amontoadas em pilhas de papel em \u00f3rg\u00e3os ambientais espalhados por este Pa\u00eds. \r\n\u00c9 claro que n\u00f3s precisamos fortalecer os \u00f3rg\u00e3os ambientais, e somos todos favor\u00e1veis a isso. Mas tamb\u00e9m somos favor\u00e1veis a respeitar aqueles que encaram de frente o desafio de trabalhar, de gerar emprego e de levar este Pa\u00eds adiante. N\u00f3s n\u00e3o estamos aqui, \u00fanica e exclusivamente, favorecendo ou privilegiando um setor. N\u00f3s estamos falando, \u00e9 claro, do setor rural; estamos falando da ind\u00fastria; estamos falando at\u00e9 de saneamento b\u00e1sico; estamos falando tamb\u00e9m de transformar a vida de quem vive nas cidades. \r\nPor isso, muito me preocupam o recado que n\u00f3s estamos dando aqui dentro, a desinforma\u00e7\u00e3o, a farra em que isto aqui tem se transformado, na irresponsabilidade que muitos t\u00eam de lan\u00e7ar daqui para fora informa\u00e7\u00f5es inver\u00eddicas, pura e simplesmente para agradar a uma base eleitoral. N\u00f3s temos maturidade e responsabilidade para discutir maduramente este tema e, sem d\u00favida nenhuma, aprov\u00e1-lo. Permitir que o Brasil avance, permitir que a legisla\u00e7\u00e3o ambiental seja aprimorada, isso n\u00e3o \u00e9 um projeto de Governo: \u00e9 um projeto do Brasil, \u00e9 um projeto do Pa\u00eds, \u00e9 um projeto que interessa a cada brasileiro. \r\nPor isso, com o respeito que eu tenho \u00e0queles que pensam diferente, com o respeito que tenho \u00e0queles que t\u00eam uma hist\u00f3ria de vida e uma trajet\u00f3ria pol\u00edtica diferentes, n\u00f3s n\u00e3o podemos contaminar esta discuss\u00e3o aqui. N\u00f3s temos, sim, que permitir que o Brasil avance. \r\nPor isso, n\u00f3s somos contra esse destaque do PT. N\u00f3s temos a certeza de que temos trabalhado e estimulado a verdade neste Brasil. \r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2021-05-12T23:36",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, SUBEMENDA SUBSTITUTIVA GLOBAL, PL 3729/2004, PROJETO DE LEI ORDIN\u00c1RIA, PARTIDO LIBERAL (PL), VOTO FAVOR\u00c1VEL.",
+        "nomeDeputado": "Z\u00e9 Vitor",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o da Subemenda Substitutiva Global oferecida pelo relator da Comiss\u00e3o de Meio Ambiente e Desenvolvimento Sustent\u00e1vel ao Projeto de Lei 3.729, de 2004, sobre o licenciamento ambiental; regulamenta\u00e7\u00e3o do inciso IV do \u00a7 1\u00ba do art. 225 da Constitui\u00e7\u00e3o Federal; altera\u00e7\u00e3o das Leis n\u00bas 9.605, de 1998, e 9.985, de 2000; e revoga\u00e7\u00e3o de dispositivo da Lei n\u00ba 7.661, de 1988, ressalvados os destaques.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. Z\u00c9 VITOR (Bloco/PL - MG. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, o PL orienta \"sim\".\r\nEsta vota\u00e7\u00e3o do projeto de licenciamento ambiental \u00e9 importante. N\u00e3o h\u00e1 aqui um \"libera geral\". Pelo contr\u00e1rio, h\u00e1 muita responsabilidade e comprometimento dos empreendedores para cumprir as normas ambientais. Estamos imputando aos empreendedores, \u00e0s suas equipes t\u00e9cnicas, o cumprimento das normas ambientais. Tenho certeza de que ningu\u00e9m est\u00e1 acima da lei, que ningu\u00e9m est\u00e1 autorizado a infringir qualquer norma ambiental.\r\nN\u00f3s temos um ativo importante, o meio ambiente, um ativo importante para o Brasil. Estamos dizendo \"sim\" tamb\u00e9m \u00e0 sua preserva\u00e7\u00e3o e estamos dizendo \"n\u00e3o\" \u00e0 desinforma\u00e7\u00e3o e ao uso eleitoreiro de temas como este. \r\nPor isso, o PL orienta \"sim\", Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=13%2F5%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]

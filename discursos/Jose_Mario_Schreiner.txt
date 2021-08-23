@@ -1,0 +1,182 @@
+[
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-04T12:00",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ALUNO, GOI\u00c1S, C\u00c2MARA DOS DEPUTADOS.\r\nAGRONEG\u00d3CIO, GOI\u00c1S, FEIRA TECNOSHOW COMIGO (2019, RIO VERDE (GO)), CI\u00caNCIA E TECNOLOGIA, CONGRATULA\u00c7\u00c3O.\r\nMINEIROS (GO), INSTITUTO FEDERAL GOIANO (IF GOIANO), AUDI\u00caNCIA P\u00daBLICA.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Sauda\u00e7\u00f5es aos alunos dos Munic\u00edpios de An\u00e1polis e Goian\u00e9sia, presentes na Casa. Realiza\u00e7\u00e3o da feira agropecu\u00e1ria Tecnoshow COMIGO 2019, no Munic\u00edpio de Rio Verde, Estado de Goi\u00e1s. Presen\u00e7a do orador no Munic\u00edpio de Mineiros para participa\u00e7\u00e3o em audi\u00eancia p\u00fablica destinada ao debate da instala\u00e7\u00e3o de unidade do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia na  municipalidade.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (Bloco/DEM - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, ocupo esta tribuna para falar de um assunto extremamente importante: o setor agropecu\u00e1rio. \r\nAntes, quero cumprimentar os alunos da nossa querida Goi\u00e1s, de An\u00e1polis e Goian\u00e9sia, que est\u00e3o visitando a nossa Casa.\r\nSra. Presidente, venho aqui para falar do setor agropecu\u00e1rio, um setor extremamente importante para o nosso Pa\u00eds. Ali\u00e1s, se n\u00e3o fosse ele, o Brasil, sem d\u00favida nenhuma, j\u00e1 teria fechado para balan\u00e7o. O agroneg\u00f3cio no meu Estado, Goi\u00e1s, tem sido sua \u00e2ncora. Mais de 70% do PIB, das riquezas do nosso Estado, s\u00e3o alicer\u00e7ados no setor agropecu\u00e1rio.\r\nQuero comunicar que, na pr\u00f3xima semana, ir\u00e1 ocorrer um evento extremamente importante para o agroneg\u00f3cio: a nossa feira Tecnoshow, realizada na cidade de Rio Verde, no sudoeste do Estado. A Tecnoshow, que est\u00e1 sendo realizada pelo 18\u00ba ano consecutivo, tem a cada ano ocupado espa\u00e7os mais importantes.\r\nPara os senhores e as senhoras terem uma ideia, a Tecnoshow COMIGO utiliza uma \u00e1rea de 60 hectares. Equivale a 60 campos de futebol o espa\u00e7o onde se realiza a feira. Mais de 600 expositores est\u00e3o ali para colocar as m\u00e1quinas, os equipamentos, enfim, tudo aquilo que o setor tem de moderno. Ali\u00e1s, o que tem promovido um grande avan\u00e7o no setor agropecu\u00e1rio s\u00e3o a ci\u00eancia e tecnologia. Tudo isso est\u00e1 exposto na Tecnoshow COMIGO, do dia 8 ao dia 12, para que os visitantes, os produtores, os t\u00e9cnicos possam utilizar e ver o que ocorre. Para se ter uma ideia da dimens\u00e3o dos neg\u00f3cios realizados, no ano passado eles somaram mais de 2,5 bilh\u00f5es, sendo que mais de 100 mil pessoas estiveram visitando a feira. \r\nEnt\u00e3o, quero aproveitar este momento para, por meio da TV C\u00e2mara, divulgar para todo o Brasil esse importante evento que a cidade de Rio Verde realiza atrav\u00e9s do nosso Presidente da Cooperativa Agroindustrial dos Produtores Rurais do Sudoeste Goiano - COMIGO, Antonio Chavaglia, e de toda a sua equipe. Quero tamb\u00e9m dar os nossos parab\u00e9ns a todos eles.\r\nInformo ainda que no fim do dia de hoje estaremos em Mineiros realizando uma audi\u00eancia p\u00fablica sobre a poss\u00edvel implanta\u00e7\u00e3o de uma unidade do Instituto Federal Goiano naquela querida cidade.\r\nA implanta\u00e7\u00e3o desse Instituto Federal \u00e9 extremamente importante, pois leva o ensino tecnol\u00f3gico aos nossos jovens, para que possam construir, por meio da educa\u00e7\u00e3o, um futuro melhor.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F4%2F2019&txPagina=56&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-04-16T17:16",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comunica\u00e7\u00f5es Parlamentares"
+        },
+        "keywords": "TECNOSHOW COMIGO (2019, RIO VERDE (GO)), FEIRA (EVENTO), TECNOLOGIA, AGROPECU\u00c1RIA.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Sucesso da Feira de Tecnologia em Agroneg\u00f3cio -  Tecnoshow COMIGO, realizada no Munic\u00edpio Rio Verde, Estado de Goi\u00e1s.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sr. Presidente, quero aproveitar este momento para comunicar o sucesso de uma feira que foi realizada na cidade de Rio Verde, em Goi\u00e1s, a Tecnoshow Comigo.\r\nPara V.Exas. terem uma ideia, foram ali comercializados 3 bilh\u00f5es e 400 milh\u00f5es de reais em m\u00e1quinas e equipamentos. Houve um aumento de 40% em rela\u00e7\u00e3o ao ano de 2018. Circularam por l\u00e1 mais de 120 mil pessoas.\r\nEu aproveito este momento para parabenizar a nossa cooperativa Comigo, o Presidente Antonio Chavaglia, a sua Diretoria, todos os colaboradores dessa importante cooperativa.\r\nQuero dizer a todos que o setor agropecu\u00e1rio, que tem contribu\u00eddo tanto para Goi\u00e1s e para o Brasil, continua mostrando a sua for\u00e7a.\r\nPe\u00e7o que este pronunciamento seja inserido no programa A Voz do Brasil.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=&Datain=17%2F4%2F2019&txPagina=108&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE ADIAMENTO DA DISCUSS\u00c3O, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o do requerimento de adiamento, por duas sess\u00f5es, da discuss\u00e3o do Projeto de Lei n\u00ba 3.715, de 2019, acerca da regulamenta\u00e7\u00e3o da posse de arma de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, s\u00f3 quem n\u00e3o conhece o meio rural do Brasil n\u00e3o se at\u00e9m a uma mat\u00e9ria t\u00e3o importante como esta.\r\nO produtor rural, os trabalhadores rurais de certa forma hoje vivem ref\u00e9ns da marginalidade e da criminalidade no meio rural, at\u00e9 pela pr\u00f3pria caracter\u00edstica do isolamento dos produtores e trabalhadores rurais do nosso Pa\u00eds. N\u00e3o \u00e9 raro vermos fam\u00edlias inteiras ref\u00e9ns, tanto de propriet\u00e1rios como tamb\u00e9m de trabalhadores rurais, de quadrilhas especializadas em roubo de gado e de m\u00e1quinas. Por isso n\u00f3s defendemos o porte de arma n\u00e3o s\u00f3 na propriedade, mas tamb\u00e9m em todo o per\u00edmetro das propriedades rurais do nosso Pa\u00eds.\r\nO Democratas vota \"n\u00e3o\" \u00e0 obstru\u00e7\u00e3o da discuss\u00e3o desta mat\u00e9ria.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=21&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-08-21T19:28",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ORIENTA\u00c7\u00c3O DE BANCADA, REQUERIMENTO DE RETIRADA DE PROPOSI\u00c7\u00c3O DA ORDEM DO DIA, PL 3715/2019, PROJETO DE LEI ORDIN\u00c1RIA, DEMOCRATAS (DEM), VOTO CONTR\u00c1RIO.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Orienta\u00e7\u00e3o de bancada na vota\u00e7\u00e3o de requerimento de retirada de pauta do Projeto de Lei n\u00ba 3.715, de 2019, sobre a regulamenta\u00e7\u00e3o da posse de armas de fogo em \u00e1reas rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, s\u00f3 quem n\u00e3o conhece a realidade do homem e da mulher rural, do pequeno, do m\u00e9dio e do grande propriet\u00e1rio e, principalmente, dos trabalhadores rurais n\u00e3o entende a vulnerabilidade que os produtores rurais vivem no nosso Pa\u00eds.\r\nPortanto, possibilitarmos a eles terem uma arma para defender n\u00e3o s\u00f3 a sua casa, mas tamb\u00e9m o per\u00edmetro da sua propriedade, \u00e9 fundamental, haja vista que o isolamento em que vivem \u00e9 muito grande.\r\nDigo mais, Sra. Presidente: hoje, no meio rural, muitas vezes, chegando a noite, os trabalhadores e os produtores, tomados de p\u00e2nico, pegam o seu autom\u00f3vel ou a sua motocicleta e se dirigem \u00e0 cidade.\r\nPor isso, o Democratas vota \"n\u00e3o\" \u00e0 retirada de pauta deste projeto, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=22%2F8%2F2019&txPagina=201&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-09-11T12:04",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Comiss\u00e3o Geral"
+        },
+        "keywords": "COMISS\u00c3O GERAL, D\u00c9CADA, AGRICULTURA FAMILIAR, SAUDA\u00c7\u00c3O.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Congratula\u00e7\u00f5es aos autores do requerimento de realiza\u00e7\u00e3o da Comiss\u00e3o Geral, Deputados Vilson da Fetaemg, Carlos Veras e Heitor Schuch. Sauda\u00e7\u00f5es \u00e0s lideran\u00e7as rurais presentes no plen\u00e1rio.",
+        "tipoDiscurso": "COMISS\u00c3O GERAL",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO) - Sr. Presidente, Sras. e Srs. Deputados, quero saudar os autores desta Comiss\u00e3o Geral, Deputado Vilson da Fetaemg, Deputado Carlos Veras e Deputado Heitor Schuch, do nosso Rio Grande do Sul; saudar todas as lideran\u00e7as que aqui est\u00e3o presentes, lideran\u00e7as rurais, da agricultura familiar, Prefeitos, Vereadores, presidentes de federa\u00e7\u00f5es dos trabalhadores; saudar os nossos amigos visitantes do Rio Grande do Sul, de Minas Gerais e do meu querido Estado de Goi\u00e1s. \r\nEu quero dizer que, sem d\u00favida nenhuma...\r\n(Desligamento autom\u00e1tico do microfone.)",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=12%2F9%2F2019&txPagina=53&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-09T17:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Breves Comunica\u00e7\u00f5es"
+        },
+        "keywords": "PL 952/2019, PROJETO DE LEI ORDIN\u00c1RIA, CONDICIONAMENTO, IMPORTA\u00c7\u00c3O, LEITE EM P\u00d3, PRAZO M\u00cdNIMO, PRAZO DE VALIDADE, FISCALIZA\u00c7\u00c3O, INSPE\u00c7\u00c3O SANIT\u00c1RIA., COMISS\u00c3O DE AGRICULTURA, PECU\u00c1RIA, ABASTECIMENTO E DESENVOLVIMENTO RURAL (CAPADR), APROVA\u00c7\u00c3O.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Aprova\u00e7\u00e3o, pela Comiss\u00e3o de Agricultura, Pecu\u00e1ria, Abastecimento e Desenvolvimento Rural, do Projeto de Lei n\u00ba 952, de 2019, acerca do regramento quanto ao limite imposto ao importador brasileiro de leite em p\u00f3 sobre prazo m\u00ednimo de validade do produto. Recupera\u00e7\u00e3o da sa\u00fade do Governador do Estado de Goi\u00e1s, Ronaldo Caiado.",
+        "tipoDiscurso": "BREVES COMUNICA\u00c7\u00d5ES",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Sem revis\u00e3o do orador.) - Sra. Presidente, Sras. e Srs. Deputados, n\u00f3s aprovamos hoje, na Comiss\u00e3o de Agricultura e Desenvolvimento Rural da C\u00e2mara dos Deputados, um projeto de lei de nossa autoria que visa trabalhar a quest\u00e3o do leite em p\u00f3 importado.\r\nEsse projeto diz que o leite em p\u00f3 importado, para ser internalizado no Brasil, precisa de 70% do seu prazo de validade ainda vigente. Esse projeto visa tamb\u00e9m proteger 1 milh\u00e3o e 200 mil produtores de leite do Pa\u00eds e os mais de 200 milh\u00f5es de consumidores que n\u00f3s temos, que muitas vezes t\u00eam d\u00favidas em rela\u00e7\u00e3o \u00e0 qualidade do leite em p\u00f3 importado, que chega quase vencendo ao nosso Pa\u00eds.\r\nEu quero aqui cumprimentar a Relatora do projeto, a Deputada Aline Sleutjes, que fez um relat\u00f3rio extremamente contundente, e toda a Comiss\u00e3o de Agricultura, que se empenhou e aprovou esse projeto por unanimidade.\r\nQuero aqui tamb\u00e9m trazer uma not\u00edcia que surgiu no in\u00edcio da tarde de hoje em rela\u00e7\u00e3o \u00e0 sa\u00fade do Governador Ronaldo Caiado. Noticiou-se que o Governador de Goi\u00e1s, o meu Governador Ronaldo Caiado, havia sofrido um enfarte. Quero dizer a todos os goianos e a todo o Brasil que a informa\u00e7\u00e3o que n\u00f3s temos de Goi\u00e2nia \u00e9 de que ele realmente sofreu uma press\u00e3o muito forte no t\u00f3rax, foi conduzido ao hospital, mas est\u00e1 muito bem de sa\u00fade, gra\u00e7as a Deus.\r\nN\u00f3s queremos agradecer a torcida de todos os colegas - ele esteve aqui por cinco mandatos -, de todos os goianos e de todos os brasileiros que t\u00eam grande estima e grande admira\u00e7\u00e3o por esse grande talento da pol\u00edtica brasileira, o Governador Ronaldo Caiado.\r\nObrigado, Sra. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F10%2F2019&txPagina=67&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-16T18:12",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "VENDA CASADA, FINANCIAMENTO, PRODUTOR RURAL.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Avan\u00e7o do acordo celebrado entre os Minist\u00e9rios da Agricultura, Pecu\u00e1ria e Abastecimento e da Justi\u00e7a e Seguran\u00e7a P\u00fablica, sobre a coibi\u00e7\u00e3o da venda casada em financiamentos rurais.",
+        "tipoDiscurso": "PELA ORDEM",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Pela ordem. Sem revis\u00e3o do orador.) - Sra. Presidente, foi assinado hoje, no Minist\u00e9rio da Agricultura, um conv\u00eanio extremamente importante com o Minist\u00e9rio da Justi\u00e7a, que visa coibir a venda casada nos financiamentos rurais.\r\nN\u00f3s sabemos que os produtores rurais do nosso Brasil, ao procurarem um agente financeiro, muitas vezes s\u00e3o incitados ou quase obrigados a deixar parte do recurso do financiamento em seguro, em t\u00edtulos de capitaliza\u00e7\u00e3o, fazendo, reduzindo o dinheiro necess\u00e1rio a sua lavoura, a sua cria\u00e7\u00e3o. Muitas vezes, os juros s\u00e3o de 8% para quem recebe subven\u00e7\u00e3o, mas isso eleva muito o custo dessa opera\u00e7\u00e3o. Pessoas imaginam que o produtor rural pega dinheiro a 8%, mas, no final do ano, ele paga 18%.\r\nPortanto, Sra. Presidente, Sras. e Srs. Deputados, esse foi um avan\u00e7o muito grande.\r\nParab\u00e9ns!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=91&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-10-24T14:48",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Pequeno Expediente"
+        },
+        "keywords": "COMISS\u00c3O DE AGRICULTURA, PECU\u00c1RIA, ABASTECIMENTO E DESENVOLVIMENTO RURAL (CAPADR), DEBATE, RESOLU\u00c7\u00c3O, AG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), PRODUTOR RURAL, LICEN\u00c7A AMBIENTAL, IRRIGA\u00c7\u00c3O. \r\nAG\u00caNCIA NACIONAL DE ENERGIA EL\u00c9TRICA (ANEEL), TRIBUTA\u00c7\u00c3O, ENERGIA SOLAR FOTOVOLTAICA.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Defesa, pela Comiss\u00e3o de Agricultura, Pecu\u00e1ria, Abastecimento e Desenvolvimento Rural, de reexame da Resolu\u00e7\u00e3o n\u00ba 800, de 2017, da Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL, acerca da exig\u00eancia aos irrigantes e aquicultores de licenciamento ambiental e outorga para obten\u00e7\u00e3o de descontos na energia previstos na Conta de Desenvolvimento Energ\u00e9tico - CDE. Rep\u00fadio \u00e0 pretens\u00e3o da ANEEL de taxa\u00e7\u00e3o da produ\u00e7\u00e3o de energia solar.",
+        "tipoDiscurso": "PEQUENO EXPEDIENTE",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, Sras. e Srs. Deputados, aproveito este minuto que me \u00e9 concedido para falar de uma importante audi\u00eancia p\u00fablica realizada nesta manh\u00e3, na Comiss\u00e3o de Agricultura, nesta C\u00e2mara dos Deputados, na qual tratamos da Resolu\u00e7\u00e3o n\u00ba 800 da Ag\u00eancia Nacional de Energia El\u00e9trica - ANEEL, que visa fazer com que produtores rurais que usam irriga\u00e7\u00e3o apresentem documento de licenciamento ambiental e outorga.\r\nSr. Presidente, Sras. e Srs. Deputados, a quest\u00e3o \u00e9 que, na grande maioria dos Estados brasileiros, leva-se de 5 anos a 10 anos para se obter essa licen\u00e7a. A Resolu\u00e7\u00e3o n\u00ba 800 prejudica os produtores rurais do Brasil, prejudica sobremaneira os irrigantes e, acima de tudo, comete injusti\u00e7a. Eu penso que a ANEEL deveria fazer com que os \u00f3rg\u00e3os de licenciamento ambiental dos Estados dessem celeridade a esses processos.\r\nPor fim, quero tratar de outro assunto: energia solar, energia fotovoltaica.\r\nForam muito incentivados no Brasil a instala\u00e7\u00e3o e o uso de energia solar, que \u00e9 uma energia limpa e renov\u00e1vel. Agora a ANEEL quer taxar a energia gerada pelo Sol, a energia fotovoltaica, colocando uma taxa de 67% em cima da energia gerada. Isso \u00e9 um absurdo completo! Isso desestimula as pessoas que querem investir e, acima de tudo, prejudica as pessoas que acreditaram nesses incentivos, financiaram essas obras, financiaram esses mecanismos e agora se veem totalmente prejudicadas. Al\u00e9m disso, muitos investidores internacionais que querem investir no Brasil veem essa situa\u00e7\u00e3o como uma demonstra\u00e7\u00e3o de inseguran\u00e7a jur\u00eddica e deixam de investir no nosso Pa\u00eds.\r\nObrigado, Sr. Presidente.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=25%2F10%2F2019&txPagina=60&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2019-11-06T12:52",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Homenagem"
+        },
+        "keywords": "SESS\u00c3O SOLENE, HOMENAGEM, DIA MUNDIAL DA ALIMENTA\u00c7\u00c3O, ANIVERS\u00c1RIO DE FUNDA\u00c7\u00c3O, ORGANIZA\u00c7\u00c3O DAS NA\u00c7\u00d5ES UNIDAS PARA A ALIMENTA\u00c7\u00c3O E AGRICULTURA (FAO).",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Transcurso do Dia Mundial da Alimenta\u00e7\u00e3o e do 40\u00ba anivers\u00e1rio do estabelecimento, no Brasil, da Organiza\u00e7\u00e3o das Na\u00e7\u00f5es Unidas para a Alimenta\u00e7\u00e3o e a Agricultura - FAO. Visita de familiares do orador \u00e0 C\u00e2mara dos Deputados.",
+        "tipoDiscurso": "HOMENAGEM",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Sem revis\u00e3o do orador.) - Obrigado, Sr. Presidente. Quero cumpriment\u00e1-lo por propor esta homenagem aos 40 anos da FAO. Sem d\u00favida nenhuma, o mundo da alimenta\u00e7\u00e3o, o mundo da seguran\u00e7a alimentar \u00e9 outro depois da FAO. \r\nCumprimento todos os membros da Mesa, o Roberto Sim\u00f5es, nosso Vice-Presidente da CNA, o Fernando Schwanke, nosso Embaixador da ABC, o Vice-Presidente da CONTAG, enfim, todos.\r\nEu gostaria de solidarizar-me com a FAO, esse \u00f3rg\u00e3o de extrema import\u00e2ncia, pelos seus 40 anos e pelo trabalho desenvolvido em conjunto com a Ag\u00eancia Brasileira de Coopera\u00e7\u00e3o e com o Minist\u00e9rio da Agricultura. Este \u00e9 um momento \u00edmpar, e eu n\u00e3o tenho d\u00favida de que n\u00f3s podemos avan\u00e7ar.\r\nQuero aproveitar para fazer o registro de que hoje temos aqui a visita do meu pai, Sr. Erich Schreiner, que vem l\u00e1 de Santa Catarina, e da minha m\u00e3e, D. Marieta, pai e m\u00e3e de sete filhos, criados na ro\u00e7a, tirando leite todos os dias. Eles hoje nos honram com a sua presen\u00e7a, juntamente com a minha irm\u00e3 Hermine e meu cunhado Jorge, em visita pela primeira vez a esta Casa. Quero homenage\u00e1-los e, \u00e9 claro, parabenizar publicamente a minha m\u00e3e, D. Marieta, pelos seus 86 anos.\r\nObrigado. \r\nParab\u00e9ns a todos!",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=7%2F11%2F2019&txPagina=&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    },
+    {
+        "dataHoraFim": null,
+        "dataHoraInicio": "2020-02-18T18:08",
+        "faseEvento": {
+            "dataHoraFim": null,
+            "dataHoraInicio": null,
+            "titulo": "Ordem do Dia"
+        },
+        "keywords": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O, REQUERIMENTO DE DESTAQUE DE VOTA\u00c7\u00c3O EM SEPARADO, EMC 78/2019, EMENDA DE COMISS\u00c3O, MPV 897/2019, MEDIDA PROVIS\u00d3RIA, FAVOR\u00c1VEL.",
+        "nomeDeputado": "Jose Mario Schreiner",
+        "sumario": "Encaminhamento da vota\u00e7\u00e3o do requerimento de destaque para vota\u00e7\u00e3o em separado da Emenda n\u00ba 78, apresentada \u00e0 Medida Provis\u00f3ria n\u00ba 897, de 2019, acerca da institui\u00e7\u00e3o do Fundo de Aval Fraterno; do patrim\u00f4nio de afeta\u00e7\u00e3o de propriedades rurais; da C\u00e9lula Imobili\u00e1ria Rural; da escritura\u00e7\u00e3o de t\u00edtulos de cr\u00e9dito e da concess\u00e3o de subven\u00e7\u00e3o econ\u00f4mica para empresas cerealistas.",
+        "tipoDiscurso": "ENCAMINHAMENTO DE VOTA\u00c7\u00c3O",
+        "transcricao": "O SR. JOSE MARIO SCHREINER (DEM - GO. Sem revis\u00e3o do orador.) - Sr. Presidente, o presente destaque trata de reincluirmos na Medida Provis\u00f3ria n\u00ba 897 um termo extremamente importante que trata das nossas cooperativas de cr\u00e9dito no Brasil. Trata-se de um segmento que vem crescendo muito, que vem atendendo a grande parte da popula\u00e7\u00e3o rural e da popula\u00e7\u00e3o urbana e, acima de tudo, aos pequenos produtores, que, \u00e0s vezes, est\u00e3o nos rinc\u00f5es dos Estados do nosso Pa\u00eds.\r\nComo no destaque anterior foram retiradas as Regi\u00f5es Norte e Nordeste, o destaque que estamos apresentando trata de reincluir na Regi\u00e3o Centro-Oeste a possibilidade de as cooperativas de cr\u00e9dito aplicarem 10% dos recursos dos fundos constitucionais, fazendo com que pequenos Munic\u00edpios que n\u00e3o t\u00eam ag\u00eancia banc\u00e1ria e produtores menores que n\u00e3o t\u00eam acesso a agentes financeiros possam obter um financiamento atrav\u00e9s das nossas cooperativas de cr\u00e9dito, que at\u00e9 agora tinham a necessidade de passar pelo CONDEL. Como todos n\u00f3s sabemos, o CONDEL, \u00e9 claro, n\u00e3o tem capacidade nenhuma de an\u00e1lise destes projetos.\r\nPortanto, o presente destaque trata exatamente de fortalecermos nossas cooperativas de cr\u00e9dito. Acreditamos no sistema cooperativista, nas cooperativas de cr\u00e9dito, como meio de atingirmos grande parte dos produtores, principalmente os pequenos produtores que precisam adquirir um pequeno equipamento, animais, enfim, aquilo que os fundos constitucionais puderem atender.\r\nPor isso, pe\u00e7o aos nobres Deputados e \u00e0s nobres Deputadas que votem \"sim\" ao destaque ora apresentado.\r\nMuito obrigado.",
+        "uriEvento": "",
+        "urlAudio": null,
+        "urlTexto": "http://imagem.camara.leg.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=19%2F2%2F2020&txPagina=171&txSuplemento=&enviar=Pesquisar",
+        "urlVideo": null
+    }
+]
