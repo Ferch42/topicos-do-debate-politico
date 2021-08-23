@@ -2,6 +2,18 @@ import requests
 from tqdm import tqdm
 import json
 
+import requests
+from urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
+
+s = requests.Session()
+
+retries = Retry(total=5,
+                backoff_factor=0.1,
+                status_forcelist=[ 500, 502, 503, 504 ])
+
+s.mount('https://', HTTPAdapter(max_retries=retries))
+
 # funções auxiliares
 
 def seleciona_link(links, chave):
@@ -17,7 +29,7 @@ def seleciona_link(links, chave):
 def captura_discursos(deputado):
 
 	# captura todos os discursos do deputado
-	requisicao_inicial = requests.get(
+	requisicao_inicial = s.get(
 		f"https://dadosabertos.camara.leg.br/api/v2/deputados/{deputado['id']}/discursos",
 		params = {'idLegislatura': deputado['idLegislatura']}
 	)
@@ -42,7 +54,7 @@ def captura_discursos(deputado):
 		if not proximo_link:
 			break
 
-		proxima_requisicao = requests.get(proximo_link)
+		proxima_requisicao = s.get(proximo_link)
 		link_atual = proximo_link
 
 		dados_requisicao = json.loads(proxima_requisicao.text)
@@ -61,7 +73,7 @@ def captura_discursos(deputado):
 def main():
 
 	# Faz a requisição dos deputados
-	requisicao_deputados = requests.get("https://dadosabertos.camara.leg.br/api/v2/deputados")
+	requisicao_deputados = s.get("https://dadosabertos.camara.leg.br/api/v2/deputados")
 	dados_deputados = json.loads(requisicao_deputados.text)
 
 	deputados = dados_deputados['dados']
