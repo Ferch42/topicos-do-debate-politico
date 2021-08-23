@@ -1,6 +1,7 @@
 import re
 import nltk
 from nltk import word_tokenize
+import string
 
 regex_list = [r"(Orientação|Encaminhamento|Discussão|Emissão|Pedido|Agradecimento|Questão de ordem|Esclarecimento|Declaração|Defesa|Elogio|Apoio|Protesto).*?(sobre|acerca|respeito|para|referente)",\
 r"(nº|n°)(s)? \d+\.?\d*",r"alteração da(s)? Lei(s)?", r"de \d+", r"(relativa|relativo) (à|ao|aos)", \
@@ -32,8 +33,10 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 
 def preprocessa_sumario(texto):
 
+	if not texto:
+		return []
+		
 	discurso_preprocessado = texto
-
 	# Remove as expressões regulares
 	for r in regex_list:
 		discurso_preprocessado = re.sub(r, "", discurso_preprocessado) 
@@ -42,3 +45,9 @@ def preprocessa_sumario(texto):
 	return [w for w in word_tokenize(discurso_preprocessado.lower()) if w not in stop_words]
 
 
+
+def processa_string_topico(t):
+
+	palavras = t.replace(' ', '').replace('"',' ').split('+')
+	palavras_separadas = [x.split('*') for x in palavras]
+	return [{"palavra": x[1], "peso": x[0]} for x in palavras_separadas]
