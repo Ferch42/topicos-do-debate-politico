@@ -8,20 +8,32 @@ from tqdm import tqdm
 from funcoes_auxiliares import processa_string_topico
 
 NUMERO_DE_TOPICOS = 20
+datetime_format = "%Y-%m-%dT%H:%M"
+
+def aciona_mes(data):
+
+	d = datetime.strptime(data, datetime_format)
+
+	if d.month==12:
+
+		return datetime(d.year+1, 1, d.day).strftime(datetime_format)
+
+	else:
+		return datetime(d.year, d.month+1, d.day).strftime(datetime_format)
 
 def main():
 
 	# Começo da lesgislatura atual
-	data_de_inicio = datetime(2019,2,1)
+	data_de_inicio = "2019-02-01T00:00"
 	db = firestore.Client()
 
-	while(data_de_inicio< datetime.now()):
+	while(data_de_inicio< datetime.now().strftime(datetime_format)):
 
 		print(f"Processando : {data_de_inicio}")
-		discursos_do_mes = db.collection('discursos').where("dataHoraDiscurso", ">=", data_de_inicio).where('dataHoraDiscurso', '<=', data_de_inicio +  relativedelta(months=+1)).get()
+		discursos_do_mes = db.collection('discursos').where("dataHoraInicio", ">=", data_de_inicio).where('dataHoraInicio', '<=', aciona_mes(data_de_inicio)).get()
 
 		if not discursos_do_mes:
-			data_de_inicio = data_de_inicio +  relativedelta(months=+1)
+			data_de_inicio = aciona_mes(data_de_inicio)
 			continue
 
 		sumarios_tokenizados = [x.to_dict()['sumarioPreProcessado'] for x in discursos_do_mes]
@@ -36,11 +48,11 @@ def main():
 		topicos = modelo_lda.print_topics(num_words=20)
 		db.collection('topicos').add({
 				"dataInicio": data_de_inicio,
-				"dataFim": data_de_inicio +  relativedelta(months=+1),
+				"dataFim": aciona_mes(data_de_inicio),
 				"topicos": [{'palavras' : processa_string_topico(t[1]) , 'tsneCoords' : tsne_topicos[t[0]].tolist(), 'idTopico': t[0]} for t in topicos]
 			})
 
-		data_de_inicio = data_de_inicio +  relativedelta(months=+1)
+		data_de_inicio = aciona_mes(data_de_inicio)
 
 
 if __name__ == '__main__':
