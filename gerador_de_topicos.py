@@ -29,28 +29,33 @@ def main():
 
 	while(data_de_inicio< datetime.now().strftime(datetime_format)):
 
-		print(f"Processando : {data_de_inicio}")
-		discursos_do_mes = db.collection('discursos').where("dataHoraInicio", ">=", data_de_inicio).where('dataHoraInicio', '<=', aciona_mes(data_de_inicio)).get()
+		data_fim = aciona_mes(data_de_inicio)
 
-		if not discursos_do_mes:
-			data_de_inicio = aciona_mes(data_de_inicio)
-			continue
+		while(data_fim< datetime.now().strftime(datetime_format)):
+			
+			print(f"Processando : {data_de_inicio} até {data_fim}")
+			discursos_dos_meses = db.collection('discursos').where("dataHoraInicio", ">=", data_de_inicio).where('dataHoraInicio', '<=', data_fim).get()
+			
+			if not discursos_dos_meses:
+				data_fim = aciona_mes(data_fim)
+				continue
+				
+			sumarios_tokenizados = [x.to_dict()['sumarioPreProcessado'] for x in discursos_dos_meses]
+			dicionario = corpora.Dictionary(sumarios_tokenizados)
 
-		sumarios_tokenizados = [x.to_dict()['sumarioPreProcessado'] for x in discursos_do_mes]
-		dicionario = corpora.Dictionary(sumarios_tokenizados)
+			sumarios_vetorizados = [dicionario.doc2bow(s) for s in tqdm(sumarios_tokenizados)]
 
-		sumarios_vetorizados = [dicionario.doc2bow(s) for s in tqdm(sumarios_tokenizados)]
+			modelo_lda = ldamodel = gensim.models.ldamodel.LdaModel(sumarios_vetorizados, num_topics = NUMERO_DE_TOPICOS, id2word=dicionario, passes=10, alpha = 'auto', eta = 'auto')
 
-		modelo_lda = ldamodel = gensim.models.ldamodel.LdaModel(sumarios_vetorizados, num_topics = NUMERO_DE_TOPICOS, id2word=dicionario, passes=10, alpha = 'auto', eta = 'auto')
+			tsne_topicos = TSNE(n_components=2).fit_transform(modelo_lda.get_topics())
 
-		tsne_topicos = TSNE(n_components=2).fit_transform(modelo_lda.get_topics())
-
-		topicos = modelo_lda.print_topics(num_words=20)
-		db.collection('topicos').add({
-				"dataInicio": data_de_inicio,
-				"dataFim": aciona_mes(data_de_inicio),
-				"topicos": [{'palavras' : processa_string_topico(t[1]) , 'tsneCoords' : tsne_topicos[t[0]].tolist(), 'idTopico': t[0]} for t in topicos]
-			})
+			topicos = modelo_lda.print_topics(num_words=20)
+			db.collection('topicos').add({
+					"dataInicio": data_de_inicio,
+					"dataFim": data_fim,
+					"topicos": [{'palavras' : processa_string_topico(t[1]) , 'tsneCoords' : tsne_topicos[t[0]].tolist(), 'idTopico': t[0]} for t in topicos]
+				})
+			data_fim = aciona_mes(data_fim)
 
 		data_de_inicio = aciona_mes(data_de_inicio)
 

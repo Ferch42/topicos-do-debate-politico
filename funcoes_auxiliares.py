@@ -50,4 +50,4 @@ def processa_string_topico(t):
 
 	palavras = t.replace(' ', '').replace('"',' ').split('+')
 	palavras_separadas = [x.split('*') for x in palavras]
-	return [{"palavra": x[1], "peso": x[0]} for x in palavras_separadas]
+	return [{"text": x[1], "value": x[0]*100} for x in palavras_separadas]
