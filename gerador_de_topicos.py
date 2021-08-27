@@ -4,6 +4,8 @@ from gensim import corpora
 from sklearn.manifold import TSNE
 import gensim
 from google.cloud import firestore
+from mockfirestore import MockFirestore
+import pickle
 from tqdm import tqdm
 from funcoes_auxiliares import processa_string_topico
 
@@ -25,7 +27,14 @@ def main():
 
 	# Começo da lesgislatura atual
 	data_de_inicio = "2019-02-01T00:00"
-	db = firestore.Client()
+	
+	# Utilize essa versão para utilizar o banco de dados online
+	# db = firestore.Client()
+	# Fix para acesso local dos dados
+	db = MockFirestore()
+
+	with open('db.pkl', 'rb') as f:
+		db._data = pickle.load(f)
 
 	while(data_de_inicio< datetime.now().strftime(datetime_format)):
 
@@ -39,7 +48,7 @@ def main():
 			if not discursos_dos_meses:
 				data_fim = aciona_mes(data_fim)
 				continue
-				
+
 			sumarios_tokenizados = [x.to_dict()['sumarioPreProcessado'] for x in discursos_dos_meses]
 			dicionario = corpora.Dictionary(sumarios_tokenizados)
 
