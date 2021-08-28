@@ -3,10 +3,10 @@ import nltk
 from nltk import word_tokenize
 import string
 
-regex_list = [r"(Orientação|Encaminhamento|Discussão|Emissão|Pedido|Agradecimento|Questão de ordem|Esclarecimento|Declaração|Defesa|Elogio|Apoio|Protesto).*?(sobre|acerca|respeito|para|referente)",\
+regex_list = [r"(Orientação|Encaminhamento|Discussão|Emissão|Pedido|Questão de ordem|Esclarecimento|Declaração).*?(sobre|acerca|respeito|para|referente)",\
 r"(nº|n°)(s)? \d+\.?\d*",r"alteração da(s)? Lei(s)?", r"de \d+", r"(relativa|relativo) (à|ao|aos)", \
 r"Apelo.*?(por|pelo|pela|a respeito|sobre|acerca|de)", r"art\. \d+º?\.?\d*", \
-r"\d+\.?\d*(º|ª)?", r"arts\.", r"§", r"R$", r"%", r"(Apresentação|Aprovação).*?(de|da|do) ",\
+r"\d+\.?\d*(º|ª)?", r"arts\.", r"§", r"R$", r"%", r"Apresentação.*?(de|da|do) ",\
 r"votação em separado", r"Projeto de Lei", r"Medida Provisória", r"supressão", r"acerca", r"Decreto-Lei",\
 r"revogação", r"Lei", r"dispositivo", r"destaques", r'destaque', r"ressalvado(s)?", r"ressalvada(s)?",\
 r"inciso(s)?", r"redação", r'dada']
@@ -21,14 +21,13 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 ["pauta", "pautas", "leitura", "discurso", "discussão"] + \
 ["plenário", "pedido", "destaque", "separado", "artigo"]+ \
 ["anúncio", "solicitações", "solicitação", "arts.", "inciso", "incisos"] + \
-["caput", 'substitutivo', 'supressão', "assinaturas", "aprovação", "reprovação"] + \
+["caput", 'substitutivo', 'supressão', "assinaturas"] + \
 ["emissão", "parecer", "apresentação", "acerca", "apresentada"] + \
-["apresentado", "submissão", 'transcurso', "congratulações"] + \
-["homenagem", "alínea", "posicionamento", "regulamentação", "importância"]+ \
-["necessidade", "declaração", "debate", "agradecimento", "oradora", "durante"] + \
-['conversão', 'xii', 'constante', 'oferecido', 'oferecida', 'proposto', "contestação"] + \
-['discursos', 'referente', 'art', 'complementar', 'complementação', 'pec'] +\
-['consternação', 'apreciação']
+["apresentado", "submissão", 'transcurso'] + \
+["alínea", "posicionamento", "regulamentação", "importância"]+ \
+["declaração", "debate", "oradora","orador", "durante"] + \
+['conversão', 'xii', 'constante', 'oferecido', 'oferecida', 'proposto'] + \
+['discursos', 'referente', 'art', 'complementar', 'pec'] 
 
 
 def preprocessa_sumario(texto):
