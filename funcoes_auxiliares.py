@@ -27,8 +27,8 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 ["homenagem", "alínea", "posicionamento", "regulamentação", "importância"]+ \
 ["necessidade", "declaração", "debate", "agradecimento", "oradora", "durante"] + \
 ['conversão', 'xii', 'constante', 'oferecido', 'oferecida', 'proposto', "contestação"] + \
-['discursos', 'referente', 'art', 'complementar', 'complementação', 'pec', 'protesto'] +\
-['protestar', 'contrário', 'favor', 'consternação', 'apreciação']
+['discursos', 'referente', 'art', 'complementar', 'complementação', 'pec'] +\
+['consternação', 'apreciação']
 
 
 def preprocessa_sumario(texto):
@@ -48,6 +48,8 @@ def preprocessa_sumario(texto):
 
 def processa_string_topico(t):
 
-	palavras = t.replace(' ', '').replace('"',' ').split('+')
+	palavras = t.replace(' ', '').replace('"','').split('+')
 	palavras_separadas = [x.split('*') for x in palavras]
-	return [{"text": x[1], "value": x[0]*100} for x in palavras_separadas]
+	soma_total_pesos = sum([float(x[0]) for x in palavras_separadas])
+
+	return [{"text": x[1], "value": float(x[0])/soma_total_pesos*100} for x in palavras_separadas]

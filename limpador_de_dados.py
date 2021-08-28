@@ -12,7 +12,7 @@ def main():
 
 		# Adiciona sumario preprocessado ao banco de dados
 		sumario = disc.to_dict()['sumario']
-		disc.reference.update({"sumarioPreProcessado":preprocessa_sumario(sumario) })
+		disc.reference.update({"sumarioPreProcessado":preprocessa_sumario(sumario)})
 
 
 if __name__ == '__main__':
