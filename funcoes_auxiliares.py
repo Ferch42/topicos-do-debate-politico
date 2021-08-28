@@ -2,6 +2,7 @@ import re
 import nltk
 from nltk import word_tokenize
 import string
+import numpy as np
 
 regex_list = [r"(Orientação|Encaminhamento|Discussão|Emissão|Pedido|Questão de ordem|Esclarecimento|Declaração).*?(sobre|acerca|respeito|para|referente)",\
 r"(nº|n°)(s)? \d+\.?\d*",r"alteração da(s)? Lei(s)?", r"de \d+", r"(relativa|relativo) (à|ao|aos)", \
@@ -27,7 +28,7 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 ["alínea", "posicionamento", "regulamentação", "importância"]+ \
 ["declaração", "debate", "oradora","orador", "durante"] + \
 ['conversão', 'xii', 'constante', 'oferecido', 'oferecida', 'proposto'] + \
-['discursos', 'referente', 'art', 'complementar', 'pec'] 
+['discursos', 'referente', 'art', 'complementar', 'pec', 'rffsa'] 
 
 
 def preprocessa_sumario(texto):
@@ -52,3 +53,22 @@ def processa_string_topico(t):
 	soma_total_pesos = sum([float(x[0]) for x in palavras_separadas])
 
 	return [{"text": x[1], "value": float(x[0])/soma_total_pesos*100} for x in palavras_separadas]
+
+def calcula_probabilidade_to_topico_media(distribuicao_topicos, num_topicos):
+
+	lista_das_distribuicoes = list(distribuicao_topicos)
+
+	num_de_documentos = len(lista_das_distribuicoes)
+	
+	matrix_distrib_topicos = np.zeros(shape = (num_de_documentos, num_topicos))
+
+	for i, distrib in enumerate(lista_das_distribuicoes):
+
+		for topico in distrib:
+
+			j, prob = topico 
+			matrix_distrib_topicos[i][j] = prob 
+
+	distribuicao_media = np.mean(matrix_distrib_topicos, axis = 1)
+
+	return distribuicao_media

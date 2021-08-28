@@ -1,14 +1,16 @@
 from datetime import datetime
 from gensim import corpora
 from sklearn.manifold import TSNE
+from sklearn.cluster import KMeans
 import gensim
 from google.cloud import firestore
 from mockfirestore import MockFirestore
 import pickle
 from tqdm import tqdm
-from funcoes_auxiliares import processa_string_topico
+from funcoes_auxiliares import processa_string_topico, calcula_probabilidade_to_topico_media
 
-NUMERO_DE_TOPICOS = 20
+NUMERO_DE_TOPICOS = 100
+NUMERO_DE_AGRUPAMENTOS = 7
 datetime_format = "%Y-%m-%dT%H:%M"
 
 def adiciona_mes(data):
@@ -59,14 +61,28 @@ def main():
 
 			modelo_lda  = gensim.models.ldamodel.LdaModel(sumarios_vetorizados, num_topics = NUMERO_DE_TOPICOS, id2word=dicionario, passes=10, alpha = 'auto', eta = 'auto')
 
-			tsne_topicos = TSNE(n_components=2).fit_transform(modelo_lda.get_topics())
+			matrix_de_topicos = modelo_lda.get_topics()
+			tsne_topicos = TSNE(n_components=2).fit_transform(matrix_de_topicos)
 
-			topicos = modelo_lda.print_topics(num_words=50)
-			db_real.collection('topicos').add({
+			agrupamentos_de_topicos = KMeans(n_clusters=NUMERO_DE_AGRUPAMENTOS).fit_predict(matrix_de_topicos).tolist()
+			#print(agrupamentos_de_topicos)
+			topicos = modelo_lda.print_topics(num_topics=-1, num_words=20)
+
+			distribuicao_topicos = modelo_lda.get_document_topics(sumarios_vetorizados)
+
+			distribuicao_media_topicos = calcula_probabilidade_to_topico_media(distribuicao_topicos, NUMERO_DE_TOPICOS)
+			
+			topico_dict = {
 					"dataInicio": data_de_inicio,
 					"dataFim": data_fim,
-					"topicos": [{'palavras' : processa_string_topico(t[1]) , 'tsneCoords' : tsne_topicos[t[0]].tolist(), 'idTopico': t[0]} for t in topicos]
-				})
+					"topicos": [{'palavras' : processa_string_topico(t[1]) , 
+					'tsneCoords' : tsne_topicos[t[0]].tolist(),
+					'distribuicaoMedia': distribuicao_media_topicos[t[0]],
+					'idTopico': t[0], 
+					'grupoTopico': agrupamentos_de_topicos[t[0]]} for t in topicos]
+			}
+			#print(topico_dict)
+			db_real.collection('topicos').add(topico_dict)
 			data_fim = adiciona_mes(data_fim)
 
 		data_de_inicio = adiciona_mes(data_de_inicio)
