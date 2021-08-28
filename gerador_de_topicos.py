@@ -9,7 +9,7 @@ import pickle
 from tqdm import tqdm
 from funcoes_auxiliares import processa_string_topico, calcula_probabilidade_to_topico_media
 
-NUMERO_DE_TOPICOS = 100
+NUMERO_DE_TOPICOS = 32
 NUMERO_DE_AGRUPAMENTOS = 7
 datetime_format = "%Y-%m-%dT%H:%M"
 
@@ -64,7 +64,7 @@ def main():
 			matrix_de_topicos = modelo_lda.get_topics()
 			tsne_topicos = TSNE(n_components=2).fit_transform(matrix_de_topicos)
 
-			agrupamentos_de_topicos = KMeans(n_clusters=NUMERO_DE_AGRUPAMENTOS).fit_predict(matrix_de_topicos).tolist()
+			agrupamentos_de_topicos = KMeans(n_clusters=NUMERO_DE_AGRUPAMENTOS).fit_predict(tsne_topicos).tolist()
 			#print(agrupamentos_de_topicos)
 			topicos = modelo_lda.print_topics(num_topics=-1, num_words=20)
 
