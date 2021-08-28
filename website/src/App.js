@@ -8,16 +8,14 @@ import ReactWordcloud from 'react-wordcloud';
 import 'tippy.js/dist/tippy.css';
 import 'tippy.js/animations/scale.css';
 
-
-import { makeStyles } from '@material-ui/core/styles';
-import Typography from '@material-ui/core/Typography';
 import Slider from '@material-ui/core/Slider';
 
 
-import { Scatter } from 'react-chartjs-2';
+import { Bubble } from 'react-chartjs-2';
 
 
 const options = {
+
   animation: {
         duration: 0, // general animation time
   },
@@ -37,11 +35,6 @@ const options = {
 };
 
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    width: 300,
-  }
-}));
 
 const dates = ['2019-01-01T00:00', '2019-02-01T00:00', '2019-03-01T00:00', '2019-04-01T00:00', '2019-05-01T00:00', '2019-06-01T00:00', '2019-07-01T00:00', '2019-08-01T00:00', '2019-09-01T00:00', '2019-10-01T00:00', '2019-11-01T00:00', '2019-12-01T00:00', 
                '2020-01-01T00:00', '2020-02-01T00:00', '2020-03-01T00:00', '2020-04-01T00:00', '2020-05-01T00:00', '2020-06-01T00:00', '2020-07-01T00:00', '2020-08-01T00:00', '2020-09-01T00:00', '2020-10-01T00:00', '2020-11-01T00:00', '2020-12-01T00:00', 
@@ -110,23 +103,33 @@ const topicColours =  ['#F4ECC2', '#D1F4C2', '#C2F4DD', '#C2E0F4', '#CFC2F4', '#
 function parseTopicIntoPlot(topicData){
 
 
-
       var topicPlotData = { datasets : []}
+      var topicsWordData = []
 
-      for(let i = 0; i<100; i++){
-        var topicSize =  Math.ceil(topicData[i]['distribuicaoMedia']*1000);
+      for(let j = 0; j< 7; j++){
         topicPlotData.datasets.push({
-          label: (i+1).toString(),
-          data: [
-            {x : topicData[i]['tsneCoords'][0], y :topicData[i]['tsneCoords'][1]}
-          ],
-          pointRadius: topicSize,
-          pointHoverRadius: topicSize,
-          backgroundColor: topicColours[i%7],
+          label: (j+1).toString(),
+          data: [],
+          //pointRadius: topicSize,
+          //pointHoverRadius: topicSize,
+          backgroundColor: topicColours[j%7],
         });
+        topicsWordData.push([]);
+      }
+      for(let i = 0; i<20; i++){
+        var topicSize =  Math.ceil(topicData[i]['distribuicaoMedia']*1000);
+        var topicGroupId = topicData[i]['grupoTopico'];
+
+        topicsWordData[topicGroupId].push(topicData[i]['palavras']);
+        topicPlotData.datasets[topicGroupId].data.push(
+          {x : topicData[i]['tsneCoords'][0], 
+           y : topicData[i]['tsneCoords'][1], 
+           r : topicSize
+          });
       }
 
-      return topicPlotData;
+      console.log(topicsWordData);
+      return [topicPlotData, topicsWordData];
 
 }
 
@@ -142,7 +145,7 @@ function App() {
   const [dateRange, setDateRange] = React.useState([30, 31]);
   
   // this variable sets the topics for the current date range
-  const [topic, setTopic] = React.useState(0);
+  const [topic, setTopic] = React.useState([0,0]);
 
   const [topicWords, setTopicWords] = React.useState([]);
 
@@ -161,11 +164,12 @@ function App() {
   .then((snapshot) => snapshot.forEach((doc) => {
     if(doc.exists){
         var topics_data = doc.data()['topicos'];
-        setTopicWords(topics_data[topic]['palavras']);
+
+        var [tpd, twd] = parseTopicIntoPlot(topics_data);
+        setTopicWords(twd[topic[0]][topic[1]]);
         console.log('hie');
-        setTopicsData(topics_data);
-        setTopicPlotData(parseTopicIntoPlot(topics_data));
-        console.log(topicWords);
+        setTopicsData(twd);
+        setTopicPlotData(tpd);
     }
   }))
   .catch((err) => {console.log(err)});
@@ -173,10 +177,11 @@ function App() {
   }, []);
 
   const change_topic = React.useCallback((el) => {
-    
+      
+      console.log(el);
     if(el[0]){
-      setTopic(el[0].datasetIndex);
-      setTopicWords(topicsData[topic]['palavras']);
+      setTopic([el[0].datasetIndex, el[0].index]);
+      setTopicWords(topicsData[el[0].datasetIndex][el[0].index]);
     }
   });
 
@@ -189,7 +194,7 @@ function App() {
    enableOptimizations :true,
    rotations: 0
  };
-  if(topicWords.length == 0){
+  if(topicWords.length === 0){
     return (
      <div className="App content-center">
       <h1> Não há dados para esse intervalo </h1>
@@ -221,7 +226,7 @@ function App() {
           </div>
 
           <ReactWordcloud words={topicWords} options={options2}/>
-          <Scatter data={topicPlotData} getElementAtEvent={change_topic} options={options}/>
+          <Bubble data={topicPlotData} getElementAtEvent={change_topic} options={options}/>
 
           
           
