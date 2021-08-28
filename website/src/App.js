@@ -110,7 +110,9 @@ const topicColours =  ['#F4ECC2', '#D1F4C2', '#C2F4DD', '#C2E0F4', '#CFC2F4', '#
 function parseTopicIntoPlot(topicData){
 
 
+
       var topicPlotData = { datasets : []}
+
       for(let i = 0; i<100; i++){
         var topicSize =  Math.ceil(topicData[i]['distribuicaoMedia']*1000);
         topicPlotData.datasets.push({
