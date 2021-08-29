@@ -144,7 +144,7 @@ var db = firebase.firestore();
 function App() {
 
 
-  const [dateRange, setDateRange] = React.useState([1, 2]);
+  const [dateRange, setDateRange] = React.useState([0, 2]);
   
   // this variable sets the topics for the current date range
   const [topic, setTopic] = React.useState([0,0]);
@@ -160,7 +160,7 @@ function App() {
     setDateRange(newDateRange);
   });
 
-  React.useEffect(() =>{
+  const updateTopics = React.useCallback(() =>{
 
   db.collection("topicos").where("dataInicio", "==", dates[dateRange[0]]).where("dataFim", "==", dates[dateRange[1]]).get()
   .then((snapshot) => snapshot.forEach((doc) => {
@@ -177,7 +177,8 @@ function App() {
   }))
   .catch((err) => {console.log(err)});
   
-  }, [dateRange]);
+  });
+  React.useEffect(updateTopics, [dateRange]);
 
   const change_topic = React.useCallback((el) => {
       
@@ -228,11 +229,11 @@ function App() {
           />
           </div>
 
-          <div className="container flex w-full">
-            <div className="w-1/2">
+          <div className="container justify-center flex w-full">
+            <div className="w-2/5 float-left">
               <Bubble data={topicPlotData} getElementAtEvent={change_topic} options={options}/>
             </div>
-            <div className="w-1/2">
+            <div className="w-2/5">
                <ReactWordcloud words={topicWords} options={options2}/>
             </div>
            

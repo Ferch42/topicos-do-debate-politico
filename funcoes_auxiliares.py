@@ -31,7 +31,7 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 ['discursos', 'referente', 'art', 'complementar', 'pec', 'rffsa', 'v', '-d', 'r'] +\
 ['vii', '-c', 's/a']+ ["atendimento", "encaminhamento", "encaminhado", "realização"] +\
 ["apresentados", "apresentado"] + ['-b', 'd', "-c", '-e', '-f', 'artigos', 'br-'] +\
-["esclarecimento", 'pronunciamento', 'ix', 'então']
+["esclarecimento", 'pronunciamento', 'ix', 'então', 'quanto']
 
 
 def preprocessa_sumario(texto):
