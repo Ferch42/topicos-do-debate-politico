@@ -105,6 +105,7 @@ function parseTopicIntoPlot(topicData){
 
       var topicPlotData = { datasets : []}
       var topicsWordData = []
+      var availableTopic = 0;
 
       for(let j = 0; j< 7; j++){
         topicPlotData.datasets.push({
@@ -117,7 +118,7 @@ function parseTopicIntoPlot(topicData){
         topicsWordData.push([]);
       }
       for(let i = 0; i<20; i++){
-        var topicSize =  Math.ceil(topicData[i]['distribuicaoMedia']*1000);
+        var topicSize =  Math.ceil(topicData[i]['distribuicaoMedia']*750);
         var topicGroupId = topicData[i]['grupoTopico'];
 
         topicsWordData[topicGroupId].push(topicData[i]['palavras']);
@@ -126,10 +127,11 @@ function parseTopicIntoPlot(topicData){
            y : topicData[i]['tsneCoords'][1], 
            r : topicSize
           });
+        availableTopic = topicGroupId;
       }
 
       console.log(topicsWordData);
-      return [topicPlotData, topicsWordData];
+      return [topicPlotData, topicsWordData, availableTopic];
 
 }
 
@@ -142,7 +144,7 @@ var db = firebase.firestore();
 function App() {
 
 
-  const [dateRange, setDateRange] = React.useState([30, 31]);
+  const [dateRange, setDateRange] = React.useState([1, 2]);
   
   // this variable sets the topics for the current date range
   const [topic, setTopic] = React.useState([0,0]);
@@ -152,7 +154,7 @@ function App() {
   const [topicsData, setTopicsData] = React.useState([]);
 
   const [topicPlotData, setTopicPlotData] = React.useState({});
-
+  
   const handleDateRangeChange = React.useCallback((event, newDateRange) => {
     console.log(dates[newDateRange[0]], dates[newDateRange[1]]);
     setDateRange(newDateRange);
@@ -160,21 +162,22 @@ function App() {
 
   React.useEffect(() =>{
 
-  db.collection("topicos").where("dataInicio", "==", "2019-01-01T00:00").where("dataFim", "==", "2019-03-01T00:00").get()
+  db.collection("topicos").where("dataInicio", "==", dates[dateRange[0]]).where("dataFim", "==", dates[dateRange[1]]).get()
   .then((snapshot) => snapshot.forEach((doc) => {
     if(doc.exists){
         var topics_data = doc.data()['topicos'];
 
-        var [tpd, twd] = parseTopicIntoPlot(topics_data);
-        setTopicWords(twd[topic[0]][topic[1]]);
-        console.log('hie');
+        var [tpd, twd, atopic] = parseTopicIntoPlot(topics_data);
+        console.log(twd);
+        setTopic([atopic,0]);
+        setTopicWords(twd[atopic][0]);
         setTopicsData(twd);
         setTopicPlotData(tpd);
     }
   }))
   .catch((err) => {console.log(err)});
   
-  }, []);
+  }, [dateRange]);
 
   const change_topic = React.useCallback((el) => {
       
@@ -190,11 +193,11 @@ function App() {
   });
 
   const options2 = {
-   fontSizes: [50, 60],
+   fontSizes: [40, 60],
    enableOptimizations :true,
    rotations: 0
  };
-  if(topicWords.length === 0){
+  if(topicWords.length ===0){
     return (
      <div className="App content-center">
       <h1> Não há dados para esse intervalo </h1>
@@ -225,8 +228,16 @@ function App() {
           />
           </div>
 
-          <ReactWordcloud words={topicWords} options={options2}/>
-          <Bubble data={topicPlotData} getElementAtEvent={change_topic} options={options}/>
+          <div className="container flex w-full">
+            <div className="w-1/2">
+              <Bubble data={topicPlotData} getElementAtEvent={change_topic} options={options}/>
+            </div>
+            <div className="w-1/2">
+               <ReactWordcloud words={topicWords} options={options2}/>
+            </div>
+           
+          </div>
+          
 
           
           

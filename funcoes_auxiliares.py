@@ -23,12 +23,15 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 ["plenário", "pedido", "destaque", "separado", "artigo"]+ \
 ["anúncio", "solicitações", "solicitação", "arts.", "inciso", "incisos"] + \
 ["caput", 'substitutivo', 'supressão', "assinaturas"] + \
-["emissão", "parecer", "apresentação", "acerca", "apresentada"] + \
+["emissão", "parecer", "apresentação", "acerca", "apresentada", "apresentadas"] + \
 ["apresentado", "submissão", 'transcurso'] + \
 ["alínea", "posicionamento", "regulamentação", "importância"]+ \
 ["declaração", "debate", "oradora","orador", "durante"] + \
 ['conversão', 'xii', 'constante', 'oferecido', 'oferecida', 'proposto'] + \
-['discursos', 'referente', 'art', 'complementar', 'pec', 'rffsa'] 
+['discursos', 'referente', 'art', 'complementar', 'pec', 'rffsa', 'v', '-d', 'r'] +\
+['vii', '-c', 's/a']+ ["atendimento", "encaminhamento", "encaminhado", "realização"] +\
+["apresentados", "apresentado"] + ['-b', 'd', "-c", '-e', '-f', 'artigos', 'br-'] +\
+["esclarecimento", 'pronunciamento']
 
 
 def preprocessa_sumario(texto):
