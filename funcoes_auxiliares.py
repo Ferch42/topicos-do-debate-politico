@@ -14,7 +14,7 @@ r"inciso(s)?", r"redação", r'dada']
 
 stop_words = nltk.corpus.stopwords.words('portuguese') + \
 [punctuation for punctuation in string.punctuation] + \
-["nºs", "nº", "§", "º", "i", 'ii', 'iii', "-a"] + \
+["nºs", "nº", "§", "º", "i", 'ii', 'iii', "-a", 'º'] + \
 ["sobre", "lei", "art.", "projeto", "votação", "emenda", "proposta", "requerimento"] + \
 ["comissão", "decreto", "leis", "projetos", "emendas"] + \
 ["votações", "comissões", "orientação", "bancada", "mista", "orador"] + \
@@ -31,7 +31,7 @@ stop_words = nltk.corpus.stopwords.words('portuguese') + \
 ['discursos', 'referente', 'art', 'complementar', 'pec', 'rffsa', 'v', '-d', 'r'] +\
 ['vii', '-c', 's/a']+ ["atendimento", "encaminhamento", "encaminhado", "realização"] +\
 ["apresentados", "apresentado"] + ['-b', 'd', "-c", '-e', '-f', 'artigos', 'br-'] +\
-["esclarecimento", 'pronunciamento']
+["esclarecimento", 'pronunciamento', 'ix']
 
 
 def preprocessa_sumario(texto):
