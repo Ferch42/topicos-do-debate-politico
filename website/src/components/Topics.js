@@ -14,10 +14,17 @@ import { dates, months, marks, topicColours, firebaseConfig } from '../utils/con
 import { valuedateFormat } from '../utils/utils';
 
 const options = {
-
+  scales:{
+    xAxes: [{
+        display: false //this will remove all the x-axis grid lines
+    }],
+    yAxes: [{
+        display: false //this will remove all the x-axis grid lines
+    }]
+  },
   animation: {
         duration: 0, // general animation time
-  },
+  },  
   hover: {
         animationDuration: 0, // duration of animations when hovering an item
   },
