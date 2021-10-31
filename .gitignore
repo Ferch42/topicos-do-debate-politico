@@ -133,3 +133,6 @@ firestore-credentials.json
 
 # Firestore local db
 db.pkl
+
+# node
+node_modules/

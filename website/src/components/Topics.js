@@ -10,6 +10,8 @@ import Slider from '@material-ui/core/Slider';
 
 import { Bubble } from 'react-chartjs-2';
 
+import { dates, months, marks, topicColours, firebaseConfig } from '../utils/constants';
+import { valuedateFormat } from '../utils/utils';
 
 const options = {
 
@@ -31,75 +33,7 @@ const options = {
   },
 };
 
-
-
-const dates = ['2019-01-01T00:00', '2019-02-01T00:00', '2019-03-01T00:00', '2019-04-01T00:00', '2019-05-01T00:00', '2019-06-01T00:00', '2019-07-01T00:00', '2019-08-01T00:00', '2019-09-01T00:00', '2019-10-01T00:00', '2019-11-01T00:00', '2019-12-01T00:00', 
-               '2020-01-01T00:00', '2020-02-01T00:00', '2020-03-01T00:00', '2020-04-01T00:00', '2020-05-01T00:00', '2020-06-01T00:00', '2020-07-01T00:00', '2020-08-01T00:00', '2020-09-01T00:00', '2020-10-01T00:00', '2020-11-01T00:00', '2020-12-01T00:00', 
-               '2021-01-01T00:00', '2021-02-01T00:00', '2021-03-01T00:00', '2021-04-01T00:00', '2021-05-01T00:00', '2021-06-01T00:00', '2021-07-01T00:00', '2021-08-01T00:00', '2021-09-01T00:00', '2021-10-01T00:00', '2021-11-01T00:00', '2021-12-01T00:00', 
-               '2022-01-01T00:00', '2022-02-01T00:00', '2022-03-01T00:00', '2022-04-01T00:00', '2022-05-01T00:00', '2022-06-01T00:00', '2022-07-01T00:00', '2022-08-01T00:00', '2022-09-01T00:00', '2022-10-01T00:00', '2022-11-01T00:00', '2022-12-01T00:00'
-              ,'2023-01-01T00:00']; 
-
-const months = ["JAN", "FEV", "MAR", "ABR", "MAI","JUN", "JUL", "AGO", "SET", "OUT", "NOV", "DEZ"]; 
-const marks = [
-  {
-    value: 0,
-    label: '01/2019',
-  },
-  {
-    value: 6,
-    label: '07/2019',
-  },
-  {
-    value: 12,
-    label: '01/2020',
-  },
-  {
-    value: 18,
-    label: '07/2020',
-  },
-  {
-    value: 24,
-    label: '01/2021',
-  },
-  {
-    value: 30,
-    label: '07/2021',
-  },
-  {
-    value: 36,
-    label: '01/2022',
-  },
-  {
-    value: 42,
-    label: '07/2022',
-  },
-  {
-    value: 48,
-    label: '01/2023',
-  },
-];
-
-
-function valuedateFormat(value){
-  return months[value%12];
-}
-
-var firebaseConfig = {
-    apiKey: "AIzaSyALw4qoQcmIi-d0seKne9T6BrOQh499ebc",
-    authDomain: "politic-topics.firebaseapp.com",
-    projectId: "politic-topics",
-    storageBucket: "politic-topics.appspot.com",
-    messagingSenderId: "523630111752",
-    appId: "1:523630111752:web:8f7088b7c8dadb06baf5bd",
-    measurementId: "G-VCFESPY9E3"
-  };
-
-
-const topicColours =  ['#F4ECC2', '#D1F4C2', '#C2F4DD', '#C2E0F4', '#CFC2F4', '#F4C2EE', '#F4C2C3']
-
 function parseTopicIntoPlot(topicData){
-
-
       var topicPlotData = { datasets : []}
       var topicsWordData = []
       var availableTopic = 0;
@@ -126,10 +60,8 @@ function parseTopicIntoPlot(topicData){
           });
         availableTopic = topicGroupId;
       }
-
       console.log(topicsWordData);
       return [topicPlotData, topicsWordData, availableTopic];
-
 }
 
 // Initialize Firebase
@@ -139,7 +71,6 @@ firebase.analytics();
 var db = firebase.firestore();
 
 function Topics() {
-
 
   const [dateRange, setDateRange] = React.useState([0, 2]);
   
@@ -252,9 +183,8 @@ function Topics() {
           </div>
         </div>
       </section>
-  );
+    );
   }
-  
 }
 
 export default Topics;
